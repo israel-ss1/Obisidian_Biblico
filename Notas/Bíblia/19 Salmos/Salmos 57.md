@@ -1,29 +1,26 @@
 ---
-Livro: "[[Salmos|Salmos]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Salmos|Salmos]]"
+tags: [biblia]
 ---
 
 # Salmos 57
 
-**1** Tem misericórdia de mim, ó Deus, tem misericórdia de mim, porque a minha alma confia em ti; e à sombra das tuas asas me abrigo, até que passem as calamidades. ^v1
+**2** Eu clamarei ao Deus Altíssimo, ao Deus que faz todas as coisas por mim. ^v2
 
-**2** Clamarei ao Deus altíssimo, ao Deus que por mim tudo executa. ^v2
+**3** Ele enviará ajuda do céu e me salvará; Ele está irado com aqueles que me oprimem. [Interlúdio] Deus enviará Sua graça e Sua fidelidade. ^v3
 
-**3** Ele enviará desde os céus, e me salvará do desprezo daquele que procurava devorar-me. (Selá.) Deus enviará a sua misericórdia e a sua verdade. ^v3
+**4** Minha vida está cercada por leões; estou entre aqueles que estão prontos para me devorar; seus dentes são como lanças e flechas, e suas línguas, como espadas afiadas. ^v4
 
-**4** A minha alma está entre leões, e eu estou entre aqueles que estão abrasados, filhos dos homens, cujos dentes são lanças e flechas, e a sua língua espada afiada. ^v4
+**5** Sê exaltado, ó Deus, acima dos céus; que a Tua glória permaneça sobre toda a terra! ^v5
 
-**5** Sê exaltado, ó Deus, sobre os céus; seja a tua glória sobre toda a terra. ^v5
+**6** Eles prepararam uma armadilha para os meus pés, e eu estava aflito. Eles cavaram uma cova para mim, porém, eles mesmos caíram nela! [Interlúdio] ^v6
 
-**6** Armaram uma rede aos meus passos; a minha alma está abatida. Cavaram uma cova diante de mim, porém eles mesmos caíram no meio dela. (Selá.) ^v6
+**7** Meu coração está firme; Deus, meu coração está firme! Cantarei, sim, cantarei louvores. ^v7
 
-**7** Preparado está o meu coração, ó Deus, preparado está o meu coração; cantarei, e darei louvores. ^v7
+**8** Desperta, meu coração, desperta com alaúde e harpa; eu despertarei o amanhecer. ^v8
 
-**8** Desperta, glória minha; despertai, saltério e harpa; eu mesmo despertarei ao romper da alva. ^v8
+**9** Eu Te louvarei, ó Yahweh, entre os povos; cantarei louvores a Ti entre as nações. ^v9
 
-**9** Louvar-te-ei, Senhor, entre os povos; eu te cantarei entre as nações. ^v9
+**10** Pois a Tua misericórdia chega até os céus, e a Tua fidelidade alcança as nuvens. ^v10
 
-**10** Pois a tua misericórdia é grande até aos céus, e a tua verdade até às nuvens. ^v10
-
-**11** Sê exaltado, ó Deus, sobre os céus; e seja a tua glória sobre toda a terra. ^v11
+**11** Sê exaltado, ó Deus, sobre os céus; que a Tua glória seja exaltada sobre toda a terra! ^v11

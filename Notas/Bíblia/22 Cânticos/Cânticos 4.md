@@ -1,39 +1,38 @@
 ---
-Livro: "[[Cânticos|Cânticos]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Cânticos|Cânticos]]"
+tags: [biblia]
 ---
 
 # Cânticos 4
 
-**1** Eis que és formosa, meu amor, eis que és formosa; os teus olhos são como os das pombas entre as tuas tranças; o teu cabelo é como o rebanho de cabras que pastam no monte de Gileade. ^v1
+**1** Oh, tu és bela, meu amor; tu és bela! Por detrás do teu véu os teus olhos são como pombas. Teus cabelos são como um rebanho de cabras descendo do Monte Gileade. ^v1
 
-**2** Os teus dentes são como o rebanho das ovelhas tosquiadas, que sobem do lavadouro, e das quais todas produzem gêmeos, e nenhuma há estéril entre elas. ^v2
+**2** Teus dentes são como um rebanho de ovelhas recém tosquiadas saindo do lavadouro. Cada uma tem o seu par de gêmeos e não há nenhuma entre elas sem cria. ^v2
 
-**3** Os teus lábios são como um fio de escarlate, e o teu falar é agradável; a tua fronte é qual um pedaço de romã entre os teus cabelos. ^v3
+**3** Teus lábios são como um fio escarlate, graciosa é a tua boca. Por trás do véu, tuas bochechas são como as metades de uma romã. ^v3
 
-**4** O teu pescoço é como a torre de Davi, edificada para pendurar armas; mil escudos pendem dela, todos broquéis de poderosos. ^v4
+**4** Teu pescoço é como a torre de Davi, construída como sala de armas, nela estão pendurados mil escudos, todos os escudos de soldados. ^v4
 
-**5** Os teus dois seios são como dois filhos gêmeos da gazela, que se apascentam entre os lírios. ^v5
+**5** Teus dois seios são como dois filhos gêmeos de uma gazela pastando entre os lírios. ^v5
 
-**6** Até que refresque o dia, e fujam as sombras, irei ao monte da mirra, e ao outeiro do incenso. ^v6
+**6** Antes que o amanhecer chegue e as sombras fujam, eu irei ao monte de mirra e à colina do incenso. ^v6
 
-**7** Tu és toda formosa, meu amor, e em ti não há mancha. ^v7
+**7** Tu és toda formosa, meu amor, e em ti não existe defeito. ^v7
 
-**8** Vem comigo do Líbano, ó minha esposa, vem comigo do Líbano; olha desde o cume de Amana, desde o cume de Senir e de Hermom, desde os covis dos leões, desde os montes dos leopardos. ^v8
+**8** Venha comigo do Líbano, minha noiva! Venha comigo do Líbano; desce do topo de Amana, do topo de Senir e Hermon, das covas dos leões, da montanha dos leopardos. ^v8
 
-**9** Enlevaste-me o coração, minha irmã, minha esposa; enlevaste-me o coração com um dos teus olhares, com um colar do teu pescoço. ^v9
+**9** Tu roubaste meu coração, minha irmã, minha noiva; tu roubaste meu coração, com apenas um olhar para mim, com apenas uma joia do seu colar. ^v9
 
-**10** Que belos são os teus amores, minha irmã, esposa minha! Quanto melhor é o teu amor do que o vinho! E o aroma dos teus ungüentos do que o de todas as especiarias! ^v10
+**10** Quão belo é teu amor, minha irmã, minha noiva! Quão melhor é o teu amor do que o vinho! E a fragrância de teu perfume do que qualquer especiaria! ^v10
 
-**11** Favos de mel manam dos teus lábios, minha esposa! Mel e leite estão debaixo da tua língua, e o cheiro dos teus vestidos é como o cheiro do Líbano. ^v11
+**11** Teus lábios, minha noiva, escorrem mel; mel e leite estão debaixo de tua língua, a fragrância de tuas vestes é como a fragrância do Líbano. ^v11
 
-**12** Jardim fechado és tu, minha irmã, esposa minha, manancial fechado, fonte selada. ^v12
+**12** Minha irmã, minha noiva, tu és um jardim fechado, uma nascente selada. ^v12
 
-**13** Os teus renovos são um pomar de romãs, com frutos excelentes, o cipreste com o nardo. ^v13
+**13** Teus renovos são um pomar de romãs com frutos seletos; e de flores de hena e nardo, ^v13
 
-**14** O nardo, e o açafrão, o cálamo, e a canela, com toda a sorte de árvores de incenso, a mirra e aloés, com todas as principais especiarias. ^v14
+**14** nardo e açafrão , cálamo e canela, com todo tipo de madeiras aromáticas, mirra, aloés e as mais finas especiarias. ^v14
 
-**15** És a fonte dos jardins, poço das águas vivas, que correm do Líbano! ^v15
+**15** "Tu és fonte do jardim, um poço de água fresca, riachos fluindo do Líbano"". A jovem falando ao seu amado" ^v15
 
-**16** Levanta-te, vento norte, e vem tu, vento sul; assopra no meu jardim, para que destilem os seus aromas. Ah! entre o meu amado no jardim, e coma os seus frutos excelentes! ^v16
+**16** """Desperte vento norte; venha vento sul; assoprem em meu jardim, para que as suas especiarias espalhem os seus aromas. Que o meu amado entre no seu jardim e saboreie alguns dos seus frutos escolhidos""." ^v16

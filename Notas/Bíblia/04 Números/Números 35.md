@@ -1,75 +1,74 @@
 ---
-Livro: "[[Números|Números]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Números|Números]]"
+tags: [biblia]
 ---
 
 # Números 35
 
-**1** E falou o SENHOR a Moisés nas campinas de Moabe, junto ao Jordão na direção de Jericó, dizendo: ^v1
+**1** Yahweh falou a Moisés nas planícies de Moabe, junto ao Jordão, em Jericó, e disse-lhe: ^v1
 
-**2** Dá ordem aos filhos de Israel que, da herança da sua possessão, dêem cidades aos levitas, em que habitem; e também aos levitas dareis arrabaldes ao redor delas. ^v2
+**2** """Manda o povo de Israel dar algumas de suas próprias terras aos levitas. Eles lhes darão cidades para habitar e pastagens em torno delas." ^v2
 
-**3** E terão estas cidades para habitá-las; porém os seus arrabaldes serão o seu gado, e para os seus bens, e para todos os seus animais. ^v3
+**3** Os levitas habitarão nelas e as pastagens serão para seu gado, rebanhos, e todos os animais. ^v3
 
-**4** E os arrabaldes das cidades, que dareis aos levitas, desde o muro da cidade para fora, serão de mil côvados em redor. ^v4
+**4** As pastagens se estenderão dos muros das cidades por mil côvados, em todas as direções. ^v4
 
-**5** E de fora da cidade, do lado do oriente, medireis dois mil côvados, e do lado do sul, dois mil côvados, e do lado do ocidente dois mil côvados, e do lado do norte dois mil côvados, e a cidade no meio; isto terão por arrabaldes das cidades. ^v5
+**5** Medi vós dois mil côvados de fora da cidade no lado leste, e dois mil côvados no lado sul, dois mil côvados no lado oeste, e dois mil côvados no lado norte. Estas serão as pastagens para as cidades. As cidades estarão no centro. ^v5
 
-**6** Das cidades, pois, que dareis aos levitas, haverá seis cidades de refúgio, as quais dareis para que o homicida ali se acolha; e, além destas, lhes dareis quarenta e duas cidades. ^v6
+**6** Seis das cidades que serão entregues aos levitas, servirão de cidades de refúgio. Vós deveis fornecê-las como lugares em que o homicida possa se proteger. Também forneçam quarenta e duas outras cidades. ^v6
 
-**7** Todas as cidades que dareis aos levitas serão quarenta e oito cidades, juntamente com os seus arrabaldes. ^v7
+**7** As cidades que serão dadas aos levitas serão, no total, quarenta e oito. Vós lhes dareis as pastagens. ^v7
 
-**8** E quanto às cidades que derdes da herança dos filhos de Israel, do que tiver muito tomareis muito, e do que tiver pouco tomareis pouco; cada um dará das suas cidades aos levitas, segundo a herança que herdar. ^v8
+**8** "As maiores tribos do povo de Israel, as tribos que têm mais terra, devem fornecer mais cidades. As menores tribos fornecerão poucas cidades. Cada tribo deve fornecer aos levitas de acordo com o que receber""." ^v8
 
-**9** Falou mais o Senhor a Moisés, dizendo: ^v9
+**9** Então, Yahweh falou a Moisés: ^v9
 
-**10** Fala aos filhos de Israel, e dize-lhes: Quando passardes o Jordão à terra de Canaã, ^v10
+**10** """Fala ao povo de Israel: 'Quando vós atravessardes o Jordão até a terra de Canaã," ^v10
 
-**11** Fazei com que vos estejam à mão cidades que vos sirvam de cidades de refúgio, para que ali se acolha o homicida que ferir a alguma alma por engano. ^v11
+**11** escolhereis cidades para servirem de refúgio, para que qualquer homem que mate alguém involuntariamente possa proteger-se nelas. ^v11
 
-**12** E estas cidades vos serão por refúgio do vingador do sangue; para que o homicida não morra, até que seja apresentado à congregação para julgamento. ^v12
+**12** Estas cidades serão para vós refúgio do vingador, para que o homem acusado não seja morto sem antes ser julgado perante a comunidade. ^v12
 
-**13** E das cidades que derdes haverá seis cidades de refúgio para vós. ^v13
+**13** Escolhei vós seis cidades como cidades de refúgio. ^v13
 
-**14** Três destas cidades dareis além do Jordão, e três destas cidades dareis na terra de Canaã; cidades de refúgio serão. ^v14
+**14** Vós fornecereis três cidades além do Jordão e três na terra de Canaã. Elas serão cidades de refúgio. ^v14
 
-**15** Serão por refúgio estas seis cidades para os filhos de Israel, e para o estrangeiro, e para o que se hospedar no meio deles, para que ali se acolha aquele que matar a alguém por engano. ^v15
+**15** Para o povo de Israel, para os estrangeiros, para qualquer um que esteja vivendo entre vós, essas seis cidades servirão como um refúgio a qualquer um que mate alguém involuntariamente. ^v15
 
-**16** Porém, se o ferir com instrumento de ferro e morrer, homicida é; certamente o homicida morrerá. ^v16
+**16** Se algum homem for acusado de golpear sua vítima com um instrumento de ferro e esta vítima morrer, então, o acusado é, de fato, um assassino. Ele certamente morrerá. ^v16
 
-**17** Ou, se lhe ferir com uma pedrada, de que possa morrer, e morrer, homicida é; certamente o homicida morrerá. ^v17
+**17** Se um homem acusado golpear com uma pedra em suas mãos de maneira que possa matar a vítima, se a vítima morrer, então o acusado é, de fato, um assassino. Ele certamente morrerá. ^v17
 
-**18** Ou, se o ferir com instrumento de pau que tiver na mão, de que possa morrer, e ele morrer, homicida é; certamente morrerá o homicida. ^v18
+**18** Se o homem acusado golpear sua vítima com uma arma de madeira que possa matar a vítima, se esta morrer, então o acusado é, de fato, um assassino. Ele certamente morrerá. ^v18
 
-**19** O vingador do sangue matará o homicida; encontrando-o, matá-lo-á. ^v19
+**19** O vingador do sangue pode, ele mesmo, matar o assassino. Quando o encontrar, poderá matá-lo. ^v19
 
-**20** Se também o empurrar com ódio, ou com mau intento lançar contra ele alguma coisa, e morrer; ^v20
+**20** E, se o homem acusado empurrar uma pessoa com ódio, ou jogar alguma coisa nela, enquanto se esconde para emboscá-la, de modo que a vítima morra, ^v20
 
-**21** Ou por inimizade o ferir com a sua mão, e morrer, certamente morrerá aquele que o ferir; homicida é; o vingador do sangue, encontrando o homicida, o matará. ^v21
+**21** ou se ele atacá-la com ódio, com suas mãos, de modo que a vítima morra, então o acusado que a atacou certamente morrerá. Ele é um assassino. O vingador do sangue pode matá-lo se o encontrar. ^v21
 
-**22** Porém, se o empurrar subitamente, sem inimizade, ou contra ele lançar algum instrumento sem intenção; ^v22
+**22** Mas, se o homem acusado, de repente, empurrar a vítima sem ter ódio premeditado, ou jogar alguma coisa que acerte a vítima sem emboscada, ^v22
 
-**23** Ou, sobre ele deixar cair alguma pedra sem o ver, de que possa morrer, e ele morrer, sem que fosse seu inimigo nem procurasse o seu mal; ^v23
+**23** ou se ele jogar uma pedra que poderia matar a vítima sem vê-la, então, o acusado não era inimigo da vítima; ele não estava tentando machucá-la. ^v23
 
-**24** Então a congregação julgará entre aquele que feriu e o vingador do sangue, segundo estas leis. ^v24
+**24** Neste caso, a comunidade julgará entre o acusado e o vingador do sangue com base nestas regras. ^v24
 
-**25** E a congregação livrará o homicida da mão do vingador do sangue, e a congregação o fará voltar à cidade do seu refúgio, onde se tinha acolhido; e ali ficará até à morte do sumo sacerdote, a quem ungiram com o santo óleo. ^v25
+**25** A comunidade resgatará o acusado do poder do vingador do sangue. A comunidade retornará o acusado à cidade do refúgio ao qual ele estava originalmente protegido. Ele viverá lá até a morte do atual sacerdote, o qual foi ungido com óleo sagrado. ^v25
 
-**26** Porém, se de alguma maneira o homicida sair dos limites da cidade de refúgio, onde se tinha acolhido, ^v26
+**26** Mas, se o homicida, a qualquer momento, for além do limite da cidade de refúgio para a qual ele fugiu, ^v26
 
-**27** E o vingador do sangue o achar fora dos limites da cidade de seu refúgio, e o matar, não será culpado do sangue. ^v27
+**27** e se o vingador do sangue encontrá-lo fora do limite da sua cidade de refúgio, e se o vingador matar o homicida, ele não será acusado de assassinato. ^v27
 
-**28** Pois o homicida deverá ficar na cidade do seu refúgio, até à morte do sumo sacerdote; mas, depois da morte do sumo sacerdote, o homicida voltará à terra da sua possessão. ^v28
+**28** Isto porque o homicida deveria ter permanecido na cidade de refúgio até a morte do sacerdote. Depois da morte do sacerdote, o homicida deverá retornar à terra onde tem sua propriedade. ^v28
 
-**29** E estas coisas vos serão por estatuto de direito às vossas gerações, em todas as vossas habitações. ^v29
+**29** Essas leis serão estatutos para vós e para todas as gerações do seu povo, em todos os lugares em que viverem. ^v29
 
-**30** Todo aquele que matar alguma pessoa, conforme depoimento de testemunhas, será morto; mas uma só testemunha não testemunhará contra alguém, para que morra. ^v30
+**30** Quem matar qualquer pessoa deverá ser morto, conforme testificado pelas palavras das testemunhas. Mas, a palavra de apenas uma testemunha não deve causar a morte de uma pessoa. ^v30
 
-**31** E não recebereis resgate pela vida do homicida que é culpado de morte; pois certamente morrerá. ^v31
+**31** Também, vós não aceitareis resgate pela vida de um homem que é culpado de homicídio. Ele certamente será morto. ^v31
 
-**32** Também não tomareis resgate por aquele que se acolher à sua cidade de refúgio, para tornar a habitar na terra, até à morte do sumo sacerdote. ^v32
+**32** E vós não aceitareis resgate por alguém que tenha ido para uma cidade de refúgio. Vós não deveis, desta maneira, permitir que ele resida em sua propriedade até que o sacerdote morra. ^v32
 
-**33** Assim não profanareis a terra em que estais; porque o sangue faz profanar a terra; e nenhuma expiação se fará pela terra por causa do sangue que nela se derramar, senão com o sangue daquele que o derramou. ^v33
+**33** Não poluireis, desta maneira, a terra em que estais vivendo, porque o sangue de homicida polui a terra. Não fareis nenhuma expiação na terra quando sangue for derramado, a não ser pelo sangue daquele que o derramou. ^v33
 
-**34** Não contaminareis pois a terra na qual vós habitais, no meio da qual eu habito; pois eu, o Senhor, habito no meio dos filhos de Israel. ^v34
+**34** "Assim, vós não corrompereis a terra na qual habitais, porque Eu estou habitando nela. Eu, Yahweh, habito entre o povo de Israel'""." ^v34

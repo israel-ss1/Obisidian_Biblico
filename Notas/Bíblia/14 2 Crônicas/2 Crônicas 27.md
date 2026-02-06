@@ -1,25 +1,24 @@
 ---
-Livro: "[[2 Crônicas|2 Crônicas]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/2 Crônicas|2 Crônicas]]"
+tags: [biblia]
 ---
 
 # 2 Crônicas 27
 
-**1** Tinha Jotão vinte e cinco anos de idade, quando começou a reinar, e reinou dezesseis anos em Jerusalém; e era o nome de sua mãe Jerusa, filha de Zadoque. ^v1
+**1** Jotão tinha vinte e cinco anos quando começou a reinar; ele reinou dezesseis anos em Jerusalém. Sua mãe se chamava Jerusa; ela era filha de Zadoque. ^v1
 
-**2** E fez o que era reto aos olhos do Senhor, conforme a tudo o que fizera Uzias, seu pai, exceto que não entrou no templo do Senhor. E o povo ainda se corrompia. ^v2
+**2** Ele fez o que era reto aos olhos de Yahweh, seguindo o exemplo de seu pai, Uzias, em tudo. Ele também se negou a entrar no Templo de Yahweh. Mas o povo prosseguiu em suas práticas malignas. ^v2
 
-**3** Ele edificou a porta superior da casa do Senhor, e também edificou muitas obras sobre o muro de Ofel. ^v3
+**3** Ele construiu o portão superior da casa de Yahweh e construiu muito nas colinas de Ofel. ^v3
 
-**4** Também edificou cidades nas montanhas de Judá, e castelos e torres nos bosques. ^v4
+**4** Também construiu cidades na região montanhosa de Judá e nas florestas ele construiu castelos e torres. ^v4
 
-**5** Ele também guerreou contra o rei dos filhos de Amom, e prevaleceu sobre eles, de modo que os filhos de Amom naquele ano lhe deram cem talentos de prata, e dez mil coros de trigo, e dez mil de cevada; isto lhe trouxeram os filhos de Amom também no segundo e no terceiro ano. ^v5
+**5** Ele também lutou contra o rei do povo de Amom e os derrotou. Naquele mesmo ano, o povo de Amom lhe deu cem talentos de prata, dez mil coros de trigo e dez mil de cevada. O povo de Amom lhe deu o mesmo no segundo e terceiro ano. ^v5
 
-**6** Assim se fortificou Jotão, porque dirigiu os seus caminhos na presença do Senhor seu Deus. ^v6
+**6** Então, Jotão tornou-se poderoso porque andava firmemente diante de Yahweh, seu Deus. ^v6
 
-**7** Ora, o restante dos atos de Jotão, e todas as suas guerras e os seus caminhos, eis que estão escritos no livro dos reis de Israel e de Judá. ^v7
+**7** Quanto aos outros atos de Jotão, todas as suas guerras e seus caminhos, eles estão escritos no livro dos reis de Israel e Judá. ^v7
 
-**8** Tinha vinte e cinco anos de idade, quando começou a reinar, e reinou dezesseis anos em Jerusalém. ^v8
+**8** Ele tinha vinte e cinco anos quando começou a reinar e reinou por dezesseis anos em Jerusalém. ^v8
 
-**9** E dormiu Jotão com seus pais, e sepultaram-no na cidade de Davi; e Acaz, seu filho, reinou em seu lugar. ^v9
+**9** Jotão dormiu com seus antepassados, e o enterraram na cidade de Davi. Acaz, seu filho, tornou-se rei em seu lugar. ^v9

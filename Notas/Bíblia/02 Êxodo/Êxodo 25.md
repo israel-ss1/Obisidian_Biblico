@@ -1,87 +1,86 @@
 ---
-Livro: "[[Êxodo|Êxodo]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Êxodo|Êxodo]]"
+tags: [biblia]
 ---
 
 # Êxodo 25
 
-**1** Então falou o SENHOR a Moisés, dizendo: ^v1
+**1** Yahweh disse a Moisés: ^v1
 
-**2** Fala aos filhos de Israel, que me tragam uma oferta alçada; de todo o homem cujo coração se mover voluntariamente, dele tomareis a minha oferta alçada. ^v2
+**2** """Dize à nação de Israel, aos que têm coração voluntário, para ajuntar uma oferta. Tu deves receber essas ofertas para Mim." ^v2
 
-**3** E esta é a oferta alçada que recebereis deles: ouro, e prata, e cobre, ^v3
+**3** Eis as ofertas que tu deves coletar do meio do povo: ouro, prata, bronze, lã e linho fino, ^v3
 
-**4** E azul, e púrpura, e carmesim, e linho fino, e pêlos de cabras, ^v4
+**4** e azul e roxo e peles de carneiro tingidas de vermelho; pelo de cabra; ^v4
 
-**5** E peles de carneiros tintas de vermelho, e peles de texugos, e madeira de acácia, ^v5
+**5** pele crua tirada de animais marinhos; madeira de acácia; ^v5
 
-**6** Azeite para a luz, especiarias para o óleo da unção, e especiarias para o incenso, ^v6
+**6** óleo para as lâmpadas do santuário, especiarias para o óleo da unção e fragrância para o incenso, ^v6
 
-**7** Pedras de ônix, e pedras de engaste para o éfode e para o peitoral. ^v7
+**7** pedra de ônix e outras pedras preciosas para cravá-las ao colete sacerdotal e ao peitoral. ^v7
 
-**8** E me farão um santuário, e habitarei no meio deles. ^v8
+**8** Fareis para Mim um santuário, para que Eu habite no meio do povo. ^v8
 
-**9** Conforme a tudo o que eu te mostrar para modelo do tabernáculo, e para modelo de todos os seus pertences, assim mesmo o fareis. ^v9
+**9** Fareis tudo exatamente conforme mostrarei nos planos do tabernáculo e todos o seus componentes. ^v9
 
-**10** Também farão uma arca de madeira de acácia; o seu comprimento será de dois côvados e meio, e a sua largura de um côvado e meio, e de um côvado e meio a sua altura. ^v10
+**10** Eles devem fazer uma arca talhada em madeira de acácia. Seu cumprimento terá dois côvados e meio; sua largura terá um côvado e meio; e a altura será de um côvado e meio. ^v10
 
-**11** E cobri-la-á de ouro puro; por dentro e por fora a cobrirás; e farás sobre ela uma coroa de ouro ao redor; ^v11
+**11** Cobrirás a arca com ouro puro por dentro e por fora, e farás uma borda de ouro ao redor do topo. ^v11
 
-**12** E fundirás para ela quatro argolas de ouro, e as porás nos quatro cantos dela, duas argolas num lado dela, e duas argolas noutro lado. ^v12
+**12** Forjarás quatro argolas de ouro, e as fixarás nos quatro pés da arca, com duas argolas de um lado, e do outro lado. ^v12
 
-**13** E farás varas de madeira de acácia, e as cobrirás com ouro. ^v13
+**13** Fareis, para Mim, varas de madeira de acácia e as cobrirás com ouro. ^v13
 
-**14** E colocarás as varas nas argolas, aos lados da arca, para se levar com elas a arca. ^v14
+**14** Colocarás as varas por dentro das argolas que estão dos dois lados da arca, para carregá-la. ^v14
 
-**15** As varas estarão nas argolas da arca, não se tirarão dela. ^v15
+**15** As varas devem permanecer por dentre as argolas da arca, que não devem ser removidas delas. ^v15
 
-**16** Depois porás na arca o testemunho, que eu te darei. ^v16
+**16** Porás dentro da arca os decretos do pacto que eu darei a ti. ^v16
 
-**17** Também farás um propiciatório de ouro puro; o seu comprimento será de dois côvados e meio, e a sua largura de um côvado e meio. ^v17
+**17** Fareis para Mim um propiciatório de ouro puro com tampa. A largura terá dois côvados e meio; a profundidade terá um côvado e meio. ^v17
 
-**18** Farás também dois querubins de ouro; de ouro batido os farás, nas duas extremidades do propiciatório. ^v18
+**18** Farás para Mim dois querubins de ouro maciço para as duas extremidades do propiciatório. ^v18
 
-**19** Farás um querubim na extremidade de uma parte, e o outro querubim na extremidade da outra parte; de uma só peça com o propiciatório, fareis os querubins nas duas extremidades dele. ^v19
+**19** Faze-Me querubins, um em uma extremidade do propiciatório, e outro na outra extremidade. Forjarás como uma só peça os querubins e o propiciatório. ^v19
 
-**20** Os querubins estenderão as suas asas por cima, cobrindo com elas o propiciatório; as faces deles uma defronte da outra; as faces dos querubins estarão voltadas para o propiciatório. ^v20
+**20** Os querubins terão suas asas abertas de frente para o propiciatório, protegendo-o. Os querubins estarão virados um de frente para o outro, olhando em direção ao centro do propiciatório. ^v20
 
-**21** E porás o propiciatório em cima da arca, depois que houveres posto na arca o testemunho que eu te darei. ^v21
+**21** Porás o propiciatório no topo da arca, colocarás dentro da arca os Decretos do pacto que Eu darei a ti. ^v21
 
-**22** E ali virei a ti, e falarei contigo de cima do propiciatório, do meio dos dois querubins (que estão sobre a arca do testemunho), tudo o que eu te ordenar para os filhos de Israel. ^v22
+**22** Sobre a tampa da arca, Eu Me encontrarei contigo. Falarei contigo por cima do propciatório. Falarei por entre os dois querubins que estão sobre a arca que contém os Decretos da aliança que Eu falarei a ti sobre todas as ordenanças que darei aos israelitas. ^v22
 
-**23** Também farás uma mesa de madeira de acácia; o seu comprimento será de dois côvados, e a sua largura de um côvado, e a sua altura de um côvado e meio. ^v23
+**23** Farás uma mesa de madeira de acácia. Seu comprimento terá dois côvados; sua profundidade terá um côvado, e sua altura terá um côvado e meio. ^v23
 
-**24** E cobri-la-ás com ouro puro; também lhe farás uma coroa de ouro ao redor. ^v24
+**24** Cobrirás de ouro puro, e a borda do topo farás de ouro ao redor. ^v24
 
-**25** Também lhe farás uma moldura ao redor, da largura de quatro dedos, e lhe farás uma coroa de ouro ao redor da moldura. ^v25
+**25** Farás uma moldura com borda coberta de ouro, medindo quadro dedos de largura. ^v25
 
-**26** Também lhe farás quatro argolas de ouro; e porás as argolas aos quatro cantos, que estão nos seus quatro pés. ^v26
+**26** Farás quatro argolas de ouro e as porás nas quatro extremidades, onde os quatro pés estão. ^v26
 
-**27** Defronte da moldura estarão as argolas, como lugares para os varais, para se levar a mesa. ^v27
+**27** As argolas deverão ser forjadas à moldura, para prover lugar às varas, a fim de carregá-la. ^v27
 
-**28** Farás, pois, estes varais de madeira de acácia, e cobri-los-ás com ouro; e levar-se-á com eles a mesa. ^v28
+**28** Farás as varas de madeira de acácia e as cobrirás de ouro, para que a mesa seja carregada. ^v28
 
-**29** Também farás os seus pratos, e as suas colheres, e as suas cobertas, e as suas tigelas com que se hão de oferecer libações; de ouro puro os farás. ^v29
+**29** Os utensílios, louças, colheres, vasos e suas tigelas, deverão ser usados para oferecer as libações. Farás de ouro puro. ^v29
 
-**30** E sobre a mesa porás o pão da proposição perante a minha face perpetuamente. ^v30
+**30** Tu deverás regularmente apresentar os pães da presença sobre a mesa, diante de Mim. ^v30
 
-**31** Também farás um candelabro de ouro puro; de ouro batido se fará este candelabro; o seu pé, as suas hastes, os seus copos, os seus botões, e as suas flores serão do mesmo. ^v31
+**31** Tu farás um candelabro de puro ouro maciço. O candelabro, seu pedestal e haste farás com relevo. Seus copos em formato de flor, e as flores deverão ser feitas em uma só peça. ^v31
 
-**32** E dos seus lados sairão seis hastes; três hastes do candelabro de um lado dele, e três hastes do outro lado dele. ^v32
+**32** Seis braços deverão sair dos seus lados, três braços deverão sair de um lado e três braços do candelabro deverão sair do outro lado. ^v32
 
-**33** Numa haste haverá três copos a modo de amêndoas, um botão e uma flor; e três copos a modo de amêndoas na outra haste, um botão e uma flor; assim serão as seis hastes que saem do candelabro. ^v33
+**33** O primeiro braço deverá ter três copos em forma de flor de amêndoa, com cálice e botão, e três copos feitos em forma de flor de amêndoa no outro braço, com cálice e botão. Será o mesmo para os seis braços. Todos os braços deverão sair da haste. ^v33
 
-**34** Mas no candelabro mesmo haverá quatro copos a modo de amêndoas, com seus botões e com suas flores; ^v34
+**34** Na própria haste, deverá ter quatro copos feitos em forma de flor de amêndoa, com cálice e botão. ^v34
 
-**35** E um botão debaixo de duas hastes que saem dele; e ainda um botão debaixo de duas outras hastes que saem dele; e ainda um botão debaixo de duas outras hastes que saem dele; assim se fará com as seis hastes que saem do candelabro. ^v35
+**35** O cálice e o botão deverão estar nos primeiros pares de braços, feitos como peça única, e um cálice e um botão debaixo do segundo par de braços, também feitos como peça única. Da mesma forma o cálice e o botão deverão estar debaixo do terceito par de braços, feitos como peça única. Os seis braços deverão sair do candelabro. ^v35
 
-**36** Os seus botões e as suas hastes serão do mesmo; tudo será de uma só peça, obra batida de ouro puro. ^v36
+**36** O cálice e os botões deverão ser feitos como peça única, uma peça de puro ouro batido. ^v36
 
-**37** Também lhe farás sete lâmpadas, as quais se acenderão para iluminar defronte dele. ^v37
+**37** Tu deverás fazer o candelabro e suas sete lamparinas, e posicioná-las para iluminar. ^v37
 
-**38** Os seus espevitadores e os seus apagadores serão de ouro puro. ^v38
+**38** O seus aparadores e apagadores deverão ser feitos de ouro puro. ^v38
 
-**39** De um talento de ouro puro os farás, com todos estes vasos. ^v39
+**39** Um talento de ouro puro deverá ser usado para fazer o candelabro e seus utensílios. ^v39
 
-**40** Atenta, pois, que o faças conforme ao seu modelo, que te foi mostrado no monte. ^v40
+**40** Certifica-te de fazer tudo conforme o padrão que está sendo mostrado a ti no monte. ^v40

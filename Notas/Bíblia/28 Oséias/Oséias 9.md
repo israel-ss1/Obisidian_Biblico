@@ -1,41 +1,40 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Oséias|Oséias]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Oséias|Oséias]]"
+tags: [biblia]
 ---
 
 # Oséias 9
 
-**1** Não te alegres, ó Israel, não exultes, como os povos; porque ao prostituir-te abandonaste o teu Deus; amaste a paga de meretriz sobre todas as eiras de trigo. ^v1
+**1** Não te alegres, Israel, não exultes como os outros povos. Pois tu tens sido infiel, renunciando ao Teu Deus. Amas o salário de prostituta em todas as eiras de trigo. ^v1
 
-**2** A eira e o lagar não os manterão; e o mosto lhes faltará. ^v2
+**2** Mas a eira e o lagar não os alimentarão, e o vinho novo lhes faltará. ^v2
 
-**3** Na terra do Senhor não permanecerão; mas Efraim tornará ao Egito, e na Assíria comerão comida imunda. ^v3
+**3** Eles não continuarão vivendo na terra de Yahweh; em vez disso, Efraim voltará para o Egito e comerão comida impura na Assíria. ^v3
 
-**4** Não derramarão libações de vinho ao Senhor, nem lhe agradarão as suas ofertas. Os seus sacrifícios lhes serão como pão de pranteadores; todos os que dele comerem serão imundos, porque o seu pão será somente para si mesmos; não entrará na casa do Senhor. ^v4
+**4** Não derramarão ofertas de vinho a Yahweh, também não Lhe agradarão com ofertas. Os seus sacrifícios serão como alimento de luto: todo aquele que comer será profanado. Pois seu alimento será somente para eles; não entrará na casa de Yahweh. ^v4
 
-**5** Que fareis vós no dia da solenidade, e no dia da festa do Senhor? ^v5
+**5** O que fareis no dia da solenidade, e no dia da festa para Yahweh? ^v5
 
-**6** Porque, eis que eles se foram por causa da destruição, mas o Egito os recolherá, Mênfis os sepultará; o desejável da sua prata as urtigas o possuirão por herança, espinhos crescerão nas suas tendas. ^v6
+**6** Vede! Se eles escaparem da destruição, o Egito os ceifará, e Mênfis os sepultará. Quanto aos seus tesouros de prata, as urtigas os possuirão e os espinhos encherão as suas tendas. ^v6
 
-**7** Chegarão os dias da punição, chegarão os dias da retribuição; Israel o saberá; o profeta é um insensato, o homem de espírito é um louco; por causa da abundância da tua iniqüidade também haverá grande ódio. ^v7
+**7** Os dias do castigo estão vindo; os dias da retribuição estão chegando. Que todo o Israel saiba destas coisas. O profeta é um tolo, e o homem inspirado é louco, por causa da sua grande iniquidade e hostilidade. ^v7
 
-**8** Efraim era o vigia com o meu Deus, mas o profeta é como um laço de caçador de aves em todos os seus caminhos, e ódio na casa do seu Deus. ^v8
+**8** O vigia de Efraim está com o meu Deus, mas o profeta é como uma armadilha para aves em todos os seus caminhos, inimizade na casa do seu Deus. ^v8
 
-**9** Muito profundamente se corromperam, como nos dias de Gibeá; ele lembrar-se-á das suas injustiças, visitará os pecados deles. ^v9
+**9** Eles têm-se corrompido profundamente, como nos dias de Gibeá. Yahweh lembrará de suas iniquidades, e punirá os seus pecados. ^v9
 
-**10** Achei a Israel como uvas no deserto, vi a vossos pais como a fruta temporã da figueira no seu princípio; mas eles foram para Baal-Peor, e se consagraram a essa vergonha, e se tornaram abomináveis como aquilo que amaram. ^v10
+**10** "Yahweh diz: ""Quando encontrei Israel, foi como apanhar uvas no deserto. Vi seus pais como se vê o primeiro fruto da figueira. Mas eles foram para Baal-Peor, e se consagraram a esse ídolo vergonhoso. Se tornaram tão detestáveis como o ídolo que amaram." ^v10
 
-**11** Quanto a Efraim, a sua glória como ave voará, não haverá nascimento, não haverá gestação nem concepção. ^v11
+**11** Quanto a Efraim, a sua glória voará como um pássaro. Não haverá nascimento, nem gravidez, nem concepção. ^v11
 
-**12** Ainda que venham a criar seus filhos, contudo os privarei deles para que não fique nenhum homem. Ai deles, quando deles eu me apartar! ^v12
+**12** Embora venham a criar filhos, Eu os tirarei para que não fique nenhum deles. Ai deles quando Eu me afastar! ^v12
 
-**13** Efraim, assim como vi a Tiro, está plantado num lugar aprazível; mas Efraim levará os seus filhos ao matador. ^v13
+**13** "Vejo Efraim, como vejo Tiro, plantado no campo, mas Efraim trará seus filhos a alguém que os matará.""" ^v13
 
-**14** Dá-lhes, ó Senhor; mas que lhes darás? Dá-lhes uma madre que aborte e seios secos. ^v14
+**14** Dá-lhes, Yahweh — o que o Senhor lhes dará? Dê-hes útero que aborte e seios sem leite. ^v14
 
-**15** Toda a sua malícia se acha em Gilgal, porque ali os odiei; por causa da maldade das suas obras lançá-los-ei para fora de minha casa. Não os amarei mais; todos os seus príncipes são rebeldes. ^v15
+**15** """Por causa de toda a sua maldade em Gilgal, passei a odiá-los desde aquele momento. Por causa das suas práticas pecaminosas, Eu os lançarei fora da Minha casa. Não os amarei mais; todos os seus príncipes são rebeldes." ^v15
 
-**16** Efraim foi ferido, secou-se a sua raiz; não darão fruto; sim, ainda que gerem, matarei os frutos desejáveis do seu ventre. ^v16
+**16** "Efraim está doente, e as suas raízes secaram; não darão fruto. Ainda que tenham filhos, Eu matarei seus amados filhos""." ^v16
 
-**17** O meu Deus os rejeitará, porque não o ouviram, e errantes andarão entre as nações. ^v17
+**17** O meu Deus os rejeitará porque não Lhe obedeceram. Eles andarão errantes entre as nações. ^v17

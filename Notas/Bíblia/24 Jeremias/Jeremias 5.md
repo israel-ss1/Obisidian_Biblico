@@ -1,69 +1,68 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Jeremias|Jeremias]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Jeremias|Jeremias]]"
+tags: [biblia]
 ---
 
 # Jeremias 5
 
-**1** Dai voltas às ruas de Jerusalém, e vede agora; e informai-vos, e buscai pelas suas praças, a ver se achais alguém, ou se há homem que pratique a justiça ou busque a verdade; e eu lhe perdoarei. ^v1
+**1** Correi pelas ruas de Jerusalém, procurai também nas praças da cidade; então, olhai e pensai sobre isto: se puderes achar um homem ou qualquer um que aja com justiça, ou esteja tentando agir fielmente, então, perdoarei Jerusalém. ^v1
 
-**2** E ainda que digam: Vive o Senhor, de certo falsamente juram. ^v2
+**2** "Mesmo que eles digam: 'Tão certo quanto Yahweh vive', ainda assim, estão jurando falsamente""." ^v2
 
-**3** Ah Senhor, porventura não atentam os teus olhos para a verdade? Feriste-os, e não lhes doeu; consumiste-os, e não quiseram receber a correção; endureceram as suas faces mais do que uma rocha; não quiseram voltar. ^v3
+**3** Yahweh, por acaso Teus olhos não buscam fidelidade? Tu golpeias as pessoas, mas elas não sentem dor. Tu os tens derrotado completamente, mas eles ainda se recusam a receber disciplina. Eles tornam suas faces mais duras que a rocha, pois se recusam a se arrepender. ^v3
 
-**4** Eu, porém, disse: Deveras estes são pobres; são loucos, pois não sabem o caminho do Senhor, nem o juízo do seu Deus. ^v4
+**4** "Então eu disse: ""Certamente, apenas o povo pobre é assim. Esses são tolos, pois não conhecem os caminhos de Yahweh, os decretos do seu Deus." ^v4
 
-**5** Irei aos grandes, e falarei com eles; porque eles sabem o caminho do Senhor, o juízo do seu Deus; mas estes juntamente quebraram o jugo, e romperam as ataduras. ^v5
+**5** Irei para as pessoas importantes e lhes declararei as mensagens de Yahweh porque, pelo menos, eles conhecem os caminhos de Yahweh, os decretos do seu Deus. Mas, todos eles quebraram o jugo juntos, todos eles romperam as correntes que os ligavam a Deus. ^v5
 
-**6** Por isso um leão do bosque os feriu, um lobo dos desertos os assolará; um leopardo vigia contra as suas cidades; qualquer que sair delas será despedaçado; porque as suas transgressões se avolumam, multiplicaram-se as suas apostasias. ^v6
+**6** Por isso, um leão da mata os atacará. Um lobo de Arabá os arruinará. Uma pantera à espreita atacará suas cidades. Qualquer um que sair da cidade será dilacerado, porque suas transgressões aumentam e seus atos de infidelidade são ilimitados. ^v6
 
-**7** Como, vendo isto, te perdoaria? Teus filhos me deixam a mim e juram pelos que não são deuses; quando os fartei, então adulteraram, e em casa de meretrizes se ajuntaram em bandos. ^v7
+**7** Por que Eu deveria perdoar essas pessoas? Seus filhos Me abandonaram e fizeram juramento pelos que não são deuses. Eu os tenho alimentado por completo, mas eles cometeram adultério e andaram em grande número para as casas de prostituição. ^v7
 
-**8** Como cavalos bem fartos, levantam-se pela manhã, rinchando cada um à mulher do seu próximo. ^v8
+**8** Eles eram como cavalos bem nutridos, perambulando a fim de se acasalarem, cada um relinchando à mulher de seu próximo. ^v8
 
-**9** Deixaria eu de castigar por estas coisas, diz o Senhor, ou não se vingaria a minha alma de uma nação como esta? ^v9
+**9** Por acaso, Eu não os deveria punir? —Esta é a declaração de Yahweh — e Eu não deveria Me vingar de uma nação como esta? ^v9
 
-**10** Subi aos seus muros, e destruí-os (porém não façais uma destruição final); tirai os seus ramos, porque não são do Senhor. ^v10
+**10** Subi até os terraços de suas vinhas e destruí-as, mas não façais uma destruição total sobre elas. Aparai suas videiras, uma vez que essas videiras não vieram de Yahweh. ^v10
 
-**11** Porque aleivosissimamente se houveram contra mim a casa de Israel e a casa de Judá, diz o Senhor. ^v11
+**11** Pois as casas de Israel e de Judá têm-Me traído completamente — esta é a declaração de Yahweh. ^v11
 
-**12** Negaram ao Senhor, e disseram: Não é ele; nem mal nos sobrevirá, nem veremos espada nem fome. ^v12
+**12** Elas têm falado falsamente de Yahweh e dizem: 'Ele não fará nada. O mal não virá sobre nós, nem veremos a espada ou a fome. ^v12
 
-**13** E até os profetas serão como vento, porque a palavra não está com eles; assim se lhes sucederá. ^v13
+**13** "Os profetas têm-se tornado como o vento; a palavra não está neles; por isso, que caiam sobre eles mesmos o que eles dizem que acontecerá""." ^v13
 
-**14** Portanto assim diz o Senhor Deus dos Exércitos: Porquanto disseste tal palavra, eis que converterei as minhas palavras na tua boca em fogo, e a este povo em lenha, eles serão consumidos. ^v14
+**14** "Assim diz Yahweh, o Deus dos Exércitos: ""Por que falastes isso, vede, Eu estou prestes a colocar a Minha palavra na tua boca, e ela será como um fogo e este povo será como madeira, pois ela os consumirá." ^v14
 
-**15** Eis que trarei sobre vós uma nação de longe, ó casa de Israel, diz o Senhor; é uma nação robusta, é uma nação antiqüíssima, uma nação cuja língua ignorarás, e não entenderás o que ela falar. ^v15
+**15** Vede! Eu trarei uma nação de longe contra vós, casa de Israel — esta é a declaração de Yahweh — uma nação duradoura, uma nação antiga. Uma nação cuja língua tu não conheces, nem entendes o que eles dizem. ^v15
 
-**16** A sua aljava é como uma sepultura aberta; todos eles são poderosos. ^v16
+**16** Sua aljava é como um túmulo aberto. Todos eles são guerreiros. ^v16
 
-**17** E comerão a tua sega e o teu pão, que teus filhos e tuas filhas haviam de comer; comerão as tuas ovelhas e as tuas vacas; comerão a tua vide e a tua figueira; as tuas cidades fortificadas, em que confiavas, abatê-las-ão à espada. ^v17
+**17** Então, tua colheita será consumida, teus filhos e tuas filhas também, e a tua comida. Eles comerão teus rebanhos e gados; eles comerão do fruto de tuas vinhas e figueiras. Com a espada, eles demolirão tuas cidades fortificadas, nas quais tu confias. ^v17
 
-**18** Contudo, ainda naqueles dias, diz o Senhor, não farei de vós uma destruição final. ^v18
+**18** Mas, mesmo naqueles dias — esta é a declaração de Yahweh — Eu não pretendo destruir-vos completamente. ^v18
 
-**19** E sucederá que, quando disserdes: Por que nos fez o Senhor nosso Deus todas estas coisas? Então lhes dirás: Como vós me deixastes, e servistes a deuses estranhos na vossa terra, assim servireis a estrangeiros, em terra que não é vossa. ^v19
+**19** Quando vós, Israel e Judá, disserdes: 'Por que Yahweh, nosso Deus, tem feito todas estas coisas conosco?' Então tu, Jeremias, lhes dirás: 'Assim como vós abandonastes a Yahweh e servistes a deuses estrangeiros em vossa terra, assim, vós também servireis a estranhos em uma terra que não é a vossa'. ^v19
 
-**20** Anunciai isto na casa de Jacó, e fazei-o ouvir em Judá, dizendo: ^v20
+**20** Relata isso à casa de Jacó e seja ouvido em Judá. Diz: ^v20
 
-**21** Ouvi agora isto, ó povo insensato, e sem coração, que tendes olhos e não vedes, que tendes ouvidos e não ouvis. ^v21
+**21** 'Ouvi isto vós, ó povo tolo, que não tendes entendimento; que tendes olhos, mas não podeis ver, e tendes ouvidos, mas não podeis ouvir. ^v21
 
-**22** Porventura não me temereis a mim? diz o Senhor; não temereis diante de mim, que pus a areia por limite ao mar, por ordenança eterna, que ele não traspassará? Ainda que se levantem as suas ondas, não prevalecerão; ainda que bramem, não a traspassarão. ^v22
+**22** Vós não Me temeis? — Esta é a declaração de Yahweh — nem tremeis diante da Minha face? Eu coloquei a areia como limite para o mar, um decreto contínuo que não se pode violar, ainda que as ondas subam e desçam, mesmo assim, não o violam. Embora as ondas rujam, elas não o ultrapassam. ^v22
 
-**23** Mas este povo é de coração rebelde e pertinaz: rebelaram-se e foram-se. ^v23
+**23** Mas este povo tem um coração obstinado. Eles se desviaram em rebelião e foram embora. ^v23
 
-**24** E não dizem no seu coração: Temamos agora ao Senhor nosso Deus, que dá chuva, a temporã e a tardia, ao seu tempo; e nos conserva as semanas determinadas da sega. ^v24
+**24** Pois eles não dizem em seus corações: 'Temamos a Yahweh, nosso Deus, Aquele que traz a chuva, as primeiras chuvas e as chuvas tardias, no seu tempo certo, nas semanas determinadas de nossa colheita'. ^v24
 
-**25** As vossas iniqüidades desviam estas coisas, e os vossos pecados apartam de vós o bem. ^v25
+**25** Vossas iniquidades têm impedido que essas coisas aconteçam. Vossas iniquidades têm impedido que as coisas boas venham até vós. ^v25
 
-**26** Porque ímpios se acham entre o meu povo; andam espiando, como quem arma laços; põem armadilhas, com que prendem os homens. ^v26
+**26** Pois homens ímpios são achados com o Meu povo. Eles ficam à espreita como alguém que se agacha para capturar pássaros; eles põem uma armadilha para apanhar o povo. ^v26
 
-**27** Como uma gaiola está cheia de pássaros, assim as suas casas estão cheias de engano; por isso se engrandeceram, e enriqueceram; ^v27
+**27** Como uma gaiola cheia de pássaros, assim também todas as suas casas estão cheias de engano. Por isso, eles crescem e se enriquecem. ^v27
 
-**28** Engordam-se, estão nédios, e ultrapassam até os feitos dos malignos; não julgam a causa do órfão; todavia prosperam; nem julgam o direito dos necessitados. ^v28
+**28** Eles se tornaram gordos e satisfeitos por estarem em boas condições. Eles ultrapassaram todos os limites da maldade; não defendem a causa do povo, nem a causa dos órfãos. Eles prosperam, mesmo não dando justiça aos necessitados. ^v28
 
-**29** Porventura não castigaria eu por causa destas coisas? diz o Senhor; não me vingaria eu de uma nação como esta? ^v29
+**29** Por acaso, não devo Eu castigá-los por essas coisas? — Esta é a declaração de Yahweh — E, por acaso, não Me vingarei de uma nação como esta? ^v29
 
-**30** Coisa espantosa e horrenda se anda fazendo na terra. ^v30
+**30** Atrocidades e horrores têm ocorrido nesta terra. ^v30
 
-**31** Os profetas profetizam falsamente, e os sacerdotes dominam pelas mãos deles, e o meu povo assim o deseja; mas que fareis ao fim disto? ^v31
+**31** Os profetas profetizam engano e os sacerdotes governam com seu próprio poder. Meu povo ama isso, mas, no fim, o que há de acontecer? ^v31

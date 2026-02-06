@@ -1,23 +1,22 @@
 ---
-Livro: "[[Levítico|Levítico]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Levítico|Levítico]]"
+tags: [biblia]
 ---
 
 # Levítico 12
 
-**1** Falou mais o SENHOR a Moisés, dizendo: ^v1
+**1** Yahweh disse a Moisés: ^v1
 
-**2** Fala aos filhos de Israel, dizendo: Se uma mulher conceber e der à luz um menino, será imunda sete dias, assim como nos dias da separação da sua enfermidade, será imunda. ^v2
+**2** """Fala ao povo de Israel, dizendo: 'Se uma mulher conceber e der a luz a um filho, ela estará impura por sete dias; da mesma forma que ela estará impura durante os sete dias do seu ciclo menstrual." ^v2
 
-**3** E no dia oitavo se circuncidará ao menino a carne do seu prepúcio. ^v3
+**3** Ao oitavo dia, a carne do prepúcio do menino deve ser circuncidada. ^v3
 
-**4** Depois ficará ela trinta e três dias no sangue da sua purificação; nenhuma coisa santa tocará e não entrará no santuário até que se cumpram os dias da sua purificação. ^v4
+**4** Então o período de purificação da mãe por causa do seu sangramento, continuará por trinta e três dias. Ela não poderá tocar em nada que for santo ou adentrar a área do tabernáculo, até que finde os dias de sua purificação. ^v4
 
-**5** Mas, se der à luz uma menina será imunda duas semanas, como na sua separação; depois ficará sessenta e seis dias no sangue da sua purificação. ^v5
+**5** Mas se ela der a luz a uma filha, então, ela estará impura por duas semanas, como ela fica durante seu período. Assim, a purificação da mãe continuará por sessenta e seis dias. ^v5
 
-**6** E, quando forem cumpridos os dias da sua purificação por filho ou por filha, trará um cordeiro de um ano por holocausto, e um pombinho ou uma rola para expiação do pecado, diante da porta da tenda da congregação, ao sacerdote. ^v6
+**6** Quando os dias de sua purificação terminarem, por um filho ou por uma filha. Ela deve trazer um cordeiro de um ano, como holocausto e um pombinho ou uma pomba, como oferta de pecado ao sacerdote na entrada da Tenda da Congregação. ^v6
 
-**7** O qual o oferecerá perante o Senhor, e por ela fará propiciação; e será limpa do fluxo do seu sangue; esta é a lei da que der à luz menino ou menina. ^v7
+**7** Então ele o oferecerá diante de Yahweh e fará a expiação por ela, que ficará purificada do fluxo de seu sangue. Esta é a lei, sobre uma mulher que dá a luz a um filho ou uma filha. ^v7
 
-**8** Mas, se em sua mão não houver recursos para um cordeiro, então tomará duas rolas, ou dois pombinhos, um para o holocausto e outro para a propiciação do pecado; assim o sacerdote por ela fará expiação, e será limpa. ^v8
+**8** "Se ela não puder oferecer um cordeiro, então ela deverá levar duas pombas ou dois pombinhos. Um, como holocausto e o outro como oferta de pecado e o sacerdote fará expiação por ela; assim ela será limpa.' """ ^v8

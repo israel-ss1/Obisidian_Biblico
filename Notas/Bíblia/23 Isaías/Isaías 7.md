@@ -1,57 +1,56 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Isaías|Isaías]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Isaías|Isaías]]"
+tags: [biblia]
 ---
 
 # Isaías 7
 
-**1** Sucedeu, pois, nos dias de Acaz, filho de Jotão, filho de Uzias, rei de Judá, que Rezim, rei da Síria, e Peca, filho de Remalias, rei de Israel, subiram a Jerusalém, para pelejarem contra ela, mas nada puderam contra ela. ^v1
+**1** Durante os dias de Acaz, filho de Jotão, filho de Uzias, rei de Judá, aconteceu que Rezim, rei da Síria, e Peca, filho de Remalias, rei de Israel, subiram a Jerusalém para atacá-la, mas não conseguiram prevalecer contra ela. ^v1
 
-**2** E deram aviso à casa de Davi, dizendo: A Síria fez aliança com Efraim. Então se moveu o seu coração, e o coração do seu povo, como se movem as árvores do bosque com o vento. ^v2
+**2** "Foi relatado à casa de Davi que a Síria era aliada de Efraim. O seu coração e o coração do seu povo agitaram-se, como as árvores do bosque se agitam com o vento. [Nota: Em vez de ""...que a Síria era aliada de Efraim"", algumas versões têm ""...que a Síria havia acampado em Efraim"".]" ^v2
 
-**3** Então disse o Senhor a Isaías: Agora, tu e teu filho Sear-Jasube, saí ao encontro de Acaz, ao fim do canal do tanque superior, no caminho do campo do lavandeiro. ^v3
+**3** "Então, Yahweh disse a Isaías: ""Sai com o teu filho Sear-Jasube para te encontrares com Acaz, no final do canal do tanque superior, no caminho do campo do Lavandeiro." ^v3
 
-**4** E dize-lhe: Acautela-te, e aquieta-te; não temas, nem se desanime o teu coração por causa destes dois pedaços de tições fumegantes; por causa do ardor da ira de Rezim, e da Síria, e do filho de Remalias. ^v4
+**4** Dize-lhe: Sê cuidadoso e acalma-te. Não temas nem te intimides por causa desses dois pedaços de lenha fumegantes; nem pela ira ardente de Rezim e da Síria, nem por Peca, filho de Remalias. ^v4
 
-**5** Porquanto a Síria teve contra ti maligno conselho, com Efraim, e com o filho de Remalias, dizendo: ^v5
+**5** A Síria, Efraim e o filho de Remalias têm planejado o mal contra ti, dizendo: ^v5
 
-**6** Vamos subir contra Judá, e molestemo-lo e repartamo-lo entre nós, e façamos reinar no meio dele o filho de Tabeal. ^v6
+**6** 'Vamos atacar e aterrorizar Judá; vamos conquistá-la e fazer reinar sobre ela o nosso rei, o filho de Tabeel'. ^v6
 
-**7** Assim diz o Senhor DEUS: Isto não subsistirá, nem tampouco acontecerá. ^v7
+**7** O Senhor Yahweh diz: Isso não sucederá, jamais acontecerá, ^v7
 
-**8** Porém a cabeça da Síria será Damasco, e a cabeça de Damasco Rezim; e dentro de sessenta e cinco anos Efraim será destruído, e deixará de ser povo. ^v8
+**8** pois a capital da Síria é Damasco e o cabeça de Damasco é Rezim. Dentro de sessenta e cinco anos, Efraim será destruída e deixará de ser povo. ^v8
 
-**9** Entretanto a cabeça de Efraim será Samaria, e a cabeça de Samaria o filho de Remalias; se não o crerdes, certamente não haveis de permanecer. ^v9
+**9** A capital de Efraim é Samaria, e o cabeça de Samaria é o filho de Remalias. Se não persistirdes na fé, certamente, não permanecereis seguros”. ^v9
 
-**10** E continuou o Senhor a falar com Acaz, dizendo: ^v10
+**10** O Senhor falou novamente a Acaz [Nota: Em vez de “o Senhor falou”, em muitas versões está “Yahweh falou”], dizendo: ^v10
 
-**11** Pede para ti ao Senhor teu Deus um sinal; pede-o, ou em baixo nas profundezas, ou em cima nas alturas. ^v11
+**11** """Pede um sinal a Yahweh, teu Deus; um sinal que seja nas profundezas ou nas alturas""." ^v11
 
-**12** Acaz, porém, disse: Não pedirei, nem tentarei ao Senhor. ^v12
+**12** "Porém, Acaz respondeu: ""Não pedirei, nem porei Yahweh à prova""." ^v12
 
-**13** Então ele disse: Ouvi agora, ó casa de Davi: Pouco vos é afadigardes os homens, senão que também afadigareis ao meu Deus? ^v13
+**13** "Então, Isaías respondeu: ""Ouvi, ó casa de Davi. Não vos é o bastante que testeis a paciência das pessoas? Deveis ainda testar a paciência do meu Deus?" ^v13
 
-**14** Portanto o mesmo Senhor vos dará um sinal: Eis que a virgem conceberá, e dará à luz um filho, e chamará o seu nome Emanuel. ^v14
+**14** Portanto, o próprio Senhor vos dará um sinal: eis que a virgem conceberá e dará à luz um filho, e ele será chamado Emanuel. ^v14
 
-**15** Manteiga e mel comerá, quando ele souber rejeitar o mal e escolher o bem. ^v15
+**15** Ele comerá coalhada e mel até que saiba recusar o mal e escolher o bem. ^v15
 
-**16** Na verdade, antes que este menino saiba rejeitar o mal e escolher o bem, a terra, de que te enfadas, será desamparada dos seus dois reis. ^v16
+**16** Pois antes que a criança saiba recusar o mal e escolher o bem, a terra desses dois reis, a quem temes, será desolada. ^v16
 
-**17** Porém o Senhor fará vir sobre ti, e sobre o teu povo, e sobre a casa de teu pai, pelo rei da Assíria, dias tais, quais nunca vieram, desde o dia em que Efraim se separou de Judá. ^v17
+**17** "Yahweh trará sobre ti, sobre o teu povo e sobre a casa do teu pai, dias como nunca houve, desde que Efraim se separou de Judá — Ele vos trará o rei da Assíria""." ^v17
 
-**18** Porque há de acontecer que naquele dia assobiará o Senhor às moscas, que há no extremo dos rios do Egito, e às abelhas que estão na terra da Assíria; ^v18
+**18** Naquele tempo, Yahweh assobiará às moscas das extremidades dos rios do Egito e às abelhas da terra da Assíria. ^v18
 
-**19** E todas elas virão, e pousarão nos vales desertos e nas fendas das rochas, e em todos os espinheiros e em todos os arbustos. ^v19
+**19** Elas virão e pousarão nos desfiladeiros, dentro das fendas das rochas, sobre os arbustos espinhosos, em todas as pastagens. ^v19
 
-**20** Naquele mesmo dia rapará o Senhor com uma navalha alugada, que está além do rio, isto é, com o rei da Assíria, a cabeça e os cabelos dos pés; e até a barba totalmente tirará. ^v20
+**20** Naquele tempo, o Senhor usará uma navalha que foi alugada para além do rio Eufrates — que é o rei da Assíria — para raspar a cabeça, assim como os pelos das pernas e também removerá a barba. ^v20
 
-**21** E sucederá naquele dia que um homem criará uma novilha e duas ovelhas. ^v21
+**21** Naquele dia, um homem criará uma novilha e duas ovelhas, ^v21
 
-**22** E acontecerá que por causa da abundância do leite que elas hão de dar, comerá manteiga; e manteiga e mel comerá todo aquele que restar no meio da terra. ^v22
+**22** e, por causa da abundância de leite, ele comerá coalhada, pois todo aquele que restar na terra comerá coalhada e mel. ^v22
 
-**23** Sucederá também naquele dia que todo o lugar, em que houver mil vides, do valor de mil siclos de prata, será para as sarças e para os espinheiros. ^v23
+**23** Naquele tempo, onde havia mil vinhas no valor de mil siclos de prata, não haverá nada além de sarças e espinhos. ^v23
 
-**24** Com arco e flecha se entrará ali, porque toda a terra será sarças e espinheiros. ^v24
+**24** Os homens entrarão ali para caçar com arco e flecha, pois toda aquela terra será sarças e espinhos. ^v24
 
-**25** E quanto a todos os montes, que costumavam cavar com enxadas, para ali não irás por causa do temor das sarças e dos espinheiros; porém servirão para se mandarem para lá os bois e para serem pisados pelas ovelhas. ^v25
+**25** Eles permanecerão distantes de todas as colinas que antes cultivavam com a enxada, por medo das sarças e dos espinhos; mas ali será lugar onde os bois e as ovelhas pastarão. ^v25

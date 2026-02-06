@@ -1,41 +1,40 @@
 ---
-Livro: "[[1 Crônicas|1 Crônicas]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/1 Crônicas|1 Crônicas]]"
+tags: [biblia]
 ---
 
 # 1 Crônicas 18
 
-**1** E depois disto aconteceu que Davi derrotou os filisteus, e os sujeitou; e tomou a Gate, e os lugares da sua jurisdição, da mão dos filisteus. ^v1
+**1** Depois disso, aconteceu que Davi atacou os filisteus e os derrotou. Ele tomou Gate e suas vilas do controle dos filisteus; ^v1
 
-**2** Também derrotou os moabitas; e os moabitas ficaram por servos de Davi, pagando tributos. ^v2
+**2** então, derrotou Moabe, e os moabitas se tornaram servos de Davi e pagavam tributos a ele. ^v2
 
-**3** Também Davi derrotou a Hadar-Ezer, rei de Zobá, junto a Hamate, quando ele ia estabelecer o seu domínio sobre o rio Eufrates. ^v3
+**3** Davi também derrotou Hadadezer, rei de Zobá, em Hamate, enquanto Hadadezer estava viajando para estabelecer seu domínio no rio Eufrates. ^v3
 
-**4** E Davi lhe tomou mil carros, e sete mil cavaleiros, e vinte mil homens de pé; e Davi jarretou todos os cavalos dos carros; porém reservou deles para cem carros. ^v4
+**4** Davi capturou dele mil carros, sete mil cavaleiros e vinte mil soldados. Davi aleijou todos os cavalos dos carros, mas reservou o suficiente deles para cem carros. ^v4
 
-**5** E vieram os sírios de Damasco a socorrer a Hadar-Ezer, rei de Zobá; porém Davi feriu dos sírios vinte e dois mil homens. ^v5
+**5** Quando os sírios de Damasco vieram socorrer Hadadezer, rei de Zobá, Davi matou vinte e dois mil deles. ^v5
 
-**6** E Davi pôs guarnições na Síria de Damasco, e os sírios ficaram por servos de Davi, pagando-lhe tributo; e o Senhor guardava a Davi, por onde quer que ia. ^v6
+**6** Então, Davi pôs guarnições entre os sírios de Damasco, os quais se tornaram seus servos e lhe trouxeram tributos, e Yahweh dava vitória a Davi por onde quer ele fosse. ^v6
 
-**7** E Davi tomou os escudos de ouro, que tinham os servos de Hadar-Ezer, e os trouxe a Jerusalém. ^v7
+**7** Davi tomou os escudos de ouro que estavam com os servos de Hadadezer e os trouxe a Jerusalém; ^v7
 
-**8** Também de Tibate, e de Cum, cidades de Hadar-Ezer, tomou Davi muitíssimo cobre, de que Salomão fez o mar de cobre, e as colunas, e os utensílios de cobre. ^v8
+**8** de Tibate e de Cum, cidades de Hadadezer, Davi tomou muito bronze. Foi com esse bronze que Salomão, mais tarde, fez o mar de bronze, os pilares e os utensílios de bronze. ^v8
 
-**9** E ouvindo Toí, rei de Hamate, que Davi destruíra todo o exército de Hadar-Ezer, rei de Zobá, ^v9
+**9** Quando Toú, rei de Hamate, soube que Davi havia derrotado todo o exército de Hadadezer, rei de Zobá, ^v9
 
-**10** Mandou seu filho Hadorão a Davi, para lhe perguntar como estava, e para o abençoar, por haver pelejado contra Hadar-Ezer, e por havê-lo ferido (porque Hadar-Ezer fazia guerra a Toí), enviando-lhe também toda a sorte de vasos de ouro, e de prata, e de cobre. ^v10
+**10** Toú mandou Hadorão seu filho ao rei Davi para cumprimentá-lo e abençoá-lo, porque Davi havia lutado contra Hadadezer e derrotado, pois Hadadezer já havia travado guerra contra Toú. Hadorão trouxe com ele objetos de ouro, prata e bronze; ^v10
 
-**11** Os quais Davi também consagrou ao Senhor, juntamente com a prata e ouro que trouxera de todas as demais nações: dos edomeus, e dos moabitas, e dos filhos de Amom, e dos filisteus, e dos amalequitas. ^v11
+**11** os quais o rei Davi consagrou a Yahweh, junto com o ouro e a prata que tomou de todas as nações: Edom, Moabe, o povo de Ammon, os filisteus, e os amalequitas. ^v11
 
-**12** Também Abisai, filho de Zeruia, feriu a dezoito mil edomeus no Vale do Sal. ^v12
+**12** Abisai, filho de Zeruia matou dezoito mil edomitas no vale do Sal. ^v12
 
-**13** E pôs guarnições em Edom, e todos os edomeus ficaram por servos de Davi; e o Senhor guardava a Davi, por onde quer que ia. ^v13
+**13** Ele colocou guarnições em Edom, e todos os edomitas se tornaram servos de Davi. Yahweh dava vitória a Davi em qualquer lugar a que ele fosse. ^v13
 
-**14** E Davi reinou sobre todo o Israel; e fazia juízo e justiça a todo o seu povo. ^v14
+**14** Davi reinou sobre todo o Israel, e ele administrava justiça e retidão a todo o povo. ^v14
 
-**15** E Joabe, filho de Zeruia, comandava o exército; Jeosafá, filho de Ailude, era cronista. ^v15
+**15** Joabe, filho de Zeruia, era o comandante do exército, e Josafá, filho de Ailude, era escrivão; ^v15
 
-**16** E Zadoque, filho de Aitube, e Abimeleque, filho de Abiatar, eram sacerdotes; e Savsa escrivão. ^v16
+**16** Zadoque, filho de Aitube, e Abimeleque, filho de Abiatar, eram sacerdotes; Sausa era escriba; ^v16
 
-**17** E Benaia, filho de Joiada, estava sobre os quereteus e peleteus; porém os filhos de Davi eram os primeiros junto ao rei. ^v17
+**17** Benaia, filho de Joiada, estava sobre os quereteus e peleteus, e os filhos de Davi eram os conselheiros do rei. ^v17

@@ -1,73 +1,72 @@
 ---
-Livro: "[[Êxodo|Êxodo]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Êxodo|Êxodo]]"
+tags: [biblia]
 ---
 
 # Êxodo 23
 
-**1** Não admitirás falso boato, e não porás a tua mão com o ímpio, para seres testemunha falsa. ^v1
+**1** Não espalharás notícias falsas sobre ninguém, nem te ajuntarás com o ímpio para seres testemunha mentirosa. ^v1
 
-**2** Não seguirás a multidão para fazeres o mal; nem numa demanda falarás, tomando parte com a maioria para torcer o direito. ^v2
+**2** Não seguirás a multidão para fazeres o mal, nem darás testemunho que perverta a justiça, para apoiar a multidão. ^v2
 
-**3** Nem ao pobre favorecerás na sua demanda. ^v3
+**3** Nem mesmo para favorecer um homem pobre em sua causa. ^v3
 
-**4** Se encontrares o boi do teu inimigo, ou o seu jumento, desgarrado, sem falta lho reconduzirás. ^v4
+**4** Se encontrares o boi do teu inimigo ou o seu jumento andando perdido, tu o levarás de volta para ele. ^v4
 
-**5** Se vires o jumento, daquele que te odeia, caído debaixo da sua carga, deixarás pois de ajudá-lo? Certamente o ajudarás a levantá-lo. ^v5
+**5** Se vires o jumento de alguém que te odeia caído no chão sob sua carga, tu não o abandonarás. Tu deves certamente ajudá-lo a tirar a carga do jumento. ^v5
 
-**6** Não perverterás o direito do teu pobre na sua demanda. ^v6
+**6** Não perverterás o direito do pobre na sua causa. ^v6
 
-**7** De palavras de falsidade te afastarás, e não matarás o inocente e o justo; porque não justificarei o ímpio. ^v7
+**7** Não farás falsas acusações, e não matarás o inocente e o justo, pois Eu não justificarei o ímpio. ^v7
 
-**8** Também suborno não tomarás; porque o suborno cega os que têm vista, e perverte as palavras dos justos. ^v8
+**8** Nunca aceitarás suborno, pois o suborno cega os que veem e pervete as palavras dos justos. ^v8
 
-**9** Também não oprimirás o estrangeiro; pois vós conheceis o coração do estrangeiro, pois fostes estrangeiros na terra do Egito. ^v9
+**9** Não oprimirás o estrangeiro, visto que vós conheceis a vida de um estrangeiro, pois fostes estrangeiros na terra do Egito. ^v9
 
-**10** Também seis anos semearás tua terra, e recolherás os seus frutos; ^v10
+**10** Por seis anos semearás a tua terra e recolherás a sua produção. ^v10
 
-**11** Mas ao sétimo a dispensarás e deixarás descansar, para que possam comer os pobres do teu povo, e da sobra comam os animais do campo. Assim farás com a tua vinha e com o teu olival. ^v11
+**11** Mas no sétimo ano a deixarás descansando e não a cultivarás, de tal forma que os pobres entre teu povo possam comer. O que eles deixarem, os animais selvagens comerão. Tu farás o mesmo com tuas vinhas e olivais. ^v11
 
-**12** Seis dias farás os teus trabalhos, mas ao sétimo dia descansarás; para que descanse o teu boi, e o teu jumento; e para que tome alento o filho da tua escrava, e o estrangeiro. ^v12
+**12** Durante seis dias, tu farás o teu trabalho, mas no sétimo dia descansarás. Faze isto para que o teu boi e o teu jumento descansem, e para que o filho da tua escrava e o estrangeiro possa descansar e renovar-se. ^v12
 
-**13** E em tudo o que vos tenho dito, guardai-vos; e do nome de outros deuses nem vos lembreis, nem se ouça da vossa boca. ^v13
+**13** Dai atenção a tudo que Eu tenho vos falado. Não mencioneis os nomes de outros deuses, nem permitais que seus nomes sejam ouvidos da tua boca. ^v13
 
-**14** Três vezes no ano me celebrareis festa. ^v14
+**14** Três vezes por ano me celebrarás uma festa. ^v14
 
-**15** A festa dos pães ázimos guardarás; sete dias comerás pães ázimos, como te tenho ordenado, ao tempo apontado no mês de Abibe; porque nele saíste do Egito; e ninguém apareça vazio perante mim; ^v15
+**15** Celebrarás a Festa dos Pães Asmos como Eu te ordenei, por sete dias comerás pães sem fermento. Naquele tempo, tu te apresentarás perante Mim no mês de Abibe, que é estabelecido para este propósito. Foi neste mês que saíste do Egito. Mas ninguém apareça de mãos vazias perante Mim. ^v15
 
-**16** E a festa da sega dos primeiros frutos do teu trabalho, que houveres semeado no campo, e a festa da colheita, à saída do ano, quando tiveres colhido do campo o teu trabalho. ^v16
+**16** Celebrarás a Festa da Colheita, dos primeiros frutos do teu trabalho, do que tiveres semeado nos campos. Novamente, ao final do ano, celebrarás a Festa da Colheita quando juntares a produção dos campos. ^v16
 
-**17** Três vezes no ano todos os teus homens aparecerão diante do Senhor DEUS. ^v17
+**17** Todo homem deverá se apresentar perante Mim, Yahweh, três vezes no ano. ^v17
 
-**18** Não oferecerás o sangue do meu sacrifício com pão levedado; nem ficará a gordura da minha festa de noite até pela manhã. ^v18
+**18** Não oferecerás o sangue dos sacrifícios feitos a Mim com pão fermentado. A gordura dos sacrifícios das minhas festas não deverá permanecer toda a noite até a manhã. ^v18
 
-**19** As primícias dos primeiros frutos da tua terra trarás à casa do Senhor teu Deus; não cozerás o cabrito no leite de sua mãe. ^v19
+**19** Levarás os primeiros frutos, os melhores da tua terra, à Minha casa, a casa de Yahweh, teu Deus. Não cozinharás o cabrito no leite da mãe dele. ^v19
 
-**20** Eis que eu envio um anjo diante de ti, para que te guarde pelo caminho, e te leve ao lugar que te tenho preparado. ^v20
+**20** Eu envio um Anjo adiante de ti para te guardar pelo caminho, e para te levar ao lugar que Eu preparei. ^v20
 
-**21** Guarda-te diante dele, e ouve a sua voz, e não o provoques à ira; porque não perdoará a vossa rebeldia; porque o meu nome está nele. ^v21
+**21** Dá atenção a Ele e obedeça à sua voz. Não o provoques, pois Ele não perdoará transgressões. Meu nome está sobre Ele. ^v21
 
-**22** Mas se diligentemente ouvires a sua voz, e fizeres tudo o que eu disser, então serei inimigo dos teus inimigos, e adversário dos teus adversários. ^v22
+**22** Se tu, de fato, obedecerdes sua voz e fizerdes tudo que Eu te digo, então Eu serei um inimigo para teus inimigos e um adversário para teus adversários. ^v22
 
-**23** Porque o meu anjo irá adiante de ti, e te levará aos amorreus, e aos heteus, e aos perizeus, e aos cananeus, heveus e jebuseus; e eu os destruirei. ^v23
+**23** Meu Anjo irá adiante de ti e te levará aos amorreus, heteus, perizeus, cananeus, heveus e aos jebuseus; e Eu os exterminarei. ^v23
 
-**24** Não te inclinarás diante dos seus deuses, nem os servirás, nem farás conforme às suas obras; antes os destruirás totalmente, e quebrarás de todo as suas estátuas. ^v24
+**24** Não te curvarás aos seus deuses, adorando-os ou fazendo como eles fazem. Ao contrário, tu os destruirás completamente e esmigalharás seus altares de pedra. ^v24
 
-**25** E servireis ao Senhor vosso Deus, e ele abençoará o vosso pão e a vossa água; e eu tirarei do meio de vós as enfermidades. ^v25
+**25** Servireis a Yahweh, teu Deus, e Ele abençoará o teu pão e a tua água; e Eu removerei as doenças do meio de vós. ^v25
 
-**26** Não haverá mulher que aborte, nem estéril na tua terra; o número dos teus dias cumprirei. ^v26
+**26** Nenhuma mulher será estéril ou abortará seu bebê na tua terra. O número dos dias da tua vida completarei. ^v26
 
-**27** Enviarei o meu terror adiante de ti, destruindo a todo o povo aonde entrares, e farei que todos os teus inimigos te voltem as costas. ^v27
+**27** Eu enviarei o meu terror adiante de ti, para aqueles em cujas terras vós entrardes. Eu exterminarei todos os povos que vós encontrardes. Eu farei com que todos os seus inimigos fujam com medo. ^v27
 
-**28** Também enviarei vespões adiante de ti, que lancem fora os heveus, os cananeus, e os heteus de diante de ti. ^v28
+**28** Eu enviarei vespas diante de ti que expulsarão os heveus, cananeus e os heteus diante de ti. ^v28
 
-**29** Não os lançarei fora de diante de ti num só ano, para que a terra não se torne em deserto, e as feras do campo não se multipliquem contra ti. ^v29
+**29** Eu não os expulsarei de vossa presença num só ano, ou a terra se tornaria abandonada, e os animais selvagens se multiplicariam contra vós. ^v29
 
-**30** Pouco a pouco os lançarei de diante de ti, até que sejas multiplicado, e possuas a terra por herança. ^v30
+**30** Em vez disso, Eu os expulsarei pouco a pouco de diante de vós, até que sejais frutíferos e herdeis a terra. ^v30
 
-**31** E porei os teus termos desde o Mar Vermelho até ao mar dos filisteus, e desde o deserto até ao rio; porque darei nas tuas mãos os moradores da terra, para que os lances fora de diante de ti. ^v31
+**31** Eu estabelecerei os teus limites desde o mar Vermelho até o mar dos filisteus, e desde o deserto até o rio Eufrates. Eu te darei vitória sobre os habitantes da terra. Tu os expulsarás de diante de ti. ^v31
 
-**32** Não farás aliança alguma com eles, ou com os seus deuses. ^v32
+**32** Não farás aliança com eles ou com seus deuses. ^v32
 
-**33** Na tua terra não habitarão, para que não te façam pecar contra mim; se servires aos seus deuses, certamente isso será um laço para ti. ^v33
+**33** "Eles não devem viver na tua terra, ou eles te fariam pecar contra mim. Se adorardes seus deuses, isso certamente se tornará uma armadilha para ti""." ^v33

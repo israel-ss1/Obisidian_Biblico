@@ -1,31 +1,28 @@
 ---
-Livro: "[[Salmos|Salmos]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Salmos|Salmos]]"
+tags: [biblia]
 ---
 
 # Salmos 5
 
-**1** DÁ ouvidos às minhas palavras, ó Senhor, atende à minha meditação. ^v1
+**2** Ouve o som do meu clamor, meu Rei e meu Deus, pois é a Ti que eu oro. ^v2
 
-**2** Atende à voz do meu clamor, Rei meu e Deus meu, pois a ti orarei. ^v2
+**3** Yahweh, pela manhã, Tu ouves o meu choro; pela manhã, eu trago a Ti minha petição e aguardo com expectativa. ^v3
 
-**3** Pela manhã ouvirás a minha voz, ó Senhor; pela manhã apresentarei a ti a minha oração, e vigiarei. ^v3
+**4** Certamente, Tu és um Deus que não aprova o mal; quem o pratica não habitará Contigo. ^v4
 
-**4** Porque tu não és um Deus que tenha prazer na iniqüidade, nem contigo habitará o mal. ^v4
+**5** O arrogante não ficará de pé em Tua presença; Tu odeias todo comportamento malicioso. ^v5
 
-**5** Os loucos não pararão à tua vista; odeias a todos os que praticam a maldade. ^v5
+**6** Tu destróis os mentirosos; Yahweh despreza a violência e o homem falso. ^v6
 
-**6** Destruirás aqueles que falam a mentira; o Senhor aborrecerá o homem sanguinário e fraudulento. ^v6
+**7** Mas, quanto a mim, por causa do Teu amor leal, eu entrarei em Tua casa e, em reverência, me prostrarei ante Teu santo templo. ^v7
 
-**7** Porém eu entrarei em tua casa pela grandeza da tua benignidade; e em teu temor me inclinarei para o teu santo templo. ^v7
+**8** Yahweh, guia-me em Tua justiça por causa dos meus inimigos; faze o Teu caminho reto diante de mim. ^v8
 
-**8** Senhor, guia-me na tua justiça, por causa dos meus inimigos; endireita diante de mim o teu caminho. ^v8
+**9** Não há verdade na boca dos meus adversários; seu interior é mau, suas gargantas são como um sepulcro aberto, e eles seduzem com suas palavras. ^v9
 
-**9** Porque não há retidão na boca deles; as suas entranhas são verdadeiras maldades, a sua garganta é um sepulcro aberto; lisonjeiam com a sua língua. ^v9
+**10** Declara-os culpados, ó Deus; que seus esquemas sejam a sua queda! Expulsa-os por suas muitas transgressões, pois se rebelaram contra Ti. ^v10
 
-**10** Declara-os culpados, ó Deus; caiam por seus próprios conselhos; lança-os fora por causa da multidão de suas transgressões, pois se rebelaram contra ti. ^v10
+**11** Todavia, alegrem-se todos aqueles que se refugiam em Ti; permite que sempre gritem de júbilo porque Tu os defendes; deixa que se regozijem em Ti todos os que amam o Teu nome. ^v11
 
-**11** Porém alegrem-se todos os que confiam em ti; exultem eternamente, porquanto tu os defendes; e em ti se gloriem os que amam o teu nome. ^v11
-
-**12** Pois tu, Senhor, abençoarás ao justo; circundá-lo-ás da tua benevolência como de um escudo. ^v12
+**12** Pois Tu, Yahweh, abençoas o justo e, como um escudo, o cercas com Teu favor. ^v12

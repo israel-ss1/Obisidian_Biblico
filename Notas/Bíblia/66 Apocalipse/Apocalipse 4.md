@@ -1,29 +1,28 @@
 ---
-Livro: "[[Apocalipse|Apocalipse]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Apocalipse|Apocalipse]]"
+tags: [biblia]
 ---
 
 # Apocalipse 4
 
-**1** Depois destas coisas, olhei, e eis que estava uma porta aberta no céu; e a primeira voz, que como de trombeta ouvira falar comigo, disse: Sobe aqui, e mostrar-te-ei as coisas que depois destas devem acontecer. ^v1
+**1** "Depois dessas coisas, eu olhei e vi que havia uma porta aberta no céu. A primeira voz que ouvi, como voz de trombeta falando comigo, disse: ""Sobe aqui e te mostrarei o que deve acontecer depois dessas coisas""." ^v1
 
-**2** E logo fui arrebatado em espírito, e eis que um trono estava posto no céu, e um assentado sobre o trono. ^v2
+**2** Imediatamente, eu estava no Espírito e vi que havia um trono posto no céu, com alguém sentado nele. ^v2
 
-**3** E o que estava assentado era, na aparência, semelhante à pedra jaspe e sardônica; e o arco celeste estava ao redor do trono, e parecia semelhante à esmeralda. ^v3
+**3** O que estava sentado era semelhante à pedra de jaspe e sardônio. Ao redor do trono, havia um arco-íris semelhante à esmeralda. ^v3
 
-**4** E ao redor do trono havia vinte e quatro tronos; e vi assentados sobre os tronos vinte e quatro anciãos vestidos de vestes brancas; e tinham sobre suas cabeças coroas de ouro. ^v4
+**4** Ao redor do trono, havia vinte e quatro tronos e, sentados neles, havia vinte e quatro anciãos. Eles vestiam roupas brancas e tinham coroas de ouro em suas cabeças. ^v4
 
-**5** E do trono saíam relâmpagos, e trovões, e vozes; e diante do trono ardiam sete lâmpadas de fogo, as quais são os sete espíritos de Deus. ^v5
+**5** Do trono saíam relâmpagos, estrondos e barulhos de trovão. E, diante dele, sete lâmpadas queimando, que são os sete Espíritos de Deus. ^v5
 
-**6** E havia diante do trono um como mar de vidro, semelhante ao cristal. E no meio do trono, e ao redor do trono, quatro animais cheios de olhos, por diante e por detrás. ^v6
+**6** E, diante do trono, havia um mar como de vidro semelhante ao cristal. No meio e ao redor do trono, havia quatro seres viventes, cheios de olhos tanto na frente como atrás. ^v6
 
-**7** E o primeiro animal era semelhante a um leão, e o segundo animal semelhante a um bezerro, e tinha o terceiro animal o rosto como de homem, e o quarto animal era semelhante a uma águia voando. ^v7
+**7** O primeiro ser vivente era como um leão; o segundo ser vivente, como um bezerro; o terceiro ser vivente tinha a face como a de um homem; e o quarto ser vivente era como uma águia voando. ^v7
 
-**8** E os quatro animais tinham, cada um de per si, seis asas, e ao redor, e por dentro, estavam cheios de olhos; e não descansam nem de dia nem de noite, dizendo: Santo, Santo, Santo, é o Senhor Deus, o Todo-Poderoso, que era, e que é, e que há de vir. ^v8
+**8** "Os quatro seres viventes tinham seis asas e eram cheios de olhos em cima e embaixo. De dia e de noite, eles não paravam de dizer: ""Santo, Santo, Santo é o Senhor Deus Todo-Poderoso, o que era, e que é, e o que há de vir""." ^v8
 
-**9** E, quando os animais davam glória, e honra, e ações de graças ao que estava assentado sobre o trono, ao que vive para todo o sempre, ^v9
+**9** E sempre que os seres viventes davam glória, honra e gratidão ao que estava sentado no trono, ao que vive por toda eternidade, ^v9
 
-**10** Os vinte e quatro anciãos prostravam-se diante do que estava assentado sobre o trono, e adoravam o que vive para todo o sempre; e lançavam as suas coroas diante do trono, dizendo: ^v10
+**10** os vinte e quatro anciãos prostravam-se diante do que estava sentado no trono. Eles adoravam ao que vive para todo sempre e lançavam suas coroas diante do trono, dizendo: ^v10
 
-**11** Digno és, Senhor, de receber glória, e honra, e poder; porque tu criaste todas as coisas, e por tua vontade são e foram criadas. ^v11
+**11** """Digno és, nosso Senhor e nosso Deus, de receber a glória e a honra e o poder. Por Ti todas as coisas foram criadas e, por Tua vontade, existiram e foram criadas""." ^v11

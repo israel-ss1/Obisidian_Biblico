@@ -1,75 +1,74 @@
 ---
-Livro: "[[Gênesis|Gênesis]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Gênesis|Gênesis]]"
+tags: [biblia]
 ---
 
 # Gênesis 46
 
-**1** E partiu Israel com tudo quanto tinha, e veio a Berseba, e ofereceu sacrifícios ao Deus de seu pai Isaque. ^v1
+**1** Israel partiu com tudo o que tinha e foi para Berseba. Lá ele ofereceu sacrifícios ao Deus de seu pai Isaque. ^v1
 
-**2** E falou Deus a Israel em visões de noite, e disse: Jacó, Jacó! E ele disse: Eis-me aqui. ^v2
+**2** "Deus falou com Isarel em uma visão, à noite, dizendo: ""Jacó, Jacó""." ^v2
 
-**3** E disse: Eu sou Deus, o Deus de teu pai; não temas descer ao Egito, porque eu te farei ali uma grande nação. ^v3
+**3** "Ele disse: ""Eis-me aqui"". Deus disse: ""Eu sou Deus, o Deus de teu pai. Não temas descer para o Egito, pois lá farei de ti uma grande nação." ^v3
 
-**4** E descerei contigo ao Egito, e certamente te farei tornar a subir, e José porá a sua mão sobre os teus olhos. ^v4
+**4** "Eu estarei contigo no Egito, e com certeza te farei voltar. E José fechará teus olhos com sua própria mão""." ^v4
 
-**5** Então levantou-se Jacó de Berseba; e os filhos de Israel levaram a seu pai Jacó, e seus meninos, e as suas mulheres, nos carros que Faraó enviara para o levar. ^v5
+**5** Então, Jacó levantou-se de Berseba; e os filhos de Israel levaram Jacó seu pai, seus filhos e suas esposas, nos carros que Faraó havia mandado para carregá-lo. ^v5
 
-**6** E tomaram o seu gado e os seus bens que tinham adquirido na terra de Canaã, e vieram ao Egito, Jacó e toda a sua descendência com ele; ^v6
+**6** Eles levaram seus gados e seus bens que haviam acumulado na terra de Canaã. E vieram, para o Egito, Jacó e todos os seus descendentes. ^v6
 
-**7** Os seus filhos e os filhos de seus filhos com ele, as filhas, e as filhas de seus filhos, e toda a sua descendência levou consigo ao Egito. ^v7
+**7** Ele levou consigo para o Egito seus filhos e os filhos de seus filhos, suas filhas e as filhas de seus filhos, e todos os seus descendentes. ^v7
 
-**8** E estes são os nomes dos filhos de Israel, que vieram ao Egito, Jacó e seus filhos: Rúben, o primogênito de Jacó. ^v8
+**8** Estes são os nomes dos filhos de Israel que foram para o Egito: Jacó e seus filhos: Rúben, primogênito de Jacó; ^v8
 
-**9** E os filhos de Rúben: Enoque, Palu, Hezrom e Carmi. ^v9
+**9** os filhos de Rúben: Hanoque, Palu, Hezrom e Carmi. ^v9
 
-**10** E os filhos de Simeão: Jemuel, Jamim, Oade, Jaquim, Zoar e Saul, filho de uma mulher cananéia. ^v10
+**10** E os filhos de Simeão: Jemuel, Jamim, Oade, Jaquim, Zoar e Saul, filho de uma cananéia. ^v10
 
 **11** E os filhos de Levi: Gérson, Coate e Merari. ^v11
 
-**12** E os filhos de Judá: Er, Onã, Selá, Perez e Zerá; Er e Onã, porém, morreram na terra de Canaã; e os filhos de Perez foram Hezrom e Hamul. ^v12
+**12** E os filhos de Judá: Er, Onã, Selá, Perez e Zerá, porém Er e Onã morreram na terra de Canaã. E os filhos de Perez foram Hezrom e Hamul; ^v12
 
-**13** E os filhos de Issacar: Tola, Puva, Jó e Sinrom. ^v13
+**13** os filhos de Issacar: Tola, Puva, Iobe e Sinrom. ^v13
 
 **14** E os filhos de Zebulom: Serede, Elom e Jaleel. ^v14
 
-**15** Estes são os filhos de Lia, que ela deu a Jacó em Padã-Arã, além de Diná, sua filha; todas as almas de seus filhos e de suas filhas foram trinta e três. ^v15
+**15** Esses são os filhos de Leia, que ela deu a Jacó em Padã-Arã, além de sua filha Diná. Seus filhos e filhas foram ao todo trinta e três pessoas. ^v15
 
-**16** E os filhos de Gade: Zifiom, Hagi, Suni, Esbom, Eri, Arodi e Areli. ^v16
+**16** Os filhos de Gade: Zifiom, Hagui, Suni, Ezbom, Eri, Arodi e Areli. ^v16
 
-**17** E os filhos de Aser: Imna, Isvá, Isvi, Berias e Sera, a irmã deles; e os filhos de Berias: Héber e Malquiel. ^v17
+**17** E os filhos de Aser: Imná, Isvá, Isvi e Beria, e Sera, a irmã deles; e os filhos de Beria: Héber e Malquiel. ^v17
 
-**18** Estes são os filhos de Zilpa, a qual Labão deu à sua filha Lia; e deu a Jacó estas dezesseis almas. ^v18
+**18** Esses são os filhos de Zilpa, que Labão deu a sua filha Leia; e esses ela deu a Jacó, dezesseis pessoas ao todo. ^v18
 
-**19** Os filhos de Raquel, mulher de Jacó: José e Benjamim. ^v19
+**19** Os filhos de Raquel, mulher de Jacó: José e Benjamin. ^v19
 
-**20** E nasceram a José na terra do Egito, Manassés e Efraim, que lhe deu Azenate, filha de Potífera, sacerdote de Om. ^v20
+**20** E nasceram a José, na terra do Egito: Manassés e Efraim, os quais lhe foram dados por Asenate, filha de Potífera, sacerdote de Om. ^v20
 
-**21** E os filhos de Benjamim: Belá, Bequer, Asbel, Gera, Naamã, Eí, Rôs, Mupim, Hupim e Arde. ^v21
+**21** E os filhos de Benjamin: Belá, Bequer, Asbel, Gera, Naamã, Eí, Rôs, Mupim, Hupim e Arde. ^v21
 
-**22** Estes são os filhos de Raquel, que nasceram a Jacó, ao todo catorze almas. ^v22
+**22** Esses são os filhos de Raquel, que nasceram a Jacó, catorze pessoas ao todo. ^v22
 
 **23** E o filho de Dã: Husim. ^v23
 
 **24** E os filhos de Naftali: Jazeel, Guni, Jezer e Silém. ^v24
 
-**25** Estes são os filhos de Bila, a qual Labão deu à sua filha Raquel; e deu estes a Jacó; todas as almas foram sete. ^v25
+**25** Esses são os filhos de Bila, que Labão deu à sua filha Raquel; e ela os deu a Jacó, sete pessoas ao todo. ^v25
 
-**26** Todas as almas que vieram com Jacó ao Egito, que saíram dos seus lombos, fora as mulheres dos filhos de Jacó, todas foram sessenta e seis almas. ^v26
+**26** Todas as pessoas que foram com Jacó para o Egito, que eram seus descendentes, sem contar as mulheres de seus filhos, no total eram sessenta e seis pessoas. ^v26
 
-**27** E os filhos de José, que lhe nasceram no Egito, eram duas almas. Todas as almas da casa de Jacó, que vieram ao Egito, eram setenta. ^v27
+**27** Os filhos de José que lhe nasceram no Egito eram dois. Todas as pessoas da casa de Jacó que foram para o Egito eram setenta. ^v27
 
-**28** E Jacó enviou Judá adiante de si a José, para o encaminhar a Gósen; e chegaram à terra de Gósen. ^v28
+**28** Jacó enviou Judá à sua frente ao encontro de José, para que este tomasse o caminho para Gósen; e chegaram à terra de Gósen. ^v28
 
-**29** Então José aprontou o seu carro, e subiu ao encontro de Israel, seu pai, a Gósen. E, apresentando-se-lhe, lançou-se ao seu pescoço, e chorou sobre o seu pescoço longo tempo. ^v29
+**29** José preparou sua carruagem e foi ao encontro de Israel, seu pai, em Gósen. Ele o viu, abraçou seu pescoço, e chorou por muito tempo. ^v29
 
-**30** E Israel disse a José: Morra eu agora, pois já tenho visto o teu rosto, que ainda vives. ^v30
+**30** "Israel disse a José: ""Agora já posso morrer, pois vi o teu rosto, e ainda vives""." ^v30
 
-**31** Depois disse José a seus irmãos, e à casa de seu pai: Eu subirei e anunciarei a Faraó, e lhe direi: Meus irmãos e a casa de meu pai, que estavam na terra de Canaã, vieram a mim! ^v31
+**31** "José disse a seus irmãos e a casa de seu pai: ""Subirei e relatarei ao Faraó dizendo: 'Meus irmãos e a casa de meu pai, que estavam na terra de Canaã, vieram até mim." ^v31
 
-**32** E os homens são pastores de ovelhas, porque são homens de gado, e trouxeram consigo as suas ovelhas, e as suas vacas, e tudo o que têm. ^v32
+**32** Os homens são pastores, pois eles têm cuidado de gado. E trouxeram seus rebanhos, e seus gados e tudo o que eles possuem'. ^v32
 
-**33** Quando, pois, acontecer que Faraó vos chamar, e disser: Qual é o vosso negócio? ^v33
+**33** Então, quando Faraó vos chamar e perguntar: 'Qual é a vossa ocupação?' ^v33
 
-**34** Então direis: Teus servos foram homens de gado desde a nossa mocidade até agora, tanto nós como os nossos pais; para que habiteis na terra de Gósen, porque todo o pastor de ovelhas é abominação aos egípcios. ^v34
+**34** "Respondereis: 'Teus servos foram homens de gado desde a nossa juventude até agora, tanto nós como nossos pais'. Façam isso, então vós podereis viver na terra de Gósen, pois todo pastor de rebanho é abominação para os egípcios.""" ^v34

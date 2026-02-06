@@ -1,55 +1,54 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Isaías|Isaías]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Isaías|Isaías]]"
+tags: [biblia]
 ---
 
 # Isaías 29
 
-**1** Ai de Ariel, Ariel, a cidade onde Davi acampou! Acrescentai ano a ano, e sucedam-se as festas. ^v1
+**1** Ai de Ariel! Ariel, a cidade onde Davi acampou! Acrescentai ano a ano, deixai que os festivais completem o seu ciclo. ^v1
 
-**2** Contudo porei a Ariel em aperto, e haverá pranto e tristeza; e ela será para mim como Ariel. ^v2
+**2** Eu sitiarei Ariel, e ela pranteará e lamentará; ela será para Mim como uma fornalha. ^v2
 
-**3** Porque te cercarei com o meu arraial, e te sitiarei com baluartes, e levantarei trincheiras contra ti. ^v3
+**3** Eu acamparei ao teu redor, Eu te sitiarei com baluartes e farei um cerco contra ti. ^v3
 
-**4** Então serás abatida, falarás de debaixo da terra, e a tua fala desde o pó sairá fraca, e será a tua voz debaixo da terra, como a de um que tem espírito familiar, e a tua fala assobiará desde o pó. ^v4
+**4** Então, serás derrubada e do chão falarás; a tua fala sairá do pó. A tua voz será como a de um fantasma em sua cova, e tua fala será muito fraca, vinda do pó. ^v4
 
-**5** E a multidão dos teus inimigos será como o pó miúdo, e a multidão dos tiranos como a pragana que passa, e num momento repentino isso acontecerá. ^v5
+**5** A multidão dos teus invasores será como o pó e a multidão dos cruéis será fraca, como a palha que passa. Isto acontecerá de repente, em um momento. ^v5
 
-**6** Do Senhor dos Exércitos serás visitada com trovões, e com terremotos, e grande ruído com tufão de vento, e tempestade, e labareda de fogo consumidor. ^v6
+**6** Vós sereis punidos por Yahweh dos Exércitos com trovões, terremotos, grandes ruídos, ventos fortes e tempestades violentas, e com as chamas de um fogo devorador. ^v6
 
-**7** E como o sonho e uma visão de noite será a multidão de todas as nações que hão de pelejar contra Ariel, como também todos os que pelejarem contra ela e contra a sua fortaleza, e a puserem em aperto. ^v7
+**7** Como um sonho, uma visão da noite, será a multidão de todas as nações que lutará contra Ariel e sua fortaleza. Eles vão lutar contra ela, contra suas fortificações, para pressioná-la. ^v7
 
-**8** Será também como o faminto que sonha, que está a comer, porém, acordando, sente-se vazio; ou como o sedento que sonha que está a beber, porém, acordando, eis que ainda desfalecido se acha, e a sua alma com sede; assim será toda a multidão das nações, que pelejarem contra o monte Sião. ^v8
+**8** Será como um homem faminto que sonha que está comendo, porém, quando acorda, seu estômago está vazio. Será como um homem sedento que sonha que está bebendo, porém, quando acorda, está ofegante com sua sede ainda não saciada. Sim, assim será também a multidão das nações que lutam contra o monte Sião. ^v8
 
-**9** Tardai, e maravilhai-vos, folgai, e clamai; bêbados estão, mas não de vinho, andam titubeando, mas não de bebida forte. ^v9
+**9** Surpreendei-vos e ficai atônitos; cegai-vos e permanecei cegos! Estais embriagados, mas não com vinho; cambaleais, mas não com bebida forte. ^v9
 
-**10** Porque o Senhor derramou sobre vós um espírito de profundo sono, e fechou os vossos olhos, vendou os profetas, e os vossos principais videntes. ^v10
+**10** Porque Yahweh derramou sobre vós um espírito de profundo sono. Ele fechou os vossos olhos profetas, e cobriu as vossas cabeças, videntes. ^v10
 
-**11** Por isso toda a visão vos é como as palavras de um livro selado que se dá ao que sabe ler, dizendo: Lê isto, peço-te; e ele dirá: Não posso, porque está selado. ^v11
+**11** "Toda revelação tornou-se para vós como as palavras de um livro que está selado, que se dá a alguém que é capaz de ler, dizendo: ""Lê isto"". Ele também dirá: ""Eu não posso, pois está selado""." ^v11
 
-**12** Ou dá-se o livro ao que não sabe ler, dizendo: Lê isto, peço-te; e ele dirá: Não sei ler. ^v12
+**12** "Se o livro é dado a alguém que não é capaz de ler, dizendo: ""Lê isto"", ele dirá: ""Eu não sou capaz de ler""." ^v12
 
-**13** Porque o Senhor disse: Pois que este povo se aproxima de mim, e com a sua boca, e com os seus lábios me honra, mas o seu coração se afasta para longe de mim e o seu temor para comigo consiste só em mandamentos de homens, em que foi instruído; ^v13
+**13** "O Senhor disse: ""Este povo se aproxima de Mim e Me honra com sua boca, com seus lábios, mas seu coração está longe de Mim. Seu culto a Mim é um mandamento ensinado por homens." ^v13
 
-**14** Portanto eis que continuarei a fazer uma obra maravilhosa no meio deste povo, uma obra maravilhosa e um assombro; porque a sabedoria dos seus sábios perecerá, e o entendimento dos seus prudentes se esconderá. ^v14
+**14** "Portanto, vede, Eu continuarei a fazer uma obra maravilhosa no meio deste povo, maravilha após maravilha. A sabedoria de seus homens perecerá e o entendimento dos homens prudentes desaparecerá""." ^v14
 
-**15** Ai dos que querem esconder profundamente o seu propósito do Senhor, e fazem as suas obras às escuras, e dizem: Quem nos vê? E quem nos conhece? ^v15
+**15** "Ai daqueles cujas obras estão em trevas, que cavam profundamente e escondem seus planos de Yahweh. Eles dizem: ""Quem nos vê, e quem nos conhece?""." ^v15
 
-**16** Vós tudo perverteis, como se o oleiro fosse igual ao barro, e a obra dissesse do seu artífice: Não me fez; e o vaso formado dissesse do seu oleiro: Nada sabe. ^v16
+**16** "Vós virais as coisas de cabeça para baixo! Deveria o oleiro ser considerado como barro, de modo que a coisa que é feita dissesse sobre aquele que a fez: ""Ele não me fez"", ou a coisa formada dissesse sobre aquele que a formou: ""Ele não entende""?" ^v16
 
-**17** Porventura não se converterá o Líbano, num breve momento, em campo fértil? E o campo fértil não se reputará por um bosque? ^v17
+**17** Em pouco tempo, o Líbano será transformado em campo, e o campo se transformará em floresta. ^v17
 
-**18** E naquele dia os surdos ouvirão as palavras do livro, e dentre a escuridão e dentre as trevas os olhos dos cegos as verão. ^v18
+**18** Naquele dia, os surdos ouvirão as palavras de um livro, e, das profundezas das trevas, os olhos dos cegos verão. ^v18
 
-**19** E os mansos terão gozo sobre gozo no Senhor; e os necessitados entre os homens se alegrarão no Santo de Israel. ^v19
+**19** Os oprimidos se regozijarão em Yahweh, e os pobres dentre os homens se regozijarão no Santo de Israel. ^v19
 
-**20** Porque o tirano é reduzido a nada, e se consome o escarnecedor, e todos os que se dão à iniqüidade são desarraigados; ^v20
+**20** Os cruéis cessarão e o escarnecedor desaparecerá. Todos aqueles que amam fazer o mal serão eliminados; ^v20
 
-**21** Os que fazem culpado ao homem por uma palavra, e armam laços ao que repreende na porta, e os que sem motivo põem de parte o justo. ^v21
+**21** os quais, por causa de uma palavra, acusam um homem e o fazem criminoso; preparam armadilhas para aquele que procura justiça no portão, e abatem o justo com mentiras vazias. ^v21
 
-**22** Portanto assim diz o Senhor, que remiu a Abraão, acerca da casa de Jacó: Jacó não será agora envergonhado, nem agora se descorará a sua face. ^v22
+**22** "Portanto, isto é o que Yahweh diz acerca da casa de Jacó — Yahweh, que redimiu Abraão: ""Jacó não mais se envergonhará nem ficará pálida a sua face." ^v22
 
-**23** Mas quando ele vir seus filhos, obra das minhas mãos no meio dele, santificarão o meu nome; sim, santificarão ao Santo de Jacó, e temerão ao Deus de Israel. ^v23
+**23** Mas, quando ele vir suas crianças, o trabalho de Minhas mãos, eles honrarão o Meu nome. Eles santificarão o nome do Santo de Jacó e permanecerão no temor do Deus de Israel. ^v23
 
-**24** E os errados de espírito virão a ter entendimento, e os murmuradores aprenderão doutrina. ^v24
+**24** "Os desobedientes no espírito chegarão ao entendimento, e os que murmuram aprenderão as instruções""." ^v24

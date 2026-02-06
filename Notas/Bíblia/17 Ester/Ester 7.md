@@ -1,27 +1,26 @@
 ---
-Livro: "[[Ester|Ester]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Ester|Ester]]"
+tags: [biblia]
 ---
 
 # Ester 7
 
-**1** Vindo, pois, o rei com Hamã, para beber com a rainha Ester, ^v1
+**1** Então, o rei e Hamã foram à festa com a rainha Ester. ^v1
 
-**2** Disse outra vez o rei a Ester, no segundo dia, no banquete do vinho: Qual é a tua petição, rainha Ester? E se te dará. E qual é o teu desejo? Até metade do reino, se te dará. ^v2
+**2** "Neste segundo dia, enquanto estavam servindo o vinho, o rei disse a Ester: ""Qual é tua petição, rainha Ester? Isso te será dado. Qual é o teu pedido? Até metade do reino, te será dado""." ^v2
 
-**3** Então respondeu a rainha Ester, e disse: Se, ó rei, achei graça aos teus olhos, e se bem parecer ao rei, dê-se-me a minha vida como minha petição, e o meu povo como meu desejo. ^v3
+**3** "Então, a rainha Ester respondeu: ""Se achei graça aos teus olhos, ó rei, e se for do teu agrado, que me seja dada minha própria vida — essa é a minha petição — e também peço isso para o meu povo." ^v3
 
-**4** Porque fomos vendidos, eu e o meu povo, para nos destruírem, matarem, e aniquilarem de vez; se ainda por servos e por servas nos vendessem, calar-me-ia; ainda que o opressor não poderia ter compensado a perda do rei. ^v4
+**4** "Pois fomos vendidos, eu e meu povo, para sermos destruídos, mortos e aniquilados. Se nós tivéssemos apenas sido vendidos à escravidão, como escravos e escravas, eu teria permanecido em silêncio, pois nenhum sofrimento como esse justificaria perturbar o rei""." ^v4
 
-**5** Então falou o rei Assuero, e disse à rainha Ester: Quem é esse e onde está esse, cujo coração o instigou a assim fazer? ^v5
+**5** "Então, o rei Xerxes respondeu a Ester: ""Quem é ele? Onde está a pessoa cujo coração o levou a fazer tal coisa?""." ^v5
 
-**6** E disse Ester: O homem, o opressor, e o inimigo, é este mau Hamã. Então Hamã se perturbou perante o rei e a rainha. ^v6
+**6** "Ester disse: ""Este perverso Hamã é o adversário e o inimigo!"". Então, Hamã ficou aterrorizado diante do rei e da rainha." ^v6
 
-**7** E o rei no seu furor se levantou do banquete do vinho e passou para o jardim do palácio; e Hamã se pôs em pé, para rogar à rainha Ester pela sua vida; porque viu que já o mal lhe estava determinado pelo rei. ^v7
+**7** O rei se levantou furioso do banquete do vinho na festa e foi ao jardim do palácio, mas Hamã ficou para implorar pela sua vida à rainha Ester. Ele viu que um desastre estava sendo decidido contra ele pelo rei. ^v7
 
-**8** Tornando, pois, o rei do jardim do palácio à casa do banquete do vinho, Hamã tinha caído prostrado sobre o leito em que estava Ester. Então disse o rei: Porventura quereria ele também forçar a rainha perante mim nesta casa? Saindo esta palavra da boca do rei, cobriram o rosto de Hamã. ^v8
+**8** "Então, o rei voltou do jardim do palácio para a sala onde o vinho tinha sido servido. Hamã tinha acabado de se inclinar no leito, onde estava Ester. O rei disse: ""Ele vai atacar a rainha na minha presença e na minha própria casa?!"". Assim que essa frase foi pronunciada pelo rei, os servos cobriram o rosto de Hamã." ^v8
 
-**9** Então disse Harbona, um dos camareiros que serviam diante do rei: Eis que também a forca de cinqüenta côvados de altura que Hamã fizera para Mardoqueu, que falara em defesa do rei, está junto à casa de Hamã. Então disse o rei: Enforcai-o nela. ^v9
+**9** "Então, Harbona, um dos oficiais que servia o rei, disse: ""Uma forca de cinquenta côvados de altura foi colocada de frente à casa de Hamã. Ele a preparou para Mardoqueu, aquele que falou para proteger o rei"". O rei disse: ""Enforcai-o nela!""" ^v9
 
-**10** Enforcaram, pois, a Hamã na forca, que ele tinha preparado para Mardoqueu. Então o furor do rei se aplacou. ^v10
+**10** Então, eles enforcaram Hamã na forca que ele preparou para Mardoqueu; assim, a ira do rei se acalmou. ^v10

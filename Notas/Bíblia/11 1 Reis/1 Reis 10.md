@@ -1,65 +1,64 @@
 ---
-Livro: "[[1 Reis|1 Reis]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/1 Reis|1 Reis]]"
+tags: [biblia]
 ---
 
 # 1 Reis 10
 
-**1** E ouvindo a rainha de Sabá a fama de Salomão, acerca do nome do SENHOR, veio prová-lo com questões difíceis. ^v1
+**1** Quando a rainha de Sabá soube da fama de Salomão, por causa do nome de Yahweh, veio pô-lo a prova com questões difíceis. ^v1
 
-**2** E chegou a Jerusalém com uma grande comitiva; com camelos carregados de especiarias, e muitíssimo ouro, e pedras preciosas; e foi a Salomão, e disse-lhe tudo quanto tinha no seu coração. ^v2
+**2** Ela veio a Jerusalém com uma grande caravana, com camelos carregados de especiarias, muito ouro e muitas pedras preciosas. Quando ela chegou, contou a Salomão tudo o que estava em seu coração. ^v2
 
-**3** E Salomão lhe deu resposta a todas as suas perguntas, nada houve que não lhe pudesse esclarecer. ^v3
+**3** Salomão respondeu todas as suas perguntas; não houve nada que ela perguntasse que o rei não respondesse. ^v3
 
-**4** Vendo, pois, a rainha de Sabá toda a sabedoria de Salomão, e a casa que edificara, ^v4
+**4** Quando a rainha de Sabá viu toda a sabedoria de Salomão, o palácio que ele construiu, ^v4
 
-**5** E a comida da sua mesa, e o assentar de seus servos, e o estar de seus criados, e as vestes deles, e os seus copeiros, e os holocaustos que ele oferecia na casa do Senhor, ficou fora de si. ^v5
+**5** a comida em sua mesa, o lugar dos seus oficiais, o trabalho dos seus servos e seus trajes, também os copeiros, e a maneira como ele oferecia sacrifícios na casa de Yahweh, ela ficou impressionada. ^v5
 
-**6** E disse ao rei: Era verdade a palavra que ouvi na minha terra, dos teus feitos e da tua sabedoria. ^v6
+**6** "Ela disse ao rei: ""É verdade o que eu ouvi no meu próprio país a respeito de tuas palavras e tua sabedoria." ^v6
 
-**7** E eu não cria naquelas palavras, até que vim e os meus olhos o viram; eis que não me disseram metade; sobrepujaste em sabedoria e bens a fama que ouvi. ^v7
+**7** Eu não acreditei no que ouvi, até chegar aqui, e agora meus olhos viram isso. Nem metade me foi contada a respeito de tua sabedoria e riqueza! Tu excedes a fama da qual eu ouvi falar. ^v7
 
-**8** Bem-aventurados os teus homens, bem-aventurados estes teus servos, que estão sempre diante de ti, que ouvem a tua sabedoria! ^v8
+**8** Quão bem-aventuradas são as tuas mulheres e quão abençoados são os teus servos que constantemente estão diante de ti, porque ouvem a tua sabedoria. ^v8
 
-**9** Bendito seja o Senhor teu Deus, que teve agrado em ti, para te pôr no trono de Israel; porque o Senhor ama a Israel para sempre, por isso te estabeleceu rei, para fazeres juízo e justiça. ^v9
+**9** "Bendito seja Yahweh, teu Deus, que se agradou de ti e te colocou no trono de Israel. Porque Yahweh amou Israel para sempre, Ele te fez rei para que praticasses a justiça e a retidão!""" ^v9
 
-**10** E deu ao rei cento e vinte talentos de ouro, e muitíssimas especiarias, e pedras preciosas; nunca veio especiaria em tanta abundância, como a que a rainha de Sabá deu ao rei Salomão. ^v10
+**10** Ela deu ao rei cento e vinte talentos de ouro, uma grande quantidade de especiarias e pedras preciosas. Nenhuma quantidade tão grande de especiarias como essa que a rainha de Sabá deu ao rei Salomão foi dada a ele novamente. ^v10
 
-**11** Também as naus de Hirão, que de Ofir levavam ouro, traziam de Ofir muita madeira de almugue, e pedras preciosas. ^v11
+**11** A frota de Hirão, que trazia ouro de Ofir, também trazia de Ofir uma boa quantidade de madeira de sândalo e pedras preciosas. ^v11
 
-**12** E desta madeira de almugue fez o rei balaústres para a casa do Senhor, e para a casa do rei, como também harpas e alaúdes para os cantores; nunca veio tal madeira de almugue, nem se viu até o dia de hoje. ^v12
+**12** O rei usou a madeira de sândalo para fazer colunas para o Templo de Yahweh e para o palácio do rei, e harpas e liras para os cantores; nunca veio tão grande quantidade de madeira de sândalo como a que foi vista nesse dia. ^v12
 
-**13** E o rei Salomão deu à rainha de Sabá tudo o que ela desejou, tudo quanto pediu, além do que dera por sua generosidade; então voltou e partiu para a sua terra, ela e os seus servos. ^v13
+**13** O rei Salomão deu à rainha de Sabá tudo o que ela desejou, tudo o que pediu e além daquilo que Salomão lhe dera segundo a sua generosidade real. Então ela retornou ao seu país com seus servos. ^v13
 
-**14** E o peso do ouro que se trazia a Salomão cada ano era de seiscentos e sessenta e seis talentos de ouro; ^v14
+**14** O peso do ouro que foi levado a Salomão em um ano foi de seiscentos e sessenta e seis talentos de ouro, ^v14
 
-**15** Além do que entrava dos negociantes, e do contrato dos especieiros, e de todos os reis da Arábia, e dos governadores da mesma terra. ^v15
+**15** além do ouro que os negociantes e mercadores traziam. Todos os reis da Arábia e governadores do país também trouxeram ouro e prata para Salomão. ^v15
 
-**16** Também o rei Salomão fez duzentos paveses de ouro batido; seiscentos siclos de ouro destinou para cada pavês; ^v16
+**16** O rei Salomão fez duzentos grandes escudos de ouro batido; seiscentos ciclos de ouro foram usados em cada um. ^v16
 
-**17** Fez também trezentos escudos de ouro batido; três arráteis de ouro destinou para cada escudo; e o rei os pôs na casa do bosque do Líbano. ^v17
+**17** Ele também fez trezentos escudos de ouro batido; três minas de ouro foram usadas em cada escudo; o rei colocou esses escudos dentro do palácio do bosque do Líbano. ^v17
 
-**18** Fez mais o rei um grande trono de marfim, e o revestiu de ouro puríssimo. ^v18
+**18** Então o rei fez um grande trono de marfim e o revestiu com o mais puro ouro. ^v18
 
-**19** Tinha este trono seis degraus, e era o alto do trono por detrás redondo, e de ambos os lados tinha encostos até ao assento; e dois leões, em pé, juntos aos encostos. ^v19
+**19** Havia seis degraus para o trono, e o encosto dele tinha um topo arredondado. Em cada lado do assento, havia apoio para os braços e dois leões em pé ao lado de cada apoio. ^v19
 
-**20** Também doze leões estavam ali sobre os seis degraus de ambos os lados; nunca se tinha feito obra semelhante em nenhum dos reinos. ^v20
+**20** Doze leões ficavam nos degraus, um em cada lado de cada um dos seis degraus. Não existia trono semelhante a este em reino algum. ^v20
 
-**21** Também todas as taças de beber do rei Salomão eram de ouro, e todos os vasos da casa do bosque do Líbano eram de ouro puro; não havia neles prata, porque nos dias de Salomão não tinha valor algum. ^v21
+**21** Todas as taças que o rei Salomão usava para beber eram de ouro, e todas as taças para beber no Palácio da Floresta do Líbano eram de ouro puro; nenhuma delas era de prata, porque a prata não era considerada valiosa nos dias de Salomão. ^v21
 
-**22** Porque o rei tinha no mar as naus de Társis, com as naus de Hirão; uma vez em três anos tornavam as naus de Társis, e traziam ouro e prata, marfim, e bugios, e pavões. ^v22
+**22** O rei tinha no mar uma frota de navios oceânicos, junto com a frota de Hirão. Uma vez a cada três anos, a frota trazia ouro, prata e marfim, além de macacos e babuínos. ^v22
 
-**23** Assim o rei Salomão excedeu a todos os reis da terra, tanto em riquezas como em sabedoria. ^v23
+**23** Então o rei Salomão excedeu a todos os reis do mundo em riquezas e sabedoria. ^v23
 
-**24** E toda a terra buscava a face de Salomão, para ouvir a sabedoria que Deus tinha posto no seu coração. ^v24
+**24** Todo o mundo procurava a presença de Salomão para ouvir sua sabedoria, a que Deus colocou em seu coração. ^v24
 
-**25** E cada um trazia o seu presente, vasos de prata e vasos de ouro, e roupas, e armaduras, e especiarias, cavalos e mulas; isso faziam de ano em ano. ^v25
+**25** Aqueles que lhe visitavam traziam tributos, objetos de prata e ouro, vestes, armaduras e especiarias, assim como cavalos e mulas, ano após ano. ^v25
 
-**26** Também ajuntou Salomão carros e cavaleiros, de sorte que tinha mil e quatrocentos carros e doze mil cavaleiros; e os levou às cidades dos carros, e junto ao rei em Jerusalém. ^v26
+**26** Salomão ajuntou carruagens e cavaleiros. Ele tinha mil e quatrocentos carros, além de doze mil cavaleiros que ele distribuiu nas cidades para carruagens e junto ao rei em Jerusalém. ^v26
 
-**27** E fez o rei que em Jerusalém houvesse prata como pedras; e cedros em abundância como sicômoros que estão nas planícies. ^v27
+**27** O rei tinha prata em Jerusalém, tanta prata como pedras no chão. Ele fez o cedro ser tão abundante como os sicômoros que haviam nas campinas. ^v27
 
-**28** E traziam do Egito, para Salomão, cavalos e fio de linho; e os mercadores do rei recebiam o fio de linho, por um certo preço. ^v28
+**28** Salomão possuia cavalos que havia comprado do Egito e de Cilícia. Os mercadores do rei compravam os cavalos em manadas, cada manada a um determinado preço. ^v28
 
-**29** E subia e saía um carro do Egito por seiscentos siclos de prata, e um cavalo por cento e cinqüenta; e assim, por meio deles, eram exportados para todos os reis dos heteus e para os reis da Síria. ^v29
+**29** As carruagens eram compradas do Egito por seiscentos siclos de prata cada, e os cavalos por cento e cinquenta siclos cada. Muitos destes foram, então, vendidos a todos os reis dos hititas e aramitas. ^v29

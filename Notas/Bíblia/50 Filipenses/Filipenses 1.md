@@ -1,67 +1,66 @@
 ---
-Livro: "[[Filipenses|Filipenses]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Filipenses|Filipenses]]"
+tags: [biblia]
 ---
 
 # Filipenses 1
 
-**1** Paulo e Timóteo, servos de Jesus Cristo, a todos os santos em Cristo Jesus, que estão em Filipos, com os bispos e diáconos: ^v1
+**1** Paulo e Timóteo, servos de Jesus Cristo, a todos os santos em Cristo Jesus que estão em Filipos, com os bispos e diáconos. ^v1
 
-**2** Graça a vós, e paz da parte de Deus nosso Pai e da do Senhor Jesus Cristo. ^v2
+**2** Graça a vós, e paz de Deus, nosso Pai, e do Senhor Jesus Cristo. ^v2
 
-**3** Dou graças ao meu Deus todas as vezes que me lembro de vós, ^v3
+**3** Agradeço ao meu Deus, todas as vezes que lembro de vós. ^v3
 
-**4** Fazendo sempre com alegria oração por vós em todas as minhas súplicas, ^v4
+**4** Sempre, em todas as minhas orações por vós, é com alegria que oro. ^v4
 
-**5** Pela vossa cooperação no evangelho desde o primeiro dia até agora. ^v5
+**5** Dou graças por vossa participação no Evangelho, desde o primeiro dia até agora. ^v5
 
-**6** Tendo por certo isto mesmo, que aquele que em vós começou a boa obra a aperfeiçoará até ao dia de Jesus Cristo; ^v6
+**6** Estou confiante disto: Aquele que começou a boa obra em vós a completará até o dia de Jesus Cristo. ^v6
 
-**7** Como tenho por justo sentir isto de vós todos, porque vos retenho em meu coração, pois todos vós fostes participantes da minha graça, tanto nas minhas prisões como na minha defesa e confirmação do evangelho. ^v7
+**7** É justo sentir-me assim a respeito de todos vós, pois vos tenho em meu coração. Todos vós tendes sido meus parceiros na graça, tanto em minhas prisões quanto na defesa e confirmação do Evangelho. ^v7
 
-**8** Porque Deus me é testemunha das saudades que de todos vós tenho, em entranhável afeição de Jesus Cristo. ^v8
+**8** Pois Deus é minha testemunha de como tenho anseio por todos vós, com a compaixão de Cristo Jesus. ^v8
 
-**9** E peço isto: que o vosso amor cresça mais e mais em ciência e em todo o conhecimento, ^v9
+**9** E isto oro: que o vosso amor cresça mais e mais no conhecimento e completo entendimento; ^v9
 
-**10** Para que aproveis as coisas excelentes, para que sejais sinceros, e sem escândalo algum até ao dia de Cristo; ^v10
+**10** para que aproveis as coisas que são excelentes, de maneira que sejais sinceros e irrepreensíveis no dia de Cristo. ^v10
 
-**11** Cheios dos frutos de justiça, que são por Jesus Cristo, para glória e louvor de Deus. ^v11
+**11** Oro também para que sejais cheios do fruto de justiça, que vem por meio de Jesus Cristo, para a glória e louvor de Deus. ^v11
 
-**12** E quero, irmãos, que saibais que as coisas que me aconteceram contribuíram para maior proveito do evangelho; ^v12
+**12** Agora, quero que saibais, irmãos, que as coisas que me aconteceram serviram muito para o progresso do Evangelho. ^v12
 
-**13** De maneira que as minhas prisões em Cristo foram manifestas por toda a guarda pretoriana, e por todos os demais lugares; ^v13
+**13** Como resultado, minhas prisões em Cristo tornaram-se conhecidas por toda a guarda do palácio, e por todos os outros; ^v13
 
-**14** E muitos dos irmãos no Senhor, tomando ânimo com as minhas prisões, ousam falar a palavra mais confiadamente, sem temor. ^v14
+**14** e a maioria dos irmãos tornaram-se, no Senhor, mais confiantes devido ao meu aprisionamento, para ousar falar a Palavra de Deus sem medo. ^v14
 
-**15** Verdade é que também alguns pregam a Cristo por inveja e porfia, mas outros de boa vontade; ^v15
+**15** Alguns, efetivamente, proclamam a Cristo por inveja e contenda, e outros, porém, o fazem com boa intenção. ^v15
 
-**16** Uns, na verdade, anunciam a Cristo por contenção, não puramente, julgando acrescentar aflição às minhas prisões. ^v16
+**16** Aqueles que proclamam a Cristo por amor, sabem que fui posto aqui em defesa do Evangelho. ^v16
 
-**17** Mas outros, por amor, sabendo que fui posto para defesa do evangelho. ^v17
+**17** Outros proclamam a Cristo por ambição egoísta e, não, com sinceridade, pensando que me afligem enquanto estou aprisionado. ^v17
 
-**18** Mas que importa? Contanto que Cristo seja anunciado de toda a maneira, ou com fingimento ou em verdade, nisto me regozijo, e me regozijarei ainda. ^v18
+**18** Mas, que importa? De qualquer maneira, seja por pretexto ou em verdade, Cristo é anunciado, e nisto eu me regozijo. Sim, e eu me alegrarei, ^v18
 
-**19** Porque sei que disto me resultará salvação, pela vossa oração e pelo socorro do Espírito de Jesus Cristo, ^v19
+**19** pois sei que isso resultará em minha salvação, por meio das vossas orações e pela provisão do Espírito de Jesus Cristo. ^v19
 
-**20** Segundo a minha intensa expectação e esperança, de que em nada serei confundido; antes, com toda a confiança, Cristo será, tanto agora como sempre, engrandecido no meu corpo, seja pela vida, seja pela morte. ^v20
+**20** De acordo com a minha intensa expectativa e convicta esperança de que em nada serei envergonhado, e ainda com toda ousadia, como sempre, Cristo será exaltado em meu corpo, seja pela vida ou pela morte; ^v20
 
-**21** Porque para mim o viver é Cristo, e o morrer é ganho. ^v21
+**21** porque para mim o viver é Cristo e o morrer é lucro. ^v21
 
-**22** Mas, se o viver na carne me der fruto da minha obra, não sei então o que deva escolher. ^v22
+**22** Mas, se o viver no corpo significa fruto para o meu trabalho, qual devo escolher? Eu não sei. ^v22
 
-**23** Mas de ambos os lados estou em aperto, tendo desejo de partir, e estar com Cristo, porque isto é ainda muito melhor. ^v23
+**23** Pois sou pressionado por ambos os lados. Meu desejo é partir e estar com Cristo, o que é muito melhor; ^v23
 
-**24** Mas julgo mais necessário, por amor de vós, ficar na carne. ^v24
+**24** no entanto, permanecer no corpo é mais necessário, por causa de vós. ^v24
 
-**25** E, tendo esta confiança, sei que ficarei, e permanecerei com todos vós para proveito vosso e gozo da fé, ^v25
+**25** Estando confiante disto, sei que permanecerei e continuarei com todos vós, para vosso progresso e alegria na fé; ^v25
 
-**26** Para que a vossa glória cresça por mim em Cristo Jesus, pela minha nova ida a vós. ^v26
+**26** para que, por minha causa, cresçam os motivos de vos gloriardes em Cristo, quando eu vier novamente até vós. ^v26
 
-**27** Somente deveis portar-vos dignamente conforme o evangelho de Cristo, para que, quer vá e vos veja, quer esteja ausente, ouça acerca de vós que estais num mesmo espírito, combatendo juntamente com o mesmo ânimo pela fé do evangelho. ^v27
+**27** Acima de tudo, vivei de maneira digna do Evangelho de Cristo, para que, indo ver-vos ou estando distante, possa ouvir a vosso respeito que estais firmes, em um só espírito, com uma só alma, lutando juntos pela fé do Evangelho; ^v27
 
-**28** E em nada vos espanteis dos que resistem, o que para eles, na verdade, é indício de perdição, mas para vós de salvação, e isto de Deus. ^v28
+**28** e em nada sendo intimidados pelos vossos inimigos. Isto é para eles um sinal de sua própria destruição; mas, para vós, um sinal da salvação, vinda de Deus. ^v28
 
-**29** Porque a vós vos foi concedido, em relação a Cristo, não somente crer nele, como também padecer por ele, ^v29
+**29** Porque para vós tem sido concedida a graça de não somente crer em Cristo, mas também sofrer por causa Dele, ^v29
 
-**30** Tendo o mesmo combate que já em mim tendes visto e agora ouvis estar em mim. ^v30
+**30** tendo o mesmo combate que vistes em mim e que agora ouvis que está em mim. ^v30

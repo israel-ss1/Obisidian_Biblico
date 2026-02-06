@@ -1,43 +1,42 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Jeremias|Jeremias]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Jeremias|Jeremias]]"
+tags: [biblia]
 ---
 
 # Jeremias 41
 
-**1** Sucedeu, porém, no mês sétimo, que veio Ismael, filho de Netanias, filho de Elisama, de sangue real, e com ele dez homens, príncipes do rei, a Gedalias, filho de Aicão, a Mizpá; e comeram pão juntos ali em Mizpá. ^v1
+**1** No sétimo mês, Ismael, filho de Netanias, filho de Elisama, da família real, e alguns oficiais do rei, vieram — dez homens estavam com ele — a Gedelias, filho de Aicam, em Mispá. Ali, eles comeram juntos. ^v1
 
-**2** E levantou-se Ismael, filho de Netanias, com os dez homens que estavam com ele, e feriram à espada a Gedalias, filho de Aicão, filho de Safã, matando assim aquele que o rei de babilônia havia posto por governador sobre a terra. ^v2
+**2** Mas Ismael, filho de Netanias, e os dez homens que estavam com ele, levantaram-se e atacaram Gedalias, filho de Aicam, filho de Safã, com a espada. Ismael matou Gedalias, a quem o rei da Babilônia havia posto como responsável pela terra. ^v2
 
-**3** Também matou Ismael a todos os judeus que com ele, com Gedalias, estavam em Mizpá, como também aos caldeus, homens de guerra, que se achavam ali. ^v3
+**3** Então, Ismael matou todos os judeus que estavam com Gedalias, em Mispá, e os soldados caldeus encontrados lá. ^v3
 
-**4** Sucedeu, pois, no dia seguinte, depois que ele matara a Gedalias, sem ninguém o saber, ^v4
+**4** Esse era o segundo dia, depois da morte de Gedalias, mas ninguém sabia. ^v4
 
-**5** Que vieram homens de Siquém, de Siló, e de Samaria; oitenta homens, com a barba rapada, e as vestes rasgadas, e retalhando-se; e trazendo nas suas mãos ofertas e incenso, para levarem à casa do Senhor. ^v5
+**5** Alguns homens vieram de Siquém, de Siló e de Samaria; oitenta homens que tinham raspado a barba, rasgado suas vestes e cortado a si mesmos, trazendo ofertas de alimento e incenso em suas mãos, para irem à Casa de Yahweh. ^v5
 
-**6** E, saindo-lhes ao encontro Ismael, filho de Netanias, desde Mizpá, ia chorando; e sucedeu que, encontrando-os lhes disse: Vinde a Gedalias, filho de Aicão. ^v6
+**6** "Ismael, filho de Netanias, saiu de Mispá para encontrá-los, chorando enquanto caminhava. Então, aconteceu que encontrando-os, disse a eles: ""Venham a Gedalias, filho de Aicam!""" ^v6
 
-**7** Sucedeu, porém, que, entrando eles até ao meio da cidade, matou-os Ismael, filho de Netanias, e os lançou num poço, ele e os homens que estavam com ele. ^v7
+**7** Quando eles entraram na cidade, Ismael, filho de Netanias, abateu-os e jogou-os dentro de uma cova, ele e os homens que estavam com ele. ^v7
 
-**8** Mas houve entre eles dez homens que disseram a Ismael: Não nos mates, porque temos, no campo, tesouros, trigo, cevada, azeite e mel. E ele por isso os deixou, e não os matou entre seus irmãos. ^v8
+**8** "Mas lá havia dez homens entre eles, os quais disseram para Ismael: ""Não nos mate, pois existem mantimentos nossos em um campo: trigo e cevada, azeite e mel."" Então, ele não os matou, com seus outros companheiros." ^v8
 
-**9** E o poço em que Ismael lançou todos os cadáveres dos homens que matou por causa de Gedalias é o mesmo que fez o rei Asa, por causa de Baasa, rei de Israel; foi esse mesmo que Ismael, filho de Netanias, encheu de mortos. ^v9
+**9** A cova onde Ismael jogou todos os corpos dos homens que ele matou, juntamente com o corpo de Gedalias, era uma cova larga que tinha sido cavada pelo Rei Asa, quando ele foi atacado pelo Rei Baasa, de Israel. Ismael, filho de Netanias, a encheu com aqueles que ele havia matado. ^v9
 
-**10** E Ismael levou cativo a todo o restante do povo que estava em Mizpá, isto é, as filhas do rei, e todo o povo que ficara em Mizpá, que Nebuzaradã, capitão da guarda, havia confiado a Gedalias, filho de Aicão; e levou-os cativos Ismael, filho de Netanias, e se foi para passar aos filhos de Amom. ^v10
+**10** Depois, Ismael capturou todo o restante do povo, que estava em Mispá, as filhas do rei e todas as pessoas que foram deixadas em Mispá, que Nebuzaradã, chefe da guarda, havia confiado a Gedalias, filho de Aicam. Então, Ismael, filho de Netanias, levou-os cativos e atravessou o território de Amom. ^v10
 
-**11** Ouvindo, pois, Joanã, filho de Careá, e todos os capitães dos exércitos que estavam com ele, todo o mal que havia feito Ismael, filho de Netanias, ^v11
+**11** Mas Joanã, filho de Careá, e os comandantes do exército que estavam com ele ouviram sobre todo o dano que Ismael, filho de Netanias, havia feito. ^v11
 
-**12** Tomaram todos os seus homens, e foram pelejar contra Ismael, filho de Netanias; e acharam-no ao pé das grandes águas que há em Gibeom. ^v12
+**12** Então, ele juntou os seus homens e foi lutar contra Ismael, filho de Netanias. E o encontraram no grande tanque de Gibeão. ^v12
 
-**13** E aconteceu que, vendo todo o povo, que estava com Ismael, a Joanã, filho de Careá, e a todos os capitães dos exércitos, que vinham com ele, se alegrou. ^v13
+**13** E aconteceu que, quando todas as pessoas que estavam com Ismael viram Joanã, filho de Careá, e os comandantes do exército que estavam com ele, ficaram muito felizes. ^v13
 
-**14** E todo o povo que Ismael levara cativo de Mizpá virou as costas, e voltou, e foi para Joanã, filho de Careá. ^v14
+**14** Então, todos os que Ismael havia capturado em Mispá, viraram as costas e foram para o lado de Joanã, filho de Careá. ^v14
 
-**15** Mas Ismael, filho de Netanias, escapou com oito homens de diante de Joanã, e se foi para os filhos de Amom. ^v15
+**15** Mas Ismael, filho de Netanias, fugiu de Joanã com oito homens, e foi ao povo de Amom. ^v15
 
-**16** Então tomou Joanã, filho de Careá, e todos os capitães dos exércitos que estavam com ele, a todo o restante do povo que ele havia recobrado de Ismael, filho de Netanias, desde Mizpá, depois de haver matado a Gedalias, filho de Aicão, isto é, aos homens poderosos de guerra, e às mulheres, e aos meninos, e aos eunucos que havia recobrado de Gibeom. ^v16
+**16** Joanã, filho de Careá e todos os comandantes do exército que estavam com ele levaram de Mispá todas as pessoas que haviam sido resgatadas de Ismael, filho de Netanias. Isto foi depois de Ismael ter matado Gedalias, filho de Aicam. Joanã e seus companheiros levaram os homens fortes, os homens de luta, as mulheres, as crianças e os eunucos que haviam sido resgatados em Gibeão. ^v16
 
-**17** E partiram, indo habitar em Gerute-Quimã, que está perto de Belém, para dali irem e entrarem no Egito, ^v17
+**17** Então, eles partiram e ficaram por um tempo em Gerute-Quimã – que fica perto de Belém – para, dali, entrarem no Egito ^v17
 
-**18** Por causa dos caldeus; porque os temiam, por ter Ismael, filho de Netanias, matado a Gedalias, filho de Aicão, a quem o rei de babilônia tinha feito governador sobre a terra. ^v18
+**18** por causa dos caldeus. Estavam com medo deles desde que Ismael, filho de Netanias, matou Gedalias, filho de Aicam, a quem o rei da Babilônia havia posto como responsável pela terra. ^v18

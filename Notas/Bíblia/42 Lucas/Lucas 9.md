@@ -1,131 +1,130 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Lucas|Lucas]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Lucas|Lucas]]"
+tags: [biblia]
 ---
 
 # Lucas 9
 
-**1** E, convocando os seus doze discípulos, deu-lhes virtude e poder sobre todos os demônios, para curarem enfermidades. ^v1
+**1** Jesus convocou os doze e os deu poder e autoridade sobre todos os demônios e para curar doenças. ^v1
 
-**2** E enviou-os a pregar o reino de Deus, e a curar os enfermos. ^v2
+**2** Ele os enviou para pregar o Reino de Deus e curar os doentes. ^v2
 
-**3** E disse-lhes: Nada leveis convosco para o caminho, nem bordões, nem alforje, nem pão, nem dinheiro; nem tenhais duas túnicas. ^v3
+**3** Ele disse-lhes: “Não leveis nada para a viagem, nem cajado, bolsa, pão, dinheiro, nem mesmo uma túnica extra. ^v3
 
-**4** E em qualquer casa em que entrardes, ficai ali, e de lá saireis. ^v4
+**4** Qualquer casa em que entrardes, permanecei ali até retirardes do lugar. ^v4
 
-**5** E se em qualquer cidade vos não receberem, saindo vós dali, sacudi o pó dos vossos pés, em testemunho contra eles. ^v5
+**5** Quando não vos receberem, ao sair daquela cidade, sacudi a poeira de vossos pés em testemunho contra eles”. ^v5
 
-**6** E, saindo eles, percorreram todas as aldeias, anunciando o evangelho, e fazendo curas por toda a parte. ^v6
+**6** Eles então partiram pelas vilas, proclamando as boas novas e curando as pessoas por todos os lugares. ^v6
 
-**7** E o tetrarca Herodes ouviu todas as coisas que por ele foram feitas, e estava em dúvida, porque diziam alguns que João ressuscitara dentre os mortos; e outros que Elias tinha aparecido; ^v7
+**7** Herodes, o tetrarca, ouviu sobre tudo o que estava acontecendo e ficou perplexo, pois uns diziam que João Batista havia ressuscitado dos mortos. ^v7
 
-**8** E outros que um profeta dos antigos havia ressuscitado. ^v8
+**8** Alguns diziam que Elias havia aparecido e outros que um dos profetas antigos havia voltado à vida. ^v8
 
-**9** E disse Herodes: A João mandei eu degolar; quem é, pois, este de quem ouço dizer tais coisas? E procurava vê-lo. ^v9
+**9** Herodes, porém, disse: “A João eu mandei que fosse decapitado, então quem pode ser este sobre o qual ouço tais coisas?” E Herodes tentou encontrar alguma maneira de ver Jesus. ^v9
 
-**10** E, regressando os apóstolos, contaram-lhe tudo o que tinham feito. E, tomando-os consigo, retirou-se para um lugar deserto de uma cidade chamada Betsaida. ^v10
+**10** Quando os doze apóstolos enviados por Jesus retornaram, eles contaram-Lhe tudo que haviam feito. Então Jesus os levou consigo para uma cidade chamada Betsaida, ^v10
 
-**11** E, sabendo-o a multidão, o seguiu; e ele os recebeu, e falava-lhes do reino de Deus, e sarava os que necessitavam de cura. ^v11
+**11** mas as multidões ouviram sobre isso e O seguiram. Ele acolheu a todos, falou sobre o Reino de Deus e curou os que necessitavam ser curados. ^v11
 
-**12** E já o dia começava a declinar; então, chegando-se a ele os doze, disseram-lhe: Despede a multidão, para que, indo aos lugares e aldeias em redor, se agasalhem, e achem o que comer; porque aqui estamos em lugar deserto. ^v12
+**12** Quando estava entardecendo os doze vieram até Ele e disseram: “Despede a multidão, dessa forma eles poderão ir até vilas aos arredores e interior para encontrar abrigo e comida, pois o lugar que estamos é isolado. ^v12
 
-**13** Mas ele lhes disse: Dai-lhes vós de comer. E eles disseram: Não temos senão cinco pães e dois peixes, salvo se nós próprios formos comprar comida para todo este povo. ^v13
+**13** Mas Ele lhes disse: “Dai-lhes algo para comer”. Eles disseram: “Não temos mais que cinco pães e dois peixes, a não ser que fôssemos comprar comida para todo esse povo”. ^v13
 
-**14** Porquanto estavam ali quase cinco mil homens. Disse, então, aos seus discípulos: Fazei-os assentar, em ranchos de cinqüenta em cinqüenta. ^v14
+**14** [Havia cerca de cinco mil homens lá]. Então Ele disse aos Seus discípulos: “Fazei-os sentar em grupos de cerca de cinquenta pessoas”. ^v14
 
-**15** E assim o fizeram, fazendo-os assentar a todos. ^v15
+**15** Então eles assim fizeram e todas as pessoas assentaram-se. ^v15
 
-**16** E, tomando os cinco pães e os dois peixes, e olhando para o céu, abençoou-os, e partiu-os, e deu-os aos seus discípulos para os porem diante da multidão. ^v16
+**16** Ele pegou os cinco pães, os dois peixes e olhando para o céu os abençoou, partiu-os em pedaços e os entregou aos discípulos para que eles distribuíssem à multidão. ^v16
 
-**17** E comeram todos, e saciaram-se; e levantaram, do que lhes sobejou, doze alcofas de pedaços. ^v17
+**17** Todos comeram, ficaram satisfeitos e encheram doze cestos com a comida que sobrou. ^v17
 
-**18** E aconteceu que, estando ele só, orando, estavam com ele os discípulos; e perguntou-lhes, dizendo: Quem diz a multidão que eu sou? ^v18
+**18** E aconteceu que Jesus estava orando em particular e seus discípulos estavam com Ele. Então Ele os questionou: “Quem as multidões dizem que Eu sou?” ^v18
 
-**19** E, respondendo eles, disseram: João o Batista; outros, Elias, e outros que um dos antigos profetas ressuscitou. ^v19
+**19** E eles responderam: “Uns dizem que tu és João Batista, alguns dizem que és Elias e outros dizem que tu és um dos profetas antigos que voltou à vida”. ^v19
 
-**20** E disse-lhes: E vós, quem dizeis que eu sou? E, respondendo Pedro, disse: O Cristo de Deus. ^v20
+**20** "E disse-lhes: ""Mas quem dizeis que Eu sou?"" Respondendo Pedro disse: ""O Cristo de Deus""." ^v20
 
-**21** E, admoestando-os, mandou que a ninguém referissem isso, ^v21
+**21** Mas alertando-os, Jesus os instruiu que a ninguém falassem isso, ^v21
 
-**22** Dizendo: É necessário que o Filho do homem padeça muitas coisas, e seja rejeitado dos anciãos edos escribas, e seja morto, e ressuscite ao terceiro dia. ^v22
+**22** "dizendo-lhes : ""É necessário que o Filho do Homem sofra muitas coisas, seja rejeitado pelos anciãos, pelos chefes dos sacerdotes, pelos escribas, seja morto e seja ressuscitado no terceiro dia""." ^v22
 
-**23** E dizia a todos: Se alguém quer vir após mim, negue-se a si mesmo, e tome cada dia a sua cruz, e siga-me. ^v23
+**23** Se alguém quer vir após Mim, negue a si mesmo, tome a sua cruz diariamente e siga-me. ^v23
 
-**24** Porque, qualquer que quiser salvar a sua vida, perdê-la-á; mas qualquer que, por amor de mim, perder a sua vida, a salvará. ^v24
+**24** Aquele que deseja salvar a sua vida irá perdê-la, mas aquele que perder a sua vida por minha causa, irá salvá-la. ^v24
 
-**25** Porque, que aproveita ao homem granjear o mundo todo, perdendo-se ou prejudicando-se a si mesmo? ^v25
+**25** Pois que benefício há para uma pessoa se ela ganhar o mundo todo, mas perder-se ou arruinar-se a si mesmo? ^v25
 
-**26** Porque, qualquer que de mim e das minhas palavras se envergonhar, dele se envergonhará o Filho do homem, quando vier na sua glória, e na do Pai e dos santos anjos. ^v26
+**26** Aquele que se envergonha de Mim e das minhas palavras, o Filho do Homem se envergonhará dele quando vier em Sua glória, na glória do Pai e dos santos anjos. ^v26
 
-**27** E em verdade vos digo que, dos que aqui estão, alguns há que não provarão a morte até que vejam o reino de Deus. ^v27
+**27** Verdadeiramente eu vos digo, há alguns de vós que estais aqui que não passarão pela morte até que vejam o reino de Deus. ^v27
 
-**28** E aconteceu que, quase oito dias depois destas palavras, tomou consigo a Pedro, a João e a Tiago, e subiu ao monte a orar. ^v28
+**28** E aconteceu que, oito dias após dizer essas palavras, Jesus levou consigo Pedro, João e Tiago e subiu ao monte para orar. ^v28
 
-**29** E, estando ele orando, transfigurou-se a aparência do seu rosto, e a sua roupa ficou branca e mui resplandecente. ^v29
+**29** Enquanto Ele estava orando, a aparência do seu rosto mudou, suas roupas se tornaram brancas e resplandecentes. ^v29
 
-**30** E eis que estavam falando com ele dois homens, que eram Moisés e Elias, ^v30
+**30** E eis que dois homens estavam falando com Ele, Moisés e Elias, ^v30
 
-**31** Os quais apareceram com glória, e falavam da sua morte, a qual havia de cumprir-se em Jerusalém. ^v31
+**31** os quais apareceram em glorioso esplendor. Eles falavam sobre a partida Dele que estava prestes a se cumprir em Jerusalém. ^v31
 
-**32** E Pedro e os que estavam com ele estavam carregados de sono; e, quando despertaram, viram a sua glória e aqueles dois homens que estavam com ele. ^v32
+**32** Pedro e os que estavam com Ele estavam dominados pelo sono, mas quando despertaram, viram a glória de Jesus e os dois homens que estavam com Ele. ^v32
 
-**33** E aconteceu que, quando aqueles se apartaram dele, disse Pedro a Jesus: Mestre, bom é que nós estejamos aqui, e façamos três tendas: uma para ti, uma para Moisés, e uma para Elias, não sabendo o que dizia. ^v33
+**33** "Quando estes iam se afastando de Jesus, disse-Lhe Pedro: “Mestre, é bom estarmos aqui. Façamos três tendas, uma para Ti, uma para Moisés e outra para Elias"", porém ele não sabia o que dizia." ^v33
 
-**34** E, dizendo ele isto, veio uma nuvem que os cobriu com a sua sombra; e, entrando eles na nuvem, temeram. ^v34
+**34** Enquanto ele estava dizendo estas coisas, uma nuvem veio e os envolveu com sua sombra, eles ficaram aterrorizados ao entrarem na nuvem. ^v34
 
-**35** E saiu da nuvem uma voz que dizia: Este é o meu amado Filho; a ele ouvi. ^v35
+**35** "Uma voz saiu da nuvem, dizendo: “Este é o Meu Filho, O escolhido; a Ele ouvi""." ^v35
 
-**36** E, tendo soado aquela voz, Jesus foi achado só; e eles calaram-se, e por aqueles dias não contaram a ninguém nada do que tinham visto. ^v36
+**36** Quando a voz parou, Jesus estava sozinho. Eles ficaram em silêncio e naqueles dias não disseram nada a ninguém sobre o que tinham visto. ^v36
 
-**37** E aconteceu, no dia seguinte, que, descendo eles do monte, lhes saiu ao encontro uma grande multidão; ^v37
+**37** E aconteceu que, no dia seguinte, uma grande multidão O encontrou quando eles desceram do monte. ^v37
 
-**38** E eis que um homem da multidão clamou, dizendo: Mestre, peço-te que olhes para meu filho, porque é o único que eu tenho. ^v38
+**38** Um homem da multidão clamou dizendo: “Mestre, eu Te imploro que olhes para o meu filho, pois ele é o único que tenho. ^v38
 
-**39** Eis que um espírito o toma e de repente clama, e o despedaça até espumar; e só o larga depois de o ter quebrantado. ^v39
+**39** E eis que um espírito se apodera dele, que de repente grita, convulsiona e até espumar pela boca. O espírito dificilmente sai dele, machucando ele muito. ^v39
 
-**40** E roguei aos teus discípulos que o expulsassem, e não puderam. ^v40
+**40** Eu supliquei a Seus discípulos para que o expulsasse, mas eles não o puderam. ^v40
 
-**41** E Jesus, respondendo, disse: Ó geração incrédula e perversa! até quando estarei ainda convosco e vos sofrerei? Traze-me aqui o teu filho. ^v41
+**41** "Jesus respondeu-lhes, dizendo: ""Ó geração incrédula e perversa, até quando estarei convosco e vos suportarei? Traze o teu filho aqui”." ^v41
 
-**42** E, quando vinha chegando, o demônio o derrubou e convulsionou; porém, Jesus repreendeu o espírito imundo, e curou o menino, e o entregou a seu pai. ^v42
+**42** Enquanto o menino estava vindo, o demônio o lançou ao chão e o convulsionou. Mas Jesus repreendeu o espírito imundo, curou o menino e o entregou para o seu pai. ^v42
 
-**43** E todos pasmavam da majestade de Deus. E, maravilhando-se todos de todas as coisas que Jesus fazia, disse aos seus discípulos: ^v43
+**43** Todos ficaram maravilhados com a grandeza de Deus. Mas enquanto todos ainda estavam admirados com tudo o que Jesus fez, Ele disse aos Seus discípulos: ^v43
 
-**44** Ponde vós estas palavras em vossos ouvidos, porque o Filho do homem será entregue nas mãos dos homens. ^v44
+**44** “Ponde em vossos ouvidos estas palavras: o Filho do Homem será entregue nas mãos de homens”. ^v44
 
-**45** Mas eles não entendiam esta palavra, que lhes era encoberta, para que a não compreendessem; e temiam interrogá-lo acerca desta palavra. ^v45
+**45** Mas eles não entenderam o significado dessas palavras, isto foi-lhes encoberto, para que não entendessem. E estavam com medo de perguntá-Lo acerca dessa declaração. ^v45
 
-**46** E suscitou-se entre eles uma discussão sobre qual deles seria o maior. ^v46
+**46** Então os discípulos começaram a discutir entre si sobre qual deles seria o maior. ^v46
 
-**47** Mas Jesus, vendo o pensamento de seus corações, tomou um menino, pô-lo junto a si, ^v47
+**47** Mas Jesus sabendo o que eles estavam pensando em seus corações, pegou uma criança e a colocou ao seu lado, ^v47
 
-**48** E disse-lhes: Qualquer que receber este menino em meu nome, recebe-me a mim; e qualquer que me receber a mim, recebe o que me enviou; porque aquele que entre vós todos for o menor, esse mesmo será grande. ^v48
+**48** "e disse-lhes: “Se alguém receber esta criança em Meu nome, ele também Me recebe, e se alguém Me recebe, ele também recebe Aquele que Me enviou. Pois aquele que for o menor dentre vós, esse que é grande""." ^v48
 
-**49** E, respondendo João, disse: Mestre, vimos um que em teu nome expulsava os demônios, e lho proibimos, porque não te segue conosco. ^v49
+**49** João lhe disse: “Mestre, nós vimos alguém expulsando demônios em Seu nome e o proibimos, porque ele não Te segue conosco”. ^v49
 
-**50** E Jesus lhe disse: Não o proibais, porque quem não é contra nós é por nós. ^v50
+**50** Mas Jesus disse a ele: “Não o impeçais, pois quem não é contra vós é a favor de vós”. ^v50
 
-**51** E aconteceu que, completando-se os dias para a sua assunção, manifestou o firme propósito de ir a Jerusalém. ^v51
+**51** E aconteceu que, estando para se completar os dias de Sua ascensão, Ele resolutamente decidiu ir para Jerusalém ^v51
 
-**52** E mandou mensageiros adiante de si; e, indo eles, entraram numa aldeia de samaritanos, para lhe prepararem pousada, ^v52
+**52** e enviou mensageiros à sua frente. Eles entraram em uma vila samaritana para preparar Sua chegada. ^v52
 
-**53** Mas não o receberam, porque o seu aspecto era como de quem ia a Jerusalém. ^v53
+**53** Mas as pessoas de lá não O receberam, porque a Sua face estava direcionada para Jerusalém. ^v53
 
-**54** E os seus discípulos, Tiago e João, vendo isto, disseram: Senhor, queres que digamos que desça fogo do céu e os consuma, como Elias também fez? ^v54
+**54** Então quando Seus discípulos Tiago e João viram isso, eles disseram: “Senhor, queres que mandemos descer fogo do céu e os destruir?” ^v54
 
-**55** Voltando-se, porém, repreendeu-os, e disse: Vós não sabeis de que espírito sois. ^v55
+**55** Mas Jesus voltou-se para eles e os repreendeu. ^v55
 
-**56** Porque o Filho do homem não veio para destruir as almas dos homens, mas para salvá-las. E foram para outra aldeia. ^v56
+**56** Então eles foram para outra vila. ^v56
 
-**57** E aconteceu que, indo eles pelo caminho, lhe disse um: Senhor, seguir-te-ei para onde quer que fores. ^v57
+**57** Enquanto iam pelo caminho, alguém Lhe falou: “Eu Te seguirei para onde quer que fores”. ^v57
 
-**58** E disse-lhe Jesus: As raposas têm covis, e as aves do céu, ninhos, mas o Filho do homem não tem onde reclinar a cabeça. ^v58
+**58** Jesus disse-lhe: “As raposas têm suas tocas e os pássaros do céu seus ninhos, mas o Filho do homem não tem onde reclinar a cabeça”. ^v58
 
-**59** E disse a outro: Segue-me. Mas ele respondeu: Senhor, deixa que primeiro eu vá a enterrar meu pai. ^v59
+**59** Então Ele disse a outra pessoa: “Segue-me”. Mas ele respondeu: “Senhor, permita-me primeiro sepultar o meu pai”. ^v59
 
-**60** Mas Jesus lhe observou: Deixa aos mortos o enterrar os seus mortos; porém tu vai e anuncia o reino de Deus. ^v60
+**60** Mas Ele lhe disse: “Deixa que os mortos sepultem seus próprios mortos, tu, porém, vai e proclama em todo o lugar o reino de Deus”. ^v60
 
-**61** Disse também outro: Senhor, eu te seguirei, mas deixa-me despedir primeiro dos que estão em minha casa. ^v61
+**61** Outra pessoa também disse: “Eu vou te seguir, Senhor, mas me permita primeiro despedir-me dos de minha casa”. ^v61
 
-**62** E Jesus lhe disse: Ninguém, que lança mão do arado e olha para trás, é apto para o reino de Deus. ^v62
+**62** Mas Jesus disse-lhe: “Ninguém que, tendo posto a mão no arado e fica olhando para trás, é apto para o Reino de Deus”. ^v62

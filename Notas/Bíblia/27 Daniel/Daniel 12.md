@@ -1,33 +1,32 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Daniel|Daniel]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Daniel|Daniel]]"
+tags: [biblia]
 ---
 
 # Daniel 12
 
-**1** E naquele tempo se levantará Miguel, o grande príncipe, que se levanta a favor dos filhos do teu povo, e haverá um tempo de angústia, qual nunca houve, desde que houve nação até àquele tempo; mas naquele tempo livrar-se-á o teu povo, todo aquele que for achado escrito no livro. ^v1
+**1** Naquele tempo, Miguel, o grande príncipe que guarda o teu povo se levantará. Haverá um tempo de tribulação como nunca houve desde o início de qualquer nação até então. Naquele tempo, teu povo será salvo, todo aquele cujo nome for achado escrito no Livro. ^v1
 
-**2** E muitos dos que dormem no pó da terra ressuscitarão, uns para vida eterna, e outros para vergonha e desprezo eterno. ^v2
+**2** Muitos desses que dormem no pó da terra ressuscitarão, alguns para a vida eterna e outros para vergonha e desprezo eterno. ^v2
 
-**3** Os que forem sábios, pois, resplandecerão como o fulgor do firmamento; e os que a muitos ensinam a justiça, como as estrelas sempre e eternamente. ^v3
+**3** Aqueles que são sábios resplandecerão como o brilho do céu acima, e aqueles que convertem muitos para a justiça brilharão como as estrelas, para sempre e sempre. ^v3
 
-**4** E tu, Daniel, encerra estas palavras e sela este livro, até ao fim do tempo; muitos correrão de uma parte para outra, e o conhecimento se multiplicará. ^v4
+**4** "Mas tu, Daniel, sela estas palavras; guarda o livro selado até o fim do tempo. Muitos correrão aqui e ali, e o conhecimento aumentará""." ^v4
 
-**5** Então eu, Daniel, olhei, e eis que estavam em pé outros dois, um deste lado, à beira do rio, e o outro do outro lado, à beira do rio. ^v5
+**5** Então, eu, Daniel, olhei e havia outros dois em pé; um ficou de um lado da margem do rio e o outro do outro lado. ^v5
 
-**6** E ele disse ao homem vestido de linho, que estava sobre as águas do rio: Quando será o fim destas maravilhas? ^v6
+**6** "Um deles disse para o homem vestido de linho, aquele que estava rio acima: ""Quanto tempo haverá até o fim desses eventos maravilhosos?""." ^v6
 
-**7** E ouvi o homem vestido de linho, que estava sobre as águas do rio, o qual levantou ao céu a sua mão direita e a sua mão esquerda, e jurou por aquele que vive eternamente que isso seria para um tempo, tempos e metade do tempo, e quando tiverem acabado de espalhar o poder do povo santo, todas estas coisas serão cumpridas. ^v7
+**7** Eu ouvi o homem vestido de linho, que estava rio acima, ele levantou suas mãos para o céu e jurou por Aquele que vive para sempre, que haveria um tempo, tempos e metade de um tempo. Quando o poder do povo santo tiver sido destruído, todas essas coisas terão acontecido. ^v7
 
-**8** Eu, pois, ouvi, mas não entendi; por isso eu disse: Senhor meu, qual será o fim destas coisas? ^v8
+**8** "Eu ouvi, mas não entendi. Então, perguntei: ""Meu senhor, qual será o resultado de todas essas coisas?""." ^v8
 
-**9** E ele disse: Vai, Daniel, porque estas palavras estão fechadas e seladas até ao tempo do fim. ^v9
+**9** "Ele disse: ""Vai-te, Daniel, porque essas palavras estão lacradas e seladas até o fim dos tempos." ^v9
 
-**10** Muitos serão purificados, e embranquecidos, e provados; mas os ímpios procederão impiamente, e nenhum dos ímpios entenderá, mas os sábios entenderão. ^v10
+**10** Muitos serão purificados, limpos e refinados, mas os maus agirão com maldade. Nenhum dos maus entenderá, mas aqueles que são sábios entenderão. ^v10
 
-**11** E desde o tempo em que o sacrifício contínuo for tirado, e posta a abominação desoladora, haverá mil duzentos e noventa dias. ^v11
+**11** Desde o tempo que o sacrifício diário for tirado e a abominação que causa completa desolação estiver estabelecida, haverá um mil duzentos e noventa dias. ^v11
 
-**12** Bem-aventurado o que espera e chega até mil trezentos e trinta e cinco dias. ^v12
+**12** Bendito é o que espera até o fim de mil trezentos e trinta e cinco dias. ^v12
 
-**13** Tu, porém, vai até ao fim; porque descansarás, e te levantarás na tua herança, no fim dos dias. ^v13
+**13** "Tu deves seguir teu caminho até o fim, e descansarás. Tu descansarás e te levantarás no lugar designado para ti no fim dos dias""." ^v13

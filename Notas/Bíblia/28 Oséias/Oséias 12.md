@@ -1,35 +1,34 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Oséias|Oséias]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Oséias|Oséias]]"
+tags: [biblia]
 ---
 
 # Oséias 12
 
-**1** Efraim se apascenta de vento, e segue o vento leste; todo o dia multiplica a mentira e a destruição; e fazem aliança com a Assíria, e o azeite se leva ao Egito. ^v1
+**1** Efraim se alimenta de vento e segue após o vento leste. Multiplica, continuamente, mentira e violência. Faz aliança com a Assíria e leva azeite para o Egito. ^v1
 
-**2** O Senhor também com Judá tem contenda, e castigará Jacó segundo os seus caminhos; segundo as suas obras o recompensará. ^v2
+**2** Yahweh também tem uma demanda contra Judá e castigará Jacó por aquilo que tem feito, e vai retribuí-lo por suas obras. ^v2
 
-**3** No ventre pegou do calcanhar de seu irmão, e na sua força lutou com Deus. ^v3
+**3** Ainda no útero, Jacó agarrou seu irmão pelo calcanhar e, na sua humanidade, brigou com Deus. ^v3
 
-**4** Lutou com o anjo, e prevaleceu; chorou, e lhe suplicou; em Betel o achou, e ali falou conosco, ^v4
+**4** Ele brigou com o anjo e venceu. Chorou e implorou por Seu favor. Ele encontrou Deus em Betel; ali, Deus falou com ele. ^v4
 
-**5** Sim, o Senhor, o Deus dos Exércitos; o Senhor é o seu memorial. ^v5
+**5** "Este é Yahweh, o Deus dos Exércitos; ""Yahweh"" é o nome pelo qual deve ser chamado." ^v5
 
-**6** Tu, pois, converte-te a teu Deus; guarda a benevolência e o juízo, e em teu Deus espera sempre. ^v6
+**6** Então, volta para o teu Deus. Guarda o amor leal e a justiça, e espere continuamente por teu Deus. ^v6
 
-**7** É um mercador; tem nas mãos uma balança enganosa; ama a opressão. ^v7
+**7** Os mercadores têm balanças falsas em suas mãos; eles amam defraudar. ^v7
 
-**8** E diz Efraim: Contudo me tenho enriquecido, e tenho adquirido para mim grandes bens; em todo o meu trabalho não acharão em mim iniqüidade alguma que seja pecado. ^v8
+**8** "Efraim disse, ""Eu me tornei muito rico por mim mesmo. Em todo o meu trabalho eles não encontrarão qualquer iniquidade em mim, qualquer coisa que possa ser pecado.""" ^v8
 
-**9** Mas eu sou o Senhor teu Deus desde a terra do Egito; eu ainda te farei habitar em tendas, como nos dias da festa solene. ^v9
+**9** """Eu sou Yahweh, teu Deus, da terra do Egito. Eu farei, novamente, com que vivam em tendas, como nos dias dos festivais estabelecidos." ^v9
 
-**10** Falei aos profetas, e multipliquei a visão; e pelo ministério dos profetas propus símiles. ^v10
+**10** "Eu falei aos profetas e lhes dei muitas visões. Pelas mãos dos profetas eu dei parábolas.""" ^v10
 
-**11** Não é Gileade iniqüidade? Pura vaidade são eles; em Gilgal sacrificam bois; os seus altares são como montões de pedras nos sulcos dos campos. ^v11
+**11** Gileade certamente tem ídolos por vaidade. Em Gilgal, eles sacrificam touros; seus altares serão como um amontoado de pedras nos sulcos dos campos. ^v11
 
-**12** Jacó fugiu para o campo da Síria, e Israel serviu por uma mulher, e por uma mulher guardou o gado. ^v12
+**12** Jacó fugiu para a terra de Aram; Israel trabalhou para conseguir uma esposa; guardou rebanhos de ovelhas para consegui-la. ^v12
 
-**13** Mas o Senhor por meio de um profeta fez subir a Israel do Egito, e por um profeta foi ele guardado. ^v13
+**13** Yahweh trouxe Israel do Egito por meio de um profeta e, o profeta cuidou deles. ^v13
 
-**14** Efraim mui amargosamente provocou a sua ira; portanto deixará ficar sobre ele o seu sangue, e o seu Senhor o recompensará pelo seu opróbrio. ^v14
+**14** Efraim rudemente provocou a ira de Yahweh. Por isso o Senhor deixará o sangue derramado sobre Efraim, e trará desgraça sobre ele. ^v14

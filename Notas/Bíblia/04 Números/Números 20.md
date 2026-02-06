@@ -1,65 +1,64 @@
 ---
-Livro: "[[Números|Números]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Números|Números]]"
+tags: [biblia]
 ---
 
 # Números 20
 
-**1** Chegando os filhos de Israel, toda a congregação, ao deserto de Zim, no mês primeiro, o povo ficou em Cades; e Miriã morreu ali, e ali foi sepultada. ^v1
+**1** Então, o povo de Israel — toda a comunidade — foi para o deserto de Zim, no primeiro mês. Eles ficaram em Cades. Ali, Miriã morreu e foi sepultada. ^v1
 
-**2** E não havia água para a congregação; então se reuniram contra Moisés e contra Arão. ^v2
+**2** Não havia água para a comunidade, por isso, juntaram-se contra Moisés e Arão. ^v2
 
-**3** E o povo contendeu com Moisés, dizendo: Quem dera tivéssemos perecido quando pereceram nossos irmãos perante o Senhor! ^v3
+**3** "O povo se queixou contra Moisés. Disseram: ""Teria sido melhor se tivéssemos morrido quando os nossos irmãos morreram diante de Yahweh!""." ^v3
 
-**4** E por que trouxestes a congregação do Senhor a este deserto, para que morramos aqui, nós e os nossos animais? ^v4
+**4** Por que trouxeste a comunidade de Yahweh para este deserto para morrer aqui, nós e os nossos animais? ^v4
 
-**5** E por que nos fizestes subir do Egito, para nos trazer a este lugar mau? lugar onde não há semente, nem de figos, nem de vides, nem de romãs, nem tem água para beber. ^v5
+**5** "E por que tu nos fizeste sair do Egito para trazer-nos para este lugar horrível? Aqui não há sementes, figos, vinhas ou romãs, e não há água para beber""." ^v5
 
-**6** Então Moisés e Arão se foram de diante do povo à porta da tenda da congregação, e se lançaram sobre os seus rostos; e a glória do Senhor lhes apareceu. ^v6
+**6** Então, Moisés e Arão saíram da frente da assembleia. Eles foram para a entrada da Tenda do Encontro e se prostraram com as suas faces voltadas para o chão. Ali, a glória de Yahweh lhes apareceu. ^v6
 
-**7** E o Senhor falou a Moisés dizendo: ^v7
+**7** Yahweh falou a Moisés, dizendo: ^v7
 
-**8** Toma a vara, e ajunta a congregação, tu e Arão, teu irmão, e falai à rocha, perante os seus olhos, e dará a sua água; assim lhes tirarás água da rocha, e darás a beber à congregação e aos seus animais. ^v8
+**8** """Pega o teu cajado e reúne a comunidade, tu e o teu irmão Arão. Fala à pedra diante dos olhos deles e ordena que dela flua água. Vocês tirarão água da rocha e a darão à comunidade e ao seu gado para beber""." ^v8
 
-**9** Então Moisés tomou a vara de diante do Senhor, como lhe tinha ordenado. ^v9
+**9** Moisés pegou o cajado na presença de Yahweh, conforme Yahweh lhe ordenara. ^v9
 
-**10** E Moisés e Arão reuniram a congregação diante da rocha, e Moisés disse-lhes: Ouvi agora, rebeldes, porventura tiraremos água desta rocha para vós? ^v10
+**10** "Então, Moisés e Arão reuniram a assembleia diante da rocha. Moisés lhes disse: ""Escutai agora, vós rebeldes. Devemos nós tirar água desta rocha para vós?""." ^v10
 
-**11** Então Moisés levantou a sua mão, e feriu a rocha duas vezes com a sua vara, e saiu muita água; e bebeu a congregação e os seus animais. ^v11
+**11** Então, Moisés levantou a sua mão e bateu na rocha duas vezes com o seu cajado, e saiu muita água. A comunidade e o seu gado a beberam. ^v11
 
-**12** E o Senhor disse a Moisés e a Arão: Porquanto não crestes em mim, para me santificardes diante dos filhos de Israel, por isso não introduzireis esta congregação na terra que lhes tenho dado. ^v12
+**12** "Então, Yahweh disse a Moisés e Arão: ""Porque não confiastes em mim e não me honrastes como Santo diante dos olhos do povo de Israel, não levarei esta assembleia à terra que também lhes dei""." ^v12
 
-**13** Estas são as águas de Meribá, porque os filhos de Israel contenderam com o Senhor; e se santificou neles. ^v13
+**13** Esse lugar foi chamado águas de Meribá porque o povo de Israel contendeu com Yahweh ali, e Ele lhes mostrou a Sua santidade. ^v13
 
-**14** Depois Moisés, de Cades, mandou mensageiros ao rei de Edom, dizendo: Assim diz teu irmão Israel: Sabes todo o trabalho que nos sobreveio, ^v14
+**14** "Moisés mandou mensageiros de Cades ao rei de Edom: ""O teu irmão Israel diz isto:" ^v14
 
-**15** Como nossos pais desceram ao Egito, e nós no Egito habitamos muitos dias; e como os egípcios nos maltrataram, a nós e a nossos pais; ^v15
+**15** 'Tu conheces todas as dificuldades que temos enfrentado. Tu sabes que nossos antepassados desceram para o Egito e viveram por lá um tempo longo. Os egípcios nos trataram asperamente e também aos nossos antepassados. ^v15
 
-**16** E clamamos ao Senhor, e ele ouviu a nossa voz, e mandou um anjo, e nos tirou do Egito; e eis que estamos em Cades, cidade na extremidade dos teus termos. ^v16
+**16** Quando clamamos a Yahweh, Ele ouviu a nossa voz e mandou um anjo e nos tirou do Egito. Vê, estamos em Cades, uma cidade na fronteira com a tua terra. ^v16
 
-**17** Deixa-nos, pois, passar pela tua terra; não passaremos pelo campo, nem pelas vinhas, nem beberemos a água dos poços; iremos pela estrada real; não nos desviaremos para a direita nem para a esquerda, até que passemos pelos teus termos. ^v17
+**17** "Eu estou te pedindo que nos deixes passar por tua terra. Não passaremos pelo campo ou pelo vinhedo, nem beberemos água dos teus poços. Passaremos ao longo da estrada real. Não nos desviaremos para a direita ou para a esquerda, até que tenhamos passado por tuas fronteiras""." ^v17
 
-**18** Porém Edom lhe disse: Não passarás por mim, para que eu não saia com a espada ao teu encontro. ^v18
+**18** "Mas o rei de Edom lhe respondeu: ""Não poderás passar por aqui. Se o fizeres, irei com a espada para te atacar"". Então, o povo de Israel lhe disse:" ^v18
 
-**19** Então os filhos de Israel lhe disseram: Subiremos pelo caminho aplanado, e se eu e o meu gado bebermos das tuas águas, darei o preço delas; não desejo alguma outra coisa, senão passar a pé. ^v19
+**19** """Nós iremos ao longo da estrada. Se nós ou as nossas manadas bebermos da tua água, nós pagaremos por isso. Apenas nos deixa passar a pé, sem fazer nada mais""." ^v19
 
-**20** Porém ele disse: Não passarás. E saiu-lhe Edom ao encontro com muita gente, e com mão forte. ^v20
+**20** "Mas o rei de Edom respondeu: ""Tu não poderás passar"". Desse modo, o rei de Edom veio contra Israel com mão forte, com muitos soldados." ^v20
 
-**21** Assim recusou Edom deixar passar a Israel pelo seu termo; por isso Israel se desviou dele. ^v21
+**21** O rei de Edom se recusou a deixar Israel passar por sua fronteira. Por causa disso, Israel se afastou da terra de Edom. ^v21
 
-**22** Então partiram de Cades; e os filhos de Israel, toda a congregação, chegaram ao monte Hor. ^v22
+**22** Assim, o povo partiu de Cades. O povo de Israel — toda a comunidade — chegou ao Monte Hor. ^v22
 
-**23** E falou o Senhor a Moisés e a Arão no monte Hor, nos termos da terra de Edom, dizendo: ^v23
+**23** Yahweh falou a Moisés e Arão no Monte Hor, na fronteira do Edom dizendo: ^v23
 
-**24** Arão será recolhido a seu povo, porque não entrará na terra que tenho dado aos filhos de Israel, porquanto rebeldes fostes à minha ordem, nas águas de Meribá. ^v24
+**24** """Arão será reunido ao seu povo, porque ele não entrará na terra que dei ao povo de Israel. Isto porque vos rebelastes contra a Minha palavra nas águas de Meribá." ^v24
 
-**25** Toma a Arão e a Eleazar, seu filho, e faze-os subir ao monte Hor. ^v25
+**25** Toma Arão e Eleazar, seu filho, e os leva para o Monte Hor. ^v25
 
-**26** E despe a Arão as suas vestes, e veste-as em Eleazar, seu filho, porque Arão será recolhido, e morrerá ali. ^v26
+**26** "Tira as roupas sacerdotais de Arão e coloca-as em Eleazer, seu filho. Arão morrerá e será reunido ao seu povo""." ^v26
 
-**27** Fez, pois, Moisés como o Senhor lhe ordenara; e subiram ao monte Hor perante os olhos de toda a congregação. ^v27
+**27** Moisés fez como Yahweh lhe ordenou. Eles subiram o Monte Hor diante de toda a comunidade. ^v27
 
-**28** E Moisés despiu a Arão de suas vestes, e as vestiu em Eleazar, seu filho; e morreu Arão ali sobre o cume do monte; e desceram Moisés e Eleazar do monte. ^v28
+**28** Moisés lhe tirou as roupas sacerdotais e as colocou em Eleazar, seu filho. Arão morreu no topo da montanha. E, então, Moisés e Eleazar desceram. ^v28
 
-**29** Vendo, pois, toda a congregação que Arão era morto, choraram a Arão trinta dias, toda a casa de Israel. ^v29
+**29** Quando toda a comunidade viu que Arão estava morto, a nação inteira chorou por ele durante trinta dias. ^v29

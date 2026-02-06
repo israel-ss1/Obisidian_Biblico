@@ -1,55 +1,54 @@
 ---
-Livro: "[[Gênesis|Gênesis]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Gênesis|Gênesis]]"
+tags: [biblia]
 ---
 
 # Gênesis 3
 
-**1** Ora, a serpente era mais astuta que todas as alimárias do campo que o SENHOR Deus tinha feito. E esta disse à mulher: É assim que Deus disse: Não comereis de toda a árvore do jardim? ^v1
+**1** "Ora, a serpente era mais astuta que qualquer outro animal que Yahweh Deus criou. E ela perguntou à mulher: ""Deus realmente disse: 'Vós não devereis comer de nenhuma árvore do jardim?'""." ^v1
 
-**2** E disse a mulher à serpente: Do fruto das árvores do jardim comeremos, ^v2
+**2** "A mulher disse para a serpente: ""Podemos comer do fruto das árvores do jardim," ^v2
 
-**3** Mas do fruto da árvore que está no meio do jardim, disse Deus: Não comereis dele, nem nele tocareis para que não morrais. ^v3
+**3** "mas não podemos comer o fruto da árvore que está no meio do jardim; pois Deus disse: 'Não deveis comer dele, não deveis tocar nele, senão morrereis'""." ^v3
 
-**4** Então a serpente disse à mulher: Certamente não morrereis. ^v4
+**4** "A serpente disse para a mulher: ""Certamente, não morrereis," ^v4
 
-**5** Porque Deus sabe que no dia em que dele comerdes se abrirão os vossos olhos, e sereis como Deus, sabendo o bem e o mal. ^v5
+**5** "porque Deus sabe que, no dia em que dele comerdes, vossos olhos se abrirão, e sereis como Deus, conhecendo o bem e o mal""." ^v5
 
-**6** E viu a mulher que aquela árvore era boa para se comer, e agradável aos olhos, e árvore desejável para dar entendimento; tomou do seu fruto, e comeu, e deu também a seu marido, e ele comeu com ela. ^v6
+**6** Quando a mulher viu que aquela árvore era boa para comer, agradável aos olhos e desejável para dar conhecimento, pegou o fruto, comeu-o e o deu ao seu marido, e ele comeu. ^v6
 
-**7** Então foram abertos os olhos de ambos, e conheceram que estavam nus; e coseram folhas de figueira, e fizeram para si aventais. ^v7
+**7** Os olhos dos dois se abriram e eles perceberam que estavam nus; costuraram folhas de figueira e fizeram vestimentas para si. ^v7
 
-**8** E ouviram a voz do Senhor Deus, que passeava no jardim pela viração do dia; e esconderam-se Adão e sua mulher da presença do Senhor Deus, entre as árvores do jardim. ^v8
+**8** Eles ouviram a voz de Yahweh Deus, que estava caminhando pelo jardim no frescor do dia. Então o homem e sua mulher esconderam-se da presença de Yahweh Deus entre as árvores do jardim. ^v8
 
-**9** E chamou o Senhor Deus a Adão, e disse-lhe: Onde estás? ^v9
+**9** "Yahweh Deus chamou o homem e lhe disse: ""Onde tu estás?""." ^v9
 
-**10** E ele disse: Ouvi a tua voz soar no jardim, e temi, porque estava nu, e escondi-me. ^v10
+**10** "E o homem disse: ""Ouvi a Tua voz no jardim e fiquei com medo, porque eu estava nu; então me escondi""." ^v10
 
-**11** E Deus disse: Quem te mostrou que estavas nu? Comeste tu da árvore de que te ordenei que não comesses? ^v11
+**11** "Deus disse: ""Quem te disse que estavas nu? Comeste da árvore que Eu disse que não deverias comer?""." ^v11
 
-**12** Então disse Adão: A mulher que me deste por companheira, ela me deu da árvore, e comi. ^v12
+**12** "O homem respondeu: ""A mulher que Tu me deste, deu-me do fruto da árvore, e eu comi""." ^v12
 
-**13** E disse o Senhor Deus à mulher: Por que fizeste isto? E disse a mulher: A serpente me enganou, e eu comi. ^v13
+**13** "Yahweh Deus disse para a mulher: ""Que fizeste?"" A mulher respondeu: ""A serpente me enganou, e eu comi""." ^v13
 
-**14** Então o Senhor Deus disse à serpente: Porquanto fizeste isto, maldita serás mais que toda a fera, e mais que todos os animais do campo; sobre o teu ventre andarás, e pó comerás todos os dias da tua vida. ^v14
+**14** "Yahweh Deus disse à serpente: ""Porque fizeste isso, tu serás maldita entre todos os animais domésticos e todos os animais selvagens. Rastejarás sobre teu ventre e comerás poeira pelo resto da tua vida." ^v14
 
-**15** E porei inimizade entre ti e a mulher, e entre a tua semente e a sua semente; esta te ferirá a cabeça, e tu lhe ferirás o calcanhar. ^v15
+**15** "Porei inimizade entre ti e a mulher, e entre teu descendente e o descendente dela; Este ferirá tua cabeça, e tu ferirás Seu calcanhar""." ^v15
 
-**16** E à mulher disse: Multiplicarei grandemente a tua dor, e a tua conceição; com dor darás à luz filhos; e o teu desejo será para o teu marido, e ele te dominará. ^v16
+**16** "E à mulher disse: ""Multiplicarei grandemente tua dor ao dar à luz; é na dor que tu irás ter filhos. Teu desejo será para teu marido, mas ele governará sobre ti""." ^v16
 
-**17** E a Adão disse: Porquanto deste ouvidos à voz de tua mulher, e comeste da árvore de que te ordenei, dizendo: Não comerás dela, maldita é a terra por causa de ti; com dor comerás dela todos os dias da tua vida. ^v17
+**17** "E ao homem disse: ""Porque ouviste a voz da tua mulher e comeste do fruto da árvore que te ordenei, dizendo: 'Não comerás dela', a terra será amaldiçoada por tua causa, trabalharás duramente para poder comer dela, todos os dias de tua vida." ^v17
 
-**18** Espinhos, e cardos também, te produzirá; e comerás a erva do campo. ^v18
+**18** Ela produzirá espinhos e ervas daninhas, e tu comerás das plantas do campo. ^v18
 
-**19** No suor do teu rosto comerás o teu pão, até que te tornes à terra; porque dela foste tomado; porquanto és pó e em pó te tornarás. ^v19
+**19** "Do suor da tua face comerás o pão, até retornares à terra de onde tu foste tirado. Porque tu és pó, e ao pó retornarás'""." ^v19
 
-**20** E chamou Adão o nome de sua mulher Eva; porquanto era a mãe de todos os viventes. ^v20
+**20** O homem chamou a sua mulher de Eva, porque ela era a mãe de todos os seres vivos. ^v20
 
-**21** E fez o Senhor Deus a Adão e à sua mulher túnicas de peles, e os vestiu. ^v21
+**21** Yahweh Deus fez vestimentas de peles para Adão, e sua esposa e os vestiu. ^v21
 
-**22** Então disse o Senhor Deus: Eis que o homem é como um de nós, sabendo o bem e o mal; ora, para que não estenda a sua mão, e tome também da árvore da vida, e coma e viva eternamente, ^v22
+**22** "Yahweh Deus disse: ""Agora o homem tornou-se como um de nós, conhecendo o bem e o mal. Não permitirei que ele tome da árvore da vida e dela coma e viva para sempre""." ^v22
 
-**23** O Senhor Deus, pois, o lançou fora do jardim do Éden, para lavrar a terra de que fora tomado. ^v23
+**23** Por isso Yahweh Deus o lançou fora do jardim do Éden, para cultivar a terra da qual foi tirado. ^v23
 
-**24** E havendo lançado fora o homem, pôs querubins ao oriente do jardim do Éden, e uma espada inflamada que andava ao redor, para guardar o caminho da árvore da vida. ^v24
+**24** Então Deus expulsou o homem, pôs os querubins a leste do jardim do Éden e uma espada flamejante que se revolvia por todos os lados, a fim de proteger o caminho da árvore da vida. ^v24

@@ -1,93 +1,92 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Josué|Josué]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Josué|Josué]]"
+tags: [biblia]
 ---
 
 # Josué 10
 
-**1** E sucedeu que, ouvindo Adoni-Zedeque, rei de Jerusalém, que Josué tomara a Ai, e a tinha destruído totalmente, e fizera a Ai, e ao seu rei, como tinha feito a Jericó e ao seu rei, e que os moradores de Gibeom fizeram paz com os israelitas, e estavam no meio deles, ^v1
+**1** Adoni-Zedeque, rei de Jerusalém, ouviu que Josué havia capturado e destruído completamente a cidade de Ai (assim como ele havia feito com Jericó e seu rei), e ouviu que o povo de Gibeão havia feito acordo de paz com Israel e estava vivendo no meio deles. ^v1
 
-**2** Temeram muito, porque Gibeom era uma cidade grande, como uma das cidades reais, e ainda maior do que Ai, e todos os seus homens valentes. ^v2
+**2** O povo de Jerusalém teve muito medo, pois Gibeão era uma cidade grande, como uma das cidades reais, e era maior que Ai, e todos os seus homens eram guerreiros fortes. ^v2
 
-**3** Pelo que Adoni-Zedeque, rei de Jerusalém, enviou a Hoão, rei de Hebrom, e a Pirão, rei de Jarmute, e a Jafia, rei de Laquis e a Debir, rei de Eglom, dizendo: ^v3
+**3** Então, Adoni-Zedeque, rei de Jerusalém, enviou mensagem para Hoão, rei de Hebrom, a Pirã, rei de Jarmute, a Jafia, rei de Laquis, e a Debir, rei de Eglom, dizendo-lhes: ^v3
 
-**4** Subi a mim, e ajudai-me, e firamos a Gibeom, porquanto fez paz com Josué e com os filhos de Israel. ^v4
+**4** """Vinde e me ajudai. Vamos atacar Gibeão, porque fez acordo de paz com Josué e com o povo de Israel""." ^v4
 
-**5** Então se ajuntaram, e subiram cinco reis dos amorreus, o rei de Jerusalém, o rei de Hebrom, o rei de Jarmute, o rei de Laquis, o rei de Eglom, eles e todos os seus exércitos; e sitiaram a Gibeom e pelejaram contra ela. ^v5
+**5** Os cinco reis dos amorreus: o rei de Jerusalém, o rei de Hebrom, o rei de Jarmute, o rei de Laquis e o rei de Eglom vieram com todos os seus exércitos, posicionaram-se contra a cidade de Gibeão e a atacaram. ^v5
 
-**6** Enviaram, pois, os homens de Gibeom a Josué, ao arraial de Gilgal, dizendo: Não retires as tuas mãos de teus servos; sobe apressadamente a nós, e livra-nos e ajuda-nos, porquanto todos os reis dos amorreus, que habitam na montanha, se ajuntaram contra nós. ^v6
+**6** "Os gibeonitas enviaram mensagem a Josué e ao acampamento em Gilgal, dizendo: ""Não retires de teus servos a tua mão. Vem rapidamente, e salva-nos. Ajuda-nos, pois todos os reis dos amorreus que moram na região montanhosa se reuniram para nos atacar""." ^v6
 
-**7** Então subiu Josué, de Gilgal, ele e toda a gente de guerra com ele, e todos os homens valorosos. ^v7
+**7** Josué partiu de Gilgal, e, junto dele, todos os homens de guerra, incluindo os seus melhores guerreiros. ^v7
 
-**8** E o Senhor disse a Josué: Não os temas, porque os tenho dado na tua mão; nenhum deles te poderá resistir. ^v8
+**8** "Yahweh disse a Josué: ""Não os temas. Eu os entreguei em tuas mãos. Nenhum deles poderá parar o teu ataque""." ^v8
 
-**9** E Josué lhes sobreveio de repente, porque toda a noite veio subindo desde Gilgal. ^v9
+**9** Depois de marchar a noite toda desde a cidade de Gilgal, Josué os atacou de surpresa. ^v9
 
-**10** E o Senhor os conturbou diante de Israel, e os feriu com grande matança em Gibeom; e perseguiu-os pelo caminho que sobe a Bete-Horom, e feriu-os até Azeca e a Maquedá. ^v10
+**10** E Yahweh confundiu os inimigos diante de Israel, que os matou em grande quantidade em Gibeão, perseguindo-os pelo caminho que sobe para Bete-Horom, matando-os até Azeca e Maqueda. ^v10
 
-**11** E sucedeu que fugindo eles de diante de Israel, à descida de Bete-Horom, o Senhor lançou sobre eles, do céu, grandes pedras, até Azeca, e morreram; e foram muitos mais os que morreram das pedras da saraiva do que os que os filhos de Israel mataram à espada. ^v11
+**11** Enquanto eles fugiam de Israel, descendo a montanha de Bete-Horom, Yahweh lançou grandes pedras do céu sobre eles por todo o caminho até Azeca, e morreram. E foram mais os que morreram das pedras de granizo do que aqueles que os homens de Israel mataram à espada. ^v11
 
-**12** Então Josué falou ao Senhor, no dia em que o Senhor deu os amorreus nas mãos dos filhos de Israel, e disse na presença dos israelitas: Sol, detém-te em Gibeom, e tu, lua, no vale de Ajalom. ^v12
+**12** "Então, Josué falou a Yahweh, no dia em que Ele deu a vitória aos homens de Israel contra os amorreus. Isto é o que ele disse a Yahweh, diante de Israel: ""Sol, permanece em Gibeão, e lua, no vale de Aijalom""." ^v12
 
-**13** E o sol se deteve, e a lua parou, até que o povo se vingou de seus inimigos. Isto não está escrito no livro de Jasher? O sol, pois, se deteve no meio do céu, e não se apressou a pôr-se, quase um dia inteiro. ^v13
+**13** O sol parou, também a lua parou de se mover, até a nação se vingar dos seus inimigos. Não está isso escrito no Livro de Jasar? O sol parou no meio do céu, e não se pôs por quase um dia inteiro. ^v13
 
-**14** E não houve dia semelhante a este, nem antes nem depois dele, ouvindo o Senhor assim a voz de um homem; porque o Senhor pelejava por Israel. ^v14
+**14** E não houve nenhum dia como esse, nem antes nem depois dele, quando Yahweh atendeu, de tal forma, a voz de um ser humano. Pois Yahweh batalhava por Israel. ^v14
 
-**15** E voltou Josué, e todo o Israel com ele, ao arraial, em Gilgal. ^v15
+**15** Josué e todo o Israel retornaram ao acampamento em Gilgal. ^v15
 
-**16** Aqueles cinco reis, porém, fugiram, e se esconderam numa cova em Maquedá. ^v16
+**16** Então, os cinco reis escaparam e se esconderam na caverna em Maqueda. ^v16
 
-**17** E foi anunciado a Josué, dizendo: Acharam-se os cinco reis escondidos numa cova em Maquedá. ^v17
+**17** "E foi dito a Josué: ""Foram encontrados! Os cinco reis estão escondidos na caverna de Maqueda!""." ^v17
 
-**18** Disse, pois, Josué: Arrastai grandes pedras à boca da cova, e ponde sobre ela homens que os guardem; ^v18
+**18** "Josué disse: ""Arrastai grandes pedras contra a boca da caverna e colocai soldados lá para os guardar." ^v18
 
-**19** Porém vós não vos detenhais; persegui os vossos inimigos, e atacai os que vão ficando atrás; não os deixeis entrar nas suas cidades, porque o Senhor vosso Deus já vo-los deu na vossa mão. ^v19
+**19** "Não fiqueis parados! Que persigais os vossos inimigos e ataqueis os que vão ficando atrás. Não os deixeis entrar nas cidades deles, pois Yahweh, vosso Deus, já os entregou em vossas mãos""." ^v19
 
-**20** E sucedeu que, acabando Josué e os filhos de Israel de os ferir com grande matança, até consumi-los, e os que ficaram deles se retiraram às cidades fortificadas, ^v20
+**20** Josué e os filhos de Israel continuaram a vencê-los em uma grande matança, até que fossem quase completamente destruídos. Apenas alguns sobreviventes que escaparam chegaram às cidades fortificadas. ^v20
 
-**21** Todo o povo voltou em paz a Josué, ao arraial em Maquedá; não havendo ninguém que movesse a sua língua contra os filhos de Israel. ^v21
+**21** Todo o exército retornou em paz para Josué, no acampamento de Maqueda. E nenhum se atreveu a dizer uma palavra contra o povo de Israel. ^v21
 
-**22** Depois disse Josué: Abri a boca da cova, e trazei-me para fora aqueles cinco reis. ^v22
+**22** "Então, Josué disse: ""Abri, vós, a boca da caverna e trazei-me aqueles cinco reis""." ^v22
 
-**23** Fizeram, pois, assim, e trouxeram-lhe aqueles cinco reis para fora da cova: o rei de Jerusalém, o rei de Hebrom, o rei de Jarmute, o rei de Laquis e o rei de Eglom. ^v23
+**23** Fizeram como ele mandou e trouxeram da caverna os cinco reis: o rei de Jerusalém, o rei de Hebrom, o rei de Jarmute, o rei de Laquis e o rei de Eglom. ^v23
 
-**24** E sucedeu que, trazendo aqueles reis a Josué, este chamou todos os homens de Israel, e disse aos capitães dos homens de guerra, que foram com ele: Chegai, ponde os vossos pés sobre os pescoços destes reis. E chegaram, e puseram os seus pés sobre os pescoços deles. ^v24
+**24** "E, quando trouxeram os reis a Josué, ele convocou cada homem de Israel, e disse aos comandantes dos soldados que foram para a batalha com ele: ""Ponde vossos pés nos pescoços deles"". Então, eles se aproximaram e puseram os pés nos pescoços dos reis." ^v24
 
-**25** Então Josué lhes disse: Não temais, nem vos espanteis; esforçai-vos e animai-vos; porque assim o fará o Senhor a todos os vossos inimigos, contra os quais pelejardes. ^v25
+**25** "Então, Josué lhes disse: ""Não temais e nem vos abaleis. Sede fortes e corajosos. Isso é o que Yahweh fará com todos os vossos inimigos, contra os quais haveis de lutar""." ^v25
 
-**26** E, depois disto, Josué os feriu, e os matou, e os enforcou em cinco madeiros; e ficaram enforcados nos madeiros até à tarde. ^v26
+**26** Então, Josué feriu e matou os reis e os pendurou em cinco árvores até a tarde. ^v26
 
-**27** E sucedeu que, ao pôr do sol, deu Josué ordem que os tirassem dos madeiros; e lançaram-nos na cova onde se esconderam; e puseram grandes pedras à boca da cova, que ainda ali estão até o dia de hoje. ^v27
+**27** Quando o sol se pôs, Josué deu ordens, e eles foram tirados das árvores onde estavam pendurados e foram lançados na caverna onde tinham se escondido. Eles colocaram grandes pedras na boca da caverna, que permanecem ali até o dia de hoje. ^v27
 
-**28** E naquele mesmo dia tomou Josué a Maquedá, e feriu-a a fio de espada, bem como ao seu rei; totalmente a destruiu com todos que nela havia, sem nada deixar; e fez ao rei de Maquedá como fizera ao rei de Jericó. ^v28
+**28** Naquele mesmo dia, Josué tomou Maqueda e matou a todos ao fio de espada, inclusive o seu rei. Ele destruiu completamente todos os que nela havia. Não deixou nenhum sobrevivente. Ele fez com o reino de Maqueda como havia feito com o reino de Jericó. ^v28
 
-**29** Então Josué, e todo o Israel com ele, passou de Maquedá a Libna e pelejou contra ela. ^v29
+**29** Josué e todo o Israel foram de Maqueda para Libna e lutaram contra a cidade. ^v29
 
-**30** E também o Senhor a deu na mão de Israel, a ela e a seu rei, e a feriu a fio de espada, a ela e a todos que nela estavam; sem nada deixar; e fez ao seu rei como fizera ao rei de Jericó. ^v30
+**30** Yahweh também a entregou nas mãos de Israel, junto com seu rei. Josué atacou todas as pessoas que nela havia ao fio de espada. Ele não deixou nenhum sobrevivente ali e fez com o rei o mesmo que havia feito com o rei de Jericó. ^v30
 
-**31** Então Josué, e todo o Israel com ele, passou de Libna a Laquis; e a sitiou, e pelejou contra ela; ^v31
+**31** Então, Josué e todo o Israel foram de Libna para Laquis. Eles a sitiaram e batalharam contra ela. ^v31
 
-**32** E o Senhor deu a Laquis nas mãos de Israel, e tomou-a no dia seguinte e a feriu a fio de espada, a ela e a todos os que nela estavam, conforme a tudo o que fizera a Libna. ^v32
+**32** Yahweh deu Laquis nas mãos de Israel. Josué a tomou no segundo dia. Ele atacou, ao fio de espada, cada pessoa que estava lá, da mesma forma que ele havia feito em Libna. ^v32
 
-**33** Então Horão, rei de Gezer, subiu a ajudar a Laquis, porém Josué o feriu, a ele e ao seu povo, até não lhe deixar nem sequer um. ^v33
+**33** Horão, rei de Gezer, subiu para ajudar Laquis. Josué o atacou e também o seu exército, até que não restasse nenhum sobrevivente. ^v33
 
-**34** E Josué, e todo o Israel com ele, passou de Laquis a Eglom, e a sitiaram, e pelejaram contra ela. ^v34
+**34** Então, Josué e todo povo foram de Laquis para Eglom. Eles a sitiaram e lutaram contra ela, ^v34
 
-**35** E no mesmo dia a tomaram, e a feriram a fio de espada; e a todos os que nela estavam, destruiu totalmente no mesmo dia, conforme a tudo o que fizera a Laquis. ^v35
+**35** e a tomaram no mesmo dia. Eles a atacaram ao fio de espada e destruíram todos, completamente, como Josué havia feito a Laquis. ^v35
 
-**36** Depois Josué, e todo o Israel com ele, subiu de Eglom a Hebrom, e pelejaram contra ela. ^v36
+**36** Josué e todo o povo de Israel subiram de Eglom a Hebrom, e batalharam contra ela. ^v36
 
-**37** E a tomaram, e a feriram ao fio de espada, assim ao seu rei como a todas as suas cidades; e a todos os que nelas estavam, a ninguém deixou com vida, conforme a tudo o que fizera a Eglom; e a destruiu totalmente, a ela e a todos os que nela estavam. ^v37
+**37** Eles a tomaram e a atacaram ao fio de espada, incluindo o rei e todos os seus povoados, como também todos os que nela estavam. Eles destruíram completamente todos ali, sem deixar sobreviventes, assim como fizeram a Eglom. ^v37
 
-**38** Então Josué, e todo o Israel com ele, tornou a Debir, e pelejou contra ela. ^v38
+**38** Então, Josué e todo o exército de Israel retornaram a Debir e batalharam contra ela. ^v38
 
-**39** E tomou-a com o seu rei, e a todas as suas cidades, e as feriu a fio de espada, e a todos os que nelas estavam destruiu totalmente; nada deixou; como fizera a Hebrom, assim fez a Debir e ao seu rei, e como fizera a Libna e ao seu rei. ^v39
+**39** Eles a tomaram, bem como seu rei e todos os seus povoados. Eles os atacaram ao fio de espada e destruíram completamente todos os que estavam ali. Não deixaram sobreviventes, do mesmo modo que haviam feito a Hebrom, e como haviam feito a Libna e ao seu rei. ^v39
 
-**40** Assim feriu Josué toda aquela terra, as montanhas, o sul, e as campinas, e as descidas das águas, e a todos os seus reis; nada deixou; mas tudo o que tinha fôlego destruiu, como ordenara o Senhor Deus de Israel. ^v40
+**40** Josué conquistou toda aquela terra, a região montanhosa, o Neguebe, a baixada e as encostas das montanhas. De todos os reis, ele não deixou nenhum sobrevivente. Destruiu completamente cada criatura viva, como Yahweh, o Deus de Israel, havia ordenado. ^v40
 
-**41** E Josué os feriu desde Cades-Barnéia, até Gaza, como também toda a terra de Gósen, e até Gibeom. ^v41
+**41** Josué os atacou desde Cades-Barneia até Gaza, e toda a região de Gósen até Gibeão. ^v41
 
-**42** E de uma vez tomou Josué todos estes reis, e as suas terras; porquanto o Senhor Deus de Israel pelejava por Israel. ^v42
+**42** E, de uma só vez, Josué derrotou todos esses reis e tomou suas terras, pois Yahweh, o Deus de Israel, lutou por Israel. ^v42
 
-**43** Então Josué, e todo o Israel com ele, voltou ao arraial em Gilgal. ^v43
+**43** Então, Josué e todo o povo de Israel voltaram ao acampamento em Gilgal. ^v43

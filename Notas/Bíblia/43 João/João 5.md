@@ -1,101 +1,100 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/João|João]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/João|João]]"
+tags: [biblia]
 ---
 
 # João 5
 
-**1** Depois disto havia uma festa entre os judeus, e Jesus subiu a Jerusalém. ^v1
+**1** Depois disso, houve uma festa dos judeus, e Jesus subiu a Jerusalém. ^v1
 
-**2** Ora, em Jerusalém há, próximo à porta das ovelhas, um tanque, chamado em hebreu Betesda, o qual tem cinco alpendres. ^v2
+**2** Existe em Jerusalém um tanque, perto da Porta das Ovelhas, que em aramaico se chama Betesda, e tem cinco entradas cobertas em volta. ^v2
 
-**3** Nestes jazia grande multidão de enfermos, cegos, mancos e ressicados, esperando o movimento da água. ^v3
+**3** Um grande número de pessoas doentes, cegos, mancos e paralíticos, costumava ficar por ali nas portas [esperando as águas se moverem, ^v3
 
-**4** Porquanto um anjo descia em certo tempo ao tanque, e agitava a água; e o primeiro que ali descia, depois do movimento da água, sarava de qualquer enfermidade que tivesse. ^v4
+**4** porque o anjo do Senhor descia e movia as águas de tempo em tempo, e qualquer que entrasse enquanto as águas se moviam, era curado de qualquer enfermidade (Os manuscritos antigos omitem esse trecho)]. ^v4
 
-**5** E estava ali um homem que, havia trinta e oito anos, se achava enfermo. ^v5
+**5** Certo homem, que estava enfermo havia trinta e oito anos, estava ali. ^v5
 
-**6** E Jesus, vendo este deitado, e sabendo que estava neste estado havia muito tempo, disse-lhe: Queres ficar são? ^v6
+**6** "Vendo-o deitado e sabendo que estava ali por muito tempo, Jesus lhe perguntou: ""Queres ser curado?”." ^v6
 
-**7** O enfermo respondeu-lhe: Senhor, não tenho homem algum que, quando a água é agitada, me ponha no tanque; mas, enquanto eu vou, desce outro antes de mim. ^v7
+**7** "O homem enfermo respondeu: ""Senhor, eu não tenho ninguém para me colocar no tanque, quando a água é agitada. Enquanto estou indo, outro passa à minha frente""." ^v7
 
-**8** Jesus disse-lhe: Levanta-te, toma o teu leito, e anda. ^v8
+**8** "Jesus lhe disse: Levanta-te, pega a tua maca, e anda""." ^v8
 
-**9** Logo aquele homem ficou são; e tomou o seu leito, e andava. E aquele dia era sábado. ^v9
+**9** Imediatamente, o homem ficou são, pegou sua maca e andou. Aquele dia era um sábado. ^v9
 
-**10** Então os judeus disseram àquele que tinha sido curado: É sábado, não te é lícito levar o leito. ^v10
+**10** "Então, os judeus disseram ao homem que havia sido curado: ""É sábado, e não te é permitido carregar a tua maca.""" ^v10
 
-**11** Ele respondeu-lhes: Aquele que me curou, ele próprio disse: Toma o teu leito, e anda. ^v11
+**11** "O homem respondeu: ""Aquele que me curou disse: 'Pega a tua maca, e anda'""." ^v11
 
-**12** Perguntaram-lhe, pois: Quem é o homem que te disse: Toma o teu leito, e anda? ^v12
+**12** "Perguntaram-lhe: ""Quem te disse: 'Pega a tua maca e anda?'""." ^v12
 
-**13** E o que fora curado não sabia quem era; porque Jesus se havia retirado, em razão de naquele lugar haver grande multidão. ^v13
+**13** Entretanto, o homem curado não sabia quem o curara, pois Jesus tinha se retirado secretamente por haver uma grande multidão ali. ^v13
 
-**14** Depois Jesus encontrou-o no templo, e disse-lhe: Eis que já estás são; não peques mais, para que não te suceda alguma coisa pior. ^v14
+**14** "Mais tarde, Jesus encontrou o homem no templo, e lhe disse: ""Eis que ficaste saudável! Não peques mais, para que algo pior não te aconteça""." ^v14
 
-**15** E aquele homem foi, e anunciou aos judeus que Jesus era o que o curara. ^v15
+**15** O homem se retirou e foi relatar aos judeus que Jesus é que o havia feito saudável. ^v15
 
-**16** E por esta causa os judeus perseguiram a Jesus, e procuravam matá-lo, porque fazia estas coisas no sábado. ^v16
+**16** Então, os líderes dos judeus perseguiam Jesus, porque Ele estava fazendo estas coisas no sábado. ^v16
 
-**17** E Jesus lhes respondeu: Meu Pai trabalha até agora, e eu trabalho também. ^v17
+**17** "Disse-lhes Jesus: ""Meu Pai trabalha até agora, e Eu trabalho também""." ^v17
 
-**18** Por isso, pois, os judeus ainda mais procuravam matá-lo, porque não só quebrantava o sábado, mas também dizia que Deus era seu próprio Pai, fazendo-se igual a Deus. ^v18
+**18** Por esta razão, os judeus ainda mais queriam matá-Lo, não apenas por quebrar o sábado, mas por chamar Deus de Seu próprio Pai, fazendo-Se igual a Deus. ^v18
 
-**19** Mas Jesus respondeu, e disse-lhes: Na verdade, na verdade vos digo que o Filho por si mesmo não pode fazer coisa alguma, se o não vir fazer o Pai; porque tudo quanto ele faz, o Filho o faz igualmente. ^v19
+**19** "Jesus lhes respondeu: ""Em verdade, em verdade, vos digo que o Filho não pode fazer nada por Si mesmo, apenas o que vê o Pai fazendo; pois o que o Pai faz, o Filho também faz." ^v19
 
-**20** Porque o Pai ama o Filho, e mostra-lhe tudo o que faz; e ele lhe mostrará maiores obras do que estas, para que vos maravilheis. ^v20
+**20** Porque o Pai ama o Filho, e mostra-Lhe tudo o que Ele mesmo faz, e mostrará coisas maiores que essas, e vós ficareis admirados. ^v20
 
-**21** Pois, assim como o Pai ressuscita os mortos, e os vivifica, assim também o Filho vivifica aqueles que quer. ^v21
+**21** Pois, assim como o Pai ressuscita os mortos e lhes dá vida, o Filho também dá vida a quem Ele quiser. ^v21
 
-**22** E também o Pai a ninguém julga, mas deu ao Filho todo o juízo; ^v22
+**22** Portanto, o Pai a ninguém julga, mas Ele concedeu todo o julgamento ao Filho, ^v22
 
-**23** Para que todos honrem o Filho, como honram o Pai. Quem não honra o Filho, não honra o Pai que o enviou. ^v23
+**23** para que todos honrem o Filho, tal como honram o Pai. E aquele que não honra o Filho, não honra o Pai que O enviou. ^v23
 
-**24** Na verdade, na verdade vos digo que quem ouve a minha palavra, e crê naquele que me enviou, tem a vida eterna, e não entrará em condenação, mas passou da morte para a vida. ^v24
+**24** Em verdade, em verdade, vos digo, que aquele que ouve as Minhas palavras e crê Naquele que Me enviou tem a vida eterna e não será condenado, mas passou da morte para a vida. ^v24
 
-**25** Em verdade, em verdade vos digo que vem a hora, e agora é, em que os mortos ouvirão a voz do Filho de Deus, e os que a ouvirem viverão. ^v25
+**25** Em verdade, em verdade, vos digo que virá o tempo, e já chegou, em que os mortos ouvirão a voz do Filho de Deus, e os que a ouvirem, viverão. ^v25
 
-**26** Porque, como o Pai tem a vida em si mesmo, assim deu também ao Filho ter a vida em si mesmo; ^v26
+**26** Pois, assim como o Pai tem a vida em Si mesmo, da mesma maneira, Ele concedeu ao Filho ter a vida em Si mesmo, ^v26
 
-**27** E deu-lhe o poder de exercer o juízo, porque é o Filho do homem. ^v27
+**27** e o Pai deu ao Filho autoridade para exercer julgamento, porque Ele é o Filho do Homem. ^v27
 
-**28** Não vos maravilheis disto; porque vem a hora em que todos os que estão nos sepulcros ouvirão a sua voz. ^v28
+**28** Não vos admireis com isso, pois está chegando o tempo em que aqueles que estiverem nos túmulos ouvirão a Sua voz e sairão: ^v28
 
-**29** E os que fizeram o bem sairão para a ressurreição da vida; e os que fizeram o mal para a ressurreição da condenação. ^v29
+**29** os que fizeram o bem, para a ressurreição da vida, e os que fizeram o mal, para a ressurreição do julgamento. ^v29
 
-**30** Eu não posso de mim mesmo fazer coisa alguma. Como ouço, assim julgo; e o meu juízo é justo, porque não busco a minha vontade, mas a vontade do Pai que me enviou. ^v30
+**30** Eu não posso fazer nada por Mim mesmo. Como ouço, julgo, e o Meu julgamento é justo porque não estou procurando fazer a Minha vontade, mas a vontade Daquele que Me enviou. ^v30
 
-**31** Se eu testifico de mim mesmo, o meu testemunho não é verdadeiro. ^v31
+**31** Se, sozinho, Eu der testemunho de Mim mesmo, o Meu testemunho não é verdadeiro. ^v31
 
-**32** Há outro que testifica de mim, e sei que o testemunho que ele dá de mim é verdadeiro. ^v32
+**32** Existe um Outro que testifica acerca de Mim, e Eu sei que o Seu testemunho sobre Mim é verdadeiro. ^v32
 
-**33** Vós mandastes mensageiros a João, e ele deu testemunho da verdade. ^v33
+**33** Vós enviastes mensageiros a João, e ele testificou a verdade. ^v33
 
-**34** Eu, porém, não recebo testemunho de homem; mas digo isto, para que vos salveis. ^v34
+**34** Entretanto, o testemunho que Eu recebo não vem do homem. Eu digo estas coisas a fim de que vós sejais salvos. ^v34
 
-**35** Ele era a candeia que ardia e alumiava, e vós quisestes alegrar-vos por um pouco de tempo com a sua luz. ^v35
+**35** João era uma lâmpada que ardia e iluminava e, por um pouco de tempo, vos alegrastes com sua luz. ^v35
 
-**36** Mas eu tenho maior testemunho do que o de João; porque as obras que o Pai me deu para realizar, as mesmas obras que eu faço, testificam de mim, que o Pai me enviou. ^v36
+**36** Contudo, o testemunho que tenho é maior do que o de João, pois as obras que o Pai Me deu para realizar, as mesmas obras que faço, testificam de Mim que o Pai me enviou. ^v36
 
-**37** E o Pai, que me enviou, ele mesmo testificou de mim. Vós nunca ouvistes a sua voz, nem vistes o seu parecer. ^v37
+**37** O próprio Pai, que Me enviou, testificou a Meu respeito. Vós nunca ouvistes Sua voz, nem vistes Sua forma; ^v37
 
-**38** E a sua palavra não permanece em vós, porque naquele que ele enviou não credes vós. ^v38
+**38** e nem tendes a Sua palavra em vós, pois não credes Naquele que Ele enviou. ^v38
 
-**39** Examinais as Escrituras, porque vós cuidais ter nelas a vida eterna, e são elas que de mim testificam; ^v39
+**39** Examinais as Escrituras porque acreditais ter nelas a vida eterna, e essas mesmas Escrituras testemunham a Meu respeito; ^v39
 
-**40** E não quereis vir a mim para terdes vida. ^v40
+**40** mas não quereis vir a Mim para terdes vida. ^v40
 
-**41** Eu não recebo glória dos homens; ^v41
+**41** Eu não recebo glória de homens, ^v41
 
-**42** Mas bem vos conheço, que não tendes em vós o amor de Deus. ^v42
+**42** mas sei que não tendes em vosso interior o amor de Deus. ^v42
 
-**43** Eu vim em nome de meu Pai, e não me aceitais; se outro vier em seu próprio nome, a esse aceitareis. ^v43
+**43** Eu vim em Nome de Meu Pai, e não Me recebestes; se outro qualquer vier em seu próprio nome, vós o recebereis. ^v43
 
-**44** Como podeis vós crer, recebendo honra uns dos outros, e não buscando a honra que vem só de Deus? ^v44
+**44** Como podeis crer, vós que recebeis glória uns dos outros, mas não buscais a glória que vem do único Deus? ^v44
 
-**45** Não cuideis que eu vos hei de acusar para com o Pai. Há um que vos acusa, Moisés, em quem vós esperais. ^v45
+**45** Não penseis que Eu mesmo vos acusarei perante o Pai. Aquele que vos acusa é Moisés, em quem pondes a vossa esperança. ^v45
 
-**46** Porque, se vós crêsseis em Moisés, creríeis em mim; porque de mim escreveu ele. ^v46
+**46** Se tivésseis crido em Moisés, creríeis em Mim, porque ele testemunhou a Meu respeito. ^v46
 
-**47** Mas, se não credes nos seus escritos, como crereis nas minhas palavras? ^v47
+**47** "Porém, se não crestes no que ele escreveu, como crereis em Minhas palavras?""." ^v47

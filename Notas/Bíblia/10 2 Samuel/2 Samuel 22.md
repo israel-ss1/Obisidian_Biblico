@@ -1,109 +1,108 @@
 ---
-Livro: "[[2 Samuel|2 Samuel]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/2 Samuel|2 Samuel]]"
+tags: [biblia]
 ---
 
 # 2 Samuel 22
 
-**1** E Falou Davi ao SENHOR as palavras deste cântico, no dia em que o SENHOR o livrou das mãos de todos os seus inimigos e das mãos de Saul. ^v1
+**1** Davi louvou a Yahweh, com as palavras desta canção, quando Yahweh o livrou das mãos de todos os seus inimigos e da mãos de Saul. ^v1
 
-**2** Disse pois: O Senhor é o meu rochedo, e o meu lugar forte, e o meu libertador. ^v2
+**2** "Orou Davi dizendo: ""Yahweh é meu rochedo, minha fortaleza e meu libertador." ^v2
 
-**3** Deus é o meu rochedo, nele confiarei; o meu escudo, e a força da minha salvação, o meu alto retiro, e o meu refúgio. Ó meu Salvador, da violência me salvas. ^v3
+**3** Deus é minha rocha; Nele eu me refugio. Ele é meu escudo e a força da minha salvação, minha fortaleza e meu refúgio, Aquele que me livra da violência. ^v3
 
-**4** O Senhor, digno de louvor, invocarei, e de meus inimigos ficarei livre, ^v4
+**4** Clamarei a Yahweh, que é digno de louvor, e serei salvo dos meus inimigos. ^v4
 
-**5** Porque me cercaram as ondas de morte; as torrentes dos homens ímpios me assombraram. ^v5
+**5** Pois as ondas da morte me cercaram; as ondas impetuosas da destruição me submergiram. ^v5
 
-**6** Cordas do inferno me cingiram; encontraram-me laços de morte. ^v6
+**6** Os cordões do Sheol me cercaram; as armadilhas de morte me prenderam. ^v6
 
-**7** Estando em angústia, invoquei ao Senhor, e a meu Deus clamei; do seu templo ouviu ele a minha voz, e o meu clamor chegou aos seus ouvidos. ^v7
+**7** Na minha angústia, clamei a Yahweh; clamei ao meu Deus e, do Seu Templo, Ele ouviu a minha voz, e meu clamor por socorro subiu até os Seus ouvidos. ^v7
 
-**8** Então se abalou e tremeu a terra, os fundamentos dos céus se moveram e abalaram, porque ele se irou. ^v8
+**8** Então, a terra sacudiu e tremeu. Os fundamentos dos céus tremeram e foram abalados, porque Deus estava irado. ^v8
 
-**9** Subiu fumaça de suas narinas, e da sua boca um fogo devorador; carvões se incenderam dele. ^v9
+**9** Das Suas narinas, subiu fumaça, e fogo abrasador saiu de Sua boca; e essas brasas ficaram em chamas. ^v9
 
-**10** E abaixou os céus, e desceu; e uma escuridão havia debaixo de seus pés. ^v10
+**10** Ele abriu os céus e desceu, e, debaixo dos Seus pés, havia densas trevas. ^v10
 
-**11** E subiu sobre um querubim, e voou; e foi visto sobre as asas do vento. ^v11
+**11** Ele montou num querubim e voou. Ele foi visto voando nas asas do vento. ^v11
 
-**12** E por tendas pôs as trevas ao redor de si; ajuntamento de águas, nuvens dos céus. ^v12
+**12** Fez das trevas uma tenda ao redor Dele, ajuntando densas nuvens de chuva no firmamento. ^v12
 
-**13** Pelo resplendor da sua presença brasas de fogo se acenderam. ^v13
+**13** Do relâmpago, diante Dele, caíram brasas de fogo. ^v13
 
-**14** Trovejou desde os céus o Senhor; e o Altíssimo fez soar a sua voz. ^v14
+**14** Yahweh trovejou dos céus. O Altíssimo bradou. ^v14
 
-**15** E disparou flechas, e os dissipou; raios, e os perturbou. ^v15
+**15** Ele atirou flechas e espalhou Seus inimigos com raios, e os dispersou. ^v15
 
-**16** E apareceram as profundezas do mar, e os fundamentos do mundo se descobriram; pela repreensão do Senhor, pelo sopro do vento das suas narinas. ^v16
+**16** Então, surgiram os canais de água; os fundamentos do mundo foram expostos ao brado de guerra de Yahweh, ao estrondo do sopro de Suas narinas. ^v16
 
-**17** Desde o alto enviou, e me tomou; tirou-me das muitas águas. ^v17
+**17** Das alturas, estendeu Sua mão e me segurou! Ele me tirou das águas profundas. ^v17
 
-**18** Livrou-me do meu poderoso inimigo, e daqueles que me tinham ódio, porque eram mais fortes do que eu. ^v18
+**18** Ele me resgatou do meu inimigo poderoso, daqueles que me odiavam, pois eles eram demasiadamente fortes para mim. ^v18
 
-**19** Encontraram-me no dia da minha calamidade; porém o Senhor se fez o meu amparo. ^v19
+**19** Eles vieram contra mim no dia da minha angústia, mas Yahweh foi meu suporte. ^v19
 
-**20** E tirou-me para um lugar espaçoso, e livrou-me, porque tinha prazer em mim. ^v20
+**20** Ele também me levou a um lugar espaçoso e me salvou porque Se agradou de mim. ^v20
 
-**21** Recompensou-me o Senhor conforme a minha justiça; conforme a pureza de minhas mãos me retribuiu. ^v21
+**21** Yahweh me recompensou conforme minha justiça; me restaurou conforme a pureza das minhas mãos. ^v21
 
-**22** Porque guardei os caminhos do Senhor; e não me apartei impiamente do meu Deus. ^v22
+**22** Pois tenho guardado os caminhos de Yahweh e não ajo perversamente, desviando-me do meu Deus. ^v22
 
-**23** Porque todos os seus juízos estavam diante de mim; e de seus estatutos não me desviei. ^v23
+**23** Pois todos os Seus atos de justiça têm estado diante de mim; acerca dos Seus estatutos, não me desviei deles. ^v23
 
-**24** Porém fui sincero perante ele; e guardei-me da minha iniqüidade. ^v24
+**24** Eu fui inocente diante Dele e tenho me afastado do pecado. ^v24
 
-**25** E me retribuiu o Senhor conforme a minha justiça, conforme a minha pureza diante dos seus olhos. ^v25
+**25** Por isto, Yahweh me restaurou segundo a minha justiça, segundo a minha pureza de coração diante dos Seus olhos. ^v25
 
-**26** Com o benigno te mostras benigno; com o homem íntegro te mostras perfeito. ^v26
+**26** Ao fiel, Tu te mostras fiel; ao homem íntegro, Tu te mostras íntegro. ^v26
 
-**27** Com o puro te mostras puro; mas com o perverso te mostras rígido. ^v27
+**27** Com o puro de coração, Tu te mostras puro; porém, Tu te mostras implacável com o perverso. ^v27
 
-**28** E o povo aflito livras; mas teus olhos são contra os altivos, e tu os abaterás. ^v28
+**28** Tu livras o aflito, mas os Teus olhos estão contra o soberbo para humilhá-lo. ^v28
 
-**29** Porque tu, Senhor, és a minha lâmpada; e o Senhor ilumina as minhas trevas. ^v29
+**29** Pois Tu, Yahweh, és minha lâmpada. Yahweh ilumina minha escuridão. ^v29
 
-**30** Porque contigo passo pelo meio de um esquadrão; pelo meu Deus salto um muro. ^v30
+**30** Pois Contigo, eu posso pular uma barreira; com meu Deus, eu posso saltar uma muralha. ^v30
 
-**31** O caminho de Deus é perfeito, e a palavra do Senhor refinada; e é o escudo de todos os que nele confiam. ^v31
+**31** Quanto a Deus, Seu caminho é perfeito. A palavra de Yahweh é pura. Ele é escudo para todos os que Nele se refugiam. ^v31
 
-**32** Por que, quem é Deus, senão o Senhor? E quem é rochedo, senão o nosso Deus? ^v32
+**32** Pois quem é Deus senão Yahweh? E quem é rocha senão nosso Deus? ^v32
 
-**33** Deus é a minha fortaleza e a minha força, e ele perfeitamente desembaraça o meu caminho. ^v33
+**33** Deus é o meu refúgio e Ele conduz o justo no Seu caminho. ^v33
 
-**34** Faz ele os meus pés como os das cervas, e me põe sobre as minhas alturas. ^v34
+**34** Ele faz meus pés velozes como os da corça e me põe sobre as montanhas. ^v34
 
-**35** Instrui as minhas mãos para a peleja, de maneira que um arco de cobre se quebra pelos meus braços. ^v35
+**35** Ele treina minhas mãos para a guerra e meus braços para vergar um arco de bronze. ^v35
 
-**36** Também me deste o escudo da tua salvação, e pela tua brandura me vieste a engrandecer. ^v36
+**36** Tu me deste o escudo da Tua salvação, e o Teu favor me fez grande. ^v36
 
-**37** Alargaste os meus passos debaixo de mim, e não vacilaram os meus artelhos. ^v37
+**37** Tu fizeste um amplo lugar debaixo dos meus pés, para que eles não escorreguem. ^v37
 
-**38** Persegui os meus inimigos, e os derrotei, e nunca me tornei até que os consumisse. ^v38
+**38** Eu persegui meus inimigos e os destruí. Não recuei até que eles foram derrotados. ^v38
 
-**39** E os consumi, e os atravessei, de modo que nunca mais se levantaram, mas caíram debaixo dos meus pés. ^v39
+**39** Eu os devorei e os despedacei; eles não conseguiram se levantar; eles caíram debaixo dos meus pés. ^v39
 
-**40** Porque me cingiste de força para a peleja; fizeste abater-se debaixo de mim os que se levantaram contra mim, ^v40
+**40** Tu me fortaleceste para a batalha; subjugaste debaixo dos meus pés aqueles que se levantaram contra mim. ^v40
 
-**41** E deste-me o pescoço de meus inimigos, daqueles que me tinham ódio, e os destruí. ^v41
+**41** Tu me deste o pescoço dos meus inimigos; eu aniquilei os que me odeiam. ^v41
 
-**42** Olharam, porém não houve libertador; sim, para o Senhor, porém não lhes respondeu. ^v42
+**42** Eles suplicaram por ajuda, mas ninguém os socorreu; eles gritaram por Yahweh, mas Ele não os respondeu. ^v42
 
-**43** Então os moí como o pó da terra; como a lama das ruas os trilhei e dissipei. ^v43
+**43** Eu os despedacei e fiz deles como poeira no chão. Eu os amassei como lama nas ruas. ^v43
 
-**44** Também me livraste das contendas do meu povo; guardaste-me para cabeça das nações; o povo que não conhecia me servirá. ^v44
+**44** Tu também me resgataste das contendas do meu próprio povo. Tu tens me mantido por cabeça das nações. Um povo que não conheci, me serve. ^v44
 
-**45** Os filhos de estranhos se me sujeitaram; ouvindo a minha voz, me obedeceram. ^v45
+**45** Estrangeiros foram obrigados a me reverenciar. Tão logo eles ouviram a meu respeito, me obedeceram. ^v45
 
-**46** Os filhos de estranhos desfaleceram; e, cingindo-se, saíram dos seus esconderijos. ^v46
+**46** Os estrangeiros saíram tremendo de suas fortalezas. ^v46
 
-**47** Vive o Senhor, e bendito seja o meu rochedo; e exaltado seja Deus, a rocha da minha salvação, ^v47
+**47** Yahweh vive! Seja exaltada a minha Rocha! Seja Deus exaltado, a Rocha da minha salvação! ^v47
 
-**48** O Deus que me dá inteira vingança, e sujeita os povos debaixo de mim. ^v48
+**48** Este é o Deus que executa vingança em meu favor; Aquele que sujeita povos a mim. ^v48
 
-**49** E o que me tira dentre os meus inimigos; e tu me exaltas sobre os que contra mim se levantam; do homem violento me livras. ^v49
+**49** Ele me liberta dos meus inimigos. Na verdade, Tu me ergueste acima daqueles que se levantaram contra mim. Tu me resgatas do homem violento. ^v49
 
-**50** Por isso, ó Senhor, te louvarei entre os gentios, e entoarei louvores ao teu nome. ^v50
+**50** Por isso, eu Te darei graças, ó Yahweh, entre as nações; cantarei louvores ao Teu nome. ^v50
 
-**51** Ele é a torre das salvações do seu rei, e usa de benignidade com o seu ungido, com Davi, e com a sua descendência para sempre. ^v51
+**51** "Deus concede grande vitória ao Seu rei, e Ele revela Sua aliança de lealdade ao Seu ungido, a Davi e aos seus descendentes, para sempre""." ^v51

@@ -1,63 +1,62 @@
 ---
-Livro: "[[1 Reis|1 Reis]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/1 Reis|1 Reis]]"
+tags: [biblia]
 ---
 
 # 1 Reis 9
 
-**1** Sucedeu, pois, que, acabando Salomão de edificar a casa do SENHOR, e a casa do rei, e todo o desejo de Salomão, que lhe veio à vontade fazer, ^v1
+**1** Depois que Salomão terminou de construir o templo de Yahweh e o palácio do rei, e depois que realizou tudo que o queria fazer, ^v1
 
-**2** O Senhor tornou a aparecer a Salomão; como lhe tinha aparecido em Gibeom. ^v2
+**2** Yahweh apareceu a ele pela segunda vez, como havia aparecido em Gibeão. ^v2
 
-**3** E o Senhor lhe disse: Ouvi a tua oração, e a súplica que fizeste perante mim; santifiquei a casa que edificaste, a fim de pôr ali o meu nome para sempre; e os meus olhos e o meu coração estarão ali todos os dias. ^v3
+**3** "E Yahweh lhe disse: ""Eu tenho escutado a oração e a súplica que tens feito diante de Mim. Estou consagrando este templo, o qual tu construíste para Mim, para colocar o Meu nome ali para sempre; Meus olhos e Meu coração estarão ali para sempre." ^v3
 
-**4** E se tu andares perante mim como andou Davi, teu pai, com inteireza de coração e com sinceridade, para fazeres segundo tudo o que te mandei, e guardares os meus estatutos e os meus juízos, ^v4
+**4** Se andares diante de Mim, como teu pai Davi andou, em integridade de coração e em retidão, obedecendo a tudo o que Eu te tenho ordenado e guardando Meus estatutos e Meus decretos, ^v4
 
-**5** Então confirmarei o trono de teu reino sobre Israel para sempre; como falei acerca de teu pai Davi, dizendo: Não te faltará sucessor sobre o trono de Israel; ^v5
+**5** então estabelecerei para sempre o trono de teu reino sobre Israel, como prometi a Davi, teu pai, dizendo: 'Nunca te faltará sucessor sobre o trono de Israel.' ^v5
 
-**6** Porém, se vós e vossos filhos de qualquer maneira vos apartardes de mim, e não guardardes os meus mandamentos, e os meus estatutos, que vos tenho proposto, mas fordes, e servirdes a outros deuses, e vos prostrardes perante eles, ^v6
+**6** Mas, se tu ou teus filhos se afastarem de Mim e não guardarem Meus mandamentos e Meus estatutos que tenho estabelecido diante de ti, e se tu fores e adorares outros deuses e te curvares diante deles, ^v6
 
-**7** Então destruirei a Israel da terra que lhes dei; e a esta casa, que santifiquei a meu nome, lançarei longe da minha presença; e Israel será por provérbio e motejo, entre todos os povos. ^v7
+**7** então Eu eliminarei Israel da terra que lhes dei; e este templo que consagrei ao Meu Nome, Eu o expulsarei para fora da minha presença; então Israel se tornará um motivo de zombaria e um objeto ridicularizado entre os povos. ^v7
 
-**8** E desta casa, que é tão exaltada, todo aquele que por ela passar pasmará, e assobiará, e dirá: Por que fez o Senhor assim a esta terra e a esta casa? ^v8
+**8** Este templo se tornará um monte de ruínas, e todos que passarem por ele ficarão chocados, assobiarão e perguntarão: 'Por que Yahweh fez isto a esta terra e a esta casa?' ^v8
 
-**9** E dirão: Porque deixaram ao Senhor seu Deus, que tirou da terra do Egito a seus pais, e se apegaram a deuses alheios, e se encurvaram perante eles, e os serviram; por isso trouxe o Senhor sobre eles todo este mal. ^v9
+**9** "Outros responderão: 'Porque eles abandonaram Yahweh, seu Deus, que trouxe seus antepassados para fora da terra do Egito, e eles se apegaram a outros deuses, curvaram-se diante eles, e os adoraram; por isso Yahweh trouxe toda esta calamidade sobre eles'.""" ^v9
 
-**10** E sucedeu, ao fim de vinte anos, que Salomão edificara as duas casas; a casa do Senhor e a casa do rei ^v10
+**10** Aconteceu que, ao fim de vinte anos, Salomão havia terminado de construir os dois edifícios: o templo de Yahweh e o palácio do rei. ^v10
 
-**11** (Para o que Hirão, rei de Tiro, trouxera a Salomão madeira de cedro e de cipreste, e ouro, segundo todo o seu desejo); então deu o rei Salomão a Hirão vinte cidades na terra da Galiléia. ^v11
+**11** Hirão, rei de Tiro, forneceu para Salomão árvores de cedro e de pinho, além de todo o ouro que Salomão desejava. Então o rei Salomão deu a Hirão vinte cidades na terra da Galiléia. ^v11
 
-**12** E saiu Hirão de Tiro a ver as cidades que Salomão lhe dera, porém não foram boas aos seus olhos. ^v12
+**12** E Hirão saiu de Tiro para ver as cidades que Salomão tinha lhe dado, mas elas não o agradaram. ^v12
 
-**13** Por isso disse: Que cidades são estas que me deste, irmão meu? E chamaram-nas: Terra de Cabul, até hoje. ^v13
+**13** "Então, Hirão perguntou a Salomão: ""Que cidades são estas que me destes, meu irmão?"" Hirão as chamou de Terra de Cabul, como são chamadas ainda hoje." ^v13
 
-**14** E enviara Hirão ao rei cento e vinte talentos de ouro. ^v14
+**14** Hirão havia enviado ao rei cento e vinte talentos de ouro. ^v14
 
-**15** E esta é a causa do tributo que impôs o rei Salomão, para edificar a casa do Senhor e a sua casa, e Milo, e o muro de Jerusalém, como também a Hasor, e a Megido, e a Gezer. ^v15
+**15** Estas são as razões pelas quais Salomão impôs trabalhos forçados: para construir o templo de Yahweh e seu próprio palácio, para construir o Milo e o muro de Jerusalém, e ainda construir as defesas de Hazor, Megido e Gezer. ^v15
 
-**16** Porque Faraó, rei do Egito, subiu e tomou a Gezer, e a queimou a fogo, e matou os cananeus que moravam na cidade, e a deu em dote à sua filha, mulher de Salomão. ^v16
+**16** Faraó, rei do Egito, tinha subido e tomado Gezer; ele a destruiu com fogo e matou os cananeus na cidade. Então Faraó deu a cidade para sua filha, esposa de Salomão, como presente de casamento. ^v16
 
-**17** Assim edificou Salomão a Gezer, e Bete-Horom, a baixa, ^v17
+**17** Assim Salomão reconstruiu Gezer e Bete-Horom, a Baixa, ^v17
 
-**18** E a Baalate, e a Tadmor, no deserto daquela terra, ^v18
+**18** Baalate e Tadmor, no deserto na terra de Judá, ^v18
 
-**19** E a todas as cidades de provisões que Salomão tinha, e as cidades dos carros, e as cidades dos cavaleiros, e tudo o que Salomão quis edificar em Jerusalém, e no Líbano, e em toda a terra do seu domínio. ^v19
+**19** e todas as cidades-armazéns que ele possuia, e as cidades para suas carruagens e as cidades para seus cavaleiros, e tudo que ele desejava construir para seu prazer em Jerusalém, no Líbano, e em todas as terras sob seu domínio. ^v19
 
-**20** Quanto a todo o povo que restou dos amorreus, heteus, perizeus, heveus, e jebuseus, e que não eram dos filhos de Israel, ^v20
+**20** Quanto a todos os que restaram dos amorreus, dos heteus, dos perizeus, dos heveus e dos jebuseus, que não eram do povo de Israel — ^v20
 
-**21** A seus filhos, que restaram depois deles na terra, os quais os filhos de Israel não puderam destruir totalmente, Salomão os reduziu a tributo servil, até hoje. ^v21
+**21** os descendentes daqueles que, depois deles, ficaram na terra, a quem o povo de Israel não conseguiu destruir totalmente — Salomão os recrutou como trabalhadores forçados, e é assim até os dias de hoje. ^v21
 
-**22** Porém dos filhos de Israel não fez Salomão servo algum; porém eram homens de guerra, e seus criados, e seus príncipes, e seus capitães, e chefes dos seus carros e dos seus cavaleiros. ^v22
+**22** Entretanto Salomão não fez trabalhadores forçados do povo de Israel. Em vez disso, eles se tornaram seus soldados e seus servos, seus funcionários, seus oficiais e comandantes de seus batalhões de carruagens e seus cavaleiros. ^v22
 
-**23** Estes eram os chefes dos oficiais que estavam sobre a obra de Salomão, quinhentos e cinqüenta, que davam ordens ao povo que trabalhava na obra. ^v23
+**23** Eles eram também os chefes oficiais, administrando os supervisores que estavam sobre as obras de Salomão — quinhentos e cinquenta deles — que supervisionavam o povo que fazia o trabalho. ^v23
 
-**24** Subiu, porém, a filha de Faraó da cidade de Davi, à sua casa, que Salomão lhe edificara; então edificou a Milo. ^v24
+**24** A filha do Faraó se mudou da cidade de Davi para a casa que Salomão havia construído para ela. Depois, Salomão construiu o Milo. ^v24
 
-**25** E oferecia Salomão três vezes cada ano holocaustos e sacrifícios pacíficos sobre o altar que edificaram ao Senhor, e queimava incenso sobre o que estava perante o Senhor; e assim acabou a casa. ^v25
+**25** E oferecia Salomão, três vezes por ano, ofertas queimadas e ofertas de paz no altar que ele construiu para Yahweh, queimando incenso com elas no altar, que estava diante de Yahweh. Assim ele completou a construção do templo. ^v25
 
-**26** Também o rei Salomão fez naus em Eziom-Geber, que está junto a Elate, à praia do mar de Sufe, na terra de Edom. ^v26
+**26** O rei Salomão construiu uma frota de navios em Eziom Geber, que fica perto de Elate, na costa do Mar Vermelho, na terra de Edom. ^v26
 
-**27** E mandou Hirão com aquelas naus a seus servos, marinheiros, que sabiam do mar, com os servos de Salomão. ^v27
+**27** Hirão enviou servos para a frota de Salomão, marinheiros que entendiam do mar, com os próprios servos de Salomão. ^v27
 
-**28** E vieram a Ofir, e tomaram de lá quatrocentos e vinte talentos de ouro, e os trouxeram ao rei Salomão. ^v28
+**28** Eles foram a Ofir com os servos de Salomão. De lá eles trouxeram quatrocentos e vinte talentos de ouro para o rei Salomão. ^v28

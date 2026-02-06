@@ -1,43 +1,42 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Tiago|Tiago]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Tiago|Tiago]]"
+tags: [biblia]
 ---
 
 # Tiago 3
 
-**1** Meus irmãos, muitos de vós não sejam mestres, sabendo que receberemos mais duro juízo. ^v1
+**1** Meus irmãos, poucas pessoas deveriam ser mestres. Sabemos que nós receberemos julgamento mais severo. ^v1
 
-**2** Porque todos tropeçamos em muitas coisas. Se alguém não tropeça em palavra, o tal é perfeito, e poderoso para também refrear todo o corpo. ^v2
+**2** Porque todos nós tropeçamos de muitas maneiras. Se alguém não tropeça nas palavras, é um homem plenamente desenvolvido, capaz de controlar até mesmo seu corpo inteiro. ^v2
 
-**3** Ora, nós pomos freio nas bocas dos cavalos, para que nos obedeçam; e conseguimos dirigir todo o seu corpo. ^v3
+**3** Se colocamos freios nas bocas de cavalos para que nos obedeçam, podemos também dirigir-lhes o corpo todo. ^v3
 
-**4** Vede também as naus que, sendo tão grandes, e levadas de impetuosos ventos, se viram com um bem pequeno leme para onde quer a vontade daquele que as governa. ^v4
+**4** Observai também que navios, embora sejam tão grandes e dirigidos por ventos fortes, são conduzidos por um pequeno leme para onde quer que o piloto queira. ^v4
 
-**5** Assim também a língua é um pequeno membro, e gloria-se de grandes coisas. Vede quão grande bosque um pequeno fogo incendeia. ^v5
+**5** Da mesma forma, a língua é uma pequena parte do corpo, mas se gloria de grandes coisas. Observai também como uma grande floresta é incendiada por uma pequena faísca. ^v5
 
-**6** A língua também é um fogo; como mundo de iniqüidade, a língua está posta entre os nossos membros, e contamina todo o corpo, e inflama o curso da natureza, e é inflamada pelo inferno. ^v6
+**6** A língua é também um fogo, um mundo de pecaminosidade entre as partes do nosso corpo, que mancha todo o corpo e incendeia o curso da vida. A própria língua é incendiada pelo inferno. ^v6
 
-**7** Porque toda a natureza, tanto de bestas feras como de aves, tanto de répteis como de animais do mar, se amansa e foi domada pela natureza humana; ^v7
+**7** Pois todo tipo de animal selvagem, ave, réptil e criaturas do mar são domesticáveis, e têm sido domesticados pela humanidade; ^v7
 
-**8** Mas nenhum homem pode domar a língua. É um mal que não se pode refrear; está cheia de peçonha mortal. ^v8
+**8** mas, quanto à língua, ninguém entre os homens é capaz de domá-la. Ela é um mal incontrolável, cheio de veneno mortal. ^v8
 
-**9** Com ela bendizemos a Deus e Pai, e com ela amaldiçoamos os homens, feitos à semelhança de Deus. ^v9
+**9** Com a língua, louvamos nosso Senhor e Pai, e com ela amaldiçoamos o homem, que foi feito à semelhança de Deus. ^v9
 
-**10** De uma mesma boca procede bênção e maldição. Meus irmãos, não convém que isto se faça assim. ^v10
+**10** Da mesma boca procedem bênção e maldição. Meus irmãos, essas coisas não devem acontecer. ^v10
 
-**11** Porventura deita alguma fonte de um mesmo manancial água doce e água amargosa? ^v11
+**11** Pode uma fonte jorrar ao mesmo tempo água doce e amarga? ^v11
 
-**12** Meus irmãos, pode também a figueira produzir azeitonas, ou a videira figos? Assim tampouco pode uma fonte dar água salgada e doce. ^v12
+**12** Meus irmãos, pode uma figueira produzir azeitonas? Ou uma videira produzir figos? Da mesma forma, a fonte de água salgada não pode produzir água doce. ^v12
 
-**13** Quem dentre vós é sábio e entendido? Mostre pelo seu bom trato as suas obras em mansidão de sabedoria. ^v13
+**13** Quem entre vós é sábio e entendido? Que essa pessoa demonstre um bom procedimento pelas suas obras na humildade que vem da sabedoria. ^v13
 
-**14** Mas, se tendes amarga inveja, e sentimento faccioso em vosso coração, não vos glorieis, nem mintais contra a verdade. ^v14
+**14** Mas, se tendes inveja amargurada e ambição no vosso coração, não vos glorieis nem mintais contra a verdade. ^v14
 
-**15** Essa não é a sabedoria que vem do alto, mas é terrena, animal e diabólica. ^v15
+**15** Essa não é a sabedoria que desce do alto; em vez disso, é terrena, demoníaca, não espiritual. ^v15
 
-**16** Porque onde há inveja e espírito faccioso aí há perturbação e toda a obra perversa. ^v16
+**16** Porque onde existe inveja e ambição, há confusão e todo tipo de prática má. ^v16
 
-**17** Mas a sabedoria que do alto vem é, primeiramente pura, depois pacífica, moderada, tratável, cheia de misericórdia e de bons frutos, sem parcialidade, e sem hipocrisia. ^v17
+**17** Mas a sabedoria que vem do alto é primeiramente pura, depois pacífica, gentil, compreensiva, cheia de misericórdia e de bons frutos, imparcial e sincera. ^v17
 
-**18** Ora, o fruto da justiça semeia-se na paz, para os que exercitam a paz. ^v18
+**18** E o fruto da justiça é semeado em paz, entre aqueles que promovem a paz. ^v18

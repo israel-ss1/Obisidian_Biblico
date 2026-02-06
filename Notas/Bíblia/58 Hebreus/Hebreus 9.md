@@ -1,63 +1,62 @@
 ---
-Livro: "[[Hebreus|Hebreus]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Hebreus|Hebreus]]"
+tags: [biblia]
 ---
 
 # Hebreus 9
 
-**1** Ora, também a primeira tinha ordenanças de culto divino, e um santuário terrestre. ^v1
+**1** Ora, a primeira aliança tinha preceitos para o culto e o seu santuário terrestre. ^v1
 
-**2** Porque um tabernáculo estava preparado, o primeiro, em que havia o candeeiro, e a mesa, e os pães da proposição; ao que se chama o santuário. ^v2
+**2** Pois um tabernáculo foi preparado, cuja parte anterior, onde estavam o candelabro, a mesa e os pães consagrados, era chamado de Santo Lugar. ^v2
 
-**3** Mas depois do segundo véu estava o tabernáculo que se chama o santo dos santos, ^v3
+**3** E, por trás da segunda cortina, havia outra sala, chamada de Santo dos Santos, ^v3
 
-**4** Que tinha o incensário de ouro, e a arca da aliança, coberta de ouro toda em redor; em que estava um vaso de ouro, que continha o maná, e a vara de Arão, que tinha florescido, e as tábuas da aliança; ^v4
+**4** que tinha um altar de ouro para o incenso e a arca da aliança, completamente coberta de ouro. Dentro dela havia um jarro de ouro contendo o maná, a vara de Arão que floresceu e as tábuas da aliança. ^v4
 
-**5** E sobre a arca os querubins da glória, que faziam sombra no propiciatório; das quais coisas não falaremos agora particularmente. ^v5
+**5** Acima da arca, querubins da glória cobrindo o propiciatório. Dessas coisas, não podemos, agora, falar em detalhes. ^v5
 
-**6** Ora, estando estas coisas assim preparadas, a todo o tempo entravam os sacerdotes no primeiro tabernáculo, cumprindo os serviços; ^v6
+**6** Depois dessas coisas terem sido preparadas, os sacerdotes regularmente entram na sala anterior do tabernáculo, a fim de ministrarem. ^v6
 
-**7** Mas, no segundo, só o sumo sacerdote, uma vez no ano, não sem sangue, que oferecia por si mesmo e pelas culpas do povo; ^v7
+**7** Porém, na segunda sala, somente o Sumo Sacerdote entra, uma vez por ano, e não sem sangue, que ele oferece por si mesmo e pelos pecados de ignorância do povo. ^v7
 
-**8** Dando nisto a entender o Espírito Santo que ainda o caminho do santuário não estava descoberto enquanto se conservava em pé o primeiro tabernáculo, ^v8
+**8** O Espírito Santo quis mostrar que o caminho do Santíssimo Lugar não poderia ser revelado, enquanto o primeiro tabernáculo permanecesse. ^v8
 
-**9** Que é uma alegoria para o tempo presente, em que se oferecem dons e sacrifícios que, quanto à consciência, não podem aperfeiçoar aquele que faz o serviço; ^v9
+**9** Essa é uma ilustração para o tempo presente. Ambos, as ofertas e os sacrifícios que agora estão sendo oferecidos, não são capazes de aperfeiçoar a consciência de quem cultua; ^v9
 
-**10** Consistindo somente em comidas, e bebidas, e várias abluções e justificações da carne, impostas até ao tempo da correção. ^v10
+**10** os quais são apenas de ordenanças da carne, relativas a comida, a bebida e a diversas lavagens cerimoniais, até que a nova ordenança pudesse ser colocada no lugar. ^v10
 
-**11** Mas, vindo Cristo, o sumo sacerdote dos bens futuros, por um maior e mais perfeito tabernáculo, não feito por mãos, isto é, não desta criação, ^v11
+**11** Mas Cristo veio como Sumo Sacerdote dos bens futuros, mediante o maior e mais perfeito tabernáculo, não feito por mãos humanas, isto é, não deste mundo criado, ^v11
 
-**12** Nem por sangue de bodes e bezerros, mas por seu próprio sangue, entrou uma vez no santuário, havendo efetuado uma eterna redenção. ^v12
+**12** nem mediante sangue de cabrito e novilhos, mas pelo sangue de Cristo, que entrou no Santos dos Santos, uma vez por todas, tendo obtido nossa eterna redenção. ^v12
 
-**13** Porque, se o sangue dos touros e bodes, e a cinza de uma novilha esparzida sobre os imundos, os santifica, quanto à purificação da carne, ^v13
+**13** Porque, se o sangue de cabritos e de touros e a aspersão das cinzas de uma novilha sobre aqueles que estão impuros os separam para Deus, tornando seus corpos puros, ^v13
 
-**14** Quanto mais o sangue de Cristo, que pelo Espírito eterno se ofereceu a si mesmo imaculado a Deus, purificará as vossas consciências das obras mortas, para servirdes ao Deus vivo? ^v14
+**14** muito mais o sangue de Cristo, que, pelo Espirito eterno, ofereceu a Si mesmo sem defeito para Deus limpará nossa consciência de obras mortas para servirmos ao Deus vivo! ^v14
 
-**15** E por isso é Mediador de um novo testamento, para que, intervindo a morte para remissão das transgressões que havia debaixo do primeiro testamento, os chamados recebam a promessa da herança eterna. ^v15
+**15** Por essa razão, Ele é Mediador de uma nova aliança, por meio de Sua morte, para remir os pecados daqueles debaixo da primeira aliança, para que os chamados possam receber a promessa da herança eterna. ^v15
 
-**16** Porque onde há testamento, é necessário que intervenha a morte do testador. ^v16
+**16** Pois, onde existe um testamento, é necessário provar a morte do testador; ^v16
 
-**17** Porque um testamento tem força onde houve morte; ou terá ele algum valor enquanto o testador vive? ^v17
+**17** porque um testamento só é válido mediante a morte, sendo sem validade enquanto o testador viver. ^v17
 
-**18** Por isso também o primeiro não foi consagrado sem sangue; ^v18
+**18** Portanto, nem mesmo a primeira aliança foi estabelecida sem sangue. ^v18
 
-**19** Porque, havendo Moisés anunciado a todo o povo todos os mandamentos segundo a lei, tomou o sangue dos bezerros e dos bodes, com água, lã purpúrea e hissopo, e aspergiu tanto o mesmo livro como todo o povo, ^v19
+**19** Pois quando Moisés tinha dado todo o mandamento da Lei para todas as pessoas, ele pegou o sangue de novilhos e de cabritos, com água, lã vermelha e hissopo, e aspergiu sobre o próprio livro e sobre todo o povo, ^v19
 
-**20** Dizendo: Este é o sangue do testamento que Deus vos tem mandado. ^v20
+**20** "dizendo: ""Este é o sangue da aliança, a qual Deus vos ordenou""." ^v20
 
-**21** E semelhantemente aspergiu com sangue o tabernáculo e todos os vasos do ministério. ^v21
+**21** Da mesma maneira, ele aspergiu com sangue o tabernáculo e todas as vasilhas usadas no culto sacerdotal. ^v21
 
-**22** E quase todas as coisas, segundo a lei, se purificam com sangue; e sem derramamento de sangue não há remissão. ^v22
+**22** E, de acordo com a Lei, quase todas as coisas são purificadas com sangue; e, sem derramamento de sangue, não há remissão. ^v22
 
-**23** De sorte que era bem necessário que as figuras das coisas que estão no céu assim se purificassem; mas as próprias coisas celestiais com sacrifícios melhores do que estes. ^v23
+**23** Era necessário, portanto, que as figuras das coisas que estão no céu fossem purificadas com o sacrifício desses animais; porém, as coisas celestiais, em si mesmas, devem ser purificadas com um sacrifício muito melhor. ^v23
 
-**24** Porque Cristo não entrou num santuário feito por mãos, figura do verdadeiro, porém no mesmo céu, para agora comparecer por nós perante a face de Deus; ^v24
+**24** Porque Cristo não entrou num santuário feito por mãos, o qual é uma cópia do verdadeiro; mas, sim, no próprio céu, onde agora comparece na presença de Deus por nós. ^v24
 
-**25** Nem também para a si mesmo se oferecer muitas vezes, como o sumo sacerdote cada ano entra no santuário com sangue alheio; ^v25
+**25** Ele não entrou lá para Se oferecer muitas vezes, como o faz um sumo sacerdote, que entra no Santo dos Santos, ano após ano, com o sangue alheio. ^v25
 
-**26** De outra maneira, necessário lhe fora padecer muitas vezes desde a fundação do mundo. Mas agora na consumação dos séculos uma vez se manifestou, para aniquilar o pecado pelo sacrifício de si mesmo. ^v26
+**26** Se assim fosse, então seria necessário que Ele sofresse muitas vezes desde a fundação do mundo. Mas agora, somente uma vez, ao se cumprirem os tempos, é que Ele foi revelado para remover o pecado por meio de Seu próprio sacrifício. ^v26
 
-**27** E, como aos homens está ordenado morrerem uma vez, vindo depois disso o juízo, ^v27
+**27** Assim como toda pessoa está destinada a morrer uma só vez, e depois disso vem o juízo, ^v27
 
-**28** Assim também Cristo, oferecendo-se uma vez para tirar os pecados de muitos, aparecerá segunda vez, sem pecado, aos que o esperam para salvação. ^v28
+**28** também Cristo, o qual foi oferecido uma só vez para tirar os pecados de muitos, aparecerá uma segunda vez, sem pecado, para a salvação daqueles que por Ele esperam. ^v28

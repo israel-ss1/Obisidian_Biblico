@@ -1,35 +1,34 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Isaías|Isaías]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Isaías|Isaías]]"
+tags: [biblia]
 ---
 
 # Isaías 16
 
-**1** Enviai o cordeiro ao governador da terra, desde Sela, no deserto, até ao monte da filha de Sião. ^v1
+**1** Enviai carneiros ao governador da terra, desde Selá, no deserto, até ao monte da filha de Sião. ^v1
 
-**2** De outro modo sucederá que serão as filhas de Moabe junto aos vaus de Arnom como o pássaro vagueante, lançado fora do ninho. ^v2
+**2** Como pássaros errantes, como ninhada dispersa, assim são as filhas de Moabe nos vaus do rio de Arnom. ^v2
 
-**3** Toma conselho, executa juízo, põe a tua sombra no pino do meio-dia como a noite; esconde os desterrados, e não descubras os fugitivos. ^v3
+**3** """Dá conselhos!"", elas clamam. ""Executa justiça; providencia alguma sombra como a noite no meio do dia; esconde os refugiados; não traias os fugitivos." ^v3
 
-**4** Habitem contigo os meus desterrados, ó Moabe; serve-lhes de refúgio perante a face do destruidor; porque o homem violento terá fim; a destruição é desfeita, e os opressores são consumidos sobre a terra. ^v4
+**4** "Que os refugiados de Moabe vivam entre vós; sê para eles um esconderijo contra o destruidor"". Pois, quando a opressão for interrompida, e a destruição cessar, e desaparecer da terra aqueles que oprimem," ^v4
 
-**5** Porque o trono se firmará em benignidade, e sobre ele no tabernáculo de Davi se assentará em verdade um que julgue, e busque o juízo, e se apresse a fazer justiça. ^v5
+**5** um trono será estabelecido em fidelidade à aliança; alguém vindo da tenda de Davi se assentará com fidelidade. Ele julgará enquanto busca a justiça e pratica o que é correto. ^v5
 
-**6** Ouvimos da soberba de Moabe, que é soberbíssimo; da sua altivez, da sua soberba, e do seu furor; porém, as suas mentiras não serão firmes. ^v6
+**6** Temos ouvido falar do orgulho de Moabe, sua arrogância, sua soberba e sua ira. Porém, seu discurso soberbo são palavras vazias. ^v6
 
-**7** Portanto Moabe clamará por Moabe; todos clamarão; gemereis pelos fundamentos de Quir-Haresete, pois certamente já estão abatidos. ^v7
+**7** Assim, Moabe geme por Moabe, todos eles lamentam. Vós, que fostes completamente devastados, chorai pelos bolos de passas de Quir-Haresete. ^v7
 
-**8** Porque os campos de Hesbom enfraqueceram, e a vinha de Sibma; os senhores dos gentios quebraram as suas melhores plantas que haviam chegado a Jazer e vagueiam no deserto; os seus rebentos se estenderam e passaram além do mar. ^v8
+**8** Os campos de Hesbom estão secos, bem como as videiras de Sibma. Os governantes das nações pisaram as videiras selecionadas, que alcançavam Jazer e espalhavam-se até o deserto. Seus brotos se espalhavam e iam além do mar. ^v8
 
-**9** Por isso prantearei, com o pranto de Jazer, a vinha de Sibma; regar-te-ei com as minhas lágrimas, ó Hesbom e Eleale; porque o júbilo dos teus frutos de verão e da tua sega desapareceu. ^v9
+**9** Na verdade, chorarei juntamente com Jazer pela vinha de Sibma. Eu vos regarei com Minhas lágrimas, Hesbom e Eleale. Pois, em vossos campos de frutas de verão e de colheita, Eu acabei com os gritos de alegria. ^v9
 
-**10** E fugiu a alegria e o regozijo do campo fértil, e nas vinhas não se canta, nem há júbilo algum; já não se pisarão as uvas nos lagares. Eu fiz cessar o júbilo. ^v10
+**10** O regozijo e a alegria desapareceram dos pomares; e, nas vinhas, não se canta nem há gritos alegres. Não há quem pise vinho nos lagares. Eu fiz cessar os gritos de júbilo dos pisadores. ^v10
 
-**11** Por isso o meu íntimo vibra por Moabe como harpa, e o meu interior por Quir-Heres. ^v11
+**11** Então, Meu coração suspira como uma harpa por Moabe, e Meu íntimo, por Quir-Heres. ^v11
 
-**12** E será que, quando virem Moabe cansado nos altos, então entrará no seu santuário a orar, porém não prevalecerá. ^v12
+**12** Quando Moabe se apresentar cansado no lugar alto, e entrar em seu templo para orar, suas orações nada alcançarão. ^v12
 
-**13** Esta é a palavra que o Senhor falou contra Moabe desde aquele tempo. ^v13
+**13** Esta é a palavra que Yahweh disse, anteriormente, a respeito de Moabe. ^v13
 
-**14** Porém agora falou o Senhor, dizendo: Dentro de três anos (tais como os anos de jornaleiros), será envilecida a glória de Moabe, com toda a sua grande multidão; e o restante será pouco, pequeno e impotente. ^v14
+**14** "Novamente, Yahweh diz: ""Dentro de três anos, a glória de Moabe desaparecerá; a despeito de seus muitos habitantes, os remanescentes serão pouquíssimos e insignificantes""." ^v14

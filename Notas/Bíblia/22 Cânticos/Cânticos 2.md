@@ -1,41 +1,40 @@
 ---
-Livro: "[[Cânticos|Cânticos]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Cânticos|Cânticos]]"
+tags: [biblia]
 ---
 
 # Cânticos 2
 
-**1** Eu sou a rosa de Sarom, o lírio dos vales. ^v1
+**1** "Eu sou apenas uma flor em uma planície, apenas um lírio em um vale"". O homem fala:" ^v1
 
-**2** Qual o lírio entre os espinhos, tal é meu amor entre as filhas. ^v2
+**2** """Assim como um lírio está entre espinhos, assim tu estás, minha amada, entre as filhas dos meus compatriotas"". A mulher fala consigo mesma:" ^v2
 
-**3** Qual a macieira entre as árvores do bosque, tal é o meu amado entre os filhos;desejo muito a sua sombra, e debaixo dela me assento;e o seu fruto é doce ao meu paladar. ^v3
+**3** """Como uma árvore de damasco está entre as árvores da floresta, assim é meu amado entre os homens jovens. Eu sento-me à sua sombra com grande prazer, e o seu fruto é doce ao meu paladar." ^v3
 
-**4** Levou-me à casa do banquete, e o seu estandarte sobre mim era o amor. ^v4
+**4** "Ele me trouxe ao salão de banquetes e seu estandarte sobre mim é o amor"". A mulher falando ao seu amado:" ^v4
 
-**5** Sustentai-me com passas, confortai-me com maçãs, porque desfaleço de amor. ^v5
+**5** """Sustenta-me com bolos de uvas passas e refresca-me com damascos, pois desfaleço de amor"". A mulher fala consigo mesma:" ^v5
 
-**6** A sua mão esquerda esteja debaixo da minha cabeça, e a sua mão direita me abrace. ^v6
+**6** """A tua mão esquerda esteja debaixo de minha cabeça e tua mão direita me abraça"". A mulher fala às outras mulheres:" ^v6
 
-**7** Conjuro-vos, ó filhas de Jerusalém, pelas gazelas e cervas do campo, que não acordeis nem desperteis o meu amor, até que queira. ^v7
+**7** """Eu quero que prometeis, filhas de Jerusalém, pelas gazelas e pelas corças dos campos, que não nos interrompam enquanto estamos fazendo amor"". A mulher fala para si mesma:" ^v7
 
-**8** Esta é a voz do meu amado; ei-lo aí, que já vem saltando sobre os montes, pulando sobre os outeiros. ^v8
+**8** """Ouço o som do meu amado! Oh, aí vem ele, saltando sobre os montes, pulando sobre as colinas." ^v8
 
-**9** O meu amado é semelhante ao gamo, ou ao filho do veado; eis que está detrás da nossa parede, olhando pelas janelas, espreitando pelas grades. ^v9
+**9** Meu amado é como uma gazela ou um cervo jovem; vê, ele está atrás da nossa parede, olhando pelas janelas, espiando pelas grades. ^v9
 
-**10** O meu amado fala e me diz: Levanta-te, meu amor, formosa minha, e vem. ^v10
+**10** Meu amado falou comigo, dizendo: 'Levanta-te, minha amada, minha bela, vem comigo. ^v10
 
-**11** Porque eis que passou o inverno; a chuva cessou, e se foi; ^v11
+**11** Eis que o inverno passou; as chuvas pararam e se foram; ^v11
 
-**12** Aparecem as flores na terra, o tempo de cantar chega, e a voz da rola ouve-se em nossa terra. ^v12
+**12** as flores aparecem na terra; chegou o tempo da poda e do canto dos pássaros e o som das pombas é ouvido em nossa terra; ^v12
 
-**13** A figueira já deu os seus figos verdes, e as vides em flor exalam o seu aroma; levanta-te, meu amor, formosa minha, e vem. ^v13
+**13** a figueira amadurece seus figos, e as videiras florescem, exalando sua fragrância. Levante-te, minha amada, minha bela, e vem. ^v13
 
-**14** Pomba minha, que andas pelas fendas das penhas, no oculto das ladeiras, mostra-me a tua face, faze-me ouvir a tua voz, porque a tua voz é doce, e a tua face graciosa. ^v14
+**14** "Pomba minha que andas pelas fendas da rocha, nas fendas secretas dos penhascos da montanha, deixe-me ver o teu rosto. Deixa-me ouvir a tua voz, pois a tua voz é doce e o teu rosto é amável'"". A mulher fala consigo mesma:" ^v14
 
-**15** Apanhai-nos as raposas, as raposinhas, que fazem mal às vinhas, porque as nossas vinhas estão em flor. ^v15
+**15** """Apanhai-me as raposas, as pequenas raposas que danificam as vinhas, pois as nossas vinhas estão floridas." ^v15
 
-**16** O meu amado é meu, e eu sou dele; ele apascenta o seu rebanho entre os lírios. ^v16
+**16** "Meu amado é meu, e eu sou dele; ele pasta entre os lírios com prazer"". A mulher falando ao seu amado:" ^v16
 
-**17** Até que refresque o dia, e fujam as sombras, volta, amado meu; faze-te semelhante ao gamo ou ao filho dos veados sobre os montes de Beter. ^v17
+**17** """Volta, meu amado, antes que as suaves brisas do amanhecer soprem e as sombras desapareçam. Volta depressa; sê como uma gazela ou um cervo jovem nas montanhas acidentadas." ^v17

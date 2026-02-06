@@ -1,49 +1,48 @@
 ---
-Livro: "[[1 Samuel|1 Samuel]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/1 Samuel|1 Samuel]]"
+tags: [biblia]
 ---
 
 # 1 Samuel 6
 
-**1** Havendo, pois, estado a arca do SENHOR na terra dos filisteus sete meses, ^v1
+**1** A Arca de Yahweh estava na terra dos filisteus há sete meses. ^v1
 
-**2** Os filisteus chamaram os sacerdotes e os adivinhadores, dizendo: Que faremos nós com a arca do Senhor? Fazei-nos saber como a tornaremos a enviar ao seu lugar. ^v2
+**2** "Então, os filisteus chamaram os sacerdotes e adivinhadores, e disseram-lhes: ""O que deveremos fazer com a Arca de Yahweh? Dizei-nos como devemos mandá-la de volta à sua terra""." ^v2
 
-**3** Os quais disseram: Se enviardes a arca do Deus de Israel, não a envieis vazia, porém sem falta enviareis uma oferta para a expiação da culpa; então sereis curados, e se vos fará saber porque a sua mão não se retira de vós. ^v3
+**3** "Os sacerdotes e adivinhadores disseram: ""Se mandardes a Arca do Deus de Israel de volta, não a mandeis sem um presente; deveis enviar uma oferta pela culpa. Assim, ficareis curados e sabereis por que motivo Deus não tirou Sua mão de vós até agora""." ^v3
 
-**4** Então disseram: Qual é a expiação da culpa que lhe havemos de enviar? E disseram: Segundo o número dos príncipes dos filisteus, cinco hemorróidas de ouro e cinco ratos de ouro; porquanto a praga é uma mesma sobre todos vós e sobre todos os vossos príncipes. ^v4
+**4** "Então, o povo disse: ""Que oferta pela culpa devemos enviar-lhes de volta?"". Eles responderam: ""Cinco tumores de ouro e cinco ratos de ouro, pois cinco é o mesmo número dos governantes dos filisteus. Porque a mesma praga afligiu a vós e a vossos governantes." ^v4
 
-**5** Fazei, pois, umas imagens das vossas hemorróidas e dos vossos ratos, que andam destruindo a terra, e dai glória ao Deus de Israel; porventura aliviará a sua mão de cima de vós, e de cima do vosso deus, e de cima da vossa terra. ^v5
+**5** Então, deveis fazer moldes de vossos tumores e moldes dos ratos que estão destruindo vossa terra; e dar glória ao Deus de Israel. Talvez Ele retire Sua mão de vós, de vossos deuses e de vossa terra. ^v5
 
-**6** Por que, pois, endureceríeis o vosso coração, como os egípcios e Faraó endureceram os seus corações? Porventura depois de os haver tratado tão mal, os não deixaram ir, e eles não se foram? ^v6
+**6** Por que endureceríeis vosso coração, como os egípcios e o Faraó endureceram o deles? Quando o Deus de Israel lidou severamente com eles, os egípcios não deixaram o povo sair, e eles não saíram? ^v6
 
-**7** Agora, pois, tomai e fazei-vos um carro novo, e tomai duas vacas com crias, sobre as quais não tenha subido o jugo, e atai as vacas ao carro, e tirai delas os seus bezerros e levai-os para casa. ^v7
+**7** Agora, pois, preparai uma nova carroça com duas vacas leiteiras que nunca foram colocadas debaixo de jugo. Amarrai as vacas à carroça, mas levai os bezerros para casa, longe delas. ^v7
 
-**8** Então tomai a arca do Senhor, e ponde-a sobre o carro, e colocai, num cofre, ao seu lado, as figuras de ouro que lhe haveis de oferecer em expiação da culpa, e assim a enviareis, para que se vá. ^v8
+**8** Então, pegai a Arca de Yahweh e colocai-a na carroça. Ao seu lado, colocai, dentro de uma caixa, as peças de ouro que estais retornando a Ele como uma oferta pela culpa. Então, deixai-a seguir seu caminho. ^v8
 
-**9** Vede então: Se ela subir pelo caminho do seu termo a Bete-Semes, foi ele quem nos fez este grande mal; e, se não, saberemos que não nos tocou a sua mão, e que isto nos sucedeu por acaso. ^v9
+**9** "E observai: se ela seguir no caminho de sua própria terra, Bete-Semes, então, foi Yahweh que executou esse grande desastre. Mas se não, então saberemos que não foi Sua mão que nos afligiu; ao contrário, saberemos que isso aconteceu a nós por acaso""." ^v9
 
-**10** E assim fizeram aqueles homens, e tomaram duas vacas que criavam, e as ataram ao carro; e os seus bezerros encerraram em casa. ^v10
+**10** Os homens fizeram como eles disseram: pegaram duas vacas leiteiras, amarraram-nas à carroça e confinaram seus bezerros em casa. ^v10
 
-**11** E puseram a arca do Senhor sobre o carro, como também o cofre com os ratos de ouro e com as imagens das suas hemorróidas. ^v11
+**11** Eles colocaram a Arca de Yahweh na carroça, juntamente com uma caixa contendo os tumores e os ratos de ouro. ^v11
 
-**12** Então as vacas se encaminharam diretamente pelo caminho de Bete-Semes, e seguiam um mesmo caminho, andando e berrando, sem se desviarem, nem para a direita nem para a esquerda; e os príncipes dos filisteus foram atrás delas, até ao termo de Bete-Semes. ^v12
+**12** As vacas seguiram em direção a Bete-Semes. Elas foram por aquela estrada, mugindo todo o caminho, e não mudaram o trajeto nem para direita nem para a esquerda. Os governantes dos filisteus as seguiram até a fronteira de Bete-Semes. ^v12
 
-**13** E andavam os de Bete-Semes fazendo a sega do trigo no vale, e, levantando os seus olhos, viram a arca, e, vendo-a, se alegraram. ^v13
+**13** O povo de Bete-Semes estava ceifando seu trigo no vale. Quando levantaram seus olhos e viram a Arca, eles se regozijaram. ^v13
 
-**14** E o carro veio ao campo de Josué, o bete-semita, e parou ali onde havia uma grande pedra. E fenderam a madeira do carro, e ofereceram as vacas ao Senhor em holocausto. ^v14
+**14** A carroça foi até o campo de Josué, da cidade de Bete-Semes, e parou ali, onde havia uma grande rocha; eles cortaram a madeira da carroça e ofereceram as vacas em holocausto a Yahweh. ^v14
 
-**15** E os levitas desceram a arca do Senhor, como também o cofre que estava junto a ela, em que estavam os objetos de ouro, e puseram-nos sobre aquela grande pedra; e os homens de Bete-Semes ofereceram holocaustos e sacrifícios ao Senhor no mesmo dia. ^v15
+**15** Os levitas tomaram a Arca de Yahweh e a caixa que estava com ela, onde estavam as peças de ouro, e as colocaram sobre a grande rocha. Naquele mesmo dia, os homens de Bete-Semes ofereceram holocaustos e fizeram sacrifícios para Yahweh. ^v15
 
-**16** E, vendo aquilo os cinco príncipes dos filisteus, voltaram para Ecrom no mesmo dia. ^v16
+**16** Quando os cinco governantes dos filisteus viram isso, eles retornaram no mesmo dia a Ecrom. ^v16
 
-**17** Estas, pois, são as hemorróidas de ouro que enviaram os filisteus ao Senhor em expiação da culpa: Por Asdode uma, por Gaza outra, por Ascalom outra, por Gate outra, por Ecrom outra. ^v17
+**17** Esses são os tumores de ouro que os filisteus retornaram como oferta a Yahweh, pela culpa: um para Asdode, um para Gaza, um para Asquelom, um para Gate, e um para Ecrom. ^v17
 
-**18** Como também os ratos de ouro, segundo o número de todas as cidades dos filisteus, pertencentes aos cinco príncipes, desde as cidades fortificadas até às aldeias, e até Abel. A grande pedra, sobre a qual puseram a arca do Senhor, ainda está até ao dia de hoje no campo de Josué, o bete-semita. ^v18
+**18** Os ratos de ouro eram, em número, iguais ao número de todas as cidades que pertenciam aos cinco governantes dos filisteus, tanto das cidades fortificadas quanto das aldeias do interior. A grande rocha, onde eles colocaram a Arca de Yahweh, permanece até hoje como testemunha no campo de Josué, o bete-semita. ^v18
 
-**19** E o Senhor feriu os homens de Bete-Semes, porquanto olharam para dentro da arca do Senhor; feriu do povo cinqüenta mil e setenta homens; então o povo se entristeceu, porquanto o Senhor fizera tão grande estrago entre o povo. ^v19
+**19** Yahweh atacou alguns dos homens de Bete-Semes porque eles olharam para dentro de Sua Arca. Ele matou setenta homens. As pessoas lamentaram porque Yahweh havia dado a elas um grande castigo. ^v19
 
-**20** Então disseram os homens de Bete-Semes: Quem poderia subsistir perante este santo Senhor Deus? E a quem subirá de nós? ^v20
+**20** "Os homens de Bete-Semes disseram: ""Quem é digno de estar diante de Yahweh, esse Deus Santo? E para quem a Arca irá de nós?""." ^v20
 
-**21** Enviaram, pois, mensageiros aos habitantes de Quiriate-Jearim, dizendo: Os filisteus remeteram a arca do Senhor; descei, pois, e fazei-a subir para vós. ^v21
+**21** "Eles enviaram mensageiros para os habitantes de Quiriate-Jearim, dizendo: ""Os filisteus trouxeram de volta a Arca de Yahweh; vinde e levai-a para vós""." ^v21

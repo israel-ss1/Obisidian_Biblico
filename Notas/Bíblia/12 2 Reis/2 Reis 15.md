@@ -1,83 +1,82 @@
 ---
-Livro: "[[2 Reis|2 Reis]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/2 Reis|2 Reis]]"
+tags: [biblia]
 ---
 
 # 2 Reis 15
 
-**1** No ano vinte e sete de Jeroboão, rei de Israel, começou a reinar Azarias, filho de Amazias, rei de Judá. ^v1
+**1** No ano vinte sete de Jeroboão, rei de Israel, Azarias, filho de Amazias, rei de Judá, começou a reinar. ^v1
 
-**2** Tinha dezesseis anos quando começou a reinar, e cinqüenta e dois anos reinou em Jerusalém; e era o nome de sua mãe Jecolias, de Jerusalém. ^v2
+**2** Azarias tinha dezesseis anos de idade quando começou a reinar. Ele reinou por cinquenta e dois anos em Jerusalém. O nome de sua mãe era Jecolias, natural de Jerusalém. ^v2
 
-**3** E fez o que era reto aos olhos do Senhor, conforme tudo o que fizera Amazias, seu pai. ^v3
+**3** Ele fez o que era correto aos olhos de Yahweh, assim como seu pai, Amazias, havia feito. ^v3
 
-**4** Tão-somente os altos não foram tirados; porque o povo ainda sacrificava e queimava incenso nos altos. ^v4
+**4** Entretanto, os altares das colinas não foram retirados. As pessoas continuavam a sacrificar e a queimar incenso neles. ^v4
 
-**5** E o Senhor feriu o rei, e ficou leproso até ao dia da sua morte; e habitou numa casa separada; porém Jotão, filho do rei, tinha o cargo da casa, julgando o povo da terra. ^v5
+**5** Yaweh afligiu o rei com lepra, até o dia de sua morte, e ele viveu em uma casa separada. Jotão, o filho do rei, ficou responsável pelo palácio e governou o povo da terra. ^v5
 
-**6** Ora, o mais dos atos de Azarias, e tudo o que fez, porventura não está escrito no livro das crônicas dos reis de Judá? ^v6
+**6** Quanto aos demais assuntos relacionados a Azarias, e a tudo o que ele fez, acaso não estão escritos no livro de Crônicas dos reis de Judá? ^v6
 
-**7** E Azarias dormiu com seus pais e o sepultaram junto a seus pais, na cidade de Davi; e Jotão, seu filho, reinou em seu lugar. ^v7
+**7** Azarias dormiu com seus pais e foi sepultado na cidade de Davi, junto a seus ancestrais. Jotão, seu filho, reinou em seu lugar. ^v7
 
-**8** No ano trinta e oito de Azarias, rei de Judá, reinou Zacarias, filho de Jeroboão, sobre Israel, em Samaria, seis meses. ^v8
+**8** No ano trinta e oito de Azarias, rei de Judá, Zacarias, filho de Jeroboão, reinou por seis meses sobre Israel, em Samaria. ^v8
 
-**9** E fez o que era mau aos olhos do Senhor, como tinham feito seus pais; nunca se apartou dos pecados de Jeroboão, filho de Nebate, com que fez pecar a Israel. ^v9
+**9** Ele praticou o que era mau aos olhos de Yahweh, assim como seus pais haviam praticado. Ele não se apartou dos pecados de Jeroboão, filho de Nebate, que havia conduzido Israel a pecar. ^v9
 
-**10** E Salum, filho de Jabes, conspirou contra ele e feriu-o diante do povo, e matou-o; e reinou em seu lugar. ^v10
+**10** Salum, filho de Jabes, conspirou contra Zacarias, atacou-o em Ibleão e o matou. Então, ele reinou em seu lugar. ^v10
 
-**11** Ora, o mais dos atos de Zacarias, eis que está escrito no livro das crônicas dos reis de Israel. ^v11
+**11** Os demais atos relacionados a Zacarias estão escritos no livro de Crônicas dos reis de Israel. ^v11
 
-**12** Esta foi a palavra do Senhor, que falou a Jeú: Teus filhos, até à quarta geração, se assentarão sobre o trono de Israel. E assim foi. ^v12
+**12** "Esta foi a palavra que Yahweh falou a Jeú, dizendo: ""Os teus descendentes até a quarta geração se assentarão no trono de Israel"". E assim aconteceu." ^v12
 
-**13** Salum, filho de Jabes, começou a reinar no ano trinta e nove de Uzias, rei de Judá, e reinou um mês inteiro em Samaria. ^v13
+**13** Salum, filho de Jabes, começou a reinar no ano trinta e nove de Uzias, rei de Judá, e reinou apenas um mês em Samaria. ^v13
 
-**14** Porque Menaém, filho de Gadi, subiu de Tirza, e veio a Samaria; e feriu a Salum, filho de Jabes, em Samaria, e o matou, e reinou em seu lugar. ^v14
+**14** Menaém, filho de Gadi, veio de Tirza para Samaria. Ele atacou e matou Salum, filho de Jabes, e reinou em seu lugar. ^v14
 
-**15** Ora, o mais dos atos de Salum, e a conspiração que fez, eis que está escrito no livro das crônicas dos reis de Israel. ^v15
+**15** Os demais assuntos relacionados a Salum e a conspiração que ele tramou estão escritos no livro de Crônicas dos reis de Israel. ^v15
 
-**16** Então Menaém feriu a Tifsa, e a todos os que nela havia, como também a seus termos desde Tirza, porque não lha tinham aberto; e os feriu, pois, e a todas as mulheres grávidas fendeu pelo meio. ^v16
+**16** Então, Menaém, vindo de Tirza, atacou Tifsa e seus arredores, com todos os seus habitantes, porque não lhe abriram a cidade. Menaém saqueou Tifsa e rasgou o ventre de todas as mulheres grávidas da cidade. ^v16
 
-**17** Desde o ano trinta e nove de Azarias, rei de Judá, Menaém, filho de Gadi, começou a reinar sobre Israel, e reinou dez anos em Samaria. ^v17
+**17** No ano trinta e nove de Azarias, rei de Judá, Menaém, filho de Gadi, começou a reinar sobre Israel. Ele reinou dez anos em Samaria. ^v17
 
-**18** E fez o que era mau aos olhos do Senhor; todos os seus dias não se apartou dos pecados de Jeroboão, filho de Nebate, com que fez pecar a Israel. ^v18
+**18** Menaém praticou o que era mau aos olhos de Yahweh. Por toda a sua vida, ele não se apartou dos pecados de Jeroboão, filho de Nebate, que havia levado Israel a pecar. ^v18
 
-**19** Então veio Pul, rei da Assíria, contra a terra; e Menaém deu a Pul mil talentos de prata, para que este o ajudasse a firmar o reino na sua mão. ^v19
+**19** Então, Pul, rei da Assíria, atacou a terra, e Menaém entregou a Pul mil talentos de prata, a fim de conquistar o apoio dele e manter-se no reino de Israel. ^v19
 
-**20** E Menaém tirou este dinheiro de Israel, de todos os poderosos e ricos, para dá-lo ao rei da Assíria, de cada homem cinqüenta siclos de prata; assim voltou o rei da Assíria, e não ficou ali na terra. ^v20
+**20** Para entregar essa soma ao rei da Assíria, Menaém obrigou cada homem rico de Israel a pagar cinquenta siclos de prata. Assim, o rei da Assíria suspendeu a invasão e retirou-se da terra. ^v20
 
-**21** Ora, o mais dos atos de Menaém, e tudo quanto fez, porventura não está escrito no livro das crônicas dos reis de Israel? ^v21
+**21** Quanto aos demais assuntos relacionados a Menaém, e a tudo o que ele fez, não estão porventura escritos no livro de Crônicas dos reis de Israel? ^v21
 
-**22** E Menaém dormiu com seus pais; e Pecaías, seu filho, reinou em seu lugar. ^v22
+**22** Então, Menaém dormiu com seus ancestrais, e Pecaías, seu filho, reinou em seu lugar. ^v22
 
-**23** No ano cinqüenta de Azarias, rei de Judá, começou a reinar Pecaías, filho de Menaém, sobre Israel, em Samaria, e reinou dois anos. ^v23
+**23** No ano cinquenta de Azarias, rei de Judá, Pecaías, filho de Menaém, começou a reinar sobre Israel, ele reinou dois anos em Samaria. ^v23
 
-**24** E fez o que era mau aos olhos do Senhor; nunca se apartou dos pecados de Jeroboão, filho de Nebate, com que fez pecar a Israel. ^v24
+**24** Praticou o que era mau aos olhos de Yahweh e não se apartou dos pecados de Jerobão, filho de Nebate, que havia levado Israel a pecar. ^v24
 
-**25** E Peca, filho de Remalias, seu capitão, conspirou contra ele, e o feriu em Samaria, no paço da casa do rei, juntamente com Argobe e com Arié, e com ele cinqüenta homens dos filhos dos gileaditas; e o matou, e reinou em seu lugar. ^v25
+**25** Pecaías tinha um oficial chamado Peca, filho de Remalias, que conspirou contra ele e o matou, junto com Argobe e Arié, em Samaria, a cidadela do palácio do rei. Com ele estavam cinquenta homens gileaditas. Ele o matou e reinou em seu lugar. ^v25
 
-**26** Ora, o mais dos atos de Pecaías, e tudo quanto fez, eis que está escrito no livro das crônicas dos reis de Israel. ^v26
+**26** Os demais assuntos relacionados a Pecaías e a tudo o que ele fez estão escritos no livro de Crônicas dos reis de Israel. ^v26
 
-**27** No ano cinqüenta e dois de Azarias, rei de Judá, começou a reinar Peca, filho de Remalias, sobre Israel, em Samaria, e reinou vinte anos. ^v27
+**27** No ano cinquenta e dois de Azarias, rei de Judá, Peca, filho de Remalias, começou a reinar sobre Israel; reinou vinte anos em Samaria. ^v27
 
-**28** E fez o que era mau aos olhos do Senhor; nunca se apartou dos pecados de Jeroboão, filho de Nebate, com que fez pecar a Israel. ^v28
+**28** Ele praticou o que era mau aos olhos de Yahweh e não se apartou dos pecados de Jeroboão, filho de Nebate, que levou Israel a pecar. ^v28
 
-**29** Nos dias de Peca, rei de Israel, veio Tiglate-Pileser, rei da Assíria, e tomou a Ijom, a Abel-Bete-Maaca, a Janoa, e a Quedes, a Hazor, a Gileade, e a Galiléia, e a toda a terra de Naftali, e os levou à Assíria. ^v29
+**29** Nos dias de Peca, rei de Israel, Tiglate-Pileser, rei da Assíria, atacou e tomou Ijon, Abel-Bete-Maaca, Janoa, Quedes, Hazor, Gileade, a Galileia e toda a terra de Naftali e levou os seus habitantes cativos para a Assíria. ^v29
 
-**30** E Oséias, filho de Elá, conspirou contra Peca, filho de Remalias, e o feriu, e o matou, e reinou em seu lugar, no vigésimo ano de Jotão, filho de Uzias. ^v30
+**30** Então, Oseias, filho de Elá, tramou uma conspiração contra Peca, filho de Remalias, atacou-o e o matou. Assim, no ano vinte de Jotão, filho de Uzias, Oseias começou a reinar. ^v30
 
-**31** Ora, o mais dos atos de Peca, e tudo quanto fez, eis que está escrito no livro das crônicas dos reis de Israel. ^v31
+**31** Os demais assuntos relacionados a Peca e a tudo o que ele fez estão escritos no livro de Crônicas do reis de Israel. ^v31
 
-**32** No ano segundo de Peca, filho de Remalias, rei de Israel, começou a reinar Jotão, filho de Uzias, rei de Judá. ^v32
+**32** No ano dois de Peca, filho de Remalias, rei de Israel, Jotão, filho de Uzias, rei de Judá, começou a reinar. ^v32
 
-**33** Tinha vinte e cinco anos de idade quando começou a reinar, e reinou dezesseis anos em Jerusalém; e era o nome de sua mãe Jerusa, filha de Zadoque. ^v33
+**33** Ele tinha vinte e cinco anos de idade quando começou a reinar, reinou dezesseis anos em Jerusalém. O nome de sua mãe era Jerusa, a filha de Zadoque. ^v33
 
-**34** E fez o que era reto aos olhos do Senhor; fez conforme tudo quanto fizera seu pai Uzias. ^v34
+**34** Jotão fez o que era correto aos olhos de Yahweh. Ele seguiu todo o exemplo de seu pai, Uzias. ^v34
 
-**35** Tão-somente os altos não foram tirados; porque o povo ainda sacrificava e queimava incenso nos altos. Este edificou a porta alta da casa do Senhor. ^v35
+**35** Porém os altares das colinas não foram retirados. O povo continuava sacrificando e queimando incenso nos altares. Jotão edificou o portão superior do templo de Yahweh. ^v35
 
-**36** Ora, o mais dos atos de Jotão, e tudo quanto fez, porventura não está escrito no livro das crônicas dos reis de Judá? ^v36
+**36** Os demais assuntos sobre Jotão e sobre tudo o que ele fez, acaso não estão escritos no livro de Crônicas dos reis de Judá? ^v36
 
-**37** Naqueles dias começou o Senhor a enviar contra Judá a Rezim, rei da Síria, e a Peca, filho de Remalias. ^v37
+**37** Naqueles dias Yahweh começou a enviar Rezim, rei da Síria, e Peca, filho de Remalias, contra Judá. ^v37
 
-**38** E Jotão dormiu com seus pais, e foi sepultado junto a seus pais, na cidade de Davi, seu pai; e Acaz, seu filho, reinou em seu lugar. ^v38
+**38** Jotão dormiu com seus pais e foi sepultado junto a seus antepassados na cidade de Davi, seu antepassado. Então, Acaz, seu filho, reinou em seu lugar. ^v38

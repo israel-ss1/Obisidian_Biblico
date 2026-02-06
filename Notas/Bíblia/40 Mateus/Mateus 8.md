@@ -1,75 +1,74 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Mateus|Mateus]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Mateus|Mateus]]"
+tags: [biblia]
 ---
 
 # Mateus 8
 
-**1** E, descendo ele do monte, seguiu-o uma grande multidão. ^v1
+**1** Quando Jesus desceu do monte, uma grande multidão O seguiu. ^v1
 
-**2** E, eis que veio um leproso, e o adorou, dizendo: Senhor, se quiseres, podes tornar-me limpo. ^v2
+**2** "Então veio um leproso e ajoelhou-se diante Dele, dizendo: ""Senhor, se Tu queres, podes me purificar""." ^v2
 
-**3** E Jesus, estendendo a mão, tocou-o, dizendo: Quero; sê limpo. E logo ficou purificado da lepra. ^v3
+**3** "Jesus estendeu Sua mão e o tocou, dizendo: ""Eu quero. Sê purificado"". Imediatamente ele foi curado da sua lepra." ^v3
 
-**4** Disse-lhe então Jesus: Olha, não o digas a alguém, mas vai, mostra-te ao sacerdote, e apresenta a oferta que Moisés determinou, para lhes servir de testemunho. ^v4
+**4** "Jesus disse-lhe: ""Vê que não digas nada a homem algum. Segue o teu caminho, mostra-te para o sacerdote e apresenta a oferta que Moisés ordenou, como um testemunho para eles""." ^v4
 
-**5** E, entrando Jesus em Cafarnaum, chegou junto dele um centurião, rogando-lhe, ^v5
+**5** Quando Jesus entrou em Cafarnaum, um centurião veio a Ele e suplicou: ^v5
 
-**6** E dizendo: Senhor, o meu criado jaz em casa, paralítico, e violentamente atormentado. ^v6
+**6** """Senhor, meu servo está prostrado em casa paralisado em terrível sofrimento""." ^v6
 
-**7** E Jesus lhe disse: Eu irei, e lhe darei saúde. ^v7
+**7** "Jesus disse-lhe: ""Eu irei e o curarei""." ^v7
 
-**8** E o centurião, respondendo, disse: Senhor, não sou digno de que entres debaixo do meu telhado, mas dize somente uma palavra, e o meu criado há de sarar. ^v8
+**8** "O centurião respondeu: ""Senhor, eu não sou digno de que entres na minha casa, mas apenas diz uma palavra e meu servo será curado," ^v8
 
-**9** Pois também eu sou homem sob autoridade, e tenho soldados às minhas ordens; e digo a este: Vai, e ele vai; e a outro: Vem, e ele vem; e ao meu criado: Faze isto, e ele o faz. ^v9
+**9** "pois eu também sou um homem sujeito à autoridade e tenho soldados abaixo de mim. Eu digo a este: 'Vai,' e ele vai, e para outro: 'Vem,' e ele vem, e para meu servo: 'Faz isso,' e ele faz.""" ^v9
 
-**10** E maravilhou-se Jesus, ouvindo isto, e disse aos que o seguiam: Em verdade vos digo que nem mesmo em Israel encontrei tanta fé. ^v10
+**10** "Quando Jesus ouviu isso, ficou admirado e disse à aqueles que o estavam seguindo: ""Verdadeiramente Eu vos digo que nem mesmo em Israel encontrei alguém com tanta fé." ^v10
 
-**11** Mas eu vos digo que muitos virão do oriente e do ocidente, e assentar-se-ão à mesa com Abraão, e Isaque, e Jacó, no reino dos céus; ^v11
+**11** Eu vos digo: muitos virão do Leste e do Oeste, e sentarão à mesa com Abraão, Isaque e Jacó, no Reino do Céu. ^v11
 
-**12** E os filhos do reino serão lançados nas trevas exteriores; ali haverá pranto e ranger de dentes. ^v12
+**12** "Mas os filhos do reino serão lançados nas trevas exteriores, onde haverá choro e ranger de dentes""." ^v12
 
-**13** Então disse Jesus ao centurião: Vai, e como creste te seja feito. E naquela mesma hora o seu criado sarou. ^v13
+**13** "Jesus disse ao centurião: ""Vai! Assim como crestes, assim seja feito a ti"". E o servo foi curado naquela mesma hora." ^v13
 
-**14** E Jesus, entrando em casa de Pedro, viu a sogra deste acamada, e com febre. ^v14
+**14** Quando Jesus entrou na casa de Pedro, viu a sogra deste deitada com febre. ^v14
 
-**15** E tocou-lhe na mão, e a febre a deixou; e levantou-se, e serviu-os. ^v15
+**15** Jesus tocou a mão dela, e a febre a deixou; então ela se levantou e começou a servi-Lo. ^v15
 
-**16** E, chegada a tarde, trouxeram-lhe muitos endemoninhados, e ele com a sua palavra expulsou deles os espíritos, e curou todos os que estavam enfermos; ^v16
+**16** Ao anoitecer, as pessoas trouxeram a Jesus muitos que eram controlados por demônios, e Ele expulsou os espíritos com uma palavra, e curou todos os que estavam doentes. ^v16
 
-**17** Para que se cumprisse o que fora dito pelo profeta Isaías, que diz: Ele tomou sobre si as nossas enfermidades, e levou as nossas doenças. ^v17
+**17** "Dessa forma, cumpriu-se o que foi dito por Isaías, o profeta: ""Ele tomou sobre Si nossas doenças e carregou nossas enfermidades""." ^v17
 
-**18** E Jesus, vendo em torno de si uma grande multidão, ordenou que passassem para o outro lado; ^v18
+**18** Quando Jesus viu a multidão em Sua volta, deu instruções que partissem para o outro lado do mar da Galiléia. ^v18
 
-**19** E, aproximando-se dele um escriba, disse-lhe: Mestre, aonde quer que fores, eu te seguirei. ^v19
+**19** "Então um escriba veio a Ele e disse: ""Mestre, eu Te seguirei para qualquer lugar que fores""." ^v19
 
-**20** E disse Jesus: As raposas têm covis, e as aves do céu têm ninhos, mas o Filho do homem não tem onde reclinar a cabeça. ^v20
+**20** "Jesus disse-lhe: ""As raposas têm tocas, e os pássaros do céu possuem ninhos, mas o Filho do Homem não tem onde repousar a Sua cabeça""." ^v20
 
-**21** E outro de seus discípulos lhe disse: Senhor, permite-me que primeiramente vá sepultar meu pai. ^v21
+**21** "Outro dos discípulos disse-Lhe: ""Senhor, permita-me primeiro ir e enterrar meu pai""." ^v21
 
-**22** Jesus, porém, disse-lhe: Segue-me, e deixa os mortos sepultar os seus mortos. ^v22
+**22** "Mas Jesus disse-lhe: ""Segue-Me, e deixa os mortos enterrarem seus próprios mortos""." ^v22
 
-**23** E, entrando ele no barco, seus discípulos o seguiram; ^v23
+**23** Quando Jesus entrou em um barco, Seus discípulos O seguiram. ^v23
 
-**24** E eis que no mar se levantou uma tempestade, tão grande que o barco era coberto pelas ondas; ele, porém, estava dormindo. ^v24
+**24** Então veio uma grande tempestade no mar, de tal forma que as ondas cobriam o barco; contudo Jesus estava dormindo. ^v24
 
-**25** E os seus discípulos, aproximando-se, o despertaram, dizendo: Senhor, salva-nos! que perecemos. ^v25
+**25** "Os discípulos vieram a Ele e O acordaram, dizendo: ""Salva-nos Senhor; nós estamos prestes a morrer!""" ^v25
 
-**26** E ele disse-lhes: Por que temeis, homens de pouca fé? Então, levantando-se, repreendeu os ventos e o mar, e seguiu-se uma grande bonança. ^v26
+**26** "Jesus disse-lhes: ""Por que estais com medo? Sois de pequena fé?"" Então Ele se levantou, repreendeu os ventos e o mar, e houve uma grande calmaria." ^v26
 
-**27** E aqueles homens se maravilharam, dizendo: Que homem é este, que até os ventos e o mar lhe obedecem? ^v27
+**27** "Os homens maravilharam-se e disseram: ""Que tipo de homem é este, que até mesmo os ventos e o mar Lhe obedecem?""" ^v27
 
-**28** E, tendo chegado ao outro lado, à província dos gergesenos, saíram-lhe ao encontro dois endemoninhados, vindos dos sepulcros; tão ferozes eram que ninguém podia passar por aquele caminho. ^v28
+**28** Quando Jesus chegou ao outro lado, na região dos gadarenos, dois homens que eram controlados por demônios O encontraram. Eles estavam vindo dos sepulcros e eram muito violentos, de tal forma que nenhum viajante podia passar por aquele caminho. ^v28
 
-**29** E eis que clamaram, dizendo: Que temos nós contigo, Jesus, Filho de Deus? Vieste aqui atormentar-nos antes do tempo? ^v29
+**29** "Então eles gritaram e disseram: ""O que temos nós Contigo, Filho de Deus? Vieste aqui para nos atormentar antes do tempo determinado?""" ^v29
 
-**30** E andava pastando distante deles uma manada de muitos porcos. ^v30
+**30** Não muito longe dali, uma grande manada de porcos estava se alimentando. ^v30
 
-**31** E os demônios rogaram-lhe, dizendo: Se nos expulsas, permite-nos que entremos naquela manada de porcos. ^v31
+**31** "Os demônios imploravam a Jesus dizendo: ""Se nos expulsares, manda-nos para aquela manada de porcos""." ^v31
 
-**32** E ele lhes disse: Ide. E, saindo eles, se introduziram na manada dos porcos; e eis que toda aquela manada de porcos se precipitou no mar por um despenhadeiro, e morreram nas águas. ^v32
+**32** "Jesus disse-lhes: ""Ide!"" Os demônios saíram e foram para os porcos; e então toda a manada precipitou-se pela ladeira íngreme em direção ao mar e os porcos morreram na água." ^v32
 
-**33** Os porqueiros fugiram e, chegando à cidade, divulgaram tudo o que acontecera aos endemoninhados. ^v33
+**33** Os homens que tomavam conta dos porcos fugiram e, quando entraram na cidade, contaram tudo, inclusive o que tinha acontecido com os endemoninhados. ^v33
 
-**34** E eis que toda aquela cidade saiu ao encontro de Jesus e, vendo-o, rogaram-lhe que se retirasse dos seus termos. ^v34
+**34** Então toda a cidade veio para se encontrar com Jesus. Quando eles O viram, suplicaram-Lhe para que deixasse a região deles. ^v34

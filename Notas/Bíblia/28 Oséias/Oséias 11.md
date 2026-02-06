@@ -1,31 +1,30 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Oséias|Oséias]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Oséias|Oséias]]"
+tags: [biblia]
 ---
 
 # Oséias 11
 
-**1** Quando Israel era menino, eu o amei; e do Egito chamei a meu filho. ^v1
+**1** “Quando Israel era jovem Eu o amei, e chamei Meu filho para fora do Egito. ^v1
 
-**2** Mas, como os chamavam, assim se iam da sua face; sacrificavam a baalins, e queimavam incenso às imagens de escultura. ^v2
+**2** "Quanto mais eram chamados, mais se afastavam de Mim. Eles sacrificavam aos baalins e queimavam incenso aos ídolos. [Algumas das versões mais modernas bem como algumas versões antigas apresentam: ""eles se afastavam de Mim"". O texto hebraico traz ""eles se afastavam deles""]" ^v2
 
-**3** Todavia, eu ensinei a andar a Efraim; tomando-os pelos seus braços, mas não entenderam que eu os curava. ^v3
+**3** Todavia, fui Eu quem ensinei Efraim a andar; fui Eu quem os levantou pelos braços, mas eles não perceberam que Eu cuidava deles. ^v3
 
-**4** Atraí-os com cordas humanas, com laços de amor, e fui para eles como os que tiram o jugo de sobre as suas queixadas, e lhes dei mantimento. ^v4
+**4** Eu lhes orientei com laços de amor, com laços de ternura. Eu era para eles como alguém que tirou o jugo de sobre suas cabeças, inclinando-Me e lhes alimentando. ^v4
 
-**5** Não voltará para a terra do Egito, mas a Assíria será seu rei; porque recusam converter-se. ^v5
+**5** Eles não voltarão para a terra do Egito. A Assíria será seu rei; porque eles se recusam a voltar para Mim. ^v5
 
-**6** E cairá a espada sobre as suas cidades, e consumirá os seus ramos, e os devorará, por causa dos seus próprios conselhos. ^v6
+**6** A espada cairá sobre suas cidades e destruirá as trancas das suas portas; serão destruídas por causa do seus próprios planos. ^v6
 
-**7** Porque o meu povo é inclinado a desviar-se de mim; ainda que chamam ao Altíssimo, nenhum deles o exalta. ^v7
+**7** Meu povo está determinado a se virar contra Mim. Embora eles Me chamem de Altíssimo, ninguém os ajudará. ^v7
 
-**8** Como te deixaria, ó Efraim? Como te entregaria, ó Israel? Como te faria como Admá? Te poria como Zeboim? Está comovido em mim o meu coração, as minhas compaixões à uma se acendem. ^v8
+**8** Como desistirei de ti, Efraim? Como te entregarei, Israel? Como te farei como Admá? Ou como Zeboim? Meu coração se comove dentro de Mim; toda Minha compaixão está agitada. ^v8
 
-**9** Não executarei o furor da minha ira; não voltarei para destruir a Efraim, porque eu sou Deus e não homem, o Santo no meio de ti; eu não entrarei na cidade. ^v9
+**9** Eu não vou executar Minha ira; não vou destruir Efraim. Pois Eu Sou Deus e não homem; Eu Sou O Santo entre vós, e não virei com Minha ira. ^v9
 
-**10** Andarão após o Senhor; ele rugirá como leão; rugindo, pois, ele, os filhos do ocidente tremerão. ^v10
+**10** Eles seguirão Yahweh; e Ele rugirá como o leão. Quando Ele rugir, seus filhos virão tremendo do oeste. ^v10
 
-**11** Tremendo virão como um passarinho, os do Egito, e como uma pomba os da terra da Assíria, e os farei habitar em suas casas, diz o Senhor. ^v11
+**11** "Eles virão tremendo como um pássaro, os do Egito; e como uma pomba, os da terra da Assíria. Eu os farei viver nas suas casas"" — esta é a declaração de Yahweh." ^v11
 
-**12** Efraim me cercou com mentira, e a casa de Israel com engano; mas Judá ainda domina com Deus, e com os santos está fiel. ^v12
+**12** """Efraim Me rodeia com falsidade; e a casa de Israel, com engano. Mas Judá ainda anda Comigo, ainda é fiel a Mim, O Único Santo""." ^v12

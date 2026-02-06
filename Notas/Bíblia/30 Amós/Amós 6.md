@@ -1,35 +1,34 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Amós|Amós]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Amós|Amós]]"
+tags: [biblia]
 ---
 
 # Amós 6
 
-**1** Ai dos que vivem sossegados em Sião, e dos que estão confiados no monte de Samaria, que têm nome entre as primeiras das nações, e aos quais vem a casa de Israel! ^v1
+**1** Ai daqueles que estão tranquilos em Sião e daqueles que se sentem seguros no monte de Samaria, os homens notáveis das melhores nações, dos quais a casa de Israel busca auxílio. ^v1
 
-**2** Passai a Calne, e vede; e dali ide à grande Hamate; e depois descei a Gate dos filisteus; serão melhores que estes reinos? Ou maior o seu termo do que o vosso termo? ^v2
+**2** "Vossos líderes dizem: ""Ide a Calné, e vede; depois ide a Hamate, a grande cidade; então, descei a Gate dos filisteus. São eles melhores do que vossos dois reinos? As fronteiras deles são mais extensas do que as vossas?""." ^v2
 
-**3** Ó vós que afastais o dia mau, e fazeis chegar o assento da violência. ^v3
+**3** Ai daqueles que afastam o dia da desgraça e fazem com que o trono da violência se aproxime. ^v3
 
-**4** Ai dos que dormem em camas de marfim, e se estendem sobre os seus leitos, e comem os cordeiros do rebanho, e os bezerros do meio do curral; ^v4
+**4** Deitam-se nas camas de marfim e se estendem nos seus sofás. Comem cordeiros do rebanho e novilhos do curral. ^v4
 
-**5** Que cantam ao som da viola, e inventam para si instrumentos musicais, assim como Davi; ^v5
+**5** Eles inventam canções tolas ao som da harpa; improvisam instrumentos, como fez Davi. ^v5
 
-**6** Que bebem vinho em taças, e se ungem com o mais excelente óleo: mas não se afligem pela ruína de José; ^v6
+**6** Bebem vinho dos barris e se ungem com o mais fino óleo, mas não lamentam a ruína de José. ^v6
 
-**7** Portanto agora irão em cativeiro entre os primeiros dos que forem levados cativos, e cessarão os festins dos banqueteadores. ^v7
+**7** Portanto, eles serão exilados com os primeiros deportados; os banquetes dos preguiçosos cessarão. ^v7
 
-**8** Jurou o Senhor DEUS por si mesmo, diz o SENHOR, o Deus dos Exércitos: Abomino a soberba de Jacó, e odeio os seus palácios; por isso entregarei a cidade e tudo o que nela há. ^v8
+**8** "Eu, o Senhor Yahweh, jurei por Mim mesmo"". Esta é a declaração do Senhor Yahweh, o Deus dos exércitos: ""Eu detesto o orgulho de Jacó; Eu odeio suas fortalezas. Portanto, entregarei a cidade e tudo o que nela há""." ^v8
 
-**9** E acontecerá que, se numa casa ficarem dez homens, morrerão. ^v9
+**9** E acontecerá que, se dez homens restarem em uma casa, morrerão todos. ^v9
 
-**10** Quando o tio de alguém, aquele que o queima, o tomar para levar-lhe os ossos para fora da casa, e disser ao que estiver no mais interior da casa: Está ainda alguém contigo? E este responder: Ninguém; então lhe dirá ele: Cala-te, porque não devemos fazer menção do nome do Senhor. ^v10
+**10** "Se o familiar de um homem vier buscar seus cadáveres — aquele que for cremá-los, depois de retirar os corpos da casa — se ele disser para a pessoa na casa: ''Está alguém contigo?"", e essa pessoa disser: ""Não"", então ele dirá: ""Cala-te, pois não devemos mencionar o nome de Yahweh!""." ^v10
 
-**11** Porque, eis que o Senhor ordena, e ferirá a casa grande de brechas, e a casa pequena de fendas. ^v11
+**11** Pois, vede, Yahweh dará uma ordem, e a grande casa cairá em ruínas; e a casa pequena, em pequenos pedaços. ^v11
 
-**12** Porventura correrão cavalos sobre rocha? Lavrar-se-á nela com bois? Mas vós haveis tornado o juízo em fel, e o fruto da justiça em alosna; ^v12
+**12** Por acaso, correm os cavalos sobre as rochas? Ou se pode arar ali com bois? Vós, porém, transformastes justiça em veneno e o fruto da retidão em amargura. ^v12
 
-**13** Vós que vos alegrais do nada, vós que dizeis: Não é assim que por nossa própria força nos temos tornado poderosos? ^v13
+**13** "Vós, que vos alegrais sobre Lo-Debar, dizendo: ""Não tomamos Carnaim por nossa própria força?''." ^v13
 
-**14** Porque, eis que eu levantarei sobre vós, ó casa de Israel, uma nação, diz o Senhor, o Deus dos Exércitos, e oprimir-vos-á, desde a entrada de Hamate até ao ribeiro do deserto. ^v14
+**14** """Mas, vede, Eu levantarei contra vós uma nação, casa de Israel"", esta é a declaração do Senhor Yahweh, o Senhor dos Exércitos: ''Ela te afligirá desde Lebo-Hamate até a fonte de Arabá""." ^v14

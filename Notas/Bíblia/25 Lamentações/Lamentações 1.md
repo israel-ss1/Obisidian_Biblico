@@ -1,51 +1,50 @@
 ---
-Livro: "[[Lamentações|Lamentações]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Lamentações|Lamentações]]"
+tags: [biblia]
 ---
 
 # Lamentações 1
 
-**1** Como está sentada solitária aquela cidade, antes tão populosa! Tornou-se como viúva, a que era grande entre as nações! A que era princesa entre as províncias, tornou-se tributária! ^v1
+**1** A cidade que uma vez esteve cheia de habitantes agora está completamente solitária! Ela tornou-se como uma viúva, embora fosse uma nação poderosa. Era uma princesa entre as nações, mas agora é forçada à escravidão! ^v1
 
-**2** Chora amargamente de noite, e as suas lágrimas lhe correm pelas faces; não tem quem a console entre todos os seus amantes; todos os seus amigos se houveram aleivosamente com ela, tornaram-se seus inimigos. ^v2
+**2** Ela chora e lamenta na noite, e suas lágrimas escorrem por suas bochechas. Nenhum dos seus amantes a conforta. Todos os seus amigos a traíram. Eles tornaram-se seus inimigos. ^v2
 
-**3** Judá passou em cativeiro por causa da aflição, e por causa da grande servidão; ela habita entre os gentios, não acha descanso; todos os seus perseguidores a alcançam entre as suas dificuldades. ^v3
+**3** Depois da pobreza e aflição, Judá foi levada ao exílio. Ela vive entre as nações e não encontra descanso. Todos os seus perseguidores a apanharam no seu desespero. ^v3
 
-**4** Os caminhos de Sião pranteiam, porque não há quem venha à festa solene; todas as suas portas estão desoladas; os seus sacerdotes suspiram; as suas virgens estão tristes, e ela mesma tem amargura. ^v4
+**4** As estradas de Sião choram, porque ninguém vem para as festas solenes. Todos os portões dela estão desolados. Seus sacerdotes gemem. Suas virgens estão tristes, e ela mesma está em completo desespero. ^v4
 
-**5** Os seus adversários têm sido feitos chefes, os seus inimigos prosperam; porque o Senhor a afligiu, por causa da multidão das suas transgressões; os seus filhinhos foram para o cativeiro na frente do adversário. ^v5
+**5** Seus adversários tornaram-se seus mestres, seus inimigos prosperam. Yahweh a tem afligido por causa dos seus muitos pecados. Suas crianças pequenas vão ao cativeiro, vão até o seu adversário. ^v5
 
-**6** E da filha de Sião já se foi toda a sua formosura; os seus príncipes ficaram sendo como corços que não acham pasto e caminham sem força adiante do perseguidor. ^v6
+**6** A beleza deixou a filha de Sião. Seu príncipe tornou-se como cervo que não encontra pasto, e eles vão sem força diante dos seus perseguidores. ^v6
 
-**7** Lembra-se Jerusalém, nos dias da sua aflição e dos seus exílios, de todas as suas mais queridas coisas, que tivera desde os tempos antigos; quando caía o seu povo na mão do adversário, e não havia quem a socorresse; os adversários a viram, e fizeram escárnio da sua ruína. ^v7
+**7** Nos dias da sua aflição e seu exílio, Jerusalém lembrará de todos os tesouros preciosos que ela tinha em dias passados. Quando seu povo caiu nas mãos dos adversários, ninguém a ajudou. Os adversários a viram e zombaram da sua destruição. ^v7
 
-**8** Jerusalém gravemente pecou, por isso se fez errante; todos os que a honravam, a desprezaram, porque viram a sua nudez; ela também suspira e volta para trás. ^v8
+**8** Jerusalém pecou grandemente; por esse motivo, ela tornou-se desprezada como algo imundo. Todos os que a honravam agora a desprezam, desde que eles viram sua nudez. Ela geme e tenta virar-se. ^v8
 
-**9** A sua imundícia está nas suas saias; nunca se lembrou do seu fim; por isso foi pasmosamente abatida, não tem consolador; vê, Senhor, a minha aflição, porque o inimigo se tem engrandecido. ^v9
+**9** "Tornou-se suja debaixo das suas saias. Ela não pensou no seu futuro. Sua queda foi terrível. Não havia ninguém para confortá-la. Ela clamava: ""Vê minha aflição, Yahweh, pois, o inimigo tornou-se grande demais!""." ^v9
 
-**10** Estendeu o adversário a sua mão a todas as coisas mais preciosas dela; pois ela viu entrar no seu santuário os gentios, acerca dos quais mandaste que não entrassem na tua congregação. ^v10
+**10** O adversário pôs sua mão sobre todos os nossos preciosos tesouros. Ela viu as nações entrarem no seu santuário, mesmo que Tu tenhas ordenado que elas não devessem entrar na Tua assembléia. ^v10
 
-**11** Todo o seu povo anda suspirando, buscando o pão; deram as suas coisas mais preciosas a troco de mantimento para restaurarem a alma; vê, Senhor, e contempla, que sou desprezível. ^v11
+**11** Todo o seu povo geme enquanto procura por pão. Eles têm dado seus preciosos tesouros por comida para restaurarem suas vidas. Vê, Yahweh, e me considera, pois tenho me tornado inútil. ^v11
 
-**12** Não vos comove isto a todos vós que passais pelo caminho? Atendei, e vede, se há dor como a minha dor, que veio sobre mim, com que o Senhor me afligiu, no dia do furor da sua ira. ^v12
+**12** Vós que passais não vos importais comigo? Olha e vê se lá está alguém que sofre como eu tenho sofrido, desde que Yahweh me tem atormentado no dia da Sua ira feroz. ^v12
 
-**13** Desde o alto enviou fogo a meus ossos, o qual se assenhoreou deles; estendeu uma rede aos meus pés, fez-me voltar para trás, fez-me assolada e enferma todo o dia. ^v13
+**13** É do alto que Ele envia fogo dentro dos meus ossos, e isso os conquistou. Ele tem espalhado uma rede para meus pés e me fez voltar. Ele me tem feito constantemente desolado e fraco. ^v13
 
-**14** O jugo das minhas transgressões está atado pela sua mão; elas estão entretecidas, subiram sobre o meu pescoço, e ele abateu a minha força; entregou-me o Senhor nas mãos daqueles a quem não posso resistir. ^v14
+**14** O jugo das minhas transgressões está atado pela Sua mão. Elas estão amarradas e colocadas sobre meu pescoço. Ele fez minha força enfraquecer. O Senhor me entregou nas suas mãos, e não sou capaz de ficar de pé. ^v14
 
-**15** O Senhor atropelou todos os meus poderosos no meio de mim; convocou contra mim uma assembléia, para esmagar os meus jovens; o Senhor pisou como num lagar a virgem filha de Judá. ^v15
+**15** O Senhor tem lançado fora todo homem poderoso que me defendeu. Ele tem convocado uma assembleia contra mim, para esmagar os meus homens vigorosos. O Senhor tem pisoteado a filha virgem de Judá no lagar. ^v15
 
-**16** Por estas coisas eu ando chorando; os meus olhos, os meus olhos se desfazem em águas; porque se afastou de mim o consolador que devia restaurar a minha alma; os meus filhos estão assolados, porque prevaleceu o inimigo. ^v16
+**16** Por essas coisas eu choro. Meus olhos, água flui dos meus olhos, desde que o consolador, que deveria restaurar minha vida, está longe de mim. Minhas crianças estão desoladas, porque o inimigo triunfou. ^v16
 
-**17** Estende Sião as suas mãos, não há quem a console; mandou o Senhor acerca de Jacó que lhe fossem inimigos os que estão em redor dele; Jerusalém é entre eles como uma mulher imunda. ^v17
+**17** Sião está com suas mãos estendidas; não há ninguém para consolá-la. Yahweh ordenou que aqueles que estão à volta de Jacó se tornem seus adversários. Jerusalém é algo imundo para eles. ^v17
 
-**18** Justo é o Senhor, pois me rebelei contra o seu mandamento; ouvi, pois, todos os povos, e vede a minha dor; as minhas virgens e os meus jovens foram levados para o cativeiro. ^v18
+**18** Yahweh é justo, pois eu me rebelei contra Seus mandamentos. Ouvi, todos vós, povos, e vede meu sofrimento. Minhas virgens e meus homens vigorosos foram levados ao cativeiro. ^v18
 
-**19** Chamei os meus amantes, mas eles me enganaram; os meus sacerdotes e os meus anciãos expiraram na cidade; enquanto buscavam para si mantimento, para restaurarem a sua alma. ^v19
+**19** Eu chamei por meus amigos, mas eles foram traiçoeiros diante de mim. Meus sacerdotes e meus anciãos pereceram na cidade, enquanto eles procuravam comida para restaurar suas vidas. ^v19
 
-**20** Olha, Senhor, porque estou angustiada; turbadas estão as minhas entranhas; o meu coração está transtornado dentro de mim, porque gravemente me rebelei; fora me desfilhou a espada, em casa está a morte. ^v20
+**20** Vê, Yahweh, pois estou em sofrimento; minhas entranhas gritam, meu coração está perturbado dentro de mim, por eu ter sido muito rebelde. Lá fora, a espada tira os filhos de uma mãe; dentro da casa, há somente morte. ^v20
 
-**21** Ouviram que eu suspiro, mas não tenho quem me console; todos os meus inimigos que souberam do meu mal folgam, porque tu o fizeste; mas, em trazendo tu o dia que apregoaste, serão como eu. ^v21
+**21** Ouviram meus gemidos, mas não há ninguém para me consolar. Todos os meus inimigos têm ouvido das minhas tribulações. Eles se alegram por Tu teres feito isso. Tu nos trouxeste o dia que prometeste; agora, que eles se tornem como eu. ^v21
 
-**22** Venha toda a sua maldade diante de ti, e faze-lhes como me fizeste a mim por causa de todas as minhas transgressões; porque os meus suspiros são muitos, e o meu coração está desfalecido. ^v22
+**22** Que toda a maldade deles venha diante de Ti. Trata com eles como trataste comigo, por causa de todas as minhas transgressões. Meus gemidos são muitos, e meu coração está desfalecido. ^v22

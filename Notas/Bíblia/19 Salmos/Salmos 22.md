@@ -1,69 +1,66 @@
 ---
-Livro: "[[Salmos|Salmos]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Salmos|Salmos]]"
+tags: [biblia]
 ---
 
 # Salmos 22
 
-**1** Deus meu, Deus meu, por que me desamparaste? Por que te alongas do meu auxílio e das palavras do meu bramido? ^v1
+**2** Deus meu, eu clamo de dia, mas Tu não me respondes; e de noite eu não estou em silêncio, mas não encontro alívio. ^v2
 
-**2** Deus meu, eu clamo de dia, e tu não me ouves; de noite, e não tenho sossego. ^v2
+**3** Ainda assim, Tu és santo; entronizado entre os louvores de Israel. ^v3
 
-**3** Porém tu és santo, tu que habitas entre os louvores de Israel. ^v3
+**4** Nossos ancestrais confiaram em Ti; confiaram, e Tu os livraste. ^v4
 
-**4** Em ti confiaram nossos pais; confiaram, e tu os livraste. ^v4
+**5** Clamaram a Ti, e foram resgatados. Confiaram em Ti, e não se desapontaram. ^v5
 
-**5** A ti clamaram e escaparam; em ti confiaram, e não foram confundidos. ^v5
+**6** Mas eu sou um verme e não um homem; uma desgraça para a humanidade e desprezado pelo povo. ^v6
 
-**6** Mas eu sou verme, e não homem, opróbrio dos homens e desprezado do povo. ^v6
+**7** Todos aqueles que me veem zombam de mim; eles me insultam; balançam sua cabeça para mim e dizem: ^v7
 
-**7** Todos os que me vêem zombam de mim, estendem os lábios e meneiam a cabeça, dizendo: ^v7
+**8** """Ele confia em Yahweh; que Yahweh o resgate. Que Ele o livre, pois regozija-se Nele.""" ^v8
 
-**8** Confiou no Senhor, que o livre; livre-o, pois nele tem prazer. ^v8
+**9** Pois Tu me trouxeste do ventre; Tu me deste segurança quando eu estava no seio de minha mãe. ^v9
 
-**9** Mas tu és o que me tiraste do ventre; fizeste-me confiar, estando aos seios de minha mãe. ^v9
+**10** A Ti fui entregue desde que nasci; Tu és meu Deus desde que eu estava no ventre de minha mãe! ^v10
 
-**10** Sobre ti fui lançado desde a madre; tu és o meu Deus desde o ventre de minha mãe. ^v10
+**11** Não fiques longe de mim, pois as dificuldades estão perto; não há ninguém para me ajudar. ^v11
 
-**11** Não te alongues de mim, pois a angústia está perto, e não há quem ajude. ^v11
+**12** Muitos touros me cercaram; fortes touros de Basã me rodeiam. ^v12
 
-**12** Muitos touros me cercaram; fortes touros de Basã me rodearam. ^v12
+**13** Eles abrem suas bocas contra mim como o bramido do leão rasgando sua vítima. ^v13
 
-**13** Abriram contra mim suas bocas, como um leão que despedaça e que ruge. ^v13
+**14** Estou sendo derramado como água, e todos os meus ossos estão deslocados. Meu coração é como cera que se derrete nas minhas entranhas. ^v14
 
-**14** Como água me derramei, e todos os meus ossos se desconjuntaram; o meu coração é como cera, derreteu-se no meio das minhas entranhas. ^v14
+**15** Minha força secou-se como um pedaço de cerâmica; minha língua gruda no céu da boca. Tu me deitaste no pó da morte. ^v15
 
-**15** A minha força se secou como um caco, e a língua se me pega ao paladar; e me puseste no pó da morte. ^v15
+**16** Cães me cercaram, fui rodeado por um bando de homens maus; eles perfuraram minhas mãos e pés. ^v16
 
-**16** Pois me rodearam cães; o ajuntamento de malfeitores me cercou, traspassaram-me as mãos e os pés. ^v16
+**17** Eu posso contar todos os meus ossos. Eles me olham e me encaram. ^v17
 
-**17** Poderia contar todos os meus ossos; eles vêem e me contemplam. ^v17
+**18** Dividem minhas vestes entre si; jogaram sortes pelas minhas roupas. ^v18
 
-**18** Repartem entre si as minhas vestes, e lançam sortes sobre a minha roupa. ^v18
+**19** Não fiques longe, Yahweh; por favor, apressa-Te em ajudar-me, minha força! ^v19
 
-**19** Mas tu, Senhor, não te alongues de mim. Força minha, apressa-te em socorrer-me. ^v19
+**20** Resgata minha alma da espada e minha vida das garras dos cães selvagens. ^v20
 
-**20** Livra a minha alma da espada, e a minha predileta da força do cão. ^v20
+**21** Salva-me da boca do leão; resgata-me dos chifres de bois selvagens. ^v21
 
-**21** Salva-me da boca do leão; sim, ouviste-me, das pontas dos bois selvagens. ^v21
+**22** Declararei Teu nome para meus irmãos; no meio da assembleia eu Te louvarei. ^v22
 
-**22** Então declararei o teu nome aos meus irmãos; louvar-te-ei no meio da congregação. ^v22
+**23** Vós que temeis a Yahweh, louvai-O! Todos os descendentes de Jacó, honrai-O! Temei-O, todos vós, descendentes de Israel! ^v23
 
-**23** Vós, que temeis ao Senhor, louvai-o; todos vós, semente de Jacó, glorificai-o; e temei-o todos vós, semente de Israel. ^v23
+**24** Pois Ele não desprezou nem abominou o sofrimento do aflito; Yahweh não escondeu Sua face dele; quando o aflito clamou a Ele, Ele ouviu. ^v24
 
-**24** Porque não desprezou nem abominou a aflição do aflito, nem escondeu dele o seu rosto; antes, quando ele clamou, o ouviu. ^v24
+**25** Meu louvor será por Ti na grande assembleia; eu cumprirei minhas promessas diante daqueles que O temem. ^v25
 
-**25** O meu louvor será de ti na grande congregação; pagarei os meus votos perante os que o temem. ^v25
+**26** Os oprimidos comerão e ficarão satisfeitos; aqueles que buscam Yahweh O louvarão. Que vossos corações vivam para sempre. ^v26
 
-**26** Os mansos comerão e se fartarão; louvarão ao Senhor os que o buscam; o vosso coração viverá eternamente. ^v26
+**27** Todos os povos da terra se lembrarão e se voltarão para Yahweh. Todas as famílias das nações se curvarão diante de Ti. ^v27
 
-**27** Todos os limites da terra se lembrarão, e se converterão ao Senhor; e todas as famílias das nações adorarão perante a tua face. ^v27
+**28** Pois o reino é de Yahweh; Ele é quem governa sobre as nações. ^v28
 
-**28** Porque o reino é do Senhor, e ele domina entre as nações. ^v28
+**29** Todas as pessoas prósperas da terra celebrarão um banquete e O adorarão; todos os que descem ao pó, aqueles que não podem preservar sua própria vida, se curvarão diante Dele. ^v29
 
-**29** Todos os que na terra são gordos comerão e adorarão, e todos os que descem ao pó se prostrarão perante ele; e nenhum poderá reter viva a sua alma. ^v29
+**30** A geração futura também O servirá; e eles contarão para a geração seguinte sobre Yahweh. ^v30
 
-**30** Uma semente o servirá; será declarada ao Senhor a cada geração. ^v30
-
-**31** Chegarão e anunciarão a sua justiça ao povo que nascer, porquanto ele o fez. ^v31
+**31** Eles virão e proclamarão a Sua justiça; contarão sobre os Seus feitos para aqueles que ainda não nasceram. ^v31

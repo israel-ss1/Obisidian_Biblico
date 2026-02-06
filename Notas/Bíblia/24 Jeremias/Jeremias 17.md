@@ -1,61 +1,60 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Jeremias|Jeremias]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Jeremias|Jeremias]]"
+tags: [biblia]
 ---
 
 # Jeremias 17
 
-**1** O pecado de Judá está escrito com um ponteiro de ferro, com ponta de diamante, gravado na tábua do seu coração e nas pontas dos vossos altares. ^v1
+**1** """O pecado de Judá está escrito com um ponteiro de ferro, com uma ponta de diamante; está gravado nas tábuas de seus corações e nas pontas de seus altares." ^v1
 
-**2** Como também seus filhos se lembram dos seus altares, e dos seus bosques, junto às árvores frondosas, sobre os altos outeiros, ^v2
+**2** Seus filhos lembram-se dos altares e dos postes ídolos, junto às árvores verdejantes nos altos montes. ^v2
 
-**3** Ó meu monte, no campo, a tua riqueza e todos os teus tesouros, darei por presa, como também os teus altos, por causa do pecado, em todos os teus termos. ^v3
+**3** Os postes ídolos estão na Minha montanha e nas campinas. Tua riqueza e todo o teu tesouro, darei como despojo, juntamente com teus lugares altos, por causa do teu pecado cometido em todos os teus territórios. ^v3
 
-**4** Assim por ti mesmo te privarás da tua herança que te dei, e far-te-ei servir os teus inimigos, na terra que não conheces; porque o fogo que acendeste na minha ira arderá para sempre. ^v4
+**4** "Tu perderás a herança que te dei. Farei com que teus inimigos te levem como escravo para uma terra que não conheces, pois acendeste o fogo da Minha ira, o qual queimará eternamente""." ^v4
 
-**5** Assim diz o Senhor: Maldito o homem que confia no homem, e faz da carne o seu braço, e aparta o seu coração do Senhor! ^v5
+**5** "Disse Yahweh: ""Maldito é o homem que confia no homem, faz da carne sua força e desvia o coração para longe de Yahweh." ^v5
 
-**6** Porque será como a tamargueira no deserto, e não verá quando vem o bem; antes morará nos lugares secos do deserto, na terra salgada e inabitável. ^v6
+**6** Ele será como um pequeno arbusto no deserto, e não perceberá quando vier o bem. Ele ficará nos lugares pedregosos do deserto, em terras estéreis e desabitadas. ^v6
 
-**7** Bendito o homem que confia no Senhor, e cuja confiança é o Senhor. ^v7
+**7** Mas bendito é o homem que confia em Yahweh, cuja esperança é Yahweh. ^v7
 
-**8** Porque será como a árvore plantada junto às águas, que estende as suas raízes para o ribeiro, e não receia quando vem o calor, mas a sua folha fica verde; e no ano de sequidão não se afadiga, nem deixa de dar fruto. ^v8
+**8** Ele será como uma árvore plantada ao lado das águas, que estende suas raízes ao longo de um riacho; não temerá quando o calor vier, porque suas folhas estarão sempre verdes; Não temerá o ano da seca, nem cessará de produzir frutos. ^v8
 
-**9** Enganoso é o coração, mais do que todas as coisas, e perverso; quem o conhecerá? ^v9
+**9** O coração humano é mais enganoso do que qualquer outra coisa, e é perverso; quem pode conhecê-lo? ^v9
 
-**10** Eu, o Senhor, esquadrinho o coração e provo os rins; e isto para dar a cada um segundo os seus caminhos e segundo o fruto das suas ações. ^v10
+**10** Eu sou Yahweh, o único que sonda a mente, que prova os corações, a fim de dar a cada um de acordo com os seus caminhos, de acordo com os frutos de suas ações. ^v10
 
-**11** Como a perdiz, que choca ovos que não pôs, assim é aquele que ajunta riquezas, mas não retamente; no meio de seus dias as deixará, e no seu fim será um insensato. ^v11
+**11** "Como uma perdiz que choca um ovo que ela não pôs, assim é alguém que enriquece desonestamente; mas quando estiver bem, na metade de sua vida, suas riquezas o abandonarão e, no fim, será um tolo.""" ^v11
 
-**12** Um trono de glória, posto bem alto desde o princípio, é o lugar do nosso santuário. ^v12
+**12** O lugar de nosso santuário é um trono de glória, exaltado desde o princípio. ^v12
 
-**13** Ó Senhor, esperança de Israel, todos aqueles que te deixam serão envergonhados; os que se apartam de mim serão escritos sobre a terra; porque abandonam o Senhor, a fonte das águas vivas. ^v13
+**13** Yahweh é a esperança de Israel. Todos que Te abandonam serão envergonhados. Aqueles na terra que deixarem a Ti, serão escritos no pó. Porque eles estão abandonando Yahweh, a Fonte das águas vivas. ^v13
 
-**14** Cura-me, Senhor, e sararei; salva-me, e serei salvo; porque tu és o meu louvor. ^v14
+**14** Cura-me, Yahweh, e ficarei curado! Salva-me, e serei salvo. Porque Tu és meu cântico de louvor. ^v14
 
-**15** Eis que eles me dizem: Onde está a palavra do Senhor? Venha agora. ^v15
+**15** Vê, eles dizem para mim: 'Onde está a palavra de Yahweh? Que venha!' ^v15
 
-**16** Porém eu não me apressei em ser o pastor seguindo-te; nem tampouco desejei o dia da aflição, tu o sabes; o que saiu dos meus lábios está diante de tua face. ^v16
+**16** Quanto a mim, eu não fugi de ser um pastor seguindo-Te. Eu não desejei pelo dia da calamidade. Tu sabes as proclamações que vieram de meus lábios; elas foram feitas em Tua presença. ^v16
 
-**17** Não me sejas por espanto; meu refúgio és tu no dia do mal. ^v17
+**17** Não sejas um terror para mim; Tu és meu refúgio no dia da calamidade. ^v17
 
-**18** Envergonhem-se os que me perseguem, e não me envergonhe eu; assombrem-se eles, e não me assombre eu; traze sobre eles o dia do mal, e destrói-os com dobrada destruição. ^v18
+**18** "Que meus perseguidores sejam envergonhados, mas não me deixes ser envergonhado. Que eles sejam desanimados, mas não me deixes desanimar. Envia o dia da calamidade contra eles e despedaça-os com uma destruição dobrada""." ^v18
 
-**19** Assim me disse o Senhor: Vai, e põe-te à porta dos filhos do povo, pela qual entram os reis de Judá, e pela qual saem; como também em todas as portas de Jerusalém. ^v19
+**19** "Yahweh me disse isto: ""Vai e põe-te em pé no portão do povo, onde os reis de Judá entram e saem, e em todos os outros portões de Jerusalém." ^v19
 
-**20** E dize-lhes: Ouvi a palavra do Senhor, vós, reis de Judá e todo o Judá, e todos os moradores de Jerusalém que entrais por estas portas. ^v20
+**20** Dize-lhes: 'Ouvi as palavras de Yahweh, reis de Judá e todo o povo de Judá, e todos os moradores de Jerusalém que passam por estes portões. ^v20
 
-**21** Assim diz o Senhor: Guardai as vossas almas, e não tragais cargas no dia de sábado, nem as introduzais pelas portas de Jerusalém; ^v21
+**21** "Assim diz Yahweh: ""Sede cuidadosos pelo amor de vossas vidas e não carregueis carga no dia de sábado, nem as leveis até os portões de Jerusalém," ^v21
 
-**22** Nem tireis cargas de vossas casas no dia de sábado, nem façais obra alguma; antes santificai o dia de sábado, como eu ordenei a vossos pais. ^v22
+**22** nem as tireis de vossas casas no dia de sábado. Não façais nenhum trabalho, mas consagrai o sábado para Yahweh, assim como Eu ordenei que vossos ancestrais fizessem. ^v22
 
-**23** Mas não escutaram, nem inclinaram os seus ouvidos; antes endureceram a sua cerviz, para não ouvirem, e para não receberem correção. ^v23
+**23** Eles não deram ouvidos nem prestaram atenção; antes, endureceram a cerviz, não Me ouvindo, nem aceitando a disciplina. ^v23
 
-**24** Mas se vós diligentemente me ouvirdes, diz o Senhor, não introduzindo cargas pelas portas desta cidade no dia de sábado, e santificardes o dia de sábado, não fazendo nele obra alguma, ^v24
+**24** Acontecerá que, se vós realmente me ouvirdes — esta é declaração de Yahweh — e não trouxerdes carga para os portões desta cidade no dia de sábado, mas, ao invés disso, consagrardes o dia de sábado a Yahweh e não fizeres qualquer trabalho nele, ^v24
 
-**25** Então entrarão pelas portas desta cidade reis e príncipes, que se assentem sobre o trono de Davi, andando em carros e em cavalos; e eles e seus príncipes, os homens de Judá, e os moradores de Jerusalém; e esta cidade será habitada para sempre. ^v25
+**25** então, os reis, príncipes e aqueles que se assentarem no trono de Davi, virão para os portões desta cidade, nas carruagens com seus cavalos, eles e seus líderes, homens de Judá e moradores de Jerusalém, e esta cidade será habitada eternamente. ^v25
 
-**26** E virão das cidades de Judá, e dos arredores de Jerusalém, e da terra de Benjamim, e das planícies, e das montanhas, e do sul, trazendo holocaustos, e sacrifícios, e ofertas de alimentos, e incenso, trazendo também sacrifícios de louvores à casa do Senhor. ^v26
+**26** Eles virão das cidades de Judá, de todos arredores os de Jerusalém, das terras de Benjamim e das planícies, das montanhas e do Neguev e queimarão holocaustos, sacrifícios, oferta de cereais e incenso, e ofertas de gratidão à Casa de Yahweh. ^v26
 
-**27** Mas, se não me ouvirdes, para santificardes o dia de sábado, e para não trazerdes carga alguma, quando entrardes pelas portas de Jerusalém no dia de sábado, então acenderei fogo nas suas portas, o qual consumirá os palácios de Jerusalém, e não se apagará. ^v27
+**27** "Mas, se não Me ouvirdes para consagrar o dia de sábado a Yahweh, e levardes vossas cargas, e entrardes nos portões de Jerusalém no dia de sábado, então, Eu queimarei seus portões, um fogo consumirá as fortalezas de Jerusalém, e não será apagado""." ^v27

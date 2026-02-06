@@ -1,49 +1,48 @@
 ---
-Livro: "[[1 Reis|1 Reis]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/1 Reis|1 Reis]]"
+tags: [biblia]
 ---
 
 # 1 Reis 19
 
-**1** E Acabe fez saber a Jezabel tudo quanto Elias havia feito, e como totalmente matara todos os profetas à espada. ^v1
+**1** Acabe contou a Jezabel tudo o que Elias havia feito e como matara todos os profetas com a espada. ^v1
 
-**2** Então Jezabel mandou um mensageiro a Elias, a dizer-lhe: Assim me façam os deuses, e outro tanto, se de certo amanhã a estas horas não puser a tua vida como a de um deles. ^v2
+**2** "Então Jezabel enviou um mensageiro a Elias, dizendo: ""Que os deuses façam comigo, e ainda mais, se eu não fizer com tua vida até amanhã a esta hora o mesmo que foi feito com a vida daqueles profetas mortos""." ^v2
 
-**3** O que vendo ele, se levantou e, para escapar com vida, se foi, e chegando a Berseba, que é de Judá, deixou ali o seu servo. ^v3
+**3** Quando Elias ouviu isso, temendo, fugiu para salvar sua vida e chegou a Berseba, que pertence a Judá; e deixou seu servo ali. ^v3
 
-**4** Ele, porém, foi ao deserto, caminho de um dia, e foi sentar-se debaixo de um zimbro; e pediu para si a morte, e disse: Já basta, ó Senhor; toma agora a minha vida, pois não sou melhor do que meus pais. ^v4
+**4** "Elias se foi ao deserto numa jornada de um dia e sentou-se debaixo de um arbusto. Ele pediu para si mesmo que morresse e disse: ""Já basta, Yahweh; toma a minha vida, pois não sou melhor do que meus antepassados mortos""." ^v4
 
-**5** E deitou-se, e dormiu debaixo do zimbro; e eis que então um anjo o tocou, e lhe disse: Levanta-te, come. ^v5
+**5** "Logo ele deitou e dormiu debaixo do arbusto; inesperadamente, um anjo lhe tocou e disse: ""Levanta-te e come""." ^v5
 
-**6** E olhou, e eis que à sua cabeceira estava um pão cozido sobre as brasas, e uma botija de água; e comeu, e bebeu, e tornou a deitar-se. ^v6
+**6** Elias olhou e perto de sua cabeça havia um pão assado em brasas e um jarro de água. A seguir, ele comeu, bebeu e depois deitou-se novamente. ^v6
 
-**7** E o anjo do Senhor tornou segunda vez, e o tocou, e disse: Levanta-te e come, porque te será muito longo o caminho. ^v7
+**7** "O Anjo de Yahweh veio uma segunda vez e o tocou, dizendo: ""Levanta-te e come, pois tua jornada será muito difícil""." ^v7
 
-**8** Levantou-se, pois, e comeu e bebeu; e com a força daquela comida caminhou quarenta dias e quarenta noites até Horebe, o monte de Deus. ^v8
+**8** Então ele se levantou, comeu, bebeu e viajou com a força daquele alimento por quarenta dias e quarenta noites até Horebe, o monte de Deus. ^v8
 
-**9** E ali entrou numa caverna e passou ali a noite; e eis que a palavra do Senhor veio a ele, e lhe disse: Que fazes aqui Elias? ^v9
+**9** "Ali, ele entrou em uma caverna e nela permaneceu. Depois, a palavra de Yahweh veio a ele e lhe disse: ""O que fazes aqui, Elias?""" ^v9
 
-**10** E ele disse: Tenho sido muito zeloso pelo Senhor Deus dos Exércitos, porque os filhos de Israel deixaram a tua aliança, derrubaram os teus altares, e mataram os teus profetas à espada, e só eu fiquei, e buscam a minha vida para ma tirarem. ^v10
+**10** "Elias respondeu: ""Eu tenho sido muito zeloso por Yahweh, Deus dos Exércitos, pois o povo de Israel abandonou Tua aliança, destruiu Teus altares e matou Teus profetas com a espada. Agora apenas eu fiquei, e eles ainda estão tentando tirar a minha vida""." ^v10
 
-**11** E Deus lhe disse: Sai para fora, e põe-te neste monte perante o Senhor. E eis que passava o Senhor, como também um grande e forte vento que fendia os montes e quebrava as penhas diante do Senhor; porém o Senhor não estava no vento; e depois do vento um terremoto; também o Senhor não estava no terremoto; ^v11
+**11** "Yahweh respondeu: ""Sai e sobe o monte diante de Mim"". Então Yahweh passou, e um forte vento se abateu sobre as montanhas quebrando as pedras em pedaços diante de Yahweh, mas Yahweh não estava no vento. Depois do vento, veio um terremoto, mas Yahweh não estava no terremoto." ^v11
 
-**12** E depois do terremoto um fogo; porém também o Senhor não estava no fogo; e depois do fogo uma voz mansa e delicada. ^v12
+**12** Depois do terremoto veio um fogo, mas Yahweh não estava no fogo. Depois do fogo, veio uma voz mansa e suave. ^v12
 
-**13** E sucedeu que, ouvindo-a Elias, envolveu o seu rosto na sua capa, e saiu para fora, e pôs-se à entrada da caverna; e eis que veio a ele uma voz, que dizia: Que fazes aqui, Elias? ^v13
+**13** "Quando Elias ouviu a voz, ele cobriu o rosto com sua capa, saiu e ficou em pé à entrada da caverna. Então veio uma voz dizendo: ""Que fazes aqui, Elias?""" ^v13
 
-**14** E ele disse: Eu tenho sido em extremo zeloso pelo Senhor Deus dos Exércitos, porque os filhos de Israel deixaram a tua aliança, derrubaram os teus altares, e mataram os teus profetas à espada, e só eu fiquei; e buscam a minha vida para ma tirarem. ^v14
+**14** "Elias respondeu: ""Eu tenho sido muito zeloso por Yahweh, Deus dos Exércitos, pois o povo de Israel abandonou Tua Aliança, destruiu Teus altares e matou Teus profetas à espada. Agora apenas eu fiquei, e eles ainda estão tentando tirar a minha vida""." ^v14
 
-**15** E o Senhor lhe disse: Vai, volta pelo teu caminho para o deserto de Damasco; e, chegando lá, unge a Hazael rei sobre a Síria. ^v15
+**15** "Então Yahweh disse a ele: ""Vai, retorna por onde vieste, para o deserto de Damasco, e, quando lá chegares, ungirás a Hazel para ser rei sobre a Síria." ^v15
 
-**16** Também a Jeú, filho de Ninsi, ungirás rei de Israel; e também a Eliseu, filho de Safate de Abel-Meolá, ungirás profeta em teu lugar. ^v16
+**16** Ungirás, também, a Jeú, filho de Ninsi, para ser rei sobre Israel, e ungirás a Eliseu, filho de Safate de Abel-Meloá, para ser profeta em teu lugar. ^v16
 
-**17** E há de ser que o que escapar da espada de Hazael, matá-lo-á Jeú; e o que escapar da espada de Jeú, matá-lo-á Eliseu. ^v17
+**17** Acontecerá que Jeú matará quem escapar da espada de Hazael, e Eliseu matará quem escapar da espada de Jeú. ^v17
 
-**18** Também deixei ficar em Israel sete mil: todos os joelhos que não se dobraram a Baal, e toda a boca que não o beijou. ^v18
+**18** Porém Eu deixarei para Mim sete mil pessoas em Israel, cujos joelhos não se dobraram a Baal e cujas bocas não lhe beijaram. ^v18
 
-**19** Partiu, pois, Elias dali, e achou a Eliseu, filho de Safate, que andava lavrando com doze juntas de bois adiante dele, e ele estava com a duodécima; e Elias passou por ele, e lançou a sua capa sobre ele. ^v19
+**19** Então Elias partiu dali e encontrou Eliseu, filho de Safate, que lavrava com doze juntas de bois adiante dele e, ele mesmo, lavrava com a décima segunda junta. Elias foi até Eliseu e colocou sua capa sobre ele. ^v19
 
-**20** Então deixou ele os bois, e correu após Elias; e disse: Deixa-me beijar a meu pai e a minha mãe, e então te seguirei. E ele lhe disse: Vai, e volta; pois, que te fiz eu? ^v20
+**20** "Depois Eliseu deixou os bois e correu até Elias e disse: ""Deixa que eu beije meu pai e minha mãe e depois te seguirei"". Então Elias lhe disse: ""Vai e volta, mas pensa sobre o que fiz contigo""." ^v20
 
-**21** Voltou, pois, de o seguir, e tomou a junta de bois, e os matou, e com os aparelhos dos bois cozeu as carnes, e as deu ao povo, e comeram; então se levantou e seguiu a Elias, e o servia. ^v21
+**21** Então Eliseu voltou a Elias, pegou a junta de bois, matou os animais, cozinhou a carne com a madeira do jugo dos bois, deu ao povo e eles comeram. Desde então, ele se levantou, passou a seguir Elias e o serviu. ^v21

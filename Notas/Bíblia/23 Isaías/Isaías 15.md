@@ -1,25 +1,24 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Isaías|Isaías]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Isaías|Isaías]]"
+tags: [biblia]
 ---
 
 # Isaías 15
 
-**1** Peso de Moabe. Certamente numa noite foi destruída Ar de Moabe, e foi desfeita; certamente numa noite foi destruída Quir de Moabe e foi desfeita. ^v1
+**1** Uma declaração sobre Moabe: De fato, em uma noite, Ar de Moabe foi devastada e destruída; certamente, em uma só noite, Quir de Moabe foi devastada e destruída. ^v1
 
-**2** Vai subindo a Bajite, e a Dibom, aos lugares altos, para chorar; por Nebo e por Medeba clamará Moabe; todas as cabeças ficarão calvas, e toda a barba será rapada. ^v2
+**2** Eles foram ao templo, o povo de Dibom foi aos altos lugares para chorar. Moabe pranteia sobre Nebo e Medeba. Todas as suas cabeças estão calvas e todas as barbas estão cortadas. ^v2
 
-**3** Cingiram-se de sacos nas suas ruas; nos seus terraços e nas suas praças todos andam gritando, e choram abundantemente. ^v3
+**3** Em suas ruas, eles vestem panos de saco; em seus terraços e na praça, todos lamentam, derretem-se em lágrimas. ^v3
 
-**4** Assim Hesbom como Eleale, andam gritando; até Jaaz se ouve a sua voz; por isso os armados de Moabe clamam; a sua alma lhes será penosa. ^v4
+**4** Hesbom e Eleale clamam por ajuda; suas vozes são ouvidas tão longe quanto em Jaaz. Por isso, os homens armados de Moabe clamam por ajuda; eles tremem em seu interior. ^v4
 
-**5** O meu coração clama por causa de Moabe; os seus fugitivos foram até Zoar, como uma novilha de três anos; porque vão chorando pela subida de Luíte, porque no caminho de Horonaim levantam um lastimoso pranto. ^v5
+**5** Meu coração chora por Moabe; seus fugitivos fogem para Zoar e para Eglate-Selisia. Eles sobem chorando para Luíte; na estrada para Horonaim, eles lamentam, em alta voz, por sua destruição. ^v5
 
-**6** Porque as águas de Ninrim serão pura assolação; porque já secou o feno, acabou a erva, e não há verdura alguma. ^v6
+**6** As águas de Ninrim secaram-se, a grama está seca e a vegetação morre; nada está verde. ^v6
 
-**7** Por isso a abundância que ajuntaram, e o que guardaram, ao ribeiro dos salgueiros o levarão. ^v7
+**7** A fartura que cultivaram e estocaram, eles a levam para além do riacho dos salgueiros. ^v7
 
-**8** Porque o pranto rodeará aos limites de Moabe; até Eglaim chegará o seu clamor, e ainda até Beer-Elim chegará o seu lamento. ^v8
+**8** O choro espalha-se por todo a terra de Moabe; a lamentação, tão longe quanto Eglaim e Beer-Elim. ^v8
 
-**9** Porquanto as águas de Dimom estão cheias de sangue, porque ainda acrescentarei mais a Dimom; leões contra aqueles que escaparem de Moabe e contra o restante da terra. ^v9
+**9** Pois as águas de Dimom estão cheias de sangue; mas Eu trarei ainda mais sobre Dimom. Um leão atacará tanto os que escaparem de Moabe quanto os que restarem na terra. ^v9

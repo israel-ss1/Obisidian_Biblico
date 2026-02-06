@@ -1,69 +1,66 @@
 ---
-Livro: "[[Salmos|Salmos]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Salmos|Salmos]]"
+tags: [biblia]
 ---
 
 # Salmos 109
 
-**1** Ó Deus do meu louvor, não te cales, ^v1
+**2** Pois os perversos me atacam e falam mentiras contra mim. ^v2
 
-**2** Pois a boca do ímpio e a boca do enganador estão abertas contra mim. Têm falado contra mim com uma língua mentirosa. ^v2
+**3** Eles me cercam e dizem coisas odiosas e me atacam sem motivo. ^v3
 
-**3** Eles me cercaram com palavras odiosas, e pelejaram contra mim sem causa. ^v3
+**4** Em troca do meu amor, eles me difamam, mas eu oro por eles. ^v4
 
-**4** Em recompensa do meu amor são meus adversários; mas eu faço oração. ^v4
+**5** Eles me pagam o mal pelo bem, e eles odeiam o meu amor. ^v5
 
-**5** E me deram mal pelo bem, e ódio pelo meu amor. ^v5
+**6** Aponta um homen ímpio contra tal inimigo; que um acusador esteja à sua direita. ^v6
 
-**6** Põe sobre ele um ímpio, e Satanás esteja à sua direita. ^v6
+**7** Quando ele for julgado, que seja culpado; que sua oração seja considerada pecaminosa. ^v7
 
-**7** Quando for julgado, saia condenado; e a sua oração se lhe torne em pecado. ^v7
+**8** Que sejam poucos os seus dias; que outro pegue o seu oficio. ^v8
 
-**8** Sejam poucos os seus dias, e outro tome o seu ofício. ^v8
+**9** Que seus filhos fiquem órfãos e sua esposa, viúva. ^v9
 
-**9** Sejam órfãos os seus filhos, e viúva sua mulher. ^v9
+**10** Que seus filhos andem sem destino, pedindo esmolas, e sejam expulsos de suas casas em ruínas. ^v10
 
-**10** Sejam vagabundos e pedintes os seus filhos, e busquem pão fora dos seus lugares desolados. ^v10
+**11** Que o credor pegue tudo o que ele possui; que estranhos saqueiem o que ele ganha. ^v11
 
-**11** Lance o credor mão de tudo quanto tenha, e despojem os estranhos o seu trabalho. ^v11
+**12** Ninguém prolongue nenhuma bondade para com ele; que ninguém tenha piedade dos seus órfãos. ^v12
 
-**12** Não haja ninguém que se compadeça dele, nem haja quem favoreça os seus órfãos. ^v12
+**13** Que sua descendência desapareça; que seu nome seja apagado da próxima geração. ^v13
 
-**13** Desapareça a sua posteridade, o seu nome seja apagado na seguinte geração. ^v13
+**14** Que o pecado de seus ancestrais sejam mencionados a Yahweh; e os pecados de sua mãe não sejam esquecido. ^v14
 
-**14** Esteja na memória do Senhor a iniqüidade de seus pais, e não se apague o pecado de sua mãe. ^v14
+**15** Que sua culpa esteja sempre diante de Yahweh; que Yahweh corte sua memória da terra. ^v15
 
-**15** Antes estejam sempre perante o Senhor, para que faça desaparecer a sua memória da terra. ^v15
+**16** Que Yahweh faça isto porque esse homen nunca se preocupou em mostrar alguma bondade; pelo contrário, atormenta o oprimido, o necessitado e o desencoraja até a morte. ^v16
 
-**16** Porquanto não se lembrou de fazer misericórdia; antes perseguiu ao homem aflito e ao necessitado, para que pudesse até matar o quebrantado de coração. ^v16
+**17** Ele amou a maldição; que ela se volte para ele. Ele odiou a benção; que a benção não venha a ele. ^v17
 
-**17** Visto que amou a maldição, ela lhe sobrevenha, e assim como não desejou a bênção, ela se afaste dele. ^v17
+**18** Ele se vestiu de maldição, como uma roupa; que ela penetre em seu interior como água, como óleo em seus ossos. ^v18
 
-**18** Assim como se vestiu de maldição, como sua roupa assim penetre ela nas suas entranhas, como água, e em seus ossos como azeite. ^v18
+**19** Que a maldição seja para ele como roupas que ele usa para se cobrir, como o cinto que ele sempre usa. ^v19
 
-**19** Seja para ele como a roupa que o cobre, e como cinto que o cinja sempre. ^v19
+**20** Que essa seja a recompensa de Yahweh para meus acusadores, para aqueles que falam mal de mim. ^v20
 
-**20** Seja este o galardão dos meus contrários, da parte do Senhor, e dos que falam mal contra a minha alma. ^v20
+**21** Yahweh, meu Deus, tem misericórdia de mim por amor do Teu nome. Salva-me por Teu amor leal. ^v21
 
-**21** Mas tu, ó DEUS o Senhor, trata comigo por amor do teu nome, porque a tua misericórdia é boa, livra-me, ^v21
+**22** Porque sou oprimido e necessitado e meu coração está ferido dentro de mim. ^v22
 
-**22** Pois estou aflito e necessitado, e o meu coração está ferido dentro de mim. ^v22
+**23** Eu estou desaparecendo como a sombra no anoitecer; sou jogado para longe como um gafanhoto. ^v23
 
-**23** Vou-me como a sombra que declina; sou sacudido como o gafanhoto. ^v23
+**24** Meus joelhos estão enfraquecidos pelo jejum, estou ficando pele e ossos. ^v24
 
-**24** De jejuar estão enfraquecidos os meus joelhos, e a minha carne emagrece. ^v24
+**25** Estou sendo desdenhado pelos meus acusadores; quando me veem, eles balançam suas cabeças. ^v25
 
-**25** E ainda lhes sou opróbrio; quando me contemplam, movem as cabeças. ^v25
+**26** Ajuda-me, Yahweh meu Deus; salva-me por Teu amor leal. ^v26
 
-**26** Ajuda-me, ó Senhor meu Deus, salva-me segundo a tua misericórdia. ^v26
+**27** E que eles saibam o que estais fazendo; que Tu, Yahweh, tens feito isto. ^v27
 
-**27** Para que saibam que esta é a tua mão, e que tu, Senhor, o fizeste. ^v27
+**28** Ainda que eles me amaldiçoem, Tu me abençoas; quando eles me atacarem, que sejam expostos à vergonha, e que Teu servo se alegre. ^v28
 
-**28** Amaldiçoem eles, mas abençoa tu; quando se levantarem fiquem confundidos; e alegre-se o teu servo. ^v28
+**29** Que meus adversários sejam vestidos de vergonha; que usem sua vergonha como um manto. ^v29
 
-**29** Vistam-se os meus adversários de vergonha, e cubram-se com a sua própria confusão como com uma capa. ^v29
+**30** Com minha boca darei graças a Yahweh; eu o louvarei no meio da multidão. ^v30
 
-**30** Louvarei grandemente ao Senhor com a minha boca; louvá-lo-ei entre a multidão. ^v30
-
-**31** Pois se porá à direita do pobre, para o livrar dos que condenam a sua alma. ^v31
+**31** Porque Ele estará à direita daquele que é necessitado, para salvá-lo daqueles que o julgam. ^v31

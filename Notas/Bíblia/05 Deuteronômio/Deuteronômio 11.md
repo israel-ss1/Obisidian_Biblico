@@ -1,71 +1,70 @@
 ---
-Livro: "[[Deuteronômio|Deuteronômio]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Deuteronômio|Deuteronômio]]"
+tags: [biblia]
 ---
 
 # Deuteronômio 11
 
-**1** Amarás, pois, ao SENHOR teu Deus, e guardarás as suas ordenanças, e os seus estatutos, e os seus juízos, e os seus mandamentos, todos os dias. ^v1
+**1** Então, amarás Yahweh teu Deus e guardarás as Suas instruções, Seus estatutos, Seus decretos, e Seus mandamentos, todos os dias. ^v1
 
-**2** E hoje sabereis que falo, não com vossos filhos, que o não sabem, e não viram a instrução do Senhor vosso Deus, a sua grandeza, a sua mão forte, e o seu braço estendido; ^v2
+**2** Considerai que eu não estou falando para vossos filhos, os quais não conheceram nem viram a disciplina de Yahweh vosso Deus, Sua grandeza, Sua mão poderosa, ou Seu braço estendido, ^v2
 
-**3** Nem tampouco os seus sinais, nem os seus feitos, que fez no meio do Egito a Faraó, rei do Egito, e a toda a sua terra; ^v3
+**3** os sinais e as obras que Ele fez a Faraó, rei do Egito, e a toda sua terra. ^v3
 
-**4** Nem o que fez ao exército dos egípcios, aos seus cavalos e aos seus carros, fazendo passar sobre eles as águas do Mar Vermelho quando vos perseguiam, e como o Senhor os destruiu, até ao dia de hoje; ^v4
+**4** Tão pouco viram o que Ele fez ao exército do Egito, aos seus cavalos, ou aos seus carros; e de como Ele fez a água do mar Vermelho inundá-los enquanto eles vos perseguiam, e como Yahweh tem os destruído até hoje; ^v4
 
-**5** Nem o que vos fez no deserto, até que chegastes a este lugar; ^v5
+**5** ou o que Ele fez por vós no deserto antes de virdes para esse lugar. ^v5
 
-**6** E o que fez a Datã e a Abirão, filhos de Eliabe, filho de Rúben; como a terra abriu a sua boca e os tragou com as suas casas e com as suas tendas, como também tudo o que subsistia, e lhes pertencia, no meio de todo o Israel; ^v6
+**6** Eles não viram o que Yahweh fez a Datã e Abirão, filhos de Eliabe, filho de Rúben; como a terra abriu a boca e os engoliu, com suas famílias, suas tendas, e todo ser vivo que os seguia, no meio de todo o Israel. ^v6
 
-**7** Porquanto os vossos olhos são os que viram toda a grande obra que fez o Senhor. ^v7
+**7** Mas vós vistes todas as grandes obras que Yahweh tem feito. ^v7
 
-**8** Guardai, pois, todos os mandamentos que eu vos ordeno hoje, para que sejais fortes, e entreis, e ocupeis a terra que passais a possuir; ^v8
+**8** Portanto, guardai todos os mandamentos que Eu vos ordeno hoje, para que vos torneis fortes, entreis e possuais a terra a que estais indo; ^v8
 
-**9** E para que prolongueis os dias na terra que o Senhor jurou dar a vossos pais e à sua descendência, terra que mana leite e mel. ^v9
+**9** e, assim, vós prolongareis vossos dias na terra em que Yahweh jurou dar aos vossos pais e aos seus descendentes, uma terra de que mana leite e mel. ^v9
 
-**10** Porque a terra que passas a possuir não é como a terra do Egito, de onde saíste, em que semeavas a tua semente, e a regavas com o teu pé, como a uma horta. ^v10
+**10** Porque a terra que passais a possuir não se parece com a terra do Egito, de onde vós viestes, onde vós semeastes vossa semente e a regastes com vosso pé, como um jardim de ervas; ^v10
 
-**11** Mas a terra que passais a possuir é terra de montes e de vales; da chuva dos céus beberá as águas; ^v11
+**11** mas a terra que passais a possuir é uma terra de colinas e vales, que bebe água da chuva do céu, ^v11
 
-**12** Terra de que o Senhor teu Deus tem cuidado; os olhos do Senhor teu Deus estão sobre ela continuamente, desde o princípio até ao fim do ano. ^v12
+**12** a terra de que Yahweh, vosso Deus, cuida; os olhos de Yahweh, vosso Deus, estão sobre ela continuamente, desde o princípio até o fim do ano. ^v12
 
-**13** E será que, se diligentemente obedecerdes a meus mandamentos que hoje vos ordeno, de amar ao Senhor vosso Deus, e de o servir de todo o vosso coração e de toda a vossa alma, ^v13
+**13** Se vós ouvirdes diligentemente aos meus mandamentos que eu vos ordeno hoje para amarem Yahweh, vosso Deus, e para servi-lo com todo o vosso coração e com toda vossa alma, ^v13
 
-**14** Então darei a chuva da vossa terra a seu tempo, a temporã e a serôdia, para que recolhais o vosso grão, e o vosso mosto e o vosso azeite. ^v14
+**14** então, darei a chuva de vossa terra em suas estações, a primeira e a última, assim, devei reunir vossos cereais, vosso vinho novo, e vosso óleo. ^v14
 
-**15** E darei erva no teu campo aos teus animais, e comerás, e fartar-te-ás. ^v15
+**15** Eu darei grama a vossos campos para vosso gado, e vós comereis e sereis fartos. ^v15
 
-**16** Guardai-vos, que o vosso coração não se engane, e vos desvieis, e sirvais a outros deuses, e vos inclineis perante eles; ^v16
+**16** Guardai-vos para que o vosso coração não se engane, e vos desvieis, e sirvais a outros deuses, e vos curveis a eles, ^v16
 
-**17** E a ira do Senhor se acenda contra vós, e feche ele os céus, e não haja água, e a terra não dê o seu fruto, e cedo pereçais da boa terra que o Senhor vos dá. ^v17
+**17** assim, a ira de Yahweh se acenderá contra vós, e, então, Ele fechará os céus, não haverá chuva, e a terra não produzirá seus frutos, e depressa perecereis na boa terra que Yahweh está dando a vós. ^v17
 
-**18** Ponde, pois, estas minhas palavras no vosso coração e na vossa alma, e atai-as por sinal na vossa mão, para que estejam por frontais entre os vossos olhos. ^v18
+**18** Portanto, guardai essas minhas palavras em vosso coração e vossa alma; amarrai como um sinal em vossa mão, e deixai-las serem como faixas entre os vossos olhos. ^v18
 
-**19** E ensinai-as a vossos filhos, falando delas assentado em tua casa, e andando pelo caminho, e deitando-te, e levantando-te; ^v19
+**19** Ensinareis a vossos filhos e falareis sobre elas quando vos sentardes em vossas casas, quando andardes pela estrada, quando vos deitardes, e quando vos levantardes. ^v19
 
-**20** E escreve-as nos umbrais de tua casa, e nas tuas portas; ^v20
+**20** Escrevereis tais palavras nos batentes das portas de vossas casas e nos portões da vossa cidade, ^v20
 
-**21** Para que se multipliquem os vossos dias e os dias de vossos filhos na terra que o Senhor jurou a vossos pais dar-lhes, como os dias dos céus sobre a terra. ^v21
+**21** para que se multipliquem vossos dias e os dias de vossos filhos na terra que Yahweh sob juramento deu a vossos antepassados, enquanto houver céu sobre a terra. ^v21
 
-**22** Porque se diligentemente guardardes todos estes mandamentos, que vos ordeno para os guardardes, amando ao Senhor vosso Deus, andando em todos os seus caminhos, e a ele vos achegardes, ^v22
+**22** Pois, se vós diligentemente guardardes todos esses mandamentos que eu vos ordenei e cumpri-los, para amar Yahweh, o vosso Deus, para andardes em todos os Seus caminhos, e, se vos apegardes a Ele, ^v22
 
-**23** Também o Senhor, de diante de vós, lançará fora todas estas nações, e possuireis nações maiores e mais poderosas do que vós. ^v23
+**23** então, Yahweh expulsará todas essas nações de diante de vós, e conquistareis nações maiores e mais poderosas que vós mesmos. ^v23
 
-**24** Todo o lugar que pisar a planta do vosso pé será vosso; desde o deserto, e desde o Líbano, desde o rio, o rio Eufrates, até ao mar ocidental, será o vosso termo. ^v24
+**24** Todo lugar onde a planta do vosso pé pisar será vosso; do deserto do Líbano, e do rio, o Eufrates, até o mar do oeste será vossa fronteira. ^v24
 
-**25** Ninguém resistirá diante de vós; o Senhor vosso Deus porá sobre toda a terra, que pisardes, o vosso terror e o temor de vós, como já vos tem dito. ^v25
+**25** Homem nenhum será capaz de ficar a vossa frente; Yahweh, vosso Deus, irá espalhar o medo e o terror de vós sobre toda a terra que pisardes, como Ele vos disse. ^v25
 
-**26** Eis que hoje eu ponho diante de vós a bênção e a maldição; ^v26
+**26** Vede, eu hoje coloco diante de vós a benção e a maldição; ^v26
 
-**27** A bênção, quando cumprirdes os mandamentos do Senhor vosso Deus, que hoje vos mando; ^v27
+**27** a benção, se obedecerdes aos mandamentos de Yahweh, vosso Deus, que hoje eu vos ordeno; ^v27
 
-**28** Porém a maldição, se não cumprirdes os mandamentos do Senhor vosso Deus, e vos desviardes do caminho que hoje vos ordeno, para seguirdes outros deuses que não conhecestes. ^v28
+**28** e a maldição, se não obedecerdes aos mandamentos de Yahweh, vosso Deus, e vos desviardes para ir atrás de outros deuses que não conhecestes. ^v28
 
-**29** E será que, quando o Senhor teu Deus te introduzir na terra, a que vais para possuí-la, então pronunciarás a bênção sobre o monte Gerizim, e a maldição sobre o monte Ebal. ^v29
+**29** Quando Yahweh, vosso Deus, vos trouxer para a terra, a qual ireis possuir, colocareis a benção no monte Gerizim, e a maldição no monte Ebal. ^v29
 
-**30** Porventura não estão eles além do Jordão, junto ao caminho do pôr do sol, na terra dos cananeus, que habitam na campina defronte de Gilgal, junto aos carvalhais de Moré? ^v30
+**30** Não estão eles além do Jordão, oeste da estrada ocidental, na terra dos cananeus que moram em Arabá, de frente a Gilgal, ao lado dos carvalhos de Moré? ^v30
 
-**31** Porque passareis o Jordão para entrardes a possuir a terra, que vos dá o Senhor vosso Deus; e a possuireis, e nela habitareis. ^v31
+**31** Pois vós estais para cruzar o Jordão, para irdes possuir a terra que Yahweh vosso Deus está vos dando, e vós ireis possuí-la e viver nela. ^v31
 
-**32** Tende, pois, cuidado em cumprir todos os estatutos e os juízos, que eu hoje vos proponho. ^v32
+**32** Guardareis todos os estatutos e todos os decretos que eu coloquei diante de vós hoje. ^v32

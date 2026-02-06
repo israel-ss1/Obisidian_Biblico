@@ -1,23 +1,20 @@
 ---
-Livro: "[[Salmos|Salmos]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Salmos|Salmos]]"
+tags: [biblia]
 ---
 
 # Salmos 82
 
-**1** Deus está na congregação dos poderosos; julga no meio dos deuses. ^v1
+**2** Até quando vós julgareis injustamente e mostrareis favoritismo aos ímpios? [Interlúdio] ^v2
 
-**2** Até quando julgareis injustamente, e aceitareis as pessoas dos ímpios? (Selá.) ^v2
+**3** Defendei os pobres e os órfãos; garanti os direitos dos aflitos e dos desamparados. ^v3
 
-**3** Fazei justiça ao pobre e ao órfão; justificai o aflito e o necessitado. ^v3
+**4** Resgatai o pobre e o necessitado; tirai-os da terra dos perversos. ^v4
 
-**4** Livrai o pobre e o necessitado; tirai-os das mãos dos ímpios. ^v4
+**5** Eles não sabem, nem entendem; eles vagueiam na escuridão; todas as fundações da terra sucumbem. ^v5
 
-**5** Eles não conhecem, nem entendem; andam em trevas; todos os fundamentos da terra vacilam. ^v5
+**6** "Eu disse: ""Vós sois deuses e todos vós sois filhos do Altíssimo." ^v6
 
-**6** Eu disse: Vós sois deuses, e todos vós filhos do Altíssimo. ^v6
+**7** "No entanto, morrerão como homens e cairão como qualquer um dos príncipes.""" ^v7
 
-**7** Todavia morrereis como homens, e caireis como qualquer dos príncipes. ^v7
-
-**8** Levanta-te, ó Deus, julga a terra, pois tu possuis todas as nações. ^v8
+**8** Levanta-Te, ó Deus, julga a terra, pois Tu tens uma herança em todas as nações. ^v8

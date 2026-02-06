@@ -1,133 +1,132 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Josué|Josué]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Josué|Josué]]"
+tags: [biblia]
 ---
 
 # Josué 15
 
-**1** A sorte que coube à tribo dos filhos de Judá, segundo as suas famílias, foi até ao termo de Edom, o deserto de Zim, para o sul, na extremidade do lado meridional. ^v1
+**1** A terra distribuída à tribo dos filhos de Judá, segundo os seus clãs, estendia-se ao sul até a fronteira de Edom, com o deserto de Zim sendo a extremidade do lado sul. ^v1
 
-**2** E foi o seu termo para o sul, desde a extremidade do Mar Salgado, desde a baía que olha para o sul; ^v2
+**2** Sua fronteira do sul ia desde a extremidade do mar Salgado, da baía que estava voltada para o sul, ^v2
 
-**3** E sai para o sul, até à subida de Acrabim, e passa a Zim, e sobe do sul a Cades-Barnéia, e passa por Hezrom, e sobe a Adar, e vira para Carca; ^v3
+**3** estendia-se para o sul até a colina de Acrabim e ia ao longo de Zim; subia pelo sul de Cades-Barneia, passando por Hezrom, e subia até Adar e virava para Carca. ^v3
 
-**4** E passa Azmom, e sai ao ribeiro do Egito, e as saídas deste termo vão até ao mar; este será o vosso termo do lado do sul. ^v4
+**4** Passava ao longo de Azmom, chegando até o ribeiro do Egito e terminava no mar. Essa era a sua fronteira do lado sul. ^v4
 
-**5** O termo, porém, para o oriente será o Mar Salgado, até à foz do Jordão; e o termo para o norte será da baía do mar, desde a foz do Jordão. ^v5
+**5** A fronteira oriental ia do mar Salgado até a foz do Jordão. A fronteira ao norte percorria desde a baía do mar até a foz do Jordão. ^v5
 
-**6** E este termo subirá até Bete-Hogla, e passará do norte a Bete-Arabá, e este termo subirá até à pedra de Boã, filho de Rúben. ^v6
+**6** E subia até Bete-Hogla, passando ao longo do norte de Bete-Arabá. Então, subia até a pedra de Boã, o filho de Rúben. ^v6
 
-**7** Subirá mais este termo a Debir desde o vale de Acor, indo para o norte rumo a Gilgal, a qual está em frente da subida de Adumim, que está para o sul do ribeiro; então este termo continua até às águas de En-Semes; e as suas saídas estão do lado de En-Rogel. ^v7
+**7** Assim, a fronteira subia a Debir, desde o vale de Acor, e ia para o norte, em direção a Gilgal, que estava de frente à colina de Adumim, que ficava do lado sul do vale. Dali, a fronteira continuava ao longo das nascentes de En-Semes e ia até En-Rogel. ^v7
 
-**8** E este termo sobe pelo vale do filho de Hinom, do lado sul dos jebuseus (esta é Jerusalém) e sobe este termo até ao cume do monte que está diante do vale de Hinom para o ocidente, que está no fim do vale dos refains do lado do norte. ^v8
+**8** Então, a fronteira subia pelo vale de Ben-Hinom para o lado sul da cidade dos jebuseus (que é Jerusalém), e subia até o cume do monte que estava em frente do vale de Hinom, no lado oeste, no fim do vale dos refains, ao norte. ^v8
 
-**9** Então este termo vai desde a altura do monte até à fonte das águas de Neftoa; e sai até às cidades do monte de Efrom; vai mais este termo até Baalá (esta é Quiriate-Jearim). ^v9
+**9** A fronteira estendia-se do topo das colinas até a fonte de Neftoa e, de lá, ia para as cidades do monte Efrom. Então, a fronteira estendia-se até Baalá, isto é, Quiriate-Jearim. ^v9
 
-**10** Então volta este termo desde Baalá para o ocidente, até às montanhas de Seir, e passa ao lado do monte de Jearim do lado do norte (esta é Quesalom) e desce a Bete-Semes, e passa por Timna; ^v10
+**10** Dali, a fronteira circundava a oeste de Baalá ao Monte Seir, e passava ao longo do lado do monte Jearim ao norte, isto é, Quesalom, descia para Bete-Semes e passava ao longo de Timna. ^v10
 
-**11** Sai este termo mais ao lado de Ecrom, para o norte, e este termo vai a Sicrom e passa o monte de Baalá, e sai em Jabneel; e assim este termo finda no mar. ^v11
+**11** A fronteira ia ao lado norte da colina de Ecrom, e então curvava-se para Siquerom e passava ao longo do monte Baalá, de onde ia a Jabneel. A fronteira acabava no mar. ^v11
 
-**12** Será, porém, o termo do lado do ocidente o Mar Grande, e suas adjacências; este é o termo dos filhos de Judá ao redor, segundo as suas famílias. ^v12
+**12** A fronteira ocidental era o grande Mar e a sua costa. Esta é a fronteira ao redor da tribo de Judá, clã por clã. ^v12
 
-**13** Mas a Calebe, filho de Jefoné, deu uma parte no meio dos filhos de Judá, conforme a ordem do Senhor a Josué; a saber, a cidade de Arba, que é Hebrom; este Arba era pai de Anaque. ^v13
+**13** De acordo com o mandamento de Yahweh a Josué, Josué deu a Calebe, filho de Jefoné, uma porção de terra entre a tribo de Judá, Quiriate-Arba, que é Hebrom (Arba era o pai de Anaque). ^v13
 
-**14** E Calebe expulsou dali os três filhos de Anaque: Sesai, e Aimã, e Talmai, gerados de Anaque. ^v14
+**14** Calebe expulsou dali os três filhos de Anaque: Sesai, Aimã e Talmai, descendentes de Anaque. ^v14
 
-**15** E dali subiu aos habitantes de Debir; e fora antes o nome de Debir, Quiriate-Sefer. ^v15
+**15** Ele subiu dali contra os habitantes de Debir (o nome de Debir era Quiriate-Sefer). ^v15
 
-**16** E disse Calebe: Quem ferir a Quiriate-Sefer, e a tomar, lhe darei a minha filha Acsa por mulher. ^v16
+**16** Calebe disse: “O homem que atacar Quiriate-Sefer e a tomar, para este darei Acsa, minha filha, como esposa”. ^v16
 
-**17** Tomou-a, pois, Otniel, filho de Quenaz, irmão de Calebe; e deu-lhe a sua filha Acsa por mulher. ^v17
+**17** Otoniel, filho de Quenaz, irmão de Calebe, a tomou. Então Calebe deu a ele Acsa, sua filha, como esposa. ^v17
 
-**18** E sucedeu que, vindo ela a ele, o persuadiu que pedisse um campo a seu pai; e ela desceu do seu jumento; então Calebe lhe disse: Que é que tens? ^v18
+**18** Depois, quando Acsa foi até Otoniel, ela o persuadiu para que pedisse a seu pai um campo. Quando ela saltou de seu jumento, Calebe perguntou-lhe: “O que queres?”. ^v18
 
-**19** E ela disse: Dá-me uma bênção; pois me deste terra seca, dá-me também fontes de águas. Então lhe deu as fontes superiores e as fontes inferiores. ^v19
+**19** Acsa respondeu-lhe: “Faze-me um favor especial. Já que tu me deste a terra de Neguebe, dá-me também algumas fontes d'água”. E Calebe lhe deu as fontes superiores e as fontes inferiores. ^v19
 
-**20** Esta é a herança da tribo dos filhos de Judá, segundo as suas famílias. ^v20
+**20** Esta foi a herança da tribo de Judá, segundo os seus clãs. ^v20
 
-**21** São, pois, as cidades da tribo dos filhos de Judá, até ao termo de Edom, no extremo sul: Cabzeel, e Eder, e Jagur. ^v21
+**21** As cidades pertencentes à tribo de Judá no extremo sul em direção à fronteira de Edom, eram: Cabzeel, Eder, Jagur, ^v21
 
-**22** E Quiná, e Dimona, e Adada, ^v22
+**22** Quiná, Dimona, Adada, ^v22
 
-**23** E Quedes, e Hazor, e Itnã, ^v23
+**23** Quedes, Hazor, Itnã, ^v23
 
-**24** Zife, e Telem, e Bealote, ^v24
+**24** Zife, Telem, Bealote. ^v24
 
-**25** E Hazor-Hadata, e Queriote-Hezrom (que é Hazor), ^v25
+**25** Hazor-Hadada, Queriote-Hezrom (também conhecida como Hazor), ^v25
 
-**26** Amã e Sema, e Moladá, ^v26
+**26** Amã, Sema, Molada, ^v26
 
-**27** E Hazar-Gada, e Hesmom, e Bete-Palete, ^v27
+**27** Hazar-Gada, Hesmom, Bete-Pelete, ^v27
 
-**28** E Hazar-Sual, e Berseba, e Biziotiá, ^v28
+**28** Hazar-Sual, Berseba, Biziotiá. ^v28
 
-**29** Baalá, e Iim, e Azem, ^v29
+**29** Baalá, Iim, Ezem, ^v29
 
-**30** E Eltolade, e Quesil, e Hormá. ^v30
+**30** Eltolade, Quesil, Hormá, ^v30
 
-**31** E Ziclague, e Madmana, e Sansana, ^v31
+**31** Ziclague, Madmana, Sansana, ^v31
 
-**32** E Lebaote, e Silim, e Aim, e Rimom; todas as cidades e as suas aldeias, vinte e nove. ^v32
+**32** Lebaote, Silim, Aim e Rimom. Eram, ao todo, vinte e nove cidades, incluindo os seus vilarejos. ^v32
 
-**33** Nas planícies: Estaol, e Zorá, e Asná, ^v33
+**33** Na região montanhosa mais baixa a oeste, havia Estaol, Zorá, Asná, ^v33
 
-**34** E Zanoa, e En-Ganim, Tapua, e Enã. ^v34
+**34** Zanoa, En-Ganim, Tapua, Enã, ^v34
 
-**35** E Jarmute, e Adulão, Socó, e Azeca, ^v35
+**35** Jarmute, Adulão, Socó, Azeca, ^v35
 
-**36** E Saaraim, e Aditaim, e Gederá, e Gederotaim; catorze cidades e as suas aldeias. ^v36
+**36** Saraim, Aditaim, Gedera (que é, Gederotaim). Eram catorze cidades, incluindo os seus vilarejos. ^v36
 
-**37** Zenã, e Hadasa, e Migdal-Gade, ^v37
+**37** Zenã, Hadasa, Midgal-Gade, ^v37
 
-**38** E Dileã, e Mizpe, e Jocteel, ^v38
+**38** Dileã, Mispá, Jocteel, ^v38
 
-**39** Laquis, e Bozcate, e Eglom, ^v39
+**39** Laquis, Bozcate, Eglom. ^v39
 
-**40** E Cabom, e Laamás, e Quitlis, ^v40
+**40** Cabom, Laamás, Quitlis, ^v40
 
-**41** E Gederote, Bete-Dagom, e Naamá, e Maquedá, dezesseis cidades e as suas aldeias. ^v41
+**41** Gederote, Bete-Dagom, Naama e Maqueda. Eram dezesseis cidades, incluindo os seus vilarejos. ^v41
 
-**42** Libna, e Eter, e Asã, ^v42
+**42** Libna, Eter, Asã, ^v42
 
-**43** E Iftá, e Asná, e Nezibe, ^v43
+**43** Iftá, Asná, Nezibe, ^v43
 
-**44** E Queila, e Aczibe, e Maressa; nove cidades e as suas aldeias. ^v44
+**44** Queila, Aczibe e Maressa. Eram nove cidades, incluindo os seus vilarejos. ^v44
 
-**45** Ecrom, com suas vilas, e as suas aldeias. ^v45
+**45** Ecrom, com suas cidades e vilarejos ao redor, ^v45
 
-**46** Desde Ecrom, e até ao mar, todas as que estão do lado de Asdode, e as suas aldeias. ^v46
+**46** de Ecrom ao grande Mar, todos os seus assentamentos que eram perto de Asdode, incluindo seus vilarejos. ^v46
 
-**47** Asdode, com as suas vilas e as suas aldeias; Gaza, com as suas vilas e as suas aldeias, até ao rio do Egito, e o Mar Grande e o seu termo. ^v47
+**47** Asdode, e as cidades e vilarejos ao redor, Gaza, com as suas cidades e vilarejos, para o ribeiro do Egito, e o grande Mar com sua costa. ^v47
 
-**48** E nas montanhas: Samir, Jatir, e Socó. ^v48
+**48** Na região montanhosa, Samir, Jatir, Socó, ^v48
 
-**49** E Daná, e Quiriate-Saná (que é Debir), ^v49
+**49** Daná, Quiriate-Saná (isto é, Debir), ^v49
 
-**50** E Anabe, Estemó, e Anim, ^v50
+**50** Anabe, Estemó, Anim, ^v50
 
-**51** E Gósen, e Holom, e Giló; onze cidades e as suas aldeias. ^v51
+**51** Gosén, Holom e Gilo. Estas eram as onze cidades, incluindo os seus vilarejos. ^v51
 
-**52** Arabe, e Dumá e Esã, ^v52
+**52** Arabe, Dumá, Esã, ^v52
 
-**53** E Janim, e Bete-Tapua e Afeca, ^v53
+**53** Janim, Bete-Tapua, Afeca, ^v53
 
-**54** E Hunta, e Quiriate-Arba (que é Hebrom), e Zior; nove cidades e as suas aldeias. ^v54
+**54** Hunta, Quiriate-Arba (isto é, Hebrom) e Zior. Estas eram nove cidades, incluindo os seus vilarejos. ^v54
 
-**55** Maom, Carmelo, e Zife, e Jutá, ^v55
+**55** Maom, Carmelo, Zife, Jutá, ^v55
 
-**56** E Jizreel, e Jocdeão, e Zanoa, ^v56
+**56** Jezreel, Jocdeão, Zanoa, ^v56
 
-**57** Caim, Gibeá, e Timna; dez cidades e as suas aldeias. ^v57
+**57** Caim, Gibeá e Timna. Estas eram as dez cidades, incluindo os seus vilarejos. ^v57
 
-**58** Halul, Bete-Zur, e Gedor, ^v58
+**58** Halul, Bete-Zur, Gedor, ^v58
 
-**59** E Maarate, e Bete-Anote, e Eltecom; seis cidades e as suas aldeias. ^v59
+**59** Maarate, Bete-Anote e Eltecom. Estas eram seis cidades, incluindo os seus vilarejos. ^v59
 
-**60** Quiriate-Baal (que é Quiriate-Jearim), e Rabá; duas cidades e as suas aldeias. ^v60
+**60** Quiriate-Baal (que é, Quiriate-Jearim), e Rabá. Eram duas cidades, incluindo os seus vilarejos. ^v60
 
-**61** No deserto: Bete-Arabá, Midim, e Secacá, ^v61
+**61** No deserto, eram Bete-Arabá, Midim, Secaca, ^v61
 
-**62** E Nibsã, e a Cidade do Sal, e En-Gedi; seis cidades e as suas aldeias. ^v62
+**62** Nibsã, a cidade do Sal, e En-Gedi. Eram seis cidades, incluindo os seus vilarejos. ^v62
 
-**63** Não puderam, porém, os filhos de Judá expulsar os jebuseus que habitavam em Jerusalém; assim habitaram os jebuseus com os filhos de Judá em Jerusalém, até ao dia de hoje. ^v63
+**63** Porém, quanto aos jebuseus, os habitantes de Jerusalém, a tribo de Judá não os pôde expulsar. Assim, os jebuseus viveram com a tribo de Judá até o dia de hoje. ^v63

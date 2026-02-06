@@ -1,115 +1,114 @@
 ---
-Livro: "[[1 Crônicas|1 Crônicas]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/1 Crônicas|1 Crônicas]]"
+tags: [biblia]
 ---
 
 # 1 Crônicas 1
 
 **1** Adão, Sete, Enos, ^v1
 
-**2** Cainã, Maalaleel, Jerede, ^v2
+**2** Quenã, Maalalel, Jarede, ^v2
 
 **3** Enoque, Matusalém, Lameque, ^v3
 
-**4** Noé, Sem, Cão e Jafé. ^v4
+**4** "Noé, Sem, Cam e Jafé. [Algumas versões trazem a expressão ""Os filhos de Noé foram..."", mas outras omitem]." ^v4
 
-**5** Os filhos de Jafé foram: Gomer, Magogue, Madai, Javã, Tubal, Meseque e Tiras. ^v5
+**5** Os filhos de Jafé foram Gomer, Magogue, Madai, Javã, Tubal, Meseque e Tiras. ^v5
 
-**6** E os filhos de Gomer: Asquenaz, Rifate, Togarma. ^v6
+**6** "Os filhos de Gomer foram Asquenaz, Rifate e Togarma. [Algumas versões trazem ""Difate"" em vez de ""Rifate"". Entretanto, ""Difate"" era, provavelmente, um erro ortográfico. Muitas cópias antigas corrigiram para ""Rifate"", para concordar com o mesmo nome em Gn. 10:2]" ^v6
 
-**7** E os filhos de Javã: Elisá, Társis, Quitim e Dodanim. ^v7
+**7** Os filhos de Javã foram Elisá, Társis, Quitim e Dodanim. ^v7
 
-**8** Os filhos de Cão: Cuxe, Mizraim, Pute e Canaã. ^v8
+**8** Os filhos de Cam foram Cuxe, Mizraim, Pute e Canaã. ^v8
 
-**9** E os filhos de Cuxe eram: Sebá, Havilá, Sabtá, Raamá e Sabtecá; os filhos de Raamá: Sebá e Dedã. ^v9
+**9** Os filhos de Cuxe foram Seba, Havilá, Sabtá, Raamá e Sabtecá. Os filhos de Raamá foram Sebá e Dedã. ^v9
 
-**10** E Cuxe gerou a Ninrode, que começou a ser poderoso na terra. ^v10
+**10** Cuxe gerou Ninrode, que foi o primeiro poderoso na terra. ^v10
 
-**11** E Mizraim gerou a Ludim e a Anamim e a Leabim e a Naftuim, ^v11
+**11** Mizraim gerou os luditas, os anamitas, os leabitas, os naftuítas, ^v11
 
-**12** E a Patrusim e a Casluim (dos quais procedem os filisteus) e a Caftorim. ^v12
+**12** os patrusitas, os casluítas (dos quais vieram os filisteus) e os caftoritas. ^v12
 
-**13** E Canaã gerou a Sidom seu primogênito, e a Hete, ^v13
+**13** Canaã gerou Sidom, seu primogênito, e Hete. ^v13
 
-**14** E aos jebuseus e aos amorreus e aos girgaseus, ^v14
+**14** Ele também gerou os jebuseus, os amorreus, os girgaseus, ^v14
 
-**15** E aos heveus e aos arqueus e aos sineus, ^v15
+**15** os heveus, os arqueus, os sineus, ^v15
 
-**16** E aos arvadeus e aos zemareus e aos hamateus. ^v16
+**16** os arvadeus, os zemareus e os hamateus. ^v16
 
-**17** E foram os filhos de Sem: Elão, Assur, Arfaxade, Lude, Arã, Uz, Hul, Geter e Meseque. ^v17
+**17** Os filhos de Sem foram Elão, Assur, Arfaxade, Lude, Arã, Uz, Hul, Geter e Meseque. ^v17
 
-**18** E Arfaxade gerou a Selá e Selá gerou a Éber. ^v18
+**18** Arfaxade gerou Selá, e Selá gerou Héber. ^v18
 
-**19** E a Éber nasceram dois filhos: o nome de um foi Pelegue, porquanto nos seus dias se repartiu a terra, e o nome de seu irmão era Joctã. ^v19
+**19** Héber teve dois filhos; o nome de um era Pelegue, porque em seus dias a Terra foi dividida, e o nome de seu irmão era Joctã. ^v19
 
-**20** E Joctã gerou a Almodá, a Selefe, a Hazarmavé, e a Jerá, ^v20
+**20** Joctã gerou Almodá, Salefe, Hazarmavé, Jerá, ^v20
 
-**21** E a Hadorão, a Usal, e a Dicla, ^v21
+**21** Hadorão, Uzal, Dicla, ^v21
 
-**22** E a Obal, a Abimael, a Sebá, ^v22
+**22** Ebal, Abimael, Sebá, ^v22
 
-**23** E a Ofir, a Havilá, e a Jobabe: todos estes foram filhos de Joctã. ^v23
+**23** Ofir, Havilá e Jobabe. Todos esses eram filhos de Joctã. ^v23
 
 **24** Sem, Arfaxade, Selá, ^v24
 
-**25** Éber, Pelegue, Reú, ^v25
+**25** Héber, Pelegue, Reú, ^v25
 
 **26** Serugue, Naor, Terá, ^v26
 
 **27** Abrão, que é Abraão. ^v27
 
-**28** Os filhos de Abraão foram: Isaque e Ismael. ^v28
+**28** Os filhos de Abraão foram Isaque e Ismael. ^v28
 
-**29** Estas são as suas gerações: o primogênito de Ismael foi Nebaiote, e, depois, Quedar, Adbeel, Mibsão, ^v29
+**29** Esses são os seus filhos: o primogênito de Ismael era Nebaiote, depois Quedar, Adbeel, Mibsão, ^v29
 
 **30** Misma, Dumá, Massá, Hadade, Tema, ^v30
 
-**31** Jetur, Nafis e Quedemá; estes foram os filhos de Ismael. ^v31
+**31** Jetur, Nafis e Quedemá. Esses foram os filhos de Ismael. ^v31
 
-**32** Quanto aos filhos de Quetura, concubina de Abraão, esta deu à luz a Zinrã, a Jocsã, a Medã, a Midiã, a Jisbaque e a Suá; e os filhos de Jocsã foram Seba e Dedã. ^v32
+**32** Os filhos de Quetura, concubina de Abraão, foram Zinrã, Jocsã, Medã, Midiã, Isbaque e Suá. Os filhos de Jocsã foram Sabá e Dedã. ^v32
 
-**33** E os filhos de Midiã: Efá, Efer, Enoque, Abida e Elda; todos estes foram filhos de Quetura. ^v33
+**33** Os filhos de Midiã foram Efá, Efer, Enoque, Abida e Elda. Todos esses foram descendentes de Quetura. ^v33
 
-**34** Abraão, pois, gerou a Isaque; e foram os filhos de Isaque: Esaú e Israel. ^v34
+**34** Abraão gerou Isaque. Os filhos de Isaque foram Esaú e Israel. ^v34
 
-**35** Os filhos de Esaú: Elifaz, Reuel, Jeús, Jalão e Coré. ^v35
+**35** Os filhos de Esaú foram Elifaz, Reuel, Jeús, Jalão e Corá. ^v35
 
-**36** Os filhos de Elifaz: Temã, Omar, Zefi, Gaetã, Quenaz, Timna e Amaleque. ^v36
+**36** Os filhos de Elifaz foram Temã, Omar, Zefi, Gatã, Quenaz, Timna e Amaleque. ^v36
 
-**37** Os filhos de Reuel: Naate, Zerá, Samá e Mizá. ^v37
+**37** Os filhos de Reuel foram Naate, Zerá, Samá e Mizá. ^v37
 
-**38** E os filhos de Seir: Lotã, Sobal, Zibeão, Aná, Disom, Eser e Disã. ^v38
+**38** Os filhos de Seir foram Lotã, Sobal, Zibeão, Anás, Disom, Eser e Disã. ^v38
 
-**39** E os filhos de Lotã: Hori e Homã; e a irmã de Lotã foi Timna. ^v39
+**39** Os filhos de Lotã foram Hori e Homã, e Timna era irmã de Lotã. ^v39
 
-**40** Os filhos de Sobal eram Alvã, Manaate, Ebal, Sefi e Onã; e os filhos de Zibeão eram Aiá e Aná. ^v40
+**40** Os filhos de Sobal foram Aliã, Manaate, Ebal, Sefi e Onã. Os filhos de Zibeão foram Aías e Anás. ^v40
 
-**41** O filho de Aná foi Disom; e os filhos de Disom foram Hanrão, Esbã, Itrã e Querã. ^v41
+**41** O filho de Anás foi Disom. Os filhos de Disom foram Hanrão, Esbã, Itrã e Querã. ^v41
 
-**42** Os filhos de Eser eram: Bilã, Zaavã e Jaacã; os filhos de Disã eram: Uz e Arã. ^v42
+**42** Os filhos de Eser foram Bilã, Zaavã e Jaacã. Os filhos de Disã foram Uz e Arã. ^v42
 
-**43** E estes são os reis que reinaram na terra de Edom, antes que reinasse rei sobre os filhos de Israel: Bela, filho de Beor, e era o nome da sua cidade Dinabá. ^v43
+**43** Estes foram os reis que reinaram na terra de Edom, antes de qualquer rei ter reinado sobre os israelitas: Belá, filho de Beor; o nome de sua cidade era Dinabá. ^v43
 
-**44** E morreu Bela, e reinou em seu lugar Jobabe, filho de Zerá, de Bozra. ^v44
+**44** Quando Belá morreu, então, Jobabe, filho de Zerá, de Bozra, reinou em seu lugar. ^v44
 
-**45** E morreu Jobabe, e reinou em seu lugar Husão, da terra dos temanitas. ^v45
+**45** Quando Jobabe morreu, Husão, da terra dos temanitas, reinou em seu lugar. ^v45
 
-**46** E morreu Husão, e reinou em seu lugar Hadade, filho de Bedade; este feriu os midianitas no campo de Moabe; e era o nome da sua cidade Avite. ^v46
+**46** Quando Husão morreu, Hadade, filho de Bedade, que derrotou os midianitas na terra de Moabe, reinou em seu lugar. O nome de sua cidade era Avite. ^v46
 
-**47** E morreu Hadade, e reinou em seu lugar Samlá, de Masreca. ^v47
+**47** Quando Hadade morreu, então, Sâmela, de Masreca, reinou em seu lugar. ^v47
 
-**48** E morreu Samlá, e reinou em seu lugar Saul, de Reobote, junto ao rio. ^v48
+**48** Quando Sâmela morreu, então, Saul, de Reobote, que vivia junto ao rio, reinou em seu lugar. ^v48
 
-**49** E morreu Saul, e reinou em seu lugar Baal-Hanã, filho de Acbor. ^v49
+**49** Quando Saul morreu, então, Baal-Hanã, filho de Acbor, reinou em seu lugar. ^v49
 
-**50** E, morrendo Baal-Hanã, Hadade reinou em seu lugar; e era o nome da sua cidade Paí; e o nome de sua mulher era Meetabel, filha de Matrede, filha de Me-Zaabe. ^v50
+**50** Quando Baal-Hanã, filho de Acbor, morreu, então, Hadade reinou em seu lugar. O nome de sua cidade era Paú. O nome de sua mulher era Meetabel, a filha de Matrede, a neta de Mezaabe. ^v50
 
-**51** E, morrendo Hadade, foram príncipes em Edom o príncipe Timna, o príncipe Alva, o príncipe Jetete, ^v51
+**51** Hadade morreu. Os chefes do clã em Edom eram Timna, Aliá, Jetete, ^v51
 
-**52** O príncipe Oolibama, o príncipe Elá, o príncipe Pinom, ^v52
+**52** Aolíbama, Elá, Pinom, ^v52
 
-**53** O príncipe Quenaz, o príncipe Temã, o príncipe Mibzar, ^v53
+**53** Quenaz, Temã, Mibzar, ^v53
 
-**54** O príncipe Magdiel, o príncipe Irã, estes foram os príncipes de Edom. ^v54
+**54** Magdiel e Irão. Esses eram os chefes dos clãs em Edom. ^v54

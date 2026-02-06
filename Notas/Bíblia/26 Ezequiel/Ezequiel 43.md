@@ -1,61 +1,60 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Ezequiel|Ezequiel]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Ezequiel|Ezequiel]]"
+tags: [biblia]
 ---
 
 # Ezequiel 43
 
-**1** Então me levou à porta, à porta que olha para o caminho do oriente. ^v1
+**1** Então, o homem veio e me levou à porta que está aberta para o oriente. ^v1
 
-**2** E eis que a glória do Deus de Israel vinha do caminho do oriente; e a sua voz era como a voz de muitas águas, e a terra resplandeceu por causa da sua glória. ^v2
+**2** Eis que, a glória do Deus de Israel vinha do oriente; Sua voz era como o som de muitas aguás, e a terra brilhava por causa da Sua glória. ^v2
 
-**3** E o aspecto da visão que tive era como o da visão que eu tivera quando vim destruir a cidade; e eram as visões como as que tive junto ao rio Quebar; e caí sobre o meu rosto. ^v3
+**3** E pareceu com a visão que tive, quando vi o homem que veio para destruir a cidade e as visões eram como a visão que tive no rio Quebar e caí com o rosto em terra. ^v3
 
-**4** E a glória do Senhor entrou na casa pelo caminho da porta, cuja face está para o lado do oriente. ^v4
+**4** E a glória de Yahweh veio ao templo pelo caminho da porta que abre para o oriente. ^v4
 
-**5** E levantou-me o Espírito, e me levou ao átrio interior; e eis que a glória do SENHOR encheu a casa. ^v5
+**5** Então, o Espírito me levantou e me levou até o pátio interno. Eis que a glória de Yahweh encheu o templo. ^v5
 
-**6** E ouvi alguém que falava comigo de dentro da casa, e um homem se pôs em pé junto de mim. ^v6
+**6** O homem estava parado ao meu lado e ouvi alguém falando comigo dentro do templo. ^v6
 
-**7** E disse-me: Filho do homem, este é o lugar do meu trono, e o lugar das plantas dos meus pés, onde habitarei no meio dos filhos de Israel para sempre; e os da casa de Israel não contaminarão mais o meu nome santo, nem eles nem os seus reis, com suas prostituições e com os cadáveres dos seus reis, nos seus altos, ^v7
+**7** E me disse: ''Filho do homem, esta é a casa do Meu trono e da sola dos Meus pés, onde viverei no meio do Meu povo Israel para sempre. A casa de Israel não profanará mais o Meu nome, nem eles e nem seus reis, com suas infidelidades ou com os cadáveres dos seus reis nos seus lugares altos. ^v7
 
-**8** Pondo o seu limiar ao pé do meu limiar, e o seu umbral junto ao meu umbral, e havendo uma parede entre mim e eles; e contaminaram o meu santo nome com as suas abominações que cometiam; por isso eu os consumi na minha ira. ^v8
+**8** Não profanarão mais o Meu santo nome pondo o seu limiar perto do Meu limiar e seu umbral perto do Meu umbral, havendo apenas uma parede entre Eu e eles. Eles profanaram o Meu santo nome com atos desagradáveis e por isso os consumi na Minha ira. ^v8
 
-**9** Agora lancem eles para longe de mim a sua prostituição, e os cadáveres dos seus reis, e habitarei no meio deles para sempre. ^v9
+**9** Agora, que eles removam para longe de Mim as suas infidelidades e os cadáveres dos seus reis; e Eu viverei no meio deles para sempre. ^v9
 
-**10** Tu, pois, ó filho do homem, mostra à casa de Israel esta casa, para que se envergonhe das suas maldades, e meça o modelo. ^v10
+**10** Filho do homem, diz à casa de Israel acerca deste templo para que se envergonhem das suas iniquidades; eles deveriam pensar acerca deste relato. ^v10
 
-**11** E, envergonhando-se eles de tudo quanto fizeram, faze-lhes saber a forma desta casa, e a sua figura, e as suas saídas, e as suas entradas, e todas as suas formas, e todos os seus estatutos, todas as suas formas, e todas as suas leis; e escreve isto aos seus olhos, para que guardem toda a sua forma, e todos os seus estatutos, e os cumpram. ^v11
+**11** Pois se eles estão envergonhados de tudo que fizeram, então, revela-lhes o desenho do templo, seus detalhes, suas saídas, suas entradas e todos seus decretos e suas leis. Escreve isto, diante de seus olhos, para que guardem todos os aspectos e todas as leis e as obedeçam. ^v11
 
-**12** Esta é a lei da casa: Sobre o cume do monte todo o seu contorno em redor será santíssimo; eis que esta é a lei da casa. ^v12
+**12** Esta é a lei do templo: Do pico do monte à sua borda ao redor, será santíssimo. Eis que esta é a lei do templo. ^v12
 
-**13** E estas são as medidas do altar, em côvados (o côvado é um côvado e um palmo): e o fundo será de um côvado de altura, e um côvado de largura, e a sua borda em todo o seu contorno, de um palmo; e esta é a base do altar. ^v13
+**13** Estas serão as medidas do altar em côvados, este será um côvado regular, a largura de um palmo de comprimento. E a parte inferior ao redor do altar será um côvado profundo e sua largura será também de um côvado. A borda em todo seu contorno será de um palmo; e esta será a base do altar. ^v13
 
-**14** E do fundo, desde a terra até a armação inferior, dois côvados, e de largura um côvado, e desde a pequena armação até a grande, quatro côvados, e a largura de um côvado. ^v14
+**14** Da parte inferior do nível elevado, para base mais baixa do altar são dois côvados e esta base é um côvado de largura. Então, da pequena base até a base larga do altar, são quatro côvados e a base larga é um côvado de largura. ^v14
 
-**15** E o altar, de quatro côvados; e desde o altar e para cima havia quatro pontas. ^v15
+**15** A lareira do altar para queimar ofertas será da altura de quatro côvados e haverá quatro chifres apontando para cima da lareira. ^v15
 
-**16** E o altar terá doze côvados de comprimento, e doze de largura, quadrado nos quatro lados. ^v16
+**16** A lareira é de doze côvados de comprimento e doze côvados quadrados de largura. ^v16
 
-**17** E a armação, catorze côvados de comprimento, e catorze de largura, nos seus quatro lados; e o contorno, ao redor dela, de meio côvado, e o fundo dela de um côvado, ao redor; e os seus degraus davam para o oriente. ^v17
+**17** "Sua àrea é de catorze côvados de comprimento e catorze côvados de largura cada um dos quatro lados, e seu aro é a metade da largura. A lareira é um côvado de largura ao redor, com seus degraus virados para o oriente""." ^v17
 
-**18** E disse-me: Filho do homem, assim diz o Senhor DEUS: Estes são os estatutos do altar, no dia em que o fizerem, para oferecerem sobre ele holocausto e para aspergirem sobre ele sangue. ^v18
+**18** "Depois, ele me disse: ""Filho do homem, assim diz Yahweh Deus: Estas são as instruções do altar no dia em que eles o fizerem, para oferecerem a oferta queimada em cima dele e para espalharem sangue sobre ele." ^v18
 
-**19** E aos sacerdotes levitas, que são da descendência de Zadoque, que se chegam a mim (diz o Senhor DEUS) para me servirem, darás um bezerro, para oferta pelo pecado. ^v19
+**19** Darás um bezerro por oferta pelo pecado aos sacerdotes levitas que são da descendência de Zadoque, que se chegam a Mim para Me servirem — esta é a declaração de Yahweh Deus. ^v19
 
-**20** E tomarás do seu sangue, e o porás sobre as suas quatro pontas, e sobre os quatro cantos da armação, e no contorno ao redor; assim o purificarás e o expiarás. ^v20
+**20** Então, levarás do seu sangue e o porás nos quatro chifres do altar, nos quatro lados à sua margem e no contorno ao redor; o purificarás e farás a sua expiação. ^v20
 
-**21** Então tomarás o bezerro da oferta pelo pecado, e o queimará no lugar da casa para isso designado, fora do santuário. ^v21
+**21** Então, levarás o bezerro de oferta pelo pecado e queima no lugar indicado no templo, do lado de fora do santuário. ^v21
 
-**22** E no segundo dia oferecerás um bode, sem mancha, como oferta pelo pecado; e purificarão o altar, como o purificaram com o bezerro. ^v22
+**22** Então, no segundo dia, oferecerás um bode macho sem mancha, os bodes serão ofertas pelo pecado; os sacerdotes purificarão o altar como purificaram o bode. ^v22
 
-**23** E, acabando tu de purificá-lo, oferecerás um bezerro, sem mancha, e um carneiro do rebanho, sem mancha. ^v23
+**23** Quando terminarem a purificação, oferecerão um gado sem defeito do rebanho, e um carneiro sem mancha do rebanho. ^v23
 
-**24** E oferecê-los-ás perante a face do Senhor; e os sacerdotes deitarão sal sobre eles, e oferecê-los-ão em holocausto ao Senhor. ^v24
+**24** E os oferecerão perante Yahweh; os sacerdotes deitarão sal neles e os oferecerão como oferta queimada a Yahweh. ^v24
 
-**25** Por sete dias prepararás, cada dia um bode como oferta pelo pecado; também prepararão um bezerro, e um carneiro do rebanho, sem mancha. ^v25
+**25** Prepara um bode macho como oferta pelo pecado todos os dias, durante sete dias, e os sacerdotes também prepararão um bezerro e um carneiro do rebanho. ^v25
 
-**26** Por sete dias expiarão o altar, e o purificarão; e assim consagrar-se-ão. ^v26
+**26** Eles expiarão o altar por sete dias e o purificarão e, deste modo, irão consagrá-lo. ^v26
 
-**27** E, cumprindo eles estes dias, será que, ao oitavo dia, e dali em diante, os sacerdotes oferecerão sobre o altar os vossos holocaustos e as vossas ofertas pacíficas; e eu me deleitarei em vós, diz o Senhor DEUS. ^v27
+**27** "Eles devem cumprir esses dias e, do oitavo dia em diante, os sacerdotes prepararão as vossas ofertas queimadas e as vossas ofertas pacíficas sobre o altar, e Eu vos aceitarei — esta é a declaração de Yahweh Deus""." ^v27

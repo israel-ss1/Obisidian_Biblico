@@ -1,87 +1,86 @@
 ---
-Livro: "[[Juízes|Juízes]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Juízes|Juízes]]"
+tags: [biblia]
 ---
 
 # Juízes 6
 
-**1** Porém os filhos de Israel fizeram o que era mau aos olhos do SENHOR; e o SENHOR os deu nas mãos dos midianitas por sete anos. ^v1
+**1** O povo de Israel fez o que era mau aos olhos de Yahweh, e Ele os entregou nas mãos dos midianitas por sete anos. ^v1
 
-**2** E, prevalecendo a mão dos midianitas sobre Israel, fizeram os filhos de Israel para si, por causa dos midianitas, as covas que estão nos montes, as cavernas e as fortificações. ^v2
+**2** O poder dos midianitas oprimiu Israel. Por causa deles, o povo de Israel fez abrigos para si nas covas das colinas, nas cavernas e nas fortalezas. ^v2
 
-**3** Porque sucedia que, semeando Israel, os midianitas e os amalequitas, e também os do oriente, contra ele subiam. ^v3
+**3** Acontecia que, toda vez que os israelitas faziam o seu plantio, os midianitas, os amalequitas e o povo do leste atacavam os israelitas. ^v3
 
-**4** E punham-se contra ele em campo, e destruíam os frutos da terra, até chegarem a Gaza; e não deixavam mantimento em Israel, nem ovelhas, nem bois, nem jumentos. ^v4
+**4** Eles acampavam seus exércitos na terra e destruíam as plantações até Gaza. Não deixavam nenhuma comida em Israel, nem ovelhas, nem bois, nem jumentos. ^v4
 
-**5** Porque subiam com os seus gados e tendas; vinham como gafanhotos, em grande multidão que não se podia contar, nem a eles nem aos seus camelos; e entravam na terra, para a destruir. ^v5
+**5** Esses inimigos, com seus rebanhos e tendas, vinham como enxame de gafanhotos, e era impossível contar, tanto as pessoas como os seus camelos. Eles invadiam a terra para destruí-la. ^v5
 
-**6** Assim Israel empobreceu muito pela presença dos midianitas; então os filhos de Israel clamaram ao Senhor. ^v6
+**6** Midiã enfraqueceu os israelitas tão severamente que o povo de Israel clamou a Yahweh. ^v6
 
-**7** E sucedeu que, clamando os filhos de Israel ao Senhor por causa dos midianitas, ^v7
+**7** Quando os israelitas clamaram a Yahweh por causa de Midiã, ^v7
 
-**8** Enviou o Senhor um profeta aos filhos de Israel, que lhes disse: Assim diz o Senhor Deus de Israel: Do Egito eu vos fiz subir, e vos tirei da casa da servidão; ^v8
+**8** "Yahweh enviou-lhes um profeta que disse: ""Isto é o que Yahweh, o Deus de Israel, diz: 'Eu vos trouxe do Egito; vos livrei da casa da escravidão." ^v8
 
-**9** E vos livrei da mão dos egípcios, e da mão de todos quantos vos oprimiam; e os expulsei de diante de vós, e a vós dei a sua terra. ^v9
+**9** Eu vos resgatei das mãos dos egípcios e das mãos de todos os que vos oprimiam. Eu os expulsei diante de vós, e vos dei a terra deles'. ^v9
 
-**10** E vos disse: Eu sou o Senhor vosso Deus; não temais aos deuses dos amorreus, em cuja terra habitais; mas não destes ouvidos à minha voz. ^v10
+**10** "Eu vos disse: 'Eu sou Yahweh, vosso Deus. Eu vos ordenei não adorardes os deuses dos amorreus, em cuja terra vós habitais. Mas não obedecestes à Minha voz'""." ^v10
 
-**11** Então o anjo do Senhor veio, e assentou-se debaixo do carvalho que está em Ofra, que pertencia a Joás, abiezrita; e Gideão, seu filho, estava malhando o trigo no lagar, para o salvar dos midianitas. ^v11
+**11** Então, o Anjo de Yahweh veio e se sentou debaixo de um carvalho em Ofra, que pertencia a Joás, o abiezrita. Gideão, filho de Joás, estava separando os grãos dos feixes de trigo, batendo-os no chão, no tanque de espremer uvas, para escondê-los dos midianitas. ^v11
 
-**12** Então o anjo do Senhor lhe apareceu, e lhe disse: O Senhor é contigo, homem valoroso. ^v12
+**12** "O Anjo de Yahweh apareceu a ele e disse-lhe: ""Yahweh está contigo, forte guerreiro!""." ^v12
 
-**13** Mas Gideão lhe respondeu: Ai, Senhor meu, se o Senhor é conosco, por que tudo isto nos sobreveio? E que é feito de todas as suas maravilhas que nossos pais nos contaram, dizendo: Não nos fez o Senhor subir do Egito? Porém agora o Senhor nos desamparou, e nos deu nas mãos dos midianitas. ^v13
+**13** "Gideão disse-Lhe: ""Ó, meu Mestre, se Yahweh está conosco, por que tudo isto nos aconteceu? Onde estão todas as Suas grandes maravilhas que nossos pais nos contaram quando disseram: 'Não foi Yahweh que nos tirou do Egito?'. Mas agora Yahweh nos abandonou e nos entregou nas mãos de Midiã""." ^v13
 
-**14** Então o Senhor olhou para ele, e disse: Vai nesta tua força, e livrarás a Israel das mãos dos midianitas; porventura não te enviei eu? ^v14
+**14** "Yahweh olhou para ele e disse: ""Vai na força que tu já tens. Livra Israel das mãos dos midianitas. Não sou Eu que te enviei?""." ^v14
 
-**15** E ele lhe disse: Ai, Senhor meu, com que livrarei a Israel? Eis que a minha família é a mais pobre em Manassés, e eu o menor na casa de meu pai. ^v15
+**15** "Gideão disse-Lhe: ""Por favor, Senhor, como poderei livrar Israel? Vê, minha família é a mais fraca em Manassés e eu sou o menos importante na casa do meu pai""." ^v15
 
-**16** E o Senhor lhe disse: Porquanto eu hei de ser contigo, tu ferirás aos midianitas como se fossem um só homem. ^v16
+**16** "Yahweh disse-lhe: ""Eu estarei contigo, e tu derrotarás o exército inteiro dos midianitas, como se fossem um só homem""." ^v16
 
-**17** E ele disse: Se agora tenho achado graça aos teus olhos, dá-me um sinal de que és tu que falas comigo. ^v17
+**17** "Gideão disse-Lhe: ""Se encontrei favor aos Teus olhos, então, dá-me um sinal de que és Tu que estás falando comigo." ^v17
 
-**18** Rogo-te que daqui não te apartes, até que eu volte e traga o meu presente, e o ponha perante ti. E disse: Eu esperarei até que voltes. ^v18
+**18** "Por favor, não vás embora até que eu volte trazendo a minha oferta e a coloque diante de Ti"". Yahweh disse: ""Esperarei até que voltes""." ^v18
 
-**19** E entrou Gideão e preparou um cabrito e pães ázimos de um efa de farinha; a carne pôs num cesto e o caldo pôs numa panela; e trouxe-lho até debaixo do carvalho, e lho ofereceu. ^v19
+**19** Gideão foi e preparou um cabrito e, com um efa de farinha, fez pães sem fermento. Colocou a carne em um cesto e o caldo em uma panela. Trouxe-os para Ele, que estava debaixo do carvalho, e os apresentou. ^v19
 
-**20** Porém o anjo de Deus lhe disse: Toma a carne e os pães ázimos, e põe-nos sobre esta penha e derrama-lhe o caldo. E assim fez. ^v20
+**20** "O Anjo de Yahweh disse-lhe: ""Pega a carne e o pão sem fermento, coloca-os sobre esta rocha, e derrama o caldo sobre eles"". E Gideão assim o fez." ^v20
 
-**21** E o anjo do Senhor estendeu a ponta do cajado, que estava na sua mão, e tocou a carne e os pães ázimos; então subiu o fogo da penha, e consumiu a carne e os pães ázimos; e o anjo do Senhor desapareceu de seus olhos. ^v21
+**21** O Anjo de Yahweh estendeu a ponta do cajado que estava em sua mão, tocando-a na carne e no pão sem fermento. Um fogo subiu da rocha e consumiu a carne e o pão sem fermento. Então, o Anjo de Yahweh foi embora e Gideão não O viu mais. ^v21
 
-**22** Então viu Gideão que era o anjo do SENHOR e disse: Ah, Senhor DEUS, pois vi o anjo do SENHOR face a face. ^v22
+**22** "Gideão entendeu que Aquele era o Anjo de Yahweh, e disse: ""Ó, Senhor Yahweh! Vi o Anjo de Yahweh face a face!""." ^v22
 
-**23** Porém o Senhor lhe disse: Paz seja contigo; não temas; não morrerás. ^v23
+**23** "Yahweh disse-lhe: ""Paz esteja contigo! Não tenhas medo, tu não morrerás""." ^v23
 
-**24** Então Gideão edificou ali um altar ao SENHOR, e chamou-lhe: O SENHOR É PAZ; e ainda até o dia de hoje está em Ofra dos abiezritas. ^v24
+**24** "Então, Gideão construiu ali um altar para Yahweh. Ele o chamou de ""Yahweh é Paz"". Até hoje, o altar está em Ofra, do clã dos abiezritas." ^v24
 
-**25** E aconteceu naquela mesma noite, que o Senhor lhe disse: Toma o boi que pertence a teu pai, a saber, o segundo boi de sete anos, e derruba o altar de Baal, que é de teu pai; e corta o bosque que está ao pé dele. ^v25
+**25** "Naquela noite, Yahweh disse-lhe: ""Pega o boi de teu pai e um segundo boi que tenha sete anos, derruba o altar de Baal que pertence a teu pai, e corta a Aserá que fica ao lado." ^v25
 
-**26** E edifica ao Senhor teu Deus um altar no cume deste lugar forte, num lugar conveniente; e toma o segundo boi, e o oferecerás em holocausto com a lenha que cortares do bosque. ^v26
+**26** "Constrói um altar a Yahweh, teu Deus, no topo deste lugar de refúgio, construindo-o da forma correta. Oferece o segundo boi como holocausto, usando a lenha do poste de Aserá que tu cortarás""." ^v26
 
-**27** Então Gideão tomou dez homens dentre os seus servos, e fez como o Senhor lhe dissera; e sucedeu que, temendo ele a casa de seu pai, e os homens daquela cidade, não o fez de dia, mas fê-lo de noite. ^v27
+**27** Então, Gideão levou dez dos seus servos e fez como Yahweh lhe ordenara. Mas, por estar com medo da casa de seu pai e dos homens da cidade, não fez isso durante o dia, ele o fez à noite. ^v27
 
-**28** Levantando-se, pois, os homens daquela cidade, de madrugada, eis que estava o altar de Baal derrubado, e o bosque estava ao pé dele, cortado; e o segundo boi oferecido no altar que fora edificado. ^v28
+**28** De manhã, quando os homens da cidade se levantaram, o altar de Baal estava derrubado, o poste de Aserá havia sido cortado, e o segundo boi havia sido oferecido sobre o altar que fora construído. ^v28
 
-**29** E uns aos outros disseram: Quem fez esta coisa? E, esquadrinhando, e inquirindo, disseram: Gideão, o filho de Joás, fez esta coisa. ^v29
+**29** "Então, disseram uns aos outros: ""Quem fez isto?"". Quando conversaram com os outros buscando respostas, ouviram: ""Gideão, filho de Joás, fez esta coisa""." ^v29
 
-**30** Então os homens daquela cidade disseram a Joás: Tira para fora a teu filho; para que morra; pois derribou o altar de Baal, e cortou o bosque que estava ao pé dele. ^v30
+**30** "Eles foram até Joás e lhe disseram: ""Traz para fora o teu filho para que ele seja morto, porque destruiu o altar de Baal e cortou o poste de Aserá que ficava ao lado""." ^v30
 
-**31** Porém Joás disse a todos os que se puseram contra ele: Contendereis vós por Baal? Livrá-lo-eis vós? Qualquer que por ele contender ainda esta manhã será morto; se é deus, por si mesmo contenda; pois derrubaram o seu altar. ^v31
+**31** "Joás falou a todos os que se opunham a ele: ""Defendereis vós a causa de Baal? Vós o salvareis? Quem defender a causa dele, que seja morto enquanto ainda é manhã. Se Baal é deus, que ele defenda a si mesmo quando alguém derrubar o seu altar""." ^v31
 
-**32** Por isso naquele dia lhe chamaram Jerubaal, dizendo: Baal contenda contra ele, pois derrubou o seu altar. ^v32
+**32** "Então, naquele dia, chamaram Gideão de Jerubaal porque ele disse: ""Que Baal defenda a si mesmo contra ele"", porque Gideão derrubou o altar de Baal." ^v32
 
-**33** E todos os midianitas e amalequitas, e os filhos do oriente se ajuntaram, e passaram, e acamparam no vale de Jizreel. ^v33
+**33** Ora, todos os midianitas, os amalequitas e o povo do leste ajuntaram-se. Eles cruzaram o Jordão e acamparam no vale de Jezreel. ^v33
 
-**34** Então o Espírito do SENHOR revestiu a Gideão, o qual tocou a buzina, e os abiezritas se ajuntaram após ele. ^v34
+**34** Todavia, o Espírito de Yahweh veio sobre Gideão. Gideão tocou a trombeta, convocando o clã dos abiezritas para que o seguissem. ^v34
 
-**35** E enviou mensageiros por toda a tribo de Manassés, que também se ajuntou após ele; também enviou mensageiros a Aser, e a Zebulom, e a Naftali, que saíram-lhe ao encontro. ^v35
+**35** Ele enviou mensageiros por toda a tribo de Manassés e eles foram convocados para segui-lo. Também enviou mensageiros para Aser, Zebulom e Naftali; e todos foram ao seu encontro. ^v35
 
-**36** E disse Gideão a Deus: Se hás de livrar a Israel por minha mão, como disseste, ^v36
+**36** "Gideão disse a Deus: ""Se Tu pretendes me usar para salvar Israel, como disseste," ^v36
 
-**37** Eis que eu porei um velo de lã na eira; se o orvalho estiver somente no velo, e toda a terra ficar seca, então conhecerei que hás de livrar a Israel por minha mão, como disseste. ^v37
+**37** "vê, eu estou colocando uma porção de lã na eira. Se pela manhã existir orvalho apenas na porção de lã e o chão estiver completamente seco, então saberei que Tu me usarás para salvar Israel, como disseste""." ^v37
 
-**38** E assim sucedeu; porque no outro dia se levantou de madrugada, e apertou o velo; e do orvalho que espremeu do velo, encheu uma taça de água. ^v38
+**38** Isto foi o que aconteceu: Gideão levantou-se cedo na manhã seguinte, apertou a porção de lã, e espremeu da lã o orvalho, o suficiente para encher uma tigela de água. ^v38
 
-**39** E disse Gideão a Deus: Não se acenda contra mim a tua ira, se ainda falar só esta vez; rogo-te que só esta vez faça a prova com o velo; rogo-te que só o velo fique seco, e em toda a terra haja o orvalho. ^v39
+**39** "Então, Gideão disse a Deus: ""Não fiques irado contra mim, falarei mais uma vez. Por favor, permite-me mais um teste usando a porção de lã. Desta vez, faz ficar seca a porção de lã e que haja orvalho em todo o chão ao seu redor""." ^v39
 
-**40** E Deus assim fez naquela noite; pois só o velo ficou seco, e sobre toda a terra havia orvalho. ^v40
+**40** Deus fez o que havia sido pedido naquela noite. A porção de lã estava seca e havia orvalho em todo o chão ao seu redor. ^v40

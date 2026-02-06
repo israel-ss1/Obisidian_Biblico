@@ -1,31 +1,30 @@
 ---
-Livro: "[[Salmos|Salmos]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Salmos|Salmos]]"
+tags: [biblia]
 ---
 
 # Salmos 97
 
-**1** O SENHOR reina; regozije-se a terra; alegrem-se as muitas ilhas. ^v1
+**1** Yahweh reina; alegre-se a terra, alegrem-se as muitas ilhas. ^v1
 
-**2** Nuvens e escuridão estão ao redor dele; justiça e juízo são a base do seu trono. ^v2
+**2** Nuvens e escuridão O cercam; retidão e justiça são a base do Seu trono. ^v2
 
-**3** Um fogo vai adiante dele, e abrasa os seus inimigos em redor. ^v3
+**3** Fogo vai adiante Dele e consome Seus adversários por todos os lados. ^v3
 
-**4** Os seus relâmpagos iluminam o mundo; a terra viu e tremeu. ^v4
+**4** Sua luz ilumina o mundo; a terra vê e treme. ^v4
 
-**5** Os montes derretem como cera na presença do Senhor, na presença do Senhor de toda a terra. ^v5
+**5** As montanhas derretem como cera diante de Yahweh, o Senhor de toda a terra. ^v5
 
-**6** Os céus anunciam a sua justiça, e todos os povos vêem a sua glória. ^v6
+**6** Os céus declaram Sua justiça, e todas as nações veem a Sua glória. ^v6
 
-**7** Confundidos sejam todos os que servem imagens de escultura, que se gloriam de ídolos; prostrai-vos diante dele todos os deuses. ^v7
+**7** Sejam envergonhados todos os que servem os ídolos e se orgulham de imagens inúteis. Prostem-se diante Dele todos os deuses. ^v7
 
-**8** Sião ouviu e se alegrou; e os filhos de Judá se alegraram por causa da tua justiça, ó Senhor. ^v8
+**8** Yahweh, Sião ouviu e se orgulhou, e as filhas de Judá se alegraram por causa dos Teus julgamentos. ^v8
 
-**9** Pois tu, Senhor, és o mais alto sobre toda a terra; tu és muito mais exaltado do que todos os deuses. ^v9
+**9** Pois tu, Yahweh, és o Altíssimo sobre a terra. Tu és exaltado sobre todos os deuses. ^v9
 
-**10** Vós, que amais ao Senhor, odiai o mal. Ele guarda as almas dos seus santos; ele os livra das mãos dos ímpios. ^v10
+**10** Vós que amais Yahweh, odiai o mal! Ele protege a vida de Seus santos, e Ele os tira da mão do perverso. ^v10
 
-**11** A luz semeia-se para o justo, e a alegria para os retos de coração. ^v11
+**11** A luz é espalhada sobre os justos e a alegria, sobre os retos de coração. ^v11
 
-**12** Alegrai-vos, ó justos, no Senhor, e dai louvores à memória da sua santidade. ^v12
+**12** Alegrai-vos em Yahweh, vós justos, e dai graças ao lembrar do Seu santo nome. ^v12

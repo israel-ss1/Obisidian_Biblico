@@ -1,87 +1,86 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/João|João]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/João|João]]"
+tags: [biblia]
 ---
 
 # João 18
 
-**1** Tendo Jesus dito isto, saiu com os seus discípulos para além do ribeiro de Cedrom, onde havia um horto, no qual ele entrou e seus discípulos. ^v1
+**1** Após Jesus ter dito essas palavras, foi com Seus discípulos para o outro lado do ribeiro de Cedrom, onde havia um jardim em que Ele entrou com Seus discípulos. ^v1
 
-**2** E Judas, que o traía, também conhecia aquele lugar, porque Jesus muitas vezes se ajuntava ali com os seus discípulos. ^v2
+**2** E Judas, o que iria traí-Lo, também conhecia o lugar, pois Jesus sempre ia lá com os Seus discípulos. ^v2
 
-**3** Tendo, pois, Judas recebido a coorte e oficiais dos principais sacerdotes e fariseus, veio para ali com lanternas, e archotes e armas. ^v3
+**3** Judas trouxe consigo um destacamento de soldados, e alguns oficiais dos principais sacerdotes e os fariseus; e chegaram lá com lanternas, tochas e armas. ^v3
 
-**4** Sabendo, pois, Jesus todas as coisas que sobre ele haviam de vir, adiantou-se, e disse-lhes: A quem buscais? ^v4
+**4** "Então Jesus, sabendo todas as coisas que iriam acontecer Consigo, adiantou-Se e lhes perguntou: ""A quem procurais?""." ^v4
 
-**5** Responderam-lhe: A Jesus Nazareno. Disse-lhes Jesus: Sou eu. E Judas, que o traía, estava com eles. ^v5
+**5** "Eles Lhe responderam: ""Jesus, o Nazareno"". Jesus lhes disse: ""Sou Eu"". Judas, o traidor, estava também em pé com os soldados." ^v5
 
-**6** Quando, pois, lhes disse: Sou eu, recuaram, e caíram por terra. ^v6
+**6** "Então, quando Ele lhes disse: ""Sou Eu"", eles recuaram e caíram por terra." ^v6
 
-**7** Tornou-lhes, pois, a perguntar: A quem buscais? E eles disseram: A Jesus Nazareno. ^v7
+**7** "Novamente, perguntou-lhes: ""A quem procurais?"". Outra vez, disseram: ""Jesus, o Nazareno""." ^v7
 
-**8** Jesus respondeu: Já vos disse que sou eu; se, pois, me buscais a mim, deixai ir estes; ^v8
+**8** "Jesus respondeu: ""Eu vos disse que Eu Sou; então, se vós Me procurais, deixai estes outros irem""." ^v8
 
-**9** Para que se cumprisse a palavra que tinha dito: Dos que me deste nenhum deles perdi. ^v9
+**9** "Para que se cumprisse a Palavra que dissera: ""Não perdi nenhum dos que Me deste""." ^v9
 
-**10** Então Simão Pedro, que tinha espada, desembainhou-a, e feriu o servo do sumo sacerdote, cortando-lhe a orelha direita. E o nome do servo era Malco. ^v10
+**10** E Simão Pedro, que tinha uma espada, desembainhou-a e golpeou o servo do sumo sacerdote cortando-lhe a orelha direita. O nome do servo era Malco. ^v10
 
-**11** Mas Jesus disse a Pedro: Põe a tua espada na bainha; não beberei eu o cálice que o Pai me deu? ^v11
+**11** "Então, Jesus disse a Pedro: ""Põe a espada de volta na bainha. Por acaso, não beberei do cálice que o Pai Me deu""?." ^v11
 
-**12** Então a coorte, e o tribuno, e os servos dos judeus prenderam a Jesus e o maniataram. ^v12
+**12** Então, o destacamento de soldados, o capitão e os oficiais dos judeus agarraram Jesus, e O amarraram. ^v12
 
-**13** E conduziram-no primeiramente a Anás, por ser sogro de Caifás, que era o sumo sacerdote daquele ano. ^v13
+**13** Eles O levaram primeiro a Anás, pois ele era sogro de Caifás, sumo sacerdote naquele ano. ^v13
 
-**14** Ora, Caifás era quem tinha aconselhado aos judeus que convinha que um homem morresse pelo povo. ^v14
+**14** Era Caifás o que havia aconselhado aos judeus que era propício que um homem deveria morrer pelo povo. ^v14
 
-**15** E Simão Pedro e outro discípulo seguiam a Jesus. E este discípulo era conhecido do sumo sacerdote, e entrou com Jesus na sala do sumo sacerdote. ^v15
+**15** Simão Pedro seguiu a Jesus, e assim também o outro discípulo. Aquele discípulo era conhecido do sumo sacerdote, e entrou com Jesus no pátio do sumo sacerdote; ^v15
 
-**16** E Pedro estava da parte de fora, à porta. Saiu então o outro discípulo que era conhecido do sumo sacerdote, e falou à porteira, levando Pedro para dentro. ^v16
+**16** Mas Pedro ficou em pé do lado de fora da porta. Então, o outro discípulo, que era conhecido do sumo sacerdote, saiu e falou com a serva que estava guardando a porta, e levou Pedro para dentro. ^v16
 
-**17** Então a porteira disse a Pedro: Não és tu também dos discípulos deste homem? Disse ele: Não sou. ^v17
+**17** "A serva que guardava a porta disse a Pedro: ""Tu também não és um dos discípulos deste Homem?"". Ele disse: ""Não sou""." ^v17
 
-**18** Ora, estavam ali os servos e os servidores, que tinham feito brasas, e se aquentavam, porque fazia frio; e com eles estava Pedro, aquentando-se também. ^v18
+**18** Os servos e os oficiais estavam ali; eles haviam feito uma fogueira, pois estava frio, e estavam aquecendo-se. Pedro também estava em pé ali, aquecendo-se com eles. ^v18
 
-**19** E o sumo sacerdote interrogou Jesus acerca dos seus discípulos e da sua doutrina. ^v19
+**19** Então, o sumo sacerdote perguntou a Jesus sobre Seus discípulos e Seus ensinos. ^v19
 
-**20** Jesus lhe respondeu: Eu falei abertamente ao mundo; eu sempre ensinei na sinagoga e no templo, onde os judeus sempre se ajuntam, e nada disse em oculto. ^v20
+**20** "Jesus lhe respondeu: ""Eu tenho falado abertamente ao mundo; Eu estava sempre ensinando nas sinagogas e no templo onde os judeus se reúnem. Nada falei em segredo." ^v20
 
-**21** Para que me perguntas a mim? Pergunta aos que ouviram o que é que lhes ensinei; eis que eles sabem o que eu lhes tenho dito. ^v21
+**21** "Por que me interrogas? Pergunta àqueles que ouviram o que Eu disse. Essas pessoas sabem o que Eu disse""." ^v21
 
-**22** E, tendo dito isto, um dos servidores que ali estavam, deu uma bofetada em Jesus, dizendo: Assim respondes ao sumo sacerdote? ^v22
+**22** "Quando Jesus disse isso, um dos oficiais que estava lá deu uma bofetada em Jesus, e disse: ""É desta maneira que Tu respondes ao sumo sacerdote?""" ^v22
 
-**23** Respondeu-lhe Jesus: Se falei mal, dá testemunho do mal; e, se bem, por que me feres? ^v23
+**23** "Jesus lhe respondeu: ""Se Eu falei mal, dá testemunho do mal. Porém, se falei bem, por que me bates?""." ^v23
 
-**24** E Anás mandou-o, maniatado, ao sumo sacerdote Caifás. ^v24
+**24** Então, Anás O enviou amarrado para Caifás, o sumo sacerdote. ^v24
 
-**25** E Simão Pedro estava ali, e aquentava-se. Disseram-lhe, pois: Não és também tu um dos seus discípulos? Ele negou, e disse: Não sou. ^v25
+**25** "Simão Pedro estava em pé aquecendo-se, e perguntaram-lhe: ""Tu não és também um dos Seus discípulos?"". Ele negou e disse: ""Não sou""." ^v25
 
-**26** E um dos servos do sumo sacerdote, parente daquele a quem Pedro cortara a orelha, disse: Não te vi eu no horto com ele? ^v26
+**26** "Um dos servos do sumo sacerdote, que era parente do homem que Pedro havia cortado a orelha, disse: ""Eu não te vi no jardim com Ele?""." ^v26
 
-**27** E Pedro negou outra vez, e logo o galo cantou. ^v27
+**27** Pedro negou outra vez, e imediatamente o galo cantou. ^v27
 
-**28** Depois levaram Jesus da casa de Caifás para a audiência. E era pela manhã cedo. E não entraram na audiência, para não se contaminarem, mas poderem comer a páscoa. ^v28
+**28** Depois, levaram Jesus da presença de Caifás para o palácio do governador. Era de manhã, e não entraram no palácio para não serem contaminados, e poderem comer a Páscoa. ^v28
 
-**29** Então Pilatos saiu fora e disse-lhes: Que acusação trazeis contra este homem? ^v29
+**29** "Então, Pilatos saiu para recebê-los, e lhes disse: ""Que acusação trazeis vós contra este Homem?""." ^v29
 
-**30** Responderam, e disseram-lhe: Se este não fosse malfeitor, não to entregaríamos. ^v30
+**30** "Eles responderam: ""Se este Homem não fosse malfeitor, não O entregaríamos a Ti""." ^v30
 
-**31** Disse-lhes, pois, Pilatos: Levai-o vós, e julgai-o segundo a vossa lei. Disseram-lhe então os judeus: A nós não nos é lícito matar pessoa alguma. ^v31
+**31** "Portanto, Pilatos disse-lhes: ""Levai-O vós mesmos, e julgai-O segundo a vossa lei"". Disseram-lhe os judeus: ""Não nos é permitido levar nenhum homem à morte""." ^v31
 
-**32** (Para que se cumprisse a palavra que Jesus tinha dito, significando de que morte havia de morrer). ^v32
+**32** Isto disseram para que se cumprisse a Palavra que Jesus havia dito, indicando o modo pelo qual morreria. ^v32
 
-**33** Tornou, pois, a entrar Pilatos na audiência, e chamou a Jesus, e disse-lhe: Tu és o Rei dos Judeus? ^v33
+**33** "Então, Pilatos entrou no palácio novamente, chamou Jesus e Lhe disse: ""Tu és o Rei dos judeus?""." ^v33
 
-**34** Respondeu-lhe Jesus: Tu dizes isso de ti mesmo, ou disseram-to outros de mim? ^v34
+**34** "Jesus respondeu: ""Tu dizes isso por ti mesmo, ou outros te disseram a Meu respeito?""" ^v34
 
-**35** Pilatos respondeu: Porventura sou eu judeu? A tua nação e os principais dos sacerdotes entregaram-te a mim. Que fizeste? ^v35
+**35** "Pilatos respondeu: ""Por acaso eu sou judeu? Teu próprio povo e os principais dos sacerdotes Te entregaram a mim. O que fizeste?""." ^v35
 
-**36** Respondeu Jesus: O meu reino não é deste mundo; se o meu reino fosse deste mundo, pelejariam os meus servos, para que eu não fosse entregue aos judeus; mas agora o meu reino não é daqui. ^v36
+**36** "Jesus respondeu: ""Meu reino não é deste mundo. Se o Meu reino fosse deste mundo, meus servos lutariam para que Eu não fosse entregue aos judeus. Mas o Meu reino não é daqui""." ^v36
 
-**37** Disse-lhe, pois, Pilatos: Logo tu és rei? Jesus respondeu: Tu dizes que eu sou rei. Eu para isso nasci, e para isso vim ao mundo, a fim de dar testemunho da verdade. Todo aquele que é da verdade ouve a minha voz. ^v37
+**37** "Pilatos Lhe disse: ""Então, Tu és um rei?"". Jesus respondeu: ""Tu dizes que sou rei. Para isto nasci e vim ao mundo, a fim de dar testemunho da verdade. Todo aquele que é da verdade ouve a Minha voz""." ^v37
 
-**38** Disse-lhe Pilatos: Que é a verdade? E, dizendo isto, tornou a ir ter com os judeus, e disse-lhes: Não acho nele crime algum. ^v38
+**38** "Pilatos Lhe disse: ""O que é a verdade?"". Tendo dito isto, saiu novamente aos judeus, e disse-lhes: ""Não encontrei crime algum neste homem." ^v38
 
-**39** Mas vós tendes por costume que eu vos solte alguém pela páscoa. Quereis, pois, que vos solte o Rei dos Judeus? ^v39
+**39** "Mas vós tendes o costume de que eu liberte para vós um homem na Páscoa. Então, quereis vós que eu liberte o Rei dos judeus?""." ^v39
 
-**40** Então todos tornaram a clamar, dizendo: Este não, mas Barrabás. E Barrabás era um salteador. ^v40
+**40** "Então eles gritaram, dizendo: ""Não esse homem, mas Barrabás"". Barrabás era um criminoso." ^v40

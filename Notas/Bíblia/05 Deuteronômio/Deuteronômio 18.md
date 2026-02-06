@@ -1,51 +1,50 @@
 ---
-Livro: "[[Deuteronômio|Deuteronômio]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Deuteronômio|Deuteronômio]]"
+tags: [biblia]
 ---
 
 # Deuteronômio 18
 
-**1** Os sacerdotes levitas, toda a tribo de Levi, não terão parte nem herança com Israel; das ofertas queimadas do SENHOR e da sua herança comerão. ^v1
+**1** Os sacerdotes levitas, e toda a tribo de Levi, não terão porção nem herança com Israel; como sua herança, eles comerão das ofertas queimadas para Yahweh. ^v1
 
-**2** Por isso não terão herança no meio de seus irmãos; o Senhor é a sua herança, como lhes tem dito. ^v2
+**2** Eles não terão herança entre seus irmãos; Yahweh é a sua herança, como Ele lhes disse. ^v2
 
-**3** Este, pois, será o direito dos sacerdotes, a receber do povo, dos que oferecerem sacrifício, seja boi ou gado miúdo; que darão ao sacerdote a espádua e as queixadas e o bucho. ^v3
+**3** Este será o direito dos sacerdotes, das ofertas do povo, daqueles que oferecem um sacrifício, quer seja boi ou ovelha: eles devem dar ao sacerdote a espádua, a queixada e as vísceras. ^v3
 
-**4** Dar-lhe-ás as primícias do teu grão, do teu mosto e do teu azeite, e as primícias da tosquia das tuas ovelhas. ^v4
+**4** Darás aos sacerdotes as primícias dos teus grãos, do teu vinho novo, do teu azeite, e a primeira tosquia da tua ovelha. ^v4
 
-**5** Porque o Senhor teu Deus o escolheu de todas as tuas tribos, para que assista e sirva no nome do Senhor, ele e seus filhos, todos os dias. ^v5
+**5** Pois Yahweh, teu Deus, os escolheu dentre todas as tribos, ele e seus filhos, para ministrarem e servirem para sempre em nome de Yahweh. ^v5
 
-**6** E, quando chegar um levita de alguma das tuas portas, de todo o Israel, onde habitar; e vier com todo o desejo da sua alma ao lugar que o Senhor escolheu; ^v6
+**6** Se um levita vier de qualquer uma das cidades de todo o Israel onde ele estiver morando, e desejar, com toda a sua alma, vir para o lugar que Deus escolher, ^v6
 
-**7** E servir no nome do Senhor seu Deus, como também todos os seus irmãos, os levitas, que assistem ali perante o Senhor, ^v7
+**7** então, ele servirá em nome de Yahweh, seu Deus, como fazem todos os seus irmãos levitas, que estão diante de Yahweh. ^v7
 
-**8** Igual porção comerão, além das vendas do seu patrimônio. ^v8
+**8** Eles terão porções similares para comer, além do que vier da venda dos bens de sua família. ^v8
 
-**9** Quando entrares na terra que o Senhor teu Deus te der, não aprenderás a fazer conforme as abominações daquelas nações. ^v9
+**9** Quando entrares na terra que Yahweh, teu Deus, te dá, não imitarás as práticas abomináveis daquelas nações. ^v9
 
-**10** Entre ti não se achará quem faça passar pelo fogo a seu filho ou a sua filha, nem adivinhador, nem prognosticador, nem agoureiro, nem feiticeiro; ^v10
+**10** Não será encontrado entre vós ninguém que coloque seu filho ou sua filha no fogo, ninguém que use adivinhações, que pratique agouros, que lance feitiços, que pratique bruxaria, que faça magia, ^v10
 
-**11** Nem encantador, nem quem consulte a um espírito adivinhador, nem mágico, nem quem consulte os mortos; ^v11
+**11** nenhum encantador, ninguém que fale com os mortos, ou com espíritos. ^v11
 
-**12** Pois todo aquele que faz tal coisa é abominação ao Senhor; e por estas abominações o Senhor teu Deus os lança fora de diante de ti. ^v12
+**12** Pois qualquer um que pratique essas coisas é abominável para Yahweh; é por causa dessas abominações que Yahweh, teu Deus, os está expulsando de diante de ti. ^v12
 
-**13** Perfeito serás, como o Senhor teu Deus. ^v13
+**13** Serás inculpável diante de Yahweh, teu Deus. ^v13
 
-**14** Porque estas nações, que hás de possuir, ouvem os prognosticadores e os adivinhadores; porém a ti o Senhor teu Deus não permitiu tal coisa. ^v14
+**14** Pois estas nações que conquistarás ouvem aqueles que praticam a feitiçaria e a adivinhação; mas a ti, Yahweh, teu Deus, não permitiu que o fizesses. ^v14
 
-**15** O Senhor teu Deus te levantará um profeta do meio de ti, de teus irmãos, como eu; a ele ouvireis; ^v15
+**15** Yahweh, teu Deus, vai levantar um profeta do teu meio, um de teus irmãos, como eu. Tu o ouvirás. ^v15
 
-**16** Conforme a tudo o que pediste ao Senhor teu Deus em Horebe, no dia da assembléia, dizendo: Não ouvirei mais a voz do Senhor teu Deus, nem mais verei este grande fogo, para que não morra. ^v16
+**16** "Isso é o que pediste a Yahweh, teu Deus, no dia em que estiveram reunidos no Horebe, dizendo: ""Não nos deixes ouvir novamente a voz de Yahweh, nosso Deus, e nunca mais ver este grande fogo, ou nós morreremos""." ^v16
 
-**17** Então o Senhor me disse: Falaram bem naquilo que disseram. ^v17
+**17** "Yahweh disse a mim: ""O que eles disseram é bom." ^v17
 
-**18** Eis lhes suscitarei um profeta do meio de seus irmãos, como tu, e porei as minhas palavras na sua boca, e ele lhes falará tudo o que eu lhe ordenar. ^v18
+**18** Eu levantarei um profeta para eles, dentre seus irmãos, semelhante a ti. Eu colocarei Minhas palavras em sua boca, e ele dirá a eles tudo que Eu ordenar. ^v18
 
-**19** E será que qualquer que não ouvir as minhas palavras, que ele falar em meu nome, eu o requererei dele. ^v19
+**19** Eu pedirei contas de qualquer um que não ouvir as palavras que este profeta pronunciar em Meu nome. ^v19
 
-**20** Porém o profeta que tiver a presunção de falar alguma palavra em meu nome, que eu não lhe tenha mandado falar, ou o que falar em nome de outros deuses, esse profeta morrerá. ^v20
+**20** "Mas o profeta que disser uma palavra com arrogância em Meu nome, uma palavra que Eu não ordenei que ele dissesse, ou que falar em nome de outros deuses, este profeta morrerá""." ^v20
 
-**21** E, se disseres no teu coração: Como conhecerei a palavra que o Senhor não falou? ^v21
+**21** "Isso é o que dirás no teu coração: ""Como saberemos se a mensagem desse profeta é de Yahweh?""." ^v21
 
-**22** Quando o profeta falar em nome do Senhor, e essa palavra não se cumprir, nem suceder assim; esta é palavra que o Senhor não falou; com soberba a falou aquele profeta; não tenhas temor dele. ^v22
+**22** Se aquela coisa não acontecer nem se cumprir, então, saberás que é uma palavra que Yahweh não falou e esse profeta falou de forma arrogante, e tu não o temerás. ^v22

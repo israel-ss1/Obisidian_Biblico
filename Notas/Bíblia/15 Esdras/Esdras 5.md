@@ -1,41 +1,40 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Esdras|Esdras]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Esdras|Esdras]]"
+tags: [biblia]
 ---
 
 # Esdras 5
 
-**1** E os profetas Ageu e Zacarias, filho de Ido, profetizaram aos judeus que estavam em Judá, e em Jerusalém; em nome do Deus de Israel lhes profetizaram. ^v1
+**1** Então, os profetas Ageu e Zacarias, filho de Ido, o profeta, profetizaram em nome do Deus de Israel para os judeus em Judá e Jerusalém. ^v1
 
-**2** Então se levantaram Zorobabel, filho de Sealtiel, e Jesuá, filho de Jozadaque, e começaram a edificar a casa de Deus, que está em Jerusalém; e com eles os profetas de Deus, que os ajudavam. ^v2
+**2** Zorobabel, filho de Sealtiel e Jesua, filho de Jozadaque, se levantaram e começaram a construir o templo de Deus em Jerusalém, com os profetas os encorajando. ^v2
 
-**3** Naquele tempo vieram a eles Tatenai, governador dalém do rio, e Setar-Bozenai, e os seus companheiros, e disseram-lhes assim: Quem vos deu ordem para reedificardes esta casa, e restaurardes este muro? ^v3
+**3** "Então, Tatenai, o governador da província a oeste do Eufrates, Setar-Bozenai e seus companheiros vieram e lhes disseram: ""Quem lhes deu ordem para construir este templo e concluir estes muros?""" ^v3
 
-**4** Disseram-lhes, mais: E quais são os nomes dos homens que construíram este edifício? ^v4
+**4** "Eles também disseram: ""Quais os nomes dos homens que estão edificando esta construção?""" ^v4
 
-**5** Porém os olhos de Deus estavam sobre os anciãos dos judeus, e não os impediram, até que o negócio chegasse a Dario, e viesse resposta por carta sobre isso. ^v5
+**5** Mas os olhos de Deus estavam sobre os anciãos judeus, e seus inimigos não os fizeram parar. Eles estavam esperando que uma carta fosse enviada para rei Dario e a resposta a respeito disso. ^v5
 
-**6** Cópia da carta que Tatenai, o governador dalém do rio, com Setar-Bozenai e os seus companheiros, os afarsaquitas, que estavam dalém do rio, enviaram ao rei Dario. ^v6
+**6** Esta foi a carta que Tatenai, o governador da província além do Eufrates, e Setar-Bozenai e seus companheiros oficiais, na província além do Eufrates, enviaram a Dario, o rei. ^v6
 
-**7** Enviaram-lhe uma carta, na qual estava escrito: Toda a paz ao rei Dario. ^v7
+**7** "Eles enviaram um relatório dizendo ao rei Dario: ""Toda paz esteja contigo." ^v7
 
-**8** Seja notório ao rei, que nós fomos à província de Judá, à casa do grande Deus, a qual se edifica com grandes pedras, e a madeira já está sendo posta nas paredes; e esta obra vai sendo feita com diligência, e se adianta em suas mãos. ^v8
+**8** Saiba o rei que fomos à Judá, ao Templo do grande Deus. Ele está sendo construído com grandes pedras, e a madeira já está em suas paredes. Essa obra está sendo feita totalmente pelas mãos deles. ^v8
 
-**9** Então perguntamos aos anciãos, e assim lhes dissemos: Quem vos deu ordem para reedificardes esta casa, e restaurardes este muro? ^v9
+**9** Nós perguntamos aos anciãos: 'Quem vos deu ordem para construir este templo e estes muros?' ^v9
 
-**10** Além disso, lhes perguntamos também pelos seus nomes, para tos declararmos; para que te pudéssemos escrever os nomes dos homens que entre eles são os chefes. ^v10
+**10** Nós lhes perguntamos seus nomes de modo que saibais quem são eles. ^v10
 
-**11** E esta foi a resposta que nos deram: Nós somos servos do Deus dos céus e da terra, e reedificamos a casa que há muitos anos foi edificada; porque um grande rei de Israel a edificou e a terminou. ^v11
+**11** "Eles responderam e disseram: ""Nós somos servos Daquele que é o Deus dos céus e da terra e estamos reconstruindo este templo que foi construído há muito tempo, quando o grande rei de Israel o ergueu e completou." ^v11
 
-**12** Mas depois que nossos pais provocaram à ira o Deus dos céus, ele os entregou nas mãos de Nabucodonosor, rei de babilônia, o caldeu, o qual destruiu esta casa, e transportou o povo para babilônia. ^v12
+**12** Entretanto, quando nossos antepassados enfureceram o Deus do céu, Ele os entregou nas mãos de Nabucodosor, rei da Babilônia, que destruiu este templo e tomou o povo, exilando-o na Babilônia. ^v12
 
-**13** Porém, no primeiro ano de Ciro, rei de babilônia, o rei Ciro deu ordem para que esta casa de Deus se reedificasse. ^v13
+**13** No entanto, no primeiro ano de Ciro como rei na Babilônia, Ciro mesmo emitiu um decreto para a reconstrução do templo de Deus. ^v13
 
-**14** E até os utensílios de ouro e prata, da casa de Deus, que Nabucodonosor tomou do templo que estava em Jerusalém e os levou para o templo de babilônia, o rei Ciro os tirou do templo de babilônia, e foram dados a um homem cujo nome era Sesbazar, a quem nomeou governador. ^v14
+**14** O rei Ciro também devolveu os objetos de ouro e de prata que pertenciam ao templo de Deus, aqueles que Nabucodonosor havia levado do templo em Jerusalém, para o templo na Babilônia. Ele os devolveu a Sesbazar, a quem havia feito governador. ^v14
 
-**15** E disse-lhe: Toma estes utensílios, vai e leva-os ao templo que está em Jerusalém, e faze reedificar a casa de Deus, no seu lugar. ^v15
+**15** "Ele lhe disse: ""Pega estes objetos. Vai e coloca-os no templo, em Jerusalém. Deixa o templo de Deus ser reconstruído ali.'" ^v15
 
-**16** Então veio este Sesbazar, e pôs os fundamentos da casa de Deus, que está em Jerusalém, e desde então para cá se está reedificando, e ainda não está acabada. ^v16
+**16** Esse Sesbazar lançou os fundamentos para o templo de Deus em Jerusalém; e ele foi sendo construído, mas ainda não concluído.' ^v16
 
-**17** Agora, pois, se parece bem ao rei, busque-se na casa dos tesouros do rei, que está em babilônia, se é verdade que se deu uma ordem pelo rei Ciro para reedificar esta casa de Deus em Jerusalém; e sobre isto nos faça saber a vontade do rei. ^v17
+**17** Agora, se parecer bem ao rei, que seja feita uma busca na casa dos arquivos da Babilônia para ver se existe alguma declaração do rei Ciro sobre a construção do templo de Deus em Jerusalém. Então o rei enviará um parecer sobre isso a eles. ^v17

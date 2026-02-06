@@ -1,45 +1,44 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Neemias|Neemias]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Neemias|Neemias]]"
+tags: [biblia]
 ---
 
 # Neemias 6
 
-**1** Sucedeu que, ouvindo Sambalate, Tobias, Gesém, o árabe, e o resto dos nossos inimigos, que eu tinha edificado o muro, e que nele já não havia brecha alguma, ainda que até este tempo não tinha posto as portas nos portais, ^v1
+**1** Agora, quando Sambalate, Tobias e Gesém, o árabe, e o restante dos nossos inimigos ouviram que eu reconstruí o muro e que não havia mais nenhuma brecha deixada aberta, embora eu ainda não tivesse colocado as portas nos portões, ^v1
 
-**2** Sambalate e Gesém mandaram dizer-me: Vem, e congreguemo-nos juntamente nas aldeias, no vale de Ono. Porém intentavam fazer-me mal. ^v2
+**2** "Sambalate e Gesém enviaram mensagem a mim, dizendo: ""Vem, encontremo-nos em algum lugar na planície de Ono"". Mas eles pretendiam fazer mal a mim." ^v2
 
-**3** E enviei-lhes mensageiros a dizer: Faço uma grande obra, de modo que não poderei descer; por que cessaria esta obra, enquanto eu a deixasse, e fosse ter convosco? ^v3
+**3** "Eu enviei mensageiros a eles, dizendo: ""Estou fazendo um grande trabalho e não posso descer. Por que o trabalho seria interrompido enquanto eu o deixasse para descer até vós?""" ^v3
 
-**4** E do mesmo modo enviaram a mim quatro vezes; e da mesma forma lhes respondi. ^v4
+**4** Eles me enviaram a mesma mensagem quatro vezes, e eu lhes respondi da mesma maneira cada vez. ^v4
 
-**5** Então Sambalate ainda pela quinta vez me enviou seu servo com uma carta aberta na sua mão; ^v5
+**5** Sambalate enviou seu servo a mim da mesma maneira pela quinta vez, com uma carta aberta em sua mão. ^v5
 
-**6** E na qual estava escrito: Entre os gentios se ouviu, e Gasmu diz: Tu e os judeus intentais rebelar-vos, então edificas o muro; e tu te farás rei deles segundo estas palavras; ^v6
+**6** "Nela estava escrito: ""É dito entre as nações, e Gesém também diz, que tu e os judeus estão planejando se rebelar, por isto estás reconstruindo o muro. Pelo que dizem estes relatos, tu estás para se tornar o rei deles." ^v6
 
-**7** E que puseste profetas, para pregarem de ti em Jerusalém, dizendo: Este é rei em Judá; de modo que o rei o ouvirá, segundo estas palavras; vem, pois, agora, e consultemos juntamente. ^v7
+**7** "E tu também designaste profetas para proclamar sobre ti em Jerusalém, dizendo: 'Há um rei em Judá!' Estejas certo de que o rei ouvirá este relato. Portanto vem, e falemos um com o outro""." ^v7
 
-**8** Porém eu mandei dizer-lhe: De tudo o que dizes coisa nenhuma sucedeu; mas tu, do teu coração, o inventas. ^v8
+**8** "Então eu enviei uma mensagem para ele, dizendo: ""As coisas não aconteceram como disseste, pois, em teu coração, as inventaste""." ^v8
 
-**9** Porque todos eles procuravam atemorizar-nos, dizendo: As suas mãos largarão a obra, e não se efetuará. Agora, pois, ó Deus, fortalece as minhas mãos. ^v9
+**9** "Pois todos eles queriam nos deixar com medo, pensando: ""Eles retirarão as mãos de fazer o trabalho, e não será concluído"". Mas agora, Deus, por favor, fortaleça minhas mãos." ^v9
 
-**10** E, entrando eu em casa de Semaías, filho de Delaías, o filho de Meetabel (que estava encerrado), disse ele: Vamos juntamente à casa de Deus, ao meio do templo, e fechemos as portas do templo; porque virão matar-te; sim, de noite virão matar-te. ^v10
+**10** "Fui à casa de Semaías, filho de Delaías, filho de Meetabel, que estava em sua casa. Ele disse: ""Encontremo-nos na casa de Deus, dentro do templo, e fechemos as portas do templo, pois eles estão vindo para te matar. À noite, eles virão para matá-lo""." ^v10
 
-**11** Porém eu disse: Um homem como eu fugiria? E quem há, como eu, que entre no templo para que viva? De maneira nenhuma entrarei. ^v11
+**11** "Respondi: ""Um homem, como eu, fugiria? E um homem, como eu, entraria no templo somente para salvar a própria vida? Eu não entrarei!""." ^v11
 
-**12** E percebi que não era Deus quem o enviara; mas esta profecia falou contra mim, porquanto Tobias e Sambalate o subornaram. ^v12
+**12** E percebi que não era Deus que o enviou, mas que ele havia profetizado contra mim. Tobias e Sambalate o haviam contratado. ^v12
 
-**13** Para isto o subornaram, para me atemorizar, e para que assim fizesse, e pecasse, para que tivessem alguma causa para me infamarem, e assim me vituperarem. ^v13
+**13** Eles o contrataram para me deixar com medo, para que eu pudesse fazer o que ele disse e pecasse, então eles poderiam me dar uma má reputação a fim de me humilhar. ^v13
 
-**14** Lembra-te, meu Deus, de Tobias e de Sambalate, conforme a estas suas obras, e também da profetisa Noadia, e dos mais profetas que procuraram atemorizar-me. ^v14
+**14** Lembra-te de Tobias e Sambalate, meu Deus, e de tudo o que eles fizeram. Também lembra-te da profetisa Noádia e do restante dos profetas que tentaram me amedrontar. ^v14
 
-**15** Acabou-se, pois, o muro aos vinte e cinco do mês de Elul; em cinqüenta e dois dias. ^v15
+**15** Então o muro foi finalizado no vigésimo-quinto dia do mês de Elul, depois de cinquenta e dois dias. ^v15
 
-**16** E sucedeu que, ouvindo-o todos os nossos inimigos, todos os povos que havia em redor de nós temeram, e abateram-se muito a seus próprios olhos; porque reconheceram que o nosso Deus fizera esta obra. ^v16
+**16** Quando todos os nossos inimigos ouviram sobre isso, todas as nações ao nosso redor, eles ficaram com medo e sentiram-se humilhados. Pois eles sabiam que o trabalho foi feito com a ajuda do nosso Deus. ^v16
 
-**17** Também naqueles dias alguns nobres de Judá escreveram muitas cartas que iam para Tobias; e as cartas de Tobias vinham para eles. ^v17
+**17** Também, naqueles dias, os nobres de Judá enviaram muitas cartas a Tobias, e as cartas de Tobias vieram até eles. ^v17
 
-**18** Porque muitos em Judá lhe eram ajuramentados, porque era genro de Secanias filho de Ará; e seu filho Joanã se casara com a filha de Mesulão, filho de Berequias. ^v18
+**18** Pois havia muitos em Judá que eram vinculados a ele por um juramento, pois ele era o genro de Secanias, filho de Ara. Seu filho, Joanã, tinha tomado como sua esposa a filha de Mesulão, filho de Berequias. ^v18
 
-**19** Também as suas boas ações contavam perante mim, e as minhas palavras transmitiam a ele; portanto Tobias escrevia cartas para me atemorizar. ^v19
+**19** Eles também me falavam bem dele e relataram minhas palavras de volta a ele. Cartas foram enviadas a mim por Tobias para me amedrontar. ^v19

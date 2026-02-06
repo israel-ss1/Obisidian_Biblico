@@ -1,63 +1,62 @@
 ---
-Livro: "[[2 Crônicas|2 Crônicas]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/2 Crônicas|2 Crônicas]]"
+tags: [biblia]
 ---
 
 # 2 Crônicas 25
 
-**1** Era Amazias da idade de vinte e cinco anos, quando começou a reinar, e reinou vinte e nove anos em Jerusalém; e era o nome de sua mãe Joadã, de Jerusalém. ^v1
+**1** Amazias tinha vinte e cinco anos quando começou a reinar. Reinou por vinte e nove anos em Jerusalém. O nome de sua mãe era Jeoadã, de Jerusalém. ^v1
 
-**2** E fez o que era reto aos olhos do Senhor, porém não com inteireza de coração. ^v2
+**2** Ele fez o que era reto aos olhos de Yahweh, mas não com um coração completamente devotado. ^v2
 
-**3** Sucedeu que, sendo-lhe o reino já confirmado, matou a seus servos que mataram o rei seu pai; ^v3
+**3** Aconteceu que, assim que seu governo ficou bem estabelecido, ele matou os servos que haviam assassinado seu pai, o rei. ^v3
 
-**4** Porém não matou os filhos deles; mas fez segundo está escrito na lei, no livro de Moisés, como o Senhor ordenou, dizendo: Não morrerão os pais pelos filhos, nem os filhos pelos pais; mas cada um morrerá pelo seu pecado. ^v4
+**4** "Porém ele não matou os filhos dos assassinos, mas agiu de acordo com o que está escrito na Lei, no Livro de Moisés, assim como Yahweh ordenou: ""Os pais não devem morrer pelos filhos, nem os filhos pelos pais. Em vez disso, cada pessoa deverá morrer pelo seu próprio pecado""." ^v4
 
-**5** E Amazias reuniu a Judá e os pôs segundo as casas dos pais, sob capitàes de milhares, e sob capitàes de cem, por todo o Judá e Benjamim; e os contou, de vinte anos para cima, e achou deles trezentos mil escolhidos que podiam sair à guerra, e manejar lança e escudo. ^v5
+**5** Além do mais, Amazias reuniu Judá e registrou-o conforme os seus clãs familiares, sob os comandantes de mil e comandantes de cem, todos de Judá e Benjamim. Ele contou os que tinham de vinte anos para cima e encontrou trezentos mil homens aptos para irem à guerra e manejar lança e escudo. ^v5
 
-**6** Também de Israel tomou a soldo cem mil homens valentes, por cem talentos de prata. ^v6
+**6** Também contratou cem mil guerreiros de Israel por cem talentos de prata. ^v6
 
-**7** Porém um homem de Deus veio a ele, dizendo: Ó rei, não deixes ir contigo o exército de Israel; porque o Senhor não é com Israel, a saber com os filhos de Efraim. ^v7
+**7** "Mas um homem de Deus veio a ele, dizendo: ""Rei, não deixes o exército de Israel ir contigo, pois Yahweh não está com Israel, isto é, com nenhum dos filhos de Efraim." ^v7
 
-**8** Se quiseres ir, faze-o assim, esforça-te para a peleja. Deus, porém, te fará cair diante do inimigo; porque força há em Deus para ajudar e para fazer cair. ^v8
+**8** "Mas, mesmo que tu vás e sejas forte e corajoso na batalha, Deus te fará cair diante do inimigo, pois Deus tem poder para ajudar e poder para derrubar""." ^v8
 
-**9** E disse Amazias ao homem de Deus: Que se fará, pois, dos cem talentos de prata que dei às tropas de Israel? E disse o homem de Deus: Mais tem o Senhor que te dar do que isso. ^v9
+**9** "Disse Amazias ao homem de Deus: ""Mas o que faremos acerca dos cem talentos que eu havia entregue ao exército de Israel?"". O homem de Deus respondeu: ""Yahweh pode te dar muito mais do que isso""." ^v9
 
-**10** Então separou Amazias as tropas que lhe tinham vindo de Efraim, para que se fossem ao seu lugar; pelo que se acendeu a sua ira contra Judá, e voltaram para as suas casas ardendo em ira. ^v10
+**10** Então, Amazias separou o exército que tinha vindo de Efraim até ele e mandou-os para casa. Então, acendeu-se neles grande ira contra Judá e voltaram com grande fúria para sua terra. ^v10
 
-**11** Esforçou-se, pois, Amazias, e conduziu o seu povo, e foi ao Vale do Sal; onde feriu a dez mil dos filhos de Seir. ^v11
+**11** Amazias criou coragem e conduziu seu povo para ir ao Vale do Sal; lá ele derrotou dez mil homens de Seir. ^v11
 
-**12** Também os filhos de Judá prenderam vivos dez mil, e os levaram ao cume da rocha; e do mais alto da rocha os lançaram abaixo, e todos se despedaçaram. ^v12
+**12** O exército de Judá capturou vivos outros dez mil. Eles os levaram à beira do abismo e os jogaram de lá, para que todos fossem quebrados aos pedaços. ^v12
 
-**13** Porém os homens das tropas que Amazias despedira, para que não fossem com ele à peleja, deram sobre as cidades de Judá desde Samaria, até Bete-Horom; e feriram deles três mil, e saquearam grande despojo. ^v13
+**13** Mas os homens do exército que Amazias tinha mandado de volta, para que não fossem com ele para a batalha, atacaram as cidades de Judá, desde Samaria até Bete-Horom. Eles feriram três mil pessoas e levaram muitos despojos. ^v13
 
-**14** E sucedeu que, depois que Amazias veio da matança dos edomitas e trouxe consigo os deuses dos filhos de Seir, tomou-os por seus deuses, e prostrou-se diante deles, e queimou-lhes incenso. ^v14
+**14** E aconteceu que, depois que Amazias voltou da matança dos edomitas, trouxe consigo os deuses do povo de Seir e os colocou como seus próprios deuses. Curvou-se diante deles e queimou-lhes. ^v14
 
-**15** Então a ira do Senhor se acendeu contra Amazias, e mandou-lhe um profeta que lhe disse: Por que buscaste deuses deste povo, os quais não livraram o seu próprio povo da tua mão? ^v15
+**15** "Então, a ira de Yahweh veio contra Amazias. Enviou-lhe um profeta que disse: ""Por que buscaste os deuses que não salvaram nem mesmo o seu próprio povo de tuas mãos?""." ^v15
 
-**16** E sucedeu que, falando ele ao rei, este lhe respondeu: Puseram-te por conselheiro do rei? Cala-te! Por que haveria de ser ferido? Então parou o profeta, e disse: Bem vejo eu que já Deus deliberou destruir-te; porquanto fizeste isto, e não deste ouvidos ao meu conselho. ^v16
+**16** "E aconteceu que, enquanto o profeta estava falando para ele, o rei lhe disse: ""Nós te constituímos conselheiro do rei? Para! Por que tu deverias morrer?"". Então o profeta parou e disse: ""Sei que Deus decidiu te destruir, porque fizeste isso e não ouviste o meu conselho""." ^v16
 
-**17** E, tendo tomado conselho, Amazias, rei de Judá, mandou dizer a Jeoás, filho de Jeoacaz, filho de Jeú, rei de Israel: Vem, vejamo-nos face a face. ^v17
+**17** "Então Amazias, rei de Judá, consultou seus conselheiros e mandou mensageiros a Jeoás, filho de Jeoacaz, filho de Jeú, rei de Israel, dizendo: ""Encontremos um ao outro, face a face, em batalha""." ^v17
 
-**18** Porém Jeoás, rei de Israel, mandou dizer a Amazias, rei de Judá: O cardo que estava no Líbano mandou dizer ao cedro que estava no Líbano: Dá tua filha por mulher a meu filho; porém os animais do campo, que estavam no Líbano passaram e pisaram o cardo. ^v18
+**18** "Mas Jeoás, rei de Israel, enviou mensageiros de volta a Amazias, rei de Judá, dizendo: ""O espinheiro que estava no Líbano mandou mensagem ao cedro no Líbano, dizendo: 'Dá tua filha a meu filho como esposa', mas uma fera selvagem no Líbano passou e pisoteou o espinheiro." ^v18
 
-**19** Tu dizes: Eis que tenho ferido os edomitas; e elevou-se o teu coração, para te gloriares; agora, pois, fica em tua casa; por que te entremeterias no mal, para caíres tu e Judá contigo? ^v19
+**19** "Tu tens dito: 'Vede, eu destruí Edom', e teu coração te elevou para teres orgulho de tua vitória. Mas fica em casa, por que deverias causar problemas a ti mesmo e caírem juntos tanto tu quanto Judá?""." ^v19
 
-**20** Porém Amazias não lhe deu ouvidos, porque isto vinha de Deus, para entregá-los na mão dos seus inimigos; porquanto buscaram os deuses dos edomitas. ^v20
+**20** Mas Amazias não deu ouvidos, pois isso vinha de Deus, assim Ele entregaria o povo de Judá nas mãos dos seus inimigos, pois procuraram conselhos entre os deuses de Edom. ^v20
 
-**21** E Jeoás, rei de Israel, subiu; e ele e Amazias, rei de Judá, viram-se face a face em Bete-Semes, que está em Judá. ^v21
+**21** Então, Jeoás, rei de Israel, atacou; ele e Amazias, rei de Judá, encontraram-se frente a frente, em Bete-Semes, que pertence a Judá. ^v21
 
-**22** E Judá foi ferido diante de Israel; e fugiu cada um para a sua tenda. ^v22
+**22** Judá foi destruído diante de Israel, e todos os homens fugiram para casa. ^v22
 
-**23** E Jeoás, rei de Israel, prendeu a Amazias, rei de Judá, filho de Joás, o filho de Jeoacaz, em Bete-Semes, e o trouxe a Jerusalém; e derrubou o muro de Jerusalém, desde a porta de Efraim até à porta da esquina, quatrocentos côvados. ^v23
+**23** Jeoás, rei de Israel, capturou Amazias, filho de Joás, neto de Jeoacaz, rei de Judá, em Bete-Semes. Ele o trouxe a Jerusalém e derrubou os muros de Jerusalém, desde o portão de Efraim até o portão da esquina, quatrocentos côvados de distância. ^v23
 
-**24** Também tomou todo o ouro, a prata, e todos os utensílios que se acharam na casa de Deus com Obede-Edom, e os tesouros da casa do rei, e os reféns; e voltou para Samaria. ^v24
+**24** Ele tomou todo o ouro e prata, todos os objetos que foram encontrados na casa de Deus com Obede-Edom e as coisas valiosas da casa do rei, também fez reféns e voltou para Samaria. ^v24
 
-**25** E viveu Amazias, filho de Joás, rei de Judá, depois da morte de Jeoás, filho de Jeoacaz, rei de Israel, quinze anos. ^v25
+**25** Amazias, filho de Joás, rei de Judá, viveu quinze anos depois da morte de Jeoás, filho de Jeoacaz, rei de Israel. ^v25
 
-**26** Quanto ao mais dos atos de Amazias, tanto os primeiros como os últimos, eis que, porventura, não estão escritos no livro dos reis de Judá e de Israel? ^v26
+**26** Sobre os outros acontecimentos de Amazias, dos primeiros aos últimos, eis que não foram escritos no livro dos reis de Judá e Israel? ^v26
 
-**27** E desde o tempo em que Amazias se desviou do Senhor, conspiraram contra ele em Jerusalém, porém ele fugiu para Laquis; mas perseguiram-no até Laquis, e o mataram ali. ^v27
+**27** Assim, desde o tempo em que Amazias deixou de seguir Yahweh, começaram a conspirar contra ele em Jerusalém. Ele fugiu para Laquis, mas enviaram homens atrás dele em Laquis e lá o mataram. ^v27
 
-**28** E trouxeram-no sobre cavalos e sepultaram-no com seus pais na cidade de Judá. ^v28
+**28** Trouxeram-no de volta em cavalos e o enterraram junto com seus ancestrais na cidade de Judá. ^v28

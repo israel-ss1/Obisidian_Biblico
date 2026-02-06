@@ -1,35 +1,34 @@
 ---
-Livro: "[[Ester|Ester]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Ester|Ester]]"
+tags: [biblia]
 ---
 
 # Ester 6
 
-**1** Naquela mesma noite fugiu o sono do rei; então mandou trazer o livro de registro das crônicas, as quais se leram diante do rei. ^v1
+**1** Naquela noite o rei não conseguiu dormir. Ele ordenou que seus servos trouxessem os registros do seu reinado, e eles trouxeram e leram em voz alta para o rei. ^v1
 
-**2** E achou-se escrito que Mardoqueu tinha denunciado Bigtã e Teres, dois dos camareiros do rei, da guarda da porta, que tinham procurado lançar mão do rei Assuero. ^v2
+**2** E se achou registrado o que Mardoqueu tinha dito sobre Bigtã e Teres, dois oficiais do rei que guardavam a porta de entrada, os quais tinham tentado matar o rei Xerxes. ^v2
 
-**3** Então disse o rei: Que honra e distinção se deu por isso a Mardoqueu? E os servos do rei, que ministravam junto a ele, disseram: Coisa nenhuma se lhe fez. ^v3
+**3** "O rei perguntou: ""O que foi feito para dar honra ou reconhecimento para Mardoqueu por ter feito isso?"". Então, os homens do rei, seus servos, responderam: ""Nada foi feito para ele""." ^v3
 
-**4** Então disse o rei: Quem está no pátio? E Hamã tinha entrado no pátio exterior da casa do rei, para dizer ao rei que enforcassem a Mardoqueu na forca que lhe tinha preparado. ^v4
+**4** "O rei disse: ""Quem está no pátio?"" Hamã tinha acabado de entrar no pátio exterior da casa do rei, para falar com o rei sobre o enforcamento de Mardoqueu na forca que havia preparado para ele." ^v4
 
-**5** E os servos do rei lhe disseram: Eis que Hamã está no pátio. E disse o rei que entrasse. ^v5
+**5** "E os servos do rei lhe responderam: ""Hamã está no pátio"". O rei disse: ""Deixai-o entrar""." ^v5
 
-**6** E, entrando Hamã, o rei lhe disse: Que se fará ao homem de cuja honra o rei se agrada? Então Hamã disse no seu coração: De quem se agradaria o rei para lhe fazer honra mais do que a mim? ^v6
+**6** "Quando Hamã entrou, o rei lhe disse: ""O que poderia ser feito ao homem a quem o rei tem o prazer de honrar?"". Então, Hamã disse no seu coração: ""A quem o rei teria o prazer de honrar senão a mim?""" ^v6
 
-**7** Assim disse Hamã ao rei: Para o homem, de cuja honra o rei se agrada, ^v7
+**7** "Hamã disse para o rei: ""Ao homem a quem o rei tem prazer em honrar" ^v7
 
-**8** Tragam a veste real que o rei costuma vestir, como também o cavalo em que o rei costuma andar montado, e ponha-se-lhe a coroa real na sua cabeça. ^v8
+**8** sejam trazidos os trajes reais que o rei tenha usado e o cavalo que o rei costuma montar e se coloque uma coroa real sobre a sua cabeça. ^v8
 
-**9** E entregue-se a veste e o cavalo à mão de um dos príncipes mais nobres do rei, e vistam delas aquele homem a quem o rei deseja honrar; e levem-no a cavalo pelas ruas da cidade, e apregoe-se diante dele: Assim se fará ao homem a quem o rei deseja honrar! ^v9
+**9** "Então, que os trajes e o cavalo sejam entregues a alguns dos oficiais mais nobres do rei. Que eles vistam os trajes reais no homem a quem o rei tem prazer de honrar e conduzam tal homem sobre o cavalo, pelas ruas da cidade. Que eles proclamarem diante dele: 'Assim se faz ao homem a quem o rei tem prazer em honrar!'""." ^v9
 
-**10** Então disse o rei a Hamã: Apressa-te, toma a veste e o cavalo, como disseste, e faze assim para com o judeu Mardoqueu, que está assentado à porta do rei; e coisa nenhuma omitas de tudo quanto disseste. ^v10
+**10** "Então, o rei disse a Hamã: ""Depressa, toma os trajes e o cavalo, como disseste, e faz assim para Mardoqueu, o judeu, que está sentado à porta do rei. E não falhes em coisa alguma do que disseste""." ^v10
 
-**11** E Hamã tomou a veste e o cavalo, e vestiu a Mardoqueu, e o levou a cavalo pelas ruas da cidade, e apregoou diante dele: Assim se fará ao homem a quem o rei deseja honrar! ^v11
+**11** "Então, Hamã pegou os trajes e o cavalo. Ele vestiu Mardoqueu e o conduziu sobre o cavalo, pelas ruas da cidade. Ele proclamou diante dele: ""Assim se faz ao homem a quem o rei tem prazer em honrar!""." ^v11
 
-**12** Depois disto Mardoqueu voltou para a porta do rei; porém Hamã se retirou correndo à sua casa, triste, e de cabeça coberta. ^v12
+**12** Mardoqueu voltou para o portão do rei. Mas Hamã apressou-se para sua casa, lamentando, com sua cabeça coberta. ^v12
 
-**13** E contou Hamã a Zeres, sua mulher, e a todos os seus amigos, tudo quanto lhe tinha sucedido. Então os seus sábios e Zeres, sua mulher, lhe disseram: Se Mardoqueu, diante de quem já começaste a cair, é da descendência dos judeus, não prevalecerás contra ele, antes certamente cairás diante dele. ^v13
+**13** "Hamã contou para Zeres, sua esposa e todos os seus amigos sobre tudo o que lhe acontecera. Então, seus homens, que eram conhecidos por sua sabedoria, e Zeres sua esposa, disseram-lhe: ""Se este Mardoqueu, diante do qual já começaste a cair, é judeu, tu não prevalecerás contra ele, mas certamente cairás diante dele""." ^v13
 
-**14** E estando eles ainda falando com ele, chegaram os camareiros do rei, e se apressaram a levar Hamã ao banquete que Ester preparara. ^v14
+**14** Enquando eles estavam falando com ele, os oficiais do rei chegaram. Eles se apressavam para trazer Hamã ao banquete que Ester tinha preparado. ^v14

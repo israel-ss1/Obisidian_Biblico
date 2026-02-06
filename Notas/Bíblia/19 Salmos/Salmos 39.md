@@ -1,33 +1,30 @@
 ---
-Livro: "[[Salmos|Salmos]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Salmos|Salmos]]"
+tags: [biblia]
 ---
 
 # Salmos 39
 
-**1** Eu disse: Guardarei os meus caminhos para não pecar com a minha língua; guardarei a boca com um freio, enquanto o ímpio estiver diante de mim. ^v1
+**2** Mas, enquanto fiquei calado, sem dizer sequer as coisas boas, e minha dor piorou. ^v2
 
-**2** Com o silêncio fiquei mudo; calava-me mesmo acerca do bem, e a minha dor se agravou. ^v2
+**3** Meu coração ardia; quando pensava sobre estas coisas, ardia como fogo; então, finalmente, eu disse: ^v3
 
-**3** Esquentou-se-me o coração dentro de mim; enquanto eu meditava se acendeu um fogo; então falei com a minha língua: ^v3
+**4** """Yahweh, faz-me saber quando será o fim da minha vida e a extensão dos meus dias; mostra-me quão passageiro eu sou." ^v4
 
-**4** Faze-me conhecer, Senhor, o meu fim, e a medida dos meus dias qual é, para que eu sinta quanto sou frágil. ^v4
+**5** Eis que Tu fizeste meus dias do tamanho de alguns palmos da mão; a duração da minha vida é nada diante de Ti. De fato, o homem é como um sopro. [Interlúdio] ^v5
 
-**5** Eis que fizeste os meus dias como a palmos; o tempo da minha vida é como nada diante de ti; na verdade, todo homem, por mais firme que esteja, é totalmente vaidade. (Selá.) ^v5
+**6** Sim, todo homem anda como uma sombra; todos se apressam para acumular riquezas, embora não saibam quem as receberá. ^v6
 
-**6** Na verdade, todo homem anda numa và aparência; na verdade, em vão se inquietam; amontoam riquezas, e não sabem quem as levará. ^v6
+**7** Agora, Senhor, pelo que estou aguardando? Tu és minha única esperança. ^v7
 
-**7** Agora, pois, Senhor, que espero eu? A minha esperança está em ti. ^v7
+**8** Livra-me de todos os meus pecados; não faças de mim objeto de zombaria dos tolos. ^v8
 
-**8** Livra-me de todas as minhas transgressões; não me faças o opróbrio dos loucos. ^v8
+**9** Eu estou em silêncio, não consigo abrir a minha boca por causa do que Tu fizeste. ^v9
 
-**9** Emudeci; não abro a minha boca, porquanto tu o fizeste. ^v9
+**10** Para de me açoitar, pois estou sendo consumido com o golpe de Tua mão. ^v10
 
-**10** Tira de sobre mim a tua praga; estou desfalecido pelo golpe da tua mão. ^v10
+**11** Quando disciplinas os homens por causa do pecado, Tu consomes, como uma traça, as coisas que eles mais valorizam; sim, certamente todas as pessoas são apenas como um sopro. [Interlúdio] ^v11
 
-**11** Quando castigas o homem, com repreensões por causa da iniqüidade, fazes com que a sua beleza se consuma como a traça; assim todo homem é vaidade. (Selá.) ^v11
+**12** Ouve a minha oração, Yahweh, e escuta o meu clamor! Ouve o meu choro! Não fiques indiferente a mim, pois sou como um estranho para Contigo, um estrangeiro, como foram todos os meus antepassados. ^v12
 
-**12** Ouve, Senhor, a minha oração, e inclina os teus ouvidos ao meu clamor; não te cales perante as minhas lágrimas, porque sou um estrangeiro contigo e peregrino, como todos os meus pais. ^v12
-
-**13** Poupa-me, até que tome alento, antes que me vá, e não seja mais. ^v13
+**13** "Desvia o Teu olhar de mim, para que eu possa voltar a sorrir antes de morrer.""" ^v13

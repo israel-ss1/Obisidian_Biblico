@@ -1,57 +1,56 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Ezequiel|Ezequiel]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Ezequiel|Ezequiel]]"
+tags: [biblia]
 ---
 
 # Ezequiel 11
 
-**1** Então me levantou o Espírito, e me levou à porta oriental da casa do SENHOR, a qual olha para o oriente; e eis que estavam à entrada da porta vinte e cinco homens; e no meio deles vi a Jaazanias, filho de Azur, e a Pelatias, filho de Benaia, príncipes do povo. ^v1
+**1** Então, o Espírito me levantou e me trouxe para a porta oriental da casa de Yahweh, voltada ao oriente. Eis que contemplei, diante do portão, vinte e cinco homens. Vi Jazanias, filho de Azur, e Pelatias, filho de Benaías, líderes do povo, no meio deles. ^v1
 
-**2** E disse-me: Filho do homem, estes são os homens que maquinam perversidade, e dão mau conselho nesta cidade. ^v2
+**2** "Deus me disse: ""Filho do homem, estes são os homens que fazem planos de iniquidade e aconselham perversamente nesta cidade." ^v2
 
-**3** Os quais dizem: Não está próximo o tempo de edificar casas; esta cidade é o caldeirão, e nós a carne. ^v3
+**3** Eles dizem: 'Não é agora o tempo de edificar casas; esta cidade é a panela e nós somos a carne'. ^v3
 
-**4** Portanto, profetiza contra eles; profetiza, ó filho do homem. ^v4
+**4** "Por isso, profetiza contra eles. Profetiza, filho do homem""." ^v4
 
-**5** Caiu, pois, sobre mim o Espírito do Senhor, e disse-me: Fala: Assim diz o Senhor: Assim haveis falado, ó casa de Israel, porque, quanto às coisas que vos sobem ao espírito, eu as conheço. ^v5
+**5** "Então, o Espírito de Yahweh veio sobre mim e me disse: ""Dize: 'Assim diz Yahweh': Como vós dizeis, ó casa de Israel, porque Eu sei o que pensais." ^v5
 
-**6** Multiplicastes os vossos mortos nesta cidade, e enchestes as suas ruas de mortos. ^v6
+**6** Multiplicastes os vossos mortos nesta cidade e, com eles, enchestes as estradas. ^v6
 
-**7** Portanto, assim diz o Senhor DEUS: Vossos mortos, que deitastes no meio dela, esses são a carne e ela é o caldeirão; a vós, porém, vos tirarei do meio dela. ^v7
+**7** Por isso, Yahweh Deus diz: As pessoas que matastes, cujos corpos colocastes no meio de Jerusalém, são a carne, e esta cidade é a panela. Mas vós sereis arrancados para fora desta cidade. ^v7
 
-**8** Temestes a espada, e a espada trarei sobre vós, diz o Senhor DEUS. ^v8
+**8** Vós temeis a espada, portanto, Eu trago espada sobre vós, esta é a declaração de Yahweh Deus. ^v8
 
-**9** E vos farei sair do meio dela, e vos entregarei na mão de estrangeiros, e exercerei os meus juízos entre vós. ^v9
+**9** Eu vos tirarei do meio da cidade e vos colocarei nas mãos de estranhos e trarei julgamento contra vós. ^v9
 
-**10** Caireis à espada, e nos confins de Israel vos julgarei; e sabereis que eu sou o Senhor. ^v10
+**10** Caireis à espada. Eu vos julgarei no interior das fronteiras de Israel e sabereis que Eu sou Yahweh. ^v10
 
-**11** Esta cidade não vos servirá de caldeirão, nem vós servireis de carne no meio dela; nos confins de Israel vos julgarei. ^v11
+**11** Esta cidade não será vossa panela, nem vós sereis a carne dentro dela. Eu vos julgarei no interior das fronteiras de Israel. ^v11
 
-**12** E sabereis que eu sou o Senhor, porque não andastes nos meus estatutos, nem cumpristes os meus juízos; antes fizestes conforme os juízos dos gentios que estão ao redor de vós. ^v12
+**12** "Então, vós sabereis que Eu Sou Yahweh, Aquele cujos estatutos vós não andastes neles, e cujos decretos não obedecestes. Ao contrário, tendes procedido conforme os decretos das nações que vos rodeiam""." ^v12
 
-**13** E aconteceu que, profetizando eu, morreu Pelatias, filho de Benaia; então caí sobre o meu rosto, e clamei com grande voz, e disse: Ah! Senhor DEUS! Porventura darás tu fim ao remanescente de Israel? ^v13
+**13** "Aconteceu que, enquanto eu profetizava, Pelatias filho de Benaías, morreu. Então, caí sobre o meu rosto e chorei em alta voz dizendo: ""Ah, Senhor Yahweh, destruirás completamente o resto de Israel?""." ^v13
 
-**14** Então veio a mim a palavra do Senhor, dizendo: ^v14
+**14** A palavra de Yahweh veio a mim, dizendo: ^v14
 
-**15** Filho do homem, teus irmãos, sim, teus irmãos, os homens de teu parentesco, e toda a casa de Israel, todos eles são aqueles a quem os habitantes de Jerusalém disseram: Apartai-vos para longe do Senhor; esta terra nos foi dada em possessão. ^v15
+**15** Filho do homem, os teus irmãos! Os teus próprios irmãos! Os homens de teu parentesco e de toda casa de Israel! Todos eles são aqueles de quem os habitantes de Jerusalém disseram: 'Eles estão longe de Yahweh! Esta terra nos foi dada como possessão'. ^v15
 
-**16** Portanto, dize: Assim diz o Senhor DEUS: Ainda que os lancei para longe entre os gentios, e ainda que os espalhei pelas terras, todavia lhes serei como um pequeno santuário, nas terras para onde forem. ^v16
+**16** "Portanto, dize: ""Assim diz Yahweh Deus: 'Apesar de tê-los removido para longe entre as nações, e, embora Eu os tenha espalhalho entre as terras, mesmo assim, Eu tenho sido um santuário para eles por pouco tempo nas terras para onde foram'." ^v16
 
-**17** Portanto, dize: Assim diz o Senhor DEUS: Hei de ajuntar-vos do meio dos povos, e vos recolherei das terras para onde fostes lançados, e vos darei a terra de Israel. ^v17
+**17** Portanto dize: 'Assim diz Yahweh Deus: Eu vos juntarei dentre os povos e vos congregarei das terras para onde fostes espalhados; darei a vós a terra de Israel'. ^v17
 
-**18** E virão ali, e tirarão dela todas as suas coisas detestáveis e todas as suas abominações. ^v18
+**18** Então, eles irão e removerão todas coisas detestáveis e todas as abominações deste lugar. ^v18
 
-**19** E lhes darei um só coração, e um espírito novo porei dentro deles; e tirarei da sua carne o coração de pedra, e lhes darei um coração de carne; ^v19
+**19** Eu lhes darei um só coração e porei neles um espírito novo. Tirarei deles o coração de pedra e lhes darei um coração de carne, ^v19
 
-**20** Para que andem nos meus estatutos, e guardem os meus juízos, e os cumpram; e eles me serão por povo, e eu lhes serei por Deus. ^v20
+**20** para que eles andem nos Meus estatutos, guardem os Meus decretos e os pratiquem. Eles serão Meu povo e Eu serei o seu Deus. ^v20
 
-**21** Mas, quanto àqueles cujo coração andar conforme o coração das suas coisas detestáveis, e as suas abominações, farei recair nas suas cabeças o seu caminho, diz o Senhor DEUS. ^v21
+**21** "Mas para aqueles que andam com os corações voltados para as suas coisas detestáveis e suas abominações, Eu farei recair as suas obras sobre as suas cabeças, esta é a declaração de Yahweh Deus""." ^v21
 
-**22** Então os querubins elevaram as suas asas, e as rodas os acompanhavam; e a glória do Deus de Israel estava em cima sobre eles. ^v22
+**22** Os querubins levantaram suas asas, e as rodas ao seu lado os acompanhavam, e a glória do Deus de Israel estava sobre eles. ^v22
 
-**23** E a glória do Senhor se alçou desde o meio da cidade; e se pôs sobre o monte que está ao oriente da cidade. ^v23
+**23** Então, a glória de Yahweh subiu desde o meio da cidade e ficou no monte que está ao oriente da cidade. ^v23
 
-**24** Depois o Espírito me levantou, e me levou à Caldéia, para os do cativeiro, em visão, pelo Espírito de Deus; e subiu de sobre mim a visão que eu tinha tido. ^v24
+**24** O Espírito me levantou e me levou até a Babilônia, junto com os exilados, em visão pelo Espírito de Deus, e a visão que havia tido desapareceu. ^v24
 
-**25** E falei aos do cativeiro todas as coisas que o Senhor me havia mostrado. ^v25
+**25** E eu declarei aos exilados todas as coisas que Yahweh havia me mostrado. ^v25

@@ -1,93 +1,90 @@
 ---
-Livro: "[[1 Samuel|1 Samuel]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/1 Samuel|1 Samuel]]"
+tags: [biblia]
 ---
 
 # 1 Samuel 20
 
-**1** Então fugiu Davi de Naiote, em Ramá; e veio, e disse a Jônatas: Que fiz eu? Qual é o meu crime? E qual é o meu pecado diante de teu pai, que procura tirar-me a vida? ^v1
+**1** "Então, Davi fugiu de Naiote em Ramá e veio e disse a Jônatas: ""O que eu fiz? Qual é minha iniquidade? Qual é o meu pecado perante teu pai, para que me persiga para tirar-me a vida?""." ^v1
 
-**2** E ele lhe disse: Tal não suceda; não morrerás; eis que meu pai não faz coisa nenhuma grande, nem pequena, sem primeiro me informar; por que, pois, meu pai me encobriria este negócio? Não será assim. ^v2
+**2** "Jônatas disse a Davi: ""Longe disso. Tu não morrerás. Meu pai não faz nada grande nem pequeno que não me diga. Por que meu pai esconderia isso de mim? Não é assim""." ^v2
 
-**3** Então Davi tornou a jurar, e disse: Teu pai sabe muito bem que achei graça em teus olhos; por isso disse: Não saiba isto Jônatas, para que não se magoe. Mas, na verdade, como vive o Senhor, e como vive a tua alma, há apenas um passo entre mim e a morte. ^v3
+**3** "Davi, contudo, fez novamente um juramento e disse: ""Teu pai bem sabe que tenho achado graça aos teus olhos. Ele disse: 'Não permitas que Jônatas saiba disso, ou ele ficará entristecido'. Mas, assim como é verdade que Yahweh vive, como tu vives, existe apenas um passo entre mim e a morte""." ^v3
 
-**4** E disse Jônatas a Davi: O que disser a tua alma, eu te farei. ^v4
+**4** "Então, Jônatas disse a Davi: ""Qualquer coisa que tu disseres, eu farei por ti""." ^v4
 
-**5** Disse Davi a Jônatas: Eis que amanhã é a lua nova, em que costumo assentar-me com o rei para comer; porém deixa-me ir, e esconder-me-ei no campo, até à tarde do terceiro dia. ^v5
+**5** "Davi disse a Jônatas: ""Amanhã será lua nova, e eu deveria sentar-me e comer com o rei. Mas deixa-me ir, para que eu me esconda nos campos até o terceiro dia ao anoitecer." ^v5
 
-**6** Se teu pai notar a minha ausência, dirás: Davi me pediu muito que o deixasse ir correndo a Belém, sua cidade; porquanto se faz lá o sacrifício anual para toda a linhagem. ^v6
+**6** Se teu pai sentir minha falta, então, dize-lhe: 'Davi disse seriamente que deveria partir para ir até Belém, sua cidade, porque lá acontecerá o sacrifício anual para toda a família'. ^v6
 
-**7** Se disser assim: Está bem; então teu servo tem paz; porém se muito se indignar, sabe que já está inteiramente determinado no mal. ^v7
+**7** Se ele disser 'tudo bem', o teu servo terá paz. Mas se ele se enfurecer, sabes que ele decidiu fazer-me mal. ^v7
 
-**8** Usa, pois, de misericórdia com o teu servo, porque o fizeste entrar contigo em aliança do Senhor; se, porém, há em mim crime, mata-me tu mesmo; por que me levarias a teu pai? ^v8
+**8** "Assim, trata com zelo o teu servo. Porque tu tens levado o teu servo a ter uma aliança com Yahweh. Mas se houver pecado em mim, mata-me tu. Por que deverias tu apresentar-me ao teu pai?""." ^v8
 
-**9** Então disse Jônatas: Longe de ti tal coisa; porém se de alguma forma soubesse que já este mal está inteiramente determinado por meu pai, para que viesse sobre ti, não to revelaria eu? ^v9
+**9** "Jônatas disse: ""Que isso esteja longe de ti. Se eu soubesse que meu pai decidiu ferir-te, por acaso, eu não te diria?""." ^v9
 
-**10** E disse Davi a Jônatas: Quem me fará saber, se por acaso teu pai te responder asperamente? ^v10
+**10** "Então, Davi disse a Jônatas: ""Quem me dirá se, por acaso, o teu pai vai responder-te com rispidez?" ^v10
 
-**11** Então disse Jônatas a Davi: Vem e saiamos ao campo. E saíram ambos ao campo. ^v11
+**11** "Jônatas disse a Davi: ""Vamos, saiamos para o campo"". E ambos foram para o campo." ^v11
 
-**12** E disse Jônatas a Davi: O Senhor Deus de Israel seja testemunha! Sondando eu a meu pai amanhã a estas horas, ou depois de amanhã, e eis que se houver coisa favorável para Davi, e eu então não enviar a ti, e não to fizer saber; ^v12
+**12** "Jônatas disse a Davi: ""Que Yahweh, o Deus de Israel, seja testemunha. Quando eu questionar meu pai por este tempo, amanhã ou pelo terceiro dia, se não existir boa vontade para contigo, não te faria saber?" ^v12
 
-**13** O Senhor faça assim com Jônatas outro tanto; que se aprouver a meu pai fazer-te mal, também to farei saber, e te deixarei partir, e irás em paz; e o Senhor seja contigo, assim como foi com meu pai. ^v13
+**13** Se meu pai se agrada de fazer-te algum mal, que Yahweh faça a mim o que Lhe aprouver se eu não te der a conhecer e te enviar para longe, de modo que possas ir em paz. Que Yahweh seja contigo, assim como Ele tem estado com meu pai. ^v13
 
-**14** E, se eu então ainda viver, porventura não usarás comigo da beneficência do Senhor, para que não morra? ^v14
+**14** Como eu ainda estou vivo, tu não me mostrarias a aliança de fé de Yahweh, para que eu não morra? ^v14
 
-**15** Nem tampouco cortarás da minha casa a tua beneficência eternamente; nem ainda quando o Senhor desarraigar da terra a cada um dos inimigos de Davi. ^v15
+**15** "E não interrompas a aliança de fé duradoura de minha casa, mesmo quando Yahweh exterminar da face da terra cada um dos inimigos de Davi""." ^v15
 
-**16** Assim fez Jônatas aliança com a casa de Davi, dizendo: O Senhor o requeira da mão dos inimigos de Davi. ^v16
+**16** "Então, Jônatas fez uma aliança com a casa de Davi e disse: ""Que Yahweh exija uma prestação de contas dos inimigos de Davi""." ^v16
 
-**17** E Jônatas fez jurar a Davi de novo, porquanto o amava; porque o amava com todo o amor da sua alma. ^v17
+**17** Jônatas fez com que Davi reafirmasse os votos de amor por ele, porquanto ele o amava também como amava sua própria alma. ^v17
 
-**18** E disse-lhe Jônatas: Amanhã é a lua nova, e não te acharão no teu lugar, pois o teu assento se achará vazio. ^v18
+**18** "Então, Jônatas lhe disse: ""Amanhã é lua nova. Sentirão tua falta, porque o teu lugar ficará vazio." ^v18
 
-**19** E, ausentando-te tu três dias, desce apressadamente, e vai àquele lugar onde te escondeste no dia do negócio; e fica-te junto à pedra de Ezel. ^v19
+**19** Quando ficares por três dias, desce rapidamente e vem ao local onde havias te escondido quando tudo começou, e permanece junto à pedra de Ezel. ^v19
 
-**20** E eu atirarei três flechas para aquele lado, como se atirasse ao alvo. ^v20
+**20** Eu lançarei três flechas para o lado como se estivesse mirando um alvo. ^v20
 
-**21** E eis que mandarei o moço dizendo: Anda, busca as flechas. Se eu expressamente disser ao moço: Olha que as flechas estão para cá de ti; toma-o contigo, e vem, porque há paz para ti, e não há nada, vive o Senhor. ^v21
+**21** "E enviarei meu jovem e lhe direi: 'Vai e acha as flechas'. Se eu disser ao jovem rapaz: 'Vê, pega as flechas. Elas estão deste teu lado"", então vem. Porquanto, certo como vive Yahweh, haverá segurança para ti e nenhum perigo." ^v21
 
-**22** Porém se disser ao moço assim: Olha que as flechas estão para lá de ti; vai-te embora, porque o Senhor te deixa ir. ^v22
+**22** """Mas se eu disser ao jovem rapaz: 'Vê, as flechas estão depois de ti', então vai pelo teu caminho, pois Yahweh te manda ir." ^v22
 
-**23** E quanto ao negócio de que eu e tu falamos, eis que o Senhor está entre mim e ti eternamente. ^v23
+**23** "Sobre o acordo firmado entre mim e ti, vê, Yahweh está entre mim e ti para sempre""." ^v23
 
-**24** Escondeu-se, pois, Davi no campo; e, sendo a lua nova, assentou-se o rei para comer pão. ^v24
+**24** Então, Davi escondeu-se no campo. Quando a lua nova chegou, o rei assentou-se para comer. ^v24
 
-**25** E, assentando-se o rei, como das outras vezes, no seu assento, no lugar junto à parede, Jônatas se levantou, e assentou-se Abner ao lado de Saul; e o lugar de Davi apareceu vazio. ^v25
+**25** O rei assentou-se perto da parede, como fazia sempre. Jônatas se levantou e Abner sentou-se ao lado de Saul. Mas o lugar de Davi estava vazio. ^v25
 
-**26** Porém naquele dia não disse Saul nada, porque dizia: Aconteceu-lhe alguma coisa, pela qual não está limpo; certamente não está limpo. ^v26
+**26** "Saul ainda não havia dito nada naquele dia, porque ele pensava: ""Algo aconteceu-lhe. Com certeza, ele não está limpo""." ^v26
 
-**27** Sucedeu também no outro dia, o segundo da lua nova, que o lugar de Davi apareceu vazio; disse, pois, Saul a Jônatas, seu filho: Por que não veio o filho de Jessé nem ontem nem hoje a comer pão? ^v27
+**27** "Mas no segundo dia, o dia depois da lua nova, o lugar de Davi continuava vazio. Saul perguntou a Jônatas, seu filho: ""Por que o filho de Jessé não veio para o jantar, nem ontem nem hoje?""." ^v27
 
-**28** E respondeu Jônatas a Saul: Davi me pediu encarecidamente que o deixasse ir a Belém. ^v28
+**28** "Jônatas respondeu-lhe: ""Davi seriamente pediu-me permissão para ir a Belém." ^v28
 
-**29** Dizendo: Peço-te que me deixes ir, porquanto a nossa linhagem tem um sacrifício na cidade, e meu irmão mesmo me mandou ir; se, pois, agora tenho achado graça em teus olhos, peço-te que me deixes partir, para que veja a meus irmãos; por isso não veio à mesa do rei. ^v29
+**29** "Ele disse: 'Por favor, deixa-me ir. Porquanto nossa família tem um sacrifício na cidade, e meu irmão ordenou que eu estivesse lá. Agora, se encontrei graça em teus olhos, por favor deixa-me ir e ver meus irmãos'. Por essa razão ele não veio à mesa do rei""." ^v29
 
-**30** Então se acendeu a ira de Saul contra Jônatas, e disse-lhe: Filho da mulher perversa e rebelde; não sei eu que tens escolhido o filho de Jessé, para vergonha tua e para vergonha da nudez de tua mãe? ^v30
+**30** "Então, a raiva de Saul ardeu contra Jônatas, e ele lhe disse: ""Filho de uma perversa, de uma mulher rebelde! Não sei eu que tu escolheste o filho de Jessé para tua própria vergonha, e para a vergonha da nudez de tua mãe?" ^v30
 
-**31** Porque todos os dias que o filho de Jessé viver sobre a terra nem tu estarás seguro, nem o teu reino; pelo que envia, e traze-mo nesta hora; porque é digno de morte. ^v31
+**31** "Pelo tempo que o filho de Jessé viver sobre a terra, nem tu nem o teu reino serão estabelecidos. Agora, traga-o para mim, porque ele certamente morrerá""." ^v31
 
-**32** Então respondeu Jônatas a Saul, seu pai, e lhe disse: Por que há de morrer? Que tem feito? ^v32
+**32** "Jônatas respondeu a Saul, seu pai: ""Por qual razão ele deveria morrer? O que ele fez?""." ^v32
 
-**33** Então Saul atirou-lhe com a lança, para o ferir; assim entendeu Jônatas que já seu pai tinha determinado matar a Davi. ^v33
+**33** Então, Saul atirou-lhe sua lança para matá-lo. Assim, Jônatas soube que seu pai estava determinado a matar Davi. ^v33
 
-**34** Por isso Jônatas, todo encolerizado, se levantou da mesa; e no segundo dia da lua nova não comeu pão; porque se magoava por causa de Davi, porque seu pai o tinha humilhado. ^v34
+**34** Jônatas, tomado de raiva, levantou-se da mesa e não comeu da comida no segundo dia do mês, porque estava entristecido por Davi, pois seu pai o havia desonrado. ^v34
 
-**35** E aconteceu, pela manhã, que Jônatas saiu ao campo, ao tempo que tinha ajustado com Davi, e um moço pequeno com ele. ^v35
+**35** Pela manhã, Jônatas foi para o campo encontrar-se com Davi, e um jovem rapaz estava com ele. ^v35
 
-**36** Então disse ao seu moço: Corre a buscar as flechas que eu atirar. Correu, pois, o moço, e ele atirou uma flecha, que fez passar além dele. ^v36
+**36** "E disse ao jovem rapaz: ""Corre e encontra as flechas que eu lancei"". Enquanto o jovem rapaz corria, ele lançou uma flecha para além dele." ^v36
 
-**37** E, chegando o moço ao lugar da flecha que Jônatas tinha atirado, gritou Jônatas atrás do moço, e disse: Não está porventura a flecha mais para lá de ti? ^v37
+**37** "Quando o jovem rapaz chegou ao local onde as flechas caíram, Jônatas chamou o jovem rapaz e lhe perguntou: ""A flecha não está para lá de ti?""." ^v37
 
-**38** E tornou Jônatas a gritar atrás do moço: Apressa-te, corre, não te demores. E o moço de Jônatas apanhou as flechas, e veio a seu senhor. ^v38
+**38** "E Jônatas gritou para o jovem rapaz: ""Corre! Sê rápido! Não fique!"". Então, o jovem rapaz recolheu as flechas e voltou para o seu senhor." ^v38
 
-**39** E o moço não entendeu coisa alguma; só Jônatas e Davi sabiam deste negócio. ^v39
+**39** Mas ele não sabia de nada. Somente Jônatas e Davi sabiam do assunto. ^v39
 
-**40** Então Jônatas deu as suas armas ao moço que trazia, e disse-lhe: Anda, e leva-as à cidade. ^v40
+**40** "Jônatas deu suas armas ao jovem rapaz e disse-lhe: ""Vai, leva-as até a cidade""." ^v40
 
-**41** E, indo-se o moço, levantou-se Davi do lado do sul, e lançou-se sobre o seu rosto em terra, e inclinou-se três vezes; e beijaram-se um ao outro, e choraram juntos, mas Davi chorou muito mais. ^v41
+**41** Assim que o jovem rapaz partiu, Davi ficou em pé no lado do sul, prostou seu rosto no chão, e curvou-se três vezes. Eles se beijaram e lamentaram-se, mas Davi lamentava-se mais. ^v41
 
-**42** E disse Jônatas a Davi: Vai-te em paz; o que nós temos jurado ambos em nome do Senhor, dizendo: O Senhor seja entre mim e ti, e entre a minha descendência e a tua descendência, seja perpetuamente. ^v42
-
-**43** Então se levantou Davi, e partiu; e Jônatas entrou na cidade. ^v43
+**42** "Jônatas disse a Davi: ""Vai em paz, porque juramos em nome de Yahweh, dizendo: 'Que Yahweh esteja entre mim e ti, e entre os meus e os teus descendentes para sempre"". Então, Davi levantou-se e partiu, e Jônatas retornou para a cidade." ^v42

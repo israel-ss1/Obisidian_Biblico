@@ -1,29 +1,28 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Zacarias|Zacarias]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Zacarias|Zacarias]]"
+tags: [biblia]
 ---
 
 # Zacarias 5
 
-**1** E outra vez levantei os meus olhos, e vi, e eis um rolo volante. ^v1
+**1** Depois, virei-me e levantei os meus olhos, e vi um pergaminho que voava! ^v1
 
-**2** E disse-me o anjo: Que vês? E eu disse: Vejo um rolo volante, que tem vinte côvados de comprido e dez côvados de largo. ^v2
+**2** "O anjo disse para mim: ""O que vês?"". Eu respondi: ""Vejo um pergaminho voando, de vinte côvados de comprimento e dez côvados de largura""." ^v2
 
-**3** Então disse-me: Esta é a maldição que sairá pela face de toda a terra; porque qualquer que furtar será desarraigado, conforme está estabelecido de um lado do rolo; como também qualquer que jurar falsamente, será desarraigado, conforme está estabelecido do outro lado do rolo. ^v3
+**3** "Então, ele me disse: ""Esta é a maldição que sairá pela face de toda terra: todo ladrão será expulso, conforme a maldição que foi dita, por um lado, e todos aqueles que juram falsamente serão eliminados com base no que foi dito, por outro lado, de acordo com suas palavras." ^v3
 
-**4** Eu a farei sair, disse o Senhor dos Exércitos, e ela entrará na casa do ladrão, e na casa do que jurar falsamente pelo meu nome; e permanecerá no meio da sua casa, e a consumirá juntamente com a sua madeira e com as suas pedras. ^v4
+**4** "Eu os lançarei fora, esta é a declaração de Yahweh dos Exércitos; assim, estes entrarão dentro da casa do ladrão e na casa daquele que jura falsamente pelo Meu nome. E ela permanecerá na sua casa e consumirá sua madeira e suas pedras""." ^v4
 
-**5** E saiu o anjo, que falava comigo, e disse-me: Levanta agora os teus olhos, e vê que é isto que sai. ^v5
+**5** "O anjo que falava comigo saiu e me disse: ""Levanta teus olhos e vê o que está vindo!""." ^v5
 
-**6** E eu disse: Que é isto? E ele disse: Isto é um efa que sai. Disse ainda: Este é o aspecto deles em toda a terra. ^v6
+**6** "Eu disse: ""O que é isto?"". Ele respondeu: ""É um cesto contendo uma efa, que está vindo. Estas são suas iniquidades em toda a terra"". [Algumas versões antigas e a maioria das modernas trazem ""suas iniquidades"". O texto hebraico traz ""seu olho"", mas é amplamente considerado um erro.]" ^v6
 
-**7** E eis que foi levantado um talento de chumbo, e uma mulher estava assentada no meio do efa. ^v7
+**7** Então, a tampa de chumbo que cobria foi levantada do cesto e, dentro dele, havia uma mulher sentada. ^v7
 
-**8** E ele disse: Esta é a impiedade. E a lançou dentro do efa; e lançou sobre a boca deste o peso de chumbo. ^v8
+**8** "O anjo disse: ""Esta é a impiedade!"". E a lançou de volta dentro do cesto, e pôs a tampa de chumbo sobre o cesto aberto." ^v8
 
-**9** E levantei os meus olhos, e vi, e eis que saíram duas mulheres; e traziam vento nas suas asas, pois tinham asas como as da cegonha; e levantaram o efa entre a terra e o céu. ^v9
+**9** Levantei meus olhos e eis que vi duas mulheres vindo em minha direção; o vento estava sobre suas asas; elas tinham asas como asas de cegonha. E levantaram o cesto entre a terra e os céus. ^v9
 
-**10** Então eu disse ao anjo que falava comigo: Para onde levam elas o efa? ^v10
+**10** "Então, eu disse ao anjo que falava comigo: ""Para onde estão levando o cesto?""." ^v10
 
-**11** E ele me disse: Para lhe edificarem uma casa na terra de Sinar; e, estando ela acabada, ele será posto ali na sua base. ^v11
+**11** "Ele me disse: ""Para edificar o templo na terra de Sinar, pois, estando o templo pronto, o cesto será posto no lugar preparado para ela""." ^v11

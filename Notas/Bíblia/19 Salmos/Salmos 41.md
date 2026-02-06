@@ -1,33 +1,30 @@
 ---
-Livro: "[[Salmos|Salmos]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Salmos|Salmos]]"
+tags: [biblia]
 ---
 
 # Salmos 41
 
-**1** Bem-aventurado é aquele que atende ao pobre; o SENHOR o livrará no dia do mal. ^v1
+**2** Yahweh o preservará e o manterá vivo, e ele será abençoado na terra; Yahweh não o entregará ao desejo dos seus inimigos. ^v2
 
-**2** O Senhor o livrará, e o conservará em vida; será abençoado na terra, e tu não o entregarás à vontade de seus inimigos. ^v2
+**3** Yahweh lhe dará suporte no leito de sofrimento; Tu farás do seu leito de doença um leito de cura. ^v3
 
-**3** O Senhor o sustentará no leito da enfermidade; tu o restaurarás da sua cama de doença. ^v3
+**4** "Eu disse: “Yahweh, tem misericórdia de mim! Cura-me, porque eu pequei contra Ti.""" ^v4
 
-**4** Dizia eu: Senhor, tem piedade de mim; sara a minha alma, porque pequei contra ti. ^v4
+**5** Meus inimigos falam mal de mim, dizendo: “Quando morrerá e perecerá o seu nome?” ^v5
 
-**5** Os meus inimigos falam mal de mim, dizendo: Quando morrerá ele, e perecerá o seu nome? ^v5
+**6** Se meu inimigo vem me ver, ele diz coisas inúteis; seu coração investiga a minha situação de calamidade e, quando vai embora, ele revela para outros a minha situação. ^v6
 
-**6** E, se algum deles vem me ver, fala coisas vãs; no seu coração amontoa a maldade; saindo para fora, é disso que fala. ^v6
+**7** Os que me odeiam juntam-se e cochicham a meu respeito; esperam que o mal venha sobre mim. ^v7
 
-**7** Todos os que me odeiam murmuram à uma contra mim; contra mim imaginam o mal, dizendo: ^v7
+**8** "Eles dizem: ""Uma doença horrível veio fortemente sobre ele; agora que ele está prostrado, não se levantará mais.""" ^v8
 
-**8** Uma doença má se lhe tem apegado; e agora que está deitado, não se levantará mais. ^v8
+**9** Na verdade, até o meu amigo mais íntimo, em quem eu confiava, que comia do meu pão, levantou seu calcanhar contra mim. ^v9
 
-**9** Até o meu próprio amigo íntimo, em quem eu tanto confiava, que comia do meu pão, levantou contra mim o seu calcanhar. ^v9
+**10** Mas Tu, Yahweh, tem misericórdia de mim e me levanta, para que eu lhes retribua. ^v10
 
-**10** Porém tu, Senhor, tem piedade de mim, e levanta-me, para que eu lhes dê o pago. ^v10
+**11** Nisto sei que Tu tens prazer em mim, que meus inimigos não triunfem sobre mim. ^v11
 
-**11** Por isto conheço eu que tu me favoreces: que o meu inimigo não triunfa de mim. ^v11
+**12** Quanto a mim, Tu me sustentas em minha integridade e me manténs diante de Tua face para sempre. ^v12
 
-**12** Quanto a mim, tu me sustentas na minha sinceridade, e me puseste diante da tua face para sempre. ^v12
-
-**13** Bendito seja o Senhor Deus de Israel de século em século. Amém e Amém. ^v13
+**13** Que Yahweh, o Deus de Israel, seja louvado de eternidade em eternidade. Amém e Amém! ^v13

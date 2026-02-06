@@ -1,25 +1,22 @@
 ---
-Livro: "[[Salmos|Salmos]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Salmos|Salmos]]"
+tags: [biblia]
 ---
 
 # Salmos 47
 
-**1** Batei palmas, todos os povos; aclamai a Deus com voz de triunfo. ^v1
+**2** Porque Yahweh, o Altíssimo, é tremendo! Ele é o grande Rei sobre toda a terra. ^v2
 
-**2** Porque o Senhor Altíssimo é tremendo, e Rei grande sobre toda a terra. ^v2
+**3** Ele subjuga os povos a nós, e põe as nações sob nossos pés. ^v3
 
-**3** Ele nos subjugará os povos e as nações debaixo dos nossos pés. ^v3
+**4** Ele escolheu para nós uma herança, a glória de Jacó, a quem Ele amou. [Interlúdio] ^v4
 
-**4** Escolherá para nós a nossa herança, a glória de Jacó, a quem amou. (Selá.) ^v4
+**5** Deus subiu em meio às aclamações, Yahweh Se elevou ao som de trombetas. ^v5
 
-**5** Deus subiu com júbilo, o Senhor subiu ao som de trombeta. ^v5
+**6** Cantai louvores a Deus, cantai louvores! Cantai louvores ao nosso Rei, cantai louvores! ^v6
 
-**6** Cantai louvores a Deus, cantai louvores; cantai louvores ao nosso Rei, cantai louvores. ^v6
+**7** Porque Deus é Rei sobre toda a terra; cantai louvores com entendimento. ^v7
 
-**7** Pois Deus é o Rei de toda a terra, cantai louvores com inteligência. ^v7
+**8** Deus reina sobre as nações; Deus se assenta em Seu santo trono. ^v8
 
-**8** Deus reina sobre os gentios; Deus se assenta sobre o trono da sua santidade. ^v8
-
-**9** Os príncipes do povo se ajuntam, o povo do Deus de Abraão; porque os escudos da terra são de Deus. Ele está muito elevado! ^v9
+**9** Os príncipes dos povos se uniram ao povo do Deus de Abraão, pois os escudos da terra pertencem a Deus. Ele é grandemente exaltado! ^v9

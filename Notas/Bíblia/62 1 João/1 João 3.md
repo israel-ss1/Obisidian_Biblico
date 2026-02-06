@@ -1,55 +1,54 @@
 ---
-Livro: "[[1 João|1 João]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/1 João|1 João]]"
+tags: [biblia]
 ---
 
 # 1 João 3
 
-**1** Vede quão grande amor nos tem concedido o Pai, que fôssemos chamados filhos de Deus. Por isso o mundo não nos conhece; porque não o conhece a ele. ^v1
+**1** Vede que tipo de amor o Pai nos concedeu, para que fôssemos chamados filhos de Deus. Por esta razão, o mundo não nos conhece, porque não O conheceu. ^v1
 
-**2** Amados, agora somos filhos de Deus, e ainda não é manifestado o que havemos de ser. Mas sabemos que, quando ele se manifestar, seremos semelhantes a ele; porque assim como é o veremos. ^v2
+**2** Amados, agora somos filhos de Deus, mas ainda não foi revelado o que iremos ser. Porém sabemos que, quando Cristo aparecer, nós seremos como Ele, porque O veremos como Ele é. ^v2
 
-**3** E qualquer que nele tem esta esperança purifica-se a si mesmo, como também ele é puro. ^v3
+**3** E todo aquele que Nele tem essa esperança purifique-se como Ele é Puro. ^v3
 
-**4** Qualquer que comete pecado, também comete iniqüidade; porque o pecado é iniqüidade. ^v4
+**4** Todo aquele que comete pecado transgride a Lei, pois o pecado é a transgressão da Lei. ^v4
 
-**5** E bem sabeis que ele se manifestou para tirar os nossos pecados; e nele não há pecado. ^v5
+**5** Também sabeis que Cristo foi revelado com o propósito de tirar os pecados. E Nele não há pecado. ^v5
 
-**6** Qualquer que permanece nele não peca; qualquer que peca não o viu nem o conheceu. ^v6
+**6** Ninguém que permanece Nele continua pecando; qualquer que continua pecando não O viu nem O conheceu. ^v6
 
-**7** Filhinhos, ninguém vos engane. Quem pratica justiça é justo, assim como ele é justo. ^v7
+**7** Queridos filhos, não deixeis que ninguém vos desvie. Aquele que pratica a justiça é justo, como Cristo é Justo. ^v7
 
-**8** Quem comete o pecado é do diabo; porque o diabo peca desde o princípio. Para isto o Filho de Deus se manifestou: para desfazer as obras do diabo. ^v8
+**8** Aquele que pratica o pecado é do diabo, porque o diabo peca desde o princípio. Por esta razão, o Filho de Deus foi revelado, para que Ele possa destruir as obras do diabo. ^v8
 
-**9** Qualquer que é nascido de Deus não comete pecado; porque a sua semente permanece nele; e não pode pecar, porque é nascido de Deus. ^v9
+**9** Aquele que é nascido de Deus não pratica o pecado, pois a semente de Deus permanece nele. E ele não pode continuar no pecado, porque ele é nascido de Deus. ^v9
 
-**10** Nisto são manifestos os filhos de Deus, e os filhos do diabo. Qualquer que não pratica a justiça, e não ama a seu irmão, não é de Deus. ^v10
+**10** Nisto os filhos de Deus e os filhos do diabo são revelados, quem não pratica a justiça não é de Deus, nem aquele que não ama seu irmão. ^v10
 
-**11** Porque esta é a mensagem que ouvistes desde o princípio: que nos amemos uns aos outros. ^v11
+**11** Porque esta é a mensagem que tendes ouvido desde o princípio: que devemos amar uns aos outros, ^v11
 
-**12** Não como Caim, que era do maligno, e matou a seu irmão. E por que causa o matou? Porque as suas obras eram más e as de seu irmão justas. ^v12
+**12** não como Caim, que era do maligno e matou seu irmão. E por que o matou? Porque suas obras eram más, e as de seu irmão eram justas. ^v12
 
-**13** Meus irmãos, não vos maravilheis, se o mundo vos odeia. ^v13
+**13** Não vos admireis, meus irmãos, se o mundo vos odeia. ^v13
 
-**14** Nós sabemos que passamos da morte para a vida, porque amamos os irmãos. Quem não ama a seu irmão permanece na morte. ^v14
+**14** Nós sabemos que passamos da morte para a vida, porque amamos os irmãos. Aquele que não ama permanece na morte. ^v14
 
-**15** Qualquer que odeia a seu irmão é homicida. E vós sabeis que nenhum homicida tem a vida eterna permanecendo nele. ^v15
+**15** Aquele que odeia seu irmão é assassino, e sabeis que nenhum assassino tem vida eterna permanente em si mesmo. ^v15
 
-**16** Conhecemos o amor nisto: que ele deu a sua vida por nós, e nós devemos dar a vida pelos irmãos. ^v16
+**16** Por isso nós conhecemos o amor, porque Cristo deu a Sua vida por nós. Nós também devemos dar as nossas vidas pelos nossos irmãos. ^v16
 
-**17** Quem, pois, tiver bens do mundo, e, vendo o seu irmão necessitado, lhe cerrar as suas entranhas, como estará nele o amor de Deus? ^v17
+**17** Mas qualquer que tiver bens materiais e, vendo seu irmão com necessidades, fechar o seu coração para ele, como permanecerá nele o amor de Deus? ^v17
 
-**18** Meus filhinhos, não amemos de palavra, nem de língua, mas por obra e em verdade. ^v18
+**18** Meus queridos filhos, não amemos só de palavra nem de língua, mas em ações e em verdade. ^v18
 
-**19** E nisto conhecemos que somos da verdade, e diante dele asseguraremos nossos corações; ^v19
+**19** Por isso sabemos que somos da verdade e asseguramos nossos corações diante Dele. ^v19
 
-**20** Sabendo que, se o nosso coração nos condena, maior é Deus do que o nosso coração, e conhece todas as coisas. ^v20
+**20** Porque, se nossos corações nos condenam, Deus é maior que nosso coração e sabe todas as coisas. ^v20
 
-**21** Amados, se o nosso coração não nos condena, temos confiança para com Deus; ^v21
+**21** Amados, se nossos corações não nos condenarem, temos confiança diante de Deus. ^v21
 
-**22** E qualquer coisa que lhe pedirmos, dele a receberemos, porque guardamos os seus mandamentos, e fazemos o que é agradável à sua vista. ^v22
+**22** E tudo o que pedimos nós recebemos Dele, porque guardamos os Seus mandamentos e fazemos as coisas que Lhe agradam. ^v22
 
-**23** E o seu mandamento é este: que creiamos no nome de seu Filho Jesus Cristo, e nos amemos uns aos outros, segundo o seu mandamento. ^v23
+**23** E este é o Seu mandamento: que creiamos no nome do Seu Filho, Jesus Cristo, e nos amemos uns aos outros, assim como Ele nos ordenou. ^v23
 
-**24** E aquele que guarda os seus mandamentos nele está, e ele nele. E nisto conhecemos que ele está em nós, pelo Espírito que nos tem dado. ^v24
+**24** Aquele que guarda os mandamentos permanece em Deus, e Deus permanece nele. E, por isso, nós sabemos que Ele permanece em nós, pelo Espírito que Ele nos deu. ^v24

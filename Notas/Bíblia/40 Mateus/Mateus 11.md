@@ -1,67 +1,66 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Mateus|Mateus]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Mateus|Mateus]]"
+tags: [biblia]
 ---
 
 # Mateus 11
 
-**1** E aconteceu que, acabando Jesus de dar instruções aos seus doze discípulos, partiu dali a ensinar e a pregar nas cidades deles. ^v1
+**1** Quando Jesus terminou de instruir os doze discípulos, partiu dali para ensinar e pregar nas cidades deles. ^v1
 
-**2** E João, ouvindo no cárcere falar dos feitos de Cristo, enviou dois dos seus discípulos, ^v2
+**2** João, ao ouvir na prisão sobre os feitos de Jesus, enviou uma mensagem por meio dos seus discípulos ^v2
 
-**3** A dizer-lhe: És tu aquele que havia de vir, ou esperamos outro? ^v3
+**3** "e disse-Lhe: ""Tu És o que estava por vir, ou há outra pessoa que devemos esperar?""" ^v3
 
-**4** E Jesus, respondendo, disse-lhes: Ide, e anunciai a João as coisas que ouvis e vedes: ^v4
+**4** "Jesus respondeu-lhes: ""Ide e anunciai a João o que vedes e ouvis:" ^v4
 
-**5** Os cegos vêem, e os coxos andam; os leprosos são limpos, e os surdos ouvem; os mortos são ressuscitados, e aos pobres é anunciado o evangelho. ^v5
+**5** cegos recebem a vista, coxos andam, leprosos são purificados, surdos ouvem, mortos são trazidos de volta à vida, e aos necessitados são anunciadas as boas novas. ^v5
 
-**6** E bem-aventurado é aquele que não se escandalizar em mim. ^v6
+**6** "E abençoado é aquele que não encontra motivo de tropeço em Mim""." ^v6
 
-**7** E, partindo eles, começou Jesus a dizer às turbas, a respeito de João: Que fostes ver no deserto? uma cana agitada pelo vento? ^v7
+**7** "Enquanto eles iam por seu caminho, Jesus começou a dizer às multidões sobre João: ""O que fostes ver no deserto? Uma cana sendo balançada pelo vento?" ^v7
 
-**8** Sim, que fostes ver? um homem ricamente vestido? Os que trajam ricamente estão nas casas dos reis. ^v8
+**8** O que fostes ver? Um homem vestido com roupas finas? Na verdade, aqueles que vestem roupas finas vivem em casas de reis. ^v8
 
-**9** Mas, então que fostes ver? um profeta? Sim, vos digo eu, e muito mais do que profeta; ^v9
+**9** Mas, o que fostes ver? Um profeta? Sim, Eu vos digo: muito mais que profeta. ^v9
 
-**10** Porque é este de quem está escrito:Eis que diante da tua face envio o meu anjo,que preparará diante de ti o teu caminho. ^v10
+**10** Este é aquele sobre quem está escrito: 'Vê, Eu estou enviando Meu mensageiro diante da tua face, o qual irá preparar o caminho diante de ti'. ^v10
 
-**11** Em verdade vos digo que, entre os que de mulher têm nascido, não apareceu alguém maior do que João o Batista; mas aquele que é o menor no reino dos céus é maior do que ele. ^v11
+**11** Em verdade vos digo: entre os nascidos de mulher, ninguém é maior do que João Batista; porém a pessoa menos importante no Reino dos Céus é maior do que ele. ^v11
 
-**12** E, desde os dias de João o Batista até agora, se faz violência ao reino dos céus, e pela força se apoderam dele. ^v12
+**12** Desde os dias de João Batista até hoje, o Reino dos Céus sofre violência, e homens que se utilizam de violência o tomam à força. ^v12
 
-**13** Porque todos os profetas e a lei profetizaram até João. ^v13
+**13** Pois todos os profetas e a lei profetizaram até João. ^v13
 
-**14** E, se quereis dar crédito, é este o Elias que havia de vir. ^v14
+**14** E, se vós quereis aceitar isso, este é Elias, o que havia de vir. ^v14
 
-**15** Quem tem ouvidos para ouvir, ouça. ^v15
+**15** Aquele que tiver ouvidos para ouvir ouça. ^v15
 
-**16** Mas, a quem assemelharei esta geração? É semelhante aos meninos que se assentam nas praças, e clamam aos seus companheiros, ^v16
+**16** A que devo comparar esta geração? É como crianças brincando no mercado, que sentam e chamam uns aos outros ^v16
 
-**17** E dizem: Tocamo-vos flauta, e não dançastes; cantamo-vos lamentações, e não chorastes. ^v17
+**17** e dizem: 'Nós tocamos flauta a vós, e não dançastes. Nós lamentamos, e não pranteastes'. ^v17
 
-**18** Porquanto veio João, não comendo nem bebendo, e dizem: Tem demônio. ^v18
+**18** Pois veio João, não comendo, nem bebendo, e eles disseram: 'Ele tem demônio'. ^v18
 
-**19** Veio o Filho do homem, comendo e bebendo, e dizem: Eis aí um homem comilão e beberrão, amigo dos publicanos e pecadores. Mas a sabedoria é justificada por seus filhos. ^v19
+**19** O Filho do Homem veio comendo e bebendo, e eles disseram: 'Olhem, Ele é um homem glutão e um beberrão, um amigo de coletores de impostos e de pecadores! Todavia a sabedoria é justificada por suas obras'. ^v19
 
-**20** Então começou ele a lançar em rosto às cidades onde se operou a maior parte dos seus prodígios o não se haverem arrependido, dizendo: ^v20
+**20** Então Jesus começou a repreender as cidades onde a maioria de seus milagres foram realizados, porque elas não se arrependeram. ^v20
 
-**21** Ai de ti, Corazim! ai de ti, Betsaida! porque, se em Tiro e em Sidom fossem feitos os prodígios que em vós se fizeram, há muito que se teriam arrependido, com saco e com cinza. ^v21
+**21** """Ai de ti, Corazim! Ai de ti, Betsaida! Se os milagres que foram realizados em vós fossem realizados em Tiro e Sidom, eles teriam se arrependido há muito tempo com roupas de saco e cinza." ^v21
 
-**22** Por isso eu vos digo que haverá menos rigor para Tiro e Sidom, no dia do juízo, do que para vós. ^v22
+**22** Porém haverá mais tolerância para Tiro e Sidom no dia do julgamento do que para vós. ^v22
 
-**23** E tu, Cafarnaum, que te ergues até ao céu, serás abatida até ao inferno; porque, se em Sodoma tivessem sido feitos os prodígios que em ti se operaram, teria ela permanecido até hoje. ^v23
+**23** Tu, Cafarnaum, serás exaltada ao céu? Não! Serás lançada para baixo, ao inferno; pois, se em Sodoma se realizassem os milagres que foram realizados em ti, ela teria permanecido até hoje. ^v23
 
-**24** Eu vos digo, porém, que haverá menos rigor para os de Sodoma, no dia do juízo, do que para ti. ^v24
+**24** "Mas Eu te digo que será mais fácil para a terra de Sodoma, no dia do juízo, do que para ti""." ^v24
 
-**25** Naquele tempo, respondendo Jesus, disse: Graças te dou, ó Pai, Senhor do céu e da terra, que ocultaste estas coisas aos sábios e entendidos, e as revelaste aos pequeninos. ^v25
+**25** "Naquele momento, Jesus disse: ""Eu Te louvo, Pai, Senhor do céu e da terra, pois ocultaste estas coisas aos sábios e entendidos, e as revelastes às criancinhas." ^v25
 
-**26** Sim, ó Pai, porque assim te aprouve. ^v26
+**26** Sim, Pai, pois assim foi do Teu agrado. ^v26
 
-**27** Todas as coisas me foram entregues por meu Pai, e ninguém conhece o Filho, senão o Pai; e ninguém conhece o Pai, senão o Filho, e aquele a quem o Filho o quiser revelar. ^v27
+**27** Todas as coisas foram confiadas a Mim por Meu Pai, e ninguém conhece o Filho, exceto o Pai, e ninguém conhece o Pai, exceto o Filho e aquele a quem o Filho desejar revelar. ^v27
 
-**28** Vinde a mim, todos os que estais cansados e oprimidos, e eu vos aliviarei. ^v28
+**28** Vinde a Mim todos os que estais cansados e sobrecarregados, e Eu vos darei descanso. ^v28
 
-**29** Tomai sobre vós o meu jugo, e aprendei de mim, que sou manso e humilde de coração; e encontrareis descanso para as vossas almas. ^v29
+**29** Tomai o Meu jugo sobre vós e aprendei de Mim, pois Sou manso e humilde de coração, e encontrareis descanso para as vossas almas, ^v29
 
-**30** Porque o meu jugo é suave e o meu fardo é leve. ^v30
+**30** "porque o meu jugo é suave e a minha carga é leve""." ^v30

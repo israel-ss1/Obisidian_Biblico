@@ -1,41 +1,38 @@
 ---
-Livro: "[[Salmos|Salmos]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Salmos|Salmos]]"
+tags: [biblia]
 ---
 
 # Salmos 90
 
-**1** SENHOR, tu tens sido o nosso refúgio, de geração em geração. ^v1
+**2** Antes das montanhas serem formadas, ou antes de formaste a terra e o mundo, de eternidade a eternidade, Tu és Deus. ^v2
 
-**2** Antes que os montes nascessem, ou que tu formasses a terra e o mundo, mesmo de eternidade a eternidade, tu és Deus. ^v2
+**3** "Tu fazes o homem retornar ao pó, e dizes: ""Voltai, vós, filhos dos homens.""" ^v3
 
-**3** Tu reduzes o homem à destruição; e dizes: Tornai-vos, filhos dos homens. ^v3
+**4** Pois, para Ti, mil anos são como o dia de ontem que passou, e como uma vigília da noite. ^v4
 
-**4** Porque mil anos são aos teus olhos como o dia de ontem que passou, e como a vigília da noite. ^v4
+**5** Tu os varres como uma inundação e eles adormecem; pela manhã, eles são como a grama que brota. ^v5
 
-**5** Tu os levas como uma corrente de água; são como um sono; de manhã são como a erva que cresce. ^v5
+**6** Pela manhã, ela brota e cresce; à tarde, ela murcha e seca. ^v6
 
-**6** De madrugada floresce e cresce; à tarde corta-se e seca. ^v6
+**7** Na verdade, somos consumidos pela Tua ira, e na Tua fúria ficamos aterrorizados. ^v7
 
-**7** Pois somos consumidos pela tua ira, e pelo teu furor somos angustiados. ^v7
+**8** Tu colocaste nossas iniquidades diante de Ti; nossos ocultos pecados, na luz da Tua presença. ^v8
 
-**8** Diante de ti puseste as nossas iniqüidades, os nossos pecados ocultos, à luz do teu rosto. ^v8
+**9** Nossa vida passa sob a Tua fúria; nossos anos se vão rapidamente, como um suspiro. ^v9
 
-**9** Pois todos os nossos dias vão passando na tua indignação; passamos os nossos anos como um conto que se conta. ^v9
+**10** Nossos anos chegam a setenta ou, se formos saudáveis, a oitenta, mas até mesmo nossos melhores anos são marcados por aflições e tristeza. Sim, eles passam rapidamente e nós voamos. ^v10
 
-**10** Os dias da nossa vida chegam a setenta anos, e se alguns, pela sua robustez, chegam a oitenta anos, o orgulho deles é canseira e enfado, pois cedo se corta e vamos voando. ^v10
+**11** Quem conhece a intensidade da Tua ira e a Tua fúria, conforme o temor que ela incita? ^v11
 
-**11** Quem conhece o poder da tua ira? Segundo és tremendo, assim é o teu furor. ^v11
+**12** Então, ensina-nos a considerar nossa vida, de modo que vivamos sabiamente. ^v12
 
-**12** Ensina-nos a contar os nossos dias, de tal maneira que alcancemos corações sábios. ^v12
+**13** Volta-te, Yahweh! Até quando? Tem compaixão dos Teus servos. ^v13
 
-**13** Volta-te para nós, Senhor; até quando? Aplaca-te para com os teus servos. ^v13
+**14** Pela manhã, satisfaz-nos com Tua fidelidade para que nos regozijemos e nos alegremos todos os nossos dias. ^v14
 
-**14** Farta-nos de madrugada com a tua benignidade, para que nos regozijemos, e nos alegremos todos os nossos dias. ^v14
+**15** Alegra-nos pelos dias que nos afligiste e pelos anos em que sofremos. ^v15
 
-**15** Alegra-nos pelos dias em que nos afligiste, e pelos anos em que vimos o mal. ^v15
+**16** Que os Teus servos vejam o Teu trabalho e que as nossas crianças vejam a Tua majestade. ^v16
 
-**16** Apareça a tua obra aos teus servos, e a tua glória sobre seus filhos. ^v16
-
-**17** E seja sobre nós a formosura do Senhor nosso Deus, e confirma sobre nós a obra das nossas mãos; sim, confirma a obra das nossas mãos. ^v17
+**17** Que a graça do Senhor, nosso Deus, seja sobre nós e faça prosperar o trabalho de nossas mãos; sim, que faça prosperar a obra das nossas mãos. ^v17

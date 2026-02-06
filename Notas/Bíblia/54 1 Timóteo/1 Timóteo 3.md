@@ -1,39 +1,38 @@
 ---
-Livro: "[[1 Timóteo|1 Timóteo]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/1 Timóteo|1 Timóteo]]"
+tags: [biblia]
 ---
 
 # 1 Timóteo 3
 
-**1** Esta é uma palavra fiel: se alguém deseja o episcopado, excelente obra deseja. ^v1
+**1** Esta afirmação é digna de confiança: se alguém deseja ser um bispo, deseja um bom trabalho. ^v1
 
-**2** Convém, pois, que o bispo seja irrepreensível, marido de uma mulher, vigilante, sóbrio, honesto, hospitaleiro, apto para ensinar; ^v2
+**2** Portanto o bispo deve ser irrepreensível, marido de uma só mulher, moderado, sensível, respeitável, hospitaleiro, apto para ensinar. ^v2
 
-**3** Não dado ao vinho, não espancador, não cobiçoso de torpe ganância, mas moderado, não contencioso, não avarento; ^v3
+**3** Não deve ser dado ao vinho, nem briguento, ao invés disso, gentil e pacífico. Não deve ser apegado ao dinheiro. ^v3
 
-**4** Que governe bem a sua própria casa, tendo seus filhos em sujeição, com toda a modéstia ^v4
+**4** Deve governar bem o seu próprio lar, e seus filhos devem obedecê-lhe com todo o respeito. ^v4
 
-**5** (Porque, se alguém não sabe governar a sua própria casa, terá cuidado da igreja de Deus? ); ^v5
+**5** Pois se um homem não sabe como governar bem o seu próprio lar, como cuidará da igreja de Deus? ^v5
 
-**6** Não neófito, para que, ensoberbecendo-se, não caia na condenação do diabo. ^v6
+**6** Ele não deve ser um novo convertido, para que não se torne orgulhoso e caia em condenação como o diabo caiu. ^v6
 
-**7** Convém também que tenha bom testemunho dos que estão de fora, para que não caia em afronta, e no laço do diabo. ^v7
+**7** Também deve ter uma boa reputação com os de fora, a fim de não cair em desgraça e na armadilha do diabo. ^v7
 
-**8** Da mesma sorte os diáconos sejam honestos, não de língua dobre, não dados a muito vinho, não cobiçosos de torpe ganância; ^v8
+**8** Os diáconos, igualmente, devem ser respeitáveis, de uma só palavra. Não devem beber muito vinho, nem serem avarentos. ^v8
 
-**9** Guardando o mistério da fé numa consciência pura. ^v9
+**9** Devem manter o mistério da fé com uma consciência limpa. ^v9
 
-**10** E também estes sejam primeiro provados, depois sirvam, se forem irrepreensíveis. ^v10
+**10** Eles também devem ser aprovados primeiro e, só então, devem servir porque são irrepreensíveis. ^v10
 
-**11** Da mesma sorte as esposas sejam honestas, não maldizentes, sóbrias e fiéis em tudo. ^v11
+**11** As mulheres, do mesmo modo, devem ser respeitáveis. Não devem ser caluniadoras, mas moderadas e fiéis em todas as coisas. ^v11
 
-**12** Os diáconos sejam maridos de uma só mulher, e governem bem a seus filhos e suas próprias casas. ^v12
+**12** Os diáconos devem ser maridos de uma só mulher e governar bem os seus filhos e a sua casa. ^v12
 
-**13** Porque os que servirem bem como diáconos, adquirirão para si uma boa posição e muita confiança na fé que há em Cristo Jesus. ^v13
+**13** Pois aqueles que servem bem, alcançam para si mesmos uma boa reputação e uma grande confiança na fé que está em Cristo Jesus. ^v13
 
-**14** Escrevo-te estas coisas, esperando ir ver-te bem depressa; ^v14
+**14** Escrevo-te essas coisas esperando ir visitar-te em breve, ^v14
 
-**15** Mas, se tardar, para que saibas como convém andar na casa de Deus, que é a igreja do Deus vivo, a coluna e firmeza da verdade. ^v15
+**15** mas, se me atrasar, saberás como proceder na casa de Deus, que é a igreja do Deus vivo, coluna e suporte da verdade. ^v15
 
-**16** E, sem dúvida alguma, grande é o mistério da piedade: Deus se manifestou em carne, foi justificado no Espírito, visto dos anjos, pregado aos gentios, crido no mundo, recebido acima na glória. ^v16
+**16** "Não se pode negar que é grande o mistério da piedade: ""Ele foi manifestado na carne, justificado pelo Espírito, visto por anjos, proclamado entre as nações, crido no mundo e exaltado na glória""." ^v16

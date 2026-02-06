@@ -1,69 +1,68 @@
 ---
-Livro: "[[1 Samuel|1 Samuel]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/1 Samuel|1 Samuel]]"
+tags: [biblia]
 ---
 
 # 1 Samuel 30
 
-**1** Sucedeu, pois, que, chegando Davi e os seus homens ao terceiro dia a Ziclague, já os amalequitas tinham invadido o sul, e Ziclague, e tinham ferido a Ziclague e a tinham queimado a fogo. ^v1
+**1** E aconteceu que, quando Davi e os homens dele chegaram a Ziclague, no terceiro dia, os amalequitas haviam invadido Neguebe e Ziclague. Eles atacaram Ziclague, queimando-a; ^v1
 
-**2** E tinham levado cativas as mulheres, e todos os que estavam nela, tanto pequenos como grandes; a ninguém, porém, mataram, tão-somente os levaram consigo, e foram o seu caminho. ^v2
+**2** e capturaram as mulheres e todos os outros que estavam lá, do menor ao maior. Eles não mataram ninguém, mas os levaram para fora e seguiram seu caminho. ^v2
 
-**3** E Davi e os seus homens chegaram à cidade e eis que estava queimada a fogo, e suas mulheres, seus filhos e suas filhas tinham sido levados cativos. ^v3
+**3** Quando Davi e seus homens chegaram à cidade, ela estava queimada— e suas esposas, filhos e filhas foram levados cativos. ^v3
 
-**4** Então Davi e o povo que se achava com ele alçaram a sua voz, e choraram, até que neles não houve mais forças para chorar. ^v4
+**4** Então, Davi e o povo que estava com ele ergueram suas vozes e choraram até não terem mais forças. ^v4
 
-**5** Também as duas mulheres de Davi foram levadas cativas; Ainoã, a jizreelita, e Abigail, a mulher de Nabal, o carmelita. ^v5
+**5** As duas mulheres de Davi foram levadas, Ainoã a jezreelita e Abigail a esposa de Nabal, o carmelita. ^v5
 
-**6** E Davi muito se angustiou, porque o povo falava de apedrejá-lo, porque a alma de todo o povo estava em amargura, cada um por causa dos seus filhos e das suas filhas; todavia Davi se fortaleceu no Senhor seu Deus. ^v6
+**6** Davi estava em grande angústia, pois o povo estava falando sobre apedrejá-lo, porque o espírito de todos estava entristecido, cada homem pelos seus filhos e filhas; mas Davi fortaleceu-se em Yahweh, seu Deus ^v6
 
-**7** E disse Davi a Abiatar, o sacerdote, filho de Aimeleque: Traze-me, peço-te, aqui o éfode. E Abiatar trouxe o éfode a Davi. ^v7
+**7** "Davi disse a Abiatar filho de Aimeleque, o sacerdote: ""Eu te imploro, traze o manto sacerdotal aqui para mim"". Abiatar trouxe o manto sacerdotal a Davi." ^v7
 
-**8** Então consultou Davi ao Senhor, dizendo: Perseguirei eu a esta tropa? Alcançá-la-ei? E lhe disse: Persegue-a, porque decerto a alcançarás e tudo libertarás. ^v8
+**8** "Davi orou a Yahweh por uma direção, dizendo: ""Se eu perseguir a esse bando, os alcançarei?"". Yahweh respondeu: ""Persegue-os, pois tu certamente os alcançarás, e certamente irás recuperar tudo""." ^v8
 
-**9** Partiu, pois, Davi, ele e os seiscentos homens que com ele se achavam, e chegaram ao ribeiro de Besor, onde pararam os que ficaram atrás. ^v9
+**9** Então, Davi foi — ele e os seiscentos homens que estavam com ele; eles foram ao riacho de Besor, onde ficaram aqueles que foram deixados para trás. ^v9
 
-**10** E perseguiu-os Davi, ele e os quatrocentos homens, pois que duzentos homens ficaram, por não poderem, de cansados que estavam, passar o ribeiro de Besor. ^v10
+**10** Mas Davi continuou a perseguição, ele e quatrocentos homens, pois duzentos deles haviam ficado para trás — os que eram tão fracos que não podiam ir além do riacho de Besor. ^v10
 
-**11** E acharam no campo um homem egípcio, e o trouxeram a Davi; deram-lhe pão, e comeu, e deram-lhe a beber água. ^v11
+**11** Eles acharam um egípcio em um campo e o trouxeram a Davi; eles lhe deram pão, e ele comeu; e lhe deram água para beber; ^v11
 
-**12** Deram-lhe também um pedaço de massa de figos secos e dois cachos de passas, e comeu, e voltou-lhe o seu espírito, porque havia três dias e três noites que não tinha comido pão nem bebido água. ^v12
+**12** e eles lhe deram um pedaço de bolo de figos e duas porções de uvas passas. Quando ele comeu, retomou a força, pois não havia comido nem pão e nem bebido água por três dias e três noites. ^v12
 
-**13** Então Davi lhe disse: De quem és tu, e de onde és? E disse o moço egípcio: Sou servo de um homem amalequita, e meu senhor me deixou, porque adoeci há três dias. ^v13
+**13** "Davi lhe perguntou: ""A quem tu pertences? De onde vens?"". Ele disse: ""Eu sou um jovem homem do Egito, servo de um amalequita; meu mestre me deixou porque há três dias fiquei doente." ^v13
 
-**14** Nós invadimos o lado do sul dos queretitas, e o lado de Judá, e o lado do sul de Calebe, e pusemos fogo a Ziclague. ^v14
+**14** "Nós fizemos uma invasão no Neguebe dos queretitas, que pertence a Judá, e ao Neguebe de Calebe; e nós queimamos Ziclague""." ^v14
 
-**15** E disse-lhe Davi: Poderias, descendo, guiar-me a essa tropa? E disse-lhe: Por Deus jura-me que não me matarás, nem me entregarás na mão de meu senhor, e, descendo, te guiarei a essa tropa. ^v15
+**15** "Davi lhe disse: "" Irás me levar aos invasores"".O egípcio respondeu: ""Jura por Deus que não me matarás ou trairás, nem me mandarás para as mãos de meu mestre, e te levarei aos invasores""." ^v15
 
-**16** E, descendo, o guiou e eis que estavam espalhados sobre a face de toda a terra, comendo, e bebendo, e dançando, por todo aquele grande despojo que tomaram da terra dos filisteus e da terra de Judá. ^v16
+**16** Quando o egípcio levou Davi, os invasores estavam espalhados por todo o campo, comendo e bebendo, e dançando, por causa de todos os despojos que haviam pegado na terra dos filisteus e na terra de Judá. ^v16
 
-**17** E feriu-os Davi, desde o crepúsculo até à tarde do dia seguinte; nenhum deles escapou, senão só quatrocentos moços que, montados sobre camelos, fugiram. ^v17
+**17** Davi os atacou desde o crepúsculo até a tarde do dia seguinte. Nenhum homem escapou, exceto quatrocentos deles, que fugiram montados em camelos. ^v17
 
-**18** Assim salvou Davi tudo quanto tomaram os amalequitas; também as suas duas mulheres salvou Davi. ^v18
+**18** Davi recuperou tudo o que os amalequitas levaram e resgatou suas duas esposas. ^v18
 
-**19** E ninguém lhes faltou, desde o menor até ao maior, e até os filhos e as filhas; e também desde o despojo até tudo quanto lhes tinham tomado, tudo Davi tornou a trazer. ^v19
+**19** Nada ficou perdido, nem o menor ou o maior, nem os filhos e as filhas, nem os despojos, nem mesmo o que os invasores pegaram para si mesmos. Davi trouxe tudo de volta. ^v19
 
-**20** Também tomou Davi todas as ovelhas e vacas, e levavam-nas adiante do outro gado, e diziam: Este é o despojo de Davi. ^v20
+**20** "Davi pegou todos os rebanhos de gado e ovelhas. Eles os conduziam diante de Davi e diziam: ""Este é o despojo de Davi""." ^v20
 
-**21** E, chegando Davi aos duzentos homens que, de cansados que estavam, não puderam seguir a Davi, e que deixaram ficar no ribeiro de Besor, estes saíram ao encontro de Davi e do povo que com ele vinha; e, chegando-se Davi com o povo, os saudou em paz. ^v21
+**21** Davi veio até os duzentos homens que, por serem fracos, não puderam seguir, ficando no riacho de Besor. Estes homens foram à frente para encontrar Davi e os que estavam com ele. Quando Davi aproximou -se,ele os cumprimentou. ^v21
 
-**22** Então todos os maus e perversos, dentre os homens que tinham ido com Davi, responderam, e disseram: Visto que não foram conosco, não lhes daremos do despojo que libertamos; mas que leve cada um sua mulher e seus filhos, e se vá. ^v22
+**22** "Então, todos os homens perversos e os companheiros inúteis entre aqueles que foram com Davi disseram: ""Porque estes homens não foram conosco, nós não lhes daremos nada dos despojos que nós recuperamos. Exceto que cada homem deve pegar sua esposa e suas crianças e levá-los para fora daqui""." ^v22
 
-**23** Porém Davi disse: Não fareis assim, irmãos meus, com o que nos deu o Senhor, que nos guardou, e entregou a tropa que contra nós vinha, nas nossas mãos. ^v23
+**23** "Então disse Davi: ""Vós não deveis agir deste modo, meus irmãos, com o que Yahweh nos tem dado. Ele nos tem preservado e colocou em nossas mãos os invasores que vieram até nós." ^v23
 
-**24** E quem vos daria ouvidos nisso? Porque qual é a parte dos que desceram à peleja, tal também será a parte dos que ficaram com a bagagem; igualmente repartirão. ^v24
+**24** "Quem vos escutará nesta questão? Porque o que exigis para todos os que foram na batalha, também será exigido para todos os que guardaram os mantimentos; eles receberão a mesma porção""." ^v24
 
-**25** O que assim foi desde aquele dia em diante, porquanto o pôs por estatuto e direito em Israel até ao dia de hoje. ^v25
+**25** E foi assim desde aquele dia até o dia de hoje, pois Davi fez disso um estatuto e decreto para Israel. ^v25
 
-**26** E, chegando Davi a Ziclague, enviou do despojo aos anciãos de Judá, seus amigos, dizendo: Eis aí para vós uma bênção do despojo dos inimigos do Senhor; ^v26
+**26** "Quando Davi voltou a Ziclague, ele enviou alguns dos despojos aos anciãos de Judá, seus amigos, dizendo: ""Vede, aqui está um presente para vós dos despojos dos inimigos de Yahweh""." ^v26
 
-**27** Aos de Betel, e aos de Ramote do sul, e aos de Jater, ^v27
+**27** Para os anciãos que estavam em Betel, e para aqueles que estavam em Ramote do Sul, e para aqueles que estavam em Jatir, ^v27
 
-**28** E aos de Aroer, e aos de Sifmote, e aos de Estemoa, ^v28
+**28** e para aqueles que estavam em Aroer, e para aqueles que estavam em Sifmote, e para aqueles que estavam em Estemoa. ^v28
 
-**29** E aos de Racal, e aos que estavam nas cidades jerameelitas e nas cidades dos queneus, ^v29
+**29** Também para os anciãos que estavam em Racal, e para aqueles que estavam nas cidades dos jerameelitas, e para aqueles que estavam na cidades dos queneus, ^v29
 
-**30** E aos de Hormá, e aos de Corasã, e aos de Ataca, ^v30
+**30** e para aqueles que estavam em Hormá, e para aqueles que estavam em Corasã, e para aqueles que estavam em Atace, ^v30
 
-**31** E aos de Hebrom, e a todos os lugares em que andara Davi, ele e os seus homens. ^v31
+**31** e para aqueles que estavam em Hebrom, e para todos os lugares onde o próprio Davi e seus homens costumavam ir. ^v31

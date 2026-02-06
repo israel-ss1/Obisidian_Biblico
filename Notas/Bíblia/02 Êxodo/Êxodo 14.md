@@ -1,69 +1,68 @@
 ---
-Livro: "[[Êxodo|Êxodo]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Êxodo|Êxodo]]"
+tags: [biblia]
 ---
 
 # Êxodo 14
 
-**1** Então falou o SENHOR a Moisés, dizendo: ^v1
+**1** Deus falou a Moisés: ^v1
 
-**2** Fala aos filhos de Israel que voltem, e que se acampem diante de Pi-Hairote, entre Migdol e o mar, diante de Baal-Zefom; em frente dele assentareis o campo junto ao mar. ^v2
+**2** """Dize aos israelitas que eles devem retornar e acampar diante de Pi Hairote, entre Migdol e o mar, antes de Baal Zefom. Vós acampareis junto ao mar, oposto a Pi Hairote." ^v2
 
-**3** Então Faraó dirá dos filhos de Israel: Estão embaraçados na terra, o deserto os encerrou. ^v3
+**3** Faraó dirá sobre vós, israelitas, 'Eles estão vagando pela terra. Ficaram presos no deserto'. ^v3
 
-**4** E eu endurecerei o coração de Faraó, para que os persiga, e serei glorificado em Faraó e em todo o seu exército, e saberão os egípcios que eu sou o Senhor. E eles fizeram assim. ^v4
+**4** "Eu endurecerei o coração de Faraó, e ele os perseguirá. Serei honrado por causa de Faraó e seu exército. Os egípcios saberão que Eu sou Yahweh."" Então os israelitas acamparam como haviam sido instruídos." ^v4
 
-**5** Sendo, pois, anunciado ao rei do Egito que o povo fugia, mudou-se o coração de Faraó e dos seus servos contra o povo, e disseram: Por que fizemos isso, havendo deixado ir a Israel, para que não nos sirva? ^v5
+**5** "Quando o rei do Egito foi informado de que os israelitas haviam fugido, os pensamentos de Faraó e de seus servos voltaram-se contra o povo. Eles disseram: ""O que fizemos nós, deixando Israel livre de nos servir?""" ^v5
 
-**6** E aprontou o seu carro, e tomou consigo o seu povo; ^v6
+**6** Então Faraó preparou suas carruagens e tomou seu exército com ele. ^v6
 
-**7** E tomou seiscentos carros escolhidos, e todos os carros do Egito, e os capitães sobre eles todos. ^v7
+**7** Tomou seiscentas carruagens selecionadas e outras carruagens do Egito, todas com seus oficiais. ^v7
 
-**8** Porque o Senhor endureceu o coração de Faraó, rei do Egito, para que perseguisse aos filhos de Israel; porém os filhos de Israel saíram com alta mão. ^v8
+**8** Yahweh endureceu o coração de Faraó, rei do Egito, e o rei perseguiu os israelitas. Os israelitas haviam saído triunfantes. ^v8
 
-**9** E os egípcios perseguiram-nos, todos os cavalos e carros de Faraó, e os seus cavaleiros e o seu exército, e alcançaram-nos acampados junto ao mar, perto de Pi-Hairote, diante de Baal-Zefom. ^v9
+**9** Mas os egípcios os perseguiram, com seus cavalos e carruagens, seus cavaleiros e seu exército. Eles alcançaram os israelitas no acampamento junto ao mar, ao lado de Pi Hairote, antes de Baal Zefom. ^v9
 
-**10** E aproximando Faraó, os filhos de Israel levantaram seus olhos, e eis que os egípcios vinham atrás deles, e temeram muito; então os filhos de Israel clamaram ao Senhor. ^v10
+**10** Quando Faraó se aproximou, os israelitas olharam e ficaram surpresos. Os egípcios estavam marchando atrás deles; e ficaram apavorados. Os israelitas clamaram a Deus. ^v10
 
-**11** E disseram a Moisés: Não havia sepulcros no Egito, para nos tirar de lá, para que morramos neste deserto? Por que nos fizeste isto, fazendo-nos sair do Egito? ^v11
+**11** "Eles disseram a Moisés: ""É porque não havia túmulos no Egito que nos trouxeste para morrer no deserto? Por que nos trataste assim, tirando-nos do Egito?" ^v11
 
-**12** Não é esta a palavra que te falamos no Egito, dizendo: Deixa-nos, que sirvamos aos egípcios? Pois que melhor nos fora servir aos egípcios, do que morrermos no deserto. ^v12
+**12** "Não foi isso o que te dissemos? Nós te dissemos : 'Deixa-nos em paz, então poderemos servir aos egípcios. Teria sido melhor para nós trabalhar para eles do que morrer no deserto'""." ^v12
 
-**13** Moisés, porém, disse ao povo: Não temais; estai quietos, e vede o livramento do Senhor, que hoje vos fará; porque aos egípcios, que hoje vistes, nunca mais os tornareis a ver. ^v13
+**13** "Moisés disse ao povo: ""Não temais. Permanecei firmes e vede o livramento que Yahweh proverá para vós hoje. Pois nunca mais vereis novamente os egípcios que vedes hoje." ^v13
 
-**14** O Senhor pelejará por vós, e vós vos calareis. ^v14
+**14** "Yahweh lutará por vós, apenas permanecereis firmes""" ^v14
 
-**15** Então disse o Senhor a Moisés: Por que clamas a mim? Dize aos filhos de Israel que marchem. ^v15
+**15** "Então Deus disse a Moisés: "" Moisés, por que continuas clamando a mim? Dize aos israelitas para irem em frente." ^v15
 
-**16** E tu, levanta a tua vara, e estende a tua mão sobre o mar, e fende-o, para que os filhos de Israel passem pelo meio do mar em seco. ^v16
+**16** Levanta o teu cajado, estende a tua mão sobre o mar e divide-o em dois, para que o povo de Israel atravesse o mar em terra seca. Sabe que endurecerei os corações dos egípcios, para os perseguir. ^v16
 
-**17** E eis que endurecerei o coração dos egípcios, e estes entrarão atrás deles; e eu serei glorificado em Faraó e em todo o seu exército, nos seus carros e nos seus cavaleiros, ^v17
+**17** Serei honrado por causa de Faraó e todo seu exército, suas carruagens e seus cavaleiros. ^v17
 
-**18** E os egípcios saberão que eu sou o Senhor, quando for glorificado em Faraó, nos seus carros e nos seus cavaleiros. ^v18
+**18** "Então os egípcios saberão que Eu sou Yahweh quando Eu for honrado por causa de Faraó, suas carruagens e seus cavaleiros.""" ^v18
 
-**19** E o anjo de Deus, que ia diante do exército de Israel, se retirou, e ia atrás deles; também a coluna de nuvem se retirou de diante deles, e se pôs atrás deles. ^v19
+**19** O anjo de Deus, que ia à frente dos israelitas, foi para trás deles. A coluna de nuvem, que ia à frente deles, ficou atrás. ^v19
 
-**20** E ia entre o campo dos egípcios e o campo de Israel; e a nuvem era trevas para aqueles, e para estes clareava a noite; de maneira que em toda a noite não se aproximou um do outro. ^v20
+**20** A nuvem ficou entre o acampamento dos egípcios e o acampamento dos israelitas. E era uma nuvem escura para os Egípcios, mas iluminava a noite para os Israelitas. Então um lado não se aproximou do outro durante toda noite. ^v20
 
-**21** Então Moisés estendeu a sua mão sobre o mar, e o Senhor fez retirar o mar por um forte vento oriental toda aquela noite; e o mar tornou-se em seco, e as águas foram partidas. ^v21
+**21** Moisés estendeu sua mão sobre o mar. Com um forte vento oriental, durante toda aquela noite, Yahweh recolheu e dividiu as águas do mar, tornando-o terra seca. ^v21
 
-**22** E os filhos de Israel entraram pelo meio do mar em seco; e as águas foram-lhes como muro à sua direita e à sua esquerda. ^v22
+**22** Os Israelitas atravessaram pelo meio do mar em solo seco. As águas formaram uma muralha para eles, tanto do seu lado direito quanto do lado esquerdo. ^v22
 
-**23** E os egípcios os seguiram, e entraram atrás deles todos os cavalos de Faraó, os seus carros e os seus cavaleiros, até ao meio do mar. ^v23
+**23** Os egípcios os perseguiram. Eles foram atrás dos israelitas para o meio do mar - com todos os cavalos, carruagens e cavaleiros de Faraó. ^v23
 
-**24** E aconteceu que, na vigília daquela manhã, o Senhor, na coluna do fogo e da nuvem, viu o campo dos egípcios; e alvoroçou o campo dos egípcios. ^v24
+**24** Mas, ao amanhecer, Yahweh impediu o exército egípcio através da coluna de fogo e da nuvem. Ele trouxe pânico entre os egípcios. ^v24
 
-**25** E tirou-lhes as rodas dos seus carros, e dificultosamente os governavam. Então disseram os egípcios: Fujamos da face de Israel, porque o Senhor por eles peleja contra os egípcios. ^v25
+**25** "As rodas de suas carruagens ficaram travadas, e seus cavaleiros guiavam com dificuldade. Então os egípcios disseram: ""Vamos fugir de Israel, porque Yahweh está lutando a favor deles e contra nós""." ^v25
 
-**26** E disse o Senhor a Moisés: Estende a tua mão sobre o mar, para que as águas tornem sobre os egípcios, sobre os seus carros e sobre os seus cavaleiros. ^v26
+**26** "Yahweh disse a Moisés: ""Estende tua mão sobre o mar para que as águas voltem sobre os egípcios, suas carruagens e cavaleiros""." ^v26
 
-**27** Então Moisés estendeu a sua mão sobre o mar, e o mar retornou a sua força ao amanhecer, e os egípcios, ao fugirem, foram de encontro a ele, e o Senhor derrubou os egípcios no meio do mar, ^v27
+**27** Então Moisés estendeu sua mão sobre o mar, e as águas voltaram ao curso normal quando amanheceu. Os egípcios tentaram fugir de dentro do mar, mas Yahweh lançou-os para o meio dele. ^v27
 
-**28** Porque as águas, tornando, cobriram os carros e os cavaleiros de todo o exército de Faraó, que os haviam seguido no mar; nenhum deles ficou. ^v28
+**28** As águas voltaram e cobriram as carruagens, os cavaleiros de Faraó e seu exército inteiro que tinha seguido as carruagens até o mar. Ninguém sobreviveu. ^v28
 
-**29** Mas os filhos de Israel foram pelo meio do mar seco; e as águas foram-lhes como muro à sua mão direita e à sua esquerda. ^v29
+**29** No entanto os israelitas caminharam por terra seca no meio do mar. As águas eram uma muralha para eles, tanto do lado direito quanto do esquerdo. ^v29
 
-**30** Assim o Senhor salvou Israel naquele dia da mão dos egípcios; e Israel viu os egípcios mortos na praia do mar. ^v30
+**30** Assim Yahweh livrou Israel das mãos dos egípcios naquele dia, e Israel viu os corpos deles à beira-mar. ^v30
 
-**31** E viu Israel a grande mão que o Senhor mostrara aos egípcios; e temeu o povo ao Senhor, e creu no Senhor e em Moisés, seu servo. ^v31
+**31** Quando Israel viu o grande poder que Deus usou contra os egípcios, o povo honrou a Yahweh e confiou em Deus e em seu servo Moisés. ^v31

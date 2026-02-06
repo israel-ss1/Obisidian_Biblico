@@ -1,73 +1,72 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Isaías|Isaías]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Isaías|Isaías]]"
+tags: [biblia]
 ---
 
 # Isaías 30
 
-**1** Ai dos filhos rebeldes, diz o SENHOR, que tomam conselho, mas não de mim; e que se cobrem, com uma cobertura, mas não do meu espírito, para acrescentarem pecado sobre pecado; ^v1
+**1** """Ai dos filhos rebeldes!"" — esta é a palavra de Yahweh: ""Eles fazem planos que não procedem de Mim, fazem alianças com outras nações que não foram direcionados pelo Meu Espírito e, assim, acrescentam pecado sobre pecado." ^v1
 
-**2** Que descem ao Egito, sem pedirem o meu conselho; para se fortificarem com a força de Faraó, e para confiarem na sombra do Egito. ^v2
+**2** Eles se preparam para descer ao Egito, mas não buscaram Minha direção. Procuram proteção do Faraó e buscam refúgio à sombra do Egito. ^v2
 
-**3** Porque a força de Faraó se vos tornará em vergonha, e a confiança na sombra do Egito em confusão. ^v3
+**3** Por isso, a proteção de Faraó será sua vergonha, e o refúgio à sombra do Egito, sua humilhação, ^v3
 
-**4** Porque os seus príncipes já estão em Zoã, e os seus embaixadores já chegaram a Hanes. ^v4
+**4** embora seus príncipes estejam em Zoã e os seus mensageiros tenham chegado a Hanes. ^v4
 
-**5** Todos se envergonharão de um povo que de nada lhes servirá nem de ajuda, nem de proveito, porém de vergonha, e de opróbrio. ^v5
+**5** "Todos serão envergonhados por causa de um povo que não pode ajudá-los, que não lhes serve de ajuda nem de auxílio, mas de vergonha e, até mesmo, desgraça""." ^v5
 
-**6** Peso dos animais do sul. Para a terra de aflição e de angústia (de onde vêm a leoa e o leão, a víbora, e a serpente ardente, voadora) levarão às costas de jumentinhos as suas riquezas, e sobre as corcovas de camelos os seus tesouros, a um povo que de nada lhes aproveitará. ^v6
+**6** "Uma mensagem sobre as feras do Neguebe: ""Ao longo da terra de tristezas e perigos, da leoa e do leão, da víbora e da serpente voadora, eles carregam suas riquezas nos lombos dos jumentos e seus tesouros nas corcovas dos camelos, para um povo que não poderá ajudá-los." ^v6
 
-**7** Porque o Egito os ajudará em vão, e para nenhum fim; por isso clamei acerca disto: No estarem quietos será a sua força. ^v7
+**7** A proteção do Egito é inútil, por isso, o tenho chamado de Raabe, aquele que nada faz. ^v7
 
-**8** Vai, pois, agora, escreve isto numa tábua perante eles e registra-o num livro; para que fique até ao último dia, para sempre e perpetuamente. ^v8
+**8** Agora, vai, escreve isto em sua presença em uma tábua e escreve em um pergaminho, para que seja preservado como testemunho para um tempo que ainda virá. ^v8
 
-**9** Porque este é um povo rebelde, filhos mentirosos, filhos que não querem ouvir a lei do Senhor. ^v9
+**9** Pois este é um povo rebelde, filhos mentirosos, filhos que não ouvirão o conselho de Yahweh. ^v9
 
-**10** Que dizem aos videntes: Não vejais; e aos profetas: Não profetizeis para nós o que é reto; dizei-nos coisas aprazíveis, e vede para nós enganos. ^v10
+**10** Eles dizem aos videntes: 'Não tenhais visões!' e aos profetas: 'Não profetizeis a verdade para nós! Dizei-nos coisas agradáveis. Profetizai ilusões. ^v10
 
-**11** Desviai-vos do caminho, apartai-vos da vereda; fazei que o Santo de Israel cesse de estar perante nós. ^v11
+**11** Desviai o caminho. Apartai-vos da vereda; afastai da nossa presença o Santo de Israel'. ^v11
 
-**12** Por isso, assim diz o Santo de Israel: porquanto rejeitais esta palavra, e confiais na opressão e perversidade, e sobre isso vos estribais, ^v12
+**12** Porém, assim diz o Santo de Israel: 'Porque rejeitais esta palavra e confiais na opressão e no engano, e vos apegastes a isso, ^v12
 
-**13** Por isso esta maldade vos será como a brecha de um alto muro que, formando uma barriga, está prestes a cair e cuja quebra virá subitamente. ^v13
+**13** "então, este pecado será para vós como uma rachadura de muro que está prestes a cair, como uma saliência em um muro alto, cuja queda acontecerá de repente, subitamente'""." ^v13
 
-**14** E ele o quebrará como se quebra o vaso do oleiro e, quebrando-o, não se compadecerá; de modo que não se achará entre os seus pedaços um caco para tomar fogo do lar, ou tirar água da poça. ^v14
+**14** Ele o quebrará como se quebra um vaso do oleiro; Ele não o poupará, de modo que não se encontre, entre seus pedaços, nem um caco que possa raspar as cinzas da lareira ou tirar água de uma cisterna. ^v14
 
-**15** Porque assim diz o Senhor DEUS, o Santo de Israel: Voltando e descansando sereis salvos; no sossego e na confiança estaria a vossa força, mas não quisestes. ^v15
+**15** "Pois assim diz o Senhor Yahweh, o Santo de Israel: ""Ao retornar e descansar, sereis salvos; na tranquilidade e na confiança estará a vossa força. Porém, vós não quisestes." ^v15
 
-**16** Mas dizeis: Não; antes sobre cavalos fugiremos; portanto fugireis; e, sobre cavalos ligeiros cavalgaremos; por isso os vossos perseguidores também serão ligeiros. ^v16
+**16** Dissestes: 'Não, fugiremos a cavalo', então, fugireis; e 'Cavalgaremos em cavalos velozes', então, aqueles que vos perseguem serão velozes. ^v16
 
-**17** Mil homens fugirão ao grito de um, e ao grito de cinco todos vós fugireis, até que sejais deixados como o mastro no cume do monte, e como a bandeira no outeiro. ^v17
+**17** "Mil fugirão da ameaça de um; e, pela ameaça de cinco, fugireis, até que sejais deixados como um mastro no topo da montanha ou como uma bandeira numa colina""." ^v17
 
-**18** Por isso, o Senhor esperará, para ter misericórdia de vós; e por isso se levantará, para se compadecer de vós, porque o Senhor é um Deus de eqüidade; bem-aventurados todos os que nele esperam. ^v18
+**18** Yahweh ainda espera para ser bondoso convosco; por isso, Ele está pronto para ter misericórdia de vós; pois Yahweh é um Deus de justiça. Benditos são todos os que esperam Nele. ^v18
 
-**19** Porque o povo habitará em Sião, em Jerusalém; não chorarás mais; certamente se compadecerá de ti, à voz do teu clamor e, ouvindo-a, te responderá. ^v19
+**19** Pois um povo viverá em Sião, em Jerusalém, e nunca mais chorareis. Ele certamente Se compadecerá de vós ao ouvir o vosso clamor; e, quando o ouvir, vos responderá. ^v19
 
-**20** Bem vos dará o Senhor pão de angústia e água de aperto, mas os teus mestres nunca mais fugirão de ti, como voando com asas; antes os teus olhos verão a todos os teus mestres. ^v20
+**20** Ainda que Yahweh vos dê o pão da adversidade e a água da aflição, mesmo assim, o vosso Mestre não mais Se esconderá, mas O vereis com vossos próprios olhos. ^v20
 
-**21** E os teus ouvidos ouvirão a palavra do que está por detrás de ti, dizendo: Este é o caminho, andai nele, sem vos desviardes nem para a direita nem para a esquerda. ^v21
+**21** "Vossos ouvidos ouvirão uma palavra atrás de vós, dizendo: ""Este é o caminho, andai nele!"", quando vos virardes para a direita ou para a esquerda." ^v21
 
-**22** E terás por contaminadas as coberturas de tuas esculturas de prata, e o revestimento das tuas esculturas fundidas de ouro; e as lançarás fora como um pano imundo, e dirás a cada uma delas: Fora daqui. ^v22
+**22** "Profanareis vossas imagens esculpidas, revestidas de prata e vossas imagens fundidas de ouro, vós as jogareis fora como trapo de imundície. Direis a elas: ""Fora daqui!""." ^v22
 
-**23** Então te dará chuva sobre a tua semente, com que semeares a terra, como também pão da novidade da terra; e esta será fértil e cheia; naquele dia o teu gado pastará em largos pastos. ^v23
+**23** Ele trará chuva sobre a vossa semente, quando semeardes a terra; e haverá pão em abundância na terra, e a colheita será abundante. Neste dia, vosso rebanho pastará em amplos pastos. ^v23
 
-**24** E os bois e os jumentinhos, que lavram a terra, comerão grão puro, que for padejado com a pá, e cirandado com a ciranda. ^v24
+**24** Os bois e os jumentos que lavram a terra comerão forragens temperadas, que foram separadas com uma pá e uma forquilha. ^v24
 
-**25** E em todo o monte alto, e em todo o outeiro levantado, haverá ribeiros e correntes de águas, no dia da grande matança, quando caírem as torres. ^v25
+**25** Do topo de cada montanha e do topo de cada colina, fluirão rios e correntes de águas, no dia da grande matança, quando as torres caírem. ^v25
 
-**26** E a luz da lua será como a luz do sol, e a luz do sol sete vezes maior, como a luz de sete dias, no dia em que o Senhor ligar a quebradura do seu povo, e curar a chaga da sua ferida. ^v26
+**26** A luz da lua será como a luz do sol, e a luz do sol brilhará sete vezes mais, como a luz de sete dias. Yahweh cuidará das fraturas do Seu povo e sarará as feridas que lhes fez. ^v26
 
-**27** Eis que o nome do Senhor vem de longe, ardendo a sua ira, sendo pesada a sua carga; os seus lábios estão cheios de indignação, e a sua língua é como um fogo consumidor. ^v27
+**27** Vede, o nome de Yahweh vem de um lugar distante, ardendo com Sua ira e em densa fumaça. Seus lábios estão cheios de fúria e Sua língua é como um fogo consumidor. ^v27
 
-**28** E a sua respiração como o ribeiro transbordante, que chega até ao pescoço, para peneirar as nações com peneira de destruição, e um freio de fazer errar nas queixadas dos povos. ^v28
+**28** Seu respirar é como um rio transbordante que cobre até o pescoço, que peneira as nações com a peneira da destruição. Seu respirar é como um freio nos queixos dos povos que os faz perderem o rumo. ^v28
 
-**29** Um cântico haverá entre vós, como na noite em que se celebra uma festa santa; e alegria de coração, como a daquele que vai com flauta, para entrar no monte do Senhor, à Rocha de Israel. ^v29
+**29** Tereis uma canção como na noite em que se observa uma festa santa, e alegria de coração, como alguém que vai com uma flauta à montanha de Yahweh, à Rocha de Israel. ^v29
 
-**30** E o Senhor fará ouvir a sua voz majestosa e fará ver o abaixamento do seu braço, com indignação de ira, e labareda de fogo consumidor, raios e dilúvio e pedras de saraiva. ^v30
+**30** Yahweh fará o esplendor da Sua voz ser ouvido e mostrará a força do Seu braço em fúria impetuosa e labaredas de fogo, com vendaval, tempestade e granizo. ^v30
 
-**31** Porque com a voz do Senhor será desfeita em pedaços a Assíria, que feriu com a vara. ^v31
+**31** Pois, pela voz de Yahweh, a Assíria será despedaçada; Ele a acertará com uma vara. ^v31
 
-**32** E a cada pancada do bordão do juízo que o Senhor lhe der, haverá tamboris e harpas; e com combates de agitação combaterá contra eles. ^v32
+**32** E cada golpe da vara do castigo que Yahweh lhes der será acompanhado com música de tamborins e harpas, enquanto Ele guerreia e luta contra eles. ^v32
 
-**33** Porque Tofete já há muito está preparada; sim, está preparada para o rei; ele a fez profunda e larga; a sua pira é de fogo, e tem muita lenha; o assopro do Senhor como torrente de enxofre a acenderá. ^v33
+**33** Pois o lugar destinado à queima foi preparado há muito tempo. Na verdade, estava preparado para o rei, e Deus o fez profundo e largo. A fogueira está preparada com fogo e muita lenha. O sopro de Yahweh, como uma corrente de enxofre, a acenderá. ^v33

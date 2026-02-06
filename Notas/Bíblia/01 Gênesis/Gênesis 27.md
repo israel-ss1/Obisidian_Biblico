@@ -1,99 +1,98 @@
 ---
-Livro: "[[Gênesis|Gênesis]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Gênesis|Gênesis]]"
+tags: [biblia]
 ---
 
 # Gênesis 27
 
-**1** E aconteceu que, como Isaque envelheceu, e os seus olhos se escureceram, de maneira que não podia ver, chamou a Esaú, seu filho mais velho, e disse-lhe: Meu filho. E ele lhe disse: Eis-me aqui. ^v1
+**1** "Quando Isaque estava velho e seus olhos fracos, de modo que não podia enxergar, ele chamou Esaú, seu filho mais velho, e disse-lhe: ""Meu filho"". Disse ele: ""Estou aqui""." ^v1
 
-**2** E ele disse: Eis que já agora estou velho, e não sei o dia da minha morte; ^v2
+**2** "Ele disse: ""Olha, estou velho. Eu não sei o dia da minha morte;" ^v2
 
-**3** Agora, pois, toma as tuas armas, a tua aljava e o teu arco, e sai ao campo, e apanha para mim alguma caça. ^v3
+**3** Portanto pega tuas armas, tua aljava e o teu arco, vai para o campo e caça para mim. ^v3
 
-**4** E faze-me um guisado saboroso, como eu gosto, e traze-mo, para que eu coma; para que minha alma te abençoe, antes que morra. ^v4
+**4** "Faze uma comida deliciosa, do jeito que eu gosto, para que eu possa comer e te abençoar antes que eu morra.""" ^v4
 
-**5** E Rebeca escutou quando Isaque falava ao seu filho Esaú. E foi Esaú ao campo para apanhar a caça que havia de trazer. ^v5
+**5** Rebeca ouviu quando Isaque falou com Esaú, seu filho. Esaú foi para o campo caçar e trazer a caça. ^v5
 
-**6** Então falou Rebeca a Jacó seu filho, dizendo: Eis que tenho ouvido o teu pai que falava com Esaú teu irmão, dizendo: ^v6
+**6** "Rebeca falou com Jacó, seu filho, e disse: ""Olha, eu ouvi teu pai falar com Esaú, teu irmão, dizendo:" ^v6
 
-**7** Traze-me caça, e faze-me um guisado saboroso, para que eu coma, e te abençoe diante da face do Senhor, antes da minha morte. ^v7
+**7** 'Traze-me uma caça e faze-me uma comida deliciosa, para que eu possa comer e te abençoar na presença de Yahweh antes da minha morte'. ^v7
 
-**8** Agora, pois, filho meu, ouve a minha voz naquilo que eu te mando: ^v8
+**8** Portanto agora, meu filho, atende às minhas palavras naquilo que eu te ordenar. ^v8
 
-**9** Vai agora ao rebanho, e traze-me de lá dois bons cabritos, e eu farei deles um guisado saboroso para teu pai, como ele gosta; ^v9
+**9** Vai até o rebanho, traze-me dois bons cabritos; e eu farei uma comida deliciosa para teu pai, do jeito que ele gosta. ^v9
 
-**10** E levá-lo-ás a teu pai, para que o coma; para que te abençoe antes da sua morte. ^v10
+**10** "Tu levarás para teu pai para que ele coma, de modo que te abençoe, antes da sua morte""." ^v10
 
-**11** Então disse Jacó a Rebeca, sua mãe: Eis que Esaú meu irmão é homem cabeludo, e eu homem liso; ^v11
+**11** "Jacó disse a Rebeca sua mãe: ""Meu irmão é um homem peludo, e eu sou um homem liso." ^v11
 
-**12** Porventura me apalpará o meu pai, e serei aos seus olhos como enganador; assim trarei eu sobre mim maldição, e não bênção. ^v12
+**12** "Porventura meu pai tocará em mim e me perceberá como um enganador. Eu trarei maldição sobre mim ao invés de benção.""" ^v12
 
-**13** E disse-lhe sua mãe: Meu filho, sobre mim seja a tua maldição; somente obedece à minha voz, e vai, traze-mos. ^v13
+**13** "Sua mãe disse-lhe: ""Meu filho, que qualquer maldição caia sobre mim. Apenas atende às minhas palavras, e vai, e traze-os para mim." ^v13
 
-**14** E foi, e tomou-os, e trouxe-os a sua mãe; e sua mãe fez um guisado saboroso, como seu pai gostava. ^v14
+**14** Então Jacó foi, pegou os cabritos novos e os levou para sua mãe. Ela fez uma comida deliciosa, do jeito que o seu pai gostava. ^v14
 
-**15** Depois tomou Rebeca os vestidos de gala de Esaú, seu filho mais velho, que tinha consigo em casa, e vestiu a Jacó, seu filho menor; ^v15
+**15** Rebeca pegou a melhor roupa de Esaú, o filho mais velho, a qual estava com ela em sua casa, e vestiu-a em Jacó, seu filho mais novo. ^v15
 
-**16** E com as peles dos cabritos cobriu as suas mãos e a lisura do seu pescoço; ^v16
+**16** Ela cobriu com a pele dos cabritos as mãos dele e a parte lisa do seu pescoço. ^v16
 
-**17** E deu o guisado saboroso e o pão que tinha preparado, na mão de Jacó seu filho. ^v17
+**17** Colocou a comida deliciosa e o pão que havia preparado nas mãos de seu filho Jacó. ^v17
 
-**18** E foi ele a seu pai, e disse: Meu pai! E ele disse: Eis-me aqui; quem és tu, meu filho? ^v18
+**18** "Jacó foi até seu pai e disse: ""Meu pai"". Ele respondeu: ""Aqui estou; quem és tu, meu filho?""" ^v18
 
-**19** E Jacó disse a seu pai: Eu sou Esaú, teu primogênito; tenho feito como me disseste; levanta-te agora, assenta-te e come da minha caça, para que a tua alma me abençoe. ^v19
+**19** "Jacó disse-lhe: ""Eu sou Esaú, teu primogênito; eu tenho feito conforme ordenaste. Agora senta-te e come da minha caça para que me abençoes.""" ^v19
 
-**20** Então disse Isaque a seu filho: Como é isto, que tão cedo a achaste, filho meu? E ele disse: Porque o Senhor teu Deus a mandou ao meu encontro. ^v20
+**20** "Isaque disse a seu filho: ""Como tu encontraste a caça tão rápido, meu filho?"" Ele respondeu: ""Porque Yahweh, o teu Deus, trouxe até mim.""" ^v20
 
-**21** E disse Isaque a Jacó: Chega-te agora, para que te apalpe, meu filho, se és meu filho Esaú mesmo, ou não. ^v21
+**21** "Isaque disse a Jacó: ""Aproxima-te de mim para que eu possa tocar-te, meu filho, e ver se és verdadeiramente meu filho Esaú ou não""." ^v21
 
-**22** Então se chegou Jacó a Isaque seu pai, que o apalpou, e disse: A voz é a voz de Jacó, porém as mãos são as mãos de Esaú. ^v22
+**22** "Jacó aproximou-se do seu pai Isaque, e este o tocou e disse: ""A voz é a de Jacó, mas as mãos são as de Esaú""." ^v22
 
-**23** E não o conheceu, porquanto as suas mãos estavam cabeludas, como as mãos de Esaú seu irmão; e abençoou-o. ^v23
+**23** Isaque não o reconheceu, porque suas mãos eram peludas, como as de seu irmão Esaú. Então Isaque o abençoou. ^v23
 
-**24** E disse: És tu meu filho Esaú mesmo? E ele disse: Eu sou. ^v24
+**24** "Ele perguntou: ""És tu realmente meu filho Esaú?"". E ele disse: ""Eu sou""." ^v24
 
-**25** Então disse: Faze chegar isso perto de mim, para que coma da caça de meu filho; para que a minha alma te abençoe. E chegou-lhe, e comeu; trouxe-lhe também vinho, e bebeu. ^v25
+**25** "Isaque disse: ""Traze a comida para mim, comerei da tua caça, e te abençoarei."" Jacó trouxe a comida para o seu pai. Isaque comeu, e Jacó trouxe-lhe vinho, e ele bebeu." ^v25
 
-**26** E disse-lhe Isaque seu pai: Ora chega-te, e beija-me, filho meu. ^v26
+**26** "Logo seu pai disse: ""Aproxima-te e me dá um beijo, meu filho.""" ^v26
 
-**27** E chegou-se, e beijou-o; então sentindo o cheiro das suas vestes, abençoou-o, e disse: Eis que o cheiro do meu filho é como o cheiro do campo, que o Senhor abençoou; ^v27
+**27** "Jacó aproximou-se e o beijou, e ele sentiu o cheiro da sua roupa e o abençoou, dizendo: ""Vê, o cheiro do meu filho é cheiro do campo que Yahweh tem abençoado." ^v27
 
-**28** Assim, pois, te dê Deus do orvalho dos céus, e das gorduras da terra, e abundância de trigo e de mosto. ^v28
+**28** Que Deus te dê a porção do orvalho do céu, a porção da fartura da terra e abundância de trigo e de vinho novo. ^v28
 
-**29** Sirvam-te povos, e nações se encurvem a ti; sê senhor de teus irmãos, e os filhos da tua mãe se encurvem a ti; malditos sejam os que te amaldiçoarem, e benditos sejam os que te abençoarem. ^v29
+**29** "Que os povos sirvam-te e as nações prostrem-se diante de ti. Sê mestre dos teus irmãos, e que os filhos da tua mãe inclinem-se diante de ti. Que todos que te amaldiçoarem sejam amaldiçoados, e todos que te abençoarem sejam abençoados.""" ^v29
 
-**30** E aconteceu que, acabando Isaque de abençoar a Jacó, apenas Jacó acabava de sair da presença de Isaque seu pai, veio Esaú, seu irmão, da sua caça; ^v30
+**30** Assim que Isaque abençoou Jacó, e ele saiu da sua presença, Esaú seu irmão veio da sua caça. ^v30
 
-**31** E fez também ele um guisado saboroso, e trouxe-o a seu pai; e disse a seu pai: Levanta-te, meu pai, e come da caça de teu filho, para que me abençoe a tua alma. ^v31
+**31** "Ele também fez uma comida deliciosa e a trouxe para seu pai, dizendo: ""Pai, levanta-te, come algo da caça do teu filho, para que possas me abençoar""." ^v31
 
-**32** E disse-lhe Isaque seu pai: Quem és tu? E ele disse: Eu sou teu filho, o teu primogênito Esaú. ^v32
+**32** "Isaque disse: ""Quem és tu?"" Ele disse: ""Eu sou teu filho, teu primogênito, Esaú""." ^v32
 
-**33** Então estremeceu Isaque de um estremecimento muito grande, e disse: Quem, pois, é aquele que apanhou a caça, e ma trouxe? E comi de tudo, antes que tu viesses, e abençoei-o, e ele será bendito. ^v33
+**33** "Isaque ficou muito abalado e disse: ""Quem era aquele que trouxe a caça para mim? Eu comi tudo antes que tu viesses, e eu o abençoei. Certamente, ele será abençoado""." ^v33
 
-**34** Esaú, ouvindo as palavras de seu pai, bradou com grande e mui amargo brado, e disse a seu pai: Abençoa-me também a mim, meu pai. ^v34
+**34** "Quando Esaú ouviu as palavras do seu pai, chorou com muita amargura e disse-lhe: ""Abençoa-me também, meu pai.""" ^v34
 
-**35** E ele disse: Veio teu irmão com sutileza, e tomou a tua bênção. ^v35
+**35** "Isaque disse: ""Teu irmão veio aqui com esperteza e levou tua bênção""." ^v35
 
-**36** Então disse ele: Não é o seu nome justamente Jacó, tanto que já duas vezes me enganou? A minha primogenitura me tomou, e eis que agora me tomou a minha bênção. E perguntou: Não reservaste, pois, para mim nenhuma bênção? ^v36
+**36** "Esaú disse: ""Não é com razão que ele seja chamado de Jacó? Ele enganou-me por duas vezes. Levou meu direito de primogenitura e agora levou minha bênção"". Então perguntou: ""Tu não tens reservada uma bênção para mim?""" ^v36
 
-**37** Então respondeu Isaque a Esaú dizendo: Eis que o tenho posto por senhor sobre ti, e todos os seus irmãos lhe tenho dado por servos; e de trigo e de mosto o tenho fortalecido; que te farei, pois, agora, meu filho? ^v37
+**37** "Isaque respondeu a Esaú: ""Olha, eu o coloquei por senhor sobre ti, dei-lhe todos seus irmãos como seus servos. E dei a ele fartura de trigo e vinho novo. O que mais posso fazer por ti, meu filho?""" ^v37
 
-**38** E disse Esaú a seu pai: Tens uma só bênção, meu pai? Abençoa-me também a mim, meu pai. E levantou Esaú a sua voz, e chorou. ^v38
+**38** "Esaú disse ao seu pai: ""Não tens ainda uma bênção para mim, meu pai? Abençoa-me também, meu pai"". Esaú chorou em alta voz." ^v38
 
-**39** Então respondeu Isaque, seu pai, e disse-lhe: Eis que a tua habitação será nas gorduras da terra e no orvalho dos altos céus. ^v39
+**39** "Isaque respondeu e disse-lhe: ""Olha, o lugar onde tu vais morar será longe das terras férteis, longe do orvalho que cai do céu." ^v39
 
-**40** E pela tua espada viverás, e ao teu irmão servirás. Acontecerá, porém, que quando te assenhoreares, então sacudirás o seu jugo do teu pescoço. ^v40
+**40** Pela tua espada viverás e tu servirás a teu irmão. Mas, quando te livrares, sacudirás o jugo do teu pescoço. ^v40
 
-**41** E Esaú odiou a Jacó por causa daquela bênção, com que seu pai o tinha abençoado; e Esaú disse no seu coração: Chegar-se-ão os dias de luto de meu pai; e matarei a Jacó meu irmão. ^v41
+**41** "Esaú odiou Jacó por causa da bênção que seu pai lhe dera. Esaú disse em seu coração: ""Os dias de luto por meu pai estão próximos; depois disso, eu matarei meu irmão Jacó""." ^v41
 
-**42** E foram denunciadas a Rebeca estas palavras de Esaú, seu filho mais velho; e ela mandou chamar a Jacó, seu filho menor, e disse-lhe: Eis que Esaú teu irmão se consola a teu respeito, propondo matar-te. ^v42
+**42** "As palavras de Esaú, o primogênito, foram relatadas a Rebeca. Então ela mandou chamar Jacó, seu filho mais novo, e disse-lhe: ""Vê, teu irmão Esaú se consolou planejando matar-te." ^v42
 
-**43** Agora, pois, meu filho, ouve a minha voz, e levanta-te; acolhe-te a Labão meu irmão, em Harã, ^v43
+**43** Portanto agora, meu filho, obedece-me e foge para a casa de Labão, meu irmão, em Harã. ^v43
 
-**44** E mora com ele alguns dias, até que passe o furor de teu irmão; ^v44
+**44** Fica com ele por alguns dias, até que a fúria do teu irmão diminua, e que ele esqueça o que tu tens feito a ele. ^v44
 
-**45** Até que se desvie de ti a ira de teu irmão, e se esqueça do que lhe fizeste; então mandarei trazer-te de lá; por que seria eu desfilhada também de vós ambos num mesmo dia? ^v45
+**45** "Logo, eu te trarei de volta. Porque deveria eu perder os dois filhos em um dia?""" ^v45
 
-**46** E disse Rebeca a Isaque: Enfadada estou da minha vida, por causa das filhas de Hete; se Jacó tomar mulher das filhas de Hete, como estas são, das filhas desta terra, para que me servirá a vida? ^v46
+**46** "Rebeca disse a Isaque: ""Estou aborrecida da vida por causa das filhas dos heteus. Se Jacó tomar uma das filhas dos heteus, filhas desta terra, o que será da minha vida?""" ^v46

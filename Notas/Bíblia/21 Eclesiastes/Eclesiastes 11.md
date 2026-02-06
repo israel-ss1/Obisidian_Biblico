@@ -1,27 +1,26 @@
 ---
-Livro: "[[Eclesiastes|Eclesiastes]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Eclesiastes|Eclesiastes]]"
+tags: [biblia]
 ---
 
 # Eclesiastes 11
 
-**1** Lança o teu pão sobre as águas, porque depois de muitos dias o acharás. ^v1
+**1** Lança teu pão sobre as águas, pois tu o encontrarás novamente, após muitos dias. ^v1
 
-**2** Reparte com sete, e ainda até com oito, porque não sabes que mal haverá sobre a terra. ^v2
+**2** Reparte-o com sete, ou até com oito pessoas, pois tu não sabes que desastres virão sobre a terra. ^v2
 
-**3** Estando as nuvens cheias, derramam a chuva sobre a terra, e caindo a árvore para o sul, ou para o norte, no lugar em que a árvore cair ali ficará. ^v3
+**3** Se as nuvens estão cheias de chuva, elas se esvaziam na terra; e, se uma árvore cai em direção ao sul ou ao norte, não importa onde, lá permanecerá. ^v3
 
-**4** Quem observa o vento, nunca semeará, e o que olha para as nuvens nunca segará. ^v4
+**4** Qualquer um que observar o vento não plantará, e quem observar as nuvens não colherá. ^v4
 
-**5** Assim como tu não sabes qual o caminho do vento, nem como se formam os ossos no ventre da mulher grávida, assim também não sabes as obras de Deus, que faz todas as coisas. ^v5
+**5** "Como não sabes o caminho do vento, nem como os ossos de uma criança crescem no ventre materno, [Algumas versões modernas trazem: ""Como não sabes o caminho do espírito aos ossos de um criança no útero materno""] assim também não podes compreender a obra de Deus, que criou todas as coisas." ^v5
 
-**6** Pela manhã semeia a tua semente, e à tarde não retires a tua mão, porque tu não sabes qual prosperará, se esta, se aquela, ou se ambas serão igualmente boas. ^v6
+**6** De manhã, planta tua semente; até o começo da noite, trabalha com tuas mãos como for preciso, pois não sabes o que prosperará: se a da manhã ou a da noite, ou se ambas igualmente serão boas. ^v6
 
-**7** Certamente suave é a luz, e agradável é aos olhos ver o sol. ^v7
+**7** Verdadeiramente, a luz é doce, e é agradável aos olhos ver o sol. ^v7
 
-**8** Porém, se o homem viver muitos anos, e em todos eles se alegrar, também se deve lembrar dos dias das trevas, porque hão de ser muitos. Tudo quanto sucede é vaidade. ^v8
+**8** Se alguém vive muitos anos, deixa-o ser feliz em todos eles, mas deixa-o pensar sobre os dias vindouros da escuridão, pois eles serão muitos. Tudo o que virá será vaidade. ^v8
 
-**9** Alegra-te, jovem, na tua mocidade, e recreie-se o teu coração nos dias da tua mocidade, e anda pelos caminhos do teu coração, e pela vista dos teus olhos; sabe, porém, que por todas estas coisas te trará Deus a juízo. ^v9
+**9** Alegra-te, jovem, na tua juventude, e que teu coração seja cheio de alegrias nos dias de tua mocidade. Persegue os bons desejos de teu coração e o que quer que esteja à vista de teus olhos. Contudo sabe tu que Deus te pedirá contas de todas essas coisas. ^v9
 
-**10** Afasta, pois, a ira do teu coração, e remove da tua carne o mal, porque a adolescência e a juventude são vaidade. ^v10
+**10** Aparta a ira de teu coração e ignora qualquer dor no teu corpo, porque a juventude e o seu vigor são vaidade. ^v10

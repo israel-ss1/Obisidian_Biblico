@@ -1,57 +1,56 @@
 ---
-Livro: "[[2 Crônicas|2 Crônicas]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/2 Crônicas|2 Crônicas]]"
+tags: [biblia]
 ---
 
 # 2 Crônicas 33
 
-**1** Tinha Manassés doze anos de idade, quando começou a reinar, e cinqüenta e cinco anos reinou em Jerusalém. ^v1
+**1** Manassés estava com doze anos de idade quando começou a reinar; reinou cinquenta e cinco anos em Jerusalém. ^v1
 
-**2** E fez o que era mau aos olhos do Senhor, conforme às abominações dos gentios que o Senhor lançara fora de diante dos filhos de Israel. ^v2
+**2** Ele fez o que era mau à vista de Yahweh, como as repugnantes coisas das nações que Yahweh havia expulsado de diante do povo de Israel. ^v2
 
-**3** Porque tornou a edificar os altos que Ezequias, seu pai, tinha derrubado; e levantou altares aos Baalins, e fez bosques, e prostrou-se diante de todo o exército dos céus, e o serviu. ^v3
+**3** Pois ele reconstruiu os lugares altos que Ezequias, seu pai, havia destruído, construiu altares para Baal, fez postes de Aserá, prostrou-se diante de todas as estrelas do céu e as adorou. ^v3
 
-**4** E edificou altares na casa do Senhor, da qual o Senhor tinha falado: Em Jerusalém estará o meu nome eternamente. ^v4
+**4** "Manassés construiu altares pagãos na casa de Yahweh, embora Yahweh tenha ordenado: ""É em Jerusalém que Meu nome será estabelecido para sempre""." ^v4
 
-**5** Edificou altares a todo o exército dos céus, em ambos os átrios da casa do Senhor. ^v5
+**5** Ele construiu altares para todas as estrelas do céu nos dois pátios da casa de Yahweh. ^v5
 
-**6** Fez ele também passar seus filhos pelo fogo no vale do filho de Hinom, e usou de adivinhações e de agouros, e de feitiçarias, e consultou adivinhos e encantadores, e fez muitíssimo mal aos olhos do Senhor, para o provocar à ira. ^v6
+**6** Ofereceu seus filhos como ofertas queimadas no vale de Ben-Hinom. Praticou adivinhação e feitiçaria, leu presságios e consultou aqueles que falam com os mortos e aqueles que falam com espíritos. Ele praticou muitos males à vista de Yahweh e provocou a ira de Deus. ^v6
 
-**7** Também pôs uma imagem de escultura do ídolo que tinha feito, na casa de Deus, da qual Deus tinha falado a Davi e a Salomão seu filho: Nesta casa e em Jerusalém, que escolhi de todas as tribos de Israel, porei o meu nome para sempre. ^v7
+**7** "Ele colocou na casa de Deus uma figura de Aserá que ele próprio havia esculpido. Era sobre essa casa que Deus havia falado para Davi e Salomão, seu filho, dizendo: ""Nesta casa e em Jerusalém, a qual Eu escolhi de todas as tribos de Israel, que Eu porei o Meu nome para sempre." ^v7
 
-**8** E nunca mais removerei o pé de Israel da terra que destinei a vossos pais; contanto que tenham cuidado de fazer tudo o que eu lhes ordenei, conforme a toda a lei, e estatutos, e juízos, dados pela mão de Moisés. ^v8
+**8** "Eu nunca mais removerei o povo de Israel para fora da terra que destinei para seus antepassados, se eles tão somente tiverem o cuidado de manter tudo que Eu lhes tenho ordenado, seguindo toda a lei, estatutos e decretos, os quais Eu dei por meio de Moisés""." ^v8
 
-**9** E Manassés tanto fez errar a Judá e aos moradores de Jerusalém, que fizeram pior do que as nações que o Senhor tinha destruído de diante dos filhos de Israel. ^v9
+**9** Manassés levou Judá e os habitantes de Jerusalém a fazerem o mal mais do que as nações que Yahweh havia destruído diante do povo de Israel. ^v9
 
-**10** E falou o Senhor a Manassés e ao seu povo, porém não deram ouvidos. ^v10
+**10** Yahweh falou a Manassés e a seu povo, mas eles não deram atenção. ^v10
 
-**11** Assim o Senhor trouxe sobre eles os capitàes do exército do rei da Assíria, os quais prenderam a Manassés com ganchos e, amarrando-o com cadeias, o levaram para Babilônia. ^v11
+**11** Assim, Yahweh trouxe a eles os comandantes do exército do rei da Assíria, que prenderam Manassés em correntes, amarraram-no com grilhões e o levaram para a Babilônia. ^v11
 
-**12** E ele, angustiado, orou deveras ao Senhor seu Deus, e humilhou-se muito perante o Deus de seus pais; ^v12
+**12** Quando Manassés estava em angústia, implorou a Yahweh, seu Deus, e humilhou-se grandemente diante do Deus de seus antepassados. ^v12
 
-**13** E fez-lhe oração, e Deus se aplacou para com ele, e ouviu a sua súplica, e tornou a trazê-lo a Jerusalém, ao seu reino. Então conheceu Manassés que o Senhor era Deus. ^v13
+**13** Ele orou e suplicou a Deus, que ouviu sua súplica e o trouxe de volta para Jerusalém, ao seu reino. Então, Manassés soube que Yahweh era Deus. ^v13
 
-**14** E depois disto edificou o muro de fora da cidade de Davi, ao ocidente de Giom, no vale, e à entrada da porta do peixe, e ao redor de Ofel, e o levantou muito alto; também pôs capitàes de guerra em todas as cidades fortificadas de Judá. ^v14
+**14** Depois disso, Manassés construiu um muro do lado de fora da cidade de Davi, a oeste de Giom, no vale, para a entrada da porta do Peixe. Ele o fez passar em volta do monte Ofel e o levantou até uma grande altura. Pôs comandantes corajosos em todas as cidades fortificadas de Judá. ^v14
 
-**15** E tirou da casa do Senhor os deuses estranhos e o ídolo, como também todos os altares que tinha edificado no monte da casa do Senhor, e em Jerusalém, e os lançou fora da cidade. ^v15
+**15** Tirou os deuses estrangeiros, como também o ídolo da casa de Yahweh e todos os altares que ele havia construído no monte da casa de Yahweh e em Jerusalém e jogou-os para fora da cidade. ^v15
 
-**16** E reparou o altar do Senhor e ofereceu sobre ele sacrifícios de ofertas pacíficas e de louvor; e ordenou a Judá que servisse ao Senhor Deus de Israel. ^v16
+**16** Manassés reconstruiu o altar de Yahweh e ofereceu nele sacrifícios de ofertas pacíficas e de ações de graças. Ele ordenou Judá a servir Yahweh, o Deus de Israel. ^v16
 
-**17** Contudo o povo ainda sacrificava nos altos, mas somente ao Senhor seu Deus. ^v17
+**17** Porém o povo ainda sacrificava nos lugares altos, mas somente para Yahweh, seu Deus. ^v17
 
-**18** O restante dos atos de Manassés, e a sua oração ao seu Deus, e as palavras dos videntes que lhe falaram no nome do Senhor Deus de Israel, eis que estão nas crônicas dos reis de Israel. ^v18
+**18** Os demais feitos concernentes a Manassés, sua oração a Deus e as palavras dos videntes que falaram a ele em nome de Yahweh, o Deus de Israel, estão escritas entre os feitos dos reis de Israel. ^v18
 
-**19** E a sua oração, e como Deus se aplacou para com ele, e todo o seu pecado, e a sua transgressão, e os lugares onde edificou altos, e pôs bosques e imagens de escultura, antes que se humilhasse, eis que estão escritos nos livros dos videntes. ^v19
+**19** Sua oração e como Deus foi favorável a ele, todos os seus pecados e transgressões e os locais onde ele havia construído lugares altos e ergueu os postes de Aserá e as imagens esculpidas, antes de ter-se humilhado, estão escritos nas crônicas dos videntes. ^v19
 
-**20** E dormiu Manassés com seus pais, e o sepultaram em sua casa. Amom, seu filho, reinou em seu lugar. ^v20
+**20** Assim, Manassés descansou com seus antepassados, e o sepultaram em sua própria casa. Amom, seu filho, tornou-se rei em seu lugar. ^v20
 
-**21** Tinha Amom vinte e dois anos de idade quando começou a reinar, e dois anos reinou em Jerusalém. ^v21
+**21** Amom tinha vinte e dois anos quando começou a reinar. Reinou dois anos em Jerusalém. ^v21
 
-**22** E fez o que era mau aos olhos do Senhor, como havia feito Manassés, seu pai; porque Amom sacrificou a todas as imagens de escultura que Manassés, seu pai tinha feito, e as serviu. ^v22
+**22** Ele fez o que era mau à vista de Yahweh, como Manassés, seu pai, havia feito. Amom sacrificou a todas as imagens esculpidas que Manassés seu pai havia feito e as adorou. ^v22
 
-**23** Mas não se humilhou perante o Senhor, como Manassés, seu pai, se humilhara; antes multiplicou Amom os seus delitos. ^v23
+**23** Ele não se humilhou diante de Yahweh, como Manassés, seu pai, havia feito. Em vez disso, pecou mais e mais. ^v23
 
-**24** E conspiraram contra ele os seus servos, e o mataram em sua casa. ^v24
+**24** Seus servos conspiraram contra ele e o mataram em sua casa. ^v24
 
-**25** Porém o povo da terra feriu a todos quantos conspiraram contra o rei Amom; e o povo da terra fez reinar em seu lugar a Josias, seu filho. ^v25
+**25** Mas os habitantes da terra mataram todos os que haviam conspirado contra o rei Amom e fizeram de Josias, seu filho, rei em seu lugar. ^v25

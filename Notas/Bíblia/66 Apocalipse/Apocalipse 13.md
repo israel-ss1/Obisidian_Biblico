@@ -1,43 +1,42 @@
 ---
-Livro: "[[Apocalipse|Apocalipse]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Apocalipse|Apocalipse]]"
+tags: [biblia]
 ---
 
 # Apocalipse 13
 
-**1** E eu pus-me sobre a areia do mar, e vi subir do mar uma besta que tinha sete cabeças e dez chifres, e sobre os seus chifres dez diademas, e sobre as suas cabeças um nome de blasfêmia. ^v1
+**1** Então vi, saindo do mar, uma besta que tinha dez chifres e sete cabeças. Nos seus chifres, dez coroas, e, em cada cabeça, um nome de blasfêmia. ^v1
 
-**2** E a besta que vi era semelhante ao leopardo, e os seus pés como os de urso, e a sua boca como a de leão; e o dragão deu-lhe o seu poder, e o seu trono, e grande poderio. ^v2
+**2** A besta que vi era como leopardo, mas tinha pés como os de urso, e sua boca era como de leão. O dragão deu-lhe o seu poder, seu trono e sua grande autoridade para governar. ^v2
 
-**3** E vi uma das suas cabeças como ferida de morte, e a sua chaga mortal foi curada; e toda a terra se maravilhou após a besta. ^v3
+**3** Uma das cabeças da besta parecia ter sofrido um ferimento mortal, mas a ferida foi curada. E toda a terra maravilhou-se e seguiu a besta. ^v3
 
-**4** E adoraram o dragão que deu à besta o seu poder; e adoraram a besta, dizendo: Quem é semelhante à besta? Quem poderá batalhar contra ela? ^v4
+**4** "E adoraram o dragão, pois havia dado autoridade à besta. E adorou a besta, dizendo: ""Quem é semelhante à besta?"" e ""Quem pode lutar contra ela?""" ^v4
 
-**5** E foi-lhe dada uma boca, para proferir grandes coisas e blasfêmias; e deu-se-lhe poder para agir por quarenta e dois meses. ^v5
+**5** Foi dada à besta uma boca que poderia falar palavras orgulhosas e blasfêmias. Foi-lhe permitido exercer autoridade por quarenta e dois meses. ^v5
 
-**6** E abriu a sua boca em blasfêmias contra Deus, para blasfemar do seu nome, e do seu tabernáculo, e dos que habitam no céu. ^v6
+**6** E abriu a sua boca para falar blasfêmias contra Deus: contra o Seu nome, contra o lugar em que Ele vive e contra aqueles que habitam no céu. ^v6
 
-**7** E foi-lhe permitido fazer guerra aos santos, e vencê-los; e deu-se-lhe poder sobre toda a tribo, e língua, e nação. ^v7
+**7** Foi permitido à besta guerrear contra os santos e conquistá-los. E foi-lhe dada autoridade sobre toda tribo, povo, língua e nação. ^v7
 
-**8** E adoraram-na todos os que habitam sobre a terra, esses cujos nomes não estão escritos no livro da vida do Cordeiro que foi morto desde a fundação do mundo. ^v8
+**8** Adoraram-na todos os que habitam sobre a terra, cujos nomes não estão escritos no Livro da Vida que pertence ao Cordeiro, o qual foi morto. ^v8
 
 **9** Se alguém tem ouvidos, ouça. ^v9
 
-**10** Se alguém leva em cativeiro, em cativeiro irá; se alguém matar à espada, necessário é que à espada seja morto. Aqui está a paciência e a fé dos santos. ^v10
+**10** Se alguém for levado ao cativeiro, ao cativeiro irá. Se alguém for morto à espada, com espada será morto. Eis aqui um chamado à perseverança e à fé para os santos. ^v10
 
-**11** E vi subir da terra outra besta, e tinha dois chifres semelhantes aos de um cordeiro; e falava como o dragão. ^v11
+**11** Então vi outra besta saindo da terra, a qual tinha dois chifres como um cordeiro, e falava como um dragão. ^v11
 
-**12** E exerce todo o poder da primeira besta na sua presença, e faz que a terra e os que nela habitam adorem a primeira besta, cuja chaga mortal fora curada. ^v12
+**12** Exercia toda a autoridade da primeira besta na sua presença e fazia com que a terra e seus habitantes adorassem a primeira besta, cuja ferida mortal havia sido curada. ^v12
 
-**13** E faz grandes sinais, de maneira que até fogo faz descer do céu à terra, à vista dos homens. ^v13
+**13** E realizava poderosos milagres, chegando a fazer descer fogo do céu à terra, diante das pessoas. ^v13
 
-**14** E engana os que habitam na terra com sinais que lhe foi permitido que fizesse em presença da besta, dizendo aos que habitam na terra que fizessem uma imagem à besta que recebera a ferida da espada e vivia. ^v14
+**14** Por causa dos sinais que lhe foram permitido fazer, ela enganava os que viviam na terra, dizendo-lhes para fazer uma imagem em honra à besta que havia sido ferida pela espada, mas que voltou à vida. ^v14
 
-**15** E foi-lhe concedido que desse espírito à imagem da besta, para que também a imagem da besta falasse, e fizesse que fossem mortos todos os que não adorassem a imagem da besta. ^v15
+**15** Foi-lhe dada permissão para dar fôlego à imagem da besta, para que a imagem pudesse falar e causar a morte a todos os que não adorassem a besta. ^v15
 
-**16** E faz que a todos, pequenos e grandes, ricos e pobres, livres e servos, lhes seja posto um sinal na sua mão direita, ou nas suas testas, ^v16
+**16** Ela forçou a todos, pequenos e grandes, ricos e pobres, livres e escravos, a receber uma marca na mão direita ou na testa, ^v16
 
-**17** Para que ninguém possa comprar ou vender, senão aquele que tiver o sinal, ou o nome da besta, ou o número do seu nome. ^v17
+**17** para que ninguém possa comprar ou vender, exceto aquele que tenha tal marca, que é o número do nome dela. ^v17
 
-**18** Aqui há sabedoria. Aquele que tem entendimento, calcule o número da besta; porque é o número de um homem, e o seu número é seiscentos e sessenta e seis. ^v18
+**18** Aqui há sabedoria. Aquele que tem entendimento calcule o número da besta, pois é o número do ser humano, e o seu número é seiscentos e sessenta e seis. ^v18

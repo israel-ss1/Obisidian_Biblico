@@ -1,123 +1,122 @@
 ---
-Livro: "[[1 Samuel|1 Samuel]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/1 Samuel|1 Samuel]]"
+tags: [biblia]
 ---
 
 # 1 Samuel 17
 
-**1** E os filisteus ajuntaram as suas forças para a guerra e congregaram-se em Socó, que está em Judá, e acamparam-se entre Socó e Azeca, no termo de Damim. ^v1
+**1** Os filisteus ajuntaram seus exércitos para a batalha. Eles estavam reunidos em Socó, que pertence a Judá. Eles haviam acampado entre Socó e Azeca, em Efes-Damim. ^v1
 
-**2** Porém Saul e os homens de Israel se ajuntaram e acamparam no vale do carvalho, e ordenaram a batalha contra os filisteus. ^v2
+**2** Saul e os homens de Israel acamparam-se no vale de Elá e formaram sua linha de batalha para encontrar os filisteus. ^v2
 
-**3** E os filisteus estavam num monte de um lado, e os israelitas estavam num monte do outro lado; e o vale estava entre eles. ^v3
+**3** Os filisteus se posicionaram em uma montanha, e Israel se posicionou na montanha do outro lado, com um vale entre eles. ^v3
 
-**4** Então saiu do arraial dos filisteus um homem guerreiro, cujo nome era Golias, de Gate, que tinha de altura seis côvados e um palmo. ^v4
+**4** Um homem forte, cuja altura era de seis côvados e um palmo, saiu do acampamento filisteu. Ele era chamado Golias, de Gate. ^v4
 
-**5** Trazia na cabeça um capacete de bronze, e vestia uma couraça de escamas; e era o peso da couraça de cinco mil siclos de bronze. ^v5
+**5** Ele tinha um capacete de bronze em sua cabeça e estava vestido com uma couraça de ferro. A couraça pesava cinco mil siclos de bronze. ^v5
 
-**6** E trazia grevas de bronze por cima de seus pés, e um escudo de bronze entre os seus ombros. ^v6
+**6** Ele tinha uma armadura de bronze em suas pernas e uma lança de bronze nos ombros. ^v6
 
-**7** E a haste da sua lança era como o eixo do tecelão, e a ponta da sua lança de seiscentos siclos de ferro, e diante dele ia o escudeiro. ^v7
+**7** A vara de seu arpão era grande, com um laço de corda para lançá-la, como a corda em um suporte de tear. A ponta de sua lança pesava seis mil siclos de ferro. Seu escudo ia à sua frente. ^v7
 
-**8** E parou, e clamou às companhias de Israel, e disse-lhes: Para que saireis a ordenar a batalha? Não sou eu filisteu e vós servos de Saul? Escolhei dentre vós um homem que desça a mim. ^v8
+**8** "Golias se levantou e gritou para as tropas de Israel: ""Por que vos posicionastes para a batalha? Não sou eu um filisteu, e não sois vós servos de Saul? Escolhei um homem entre vós e o fazei descer até mim." ^v8
 
-**9** Se ele puder pelejar comigo, e me ferir, a vós seremos por servos; porém, se eu o vencer, e o ferir, então a nós sereis por servos, e nos servireis. ^v9
+**9** "Se ele for capaz de lutar comigo e me matar, então nós nos tornaremos vossos escravos. Mas, se eu derrotá-lo e o matar, então vós sereis nossos escravos, e nos servireis""." ^v9
 
-**10** Disse mais o filisteu: Hoje desafio as companhias de Israel, dizendo: Dai-me um homem, para que ambos pelejemos. ^v10
+**10** "Novamente, o filisteu disse: ""Eu desafio os exércitos de Israel hoje. Dai-me um homem para que lutemos juntos""." ^v10
 
-**11** Ouvindo então Saul e todo o Israel estas palavras do filisteu, espantaram-se, e temeram muito. ^v11
+**11** Quando Saul e todo o Israel ouviram o que disse o filisteu, eles ficaram desencorajados e grandemente amedrontados. ^v11
 
-**12** E Davi era filho de um homem efrateu, de Belém de Judá, cujo nome era Jessé, que tinha oito filhos; e nos dias de Saul era este homem já velho e adiantado em idade entre os homens. ^v12
+**12** Davi era filho de Jessé, um efrateu de Belém de Judá. Jessé tinha oito filhos e era um homem idoso nos dias de Saul, avançado em anos entre os homens. ^v12
 
-**13** Foram-se os três filhos mais velhos de Jessé, e seguiram a Saul à guerra; e eram os nomes de seus três filhos, que se foram à guerra, Eliabe, o primogênito, e o segundo Abinadabe, e o terceiro Sama. ^v13
+**13** Os três filhos mais velhos de Jessé seguiram Saul na batalha. Seus nomes eram: Eliabe, o primogênito, o segundo, Abinadabe e o terceiro, Samá. ^v13
 
-**14** E Davi era o menor; e os três maiores seguiram a Saul. ^v14
+**14** Davi era o mais novo. Os três mais velhos seguiram Saul. ^v14
 
-**15** Davi, porém, ia e voltava de Saul, para apascentar as ovelhas de seu pai em Belém. ^v15
+**15** Então, Davi ia e voltava — por entre o exército de Saul e o rebanho de seu pai, em Belém — para levar alimento aos irmãos. ^v15
 
-**16** Chegava-se, pois, o filisteu pela manhã e à tarde; e apresentou-se por quarenta dias. ^v16
+**16** Por quarenta dias, o homem forte dos filisteus vinha pela manhã e à tarde se apresentar para a batalha. ^v16
 
-**17** E disse Jessé a Davi, seu filho: Toma, peço-te, para teus irmãos um efa deste grão tostado e estes dez pães, e corre a levá-los ao arraial, a teus irmãos. ^v17
+**17** "Então, Jessé disse a seu filho Davi: ""Leva para os teus irmãos um efa deste grão tostado e estes dez pães; leva-os rapidamente para o campo para teus irmãos." ^v17
 
-**18** Porém estes dez queijos de leite leva ao capitão de mil; e visitarás a teus irmãos, a ver se vão bem; e tomarás o seu penhor. ^v18
+**18** Leva também estes dez queijos para o capitão dos mil deles. Vê como teus irmãos estão indo e traz alguma prova de que estão passando bem. ^v18
 
-**19** E estavam Saul, e eles, e todos os homens de Israel no vale do carvalho, pelejando com os filisteus. ^v19
+**19** "Teus irmãos estão com Saul e todos os homens de Israel no vale de Elá, lutando contra os filisteus""." ^v19
 
-**20** Davi então se levantou de madrugada, pela manhã, e deixou as ovelhas com um guarda, e carregou-se, e partiu, como Jessé lhe ordenara; e chegou ao lugar dos carros, quando já o exército saía em ordem de batalha, e a gritos chamavam à peleja. ^v20
+**20** Davi se levantou cedo pela manhã e deixou o rebanho aos cuidados de um pastor. Ele pegou os suprimentos e saiu, como Jessé lhe havia ordenado. Ele veio ao campo enquanto o exército estava saindo do campo de batalha, gritando o lamento de guerra. ^v20
 
-**21** E os israelitas e filisteus se puseram em ordem, fileira contra fileira. ^v21
+**21** E Israel e os filisteus se alinharam para a batalha, exército contra exército. ^v21
 
-**22** E Davi deixou a carga que trouxera na mão do guarda da bagagem, e correu à batalha; e, chegando, perguntou a seus irmãos se estavam bem. ^v22
+**22** Davi deixou seus pertences com o guarda de suprimentos, correu até o exército e cumprimentou seus irmãos. ^v22
 
-**23** E, estando ele ainda falando com eles, eis que vinha subindo do exército dos filisteus o homem guerreiro, cujo nome era Golias, o filisteu de Gate; e falou conforme àquelas palavras, e Davi as ouviu. ^v23
+**23** Enquanto falava com eles, o homem forte, o filisteu de Gate chamado Golias, saiu do meio das tropas dos filisteus e disse as mesmas palavras de antes. E Davi as ouviu. ^v23
 
-**24** Porém todos os homens em Israel, vendo aquele homem, fugiram de diante dele, e temiam grandemente. ^v24
+**24** Quando todos os homens de Israel viram Golias, esquivaram-se dele, pois estavam com muito medo. ^v24
 
-**25** E diziam os homens de Israel: Vistes aquele homem que subiu? Pois subiu para afrontar a Israel; há de ser, pois, que, o homem que o ferir, o rei o enriquecerá de grandes riquezas, e lhe dará a sua filha, e fará livre a casa de seu pai em Israel. ^v25
+**25** "Os homens de Israel disseram: ""Vistes este homem que se levantou? Ele veio para desafiar Israel. E o rei dará ao homem que o matar grandes riquezas, e também lhe dará sua filha em casamento, e fará a casa de seu pai livre dos impostos em Israel""." ^v25
 
-**26** Então falou Davi aos homens que estavam com ele, dizendo: Que farão àquele homem, que ferir a este filisteu, e tirar a afronta de sobre Israel? Quem é, pois, este incircunciso filisteu, para afrontar os exércitos do Deus vivo? ^v26
+**26** "Davi disse aos homens que que estavam perto dele: ""O que será feito pelo homem que matar esse filisteu e tirar a desgraça de sobre Israel? Quem é esse filisteu incircunciso, para que desafie o exército do Deus vivo?""." ^v26
 
-**27** E o povo lhe tornou a falar conforme àquela palavra dizendo: Assim farão ao homem que o ferir. ^v27
+**27** "Então, o povo repetiu o que estavam falando e lhe disseram: ""E isso será feito ao homem que o matar""." ^v27
 
-**28** E, ouvindo Eliabe, seu irmão mais velho, falar àqueles homens, acendeu-se a ira de Eliabe contra Davi, e disse: Por que desceste aqui? Com quem deixaste aquelas poucas ovelhas no deserto? Bem conheço a tua presunção, e a maldade do teu coração, que desceste para ver a peleja. ^v28
+**28** "Eliabe, seu irmão mais velho, ouviu quando ele falou aos homens. Eliabe ficou irado com Davi e disse: ""Por que desceste até aqui? Com quem deixaste as poucas ovelhas no deserto? Eu conheço teus anseios e as travessuras de teu coração; pois tu desceste aqui para que pudesse ver a batalha""." ^v28
 
-**29** Então disse Davi: Que fiz eu agora? Porventura não há razão para isso? ^v29
+**29** "Davi disse: ""O que fiz eu agora? Não foi apenas uma pergunta?""." ^v29
 
-**30** E desviou-se dele para outro, e falou conforme àquela palavra; e o povo lhe tornou a responder conforme às primeiras palavras. ^v30
+**30** Davi se desviou dele para outro, e falou da mesma forma. As pessoas responderam com as mesmas palavras de antes. ^v30
 
-**31** E, ouvidas as palavras que Davi havia falado, as anunciaram a Saul, que mandou chamá-lo. ^v31
+**31** As palavras que Davi disse foram ouvidas, os soldados as repetiram a Saul e ele mandou buscar Davi. ^v31
 
-**32** E Davi disse a Saul: Não desfaleça o coração de ninguém por causa dele; teu servo irá, e pelejará contra este filisteu. ^v32
+**32** "Então, Davi disse a Saul: ""Não deixe que o coração de nenhum homem desfaleça por causa desse filisteu; teu servo irá e lutará com esse filisteu""." ^v32
 
-**33** Porém Saul disse a Davi: Contra este filisteu não poderás ir para pelejar com ele; pois tu ainda és moço, e ele homem de guerra desde a sua mocidade. ^v33
+**33** "Saul disse a Davi: ""Não és capaz de ir contra o filisteu para lutar com ele, pois és apenas um jovem, e ele, um homem de guerra desde a juventude""." ^v33
 
-**34** Então disse Davi a Saul: Teu servo apascentava as ovelhas de seu pai; e quando vinha um leão e um urso, e tomava uma ovelha do rebanho, ^v34
+**34** "Mas Davi disse a Saul: ""Teu servo costumava cuidar das ovelhas de seu pai. Quando um leão ou um urso veio para tomar um cordeiro dentre o rebanho," ^v34
 
-**35** Eu saía após ele e o feria, e livrava-a da sua boca; e, quando ele se levantava contra mim, lançava-lhe mão da barba, e o feria e o matava. ^v35
+**35** eu o persegui, o ataquei e o resgatei de sua boca. E, quando se levantou contra mim, eu o peguei pela sua juba, o feri e o matei. ^v35
 
-**36** Assim feria o teu servo o leão, como o urso; assim será este incircunciso filisteu como um deles; porquanto afrontou os exércitos do Deus vivo. ^v36
+**36** "Teu servo matou ambos, o leão e o urso. Este filisteu incircunciso será como um deles, uma vez que ele desafiou o exército do Deus vivo""." ^v36
 
-**37** Disse mais Davi: O Senhor me livrou das garras do leão, e das do urso; ele me livrará da mão deste filisteu. Então disse Saul a Davi: Vai, e o Senhor seja contigo. ^v37
+**37** "Davi disse: ""Yahweh me resgatou das garras do leão e das garras do urso. Ele me resgatará das mãos desse filisteu"". Então, Saul disse a Davi: ""Vai, e que Yahweh seja contigo""." ^v37
 
-**38** E Saul vestiu a Davi de suas vestes, e pôs-lhe sobre a cabeça um capacete de bronze; e o vestiu de uma couraça. ^v38
+**38** Saul vestiu Davi com sua armadura. Ele colocou o capacete de bronze sobre sua cabeça e o vestiu com uma couraça. ^v38
 
-**39** E Davi cingiu a espada sobre as suas vestes, e começou a andar; porém nunca o havia experimentado; então disse Davi a Saul: Não posso andar com isto, pois nunca o experimentei. E Davi tirou aquilo de sobre si. ^v39
+**39** "Davi assentou sua espada em sua armadura. Mas ele não era capaz de andar, pois não havia sido treinado para usá-la. Então, Davi disse a Saul: ""Eu não posso ir à luta com isto, pois não tenho costume de usá-la"". Então, Davi as tirou." ^v39
 
-**40** E tomou o seu cajado na mão, e escolheu para si cinco seixos do ribeiro, e pô-los no alforje de pastor, que trazia, a saber, no surrão, e lançou mão da sua funda; e foi aproximando-se do filisteu. ^v40
+**40** Ele tomou sua vara nas mãos e pegou cinco pedras polidas do córrego; ele as colocou em sua bolsa de pastor. Sua funda estava em suas mãos e ele se aproximou do filisteu. ^v40
 
-**41** O filisteu também vinha se aproximando de Davi; e o que lhe levava o escudo ia adiante dele. ^v41
+**41** O filisteu veio e se aproximou de Davi, com seu escudeiro à sua frente. ^v41
 
-**42** E, olhando o filisteu, e vendo a Davi, o desprezou, porquanto era moço, ruivo, e de gentil aspecto. ^v42
+**42** Quando o filisteu olhou e viu Davi, ele o desprezou, pois era apenas um menino ruivo, com uma aparência agradável. ^v42
 
-**43** Disse, pois, o filisteu a Davi: Sou eu algum cão, para tu vires a mim com paus? E o filisteu pelos seus deuses amaldiçoou a Davi. ^v43
+**43** "Então, o filisteu disse a Davi: ""Sou eu um cão, para que venhas a mim com gravetos?"". E o filisteu amaldiçoou Davi em nome de seus deuses." ^v43
 
-**44** Disse mais o filisteu a Davi: Vem a mim, e darei a tua carne às aves do céu e às bestas do campo. ^v44
+**44** "O filisteu disse ainda: ""Vem até mim e eu darei a tua carne aos pássaros do céu e às bestas do campo""." ^v44
 
-**45** Davi, porém, disse ao filisteu: Tu vens a mim com espada, e com lança, e com escudo; porém eu venho a ti em nome do Senhor dos Exércitos, o Deus dos exércitos de Israel, a quem tens afrontado. ^v45
+**45** "Davi respondeu ao filisteu: ""Tu vens a mim com uma espada, uma lança e um dardo. Mas eu venho a ti, no nome de Yahweh dos Exércitos, o Deus dos exércitos de Israel, a quem desafiaste." ^v45
 
-**46** Hoje mesmo o Senhor te entregará na minha mão, e ferir-te-ei, e tirar-te-ei a cabeça, e os corpos do arraial dos filisteus darei hoje mesmo às aves do céu e às feras da terra; e toda a terra saberá que há Deus em Israel; ^v46
+**46** Hoje, Yahweh me dará vitória sobre ti, e eu te matarei e tirarei a cabeça de teu corpo. Hoje, eu darei os corpos do exército dos filisteus aos pássaros nos céus e às bestas feras da terra; ^v46
 
-**47** E saberá toda esta congregação que o Senhor salva, não com espada, nem com lança; porque do Senhor é a guerra, e ele vos entregará na nossa mão. ^v47
+**47** "e toda esta multidão saberá que há Deus em Israel; e toda esta multidão saberá que Yahweh dá a vitória não através de espadas ou lanças, pois a batalha é de Yahweh, e Ele vos entregará em nossas mãos""." ^v47
 
-**48** E sucedeu que, levantando-se o filisteu, e indo encontrar-se com Davi, apressou-se Davi, e correu ao combate, a encontrar-se com o filisteu. ^v48
+**48** Quando o filisteu se levantou e veio ao encontro de Davi, este correu rapidamente em direção ao exército inimigo, para encontrá-lo. ^v48
 
-**49** E Davi pôs a mão no alforje, e tomou dali uma pedra e com a funda lha atirou, e feriu o filisteu na testa, e a pedra se lhe encravou na testa, e caiu sobre o seu rosto em terra. ^v49
+**49** Davi colocou sua mão em sua bolsa, pegou uma pedra, lançou-a com o estilingue, e acertou o filisteu na testa. A pedra entrou na testa do filisteu, e ele caiu com o rosto no chão. ^v49
 
-**50** Assim Davi prevaleceu contra o filisteu, com uma funda e com uma pedra, e feriu o filisteu, e o matou; sem que Davi tivesse uma espada na mão. ^v50
+**50** Davi derrotou o filisteu com um estilingue e uma pedra. Ele acertou o filisteu e o matou. Não havia espada nas mãos de Davi. ^v50
 
-**51** Por isso correu Davi, e pôs-se em pé sobre o filisteu, e tomou a sua espada, e tirou-a da bainha, e o matou, e lhe cortou com ela a cabeça; vendo então os filisteus, que o seu herói era morto, fugiram. ^v51
+**51** Então, Davi correu e se pôs sobre o filisteu, desembainhou a espada dele e o matou, cortando-lhe fora a cabeça. Quando os filisteus viram que seu guerreiro forte estava morto, eles fugiram. ^v51
 
-**52** Então os homens de Israel e Judá se levantaram, e jubilaram, e seguiram os filisteus, até chegar ao vale, e até às portas de Ecrom; e caíram os feridos dos filisteus pelo caminho de Saaraim até Gate e até Ecrom. ^v52
+**52** Então, os homens de Israel e de Judá se levantaram com gritos e perseguiram os filisteus até o vale e os portões de Ecrom. E os filisteus mortos caíram no caminho para Saraim, em todo o caminho de Gate a Ecrom. ^v52
 
-**53** Então voltaram os filhos de Israel de perseguirem os filisteus, e despojaram os seus arraiais. ^v53
+**53** Então, os homens de Israel voltaram da perseguição aos filisteus e saquearam seu acampamento. ^v53
 
-**54** E Davi tomou a cabeça do filisteu, e a trouxe a Jerusalém; porém pôs as armas dele na sua tenda. ^v54
+**54** Davi pegou a cabeça do filisteu e a trouxe a Jerusalém, mas colocou sua armadura em sua tenda. ^v54
 
-**55** Vendo, porém, Saul, sair Davi a encontrar-se com o filisteu, disse a Abner, o capitão do exército: De quem é filho este moço, Abner? E disse Abner: Vive a tua alma, ó rei, que o não sei. ^v55
+**55** "Quando Saul viu Davi sair em direção ao filisteu, ele disse a Abner, o capitão do exército: ""Abner, de quem este jovem é filho?"". Abner disse: ""Como tu vives, rei, eu não o sei""." ^v55
 
-**56** Disse então o rei: Pergunta, pois, de quem é filho este moço. ^v56
+**56** "O rei disse: ""Pergunta a quem deve saber, de quem este é filho""." ^v56
 
-**57** Voltando, pois, Davi de ferir o filisteu, Abner o tomou consigo, e o trouxe à presença de Saul, trazendo ele na mão a cabeça do filisteu. ^v57
+**57** Quando Davi retornou após matar o filisteu, Abner o tomou e o trouxe para diante de Saul, com a cabeça do filisteu em sua mão. ^v57
 
-**58** E disse-lhe Saul: De quem és filho, jovem? E disse Davi: Filho de teu servo Jessé, belemita. ^v58
+**58** "Saul lhe perguntou: ""De quem és filho, meu jovem?"". Davi respondeu: ""Eu sou filho do teu servo Jessé, o belemita""." ^v58

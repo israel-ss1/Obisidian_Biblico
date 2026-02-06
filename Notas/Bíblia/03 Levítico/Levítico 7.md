@@ -1,83 +1,82 @@
 ---
-Livro: "[[Levítico|Levítico]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Levítico|Levítico]]"
+tags: [biblia]
 ---
 
 # Levítico 7
 
-**1** E esta é a lei da expiação da culpa; coisa santíssima é. ^v1
+**1** Esta é a lei da oferta pela culpa. ^v1
 
-**2** No lugar onde degolam o holocausto, degolarão a oferta pela expiação da culpa, e o seu sangue se espargirá sobre o altar em redor. ^v2
+**2** É santíssima. Eles deverão sacrificar o animal oferecido pela culpa no lugar em que sacrificam o holocausto e devem aspergir seu sangue por todos os lados do altar. ^v2
 
-**3** E dela se oferecerá toda a sua gordura; a cauda, e a gordura que cobre a fressura. ^v3
+**3** Toda a gordura contida nela será oferecida: a gordura da cauda, a gordura de suas vísceras, ^v3
 
-**4** Também ambos os rins, e a gordura que neles há, que está junto aos lombos, e o redenho sobre o fígado, com os rins se tirará; ^v4
+**4** os dois rins e a gordura neles, que estão perto dos lombos, e que cobre o fígado, com os rins — tudo isso deve ser tirado. ^v4
 
-**5** E o sacerdote os queimará sobre o altar em oferta queimada ao Senhor; expiação da culpa é. ^v5
+**5** O sacerdote deverá queimar essas partes no altar como uma oferta feita pelo fogo a Yahweh. Esta é a oferta pela culpa. ^v5
 
-**6** Todo o varão entre os sacerdotes a comerá; no lugar santo se comerá; coisa santíssima é. ^v6
+**6** Todo homem entre os sacerdotes deve comer parte desta oferta. Deve ser comida em um lugar santo, pois é santíssima. ^v6
 
-**7** Como a expiação pelo pecado, assim será a expiação da culpa; uma mesma lei haverá para elas; será do sacerdote que houver feito propiciação com ela. ^v7
+**7** A oferta pelo pecado é como a oferta pela culpa. A mesma lei se aplica a ambas. Elas pertencem ao sacerdote que fizer expiação com elas. ^v7
 
-**8** Também o sacerdote, que oferecer o holocausto de alguém, terá para si o couro do holocausto que oferecer. ^v8
+**8** O sacerdote, que oferecer o holocausto de alguém, deve ter para si o couro desta oferta. ^v8
 
-**9** Como também toda a oferta que se cozer no forno, com tudo que se preparar na frigideira e na caçoula, será do sacerdote que a oferecer. ^v9
+**9** Toda oferta de cereais, que for assada em um forno, e toda oferta semelhantemente cozida em uma frigideira ou em uma assadeira pertencerá ao sacerdote qua a oferecer. ^v9
 
-**10** Também toda a oferta amassada com azeite, ou seca, será de todos os filhos de Arão, assim de um como de outro. ^v10
+**10** Toda oferta de cereais, seja seca ou misturada com azeite, pertencerá igualmente a todos os descendentes de Arão. ^v10
 
-**11** E esta é a lei do sacrifício pacífico que se oferecerá ao Senhor: ^v11
+**11** Esta é a lei do sacrifício da oferta pacífica, a qual o povo oferecerá a Yahweh. ^v11
 
-**12** Se o oferecer por oferta de ação de graças, com o sacrifício de ação de graças, oferecerá bolos ázimos amassados com azeite; e coscorões ázimos amassados com azeite; e os bolos amassados com azeite serão fritos, de flor de farinha. ^v12
+**12** Se alguém a oferecer com o propósito de dar graças, então deve oferecê-la com um sacrifício de bolos feitos sem fermento, mas misturados com azeite, de bolos feitos sem fermento, mas amassados com azeite e de bolos feitos com farinha fina, que é misturada com azeite. ^v12
 
-**13** Com os bolos oferecerá por sua oferta pão levedado, com o sacrifício de ação de graças da sua oferta pacífica. ^v13
+**13** Também para o propósito de dar graças, ele deve oferecer, com esta oferta pacífica, bolos de pães feitos com fermento. ^v13
 
-**14** E de toda a oferta oferecerá uma parte por oferta alçada ao Senhor, que será do sacerdote que espargir o sangue da oferta pacífica. ^v14
+**14** Ele deve oferecer um de cada tipo desses sacrifícios como uma oferta apresentada a Yahweh. Isso pertencerá ao sacerdote que aspergir o sangue da oferta pacífica no altar. ^v14
 
-**15** Mas a carne do sacrifício de ação de graças da sua oferta pacífica se comerá no dia do seu oferecimento; nada se deixará dela até à manhã. ^v15
+**15** Quem apresenta uma oferta pacífica com o propósito de dar graças deve comer da carne de sua oferta no dia do sacrifício. Ele não deve deixar nada sobrar até a manhã seguinte. ^v15
 
-**16** E, se o sacrifício da sua oferta for voto, ou oferta voluntária, no dia em que oferecer o seu sacrifício se comerá; e o que dele ficar também se comerá no dia seguinte; ^v16
+**16** Mas, se o sacrifício de sua oferta é para o propósito de um voto, ou com o propósito de uma oferta espontânea, a carne deve ser comida no dia que ele a oferecer em sacrifício, mas qualquer coisa que sobrar disso pode ser comida no dia seguinte. ^v16
 
-**17** E o que ainda ficar da carne do sacrifício ao terceiro dia será queimado no fogo. ^v17
+**17** De qualquer modo, qualquer carne do sacrifício, que perdurar ao terceiro dia, deve ser queimada. ^v17
 
-**18** Porque, se da carne do seu sacrifício pacífico se comer ao terceiro dia, aquele que a ofereceu não será aceito, nem lhe será imputado; coisa abominável será, e a pessoa que dela comer levará a sua iniqüidade. ^v18
+**18** Se alguma carne do sacrifício de uma oferta pacífica de alguém for comida ao terceiro dia, ela não será aceita, nem terá valor para quem a ofereceu. Será algo abominável, e a pessoa que a comer carregará a culpa de seu pecado. ^v18
 
-**19** E a carne que tocar alguma coisa imunda não se comerá; com fogo será queimada; mas da outra carne, qualquer que estiver limpo, comerá dela. ^v19
+**19** Qualquer carne que tocar alguma coisa impura não deve ser consumida. Deve ser queimada. Quanto ao resto da carne, qualquer um que é limpo pode comê-la. ^v19
 
-**20** Porém, se alguma pessoa comer a carne do sacrifício pacífico, que é do Senhor, tendo ela sobre si a sua imundícia, aquela pessoa será extirpada do seu povo. ^v20
+**20** Contudo, uma pessoa impura, que comer carne do sacrifício de uma oferta pacífica que pertence a Yahweh, essa pessoa deve ser cortada de seu povo. ^v20
 
-**21** E, se uma pessoa tocar alguma coisa imunda, como imundícia de homem, ou gado imundo, ou qualquer abominação imunda, e comer da carne do sacrifício pacífico, que é do Senhor, aquela pessoa será extirpada do seu povo. ^v21
+**21** "Se alguém tocar algo impuro — tanto impureza de homem, ou impureza de besta, ou alguma coisa impura ou repulsiva, e se ele depois comer da carne do sacrifício da oferta pacífica que pertence a Yahweh, esta pessoa deve ser eliminada de meio do seu povo'""." ^v21
 
-**22** Depois falou o Senhor a Moisés, dizendo: ^v22
+**22** Então Yahweh falou a Moisés, dizendo: ^v22
 
-**23** Fala aos filhos de Israel, dizendo: Nenhuma gordura de boi, nem de carneiro, nem de cabra comereis; ^v23
+**23** """Fala ao povo de Israel e diga: 'Não comais gordura alguma de boi ou de ovelha ou de bode." ^v23
 
-**24** Porém pode-se usar da gordura de corpo morto, e da gordura do dilacerado por feras, para toda a obra, mas de nenhuma maneira a comereis; ^v24
+**24** A gordura do animal que morreu sem ser em um sacrifício, ou a gordura de um animal degolado por animais selvagens, deve ser usada para outros propósitos, mas certamente não devais comê-la. ^v24
 
-**25** Porque qualquer que comer a gordura do animal, do qual se oferecer ao Senhor oferta queimada, a pessoa que a comer será extirpada do seu povo. ^v25
+**25** Qualquer pessoa que comer da gordura do animal que pode ser oferecido como oferta queimada a Yahweh deve ser eliminada do meio de seu povo. ^v25
 
-**26** E nenhum sangue comereis em qualquer das vossas habitações, quer de aves quer de gado. ^v26
+**26** Não comais nenhum sangue em nehuma de suas casas, quer seja de um pássaro ou de um animal. ^v26
 
-**27** Toda a pessoa que comer algum sangue, aquela pessoa será extirpada do seu povo. ^v27
+**27** "Qualquer pessoa que comer sangue deve ser eliminada do meio de seu povo'""." ^v27
 
-**28** Falou mais o Senhor a Moisés, dizendo: ^v28
+**28** Então Yahweh falou a Moisés, dizendo: ^v28
 
-**29** Fala aos filhos de Israel, dizendo: Quem oferecer ao Senhor o seu sacrifício pacífico, trará a sua oferta ao Senhor do seu sacrifício pacífico. ^v29
+**29** """Fala ao povo de Israel e diz: 'Aquele que oferecer uma oferta pacífica a Yahweh deve trazer parte desse sacrifício a Yahweh." ^v29
 
-**30** As suas próprias mãos trarão as ofertas queimadas do Senhor; a gordura do peito com o peito trará para movê-lo por oferta movida perante o Senhor. ^v30
+**30** A oferta para Yahweh deve ser queimada e trazida com suas próprias mãos. Ele deve trazer a gordura com o peitoral, para que seja uma oferta erguida, apresentada diante de Yahweh. ^v30
 
-**31** E o sacerdote queimará a gordura sobre o altar, porém o peito será de Arão e de seus filhos. ^v31
+**31** O sacerdote deve queimar a gordura no altar, mas o peito deverá pertencer a Arão e a seus descendentes. ^v31
 
-**32** Também a espádua direita dareis ao sacerdote por oferta alçada dos vossos sacrifícios pacíficos. ^v32
+**32** Vós deveis dar a coxa direita da oferta ao sacerdote como um presente, à parte do sacrifício de suas ofertas pacíficas. ^v32
 
-**33** Aquele dos filhos de Arão que oferecer o sangue do sacrifício pacífico, e a gordura, esse terá a espádua direita para a sua porção; ^v33
+**33** O sacerdote, um dos descendentes de Arão, que oferece o sangue da oferta pacífica e a gordura — ele terá a coxa direita como sua porção da oferta. ^v33
 
-**34** Porque o peito movido e a espádua alçada tomei dos filhos de Israel dos seus sacrifícios pacíficos, e os dei a Arão, o sacerdote, e a seus filhos, por estatuto perpétuo dos filhos de Israel. ^v34
+**34** Pois Eu tenho tomado do povo de Israel o peito e a coxa da oferta apresentada e erguida a Mim, e Eu as dei a Arão, o sumo sacerdote e a seus descendentes; essas serão sempre a porção dos sacrifícios das ofertas pacíficas feitas pelo povo de Israel. ^v34
 
-**35** Esta é a porção de Arão e a porção de seus filhos das ofertas queimadas do Senhor, desde o dia em que ele os apresentou para administrar o sacerdócio ao Senhor. ^v35
+**35** Esta é a porção de Arão e seus descendentes das ofertas queimadas a Yahweh, no dia que Moisés os apresentou para servir a Yahweh no ofício de sacerdote. ^v35
 
-**36** O que o Senhor ordenou que se lhes desse dentre os filhos de Israel no dia em que os ungiu; estatuto perpétuo é pelas suas gerações. ^v36
+**36** Esta é a porção que Yahweh ordenou que fosse dada do povo de Israel, no dia em que Ele ungiu os sacerdotes. Isso será sempre sua porção por todas as gerações. ^v36
 
-**37** Esta é a lei do holocausto, da oferta de alimentos, e da expiação do pecado, e da expiação da culpa, e da oferta das consagrações, e do sacrifício pacífico, ^v37
+**37** Esta é a lei do holocausto, da oferta de cereais, da oferta pelo pecado, da oferta pela culpa, da oferta da consagração, e do sacrifício das ofertas pacíficas, ^v37
 
-**38** Que o Senhor ordenou a Moisés no monte Sinai, no dia em que ordenou aos filhos de Israel que oferecessem as suas ofertas ao Senhor, no deserto de Sinai. ^v38
+**38** "sobre as quais Yahweh deu ordens a Moisés no Monte Sinai no dia em que ordenou ao povo de Israel que oferecesse seus sacrifícios a Yahweh no deserto do Sinai'""." ^v38

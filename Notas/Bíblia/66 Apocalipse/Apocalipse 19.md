@@ -1,49 +1,48 @@
 ---
-Livro: "[[Apocalipse|Apocalipse]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Apocalipse|Apocalipse]]"
+tags: [biblia]
 ---
 
 # Apocalipse 19
 
-**1** E, depois destas coisas ouvi no céu uma grande voz de uma grande multidão, que dizia: Aleluia! A salvação, e a glória, e a honra, e o poder pertencem ao Senhor nosso Deus; ^v1
+**1** "Depois destas coisas, ouvi no céu como uma forte voz de uma grande multidão, dizendo: ""Louvai a Yahweh! Salvação, glória e poder pertencem ao nosso Deus." ^v1
 
-**2** Porque verdadeiros e justos são os seus juízos, pois julgou a grande prostituta, que havia corrompido a terra com a sua fornicação, e das mãos dela vingou o sangue dos seus servos. ^v2
+**2** "Seus julgamentos são verdadeiros e justos, pois julgou a grande prostituta que corrompeu a terra com a sua imoralidade sexual. Ele tomou vingança pelo sangue dos seus servos, o qual ela mesma derramou""." ^v2
 
-**3** E outra vez disseram: Aleluia! E a fumaça dela sobe para todo o sempre. ^v3
+**3** "Pela segunda vez, disseram: ""Louvai a Yahweh! A fumaça dela sobe para sempre e sempre""." ^v3
 
-**4** E os vinte e quatro anciãos, e os quatro animais, prostraram-se e adoraram a Deus, que estava assentado no trono, dizendo: Amém. Aleluia! ^v4
+**4** "Os vinte e quatro anciãos e os quatro seres viventes se prostraram e adoraram a Deus, que estava sentado no trono, dizendo: ""Amém. Louvai a Yahweh""!" ^v4
 
-**5** E saiu uma voz do trono, que dizia: Louvai o nosso Deus, vós, todos os seus servos, e vós que o temeis, assim pequenos como grandes. ^v5
+**5** "Então saiu uma voz do trono, dizendo: ""Louvai ao nosso Deus todos os seus servos, vós que O temeis, tanto pequenos como grandes""." ^v5
 
-**6** E ouvi como que a voz de uma grande multidão, e como que a voz de muitas águas, e como que a voz de grandes trovões, que dizia: Aleluia! pois já o Senhor Deus Todo-Poderoso reina. ^v6
+**6** "Então ouvi uma voz como de uma grande e numerosa multidão, como o rugido de muitas águas e como a voz de fortes trovões, dizendo: ""Louvai a Yahweh! Porque o Senhor, o Deus Todo-Poderoso, reina." ^v6
 
-**7** Regozijemo-nos, e alegremo-nos, e demos-lhe glória; porque vindas são as bodas do Cordeiro, e já a sua esposa se aprontou. ^v7
+**7** "Alegremo-nos, exultemos e demos-lhe a glória, porque são chegadas as bodas do Cordeiro, e sua noiva já se preparou""." ^v7
 
-**8** E foi-lhe dado que se vestisse de linho fino, puro e resplandecente; porque o linho fino são as justiças dos santos. ^v8
+**8** "Foi permitido que ela vestisse de linho fino, puro e resplandecente"" (o linho fino são os atos justos dos santos.)" ^v8
 
-**9** E disse-me: Escreve: Bemaventurados aqueles que são chamados à ceia das bodas do Cordeiro. E disse-me: Estas são as verdadeiras palavras de Deus. ^v9
+**9** "O anjo me disse: ""Escreva isto: Bem aventurados aqueles que são convidados para as bodas do Cordeiro"". E também disse: ""São estas as verdadeiras palavras de Deus""." ^v9
 
-**10** E eu lancei-me a seus pés para o adorar; mas ele disse-me: Olha não faças tal; sou teu conservo, e de teus irmãos, que têm o testemunho de Jesus. Adora a Deus; porque o testemunho de Jesus é o espírito de profecia. ^v10
+**10** "Prostrei-me ante os seus pés para adorá-lo, porém ele me disse: ""Não faças isso! Eu sou um servo com você e seus irmãos que mantêm o testemunho de Jesus. Adora a Deus, pois o testemunho de Jesus é o espírito da profecia""." ^v10
 
-**11** E vi o céu aberto, e eis um cavalo branco; e o que estava assentado sobre ele chama-se Fiel e Verdadeiro; e julga e peleja com justiça. ^v11
+**11** Então vi o céu aberto e olhei, e havia um cavalo branco cujo cavaleiro é chamado de Fiel e Verdadeiro. Ele julga e guerreia com justiça. ^v11
 
-**12** E os seus olhos eram como chama de fogo; e sobre a sua cabeça havia muitos diademas; e tinha um nome escrito, que ninguém sabia senão ele mesmo. ^v12
+**12** Seus olhos são como chamas de fogo e, na sua cabeça, há muitos diademas e um nome escrito que ninguém conhece a não ser Ele mesmo. ^v12
 
-**13** E estava vestido de veste tingida em sangue; e o nome pelo qual se chama é A Palavra de Deus. ^v13
+**13** Ele está vestido com um manto tingido de sangue, e seu nome se chama Palavra de Deus. ^v13
 
-**14** E seguiam-no os exércitos no céu em cavalos brancos, e vestidos de linho fino, branco e puro. ^v14
+**14** Os exércitos do céu seguiam-no em cavalos brancos, vestidos em linho fino, branco e puro. ^v14
 
-**15** E da sua boca saía uma aguda espada, para ferir com ela as nações; e ele as regerá com vara de ferro; e ele mesmo é o que pisa o lagar do vinho do furor e da ira do Deus Todo-Poderoso. ^v15
+**15** De sua boca sai uma espada afiada com a qual Ele fere as nações. Ele as governará com vara de ferro e pisará o lagar da fúria da ira do Deus Todo-Poderoso. ^v15
 
-**16** E no manto e na sua coxa tem escrito este nome: Rei dos reis, e Senhor dos senhores. ^v16
+**16** Ele tem um nome escrito no seu manto e na sua coxa: Rei dos reis e Senhor dos senhores. ^v16
 
-**17** E vi um anjo que estava no sol, e clamou com grande voz, dizendo a todas as aves que voavam pelo meio do céu: Vinde, e ajuntai-vos à ceia do grande Deus; ^v17
+**17** "Vi um anjo em pé, no Sol, que clamava a todas as aves do céu em alta voz dizendo: ""Venham, reúnam-se para a grande ceia de Deus." ^v17
 
-**18** Para que comais a carne dos reis, e a carne dos tribunos, e a carne dos fortes, e a carne dos cavalos e dos que sobre eles se assentam; e a carne de todos os homens, livres e servos, pequenos e grandes. ^v18
+**18** "Venham e comam a carne de reis, a carne de comandantes, a carne de homens poderosos, a carne de cavalos e seus cavaleiros e a carne de todos os homens, quer livres quer escravos, tanto pequenos como grandes""." ^v18
 
-**19** E vi a besta, e os reis da terra, e os seus exércitos reunidos, para fazerem guerra àquele que estava assentado sobre o cavalo, e ao seu exército. ^v19
+**19** Vi a besta e os reis da terra com os seus exércitos. Eles estavam se preparando para guerrear contra Aquele que estava montado no cavalo e contra o seu exército. ^v19
 
-**20** E a besta foi presa, e com ela o falso profeta, que diante dela fizera os sinais, com que enganou os que receberam o sinal da besta, e adoraram a sua imagem. Estes dois foram lançados vivos no lago de fogo que arde com enxofre. ^v20
+**20** A besta foi capturada e, com ela, o falso profeta que realizava os sinais na presença dela. Com esses sinais ele enganou os que receberam a marca da besta e os que adoravam sua imagem. Os dois foram jogados vivos no lago que arde com enxofre. ^v20
 
-**21** E os demais foram mortos com a espada que saía da boca do que estava assentado sobre o cavalo, e todas as aves se fartaram das suas carnes. ^v21
+**21** Os demais foram mortos pela espada que saía da boca Daquele que montava no cavalo. Todas as aves se fartaram com a carne de seus cadáveres. ^v21

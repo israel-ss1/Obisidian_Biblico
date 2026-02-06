@@ -1,59 +1,58 @@
 ---
-Livro: "[[Números|Números]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Números|Números]]"
+tags: [biblia]
 ---
 
 # Números 8
 
-**1** E falou o SENHOR a Moisés, dizendo: ^v1
+**1** Yahweh falou a Moisés. Ele disse: ^v1
 
-**2** Fala a Arão, e dize-lhe: Quando acenderes as lâmpadas, as sete lâmpadas iluminarão o espaço em frente do candelabro. ^v2
+**2** """Fala a Arão e dize-lhe: 'As sete lâmpadas devem iluminar em frente ao candelabro quando tu acendê-las'""." ^v2
 
-**3** E Arão fez assim: Acendeu as lâmpadas do candelabro para iluminar o espaço em frente, como o Senhor ordenara a Moisés. ^v3
+**3** Arão fez isso. Ele acendeu as lâmpadas no candelabro para iluminar em frente deste, como Yahweh tinha ordenado a Moisés. ^v3
 
-**4** E era esta a obra do candelabro, obra de ouro batido; desde o seu pé até às suas flores era ele de ouro batido; conforme ao modelo que o Senhor mostrara a Moisés, assim ele fez o candelabro. ^v4
+**4** O candelabro era feito de ouro batido desde a sua base até o seu topo, com copos batidos em forma de flores, como Yahweh mostrou a Moisés, assim Moisés fez o candelabro. ^v4
 
-**5** E falou o Senhor a Moisés, dizendo: ^v5
+**5** Novamente, Yahweh falou a Moisés. Ele disse: ^v5
 
-**6** Toma os levitas do meio dos filhos de Israel e purifica-os; ^v6
+**6** """Toma os levitas dentre o povo de Israel e purifica-os." ^v6
 
-**7** E assim lhes farás, para os purificar: Esparge sobre eles a água da expiação; e sobre toda a sua carne farão passar a navalha, e lavarão as suas vestes, e se purificarão. ^v7
+**7** Assim farás para purificá-los: Asperge a água da expiação neles. Faze-os rasparem todo o corpo, lavarem suas roupas, e dessa maneira ficarão purificados. ^v7
 
-**8** Então tomarão um novilho, com a sua oferta de alimentos de flor de farinha amassada com azeite; e tomarás tu outro novilho, para expiação do pecado. ^v8
+**8** Então faze-os pegar um novilho com sua oferta de grãos de flor de farinha amassada com azeite. Permite que peguem outro novilho para oferta pelo pecado. ^v8
 
-**9** E farás chegar os levitas perante a tenda da congregação e ajuntarás toda a congregação dos filhos de Israel. ^v9
+**9** Apresentarás os levitas perante a Tenda do Encontro, e reunirás toda a comunidade do povo de Israel. ^v9
 
-**10** Farás, pois, chegar os levitas perante o Senhor; e os filhos de Israel porão as suas mãos sobre os levitas. ^v10
+**10** Quando apresentares os levitas diante de Yahweh, o povo de Israel colocará as suas mãos sobre os levitas. ^v10
 
-**11** E Arão oferecerá os levitas por oferta movida, perante o Senhor, pelos filhos de Israel; e serão para servirem no ministério do Senhor. ^v11
+**11** Arão oferecerá os levitas diante de Yahweh, apresentando-os como oferta movida do povo de Israel para que sirvam Yahweh. ^v11
 
-**12** E os levitas colocarão as suas mãos sobre a cabeça dos novilhos; então sacrifica tu, um para expiação do pecado, e o outro para holocausto ao Senhor, para fazer expiação pelos levitas. ^v12
+**12** Os levitas colocarão suas mãos sobre as cabeças dos novilhos. Tu sacrificarás um novilho para oferta pelo pecado e o outro novilho para holocausto para Mim, para expiação dos levitas. ^v12
 
-**13** E porás os levitas perante Arão, e perante os seus filhos, e os oferecerá por oferta movida ao Senhor. ^v13
+**13** Apresenta os levitas diante de Arão e diante de seus filhos, e oferece-os como oferta movida para Mim. ^v13
 
-**14** E separarás os levitas do meio dos filhos de Israel, para que os levitas sejam meus. ^v14
+**14** Dessa maneira tu separarás os levitas dentre o povo de Israel. Os levitas pertencerão a Mim. ^v14
 
-**15** E depois os levitas entrarão para fazerem o serviço da tenda da congregação; e tu os purificarás, e por oferta movida os oferecerás. ^v15
+**15** Depois disso, os levitas entrarão para servir na Tenda do Encontro. Tu os purificarás. Tu os oferecerás para Mim como oferta movida. ^v15
 
-**16** Porquanto eles, dentre os filhos de Israel, me são dados; em lugar de todo aquele que abre a madre, do primogênito de cada um dos filhos de Israel, para mim os tenho tomado. ^v16
+**16** Faz isso, pois eles são inteiramente Meus dentre o povo de Israel. Eles tomarão o lugar de cada menino que abre o ventre, o primogênito de toda a descendência de Israel. Eu tenho tomado os levitas para Mim mesmo. ^v16
 
-**17** Porque meu é todo o primogênito entre os filhos de Israel, entre os homens e entre os animais; no dia em que, na terra do Egito, feri a todo o primogênito, os santifiquei para mim. ^v17
+**17** Todos os primogênitos entre o povo de Israel são Meus, tanto de homens quanto de animais. No dia em que Eu tirei as vidas de todos os primogênitos na terra do Egito, Eu os consagrei para Mim mesmo. ^v17
 
-**18** E tomei os levitas em lugar de todo o primogênito entre os filhos de Israel. ^v18
+**18** Eu tomei os levitas dentre o povo de Israel em lugar de todo o primogênito. ^v18
 
-**19** E os levitas, dados a Arão e a seus filhos, dentre os filhos de Israel, tenho dado para ministrarem o ministério dos filhos de Israel na tenda da congregação e para fazer expiação pelos filhos de Israel, para que não haja praga entre eles, chegando-se os filhos de Israel ao santuário. ^v19
+**19** "Concedi os levitas como presente para Arão e seus filhos. Eu os tomei, dentre o povo de Israel, para fazerem o trabalho do povo, na Tenda do Encontro. Eu os concedi para fazerem expiação pelo povo de Israel, para que nenhuma praga prejudique o povo de Israel, quando aproximarem-se do lugar santo""." ^v19
 
-**20** E assim fizeram Moisés e Arão, e toda a congregação dos filhos de Israel, com os levitas; conforme a tudo o que o Senhor ordenara a Moisés acerca dos levitas, assim os filhos de Israel lhes fizeram. ^v20
+**20** Assim Moisés, Arão, e toda comunidade do povo de Israel fizeram com os levitas. Eles fizeram tudo o que Yahweh ordenara a Moisés acerca dos levitas. Assim lhes fizeram o povo de Israel. ^v20
 
-**21** E os levitas se purificaram, e lavaram as suas vestes, e Arão os ofereceu por oferta movida perante o Senhor, e Arão fez expiação por eles, para purificá-los. ^v21
+**21** Os levitas purificaram a si mesmos dos pecados lavando suas roupas, e Arão apresentou-os por oferta movida para Yahweh e fez expiação por eles, para que fossem purificados. ^v21
 
-**22** E depois vieram os levitas, para exercerem o seu ministério na tenda da congregação, perante Arão e perante os seus filhos; como o Senhor ordenara a Moisés acerca dos levitas, assim lhes fizeram. ^v22
+**22** Depois disso, os levitas entraram para fazer o serviço deles na Tenda do Encontro diante de Arão e de seus filhos. Assim era como Yahweh havia ordenado a Moisés sobre os levitas. Assim eles fizeram. ^v22
 
-**23** E falou o Senhor a Moisés, dizendo: ^v23
+**23** Yahweh falou novamente a Moisés: ^v23
 
-**24** Este é o ofício dos levitas: Da idade de vinte e cinco anos para cima entrarão, para fazerem o serviço no ministério da tenda da congregação; ^v24
+**24** """Tudo isso é para os levitas que tenham vinte cinco anos ou mais. Estarão juntos para servirem na Tenda do Encontro." ^v24
 
-**25** Mas desde a idade de cinqüenta anos sairão do serviço deste ministério, e nunca mais servirão; ^v25
+**25** Eles devem parar de servir dessa maneira com a idade de cinquenta anos. Nesta idade eles não devem servir mais. ^v25
 
-**26** Porém com os seus irmãos servirão na tenda da congregação, para terem cuidado da guarda; mas o ministério não exercerão; assim farás com os levitas quanto aos seus deveres. ^v26
+**26** "Eles podem ajudar seus irmãos que continuam a trabalhar na Tenda do Encontro, mas não devem mais servir. Assim conduzirás os levitas em todos estes assuntos""." ^v26

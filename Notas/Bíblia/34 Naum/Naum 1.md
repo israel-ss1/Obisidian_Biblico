@@ -1,37 +1,36 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Naum|Naum]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Naum|Naum]]"
+tags: [biblia]
 ---
 
 # Naum 1
 
-**1** Peso de Nínive. Livro da visão de Naum, o elcosita. ^v1
+**1** A mensagem de sentença acerca de Nínive. O livro da visão de Naum, o elcosita. ^v1
 
-**2** O Senhor é Deus zeloso e vingador; o Senhor é vingador e cheio de furor; o Senhor toma vingança contra os seus adversários, e guarda a ira contra os seus inimigos. ^v2
+**2** Yahweh é um Deus ciumento e vingador; Yahweh é vingador e está furioso; Yahweh Se vinga dos Seus adversários, e Ele conserva Sua ira contra Seus inimigos. ^v2
 
-**3** O Senhor é tardio em irar-se, mas grande em poder, e ao culpado não tem por inocente; o Senhor tem o seu caminho na tormenta e na tempestade, e as nuvens são o pó dos seus pés. ^v3
+**3** Yahweh demora para Se irar e grande em poder; Ele não inocentará Seus inimigos. Yahweh faz Seu caminho no redemoinho e na tempestade, e as nuvens são o pó dos Seus pés. ^v3
 
-**4** Ele repreende ao mar, e o faz secar, e esgota todos os rios; desfalecem Basã e o Carmelo, e a flor do Líbano murcha. ^v4
+**4** Ele repreende o mar e o faz secar; Ele seca todos os rios. Basã está fraco, e o Carmelo também; as flores do Líbano estão murchas. ^v4
 
-**5** Os montes tremem perante ele, e os outeiros se derretem; e a terra se levanta na sua presença; e o mundo, e todos os que nele habitam. ^v5
+**5** Os montes tremem na Sua presença, e as colinas se dissolvem; a terra desmorona na Sua presença, de fato, o mundo e todos os que vivem nele. ^v5
 
-**6** Quem parará diante do seu furor, e quem persistirá diante do ardor da sua ira? A sua cólera se derramou como um fogo, e as rochas foram por ele derrubadas. ^v6
+**6** Quem pode ficar em pé diante do Seu furor? Quem pode resistir à Sua ira ardente? Sua ira é derramada como fogo, e as rochas são quebradas por Ele. ^v6
 
-**7** O Senhor é bom, ele serve de fortaleza no dia da angústia, e conhece os que confiam nele. ^v7
+**7** Yahweh é bom, uma fortaleza no dia da angústia; Ele é fiel aos que se refugiam Nele. ^v7
 
-**8** E com uma inundação trasbordante acabará de uma vez com o seu lugar; e as trevas perseguirão os seus inimigos. ^v8
+**8** Porém, Ele acabará de vez com os Seus inimigos, com uma devastadora inundação; Ele os perseguirá até à escuridão. ^v8
 
-**9** Que pensais vós contra o Senhor? Ele mesmo vos consumirá de todo; não se levantará por duas vezes a angústia. ^v9
+**9** O que planejais contra Yahweh? Ele acabará de vez com isso; a aflição não se levantará pela segunda vez. ^v9
 
-**10** Porque ainda que eles se entrelacem como os espinhos, e se saturem de vinho como bêbados, serão inteiramente consumidos como palha seca. ^v10
+**10** Porque, eles ficarão enredados como num emaranhado de espinhos; ficarão bêbados em seu próprio vinho; serão completamente devorados pelo fogo, como a palha seca. ^v10
 
-**11** De ti saiu um que maquinou o mal contra o Senhor, um conselheiro vil. ^v11
+**11** Alguém se levantou entre vós, Nínive, que planejou o mal contra Yahweh, alguém que promoveu maldades. ^v11
 
-**12** Assim diz o Senhor: Por mais seguros que estejam, e por mais numerosos que sejam, ainda assim serão exterminados, e ele passará; eu te afligi, mas não te afligirei mais. ^v12
+**12** "Assim diz Yahweh: ""Mesmo que eles sejam mais fortes e mais numerosos, no entanto serão destruídos; seu povo não mais existirá. Mas tu, Judá: Embora Eu tenha afligido a ti, não te afligirei mais." ^v12
 
-**13** Mas agora quebrarei o seu jugo de sobre ti, e romperei os teus laços. ^v13
+**13** "Agora quebrarei o jugo daquele povo de sobre ti; quebrarei tuas correntes""." ^v13
 
-**14** Contra ti, porém, o Senhor deu ordem que não haja mais linhagem do teu nome; da casa dos teus deuses exterminarei as imagens de escultura e de fundição; ali farei o teu sepulcro, porque és vil. ^v14
+**14** "Yahweh deu uma ordem a teu respeito, Nínive: ""Não haverá mais descendentes com teu nome. Eu extirparei tuas imagens de escultura e imagens de fundição das casas dos teus deuses. Eu cavarei teus sepulcros, pois és desprezível""." ^v14
 
-**15** Eis sobre os montes os pés do que traz as boas novas, do que anuncia a paz! Celebra as tuas festas, ó Judá, cumpre os teus votos, porque o ímpio não tornará mais a passar por ti; ele é inteiramente exterminado. ^v15
+**15** Vê, sobre os montes estão os pés daquele que está trazendo boas novas, que está anunciando paz! Celebra tuas festas, Judá, e guarda os teus votos, porque o perverso não te invadirá mais; ele será completamente extirpado. ^v15

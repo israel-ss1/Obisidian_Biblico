@@ -1,53 +1,52 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Josué|Josué]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Josué|Josué]]"
+tags: [biblia]
 ---
 
 # Josué 11
 
-**1** Sucedeu depois disto que, ouvindo-o Jabim, rei de Hazor, enviou mensageiros a Jobabe, rei de Madom, e ao rei de Sinrom, e ao rei de Acsafe; ^v1
+**1** Quando Jabim, rei de Hazor, ouviu isso, ele enviou uma mensagem para Jobabe, rei de Madom, para o rei de Sinrom e para o rei de Acsafe. ^v1
 
-**2** E aos reis, que estavam ao norte, nas montanhas, e na campina para o sul de Quinerete, e nas planícies, e nas elevações de Dor, do lado do mar; ^v2
+**2** Ele também enviou a mensagem para os reis que estavam ao norte na região montanhosa, no vale do rio Jordão, ao sul de Quinerete, na baixada e na região montanhosa de Dor para o oeste. ^v2
 
-**3** Ao cananeu do oriente e do ocidente; e ao amorreu, e ao heteu, e ao perizeu, e ao jebuseu nas montanhas; e ao heveu ao pé de Hermom, na terra de Mizpá. ^v3
+**3** Ele também enviou mensagem para os cananeus, do leste ao oeste, os amorreus, os heteus, os perizeus, os jebuseus, na região montanhosa, e para os heveus, perto da montanha de Hermom, na terra de Mispá. ^v3
 
-**4** Saíram pois estes, e todos os seus exércitos com eles, muito povo, em multidão como a areia que está na praia do mar; e muitíssimos cavalos e carros. ^v4
+**4** Todos os seus exércitos saíram com eles, um grande número de soldados, um número como a areia da praia. Eles tinham grande quantidade de cavalos e carros de guerra. ^v4
 
-**5** Todos estes reis se ajuntaram, e vieram e se acamparam junto às águas de Merom, para pelejarem contra Israel. ^v5
+**5** Todos aqueles reis encontraram-se no tempo determinado e acamparam perto das águas de Merom, para batalhar contra Israel. ^v5
 
-**6** E disse o Senhor a Josué: Não temas diante deles; porque amanhã, a esta mesma hora, eu os darei todos feridos diante dos filhos de Israel; os seus cavalos jarretarás, e os seus carros queimarás a fogo. ^v6
+**6** "Yahweh disse para Josué: ""Não tenhas medo da presença deles, porque amanhã, a esta hora, entregarei todos eles a Israel como homens mortos. Tu aleijarás seus cavalos e queimarás seus carros de guerra""." ^v6
 
-**7** E Josué, e todos os homens de guerra com ele, veio apressadamente sobre eles às águas de Merom, e atacou-os de repente. ^v7
+**7** Josué e todos os homens de guerra vieram. Eles chegaram, de repente, às águas de Merom, e atacaram os inimigos. ^v7
 
-**8** E o Senhor os deu nas mãos de Israel; e eles os feriram, e os perseguiram até à grande Sidom, e até Misrefote-Maim, e até ao vale de Mizpá ao oriente; feriram até não lhes deixarem nenhum. ^v8
+**8** Yahweh entregou os inimigos nas mãos de Israel, e eles os feriram e os perseguiram até Sidom, Misrefote-Maim, e até o vale de Mispá para o leste. Eles os feriram até que não restasse nenhum de seus sobreviventes. ^v8
 
-**9** E fez-lhes Josué como o Senhor lhe dissera; os seus cavalos jarretou, e os seus carros queimou a fogo. ^v9
+**9** Josué fez a eles como Yahweh lhe havia falado. Ele aleijou os cavalos e queimou os carros de guerra. ^v9
 
-**10** E naquele mesmo tempo voltou Josué, e tomou a Hazor, e feriu à espada ao seu rei; porquanto Hazor antes era a cabeça de todos estes reinos. ^v10
+**10** Josué retornou naquele tempo e tomou Hazor. Ele feriu o rei com a espada. (Hazor tinha sido a capital de todos esses reinos). ^v10
 
-**11** E a todos os que nela estavam, feriram ao fio da espada, e totalmente os destruíram; nada restou do que tinha fôlego, e a Hazor queimou a fogo. ^v11
+**11** Eles atacaram com a espada todas as criaturas vivas que existiam naquele lugar, e as destruíram. Assim, nenhuma criatura foi deixada viva. Então, ele queimou Hazor. ^v11
 
-**12** E Josué tomou todas as cidades destes reis, e todos os seus reis, e os feriu ao fio da espada, destruindo-os totalmente, como ordenara Moisés servo do Senhor. ^v12
+**12** Josué tomou todas as cidades daqueles reis. Ele também capturou todos aqueles reis e os feriu ao fio da espada. Destruiu-os completamente, assim como Moisés, o servo de Yahweh, havia ordenado. ^v12
 
-**13** Tão-somente não queimaram os israelitas as cidades que estavam sobre os seus outeiros; a não ser Hazor, a qual Josué queimou. ^v13
+**13** Israel não queimou nenhuma cidade construída nos montes, exceto Hazor, que Josué queimou. ^v13
 
-**14** E todos os despojos destas cidades, e o gado, os filhos de Israel tomaram para si; tão-somente a todos os homens feriram ao fio da espada, até que os destruíram; nada do que tinha fôlego deixaram com vida. ^v14
+**14** O exército de Israel apossou-se de todos os despojos dessas cidades, juntamente com o gado deles. Eles mataram todos os seres humanos ao fio da espada, até que todos morressem. Eles não deixaram sobreviver nenhuma criatura que respirasse. ^v14
 
-**15** Como ordenara o Senhor a Moisés, seu servo, assim Moisés ordenou a Josué; e assim Josué o fez; nem uma só palavra tirou de tudo o que o Senhor ordenara a Moisés. ^v15
+**15** Assim como Yahweh havia ordenado ao seu servo Moisés, do mesmo modo, Moisés ordenou a Josué, e assim Josué fez. Ele não deixou de fazer nada daquilo que Yahweh havia ordenado a Moisés. ^v15
 
-**16** Assim Josué tomou toda aquela terra, as montanhas, e todo o sul, e toda a terra de Gósen, e as planícies, e as campinas, e as montanhas de Israel, e as suas planícies. ^v16
+**16** Josué tomou toda aquela terra, a região montanhosa, todo o Neguebe, toda a terra de Gósen, as encostas das montanhas, o vale do rio Jordão, a região montanhosa de Israel, e a baixada. ^v16
 
-**17** Desde o monte Halaque, que sobe a Seir, até Baal-Gade, no vale do Líbano, ao pé do monte de Hermom; também tomou todos os seus reis, e os feriu e os matou. ^v17
+**17** Desde o monte Halaque, perto de Seir, e indo para o norte até Baal-Gade no vale perto do Líbano, abaixo da montanha de Hermom, ele capturou todos os seus reis e os matou. ^v17
 
-**18** Por muito tempo Josué fez guerra contra todos estes reis. ^v18
+**18** Josué travou batalhas por um longo tempo com todos esses reis. ^v18
 
-**19** Não houve cidade que fizesse paz com os filhos de Israel, senão os heveus, moradores de Gibeom; por guerra as tomaram todas. ^v19
+**19** Não houve cidade que fizesse paz com o exército de Israel, exceto os heveus que viviam em Gibeão. Israel tomou todas as cidades restantes nas batalhas. ^v19
 
-**20** Porquanto do Senhor vinha o endurecimento de seus corações, para saírem à guerra contra Israel, para que fossem totalmente destruídos e não achassem piedade alguma; mas para os destruir a todos como o Senhor tinha ordenado a Moisés. ^v20
+**20** Porque foi Yahweh que endureceu os seus corações para saírem à guerra contra Israel, para que fossem completamente destruídos, sem misericórdia, assim como Ele havia ordenado a Moisés. ^v20
 
-**21** Naquele tempo veio Josué, e extirpou os anaquins das montanhas de Hebrom, de Debir, de Anabe e de todas as montanhas de Judá e de todas as montanhas de Israel; Josué os destruiu totalmente com as suas cidades. ^v21
+**21** Josué veio naquele tempo e destruiu os anaqueus, da região montanhosa de Hebrom, de Debir, de Anabe, de toda a região montanhosa de Judá, e de toda a região montanhosa de Israel. Josué os destruiu completamente com as suas cidades. ^v21
 
-**22** Nenhum dos anaquins foi deixado na terra dos filhos de Israel; somente ficaram alguns em Gaza, em Gate, e em Asdode. ^v22
+**22** Nenhum dos anaqueus foi deixado na terra de Israel, exceto em Gaza, em Gate e em Asdode. ^v22
 
-**23** Assim Josué tomou toda esta terra, conforme a tudo o que o Senhor tinha dito a Moisés; e Josué a deu em herança aos filhos de Israel, conforme as suas divisões, segundo as suas tribos; e a terra descansou da guerra. ^v23
+**23** Assim, Josué tomou toda essa terra, como Yahweh dissera a Moisés. Josué a deu como herança a Israel, repartindo-a segundo cada uma de suas tribos. Então, a terra descansou da guerra. ^v23

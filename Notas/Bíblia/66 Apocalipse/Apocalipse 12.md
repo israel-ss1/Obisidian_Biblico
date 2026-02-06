@@ -1,41 +1,42 @@
 ---
-Livro: "[[Apocalipse|Apocalipse]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Apocalipse|Apocalipse]]"
+tags: [biblia]
 ---
 
 # Apocalipse 12
 
-**1** E viu-se um grande sinal no céu: uma mulher vestida do sol, tendo a lua debaixo dos seus pés, e uma coroa de doze estrelas sobre a sua cabeça. ^v1
+**1** Um grande sinal foi visto no céu: uma mulher vestida com o sol e com a lua debaixo dos seus pés e uma coroa de doze estrelas na sua cabeça. ^v1
 
-**2** E estava grávida, e com dores de parto, e gritava com ânsias de dar à luz. ^v2
+**2** Ela estava grávida e gritava com as dores do parto, na angústia para dar à luz. ^v2
 
-**3** E viu-se outro sinal no céu; e eis que era um grande dragão vermelho, que tinha sete cabeças e dez chifres, e sobre as suas cabeças sete diademas. ^v3
+**3** E outro sinal foi visto no céu: Eis que havia um grande dragão vermelho que tinha sete cabeças e dez chifres, e havia sete coroas nas suas cabeças. ^v3
 
-**4** E a sua cauda levou após si a terça parte das estrelas do céu, e lançou-as sobre a terra; e o dragão parou diante da mulher que havia de dar à luz, para que, dando ela à luz, lhe tragasse o filho. ^v4
+**4** Sua cauda arrastava um terço das estrelas no céu, lançando-as sobre a terra. O dragão ficou diante da mulher que estava para dar à luz, para que, quando ela desse à luz, ele devorasse seu filho. ^v4
 
-**5** E deu à luz um filho homem que há de reger todas as nações com vara de ferro; e o seu filho foi arrebatado para Deus e para o seu trono. ^v5
+**5** Ela deu à luz um filho, um menino que governará todas as nações com um cetro de ferro. Seu filho foi arrebatado para junto de Deus e de Seu trono, ^v5
 
-**6** E a mulher fugiu para o deserto, onde já tinha lugar preparado por Deus, para que ali fosse alimentada durante mil duzentos e sessenta dias. ^v6
+**6** e a mulher fugiu para o deserto, onde Deus havia preparado um lugar para ela, para que ela pudesse ser sustentada por mil duzentos e sessenta dias. ^v6
 
-**7** E houve batalha no céu; Miguel e os seus anjos batalhavam contra o dragão, e batalhavam o dragão e os seus anjos; ^v7
+**7** Houve então guerra no céu. Miguel e seus anjos lutaram contra o dragão; e o dragão e seus anjos revidaram. ^v7
 
-**8** Mas não prevaleceram, nem mais o seu lugar se achou nos céus. ^v8
+**8** Mas o dragão não foi forte o suficiente para vencer. Então não havia mais lugar no céu para ele e seus anjos. ^v8
 
-**9** E foi precipitado o grande dragão, a antiga serpente, chamada o Diabo, e Satanás, que engana todo o mundo; ele foi precipitado na terra, e os seus anjos foram lançados com ele. ^v9
+**9** O grande dragão, aquela antiga serpente chamada diabo ou Satanás, que engana o mundo inteiro, foi expulso para a terra, junto com seus anjos. ^v9
 
-**10** E ouvi uma grande voz no céu, que dizia: Agora é chegada a salvação, e a força, e o reino do nosso Deus, e o poder do seu Cristo; porque já o acusador de nossos irmãos é derrubado, o qual diante do nosso Deus os acusava de dia e de noite. ^v10
+**10** "Então ouvi uma voz alta no céu: ""Agora veio a salvação, o poder, o reino do nosso Deus e a autoridade do Seu Cristo. Pois o acusador de nossos irmãos foi expulso, aquele que os acusava diante do nosso Deus dia e noite." ^v10
 
-**11** E eles o venceram pelo sangue do Cordeiro e pela palavra do seu testemunho; e não amaram as suas vidas até à morte. ^v11
+**11** Eles o venceram por causa do sangue do Cordeiro e pela palavra do testemunho deles, pois eles não amaram suas vidas até à morte. ^v11
 
-**12** Por isso alegrai-vos, ó céus, e vós que neles habitais. Ai dos que habitam na terra e no mar; porque o diabo desceu a vós, e tem grande ira, sabendo que já tem pouco tempo. ^v12
+**12** "Portanto alegrai-vos, ó céus, e todos os que neles habitam. Mas ai da terra e do mar, pois o diabo desceu até vós. Ele está coberto de grande furor, pois ele sabe que tem pouco tempo""." ^v12
 
-**13** E, quando o dragão viu que fora lançado na terra, perseguiu a mulher que dera à luz o filho homem. ^v13
+**13** Quando o dragão percebeu que havia sido lançado para a terra, ele perseguiu a mulher que havia dado à luz o menino. ^v13
 
-**14** E foram dadas à mulher duas asas de grande águia, para que voasse para o deserto, ao seu lugar, onde é sustentada por um tempo, e tempos, e metade de um tempo, fora da vista da serpente. ^v14
+**14** Mas à mulher foram dadas as asas de uma grande águia, para que pudesse voar ao lugar preparado para ela no deserto, onde seria sustentada por um tempo, tempos, e metade de um tempo, fora da presença da serpente. ^v14
 
-**15** E a serpente lançou da sua boca, atrás da mulher, água como um rio, para que pela corrente a fizesse arrebatar. ^v15
+**15** A serpente derramou água para fora de sua boca como um rio, para que pudesse causar um alagamento e arrastar a mulher de lá. ^v15
 
-**16** E a terra ajudou a mulher; e a terra abriu a sua boca, e tragou o rio que o dragão lançara da sua boca. ^v16
+**16** Mas a terra ajudou a mulher, abrindo sua boca e engolindo o rio que o dragão havia derramado. ^v16
 
-**17** E o dragão irou-se contra a mulher, e foi fazer guerra ao remanescente da sua semente, os que guardam os mandamentos de Deus, e têm o testemunho de Jesus Cristo. ^v17
+**17** Então o dragão ficou enfurecido com a mulher e foi guerrear contra o restante dos descendentes dela, aqueles que obedecem os mandamentos de Deus e mantêm o testemunho de Jesus. ^v17
+
+**18** Então o dragão se pôs em pé na areia do mar. ^v18

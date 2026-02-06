@@ -1,79 +1,78 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Ezequiel|Ezequiel]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Ezequiel|Ezequiel]]"
+tags: [biblia]
 ---
 
 # Ezequiel 27
 
-**1** E veio a mim a palavra do SENHOR, dizendo: ^v1
+**1** Novamente veio a palavra de Yahweh a mim, dizendo: ^v1
 
-**2** Tu pois, ó filho do homem, levanta uma lamentação sobre Tiro. ^v2
+**2** """Filho do homem, começa uma lamentação sobre Tiro," ^v2
 
-**3** E dize a Tiro, que habita nas entradas do mar, e negocia com os povos em muitas ilhas: Assim diz o Senhor Deus: Ó Tiro, tu dizes: Eu sou perfeita em formosura. ^v3
+**3** e dize a Tiro, aquele que vive na entrada do mar, que negocia com povos de muitas ilhas, assim te diz Yahweh Deus: Tiro, tu dizes: 'Sou perfeita em formosura'. ^v3
 
-**4** No coração dos mares estão os teus termos; os que te edificaram aperfeiçoaram a tua formosura. ^v4
+**4** Tuas fronteiras estão no coração dos mares; os que te construíram aperfeiçoaram a tua beleza. ^v4
 
-**5** Fabricaram todos os teus conveses de faias de Senir; trouxeram cedros do Líbano para te fazerem mastros. ^v5
+**5** Fizeram todas as tuas tábuas com cipreste do monte Hermon; buscaram cedro do Líbano para fazer um mastro para ti. ^v5
 
-**6** Fizeram os teus remos de carvalhos de Basã; os teus bancos fizeram-nos de marfim engastado em buxo das ilhas dos quiteus. ^v6
+**6** Os teus remos eram feitos com os carvalhos de Basã; os teus bancos de madeira de cipreste do Chipre, e eram cobertos com marfim. ^v6
 
-**7** Linho fino bordado do Egito era a tua cortina, para te servir de vela; azul e púrpura das ilhas de Elisá era a tua cobertura. ^v7
+**7** Tuas velas eram de linho colorido vindas do Egito, que serviam como tua bandeira; de azul e púrpura das ilhas do Egito eram os teus toldos! ^v7
 
-**8** Os moradores de Sidom e de Arvade foram os teus remadores; os teus sábios, ó Tiro, que se achavam em ti, esses foram os teus pilotos. ^v8
+**8** Aqueles que vivem em Sidom e Arvade eram teus remadores; os peritos de Tiro, que estavam no meio de ti, eram teus pilotos. ^v8
 
-**9** Os anciãos de Gebal e seus sábios foram em ti os que consertavam as tuas fendas; todos os navios do mar e os marinheiros se acharam em ti, para tratarem dos teus negócios. ^v9
+**9** Os artesãos experientes de Gebal eram os calafetadores de tuas fendas; e seus marinheiros no teu meio negociavam por ti. ^v9
 
-**10** Os persas, e os lídios, e os de Pute eram no teu exército os teus soldados; escudos e capacetes penduraram em ti; eles manifestaram a tua beleza. ^v10
+**10** Persas, lídios e os da Líbia eram parte de teu exército, teus homens de guerra. Eles penduraram seus escudos e capacetes junto com os teus, aumentando teu esplendor. ^v10
 
-**11** Os filhos de Arvade e o teu exército estavam sobre os teus muros em redor, e os gamaditas nas tuas torres; penduravam os seus escudos nos teus muros em redor; eles aperfeiçoavam a tua formosura. ^v11
+**11** Os homens de Arvade e Heleque, no teu exército, estavam sobre os teus muros ao teu redor, e os gamaditas nas tuas torres. Eles penduravam seus escudos nos teus muros, à tua volta, completando a tua beleza. ^v11
 
-**12** Társis negociava contigo, por causa da abundância de toda a casta de riquezas; com prata, ferro, estanho e chumbo, negociavam em tuas feiras. ^v12
+**12** Társis era teu parceiro de comércio, por causa da tua abundante riqueza em mercadoria: prata, ferro, estanho e chumbo. Eles compravam e vendiam as tuas mercadorias! ^v12
 
-**13** Javã, Tubal e Meseque eram teus mercadores; em troca das tuas mercadorias davam pessoas de homens e objetos de bronze. ^v13
+**13** Javã, Tubal e Meseque comercializavam escravos e artigos feitos de bronze. Eles negociavam tuas mercadorias. ^v13
 
-**14** Os da casa de Togarma trocavam pelas tuas mercadorias, cavalos, e cavaleiros e mulos. ^v14
+**14** Togarma negociava cavalos, garanhões e mulas pelas tuas mercadorias. ^v14
 
-**15** Os filhos de Dedã eram os teus mercadores; muitas ilhas eram o comércio da tua mão; dentes de marfim e pau de ébano tornavam a dar-te em presente. ^v15
+**15** Os homens de Rodes eram teus mercadores e muitas ilhas teus fregueses. Eles traziam, em retorno, chifres de marfim e ébano como tributo! ^v15
 
-**16** A Síria negociava contigo por causa da multidão das tuas manufaturas; pelas tuas mercadorias davam esmeralda, púrpura, obra bordada, linho fino, corais e ágata. ^v16
+**16** A Síria negociava muitos de teus produtos e eles trocavam por esmeraldas, púrpura, tecidos coloridos, panos finos, pérolas e rubis, como mercadoria. ^v16
 
-**17** Judá e a terra de Israel, eram os teus mercadores; pelas tuas mercadorias trocavam trigo de Minite, e Panague, e mel, azeite e bálsamo. ^v17
+**17** Judá e a terra de Israel trocavam mercadorias contigo. Davam em troca: trigo de Minite, bolos, mel, óleo e bálsamo. ^v17
 
-**18** Damasco negociava contigo, por causa da multidão das tuas obras, por causa da abundância de toda a sorte de riqueza, dando em troca vinho de Helbom e lã branca. ^v18
+**18** Damasco comercializava todos teus produtos, por causa de tua grande riqueza e davam em troca vinho de Helbom e lã do Zahar. ^v18
 
-**19** Também Dã e Javã, de Uzal, pelas tuas mercadorias, davam em troca ferro trabalhado, cássia e cálamo aromático, que assim entravam no teu comércio. ^v19
+**19** Dã e Javã de Uzal trocavam mercadorias de ferro trabalhado, canela e cálamo. ^v19
 
-**20** Dedã negociava contigo com panos preciosos para carros. ^v20
+**20** Dedã era teu negociador de cobertores de sela. ^v20
 
-**21** A Arábia, e todos os príncipes de Quedar, eram mercadores ao teu serviço, com cordeiros, carneiros e bodes; nestas coisas negociavam contigo. ^v21
+**21** A Arábia e todos os chefes de Quedar eram mercadores contigo e negociavam cordeiros, carneiros e bodes. ^v21
 
-**22** Os mercadores de Sabá e Raamá eram os teus mercadores; em todos os seus mais finos aromas, em toda a pedra preciosa e ouro, negociaram nas tuas feiras. ^v22
+**22** Os comerciantes de Sebá e Raamá vinham vender as melhores especiarias e todo tipo de jóias preciosas; negociavam ouro pelas tuas mercadorias. ^v22
 
-**23** Harã, e Cane e Éden, os mercadores de Sabá, Assur e Quilmade negociavam contigo. ^v23
+**23** Harã, Cané e Éden negociavam contigo, junto com Sebá, Assur e Quilmade. ^v23
 
-**24** Estes eram teus mercadores em roupas escolhidas, em pano de azul, e bordados, e em cofres de roupas preciosas, amarrados com cordas e feitos de cedros, entre tua mercadoria. ^v24
+**24** Estes eram teus mercadores em mantos finos, em tecidos violeta feitos à mão, cobertores coloridos, bordados e tapetes feitos de cordões trançados. ^v24
 
-**25** Os navios de Társis eram as tuas caravanas que traziam tuas mercadorias; e te encheste, e te glorificaste muito no meio dos mares. ^v25
+**25** Os navios de Társis transportavam as mercadorias! Tu estavas cheia, com carga pesada no coração dos mares! ^v25
 
-**26** Os teus remadores te conduziram sobre grandes águas; o vento oriental te quebrou no meio dos mares. ^v26
+**26** Os teus remadores te conduziram até grandes mares; e o vento oriental te quebrou no meio deles. ^v26
 
-**27** As tuas riquezas, as tuas feiras, e tuas mercadorias, os teus marinheiros, os teus pilotos, os que consertavam as tuas fendas, os que faziam os teus negócios, e todos os teus soldados, que estão em ti, juntamente com toda a tua companhia, que está no meio de ti, cairão no meio dos mares no dia da tua queda, ^v27
+**27** Tuas riquezas, mercadorias e teu comércio; teus marinheiros, pilotos e fazedores de navios; teus fregueses e todos os homens de guerra contigo; toda a tua equipe de navio — eles afundarão até as profundezas do mar, no dia da tua destruição. ^v27
 
-**28** Ao estrondo da gritaria dos teus pilotos tremerão os arrabaldes. ^v28
+**28** As cidades dos mares tremerão ao som dos gritos de teus pilotos; ^v28
 
-**29** E todos os que pegam no remo, os marinheiros, e todos os pilotos do mar descerão de seus navios, e pararão em terra. ^v29
+**29** todos teus remadores descerão dos navios; marinheiros e todos os pilotos no mar ficarão em terra. ^v29
 
-**30** E farão ouvir a sua voz sobre ti, e gritarão amargamente; e lançarão pó sobre as cabeças, e na cinza se revolverão. ^v30
+**30** Então, eles te farão ouvir as suas vozes e irão prantear amargamente; lançarão o pó sobre as suas cabeças e se revolverão nas cinzas. ^v30
 
-**31** E far-se-ão calvos por tua causa, e cingir-se-ão de sacos, e chorarão sobre ti com amargura de alma, e com amarga lamentação. ^v31
+**31** Eles raparão suas cabeças por ti; eles se amarrarão com pano de saco, chorarão amargamente por ti e gritarão. ^v31
 
-**32** E no seu pranto levantarão uma lamentação sobre ti, e te lamentarão sobre ti, dizendo: Quem foi como Tiro, como a que foi destruída no meio do mar? ^v32
+**32** Eles se lamentarão por ti e cantarão seu luto, dizendo: quem é como Tiro, que foi reduzido ao silêncio no meio do mar? ^v32
 
-**33** Quando as tuas mercadorias saiam pelos mares, fartaste a muitos povos; com a multidão das tuas riquezas e do teu negócio, enriqueceste os reis da terra. ^v33
+**33** Quando as tuas mercadorias chegavam nos portos, satisfaziam a muitos povos; pois enriquecia os reis da terra com tuas riquezas e mercadorias! ^v33
 
-**34** No tempo em que foste quebrantada pelos mares, nas profundezas das águas, caíram, no meio de ti, os teus negócios e toda a tua companhia. ^v34
+**34** Mas, quando foste quebrantada pelos mares, pelas águas profundas, tua mercadoria e toda a tua equipe afundaram! ^v34
 
-**35** Todos os moradores das ilhas estão a teu respeito cheios de espanto; e os seus reis tremeram sobremaneira, e ficaram perturbados nos seus rostos; ^v35
+**35** Todos os habitantes da costa ficaram chocados por tua causa e os reis estremeceram horrorizados! Seus rostos tremiam! ^v35
 
-**36** Os mercadores dentre os povos assobiaram contra ti; tu te tornaste em grande espanto, e jamais subsistirá. ^v36
+**36** "Os comerciantes dos povos zombam de ti; pois te tornaste um horror e deixarás de existir para sempre""." ^v36

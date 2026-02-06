@@ -1,87 +1,86 @@
 ---
-Livro: "[[1 Coríntios|1 Coríntios]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/1 Coríntios|1 Coríntios]]"
+tags: [biblia]
 ---
 
 # 1 Coríntios 7
 
-**1** Ora, quanto às coisas que me escrevestes, bom seria que o homem não tocasse em mulher; ^v1
+**1** "Com relação às coisas que escrevestes: ""É bom para o homem não tocar em mulher""." ^v1
 
-**2** Mas, por causa da fornicação, cada um tenha a sua própria mulher, e cada uma tenha o seu próprio marido. ^v2
+**2** Mas, por causa dos atos imorais e das tentações, cada homem deve ter a sua própria esposa, e cada mulher deve ter o seu próprio marido. ^v2
 
-**3** O marido pague à mulher a devida benevolência, e da mesma sorte a mulher ao marido. ^v3
+**3** O marido deve dar para a esposa os seus direitos conjugais; e, do mesmo modo, a esposa para com o marido. ^v3
 
-**4** A mulher não tem poder sobre o seu próprio corpo, mas tem-no o marido; e também da mesma maneira o marido não tem poder sobre o seu próprio corpo, mas tem-no a mulher. ^v4
+**4** Não é a esposa que tem autoridade sobre seu próprio corpo, e sim, o marido. Da mesma forma, não é o marido que tem autoridade sobre seu próprio corpo, mas a esposa. ^v4
 
-**5** Não vos priveis um ao outro, senão por consentimento mútuo por algum tempo, para vos aplicardes ao jejum e à oração; e depois ajuntai-vos outra vez, para que Satanás não vos tente pela vossa incontinência. ^v5
+**5** Não vos priveis um ao outro, exceto quando houver concordância mútua e por um período de tempo específico, para que possam se dedicar à oração. Então, depois disso, uni-vos novamente. Assim, Satanás não vos tentará por causa da falta de controle. ^v5
 
-**6** Digo, porém, isto como que por permissão e não por mandamento. ^v6
+**6** Porém eu vos digo estas coisas como concessão e não como uma ordem. ^v6
 
-**7** Porque quereria que todos os homens fossem como eu mesmo; mas cada um tem de Deus o seu próprio dom, um de uma maneira e outro de outra. ^v7
+**7** Eu gostaria que todos fôsseis como eu; todavia cada um tem seu próprio dom de Deus, um de um tipo e outro de outro. ^v7
 
-**8** Digo, porém, aos solteiros e às viúvas, que lhes é bom se ficarem como eu. ^v8
+**8** Digo aos não casados e às viúvas que é bom que permaneçam sem se casar assim como eu. ^v8
 
-**9** Mas, se não podem conter-se, casem-se. Porque é melhor casar do que abrasar-se. ^v9
+**9** Mas, se eles não podem exercer autocontrole, devem se casar. Pois é melhor que se casem do que arderem em paixão. ^v9
 
-**10** Todavia, aos casados mando, não eu mas o Senhor, que a mulher não se aparte do marido. ^v10
+**10** "Agora para os casados dou esta ordem, não eu, mas o Senhor: ""a esposa não deve se separar de seu marido""." ^v10
 
-**11** Se, porém, se apartar, que fique sem casar, ou que se reconcilie com o marido; e que o marido não deixe a mulher. ^v11
+**11** "Mas se ela se separar do seu marido, deverá permanecer sem se casar, ou que se reconcilie com ele. Assim como ""o marido não deve se separar da sua esposa""." ^v11
 
-**12** Mas aos outros digo eu, não o Senhor: Se algum irmão tem mulher descrente, e ela consente em habitar com ele, não a deixe. ^v12
+**12** Mas, para os demais, digo eu, não o Senhor, que se algum irmão tem uma esposa descrente e se ela está contente de viver com ele, ele não deve se separar. ^v12
 
-**13** E se alguma mulher tem marido descrente, e ele consente em habitar com ela, não o deixe. ^v13
+**13** Se uma mulher tem um marido descrente e ele está contente em viver com ela, ela não deve se separar. ^v13
 
-**14** Porque o marido descrente é santificado pela mulher; e a mulher descrente é santificada pelo marido; de outra sorte os vossos filhos seriam imundos; mas agora são santos. ^v14
+**14** Pois o marido descrente é santificado por causa da sua esposa, e a mulher descrente é santificada porque o seu marido é crente. Caso contrário, os seus filhos poderiam ser impuros, quando na realidade são santos. ^v14
 
-**15** Mas, se o descrente se apartar, aparte-se; porque neste caso o irmão, ou irmã, não está sujeito à servidão; mas Deus chamou-nos para a paz. ^v15
+**15** Mas, se o companheiro não cristão partir, deixa-o ir. Nesses casos, o irmão ou a irmã não estão presos aos seus votos. Deus nos chamou para viver em paz. ^v15
 
-**16** Porque, de onde sabes, ó mulher, se salvarás teu marido? ou, de onde sabes, ó marido, se salvarás tua mulher? ^v16
+**16** Pois, como sabes, mulher, se vais salvar o teu marido? Ou como sabes, homem, se vais salvar tua esposa? ^v16
 
-**17** E assim cada um ande como Deus lhe repartiu, cada um como o Senhor o chamou. É o que ordeno em todas as igrejas. ^v17
+**17** Somente viva cada um a vida que o Senhor lhe designou e para a qual lhe chamou. Esta é a minha ordenança em todas as igrejas. ^v17
 
-**18** É alguém chamado, estando circuncidado? fique circuncidado. É alguém chamado estando incircuncidado? não se circuncide. ^v18
+**18** Era alguém circuncidado quando foi chamado a crer? Ele não deve tentar esconder a marca da circuncisão. Era alguém incircunciso quando Deus o chamou à fé? Ele não deve ser circuncidado. ^v18
 
-**19** A circuncisão é nada e a incircuncisão nada é, mas, sim, a observância dos mandamentos de Deus. ^v19
+**19** Por isso, nem a circuncisão nem a incircuncisão importam. O que importa é obedecer as ordens de Deus. ^v19
 
-**20** Cada um fique na vocação em que foi chamado. ^v20
+**20** Cada um permaneça no chamado em que estava quando Deus o chamou para crer. ^v20
 
-**21** Foste chamado sendo servo? não te dê cuidado; e, se ainda podes ser livre, aproveita a ocasião. ^v21
+**21** Eras tu um escravo quando Deus te chamou? Não te preocupes com isso. Mas se te tornares livre, fazes bem. ^v21
 
-**22** Porque o que é chamado pelo Senhor, sendo servo, é liberto do Senhor; e da mesma maneira também o que é chamado sendo livre, servo é de Cristo. ^v22
+**22** Para alguém que é chamado pelo Senhor como escravo, este é um homem livre para o Senhor. Do mesmo modo, aquele que é livre quando foi chamado a crer, é escravo de Cristo. ^v22
 
-**23** Fostes comprados por bom preço; não vos façais servos dos homens. ^v23
+**23** Vós fostes comprados por um preço, não vos torneis escravos dos homens. ^v23
 
-**24** Irmãos, cada um fique diante de Deus no estado em que foi chamado. ^v24
+**24** Irmãos, assim como cada um de nós éramos quando fomos chamados a crer, vamos permanecer assim. ^v24
 
-**25** Ora, quanto às virgens, não tenho mandamento do Senhor; dou, porém, o meu parecer, como quem tem alcançado misericórdia do Senhor para ser fiel. ^v25
+**25** Agora, em relação àqueles que nunca foram casados, eu não tenho uma ordem do Senhor. Todavia dou minha opinião como alguém que, pela misericórdia do Senhor, é confiável. ^v25
 
-**26** Tenho, pois, por bom, por causa da instante necessidade, que é bom para o homem o estar assim. ^v26
+**26** Portanto eu penso que, por causa das angústias presentes, é bom para um homem permanecer como ele está. ^v26
 
-**27** Estás ligado à mulher? não busques separar-te. Estás livre de mulher? não busques mulher. ^v27
+**27** Tu estás comprometido com uma mulher? Não tentes te livrar dela. Estás livre de uma esposa? Não procures uma. ^v27
 
-**28** Mas, se te casares, não pecas; e, se a virgem se casar, não peca. Todavia os tais terão tribulações na carne, e eu quereria poupar-vos. ^v28
+**28** Mas se casares, não cometes um pecado. E se uma mulher solteira se casa, ela não comete pecado. Já aquele que se casa terá muitos tipos de problemas enquanto viver, e eu gostaria de te poupar disso. ^v28
 
-**29** Isto, porém, vos digo, irmãos, que o tempo se abrevia; o que resta é que também os que têm mulheres sejam como se não as tivessem; ^v29
+**29** Mas, isto eu digo irmãos: o tempo é curto. De agora em diante, deixai aqueles que têm esposas viverem como se não as tivessem. ^v29
 
-**30** E os que choram, como se não chorassem; e os que folgam, como se não folgassem; e os que compram, como se não possuíssem; ^v30
+**30** Aqueles que choram como se não chorassem; os que se alegram, como se não se alegrassem; e os que compram, como se não tivessem posse de coisa alguma; ^v30
 
-**31** E os que usam deste mundo, como se dele não abusassem, porque a aparência deste mundo passa. ^v31
+**31** e os que negociam com o mundo, como se não negociassem; porque a presente forma deste mundo está chegando ao fim. ^v31
 
-**32** E bem quisera eu que estivésseis sem cuidado. O solteiro cuida das coisas do Senhor, em como há de agradar ao Senhor; ^v32
+**32** Eu gostaria que vós ficásseis livres de preocupações. O homem não casado está preocupado com as coisas do Senhor, em como agradar a Ele. ^v32
 
-**33** Mas o que é casado cuida das coisas do mundo, em como há de agradar à mulher. ^v33
+**33** Mas o homem casado está preocupado com coisas do mundo, em como agradar sua esposa. ^v33
 
-**34** Há diferença entre a mulher casada e a virgem. A solteira cuida das coisas do Senhor para ser santa, tanto no corpo como no espírito; porém, a casada cuida das coisas do mundo, em como há de agradar ao marido. ^v34
+**34** Ele está dividido. Assim também, a mulher não casada ou a virgem está preocupada com as coisas do Senhor, em como ser santa no corpo e no espírito. Mas a mulher casada está preocupada com as coisas do mundo, em como agradar seu marido. ^v34
 
-**35** E digo isto para proveito vosso; não para vos enlaçar, mas para o que é decente e conveniente, para vos unirdes ao Senhor sem distração alguma. ^v35
+**35** Eu digo isto para o vosso próprio benefício, e não para vos pressionar, mas o correto é que possais ser dedicados ao Senhor sem nenhuma distração. ^v35
 
-**36** Mas, se alguém julga que trata indignamente a sua virgem, se tiver passado a flor da idade, e se for necessário, que faça o tal o que quiser; não peca; casem-se. ^v36
+**36** Mas se alguém pensa que não está tratando sua noiva virgem com respeito, e se ela está passando da idade de se casar, e se tiver que ser assim, faça o que quiser. Ele não peca; que se casem. ^v36
 
-**37** Todavia o que está firme em seu coração, não tendo necessidade, mas com poder sobre a sua própria vontade, se resolveu no seu coração guardar a sua virgem, faz bem. ^v37
+**37** Mas se ele está firme em seu coração e não está sob pressão, mas controla suas próprias vontades, e se decidiu em seu próprio coração fazer isso, manter sua própria noiva virgem, fará bem ^v37
 
-**38** De sorte que, o que a dá em casamento faz bem; mas o que não a dá em casamento faz melhor. ^v38
+**38** Então, aquele que casa com sua noiva virgem faz bem, e o que escolhe não casar, faz ainda melhor. ^v38
 
-**39** A mulher casada está ligada pela lei todo o tempo que o seu marido vive; mas, se falecer o seu marido fica livre para casar com quem quiser, contanto que seja no Senhor. ^v39
+**39** Uma mulher está ligada ao seu marido enquanto ele viver. Mas, se o marido dela morrer, ela está livre para casar com quem ela desejar, mas somente no Senhor. ^v39
 
-**40** Será, porém, mais bem-aventurada se ficar assim, segundo o meu parecer, e também eu cuido que tenho o Espírito de Deus. ^v40
+**40** Ainda em meu julgamento, ela seria mais feliz vivendo como está. E penso que também tenho o Espírito de Deus. ^v40

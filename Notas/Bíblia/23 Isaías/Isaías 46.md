@@ -1,33 +1,32 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Isaías|Isaías]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Isaías|Isaías]]"
+tags: [biblia]
 ---
 
 # Isaías 46
 
-**1** Bel está abatido, Nebo se encurvou, os seus ídolos são postos sobre os animais e sobre as feras; as cargas dos vossos fardos são canseiras para as feras já cansadas. ^v1
+**1** Bel se curva, Nebo se inclina; seus ídolos são transportados sobre animais de carga. Esses ídolos que vós carregais são cargas pesadas sobre os animais exaustos. ^v1
 
-**2** Juntamente se encurvaram e se abateram; não puderam livrar-se da carga, mas a sua alma entrou em cativeiro. ^v2
+**2** Juntos, eles se curvam e se ajoelham; não podem livrar-se dessas imagens e eles próprios foram para o cativeiro. ^v2
 
-**3** Ouvi-me, ó casa de Jacó, e todo o restante da casa de Israel; vós a quem trouxe nos braços desde o ventre, e sois levados desde a madre. ^v3
+**3** Ouvi-Me, casa de Jacó, todos vós, o remanescente da casa de Israel, que tenho carregado antes do vosso nascimento, desde o ventre. ^v3
 
-**4** E até à velhice eu serei o mesmo, e ainda até às cãs eu vos carregarei; eu vos fiz, e eu vos levarei, e eu vos trarei, e vos livrarei. ^v4
+**4** E, mesmo na vossa velhice, Eu sou o mesmo; até quando vossos cabelos se tornarem brancos, Eu vos carregarei. Eu vos fiz e vos sustentarei e vos protegerei. ^v4
 
-**5** A quem me assemelhareis, e com quem me igualareis, e me comparareis, para que sejamos semelhantes? ^v5
+**5** A quem Me comparareis? Com que vós achais que Me pareço, a fim de ser comparado? ^v5
 
-**6** Gastam o ouro da bolsa, e pesam a prata nas balanças; assalariam o ourives, e ele faz um deus, e diante dele se prostram e se inclinam. ^v6
+**6** O povo tira ouro de suas sacolas e pesa prata na balança; eles contratam um ferreiro, que transforma isso em um deus; inclinam-se diante dele e o adoram. ^v6
 
-**7** Sobre os ombros o tomam, o levam, e o põem no seu lugar; ali fica em pé, do seu lugar não se move; e, se alguém clama a ele, resposta nenhuma dá, nem livra alguém da sua tribulação. ^v7
+**7** Eles o colocam sobre os ombros e o levam; colocam-no em seu lugar; ali permanece, não se move. Clamam a ele, mas este não pode responder nem salvar ninguém dos seus problemas. ^v7
 
-**8** Lembrai-vos disto, e considerai; trazei-o à memória, ó prevaricadores. ^v8
+**8** Pensai nestas coisas, nunca as ignoreis, vós rebeldes! ^v8
 
-**9** Lembrai-vos das coisas passadas desde a antiguidade; que eu sou Deus, e não há outro Deus, não há outro semelhante a mim. ^v9
+**9** Pensai nas coisas passadas, naquelas dos tempos antigos, porque Eu Sou Deus e não há outro, Eu Sou Deus e não há ninguém semelhante a Mim. ^v9
 
-**10** Que anuncio o fim desde o princípio, e desde a antiguidade as coisas que ainda não sucederam; que digo: O meu conselho será firme, e farei toda a minha vontade. ^v10
+**10** "Eu anuncio o fim desde o início, e antecipo aquilo que ainda não aconteceu. Eu digo: ""Meu plano acontecerá, e faço como Eu desejo""." ^v10
 
-**11** Que chamo a ave de rapina desde o oriente, e de uma terra remota o homem do meu conselho; porque assim o disse, e assim o farei vir; eu o formei, e também o farei. ^v11
+**11** Chamo uma ave de rapina do leste, o homem da Minha escolha de uma terra distante; sim, Eu disse, Eu também o cumprirei; Eu designei por propósito, Eu também o farei. ^v11
 
-**12** Ouvi-me, ó duros de coração, os que estais longe da justiça. ^v12
+**12** Ouvi-Me, vós, insubordinados que estão longe de fazer o que é correto. ^v12
 
-**13** Faço chegar a minha justiça, e não estará ao longe, e a minha salvação não tardará; mas estabelecerei em Sião a salvação, e em Israel a minha glória. ^v13
+**13** Estou trazendo para perto a Minha justiça; ela não está longe e Minha salvação não demora; Eu trarei salvação a Sião e a Minha glória, a Israel. ^v13

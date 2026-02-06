@@ -1,95 +1,94 @@
 ---
-Livro: "[[1 Crônicas|1 Crônicas]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/1 Crônicas|1 Crônicas]]"
+tags: [biblia]
 ---
 
 # 1 Crônicas 9
 
-**1** E todo o Israel foi contado por genealogias, que estão escritas no livro dos reis de Israel; e os de Judá foram transportados a Babilônia, por causa da sua transgressão. ^v1
+**1** Então, todo o Israel foi registrado em genealogias. Eles foram registrados no livro dos reis de Israel. E, Judá foi levado em exílio para a Babilônia, por causa do seu pecado. ^v1
 
-**2** E os primeiros habitantes, que moravam na sua possessão e nas suas cidades, foram os israelitas, os sacerdotes, os levitas, e os netineus. ^v2
+**2** Os primeiros a se restabelecerem em suas cidades foram alguns israelitas, sacerdotes, levitas e servidores do templo. ^v2
 
-**3** Porém alguns dos filhos de Judá, e dos filhos de Benjamim, e dos filhos de Efraim e Manassés, habitaram em Jerusalém: ^v3
+**3** Alguns descendentes de Judá, Benjamim, Efraim e Manassés habitaram em Jerusalém. ^v3
 
-**4** Utai, filho de Amiúde, filho de Onri, filho de Inri, filho de Bani, dos filhos de Perez, filho de Judá; ^v4
+**4** Entre eles, estavam Utai, filho de Amiúde, filho de Onri, filho de Inri, filho de Bani, um dos descendentes de Perez, filho de Judá. ^v4
 
-**5** E dos silonitas: Asaías o primogênito, e seus filhos; ^v5
+**5** Entre os silonitas, estavam Asaías, o primogênito, e seus filhos. ^v5
 
-**6** E dos filhos de Zerá: Jeuel, e seus irmãos, seiscentos e noventa; ^v6
+**6** Entre os descendentes de Zerá estava Jeuel. O número de seus descendentes foi seiscentos e noventa. ^v6
 
-**7** E dos filhos de Benjamim: Salu, filho de Mesulão, filho de Hodavias, filho de Hassenua, ^v7
+**7** Entre os descendentes de Benjamim, estavam Salu, filho de Mesulão, filho de Hodavias, filho de Hassenuá. ^v7
 
-**8** E Ibnéias, filho de Jeroão, e Elá, filho de Uzi, filho de Micri, e Mesulão, filho de Sefatias, filho de Reuel, filho de Ibnijas; ^v8
+**8** Também estavam Ibneias, filho de Jeroão; Elá, filho de Uzi, filho de Micri; Mesulão, filho de Sefatias, filho de Reuel, filho de Ibnijas. ^v8
 
-**9** E seus irmãos, segundo as suas gerações, novecentos e cinqüenta e seis; todos estes homens foram chefes dos pais nas casas de seus pais. ^v9
+**9** Seus parentes, inscritos nas genealogias, foram novecentos e cinquenta e seis. Todos esses homens eram líderes nos clãs de seus antepassados. ^v9
 
-**10** E dos sacerdotes: Jedaías, e Jeoiaribe, e Jaquim, ^v10
+**10** Os sacerdores foram Jedaías, Jeoiaribe e Jaquim. ^v10
 
-**11** E Azarias, filho de Hilquias, filho de Mesulão, filho de Zadoque, filho de Meraiote, filho de Aitube, maioral da casa de Deus; ^v11
+**11** Azarias, filho de Hilquias, filho de Mesulão, filho de Zadoque, filho de Meraiote, filho de Aitube, era responsável pela Casa de Deus. ^v11
 
-**12** Adaías, filho de Jeroão, filho de Pasur, filho de Malquias, e Masai, filho de Adiel, filho de Jazera, filho de Mesulão, filho de Mesilemite, filho de Imer; ^v12
+**12** Adaías, filho de Jeroão, filho de Pasur, filho de Malquias; Maasai, filho de Adiel, filho de Jareza, filho de Mesulão, filho de Mesilemite, filho de Imer; ^v12
 
-**13** Como também seus irmãos, cabeças nas casas de seus pais, mil, setecentos e sessenta, homens valentes para a obra do ministério da casa de Deus. ^v13
+**13** e seus parentes, eram líderes nos clãs de seus antepassados, e foram mil setecentos e sessenta. Eles foram homens capacitados no trabalho da Casa de Deus. ^v13
 
-**14** E dos levitas: Semaías, filho de Hassube, filho de Azricão, filho de Hasabias, dos filhos de Merari; ^v14
+**14** Entre os levitas, havia Semaías, filho de Hassube, filho de Azricão, filho de Hasabias, entre os descendendes de Merari. ^v14
 
-**15** E Baquebacar, Heres e Galal; e Matanias, filho de Mica, filho de Zicri, filho de Asafe; ^v15
+**15** Havia também Baquebacar, Heres, Galal e Matanias, filho de Mica, filho de Zicri, filho de Asafe. ^v15
 
-**16** E Obadias, filho de Semaías, filho de Galal, filho de Jedutum; e Berequias, filho de Asa, filho de Elcana, morador das aldeias dos netofatitas. ^v16
+**16** Obadias, filho de Samaías, filho de Galal, filho de Jedutum; e Berequias, filho de Asa, filho de Elcana, que habitou nos povoados dos netofatitas. ^v16
 
-**17** E foram porteiros: Salum, Acube, Talmom, Aimã, e seus irmãos, cujo chefe era Salum. ^v17
+**17** Os porteiros foram Salum, Acube, Talmom, Aimã, e seus descendentes. Salum foi o líder deles. ^v17
 
-**18** E até aquele tempo estavam de guarda à porta do rei, do lado do oriente; estes foram os porteiros dos arraiais dos filhos de Levi. ^v18
+**18** Antes, eles ficavam de guarda à porta do rei, ao lado leste do campo dos descendentes de Levi. ^v18
 
-**19** E Salum, filho de Coré, filho de Ebiasafe, filho de Corá, e seus irmãos da casa de seu pai, os coraítas, tinham cargo da obra do ministério, e eram guardas das portas do tabernáculo, como seus pais foram responsáveis pelo arraial do Senhor, e guardas da entrada. ^v19
+**19** Salum, filho de Coré, filho de Ebiasafe, filho de Corá, e seus irmãos, do clã de seu pai, os coraítas, foram responsáveis pelo serviço no templo, como guardas da entrada da tenda, assim como seus descendentes guardaram o acampamento de Yahweh, e também a sua entrada. ^v19
 
-**20** Finéias, filho de Eleazar, antes era líder entre eles; e o Senhor era com ele. ^v20
+**20** Fineias, filho de Eleazar, foi responsável por eles no passado, e Yahweh era com ele. ^v20
 
-**21** E Zacarias, filho de Meselemias, porteiro da entrada da tenda da congregação. ^v21
+**21** "Zacarias, filho de Meselemias, guardava a entrada do templo, a ""Tenda do Encontro""." ^v21
 
-**22** Todos estes, escolhidos para serem guardas das portas, foram duzentos e doze; e foram estes, segundo as suas aldeias, postos em suas genealogias; e Davi e Samuel, o vidente, os constituíram nos seus respectivos cargos. ^v22
+**22** Todos os escolhidos como porteiros das entradas foram duzentos e doze. Seus nomes foram registrados nas genealogias nos seus povoados. Davi e o vidente Samuel, os colocaram em posições de confiança. ^v22
 
-**23** Estavam, pois, eles, e seus filhos, às portas da casa do Senhor, na casa da tenda, junto aos guardas, ^v23
+**23** Então, eles e seus filhos guardaram os portões da Casa de Yahweh, o Tabernáculo. ^v23
 
-**24** Os porteiros estavam aos quatro lados; ao oriente, ao ocidente, ao norte, e ao sul. ^v24
+**24** Os porteiros estavam posicionados em todos os quatro lados, na direção leste, oeste, norte e sul. ^v24
 
-**25** E seus irmãos, que estavam nas suas aldeias, deviam, de tempo em tempo, vir por sete dias para servirem com eles. ^v25
+**25** Seus irmãos, que habitavam nos seus povoados, vinham em turnos de sete dias. ^v25
 
-**26** Porque havia naquele ofício quatro porteiros principais que eram levitas, e tinham o encargo das câmaras e dos tesouros da casa de Deus. ^v26
+**26** Mas os quatro líderes dos porteiros, que eram levitas, foram encarregados de guardar as salas e os armazéns da Casa de Deus. ^v26
 
-**27** E de noite ficavam em redor da casa de Deus, cuja guarda lhes tinha sido confiada, e tinham o encargo de abri-la cada manhã. ^v27
+**27** Eles passavam a noite em seus postos, ao redor da Casa de Deus, porque eram responsáveis por guardá-la e abri-la a cada manhã. ^v27
 
-**28** E alguns deles estavam encarregados dos utensílios do ministério, porque por conta os traziam e por conta os tiravam. ^v28
+**28** Alguns deles eram responsáveis pelos untensílios do templo; eles os contavam quando eram trazidos e quando eram retirados. ^v28
 
-**29** Porque deles havia alguns que tinham o encargo dos objetos e de todos os utensílios do santuário; como também da flor de farinha, do vinho, do azeite, do incenso, e das especiarias. ^v29
+**29** Alguns deles também foram encarregados de cuidar das coisas santas, os utensílios do templo e os suprimentos, incluindo a farinha, o vinho, o óleo, o incenso e as especiarias. ^v29
 
-**30** E alguns dos filhos dos sacerdotes eram os obreiros da confecção das especiarias. ^v30
+**30** Alguns dos filhos dos sacerdotes misturavam as especiarias. ^v30
 
-**31** E Matitias, dentre os levitas, o primogênito de Salum, o coraíta, tinha o encargo da obra que se fazia em sertãs. ^v31
+**31** Matitias, um dos levitas, que era o primogênito de Salum, o coraíta, era responsável por preparar pão para as ofertas. ^v31
 
-**32** E alguns dos seus irmãos, dos filhos dos coatitas, tinham o encargo de preparar os pães da proposição para todos os sábados. ^v32
+**32** Alguns de seus irmãos, decendentes dos coraítas, eram responsáveis pelo pão da presença, para o preparar todo sábado. ^v32
 
-**33** Destes foram também os cantores, chefes dos pais entre os levitas, habitando nas câmaras, isentos de serviços; porque de dia e de noite estava a seu cargo ocuparem-se naquela obra. ^v33
+**33** Os cantores e os chefes da família dos levitas moravam em quartos no santuário, eles estavam isentos de trabalho porque realizavam suas tarefas dia e noite. ^v33
 
-**34** Estes foram cabeças dos pais entre os levitas, chefes em suas gerações; estes habitaram em Jerusalém. ^v34
+**34** Estes foram líderes de família entre os levitas, como listados em seus registros genealógicos. Eles habitavam em Jerusalém. ^v34
 
-**35** Porém em Gibeão habitaram Jeiel, pai de Gibeão (e era o nome de sua mulher Maaca). ^v35
+**35** O pai de Gibeão, Jeiel, cuja mulher se chamava Maaca, habitava em Gibeão. ^v35
 
-**36** E seu filho primogênito Abdom; depois Zur, Quis, Baal, Ner e Nadabe, ^v36
+**36** Seu primogênito foi Abdom, depois seus filhos Zur, Quis, Baal, Ner, Nadabe, ^v36
 
-**37** E Gedor, Aiô, Zacarias e Miclote. ^v37
+**37** Gedor, Aiô, Zacarias e Miclote. ^v37
 
-**38** Miclote gerou a Simeão; e também estes habitaram em Jerusalém, defronte de seus irmãos, com eles. ^v38
+**38** Miclote foi o pai de Simeão. Eles também habitaram perto de seus irmãos em Jerusalém. ^v38
 
-**39** E Ner gerou a Quis; e Quis gerou a Saul, Saul gerou a Jônatas, a Malquisua, a Abinadabe e a Esbaal. ^v39
+**39** Ner foi o pai de Quis. Quis foi o pai de Saul. Saul foi o pai de Jônatas, Malquisua, Abinadabe e Es-Baal. ^v39
 
-**40** E o filho de Jônatas foi Meribe-Baal, e Meribe-Baal gerou a Mica. ^v40
+**40** O filho de Jônatas foi Meribe-Baal. Meribe-Baal foi o pai de Mica. ^v40
 
-**41** E os filhos de Mica foram: Pitom, Meleque e Taréia. ^v41
+**41** Os filhos de Mica foram Pitom, Meleque, Tareá e Acaz. ^v41
 
-**42** E Acaz gerou a Jaerá, e Jaerá gerou a Alemete, a Azmavete e a Zinri; e Zinri gerou a Moza. ^v42
+**42** Acaz foi o pai de Jará. Jará foi o pai de Alemete, Azmavete e Zinri. Zinri foi o pai de Moza. ^v42
 
-**43** E Moza gerou a Bineá, cujo filho foi Refaías, de quem foi filho Eleasá, cujo filho foi Azel. ^v43
+**43** Moza foi o pai de Bineá. Bineá foi o pai de Refaías. Refaías foi o pai de Eleasa. Eleasa foi o pai de Azel. ^v43
 
-**44** E teve Azel seis filhos, e estes foram os seus nomes: Azricão, Bocru, Ismael, Searias, Obadias e Hanã; estes foram os filhos de Azel. ^v44
+**44** Os seis filhos de Azel foram Azricão, Bocru, Ismael, Searias, Obadias e Hanã. Estes foram os filhos de Azel. ^v44

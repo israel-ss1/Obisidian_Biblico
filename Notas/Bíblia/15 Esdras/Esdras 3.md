@@ -1,33 +1,32 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Esdras|Esdras]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Esdras|Esdras]]"
+tags: [biblia]
 ---
 
 # Esdras 3
 
-**1** Chegando, pois, o sétimo mês, e estando os filhos de Israel já nas cidades, ajuntou-se o povo, como um só homem, em Jerusalém. ^v1
+**1** No sétimo mês, após a volta dos israelitas às suas cidades, o povo se reuniu, como um só homem, em Jerusalém. ^v1
 
-**2** E levantou-se Jesuá, filho de Jozadaque, e seus irmãos, os sacerdotes, e Zorobabel, filho de Sealtiel, e seus irmãos, e edificaram o altar do Deus de Israel, para oferecerem sobre ele holocaustos, como está escrito na lei de Moisés, o homem de Deus. ^v2
+**2** Jesua, filho de Jozadaque, e seus irmãos, os sacerdotes, Zorobabel, filho de Sealtiel, e seus irmãos se ergueram e construíram um altar para o Deus de Israel, a fim de oferecerem holocaustos, como ordenado na lei de Moisés, homem de Deus. ^v2
 
-**3** E firmaram o altar sobre as suas bases, porque o terror estava sobre eles, por causa dos povos das terras; e ofereceram sobre ele holocaustos ao Senhor, holocaustos pela manhã e à tarde. ^v3
+**3** Então estabeleceram o altar sobre as suas bases, apesar do medo que tinham dos povos ao redor. Eles ofereceram holocaustos a Yahweh ao amanhecer e ao anoitecer. ^v3
 
-**4** E celebraram a festa dos tabernáculos, como está escrito; ofereceram holocaustos cada dia, por ordem, conforme ao rito, cada coisa em seu dia. ^v4
+**4** Também observaram a Festa dos Tabernáculos, como está descrito, e ofereceram holocaustos, dia após dia, conforme o estabelecido, em cada dia determinado. ^v4
 
-**5** E depois disto o holocausto contínuo, e os das luas novas e de todas as solenidades consagradas ao Senhor; como também de qualquer que oferecia oferta voluntária ao Senhor; ^v5
+**5** Assim, havia holocaustos diários e mensais e ofertas para todas as festas fixas de Yahweh, juntamente com as ofertas voluntárias. ^v5
 
-**6** Desde o primeiro dia do sétimo mês começaram a oferecer holocaustos ao SENHOR; porém ainda não estavam postos os fundamentos do templo do SENHOR. ^v6
+**6** Eles começaram a oferecer holocaustos a Yahweh no primeiro dia do sétimo mês, embora os fundamentos do templo não tivessem sido postos. ^v6
 
-**7** Deram, pois, o dinheiro aos pedreiros e carpinteiros, como também comida e bebida, e azeite aos sidônios, e aos tírios, para trazerem do Líbano madeira de cedro ao mar, para Jope, segundo a concessão que lhes tinha feito Ciro, rei da Pérsia. ^v7
+**7** Então deram prata para os pedreiros e carpinteiros; e, comida, bebida e azeite para o povo de Sidom e de Tiro, para que eles enviassem cedro do Líbano a Jope, pelo mar, como autorizado por Ciro, rei da Pérsia. ^v7
 
-**8** E no segundo ano da sua vinda à casa de Deus em Jerusalém, no segundo mês, Zorobabel, filho de Sealtiel, e Jesuá, filho de Jozadaque, e os outros seus irmãos, os sacerdotes e os levitas, e todos os que vieram do cativeiro a Jerusalém, começaram a obra da casa do Senhor, e constituíram os levitas da idade de vinte anos para cima, para que a dirigissem. ^v8
+**8** Então, no segundo mês do segundo ano, após terem vindo para o templo de Deus, em Jerusalém, Zorobabel, filho de Sealtiel, e Jesua, filho de Jozadaque, e o resto dos sacerdotes, os levitas e aqueles que vieram de volta do cativeiro para Jerusalém começaram a obra. Eles designaram os levitas de vinte anos ou mais para supervisionarem a obra do templo de Yahweh. ^v8
 
-**9** Então se levantou Jesuá, seus filhos, e seus irmãos, Cadmiel e seus filhos, os filhos de Judá, como um só homem, para dirigirem os que faziam a obra na casa de Deus, bem como os filhos de Henadade, seus filhos e seus irmãos, os levitas. ^v9
+**9** Então se apresentaram Jesua com os seus filhos e os seus irmãos, Cadmiel e os seus filhos, e os descendentes de Hodavias, para supervisionarem os que faziam a obra no templo de Deus, bem como os filhos de Henadade, seus filhos e seus irmãos, os levitas. ^v9
 
-**10** Quando, pois, os edificadores lançaram os alicerces do templo do Senhor, então apresentaram-se os sacerdotes, já vestidos e com trombetas, e os levitas, filhos de Asafe, com címbalos, para louvarem ao Senhor conforme à instituição de Davi, rei de Israel. ^v10
+**10** Quando os construtores assentaram os alicerces do templo de Yahweh, os sacerdotes se apresentaram com suas vestimentas e com trombetas, e os levitas, filhos de Asafe, louvaram a Yahweh com címbalos, conforme as instruções deixadas por Davi, rei de Israel. ^v10
 
-**11** E cantavam juntos por grupo, louvando e rendendo graças ao Senhor, dizendo: porque é bom; porque a sua benignidade dura para sempre sobre Israel. E todo o povo jubilou com altas vozes, quando louvaram ao Senhor, pela fundação da casa do Senhor. ^v11
+**11** "Eles cantavam responsivamente, com louvor e gratidão a Yahweh: ""Ele é bom, porque a sua misericórdia dura para sempre sobre Israel"". Todo o povo jubilou com grande brado de alegria e adoração a Yahweh porque o alicerce do templo estava pronto." ^v11
 
-**12** Porém muitos dos sacerdotes, e levitas e chefes dos pais, já idosos, que viram a primeira casa, choraram em altas vozes quando à sua vista foram lançados os fundamentos desta casa; mas muitos levantaram as vozes com júbilo e com alegria. ^v12
+**12** Mas muitos dos sacerdotes, levitas, chefes de famílias, já idosos, que tinham visto o primeiro templo choraram bem alto quando, diante de seus olhos, foram lançados os alicerces deste templo. Porém, muitos gritaram de júbilo com alegria. ^v12
 
-**13** De maneira que não discernia o povo as vozes do júbilo de alegria das vozes do choro do povo; porque o povo jubilava com tão altas vozes, que o som se ouvia de muito longe. ^v13
+**13** De maneira que não se podiam distinguir entre as vozes de júbilo das vozes de choro das pessoas, porque o povo gritava muito alto e o som se ouvia de longe. ^v13

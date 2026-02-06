@@ -1,109 +1,108 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Josué|Josué]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Josué|Josué]]"
+tags: [biblia]
 ---
 
 # Josué 19
 
-**1** E Saiu a segunda sorte a Simeão, para a tribo dos filhos de Simeão, segundo as suas famílias; e foi a sua herança no meio da herança dos filhos de Judá. ^v1
+**1** A segunda sorte saiu para Simeão, e foi distribuída a cada um segundo seus clãs. Sua herança estava no meio da que pertencia à tribo de Judá. ^v1
 
-**2** E tiveram na sua herança: Berseba, e Seba e Moladá. ^v2
+**2** E tiveram por herança Berseba, Seba, Molada, ^v2
 
-**3** E Hazar-Sual, e Balá, e Azem, ^v3
+**3** Hazar-Sual, Balá, Ezem, ^v3
 
-**4** E Eltolade, e Betul, e Hormá, ^v4
+**4** Eltolade, Betul e Hormá. ^v4
 
-**5** E Ziclague, e Bete-Marcabote, e Hazar-Susa, ^v5
+**5** Simeão ainda recebeu Ziclague, Bete-Mercabote, Hazar-Susa, ^v5
 
-**6** E Bete-Lebaote, e Saruém; treze cidades e as suas aldeias. ^v6
+**6** Bete-Lebaote e Saruém; estas treze cidades incluíam seus povoados. ^v6
 
-**7** E Aim, e Rimom, e Eter, e Asã; quatro cidades e as suas aldeias. ^v7
+**7** Simeão também recebeu Aim, Rimon, Eter e Asã; estas quatro cidades, incluindo seus povoados. ^v7
 
-**8** E todas as aldeias que havia em redor destas cidades, até Baalate-Ber (que é Ramá), do sul; esta é a herança da tribo dos filhos de Simeão, segundo as suas famílias. ^v8
+**8** Todos estes, inclusive os vilarejos que estavam ao redor dessas cidades, até Baalate-Ber (que é Ramá do Neguebe). Essa foi a herança da tribo de Simeão, distribuída segundo seus clãs. ^v8
 
-**9** A herança dos filhos de Simeão foi tirada do quinhão dos de Judá, porquanto a herança dos filhos de Judá era demasiadamente grande para eles; pelo que os filhos de Simeão tiveram a sua herança no meio deles. ^v9
+**9** A herança da tribo de Simeão fazia parte do território da tribo de Judá. Por causa do grande tamanho da terra distribuída à tribo de Judá, a tribo de Simeão recebeu sua herança no meio da porção deles. ^v9
 
-**10** E saiu a terceira sorte pelos filhos de Zebulom, segundo as suas famílias; e foi o termo da sua herança até Saride. ^v10
+**10** A terceira sorte saiu para a tribo de Zebulom, e foi distribuída segundo seus clãs. A fronteira de sua herança começava em Saride; ^v10
 
-**11** E sobe o seu termo pelo ocidente a Maralá, e vai até Dabesete, e chega também até ao ribeiro que está defronte de Jocneão. ^v11
+**11** a fronteira subia pelo oeste até Marala e tocava em Dabesete; dali, se estendia até o ribeiro próximo a Jocneão. ^v11
 
-**12** E de Saride volta para o oriente, para o nascente do sol, até ao termo de Quislote-Tabor, sai a Daberate, e vai subindo a Jafia. ^v12
+**12** De Saride, a fronteira seguia para o leste até o limite com Quislote-Tabor. ^v12
 
-**13** E dali passa pelo oriente, para o nascente, a Gate-Hefer, em Ete-Cazim, chegando a Rimom-Metoar, que vai até Neá; ^v13
+**13** Dali, passava para o leste até Gate-Hefer e Ete-Cazim; depois, chegava a Rimom-Metoar e virava-se para Neá. ^v13
 
-**14** E rodeando-a, passa o termo para o norte a Hanatom, chegando ao vale de Iftá-El, ^v14
+**14** A fronteira norte se voltava em direção a Hanatom e terminava no vale de Iftael. ^v14
 
-**15** E Catate, Naalal, e Sinrom, e Idala, e Belém; doze cidades e as suas aldeias. ^v15
+**15** Esta região inclui as cidades de Catate, Naalal, Sinrom, Idala, e Belém. Eram doze cidades, incluindo seus povoados. ^v15
 
-**16** Esta é a herança dos filhos de Zebulom, segundo as suas famílias; estas cidades e as suas aldeias. ^v16
+**16** Essa foi a herança da tribo de Zebulom, segundo seus clãs, as cidades e os seus povoados. ^v16
 
-**17** A quarta sorte saiu para Issacar; aos filhos de Issacar, segundo as suas famílias. ^v17
+**17** A quarta sorte saiu para Issacar, segundo os seus clãs. ^v17
 
-**18** E foi o seu termo Jizreel, e Quesulote e Suném, ^v18
+**18** E seu território incluía Jezreel, Quesulote, Suném, ^v18
 
-**19** E Hafaraim, e Siom, e Anaarate, ^v19
+**19** Hafaraim, Siom e Anaarate. ^v19
 
-**20** E Rabite e Quisiom, e Ebes, ^v20
+**20** Também incluía Rabite, Quisiom, Abes, ^v20
 
-**21** E Remete, e En-Ganim, e En-Hadá, e Bete-Pazez. ^v21
+**21** Remete, En-Ganim, En-Hada e Bete-Pazez. ^v21
 
-**22** E chega este termo até Tabor, e Saazima, e Bete-Semes; e vai terminar no Jordão; dezesseis cidades e as suas aldeias. ^v22
+**22** A fronteira deles chegava até Tabor, Saazima, e Bete-Semes, e terminava no Jordão; eram dezesseis cidades e os seus povoados. ^v22
 
-**23** Esta é a herança da tribo dos filhos de Issacar, segundo as suas famílias; estas cidades e as suas aldeias. ^v23
+**23** Essa foi a herança da tribo de Issacar, segundo seus clãs; as cidades, incluindo seus povoados. ^v23
 
-**24** E saiu a quinta sorte para a tribo dos filhos de Aser, segundo as suas famílias. ^v24
+**24** A quinta sorte saiu para a tribo de Aser, segundo seus clãs. ^v24
 
-**25** E foi o seu termo Helcate, e Hali, e Béten, e Acsafe, ^v25
+**25** O seu território incluía Helcate, Hali, Bétem, Acsafe, ^v25
 
-**26** E Alameleque, e Amade, e Misal; e chega ao Carmelo para o ocidente, e a Sior-Libnate; ^v26
+**26** Alameleque, Amade, e Misal. A sua fronteira se estendia ao oeste para Carmelo e Sior-Libnate. ^v26
 
-**27** E volta para o nascente do sol a Bete-Dagom, e chega a Zebulom e ao vale de Iftá-El, ao norte de Bete-Emeque e de Neiel, e vem sair a Cabul, pela esquerda, ^v27
+**27** Depois se virava ao leste para Bete-Dagom e ia até Zebulom; e, então, para o vale de Iftael, ao norte até Bete-Emeque e Neiel; e chegava até Cabul em direção ao norte, ^v27
 
-**28** E Hebrom, e Reobe, e Hamom, e Caná, até à grande Sidom. ^v28
+**28** e se estendia até Ebrom, Reobe, Hamom, e Caná, até a grande Sidom. ^v28
 
-**29** E volta este termo a Ramá, e até à forte cidade de Tiro; então torna este termo a Hosa, para terminar no mar, na região de Aczibe. ^v29
+**29** A fronteira voltava-se em direção a Ramá; dali, para a cidade fortificada de Tiro; então, tornava-se para Hosa e, de lá, para o mar, na região de Aczibe, ^v29
 
-**30** E Umá, e Afeque, e Reobe; vinte e duas cidades e as suas aldeias. ^v30
+**30** Umá, Afeca, e Reobe. Eram vinte e duas cidades, com seus povoados. ^v30
 
-**31** Esta é a herança da tribo dos filhos de Aser, segundo as suas famílias; estas cidades e as suas aldeias. ^v31
+**31** Essa foi a herança da tribo de Aser, segundo seus clãs, as cidades e seus povoados. ^v31
 
-**32** E saiu a sexta sorte para os filhos de Naftali, segundo as suas famílias. ^v32
+**32** A sexta sorte saiu para a tribo de Naftali, segundo seus clãs. ^v32
 
-**33** E foi o seu termo desde Helefe e desde Alom em Zaananim, e Adami-Neguebe, e Jabneel, até Lacum, terminando no Jordão. ^v33
+**33** A fronteira deles ia desde Helefe, desde o carvalho até Zaananim, para Adâmi-Nequebe e Jabneel, assim como Lacum, e terminava no Jordão. ^v33
 
-**34** E volta este termo pelo ocidente a Aznote-Tabor, e dali passa a Hucoque; e chega a Zebulom ao sul, e chega a Aser ao ocidente, e a Judá pelo Jordão, ao nascente do sol. ^v34
+**34** A fronteira virava-se para o ocidente para Aznote-Tabor e ia para Hucoque; e chegava a Zebulom, no sul, e alcançava Aser no lado oeste e Judá a leste, à margem do rio Jordão. ^v34
 
-**35** E são as cidades fortificadas: Zidim, Zer, e Hamate, Racate e Quinerete, ^v35
+**35** As cidades fortalecidas foram Zidim, Zer, Hamate, Recate, Quinerete, ^v35
 
-**36** E Adama, e Ramá, e Hazor, ^v36
+**36** Adama, Ramá, Hazor. ^v36
 
-**37** E Quedes, e Edrei, e En-Hazor, ^v37
+**37** Quedes, Edrei, En-Hazor. ^v37
 
-**38** E Irom, e Migdal-El, Horém e Bete-Anate, e Bete-Semes; dezenove cidades e as suas aldeias. ^v38
+**38** Existiam também Irom, Migdal-El, Horem, Bete-Anate, e Bete-Semes. Eram dezenove cidades, com seus povoados. ^v38
 
-**39** Esta é a herança da tribo dos filhos de Naftali, segundo as suas famílias; estas cidades e as suas aldeias. ^v39
+**39** Essa foi a herança da tribo de Naftali, segundo seus clãs, as e cidades, incluindo seus povoados. ^v39
 
-**40** A sétima sorte saiu para a tribo dos filhos de Dã, segundo as suas famílias. ^v40
+**40** A sétima sorte saiu para a tribo de Dã, segundo seus clãs. ^v40
 
-**41** E foi o termo da sua herança, Sora, e Estaol, e Ir-Semes, ^v41
+**41** O território de sua herança incluía Zorá, Estaol, Ir-Semes, ^v41
 
-**42** E Saalabim, e Aijalom, e Itla, ^v42
+**42** Saalabim, Aijalom, e Itla. ^v42
 
-**43** E Elom, e Timna, e Ecrom, ^v43
+**43** Também incluía Elom, Timnate, Ecrom, ^v43
 
-**44** E Elteque, e Gibetom, e Baalate, ^v44
+**44** Elteque, Gibetom, Baalate, ^v44
 
-**45** E Jeúde, e Bene-Beraque, e Gate-Rimom, ^v45
+**45** Jeúde, Bene-Beraque, Gate-Rimom, ^v45
 
-**46** E Me-Jarcom, e Racom, com o termo defronte de Jafo; ^v46
+**46** Me-Jarcom, e Racom com o território defronte de Jope. ^v46
 
-**47** Saiu, porém, pequeno termo aos filhos de Dã, pelo que subiram os filhos de Dã, e pelejaram contra Lesém, e a tomaram, e a feriram ao fio da espada, e a possuíram e habitaram nela; e a Lesém chamaram Dã, conforme ao nome de Dã seu pai. ^v47
+**47** O território da tribo de Dã foi pequeno para eles; então, os descendentes de Dã atacaram Lesem, lutaram contra ela, e a conquistaram. Eles mataram todos com espada, tomaram posse da terra, e se apoderaram dela. Eles mudaram o nome de Lesem, e a chamaram de Dã por causa de seu antepassado. ^v47
 
-**48** Esta é a herança da tribo dos filhos de Dã, segundo as suas famílias; estas cidades e as suas aldeias. ^v48
+**48** Esta foi a herança da tribo de Dã, segundo seus clãs, e as cidades, incluindo seus povoados. ^v48
 
-**49** Acabando, pois, de repartir a terra em herança segundo os seus termos, deram os filhos de Israel a Josué, filho de Num, herança no meio deles. ^v49
+**49** Quando terminaram de repartir suas terras como herança, o povo de Israel deu uma herança dentre eles para Josué, filho de Num. ^v49
 
-**50** Segundo o mandado do Senhor lhe deram a cidade que pediu, a Timnate-Sera, na montanha de Efraim; e reedificou aquela cidade, e habitou nela. ^v50
+**50** Por ordem de Yahweh, eles lhe deram a cidade que ele pediu: Timnate-Sera, na região montanhosa de Efraim. Ele a reconstruiu e ali morou. ^v50
 
-**51** Estas são as heranças que Eleazar, o sacerdote, e Josué, filho de Num, e os cabeças dos pais das famílias repartiram às tribos dos filhos de Israel, em herança, por sorte, em Siló, perante o Senhor, à porta da tenda da congregação. E assim acabaram de repartir a terra. ^v51
+**51** Estas foram as heranças que Eleazar, o sacerdote, Josué, filho de Num, e os líderes tribais de famílias de seus antepassados dentro do povo de Israel, distribuíram, por sorteio, em Siló, diante de Yahweh, na entrada da Tenda do Encontro. Assim, eles terminaram de repartir a terra. ^v51

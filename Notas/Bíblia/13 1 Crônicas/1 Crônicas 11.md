@@ -1,64 +1,63 @@
 ---
-Livro: "[[1 Crônicas|1 Crônicas]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/1 Crônicas|1 Crônicas]]"
+tags: [biblia]
 ---
 
 # 1 Crônicas 11
 
-**1** Então todo o Israel se ajuntou a Davi em Hebrom, dizendo: Eis que somos teus ossos e tua carne. ^v1
+**1** "Então, todo o Israel veio a Davi em Hebrom e disse: ""Olha, nós somos tua carne e teus ossos." ^v1
 
-**2** E também outrora, sendo Saul ainda rei, eras tu o que fazias sair e entrar a Israel; também o Senhor teu Deus te disse: Tu apascentarás o meu povo Israel, e tu serás chefe sobre o meu povo Israel. ^v2
+**2** "Num passado recente, quando Saul reinava sobre nós, tu lideravas o exército israelita. Yahweh, nosso Deus, te disse: 'Tu pastorearás meu povo Israel, e tu te tornarás governador sobre meu povo Israel'""." ^v2
 
-**3** Também vieram todos os anciãos de Israel ao rei, a Hebrom, e Davi fez com eles aliança em Hebrom, perante o Senhor; e ungiram a Davi rei sobre Israel, conforme a palavra do Senhor pelo ministério de Samuel. ^v3
+**3** Então, todos os anciãos de Israel vieram ao rei em Hebrom, e Davi fez um pacto com eles diante de Yahweh. Eles ungiram a Davi rei sobre Israel. Dessa maneira, a palavra de Yahweh que havia sido declarada por Samuel tornou-se verdadeira. ^v3
 
-**4** E partiu Davi e todo o Israel para Jerusalém, que é Jebus; porque ali estavam os jebuseus, habitantes da terra. ^v4
+**4** Davi e todo o Israel foram a Jerusalém, que é Jebus. Estavam ali os jebuseus, habitantes da terra. ^v4
 
-**5** E disseram os habitantes de Jebus a Davi: Tu não entrarás aqui. Porém Davi ganhou a fortaleza de Sião, que é a cidade de Davi. ^v5
+**5** "Os habitantes de Jebus disseram a Davi: ""Tu não entrarás aqui"". Mas Davi tomou a fortaleza de Sião, que é a cidade de Davi." ^v5
 
-**6** Porque disse Davi: Qualquer que primeiro ferir os jebuseus será chefe e capitão. Então Joabe, filho de Zeruia, subiu primeiro a ela; pelo que foi feito chefe. ^v6
+**6** "E disse: ""Quem primeiro atacar os jebuseus se tornará comandante"". E Joabe, filho de Zeruia, atacou primeiro, sendo, então, feito comandante." ^v6
 
-**7** E Davi habitou na fortaleza; por isso foi chamada a cidade de Davi. ^v7
+**7** Então, Davi passou a morar na fortaleza. E eles a chamaram a cidade de Davi. ^v7
 
-**8** E edificou a cidade ao redor, desde Milo até ao circuito; e Joabe renovou o restante da cidade. ^v8
+**8** Ele fortificou a cidade ao redor, desde Milo até as muralhas, e Joabe, o restante da cidade. ^v8
 
-**9** E Davi tornava-se cada vez mais forte; porque o Senhor dos Exércitos era com ele. ^v9
+**9** Davi se tornou cada vez mais poderoso porque Yahweh dos Exércitos era com ele. ^v9
 
-**10** E estes foram os chefes dos poderosos que Davi tinha, e que o apoiaram fortemente no seu reino, com todo o Israel, para o fazerem rei, conforme a palavra do Senhor, no tocante a Israel. ^v10
+**10** Estes eram os líderes de Davi, os quais se mostraram fortes com ele em seu reino, juntamente com todo o Israel, para fazê-lo rei, obedecendo a palavra de Yahweh acerca de Israel. ^v10
 
-**11** E este é o número dos poderosos que Davi tinha: Jasobeão, hacmonita, chefe dos capitães, o qual, brandindo a sua lança contra trezentos, de uma vez os matou. ^v11
+**11** Esta é a lista da elite dos guerreiros de Davi: Jasobeão, o filho de um Hacmonita, comandante de trinta, o qual, numa ocasião, matou trezentos homens com a sua lança. ^v11
 
-**12** E, depois dele Eleazar, filho de Dodó, o aoíta; ele estava entre os três poderosos. ^v12
+**12** Depois dele, Eleazar, filho de Dodô, o aoíta, o qual foi um dos três guerreiros. ^v12
 
-**13** Este esteve com Davi em Pas-Damim, quando os filisteus ali se ajuntaram à peleja, onde havia um pedaço de campo cheio de cevada; e o povo fugiu de diante dos filisteus. ^v13
+**13** Ele estava com Davi em Pas-Damim, onde os filisteus se reuniram para a batalha. Havia ali um campo de cevada e o exército fugiu diante dos filisteus. ^v13
 
-**14** E puseram-se no meio daquele campo, e o defenderam, e feriram os filisteus; e o Senhor efetuou um grande livramento. ^v14
+**14** Eles se colocaram no meio do campo, defenderam-no e mataram os filisteus. Yahweh os salvou com uma grande vitória. ^v14
 
-**15** E três dos trinta capitães desceram à penha, a ter com Davi, na caverna de Adulão; e o exército dos filisteus estava acampado no vale de Refaim. ^v15
+**15** Então, três dos líderes de trinta desceram a Davi no penhasco, na caverna de Adulão. O exército dos filisteus estava acampado no vale de Refaim. ^v15
 
-**16** E Davi estava então no lugar forte; e o alojamento dos filisteus estava então em Belém. ^v16
+**16** Naquele tempo, Davi estava em sua fortaleza, a caverna, enquanto os filisteus haviam estabelecido o seu acampamento em Belém. ^v16
 
-**17** E desejou Davi, e disse: Quem me dera beber da água do poço de Belém, que está junto à porta! ^v17
+**17** "Davi teve sede e disse: ""Quem me dera beber da água do poço de Belém, o poço que está próximo do portão!""." ^v17
 
-**18** Então aqueles três romperam pelo acampamento dos filisteus, e tiraram água do poço de Belém, que estava junto à porta, e tomaram dela e a trouxeram a Davi; porém Davi não a quis beber, mas a derramou ao Senhor, ^v18
+**18** Então, esses três guerreiros romperam o exército dos filisteus e tiraram água do poço de Belém, que está próximo do portão. Eles pegaram a água e a trouxeram a Davi, mas ele se recusou a bebê-la. Ao invés disso, derramou-a diante de Yahweh. ^v18
 
-**19** E disse: Nunca meu Deus permita que faça tal! Beberia eu o sangue destes homens com as suas vidas? Pois com perigo das suas vidas a trouxeram. E ele não a quis beber. Isto fizeram aqueles três homens. ^v19
+**19** "Então, ele disse: ""Longe de mim, Yahweh, que eu bebesse disso! Beberia eu do sangue desses homens, que arriscaram suas vidas?"". Porque eles arriscaram suas vidas, Davi recusou-se a beber da água. Assim fizeram os três guerreiros." ^v19
 
-**20** E também Abisai, irmão de Joabe, era chefe de três, o qual, brandindo a sua lança contra trezentos, os feriu; e teve nome entre os três. ^v20
+**20** Abisai, irmão de Joabe, foi capitão sobre os três. Certa vez, ele usou sua lança contra trezentos e os matou. Ele é mencionado juntamente com os três guerreiros. ^v20
 
-**21** Ele foi o mais ilustre dos três, pelo que foi capitão deles; porém não igualou aos primeiros três. ^v21
+**21** Dos três, a ele foi dada dupla honra e o tornaram seu capitão, ainda que não fosse um deles. ^v21
 
-**22** Também Benaia, filho de Joiada, filho de um homem poderoso de Cabzeel, grande em obras; ele feriu a dois heróis de Moabe; e também desceu, e feriu um leão dentro de uma cova, no tempo da neve. ^v22
+**22** Benaia, filho de Joiada, foi um homem poderoso de grandes feitos. Ele matou os dois filhos de Ariel de Moabe e também desceu à caverna e matou um leão enquanto estava nevando. ^v22
 
-**23** Também feriu ele a um homem egípcio, homem de grande altura, de cinco côvados; e trazia o egípcio uma lança na mão, como o órgão do tecelão; mas Benaia desceu contra ele com uma vara, e arrancou a lança da mão do egípcio, e com ela o matou. ^v23
+**23** Foi ele quem matou um egípicio, um homem de cinco côvados de altura. O egípicio tinha uma lança como um lançador de tecelão, mas ele o atacou com o seu cajado, arracando a lança da mão do egípicio e matando-o com a sua própria lança. ^v23
 
-**24** Estas coisas fez Benaia, filho de Joiada; pelo que teve nome entre aqueles três poderosos. ^v24
+**24** Benaia, filho de Joiada, fez esses feitos e ganhou nome ao lado dos três guerreiros. ^v24
 
-**25** Eis que dos trinta foi ele o mais ilustre; contudo não chegou aos primeiros três; e Davi o pôs sobre os da sua guarda. ^v25
+**25** Ele era mais estimado que os trinta soldados em geral, mas não era tão reconhecido como os três maiores guerreiros da elite. Mesmo assim, Davi o colocou encarregado da sua guarda pessoal. ^v25
 
-**26** E foram os poderosos dos exércitos: Asael, irmão de Joabe, El-Hanã, filho de Dodó, de Belém; ^v26
+**26** Os guerreiros foram Asael, irmão de Joabe; Elanã filho de Dodô, de Belém; ^v26
 
-**27** Samote, o harorita; Helez, o pelonita; ^v27
+**27** Samote, o harorita; Heles, o pelonita; ^v27
 
 **28** Ira, filho de Iques, o tecoíta; Abiezer, o anatotita; ^v28
 
@@ -66,36 +65,36 @@ tags:
 
 **30** Maarai, o netofatita; Helede, filho de Baaná, o netofatita; ^v30
 
-**31** Itai, filho de Ribai, de Gileade, dos filhos de Benjamim; Benaia, o piratonita; ^v31
+**31** Itai, filho de Ribai, de Gibeá, dos descendentes de Benjamim; Benaías, o piratonita; ^v31
 
-**32** Hurai, do ribeiro de Gaás; Abiel, o arbatita; ^v32
+**32** Hurai, dos vales de Gaás; Abiel, o arbatita, ^v32
 
-**33** Azmavete, o baarumita; Eliabe, o saalbonita; ^v33
+**33** Azmavete, o baarumita; Eiabá, o saalbonita; ^v33
 
-**34** Dos filhos de Hasém, o gizonita: Jônatas, filho de Sage, o hararita; ^v34
+**34** os filhos de Hasem, o gizonita; Jônatas, filho de Sage, o hararita; ^v34
 
 **35** Aião, filho de Sacar, o hararita; Elifal, filho de Ur; ^v35
 
 **36** Hefer, o mequeratita; Aías, o pelonita; ^v36
 
-**37** Hezro, o carmelita; Naarai, filho de Ezbai; ^v37
+**37** Hezro, o carmelita; Naarai, filho de Ebzai; ^v37
 
 **38** Joel, irmão de Natã; Mibar, filho de Hagri; ^v38
 
-**39** Zeleque, o amonita; Naarai, o beerotita, escudeiro de Joabe, filho de Zeruia; ^v39
+**39** Zeleque, o amonita; Naarai, o berotita ,escudeiro de Joabe, filho de Zeruia; ^v39
 
 **40** Ira, o itrita; Garebe, o itrita; ^v40
 
 **41** Urias, o heteu; Zabade, filho de Alai; ^v41
 
-**42** Adina, filho de Siza, o rubenita, capitão dos rubenitas, e com ele trinta; ^v42
+**42** Adina, filho de Ziza, o rubenita (um chefe dos rubenitas) e trinta com ele; ^v42
 
-**43** Hanã, filho de Maaca; e Josafá, o mitatita; ^v43
+**43** Hanã, filho de Maacá, e Jeosafá, o mitnita; ^v43
 
 **44** Uzias, o asteratita; Sama e Jeiel, filhos de Hotão, o aroerita; ^v44
 
-**45** Jediael, filho de Sinri; e Joa, seu irmão, o tizita; ^v45
+**45** Jediael, filho de Sinri, e Joá, seu irmão, o tizita; ^v45
 
-**46** Eliel, o maavita; e Jeribai e Josavias, filhos de Elnaão; e Itma, o moabita; ^v46
+**46** Eliel, o maavita; Jeribai e Josavias, filhos de Elnaão; Itma, o moabita; ^v46
 
-**47** Eliel, Obede, e Jaasiel, o mesobaíta. ^v47
+**47** Eliel, Obede e Jaasiel, o mezobaíta. ^v47

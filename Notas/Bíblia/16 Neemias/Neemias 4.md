@@ -1,53 +1,52 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Neemias|Neemias]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Neemias|Neemias]]"
+tags: [biblia]
 ---
 
 # Neemias 4
 
-**1** E sucedeu que, ouvindo Sambalate que edificávamos o muro, ardeu em ira, e se indignou muito; e escarneceu dos judeus. ^v1
+**1** E, quando Sambalate ouviu que estávamos construindo o muro, isso ardeu em seu interior, ficou furiosamente irado e zombou dos judeus. ^v1
 
-**2** E falou na presença de seus irmãos, e do exército de Samaria, e disse: Que fazem estes fracos judeus? Permitir-se-lhes-á isto? Sacrificarão? Acabá-lo-ão num só dia? Vivificarão dos montões do pó as pedras que foram queimadas? ^v2
+**2** "Na presença de seus irmãos e do exército de Samaria, ele disse: ""O que esses fracos judeus estão fazendo? Eles vão restaurar a cidade para eles mesmos? Irão oferecer sacrifícios? Irão finalizar o trabalho em um dia? Trarão à vida as pedras dos montes de entulhos, depois de terem sido queimadas?""." ^v2
 
-**3** E estava com ele Tobias, o amonita, e disse: Ainda que edifiquem, contudo, vindo uma raposa, derrubará facilmente o seu muro de pedra. ^v3
+**3** "Tobias, o amonita estava com ele e lhe disse: ""Se apenas uma raposa subir no que estão construindo, isso poderia quebrar seu muro de pedra!""." ^v3
 
-**4** Ouve, ó nosso Deus, que somos tão desprezados, e torna o seu opróbrio sobre a sua cabeça, e dá-os por presa, na terra do cativeiro. ^v4
+**4** Ouve, nosso Deus, pois somos desprezados. Faze voltar as ofensas sobre suas próprias cabeças e entregue-os a serem saqueados em uma terra onde são prisioneiros. ^v4
 
-**5** E não cubras a sua iniqüidade, e não se risque de diante de ti o seu pecado, pois que te irritaram na presença dos edificadores. ^v5
+**5** Não cubras suas iniquidades e não apagues os seus pecados de diante de Ti, pois eles provocaram a ira dos que edificavam. ^v5
 
-**6** Porém edificamos o muro, e todo o muro se fechou até sua metade; porque o coração do povo se inclinava a trabalhar. ^v6
+**6** Então, nós construímos o muro em toda sua extensão até a metade da sua altura, porque o povo tinha ânimo para trabalhar. ^v6
 
-**7** E sucedeu que, ouvindo Sambalate e Tobias, e os árabes, os amonitas, e os asdoditas, que tanto ia crescendo a reparação dos muros de Jerusalém, que já as roturas se começavam a tapar, iraram-se sobremodo, ^v7
+**7** Mas, quando Sambalate, Tobias, o árabe, os amonitas e os asdoditas ouviram que o trabalho de reparos dos muros de Jerusalém estava avançando e que os lugares quebrados no muro estavam sendo fechados, arderam-se em grande ira. ^v7
 
-**8** E ligaram-se entre si todos, para virem guerrear contra Jerusalém, e para os desviarem do seu intento. ^v8
+**8** Todos eles conspiraram juntos; então vieram para lutar contra Jerusalém e causar nela confusão. ^v8
 
-**9** Porém nós oramos ao nosso Deus e pusemos uma guarda contra eles, de dia e de noite, por causa deles. ^v9
+**9** Mas nós oramos ao nosso Deus e colocamos guardas para proteger-nos contra eles dia e noite, por causa das suas ameaças. ^v9
 
-**10** Então disse Judá: Já desfaleceram as forças dos carregadores, e o pó é muito, e nós não poderemos edificar o muro. ^v10
+**10** "Então, as pessoas de Judá disseram: ""A força daqueles que carregam os fardos está diminuindo, há muito entulho e nós não somos capazes de reconstruir o muro""." ^v10
 
-**11** Disseram, porém, os nossos inimigos: Nada saberão disto, nem verão, até que entremos no meio deles, e os matemos; assim faremos cessar a obra. ^v11
+**11** "E nossos inimigos disseram: ""Eles não saberão ou não verão até que entremos no meio deles, e os matemos, e parem o trabalho""." ^v11
 
-**12** E sucedeu que, vindo os judeus que habitavam entre eles, dez vezes nos disseram: De todos os lugares, tornarão contra nós. ^v12
+**12** Naquele tempo, os judeus que moravam perto deles vieram de todas as direções e falaram conosco dez vezes, advertindo-nos do esquema que eles estavam tramando contra nós. ^v12
 
-**13** Então pus guardas nos lugares baixos por detrás do muro e nos altos; e pus ao povo pelas suas famílias com as suas espadas, com as suas lanças, e com os seus arcos. ^v13
+**13** Então, posicionei pessoas nas partes mais baixas do muro, nas áreas expostas. Posicionei cada família com suas espadas, lanças e arcos. ^v13
 
-**14** E olhei, e levantei-me, e disse aos nobres, aos magistrados, e ao restante do povo: Não os temais; lembrai-vos do grande e terrível Senhor, e pelejai pelos vossos irmãos, vossos filhos, vossas mulheres e vossas casas. ^v14
+**14** "Então, olhei, coloquei-me de pé e disse aos nobres, aos governadores e ao resto do povo: ""Não tenhais medo deles. Lembrai-vos do Senhor, que é grande e maravilhoso. Lutai por vossas famílias, vossos filhos e vossas filhas, vossas esposas e vossas casas""." ^v14
 
-**15** E sucedeu que, ouvindo os nossos inimigos que já o sabíamos, e que Deus tinha dissipado o conselho deles, todos voltamos ao muro, cada um à sua obra. ^v15
+**15** E aconteceu que, após nossos inimigos ouvirem que seus planos se tornaram conhecidos por nós e que Deus havia frustrado os deles, todos nós retornamos para o muro, cada um ao seu trabalho. ^v15
 
-**16** E sucedeu que, desde aquele dia, metade dos meus servos trabalhava na obra, e metade deles tinha as lanças, os escudos, os arcos e as couraças; e os líderes estavam por detrás de toda a casa de Judá. ^v16
+**16** Desde aquele dia, metade dos meus servos trabalhavam exclusivamente para reconstruir o muro, e a outra metade dos homens segurava lanças, escudos e arcos e usavam armaduras, enquanto os líderes apoiavam todo o povo de Judá. ^v16
 
-**17** Os que edificavam o muro, os que traziam as cargas e os que carregavam, cada um com uma das mãos fazia a obra e na outra tinha as armas. ^v17
+**17** Os mesmos trabalhadores que construíam o muro e carregavam cargas também guardavam suas posições. Cada um trabalhava com uma mão e, com a outra mão, segurava uma arma. ^v17
 
-**18** E os edificadores cada um trazia a sua espada cingida aos lombos, e edificavam; e o que tocava a trombeta estava junto comigo. ^v18
+**18** Cada construtor usava sua espada ao lado e era assim que trabalhava. O que tocava trombeta permanecia ao meu lado. ^v18
 
-**19** E disse eu aos nobres, aos magistrados e ao restante do povo: Grande e extensa é a obra, e nós estamos apartados do muro, longe uns dos outros. ^v19
+**19** "Eu disse aos nobres, aos oficiais, e ao resto do povo: ""O trabalho é grande e extenso, e nós estamos separados no muro, distantes uns do outros." ^v19
 
-**20** No lugar onde ouvirdes o som da buzina, ali vos ajuntareis conosco; o nosso Deus pelejará por nós. ^v20
+**20** "Devei correr ao lugar de onde ouvirdes o som da trombeta e ajuntai-vos lá. Nosso Deus lutará por nós""." ^v20
 
-**21** Assim trabalhávamos na obra; e metade deles tinha as lanças desde a subida da alva até ao sair das estrelas. ^v21
+**21** Então, nós estávamos fazendo o trabalho. A metade deles segurava lanças desde o alvorecer até o anoitecer. ^v21
 
-**22** Também naquele tempo disse ao povo: Cada um com o seu servo fique em Jerusalém, para que à noite nos sirvam de guarda, e de dia na obra. ^v22
+**22** "Eu também disse ao povo naquele tempo: ""Que cada homem e seu servo passe a noite no meio de Jerusalém, para que eles possam ser nossos guardas durante a noite e trabalhem durante o dia""." ^v22
 
-**23** E nem eu, nem meus irmãos, nem meus servos, nem os homens da guarda que me seguiam largávamos as nossas vestes; cada um tinha suas armas e água. ^v23
+**23** Então, nem eu, nem meus irmãos, nem meus servos, nem os homens da guarda que me seguiam, nenhum de nós trocou a roupa, e cada um de nós carregava sua arma, mesmo quando buscava água. ^v23

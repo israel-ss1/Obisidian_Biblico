@@ -1,51 +1,50 @@
 ---
-Livro: "[[1 Samuel|1 Samuel]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/1 Samuel|1 Samuel]]"
+tags: [biblia]
 ---
 
 # 1 Samuel 4
 
-**1** E veio a palavra de Samuel a todo o Israel; e Israel saiu à peleja contra os filisteus e acampou-se junto a Ebenézer; e os filisteus se acamparam junto a Afeque. ^v1
+**1** A palavra de Samuel veio a todo o Israel. Naqueles dias, Israel saiu para batalhar contra os filisteus. Eles montaram acampamento em Ebenézer e os filisteus acamparam em Afeque. ^v1
 
-**2** E os filisteus se dispuseram em ordem de batalha, para sair contra Israel; e, estendendo-se a peleja, Israel foi ferido diante dos filisteus, porque feriram na batalha, no campo, uns quatro mil homens. ^v2
+**2** Os filisteus se enfileiraram para batalhar contra Israel. Quando a batalha se espalhou, Israel foi derrotado pelos filisteus, que mataram cerca de quatro mil homens no campo de batalha. ^v2
 
-**3** E voltando o povo ao arraial, disseram os anciãos de Israel: Por que nos feriu o Senhor hoje diante dos filisteus? Tragamos de Siló a arca da aliança do Senhor, e venha no meio de nós, para que nos livre da mão de nossos inimigos. ^v3
+**3** "Quando o povo voltou ao acampamento, os anciãos de Israel disseram: ""Por que Yahweh nos derrotou hoje diante dos filisteus? Vamos trazer para cá a Arca do testemunho de Yahweh, que está em Siló, para que ela esteja conosco e nos mantenha a salvo do poder dos nossos inimigos""." ^v3
 
-**4** Enviou, pois, o povo a Siló, e trouxeram de lá a arca da aliança do Senhor dos Exércitos, que habita entre os querubins; e os dois filhos de Eli, Hofni e Finéias, estavam ali com a arca da aliança de Deus. ^v4
+**4** Então, o povo enviou homens à Siló; de lá, eles carregaram a Arca do testemunho de Yahweh dos Exércitos, que se assenta sobre os querubins. Os dois filhos de Eli, Hofni e Fineias, estavam lá com a Arca do testemunho de Deus. ^v4
 
-**5** E sucedeu que, vindo a arca da aliança do Senhor ao arraial, todo o Israel gritou com grande júbilo, até que a terra estremeceu. ^v5
+**5** Quando a Arca do testemunho de Yahweh chegou ao acampamento, todo o povo de Israel deu um grande brado e a terra ressoou. ^v5
 
-**6** E os filisteus, ouvindo a voz de júbilo, disseram: Que voz de grande júbilo é esta no arraial dos hebreus? Então souberam que a arca do Senhor era vinda ao arraial. ^v6
+**6** "Quando os filisteus ouviram o barulho dos gritos, se perguntaram: ""O que significam esses altos gritos no acampamento dos hebreus?"". Então, perceberam que a Arca de Yahweh fora trazida ao acampamento." ^v6
 
-**7** Por isso os filisteus se atemorizaram, porque diziam: Deus veio ao arraial. E diziam mais: Ai de nós! Tal nunca jamais sucedeu antes. ^v7
+**7** "Os filisteus estavam com medo; eles disseram: ""Deus veio ao acampamento. Ai de nós! Nada parecido com isso aconteceu antes!" ^v7
 
-**8** Ai de nós! Quem nos livrará da mão desses grandiosos deuses? Estes são os deuses que feriram aos egípcios com todas as pragas junto ao deserto. ^v8
+**8** Ai de nós! Quem nos protegerá da força desse poderoso Deus? Esse é o Deus que atacou os egípcios com muitos diferentes tipos de pragas no deserto. ^v8
 
-**9** Esforçai-vos, e sede homens, ó filisteus, para que porventura não venhais a servir aos hebreus, como eles serviram a vós; sede, pois, homens, e pelejai. ^v9
+**9** "Tende coragem e sede homens, filisteus! Ou vos tornareis escravos dos hebreus, como eles têm sido vossos escravos. Sede homens e lutai!""." ^v9
 
-**10** Então pelejaram os filisteus, e Israel foi ferido, fugindo cada um para a sua tenda; e foi tão grande o estrago, que caíram de Israel trinta mil homens de pé. ^v10
+**10** Os filisteus lutaram e Israel foi derrotado. Cada homem fugiu para sua casa, e a matança foi muito grande, pois trinta mil homens de Israel caíram. ^v10
 
-**11** E foi tomada a arca de Deus: e os dois filhos de Eli, Hofni e Finéias, morreram. ^v11
+**11** A Arca de Deus foi tomada e os dois filhos de Eli, Hofni e Fineias, morreram. ^v11
 
-**12** Então correu, da batalha, um homem de Benjamim, e chegou no mesmo dia a Siló; e trazia as vestes rotas, e terra sobre a cabeça. ^v12
+**12** Um homem de Benjamim correu da linha de batalha e veio a Siló no mesmo dia, chegando com suas roupas rasgadas e com terra em sua cabeça. ^v12
 
-**13** E, chegando ele, eis que Eli estava assentado numa cadeira, olhando para o caminho; porquanto o seu coração estava tremendo pela arca de Deus. Entrando, pois, aquele homem a anunciar isto na cidade, toda a cidade gritou. ^v13
+**13** Quando ele chegou, Eli estava sentado na sua cadeira perto da estrada, olhando, pois seu coração preocupou-se por causa da Arca de Deus. Quando o homem entrou na cidade e contou as notícias, toda a cidade lamentou. ^v13
 
-**14** E Eli, ouvindo os gritos, disse: Que alvoroço é esse? Então chegou aquele homem apressadamente, e veio, e o anunciou a Eli. ^v14
+**14** "Quando Eli ouviu o barulho do lamento, disse: ""O que significa esse alvoroço?"". O homem veio rapidamente e contou a Eli." ^v14
 
-**15** E era Eli da idade de noventa e oito anos; e estavam os seus olhos tão escurecidos, que já não podia ver. ^v15
+**15** Nesse tempo, Eli tinha noventa e oito anos de idade; seus olhos não focalizavam e ele não podia ver. ^v15
 
-**16** E disse aquele homem a Eli: Eu sou o que venho da batalha; porque eu fugi hoje da batalha. E disse ele: Que coisa sucedeu, filho meu? ^v16
+**16** "O homem disse a Eli: ""Eu sou o que veio da linha de batalha. Eu fugi da batalha hoje"". Eli perguntou: ""Como foi isso, meu filho?""." ^v16
 
-**17** Então respondeu o que trazia as notícias, e disse: Israel fugiu de diante dos filisteus, e houve também grande matança entre o povo; e, além disso, também teus dois filhos, Hofni e Finéias, morreram, e a arca de Deus foi tomada. ^v17
+**17** "O homem que trouxe as notícias respondeu, dizendo: ""Israel fugiu dos filisteus. Também houve uma grande derrota entre o povo. Teus dois filhos, Hofni e Fineias, estão mortos, e a Arca de Deus foi tomada""." ^v17
 
-**18** E sucedeu que, fazendo ele menção da arca de Deus, Eli caiu da cadeira para trás, ao lado da porta, e quebrou-se-lhe o pescoço e morreu; porquanto o homem era velho e pesado; e tinha ele julgado Israel quarenta anos. ^v18
+**18** Quando ele mencionou a Arca de Deus, Eli caiu da sua cadeira para trás, ao lado do portão. Seu pescoço se quebrou e ele morreu, porque ele era velho e pesado. Ele havia julgado Israel por quarenta anos. ^v18
 
-**19** E, estando sua nora, a mulher de Finéias, grávida, e próxima ao parto, e ouvindo estas notícias, de que a arca de Deus era tomada, e de que seu sogro e seu marido morreram, encurvou-se e deu à luz; porquanto as dores lhe sobrevieram. ^v19
+**19** Sua nora, esposa de Fineias, estava grávida e prestes a dar à luz. Quando ela ouviu as notícias de que a Arca de Deus foi capturada e que seu sogro e seu marido estavam mortos, ela se agachou e deu à luz, mas as dores do parto a sufocaram. ^v19
 
-**20** E, ao tempo em que ia morrendo, disseram as mulheres que estavam com ela: Não temas, pois deste à luz um filho. Ela porém não respondeu, nem fez caso disso. ^v20
+**20** "Perto da hora da sua morte, as mulheres que a auxiliavam disseram: ""Não temas, porque tu deste à luz um filho"". Ela não respondeu nem considerou em seu coração o que lhe disseram." ^v20
 
-**21** E chamou ao menino Icabode, dizendo: De Israel se foi a glória! Porque a arca de Deus foi tomada, e por causa de seu sogro e de seu marido. ^v21
+**21** "Mas, chamou a criança Icabode, dizendo: ""A glória de Israel se foi!"". Porque a Arca de Deus havia sido capturada, e por causa de seu sogro e de seu marido." ^v21
 
-**22** E disse: De Israel a glória é levada presa; pois é tomada a arca de Deus. ^v22
+**22** "Ela disse: ""A glória de Israel se foi, porque a Arca de Deus foi capturada""." ^v22

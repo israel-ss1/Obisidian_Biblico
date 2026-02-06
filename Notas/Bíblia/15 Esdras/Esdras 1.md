@@ -1,29 +1,28 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Esdras|Esdras]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Esdras|Esdras]]"
+tags: [biblia]
 ---
 
 # Esdras 1
 
-**1** No primeiro ano de Ciro, rei da Pérsia (para que se cumprisse a palavra do SENHOR, pela boca de Jeremias), despertou o SENHOR o espírito de Ciro, rei da Pérsia, o qual fez passar pregão por todo o seu reino, como também por escrito, dizendo: ^v1
+**1** No primeiro ano de Ciro, rei da Pérsia, Yahweh cumpriu a Sua palavra que veio da boca de Jeremias e avivou o espírito de Ciro, rei da Pérsia. A voz de Ciro, foi ouvida por todo o seu reino. Isto é o que estava escrito e foi falado: ^v1
 
-**2** Assim diz Ciro, rei da Pérsia: O Senhor Deus dos céus me deu todos os reinos da terra, e me encarregou de lhe edificar uma casa em Jerusalém, que está em Judá. ^v2
+**2** """Assim diz Ciro, rei da Pérsia: 'Yahweh, Deus dos céus, me deu todos os reinos da Terra e me nomeou para construir para Ele um templo em Jerusalém, que fica em Judá." ^v2
 
-**3** Quem há entre vós, de todo o seu povo, seja seu Deus com ele, e suba a Jerusalém, que está em Judá, e edifique a casa do Senhor Deus de Israel (ele é o Deus) que está em Jerusalém. ^v3
+**3** Aquele dentre vós que for do Seu povo, que Deus seja com esta pessoa, para que suba para Jerusalém, que fica em Judá, e construa o templo para Yahweh, Deus de Israel, que habita em Jerusalém. ^v3
 
-**4** E todo aquele que ficar atrás em algum lugar em que andar peregrinando, os homens do seu lugar o ajudarão com prata, com ouro, com bens, e com gados, além das dádivas voluntárias para a casa de Deus, que está em Jerusalém. ^v4
+**4** "Povos de todas as partes do reino, onde sobreviventes daquela terra estão vivendo, devem provê-los com prata, ouro, posses e animais, assim como ofertas voluntárias para o templo de Deus em Jerusalém'""." ^v4
 
-**5** Então se levantaram os chefes dos pais de Judá e Benjamim, e os sacerdotes e os levitas, com todos aqueles cujo espírito Deus despertou, para subirem a edificar a casa do Senhor, que está em Jerusalém. ^v5
+**5** Então, levantaram-se os chefes das famílias de Judá e de Benjamim, os sacerdotes e levitas e todos a quem o Espírito de Deus despertou para subir e construir a cidade Dele. ^v5
 
-**6** E todos os que habitavam nos arredores lhes firmaram as mãos com vasos de prata, com ouro, com bens e com gado, e com coisas preciosas; além de tudo o que voluntariamente se deu. ^v6
+**6** Todos os que habitavam nos arredores os ajudaram com prata, objetos de ouro, posses, animais, itens valiosos e ofertas voluntárias. ^v6
 
-**7** Também o rei Ciro tirou os utensílios da casa do Senhor, que Nabucodonosor tinha trazido de Jerusalém, e que tinha posto na casa de seus deuses. ^v7
+**7** O rei Ciro também cedeu os objetos que pertenciam ao templo de Yahweh, aqueles que Nabucodonosor havia trazido de Jerusalém e colocado na casa de seus próprios deuses. ^v7
 
-**8** Estes tirou Ciro, rei da Pérsia, pela mão de Mitredate, o tesoureiro, que os entregou contados a Sesbazar, príncipe de Judá. ^v8
+**8** Ciro, rei da Pérsia, os colocou sobre o controle de Mitredate, o tesoureiro, para que ele os contasse e os entregasse a Sesbazar, o líder de Judá. ^v8
 
-**9** E este é o número deles: trinta travessas de ouro, mil travessas de prata, vinte e nove facas, ^v9
+**9** Esta era a quantidade de objetos: trinta bacias de ouro, mil bacias de prata, vinte e nove facas, ^v9
 
-**10** Trinta bacias de ouro, mais outras quatrocentas e dez bacias de prata, e mil outros utensílios. ^v10
+**10** trinta tigelas de ouro, quatrocentas e dez pequenas tigelas de prata e outros mil objetos. ^v10
 
-**11** Todos os utensílios de ouro e de prata foram cinco mil e quatrocentos; todos estes levou Sesbazar, quando os do cativeiro subiram de babilônia para Jerusalém. ^v11
+**11** Havia ao todo cinco mil e quatrocentos itens de ouro e prata. Sesbazar trouxe todos eles quando os exilados vieram da Babilônia para Jerusalém. ^v11

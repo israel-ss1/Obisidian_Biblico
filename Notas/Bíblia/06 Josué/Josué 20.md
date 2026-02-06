@@ -1,25 +1,24 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Josué|Josué]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Josué|Josué]]"
+tags: [biblia]
 ---
 
 # Josué 20
 
-**1** Falou mais o SENHOR a Josué, dizendo: ^v1
+**1** Então, Yahweh disse a Josué: ^v1
 
-**2** Fala aos filhos de Israel, dizendo: Apartai para vós as cidades de refúgio, de que vos falei pelo ministério de Moisés, ^v2
+**2** """Fala ao povo de Israel, dizendo: 'Designai as cidades de refúgio de que Eu vos falei por meio de Moisés." ^v2
 
-**3** Para que fuja para ali o homicida, que matar alguma pessoa por engano, e não com intenção; para que vos sirvam de refúgio contra o vingador do sangue. ^v3
+**3** Fazei isto para que alguém que tenha matado uma pessoa involuntariamente possa ir para lá. Essas cidades serão lugar de refúgio contra qualquer um que procura vingar o sangue de alguém que foi morto. ^v3
 
-**4** E fugindo para alguma daquelas cidades, pôr-se-á à porta dela e exporá a sua causa aos ouvidos dos anciãos da tal cidade; então o tomarão consigo na cidade; e lhe darão lugar, para que habite com eles. ^v4
+**4** Aquele que matou correrá para uma dessas cidades, ficará à entrada do seu portão e explicará seu caso aos anciãos daquela cidade. Então, eles o levarão para dentro da cidade e lhes darão um lugar para habitar entre eles. ^v4
 
-**5** E se o vingador do sangue o seguir, não entregarão na sua mão o homicida, porquanto não feriu a seu próximo com intenção, e não o odiou antes. ^v5
+**5** E, se alguém vier tentar vingar o sangue de quem foi morto, as pessoas da cidade não lhe entregarão aquele que matou. Eles não o farão, pois matou seu próximo sem intenção e não tinha nenhum ódio por ele anteriormente. ^v5
 
-**6** E habitará na mesma cidade, até que compareça em juízo perante a congregação, até que morra o sumo sacerdote que houver naqueles dias; então o homicida voltará, e virá à sua cidade e à sua casa, à cidade de onde fugiu. ^v6
+**6** "O homicida deve permanecer naquela cidade até que compareça diante da assembleia para julgamento, e ali permanecerá até a morte do sumo sacerdote que estava servindo naqueles dias. Então, aquele que, acidentalmente, matou alguém poderá voltar à sua própria cidade e à sua casa, à cidade de onde fugiu'""." ^v6
 
-**7** Então designaram a Quedes na Galiléia, na montanha de Naftali, e a Siquém, na montanha de Efraim, e a Quiriate-Arba (esta é Hebrom), na montanha de Judá. ^v7
+**7** Então, os israelitas designaram Quedes, na Galileia, na região montanhosa de Naftali; Siquém, na região montanhosa de Efraim; e Queriate-Arba (que é Hebrom), na região montanhosa de Judá. ^v7
 
-**8** E, além do Jordão, na direção de Jericó para o oriente, designaram a Bezer, no deserto, na campina da tribo de Rúben, e a Ramote, em Gileade da tribo de Gade, e a Golã, em Basã da tribo de Manassés. ^v8
+**8** Além do Jordão, a leste de Jericó, designaram Bezer, no deserto no planalto da tribo de Rúben; Ramote, em Gileade, da tribo de Gade; e Golã, em Basã, da tribo de Manassés. ^v8
 
-**9** Estas são as cidades que foram designadas para todos os filhos de Israel, e para o estrangeiro que habitasse entre eles, para que se acolhesse a elas todo aquele que por engano matasse alguma pessoa, para que não morresse às mãos do vingador do sangue, até se apresentar diante da congregação. ^v9
+**9** Essas foram as cidades designadas para todo o povo de Israel e para os forasteiros que habitam entre eles, para que aquele que matar alguém, sem intenção, possa fugir até elas, buscando segurança. Esse não morrerá pela mão daquele que deseja vingar o sangue que foi derramado, sem haver sido apresentado à assembleia para ser julgado. ^v9

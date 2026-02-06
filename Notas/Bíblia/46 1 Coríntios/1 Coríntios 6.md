@@ -1,47 +1,46 @@
 ---
-Livro: "[[1 Coríntios|1 Coríntios]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/1 Coríntios|1 Coríntios]]"
+tags: [biblia]
 ---
 
 # 1 Coríntios 6
 
-**1** Ousa algum de vós, tendo algum negócio contra outro, ir a juízo perante os injustos, e não perante os santos? ^v1
+**1** Quando um de vós tem uma disputa contra outro irmão, como se atreve a ir ao tribunal perante os juízes incrédulos e não perante os santos? ^v1
 
-**2** Não sabeis vós que os santos hão de julgar o mundo? Ora, se o mundo deve ser julgado por vós, sois porventura indignos de julgar as coisas mínimas? ^v2
+**2** Vós não sabeis que os santos julgarão o mundo? E, se vós julgareis o mundo, não sois capazes de resolver questões de pouca importância? ^v2
 
-**3** Não sabeis vós que havemos de julgar os anjos? Quanto mais as coisas pertencentes a esta vida? ^v3
+**3** Não sabeis que julgaremos os anjos? Quanto mais as coisas pertencentes a esta vida! ^v3
 
-**4** Então, se tiverdes negócios em juízo, pertencentes a esta vida, pondes para julga-los os que são de menos estima na igreja? ^v4
+**4** Portanto, se vós tendes que fazer julgamentos sobre coisas normais da vida, por que colocais tais casos diante daqueles que não têm aceitação na igreja? ^v4
 
-**5** Para vos envergonhar o digo. Não há, pois, entre vós sábios, nem mesmo um, que possa julgar entre seus irmãos? ^v5
+**5** Eu falo isso para vossa vergonha. Não há alguém entre vós sábio o suficiente para resolver a disputa entre irmãos? ^v5
 
-**6** Mas o irmão vai a juízo com o irmão, e isto perante infiéis. ^v6
+**6** No entanto, um crente vai para o tribunal contra outro crente, e isso é colocado diante de um juiz incrédulo! ^v6
 
-**7** Na verdade é já realmente uma falta entre vós, terdes demandas uns contra os outros. Por que não sofreis antes a injustiça? Por que não sofreis antes o dano? ^v7
+**7** O fato de existir disputas judiciais entre cristãos já é uma derrota para vós. Porque não sofreis o mal? Porque não permitis a vós mesmos serdes traídos? ^v7
 
-**8** Mas vós mesmos fazeis a injustiça e fazeis o dano, e isto aos irmãos. ^v8
+**8** Mas vós tendes feito o mal e traído uns aos outros, sendo estes vossos próprios irmãos! ^v8
 
-**9** Não sabeis que os injustos não hão de herdar o reino de Deus? ^v9
+**9** Não sabeis vós que os injustos não herdarão o Reino de Deus? Não vos enganeis: os sexualmente imorais, os idólatras, os adúlteros, os efeminados, e os homens que mantêm relação sexual com outros homens, ^v9
 
-**10** Não erreis: nem os devassos, nem os idólatras, nem os adúlteros, nem os efeminados, nem os sodomitas, nem os ladrões, nem os avarentos, nem os bêbados, nem os maldizentes, nem os roubadores herdarão o reino de Deus. ^v10
+**10** os ladrões, os gulosos, os bêbados, os difamadores e os roubadores, nenhum deles herdará o reino de Deus. ^v10
 
-**11** E é o que alguns têm sido; mas haveis sido lavados, mas haveis sido santificados, mas haveis sido justificados em nome do Senhor Jesus, e pelo Espírito do nosso Deus. ^v11
+**11** Tais fostes alguns de vós. Mas vós fostes lavados, santificados e justificados com Deus no nome do Senhor Jesus Cristo e pelo Espírito de nosso Deus. ^v11
 
-**12** Todas as coisas me são lícitas, mas nem todas as coisas convêm. Todas as coisas me são lícitas, mas eu não me deixarei dominar por nenhuma. ^v12
+**12** """Todas as coisas são lícitas para mim"", mas nem tudo me convém. ""Todas as coisas são legítimas para mim"", mas eu não serei dominado por nenhuma delas." ^v12
 
-**13** Os alimentos são para o estômago e o estômago para os alimentos; Deus, porém, aniquilará tanto um como os outros. Mas o corpo não é para a fornicação, senão para o Senhor, e o Senhor para o corpo. ^v13
+**13** """Os alimentos são para o estômago, e o estômago é para os alimentos"", mas Deus destruirá a ambos. O corpo não é para imoralidade sexual, porém para o Senhor, e o Senhor para o corpo." ^v13
 
-**14** Ora, Deus, que também ressuscitou o Senhor, nos ressuscitará a nós pelo seu poder. ^v14
+**14** Deus ressuscitou o Senhor e também nos ressuscitará pelo Seu poder. ^v14
 
-**15** Não sabeis vós que os vossos corpos são membros de Cristo? Tomarei, pois, os membros de Cristo, e os farei membros de uma meretriz? Não, por certo. ^v15
+**15** Vós não sabeis que vossos corpos são membros de Cristo? Porventura tomaria os membros de Cristo e os associaria a uma prostituta? Claro que não! ^v15
 
-**16** Ou não sabeis que o que se ajunta com a meretriz, faz-se um corpo com ela? Porque serão, disse, dois numa só carne. ^v16
+**16** "Não sabeis que quem se une a uma prostituta torna-se um corpo com ela? Como diz a escritura: ""Os dois se tornarão uma só carne.""" ^v16
 
-**17** Mas o que se ajunta com o Senhor é um mesmo espírito. ^v17
+**17** Todavia, quem se une ao Senhor torna-se um espírito com Ele. ^v17
 
-**18** Fugi da fornicação. Todo o pecado que o homem comete é fora do corpo; mas o que fornica peca contra o seu próprio corpo. ^v18
+**18** Fugi da imoralidade sexual! Qualquer outro pecado que uma pessoa comete é fora do corpo, mas a pessoa sexualmente imoral peca contra seu próprio corpo. ^v18
 
-**19** Ou não sabeis que o vosso corpo é o templo do Espírito Santo, que habita em vós, proveniente de Deus, e que não sois de vós mesmos? ^v19
+**19** Não sabeis que vossos corpos são templo do Espírito Santo, que mora em vós, os quais recebestes da parte de Deus, e que não sois de vós mesmos? ^v19
 
-**20** Porque fostes comprados por bom preço; glorificai, pois, a Deus no vosso corpo, e no vosso espírito, os quais pertencem a Deus. ^v20
+**20** Pois, fostes comprados por um preço. Portanto, glorificai a Deus em vossos corpos. ^v20

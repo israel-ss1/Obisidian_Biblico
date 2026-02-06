@@ -1,77 +1,76 @@
 ---
-Livro: "[[Êxodo|Êxodo]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Êxodo|Êxodo]]"
+tags: [biblia]
 ---
 
 # Êxodo 34
 
-**1** Então disse o SENHOR a Moisés: Lavra duas tábuas de pedra, como as primeiras; e eu escreverei nas tábuas as mesmas palavras que estavam nas primeiras tábuas, que tu quebraste. ^v1
+**1** "Yahweh disse para Moisés: "" Corta duas tábuas de pedra como as primeiras tábuas de pedra. Eu escreverei nessas tábuas de pedra as palavras que estavam nas primeiras tábuas de pedras, as tábuas que tu quebraste." ^v1
 
-**2** E prepara-te para amanhã, para que subas pela manhã ao monte Sinai, e ali põe-te diante de mim no cume do monte. ^v2
+**2** Prepara-te pela manhã e sobe o Monte Sinai, e apresenta-te a mim no topo da montanha. ^v2
 
-**3** E ninguém suba contigo, e também ninguém apareça em todo o monte; nem ovelhas nem bois se apascentem defronte do monte. ^v3
+**3** "Ninguém poderá subir contigo. Não deixe ninguém mais ser visto em nenhum lugar da montanha. Nem manada, nem rebanhos devem pastar em frente à montanha""." ^v3
 
-**4** Então Moisés lavrou duas tábuas de pedra, como as primeiras; e levantando-se pela manhã de madrugada, subiu ao monte Sinai, como o Senhor lhe tinha ordenado; e levou as duas tábuas de pedra nas suas mãos. ^v4
+**4** Então Moisés cortou duas tábuas de pedra como as primeiras, levantou-se de manhã cedo e subiu ao Monte Sinai, como Yahweh havia lhe instruído. Moisés carregou as tábuas de pedra em suas mãos. ^v4
 
-**5** E o Senhor desceu numa nuvem e se pôs ali junto a ele; e ele proclamou o nome do Senhor. ^v5
+**5** "Yahweh desceu em uma nuvem e esteve com Moisés ali, e ele pronunciou o nome ""Yahweh""." ^v5
 
-**6** Passando, pois, o Senhor perante ele, clamou: O Senhor, o Senhor Deus, misericordioso e piedoso, tardio em irar-se e grande em beneficência e verdade; ^v6
+**6** "Yahweh passou à frente dele e proclamou: ""Yahweh, Yahweh, Deus é misericordioso e gracioso, não se ira facilmente e é abundante na aliança com fidelidade e confiança," ^v6
 
-**7** Que guarda a beneficência em milhares; que perdoa a iniqüidade, e a transgressão e o pecado; que ao culpado não tem por inocente; que visita a iniqüidade dos pais sobre os filhos e sobre os filhos dos filhos até a terceira e quarta geração. ^v7
+**7** "mantendo fielmente a aliança por milhares de gerações, perdoando iniquidades, transgressões e pecados. Porém Ele, de maneira nenhuma, livrará o culpado. Ele vai trazer punição para os pecados dos pais sobre os filhos, e sobre os filhos dos filhos, até a terceira e a quarta geração""." ^v7
 
-**8** E Moisés apressou-se, e inclinou a cabeça à terra, adorou, ^v8
+**8** Moisés rapidamente prostrou sua cabeça ao chão e adorou. ^v8
 
-**9** E disse: Senhor, se agora tenho achado graça aos teus olhos, vá agora o Senhor no meio de nós; porque este é povo de dura cerviz; porém perdoa a nossa iniqüidade e o nosso pecado, e toma-nos por tua herança. ^v9
+**9** "Depois ele disse: ""Se agora eu tenho achado favor em Teu olhar, meu Senhor, por favor vem sobre nós, por essas pessoas teimosas. Perdoa nossas iniquidades e nossos pecados, e leva-nos como tua propriedade""." ^v9
 
-**10** Então disse: Eis que eu faço uma aliança; farei diante de todo o teu povo maravilhas que nunca foram feitas em toda a terra, nem em nação alguma; de maneira que todo este povo, em cujo meio tu estás, veja a obra do Senhor; porque coisa terrível é o que faço contigo. ^v10
+**10** "Yahweh disse: ""Vê, Eu estou para fazer uma aliança. Perante todo o teu povo, Eu irei fazer maravilhas como as que não foram feitas em toda a terra ou em qualquer nação. Todas essas pessoas, perante ti, verão minhas grandes obras, por isso estou fazendo uma coisa terrível contigo." ^v10
 
-**11** Guarda o que eu te ordeno hoje; eis que eu lançarei fora diante de ti os amorreus, e os cananeus, e os heteus, e os perizeus, e os heveus e os jebuseus. ^v11
+**11** Obedece o que estou te ordenando hoje. Eu estou prestes a expulsar de diante de ti os amorreus, os cananeus, os heteus, os perizeus, os haveus e os jebuseus. ^v11
 
-**12** Guarda-te de fazeres aliança com os moradores da terra aonde hás de entrar; para que não seja por laço no meio de ti. ^v12
+**12** Tem cuidado para não fazeres alianças com os que habitam a terra para onde estás indo, ou eles se tornarão uma armadilha perante ti. ^v12
 
-**13** Mas os seus altares derrubareis, e as suas estátuas quebrareis, e os seus bosques cortareis. ^v13
+**13** Em vez disso, tu deves quebrar seus altares, esmagar seus pilares de pedras sagradas e cortar os postes de Asherah. ^v13
 
-**14** Porque não te inclinarás diante de outro deus; pois o nome do Senhor é Zeloso; é um Deus zeloso. ^v14
+**14** Pois não deves adorar outros deuses, por mim O SENHOR, cujo nome é 'Ciumento', sou o Deus ciumento. ^v14
 
-**15** Para que não faças aliança com os moradores da terra, e quando eles se prostituírem após os seus deuses, ou sacrificarem aos seus deuses, tu, como convidado deles, comas também dos seus sacrifícios, ^v15
+**15** Tem cuidado para não fazeres alianças com os que habitam a terra, pois eles se prostituem para seus deuses, e sacrificam a eles e te convidarão para que comas algo do sacrifício deles. ^v15
 
-**16** E tomes mulheres das suas filhas para os teus filhos, e suas filhas, prostituindo-se com os seus deuses, façam que também teus filhos se prostituam com os seus deuses. ^v16
+**16** Então tomarás algumas das filhas deles para os teus filhos, e as filhas deles se prostituirão para seus deuses, e eles farão teus filhos se prostituirem para os deuses deles. ^v16
 
-**17** Não te farás deuses de fundição. ^v17
+**17** Não faças para ti mesmo deuses de metal fundido. ^v17
 
-**18** A festa dos pães ázimos guardarás; sete dias comerás pães ázimos, como te tenho ordenado, ao tempo apontado do mês de Abibe; porque no mês de Abibe saíste do Egito. ^v18
+**18** Tu deves manter o festival de pães sem fermento. Como eu lhe comandei, tu deves comer pão sem fermento por sete dias, no tempo fixo, no mês de abib, pois foi no mês de abib que vieste do Egito. ^v18
 
-**19** Tudo o que abre a madre meu é, até todo o teu gado, que seja macho, e que abre a madre de vacas e de ovelhas; ^v19
+**19** Todos os primogênitos são meus, inclusive todos os primogênitos machos do teu rebanho, tanto de vacas quanto de ovelhas. ^v19
 
-**20** O burro, porém, que abrir a madre, resgatarás com um cordeiro; mas, se o não resgatares, cortar-lhe-ás a cabeça; todo o primogênito de teus filhos resgatarás. E ninguém aparecerá vazio diante de mim. ^v20
+**20** Tu deves comprar de volta os primogênitos dos burros com cordeiros, porém se não comprares de volta tu deves quebrar-lhes o pescoço. Tu deves comprar de volta todos os primogênitos de teus filhos. Ninguém deve aparecer perante mim de mãos vazias. ^v20
 
-**21** Seis dias trabalharás, mas ao sétimo dia descansarás: na aradura e na sega descansarás. ^v21
+**21** Tu deves trabalhar por seis dias, porém no sétimo dia tu deves descansar. Mesmo durante o tempo de cultivo e na colheita, tu deves descansar. ^v21
 
-**22** Também guardarás a festa das semanas, que é a festa das primícias da sega do trigo, e a festa da colheita no fim do ano. ^v22
+**22** Tu deves observar o festival das semanas com a primeira produção da colheita de trigo, e tu deves observar o festival da colheita no final do ano. ^v22
 
-**23** Três vezes ao ano todos os homens aparecerão perante o Senhor DEUS, o Deus de Israel; ^v23
+**23** Todos os teus homens deverão se apresentar diante de mim, Yahweh, o Deus de Israel, três vezes por ano. ^v23
 
-**24** Porque eu lançarei fora as nações de diante de ti, e alargarei o teu território; ninguém cobiçará a tua terra, quando subires para aparecer três vezes no ano diante do Senhor teu Deus. ^v24
+**24** Pois Eu expulsarei nações de diante de ti e expandirei tuas fronteiras. Ninguém deverá cobiçar tuas terras, quando apareceres diante de mim, Yahweh, teu Deus, três vezes por ano. ^v24
 
-**25** Não sacrificarás o sangue do meu sacrifício com pão levedado, nem o sacrifício da festa da páscoa ficará da noite para a manhã. ^v25
+**25** Não oferecerás sangue do meu sacrifício com nenhum fermento, ou nenhuma carne do sacrifício do festival de páscoa, que sobrou pela manhã. ^v25
 
-**26** As primícias dos primeiros frutos da tua terra trarás à casa do Senhor teu Deus; não cozerás o cabrito no leite de sua mãe. ^v26
+**26** Tu deverás trazer o melhor e o primeiro fruto do teu campo para a minha casa. Não cozinharás um cabrito no leite de sua mãe. ^v26
 
-**27** Disse mais o Senhor a Moisés: Escreve estas palavras; porque conforme ao teor destas palavras tenho feito aliança contigo e com Israel. ^v27
+**27** "Yahweh disse a Moisés: ""Escreve estas palavras, pois Eu me compromento com estas palavras que falei, e fiz uma aliança com o povo de Israel""." ^v27
 
-**28** E esteve ali com o Senhor quarenta dias e quarenta noites; não comeu pão, nem bebeu água, e escreveu nas tábuas as palavras da aliança, os dez mandamentos. ^v28
+**28** Moisés esteva lá com Yahweh por quarenta dias e quarenta noites; ele não comeu nenhuma comida, nem bebeu água. Ele escreveu nas tábuas as palavras da Aliança, os dez Mandamentos. ^v28
 
-**29** E aconteceu que, descendo Moisés do monte Sinai trazia as duas tábuas do testemunho em suas mãos, sim, quando desceu do monte, Moisés não sabia que a pele do seu rosto resplandecia, depois que falara com ele. ^v29
+**29** Quando Moisés desceu do Monte Sinai com as duas tábuas do Decreto da Aliança em suas mãos, ele não sabia que a pele de sua face tinha se tornado radiante enquanto falava com Deus. ^v29
 
-**30** Olhando, pois, Arão e todos os filhos de Israel para Moisés, eis que a pele do seu rosto resplandecia; por isso temeram chegar-se a ele. ^v30
+**30** Quando Arão e todos os israelitas viram Moisés, a pele da face dele estava brilhando, e eles ficaram com medo de se aproximar dele. ^v30
 
-**31** Então Moisés os chamou, e Arão e todos os príncipes da congregação tornaram-se a ele; e Moisés lhes falou. ^v31
+**31** Mas Moisés lhes chamou, e Arão e todos os líderes da comunidade vieram a ele. Depois Moisés falou com eles. ^v31
 
-**32** Depois chegaram também todos os filhos de Israel; e ele lhes ordenou tudo o que o Senhor falara com ele no monte Sinai. ^v32
+**32** Após isso, todo o povo de Israel veio a Moisés, e ele disse a eles todos os mandamentos que Yahweh tinha dado a ele no Monte Sinai. ^v32
 
-**33** Assim que Moisés acabou de falar com eles, pôs um véu sobre o seu rosto. ^v33
+**33** Depois que Moisés terminou de falar com eles, ele colocou um véu sobre sua face. ^v33
 
-**34** Porém, entrando Moisés perante o Senhor, para falar com ele, tirava o véu até sair; e, saindo, falava com os filhos de Israel o que lhe era ordenado. ^v34
+**34** Sempre que Moisés estava perante Yahweh para falar com Ele, ele removia o véu. Depois ele colocava o véu de volta quando ele ia embora. Ele saía da tenda e dizia aos israelitas o que tinha sido ordenado. ^v34
 
-**35** Assim, pois, viam os filhos de Israel o rosto de Moisés, e que resplandecia a pele do seu rosto; e tornava Moisés a pôr o véu sobre o seu rosto, até entrar para falar com ele. ^v35
+**35** Os israelitas viram a face de Moisés brilhando. Porém depois ele colocava o véu sobre sua face de novo até que voltasse a falar com Yahweh. ^v35

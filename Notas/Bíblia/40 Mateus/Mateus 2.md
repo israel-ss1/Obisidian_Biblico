@@ -1,53 +1,52 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Mateus|Mateus]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Mateus|Mateus]]"
+tags: [biblia]
 ---
 
 # Mateus 2
 
-**1** E, tendo nascido Jesus em Belém de Judéia, no tempo do rei Herodes, eis que uns magos vieram do oriente a Jerusalém, ^v1
+**1** Depois do nascimento de Jesus, em Belém da Judéia, nos tempos do rei Herodes, os sábios do Oriente chegaram a Jerusalém, dizendo: ^v1
 
-**2** Dizendo: Onde está aquele que é nascido rei dos judeus? porque vimos a sua estrela no oriente, e viemos a adorá-lo. ^v2
+**2** """Onde está aquele que nasceu, o Rei dos Judeus? Nós vimos a sua estrela no Oriente e viemos adorá-Lo.""" ^v2
 
-**3** E o rei Herodes, ouvindo isto, perturbou-se, e toda Jerusalém com ele. ^v3
+**3** Quando o rei Herodes ouviu isso, ficou perturbado, e com ele toda a Jerusalém. ^v3
 
-**4** E, congregados todos os príncipes dos sacerdotes, e os escribas do povo, perguntou-lhes onde havia de nascer o Cristo. ^v4
+**4** "Herodes reuniu todos os chefes dos sacerdotes e os mestres do povo, e perguntou: ""Onde o Cristo vai nascer?""" ^v4
 
-**5** E eles lhe disseram: Em Belém de Judéia; porque assim está escrito pelo profeta: ^v5
+**5** "Eles disseram: ""Em Belém da Judeia, porque está escrito pelo profeta:" ^v5
 
-**6** E tu, Belém, terra de Judá,De modo nenhum és a menor entre as capitais de Judá;porque de ti sairá o Guia que há de apascentar o meu povo Israel. ^v6
+**6** "'E tu, Belém, na terra de Judá, não és a menor dentre as principais cidades de Judá, porque de ti virá um líder que irá pastorear o Meu povo de Israel'""." ^v6
 
-**7** Então Herodes, chamando secretamente os magos, inquiriu exatamente deles acerca do tempo em que a estrela lhes aparecera. ^v7
+**7** Então Herodes chamou secretamente os sábios para perguntar-lhes exatamente quando a estrela tinha aparecido. ^v7
 
-**8** E, enviando-os a Belém, disse: Ide, e perguntai diligentemente pelo menino e, quando o achardes, participai-mo, para que também eu vá e o adore. ^v8
+**8** "Ele os enviou a Belém, dizendo: ""Ide e procurai pelo menino com cuidado. Quando o achardes, avisai-me, para que eu possa ir e adorá-Lo""." ^v8
 
-**9** E, tendo eles ouvido o rei, partiram; e eis que a estrela, que tinham visto no oriente, ia adiante deles, até que, chegando, se deteve sobre o lugar onde estava o menino. ^v9
+**9** Depois de terem ouvido o rei, partiram, e a estrela que eles tinham visto no Oriente foi adiante deles até que parou acima do lugar onde o menino estava. ^v9
 
-**10** E, vendo eles a estrela, regoziram-se muito com grande alegria. ^v10
+**10** Quando eles viram a estrela, regozijaram-se com grande alegria. ^v10
 
-**11** E, entrando na casa, acharam o menino com Maria sua mãe e, prostrando-se, o adoraram; e abrindo os seus tesouros, ofertaram-lhe dádivas: ouro, incenso e mirra. ^v11
+**11** Eles entraram na casa, viram o menino com Maria, Sua mãe, curvaram-se e O adoraram. Eles abriram seus tesouros e ofereceram-Lhe presentes: ouro, incenso e mirra. ^v11
 
-**12** E, sendo por divina revelação avisados num sonho para que não voltassem para junto de Herodes, partiram para a sua terra por outro caminho. ^v12
+**12** Deus os alertou em sonho que não retornassem a Herodes, e eles partiram para o seu próprio país por outro caminho. ^v12
 
-**13** E, tendo eles se retirado, eis que o anjo do Senhor apareceu a José num sonho, dizendo: Levanta-te, e toma o menino e sua mãe, e foge para o Egito, e demora-te lá até que eu te diga; porque Herodes há de procurar o menino para o matar. ^v13
+**13** "Depois de partirem, um anjo do Senhor apareceu a José em sonho e disse: ""Levante-te, pega o menino e sua mãe, e foge para o Egito. Permanece lá até que eu te diga, porque Herodes procurará o menino para destruí-Lo""." ^v13
 
-**14** E, levantando-se ele, tomou o menino e sua mãe, de noite, e foi para o Egito. ^v14
+**14** Naquela noite, José levantou-se, pegou o menino com Sua mãe e partiu para o Egito. ^v14
 
-**15** E esteve lá, até à morte de Herodes, para que se cumprisse o que foi dito da parte do Senhor pelo profeta, que diz: Do Egito chamei o meu Filho. ^v15
+**15** "Ele permaneceu lá até a morte de Herodes. Isso cumpriu o que o Senhor dissera por meio do profeta: ""Do Egito chamei Meu Filho""." ^v15
 
-**16** Então Herodes, vendo que tinha sido iludido pelos magos, irritou-se muito, e mandou matar todos os meninos que havia em Belém, e em todos os seus contornos, de dois anos para baixo, segundo o tempo que diligentemente inquirira dos magos. ^v16
+**16** Então Herodes, quando viu que tinha sido enganado pelos sábios, ficou furioso. Ele mandou matar todos os meninos de dois anos ou menos que estavam em Belém e em toda aquela região, de acordo com o tempo indicado com precisão pelos sábios. ^v16
 
-**17** Então se cumpriu o que foi dito pelo profeta Jeremias, que diz: ^v17
+**17** Então cumpriu-se o que havia sido falado pelo profeta Jeremias: ^v17
 
-**18** Em Ramá se ouviu uma voz, Lamentação, choro e grande pranto: Raquel chorando os seus filhos, E não quer ser consolada, porque já não existem. ^v18
+**18** """Uma voz de lamento e de grande gemido foi ouvida em Ramá, era Raquel lamentando por seus filhos, e ela recusou-se a ser confortada porque eles não mais existiam""." ^v18
 
-**19** Morto, porém, Herodes, eis que o anjo do Senhor apareceu num sonho a José no Egito, ^v19
+**19** Quando Herodes morreu, eis que um anjo do Senhor apareceu em um sonho a José no Egito e disse: ^v19
 
-**20** Dizendo: Levanta-te, e toma o menino e sua mãe, e vai para a terra de Israel; porque já estão mortos os que procuravam a morte do menino. ^v20
+**20** """Levanta-te e pega o menino e Sua mãe e vai para a terra de Israel, porque aqueles que tentaram tirar a vida do menino estão mortos""." ^v20
 
-**21** Então ele se levantou, e tomou o menino e sua mãe, e foi para a terra de Israel. ^v21
+**21** José levantou-se, pegou o menino e Sua mãe, e foi para a terra de Israel. ^v21
 
-**22** E, ouvindo que Arquelau reinava na Judéia em lugar de Herodes, seu pai, receou ir para lá; mas avisado num sonho, por divina revelação, foi para as partes da Galiléia. ^v22
+**22** Entretanto, quando ele ouviu que Arquelau estava reinando sobre a Judéia, no lugar de seu pai Herodes, ficou com medo de ir para lá. Depois que Deus o avisou em um sonho, ele saiu para a região da Galiléia, ^v22
 
-**23** E chegou, e habitou numa cidade chamada Nazaré, para que se cumprisse o que fora dito pelos profetas: Ele será chamado Nazareno. ^v23
+**23** e foi viver em uma cidade chamada Nazaré. Cumpriu-se o que disseram os profetas, que ele se chamaria o Nazareno. ^v23

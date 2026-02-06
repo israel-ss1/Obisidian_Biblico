@@ -1,37 +1,36 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Ezequiel|Ezequiel]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Ezequiel|Ezequiel]]"
+tags: [biblia]
 ---
 
 # Ezequiel 35
 
-**1** E veio a mim a palavra do SENHOR, dizendo: ^v1
+**1** Então, a palavra de Yahweh veio a mim dizendo: ^v1
 
-**2** Filho do homem, dirige o teu rosto contra o monte Seir, e profetiza contra ele. ^v2
+**2** """Filho do homem, põe a tua face contra o monte Seir e profetiza contra ele." ^v2
 
-**3** E dize-lhe: Assim diz o Senhor DEUS: Eis que eu estou contra ti, ó monte Seir, e estenderei a minha mão contra ti, e te farei maior desolação. ^v3
+**3** Dize-lhe: 'Assim diz Yahweh Deus: Eis que Eu sou contra ti, monte Seir, e te golpearei com a Minha mão e te farei uma desolação e um horror. ^v3
 
-**4** As tuas cidades farei desertas, e tu serás desolado; e saberás que eu sou o Senhor. ^v4
+**4** Farei de tuas cidades ruínas, e vós tornareis desolados; então, sabereis que eu sou Yahweh. ^v4
 
-**5** Porquanto guardaste inimizade perpétua, e espalhaste os filhos de Israel pelo poder da espada no tempo da sua calamidade e no tempo da iniqüidade final. ^v5
+**5** Porque sempre foste hostil ao povo de Israel e porque os espalhaste pelas mãos da espada, no tempo da sua angústia, no momento em que o castigo era maior. ^v5
 
-**6** Por isso vivo eu, diz o Senhor DEUS, que te preparei para sangue, e o sangue te perseguirá; visto que não odiaste o sangue, o sangue te perseguirá. ^v6
+**6** Assim como Eu vivo — esta é a declaração de Yahweh Deus — Eu te prepararei para o derramamento de sangue e o sangue vai te perseguir! Já que tu não odeias o derramamento de sangue, o sangue te perseguirá. ^v6
 
-**7** E farei do monte Seir uma extrema desolação, e exterminarei dele o que por ele passar, e o que por ele voltar. ^v7
+**7** Farei do monte Seir uma desolação completa, um deserto e eliminarei qualquer um que passar e retornar. ^v7
 
-**8** E encherei os seus montes dos seus mortos; nos teus outeiros, e nos teus vales, e em todos os teus rios cairão os mortos à espada. ^v8
+**8** Então, encherei as suas montanhas com os seus mortos. Todos aqueles mortos pela espada, cairão em teus altos montes e vales, e em todos os teus córregos. ^v8
 
-**9** Em desolações perpétuas te porei, e as tuas cidades nunca mais serão habitadas; assim sabereis que eu sou o Senhor. ^v9
+**9** Farei de vós uma perpétua desolação. Vossas cidades não serão habitadas, assim vós sabereis que eu sou Yahweh. ^v9
 
-**10** Porquanto disseste: As duas nações e as duas terras serão minhas, e as possuiremos, sendo que o Senhor se achava ali. ^v10
+**10** "Tu disseste: ""Estas duas nações e estas duas terras se tornarão minhas e nós as possuiremos"", mesmo que Yahweh esteja presente com eles." ^v10
 
-**11** Portanto, vivo eu, diz o Senhor DEUS, que procederei conforme a tua ira, e conforme a tua inveja, de que usaste, no teu ódio contra eles; e me farei conhecer entre eles, quando te julgar. ^v11
+**11** Portanto, tão certo como Eu vivo — declara Yahweh Deus — assim farei segundo a tua ira e segundo o teu zelo que tiveste no teu ódio a Israel e Me mostrarei a eles quando Eu te julgar. ^v11
 
-**12** E saberás que eu, o Senhor, ouvi todas as tuas blasfêmias, que proferiste contra os montes de Israel, dizendo: Já estão assolados, a nós nos são entregues por pasto. ^v12
+**12** "Assim saberás que Eu sou Yahweh. Eu ouvi todos os insultos que tu falaste contra os montes de Israel, quando tu disseste: ""Eles foram destruídos, eles foram entregues a nós, para os devorar""." ^v12
 
-**13** Assim vos engrandecestes contra mim com a vossa boca, e multiplicastes as vossas palavras contra mim. Eu o ouvi. ^v13
+**13** Tu te exaltaste contra Mim com o que disseste e tu multiplicaste as palavras que falaste contra Mim; e Eu ouvi tudo. ^v13
 
-**14** Assim diz o Senhor DEUS: Quando toda a terra se alegrar eu te porei em desolação. ^v14
+**14** Assim diz Yahweh Deus: Farei de ti uma desolação, enquanto toda terra se regozija. ^v14
 
-**15** Como te alegraste da herança da casa de Israel, porque foi assolada, assim te farei a ti; assolado serás, ó monte Seir, e todo o Edom, sim, todo ele; e saberão que eu sou o Senhor. ^v15
+**15** "Como te alegraste com a destruição da herança do povo de Israel, farei o mesmo a ti. Tu te tornarás uma desolação, monte Seir, e todo o Edom; sim todo ele! Então, eles saberão que Eu sou Yahweh""." ^v15

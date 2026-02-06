@@ -1,23 +1,20 @@
 ---
-Livro: "[[Salmos|Salmos]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Salmos|Salmos]]"
+tags: [biblia]
 ---
 
 # Salmos 61
 
-**1** Ouve, ó Deus, o meu clamor; atende à minha oração. ^v1
+**2** Desde os confins da Terra eu clamo a Ti, quando meu coração está oprimido; guia-me à rocha, que é mais alta do que eu. ^v2
 
-**2** Desde o fim da terra clamarei a ti, quando o meu coração estiver desmaiado; leva-me para a rocha que é mais alta do que eu. ^v2
+**3** Pois Tu tens sido meu refúgio, uma torre forte contra o inimigo. ^v3
 
-**3** Pois tens sido um refúgio para mim, e uma torre forte contra o inimigo. ^v3
+**4** Que eu habite no Teu tabernáculo para sempre, e me refugie sob o abrigo de Tuas asas. [Interlúdio] ^v4
 
-**4** Habitarei no teu tabernáculo para sempre; abrigar-me-ei no esconderijo das tuas asas. (Selá.) ^v4
+**5** Pois Tu, ó Deus, ouviste meus votos; me deste a herança daqueles que honram o Teu nome. ^v5
 
-**5** Pois tu, ó Deus, ouviste os meus votos; deste-me a herança dos que temem o teu nome. ^v5
+**6** Tu prolongarás a vida do rei; os seus dias serão como muitas gerações. ^v6
 
-**6** Prolongarás os dias do rei; e os seus anos serão como muitas gerações. ^v6
+**7** Ele habitará para sempre diante de Deus; que a misericórdia e a verdade o preservem. ^v7
 
-**7** Ele permanecerá diante de Deus para sempre; prepara-lhe misericórdia e verdade que o preservem. ^v7
-
-**8** Assim cantarei louvores ao teu nome perpetuamente, para pagar os meus votos de dia em dia. ^v8
+**8** Eu cantarei louvores ao Teu nome para sempre, para que eu cumpra meus votos todos os dias. ^v8

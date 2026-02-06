@@ -1,101 +1,100 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Marcos|Marcos]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Marcos|Marcos]]"
+tags: [biblia]
 ---
 
 # Marcos 15
 
-**1** E, logo ao amanhecer, os principais dos sacerdotes, com os anciãos, e os escribas, e todo o Sinédrio, tiveram conselho; e, ligando Jesus, o levaram e entregaram a Pilatos. ^v1
+**1** De manhã cedo, os principais sacerdotes se encontraram com os anciãos e escribas e todo o Sinédrio. Eles amarraram Jesus, levaram-No e O entregaram a Pilatos. ^v1
 
-**2** E Pilatos lhe perguntou: Tu és o Rei dos Judeus? E ele, respondendo, disse-lhe: Tu o dizes. ^v2
+**2** "Pilatos Lhe perguntou: ""Tu és o Rei dos Judeus?"" Ele respondeu: ""Tu o dizes""." ^v2
 
-**3** E os principais dos sacerdotes o acusavam de muitas coisas; porém ele nada respondia. ^v3
+**3** Os principais sacerdotes apresentavam muitas acusações contra Jesus. ^v3
 
-**4** E Pilatos o interrogou outra vez, dizendo: Nada respondes? Vê quantas coisas testificam contra ti. ^v4
+**4** "Pilatos perguntou novamente: ""Tu não respondes nada? Vês quantas acusações eles têm contra Ti?""." ^v4
 
-**5** Mas Jesus nada mais respondeu, de maneira que Pilatos se maravilhava. ^v5
+**5** Mas Jesus não mais respondeu a Pilatos, e isso o deixou impressionado. ^v5
 
-**6** Ora, no dia da festa costumava soltar-lhes um preso qualquer que eles pedissem. ^v6
+**6** Na época da festa, era de costume Pilatos soltar um prisioneiro qualquer que eles escolhessem. ^v6
 
-**7** E havia um chamado Barrabás, que, preso com outros amotinado- res, tinha num motim cometido uma morte. ^v7
+**7** Juntamente com os rebeldes na prisão, entre os assassinos presos por terem tomado parte em uma rebelião, havia um homem chamado Barrabás. ^v7
 
-**8** E a multidão, dando gritos, começou a pedir que fizesse como sempre lhes tinha feito. ^v8
+**8** A multidão veio até Pilatos e começou a pedir-lhe para fazer o que era de costume. ^v8
 
-**9** E Pilatos lhes respondeu, dizendo: Quereis que vos solte o Rei dos Judeus? ^v9
+**9** "E Pilatos respondeu-lhes: ""Quereis que eu solte o Rei dos Judeus?""." ^v9
 
-**10** Porque ele bem sabia que por inveja os principais dos sacerdotes o tinham entregado. ^v10
+**10** Pois ele sabia que era por inveja que os principais sacerdotes tinham entregado Jesus. ^v10
 
-**11** Mas os principais dos sacerdotes incitaram a multidão para que fosse solto antes Barrabás. ^v11
+**11** Mas os principais sacerdotes incitaram a multidão a clamar que, no lugar Dele, Barrabás fosse solto. ^v11
 
-**12** E Pilatos, respondendo, lhes disse outra vez: Que quereis, pois, que faça daquele a quem chamais Rei dos Judeus? ^v12
+**12** "Pilatos tornou a responder-lhes: ""O que então eu deveria fazer com o Rei dos Judeus?""." ^v12
 
-**13** E eles tornaram a clamar: Crucifica-o. ^v13
+**13** "Eles gritaram novamente: ""Crucifica-O!""." ^v13
 
-**14** Mas Pilatos lhes disse: Mas que mal fez? E eles cada vez clamavam mais: Crucifica-o. ^v14
+**14** "Pilatos disse-lhes: ""O que Ele fez de errado?"". Mas eles gritavam mais e mais: ""Crucifica-O!""." ^v14
 
-**15** Então Pilatos, querendo satisfazer a multidão, soltou-lhe Barrabás e, açoitado Jesus, o entregou para ser crucificado. ^v15
+**15** Pilatos, querendo agradar a multidão, entregou-lhes Barrabás. Ele entregou Jesus para que, depois de açoitado, fosse crucificado. ^v15
 
-**16** E os soldados o levaram dentro à sala, que é a da audiência, e convocaram toda a coorte. ^v16
+**16** Os soldados O levaram para dentro do Palácio, que é o Pretório, e chamaram todo o destacamento dos soldados. ^v16
 
-**17** E vestiram-no de púrpura, e tecendo uma coroa de espinhos, lha puseram na cabeça. ^v17
+**17** Vestiram-No com um manto púrpura, trançaram uma coroa de espinhos e a colocaram em Jesus. ^v17
 
-**18** E começaram a saudá-lo, dizendo: Salve, Rei dos Judeus! ^v18
+**18** "Começaram, então, a saudá-Lo dizendo: ""Viva o Rei dos Judeus!""." ^v18
 
-**19** E feriram-no na cabeça com uma cana, e cuspiram nele e, postos de joelhos, o adoraram. ^v19
+**19** Eles bateram em Sua cabeça com um bordão e cuspiram Nele e, de joelhos, prestaram-Lhe homenagens. ^v19
 
-**20** E, havendo-o escarnecido, despiram-lhe a púrpura, e o vestiram com as suas próprias vestes; e o levaram para fora a fim de o crucificarem. ^v20
+**20** Depois de zombarem Dele, despiram-Lhe o manto púrpura e O vestiram com Suas próprias roupas, e levaram-No para fora, a fim de ser crucificado. ^v20
 
-**21** E constrangeram um certo Simão, cireneu, pai de Alexandre e de Rufo, que por ali passava, vindo do campo, a que levasse a cruz. ^v21
+**21** Eles obrigaram um transeunte, que vinha do campo, a carregar a cruz de Jesus. Seu nome era Simão de Cirene (pai de Alexandre e Rufo). ^v21
 
-**22** E levaram-no ao lugar doGólgota, que se traduz por lugar da Caveira. ^v22
+**22** Os soldados levaram Jesus a um lugar chamado Gólgota, que quer dizer Lugar da Caveira. ^v22
 
-**23** E deram-lhe a beber vinho com mirra, mas ele não o tomou. ^v23
+**23** E ofereceram-Lhe vinho misturado com mirra, mas Ele não bebeu. ^v23
 
-**24** E, havendo-o crucificado, repartiram as suas vestes, lançando sobre elas sortes, para saber o que cada um levaria. ^v24
+**24** Então O crucificaram e dividiram Suas roupas, lançando sortes para determinar que peça cada soldado pegaria. ^v24
 
-**25** E era a hora terceira, e o crucificaram. ^v25
+**25** Era a hora terceira quando O crucificaram. ^v25
 
-**26** E por cima dele estava escrita a sua acusação: O REI DOS JUDEUS. ^v26
+**26** "Em uma placa, eles escreveram a acusação: ""O REI DOS JUDEUS""." ^v26
 
-**27** E crucificaram com ele dois salteadores, um à sua direita, e outro à esquerda. ^v27
+**27** Com Ele crucificaram dois ladrões, um à sua direita e o outro à sua esquerda. ^v27
 
-**28** E cumprindo-se a escritura que diz: E com os malfeitores foi contado. ^v28
+**28** "[E cumpriu-se a escritura que diz: ""E foi contado com os malfeitores""(os melhores manuscritos mais antigos omitem o versículo 28. Comparar com Lucas 22:37)]." ^v28
 
-**29** E os que passavam blasfemavam dele, meneando as suas cabeças, e dizendo: Ah! tu que derrubas o templo, e em três dias o edificas, ^v29
+**29** "Aqueles que passavam O insultavam, balançando suas cabeças e dizendo: ""Ah! Tu és o que destruiria o templo e o reconstruiria em três dias," ^v29
 
-**30** Salva-te a ti mesmo, e desce da cruz. ^v30
+**30** "salva a Ti mesmo e desce da cruz!""." ^v30
 
-**31** E da mesma maneira também os principais dos sacerdotes, com os escribas, diziam uns para os outros, zombando: Salvou os outros, e não pode salvar-se a si mesmo. ^v31
+**31** "Do mesmo modo, os principais sacerdotes zombavam Dele entre si, com os escribas, e diziam: ""Ele salvou os outros, mas não consegue salvar a Si mesmo." ^v31
 
-**32** O Cristo, o Rei de Israel, desça agora da cruz, para que o vejamos e acreditemos. Também os que com ele foram crucificados o injuriavam. ^v32
+**32** "Que o Cristo, o Rei de Israel, desça agora da cruz e assim possamos ver e acreditar"". E os que com Ele foram crucificados também O insultavam." ^v32
 
-**33** E, chegada a hora sexta, houve trevas sobre toda a terra até a hora nona. ^v33
+**33** Na hora sexta, a escuridão veio sobre toda a terra até a hora nona. ^v33
 
-**34** E, à hora nona, Jesus exclamou com grande voz, dizendo: Eloí, Eloí, lamá sabactâni? que, traduzido, é: Deus meu, Deus meu, por que me desamparaste? ^v34
+**34** "Na hora nona, Jesus bradou em alta voz: ""Eloí, Eloí, lamá sabactani?"", que significa, ""Deus meu, Deus meu, por que Me desamparaste?""" ^v34
 
-**35** E alguns dos que ali estavam, ouvindo isto, diziam: Eis que chama por Elias. ^v35
+**35** "Alguns dos que estavam ali ouviram e disseram: ""Eis que Ele está chamando por Elias""." ^v35
 
-**36** E um deles correu a embeber uma esponja em vinagre e, pondo-a numa cana, deu-lho a beber, dizendo: Deixai, vejamos se virá Elias tirá-lo. ^v36
+**36** "Alguém correu, colocou vinagre em uma esponja, a pôs em uma vara e O deu para beber. O homem disse: ""Vejamos se Elias vem tirá-Lo""." ^v36
 
-**37** E Jesus, dando um grande brado, expirou. ^v37
+**37** Então Jesus bradou em alta voz e morreu. ^v37
 
-**38** E o véu do templo se rasgou em dois, de alto a baixo. ^v38
+**38** E o véu do templo se partiu em dois, de cima a baixo. ^v38
 
-**39** E o centurião, que estava defronte dele, vendo que assim clamando expirara, disse: Verdadeiramente este homem era o Filho de Deus. ^v39
+**39** "E o centurião que estava diante Dele, vendo-O expirar desse modo, disse: ""Verdadeiramente este Homem era o Filho de Deus""." ^v39
 
-**40** E também ali estavam algumas mulheres, olhando de longe, entre as quais também Maria Madalena, e Maria, mãe de Tiago, o menor, e de José, e Salomé; ^v40
+**40** Havia também mulheres que observavam à distância. Entre elas estavam Maria Madalena, Maria (a mãe de Tiago, o mais novo, e de José) e Salomé. ^v40
 
-**41** As quais também o seguiam, e o serviam, quando estava na Galiléia; e muitas outras, que tinham subido com ele a Jerusalém. ^v41
+**41** Quando Ele estava na Galileia, elas O seguiam e O serviam. Muitas outras mulheres também subiram com Ele para Jerusalém. ^v41
 
-**42** E, chegada a tarde, porquanto era o dia da preparação, isto é, a véspera do sábado, ^v42
+**42** Ao cair da tarde, por ser o Dia de Preparação, isto é, a véspera do Sabbath, ^v42
 
-**43** Chegou José de Arimatéia, senador honrado, que também esperava o reino de Deus, e ousadamente foi a Pilatos, e pediu o corpo de Jesus. ^v43
+**43** José de Arimateia foi até lá. Ele era um respeitado membro do Conselho, que esperava o Reino de Deus. Ele corajosamente foi até Pilatos e pediu pelo corpo de Jesus. ^v43
 
-**44** E Pilatos se maravilhou de que já estivesse morto. E, chamando o centurião, perguntou-lhe se já havia muito que tinha morrido. ^v44
+**44** Pilatos admirou-se de que Jesus já estivesse morto; então chamou o centurião e lhe perguntou se Jesus morrera. ^v44
 
-**45** E, tendo-se certificado pelo centurião, deu o corpo a José; ^v45
+**45** Quando Pilatos ouviu do centurião que Ele estava morto, cedeu o corpo a José. ^v45
 
-**46** O qual comprara um lençol fino, e, tirando-o da cruz, o envolveu nele, e o depositou num sepulcro lavrado numa rocha; e revolveu uma pedra para a porta do sepulcro. ^v46
+**46** José tinha comprado um lençol de linho. Ele desceu Jesus da cruz, envolveu-O com o lençol, e colocou-O em um sepulcro talhado na rocha. Então, rolou uma pedra sobre a entrada do sepulcro. ^v46
 
-**47** E Maria Madalena e Maria, mãe de José, observavam onde o punham. ^v47
+**47** E Maria Madalena e Maria, a mãe de José, viram o lugar onde Jesus fora sepultado. ^v47

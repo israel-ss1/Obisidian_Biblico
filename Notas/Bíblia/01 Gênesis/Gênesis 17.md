@@ -1,61 +1,60 @@
 ---
-Livro: "[[Gênesis|Gênesis]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Gênesis|Gênesis]]"
+tags: [biblia]
 ---
 
 # Gênesis 17
 
-**1** Sendo, pois, Abrão da idade de noventa e nove anos, apareceu o SENHOR a Abrão, e disse-lhe: Eu sou o Deus Todo-Poderoso, anda em minha presença e sê perfeito. ^v1
+**1** "Quando Abrão tinha noventa e nove anos, Yahweh apareceu a Abrão e lhe falou: ""Eu sou O Deus Onipotente. Anda na Minha presença e sê perfeito." ^v1
 
-**2** E porei a minha aliança entre mim e ti, e te multiplicarei grandissimamente. ^v2
+**2** "Então Eu confirmarei Minha aliança contigo e te multiplicarei grandemente""." ^v2
 
-**3** Então caiu Abrão sobre o seu rosto, e falou Deus com ele, dizendo: ^v3
+**3** Abrão prostou-se com o rosto em terra e Deus falou-lhe, dizendo: ^v3
 
-**4** Quanto a mim, eis a minha aliança contigo: serás o pai de muitas nações; ^v4
+**4** """Quanto a Mim, esta é a Aliança que faço contigo: Tu serás pai de muitas nações." ^v4
 
-**5** E não se chamará mais o teu nome Abrão, mas Abraão será o teu nome; porque por pai de muitas nações te tenho posto; ^v5
+**5** Não mais te chamarás Abrão, mas teu nome será Abraão - porque te constituí para ser pai de uma multidão de nações. ^v5
 
-**6** E te farei frutificar grandissimamente, e de ti farei nações, e reis sairão de ti; ^v6
+**6** Farei que sejas extraordinariamente fecundo, de ti farei nações, e reis descenderão de ti. ^v6
 
-**7** E estabelecerei a minha aliança entre mim e ti e a tua descendência depois de ti em suas gerações, por aliança perpétua, para te ser a ti por Deus, e à tua descendência depois de ti. ^v7
+**7** Estabelecerei Minha aliança entre Mim e ti e com a tua descendência, a qual perdurará através de todas as gerações como aliança eterna, para que Eu seja o teu Deus e O de toda a tua descendência. ^v7
 
-**8** E te darei a ti e à tua descendência depois de ti, a terra de tuas peregrinações, toda a terra de Canaã em perpétua possessão e ser-lhes-ei o seu Deus. ^v8
+**8** "A ti e a tua descendência darei a terra onde tu tens peregrinado, toda a terra de Canaã como uma possessão eterna, e Eu serei vosso Deus""." ^v8
 
-**9** Disse mais Deus a Abraão: Tu, porém, guardarás a minha aliança, tu, e a tua descendência depois de ti, nas suas gerações. ^v9
+**9** "Ainda disse Deus a Abraão: ""Quanto a ti, guarda Minha aliança, tu e a tua descendência por todas as gerações vindouras." ^v9
 
-**10** Esta é a minha aliança, que guardareis entre mim e vós, e a tua descendência depois de ti: Que todo o homem entre vós será circuncidado. ^v10
+**10** Esta é a Minha aliança, a qual tens que manter entre Mim e ti e a tua descendência: Todo homem dentre vós deve ser circuncidado. ^v10
 
-**11** E circuncidareis a carne do vosso prepúcio; e isto será por sinal da aliança entre mim e vós. ^v11
+**11** Circuncidarás a carne do vosso prepúcio, e este será o sinal da aliança entre Mim e vós. ^v11
 
-**12** O filho de oito dias, pois, será circuncidado, todo o homem nas vossas gerações; o nascido na casa, e o comprado por dinheiro a qualquer estrangeiro, que não for da tua descendência. ^v12
+**12** Todo homem entre vós, da idade de oito dias, deve ser circuncidado, através de todas as vossas gerações. Isso inclui todo aquele que é nascido em vossa casa, aquele que é comprado e qualquer estrangeiro que não for dos vossos descendentes. ^v12
 
-**13** Com efeito será circuncidado o nascido em tua casa, e o comprado por teu dinheiro; e estará a minha aliança na vossa carne por aliança perpétua. ^v13
+**13** Aquele que for nascido em vossa casa e que for comprado com vosso dinheiro deverá ser circuncidado. Assim Minha aliança estará marcada em vossa carne como aliança eterna . ^v13
 
-**14** E o homem incircunciso, cuja carne do prepúcio não estiver circuncidada, aquela alma será extirpada do seu povo; quebrou a minha aliança. ^v14
+**14** "Qualquer incircunciso que não for circuncidado na carne de seu prepúcio será eliminado de vosso povo, pois ele quebrou minha aliança""." ^v14
 
-**15** Disse Deus mais a Abraão: A Sarai tua mulher não chamarás mais pelo nome de Sarai, mas Sara será o seu nome. ^v15
+**15** "Deus disse a Abraão: ""Quanto a Sarai, tua mulher, não a chame mais de Sarai. Em vez disso, seu nome será Sara." ^v15
 
-**16** Porque eu a hei de abençoar, e te darei dela um filho; e a abençoarei, e será mãe das nações; reis de povos sairão dela. ^v16
+**16** "Eu a abençoarei e te darei um filho por meio dela. Eu a abençoarei, e ela se tornará a mãe de nações. Reis de povos virão por meio dela""." ^v16
 
-**17** Então caiu Abraão sobre o seu rosto, e riu-se, e disse no seu coração: A um homem de cem anos há de nascer um filho? E dará à luz Sara da idade de noventa anos? ^v17
+**17** "Então Abraão prostrou-se com o rosto em terra, riu-se e disse em seu coração: ""Pode uma criança nascer de um homem de cem anos? Como pode Sara, que tem noventa anos gerar um filho?""." ^v17
 
-**18** E disse Abraão a Deus: Quem dera que viva Ismael diante de teu rosto! ^v18
+**18** "Abraão disse para Deus: ""Que Ismael viva diante de ti!""." ^v18
 
-**19** E disse Deus: Na verdade, Sara, tua mulher, te dará um filho, e chamarás o seu nome Isaque, e com ele estabelecerei a minha aliança, por aliança perpétua para a sua descendência depois dele. ^v19
+**19** "Disse Deus: ""Não, porém Sara, tua mulher, te dará um filho, e tu o chamarás Isaque. Estabelecerei Minha aliança com ele, como aliança perpétua e com a sua descendência." ^v19
 
-**20** E quanto a Ismael, também te tenho ouvido; eis aqui o tenho abençoado, e fá-lo-ei frutificar, e fá-lo-ei multiplicar grandissimamente; doze príncipes gerará, e dele farei uma grande nação. ^v20
+**20** Quanto a Ismael, Eu tenho te escutado. Eis que Eu o abençoarei, farei ele fecundo e o multiplicarei abundantemente. Ele será pai de doze líderes de tribos, e Eu farei dele uma grande nação. ^v20
 
-**21** A minha aliança, porém, estabelecerei com Isaque, o qual Sara dará à luz neste tempo determinado, no ano seguinte. ^v21
+**21** "Porém Minha aliança estabelecerei com Isaque, aquele o qual Sara dará a ti nesta mesma época do próximo ano""." ^v21
 
-**22** Ao acabar de falar com Abraão, subiu Deus de diante dele. ^v22
+**22** Quando terminou de falar com ele, Deus retirou-se da presença de Abraão. ^v22
 
-**23** Então tomou Abraão a seu filho Ismael, e a todos os nascidos na sua casa, e a todos os comprados por seu dinheiro, todo o homem entre os da casa de Abraão; e circuncidou a carne do seu prepúcio, naquele mesmo dia, como Deus falara com ele. ^v23
+**23** Então Abraão tomou seu filho Ismael e todos aqueles que nasceram em sua casa, todo homem entre os homens da casa de Abraão, e os circuncidou na carne do prepúcio no mesmo dia, como Deus lhe havia dito. ^v23
 
-**24** E era Abraão da idade de noventa e nove anos, quando lhe foi circuncidada a carne do seu prepúcio. ^v24
+**24** Abraão tinha noventa e nove anos, quando lhe foi circuncidada a carne do prepúcio. ^v24
 
-**25** E Ismael, seu filho, era da idade de treze anos, quando lhe foi circuncidada a carne do seu prepúcio. ^v25
+**25** E Ismael, seu filho, tinha treze anos quando lhe foi circuncidada a carne do prepúcio. ^v25
 
-**26** Naquele mesmo dia foram circuncidados Abraão e Ismael seu filho, ^v26
+**26** No mesmo dia, Abraão e seu filho Ismael foram circuncidados. ^v26
 
-**27** E todos os homens da sua casa, os nascidos em casa, e os comprados por dinheiro ao estrangeiro, foram circuncidados com ele. ^v27
+**27** Todos os homens da sua casa foram circuncidados com ele, incluindo aqueles que nasceram em sua casa e aqueles estrangeiros que foram comprados com dinheiro. ^v27

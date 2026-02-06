@@ -1,93 +1,92 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Lucas|Lucas]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Lucas|Lucas]]"
+tags: [biblia]
 ---
 
 # Lucas 18
 
-**1** E contou-lhes também uma parábola sobre o dever de orar sempre, e nunca desfalecer, ^v1
+**1** Então Jesus contou uma parábola sobre como eles deveriam sempre orar e nunca desanimar: ^v1
 
-**2** Dizendo: Havia numa cidade um certo juiz, que nem a Deus temia, nem respeitava o homem. ^v2
+**2** """Havia numa cidade um juiz que não temia a Deus nem respeitava as pessoas." ^v2
 
-**3** Havia também, naquela mesma cidade, uma certa viúva, que ia ter com ele, dizendo: Faze-me justiça contra o meu adversário. ^v3
+**3** E havia, na mesma cidade, uma viúva que constantemente vinha ter com ele, dizendo: 'Faze-me justiça contra o meu adversário'. ^v3
 
-**4** E por algum tempo não quis atendê-la; mas depois disse consigo: Ainda que não temo a Deus, nem respeito os homens, ^v4
+**4** Por muito tempo, ele não estava disposto a ajudá-la, mas depois disse a si mesmo: 'Embora eu não tema a Deus nem respeite os homens, ^v4
 
-**5** Todavia, como esta viúva me molesta, hei de fazer-lhe justiça, para que enfim não volte, e me importune muito. ^v5
+**5** "por causa dessa viúva que me aborrece, vou tratar de fazer justiça, de modo que ela pare de me incomodar'""." ^v5
 
-**6** E disse o Senhor: Ouvi o que diz o injusto juiz. ^v6
+**6** "Então disse o Senhor: ""Escutai o que diz o juiz injusto." ^v6
 
-**7** E Deus não fará justiça aos seus escolhidos, que clamam a ele de dia e de noite, ainda que tardio para com eles? ^v7
+**7** Não fará Deus justiça aos Seus escolhidos, que clamam a Ele dia e noite, mesmo que demore em ajudá-los? ^v7
 
-**8** Digo-vos que depressa lhes fará justiça. Quando porém vier o Filho do homem, porventura achará fé na terra? ^v8
+**8** "Digo-vos que Ele rapidamente lhes fará justiça. Contudo, quando o Filho do homem vier, encontrará fé sobre a terra?""." ^v8
 
-**9** E disse também esta parábola a uns que confiavam em si mesmos, crendo que eram justos, e desprezavam os outros: ^v9
+**9** Então Jesus contou a seguinte parábola para alguns que, convencidos de serem justos, desprezavam os outros: ^v9
 
-**10** Dois homens subiram ao templo, para orar; um, fariseu, e o outro, publicano. ^v10
+**10** """Dois homens subiram ao templo para orar, um era fariseu e o outro era um cobrador de impostos." ^v10
 
-**11** O fariseu, estando em pé, orava consigo desta maneira: Ó Deus, graças te dou porque não sou como os demais homens, roubadores, injustos e adúlteros; nem ainda como este publicano. ^v11
+**11** O fariseu, posto em pé, consigo mesmo estas coisas orava: 'Deus, eu Te agradeço porque não sou como os demais homens, ladrões, injustos, adúlteros e nem como este cobrador de impostos. ^v11
 
-**12** Jejuo duas vezes na semana, e dou os dízimos de tudo quanto possuo. ^v12
+**12** Jejuo duas vezes por semana e dou dízimo de tudo quanto ganho'. ^v12
 
-**13** O publicano, porém, estando em pé, de longe, nem ainda queria levantar os olhos ao céu, mas batia no peito, dizendo: Ó Deus, tem misericórdia de mim, pecador! ^v13
+**13** Mas o cobrador de impostos, de pé, a distância, sem ousar levantar os olhos ao céu, batia em seu peito, dizendo: 'Deus, tem misericórdia de mim, pecador'. ^v13
 
-**14** Digo-vos que este desceu justificado para sua casa, e não aquele; porque qualquer que a si mesmo se exalta será humilhado, e qualquer que a si mesmo se humilha será exaltado. ^v14
+**14** "Digo-vos que este homem retornou para sua casa justificado e o outro não, pois todo aquele que se exalta será humilhadom e todo aquele que se humilha será exaltado""." ^v14
 
-**15** E traziam-lhe também meninos, para que ele lhes tocasse; e os discípulos, vendo isto, repreendiam-nos. ^v15
+**15** As pessoas também traziam-Lhe criancinhas, para que Ele as tocasse, mas quando os discípulos viram isso, as repreenderam. ^v15
 
-**16** Mas Jesus, chamando-os para si, disse: Deixai vir a mim os meninos, e não os impeçais, porque dos tais é o reino de Deus. ^v16
+**16** "Mas Jesus chamou-as dizendo: ""Deixai vir a Mim as criancinhas, não as impeçais. Porque delas é o reino de Deus." ^v16
 
-**17** Em verdade vos digo que, qualquer que não receber o reino de Deus como menino, não entrará nele. ^v17
+**17** "Em verdade vos digo, aquele que não receber o reino de Deus como uma criança, de maneira alguma entrará nele""." ^v17
 
-**18** E perguntou-lhe um certo príncipe, dizendo: Bom Mestre, que hei de fazer para herdar a vida eterna? ^v18
+**18** "Certo homem de posição perguntou-Lhe: ""Bom Mestre, o que devo fazer para herdar a vida eterna?""" ^v18
 
-**19** Jesus lhe disse: Por que me chamas bom? Ninguém há bom, senão um, que é Deus. ^v19
+**19** "E Jesus respondeu a ele: ""Por que me chamas bom? Ninguém é bom, a não ser um, que é Deus." ^v19
 
-**20** Sabes os mandamentos: Não adulterarás, não matarás, não furtarás, não dirás falso testemunho, honra a teu pai e a tua mãe. ^v20
+**20** "Tu sabes os mandamentos: não cometas adultério, não mates, não roubes, não dês falso testemunho, honra teu pai e tua mãe""." ^v20
 
-**21** E disse ele: Todas essas coisas tenho observado desde a minha mocidade. ^v21
+**21** "E ele disse: ""Tudo isso tenho obedecido desde a minha juventude""." ^v21
 
-**22** E quando Jesus ouviu isto, disse-lhe: Ainda te falta uma coisa; vende tudo quanto tens, reparte-o pelos pobres, e terás um tesouro no céu; vem, e segue-me. ^v22
+**22** "E Jesus ouvindo isso disse-lhe: “Uma coisa ainda te falta: vende tudo o que tens, distribui aos pobres e terás tesouro nos céus; depois, vem e segue-me""." ^v22
 
-**23** Mas, ouvindo ele isto, ficou muito triste, porque era muito rico. ^v23
+**23** Mas, ouvindo estas coisas, o homem ficou muito triste, pois era extremamente rico. ^v23
 
-**24** E, vendo Jesus que ele ficara muito triste, disse: Quão dificilmente entrarão no reino de Deus os que têm riquezas! ^v24
+**24** "Então, ao ver a tristeza do homem [estudiosos estão divididos se deveria ser incluída aqui a frase: ""Ele entristeceu-se"". Compare com o versículo 23], Jesus disse: ""Como é difícil para os que têm riquezas entrar no reino de Deus!" ^v24
 
-**25** Porque é mais fácil entrar um camelo pelo fundo de uma agulha do que entrar um rico no reino de Deus. ^v25
+**25** "Pois é mais fácil um camelo passar pelo fundo de uma agulha do que um rico entrar no reino de Deus""." ^v25
 
-**26** E os que ouviram isto disseram: Logo quem pode salvar-se? ^v26
+**26** "Os que ouviram isso perguntaram: ""Então, quem pode ser salvo?""" ^v26
 
-**27** Mas ele respondeu: As coisas que são impossíveis aos homens são possíveis a Deus. ^v27
+**27** "Jesus respondeu: ""As coisas que são impossíveis para as pessoas são possíveis para Deus""." ^v27
 
-**28** E disse Pedro: Eis que nós deixamos tudo e te seguimos. ^v28
+**28** "E Pedro disse: ""Nós deixamos tudo o que tínhamos e O seguimos""." ^v28
 
-**29** E ele lhes disse: Na verdade vos digo que ninguém há, que tenha deixado casa, ou pais, ou irmãos, ou mulher, ou filhos, pelo reino de Deus, ^v29
+**29** "Então Jesus lhes disse: ""Em verdade vos digo que não há ninguém que tenha deixado casa, esposa, irmãos, pais ou filhos por causa do reino de Deus" ^v29
 
-**30** Que não haja de receber muito mais neste mundo, e na idade vindoura a vida eterna. ^v30
+**30** "que não receberá muito mais nesse tempo e, no mundo vindouro, a vida eterna""." ^v30
 
-**31** E, tomando consigo os doze, disse-lhes: Eis que subimos a Jerusalém, e se cumprirá no Filho do homem tudo o que pelos profetas foi escrito; ^v31
+**31** "E tomando consigo os doze, lhes disse: ""Estamos subindo a Jerusalém e então se cumprirão todas as coisas que foram escritas pelos profetas acerca do Filho do Homem." ^v31
 
-**32** Pois há de ser entregue aos gentios, e escarnecido, injuriado e cuspido; ^v32
+**32** Pois Ele será entregue aos gentios e será zombado e insultado e cuspirão nele. ^v32
 
-**33** E, havendo-o açoitado, o matarão; e ao terceiro dia ressuscitará. ^v33
+**33** "Depois de açoitá-Lo, irão matá-Lo e ao terceiro dia Ele ressuscitará""." ^v33
 
-**34** E eles nada disto entendiam, e esta palavra lhes era encoberta, não percebendo o que se lhes dizia. ^v34
+**34** Eles não entenderam nada dessas coisas, essa palavra lhes era obscura e não compreendiam o que fora dito. ^v34
 
-**35** E aconteceu que chegando ele perto de Jericó, estava um cego assentado junto do caminho, mendigando. ^v35
+**35** Aconteceu que, quando Jesus se aproximava de Jericó, havia um cego sentado à beira do caminho, pedindo esmola. ^v35
 
-**36** E, ouvindo passar a multidão, perguntou que era aquilo. ^v36
+**36** Ouvindo ele uma multidão passar, perguntou o que estava acontecendo ^v36
 
-**37** E disseram-lhe que Jesus Nazareno passava. ^v37
+**37** e anunciaram-lhe que Jesus de Nazaré estava passando. ^v37
 
-**38** Então clamou, dizendo: Jesus, Filho de Davi, tem misericórdia de mim. ^v38
+**38** "Então o cego clamou, dizendo: ""Jesus, filho de Davi, tem misericórdia de mim""." ^v38
 
-**39** E os que iam passando repreendiam-no para que se calasse; mas ele clamava ainda mais: Filho de Davi, tem misericórdia de mim! ^v39
+**39** "Os que iam caminhando à frente o repreendiam para que se calasse. Mas ele gritava ainda mais: ""Filho de Davi, tem misericórdia de mim""." ^v39
 
-**40** Então Jesus, parando, mandou que lho trouxessem; e, chegando ele, perguntou-lhe, ^v40
+**40** Jesus parou e ordenou que trouxessem o homem até Ele. Então, quando o cego se aproximou, Jesus perguntou-lhe: ^v40
 
-**41** Dizendo: Que queres que te faça? E ele disse: Senhor, que eu veja. ^v41
+**41** """O que queres que Eu te faça?"" Ele disse: ""Senhor, que eu torne a ver""." ^v41
 
-**42** E Jesus lhe disse: Vê; a tua fé te salvou. ^v42
+**42** "E Jesus lhe disse: ""Torna a ver. A tua fé te salvou""." ^v42
 
-**43** E logo viu, e seguia-o, glorificando a Deus. E todo o povo, vendo isto, dava louvores a Deus. ^v43
+**43** Imediatamente ele recuperou a visão e O seguiu glorificando a Deus. Vendo isso a multidão também louvou a Deus. ^v43

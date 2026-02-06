@@ -1,47 +1,46 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Ezequiel|Ezequiel]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Ezequiel|Ezequiel]]"
+tags: [biblia]
 ---
 
 # Ezequiel 42
 
-**1** Depois disto fez-me sair para fora, ao átrio exterior, para o lado do caminho do norte; e me levou às câmaras que estavam defronte do lugar separado, e que estavam defronte do edifício, do lado norte. ^v1
+**1** Em seguida, o homem me levou para o exterior do pátio, no lado norte, para as salas, em frente ao exterior do pátio, que dá para o norte. ^v1
 
-**2** Do comprimento de cem côvados, era a entrada do norte; e a largura era de cinqüenta côvados. ^v2
+**2** Aquelas salas mediam cem côvados em frente e cinquenta côvados de largura. ^v2
 
-**3** Em frente dos vinte côvados, que tinha o átrio interior, e em frente do pavimento que tinha o átrio exterior, havia galeria contra galeria em três andares. ^v3
+**3** Algumas delas se pocisionavam no interior do pátio e se distanciavam vinte côvados do templo. Havia três níveis de salas e as que estavão por cima direcionavam-se às de baixo e estavão abertas para elas, mas tendo uma passagem. Algumas das salas tinham vista para o pátio exterior. ^v3
 
-**4** E diante das câmaras havia um passeio de dez côvados de largo, do lado de dentro, e um caminho de um côvado, e as suas entradas eram para o lado do norte. ^v4
+**4** A passagem era de dez côvados de largura e cem côvados de comprimento do corredor, em frente das salas. As portas das salas pocisionavam-se para o norte. ^v4
 
-**5** E as câmaras superiores eram mais estreitas; porque as galerias tomavam aqui mais espaço do que as de baixo e as do meio do edifício. ^v5
+**5** Mas as salas de cima eram pequenas, porque os corredores tomavam muito espaço, mais que o espaço ocupado pelos corredores das salas de baixo e do meio do edifício. ^v5
 
-**6** Porque elas eram de três andares, e não tinham colunas como as colunas dos átrios; por isso desde o chão se iam estreitando, mais do que as de baixo e as do meio. ^v6
+**6** Porque as salas do terceiro andar não tinham colunas, como as do pátio, que tinham as colunas. Então, as salas do nível mais alto era pequena, em comparação, as salas do nível de baixo e do meio. ^v6
 
-**7** E o muro que estava de fora, defronte das câmaras, no caminho do átrio exterior, diante das câmaras, tinha cinqüenta côvados de comprimento. ^v7
+**7** O muro de fora subiu ao longo das salas, em direção ao exterior do pátio. Aquele muro tinha cinquenta côvados de comprimento. ^v7
 
-**8** Pois o comprimento das câmaras, que estavam no átrio exterior, era de cinqüenta côvados; e eis que defronte do templo havia cem côvados. ^v8
+**8** E o comprimento das salas, no exterior do pátio, era de cinquenta côvados e as salas direcionadas ao santuário mediam cem côvados. ^v8
 
-**9** Por baixo destas câmaras estava a entrada do lado do oriente, quando se entra nelas pelo átrio exterior. ^v9
+**9** Havia uma entrada para as salas de baixo, no lado oriental, vindo do exterior do pátio. ^v9
 
-**10** Na largura do muro do átrio para o lado do oriente, diante do lugar separado, e diante do edifício, havia também câmaras. ^v10
+**10** Ao longo do muro do pátio exterior, no lado oriental, em frente ao pátio interior do templo, havia também salas, ^v10
 
-**11** E o caminho que havia diante delas era da aparência das câmaras, que davam para o norte; conforme o seu comprimento, assim era a sua largura; e todas as suas saídas eram também conforme os seus padrões, e conforme as suas entradas. ^v11
+**11** com uma passagem na frente delas. Eram da mesma aparência das salas do lado norte, tinham o mesmo comprimento e largura, as mesmas saídas, mesmos os arranjos e portas. ^v11
 
-**12** E conforme as portas das câmaras, que olhavam para o caminho do sul, havia também uma entrada no topo do caminho, isto é, do caminho em frente do muro direito, para o caminho do oriente, quando se entra por elas. ^v12
+**12** No lado sul, havia portas nas salas, que eram semelhantes às do lado norte. Uma passagem no interior, tinha uma porta acima dela e a passagem abria para várias salas. No lado oriental, havia uma entrada na passagem numa extremidade. ^v12
 
-**13** Então me disse: As câmaras do norte, e as câmaras do sul, que estão diante do lugar separado, elas são câmaras santas, em que os sacerdotes, que se chegam ao Senhor, comerão as coisas mais santas; ali porão as coisas mais santas, e a oferta de manjar, a oferta pelo pecado, e a oferta pela culpa; porque o lugar é santo. ^v13
+**13** "Então, o homem me disse: ""As salas do norte e as salas do sul, que estão na frente do pátio exterior, são as salas sagradas, onde os sacerdotes que se aproximam de Yahweh comerão a comida santa. Lá colocarão as coisas santíssimas; a oferta de cereais, a oferta pelo pecado e a oferta pela culpa, pois este é um lugar sagrado." ^v13
 
-**14** Quando os sacerdotes entrarem, não sairão do santuário para o átrio exterior, mas porão ali as suas vestiduras com que ministraram, porque elas são santas; e vestir-se-ão de outras vestiduras, e assim se aproximarão do lugar pertencente ao povo. ^v14
+**14** "Quando os sacerdotes entrarem, eles não sairão do lugar sagrado para a pátio exterior, sem deixarem ali as roupas com as quais ministram, uma vez que elas são sagradas, e vestirão outras roupas antes de se aproximarem do povo""." ^v14
 
-**15** E, acabando ele de medir a casa interior, ele me fez sair pelo caminho da porta, cuja face olha para o caminho do oriente; e a mediu em redor. ^v15
+**15** O homem completou a medição da casa interior e, em seguida, levou-me para o portão que dá para o oriente e mediu a área ao redor. ^v15
 
-**16** Mediu o lado oriental com a cana de medir, quinhentas canas, com a cana de medir, ao redor. ^v16
+**16** Ele mediu o lado oriental, com uma vara de medição, quinhentos côvados. ^v16
 
-**17** Mediu o lado do norte, com a cana de medir, quinhentas canas ao redor. ^v17
+**17** Ele mediu o lado norte, quinhentos côvados, mediu com a vara de medição. ^v17
 
-**18** Mediu também o lado do sul, com a cana de medir, quinhentas canas. ^v18
+**18** Ele também mediu o lado sul, quinhentos côvados, mediu com a vara de medição. ^v18
 
-**19** Deu uma volta para o lado do ocidente, e mediu, com a cana de medir, quinhentas canas. ^v19
+**19** Ele também virou e mediu o lado ocidental, quinhentos côvado, com a vara de medição. ^v19
 
-**20** Mediu pelos quatro lados; e havia um muro em redor, de quinhentas canas de comprimento, e quinhentas de largura, para fazer separação entre o santo e o profano. ^v20
+**20** Ele mediu os quatro lados. Havia uma parede em torno dela, que media quinhentos côvados de comprimento e quinhentos côvados de largura, para fazer separação entre o sagrado e o profano. ^v20

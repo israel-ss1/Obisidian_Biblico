@@ -1,81 +1,80 @@
 ---
-Livro: "[[2 Samuel|2 Samuel]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/2 Samuel|2 Samuel]]"
+tags: [biblia]
 ---
 
 # 2 Samuel 15
 
-**1** E aconteceu depois disto que Absalão fez aparelhar carros e cavalos, e cinqüenta homens que corressem adiante dele. ^v1
+**1** Aconteceu que, pouco depois disso, Absalão preparou para si uma carruagem de guerra e cavalos, e cinquenta homens para irem adiante dele. ^v1
 
-**2** Também Absalão se levantou pela manhã, e parava a um lado do caminho da porta. E sucedia que a todo o homem que tinha alguma demanda para vir ao rei a juízo, o chamava Absalão a si, e lhe dizia: De que cidade és tu? E, dizendo ele: De uma das tribos de Israel é teu servo; ^v2
+**2** "Absalão se levantava cedo e ficava parado à beira da estrada que levava ao portão da cidade. Quando passava algum homem, levando uma causa para o rei julgar, Absalão o chamava e dizia: ""De que cidade vieste?"". E ele respondia: ""Teu servo é de uma das tribos de Israel""." ^v2
 
-**3** Então Absalão lhe dizia: Olha, os teus negócios são bons e retos, porém não tens quem te ouça da parte do rei. ^v3
+**3** "Então, Absalão lhe dizia: ""Olha, a tua causa é boa e reta, mas não há ninguém competente da parte do rei para ouvir-te""." ^v3
 
-**4** Dizia mais Absalão: Ah, quem me dera ser juiz na terra, para que viesse a mim todo o homem que tivesse demanda ou questão, para que lhe fizesse justiça! ^v4
+**4** "Absalão dizia: ""Quisera eu ser juiz na terra, a fim de que qualquer um que tivesse alguma causa ou contestação viesse a mim, e eu lhe faria justiça!""." ^v4
 
-**5** Sucedia também que, quando alguém se chegava a ele para se inclinar diante dele, ele estendia a sua mão, e pegava dele, e o beijava. ^v5
+**5** Então, quando qualquer homem vinha ter com Absalão para honrá-lo, Absalão estendia a mão e o beijava. ^v5
 
-**6** E desta maneira fazia Absalão a todo o Israel que vinha ao rei para juízo; assim furtava Absalão o coração dos homens de Israel. ^v6
+**6** Ele agia assim com todos de Israel que vinham levar uma causa para o rei julgar. Dessa forma, Absalão conquistou os corações dos homens de Israel. ^v6
 
-**7** Aconteceu, pois, ao cabo de quarenta anos, que Absalão disse ao rei: Deixa-me ir pagar em Hebrom o meu voto que fiz ao Senhor. ^v7
+**7** "No final de quatro anos, Absalão disse ao rei: ""Por favor, deixa-me ir pagar um voto que fiz a Yahweh em Hebrom." ^v7
 
-**8** Porque, morando eu em Gesur, na Síria, fez o teu servo um voto, dizendo: Se o Senhor outra vez me fizer tornar a Jerusalém, servirei ao Senhor. ^v8
+**8** "Porque teu servo fez um voto enquanto ainda estava vivendo em Gesur, na Síria, dizendo: 'Se Yahweh, de fato, me fizer voltar a Jerusalém, eu O cultuarei'""." ^v8
 
-**9** Então lhe disse o rei: Vai em paz. Levantou-se, pois, e foi para Hebrom. ^v9
+**9** "Então, o rei lhe disse: ""Vai em paz"". Logo, Absalão se levantou e foi para Hebrom." ^v9
 
-**10** E enviou Absalão espias por todas as tribos de Israel, dizendo: Quando ouvirdes o som das trombetas, direis: Absalão reina em Hebrom. ^v10
+**10** "E ele enviou espiões por todas as tribos de Israel, dizendo: ""Assim que ouvirdes o som da trombeta, vós direis: 'Absalão é rei em Hebrom!'""." ^v10
 
-**11** E de Jerusalém foram com Absalão duzentos homens convidados, porém iam na sua simplicidade, porque nada sabiam daquele negócio. ^v11
+**11** Junto de Absalão, havia duzentos homens de Jerusalém que foram convidados. Esses homens foram na sua inocência, sem saber nada do que Absalão havia planejado. ^v11
 
-**12** Também Absalão mandou vir Aitofel, o gilonita, do conselho de Davi, à sua cidade de Giló, estando ele oferecendo os seus sacrifícios; e a conjuração se fortificava, e vinha o povo, e ia crescendo com Absalão. ^v12
+**12** Enquanto Absalão oferecia sacrifícios, mandou chamar Aitofel, de Siló, sua cidade natal. Ele era conselheiro de Davi. A conspiração de Absalão se fortalecia porque aumentava cada vez mais a quantidade de pessoas que o seguia. ^v12
 
-**13** Então veio um mensageiro a Davi, dizendo: O coração de cada um em Israel segue a Absalão. ^v13
+**13** "Um mensageiro veio até Davi dizendo: ""Os corações dos homens de Israel estão com Absalão""." ^v13
 
-**14** Disse, pois, Davi a todos os seus servos que estavam com ele em Jerusalém: Levantai-vos, e fujamos, porque não poderíamos escapar diante de Absalão. Dai-vos pressa a caminhar, para que porventura não se apresse ele, e nos alcance, e lance sobre nós algum mal, e fira a cidade a fio de espada. ^v14
+**14** "Então, Davi disse a todos os seus servos que estavam com ele em Jerusalém: ""Levantai! Fujamos, ou nenhum de nós escapará de Absalão. Preparai para partir sem demora, ou ele nos alcançará rapidamente. Ele trará sobre nós desastre e atacará a cidade com a ponta da espada""." ^v14
 
-**15** Então os servos do rei disseram ao rei: Eis aqui os teus servos, para tudo quanto determinar o rei, nosso senhor. ^v15
+**15** "Os servos do rei lhe disseram: ""Olha, os teus servos estão prontos para fazer o  que nosso senhor, o rei, decidir""." ^v15
 
-**16** E saiu o rei, com toda a sua casa, a pé; deixou, porém, o rei dez mulheres concubinas, para guardarem a casa. ^v16
+**16** O rei partiu e, com ele, toda a sua família; porém, deixou dez concubinas para cuidarem do palácio. ^v16
 
-**17** Tendo, pois, saído o rei com todo o povo a pé, pararam num lugar distante. ^v17
+**17** Tendo, pois, o rei saído e todo o povo após ele, pararam na última casa. ^v17
 
-**18** E todos os seus servos iam a seu lado, como também todos os quereteus e todos os peleteus; e todos os giteus, seiscentos homens que vieram de Gate a pé, caminhavam diante do rei. ^v18
+**18** Todo o seu exército marchava com ele, e adiante dele iam todos os quereteus, todos os peleteus e todos os giteus; seiscentos homens que o seguiram de Gate. ^v18
 
-**19** Disse, pois, o rei a Itai, o giteu: Por que irias tu também conosco? Volta-te, e fica-te com o rei, porque és estrangeiro, e também desterrado de teu lugar. ^v19
+**19** "Então, o rei disse para Itai, o giteu: ""Por que queres ir conosco? Volta e fica com o que se tornar rei, porque és estrangeiro e exilado. Retorna ao teu lugar." ^v19
 
-**20** Ontem vieste, e te levaria eu hoje conosco a caminhar? Pois eu vou para onde puder ir; volta, pois, e torna a levar teus irmãos contigo, com beneficência e fidelidade. ^v20
+**20** "Como saíste somente ontem, por que eu deveria te fazer vagar conosco? Nem mesmo eu sei aonde estou indo; então, retorna e leva teus compatriotas de volta. Que a lealdade e a fidelidade estejam convosco""." ^v20
 
-**21** Respondeu, porém, Itai ao rei, e disse: Vive o SENHOR, e vive o rei meu senhor, que no lugar em que estiver o rei meu senhor, seja para morte seja para vida, aí certamente estará também o teu servidor. ^v21
+**21** "Mas Itai respondeu ao rei, dizendo: ""Tão certo como Yahweh vive, e o meu senhor, o rei, vive, aonde quer que o meu senhor, o rei, vá, lá também teu servo irá, mesmo que isso signifique viver ou morrer""." ^v21
 
-**22** Então Davi disse a Itai: Vem, pois, e passa adiante. Assim passou Itai, o giteu, e todos os seus homens, e todas as crianças que havia com ele. ^v22
+**22** "Então, Davi disse para Itai: ""Vai, passa adiante e continua conosco"". Assim, Itai, o giteu, o acompanhou, juntamente com os seus homens e todas as famílias que estavam com ele." ^v22
 
-**23** E toda a terra chorava a grandes vozes, passando todo o povo; também o rei passou o ribeiro de Cedrom, e passou todo o povo na direção do caminho do deserto. ^v23
+**23** Todo o país pranteou em alta voz enquanto passavam pelo ribeiro de Cedrom, e enquanto o próprio rei o atravessava. Todos viajavam na estrada rumo ao deserto. ^v23
 
-**24** Eis que também Zadoque ali estava, e com ele todos os levitas que levavam a arca da aliança de Deus; e puseram ali a arca de Deus, e subiu Abiatar, até que todo o povo acabou de passar da cidade. ^v24
+**24** Até mesmo Zadoque e todos os levitas estavam presentes, carregando a Arca da Aliança. Eles puseram a Arca de Deus no chão e, então, Abiatar se juntou a eles. Eles esperaram até que todas as pessoas tivessem saído da cidade. ^v24
 
-**25** Então disse o rei a Zadoque: Torna a levar a arca de Deus à cidade; que, se achar graça nos olhos do Senhor, ele me tornará a trazer para lá e me deixará ver a ela e a sua habitação. ^v25
+**25** "O rei disse a Zadoque: ""Carregai a Arca de Deus de volta para a cidade. Se eu achar graça aos olhos de Yahweh, Ele me trará de volta aqui e me mostrará novamente a Arca, o lugar onde Ele mora." ^v25
 
-**26** Se, porém, disser assim: Não tenho prazer em ti; eis-me aqui, faça de mim como parecer bem aos seus olhos. ^v26
+**26** "Mas, se Ele disser: 'Não me agrado de ti', vê, aqui estou. Que Ele faça de mim o que Lhe aprouver""." ^v26
 
-**27** Disse mais o rei a Zadoque, o sacerdote: Não és tu porventura vidente? Torna, pois, em paz para a cidade, e convosco também vossos dois filhos, Aimaás, teu filho, e Jônatas, filho de Abiatar. ^v27
+**27** "O rei também disse a Zadoque, o sacerdote: ""Acaso não és vidente? Retorna à cidade em paz e leva os teus dois filhos contigo: Aimaaz, teu filho, e Jônatas, filho de Abiatar." ^v27
 
-**28** Olhai que me demorarei nas campinas do deserto até que tenha notícias vossas. ^v28
+**28** "Vê, eu esperarei nos desfiladeiros do deserto até receber notícias de vós""." ^v28
 
-**29** Zadoque, pois, e Abiatar, tornaram a levar para Jerusalém a arca de Deus; e ficaram ali. ^v29
+**29** Então, Zadoque e Abiatar carregaram a Arca de Deus de volta a Jerusalém e ficaram lá. ^v29
 
-**30** E seguiu Davi pela encosta do monte das Oliveiras, subindo e chorando, e com a cabeça coberta; e caminhava com os pés descalços; e todo o povo que ia com ele cobria cada um a sua cabeça, e subiam chorando sem cessar. ^v30
+**30** Mas Davi subiu o monte das Oliveiras descalço, chorando e com a cabeça coberta. Todos os homens do povo que estavam com ele cobriram as suas cabeças e subiram chorando, enquanto caminhavam. ^v30
 
-**31** Então fizeram saber a Davi, dizendo: Também Aitofel está entre os que se conjuraram com Absalão. Pelo que disse Davi: Ó Senhor, peço-te que torne em loucura o conselho de Aitofel. ^v31
+**31** "Alguém falou com Davi, dizendo: ""Aitofel está envolvido na conspiração de Absalão"". Então, Davi orou: ""Ó, Yahweh, por favor, torna o conselho de Aitofel em loucura""." ^v31
 
-**32** E aconteceu que, chegando Davi ao cume, para adorar ali a Deus, eis que Husai, o arquita, veio encontrar-se com ele com a roupa rasgada e terra sobre a cabeça. ^v32
+**32** Aconteceu que, quando Davi chegou ao topo da estrada, onde Deus costumava ser adorado, Husai, o arquita, veio a ele, com o seu casaco rasgado e com terra na cabeça. ^v32
 
-**33** E disse-lhe Davi: Se passares comigo, ser-me-ás pesado. ^v33
+**33** "Davi disse lhe disse: ""Se viajares comigo, serás um peso para mim," ^v33
 
-**34** Porém se voltares para a cidade, e disseres a Absalão: Eu serei, ó rei, teu servo; bem fui antes servo de teu pai, mas agora serei teu servo; dissipar-me-ás então o conselho de Aitofel. ^v34
+**34** mas, se retornares à cidade e disseres a Absalão: 'Serei teu servo, ó rei; como fui servo de teu pai no passado, do mesmo modo serei teu servo', assim, confundirás o conselho de Aitofel para mim. ^v34
 
-**35** E não estão ali contigo Zadoque e Abiatar, sacerdotes? E será que todas as coisas que ouvires da casa do rei, farás saber a Zadoque, e a Abiatar, sacerdotes. ^v35
+**35** Porventura, não terás os sacerdotes Zadoque e Abiatar contigo? Assim, o que ouvirdes no palácio do rei deverás contar a Zadoque e a Abiatar, os sacerdotes. ^v35
 
-**36** Eis que estão também ali com eles seus dois filhos, Aimaás filho de Zadoque, e Jônatas filho de Abiatar; pela mão deles aviso me mandareis, de todas as coisas que ouvirdes. ^v36
+**36** "Vê, ali com eles estão também os seus dois filhos, Aimaaz, filho de Zadoque, e Jônatas, filho de Abiatar. Tu deverás enviar-me, pelas mãos deles, tudo quanto ouvirdes""." ^v36
 
-**37** Husai, pois, amigo de Davi, veio para a cidade; e Absalão entrou em Jerusalém. ^v37
+**37** Então, Husai, amigo de Davi, voltou para a cidade, assim que Absalão chegou e entrou em Jerusalém. ^v37

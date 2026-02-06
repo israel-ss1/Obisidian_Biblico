@@ -1,53 +1,52 @@
 ---
-Livro: "[[Juízes|Juízes]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Juízes|Juízes]]"
+tags: [biblia]
 ---
 
 # Juízes 2
 
-**1** E subiu o anjo do SENHOR de Gilgal a Boquim, e disse: Do Egito vos fiz subir, e vos trouxe à terra que a vossos pais tinha jurado e disse: Nunca invalidarei a minha aliança convosco. ^v1
+**1** "O Anjo de Yahweh subiu de Gilgal a Boquim, e disse: ""Eu vos tirei do Egito, e vos trouxe para a terra que jurei dar aos vossos pais. Eu disse: 'Nunca quebrarei a Minha aliança convosco." ^v1
 
-**2** E, quanto a vós, não fareis acordo com os moradores desta terra, antes derrubareis os seus altares; mas vós não obedecestes à minha voz. Por que fizestes isso? ^v2
+**2** Não façais aliança com aqueles que moram nesta terra. Derrubai os seus altares'. Porém, não ouvistes a Minha voz. Por que fizestes isso? ^v2
 
-**3** Assim também eu disse: Não os expulsarei de diante de vós; antes estarão como espinhos nas vossas ilhargas, e os seus deuses vos serão por laço. ^v3
+**3** "Então, agora, digo: Não tirarei os cananeus diante de vós, mas eles se tornarão espinhos ao vosso lado, e os seus deuses se tornarão uma pedra de tropeço para vós""." ^v3
 
-**4** E sucedeu que, falando o anjo do Senhor estas palavras a todos os filhos de Israel, o povo levantou a sua voz e chorou. ^v4
+**4** Quando o Anjo de Yahweh falou estas palavras a toda a comunidade de Israel, o povo levantou sua voz e chorou. ^v4
 
-**5** Por isso chamaram àquele lugar, Boquim; e sacrificaram ali ao Senhor. ^v5
+**5** Chamaram aquele lugar de Boquim. Ali, ofereceram sacrifícios a Yahweh. ^v5
 
-**6** E havendo Josué despedido o povo foram-se os filhos de Israel, cada um à sua herança, para possuírem a terra. ^v6
+**6** Depois que Josué despediu o povo, os filhos de Israel foram cada um para seus respectivos lugares, para possuir suas terras. ^v6
 
-**7** E serviu o povo ao Senhor todos os dias de Josué, e todos os dias dos anciãos que ainda sobreviveram depois de Josué, e viram toda aquela grande obra do Senhor, que fizera a Israel. ^v7
+**7** O povo serviu Yahweh durante o tempo de Josué e dos anciãos que continuaram vivos após ele, os quais viram as grandes obras que Yahweh havia feito a Israel. ^v7
 
-**8** Faleceu, porém, Josué, filho de Num, servo do Senhor, com a idade de cento e dez anos; ^v8
+**8** Josué, filho de Num, servo de Yahweh, morreu com a idade de cento e dez anos. ^v8
 
-**9** E sepultaram-no no termo da sua herança, em Timnate-Heres, no monte de Efraim, para o norte do monte de Gaás. ^v9
+**9** Foi sepultado no território de sua herança em Timnate-Heres, na região montanhosa de Efraim, ao norte do monte Gaás. ^v9
 
-**10** E foi também congregada toda aquela geração a seus pais, e outra geração após ela se levantou, que não conhecia ao Senhor, nem tampouco a obra que ele fizera a Israel. ^v10
+**10** Toda aquela geração também se juntou aos seus pais. E, após essa, levantou-se uma outra geração que não conhecia Yahweh, nem o que Ele fizera por Israel. ^v10
 
-**11** Então fizeram os filhos de Israel o que era mau aos olhos do Senhor; e serviram aos baalins. ^v11
+**11** O povo de Israel fez o que era mau aos olhos de Yahweh e serviram aos baalins. ^v11
 
-**12** E deixaram ao Senhor Deus de seus pais, que os tirara da terra do Egito, e foram-se após outros deuses, dentre os deuses dos povos, que havia ao redor deles, e adoraram a eles; e provocaram o Senhor à ira. ^v12
+**12** Eles se separaram de Yahweh, o Deus de seus pais, Aquele que os havia tirado da terra do Egito. Eles foram atrás de outros deuses, os mesmos deuses dos povos que estavam em sua volta, e se inclinaram perante eles. Provocaram a ira de Yahweh, pois ^v12
 
-**13** Porquanto deixaram ao Senhor, e serviram a Baal e a Astarote. ^v13
+**13** se separaram de Yahweh e adoraram a Baal e às Astarotes. ^v13
 
-**14** Por isso a ira do Senhor se acendeu contra Israel, e os entregou na mão dos espoliadores que os despojaram; e os entregou na mão dos seus inimigos ao redor; e não puderam mais resistir diante dos seus inimigos. ^v14
+**14** A ira de Yahweh se acendeu contra Israel, e Ele os entregou aos ladrões, que roubaram suas posses. Ele os vendeu como escravos que foram tomados pela força dos inimigos ao seu redor, de maneira que não puderam mais se defender. ^v14
 
-**15** Por onde quer que saíam, a mão do Senhor era contra eles para mal, como o Senhor tinha falado, e como o Senhor lhes tinha jurado; e estavam em grande aflição. ^v15
+**15** Toda vez que Israel saía para lutar, a mão de Yahweh estava contra eles para derrotá-los, assim como Ele lhes havia jurado. Estavam em uma terrível aflição. ^v15
 
-**16** E levantou o Senhor juízes, que os livraram da mão dos que os despojaram. ^v16
+**16** Então, Yahweh levantou juízes que os salvaram das mãos daqueles que estavam roubando suas posses. ^v16
 
-**17** Porém tampouco ouviram aos juízes, antes prostituíram-se após outros deuses, e adoraram a eles; depressa se desviaram do caminho, por onde andaram seus pais, obedecendo os mandamentos do Senhor; mas eles assim não fizeram. ^v17
+**17** Mesmo assim, eles não ouviram os seus juízes. Eles foram infiéis a Yahweh, se entregando a prostituição: adorando a outros deuses. Eles rapidamente se desviaram do caminho que seus pais haviam vivido, pois seus pais obedeceram aos mandamentos de Yahweh, porém, eles mesmos não o fizeram. ^v17
 
-**18** E, quando o Senhor lhes levantava juízes, o Senhor era com o juiz, e os livrava da mão dos seus inimigos, todos os dias daquele juiz; porquanto o Senhor se compadecia deles pelo seu gemido, por causa dos que os oprimiam e afligiam. ^v18
+**18** Quando Yahweh levantava juízes, Ele os ajudava e os resgatava das mãos dos seus inimigos em todos os dias em que o juiz vivia. Pois Yahweh tinha piedade deles e de como gemiam por causa daqueles que os oprimiam e afligiam. ^v18
 
-**19** Porém sucedia que, falecendo o juiz, reincidiam e se corrompiam mais do que seus pais, andando após outros deuses, servindo-os, e adorando-os; nada deixavam das suas obras, nem do seu obstinado caminho. ^v19
+**19** Mas quando o juiz morria, eles se desviavam e faziam coisas que eram ainda mais depravadas do que aquelas que os seus pais haviam feito. Eles seguiam outros deuses para os servir e adorar. Eles se recusavam a se arrepender de suas práticas malignas e de seus caminhos teimosos. ^v19
 
-**20** Por isso a ira do Senhor se acendeu contra Israel, e disse: Porquanto este povo transgrediu a minha aliança, que tinha ordenado a seus pais, e não deram ouvidos à minha voz, ^v20
+**20** "A ira de Yahweh se acendeu contra Israel. Ele disse: ""Porque esta nação quebrou os termos da Minha aliança que fiz com seus pais, porque não escutaram a Minha voz," ^v20
 
-**21** Tampouco desapossarei mais de diante deles a nenhuma das nações, que Josué deixou, quando morreu; ^v21
+**21** de agora em diante, Eu não retirarei diante deles nenhuma das nações que Josué deixou quando morreu. ^v21
 
-**22** Para por elas provar a Israel, se há de guardar, ou não, o caminho do Senhor, como seus pais o guardaram, para nele andar. ^v22
+**22** "Farei isto para colocar Israel à prova, se eles guardarão, ou não, o caminho de Yahweh; se andarão nele, assim como seus pais o fizeram""." ^v22
 
-**23** Assim o Senhor deixou ficar aquelas nações, e não as desterrou logo, nem as entregou na mão de Josué. ^v23
+**23** Por isso, Yahweh deixou aquelas nações e não as expulsou rapidamente, nem as entregou nas mãos de Josué. ^v23

@@ -1,51 +1,48 @@
 ---
-Livro: "[[Lamentações|Lamentações]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Lamentações|Lamentações]]"
+tags: [biblia]
 ---
 
 # Lamentações 5
 
-**1** Lembra-te, SENHOR, do que nos tem sucedido; considera, e olha o nosso opróbrio. ^v1
+**1** Lembra-te, Yahweh, do que aconteceu conosco. Vê e considera a nossa vergonha. ^v1
 
-**2** A nossa herança passou a estrangeiros, e as nossas casas a forasteiros. ^v2
+**2** Nossa herança foi entregue a estranhos; nossas casas, a estrangeiros. ^v2
 
-**3** Órfãos somos sem pai, nossas mães são como viúvas. ^v3
+**3** Nós nos tornamos órfãos, pois não temos pai, e nossas mães são como viúvas. ^v3
 
-**4** A nossa água por dinheiro a bebemos, por preço vem a nossa lenha. ^v4
+**4** Temos que pagar com prata a água que bebemos e temos que pagar com prata para buscar nossa própria madeira. ^v4
 
-**5** Os nossos perseguidores estão sobre os nossos pescoços; estamos cansados, e não temos descanso. ^v5
+**5** Os que nos perseguem estão próximos de nós; estamos cansados, não encontramos descanso. ^v5
 
-**6** Aos egípcios e aos assírios estendemos as mãos, para nos fartarem de pão. ^v6
+**6** Temos nos entregado aos egípcios e aos assírios para obter comida suficiente. ^v6
 
-**7** Nossos pais pecaram, e já não existem; e nós levamos as suas maldades. ^v7
+**7** Nossos pais pecaram; eles não existem mais, e nós suportamos suas iniquidades. ^v7
 
-**8** Servos dominam sobre nós; ninguém há que nos livre da sua mão. ^v8
+**8** Escravos dominam sobre nós, e não há ninguém para nos resgatar de suas mãos. ^v8
 
-**9** Com perigo de nossas vidas trazemos o nosso pão, por causa da espada do deserto. ^v9
+**9** Arriscamos nossas vidas para obter o nosso pão, por causa da espada no deserto. ^v9
 
-**10** Nossa pele se queimou como um forno, por causa do ardor da fome. ^v10
+**10** Nossa pele se tornou quente como um forno, por causa do ardor da fome. ^v10
 
-**11** Forçaram as mulheres em Sião, as virgens nas cidades de Judá. ^v11
+**11** Mulheres são violadas em Sião; e as virgens, nas cidades de Judá. ^v11
 
-**12** Os príncipes foram enforcados pelas mãos deles; as faces dos velhos não foram reverenciadas. ^v12
+**12** O príncipes são por eles enforcados, e não é dada honra os anciãos. ^v12
 
-**13** Aos jovens obrigaram a moer, e os meninos caíram debaixo das cargas de lenha. ^v13
+**13** Os jovens são forçados a moer com a pedra de moinho, e meninos cambaleiam sob pesadas cargas de lenha. ^v13
 
-**14** Os velhos já não estão mais às portas, os jovens já deixaram a sua música. ^v14
+**14** Os anciãos deixaram o portão da cidade, e os jovens deixaram sua música. ^v14
 
-**15** Cessou o gozo de nosso coração; converteu-se em lamentação a nossa dança. ^v15
+**15** A alegria do nosso coração acabou, e a nossa dança se transformou em lamento. ^v15
 
-**16** Caiu a coroa da nossa cabeça; ai de nós! porque pecamos. ^v16
+**16** A coroa caiu de nossa cabeça! Ai de nós, porque pecamos! ^v16
 
-**17** Por isso desmaiou o nosso coração; por isso se escureceram os nossos olhos. ^v17
+**17** Por isso nosso coração adoeceu, e nossos olhos se escureceram. Por essas coisas nossos olhos escurecem, porque chacais passeiam no Monte Sião, que está desolado. ^v17
 
-**18** Pelo monte de Sião, que está assolado, andam as raposas. ^v18
+**19** Mas Tu, Yahweh, reinas para sempre e Te assentarás sobre Teu trono, de geração em geração. ^v19
 
-**19** Tu, Senhor, permaneces eternamente, e o teu trono subsiste de geração em geração. ^v19
+**20** Por que Te esqueceste de nós para sempre? Por que nos deixarás por tantos dias? ^v20
 
-**20** Por que te esquecerias de nós para sempre? Por que nos desampararias por tanto tempo? ^v20
+**21** Restaura-nos a Ti, Yahweh, e nós seremos restaurados. Renova nossos dias como nos tempos antigos, ^v21
 
-**21** Converte-nos a ti, Senhor, e seremos convertidos; renova os nossos dias como dantes. ^v21
-
-**22** Mas tu nos rejeitaste totalmente. Tu estás muito enfurecido contra nós. ^v22
+**22** a menos que nos tenhas rejeitado totalmente e estejas irado conosco além da medida! ^v22

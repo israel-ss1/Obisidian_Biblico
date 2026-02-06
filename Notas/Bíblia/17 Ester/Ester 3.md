@@ -1,37 +1,36 @@
 ---
-Livro: "[[Ester|Ester]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Ester|Ester]]"
+tags: [biblia]
 ---
 
 # Ester 3
 
-**1** Depois destas coisas o rei Assuero engrandeceu a Hamã, filho de Hamedata, agagita, e o exaltou, e pôs o seu assento acima de todos os príncipes que estavam com ele. ^v1
+**1** Depois dessas coisas, o rei Xerxes promoveu Hamã, filho de Hamedata, o agagita, e colocou sua posição de autoridade sobre todos os oficiais que estavam com ele. ^v1
 
-**2** E todos os servos do rei, que estavam à porta do rei, se inclinavam e se prostravam perante Hamã; porque assim tinha ordenado o rei acerca dele; porém Mardoqueu não se inclinava nem se prostrava. ^v2
+**2** Todos os servos do rei, que serviam nos portões do rei, sempre ajoelhavam e prostravam-se para Hamã, como o rei lhes havia ordenado para fazer; porém Mardoqueu não se ajoelhava nem se prostrava. ^v2
 
-**3** Então os servos do rei, que estavam à porta do rei, disseram a Mardoqueu: Por que transgrides o mandado do rei? ^v3
+**3** "Então, os servos do rei que estavam nos portões do rei disseram a Mardoqueu: ""Por que desobedeces a ordem do rei?""." ^v3
 
-**4** Sucedeu, pois, que, dizendo-lhe eles isto, dia após dia, e não lhes dando ele ouvidos, o fizeram saber a Hamã, para verem se as palavras de Mardoqueu se sustentariam, porque ele lhes tinha declarado que era judeu. ^v4
+**4** Eles lhe falavam dia após dia, mas ele se recusava a obedecer suas ordens. Então, eles falaram com Hamã para ver se o procedimento de Mardoqueu seria tolerado, porque ele lhes havia dito que era judeu. ^v4
 
-**5** Vendo, pois, Hamã que Mardoqueu não se inclinava nem se prostrava diante dele, Hamã se encheu de furor. ^v5
+**5** Quando Hamã viu que Mardoqueu não se ajoelhava nem prostava diante dele, encheu-se de raiva. ^v5
 
-**6** Porém teve como pouco, nos seus propósitos, o pôr as mãos só em Mardoqueu (porque lhe haviam declarado de que povo era Mardoqueu); Hamã, pois, procurou destruir a todos os judeus, o povo de Mardoqueu, que havia em todo o reino de Assuero. ^v6
+**6** Sabendo a que povo Mardoqueu pertencia, desprezou a ideia de matar somente a ele, porque os servos do rei lhe falaram a que povo Mardoqueu pertencia. Hamã queria exterminar todos os judeus, o povo de Mardoqueu, que estava em todo o reino de Xerxes. ^v6
 
-**7** No primeiro mês (que é o mês de Nisã), no ano duodécimo do rei Assuero, se lançou Pur, isto é, a sorte, perante Hamã, para cada dia, e para cada mês, até ao duodécimo mês, que é o mês de Adar. ^v7
+**7** "No primeiro mês, que é o Mês de Nisã, no décimo segundo ano do rei Xerxes, eles lançaram o pur, que quer dizer ""lançar sorte"", diante de Hamã, dia a dia e mês a mês, para selecionar o mês, até que eles escolheram o décimo segundo, o Mês de Adar." ^v7
 
-**8** E Hamã disse ao rei Assuero: Existe espalhado e dividido entre os povos em todas as províncias do teu reino um povo, cujas leis são diferentes das leis de todos os povos, e que não cumpre as leis do rei; por isso não convém ao rei deixá-lo ficar. ^v8
+**8** "Então, Hamã disse para o rei Xerxes: ""Existe um certo povo espalhado e distribuído entre as províncias do teu reino; suas leis são diferentes das leis dos outros povos, e eles não obedecem às leis do rei. Então, não é adequado para o rei deixá-los viver." ^v8
 
-**9** Se bem parecer ao rei, decrete-se que os matem; e eu porei nas mãos dos que fizerem a obra dez mil talentos de prata, para que entrem nos tesouros do rei. ^v9
+**9** "Se isso for do agrado do rei, dá ordem para matá-los, e eu pesarei dez mil talentos de prata nas mãos daqueles que serão encarregados dos assuntos do rei, para que eles coloquem na tesouraria do rei""." ^v9
 
-**10** Então tirou o rei o anel da sua mão, e o deu a Hamã, filho de Hamedata, agagita, adversário dos judeus. ^v10
+**10** Então, o rei tirou o anel de selar de sua mão, e o deu a Hamã, filho de Hamedata, o agagita, inimigo dos judeus. ^v10
 
-**11** E disse o rei a Hamã: Essa prata te é dada como também esse povo, para fazeres dele o que bem parecer aos teus olhos. ^v11
+**11** "E disse o rei para Hamã: ""Esse dinheiro seja dado de volta para ti, e também esse povo, para fazeres dele o que desejares""." ^v11
 
-**12** Então chamaram os escrivães do rei no primeiro mês, no dia treze do mesmo e, conforme a tudo quanto Hamã mandou, se escreveu aos príncipes do rei, e aos governadores que havia sobre cada província, e aos líderes, de cada povo; a cada província segundo a sua escrita, e a cada povo segundo a sua língua; em nome do rei Assuero se escreveu, e com o anel do rei se selou. ^v12
+**12** Então, foram chamados os escribas do rei, no décimo terceiro dia do primeiro mês. Conforme tudo o que Hamã havia ordenado, foi escrito para os governadores de todas as províncias, para os governadores de todos os povos, e também aos oficiais de todos os povos; para cada província em sua própria escrita, e para todo povo em sua própria lingua. Em nome do rei Xerxes, foi escrito e selado com seu anel. ^v12
 
-**13** E enviaram-se as cartas por intermédio dos correios a todas as províncias do rei, para que destruíssem, matassem, e fizessem perecer a todos os judeus, desde o jovem até ao velho, crianças e mulheres, em um mesmo dia, a treze do duodécimo mês (que é o mês de Adar), e que saqueassem os seus bens. ^v13
+**13** Enviaram os documentos pelos correios para todas as províncias do rei, para aniquilar, matar e destruir todos os judeus, tanto jovens e velhos como crianças e mulheres, em um dia, no décimo terceiro dia do décimo segundo mês, o Mês de Adar, e recolher suas posses. ^v13
 
-**14** Uma cópia do despacho que determinou a divulgação da lei em cada província, foi enviada a todos os povos, para que estivessem preparados para aquele dia. ^v14
+**14** Uma cópia do documento foi feita, como lei, para cada província. Em cada província se fez saber que o povo deveria estar preparado para aquele dia. ^v14
 
-**15** Os correios, pois, impelidos pela palavra do rei, saíram, e a lei se proclamou na fortaleza de Susã. E o rei e Hamã se assentaram a beber, porém a cidade de Susã estava confusa. ^v15
+**15** Os mensageiros saíram e, apressados, distribuíram a ordem do rei; o decreto também foi distribuído dentro do palácio de Susã. O rei e Hamã se assentaram para beber, mas a cidade de Susã estava tumultuada. ^v15

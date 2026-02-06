@@ -1,77 +1,76 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Josué|Josué]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Josué|Josué]]"
+tags: [biblia]
 ---
 
 # Josué 8
 
-**1** Então disse o SENHOR a Josué: Não temas, e não te espantes; toma contigo toda a gente de guerra, e levanta-te, sobe a Ai; olha que te tenho dado na tua mão o rei de Ai e o seu povo, e a sua cidade, e a sua terra. ^v1
+**1** "Yahweh disse a Josué: ""Não temas, não sejas covarde. Toma contigo todos os guerreiros. Sobe a Ai. Vê, eu tenho dado em tuas mãos o rei de Ai, seu povo, sua cidade e sua terra." ^v1
 
-**2** Farás, pois, a Ai e a seu rei, como fizeste a Jericó, e a seu rei; salvo que, para vós, tomareis os seus despojos, e o seu gado; põe emboscadas à cidade, por detrás dela. ^v2
+**2** "Farás a Ai e ao seu rei como fizeste a Jericó e ao seu rei, exceto que tomarás para vós os despojos e o gado. Prepara uma emboscada atrás da cidade""." ^v2
 
-**3** Então Josué levantou-se, e toda a gente de guerra, para subir contra Ai; e escolheu Josué trinta mil homens valorosos, e enviou-os de noite. ^v3
+**3** Então, Josué subiu com todos os seus guerreiros para Ai. Escolheu trinta mil homens fortes e corajosos, e os enviou à noite. ^v3
 
-**4** E deu-lhes ordem, dizendo: Olhai! Ponde-vos de emboscadas contra a cidade, por detrás dela; não vos alongueis muito da cidade; e estai todos vós atentos. ^v4
+**4** "Ordenou-lhes: ""Vede, ficai de emboscada contra a cidade, por detrás dela. Não vos afasteis muito da cidade, mas estejais todos em prontidão." ^v4
 
-**5** Porém eu e todo o povo que está comigo nos aproximaremos da cidade; e será que, quando nos saírem ao encontro, como antes, fugiremos diante deles. ^v5
+**5** Eu e todos os homens que estão comigo nos aproximaremos da cidade, e quando eles saírem para nos atacar, nós fugiremos deles, como fizemos antes. ^v5
 
-**6** Deixai-os, pois, sair atrás de nós, até que os tiremos da cidade; porque dirão: Fogem diante de nós como antes. Assim fugiremos diante deles. ^v6
+**6** Eles virão atrás de nós até que os tenhamos atraído para longe da cidade. E dirão: 'Eles fogem de nós assim como fizeram da última vez'. E quando estivermos fugindo deles, ^v6
 
-**7** Então saireis vós da emboscada, e tomareis a cidade; porque o Senhor vosso Deus vo-la dará nas vossas mãos. ^v7
+**7** saireis do esconderijo e tomareis a cidade. Yahweh, vosso Deus, a entregará na vossa mão. ^v7
 
-**8** E será que tomando vós a cidade, pôr-lhe-eis fogo; conforme a palavra do Senhor fareis; olhai que vo-lo tenho mandado. ^v8
+**8** "Quando tomardes a cidade, colocareis fogo nela. Fareis isto por obediência às ordens dadas por meio da palavra de Yahweh. Eis o que vos tenho ordenado""." ^v8
 
-**9** Assim Josué os enviou, e eles se foram à emboscada; e ficaram entre Betel e Ai, ao ocidente de Ai; porém Josué passou aquela noite no meio do povo. ^v9
+**9** Josué os enviou. Eles ficaram no local da emboscada, escondidos entre Betel e Ai, a oeste de Ai. Porém, naquela noite, Josué dormiu entre os guerreiros. ^v9
 
-**10** E levantou-se Josué de madrugada, e contou o povo; e subiram ele e os anciãos de Israel adiante do povo contra Ai. ^v10
+**10** Josué levantou-se de madrugada, passou seu exército em revista e, então, com os anciãos de Israel, atacou o povo de Ai. ^v10
 
-**11** E subiram também todos os homens de guerra, que estavam com ele; e aproximaram-se, e chegaram defronte da cidade; e alojaram-se do lado norte de Ai, e havia um vale entre eles e Ai. ^v11
+**11** Todos os guerreiros que estavam com ele avançaram e aproximaram-se da cidade. E ali acamparam, no lado norte de Ai. Havia um vale entre eles e Ai. ^v11
 
-**12** Tomou também uns cinco mil homens, e pô-los de emboscada entre Betel e Ai, ao ocidente da cidade. ^v12
+**12** Josué tomou cinco mil homens e os colocou de emboscada no lado oeste da cidade entre Betel e Ai. ^v12
 
-**13** E puseram o povo, todo o arraial que estava ao norte da cidade, e a emboscada ao ocidente da cidade; e foi Josué aquela noite até ao meio do vale. ^v13
+**13** Posicionaram-se todos os soldados, o exército principal, no lado norte da cidade, e a emboscada no lado oeste. Josué passou aquela noite no vale. ^v13
 
-**14** E sucedeu que, vendo-o o rei de Ai, ele e todo o seu povo se apressaram, e se levantaram de madrugada, e os homens da cidade saíram ao encontro de Israel ao combate, ao tempo determinado, defronte das campinas; porém ele não sabia que se achava uma emboscada contra ele atrás da cidade. ^v14
+**14** Sucedeu que, quando o rei de Ai os avistou, ele e o seu exército levantaram-se cedo e se apressaram para atacar Israel no lugar em frente ao vale do rio Jordão. Ele não sabia que haviam montado uma emboscada para atacá-los por detrás da cidade. ^v14
 
-**15** Josué, pois, e todo o Israel se houveram como feridos diante deles, e fugiram pelo caminho do deserto. ^v15
+**15** Josué e todo o Israel se passaram por derrotados diante deles, e fugiram até o deserto. ^v15
 
-**16** Por isso todo o povo, que estava na cidade, foi convocado para os seguir; e seguiram a Josué e foram afastados da cidade. ^v16
+**16** Todo o povo que estava na cidade foi convocado para persegui-los e, então, eles os perseguiram até que se afastassem da cidade. ^v16
 
-**17** E nem um só homem ficou em Ai, nem em Betel, que não saísse após Israel; e deixaram a cidade aberta, e seguiram a Israel. ^v17
+**17** Não ficou sequer um homem em Ai e Betel; todos saíram em perseguição a Israel. Eles abandonaram a cidade, deixando-a aberta, para perseguir Israel. ^v17
 
-**18** Então o Senhor disse a Josué: Estende a lança que tens na tua mão, para Ai, porque a darei na tua mão. E Josué estendeu a lança, que estava na sua mão, para a cidade. ^v18
+**18** "Yahweh disse a Josué: ""Aponta a tua lança em direção a Ai, pois te darei Ai em tuas mãos"". Josué estendeu a lança que estava em sua mão em direção à cidade." ^v18
 
-**19** Então a emboscada se levantou apressadamente do seu lugar, e, estendendo ele a sua mão, correram e entraram na cidade, e a tomaram; e apressando-se, puseram fogo na cidade. ^v19
+**19** Os soldados, escondidos em emboscada, rapidamente saíram do lugar onde estavam, no momento em que Josué estendeu a mão. Eles correram, entraram na cidade, a tomaram e, rapidamente, a incendiaram. ^v19
 
-**20** E virando-se os homens de Ai para trás, olharam, e eis que a fumaça da cidade subia ao céu, e não puderam fugir nem para uma parte nem para outra, porque o povo, que fugia para o deserto, se tornou contra os que os seguiam. ^v20
+**20** Então, os homens de Ai se viraram e, olhando para trás, viram a fumaça vinda da cidade subindo pelo céu; e não podiam escapar por nenhum caminho, pois os soldados israelitas, que fugiam para o deserto, agora se voltavam contra aqueles que os perseguiam. ^v20
 
-**21** E vendo Josué e todo o Israel que a emboscada tomara a cidade, e que a fumaça da cidade subia, voltaram, e feriram os homens de Ai. ^v21
+**21** No instante em que Josué e todo o Israel viram que, pela emboscada, haviam capturado a cidade, por causa da fumaça que subia, voltaram e mataram os homens de Ai. ^v21
 
-**22** Também aqueles da cidade lhes saíram ao encontro, e assim ficaram no meio dos israelitas, uns de uma, e outros de outra parte; e feriram-nos, até que nenhum deles sobreviveu nem escapou. ^v22
+**22** E os outros soldados de Israel, os que estavam na cidade, saíram para atacá-los. Então, os homens de Ai ficaram presos em meio ao exército de Israel, por um lado e pelo outro. Israel atacou os homens de Ai e nenhum deles sobreviveu ou escapou. ^v22
 
-**23** Porém ao rei de Ai tomaram vivo, e o trouxeram a Josué. ^v23
+**23** Mas deixaram o rei de Ai vivo, a quem capturaram e levaram a Josué. ^v23
 
-**24** E sucedeu que, acabando os israelitas de matar todos os moradores de Ai no campo, no deserto, onde os tinham seguido, e havendo todos caído ao fio da espada, até serem consumidos, todo o Israel se tornou a Ai e a feriu ao fio de espada. ^v24
+**24** Sucedeu que, quando Israel havia terminado de matar todos os habitantes de Ai no campo próximo ao deserto onde os perseguiram, e quando todos eles — até o último — haviam caído ao fio da espada, todo o Israel voltou para Ai, matando também os que ali estavam. ^v24
 
-**25** E todos os que caíram aquele dia, assim homens como mulheres, foram doze mil, todos moradores de Ai. ^v25
+**25** Os que morreram naquele dia, homens e mulheres, foram doze mil, todos de Ai. ^v25
 
-**26** Porque Josué não retirou a sua mão, que estendera com a lança, até destruir totalmente a todos os moradores de Ai. ^v26
+**26** Josué não abaixou sua mão. Permaneceu com a lança estendida até que o povo de Ai fosse completamente destruído. ^v26
 
-**27** Tão-somente os israelitas tomaram para si o gado e os despojos da cidade, conforme à palavra do Senhor, que tinha ordenado a Josué. ^v27
+**27** Israel tomou apenas o rebanho e o despojo da cidade para si, assim como Yahweh ordenara a Josué. ^v27
 
-**28** Queimou, pois, Josué a Ai e a tornou num montão perpétuo, em ruínas, até ao dia de hoje. ^v28
+**28** Josué queimou Ai e tornou-a um monte de ruínas para sempre. Esse lugar está abandonado até o dia de hoje. ^v28
 
-**29** E ao rei de Ai enforcou num madeiro, até à tarde; e ao pôr do sol ordenou Josué que o seu corpo fosse tirado do madeiro; e o lançaram à porta da cidade, e levantaram sobre ele um grande montão de pedras, até o dia de hoje. ^v29
+**29** Ele enforcou o rei de Ai em uma árvore e ali o deixou até o anoitecer. Quando o sol se pôs, por ordem de Josué, retiraram da árvore o corpo do rei, e o jogaram em frente aos portões da cidade. Fizeram uma grande pilha de pedras sobre o cadáver. Pilha esta que permanece até o dia de hoje. ^v29
 
-**30** Então Josué edificou um altar ao Senhor Deus de Israel, no monte Ebal. ^v30
+**30** Então, Josué construiu um altar a Yahweh, o Deus de Israel, no monte Ebal, ^v30
 
-**31** Como Moisés, servo do Senhor, ordenara aos filhos de Israel, conforme ao que está escrito no livro da lei de Moisés, a saber: um altar de pedras inteiras, sobre o qual não se moverá instrumento de ferro; e ofereceram sobre ele holocaustos ao Senhor, e sacrificaram ofertas pacíficas. ^v31
+**31** "conforme Moisés, o servo de Yahweh, ordenara ao povo de Israel, como está escrito no livro da lei de Moisés: ""Um altar de pedras brutas, na qual ninguém tivesse usado uma ferramenta de ferro"". Ele ofereceu holocaustos a Yahweh e eles sacrificaram ofertas pacíficas." ^v31
 
-**32** Também escreveu ali, em pedras, uma cópia da lei de Moisés, que este havia escrito diante dos filhos de Israel. ^v32
+**32** E ali, na presença do povo de Israel, ele escreveu nas pedras uma cópia da lei de Moisés. ^v32
 
-**33** E todo o Israel, com os seus anciãos, e os seus príncipes, e os seus juízes, estavam de um e de outro lado da arca, perante os sacerdotes levitas, que levavam a arca da aliança do Senhor, assim estrangeiros como naturais; metade deles em frente do monte Gerizim, e a outra metade em frente do monte Ebal, como Moisés, servo do Senhor, ordenara, para abençoar primeiramente o povo de Israel. ^v33
+**33** Todo o Israel, com seus anciãos, oficiais e juízes ficaram de um lado e outro da Arca, diante dos sacerdotes e levitas, que levavam a Arca da Aliança de Yahweh; tanto o estrangeiro quanto o natural, metade deles permaneceu em frente do monte Gerizim e a outra metade ficou em frente ao monte Ebal. Eles abençoaram o povo de Israel, assim como Moisés, o servo de Yahweh, havia ordenado. ^v33
 
-**34** E depois leu em alta voz todas as palavras da lei, a bênção e a maldição, conforme a tudo o que está escrito no livro da lei. ^v34
+**34** Depois, Josué leu todas as palavras da lei, as bênçãos e maldições, conforme elas foram escritas no Livro da Lei. ^v34
 
-**35** Palavra nenhuma houve, de tudo o que Moisés ordenara, que Josué não lesse perante toda a congregação de Israel, e as mulheres, e os meninos, e os estrangeiros, que andavam no meio deles. ^v35
+**35** Não houve nenhuma palavra, de tudo aquilo que Moisés havia ordenado, que Josué não lesse na frente da assembleia de Israel, incluindo as mulheres, as crianças pequenas e os estrangeiros que viviam no meio deles. ^v35

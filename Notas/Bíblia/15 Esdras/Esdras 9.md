@@ -1,37 +1,36 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Esdras|Esdras]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Esdras|Esdras]]"
+tags: [biblia]
 ---
 
 # Esdras 9
 
-**1** Acabadas, pois, estas coisas, chegaram-se a mim os príncipes, dizendo: O povo de Israel, os sacerdotes e os levitas, não se têm separado dos povos destas terras, seguindo as abominações dos cananeus, dos heteus, dos perizeus, dos jebuseus, dos amonitas, dos moabitas, dos egípcios, e dos amorreus. ^v1
+**1** "Quando essas coisas terminaram, os oficiais me abordaram e disseram: ""O povo de Israel, os sacerdotes e os levitas não se separaram do povo de outras terras e suas abominações: cananeus, heteus, perizeus, jebuseus, amonitas, moabitas, egípcios e amorreus." ^v1
 
-**2** Porque tomaram das suas filhas para si e para seus filhos, e assim se misturou a linhagem santa com os povos dessas terras; e até os príncipes e magistrados foram os primeiros nesta transgressão. ^v2
+**2** "Pois eles tomaram algumas de suas filhas e misturaram o povo santo com o povo de outras terras, e os oficiais e líderes foram os primeiros nessa infidelidade""." ^v2
 
-**3** E, ouvindo eu tal coisa, rasguei as minhas vestes e o meu manto, e arranquei os cabelos da minha cabeça e da minha barba, e sentei-me atônito. ^v3
+**3** Ao ouvir isso, rasguei minhas vestes e meu manto e arranquei o cabelo de minha cabeça e a barba. Então sentei envergonhado. ^v3
 
-**4** Então se ajuntaram a mim todos os que tremiam das palavras do Deus de Israel por causa da transgressão dos do cativeiro; porém eu permaneci sentado atônito até ao sacrifício da tarde. ^v4
+**4** Todos aqueles que tremiam diante das palavras do Deus de Israel acerca dessa infidelidade se ajuntaram a mim enquanto eu sentava envergonhado até o sacrifício da tarde. ^v4
 
-**5** E perto do sacrifício da tarde me levantei da minha aflição, havendo já rasgado as minhas vestes e o meu manto, e me pus de joelhos, e estendi as minhas mãos para o Senhor meu Deus; ^v5
+**5** Mas, na hora do sacrifício da tarde, levantei-me da minha posição de humilhação em minhas vestes e meu manto rasgados, ajoelhei-me e elevei minhas mãos a Yahweh, meu Deus. ^v5
 
-**6** E disse: Meu Deus! Estou confuso e envergonhado, para levantar a ti a minha face, meu Deus; porque as nossas iniqüidades se multiplicaram sobre a nossa cabeça, e a nossa culpa tem crescido até aos céus. ^v6
+**6** "Eu disse: ""Meu Deus, sinto vergonha e desgraça em levantar meu rosto para Ti, pois nossas iniquidades aumentam sobre nossa cabeça, e nossa culpa cresce até os céus." ^v6
 
-**7** Desde os dias de nossos pais até ao dia de hoje estamos em grande culpa, e por causa das nossas iniqüidades somos entregues, nós e nossos reis e os nossos sacerdotes, na mão dos reis das terras, à espada, ao cativeiro, e ao roubo, e à confusão do rosto, como hoje se vê. ^v7
+**7** Desde os dias dos nossos antepassados ​​até agora, estamos em grande culpa. Em nossas iniquidades, nós, nossos reis e nossos sacerdotes fomos entregues nas mãos dos reis deste mundo, à espada, ao cativeiro, e à pilhagem e aos rostos envergonhados como estamos hoje. ^v7
 
-**8** E agora, por um pequeno momento, se manifestou a graça da parte do Senhor, nosso Deus, para nos deixar alguns que escapem, e para dar-nos uma estaca no seu santo lugar; para nos iluminar os olhos, ó Deus nosso, e para nos dar um pouco de vida na nossa servidão. ^v8
+**8** No entanto, agora, por um curto período de tempo, a misericórdia de Yahweh, nosso Deus, veio para deixar alguns sobreviventes e nos dar uma posição em Seu lugar sagrado. Isso se deu para nosso Deus iluminar nossos olhos e nos dar um pouco de alívio em nossa escravidão. ^v8
 
-**9** Porque somos servos; porém na nossa servidão não nos desamparou o nosso Deus; antes estendeu sobre nós a sua benignidade perante os reis da Pérsia, para que nos desse vida, para levantarmos a casa do nosso Deus, e para restaurarmos as suas assolações; e para que nos desse uma parede de proteção em Judá e em Jerusalém. ^v9
+**9** Porque somos escravos, mas o nosso Deus não Se esqueceu de nós, pois tem estendido Sua aliança de fidelidade para conosco. Ele fez isso à vista do rei da Pérsia, a fim de nos dar novas forças, para que pudéssemos reconstruir o templo de nosso Deus e levantar Suas ruínas. Ele fez isso para poder nos dar um muro de proteção em Judá e em Jerusalém. ^v9
 
-**10** Agora, pois, ó nosso Deus, que diremos depois disto? Pois deixamos os teus mandamentos, ^v10
+**10** Agora, ó nosso Deus, o que podemos dizer depois disso? Nós esquecemos os Teus mandamentos, ^v10
 
-**11** Os quais mandaste pelo ministério de teus servos, os profetas, dizendo: A terra em que entrais para a possuir, terra imunda é pelas imundícias dos povos das terras, pelas suas abominações com que, na sua corrupção a encheram, de uma extremidade à outra. ^v11
+**11** os mandamentos que Tu deste para Teus servos, os profetas, quando Tu disseste: 'Esta terra em que vós estais entrando para possuir é uma terra impura. Ela está contaminada pelo povo que nela habita com suas abominações. De uma extremidade à outra, eles a encheram de suas impurezas. ^v11
 
-**12** Agora, pois, vossas filhas não dareis a seus filhos, e suas filhas não tomareis para vossos filhos, e nunca procurareis a sua paz e o seu bem; para que sejais fortes, e comais o bem da terra, e a deixeis por herança a vossos filhos para sempre. ^v12
+**12** Agora, então, não entregueis vossas filhas aos filhos deles; não tomeis as suas filhas para vossos filhos e não busqueis acrescentar-lhes paz e bem-estar, para que sejais fortes e comais do melhor da terra. Assim, vossos descendentes possuirão a terra para todo o sempre'. ^v12
 
-**13** E depois de tudo o que nos tem sucedido por causa das nossas más obras, e da nossa grande culpa, porquanto tu, ó nosso Deus, impediste que fôssemos destruídos, por causa da nossa iniqüidade, e ainda nos deste um remanescente como este; ^v13
+**13** deveríamos novamente quebrar Teus mandamentos e fazer casamentos mistos com essas pessoas abomináveis? Não ficarias indignado e nos aniquilarias de modo que não restasse nenhum de nós, que nenhum de nós viesse a escapar? ^v13
 
-**14** Tornaremos, pois, agora a violar os teus mandamentos e a aparentar-nos com os povos destas abominações? Não te indignarias tu assim contra nós até de todo nos consumir, até que não ficasse remanescente nem quem escapasse? ^v14
+**14** No entanto, depois de tudo que nos sobreveio em virtude de nossas más obras e nossa grande culpa — já que Tu, nosso Deus, retiveste o que nossas iniquidades merecem e nos permitiste sobreviver — ^v14
 
-**15** Ah! Senhor Deus de Israel, justo és, pois ficamos qual um remanescente que escapou, como hoje se vê; eis que estamos diante de ti, na nossa culpa, porque ninguém há que possa estar na tua presença, por causa disto. ^v15
+**15** "Yahweh, Deus de Israel, Tu és justo, pois permanecemos como poucos sobreviventes neste dia. Olha! Estamos aqui, diante de Ti, em nossa culpa, embora saibamos que não há ninguém que possa estar diante de Ti por causa disso""." ^v15

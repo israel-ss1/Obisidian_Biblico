@@ -1,71 +1,70 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Ezequiel|Ezequiel]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Ezequiel|Ezequiel]]"
+tags: [biblia]
 ---
 
 # Ezequiel 21
 
-**1** E veio a mim a palavra do SENHOR, dizendo: ^v1
+**1** Então, a palavra de Yahweh veio a mim, dizendo: ^v1
 
-**2** Filho do homem, dirige o teu rosto contra Jerusalém, e derrama as tuas palavras sobre os santuários, e profetiza sobre a terra de Israel. ^v2
+**2** """Filho do homem, vira o teu rosto contra Jerusalém e fala contra os santuários; profetiza contra a terra de Israel." ^v2
 
-**3** E dize à terra de Israel: Assim diz o Senhor: Eis que sou contra ti, e tirarei a minha espada da bainha, e exterminarei do meio de ti o justo e o ímpio. ^v3
+**3** Diz à terra de Israel: 'Assim diz Yahweh: Eis que estou contra vós! Tirarei a Minha espada da bainha e eliminarei de ti tanto o homem justo quanto o homem ímpio! ^v3
 
-**4** E, por isso que hei de exterminar do meio de ti o justo e o ímpio, a minha espada sairá da sua bainha contra toda a carne, desde o sul até o norte. ^v4
+**4** Para que Eu elimine de ti tanto o homem justo quanto o homem corrupto, a Minha espada sairá da bainha contra toda a carne desde o sul até ao norte. ^v4
 
-**5** E saberá toda a carne que eu, o Senhor, tirei a minha espada da bainha; nunca mais voltará a ela. ^v5
+**5** Então, toda a carne saberá que Eu, Yahweh, tirei a Minha espada da bainha. Ela não mais recuará!'. ^v5
 
-**6** Tu, porém, ó filho do homem, suspira; suspira aos olhos deles, com quebrantamento dos teus lombos e com amargura. ^v6
+**6** E tu, filho do homem, suspira até que os teus lombos se quebrem! ^v6
 
-**7** E será que, quando eles te disserem: Por que suspiras tu? Dirás: Por causa das novas, porque vêm; e todo o coração desmaiará, e todas as mãos se enfraquecerão, e todo o espírito se angustiará, e todos os joelhos se desfarão em águas; eis que vêm, e se cumprirão, diz o Senhor DEUS. ^v7
+**7** "E, depois, eles te perguntarão: 'Por que razão estás suspirando?'. E tu lhes dirás: 'Por causa da notícia que está vindo, pois todo o coração desmaiará e toda a mão esmorecerá! Todo o espírito desmairá e todo o joelho se desfará em águas. Eis que está vindo e será assim! — declara Yahweh Deus""." ^v7
 
-**8** E veio a mim a palavra do Senhor, dizendo: ^v8
+**8** Depois, a palavra de Yahweh veio a mim, dizendo: ^v8
 
-**9** Filho do homem, profetiza, e dize: Assim diz o Senhor: dize: A espada, a espada está afiada e polida. ^v9
+**9** """Filho do homem, profetiza e diz: 'Assim diz Yahweh: Diz: Uma espada! Uma espada! A espada será afiada e polida!" ^v9
 
-**10** Para grande matança está afiada, para reluzir está polida. Alegrar-nos-emos pois? A vara de meu filho é que despreza todo o madeiro. ^v10
+**10** A espada será afiada para que faça uma grande chacina! Será polida para que seja como relâmpago! Deveríamos nos regozijar no cetro do Meu filho? A espada que vem odeia todo o madeiro como tal! ^v10
 
-**11** E foi dada a polir, para ser manejada; esta espada está afiada, e está polida, para ser posta na mão do matador. ^v11
+**11** Assim, a espada será dada para que seja polida, para depois ser agarrada pela mão! A espada é afiada, é polida e é dada à mão daquele que mata!'. ^v11
 
-**12** Grita e geme, ó filho do homem, porque ela será contra o meu povo, contra todos os príncipes de Israel. Estes, juntamente com o meu povo, estão espantados com a espada; bate, pois, na tua coxa. ^v12
+**12** Pede ajuda e lamenta, filho do homem! Pois aquela espada veio contra o Meu povo! Ela está contra todos os líderes de Israel. Eles são lançados contra a espada juntamente com o povo. Portanto, bate na tua coxa! ^v12
 
-**13** Pois se faz uma prova; e que seria se a espada desprezasse mesmo a vara? Ela não seria mais, diz o Senhor DEUS. ^v13
+**13** Porque há uma prova, mas, e se o cetro não perdurar? — esta é a declaração de Yahweh Deus. ^v13
 
-**14** Tu, pois, ó filho do homem, profetiza e bate com as mãos uma na outra; e dobre-se a espada até a terceira vez, a espada dos mortos; ela é a espada para a grande matança, que os traspassará até o seu interior. ^v14
+**14** Tu, porém, filho do homem, profetiza e bate as tuas mãos juntas, porque a espada atacará mesmo pela terceira vez! Uma espada para os que serão abatidos! É uma espada para que muitos sejam massacrados, atravessando-os por todo o lado! ^v14
 
-**15** Para que desmaie o coração, e se multipliquem as destruições, contra todas as suas portas, pus a ponta da espada, a que foi feita para reluzir, e está preparada para a matança! ^v15
+**15** Para que derretam os seus corações e se multiplique a sua queda, enviei a chacina da espada contra as suas portas! Ai! É feito como relâmpago, libera para o matadouro! ^v15
 
-**16** Ó espada, une-te, vira-te para a direita; prepara-te, vira-te para a esquerda, para onde quer que o teu rosto se dirigir. ^v16
+**16** Tu, espada! Vira-te à direita! Vira-te à esquerda! Vai aonde quer que o teu rosto vire. ^v16
 
-**17** E também eu baterei com as minhas mãos uma na outra, e farei descansar a minha indignação; eu, o Senhor, o disse. ^v17
+**17** "Pois também baterei as Minhas mãos e trarei descanso à Minha fúria! Eu, Yahweh, declaro isto!""." ^v17
 
-**18** E veio a mim a palavra do Senhor, dizendo: ^v18
+**18** A palavra de Yahweh veio a mim, mais uma vez, dizendo: ^v18
 
-**19** Tu, pois, ó filho do homem, propõe dois caminhos, por onde venha a espada do rei de babilônia. Ambos procederão de uma mesma terra, e escolhe um lugar; escolhe-o no cimo do caminho da cidade. ^v19
+**19** """Agora tu, filho do homem, designa duas estradas à espada para o rei da Babilônia, que está a caminho. As duas estradas começarão na mesma terra e um marco indicará a uma delas como a que leva à cidade." ^v19
 
-**20** Um caminho proporás, por onde virá a espada contra Rabá dos filhos de Amom, e contra Judá, em Jerusalém, a fortificada. ^v20
+**20** Marca uma estrada ao exército da Babilônia para que venha a Rabá, a cidade dos amonitas. Marca a outra para que leve ao exército de Judá e à cidade de Jerusalém, que está fortificada. ^v20
 
-**21** Porque o rei de babilônia parará na encruzilhada, no cimo dos dois caminhos, para fazer adivinhações; aguçará as suas flechas, consultará as imagens, atentará para o fígado. ^v21
+**21** Pois o rei da Babilônia parará numa encruzilhada, no cimo dos dois caminhos, para fazer adivinhação. Ele mexerá algumas flechas, consultará alguns ídolos e examinará as entranhas. ^v21
 
-**22** « sua direita estará a adivinhação sobre Jerusalém, para ordenar aos capitàes, para abrirem a boca, ordenando a matança, para levantarem a voz com júbilo, para pôrem os aríetes contra as portas, para levantarem trincheiras, para edificarem baluartes. ^v22
+**22** Na sua mão direita, será como uma adivinhação sobre Jerusalém, para bater com aríetes contra ela, para abrir a sua mão e ordenar a chacina, para soar um grito de guerra e para erguer os aríetes contra as portas, para edificar uma rampa e para erguer torres. ^v22
 
-**23** Isto será como adivinhação vã, aos olhos daqueles que lhes fizeram juramentos; mas ele se lembrará da iniqüidade, para que sejam apanhados. ^v23
+**23** Parecerá uma adivinhação inútil aos olhos dos que estão em Jerusalém, os que juraram em blasfêmia aos da Babilônia! Porém, ele se lembrará da iniquidade, para que sejam apanhados! ^v23
 
-**24** Portanto assim diz o Senhor DEUS: Visto que me fazeis lembrar da vossa iniqüidade, descobrindo-se as vossas transgressões, aparecendo os vossos pecados em todos os vossos atos; visto que viestes em memória, sereis apanhados com a mão. ^v24
+**24** Portanto, assim diz Yahweh Deus: Porque trazeis a vossa iniquidade à Minha memória, as vossas transgressões serão reveladas! Vossos pecados serão vistos em todas as vossas ações! Por esta razão, lembrareis a todos que sereis capturados pela mão do vosso inimigo! ^v24
 
-**25** E tu, ó profano e ímpio príncipe de Israel, cujo dia virá no tempo da extrema iniqüidade, ^v25
+**25** E vós, profanos e ímpios governantes de Israel, cujo dia de castigo chegou e cujo tempo de cometer iniquidade terminou, ^v25
 
-**26** Assim diz o Senhor DEUS: Tira o diadema, e remove a coroa; esta não será a mesma; exalta ao humilde, e humilha ao soberbo. ^v26
+**26** Yahweh Deus vos diz: Removei o turbante e tirai a coroa! As coisas não serão do mesmo jeito! Exaltai os humildes e humilhai os exaltados! ^v26
 
-**27** Ao revés, ao revés, ao revés porei aquela coroa, e ela não mais será, até que venha aquele a quem pertence de direito; a ele a darei. ^v27
+**27** Uma ruína! Uma ruína! Farei uma ruína! Ela não será restaurada até que venha aquele designado para executar o juízo. ^v27
 
-**28** E tu, ó filho do homem, profetiza, e dize: Assim diz o Senhor DEUS acerca dos filhos de Amom, e acerca do seu opróbrio; dize pois: A espada, a espada está desembainhada, polida para a matança, para consumir, por estar reluzente; ^v28
+**28** Assim, tu, filho do homem, profetiza e dize: 'Assim diz Yahweh Deus ao povo de Amom em relação à desgraça que lhes sobrevirá: 'Uma espada, uma espada é desembainhada! É afiada para a chacina para que devore e será como relâmpago! ^v28
 
-**29** Entretanto te profetizam vaidade, te adivinham mentira, para te porem no pescoço dos ímpios, daqueles que estão mortos, cujo dia veio no tempo da iniqüidade final. ^v29
+**29** Enquanto profetas veem visões ocas para vós, enquanto fazem rituais para vos trazerem mentiras, esta espada estará nos pescoços dos ímpios que estão para serem mortos, cujo dia do castigo veio e cujo tempo da iniquidade está para terminar. ^v29
 
-**30** Torne a tua espada à sua bainha. No lugar em que foste criado, na terra do teu nascimento, eu te julgarei. ^v30
+**30** Devolvei a espada à sua bainha. Ao lugar da vossa criação, à terra da vossa origem, Eu vos julgarei! ^v30
 
-**31** E derramarei sobre ti a minha indignação, assoprarei contra ti o fogo do meu furor, entregar-te-ei nas mãos dos homens brutais, inventores de destruição. ^v31
+**31** Derramarei a Minha indignação sobre vós! Lançarei o fogo da Minha ira contra vós e Eu vos entregarei na mão de homens cruéis, gênios da destruição! ^v31
 
-**32** Ao fogo servirás para ser consumido; o teu sangue estará no meio da terra; já não serás mais lembrado, porque eu, o Senhor, o disse. ^v32
+**32** "Vós vos tornareis combustível para o fogo! O vosso sangue estará no meio da terra. Não sereis lembrados, pois Eu, Yahweh, declarei isto!'""." ^v32

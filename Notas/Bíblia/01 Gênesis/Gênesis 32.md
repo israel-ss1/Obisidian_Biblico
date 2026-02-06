@@ -1,71 +1,70 @@
 ---
-Livro: "[[Gênesis|Gênesis]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Gênesis|Gênesis]]"
+tags: [biblia]
 ---
 
 # Gênesis 32
 
-**1** Jacó também seguiu o seu caminho, e encontraram-no os anjos de Deus. ^v1
+**1** Jacó também seguiu em seu caminho, e os anjos de Deus o encontraram. ^v1
 
-**2** E Jacó disse, quando os viu: Este é o exército de Deus. E chamou aquele lugar Maanaim. ^v2
+**2** "Quando Jacó os viu, ele disse: ""Este é o acampamento de Deus,"" então ele chamou o nome daquele lugar Maanaim." ^v2
 
-**3** E enviou Jacó mensageiros adiante de si a Esaú, seu irmão, à terra de Seir, território de Edom. ^v3
+**3** Jacó enviou adiante de si mensageiros a Esaú seu irmão, à terra de Seir, na região de Edom. ^v3
 
-**4** E ordenou-lhes, dizendo: Assim direis a meu senhor Esaú: Assim diz Jacó, teu servo: Como peregrino morei com Labão, e me detive lá até agora; ^v4
+**4** "Deu-lhes instruções dizendo: ""Isto é o que dirás ao meu senhor Esaú: Eis o que fala o teu servo Jacó: 'Eu morei com Labão, e estive com ele até agora." ^v4
 
-**5** E tenho bois e jumentos, ovelhas, e servos e servas; e enviei para o anunciar a meu senhor, para que ache graça em teus olhos. ^v5
+**5** "Tenho bois, jumentos e rebanhos, escravos e escravas. Enviei esta mensagem a meu senhor, para que eu possa alcançar o teu favor.""" ^v5
 
-**6** E os mensageiros voltaram a Jacó, dizendo: Fomos a teu irmão Esaú; e também ele vem para encontrar-te, e quatrocentos homens com ele. ^v6
+**6** "Os mensageiros retornaram e disseram a Jacó: ""Nós fomos ao teu irmão Esaú. Ele está a caminho para encontrar-te; quatrocentos homens estão com ele.""" ^v6
 
-**7** Então Jacó temeu muito e angustiou-se; e repartiu o povo que com ele estava, e as ovelhas, e as vacas, e os camelos, em dois bandos. ^v7
+**7** Jacó temeu e angustiou-se; dividiu em dois grupos o povo que estava com ele; e também os rebanhos, e as manadas, e os camelos. ^v7
 
-**8** Porque dizia: Se Esaú vier a um bando e o ferir, o outro bando escapará. ^v8
+**8** "Ele disse: ""Se Esaú atacar um grupo e o destroçar, então o outro grupo escapará.""" ^v8
 
-**9** Disse mais Jacó: Deus de meu pai Abraão, e Deus de meu pai Isaque, o Senhor, que me disseste: Torna-te à tua terra, e a tua parentela, e far-te-ei bem; ^v9
+**9** "Jacó disse: ""Deus de meu pai Abraão, e Deus de meu pai Isaque, Yahweh, que me disse: 'Retorna à tua terra natal e à tua parentela, e Eu te prosperarei,'" ^v9
 
-**10** Menor sou eu que todas as beneficências, e que toda a fidelidade que fizeste ao teu servo; porque com meu cajado passei este Jordão, e agora me tornei em dois bandos. ^v10
+**10** sou indigno de toda a Tua fidelidade e de toda a Tua misericórdia para com o Teu servo. Eu atravessei o Jordão apenas com o meu cajado, e agora volto com dois grupos. ^v10
 
-**11** Livra-me, peço-te, da mão de meu irmão, da mão de Esaú; porque eu o temo; porventura não venha, e me fira, e a mãe com os filhos. ^v11
+**11** Por favor, livra-me da mão do meu irmão Esaú, pois eu temo que ele mate a mim e as mães com os filhos. ^v11
 
-**12** E tu o disseste: Certamente te farei bem, e farei a tua descendência como a areia do mar, que pela multidão não se pode contar. ^v12
+**12** "Pois Tu disseste: 'Eu certamente te farei prosperar. Farei que a tua descendência seja numerosa como a areia do mar, a qual não se pode contar.'""" ^v12
 
-**13** E passou ali aquela noite; e tomou do que lhe veio à sua mão, um presente para seu irmão Esaú: ^v13
+**13** Jacó permaneceu alí aquela noite. E do que tinha ele separou algo para presentear Esaú, seu irmão: ^v13
 
-**14** Duzentas cabras e vinte bodes; duzentas ovelhas e vinte carneiros; ^v14
+**14** duzentas cabras e vinte bodes, duzentas ovelhas e vinte carneiros, ^v14
 
-**15** Trinta camelas de leite com suas crias, quarenta vacas e dez novilhos; vinte jumentas e dez jumentinhos; ^v15
+**15** trinta camelas de leite com suas crias, quarenta vacas e dez touros, vinte jumentas e dez jumentos. ^v15
 
-**16** E deu-os na mão dos seus servos, cada rebanho à parte, e disse a seus servos: Passai adiante de mim e ponde espaço entre rebanho e rebanho. ^v16
+**16** "Ele os entregou a seus servos, cada manada em separado. E disse a seus servos: ""Ide adiante de mim e deixai um espaço entre uma manada e outra.""" ^v16
 
-**17** E ordenou ao primeiro, dizendo: Quando Esaú, meu irmão, te encontrar, e te perguntar, dizendo: De quem és, e para onde vais, e de quem são estes diante de ti? ^v17
+**17** "Ele instruiu o primeiro servo, dizendo: ""Quando Esaú meu irmão te encontrar e te perguntar, dizendo: 'A quem pertences? Para onde vais? E de quem são estes animais diante ti?'" ^v17
 
-**18** Então dirás: São de teu servo Jacó, presente que envia a meu senhor, a Esaú; e eis que ele mesmo vem também atrás de nós. ^v18
+**18** "Então dirás: 'são do teu servo Jacó. É um presente enviado para meu senhor Esaú. E eis que ele mesmo chegará atrás de nós'""." ^v18
 
-**19** E ordenou também ao segundo, e ao terceiro, e a todos os que vinham atrás dos rebanhos, dizendo: Conforme a esta mesma palavra falareis a Esaú, quando o achardes. ^v19
+**19** "E Jacó instruiu também ao segundo grupo, ao terceiro, e a todos os homens que seguiam as manadas. Ele disse: ""Direis a mesma coisa a Esaú quando o encontrardes." ^v19
 
-**20** E direis também: Eis que o teu servo Jacó vem atrás de nós. Porque dizia: Eu o aplacarei com o presente, que vai adiante de mim, e depois verei a sua face; porventura ele me aceitará. ^v20
+**20** "Direis também: 'Teu servo Jacó está vindo atrás de nós.'"" Pois ele pensou: ""Eu o apaziguarei com o presente que me antecede. Depois, quando eu o encontrar, talvez me receba bem.""" ^v20
 
-**21** Assim, passou o presente adiante dele; ele, porém, passou aquela noite no arraial. ^v21
+**21** Então o presente foi adiante dele. Ele mesmo permaneceu aquela noite no acampamento. ^v21
 
-**22** E levantou-se aquela mesma noite, e tomou as suas duas mulheres, e as suas duas servas, e os seus onze filhos, e passou o vau de Jaboque. ^v22
+**22** Jacó se levantou durante a noite, e tomou suas duas mulheres, suas duas servas, e seus onze filhos. Ele os enviou a atravessar um ponto raso do Jaboque. ^v22
 
-**23** E tomou-os e fê-los passar o ribeiro; e fez passar tudo o que tinha. ^v23
+**23** Desta maneira ele os fez atravessar o ribeiro com todas as suas posses. ^v23
 
-**24** Jacó, porém, ficou só; e lutou com ele um homem, até que a alva subiu. ^v24
+**24** Jacó foi deixado sozinho, e um homem lutou com ele até o romper do dia. ^v24
 
-**25** E vendo este que não prevalecia contra ele, tocou a juntura de sua coxa, e se deslocou a juntura da coxa de Jacó, lutando com ele. ^v25
+**25** Quando o homem viu que não poderia derrotá-lo, tocou a juntura da coxa de Jacó, o qual teve o quadril deslocado, quando lutou com ele. ^v25
 
-**26** E disse: Deixa-me ir, porque já a alva subiu. Porém ele disse: Não te deixarei ir, se não me abençoares. ^v26
+**26** "O homem disse: ""Deixa-me ir, pois já subiu o alvorecer."" Jacó disse: ""Eu não te deixarei ir sem que me abençoes.""" ^v26
 
-**27** E disse-lhe: Qual é o teu nome? E ele disse: Jacó. ^v27
+**27** "O homem disse a ele: ""Qual é o teu nome?"" Ele respondeu, ""Jacó""." ^v27
 
-**28** Então disse: Não te chamarás mais Jacó, mas Israel; pois como príncipe lutaste com Deus e com os homens, e prevaleceste. ^v28
+**28** "O homem disse: ""Teu nome não será mais Jacó, e sim, Israel. Pois lutaste com Deus e com homens e prevaleceste.""" ^v28
 
-**29** E Jacó lhe perguntou, e disse: Dá-me, peço-te, a saber o teu nome. E disse: Por que perguntas pelo meu nome? E abençoou-o ali. ^v29
+**29** "E Jacó perguntou: ""Por favor diga-me o teu nome."" Ele disse: ""Porque perguntas o meu nome?"" E o abençoou ali." ^v29
 
-**30** E chamou Jacó o nome daquele lugar Peniel, porque dizia: Tenho visto a Deus face a face, e a minha alma foi salva. ^v30
+**30** "Chamou Jacó aquele lugar de Peniel pois disse: ""Eu vi Deus face a face, e minha vida foi preservada.""" ^v30
 
-**31** E saiu-lhe o sol, quando passou a Peniel; e manquejava da sua coxa. ^v31
+**31** Nasceu o sol sobre Jacó, quando ele passou Peniel. Ele estava mancando por causa de seu quadril. ^v31
 
-**32** Por isso os filhos de Israel não comem o nervo encolhido, que está sobre a juntura da coxa, até o dia de hoje; porquanto tocara a juntura da coxa de Jacó no nervo encolhido. ^v32
+**32** Por isso, até hoje, os filhos de Israel não comem os ligamentos da coxa que estão na articulação do quadril, porque o homem feriu aqueles ligamentos quando deslocou o quadril de Jacó. ^v32

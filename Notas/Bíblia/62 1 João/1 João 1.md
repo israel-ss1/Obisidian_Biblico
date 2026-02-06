@@ -1,27 +1,26 @@
 ---
-Livro: "[[1 João|1 João]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/1 João|1 João]]"
+tags: [biblia]
 ---
 
 # 1 João 1
 
-**1** O que era desde o princípio, o que ouvimos, o que vimos com os nossos olhos, o que temos contemplado, e as nossas mãos tocaram da Palavra da vida ^v1
+**1** O que era desde o princípio, o que nós ouvimos, o que vimos com nossos olhos, o que contemplamos e o que nossas mãos apalparam, trata-se da Palavra da vida. ^v1
 
-**2** (Porque a vida foi manifestada, e nós a vimos, e testificamos dela, e vos anunciamos a vida eterna, que estava com o Pai, e nos foi manifestada); ^v2
+**2** Pois a vida foi manifestada, e nós a vimos, e dela testemunhamos. Declaramos a vós a vida eterna, que estava com o Pai e foi manifestada a nós. ^v2
 
-**3** O que vimos e ouvimos, isso vos anunciamos, para que também tenhais comunhão conosco; e a nossa comunhão é com o Pai, e com seu Filho Jesus Cristo. ^v3
+**3** O que temos visto e ouvido declaramos também a vós, para que também tenhais comunhão conosco, e a nossa comunhão é com Deus e com Seu Filho, Jesus Cristo. ^v3
 
-**4** Estas coisas vos escrevemos, para que o vosso gozo se cumpra. ^v4
+**4** E estas coisas que vos escrevemos são para que a nossa alegria seja completa. ^v4
 
-**5** E esta é a mensagem que dele ouvimos, e vos anunciamos: que Deus é luz, e não há nele trevas nenhumas. ^v5
+**5** Esta é a Mensagem que ouvimos Dele e anunciamos a vós: Deus é luz, e Nele não há trevas nenhumas. ^v5
 
-**6** Se dissermos que temos comunhão com ele, e andarmos em trevas, mentimos, e não praticamos a verdade. ^v6
+**6** Se dizemos que temos comunhão com Ele e andamos nas trevas, nós mentimos e não praticamos a verdade. ^v6
 
-**7** Mas, se andarmos na luz, como ele na luz está, temos comunhão uns com os outros, e o sangue de Jesus Cristo, seu Filho, nos purifica de todo o pecado. ^v7
+**7** Mas se andamos na luz como Ele está na luz, temos comunhão uns com os outros e o sangue de Jesus, Seu Filho, nos limpa de todo pecado. ^v7
 
-**8** Se dissermos que não temos pecado, enganamo-nos a nós mesmos, e não há verdade em nós. ^v8
+**8** Se dizemos que não temos pecado, enganamos a nós mesmos e a verdade não está em nós. ^v8
 
-**9** Se confessarmos os nossos pecados, ele é fiel e justo para nos perdoar os pecados, e nos purificar de toda a injustiça. ^v9
+**9** Mas, se confessarmos nossos pecados, Ele é Fiel e Justo para perdoar nossos pecados e nos purificar de toda injustiça. ^v9
 
-**10** Se dissermos que não pecamos, fazemo-lo mentiroso, e a sua palavra não está em nós. ^v10
+**10** Se dissermos que não temos cometido pecado, nós O fazemos mentiroso e a Sua palavra não está em nós. ^v10

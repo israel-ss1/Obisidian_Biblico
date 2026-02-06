@@ -1,57 +1,56 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Isaías|Isaías]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Isaías|Isaías]]"
+tags: [biblia]
 ---
 
 # Isaías 22
 
-**1** Peso do vale da visão. Que tens agora, pois que com todos os teus subiste aos telhados? ^v1
+**1** Declaração acerca do vale da Visão: Por qual razão agora todos os teus foram aos telhados? ^v1
 
-**2** Tu, cheia de clamores, cidade turbulenta, cidade alegre, os teus mortos não foram mortos à espada, nem morreram na guerra. ^v2
+**2** É para que ouças uma cidade barulhenta, uma cidade cheia de folia? Teus cadáveres não foram mortos pela espada, nem morreram em batalha. ^v2
 
-**3** Todos os teus governadores juntamente fugiram, foram atados pelos arqueiros; todos os que em ti se acharam, foram amarrados juntamente, e fugiram para longe. ^v3
+**3** Todos os teus governantes fugiram juntos, mas foram capturados sem o uso de um arco; todos eles foram capturados juntos, ainda que tenham fugido para longe. ^v3
 
-**4** Portanto digo: Desviai de mim a vista, e chorarei amargamente; não vos canseis mais em consolar-me pela destruição da filha do meu povo. ^v4
+**4** "Por isso, eu disse: ""Não olheis para mim, eu chorarei amargamente; não tenteis me consolar acerca da destruição da filha do meu povo""." ^v4
 
-**5** Porque dia de alvoroço, e de atropelamento, e de confusão é este da parte do Senhor DEUS dos Exércitos, no vale da visão; dia de derrubar o muro e de clamar até aos montes. ^v5
+**5** Pois há um dia de tumulto, de atropelo e de confusão, vindo do Senhor Yahweh dos Exércitos, no vale da Visão; um dia de derrubada de muros e de pessoas gritando para as montanhas. ^v5
 
-**6** Porque Elão tomou a aljava, juntamente com carros de homens e cavaleiros; e Quir descobriu os escudos. ^v6
+**6** Elão pega a aljava, com carruagens de homens e cavaleiros, e Quir expõe o escudo. ^v6
 
-**7** E os teus mais formosos vales se encherão de carros, e os cavaleiros se colocarão em ordem às portas. ^v7
+**7** E teus vales férteis estarão cheios de carruagens, e os cavaleiros se posicionarão junto ao portão. ^v7
 
-**8** E ele tirou a coberta de Judá, e naquele dia olhaste para as armas da casa do bosque. ^v8
+**8** Ele tirou a proteção de Judá e, naquele dia, tu olhaste para as armas do palácio da floresta. ^v8
 
-**9** E vistes as brechas da cidade de Davi, porquanto já eram muitas, e ajuntastes as águas do tanque de baixo. ^v9
+**9** Viste as brechas da cidade de Davi, que eram muitas, e coletaste a água do açude inferior. ^v9
 
-**10** Também contastes as casas de Jerusalém, e derrubastes as casas, para fortalecer os muros. ^v10
+**10** Vós contastes as casas de Jerusalém e as demolistes para fortificar os muros. ^v10
 
-**11** Fizestes também um reservatório entre os dois muros para as águas do tanque velho, porém não olhastes acima, para aquele que isto tinha feito, nem considerastes o que o formou desde a antiguidade. ^v11
+**11** Vós fizestes um reservatório entre os dois muros para a água do açude antigo, mas não considerastes o construtor da cidade, que havia planejado isso há muito tempo. ^v11
 
-**12** E o Senhor DEUS dos Exércitos, chamou naquele dia para chorar e para prantear, e para raspar a cabeça, e cingir com o cilício. ^v12
+**12** O Senhor Yahweh dos Exércitos vos chamou naquele dia para chorar, para lamentar, para raspar as cabeças e para vestir panos de saco. ^v12
 
-**13** Porém eis aqui gozo e alegria, matam-se bois e degolam-se ovelhas, come-se carne, e bebe-se vinho, e diz-se: Comamos e bebamos, porque amanhã morreremos. ^v13
+**13** Mas, vede, em vez disso, há celebração e alegria, matança de gado e de ovelhas; carne para comer e vinho para beber; comamos e bebamos, pois amanhã morreremos. ^v13
 
-**14** Mas o SENHOR dos Exércitos revelou-se aos meus ouvidos, dizendo: Certamente esta maldade não vos será expiada até que morrais, diz o Senhor DEUS dos Exércitos. ^v14
+**14** "Isto foi revelado aos meus ouvidos por Yahweh dos Exércitos: ""Certamente, esta iniquidade não será perdoada, mesmo quando vós morrerdes"", diz o Senhor Yahweh dos Exércitos." ^v14
 
-**15** Assim diz o Senhor DEUS dos Exércitos: Anda e vai ter com este tesoureiro, com Sebna, o mordomo, e dize-lhe: ^v15
+**15** "O Senhor Yahweh dos Exércitos diz isto: ""Vai para este administrador, para Sebna, o qual está sobre a casa, e diz:" ^v15
 
-**16** Que é que tens aqui, ou a quem tens tu aqui, para que cavasses aqui uma sepultura? Cavando em lugar alto a sua sepultura, e cinzelando na rocha uma morada para ti mesmo? ^v16
+**16** "'O que estás fazendo aqui, e quem te deu permissão para talhar uma sepultura no lugar alto, escavando na rocha um lugar de descanso para ti mesmo?'""." ^v16
 
-**17** Eis que o Senhor te arrojará violentamente como um homem forte, e de todo te envolverá. ^v17
+**17** Vê, homem forte: Yahweh está prestes a te arremessar, prestes a te lançar abaixo; Ele te pegará firmemente. ^v17
 
-**18** Certamente com violência te fará rolar, como se faz rolar uma bola num país espaçoso; ali morrerás, e ali acabarão os carros da tua glória, ó opróbrio da casa do teu senhor. ^v18
+**18** Certamente, Ele te rodará em voltas e voltas e te lançará como uma bola em um vasto país. Lá, tu morrerás, e lá estarão as tuas gloriosas carruagens; tu serás a vergonha da casa do teu senhor! ^v18
 
-**19** E demitir-te-ei do teu posto, e te arrancarei do teu assento. ^v19
+**19** """Eu te removerei do teu ofício e do teu posto. Tu serás derrubado." ^v19
 
-**20** E será naquele dia que chamarei a meu servo Eliaquim, filho de Hilquias; ^v20
+**20** Eu chamarei Meu servo Eliaquim, filho de Hilquias. ^v20
 
-**21** E vesti-lo-ei da tua túnica, e cingi-lo-ei com o teu cinto, e entregarei nas suas mãos o teu domínio, e será como pai para os moradores de Jerusalém, e para a casa de Judá. ^v21
+**21** Eu o vestirei com a tua túnica e colocarei nele a tua faixa; e transferirei a tua autoridade para a mão dele. Ele será um pai para os habitantes de Jerusalém e para a casa de Judá. ^v21
 
-**22** E porei a chave da casa de Davi sobre o seu ombro, e abrirá, e ninguém fechará; e fechará, e ninguém abrirá. ^v22
+**22** Eu colocarei a chave da casa de Davi sobre o ombro dele; ele abrirá e ninguém fechará; ele fechará e ninguém abrirá. ^v22
 
-**23** E fixá-lo-ei como a um prego num lugar firme, e será como um trono de honra para a casa de seu pai. ^v23
+**23** Eu o fixarei como um prego em um lugar seguro, e ele se tornará um trono de glória para a casa de seu pai. ^v23
 
-**24** E nele pendurarão toda a honra da casa de seu pai, a prole e os descendentes, como também todos os vasos menores, desde as taças até os frascos. ^v24
+**24** Colocarão sobre ele toda a glória da casa de seu pai, a prole e os descendentes, todo pequeno recipiente, desde os copos até todos os jarros. ^v24
 
-**25** Naquele dia, diz o Senhor dos Exércitos, o prego fincado em lugar firme será tirado; e será cortado, e cairá, e a carga que nele estava se desprenderá, porque o Senhor o disse. ^v25
+**25** Naquele dia — isto é uma declaração de Yahweh dos Exércitos — o prego firmado em um lugar fixo será quebrado e cairá, e o peso que estava nele se soltará — pois Yahweh falou. ^v25

@@ -1,31 +1,28 @@
 ---
-Livro: "[[Salmos|Salmos]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Salmos|Salmos]]"
+tags: [biblia]
 ---
 
 # Salmos 76
 
-**1** Conhecido é Deus em Judá; grande é o seu nome em Israel. ^v1
+**2** Sua tenda fica em Salém; Sua morada está em Sião. ^v2
 
-**2** E em Salém está o seu tabernáculo, e a sua morada em Sião. ^v2
+**3** Ali, Ele quebrou as flechas dos arcos, o escudo, a espada e as outras armas de guerra. [Interlúdio] ^v3
 
-**3** Ali quebrou as flechas do arco; o escudo, e a espada, e a guerra. (Selá.) ^v3
+**4** Tu és mais glorioso e excelente que as montanhas de despojos. ^v4
 
-**4** Tu és mais ilustre e glorioso do que os montes de caça. ^v4
+**5** Aqueles que têm o coração valente foram saqueados; eles caíram no sono. Todos os guerreiros foram inúteis. ^v5
 
-**5** Os que são ousados de coração são despojados; dormiram o seu sono; e nenhum dos homens de força achou as próprias mãos. ^v5
+**6** Diante da Tua repreensão, ó Deus de Jacó, cavaleiros e cavalos adormecem. ^v6
 
-**6** À tua repreensão, ó Deus de Jacó, carros e cavalos são lançados num sono profundo. ^v6
+**7** Somente Tu és temido. Quem pode ficar ao Teu lado quando estás irado? ^v7
 
-**7** Tu, tu és temível; e quem subsistirá à tua vista, uma vez que te irares? ^v7
+**8** Dos céus, fizeste Teu julgamento ser ouvido; a terra ficou temerosa e em silêncio ^v8
 
-**8** Desde os céus fizeste ouvir o teu juízo; a terra tremeu e se aquietou, ^v8
+**9** quando Tu, ó Deus, Te levantaste para executar julgamento e para salvar todos os oprimidos da terra. [Interlúdio] ^v9
 
-**9** Quando Deus se levantou para fazer juízo, para livrar a todos os mansos da terra. (Selá.) ^v9
+**10** Certamente, a Tua ira contra os homens será para o Teu louvor, e, com o restante da ira, Te cingirás. ^v10
 
-**10** Certamente a cólera do homem redundará em teu louvor; o restante da cólera tu o restringirás. ^v10
+**11** Fazei votos a Yahweh, vosso Deus, e os cumpri. Que todos os que estão ao Seu redor tragam presentes, pois Ele deve ser temido. ^v11
 
-**11** Fazei votos, e pagai ao Senhor vosso Deus; tragam presentes, os que estão em redor dele, àquele que é temível. ^v11
-
-**12** Ele ceifará o espírito dos príncipes; é tremendo para com os reis da terra. ^v12
+**12** Ele retira o espírito dos príncipes; Ele é temido pelos reis da terra! ^v12

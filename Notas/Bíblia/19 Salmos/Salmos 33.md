@@ -1,51 +1,50 @@
 ---
-Livro: "[[Salmos|Salmos]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Salmos|Salmos]]"
+tags: [biblia]
 ---
 
 # Salmos 33
 
-**1** Regozijai-vos no SENHOR, vós justos, pois aos retos convém o louvor. ^v1
+**1** Regozijai-vos em Yahweh, ó justos! É apropriado aos corretos que O louvem. ^v1
 
-**2** Louvai ao Senhor com harpa, cantai a ele com o saltério e um instrumento de dez cordas. ^v2
+**2** Louvai a Yahweh com a harpa; entoai louvores a Ele com a harpa de dez cordas. ^v2
 
-**3** Cantai-lhe um cântico novo; tocai bem e com júbilo. ^v3
+**3** Cantai a Ele novas canções; tocai habilidosamente e cantai com júbilo. ^v3
 
-**4** Porque a palavra do Senhor é reta, e todas as suas obras são fiéis. ^v4
+**4** Pois a palavra de Yahweh é reta, e tudo o que Ele faz é justo. ^v4
 
-**5** Ele ama a justiça e o juízo; a terra está cheia da bondade do Senhor. ^v5
+**5** Ele ama a retidão e a justiça. A terra está cheia da fidelidade de Yahweh à aliança. ^v5
 
-**6** Pela palavra do Senhor foram feitos os céus, e todo o exército deles pelo espírito da sua boca. ^v6
+**6** Pela palavra de Yahweh, os céus foram criados e todas as estrelas foram feitas pelo sopro de Sua boca. ^v6
 
-**7** Ele ajunta as águas do mar como num montão; põe os abismos em depósitos. ^v7
+**7** Ele ajunta as águas do mar como um amontoado; Ele coloca os oceanos em depósitos. ^v7
 
-**8** Tema toda a terra ao Senhor; temam-no todos os moradores do mundo. ^v8
+**8** Que toda a terra tema a Yahweh; que todos os habitantes do mundo O reverenciem. ^v8
 
-**9** Porque falou, e foi feito; mandou, e logo apareceu. ^v9
+**9** Pois Ele falou e tudo foi feito; Ele ordenou e tudo tomou o seu lugar. ^v9
 
-**10** O Senhor desfaz o conselho dos gentios, quebranta os intentos dos povos. ^v10
+**10** Yahweh frustra as alianças das nações; Ele anula os planos dos povos. ^v10
 
-**11** O conselho do Senhor permanece para sempre; os intentos do seu coração de geração em geração. ^v11
+**11** O propósito de Yahweh permanece para sempre, os planos de Seu coração, para todas as gerações. ^v11
 
-**12** Bem-aventurada é a nação cujo Deus é o Senhor, e o povo ao qual escolheu para sua herança. ^v12
+**12** Abençoada é a nação cujo Deus é Yahweh, o povo a quem Ele escolheu como Sua própria herança. ^v12
 
-**13** O Senhor olha desde os céus e está vendo a todos os filhos dos homens. ^v13
+**13** Yahweh olha dos céus e vê todas as pessoas. ^v13
 
-**14** Do lugar da sua habitação contempla todos os moradores da terra. ^v14
+**14** Do lugar em que mora, Ele observa os que vivem na terra. ^v14
 
-**15** Ele é que forma o coração de todos eles, que contempla todas as suas obras. ^v15
+**15** Ele, que molda o coração de todos eles, observa todos os seus feitos. ^v15
 
-**16** Não há rei que se salve com a grandeza dum exército, nem o homem valente se livra pela muita força. ^v16
+**16** Nenhum rei está a salvo pelo seu vasto exército; um guerreiro não é salvo por sua grande força. ^v16
 
-**17** O cavalo é falaz para a segurança; não livra ninguém com a sua grande força. ^v17
+**17** O cavalo é falsa segurança de vitória; apesar de sua grande força, ele não pode resgatá-lo. ^v17
 
-**18** Eis que os olhos do Senhor estão sobre os que o temem, sobre os que esperam na sua misericórdia; ^v18
+**18** Vede! Os olhos de Yahweh estão sobre aqueles que O temem, sobre aqueles que esperam em Seu amor leal, ^v18
 
-**19** Para lhes livrar as almas da morte, e para os conservar vivos na fome. ^v19
+**19** para livrar suas vidas da morte e mantê-los vivos em tempos de fome. ^v19
 
-**20** A nossa alma espera no Senhor; ele é o nosso auxílio e o nosso escudo. ^v20
+**20** Nós esperamos por Yahweh; Ele é nossa ajuda e nosso escudo. ^v20
 
-**21** Pois nele se alegra o nosso coração; porquanto temos confiado no seu santo nome. ^v21
+**21** Nossos corações se regozijam Nele, pois confiamos em Seu santo nome. ^v21
 
-**22** Seja a tua misericórdia, Senhor, sobre nós, como em ti esperamos. ^v22
+**22** Que Teu amor leal, Yahweh, esteja conosco, assim como colocamos nossa esperança em Ti. ^v22

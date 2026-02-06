@@ -1,61 +1,60 @@
 ---
-Livro: "[[2 Crônicas|2 Crônicas]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/2 Crônicas|2 Crônicas]]"
+tags: [biblia]
 ---
 
 # 2 Crônicas 28
 
-**1** Tinha Acaz vinte anos de idade, quando começou a reinar, e dezesseis anos reinou em Jerusalém; e não fez o que era reto aos olhos do SENHOR, como Davi, seu pai. ^v1
+**1** Acaz tinha vinte anos de idade quando começou a reinar, e reinou por dezesseis anos em Jerusalém. Ele não fez o que era reto aos olhos de Yahweh, assim como Davi, seu pai, havia feito; ^v1
 
-**2** Antes andou nos caminhos dos reis de Israel, e, além disso, fez imagens fundidas a Baalins. ^v2
+**2** em vez disso, ele andou nos caminhos dos reis de Israel, e até fez imagens de fundição para os baalins. ^v2
 
-**3** Também queimou incenso no vale do filho de Hinom, e queimou a seus filhos no fogo, conforme as abominações dos gentios que o Senhor tinha expulsado de diante dos filhos de Israel. ^v3
+**3** Além disso, ele queimou incenso no vale do filho de Hinom, e sacrificou seus filhos no fogo, de acordo com as práticas idólatras do povo que Yahweh expulsara de suas terras, diante do povo de Israel. ^v3
 
-**4** Também sacrificou, e queimou incenso nos altos e nos outeiros, como também debaixo de toda a árvore verde. ^v4
+**4** Ele sacrificou e queimou incenso nos lugares altos, nas colinas e debaixo de toda árvore verde; ^v4
 
-**5** Por isso o Senhor seu Deus o entregou na mão do rei dos sírios, os quais o feriram, e levaram dele em cativeiro uma grande multidão de presos, que trouxeram a Damasco; também foi entregue na mão do rei de Israel, o qual lhe infligiu grande derrota. ^v5
+**5** pelo que Yahweh, o Deus de Acaz, o entregou nas mãos do rei da Síria. Os sírios o derrotaram e levaram um grande número de prisioneiros cativos para Damasco. Acaz também foi entregue nas mãos do rei de Israel, que o derrotou em um grande massacre. ^v5
 
-**6** Porque Peca, filho de Remalias, matou em Judá, num só dia, cento e vinte mil, todos homens valentes; porquanto deixaram ao Senhor Deus de seus pais. ^v6
+**6** Pois Peca, filho de Remalias, matou em Judá cento e vinte mil soldados em um dia, todos eles homens corajosos, porque tinham abandonado Yahweh, o Deus de seus antepassados. ^v6
 
-**7** E Zicri, homem valente de Efraim, matou a Maasias, filho do rei, e a Azricão, o mordomo, e a Elcana, o segundo depois do rei. ^v7
+**7** Zicri, um homem poderoso de Efraim, matou Maaseias, filho do rei, e Azricão, o oficial do palácio, e Elcana, o segundo depois do rei. ^v7
 
-**8** E os filhos de Israel levaram presos de seus irmãos duzentos mil, mulheres, filhos e filhas; e também saquearam deles grande despojo, que levaram para Samaria. ^v8
+**8** O exército de Israel levou cativos de seus parentes duzentas mil esposas, filhos e filhas. Eles também levaram muitos despojos, que carregaram até Samaria. ^v8
 
-**9** Mas estava ali um profeta do Senhor, cujo nome era Obede, o qual saiu ao encontro do exército que vinha para Samaria, e lhe disse: Eis que, irando-se o Senhor Deus de vossos pais contra Judá, os entregou na vossa mão, e vós os matastes com uma raiva tal, que chegou até aos céus. ^v9
+**9** "Mas havia um profeta de Yahweh, seu nome era Odede; ele foi encontrar-se com o exército que entrava em Samaria, e disse-lhes: ""Porque Yahweh, o Deus de vossos antepassados, estava irado com Judá, Ele os entregou em vossas mãos; mas vós os matastes com uma fúria que alcançou os céus." ^v9
 
-**10** E agora vós cuidais em sujeitar a vós os filhos de Judá e Jerusalém, como cativos e cativas; porventura não sois vós mesmos culpados contra o Senhor vosso Deus? ^v10
+**10** E agora, pretendeis manter os homens e as mulheres de Judá e Jerusálem como vossos escravos. Mas não sois culpado de vossos próprios pecados contra Yahweh, vosso Deus? ^v10
 
-**11** Agora, pois, ouvi-me, e tornai a enviar os prisioneiros que trouxestes cativos de vossos irmãos; porque o ardor da ira do Senhor está sobre vós. ^v11
+**11** "Agora, então, ouvi-me: mandai os prisioneiros de volta, aqueles que tens tomado de vosso próprio irmão, pois o ardor da ira de Yahweh está sobre vós.""" ^v11
 
-**12** Então se levantaram alguns homens dentre os cabeças dos filhos de Efraim, a saber, Azarias, filho de Joanã, Berequias, filho de Mesilemote, Jeizquias, filho de Salum, e Amasa, filho de Hadlai, contra os que voltavam da batalha. ^v12
+**12** Então, certos líderes do povo de Efraim — Azarias, filho de Joanã, Berequias, filho de Mesilemote, Jeizquias, filho de Salum, e Amasa, filho de Hadlai — se levantaram contra os que voltavam da guerra, ^v12
 
-**13** E lhes disseram: Não fareis entrar aqui estes cativos, porque, além da nossa culpa contra o Senhor, vós intentais acrescentar mais a nossos pecados e a nossas culpas, sendo que já temos grande culpa, e já o ardor da ira está sobre Israel. ^v13
+**13** "e lhes disseram: ""Não trareis os prisioneiros aqui, pois além das nossas transgressões, o que quereis fazer acrescentaria ainda mais aos nossos pecados e às nossas culpas; pois nossa transgressão é grande, e temos o ardor da ira contra Israel.""" ^v13
 
-**14** Então os homens armados deixaram os cativos e o despojo diante dos príncipes e de toda a congregação. ^v14
+**14** Então, os homens armados deixaram os prisioneiros e o despojo diante dos líderes e de toda a congregação. ^v14
 
-**15** E os homens que foram apontados por seus nomes se levantaram, e tomaram os cativos, e vestiram do despojo a todos os que dentre eles estavam nus; e vestiram-nos, e calçaram-nos, e deram-lhes de comer e de beber, e os ungiram, e a todos os que estavam fracos levaram sobre jumentos, e conduziram-nos a Jericó, à cidade das palmeiras, a seus irmãos. Depois voltaram para Samaria. ^v15
+**15** Os homens que foram designados por nome levantaram-se, levaram os prisioneiros e vestiram todos que estavam nus entre eles com o despojo. Vestiram-nos e lhes deram sandálias, além de comida e água para beber. Trataram suas feridas, colocaram os fracos sobre os jumentos e os levaram de volta para suas famílias em Jericó, chamada a cidade das Palmeiras. Então, voltaram para Samaria. ^v15
 
-**16** Naquele tempo o rei Acaz mandou pedir aos reis da Assíria que o ajudassem. ^v16
+**16** Naquele tempo, o rei Acaz mandou mensageiros aos reis da Assíria, pedindo ajuda, ^v16
 
-**17** Porque outra vez os edomitas vieram, e feriram a Judá, e levaram presos em cativeiro. ^v17
+**17** pois novamente os edomitas atacaram Judá e levaram prisioneiros. ^v17
 
-**18** Também os filisteus deram sobre as cidades da campina e do sul de Judá, e tomaram a Bete-Semes, e a Aijalom, e a Gederote e a Socó, e os lugares da sua jurisdição, e a Timna, e os lugares da sua jurisdição, e a Ginzo, e os lugares da sua jurisdição; e habitaram ali. ^v18
+**18** Os filisteus também invadiram as cidades da planície e do sul de Judá. Eles tomaram Bete-Semes, Aijalom, Gederote, Socó e seus vilarejos, Timna e seus vilarejos, também Ginzo e seus vilarejos, estabelecendo-se ali. ^v18
 
-**19** Porque o Senhor humilhou a Judá por causa de Acaz, rei de Israel; porque este se houve desenfreadamente em Judá, havendo prevaricado grandemente contra o Senhor. ^v19
+**19** Pois Yahweh humilhou a Judá por causa de Acaz, o rei de Israel, já que ele agiu com maldade em Judá, e pecou contra Yahweh muito fortemente. ^v19
 
-**20** E veio a ele Tiglate-Pileser, rei da Assíria; porém o pôs em aperto, e não o fortaleceu. ^v20
+**20** Tiglate-Pileser, rei da Assíria, veio a ele e o afligiu ao invés de fortalecê-lo; ^v20
 
-**21** Porque Acaz tomou despojos da casa do Senhor, e da casa do rei, e dos príncipes, e os deu ao rei da Assíria; porém não o ajudou. ^v21
+**21** pois Acaz saqueou a casa de Yahweh, e as casas do rei e dos líderes, para dar as coisas valiosas aos reis da Assíria, mas isso não o beneficiou. ^v21
 
-**22** E ao tempo em que este o apertou, então ainda mais transgrediu contra o Senhor, tal era o rei Acaz. ^v22
+**22** Este mesmo rei Acaz pecou ainda mais contra Yahweh em seu tempo de sofrimento; ^v22
 
-**23** Porque sacrificou aos deuses de Damasco, que o feriram e disse: Visto que os deuses dos reis da Síria os ajudam, eu lhes sacrificarei, para que me ajudem a mim. Porém eles foram a sua ruína, e de todo o Israel. ^v23
+**23** "pois ele sacrificou aos deuses de Damasco, os deuses que o derrotaram. Ele disse: ""Porque os deuses dos reis da Síria os ajudaram, farei sacrifícios a eles, para que eles possam também me ajudar."" Mas eles foram a ruína dele e de todo Israel." ^v23
 
-**24** E ajuntou Acaz os utensílios da casa de Deus, e fez em pedaços os utensílios da casa de Deus, e fechou as portas da casa do Senhor, e fez para si altares em todos os cantos de Jerusalém. ^v24
+**24** Acaz juntou todos os utensílios do templo de Deus e os despedaçou. Ele fechou as portas da casa de Yahweh, e fez para si altares em todos os cantos de Jerusalém. ^v24
 
-**25** Também em cada cidade de Judá fez altos para queimar incenso a outros deuses; assim provocou à ira o Senhor Deus de seus pais. ^v25
+**25** Em cada cidade de Judá, ele fez altares para queimar sacrifícios para outros deuses e, dessa forma, provocou a ira de Yahweh, o Deus de seus antepassados. ^v25
 
-**26** Ora, o restante dos seus atos e de todos os seus caminhos, tanto os primeiros como os últimos, eis que estão escritos no livro dos reis de Judá e de Israel. ^v26
+**26** Agora, o restante dos seus feitos e todos os seus caminhos, tanto os primeiros como os últimos, estão escritos no Livro dos Reis de Judá e Israel. ^v26
 
-**27** E dormiu Acaz com seus pais, e o sepultaram na cidade, em Jerusalém; porém não o puseram nos sepulcros dos reis de Israel; e Ezequias, seu filho, reinou em seu lugar. ^v27
+**27** Acaz descansou com seus antepassados, e o enterraram na cidade, em Jerusalém; mas não o trouxeram para os túmulos dos reis de Israel. Ezequias, seu filho, tornou-se rei em seu lugar. ^v27

@@ -1,49 +1,48 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Ezequiel|Ezequiel]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Ezequiel|Ezequiel]]"
+tags: [biblia]
 ---
 
 # Ezequiel 26
 
-**1** E sucedeu no undécimo ano, ao primeiro do mês, que veio a mim a palavra do SENHOR, dizendo: ^v1
+**1** No décimo primeiro ano, no primeiro dia do mês, a palavra de Yahweh veio a mim, dizendo: ^v1
 
-**2** Filho do homem, visto que Tiro disse contra Jerusalém: Ah! está quebrada a porta dos povos; virou-se para mim; eu me encherei, agora que ela está assolada; ^v2
+**2** """Filho do homem, visto que Tiro falou contra Jerusalém: 'Ah! A porta do povo está destruída! Ela está destruída. Eu vou me enriquecer porque ela está arruinada'." ^v2
 
-**3** Portanto assim diz o Senhor DEUS: Eis que eu estou contra ti, ó Tiro, e farei subir contra ti muitas nações, como o mar faz subir as suas ondas, ^v3
+**3** Por isso, assim declara Yahweh Deus: 'Eu estou contra ti, Tiro, e levantarei contra ti muitas nações, como se levanta uma tempestade no mar. ^v3
 
-**4** Elas destruirão os muros de Tiro, e derrubarão as suas torres; e eu lhe varrerei o seu pó, e dela farei uma penha descalvada. ^v4
+**4** Eles destruirão os muros de Tiro, derrubarão as suas torres. Eu varrerei o seu pó e farei dela uma rocha nua. ^v4
 
-**5** No meio do mar virá a ser um enxugadouro das redes; porque eu o falei, diz o Senhor DEUS; e servirá de despojo para as nações. ^v5
+**5** Ela será um enxugadouro de redes no meio do mar, pois assim declarei — assim declara Yahweh Deus — e ela servirá de despojo para as nações. ^v5
 
-**6** E suas filhas, que estão no campo, serão mortas à espada; e saberão que eu sou o Senhor. ^v6
+**6** Suas filhas que estão nos campos serão mortas com a espada e elas saberão que Eu sou Yahweh'. ^v6
 
-**7** Porque assim diz o Senhor DEUS: Eis que eu, desde o norte, trarei contra Tiro a Nabucodonosor, rei de babilônia, o rei dos reis, com cavalos, e com carros, e com cavaleiros, e companhias, e muito povo. ^v7
+**7** Pois assim diz Yahweh: Eis que, do norte, trago Nabucodonosor, rei da Babilônia, rei dos reis, contra Tiro; com cavalos, carros, cavaleiros e grande multidão. ^v7
 
-**8** As tuas filhas que estão no campo, ele as matará à espada, e levantará um baluarte contra ti, e fundará uma trincheira contra ti, e levantará paveses contra ti. ^v8
+**8** Ele matará tuas filhas nos campos, cercará tua cidade, construirá uma rampa contra teus muros e levantará escudos contra ti. ^v8
 
-**9** E disporá os seus aríetes contra os teus muros, e derrubará as tuas torres com os seus machados. ^v9
+**9** Ele porá os seus aríetes contra os teus murros e, com seus instrumentos, destruirá as tuas torres. ^v9
 
-**10** Por causa da multidão de seus cavalos te cobrirá o seu pó; os teus muros tremerão com o estrondo dos cavaleiros, e das rodas, e dos carros, quando ele entrar pelas tuas portas, como os homens entram numa cidade em que se fez brecha. ^v10
+**10** Seus cavalos serão muitos, de modo que o pó deles te cobrirá. Os teus muros serão abalados pelo estrondo dos cavaleiros, das carruagenss e dos carros. Quando ele entrar nos teus portões, entrará como um homem que entra numa cidade com muros derrubados. ^v10
 
-**11** Com os cascos dos seus cavalos pisará todas as tuas ruas; ao teu povo matará à espada, e as tuas fortes colunas cairão por terra. ^v11
+**11** Com os cascos de seus cavalos, pisará todas as tuas ruas. Ele matará teu povo à espada e as tuas colunas fortes cairão por terra. ^v11
 
-**12** E roubarão as tuas riquezas, e saquearão as tuas mercadorias, e derrubarão os teus muros, e arrazarão as tuas casas agradáveis; e lançarão no meio das águas as tuas pedras, e as tuas madeiras, e o teu pó. ^v12
+**12** Eles saquearão todas as tuas riquezas e mercadorias; destruirão todos os teus muros e tuas casas luxuosas. Tuas pedras, tua madeira e teu cascalho serão lançados nas águas. ^v12
 
-**13** E farei cessar o ruído das tuas cantigas, e o som dos tuas harpas não se ouvirá mais. ^v13
+**13** Eu silenciarei o ruído das tuas músicas, de modo que a tua harpa não será ouvida mais. ^v13
 
-**14** E farei de ti uma penha descalvada; virás a ser um enxugadouro das redes, nunca mais serás edificada; porque eu o SENHOR o falei, diz o Senhor DEUS. ^v14
+**14** Farei de ti uma rocha nua e tu te tornarás como um enxugadouro de redes. Não serás construída novamente, porque Eu, Yahweh Deus, falei — assim declara Yahweh Deus. ^v14
 
-**15** Assim diz o Senhor DEUS a Tiro: Porventura não tremerão as ilhas com o estrondo da tua queda, quando gemerem os feridos, quando se fizer uma espantosa matança no meio de ti? ^v15
+**15** Assim declara Yahweh Deus para Tiro: 'Não estremecerão as ilhas com o estrondo da tua destruição e com os lamentos dos feridos quando a grande destruição estiver no vosso meio? ^v15
 
-**16** E todos os príncipes do mar descerão dos seus tronos, e tirarão de si os seus mantos, e despirão as suas vestes bordadas; se vestirão de tremores, sobre a terra se assentarão, e estremecerão a cada momento; e por tua causa pasmarão. ^v16
+**16** Então, todos os príncipes do mar descerão dos seus tronos, tirarão os seus mantos e despirão suas vestes bordadas. Eles se vestirão com roupas de tremor, assentar-se-ão no chão, estremecerão sem parar e ficarão apavorados por vossa causa. ^v16
 
-**17** E levantarão uma lamentação sobre ti, e te dirão: Como pereceste, ó bem povoada e afamada cidade, que foste forte no mar; ela e os seus moradores, que atemorizaram a todos os seus habitantes! ^v17
+**17** Eles levantarão um lamento contra ti e dirão: Como tu, que eras povoada por mercadores, foste destruída. A famosa cidade, que era muito poderosa — desapareceu do mar. Teus moradores espalharam um terror sobre si mesmos e sobre todos que moravam perto deles. ^v17
 
-**18** Agora, estremecerão as ilhas no dia da tua queda; sim, as ilhas, que estão no mar, turbar-se-ão com tua saída. ^v18
+**18** Agora, o litoral estremece no dia da tua queda. As ilhas no mar estão aterrorizadas, porque tu morreste'. ^v18
 
-**19** Porque assim diz o Senhor DEUS: Quando eu te fizer uma cidade assolada, como as cidades que não se habitam, quando eu fizer subir sobre ti o abismo, e as muitas águas te cobrirem, ^v19
+**19** Porque, assim declara Yahweh Deus: Quando Eu fizer de ti uma cidade isolada, como outras cidades desabitadas, quando levantar os abismos contra ti e, quando as vastas águas te cobrirem, ^v19
 
-**20** Então te farei descer com os que descem à cova, ao povo antigo, e te farei habitar nas mais baixas partes da terra, em lugares desertos antigos, com os que descem à cova, para que não sejas habitada; e estabelecerei a glória na terra dos viventes. ^v20
+**20** então, Eu te abaterei como o povo antigo, como aqueles já lançados na cova, porque te farei habitar nas mais baixas partes da terra como as ruínas dos tempos antigos. Por causa disso, tu não retornarás nem retomarás teu lugar na terra dos vivos. ^v20
 
-**21** Farei de ti um grande espanto, e não mais existirás; e quando te buscarem então nunca mais serás achada para sempre, diz o Senhor DEUS. ^v21
+**21** "Eu colocarei sobre ti o desastre e já não mais serás. Então, serás procurada, mas não serás achada nunca mais — assim declara Yahweh Deus""." ^v21

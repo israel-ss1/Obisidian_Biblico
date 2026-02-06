@@ -1,57 +1,56 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Judas|Judas]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Judas|Judas]]"
+tags: [biblia]
 ---
 
 # Judas 1
 
-**1** Judas, servo de Jesus Cristo, e irmão de Tiago, aos chamados, santificados em Deus Pai, e conservados por Jesus Cristo: ^v1
+**1** Judas, servo de Jesus Cristo e irmão de Tiago, aos que foram chamados, amados em Deus, o Pai, e guardados por Jesus Cristo: ^v1
 
-**2** Misericórdia, e paz, e amor vos sejam multiplicados. ^v2
+**2** que a misericórdia, a paz e o amor vos sejam multiplicados. ^v2
 
-**3** Amados, procurando eu escrever-vos com toda a diligência acerca da salvação comum, tive por necessidade escrever-vos, e exortar-vos a batalhar pela fé que uma vez foi dada aos santos. ^v3
+**3** Amados, enquanto eu me esforçava para vos escrever sobre a salvação que nos é comum, tive que me corresponder convosco para exortar-vos a batalhardes para permanecerdes na fé que, de uma vez por todas, foi dada aos santos. ^v3
 
-**4** Porque se introduziram alguns, que já antes estavam escritos para este mesmo juízo, homens ímpios, que convertem em dissolução a graça de Deus, e negam a Deus, único dominador e Senhor nosso, Jesus Cristo. ^v4
+**4** Pois certos homens se introduziram secretamente com dissimulação. Esses são homens cuja condenação estava escrita há muito tempo; homens ímpios, que perverteram a graça do nosso Deus em imoralidade sexual e rejeitaram nosso único Mestre e Senhor, Jesus Cristo. ^v4
 
-**5** Mas quero lembrar-vos, como a quem já uma vez soube isto, que, havendo o Senhor salvo um povo, tirando-o da terra do Egito, destruiu depois os que não creram; ^v5
+**5** Agora tenho que lembrar-vos, embora uma vez soubestes de tudo isso, que o Senhor salvou um povo, tirando-o da terra do Egito, mas depois Ele destruiu aqueles que não creram. ^v5
 
-**6** E aos anjos que não guardaram o seu principado, mas deixaram a sua própria habitação, reservou na escuridão e em prisões eternas até ao juízo daquele grande dia; ^v6
+**6** E, quanto aos anjos que não mantiveram sua própria posição de autoridade, mas abandonaram seu lugar de habitação, Deus os tem mantido em algemas eternas na escuridão para o julgamento do grande Dia. ^v6
 
-**7** Assim como Sodoma e Gomorra, e as cidades circunvizinhas, que, havendo-se entregue à fornicação como aqueles, e ido após outra carne, foram postas por exemplo, sofrendo a pena do fogo eterno. ^v7
+**7** De modo semelhante, Sodoma, Gomorra e as cidades ao redor delas, que se prostituíram e perseguiram desejos contra a natureza, foram postas para exemplo, sofrendo a punição do fogo eterno. ^v7
 
-**8** E, contudo, também estes, semelhantemente adormecidos, contaminam a sua carne, e rejeitam a dominação, e vituperam as dignidades. ^v8
+**8** Semelhantemente, esses homens contaminam seus corpos em seus sonhos, rejeitam a autoridade e blasfemam contra os seres celestiais. ^v8
 
-**9** Mas o arcanjo Miguel, quando contendia com o diabo, e disputava a respeito do corpo de Moisés, não ousou pronunciar juízo de maldição contra ele; mas disse: O Senhor te repreenda. ^v9
+**9** "Mas, mesmo o arcanjo Miguel, quando se opôs ao diabo disputando o corpo de Moisés, não ousou falar contra ele palavras de condenação ou insulto, ao invés disso, afirmou: ""Que o Senhor te repreenda""." ^v9
 
-**10** Estes, porém, dizem mal do que não sabem; e, naquilo que naturalmente conhecem, como animais irracionais se corrompem. ^v10
+**10** Porém esses homens insultam aquilo que não entendem. E aquilo que eles compreendem por instinto, como animais irracionais, nessas coisas são destruídos. ^v10
 
-**11** Ai deles! porque entraram pelo caminho de Caim, e foram levados pelo engano do prêmio de Balaão, e pereceram na contradição de Coré. ^v11
+**11** Ai deles! Pois têm andado pelos caminhos de Caim, têm se lançado no erro de Balaão por ganância e perecido na rebelião de Coré. ^v11
 
-**12** Estes são manchas em vossas festas de amor, banqueteando-se convosco, e apascentando-se a si mesmos sem temor; são nuvens sem água, levadas pelos ventos de uma para outra parte; são como árvores murchas, infrutíferas, duas vezes mortas, desarraigadas; ^v12
+**12** Esses homens são como rochas ocultas em seus banquetes de amor. Eles festejam sem escrúpulos, apascentando a si mesmos; são nuvens sem água, carregadas pelo vento; árvores de outono sem frutos, duas vezes mortas, arrancadas pelas raízes; ^v12
 
-**13** Ondas impetuosas do mar, que escumam as suas mesmas abominações; estrelas errantes, para os quais está eternamente reservada a negrura das trevas. ^v13
+**13** ondas violentas do mar, espumando sua própria vergonha; estrelas errantes, para as quais a escuridão das trevas tem sido reservada para sempre. ^v13
 
-**14** E destes profetizou também Enoque, o sétimo depois de Adão, dizendo: Eis que é vindo o Senhor com milhares de seus santos; ^v14
+**14** "E, sobre esses homens, Enoque, o sétimo da linhagem de Adão, previu, dizendo: ""Olhem, o Senhor está vindo com dez mil de Seus santos" ^v14
 
-**15** Para fazer juízo contra todos e condenar dentre eles todos os ímpios, por todas as suas obras de impiedade, que impiamente cometeram, e por todas as duras palavras que ímpios pecadores disseram contra ele. ^v15
+**15** "para executar julgamento sobre todas as pessoas e para convencer todo ímpio de todo seu trabalho de impiedade, que eles têm cometido de maneira ímpia, e de todas as duras coisas que os ímpios pecadores têm profetizado contra Ele""." ^v15
 
-**16** Estes são murmuradores, queixosos da sua sorte, andando segundo as suas concupiscências, e cuja boca diz coisas mui arrogantes, admirando as pessoas por causa do interesse. ^v16
+**16** Esses homens são murmuradores, queixosos, lançam-se em seus desejos pecaminosos, são escandalosos, orgulhosos, adulam certas pessoas com o intuito de ganhar vantagem. ^v16
 
-**17** Mas vós, amados, lembrai-vos das palavras que vos foram preditas pelos apóstolos de nosso Senhor Jesus Cristo; ^v17
+**17** No entanto, vós, amados, lembrai-vos das palavras que foram ditas no passado pelos apóstolos do nosso Senhor Jesus Cristo. ^v17
 
-**18** Os quais vos diziam que nos últimos tempos haveria escarnecedores que andariam segundo as suas ímpias concupiscências. ^v18
+**18** "Eles vos disseram: ""Nos últimos tempos, haverá escarnecedores que andarão segundo seus próprios desejos ímpios""." ^v18
 
-**19** Estes são os que a si mesmos se separam, sensuais, que não têm o Espírito. ^v19
+**19** Esses homens são os que causarão divisões; são mundanos e não possuem o Espírito Santo. ^v19
 
-**20** Mas vós, amados, edificando-vos a vós mesmos sobre a vossa santíssima fé, orando no Espírito Santo, ^v20
+**20** Porém vós, amados, edificando-vos na vossa santíssima fé e orando no Espírito Santo, ^v20
 
-**21** Conservai-vos a vós mesmos no amor de Deus, esperando a misericórdia de nosso Senhor Jesus Cristo para a vida eterna. ^v21
+**21** guardai -vos no amor de Deus, esperando pela misericórdia do nosso Senhor Jesus Cristo para vida eterna. ^v21
 
-**22** E apiedai-vos de alguns, usando de discernimento; ^v22
+**22** Tende compaixão dos que estão em dúvida; ^v22
 
-**23** E salvai alguns com temor, arrebatando-os do fogo, odiando até a túnica manchada da carne. ^v23
+**23** e a outros salvai arrebatando-os do fogo; e, para com outros, tende misericórdia com temor, detestando até a roupa manchada pela carne. ^v23
 
-**24** Ora, àquele que é poderoso para vos guardar de tropeçar, e apresentar-vos irrepreensíveis, com alegria, perante a sua glória, ^v24
+**24** Então, Àquele que é capaz de manter-vos fora do tropeço e de colocar-vos atrás da presença de Sua glória sem mácula, em excessiva alegria; ^v24
 
-**25** Ao único Deus sábio, Salvador nosso, seja glória e majestade, domínio e poder, agora, e para todo o sempre. Amém. ^v25
+**25** ao único Deus nosso Salvador, através de Jesus Cristo nosso Senhor, seja a glória, majestade, domínio e autoridade, antes de todos os tempos, agora e para sempre. Amém. ^v25

@@ -1,41 +1,38 @@
 ---
-Livro: "[[Salmos|Salmos]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Salmos|Salmos]]"
+tags: [biblia]
 ---
 
 # Salmos 59
 
-**1** Livra-me, meu Deus, dos meus inimigos, defende-me daqueles que se levantam contra mim. ^v1
+**2** Mantém-me a salvo dos que praticam a iniquidade e salva-me dos homens sanguinários. ^v2
 
-**2** Livra-me dos que praticam a iniqüidade, e salva-me dos homens sanguinários. ^v2
+**3** Pois eles esperam em uma emboscada para tirar-me a vida. Homens poderosos se reúnem contra mim, mas não por causa das minhas transgressões ou dos meus pecados, Yahweh. ^v3
 
-**3** Pois eis que põem ciladas à minha alma; os fortes se ajuntam contra mim, não por transgressão minha ou por pecado meu, ó Senhor. ^v3
+**4** Eles se preparam para me atacar, embora eu esteja sem culpa. Desperta, vê e ajuda-me! ^v4
 
-**4** Eles correm, e se preparam, sem culpa minha; desperta para me ajudares, e olha. ^v4
+**5** Tu, Yahweh, Deus dos Exércitos, o Deus de Israel, levanta e pune todas as nações; não sejas misericordioso para com nenhum transgressor perverso. [Interlúdio] ^v5
 
-**5** Tu, pois, ó Senhor, Deus dos Exércitos, Deus de Israel, desperta para visitares todos os gentios; não tenhas misericórdia de nenhum dos pérfidos que praticam a iniqüidade. (Selá.) ^v5
+**6** Eles retornam ao entardecer, uivam como cães e andam ao redor da cidade. ^v6
 
-**6** Voltam à tarde; dão ganidos como cães, e rodeiam a cidade. ^v6
+**7** "Vê, eles ameaçam com suas bocas; seus lábios são como espadas, pois dizem: ""Quem pode nos escutar?""" ^v7
 
-**7** Eis que eles dão gritos com as suas bocas; espadas estão nos seus lábios, porque, dizem eles: Quem ouve? ^v7
+**8** Mas Tu, Yahweh, escarneces deles. Tu zombas de todas as nações. ^v8
 
-**8** Mas tu, Senhor, te rirás deles; zombarás de todos os gentios; ^v8
+**9** Deus, minha força, eu esperarei por Ti; Tu és minha torre alta! ^v9
 
-**9** Por causa da sua força eu te aguardarei; pois Deus é a minha alta defesa. ^v9
+**10** Meu Deus virá me encontrar com Seu amor leal; Deus me fará ver o meu desejo sobre meus inimigos. ^v10
 
-**10** O Deus da minha misericórdia virá ao meu encontro; Deus me fará ver o meu desejo sobre os meus inimigos. ^v10
+**11** Não os mates, ou o meu povo se esquecerá. Espalha-os pelo Teu poder e faze-os cair, Yahweh, nosso escudo. ^v11
 
-**11** Não os mates, para que o meu povo não se esqueça; espalha-os pelo teu poder, e abate-os, ó Senhor, nosso escudo. ^v11
+**12** Pelos pecados de suas bocas e pelas palavras de seus lábios, sejam eles capturados em seu orgulho e pelas maldições e mentiras que relatam. ^v12
 
-**12** Pelo pecado da sua boca e pelas palavras dos seus lábios, fiquem presos na sua soberba, e pelas maldições e pelas mentiras que falam. ^v12
+**13** Consome-os em ira, consome-os até que eles não mais existam; que eles saibam que Deus reina em Jacó e até os confins da terra. [Interlúdio] ^v13
 
-**13** Consome-os na tua indignação, consome-os, para que não existam, e para que saibam que Deus reina em Jacó até aos fins da terra. (Selá.) ^v13
+**14** Ao entardecer, eles retornam, uivando como cães e contornando a cidade. ^v14
 
-**14** E tornem a vir à tarde, e dêem ganidos como cães, e cerquem a cidade. ^v14
+**15** Eles vagueiam procurando comida e, enquanto não estão satisfeitos, rosnam como cachorros. ^v15
 
-**15** Vagueiem para cima e para baixo por mantimento, e passem a noite sem se saciarem. ^v15
+**16** Todavia, eu cantarei sobre a Tua força, e pela manhã cantarei sobre o teu amor constante! Pois Tu tens sido minha torre alta e refúgio no dia da minha angústia. ^v16
 
-**16** Eu, porém, cantarei a tua força; pela manhã louvarei com alegria a tua misericórdia; porquanto tu foste o meu alto refúgio, e proteção no dia da minha angústia. ^v16
-
-**17** A ti, ó fortaleza minha, cantarei salmos; porque Deus é a minha defesa e o Deus da minha misericórdia. ^v17
+**17** A Ti, minha força, eu cantarei louvores, pois Deus é a minha torre alta, o Deus de amor leal. ^v17

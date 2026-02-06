@@ -1,31 +1,28 @@
 ---
-Livro: "[[Salmos|Salmos]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Salmos|Salmos]]"
+tags: [biblia]
 ---
 
 # Salmos 36
 
-**1** A transgressão do ímpio diz no íntimo do meu coração: Não há temor de Deus perante os seus olhos. ^v1
+**2** Pois consola a si mesmo, pensando que seus pecados não serão descobertos, nem odiados. ^v2
 
-**2** Porque em seus olhos se lisonjeia, até que a sua iniqüidade se descubra ser detestável. ^v2
+**3** Suas palavras são pecaminosas e enganadoras; ele não deseja ser sábio nem fazer o bem. ^v3
 
-**3** As palavras da sua boca são malícia e engano; deixou de entender e de fazer o bem. ^v3
+**4** Quando deita na sua cama, planeja caminhos para o pecado; ele segue por um caminho maligno, e não rejeita o mal. ^v4
 
-**4** Projeta a malícia na sua cama; põe-se no caminho que não é bom; não aborrece o mal. ^v4
+**5** Teu amor leal, Yahweh, alcança os céus; Tua lealdade alcança as nuvens. ^v5
 
-**5** A tua misericórdia, Senhor, está nos céus, e a tua fidelidade chega até às mais excelsas nuvens. ^v5
+**6** Tua justiça é como as montanhas de Deus; Tua justiça é como o mais profundo mar. Yahweh, Tu conservas tanto a humanidade quanto os animais. ^v6
 
-**6** A tua justiça é como as grandes montanhas; os teus juízos são um grande abismo. Senhor, tu conservas os homens e os animais. ^v6
+**7** Quão precioso é o Teu amor leal, Deus! Os homens se refugiam sob a sombra das Tuas asas. ^v7
 
-**7** Quão preciosa é, ó Deus, a tua benignidade, pelo que os filhos dos homens se abrigam à sombra das tuas asas. ^v7
+**8** Eles serão abundantemente satisfeitos com a comida da Tua casa; Tu os deixarás beber do Teu rio de delícias. ^v8
 
-**8** Eles se fartarão da gordura da tua casa, e os farás beber da corrente das tuas delícias; ^v8
+**9** Pois, Contigo, está a fonte da vida; em Tua luz, veremos a luz. ^v9
 
-**9** Porque em ti está o manancial da vida; na tua luz veremos a luz. ^v9
+**10** Prolonga o Teu amor leal a todos aqueles que Te conhecem e a Tua justiça, aos retos de coração. ^v10
 
-**10** Estende a tua benignidade sobre os que te conhecem, e a tua justiça sobre os retos de coração. ^v10
+**11** Não permitas que o pé do homem orgulhoso chegue até mim. Não permitas que a mão do ímpio me leve embora. ^v11
 
-**11** Não venha sobre mim o pé dos soberbos, e não me mova a mão dos ímpios. ^v11
-
-**12** Ali caem os que praticam a iniqüidade; cairão, e não se poderão levantar. ^v12
+**12** Ali caíram os malfeitores; eles estão abatidos no chão e não podem se levantar. ^v12

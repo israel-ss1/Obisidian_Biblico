@@ -1,57 +1,56 @@
 ---
-Livro: "[[Romanos|Romanos]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Romanos|Romanos]]"
+tags: [biblia]
 ---
 
 # Romanos 4
 
-**1** Que diremos, pois, ter alcançado Abraão, nosso pai segundo a carne? ^v1
+**1** Então, o que diremos que Abraão, nosso antepassado segundo a carne, encontrou? ^v1
 
-**2** Porque, se Abraão foi justificado pelas obras, tem de que se gloriar, mas não diante de Deus. ^v2
+**2** Pois, se Abraão foi justificado pelas obras, ele teria razão para se gloriar, mas não diante de Deus. ^v2
 
-**3** Pois, que diz a Escritura? Creu Abraão a Deus, e isso lhe foi imputado como justiça. ^v3
+**3** "O que as Escrituras dizem? ""Abraão acreditou em Deus, e isso foi lhe atribuído como justiça""." ^v3
 
-**4** Ora, àquele que faz qualquer obra não lhe é imputado o galardão segundo a graça, mas segundo a dívida. ^v4
+**4** Ora, para o que trabalha, o salário não lhe é pago como um presente, mas como uma dívida. ^v4
 
-**5** Mas, àquele que não pratica, mas crê naquele que justifica o ímpio, a sua fé lhe é imputada como justiça. ^v5
+**5** Porém, ao que não trabalha, mas, em vez disso, acredita Naquele que justifica o ímpio, a sua fé lhe é atribuída como justiça. ^v5
 
-**6** Assim também Davi declara bem-aventurado o homem a quem Deus imputa a justiça sem as obras, dizendo: ^v6
+**6** Davi também proclama bênçãos ao homem a quem Deus atribui justiça independentemente de obras. ^v6
 
-**7** Bem-aventurados aqueles cujas maldades são perdoadas,E cujos pecados são cobertos. ^v7
+**7** "Ele disse: ""Felizes são aqueles cujas iniquidades foram perdoadas, e cujos pecados foram cobertos." ^v7
 
-**8** Bem-aventurado o homem a quem o Senhor não imputa o pecado. ^v8
+**8** "Feliz é o homem a quem o Senhor não atribui pecado.""" ^v8
 
-**9** Vem, pois, esta bem-aventurança sobre a circuncisão somente, ou também sobre a incircuncisão? Porque dizemos que a fé foi imputada como justiça a Abraão. ^v9
+**9** "Assim, essa bênção foi proclamada somente aos da circuncisão, ou também aos da incircuncisão? Pois nós falamos: ""A fé foi atribuída a Abraão como justiça.""" ^v9
 
-**10** Como lhe foi, pois, imputada? Estando na circuncisão ou na incircuncisão? Não na circuncisão, mas na incircuncisão. ^v10
+**10** Então, como ela lhe foi atribuída? Quando Abraão estava na circuncisão ou na incircuncisão? Não foi na circuncisão, e sim na incircuncisão. ^v10
 
-**11** E recebeu o sinal da circuncisão, selo da justiça da fé quando estava na incircuncisão, para que fosse pai de todos os que crêem, estando eles também na incircuncisão; a fim de que também a justiça lhes seja imputada; ^v11
+**11** Abraão recebeu o sinal da circuncisão, o qual era um selo da justiça da fé que ele já possuía quando estava na incircuncisão. O resultado desse sinal foi que ele se tornou pai daqueles que acreditam, mesmo que não sejam circuncidados. Isso significa que a justiça lhes foi atribuída. ^v11
 
-**12** E fosse pai da circuncisão, daqueles que não somente são da circuncisão, mas que também andam nas pisadas daquela fé que teve nosso pai Abraão, que tivera na incircuncisão. ^v12
+**12** E também significa que Abraão se tornou pai da circuncisão, não apenas dos que foram circuncidados, mas, da mesma forma, dos que seguem os passos de fé de nosso pai Abraão antes que ele fosse circuncidado. ^v12
 
-**13** Porque a promessa de que havia de ser herdeiro do mundo não foi feita pela lei a Abraão, ou à sua posteridade, mas pela justiça da fé. ^v13
+**13** Porque não foi através da Lei que a promessa foi dada a Abraão e aos seus descendentes, a promessa de que eles seriam herdeiros do mundo. Em vez disso, ela foi dada pela justiça da fé. ^v13
 
-**14** Porque, se os que são da lei são herdeiros, logo a fé é vã e a promessa é aniquilada. ^v14
+**14** Pois, se os que vivem pela Lei são herdeiros, a fé se torna vazia e a promessa, nula. ^v14
 
-**15** Porque a lei opera a ira. Porque onde não há lei também não há transgressão. ^v15
+**15** Porque a Lei traz ira, mas, onde não há lei, não há desobediência. ^v15
 
-**16** Portanto, é pela fé, para que seja segundo a graça, a fim de que a promessa seja firme a toda a posteridade, não somente à que é da lei, mas também à que é da fé que teve Abraão, o qual é pai de todos nós, ^v16
+**16** Por essa razão, isso é pela fé, para que a promessa seja baseada na graça, e seja garantida para todos os descendentes de Abraão. E esses descendentes incluem não somente aqueles que conhecem a Lei, mas também aqueles que são da fé de Abraão. Pois ele é o pai de todos nós, ^v16
 
-**17** (Como está escrito: Por pai de muitas nações te constituí) perante aquele no qual creu, a saber, Deus, o qual vivifica os mortos, e chama as coisas que não são como se já fossem. ^v17
+**17** "como está escrito: ""Eu te constituí pai de muitas nações"". Abraão estava na presença Daquele em Quem confiou, ou seja, Deus, o qual dá vida aos mortos e chama as coisas que não existem à existência." ^v17
 
-**18** O qual, em esperança, creu contra a esperança, tanto que ele tornou-se pai de muitas nações, conforme o que lhe fora dito: Assim será a tua descendência. ^v18
+**18** "Apesar de todas as circunstâncias ao seu redor, Abraão confiadamente entregou seu futuro a Deus, e então se tornou o pai de muitas nações, conforme o que foi dito: ""Assim serão teus descendentes""." ^v18
 
-**19** E não enfraquecendo na fé, nào atentou para o seu próprio corpo já amortecido, pois era já de quase cem anos, nem tampouco para o amortecimento do ventre de Sara. ^v19
+**19** Ele não foi fraco na fé. Abraão entendeu que seu próprio corpo era incapaz de ter filhos, porque tinha cerca de 100 anos de idade. Ele também reconheceu que o ventre de Sara já não podia gerar filhos. ^v19
 
-**20** E não duvidou da promessa de Deus por incredulidade, mas foi fortificado na fé, dando glória a Deus, ^v20
+**20** Mas, por causa da promessa de Deus, Abraão não permaneceu na incredulidade. Em vez disso, foi fortalecido na fé, e deu glórias a Deus. ^v20
 
-**21** E estando certíssimo de que o que ele tinha prometido também era poderoso para o fazer. ^v21
+**21** Ele estava totalmente convencido de que Deus era capaz de cumprir o que prometera. ^v21
 
-**22** Assim isso lhe foi também imputado como justiça. ^v22
+**22** Portanto, isso também foi atribuído a ele como justiça. ^v22
 
-**23** Ora, não só por causa dele está escrito, que lhe fosse tomado em conta, ^v23
+**23** Não foi apenas para o benefício dele que está escrito que Deus lhe atribuiu justiça. ^v23
 
-**24** Mas também por nós, a quem será tomado em conta, os que cremos naquele que dentre os mortos ressuscitou a Jesus nosso Senhor; ^v24
+**24** Mas também foi escrito para nosso benefício, porque Deus nos considerará justos, nós, os que cremos Naquele que ressuscitou Jesus, nosso Senhor, dentre os mortos. ^v24
 
-**25** O qual por nossos pecados foi entregue, e ressuscitou para nossa justificação. ^v25
+**25** Aquele que foi entregue por nossas transgressões e foi ressuscitado para a nossa justificação. ^v25

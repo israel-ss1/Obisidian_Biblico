@@ -1,61 +1,60 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Jeremias|Jeremias]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Jeremias|Jeremias]]"
+tags: [biblia]
 ---
 
 # Jeremias 13
 
-**1** Assim me disse o SENHOR: Vai, e compra um cinto de linho e põe-no sobre os teus lombos, mas não o coloques na água. ^v1
+**1** "Yahweh disse a mim: ""Vai e compra um cinto de linho e põe-no sobre os teus lombos, mas não o coloques na água""." ^v1
 
-**2** E comprei o cinto, conforme a palavra do Senhor, e o pus sobre os meus lombos. ^v2
+**2** Então, eu comprei um cinto, como Yahweh havia ordenado, e pus sobre os meus lombos. ^v2
 
-**3** Então me veio a palavra do Senhor pela segunda vez, dizendo: ^v3
+**3** Então, a palavra de Yahweh veio a mim pela segunda vez e disse: ^v3
 
-**4** Toma o cinto que compraste, e que trazes sobre os teus lombos, e levanta-te; vai ao Eufrates, e esconde-o ali na fenda de uma rocha. ^v4
+**4** """Pega o cinto que compraste, que está sobre teus lombos, levanta-te e viaja para o Eufrates. Esconde-o na fenda de uma rocha""." ^v4
 
-**5** E fui, e escondi-o junto ao Eufrates, como o Senhor me havia ordenado. ^v5
+**5** Então, fui e o escondi no Eufrates, assim como Yahweh me havia ordenado. ^v5
 
-**6** Sucedeu, ao final de muitos dias, que me disse o Senhor: Levanta-te, vai ao Eufrates, e toma dali o cinto que te ordenei que o escondesses ali. ^v6
+**6** "Após muitos dias, Yahweh disse a mim: ""Levanta-te e volta ao Eufrates, retira de lá o cinto que Eu lhe disse para esconder""." ^v6
 
-**7** E fui ao Eufrates, e cavei, e tomei o cinto do lugar onde o havia escondido; e eis que o cinto tinha apodrecido, e para nada prestava. ^v7
+**7** Então, voltei ao Eufrates e tirei o cinto de onde o havia escondido. Eis que o cinto estava apodrecido, não servia para nada. ^v7
 
-**8** Então veio a mim a palavra do Senhor, dizendo: ^v8
+**8** Então, a palavra de Yahweh veio a mim de novo e disse: ^v8
 
-**9** Assim diz o Senhor: Do mesmo modo farei apodrecer a soberba de Judá, e a muita soberba de Jerusalém. ^v9
+**9** """Assim diz Yahweh: Da mesma maneira, Eu destruirei a grande arrogância de Judá e Jerusalém." ^v9
 
-**10** Este povo maligno, que recusa ouvir as minhas palavras, que caminha segundo a dureza do seu coração, e anda após deuses alheios, para servi-los, e inclinar-se diante deles, será tal como este cinto, que para nada presta. ^v10
+**10** Este povo perverso que recusa a ouvir a Minha palavra, que caminha na dureza de seus corações, que vai atrás de outros deuses para adorá-los e se curvar diante deles, eles serão como esse cinto que não serve para nada. ^v10
 
-**11** Porque, como o cinto está pegado aos lombos do homem, assim eu liguei a mim toda a casa de Israel, e toda a casa de Judá, diz o Senhor, para me serem por povo, e por nome, e por louvor, e por glória; mas não deram ouvidos. ^v11
+**11** Assim como o cinto se apega aos lombos do homem, Eu tenho feito toda a casa de Israel e toda a casa de Judá se apegar a Mim, para serem Meu povo, para Me darem louvor e honra. Mas eles não quiseram Me ouvir — esta é a declaração de Yahweh. ^v11
 
-**12** Portanto, dize-lhes esta palavra: Assim diz o Senhor Deus de Israel: Todo o odre se encherá de vinho; e dir-te-ão: Porventura não sabemos nós muito bem que todo o odre se encherá de vinho? ^v12
+**12** "Assim, tu deves dizer esta palavra a eles: 'Yahweh, o Deus de Israel, diz assim: ""Todo jarro se encherá de vinho"". Eles te dirão: ""Não sabemos, de fato, que todo jarro se encherá de vinho?""." ^v12
 
-**13** Mas tu dize-lhes: Assim diz o Senhor: Eis que eu encherei de embriaguez a todos os habitantes desta terra, e aos reis da estirpe de Davi, que estão assentados sobre o seu trono, e aos sacerdotes, e aos profetas, e a todos os habitantes de Jerusalém. ^v13
+**13** Então, dize-lhes: Assim diz Yahweh: Vede, Eu encherei com embriaguez cada habitante desta terra, os reis que assentaram no trono de Davi, os sacerdotes, profetas e todos os habitantes de Jerusalém. ^v13
 
-**14** E fá-los-ei em pedaços atirando uns contra os outros, e juntamente os pais com os filhos, diz o Senhor; não perdoarei, nem pouparei, nem terei deles compaixão, para que não os destrua. ^v14
+**14** "Então, Eu mesmo colocarei uns contra os outros, tanto os pais quanto os filhos. Não terei pena ou compaixão deles e não os pouparei da destruição — esta é a declaração de Yahweh""." ^v14
 
-**15** Escutai, e inclinai os ouvidos; não vos ensoberbeçais; porque o Senhor falou: ^v15
+**15** Ouvi e prestai atenção. Não sejais arrogantes, pois Yahweh tem dito. ^v15
 
-**16** Dai glória ao Senhor vosso Deus, antes que venha a escuridão e antes que tropecem vossos pés nos montes tenebrosos; antes que, esperando vós luz, ele a mude em sombra de morte, e a reduza à escuridão. ^v16
+**16** Dai honra a Yahweh, vosso Deus, antes que Ele traga escuridão e faça vossos pés tropeçarem nas montanhas, ao anoitecer. Pois estais esperando por luz, mas Ele transformará o lugar em escuridão profunda, em uma nuvem escura. ^v16
 
-**17** E, se isto não ouvirdes, a minha alma chorará em lugares ocultos, por causa da vossa soberba; e amargamente chorarão os meus olhos, e se desfarão em lágrimas, porquanto o rebanho do Senhor foi levado cativo. ^v17
+**17** Portanto, se não ouvirdes, chorareis em segredo por causa de vossa arrogância. Meus olhos, certamente, chorarão e derramarão lágrimas, pois o rebanho de Yahweh foi levado cativo. ^v17
 
-**18** Dize ao rei e à rainha: Humilhai-vos, e assentai-vos no chão; porque já caiu todo o ornato de vossas cabeças, a coroa da vossa glória. ^v18
+**18** """Diz ao rei e à rainha mãe: 'Humilhai-vos e assentai-vos, pois as coroas de vossas cabeças, vosso orgulho e glória, cairão'." ^v18
 
-**19** As cidades do sul estão fechadas, e ninguém há que as abra; todo o Judá foi levado cativo, sim, inteiramente cativo. ^v19
+**19** As cidades do Neguebe serão fechadas, e não terá ninguém para abri-las. Judá será levada cativa, totalmente em exílio. ^v19
 
-**20** Levantai os vossos olhos, e vede os que vêm do norte; onde está o rebanho que se te deu, o rebanho da tua glória? ^v20
+**20** Levantai vossos olhos e olhai os que vêm do norte. Onde está o rebanho que foi dado a vós, o rebanho que era tão belo? ^v20
 
-**21** Que dirás, quando ele te castigar porque os ensinaste a serem capitães, e chefe sobre ti? Porventura não te tomarão as dores, como à mulher que está de parto? ^v21
+**21** Que dirás quando Deus colocar sobre vós aqueles a quem educastes para serem vossos amigos? Não será este o início das dores que vos acometereis, assim como uma mulher que está em trabalho de parto? ^v21
 
-**22** Quando, pois, disseres no teu coração: Por que me sobrevieram estas coisas? Pela multidão das tuas maldades se descobriram as tuas fraldas, e os teus calcanhares sofrem violência. ^v22
+**22** Então, podereis dizer em vosso coração: 'Por que estas coisas estão acontecendo conosco?' Por causa da multidão de vossas iniquidades é que vossas saias estão levantadas e fostes violentadas. ^v22
 
-**23** Porventura pode o etíope mudar a sua pele, ou o leopardo as suas manchas? Então podereis vós fazer o bem, sendo ensinados a fazer o mal. ^v23
+**23** Podem as pessoas da Etiópia mudarem sua cor da pele, ou o leopardo mudar suas pintas? Assim também vós, acostumados com a maldade, serão capazes de fazer o bem? ^v23
 
-**24** Assim os espalharei como o restolho, que passa com o vento do deserto. ^v24
+**24** Então, Eu os espalharei como a palha levada pelo vento do deserto. ^v24
 
-**25** Esta será a tua sorte, a porção que te será medida por mim, diz o Senhor; pois te esqueceste de mim, e confiaste em mentiras. ^v25
+**25** Isto é o que tenho vos dado, a porção que determinei para vós, porque tendes Me esquecido e confiado em mentiras. ^v25
 
-**26** Assim também eu levantarei as tuas fraldas sobre o teu rosto; e aparecerá a tua ignomínia. ^v26
+**26** Portanto, Eu mesmo arrancarei as vossas saias e vossas partes íntimas serão vistas. ^v26
 
-**27** Já vi as tuas abominações, e os teus adultérios, e os teus rinchos, e a enormidade da tua prostituição sobre os outeiros no campo; ai de ti, Jerusalém! Até quando ainda não te purificarás? ^v27
+**27** "Vossos adultérios e relinchos, a infâmia da vossa prostituicão sobre as colinas e nos campos. Eu tenho visto essas coisas abomináveis! Ai de ti, Jerusalém! Até quando ainda não te purificarás?""." ^v27

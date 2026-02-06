@@ -1,41 +1,40 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Ezequiel|Ezequiel]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Ezequiel|Ezequiel]]"
+tags: [biblia]
 ---
 
 # Ezequiel 4
 
-**1** Tu, pois, ó filho do homem, toma um tijolo, e pô-lo-ás diante de ti, e grava nele a cidade de Jerusalém. ^v1
+**1** E Tu, filho do homem, leva contigo um tijolo e coloca-o à tua frente. Nele, desenha a cidade de Jerusalém. ^v1
 
-**2** E põe contra ela um cerco, e edifica contra ela uma fortificação, e levanta contra ela uma trincheira, e põe contra ela arraiais, e põe-lhe aríetes em redor. ^v2
+**2** Em seguida, põe um cerco e edifica fortificações perante ela. Levanta uma rampa de assalto contra a cidade e põe acampamentos em torno dela e coloca os aríetes ao seu redor. ^v2
 
-**3** E tu toma uma sertã de ferro, e põe-na por muro de ferro entre ti e a cidade; e dirige para ela o teu rosto, e assim será cercada, e a cercarás; isto servirá de sinal à casa de Israel. ^v3
+**3** Então, pega para ti uma panela de ferro e usa como um muro de ferro entre ti e a cidade e dirige o teu rosto para ela, pois estará sitiada, e tu colocarás o cerco contra ela. Isso será um sinal para a casa de Israel. ^v3
 
-**4** Tu também deita-te sobre o teu lado esquerdo, e põe a iniqüidade da casa de Israel sobre ele; conforme o número dos dias que te deitares sobre ele, levarás as suas iniqüidades. ^v4
+**4** Então, deita-te sobre o teu lado esquerdo e coloca sobre ele o pecado da casa de Israel; carregarás o seu pecado conforme o número dos dias em que te deitares, em frente à casa de Israel. ^v4
 
-**5** Porque eu já te tenho fixado os anos da sua iniqüidade, conforme o número dos dias, trezentos e noventa dias; e levarás a iniqüidade da casa de Israel. ^v5
+**5** Eu mesmo estou atribuindo a ti um dia para representar cada ano de sua punição: trezentos e noventa dias. Dessa forma, tu carregarás o pecado da casa de Israel. ^v5
 
-**6** E, quando tiveres cumprido estes dias, tornar-te-ás a deitar sobre o teu lado direito, e levarás a iniqüidade da casa de Judá quarenta dias; um dia te dei para cada ano. ^v6
+**6** E, quando completares esses dias, deita-te outra vez, agora sobre o teu lado direito. Assim, carregarás o pecado da casa de Judá por quarenta dias. Eu te atribuirei um dia para cada ano. ^v6
 
-**7** Dirigirás, pois, o teu rosto para o cerco de Jerusalém, com o teu braço descoberto, e profetizarás contra ela. ^v7
+**7** Põe o teu rosto em direção a Jerusalém, que está sob o cerco e, com o teu braço descoberto, profetiza contra ela. ^v7
 
-**8** E eis que porei sobre ti cordas; assim tu não te voltarás de um lado para o outro, até que cumpras os dias do teu cerco. ^v8
+**8** Eis que Eu estou pondo cordas em ti. Assim, tu não virarás de um lado para o outro, até que tenhas completado os dias de teu cerco. ^v8
 
-**9** E tu, toma trigo, e cevada, e favas, e lentilhas, e milho e aveia, e coloca-os numa vasilha, e faze deles pão; conforme o número dos dias que tu te deitares sobre o teu lado, trezentos e noventa dias, comerás disso. ^v9
+**9** Toma para ti trigo, cevada, feijão, lentilhas, painço e espelta; coloca-os numa vasilha e faze pão para ti, segundo o número dos dias em que te deitares sobre o teu lado. Por trezentos e noventa dias, tu comerás isso. ^v9
 
-**10** E a tua comida, que hás de comer, será do peso de vinte siclos por dia; de tempo em tempo a comerás. ^v10
+**10** A comida que comerás será por peso, vinte siclos por dia, e comerás em horários determinados a cada dia. ^v10
 
-**11** Também beberás a água por medida, a saber, a sexta parte de um him; de tempo em tempo beberás. ^v11
+**11** Então, beberás água pela medida de um sexto de him e beberás em horários determinados. ^v11
 
-**12** E o que comeres será como bolos de cevada, e cozê-los-ás sobre o esterco que sai do homem, diante dos olhos deles. ^v12
+**12** "Tu a comerás como bolos de cevada, mas a assarás sobre excremento humano, à vista deles!""." ^v12
 
-**13** E disse o Senhor: Assim comerão os filhos de Israel o seu pão imundo, entre os gentios para onde os lançarei. ^v13
+**13** "Assim diz Yahweh: ""Isso significa que o pão que o povo de Israel comerá ali será imundo entre as nações, para onde os banirei""." ^v13
 
-**14** Então disse eu: Ah! Senhor DEUS! Eis que a minha alma não foi contaminada, pois desde a minha mocidade até agora, nunca comi daquilo que morrer de si mesmo, ou que é despedaçado por feras; nem carne abominável entrou na minha boca. ^v14
+**14** "Então, eu disse: ""Ah, Senhor Yahweh! Eu nunca fui impuro! Também nunca comi nada morto, nem qualquer coisa morta por animais. Desde a minha juventude até agora, carne suja nunca entrou na minha boca!""." ^v14
 
-**15** E disse-me: Vê, dei-te esterco de vacas, em lugar de esterco de homem; e sobre ele prepararás o teu pão. ^v15
+**15** "Então, Ele me disse: ""Olha! Eu te dou esterco de vaca em vez de excremento humano; assim, tu prepararás teu pão sobre ele""." ^v15
 
-**16** Disse-me ainda: Filho do homem, eis que eu quebrarei o sustento de pão em Jerusalém, e comerão o pão por peso, e com ansiedade; e a água beberão por medida, e com espanto; ^v16
+**16** "Ele também me disse: ""Filho do homem, eis que estou tirando o sustento de pão em Jerusalém e eles, com ansiedade, farão racionamento de pão e, com desespero, beberão água racionada." ^v16
 
-**17** Para que lhes falte o pão e a água, e se espantem uns com os outros, e se consumam nas suas iniqüidades. ^v17
+**17** "Porque terão falta de pão e de água, todo homem ficará apavorado com o seu irmão e serão consumidos por causa da sua iniquidade""." ^v17

@@ -1,69 +1,68 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Ezequiel|Ezequiel]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Ezequiel|Ezequiel]]"
+tags: [biblia]
 ---
 
 # Ezequiel 34
 
-**1** E veio a mim a palavra do SENHOR, dizendo: ^v1
+**1** Então, a palavra de Yahweh veio a mim, dizendo: ^v1
 
-**2** Filho do homem, profetiza contra os pastores de Israel; profetiza, e dize aos pastores: Assim diz o Senhor DEUS: Ai dos pastores de Israel que se apascentam a si mesmos! Não devem os pastores apascentar as ovelhas? ^v2
+**2** """Filho do homem, profetiza contra os pastores de Israel. Profetiza e dize-lhes: 'Assim diz Yahweh Deus, aos pastores: Ai dos pastores de Israel que pastoreiam a si mesmos. Não deviam os pastores guardar o rebanho?" ^v2
 
-**3** Comeis a gordura, e vos vestis da lã; matais o cevado; mas não apascentais as ovelhas. ^v3
+**3** Vós comeis as gorduras e vos vestis de lã. Matais o cevado do rebanho; mas não cuidais das ovelhas. ^v3
 
-**4** As fracas não fortalecestes, e a doente não curastes, e a quebrada não ligastes, e a desgarrada não tornastes a trazer, e a perdida não buscastes; mas dominais sobre elas com rigor e dureza. ^v4
+**4** Não fortalecestes as que têm doenças, nem sarastes as enfermas. Não ligastes as quebradas, não procurastes as desgarradas, nem buscastes as perdidas. Pelo contrário, liderais sobre elas com rigor e violência. ^v4
 
-**5** Assim se espalharam, por não haver pastor, e tornaram-se pasto para todas as feras do campo, porquanto se espalharam. ^v5
+**5** Então, foram espalhadas por falta de um pastor e se tornaram comida para todas as feras dos campos após terem sido espalhadas. ^v5
 
-**6** As minhas ovelhas andaram desgarradas por todos os montes, e por todo o alto outeiro; sim, as minhas ovelhas andaram espalhadas por toda a face da terra, sem haver quem perguntasse por elas, nem quem as buscasse. ^v6
+**6** O Meu rebanho se espalha pelas montanhas e em cada monte elevado, e se dispersam por toda a superfície da terra. Ainda assim, ninguém os procura. ^v6
 
-**7** Portanto, ó pastores, ouvi a palavra do Senhor: ^v7
+**7** Portanto, pastores, ouvi a palavra de Yahweh: ^v7
 
-**8** Vivo eu, diz o Senhor DEUS, que, porquanto as minhas ovelhas foram entregues à rapina, e as minhas ovelhas vieram a servir de pasto a todas as feras do campo, por falta de pastor, e os meus pastores não procuraram as minhas ovelhas; e os pastores apascentaram a si mesmos, e não apascentaram as minhas ovelhas; ^v8
+**8** Tão certo como Eu vivo — declara Yahweh Deus — já que o Meu povo se tornou presa e alimento para todas as feras nos campos, porque não havia um pastor e nenhum dos Meus pastores procuraram o Meu rebanho, mas cuidam de si mesmos, guardam a si mesmos e não pastorearam o Meu rebanho. ^v8
 
-**9** Portanto, ó pastores, ouvi a palavra do Senhor: ^v9
+**9** Portanto, pastores, ouvi a palavra de Yahweh: ^v9
 
-**10** Assim diz o Senhor DEUS: Eis que eu estou contra os pastores; das suas mãos demandarei as minhas ovelhas, e eles deixarão de apascentar as ovelhas; os pastores não se apascentarão mais a si mesmos; e livrarei as minhas ovelhas da sua boca, e não lhes servirão mais de pasto. ^v10
+**10** Assim diz Yahweh Deus: Eis que estou contra os pastores e exigirei o Meu rebanho das suas mãos. Então, farei com que deixem de pastorear o Meu rebanho; os pastores não mais pastorearão a si mesmos, uma vez que tirarei o Meu rebanho das suas mãos, para que o Meu rebanho não mais lhes sirva de alimento. ^v10
 
-**11** Porque assim diz o Senhor DEUS: Eis que eu, eu mesmo, procurarei pelas minhas ovelhas, e as buscarei. ^v11
+**11** Porque assim diz Yahweh Deus: Eis que Eu mesmo procurarei pelo Meu rebanho e cuidarei dele. ^v11
 
-**12** Como o pastor busca o seu rebanho, no dia em que está no meio das suas ovelhas dispersas, assim buscarei as minhas ovelhas; e livrá-las-ei de todos os lugares por onde andam espalhadas, no dia nublado e de escuridão. ^v12
+**12** Assim como um pastor procura pelo seu rebanho, no dia em que está no meio do seu rebanho espalhado, assim buscarei pelo Meu rebanho e os resgatarei de todos os lugares por onde foram espalhados no dia de nuvens e de escuridão. ^v12
 
-**13** E tirá-las-ei dos povos, e as congregarei dos países, e as trarei à sua própria terra, e as apascentarei nos montes de Israel, junto aos rios, e em todas as habitações da terra. ^v13
+**13** Então, os trarei para fora dentre os povos; Eu os congregarei de diversas partes das terras e os trarei de volta à sua terra. Eu os colocarei em pastos à beira dos montes de Israel, junto às fontes, e em todos os lugares habitados da terra. ^v13
 
-**14** Em bons pastos as apascentarei, e nos altos montes de Israel será o seu aprisco; ali se deitarão num bom redil, e pastarão em pastos gordos nos montes de Israel. ^v14
+**14** Eu os colocarei em verdes pastos; os altos montes de Israel serão a sua pastagem. Ali, descansarão em bons lugares para a pastagem, em pastos abundantes, e pastarão nos montes de Israel. ^v14
 
-**15** Eu mesmo apascentarei as minhas ovelhas, e eu as farei repousar, diz o Senhor DEUS. ^v15
+**15** Eu mesmo pastorearei o Meu rebanho e lhes darei descanso — esta é a declaração de Yahweh Deus. ^v15
 
-**16** A perdida buscarei, e a desgarrada tornarei a trazer, e a quebrada ligarei, e a enferma fortalecerei; mas a gorda e a forte destruirei; apascentá-las-ei com juízo. ^v16
+**16** Buscarei os perdidos e restaurarei os desgarrados. Unirei os quebrados e sararei os enfermos, mas os gordos e fortes serão destruídos. Eu os pastorearei com justiça. ^v16
 
-**17** E quanto a vós, ó ovelhas minhas, assim diz o Senhor DEUS: Eis que eu julgarei entre ovelhas e ovelhas, entre carneiros e bodes. ^v17
+**17** Agora tu, Meu rebanho — assim diz Yaweh Deus: eis que Eu serei um Juiz entre as ovelhas e entre carneiros e bodes. ^v17
 
-**18** Acaso não vos basta pastar os bons pastos, senão que pisais o resto de vossos pastos aos vossos pés? E não vos basta beber as águas claras, senão que sujais o resto com os vossos pés? ^v18
+**18** Não basta se alimentar num bom pasto, precisais pisotear o que restar do pasto; e não vos é suficiente beber de águas limpas, precisais enlamear os rios com os vossos pés? ^v18
 
-**19** E quanto às minhas ovelhas elas pastarão o que haveis pisado com os vossos pés, e beberão o que haveis sujado com os vossos pés. ^v19
+**19** As Minhas ovelhas deverão comer o que pisoteastes e beber o que enlameastes com os pés? ^v19
 
-**20** Por isso o Senhor DEUS assim lhes diz: Eis que eu, eu mesmo, julgarei entre a ovelha gorda e a ovelha magra. ^v20
+**20** Portanto, assim lhes diz Yahweh Deus: Eis que Eu mesmo julgarei entre as ovelhas gordas e as magras, ^v20
 
-**21** Porquanto com o lado e com o ombro dais empurrões, e com os vossos chifres escorneais todas as fracas, até que as espalhais para fora. ^v21
+**21** porquanto puxastes com os vossos quadris e ombros e empurrais com chifres as fracas, até as espalhardes para longe da terra. ^v21
 
-**22** Portanto livrarei as minhas ovelhas, para que não sirvam mais de rapina, e julgarei entre ovelhas e ovelhas. ^v22
+**22** Salvarei as Minhas ovelhas e não servirão mais de presa; julgarei entre uma ovelha e outra! ^v22
 
-**23** E suscitarei sobre elas um só pastor, e ele as apascentará; o meu servo Davi é que as apascentará; ele lhes servirá de pastor. ^v23
+**23** Colocarei no meio deles um só pastor, o Meu servo Davi. Ele os alimentará e será o seu pastor. ^v23
 
-**24** E eu, o Senhor, lhes serei por Deus, e o meu servo Davi será príncipe no meio delas; eu, o Senhor, o disse. ^v24
+**24** Pois Eu, Yahweh, serei o seu Deus e o Meu servo Davi será um príncipe no meio deles — Eu, Yahweh, assim declarei. ^v24
 
-**25** E farei com elas uma aliança de paz, e acabarei com as feras da terra, e habitarão em segurança no deserto, e dormirão nos bosques. ^v25
+**25** Então, farei um acordo de paz com eles e tirarei os animais selvagens da terra, para que vivam em segurança no deserto e durmam seguros nas florestas. ^v25
 
-**26** E delas e dos lugares ao redor do meu outeiro, farei uma bênção; e farei descer a chuva a seu tempo; chuvas de bênção serão. ^v26
+**26** Também farei deles e do lugar ao redor do Meu monte, bênção; mandarei chuvas no tempo certo. Essas serão chuvas de bênção. ^v26
 
-**27** E as árvores do campo darão o seu fruto, e a terra dará a sua novidade, e estarão seguras na sua terra; e saberão que eu sou o Senhor, quando eu quebrar as ataduras do seu jugo e as livrar da mão dos que se serviam delas. ^v27
+**27** Depois, as árvores do campo darão o seu fruto e a terra dará o seu produto. As Minhas ovelhas estarão seguras na sua terra; então, saberão que Eu sou Yahweh, quando quebrar as varas do seu jugo, e, quando os resgatar da terra dos que os escravizaram. ^v27
 
-**28** E não servirão mais de rapina aos gentios, as feras da terra nunca mais as devorarão; e habitarão seguramente, e ninguém haverá que as espante. ^v28
+**28** Não mais serão presa para as nações e os animais selvagens da terra não mais os devorarão, pois viverão em segurança e ninguém os intimidará. ^v28
 
-**29** E lhes levantarei uma plantação de renome, e nunca mais serão consumidas pela fome na terra, nem mais levarão sobre si o opróbrio dos gentios. ^v29
+**29** Pois Eu lhes darei um bom lugar para o plantio, assim, nunca mais morrerão de fome na terra e as nações não mais trarão insultos contra eles. ^v29
 
-**30** Saberão, porém, que eu, o SENHOR seu Deus, estou com elas, e que elas são o meu povo, a casa de Israel, diz o Senhor DEUS. ^v30
+**30** Então, saberão que Eu, Yahweh seu Deus, estou com eles. Eles são o Meu povo, a casa de Israel — esta é a declaração de Yahweh Deus. ^v30
 
-**31** Vós, pois, ó ovelhas minhas, ovelhas do meu pasto; homens sois; porém eu sou o vosso Deus, diz o Senhor DEUS. ^v31
+**31** "Porque vós sois ovelhas do Meu pasto e Meu povo e Eu sou vosso Deus — esta é a declaração de Yahweh Deus'""." ^v31

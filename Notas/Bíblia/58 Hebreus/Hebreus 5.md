@@ -1,35 +1,34 @@
 ---
-Livro: "[[Hebreus|Hebreus]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Hebreus|Hebreus]]"
+tags: [biblia]
 ---
 
 # Hebreus 5
 
-**1** Porque todo o sumo sacerdote, tomado dentre os homens, é constituído a favor dos homens nas coisas concernentes a Deus, para que ofereça dons e sacrifícios pelos pecados; ^v1
+**1** Pois todo sumo sacerdote, escolhido dentre o povo, é nomeado para agir em favor do povo nas coisas concernentes a Deus, para oferecer tanto ofertas quanto sacrifícios pelos pecados. ^v1
 
-**2** E possa compadecer-se ternamente dos ignorantes e errados; pois também ele mesmo está rodeado de fraqueza. ^v2
+**2** Ele é capaz de tratar com brandura os ignorantes e os que erram, pois ele também está cercado de fraquezas. ^v2
 
-**3** E por esta causa deve ele, tanto pelo povo, como também por si mesmo, fazer oferta pelos pecados. ^v3
+**3** Por causa disso, ele também precisa oferecer sacrifícios pelos seus próprios pecados, assim como o faz pelos pecados do povo. ^v3
 
-**4** E ninguém toma para si esta honra, senão o que é chamado por Deus, como Arão. ^v4
+**4** E nenhum homem toma essa honra para si mesmo, mas é chamado por Deus, tal como Arão foi. ^v4
 
-**5** Assim também Cristo não se glorificou a si mesmo, para se fazer sumo sacerdote, mas aquele que lhe disse: Tu és meu Filho,Hoje te gerei. ^v5
+**5** "Assim, Cristo também não honrou a Si mesmo, fazendo-Se sumo sacerdote, mas Aquele que Lhe disse: ""Tu és Meu Filho; hoje Eu Te gerei""." ^v5
 
-**6** Como também diz, noutro lugar: Tu és sacerdote eternamente, Segundo a ordem de Melquisedeque. ^v6
+**6** "Conforme também está escrito: ""Tu és Sacerdote para sempre segundo a ordem de Melquisedeque""." ^v6
 
-**7** O qual, nos dias da sua carne, oferecendo, com grande clamor e lágrimas, orações e súplicas ao que o podia livrar da morte, foi ouvido quanto ao que temia. ^v7
+**7** Durante os dias de Sua carne, Ele ofereceu orações e súplicas, clamando com lágrimas Àquele que era capaz de salvá-Lo da morte. Por causa da Sua piedade, Ele foi ouvido. ^v7
 
-**8** Ainda que era Filho, aprendeu a obediência, por aquilo que padeceu. ^v8
+**8** Embora fosse Filho, aprendeu a obediência pelas coisas que sofreu. ^v8
 
-**9** E, sendo ele consumado, veio a ser a causa da eterna salvação para todos os que lhe obedecem; ^v9
+**9** Tendo sido aperfeiçoado, tornou-se fonte da salvação eterna para todos que O obedecem, ^v9
 
-**10** Chamado por Deus sumo sacerdote, segundo a ordem de Melquisedeque. ^v10
+**10** sendo designado por Deus como Sumo Sacerdote segundo a ordem de Melquisedeque. ^v10
 
-**11** Do qual muito temos que dizer, de difícil interpretação; porquanto vos fizestes negligentes para ouvir. ^v11
+**11** Acerca disso, temos muito a dizer, mas é difícil de explicar porque sois lentos para ouvir. ^v11
 
-**12** Porque, devendo já ser mestres pelo tempo, ainda necessitais de que se vos torne a ensinar quais sejam os primeiros rudimentos das palavras de Deus; e vos haveis feito tais que necessitais de leite, e não de sólido mantimento. ^v12
+**12** Embora a esta altura vós já deveríeis ser mestres, ainda é necessário que alguém vos ensine os princípios básicos da Palavra de Deus. Vós necessitais de leite, não de alimento sólido. ^v12
 
-**13** Porque qualquer que ainda se alimenta de leite não está experimentado na palavra da justiça, porque é menino. ^v13
+**13** Pois todo aquele que bebe apenas leite é inexperiente na palavra da justiça porque é um bebê. ^v13
 
-**14** Mas o mantimento sólido é para os perfeitos, os quais, em razão do costume, têm os sentidos exercitados para discernir tanto o bem como o mal. ^v14
+**14** Por outro lado, a comida sólida é para adultos, aqueles que, pela prática, têm o entendimento treinado para discernir o bem e o mal. ^v14

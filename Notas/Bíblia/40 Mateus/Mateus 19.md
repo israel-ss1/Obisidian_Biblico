@@ -1,67 +1,66 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Mateus|Mateus]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Mateus|Mateus]]"
+tags: [biblia]
 ---
 
 # Mateus 19
 
-**1** E aconteceu que, concluindo Jesus estes discursos, saiu da Galiléia, e dirigiu- se aos confins da Judéia, além do Jordão; ^v1
+**1** Aconteceu que, quando Jesus terminou essas palavras, partiu da Galileia e foi para a região da Judeia, além do rio Jordão. ^v1
 
-**2** E seguiram-no grandes multidões, e curou-as ali. ^v2
+**2** Grandes multidões O seguiram, e Ele as curou. ^v2
 
-**3** Então chegaram ao pé dele os fariseus, tentando-o, e dizendo-lhe: É lícito ao homem repudiar sua mulher por qualquer motivo? ^v3
+**3** "Fariseus vieram a Ele e, colocando-O à prova, disseram: ""É legítimo a um homem repudiar sua esposa por qualquer motivo?""" ^v3
 
-**4** Ele, porém, respondendo, disse-lhes: Não tendes lido que aquele que os fez no princípio macho e fêmea os fez, ^v4
+**4** "Jesus respondeu dizendo: ""Não lestes que Aquele que os fez desde o princípio os fez homem e mulher?" ^v4
 
-**5** E disse: Portanto, deixará o homem pai e mãe, e se unirá a sua mulher, e serão dois numa só carne? ^v5
+**5** E que Ele também disse: 'Por essa razão, o homem deixará seu pai e sua mãe e se unirá a sua mulher, e os dois se tornarão uma só carne?' ^v5
 
-**6** Assim não são mais dois, mas uma só carne. Portanto, o que Deus ajuntou não o separe o homem. ^v6
+**6** "Logo eles não são mais dois, mas uma só carne. Portanto, o que Deus uniu, ninguém separe""." ^v6
 
-**7** Disseram-lhe eles: Então, por que mandou Moisés dar-lhe carta de divórcio, e repudiá-la? ^v7
+**7** "Eles Lhe disseram: ""Por que, então, Moisés nos mandou dar uma certidão de divórcio e repudiar?""" ^v7
 
-**8** Disse-lhes ele: Moisés, por causa da dureza dos vossos corações, vos permitiu repudiar vossas mulheres; mas ao princípio não foi assim. ^v8
+**8** "Ele disse-lhes: ""Por causa da dureza do vosso coração, Moisés vos permitiu repudiar vossas esposas, mas, no princípio, não era dessa forma." ^v8
 
-**9** Eu vos digo, porém, que qualquer que repudiar sua mulher, não sendo por causa de fornicação, e casar com outra, comete adultério; e o que casar com a repudiada também comete adultério. ^v9
+**9** "Eu vos digo que todo aquele que repudiar sua esposa, exceto por imoralidade, e casar-se com outra, comete adultério; [e o homem que se casar com uma mulher repudiada comete adultério""]." ^v9
 
-**10** Disseram-lhe seus discípulos: Se assim é a condição do homem relativamente à mulher, não convém casar. ^v10
+**10** "Os discípulos disseram a Jesus: ""Se esse é o caso de um homem em relação a sua esposa, não é bom casar-se""." ^v10
 
-**11** Ele, porém, lhes disse: Nem todos podem receber esta palavra, mas só aqueles a quem foi concedido. ^v11
+**11** "Mas Jesus disse-lhes: ""Nem todos podem aceitar esse ensinamento, mas somente aqueles a quem é permitido aceitá-lo." ^v11
 
-**12** Porque há eunucos que assim nasceram do ventre da mãe; e há eunucos que foram castrados pelos homens; e há eunucos que se castraram a si mesmos, por causa do reino dos céus. Quem pode receber isto, receba-o. ^v12
+**12** "Pois há eunucos que são nascidos assim do útero de suas mães. E há eunucos que são feitos eunucos pelos homens. E há eunucos que fizeram a si mesmos eunucos por causa do Reino dos Céus. Aquele que está apto para receber esse ensino receba-o""." ^v12
 
-**13** Trouxeram-lhe, então, alguns meninos, para que sobre eles pusesse as mãos, e orasse; mas os discípulos os repreendiam. ^v13
+**13** Então foram trazidas algumas crianças para que Ele estendesse as mãos sobre elas e orasse, mas os discípulos repreenderam-lhes. ^v13
 
-**14** Jesus, porém, disse: Deixai os meninos, e não os estorveis de vir a mim; porque dos tais é o reino dos céus. ^v14
+**14** "Todavia Jesus disse: ""Deixai as crianças, e não as proibais de vir a Mim, pois delas é o Reino dos Céus.""." ^v14
 
-**15** E, tendo-lhes imposto as mãos, partiu dali. ^v15
+**15** Ele colocou as mãos sobre elas, e então partiu dali. ^v15
 
-**16** E eis que, aproximando-se dele um jovem, disse-lhe: Bom Mestre, que bem farei para conseguir a vida eterna? ^v16
+**16** "Eis que um homem veio a Jesus e disse: ""Mestre, o que posso fazer de bom para ter a vida eterna?""" ^v16
 
-**17** E ele disse-lhe: Por que me chamas bom? Não há bom senão um só, que é Deus. Se queres, porém, entrar na vida, guarda os mandamentos. ^v17
+**17** "Jesus disse-lhe: ""Por que Me perguntas sobre o que é bom? Só um é bom, mas se queres entrar na vida, cumpra os mandamentos""." ^v17
 
-**18** Disse-lhe ele: Quais? E Jesus disse: Não matarás, não cometerás adultério, não furtarás, não dirás falso testemunho; ^v18
+**18** "O homem perguntou-Lhe: ""Quais mandamentos?"" Jesus respondeu: ""Não matarás, não cometerás adultério, não roubarás, não dirás falso testemunho," ^v18
 
-**19** Honra teu pai e tua mãe, e amarás o teu próximo como a ti mesmo. ^v19
+**19** "honra teu pai e tua mãe, e amarás o teu próximo como a ti mesmo""." ^v19
 
-**20** Disse-lhe o jovem: Tudo isso tenho guardado desde a minha mocidade; que me falta ainda? ^v20
+**20** "O jovem disse-Lhe: ""A todas essas coisas tenho obedecido; o que eu preciso fazer ainda?""" ^v20
 
-**21** Disse-lhe Jesus: Se queres ser perfeito, vai, vende tudo o que tens e dá-o aos pobres, e terás um tesouro no céu; e vem, e segue-me. ^v21
+**21** "Jesus respondeu-lhe: ""Se desejas ser perfeito, vai, vende o que tens, e dá aos pobres, e terás um tesouro no céu; então vem e segue-Me.""" ^v21
 
-**22** E o jovem, ouvindo esta palavra, retirou-se triste, porque possuía muitas propriedades. ^v22
+**22** Mas, quando o jovem ouviu o que Jesus falou, foi embora triste, pois tinha muitas propriedades. ^v22
 
-**23** Disse então Jesus aos seus discípulos: Em verdade vos digo que é difícil entrar um rico no reino dos céus. ^v23
+**23** "Jesus disse aos seus discípulos: ""Verdadeiramente Eu vos digo que é difícil para um homem rico entrar no Reino dos Céus." ^v23
 
-**24** E, outra vez vos digo que é mais fácil passar um camelo pelo fundo de uma agulha do que entrar um rico no reino de Deus. ^v24
+**24** "Novamente eu vos digo: É mais fácil para um camelo passar através do buraco da agulha, do que para um homem rico entrar no Reino de Deus""." ^v24
 
-**25** Os seus discípulos, ouvindo isto, admiraram-se muito, dizendo: Quem poderá pois salvar-se? ^v25
+**25** "Quando os discípulos ouviram isso, ficaram muito maravilhados e disseram: ""Quem então pode ser salvo?""" ^v25
 
-**26** E Jesus, olhando para eles, disse-lhes: Aos homens é isso impossível, mas a Deus tudo é possível. ^v26
+**26** "Jesus olhou-os e disse: ""Para o ser humano isso é impossível, mas para Deus todas as coisas são possíveis""." ^v26
 
-**27** Então Pedro, tomando a palavra, disse-lhe: Eis que nós deixamos tudo, e te seguimos; que receberemos? ^v27
+**27** "Então Pedro respondeu e disse-Lhe: ""Vê, nós deixamos tudo e Te seguimos; o que então receberemos?""" ^v27
 
-**28** E Jesus disse-lhes: Em verdade vos digo que vós, que me seguistes, quando, na regeneração, o Filho do homem se assentar no trono da sua glória, também vos assentareis sobre doze tronos, para julgar as doze tribos de Israel. ^v28
+**28** "Jesus disse-lhes: ""Verdadeiramente Eu vos digo que, na regeneração, quando o Filho do Homem sentar-se no Seu glorioso trono, vós que tendes Me seguido também sentareis sobre doze tronos para julgar as doze tribos de Israel." ^v28
 
-**29** E todo aquele que tiver deixado casas, ou irmãos, ou irmãs, ou pai, ou mãe, ou mulher, ou filhos, ou terras, por amor de meu nome, receberá cem vezes tanto, e herdará a vida eterna. ^v29
+**29** Todo aquele que deixou casas, irmãos, irmãs, pai, mãe, filhos, ou propriedades, por causa do Meu nome, receberá cem vezes mais e herdará a vida eterna. ^v29
 
-**30** Porém, muitos primeiros serão os derradeiros, e muitos derradeiros serão os primeiros. ^v30
+**30** "Porém muitos dos primeiros serão últimos; e muitos dos últimos serão primeiros""." ^v30

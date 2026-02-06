@@ -1,49 +1,48 @@
 ---
-Livro: "[[2 Reis|2 Reis]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/2 Reis|2 Reis]]"
+tags: [biblia]
 ---
 
 # 2 Reis 20
 
-**1** Naqueles dias adoeceu Ezequias mortalmente; e o profeta Isaías, filho de Amós, veio a ele e lhe disse: Assim diz o SENHOR: Põe em ordem a tua casa, porque morrerás, e não viverás. ^v1
+**1** "Naqueles dias, Ezequias ficou doente ao ponto de morrer. Assim, Isaías, filho de Amoz, o profeta, veio a ele e lhe disse: ""Yahweh diz: 'Põe tua casa em ordem; porque tu morrerás e não viverás'""." ^v1
 
-**2** Então virou o rosto para a parede, e orou ao Senhor, dizendo: ^v2
+**2** Então, Ezequias virou sua face para a parede e orou a Yahweh, dizendo: ^v2
 
-**3** Ah, Senhor! Suplico-te lembrar de que andei diante de ti em verdade, com o coração perfeito, e fiz o que era bom aos teus olhos. E chorou Ezequias muitíssimo. ^v3
+**3** """Por favor, Yahweh, lembra-Te de como eu andei fielmente diante de Ti, com todo o meu coração, e eu fiz o que era bom à Tua vista"". E Ezequias chorou alto." ^v3
 
-**4** Sucedeu, pois, que, não havendo Isaías ainda saído do meio do pátio, veio a ele a palavra do Senhor dizendo: ^v4
+**4** Antes de Isaías ter saído do meio do pátio, a palavra de Yahweh veio a ele, dizendo: ^v4
 
-**5** Volta, e dize a Ezequias, capitão do meu povo: Assim diz o Senhor, o Deus de Davi, teu pai: Ouvi a tua oração, e vi as tuas lágrimas; eis que eu te sararei; ao terceiro dia subirás à casa do Senhor. ^v5
+**5** """Volta e diz a Ezequias, o líder do meu povo: 'Isto é o que Yahweh, o Deus de Davi, teu antepassado, diz: Ouvi tua oração e vi tuas lágrimas. Estou prestes a curar-te no terceiro dia, e tu subirás ao templo de Yahweh." ^v5
 
-**6** E acrescentarei aos teus dias quinze anos, e das mãos do rei da Assíria te livrarei, a ti e a esta cidade; e ampararei esta cidade por amor de mim, e por amor de Davi, meu servo. ^v6
+**6** "Acrescentarei quinze anos à tua vida, resgatarei a ti e a esta cidade da mão do rei da Assíria e defenderei esta cidade por Minha causa e por causa de Meu servo Davi'""." ^v6
 
-**7** Disse mais Isaías: Tomai uma pasta de figos. E a tomaram, e a puseram sobre a chaga; e ele sarou. ^v7
+**7** "Assim, Isaías disse: ""Tomai uma pasta de figos"". Eles fizeram assim e puseram-na em sua úlcera, e ele se recuperou." ^v7
 
-**8** E Ezequias disse a Isaías: Qual é o sinal de que o Senhor me sarará, e de que ao terceiro dia subirei à casa do Senhor? ^v8
+**8** "Ezequias disse a Isaías: ""Qual será o sinal de que Yahweh irá me curar e de que eu deva subir ao templo de Yahweh no terceiro dia?""." ^v8
 
-**9** Disse Isaías: Isto te será sinal, da parte do Senhor, de que o Senhor cumprirá a palavra que disse: Adiantar-se-á a sombra dez graus, ou voltará dez graus atrás? ^v9
+**9** "Isaías replicou: ""Este será o sinal de Yahweh para ti, que Yahweh fará aquilo que tem dito. Deve a sombra avançar dez passos ou retroceder dez passos?""." ^v9
 
-**10** Então disse Ezequias: É fácil que a sombra decline dez graus; não seja assim, mas volte a sombra dez graus atrás. ^v10
+**10** "Ezequias respondeu: ""É algo fácil para a sombra avançar dez passos. Não, que a sombra retroceda dez passos""." ^v10
 
-**11** Então o profeta Isaías clamou ao Senhor; e fez voltar a sombra dez graus atrás, pelos graus que tinha declinado no relógio de sol de Acaz. ^v11
+**11** Assim, Isaías, o profeta, clamou a Yahweh, e Ele retrocedeu a sombra em dez passos, do ponto em que ela se havia movido na escadaria de Acaz. ^v11
 
-**12** Naquele tempo enviou Berodaque-Baladã, filho de Baladã, rei de babilônia, cartas e um presente a Ezequias; porque ouvira que Ezequias tinha estado doente. ^v12
+**12** Naquele tempo, Meradoque-Baladã, filho de Baladã rei da Babilônia, enviou cartas e um presente a Ezequias, porque havia ouvido que Ezequias estava doente. ^v12
 
-**13** E Ezequias lhes deu ouvidos; e lhes mostrou toda a casa de seu tesouro, a prata, o ouro, as especiarias e os melhores ungüentos, e a sua casa de armas, e tudo quanto se achou nos seus tesouros; coisa nenhuma houve que não lhes mostrasse, nem em sua casa, nem em todo o seu domínio. ^v13
+**13** Ezequias ouviu aquelas cartas e, então, mostrou aos mensageiros todo o palácio e suas coisas valiosas: a prata, o ouro, as finas especiarias, o óleo precioso, o depósito de suas armas e tudo que foi achado em seus tesouros. Não houve nada em sua casa nem em todo o seu reino que Ezequias não mostrasse a eles. ^v13
 
-**14** Então o profeta Isaías veio ao rei Ezequias, e lhe disse: Que disseram aqueles homens, e de onde vieram a ti? Disse Ezequias: Vieram de um país muito remoto, de babilônia. ^v14
+**14** "Então, Isaías, o profeta, veio ao rei Ezequias e perguntou-lhe: ""O que esses homens disseram a ti? De onde eles vieram?"". Ezequias disse: ""Eles vieram do país distante da Babilônia""." ^v14
 
-**15** E disse ele: Que viram em tua casa? E disse Ezequias: Tudo quanto há em minha casa viram; coisa nenhuma há nos meus tesouros que eu não lhes mostrasse. ^v15
+**15** "Isaías perguntou: ""O que eles viram em tua casa?"". Ezequias respondeu: ""Eles viram tudo em minha casa. Não há nada entre meus bens valiosos que eu não tenha mostrado a eles""." ^v15
 
-**16** Então disse Isaías a Ezequias: Ouve a palavra do Senhor. ^v16
+**16** "Assim, Isaías disse a Ezequias: ""Ouve a palavra de Yahweh:" ^v16
 
-**17** Eis que vêm dias em que tudo quanto houver em tua casa, e o que entesouraram teus pais até ao dia de hoje, será levado a babilônia; não ficará coisa alguma, disse o SENHOR. ^v17
+**17** 'Olha, os dias estão prestes a chegar em que tudo em teu palácio, as coisas que teus antepassados armazenaram até o presente dia, será carregado para a Babilônia. Nada será deixado, diz Yahweh. ^v17
 
-**18** E ainda até de teus filhos, que procederem de ti, e que tu gerares, tomarão, para que sejam eunucos no paço do rei da babilônia. ^v18
+**18** "E os filhos nascidos de ti, aqueles que tu criaste, serão levados, e eles se tornarão eunucos no palácio do rei da Babilônia'""." ^v18
 
-**19** Então disse Ezequias a Isaías: Boa é a palavra do Senhor que disseste. Disse mais: E não haverá, pois, em meus dias paz e verdade? ^v19
+**19** "Então, Ezequias disse a Isaías: ""Boa é a palavra de Yahweh que tu falaste"". Porque pensei: ""Haverá paz e segurança em meus dias""." ^v19
 
-**20** Ora, o mais dos atos de Ezequias, e todo o seu poder, e como fez a piscina e o aqueduto, e como fez vir a água à cidade, porventura não está escrito no livro das crônicas dos reis de Judá? ^v20
+**20** Quanto aos demais assuntos relacionados a Ezequias — todo o seu poder, e como ele construiu o reservatório de água e o túnel para abastecer a cidade com água —, não estão escritos no livro de Crônicas dos reis de Judá? ^v20
 
-**21** E Ezequias dormiu com seus pais; e Manassés, seu filho, reinou em seu lugar. ^v21
+**21** Ezequias dormiu com seus antepassados, e Manassés, seu filho, tornou-se rei em seu lugar. ^v21

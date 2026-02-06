@@ -1,65 +1,64 @@
 ---
-Livro: "[[Apocalipse|Apocalipse]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Apocalipse|Apocalipse]]"
+tags: [biblia]
 ---
 
 # Apocalipse 2
 
-**1** Escreve ao anjo da igreja de Éfeso: Isto diz aquele que tem na sua destra as sete estrelas, que anda no meio dos sete castiçais de ouro: ^v1
+**1** Ao anjo da igreja em Éfeso escreve: 'Estas são as palavras Daquele que sustenta as sete estrelas em Sua mão direita e que anda entre os sete candeeiros de ouro: ^v1
 
-**2** Conheço as tuas obras, e o teu trabalho, e a tua paciência, e que não podes sofrer os maus; e puseste à prova os que dizem ser apóstolos, e o não são, e tu os achaste mentirosos. ^v2
+**2** Eu conheço o que tens feito, o teu trabalho árduo e a tua perseverança com paciência. Sei que não podes tolerar homens maus e que puseste à prova aqueles que afirmam por si mesmos serem apóstolos, mas não o são, e os achaste falsos. ^v2
 
-**3** E sofreste, e tens paciência; e trabalhaste pelo meu nome, e não te cansaste. ^v3
+**3** Eu sei que tens perseverado com paciência, tens passado por muitas provações por causa do Meu nome e não tens desfalecido. ^v3
 
-**4** Tenho, porém, contra ti que deixaste o teu primeiro amor. ^v4
+**4** Porém tenho contra ti que deixaste o teu primeiro amor. ^v4
 
-**5** Lembra-te, pois, de onde caíste, e arrepende-te, e pratica as primeiras obras; quando não, brevemente a ti virei, e tirarei do seu lugar o teu castiçal, se não te arrependeres. ^v5
+**5** Portanto lembra-te de onde caíste, arrepende-te e pratica as primeiras obras. A não ser que te arrependas, virei a ti e removerei o teu candeeiro do seu lugar. ^v5
 
-**6** Tens, porém, isto: que odeias as obras dos nicolaítas, as quais eu também odeio. ^v6
+**6** Tens, contudo, que odeias as obras dos Nicolaítas, as quais Eu também odeio. ^v6
 
-**7** Quem tem ouvidos, ouça o que o Espírito diz às igrejas: Ao que vencer, dar-lhe-ei a comer da árvore da vida, que está no meio do paraíso de Deus. ^v7
+**7** "Quem tem ouvidos ouça o que o Espírito diz às igrejas. Ao que vencer, Eu lhe darei o direito de comer da Árvore da Vida, que está no Paraíso de Deus'""." ^v7
 
-**8** E ao anjo da igreja em Esmirna, escreve: Isto diz o primeiro e o último, que foi morto, e reviveu: ^v8
+**8** """Ao anjo da igreja em Esmirna escreve: 'Estas são as palavras Daquele que é o primeiro e o último, que morreu e tornou a viver:" ^v8
 
-**9** Conheço as tuas obras, e tribulação, e pobreza (mas tu és rico), e a blasfêmia dos que se dizem judeus, e não o são, mas são a sinagoga de Satanás. ^v9
+**9** Eu conheço tuas aflições e tua pobreza (mas tu és rico) e a blasfêmia daqueles que se dizem judeus, mas não são. Eles são sinagoga de Satanás. ^v9
 
-**10** Nada temas das coisas que hás de padecer. Eis que o diabo lançará alguns de vós na prisão, para que sejais tentados; e tereis uma tribulação de dez dias. Sê fiel até à morte, e dar-te-ei a coroa da vida. ^v10
+**10** Não temas o que estás prestes a sofrer. Eis que o diabo está para lançar alguns de vós na prisão, para serdes provados, e sofrereis por dez dias. Sê fiel até à morte, e Eu te darei a coroa da vida'. ^v10
 
-**11** Quem tem ouvidos, ouça o que o Espírito diz às igrejas: O que vencer não receberá o dano da segunda morte. ^v11
+**11** "Quem tem ouvidos ouça o que o Espírito diz às igrejas. Aquele que vencer não sofrerá o dano da segunda morte'""." ^v11
 
-**12** E ao anjo da igreja que está em Pérgamo escreve: Isto diz aquele que tem a espada aguda de dois fios: ^v12
+**12** """Ao anjo da igreja em Pérgamo escreve: 'Estas são as palavras Daquele que tem a espada afiada de dois gumes:" ^v12
 
-**13** Conheço as tuas obras, e onde habitas, que é onde está o trono de Satanás; e reténs o meu nome, e não negaste a minha fé, ainda nos dias de Antipas, minha fiel testemunha, o qual foi morto entre vós, onde Satanás habita. ^v13
+**13** Eu sei onde tu habitas, que é onde está o trono de Satanás. Ainda assim, tu permaneces fiel ao Meu nome. Sei que tu não negaste a tua fé em Mim, mesmo nos dias de Antipas, minha fiel testemunha, que foi morto entre vós, onde Satanás habita. ^v13
 
-**14** Mas algumas poucas coisas tenho contra ti, porque tens lá os que seguem a doutrina de Balaão, o qual ensinava Balaque a lançar tropeços diante dos filhos de Israel, para que comessem dos sacrifícios da idolatria, e fornicassem. ^v14
+**14** Porém tenho algumas coisas contra ti: Alguns que seguem firmemente as doutrinas de Balaão, que ensinou Balaque a armar uma cilada diante dos filhos de Israel, para que eles comessem coisas sacrificadas a ídolos e cometessem imoralidade sexual. ^v14
 
-**15** Assim tens também os que seguem a doutrina dos nicolaítas, o que eu odeio. ^v15
+**15** Do mesmo modo, tens alguns que seguem firmemente os ensinos dos Nicolaítas. ^v15
 
-**16** Arrepende-te, pois, quando não em breve virei a ti, e contra eles batalharei com a espada da minha boca. ^v16
+**16** Portanto, arrepende-te! Caso contrário, Eu virei a ti sem demora e contra eles farei guerra, com a espada da minha boca. ^v16
 
-**17** Quem tem ouvidos, ouça o que o Espírito diz às igrejas: Ao que vencer darei eu a comer do maná escondido, e dar-lhe-ei uma pedra branca, e na pedra um novo nome escrito, o qual ninguém conhece senão aquele que o recebe. ^v17
+**17** "Quem tem ouvidos ouça o que o Espírito diz às igrejas. Àquele que vencer Eu darei do maná escondido e lhe darei uma pedra branca com um novo nome escrito nela, um nome que ninguém conhece, exceto aquele que a recebe'""." ^v17
 
-**18** E ao anjo da igreja de Tiatira escreve: Isto diz o Filho de Deus, que tem seus olhos como chama de fogo, e os pés semelhantes ao latão reluzente: ^v18
+**18** """Ao anjo da igreja em Tiatira escreve: 'Estas são as palavras do Filho de Deus, que tem olhos como chama de fogo e os pés como bronze polido:" ^v18
 
-**19** Eu conheço as tuas obras, e o teu amor, e o teu serviço, e a tua fé, e a tua paciência, e que as tuas últimas obras são mais do que as primeiras. ^v19
+**19** Eu sei o que tens feito, o teu amor, a tua fé, o teu serviço e a tua perseverança. E conheço os teus últimos feitos que são mais numerosos do que os primeiros. ^v19
 
-**20** Mas algumas poucas coisas tenho contra ti que deixas Jezabel, mulher que se diz profetisa, ensinar e enganar os meus servos, para que forniquem e comam dos sacrifícios da idolatria. ^v20
+**20** Porém tenho isto contra ti: Toleras a mulher Jezabel, a que se diz profetiza. Pelos seus ensinos, seduz meus servos a cometerem imoralidade sexual e a comerem alimentos sacrificados aos ídolos. ^v20
 
-**21** E dei-lhe tempo para que se arrependesse da sua fornicação; e não se arrependeu. ^v21
+**21** E dei-lhe tempo para que se arrependesse, mas ela não quer se arrepender de sua imoralidade. ^v21
 
-**22** Eis que a porei numa cama, e sobre os que adulteram com ela virá grande tribulação, se não se arrependerem das suas obras. ^v22
+**22** Eis que Eu a lançarei em um leito de enfermidade, bem como em grande aflição os que cometeram adultério com ela, a menos que se arrependam das suas obras. ^v22
 
-**23** E ferirei de morte a seus filhos, e todas as igrejas saberão que eu sou aquele que sonda os rins e os corações. E darei a cada um de vós segundo as vossas obras. ^v23
+**23** Matarei seus filhos, e todas as igrejas saberão que Eu Sou Aquele que sonda os pensamentos e os corações. Darei a cada um conforme as suas obras. ^v23
 
-**24** Mas eu vos digo a vós, e aos restantes que estão em Tiatira, a todos quantos não têm esta doutrina, e não conheceram, como dizem, as profundezas de Satanás, que outra carga vos não porei. ^v24
+**24** Aos demais em Tiatira, a todos os que não seguem o ensino dela e não conhecem as chamadas coisas profundas de Satanás, Eu vos digo: 'Não lançarei sobre vós mais nenhum fardo'. ^v24
 
-**25** Mas o que tendes, retende-o até que eu venha. ^v25
+**25** Porém deveis permanecer firmes até que Eu venha. ^v25
 
-**26** E ao que vencer, e guardar até ao fim as minhas obras, eu lhe darei poder sobre as nações, ^v26
+**26** Àquele que vencer e guardar as minhas obras até o fim Eu lhe darei autoridade sobre as nações. ^v26
 
-**27** E com vara de ferro as regerá; e serão quebradas como vasos de oleiro; como também recebi de meu Pai. ^v27
+**27** Ele as governará com cetro de ferro e, como vasos de barro, as quebrará em pedaços. ^v27
 
-**28** E dar-lhe-ei a estrela da manhã. ^v28
+**28** Assim como Eu tenho recebido autoridade de meu Pai, Eu também lhes darei a estrela da manhã. ^v28
 
-**29** Quem tem ouvidos, ouça o que o Espírito diz às igrejas. ^v29
+**29** "Aquele que tem ouvidos ouça o que o Espírito diz às igrejas'""." ^v29

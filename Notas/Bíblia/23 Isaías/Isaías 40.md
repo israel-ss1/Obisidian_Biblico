@@ -1,69 +1,68 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Isaías|Isaías]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Isaías|Isaías]]"
+tags: [biblia]
 ---
 
 # Isaías 40
 
-**1** Consolai, consolai o meu povo, diz o vosso Deus. ^v1
+**1** """Consolai, consolai Meu povo"", diz vosso Deus." ^v1
 
-**2** Falai benignamente a Jerusalém, e bradai-lhe que já a sua milícia é acabada, que a sua iniqüidade está expiada e que já recebeu em dobro da mão do Senhor, por todos os seus pecados. ^v2
+**2** """Falai com ternura a Jerusalém; proclamai a ela que sua guerra terminou, que sua iniquidade está perdoada, que ela, por todos os seus pecados, recebeu em dobro da mão de Yahweh""." ^v2
 
-**3** Voz do que clama no deserto: Preparai o caminho do Senhor; endireitai no ermo vereda a nosso Deus. ^v3
+**3** "Uma voz clama: ""No deserto, preparai o caminho de Yahweh; fazei uma estrada reta no deserto para o nosso Deus"". [Nota: Algumas versões modernas e antigas trazem ""Uma voz clama no deserto...""]" ^v3
 
-**4** Todo o vale será exaltado, e todo o monte e todo o outeiro será abatido; e o que é torcido se endireitará, e o que é áspero se aplainará. ^v4
+**4** Todo vale será levantado; toda montanha e colina será nivelada; a terra acidentada será feita plana e os lugares íngremes serão aplanados; ^v4
 
-**5** E a glória do Senhor se manifestará, e toda a carne juntamente a verá, pois a boca do Senhor o disse. ^v5
+**5** a glória de Yahweh será revelada e todos juntos a verão, pois assim a boca de Yahweh falou. ^v5
 
-**6** Uma voz diz: Clama; e alguém disse: Que hei de clamar? Toda a carne é erva e toda a sua beleza como a flor do campo. ^v6
+**6** "Uma voz diz: ""Clama!"". Outra responde: ""O que eu deveria clamar?"". ""Toda carne é relva e toda a sua fama é como a flor do campo." ^v6
 
-**7** Seca-se a erva, e cai a flor, soprando nela o Espírito do Senhor. Na verdade o povo é erva. ^v7
+**7** A relva seca e a flor murcha quando o fôlego de Yahweh sopra sobre elas; certamente, a humanidade é relva. ^v7
 
-**8** Seca-se a erva, e cai a flor, porém a palavra de nosso Deus subsiste eternamente. ^v8
+**8** "A relva seca, a flor murcha, mas a palavra do nosso Deus permanecerá para sempre""." ^v8
 
-**9** Tu, ó Sião, que anuncias boas novas, sobe a um monte alto. Tu, ó Jerusalém, que anuncias boas novas, levanta a tua voz fortemente; levanta-a, não temas, e dize às cidades de Judá: Eis aqui está o vosso Deus. ^v9
+**9** "Vai para uma alta montanha, Sião, portadora das boas notícias. [Nota: Em vez de ""Vai para uma alta montanha, Sião, portadora das boas notícias"", algumas versões trazem ""Tu, que trazes boas notícias a Sião, sobe a uma alta montanha"".] Grita em voz alta, Jerusalém. Tu, que trazes boas notícias, levanta a tua voz, não tenhas medo. [Nota: Em vez de ""Jerusalém. Tu que trazes boas notícias"", algumas versões trazem ""proclama boas notícias a Jerusalém"".] Dize às cidades de Judá: ""Eis aqui vosso Deus!""." ^v9
 
-**10** Eis que o Senhor DEUS virá com poder e seu braço dominará por ele; eis que o seu galardão está com ele, e o seu salário diante da sua face. ^v10
+**10** Vede, o Senhor Yahweh vem como um guerreiro vitorioso, e Seu braço forte governa por Ele. Vede! Seu galardão está com Ele, e aqueles que Ele resgatou vão diante Dele. ^v10
 
-**11** Como pastor apascentará o seu rebanho; entre os seus braços recolherá os cordeirinhos, e os levará no seu regaço; as que amamentam guiará suavemente. ^v11
+**11** Ele alimentará Seu rebanho como um pastor; reunirá, em Seus braços, os cordeiros e os carregará perto de Seu coração; mansamente, conduzirá as ovelhas que amamentam seus filhotes. ^v11
 
-**12** Quem mediu na concha da sua mão as águas, e tomou a medida dos céus aos palmos, e recolheu numa medida o pó da terra e pesou os montes com peso e os outeiros em balanças? ^v12
+**12** Quem já mediu as águas na concha de Sua mão, mediu a expansão do céu a palmos, conteve o pó da terra em uma cesta, pesou as montanhas com balanças ou as colinas com pratos? ^v12
 
-**13** Quem guiou o Espírito do Senhor, ou como seu conselheiro o ensinou? ^v13
+**13** Quem compreendeu a mente de Yahweh, ou O instruiu como Seu conselheiro? ^v13
 
-**14** Com quem tomou ele conselho, que lhe desse entendimento, e lhe ensinasse o caminho do juízo, e lhe ensinasse conhecimento, e lhe mostrasse o caminho do entendimento? ^v14
+**14** De quem Ele já recebeu instrução? Quem O ensinou a fazer coisas corretas, ou Lhe ensinou a sabedoria, ou Lhe mostrou o caminho do entendimento? ^v14
 
-**15** Eis que as nações são consideradas por ele como a gota de um balde, e como o pó miúdo das balanças; eis que ele levanta as ilhas como a uma coisa pequeníssima. ^v15
+**15** Vede! As nações são como uma gota em um balde; são consideradas como pó nas balanças. Vede! Ele pesa as ilhas como um grão de poeira. ^v15
 
-**16** Nem todo o Líbano basta para o fogo, nem os seus animais bastam para holocaustos. ^v16
+**16** O Líbano não é combustível suficiente, nem os animais selvagens são bastantes para serem queimados como ofertas. ^v16
 
-**17** Todas as nações são como nada perante ele; ele as considera menos do que nada e como uma coisa vã. ^v17
+**17** Todas as nações são insuficientes diante Dele; elas são consideradas por Ele como nada. ^v17
 
-**18** A quem, pois, fareis semelhante a Deus, ou com que o comparareis? ^v18
+**18** A quem, então, comparareis Deus? A qual ídolo O comparareis? ^v18
 
-**19** O artífice funde a imagem, e o ourives a cobre de ouro, e forja para ela cadeias de prata. ^v19
+**19** Um ídolo, que um artesão molda, o ourives o cobre de ouro e forja correntes de prata para ele. ^v19
 
-**20** O empobrecido, que não pode oferecer tanto, escolhe madeira que não se apodrece; artífice sábio busca, para gravar uma imagem que não se pode mover. ^v20
+**20** A fim de fazer uma oferta, alguém escolhe uma madeira que não apodrece e procura um artesão habilidoso para fazer um ídolo que não tombe. ^v20
 
-**21** Porventura não sabeis? Porventura não ouvis, ou desde o princípio não se vos notificou, ou não atentastes para os fundamentos da terra? ^v21
+**21** Por acaso vós não sabeis? Não tendes ouvido? Isso não vos foi dito desde o início? Não entendestes desde a fundação da terra? ^v21
 
-**22** Ele é o que está assentado sobre o círculo da terra, cujos moradores são para ele como gafanhotos; é ele o que estende os céus como cortina, e os desenrola como tenda, para neles habitar; ^v22
+**22** Ele é o que Se assenta acima do horizonte da terra; os habitantes são como gafanhotos diante Dele. Ele estende os céus como uma cortina e os espalha como uma tenda para nela habitar. ^v22
 
-**23** O que reduz a nada os príncipes, e torna em coisa vã os juízes da terra. ^v23
+**23** Ele reduz os governantes a nada; torna insignificantes os juízes da terra. ^v23
 
-**24** E mal se tem plantado, mal se tem semeado, e mal se tem arraigado na terra o seu tronco, já se secam, quando ele sopra sobre eles, e um tufão os leva como a pragana. ^v24
+**24** Mal foram plantados, mal foram semeados, mal seus caules firmam raízes na terra, quando Ele sopra sobre eles, então murcham e o vento os leva como palha. ^v24
 
-**25** A quem, pois, me fareis semelhante, para que eu lhe seja igual? diz o Santo. ^v25
+**25** """A quem, então, Me comparareis? A quem Me assemelho?"", diz o Santo." ^v25
 
-**26** Levantai ao alto os vossos olhos, e vede quem criou estas coisas; foi aquele que faz sair o exército delas segundo o seu número; ele as chama a todas pelos seus nomes; por causa da grandeza das suas forças, e porquanto é forte em poder, nenhuma delas faltará. ^v26
+**26** Olhai para o céu! Quem criou todas essas estrelas? Ele faz sair o exército delas e chama todas pelo nome. Pela grandeza de Sua força e pelo vigor de Seu poder, nenhuma delas se perde. ^v26
 
-**27** Por que dizes, ó Jacó, e tu falas, ó Israel: O meu caminho está encoberto ao Senhor, e o meu juízo passa despercebido ao meu Deus? ^v27
+**27** "Por que dizes, Jacó, e declaras, Israel: ""Meu caminho está escondido de Yahweh"", e ""Meu Deus não está preocupado com o meu direito""?" ^v27
 
-**28** Não sabes, não ouviste que o eterno Deus, o Senhor, o Criador dos fins da terra, nem se cansa nem se fatiga? É inescrutável o seu entendimento. ^v28
+**28** Por acaso não sabes? Não ouviste? O eterno Deus, Yahweh, o Criador dos confins da terra, não Se cansa nem Se fatiga; não há limite para o Seu entendimento. ^v28
 
-**29** Dá força ao cansado, e multiplica as forças ao que não tem nenhum vigor. ^v29
+**29** Ao cansado, Ele dá força, e ao fraco, restaura o vigor. ^v29
 
-**30** Os jovens se cansarão e se fatigarão, e os moços certamente cairão; ^v30
+**30** Até os jovens se cansam e fatigam, e os moços tropeçam e caem. ^v30
 
-**31** Mas os que esperam no Senhor renovarão as forças, subirão com asas como águias; correrão, e não se cansarão; caminharão, e não se fatigarão. ^v31
+**31** Mas aqueles que esperam por Yahweh renovarão suas forças; eles subirão com asas como águias; correrão e não se cansarão; caminharão e não se enfraquecerão. ^v31

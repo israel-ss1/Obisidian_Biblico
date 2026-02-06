@@ -1,53 +1,50 @@
 ---
-Livro: "[[Salmos|Salmos]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Salmos|Salmos]]"
+tags: [biblia]
 ---
 
 # Salmos 55
 
-**1** Inclina, ó Deus, os teus ouvidos à minha oração, e não te escondas da minha súplica. ^v1
+**2** Presta atenção em mim e responde-me; eu não tenho descanso dos meus problemas, ^v2
 
-**2** Atende-me, e ouve-me; lamento na minha queixa, e faço ruído, ^v2
+**3** por causa da voz dos meus inimigos, por causa da opressão dos maus; pois eles me trazem problemas e, com raiva, me perseguem. ^v3
 
-**3** Pelo clamor do inimigo e por causa da opressão do ímpio; pois lançam sobre mim a iniqüidade, e com furor me odeiam. ^v3
+**4** Dentro do peito, meu coração se angustia, e os terrores da morte caíram sobre mim. ^v4
 
-**4** O meu coração está dolorido dentro de mim, e terrores da morte caíram sobre mim. ^v4
+**5** Temor e tremor vieram sobre mim; o horror tem-me envolvido por completo. ^v5
 
-**5** Temor e tremor vieram sobre mim; e o horror me cobriu. ^v5
+**6** "Eu disse: ""Ó, se eu tivesse asas como uma pomba, então eu voaria até encontrar repouso!" ^v6
 
-**6** Assim eu disse: Oh! quem me dera asas como de pomba! Então voaria, e estaria em descanso. ^v6
+**7** Eis que eu poderia vaguear bem distante e ficaria no deserto. [Interlúdio] ^v7
 
-**7** Eis que fugiria para longe, e pernoitaria no deserto. (Selá.) ^v7
+**8** "Eu me apressaria em ir para um abrigo longe do vendaval e da tempestade.""" ^v8
 
-**8** Apressar-me-ia a escapar da fúria do vento e da tempestade. ^v8
+**9** Destrói, Yahweh, e confunde a linguagem deles, pois eu tenho visto violência e contendas na cidade. ^v9
 
-**9** Despedaça, Senhor, e divide as suas línguas, pois tenho visto violência e contenda na cidade. ^v9
+**10** Dia e noite eles percorrem suas muralhas; iniquidade e injúria estão dentro dela. ^v10
 
-**10** De dia e de noite a cercam sobre os seus muros; iniqüidade e malícia estão no meio dela. ^v10
+**11** A maldade está em seu meio; opressão e engano não deixam suas ruas. ^v11
 
-**11** Maldade há dentro dela; astúcia e engano não se apartam das suas ruas. ^v11
+**12** Pois não é um inimigo que me afronta, isso eu poderia suportar; nem é aquele que me odeia o que se levanta contra mim, porque dele eu teria me escondido. ^v12
 
-**12** Pois não era um inimigo que me afrontava; então eu o teria suportado; nem era o que me odiava que se engrandecia contra mim, porque dele me teria escondido. ^v12
+**13** Mas és tu, homem igual a mim, meu companheiro e amigo íntimo. ^v13
 
-**13** Mas eras tu, homem meu igual, meu guia e meu íntimo amigo. ^v13
+**14** Nós tínhamos uma agradável comunhão; íamos juntos à casa de Deus, com a multidão. ^v14
 
-**14** Consultávamos juntos suavemente, e andávamos em companhia na casa de Deus. ^v14
+**15** Que a morte venha repentinamente sobre eles; que eles desçam vivos ao Sheol, pois a maldade está onde eles vivem, bem no meio deles. ^v15
 
-**15** A morte os assalte, e vivos desçam ao inferno; porque há maldade nas suas habitações e no meio deles. ^v15
+**16** Quanto a mim, eu invocarei a Deus, e Yahweh me salvará. ^v16
 
-**16** Eu, porém, invocarei a Deus, e o Senhor me salvará. ^v16
+**17** Ao entardecer, pela manhã e ao meio-dia eu me queixarei e lamentarei, e Ele ouvirá a minha voz. ^v17
 
-**17** De tarde e de manhã e ao meio-dia orarei; e clamarei, e ele ouvirá a minha voz. ^v17
+**18** Ele, em segurança, resgatará a minha vida da batalha, pois são muitos os que lutam contra mim. ^v18
 
-**18** Livrou em paz a minha alma da peleja que havia contra mim; pois havia muitos comigo. ^v18
+**19** Deus, Aquele que governa desde a eternidade, ouvirá e lhes responderá. [Interlúdio] Pois eles não mudam sua conduta e não temem a Deus. ^v19
 
-**19** Deus ouvirá, e os afligirá. Aquele que preside desde a antiguidade (Selá), porque não há neles nenhuma mudança, e portanto não temem a Deus. ^v19
+**20** Meu amigo levantou suas mãos contra aqueles que estavam em paz com ele, não respeitando o seu acordo. ^v20
 
-**20** Tal homem pôs as suas mãos naqueles que têm paz com ele; quebrou a sua aliança. ^v20
+**21** Sua boca era macia como manteiga, mas seu coração era hostil; suas palavras eram mais suaves do que o azeite, mas, na verdade, eram como espadas desembainhadas. ^v21
 
-**21** As palavras da sua boca eram mais macias do que a manteiga, mas havia guerra no seu coração: as suas palavras eram mais brandas do que o azeite; contudo, eram espadas desembainhadas. ^v21
+**22** Coloca teus fardos sobre Yahweh, e Ele te sustentará; Ele nunca permitirá que o justo se abale. ^v22
 
-**22** Lança o teu cuidado sobre o Senhor, e ele te susterá; não permitirá jamais que o justo seja abalado. ^v22
-
-**23** Mas tu, ó Deus, os farás descer ao poço da perdição; homens de sangue e de fraude não viverão metade dos seus dias; mas eu em ti confiarei. ^v23
+**23** Mas Tu, ó Deus, trarás os perversos para a cova da destruição; os homens sanguinários e enganosos não viverão nem a metade do que os outros. Mas eu confiarei em Ti. ^v23

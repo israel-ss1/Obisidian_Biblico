@@ -1,59 +1,58 @@
 ---
-Livro: "[[1 Crônicas|1 Crônicas]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/1 Crônicas|1 Crônicas]]"
+tags: [biblia]
 ---
 
 # 1 Crônicas 5
 
-**1** Quanto aos filhos de Rúben, o primogênito de Israel (pois ele era o primogênito; mas porque profanara a cama de seu pai, deu-se a sua primogenitura aos filhos de José, filho de Israel; de modo que não foi contado, na genealogia da primogenitura, ^v1
+**1** No caso dos filhos de Rúben, o primogênito de Israel — embora Rúben fosse o primogênito de Israel, seus direitos de primogenitura foram dados aos filhos de José, filho de Israel, pois Rúben havia contaminado a cama de seu pai. Então, ele não é registrado como sendo o filho mais velho. ^v1
 
-**2** Porque Judá foi poderoso entre seus irmãos, e dele veio o soberano; porém a primogenitura foi de José). ^v2
+**2** Judá era o mais forte de seus irmãos, e dele viria o líder, mas os direitos de primogenitura foram dados a José. ^v2
 
-**3** Foram, pois, os filhos de Rúben, o primogênito de Israel: Enoque, Palu, Hezrom, e Carmi. ^v3
+**3** Os filhos de Rúben, o primogênito de Israel, foram Hanoque, Palu, Hezrom e Carmi. ^v3
 
-**4** Os filhos de Joel: Semaías, seu filho; Gogue, seu filho; Simei, seu filho; ^v4
+**4** Os descendentes de Joel foram estes: o filho de Joel foi Semaías. O filho de Semaías foi Gogue. O filho de Gogue foi Simei. ^v4
 
-**5** Mica, seu filho; Reaías, seu filho; Baal, seu filho; ^v5
+**5** O filho de Simei foi Mica. O filho de Mica foi Reaías. O filho de Reaías foi Baal. ^v5
 
-**6** Beera, seu filho, o qual Tiglate-Pilneser, rei da Assíria, levou preso; este foi príncipe dos rubenitas. ^v6
+**6** O filho de Baal foi Beera, a quem Tiglate-Pileser, rei da Assíria, levou para o exílio. Beera foi um líder na tribo de Rúben. ^v6
 
-**7** Quanto a seus irmãos pelas suas famílias, quando foram postos nas genealogias, segundo as suas descendências, tiveram por chefes Jeiel e Zacarias, ^v7
+**7** Os parentes de Beera, por seus clãs, são os seguintes, listados nos seus registros genealógicos: Jeiel, o mais velho, Zacarias, e ^v7
 
-**8** E Bela, filho de Azaz, filho de Sema, filho de Joel, que habitou em Aroer, até Nebo e Baal-Meom, ^v8
+**8** Belá, filho de Azaz, filho de Sema, filho de Joel. Eles viveram em Aroer, tão longe quanto Nebo e Baal-Meom, ^v8
 
-**9** Também habitou do lado do oriente, até à entrada do deserto, desde o rio Eufrates; porque seu gado se tinha multiplicado na terra de Gileade. ^v9
+**9** e, no lado leste, até o início do deserto, que se estende até o rio Eufrates. Isso porque eles possuíam muito gado na terra de Gileade. ^v9
 
-**10** E nos dias de Saul fizeram guerra aos hagarenos, que caíram pela sua mão; e eles habitaram nas suas tendas defronte de todo o lado oriental de Gileade. ^v10
+**10** Nos dias de Saul, a tribo de Rúben atacou os hagarenos, e os derrotou. Eles viveram nas tendas dos hagarenos ao longo de toda a terra leste de Gileade. ^v10
 
-**11** E os filhos de Gade habitaram defronte deles, na terra de Basã, até Salcá. ^v11
+**11** Os membros da tribo de Gade viveram perto deles, na terra de Basã, até Salca. ^v11
 
-**12** Joel foi chefe, e Safã o segundo; também Janai e Safate estavam em Basã. ^v12
+**12** Seus líderes eram Joel, cabeça de um clã, Safã, cabeça de outro clã, e Janai, e Safate, em Basã. ^v12
 
-**13** E seus irmãos, segundo as suas casas paternas, foram: Micael, Mesulão, Seba, Jorai, Jacã, Zia, e Éber, sete. ^v13
+**13** Seus parentes, pelas famílias de seus pais, foram Micael, Mesulão, Sebá, Jorai, Jacã, Ziá e Héber, sete ao todo. ^v13
 
-**14** Estes foram os filhos de Abiail filho de Huri, filho de Jaroa, filho de Gileade, filho de Micael, filho de Jesisai, filho de Jado, filho de Buz; ^v14
+**14** Essas pessoas nomeadas acima foram os descendentes de Abihail, e Abihail foi o filho de Huri. Huri foi o filho de Jaroá. Jaroá foi o filho de Gileade. Gileade foi o filho de Micael. Micael foi o filho de Jesisai. Jesisai foi filho de Jado. Jado foi o filho de Buz. ^v14
 
-**15** Aí, filho de Abdiel, filho de Guni, foi chefe da casa de seus pais. ^v15
+**15** Aí, filho de Abdiel, filho de Guni, foi cabeça da família de seu pai. ^v15
 
-**16** E habitaram em Gileade, em Basã e nos lugares da sua jurisdição; como também em todos os arrabaldes de Sarom, até aos seus termos. ^v16
+**16** Eles viveram em Gileade, em Basã e suas terras, e em todas as pastagens de Sarom, até suas fronteiras. ^v16
 
-**17** Todos estes foram registrados, segundo as suas genealogias, nos dias de Jotão, rei de Judá, e nos dias de Jeroboão, rei de Israel. ^v17
+**17** Todos esses foram listados pelos registros genealógicos dos dias de Jotão, rei de Judá, e de Jeroboão, rei de Israel. ^v17
 
-**18** Dos filhos de Rúben, e dos gaditas, e da meia tribo de Manassés, homens muito valentes, que traziam escudo e espada, e entesavam o arco, e eram destros na guerra; houve quarenta e quatro mil e setecentos e sessenta, que saíam à peleja. ^v18
+**18** Os rubenitas, os gaditas, e a meia tribo de Manassés, tinham quarenta e quatro mil soldados treinados para a guerra, que carregavam escudos e espadas, e sacavam o arco. ^v18
 
-**19** E fizeram guerra aos hagarenos, como a Jetur, e a Nafis e a Nodabe. ^v19
+**19** Eles atacaram os hagarenos, Jetur, Nafis e Nodabe. ^v19
 
-**20** E foram ajudados contra eles, e os hagarenos e todos quantos estavam com eles foram entregues em sua mão; porque, na peleja, clamaram a Deus que lhes deu ouvidos, porquanto confiaram nele. ^v20
+**20** Eles receberam ajuda divina contra seus inimigos. Nesse caminho, os hagarenos e todos que estavam com eles foram derrotados; isso porque os israelitas clamaram a Deus na batalha, e Ele os respondeu, porque colocaram sua confiança Nele. ^v20
 
-**21** E levaram preso o seu gado; seus camelos, cinqüenta mil, e duzentas e cinqüenta mil ovelhas, e dois mil jumentos, e cem mil homens. ^v21
+**21** Eles capturaram seus animais, incluindo cinquenta mil camelos, duzentas e cinquenta mil ovelhas, dois mil burros e cem mil homens. ^v21
 
-**22** Porque muitos caíram feridos, porque de Deus era a peleja; e habitaram em seu lugar, até ao cativeiro. ^v22
+**22** Porque Deus lutou por eles, eles mataram muitos inimigos, e viveram na terra deles até o cativeiro. ^v22
 
-**23** E os filhos da meia tribo de Manassés habitaram naquela terra; multiplicaram-se desde Basã até Baal-Hermom, e Senir, e o monte de Hermom. ^v23
+**23** A meia tribo de Manassés viveu na terra de Basã, até Baal-Hermom, Senir e o monte Hermom. ^v23
 
-**24** E estes foram cabeças de suas casas paternas, a saber: Hefer, Isi, Eliel, Azriel, Jeremias, Hodavias, e Jadiel, homens valentes, homens de nome, e chefes das casas de seus pais. ^v24
+**24** Estes foram os líderes de suas famílias: Éfer, Isi, Eliel, Azriel, Jeremias, Hodavias e Jadiel. Eles eram homens fortes e corajosos, homens famosos, líderes de suas famílias. ^v24
 
-**25** Porém transgrediram contra o Deus de seus pais; e se prostituíram, seguindo os deuses dos povos da terra, os quais Deus destruíra de diante deles. ^v25
+**25** Mas eles não foram fiéis ao Deus de seus ancestrais. Ao invés disso, adoraram os deuses do povo da terra, a quem Deus havia destruído diante deles. ^v25
 
-**26** Por isso o Deus de Israel suscitou o espírito de Pul, rei da Assíria, e o espírito de Tiglate-Pilneser, rei da Assíria, que os levaram presos, a saber: os rubenitas e gaditas, e a meia tribo de Manassés; e os trouxeram a Hala, e a Habor, e a Hara, e ao rio de Gozã, até ao dia de hoje. ^v26
+**26** O Deus de Israel agitou o espírito de Pul, rei da Assíria, também chamado Tiglate-Pileser, rei da Assíria. Ele levou ao exílio os rubenitas, gaditas e a meia tribo de Manassés. Ele os levou a Hala, Habor, Hara e para o rio de Gozã, onde permanecem até o dia de hoje. ^v26

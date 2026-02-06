@@ -1,27 +1,26 @@
 ---
-Livro: "[[Êxodo|Êxodo]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Êxodo|Êxodo]]"
+tags: [biblia]
 ---
 
 # Êxodo 11
 
-**1** E o Senhor disse a Moisés: Ainda uma praga trarei sobre Faraó, e sobre o Egito; depois vos deixará ir daqui; e, quando vos deixar ir totalmente, a toda a pressa vos lançará daqui. ^v1
+**1** "Então, Yahweh disse a Moisés: ""Há ainda mais uma praga que Eu trarei sobre Faraó e o Egito. Depois disso, ele vos deixará ir. Quando, finalmente, ele vos deixar partir, ele vos expulsará completamente." ^v1
 
-**2** Fala agora aos ouvidos do povo, que cada homem peça ao seu vizinho, e cada mulher à sua vizinha, jóias de prata e jóias de ouro. ^v2
+**2** "Instrui o povo dizendo que todo homem e toda mulher devem pedir a seu vizinho ou vizinha artigos de prata e ouro""." ^v2
 
-**3** E o Senhor deu ao povo graça aos olhos dos egípcios; também o homem Moisés era mui grande na terra do Egito, aos olhos dos servos de Faraó e aos olhos do povo. ^v3
+**3** Yahweh havia tornado os egípcios ansiosos em satisfazer os israelitas. Além disso, aos olhos dos servos de Faraó e do povo do Egito, o homem Moisés era muito importante. ^v3
 
-**4** Disse mais Moisés: Assim o Senhor tem dito: À meia-noite eu sairei pelo meio do Egito; ^v4
+**4** "Moisés disse: ""Assim diz Yahweh: 'Por volta da meia noite, Eu passarei pelo Egito." ^v4
 
-**5** E todo o primogênito na terra do Egito morrerá, desde o primogênito de Faraó, que haveria de assentar-se sobre o seu trono, até ao primogênito da serva que está detrás da mó, e todo o primogênito dos animais. ^v5
+**5** Todos os primogênitos na terra do Egito morrerão, desde o primogênito de Faraó, que assenta em seu trono, até o primogênito da escrava que trabalha no moinho, e os primogênitos de todos os rebanhos. ^v5
 
-**6** E haverá grande clamor em toda a terra do Egito, como nunca houve semelhante e nunca haverá; ^v6
+**6** Então, por toda a terra do Egito, haverá uma grande lamentação como nunca houve antes e como nunca haverá novamente. ^v6
 
-**7** Mas entre todos os filhos de Israel nem mesmo um cão moverá a sua língua, desde os homens até aos animais, para que saibais que o Senhor fez diferença entre os egípcios e os israelitas. ^v7
+**7** Mas, nem mesmo um cachorro latirá contra o povo de Israel; nem contra homem, tampouco contra animais dos rebanhos. Dessa forma, sabereis que Eu estou tratando os egípcios e os israelitas distintamente. ^v7
 
-**8** Então todos estes teus servos descerão a mim, e se inclinarão diante de mim, dizendo: Sai tu, e todo o povo que te segue as pisadas; e depois eu sairei. E saiu da presença de Faraó ardendo em ira. ^v8
+**8** "Todos os teus servos, Faraó, descerão a Mim, e se curvarão perante Mim. Eles dirão: 'Vai, tu e todo o povo que te segue!' Depois disso, eu partirei""'. Então ele saiu da presença de Faraó com grande ira." ^v8
 
-**9** O Senhor dissera a Moisés: Faraó não vos ouvirá, para que as minhas maravilhas se multipliquem na terra do Egito. ^v9
+**9** "Yahweh disse a Moisés: ""Faraó não te ouvirá. Para que Eu possa fazer muitas coisas prodigiosas na terra do Egito""." ^v9
 
-**10** E Moisés e Arão fizeram todas estas maravilhas diante de Faraó; mas o Senhor endureceu o coração de Faraó, que não deixou ir os filhos de Israel da sua terra. ^v10
+**10** Moisés e Arão fizeram todos esses prodígios diante de Faraó. Porém, Yahweh endureceu o coração de Faraó, que não permitiu que o povo de Israel deixasse sua terra. ^v10

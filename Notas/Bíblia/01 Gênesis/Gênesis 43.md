@@ -1,75 +1,74 @@
 ---
-Livro: "[[Gênesis|Gênesis]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Gênesis|Gênesis]]"
+tags: [biblia]
 ---
 
 # Gênesis 43
 
-**1** E a fome era gravíssima na terra. ^v1
+**1** A fome era severa na terra. ^v1
 
-**2** E aconteceu que, como acabaram de comer o mantimento que trouxeram do Egito, disse-lhes seu pai: Voltai, comprai-nos um pouco de alimento. ^v2
+**2** "Tendo eles acabado de comer o mantimento que trouxeram do Egito, disse-lhes seu pai: ""Voltai e comprai para nós algum alimento.""" ^v2
 
-**3** Mas Judá respondeu-lhe, dizendo: Fortemente nos protestou aquele homem, dizendo: Não vereis a minha face, se o vosso irmão não vier convosco. ^v3
+**3** "Judá respondeu-lhe: ""O homem fortemente nos advertiu: 'Não vereis a minha face, a menos que o vosso irmão esteja convosco.'" ^v3
 
-**4** Se enviares conosco o nosso irmão, desceremos e te compraremos alimento; ^v4
+**4** Se enviares conosco nosso irmão, voltaremos e compraremos alimento para ti. ^v4
 
-**5** Mas se não o enviares, não desceremos; porquanto aquele homem nos disse: Não vereis a minha face, se o vosso irmão não vier convosco. ^v5
+**5** "Mas, se não o enviares, não voltaremos. Porque o homem nos disse: 'Não vereis a minha face, a menos que o vosso irmão esteja convosco""." ^v5
 
-**6** E disse Israel: Por que me fizeste tal mal, fazendo saber àquele homem que tínheis ainda outro irmão? ^v6
+**6** "Israel disse-les: ""Por que me fizeste este mal, dizendo ao homem que tínheis outro irmão?""" ^v6
 
-**7** E eles disseram: Aquele homem particularmente nos perguntou por nós, e pela nossa parentela, dizendo: Vive ainda vosso pai? Tendes mais um irmão? E respondemos-lhe conforme as mesmas palavras. Podíamos nós saber que diria: Trazei vosso irmão? ^v7
+**7** "Eles responderam: ""O homem perguntou detalhes sobre nós e nossa família. Ele disse: 'O vosso pai ainda vive? Tendes outro irmão?' Respondemos conforme essas perguntas. Como podíamos saber que ele diria: 'Trazei o vosso irmão?'""" ^v7
 
-**8** Então disse Judá a Israel, seu pai: Envia o jovem comigo, e levantar-nos-emos, e iremos, para que vivamos e não morramos, nem nós, nem tu, nem os nossos filhos. ^v8
+**8** "Judá disse para Israel, seu pai: ""Envia o rapaz comigo. Nós nos levantaremos e iremos para que vivamos e não morramos, tanto nós, como tu, e também os vossos filhos." ^v8
 
-**9** Eu serei fiador por ele, da minha mão o requererás; se eu não o trouxer, e não o puser perante a tua face, serei réu de crime para contigo para sempre. ^v9
+**9** Eu serei a garantia por ele e tu me terás por responsável. Se eu não o trouxer de volta e o apresentar perante ti, então serei culpado para sempre. ^v9
 
-**10** E se não nos tivéssemos detido, certamente já estaríamos segunda vez de volta. ^v10
+**10** "Pois, se não tivéssemos demorado, certamente já teríamos voltado aqui pela segunda vez.""" ^v10
 
-**11** Então disse-lhes Israel, seu pai: Pois que assim é, fazei isso; tomai do mais precioso desta terra em vossos vasos, e levai ao homem um presente: um pouco do bálsamo e um pouco de mel, especiarias e mirra, terebinto e amêndoas; ^v11
+**11** "Seu pai, Israel, disse-lhes: ""Se tem que ser assim, fazei isto. Peguem alguns dos melhores produtos da terra e coloquem em vossas bagagens. Levem para o homem um presente: um pouco de bálsamo e de mel, essências aromáticas e mirra, nozes de pistache e amêndoas." ^v11
 
-**12** E tomai em vossas mãos dinheiro em dobro, e o dinheiro que voltou na boca dos vossos sacos tornai a levar em vossas mãos; bem pode ser que fosse erro. ^v12
+**12** Levai em vossas mãos dinheiro em dobro. Levai de volta o dinheiro que foi devolvido na abertura de vossas bagagens. Talvez tenha havido algum engano. ^v12
 
-**13** Tomai também a vosso irmão, e levantai-vos e voltai àquele homem; ^v13
+**13** Levai também o vosso irmão. Levantai-vos e ide para o homem. ^v13
 
-**14** E Deus Todo-Poderoso vos dê misericórdia diante do homem, para que deixe vir convosco vosso outro irmão, e Benjamim; e eu, se for desfilhado, desfilhado ficarei. ^v14
+**14** "E Deus Todo-Poderoso conceda Sua misericórdia perante o homem, para que ele liberte o vosso outro irmão e Benjamim. Se me forem tirados os filhos, sem filhos ficarei.""" ^v14
 
-**15** E os homens tomaram aquele presente, e dinheiro em dobro em suas mãos, e a Benjamim; e levantaram-se, e desceram ao Egito, e apresentaram-se diante de José. ^v15
+**15** Os homens pegaram aquele presente e levaram em mãos o dobro de dinheiro, junto com Benjamim. Eles se levantaram, foram para o Egito, e se apresentaram diante de José. ^v15
 
-**16** Vendo, pois, José a Benjamim com eles, disse ao que estava sobre a sua casa: Leva estes homens à casa, e mata reses, e prepara tudo; porque estes homens comerão comigo ao meio-dia. ^v16
+**16** "Quando José viu Benjamim com eles, disse ao administrador da sua casa: ""Leva os homens para dentro de casa, abate um animal e prepara-o, para que eles comam comigo, ao meio-dia""." ^v16
 
-**17** E o homem fez como José dissera, e levou-os à casa de José. ^v17
+**17** O administrador fez como José dissera. Ele trouxe os homens para a casa de José. ^v17
 
-**18** Então temeram aqueles homens, porquanto foram levados à casa de José, e diziam: Por causa do dinheiro que dantes voltou nos nossos sacos, fomos trazidos aqui, para nos incriminar e cair sobre nós, para que nos tome por servos, e a nossos jumentos. ^v18
+**18** "Os homens estavam com medo porque foram trazidos para a casa de José. Eles disseram: ""Isso é por causa do dinheiro que foi posto de volta em nossas bagagens na primeira vez que fomos trazidos, porque o homem está buscando uma oportunidade contra nós. Ele pode nos prender e nos tomar como escravos, e levar nossos jumentos.""" ^v18
 
-**19** Por isso chegaram-se ao homem que estava sobre a casa de José, e falaram com ele à porta da casa, ^v19
+**19** Eles se aproximaram do administrador da casa de José, e falaram com ele à porta da casa, ^v19
 
-**20** E disseram: Ai! senhor meu, certamente descemos dantes a comprar mantimento; ^v20
+**20** "dizendo: ""Ouça, senhor, nós viemos pela primeira vez para comprar comida." ^v20
 
-**21** E aconteceu que, chegando à estalagem, e abrindo os nossos sacos, eis que o dinheiro de cada um estava na boca do seu saco, nosso dinheiro por seu peso; e tornamos a trazê-lo em nossas mãos; ^v21
+**21** Aconteceu que, quando chegamos ao alojamento, abrimos nossas bagagens, e eis que o valor total do dinheiro de cada um estava na abertura de sua bagagem. Nós o trouxemos de volta em nossas mãos. ^v21
 
-**22** Também trouxemos outro dinheiro em nossas mãos, para comprar mantimento; não sabemos quem tenha posto o nosso dinheiro nos nossos sacos. ^v22
+**22** Também trouxemos mais dinheiro em nossas mãos para comprar alimento. Não sabemos quem colocou nosso dinheiro em nossas bagagens. ^v22
 
-**23** E ele disse: Paz seja convosco, não temais; o vosso Deus, e o Deus de vosso pai, vos tem dado um tesouro nos vossos sacos; o vosso dinheiro me chegou a mim. E trouxe-lhes fora a Simeão. ^v23
+**23** "O administrador disse: ""Paz seja convosco, não temais. O vosso Deus e o Deus do vosso pai deve ter colocado o dinheiro em vossas bagagens. Eu recebi o vosso dinheiro."" Então o administrador trouxe-lhes Simeão." ^v23
 
-**24** Depois levou os homens à casa de José, e deu-lhes água, e lavaram os seus pés; também deu pasto aos seus jumentos. ^v24
+**24** O administrador trouxe os homens para dentro da casa de José. Ele lhes deu água, e eles lavaram seus pés. Ele deu comida aos seus jumentos. ^v24
 
-**25** E prepararam o presente, para quando José viesse ao meio-dia; porque tinham ouvido que ali haviam de comer pão. ^v25
+**25** Eles prepararam os presentes para quando José viesse ao meio-dia, pois tinham ouvido que comeriam ali. ^v25
 
-**26** Vindo, pois, José à casa, trouxeram-lhe ali o presente que tinham em suas mãos; e inclinaram-se a ele até à terra. ^v26
+**26** Quando José chegou, eles trouxeram os presentes que estavam em suas mãos para dentro da casa, e prostraram-se diante dele, ao chão. ^v26
 
-**27** E ele lhes perguntou como estavam, e disse: Vosso pai, o ancião de quem falastes, está bem? Ainda vive? ^v27
+**27** "Ele lhes perguntou sobre como estavam e disse: ""O vosso pai, o velho homem de quem falais, está bem? Ele ainda está vivo?""" ^v27
 
-**28** E eles disseram: Bem está o teu servo, nosso pai vive ainda. E abaixaram a cabeça, e inclinaram-se. ^v28
+**28** "Eles disseram: ""Teu servo, nosso pai, está bem. Ele ainda está vivo"". E se prostraram e se inclinaram." ^v28
 
-**29** E ele levantou os seus olhos, e viu a Benjamim, seu irmão, filho de sua mãe, e disse: Este é vosso irmão mais novo de quem falastes? Depois ele disse: Deus te dê a sua graça, meu filho. ^v29
+**29** "Quando levantou seus olhos, ele viu Benjamim, seu irmão, filho de sua mãe, e disse: ""Este é o vosso irmão mais novo de quem falastes?"" Então disse: ""Que Deus seja gracioso convosco, meu filho.""" ^v29
 
-**30** E José apressou-se, porque as suas entranhas comoveram-se por causa do seu irmão, e procurou onde chorar; e entrou na câmara, e chorou ali. ^v30
+**30** José apressou-se para sair da sala, pois ele estava profundamente comovido por causa do seu irmão. Ele buscou um lugar para chorar, foi para seu quarto e ali chorou. ^v30
 
-**31** Depois lavou o seu rosto, e saiu; e conteve-se, e disse: Ponde pão. ^v31
+**31** "Ele lavou o seu rosto e voltou. Ele se controlou, dizendo: ""Servi a comida.""" ^v31
 
-**32** E serviram-lhe à parte, e a eles também à parte, e aos egípcios, que comiam com ele, à parte; porque os egípcios não podem comer pão com os hebreus, porquanto é abominação para os egípcios. ^v32
+**32** Os servos serviram a José à parte, e aos seus irmãos separadamente. E os egípcios que ali estavam comeram à parte, porque os egípicios não podiam comer com os hebreus, pois isso era detestável para os egípcios. ^v32
 
-**33** E assentaram-se diante dele, o primogênito segundo a sua primogenitura, e o menor segundo a sua menoridade; do que os homens se maravilhavam entre si. ^v33
+**33** Os irmãos sentaram perante ele e foram colocados desde o primogênito até o mais novo, por ordem de idade. Eles estavam juntamente surpreendidos. ^v33
 
-**34** E apresentou-lhes as porções que estavam diante dele; porém a porção de Benjamim era cinco vezes maior do que as porções deles todos. E eles beberam, e se regalaram com ele. ^v34
+**34** José deu-lhes porções da comida que estava diante dele. Mas a porção de Benjamin era cinco vezes maior do que a de qualquer dos seus irmãos. Eles beberam e se alegraram com ele. ^v34

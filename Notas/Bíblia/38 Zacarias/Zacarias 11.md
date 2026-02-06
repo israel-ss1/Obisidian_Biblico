@@ -1,41 +1,40 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Zacarias|Zacarias]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Zacarias|Zacarias]]"
+tags: [biblia]
 ---
 
 # Zacarias 11
 
-**1** Abre, ó Líbano, as tuas portas para que o fogo consuma os teus cedros. ^v1
+**1** Abra tuas portas, Líbano, para que o fogo devore teus cedros! ^v1
 
-**2** Geme, ó cipreste, porque o cedro caiu, porque os mais poderosos são destruídos; gemei, ó carvalhos de Basã, porque o bosque forte é derrubado. ^v2
+**2** Lamentai, ciprestes, pelos cedros que caíram! O que era majestoso foi devastado! Lamentai, carvalhos de Basã, a densa floresta foi abaixo. ^v2
 
-**3** Voz de uivo dos pastores! porque a sua glória é destruída; voz de bramido dos filhos de leões, porque foi destruída a soberba do Jordão. ^v3
+**3** Os pastores uivam porque a sua glória foi destruída! Os leões rugem porque a arrogância do rio Jordão foi devastada! ^v3
 
-**4** Assim diz o Senhor meu Deus: Apascenta as ovelhas da matança, ^v4
+**4** "Assim diz Yahweh, meu Deus: ""Como um pastor, cuida das ovelhas destinadas ao abate!" ^v4
 
-**5** Cujos possuidores as matam, e não se têm por culpados; e cujos vendedores dizem: Louvado seja o Senhor, porque tenho enriquecido; e os seus pastores não têm piedade delas. ^v5
+**5** (Aqueles que as compram, as massacram e não são punidos, e aqueles que as vendem dizem: 'Bendito seja Yahweh, porque me tornei rico!' pois os pastores que trabalham para os donos dos rebanhos não têm piedade delas.) ^v5
 
-**6** Certamente não terei mais piedade dos moradores desta terra, diz o Senhor; mas, eis que entregarei os homens cada um na mão do seu próximo e na mão do seu rei; eles ferirão a terra, e eu não os livrarei da sua mão. ^v6
+**6** "Pois já não terei piedade dos habitantes desta terra! Assim declara Yahweh"". Vê! ""Eu mesmo estou a ponto de entregar cada um na mão do seu próximo e na mão do seu rei, e destruirão a terra, e não livrarei nenhum deles""." ^v6
 
-**7** Eu, pois, apascentei as ovelhas da matança, as pobres ovelhas do rebanho. Tomei para mim duas varas: a uma chamei Graça, e à outra chamei União; e apascentei as ovelhas. ^v7
+**7** "Assim, tornei-me o pastor do rebanho destinado ao abate, para aqueles que negociavam as ovelhas. Tomei duas varas; uma chamei de ""Graça"" e a outra de ""Unidade"". Foi assim que apascentei as ovelhas." ^v7
 
-**8** E destruí os três pastores num mês; porque a minha alma se impacientou deles, e também a alma deles se enfastiou de mim. ^v8
+**8** Em um mês, destruí os três pastores. Perdi a paciência com eles, e eles também me odiaram. ^v8
 
-**9** E eu disse: Não vos apascentarei mais; o que morrer, morra; e o que for destruído, seja destruído; e as que restarem comam cada uma a carne da outra. ^v9
+**9** "Então, eu disse aos donos: ""Não trabalharei mais para vós como pastor. As ovelhas que estão morrendo, deixai-as morrer; as ovelhas que estão sendo destruídas, deixai que sejam destruídas. Deixai as ovelhas remanescentes comerem a carne do seu próximo""." ^v9
 
-**10** E tomei a minha vara Graça, e a quebrei, para desfazer a minha aliança, que tinha estabelecido com todos estes povos. ^v10
+**10** "Tomei a vara chamada ""Graça"" e a quebrei para anular o acordo que fiz com todas as minhas tribos." ^v10
 
-**11** E foi desfeita naquele dia; e assim conheceram os pobres do rebanho, que me respeitavam, que isto era palavra do Senhor. ^v11
+**11** Naquele dia, o acordo foi quebrado, e aqueles que negociavam ovelhas, e que estavam me vigiando, souberam que era a palavra que Yahweh tinha falado. ^v11
 
-**12** Porque eu lhes disse: Se parece bem aos vossos olhos, dai-me o meu salário e, se não, deixai-o. E pesaram o meu salário, trinta moedas de prata. ^v12
+**12** "Eu te disse: ""Se for bom para ti, paga meu salário. Mas se não, não faças isso"". Então, eles pesaram meu salário (trinta peças de prata)." ^v12
 
-**13** O Senhor, pois, disse-me: Arroja isso ao oleiro, esse belo preço em que fui avaliado por eles. E tomei as trinta moedas de prata, e as arrojei ao oleiro, na casa do Senhor. ^v13
+**13** "Então, Yahweh me disse: ""Deposita a prata no tesouro, este magnífico preço em que por eles fui avaliado!"" Assim, peguei as trinta moedas de prata e depositei no tesouro da Templo de Yahweh." ^v13
 
-**14** Então quebrei a minha segunda vara União, para romper a irmandade entre Judá e Israel. ^v14
+**14** "Então, quebrei a minha segunda vara, ""Unidade,"" para quebrar a irmandade entre Judá e Israel." ^v14
 
-**15** E o Senhor disse-me: Toma ainda para ti o instrumento de um pastor insensato. ^v15
+**15** "Yahweh me disse: ""Novamente, pega o utensílio do pastor insensato para ti," ^v15
 
-**16** Porque, eis que suscitarei um pastor na terra, que não cuidará das que estão perecendo, não buscará a pequena, e não curará a ferida, nem apascentará a sã; mas comerá a carne da gorda, e lhe despedaçará as unhas. ^v16
+**16** pois, vê, estou a ponto de colocar na terra um pastor. Ele não cuidará das ovelhas que estão perecendo, não buscará a ovelha perdida, nem curará a ovelha aleijada. Ele não alimentará a ovelha saudável, mas comerá a carne das ovelha gordas, e as rasgará até os seus cascos. ^v16
 
-**17** Ai do pastor inútil, que abandona o rebanho! A espada cairá sobre o seu braço e sobre o seu olho direito; e o seu braço completamente se secará, e o seu olho direito completamente se escurecerá. ^v17
+**17** "Ai do pastor inútil, que abandona o rebanho! Que a espada lhe caia sobre seu braço e sobre seu olho direito! Que seu braço seque e que seu olho direito fique cego!""" ^v17

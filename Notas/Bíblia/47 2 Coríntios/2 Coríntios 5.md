@@ -1,49 +1,48 @@
 ---
-Livro: "[[2 Coríntios|2 Coríntios]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/2 Coríntios|2 Coríntios]]"
+tags: [biblia]
 ---
 
 # 2 Coríntios 5
 
-**1** Porque sabemos que, se a nossa casa terrestre deste tabernáculo se desfizer, temos de Deus um edifício, uma casa não feita por mãos, eterna, nos céus. ^v1
+**1** Sabemos que, se a moradia terrena em que vivemos for destruída, temos um edifício da parte de Deus, uma casa, feita não por mãos humanas, mas eterna, no céu. ^v1
 
-**2** E por isso também gememos, desejando ser revestidos da nossa habitação, que é do céu; ^v2
+**2** Neste tabernáculo, gememos, pois aspiramos ser revestidos com nossa habitação celestial. ^v2
 
-**3** Se, todavia, estando vestidos, não formos achados nus. ^v3
+**3** Temos esse desejo, pois, ao nos vestirmos, não seremos encontrados nus. ^v3
 
-**4** Porque também nós, os que estamos neste tabernáculo, gememos carregados; não porque queremos ser despidos, mas revestidos, para que o mortal seja absorvido pela vida. ^v4
+**4** De fato, enquanto estamos neste tabernáculo, gememos sobrecarregados. Não queremos ser despidos; pelo contrário, revestidos, para que o mortal seja absorvido pela vida. ^v4
 
-**5** Ora, quem para isto mesmo nos preparou foi Deus, o qual nos deu também o penhor do Espírito. ^v5
+**5** Aquele que nos preparou para isso foi Deus, que nos deu o Espírito como penhor do que está por vir. ^v5
 
-**6** Por isso estamos sempre de bom ânimo, sabendo que, enquanto estamos no corpo, vivemos ausentes do Senhor ^v6
+**6** Portanto, sede sempre confiantes. Sabei que, enquanto habitamos neste corpo terreno, estamos ausentes do Senhor; ^v6
 
-**7** (Porque andamos por fé, e não por vista). ^v7
+**7** pois andamos por fé, não por vista. ^v7
 
-**8** Mas temos confiança e desejamos antes deixar este corpo, para habitar com o Senhor. ^v8
+**8** Por isso, somos confiantes. Preferimos estar ausentes do corpo, e no lar com o Senhor. ^v8
 
-**9** Pois que muito desejamos também ser-lhe agradáveis, quer presentes, quer ausentes. ^v9
+**9** Assim, quer estejamos em nossa habitação, quer ausentes, fazemos disto nossa meta: agradá-Lo. ^v9
 
-**10** Porque todos devemos comparecer ante o tribunal de Cristo, para que cada um receba segundo o que tiver feito por meio do corpo, ou bem, ou mal. ^v10
+**10** Pois todos nós devemos comparecer diante do tribunal de Cristo, para que cada um receba o que é devido pelas coisas feitas no corpo, quer para o bem, quer para o mal. ^v10
 
-**11** Assim que, sabendo o temor que se deve ao Senhor, persuadimos os homens à fé, mas somos manifestos a Deus; e espero que nas vossas consciências sejamos também manifestos. ^v11
+**11** Portanto, conhecendo o temor do Senhor, persuadimos as pessoas. O que somos é claramente visto por Deus, e espero que isso também esteja claro para a vossa consciência. ^v11
 
-**12** Porque não nos recomendamos outra vez a vós; mas damo-vos ocasião de vos gloriardes de nós, para que tenhais que responder aos que se gloriam na aparência e não no coração. ^v12
+**12** Não estamos tentando vos convencer novamente de nossa sinceridade; em vez disso, estamos vos dando uma razão para vos orgulhardes de nós. Dessa forma, vós tereis uma resposta aos que se gloriam nas aparências, mas não no que está no coração. ^v12
 
-**13** Porque, se enlouquecemos, é para Deus; e, se conservamos o juízo, é para vós. ^v13
+**13** Pois se enlouquecemos é para Deus; e se conservamos o juízo é por amor de vós. ^v13
 
-**14** Porque o amor de Cristo nos constrange, julgando nós assim: que, se um morreu por todos, logo todos morreram. ^v14
+**14** Pois, o amor de Cristo nos compele, porque estamos certos disto: que uma pessoa morreu por todas; logo, todas morreram. ^v14
 
-**15** E ele morreu por todos, para que os que vivem não vivam mais para si, mas para aquele que por eles morreu e ressuscitou. ^v15
+**15** E Cristo morreu por todos, para que os que vivem não vivam mais para si mesmos, mas para Aquele que morreu e foi ressuscitado. ^v15
 
-**16** Assim que daqui por diante a ninguém conhecemos segundo a carne, e, ainda que também tenhamos conhecido Cristo segundo a carne, contudo agora já não o conhecemos deste modo. ^v16
+**16** Por essa razão, de agora em diante, não julgamos ninguém de acordo com padrões humanos, ainda que uma vez tenhamos considerado Cristo dessa maneira. Mas, agora, não julgamos ninguém assim. ^v16
 
-**17** Assim que, se alguém está em Cristo, nova criatura é; as coisas velhas já passaram; eis que tudo se fez novo. ^v17
+**17** Portanto, se alguém está em Cristo, é nova criatura; as coisas velhas se passaram. Eis que se tornaram novas! ^v17
 
-**18** E tudo isto provém de Deus, que nos reconciliou consigo mesmo por Jesus Cristo, e nos deu o ministério da reconciliação; ^v18
+**18** Todas essas coisas provêm de Deus, que nos reconciliou Consigo mesmo através de Cristo, e nos deu o ministério da reconciliação. ^v18
 
-**19** Isto é, Deus estava em Cristo reconciliando consigo o mundo, não lhes imputando os seus pecados; e pôs em nós a palavra da reconciliação. ^v19
+**19** Isto é, em Cristo, Deus está reconciliando o mundo Consigo mesmo, não levando em conta as suas transgressões. Ele está nos confiando a mensagem da reconciliação. ^v19
 
-**20** De sorte que somos embaixadores da parte de Cristo, como se Deus por nós rogasse. Rogamo-vos, pois, da parte de Cristo, que vos reconcilieis com Deus. ^v20
+**20** Então, somos designados como representantes de Cristo, como se Deus vos exortasse através de nós. Por amor de Cristo, nós vos suplicamos: reconciliai-vos com Deus! ^v20
 
-**21** Àquele que não conheceu pecado, o fez pecado por nós; para que nele fôssemos feitos justiça de Deus. ^v21
+**21** Ele fez de Cristo, Aquele que nunca pecou, o sacrifício por nossos pecados, para que Nele nos tornássemos a justiça de Deus. ^v21

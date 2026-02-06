@@ -1,73 +1,72 @@
 ---
-Livro: "[[2 Reis|2 Reis]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/2 Reis|2 Reis]]"
+tags: [biblia]
 ---
 
 # 2 Reis 6
 
-**1** E disseram os filhos dos profetas a Eliseu: Eis que o lugar em que habitamos diante da tua face, nos é estreito. ^v1
+**1** "Os filhos dos profetas disseram a Eliseu: ""O lugar onde nós vivemos contigo é muito pequeno para todos nós." ^v1
 
-**2** Vamos, pois, até ao Jordão e tomemos de lá, cada um de nós, uma viga, e façamo-nos ali um lugar para habitar. E disse ele: Ide. ^v2
+**2** "Por favor, deixa-nos ir para o Jordão e permite que cada homem corte uma árvore lá, e edifiquemos um lugar onde possamos viver"". Eliseu respondeu: ""Vós podeis ir adiante""." ^v2
 
-**3** E disse um: Serve-te de ires com os teus servos. E disse: Eu irei. ^v3
+**3** "Um deles disse: ""Por favor, vai com teus servos"". Eliseu respondeu: ""Eu irei""." ^v3
 
-**4** E foi com eles; e, chegando eles ao Jordão, cortaram madeira. ^v4
+**4** Então, foi com eles, e, quando foram para o Jordão, eles começaram a cortar árvores. ^v4
 
-**5** E sucedeu que, derrubando um deles uma viga, o ferro caiu na água; e clamou, e disse: Ai, meu senhor! ele era emprestado. ^v5
+**5** "Mas, enquanto um cortava, o machado caiu na água; ele gritou e disse: ""Oh não, meu senhor! Era emprestado!""." ^v5
 
-**6** E disse o homem de Deus: Onde caiu? E mostrando-lhe ele o lugar, cortou um pau, e o lançou ali, e fez flutuar o ferro. ^v6
+**6** "Então, o homem de Deus disse: ""Onde caiu o machado?"". O homem mostrou a Eliseu o lugar. Então, ele cortou um pau, jogou na água e fez o ferro flutuar. Eliseu disse: ""Pega-o""." ^v6
 
-**7** E disse: Levanta-o. Então ele estendeu a sua mão e o tomou. ^v7
+**7** Então, o homem estendeu a sua mão e o pegou. ^v7
 
-**8** E o rei da Síria fazia guerra a Israel; e consultou com os seus servos, dizendo: Em tal e tal lugar estará o meu acampamento. ^v8
+**8** "Ora, o rei da Síria estava em guerra contra Israel. Ele consultou os seus servos, dizendo: ""O meu acampamento será nesse e naquele lugar""." ^v8
 
-**9** Mas o homem de Deus enviou ao rei de Israel, dizendo: Guarda-te de passares por tal lugar; porque os sírios desceram ali. ^v9
+**9** "Então, o homem de Deus enviou ao rei de Israel, dizendo: ""Sê cuidadoso, não passe por aquele lugar, porque os sírios estão descendo para lá""." ^v9
 
-**10** Por isso o rei de Israel enviou àquele lugar, de que o homem de Deus lhe dissera, e de que o tinha avisado, e se guardou ali, não uma nem duas vezes. ^v10
+**10** Então, o rei de Israel enviou homens para aquele lugar, sobre o qual o homem de Deus o havia advertido. A advertência o salvou muitas vezes. ^v10
 
-**11** Então se turbou com este incidente o coração do rei da Síria, chamou os seus servos, e lhes disse: Não me fareis saber quem dos nossos é pelo rei de Israel? ^v11
+**11** "O rei da Síria ficou enfurecido sobre esse aviso. Ele chamou os seus servos e lhes disse: ""Não me contareis quem entre vós é a favor do rei de Israel?""." ^v11
 
-**12** E disse um dos servos: Não, ó rei meu senhor; mas o profeta Eliseu, que está em Israel, faz saber ao rei de Israel as palavras que tu falas no teu quarto de dormir. ^v12
+**12** "Então, um dos seus servos disse: ""Não, rei meu senhor, é o profeta Eliseu, de Israel, quem conta para o rei de Israel as palavras que tu falas dentro do teu quarto!""." ^v12
 
-**13** E ele disse: Vai, e vê onde ele está, para que envie, e mande trazê-lo. E fizeram-lhe saber, dizendo: Eis que está em Dotã. ^v13
+**13** "O rei replicou: ""Vai e vê onde Eliseu está. Então, eu enviarei homens para capturá-lo"". E lhe disseram: ""Vê, ele está em Dotã""." ^v13
 
-**14** Então enviou para lá cavalos, e carros, e um grande exército, os quais chegaram de noite, e cercaram a cidade. ^v14
+**14** Então, o rei enviou para Dotã cavalos, carruagens e um grande exército. Eles vieram à noite e cercaram a cidade. ^v14
 
-**15** E o servo do homem de Deus se levantou muito cedo e saiu, e eis que um exército tinha cercado a cidade com cavalos e carros; então o seu servo lhe disse: Ai, meu senhor! Que faremos? ^v15
+**15** "Quando o servo do homem de Deus levantou-se bem cedo pela manhã e, quando saiu, eis que um grande exército com seus cavalos e suas carruagens cercaram a cidade. E o seu servo lhe disse: ""Oh, meu senhor! O que faremos?""." ^v15
 
-**16** E ele disse: Não temas; porque mais são os que estão conosco do que os que estão com eles. ^v16
+**16** "Eliseu respondeu: ""Não temas, porque os que estão conosco são muito mais numerosos do que os que estão com eles""." ^v16
 
-**17** E orou Eliseu, e disse: Senhor, peço-te que lhe abras os olhos, para que veja. E o Senhor abriu os olhos do moço, e viu; e eis que o monte estava cheio de cavalos e carros de fogo, em redor de Eliseu. ^v17
+**17** "Eliseu orou e disse: ""Yahweh, eu Te rogo que abras seus olhos para que veja"". Assim Yahweh abriu os olhos do servo e ele viu. A montanha estava cheia de cavalos e carruagens de fogo cercando Eliseu!" ^v17
 
-**18** E, como desceram a ele, Eliseu orou ao Senhor e disse: Fere, peço-te, esta gente de cegueira. E feriu-a de cegueira, conforme a palavra de Eliseu. ^v18
+**18** "Quando os sírios desceram até ele, Eliseu orou a Yahweh e disse: ""Torna esse povo cego, eu te peço"". Então, Yahweh os cegou como Eliseu pediu." ^v18
 
-**19** Então Eliseu lhes disse: Não é este o caminho, nem é esta a cidade; segui-me, e guiar-vos-ei ao homem que buscais. E os guiou a Samaria. ^v19
+**19** "E Eliseu disse aos sírios: ""Este não é o caminho, tampouco esta é a cidade. Segui-me, e eu vos levarei ao homem ao qual vós procurais"". E ele os conduziu até Samaria." ^v19
 
-**20** E sucedeu que, chegando eles a Samaria, disse Eliseu: Ó Senhor, abre a estes os olhos para que vejam. O Senhor lhes abriu os olhos, para que vissem, e eis que estavam no meio de Samaria. ^v20
+**20** "E aconteceu que, quando eles chegaram a Samaria, Eliseu disse: ""Yahweh abre os olhos desses homens para que eles vejam"". Yahweh abriu seus olhos e eles viram, e eis que eles estavam no meio da cidade de Samaria." ^v20
 
-**21** E, quando o rei de Israel os viu, disse a Eliseu: Feri-los-ei, feri-los-ei, meu pai? ^v21
+**21** "Assim que o rei de Israel os viu, disse a Eliseu: ""Meu pai, eu deveria matá-los? Eu deveria matá-los?""." ^v21
 
-**22** Mas ele disse: Não os ferirás; feririas tu os que tomasses prisioneiros com a tua espada e com o teu arco? Põe-lhes diante pão e água, para que comam e bebam, e se vão para seu senhor. ^v22
+**22** "Eliseu respondeu: ""Tu não os matarás. Matarias tu aqueles a quem tens capturado com tua espada e o teu arco? Coloca pão e água diante deles, para que eles possam comer e beber, e deixa que voltem ao seu senhor""." ^v22
 
-**23** E apresentou-lhes um grande banquete, e comeram e beberam; e os despediu e foram para seu senhor; e não entraram mais tropas de sírios na terra de Israel. ^v23
+**23** Então, o rei preparou mais comida para eles, e, quando eles terminaram de comer e beber, ele os despediu, e voltaram para o seu senhor. Aquelas tropas de soldados sírios, por um longo tempo, não retornaram à terra de Israel. ^v23
 
-**24** E sucedeu, depois disto, que Ben-Hadade, rei da Síria, ajuntou todo o seu exército; e subiu e cercou a Samaria. ^v24
+**24** Depois disso, Ben-Hadade, rei da Síria reuniu todo o seu exército atacou Samaria e a cercou. ^v24
 
-**25** E houve grande fome em Samaria, porque eis que a cercaram, até que se vendeu uma cabeça de um jumento por oitenta peças de prata, e a quarta parte de um cabo de esterco de pombas por cinco peças de prata. ^v25
+**25** Então, houve uma grande fome em Samaria. Eis que o cerco durou tanto e causou tamanha fome, que uma cabeça de jumento chegou a valer oitenta peças de prata, e uma caneca de esterco de pomba, cinco peças de prata. ^v25
 
-**26** E sucedeu que, passando o rei pelo muro, uma mulher lhe bradou, dizendo: Acode-me, ó rei meu senhor. ^v26
+**26** "Enquanto o rei de Israel estava passando por um muro, uma mulher gritou-lhe, dizendo: ""Ajuda-me, meu senhor e rei""." ^v26
 
-**27** E ele lhe disse: Se o Senhor te não acode, donde te acudirei eu? Da eira ou do lagar? ^v27
+**27** "Ele disse: ""Se Yahweh não te ajudar, como eu poderei socorrê-la? Acaso há trigo na eira ou vinho no lagar?""." ^v27
 
-**28** Disse-lhe mais o rei: Que tens? E disse ela: Esta mulher me disse: Dá cá o teu filho, para que hoje o comamos, e amanhã comeremos o meu filho. ^v28
+**28** "O rei continuou: ""O que está te preocupando?"". Ela respondeu: ""Esta mulher me disse: 'Dá-me o teu filho para que o comamos hoje, e nós comeremos o meu filho amanhã'""." ^v28
 
-**29** Cozemos, pois, o meu filho, e o comemos; mas dizendo-lhe eu ao outro dia: Dá cá o teu filho, para que o comamos; escondeu o seu filho. ^v29
+**29** "Então, nós cozinhamos o meu filho e o comemos, e eu lhe disse no dia seguinte: ""Entrega teu filho para que possamos comê-lo, mas ela escondeu o seu filho""." ^v29
 
-**30** E sucedeu que, ouvindo o rei as palavras desta mulher, rasgou as suas vestes, e ia passando pelo muro; e o povo viu que o rei trazia cilício por dentro, sobre a sua carne, ^v30
+**30** Então, quando o rei ouviu as palavras da mulher, ele rasgou suas vestes (ora, ele estava passando pelo muro), e as pessoas olharam e viram que ele estava usando roupa de saco por baixo, cobrindo sua pele. ^v30
 
-**31** E disse: Assim me faça Deus, e outro tanto, se a cabeça de Eliseu, filho de Safate, hoje ficar sobre ele. ^v31
+**31** "Então, ele disse: ""Assim me faça Deus, e ainda mais, se a cabeça de Eliseu, filho de Safate, permanecer com ele hoje""." ^v31
 
-**32** Estava então Eliseu assentado em sua casa, e também os anciãos estavam assentados com ele. E enviou o rei um homem adiante de si; mas, antes que o mensageiro viesse a ele, disse ele aos anciãos: Vistes como o filho do homicida mandou tirar-me a cabeça? Olhai pois que, quando vier o mensageiro, fechai-lhe a porta, e empurrai-o para fora com a porta; porventura não vem, após ele, o ruído dos pés de seu senhor? ^v32
+**32** "Estava, porém, Eliseu assentado em sua casa, e também os anciãos estavam assentados com ele. O rei enviou um homem adiante de si, mas, antes que o mensageiro chegasse a Eliseu, este disse aos anciãos: ""Vede como esse filho de um assassino mandou cortar minha cabeça? Vede: quando o mensageiro chegar, fechai a porta, e a mantende fechada. Não é o som dos passos do seu senhor atrás dele?" ^v32
 
-**33** E, estando ele ainda falando com eles, eis que o mensageiro descia a ele; e disse: Eis que este mal vem do Senhor, que mais, pois, esperaria do Senhor? ^v33
+**33** "Enquanto ele ainda estava falando com eles, eis que o mensageiro chegou e disse: ""O rei falou: 'Eis que este problema vem de Yahweh, que mais, pois, esperaria de Yahweh?'""." ^v33

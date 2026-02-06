@@ -1,63 +1,62 @@
 ---
-Livro: "[[Gênesis|Gênesis]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Gênesis|Gênesis]]"
+tags: [biblia]
 ---
 
 # Gênesis 45
 
-**1** Então José não se podia conter diante de todos os que estavam com ele; e clamou: Fazei sair daqui a todo o homem; e ninguém ficou com ele, quando José se deu a conhecer a seus irmãos. ^v1
+**1** "Então José não conseguia se controlar diante dos servos que estavam com ele. E disse em alta voz: ""Todos vós, deixai-me"". Então nenhum servo ficou diante dele, quando José se revelou para seus irmãos." ^v1
 
-**2** E levantou a sua voz com choro, de maneira que os egípcios o ouviam, e a casa de Faraó o ouviu. ^v2
+**2** Ele chorou em alta voz, e os Egípcios ouviram o choro, e a casa de Faraó também ouviu. ^v2
 
-**3** E disse José a seus irmãos: Eu sou José; vive ainda meu pai? E seus irmãos não lhe puderam responder, porque estavam pasmados diante da sua face. ^v3
+**3** "José disse a seus irmãos: ""Eu sou José. Meu pai ainda está vivo?"" Seus irmãos não conseguiam respondê-lo pois estavam assustados em sua presença." ^v3
 
-**4** E disse José a seus irmãos: Peço-vos, chegai-vos a mim. E chegaram-se; então disse ele: Eu sou José vosso irmão, a quem vendestes para o Egito. ^v4
+**4** "Então José disse a seus irmãos: ""Aproximem-se de mim, por favor"". Então eles se aproximaram. Ele disse: ""Eu sou José, vosso irmão, a quem vocês venderam para o Egito." ^v4
 
-**5** Agora, pois, não vos entristeçais, nem vos pese aos vossos olhos por me haverdes vendido para cá; porque para conservação da vida, Deus me enviou adiante de vós. ^v5
+**5** Não vos entristeçais, nem vos afligis por terem me vendido para cá, pois foi para preservação das vossas vidas que Deus me enviou adiante de vós. ^v5
 
-**6** Porque já houve dois anos de fome no meio da terra, e ainda restam cinco anos em que não haverá lavoura nem sega. ^v6
+**6** Por dois anos, há fome nesta terra, e ainda haverá cinco anos sem lavoura e colheita. ^v6
 
-**7** Pelo que Deus me enviou adiante de vós, para conservar vossa sucessão na terra, e para guardar-vos em vida por um grande livramento. ^v7
+**7** Deus enviou-me até vós para preservar a vossa descendência na terra e para preservar a vossa vida com grande livramento. ^v7
 
-**8** Assim não fostes vós que me enviastes para cá, senão Deus, que me tem posto por pai de Faraó, e por senhor de toda a sua casa, e como regente em toda a terra do Egito. ^v8
+**8** Então não fostes vós que me enviastes para cá, mas Deus, e Ele tem feito de mim um pai para Faraó, senhor de toda sua casa, e governador de toda a terra do Egito. ^v8
 
-**9** Apressai-vos, e subi a meu pai, e dizei-lhe: Assim tem dito o teu filho José: Deus me tem posto por senhor em toda a terra do Egito; desce a mim, e não te demores; ^v9
+**9** Apressai-vos a ir ao meu pai e digam-lhe: 'Isto é o que teu filho José diz: 'Deus me fez senhor de todo o Egito. Vem até mim, não demores. ^v9
 
-**10** E habitarás na terra de Gósen, e estarás perto de mim, tu e os teus filhos, e os filhos dos teus filhos, e as tuas ovelhas, e as tuas vacas, e tudo o que tens. ^v10
+**10** Habitarás na terra de Gósen, e estarás perto de mim, tu e teus filhos e os filhos de teus filhos e as tuas ovelhas e os teus bois, e tudo o que tens. ^v10
 
-**11** E ali te sustentarei, porque ainda haverá cinco anos de fome, para que não pereças de pobreza, tu e tua casa, e tudo o que tens. ^v11
+**11** Ali te sustentarei, para que não caias em pobreza, tu, tua casa e tudo que tens, pois ainda haverá cinco anos de fome'. ^v11
 
-**12** E eis que vossos olhos, e os olhos de meu irmão Benjamim, vêem que é minha boca que vos fala. ^v12
+**12** Olha, teus olhos veem, e os olhos de meu irmão Benjamin, que é minha boca que fala convosco. ^v12
 
-**13** E fazei saber a meu pai toda a minha glória no Egito, e tudo o que tendes visto, e apressai-vos a fazer descer meu pai para cá. ^v13
+**13** "Fareis, pois, saber a meu pai a respeito de toda honra que tenho no Egito, e a respeito de tudo que vistes. Apressai-vos em trazer meu pai pra cá""." ^v13
 
-**14** E lançou-se ao pescoço de Benjamim seu irmão, e chorou; e Benjamim chorou também ao seu pescoço. ^v14
+**14** Ele abraçou seu irmão Benjamin e os dois choraram abraçados. ^v14
 
-**15** E beijou a todos os seus irmãos, e chorou sobre eles; e depois seus irmãos falaram com ele. ^v15
+**15** Ele beijou todos os seus irmãos, chorando sobre eles. Depois disso seus irmãos falaram com ele. ^v15
 
-**16** E esta notícia ouviu-se na casa de Faraó: Os irmãos de José são vindos; e pareceu bem aos olhos de Faraó, e aos olhos de seus servos. ^v16
+**16** "Essa notícia foi dada na casa de Faraó: ""Os irmãos de José chegaram"". Isso muito agradou a Faraó e a seus servos." ^v16
 
-**17** E disse Faraó a José: Dize a teus irmãos: Fazei isto: carregai os vossos animais e parti, tornai à terra de Canaã. ^v17
+**17** "Faraó disse a José: ""Diz a teus irmãos: 'Fazei isto: carregai vossos animais e ide à terra de Canaã." ^v17
 
-**18** E tornai a vosso pai, e às vossas famílias, e vinde a mim; e eu vos darei o melhor da terra do Egito, e comereis da fartura da terra. ^v18
+**18** Buscai vosso pai e vossa família, e vinde até mim. Vos darei uma boa terra no Egito, e comereis do melhor da terra'. ^v18
 
-**19** A ti, pois, é ordenado: Fazei isto: tomai vós da terra do Egito carros para vossos meninos, para vossas mulheres, e para vosso pai, e vinde. ^v19
+**19** Ordena-lhes também, 'Fazei isto: levai carros da terra do Egito para vossos filhos e esposas. Trazei vosso pai e vinde. ^v19
 
-**20** E não vos pese coisa alguma dos vossos utensílios; porque o melhor de toda a terra do Egito será vosso. ^v20
+**20** "Não vos preocupeis com vossos bens, pois o melhor de toda a terra do Egito será vosso'""." ^v20
 
-**21** E os filhos de Israel fizeram assim. E José deu-lhes carros, conforme o mandado de Faraó; também lhes deu comida para o caminho. ^v21
+**21** Os filhos de Israel assim o fizeram. José lhes deu carros, como Faraó havia ordenado, e deu-lhes provisão para a jornada. ^v21
 
-**22** A todos lhes deu, a cada um, mudas de roupas; mas a Benjamim deu trezentas peças de prata, e cinco mudas de roupas. ^v22
+**22** Para todos deu-lhes mudas de roupas, mas para Benjamin ele deu trezentas peças de prata e cinco mudas de roupa. ^v22
 
-**23** E a seu pai enviou semelhantemente dez jumentos carregados do melhor do Egito, e dez jumentos carregados de trigo e pão, e comida para seu pai, para o caminho. ^v23
+**23** Para seu pai ele mandou isto: dez jumentos carregados com coisas boas do Egito; e dez jumentas carregadas com grãos, pães e outros suprimentos para a jornada de seu pai. ^v23
 
-**24** E despediu os seus irmãos, e partiram; e disse-lhes: Não contendais pelo caminho. ^v24
+**24** "Então ele enviou seus irmãos e eles partiram. E disse-llhes: ""Não brigueis pelo caminho""." ^v24
 
-**25** E subiram do Egito, e vieram à terra de Canaã, a Jacó seu pai. ^v25
+**25** Saíram do Egito e voltaram para a terra de Canaã, terra de seu pai Jacó. ^v25
 
-**26** Então lhe anunciaram, dizendo: José ainda vive, e ele também é regente em toda a terra do Egito. E o seu coração desmaiou, porque não os acreditava. ^v26
+**26** "Eles disseram a Jacó: ""José ainda está vivo, e ele é o governador das terras do Egito"". E seu coração ficou perplexo, pois ele não podia acreditar no que diziam." ^v26
 
-**27** Porém, havendo-lhe eles contado todas as palavras de José, que ele lhes falara, e vendo ele os carros que José enviara para levá-lo, reviveu o espírito de Jacó seu pai. ^v27
+**27** Disseram-lhe todas as palavras que José havia dito. Quando Jacó viu os carros que José havia enviado para levá-lo, o espírito de Jacó seu pai reviveu. ^v27
 
-**28** E disse Israel: Basta; ainda vive meu filho José; eu irei e o verei antes que morra. ^v28
+**28** "E Israel disse: ""É suficiente. José meu filho ainda está vivo. Eu irei vê-lo antes que eu morra""." ^v28

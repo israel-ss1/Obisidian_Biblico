@@ -1,53 +1,52 @@
 ---
-Livro: "[[2 Crônicas|2 Crônicas]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/2 Crônicas|2 Crônicas]]"
+tags: [biblia]
 ---
 
 # 2 Crônicas 11
 
-**1** Vindo, pois, Roboão a Jerusalém, reuniu, da casa de Judá e Benjamim, cento e oitenta mil escolhidos, destros na guerra, para pelejarem contra Israel, e para restituírem o reino a Roboão. ^v1
+**1** Quando Roboão chegou a Jerusalém, ele convocou as casas de Judá e Benjamim para lutar contra Israel, cento e oitenta mil homens que eram soldados, a fim de reconquistar o domínio para Roboão. ^v1
 
-**2** Porém a palavra do Senhor veio a Semaías, homem de Deus, dizendo: ^v2
+**2** Mas veio a palavra de Yahweh a Semaías, o homem de Deus, dizendo: ^v2
 
-**3** Fala a Roboão, filho de Salomão, rei de Judá, e a todo o Israel, em Judá e Benjamim, dizendo: ^v3
+**3** """Fala ao rei de Judá, Roboão, filho de Salomão, e a todo o Israel em Judá e Benjamim:" ^v3
 
-**4** Assim diz o Senhor: Não subireis, nem pelejareis contra os vossos irmãos; volte cada um à sua casa; porque de mim proveio isto. E ouviram as palavras do Senhor, e desistiram de ir contra Jeroboão. ^v4
+**4** "'Yahweh diz: Tu não deves atacar ou fazer guerra contra teus irmãos. Cada homem deve retornar à sua casa, pois por minha vontade isso aconteceu.'"". Assim, eles obedeceram às palavras de Yahweh e desistiram de atacar Jeroboão." ^v4
 
-**5** E Roboão habitou em Jerusalém; e para defesa, edificou cidades em Judá. ^v5
+**5** Roboão viveu em Jerusalém e construiu cidades em Judá para defesa. ^v5
 
-**6** Edificou, pois, a Belém, a Etã, e a Tecoa, ^v6
+**6** Ele fortificou Belém, Etã, Tecoa, ^v6
 
-**7** E a Bete-Zur, a Socó, a Adulão, ^v7
+**7** Bete-Zur, Socó, Adulão, ^v7
 
-**8** E a Gate, a Maressa, a Zife, ^v8
+**8** Gate, Maressa, Zife, ^v8
 
-**9** E a Adoraim, a Laquis, e a Azeca, ^v9
+**9** Adoraim, Laquis, Azeca, ^v9
 
-**10** E a Zorá, a Aijalom, e a Hebrom, que estavam em Judá e em Benjamim; cidades fortes. ^v10
+**10** Zorá, Aijalom e Hebrom. Essas são as cidades fortificadas em Judá e em Benjamim. ^v10
 
-**11** E fortificou estas fortalezas e pôs nelas capitàes, e armazéns de víveres, de azeite, e de vinho. ^v11
+**11** Ele reforçou as fortalezas e pôs comandantes nelas, com armazéns para a provisão de azeite e de vinho. ^v11
 
-**12** E pôs em cada cidade paveses e lanças; fortificou-as grandemente; e Judá e Benjamim pertenceram-lhe. ^v12
+**12** Ele colocou escudos e lanças em cada cidade e edificou as cidades fortemente. Então, Judá e Benjamim lhe pertenceram. ^v12
 
-**13** Também os sacerdotes e os levitas, que havia em todo o Israel, se reuniram a ele de todos os seus termos. ^v13
+**13** Os sacerdotes e os levitas que estavam em todo o Israel vieram ter com ele dentro de suas fronteiras. ^v13
 
-**14** Porque os levitas deixaram os seus arrabaldes, e a sua possessão, e vieram a Judá e a Jerusalém, porque Jeroboão e seus filhos os lançaram fora para que não ministrassem ao Senhor. ^v14
+**14** Os levitas deixaram seus pastos e propriedades, a fim de vir para Judá e Jerusalém, pois Jeroboão e seus filhos os tinham expulsado para longe, para que eles não pudessem mais exercer seus deveres sacerdotais para com Yahweh. ^v14
 
-**15** E ele constituiu para si sacerdotes, para os altos, para os demônios, e para os bezerros, que fizera. ^v15
+**15** Jeroboão designou para si sacerdotes para os altares dos lugares altos e fez ídolos nas formas de bezerro e de cabra. ^v15
 
-**16** Depois desses também, de todas as tribos de Israel, os que deram o seu coração a buscarem ao Senhor Deus de Israel, vieram a Jerusalém, para oferecerem sacrifícios ao Senhor Deus de seus pais. ^v16
+**16** Pessoas de todas as tribos de Israel, aqueles que haviam colocado em seus corações buscar Yahweh, o Deus de Israel, seguiram os sacerdotes e vieram até Jerusalém para sacrificar a Yahweh, o Deus de seus pais. ^v16
 
-**17** Assim fortaleceram o reino de Judá e corroboraram a Roboão, filho de Salomão, por três anos; porque três anos andaram no caminho de Davi e Salomão. ^v17
+**17** Assim, eles fortaleceram o reino de Judá e fizeram Roboão, filho de Salomão, forte, durante três anos, pois eles seguiram, por três anos, o caminho de Davi e Salomão. ^v17
 
-**18** E Roboão tomou para si, por mulher, a Maalate, filha de Jerimote, filho de Davi; e Abiail, filha de Eliabe, filho de Jessé. ^v18
+**18** Roboão tomou como esposa Maalate, filha de Jeremote, filho de Davi com Abiail, filha de Eliabe, filho de Jessé. ^v18
 
-**19** A qual lhe deu filhos: Jeús, Samarias e Zaã. ^v19
+**19** Maalate lhe deu filhos: Jeús, Semarias e Zaão. ^v19
 
-**20** E depois dela tomou a Maaca, filha de Absalão; esta lhe deu Abias, Atai, Ziza e Selomite. ^v20
+**20** Depois de Maalate, Roboão tomou Maacá, filha de Absalão. Ela lhe deu filhos: Abias, Atai, Ziza e Selomite. ^v20
 
-**21** E amava Roboão mais a Maaca, filha de Absalão, do que a todas as suas outras mulheres e concubinas; porque ele tinha tomado dezoito mulheres, e sessenta concubinas; e gerou vinte e oito filhos, e sessenta filhas. ^v21
+**21** Roboão amava Maacá, filha de Absalão, mais que todas as suas outras esposas e concubinas (ele tomou dezoito mulheres e sessenta concubinas e tornou-se pai de vinte e oito filhos e sessenta filhas). ^v21
 
-**22** E Roboão designou Abias, filho de Maaca, para ser chefe e líder entre os seus irmãos, porque queria fazê-lo rei. ^v22
+**22** Roboão designou Abias, filho de Maacá para ser chefe, um líder entre seus irmãos; ele pretendia fazê-lo rei. ^v22
 
-**23** E usou de prudência, e de todos os seus filhos, alguns espalhou por todas as terras de Judá, e Benjamim, por todas as cidades fortes; e deu-lhes víveres em abundância; e lhes procurou muitas mulheres. ^v23
+**23** Roboão decidiu sabiamente: ele espalhou todos os seus filhos pela terra de Judá e de Benjamim, em cada cidade fortificada. Ele também lhes deu suprimentos em abundância e procurou muitas esposas para eles. ^v23

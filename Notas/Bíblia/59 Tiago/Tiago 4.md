@@ -1,41 +1,40 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Tiago|Tiago]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Tiago|Tiago]]"
+tags: [biblia]
 ---
 
 # Tiago 4
 
-**1** De onde vêm as guerras e pelejas entre vós? Porventura não vêm disto, a saber, dos vossos deleites, que nos vossos membros guerreiam? ^v1
+**1** De onde surgem contendas e disputas entre vós? Não vêm elas dos vossos desejos que lutam entre vossos membros? ^v1
 
-**2** Cobiçais, e nada tendes; matais, e sois invejosos, e nada podeis alcançar; combateis e guerreais, e nada tendes, porque não pedis. ^v2
+**2** Desejais e nada tendes, matais e invejais e nada sois capazes de obter, lutais e contendeis. Não tendes, porque não pedis. ^v2
 
-**3** Pedis, e não recebeis, porque pedis mal, para o gastardes em vossos deleites. ^v3
+**3** Pedis e não recebeis porque pedis mal, com o fim de usardes isso para vossos prazeres. ^v3
 
-**4** Adúlteros e adúlteras, não sabeis vós que a amizade do mundo é inimizade contra Deus? Portanto, qualquer que quiser ser amigo do mundo constitui-se inimigo de Deus. ^v4
+**4** Adúlteros! Não sabeis vós que a amizade com o mundo é inimizade contra Deus? Portanto quem quiser ser amigo do mundo torna-se inimigo de Deus. ^v4
 
-**5** Ou cuidais vós que em vão diz a Escritura: O Espírito que em nós habita tem ciúmes? ^v5
+**5** "Ou pensais que a Escritura diz em vão: ""Com ciúmes, Deus anseia pelo Espírito que Ele fez habitar em nós?""" ^v5
 
-**6** Antes, ele dá maior graça. Portanto diz: Deus resiste aos soberbos, mas dá graça aos humildes. ^v6
+**6** "Mas Deus dá maior graça, por isso diz a Escritura: ""Deus resiste aos orgulhosos, mas dá graça aos humildes""." ^v6
 
-**7** Sujeitai-vos, pois, a Deus, resisti ao diabo, e ele fugirá de vós. ^v7
+**7** Portanto sujeitai-vos a Deus, resisti ao diabo, e ele fugirá de vós. ^v7
 
-**8** Chegai-vos a Deus, e ele se chegará a vós. Alimpai as mãos, pecadores; e, vós de duplo ânimo, purificai os corações. ^v8
+**8** Achegai-vos a Deus, e Ele se achegará a vós. Limpai vossas mãos, pecadores, e purificai vossos corações, vós que sois vacilantes. ^v8
 
-**9** Senti as vossas misérias, e lamentai e chorai; converta-se o vosso riso em pranto, e o vosso gozo em tristeza. ^v9
+**9** Entristecei-vos, lamentai, e chorai! Que o vosso riso se transforme em lamento, e a vossa alegria, em tristeza. ^v9
 
-**10** Humilhai-vos perante o Senhor, e ele vos exaltará. ^v10
+**10** Humilhai-vos diante do Senhor, e Ele vos exaltará. ^v10
 
-**11** Irmãos, não faleis mal uns dos outros. Quem fala mal de um irmão, e julga a seu irmão, fala mal da lei, e julga a lei; e, se tu julgas a lei, já não és observador da lei, mas juiz. ^v11
+**11** Não faleis mal uns dos outros. A pessoa que fala mal de um irmão, ou que julga seu irmão fala contra a Lei e julga a Lei. Se julgas a Lei, não és praticante da Lei, mas juiz. ^v11
 
-**12** Há só um legislador que pode salvar e destruir. Tu, porém, quem és, que julgas a outrem? ^v12
+**12** Somente um é legislador e juiz. Ele é Aquele que é capaz de salvar e destruir. Quem és tu, que julgas teu próximo? ^v12
 
-**13** Eia agora vós, que dizeis: Hoje, ou amanhã, iremos a tal cidade, e lá passaremos um ano, e contrataremos, e ganharemos; ^v13
+**13** "Ouvi, agora, vós que dizeis: ""Hoje ou amanhã nós iremos para esta cidade, ficaremos lá um ano, negociaremos e obteremos lucro""." ^v13
 
-**14** Digo-vos que não sabeis o que acontecerá amanhã. Porque, que é a vossa vida? É um vapor que aparece por um pouco, e depois se desvanece. ^v14
+**14** Quem sabe o que acontecerá amanhã? E o que é a vossa vida? Pois vós sois como a névoa que aparece por pouco tempo e então desaparece. ^v14
 
-**15** Em lugar do que devíeis dizer: Se o Senhor quiser, e se vivermos, faremos isto ou aquilo. ^v15
+**15** "Ao invés disso, devíeis dizer: ""Se o Senhor quiser, viveremos e faremos isto ou aquilo""." ^v15
 
-**16** Mas agora vos gloriais em vossas presunções; toda a glória tal como esta é maligna. ^v16
+**16** Mas agora vos orgulhais dos vossos planos arrogantes. Todo orgulho como esse é maligno. ^v16
 
-**17** Aquele, pois, que sabe fazer o bem e não o faz, comete pecado. ^v17
+**17** Portanto aquele que sabe fazer o bem e não o faz está pecando. ^v17

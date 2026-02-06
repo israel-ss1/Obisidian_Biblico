@@ -1,55 +1,54 @@
 ---
-Livro: "[[Levítico|Levítico]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Levítico|Levítico]]"
+tags: [biblia]
 ---
 
 # Levítico 21
 
-**1** Depois disse o SENHOR a Moisés: Fala aos sacerdotes, filhos de Arão, e dize-lhes: O sacerdote não se contaminará por causa de um morto entre o seu povo, ^v1
+**1** "Yahweh disse para Moisés: ""Fale aos sacerdotes, os filhos de Arão, e dize-lhes: 'Ninguém entre vós se tornará impuro por causa daquele que morrer entre vosso povo," ^v1
 
-**2** Salvo por seu parente mais chegado: por sua mãe, e por seu pai, e por seu filho, e por sua filha, e por seu irmão. ^v2
+**2** com excessão do parente próximo — tua mãe e pai, teu filho e filha, ou teu irmão ^v2
 
-**3** E por sua irmã virgem, chegada a ele, que ainda não teve marido; por ela também se contaminará. ^v3
+**3** ou irmã virgem que esteja em tua casa e que não tem marido. Por ela, pode torna-se impuro. ^v3
 
-**4** Ele sendo principal entre o seu povo, não se contaminará, pois que se profanaria. ^v4
+**4** Mas ele não se tornará impuro para outros parentes, pois profanaria a si mesmo. ^v4
 
-**5** Não farão calva na sua cabeça, e não raparão as extremidades da sua barba, nem darão golpes na sua carne. ^v5
+**5** Os sacerdotes não devem raspar os cabelos da cabeça ou cortar as extremidades das suas barbas, nem cortar os seus corpos. ^v5
 
-**6** Santos serão a seu Deus, e não profanarão o nome do seu Deus, porque oferecem as ofertas queimadas do Senhor, e o pão do seu Deus; portanto serão santos. ^v6
+**6** Eles devem ser separados para o seu Deus, e não desonrarem o nome do seu Deus, porque os sacerdotes apresentam as ofertas queimadas para Yahweh, o pão do seu Deus. Então os sacerdotes devem ser santos. ^v6
 
-**7** Não tomarão mulher prostituta ou desonrada, nem tomarão mulher repudiada de seu marido; pois santo é a seu Deus. ^v7
+**7** Eles não devem se casar com nenhuma mulher que é prostituta e que é profana, e eles não devem se casar com uma mulher divorciada do seu marido, porque eles são separados para o seu Deus. ^v7
 
-**8** Portanto o santificarás, porquanto oferece o pão do teu Deus; santo será para ti, pois eu, o Senhor que vos santifica, sou santo. ^v8
+**8** Tu santificarás porquanto oferece o pão ao vosso Deus. Ele deve ser santo à vossa vista, porque Eu, Yahweh, que os consagrei para Mim mesmo, Sou santo. ^v8
 
-**9** E quando a filha de um sacerdote começar a prostituir-se, profana a seu pai; com fogo será queimada. ^v9
+**9** Qualquer filha de qualquer sacerdote que se profanar, transformando-se numa prostituta, desonra seu pai. Ela deve ser queimada. ^v9
 
-**10** E o sumo sacerdote entre seus irmãos, sobre cuja cabeça foi derramado o azeite da unção, e que for consagrado para vestir as vestes, não descobrirá a sua cabeça nem rasgará as suas vestes; ^v10
+**10** Aquele que é o sumo sacerdote entre seus irmãos, sobre cuja cabeça o óleo da unção tem sido derramado e que tem sido consagrado para usar as vestimentas especiais do sumo sacerdote, não deve usar seus cabelos soltos ou rasgar as suas vestes. ^v10
 
-**11** E não se chegará a cadáver algum, nem por causa de seu pai nem por sua mãe se contaminará; ^v11
+**11** Ele não deve ir a qualquer lugar em que um corpo morto esteja presente e se profanar, mesmo se for seu pai ou sua mãe. ^v11
 
-**12** Nem sairá do santuário, para que não profane o santuário do seu Deus, pois a coroa do azeite da unção do seu Deus está sobre ele. Eu sou o Senhor. ^v12
+**12** O sumo sacerdote não deve sair da área do santuário do tabernáculo ou profanar o santuário do seu Deus, porque ele tem sido consagrado como sumo sacerdote pelo óleo da unção do seu Deus. Eu sou Yahweh. ^v12
 
-**13** E ele tomará por esposa uma mulher na sua virgindade. ^v13
+**13** O sumo sacerdote tomará por esposa uma mulher virgem. ^v13
 
-**14** Viúva, ou repudiada ou desonrada ou prostituta, estas não tomará; mas virgem do seu povo tomará por mulher. ^v14
+**14** Não deve se casar com uma viúva, uma mulher divorciada, ou uma mulher que seja prostituta. Ele não deve se casar com esses tipos de mulheres. Ele pode somente se casar com uma virgem do seu próprio povo. ^v14
 
-**15** E não profanará a sua descendência entre o seu povo; porque eu sou o Senhor que o santifico. ^v15
+**15** "Assim não profanará seus filhos entre seu povo, porque Eu sou Yahweh, quem o santifica""'." ^v15
 
-**16** Falou mais o Senhor a Moisés, dizendo: ^v16
+**16** Yahweh falou a Moisés, dizendo: ^v16
 
-**17** Fala a Arão, dizendo: Ninguém da tua descendência, nas suas gerações, em que houver algum defeito, se chegará a oferecer o pão do seu Deus. ^v17
+**17** """Fala a Arão e dize-lhe: 'Qualquer dos teus descendentes por todas as gerações que tiver um defeito físico, não deve se aproximar para oferecer o pão do seu Deus." ^v17
 
-**18** Pois nenhum homem em quem houver alguma deformidade se chegará; como homem cego, ou coxo, ou de nariz chato, ou de membros demasiadamente compridos, ^v18
+**18** Nenhum homem que tenha um defeito físico deve aproximar-se de Yahweh, como um cego, manco, ou que seja desfigurado ou deformado, ^v18
 
-**19** Ou homem que tiver quebrado o pé, ou a mão quebrada, ^v19
+**19** ou um homem que seja inválido das mãos ou dos pés, ^v19
 
-**20** Ou corcunda, ou anão, ou que tiver defeito no olho, ou sarna, ou impigem, ou que tiver testículo mutilado. ^v20
+**20** corcunda ou anão, ou um homem com defeitos nos olhos, com uma doença, dor, cicatriz, ou algum testículo defeituoso. ^v20
 
-**21** Nenhum homem da descendência de Arão, o sacerdote, em quem houver alguma deformidade, se chegará para oferecer as ofertas queimadas do Senhor; defeito nele há; não se chegará para oferecer o pão do seu Deus. ^v21
+**21** Nenhum homem entre os descendentes do sacerdote Arão, que tenha um defeito físico poderá se aproximar para apresentar as ofertas queimadas para Yahweh. De igual modo, um homem tendo um defeito físico, não deve se aproximar para oferecer o pão para o seu Deus. ^v21
 
-**22** Ele comerá do pão do seu Deus, tanto do santíssimo como do santo. ^v22
+**22** Ele pode comer o pão do seu Deus, tanto do santíssimo como do santo. ^v22
 
-**23** Porém até ao véu não entrará, nem se chegará ao altar, porquanto defeito há nele, para que não profane os meus santuários; porque eu sou o Senhor que os santifico. ^v23
+**23** "De qualquer forma, ele não deverá ir além das cortinas ou se aproximar do altar, porque ele tem um defeito físico, então ele não profanará o Meu santo lugar, porque Eu sou Yahweh, que os santifica.""'" ^v23
 
-**24** E Moisés falou isto a Arão e a seus filhos, e a todos os filhos de Israel. ^v24
+**24** Então, Moisés falou estas palavras para Arão, para os seus filhos, e para todo o povo de Israel. ^v24

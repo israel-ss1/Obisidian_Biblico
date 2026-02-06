@@ -1,57 +1,56 @@
 ---
-Livro: "[[Filemom|Filemom]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Filemom|Filemom]]"
+tags: [biblia]
 ---
 
 # Filemom 1
 
-**1** Paulo, prisioneiro de Jesus Cristo, e o irmão Timóteo, ao amado Filemom, nosso cooperador, ^v1
+**1** Paulo, prisioneiro de Cristo Jesus, e o irmão Timóteo, para Filemom, nosso amado amigo e cooperador de trabalho, ^v1
 
-**2** E à nossa amada Áfia, e a Arquipo, nosso camarada, e à igreja que está em tua casa: ^v2
+**2** e à nossa irmã Áfia, a Arquipo, nosso soldado companheiro, e à igreja que se reúne em tua casa. ^v2
 
-**3** Graça a vós e paz da parte de Deus nosso Pai, e do Senhor Jesus Cristo. ^v3
+**3** Graça e paz de Deus, nosso Pai, e do Senhor Jesus Cristo, a todos vós. ^v3
 
-**4** Graças dou ao meu Deus, lembrando-me sempre de ti nas minhas orações; ^v4
+**4** Sempre agradeço ao meu Deus, lembrando-me de ti em minhas orações. ^v4
 
-**5** Ouvindo do teu amor e da fé que tens para com o Senhor Jesus Cristo, e para com todos os santos; ^v5
+**5** Tenho ouvido do amor e da fé que tens no Senhor Jesus e todos os santos. ^v5
 
-**6** Para que a comunicação da tua fé seja eficaz no conhecimento de todo o bem que em vós há por Cristo Jesus. ^v6
+**6** Eu oro para que o compartilhar da tua fé seja efetivo para o conhecimento de todo bem que há em nós para com Cristo. ^v6
 
-**7** Porque temos grande gozo e consolação do teu amor, porque por ti, ó irmão, as entranhas dos santos foram recreadas. ^v7
+**7** Por causa do teu amor, irmão, tenho tido muita alegria e consolo, porque o coração dos santos, por teu intermédio, tem sido reanimado. ^v7
 
-**8** Por isso, ainda que tenha em Cristo grande confiança para te mandar o que te convém, ^v8
+**8** Por isso, embora eu tenha toda a liberdade em Cristo para ordenar o que deves fazer, ^v8
 
-**9** Todavia peço-te antes por amor, sendo eu tal como sou, Paulo o velho, e também agora prisioneiro de Jesus Cristo. ^v9
+**9** em nome do amor prefiro solicitar; eu, Paulo, um homem velho e, agora, prisioneiro por causa de Cristo Jesus. ^v9
 
-**10** Peço-te por meu filho Onésimo, que gerei nas minhas prisões; ^v10
+**10** Eu peço a ti em favor de meu filho Onésimo, a quem gerei enquanto estava na cadeia. ^v10
 
-**11** O qual noutro tempo te foi inútil, mas agora a ti e a mim muito útil; eu to tornei a enviar. ^v11
+**11** Pois ele, antes, foi inútil para ti; mas, agora, é útil, tanto para ti quanto para mim. ^v11
 
-**12** E tu torna a recebê-lo como às minhas entranhas. ^v12
+**12** Eu o envio de volta a ti, ele que é meu próprio coração. ^v12
 
-**13** Eu bem o quisera conservar comigo, para que por ti me servisse nas prisões do evangelho; ^v13
+**13** Eu preferiria mantê-lo comigo, para que ele pudesse ajudar-me, em teu lugar, enquanto sou prisioneiro por causa do Evangelho. ^v13
 
-**14** Mas nada quis fazer sem o teu parecer, para que o teu benefício não fosse como por força, mas, voluntário. ^v14
+**14** Entretanto, não quis fazer nada sem o teu consentimento, para que a tua bondade não fosse por obrigação, mas de livre vontade. ^v14
 
-**15** Porque bem pode ser que ele se tenha separado de ti por algum tempo, para que o retivesses para sempre, ^v15
+**15** Talvez por isso ele tenha sido separado de ti por um momento, para que o tivesses de volta definitivamente, ^v15
 
-**16** Não já como servo, antes, mais do que servo, como irmão amado, particularmente de mim, e quanto mais de ti, assim na carne como no Senhor? ^v16
+**16** não como um escravo; mas, melhor que um escravo, um amado irmão, especialmente de mim e, mais ainda, de ti, tanto na carne quanto no Senhor. ^v16
 
-**17** Assim, pois, se me tens por companheiro, recebe-o como a mim mesmo. ^v17
+**17** Então, se tu me consideras companheiro, recebe-o como a mim mesmo. ^v17
 
-**18** E, se te fez algum dano, ou te deve alguma coisa, põe isso à minha conta. ^v18
+**18** Se ele te prejudicou ou deve algo a ti, coloca isso em minha conta. ^v18
 
-**19** Eu, Paulo, de minha própria mão o escrevi; eu o pagarei, para te não dizer que ainda mesmo a ti próprio a mim te deves. ^v19
+**19** Eu, Paulo, escrevo isto com minha própria mão: eu te pagarei, sem mencionar que me deves até a ti mesmo. ^v19
 
-**20** Sim, irmão, eu me regozijarei de ti no Senhor; recreia as minhas entranhas no Senhor. ^v20
+**20** Sim, irmão, que eu receba de ti esse favor, pelo Senhor. Reconforta o meu coração em Cristo. ^v20
 
-**21** Escrevi-te confiado na tua obediência, sabendo que ainda farás mais do que digo. ^v21
+**21** Confiado em tua obediência, estou escrevendo a ti, sabendo que farás ainda mais do que estou pedindo. ^v21
 
-**22** E juntamente prepara-me também pousada, porque espero que pelas vossas orações vos hei de ser concedido. ^v22
+**22** Ao mesmo tempo, prepara um quarto de hóspedes para mim, pois espero que, por meio de vossas orações, eu vos seja restituído. ^v22
 
-**23** Saúdam-te Epafras, meu companheiro de prisão por Cristo Jesus, ^v23
+**23** Saúda-te Epafras, meu companheiro de prisão em Cristo Jesus, ^v23
 
-**24** Marcos, Aristarco, Demas e Lucas, meus cooperadores. ^v24
+**24** e também Marcos, Aristarco, Demas e Lucas, meus cooperadores de trabalho. ^v24
 
 **25** A graça de nosso Senhor Jesus Cristo seja com o vosso espírito. Amém. ^v25

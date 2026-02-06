@@ -1,73 +1,72 @@
 ---
-Livro: "[[2 Crônicas|2 Crônicas]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/2 Crônicas|2 Crônicas]]"
+tags: [biblia]
 ---
 
 # 2 Crônicas 32
 
-**1** Depois destas coisas e desta verdade, veio Senaqueribe, rei da Assíria, e entrou em Judá, e acampou-se contra as cidades fortificadas, e intentou apoderar-se delas. ^v1
+**1** Depois dessas coisas e desses atos de fidelidade, Senaqueribe, rei da Assíria, veio e entrou em Judá, ele acampou para atacar as cidades fortificadas que ele intencionava capturar para si. ^v1
 
-**2** Vendo, pois, Ezequias que Senaqueribe vinha, e que estava resolvido contra Jerusalém, ^v2
+**2** Quando Ezequias viu que Senaqueribe tinha vindo com a intenção de lutar contra Jerusalém, ^v2
 
-**3** Teve conselho com os seus príncipes e os seus homens valentes, para que se tapassem as fontes das águas que havia fora da cidade; e eles o ajudaram. ^v3
+**3** ele consultou os seus líderes e os seus homens poderosos sobre a ideia de interromper as nascentes de água que estavam fora da cidade; eles o ajudaram a fazer isso. ^v3
 
-**4** Assim muito povo se ajuntou, e tapou todas as fontes, como também o ribeiro que se estendia pelo meio da terra, dizendo: Por que viriam os reis da Assíria, e achariam tantas águas? ^v4
+**4** "Assim, muitas pessoas se juntaram e interromperam todas as nascentes e o riacho que estava fluindo pelo meio da terra. Eles disseram: ""Por que os reis da Assíria viriam e encontrariam bastante água?""." ^v4
 
-**5** E ele se animou, e edificou todo o muro quebrado até às torres, e levantou o outro muro por fora; e fortificou a Milo na cidade de Davi, e fez armas e escudos em abundância. ^v5
+**5** Ezequias tomou coragem e fortificou o muro que estava danificado. Ele construiu as torres mais altas, e também o outro muro de fora. Ele também reforçou a Milo, na cidade de Davi, e produziu grandes quantidades de armas e escudos. ^v5
 
-**6** E pôs capitàes de guerra sobre o povo, e reuniu-os na praça da porta da cidade, e falou-lhes ao coração, dizendo: ^v6
+**6** Ele colocou comandantes militares sobre o povo, e os reuniu juntamente a ele na praça, junto à porta da cidade, e falou, encorajando-os. Ele disse: ^v6
 
-**7** Esforçai-vos, e tende bom ânimo; não temais, nem vos espanteis, por causa do rei da Assíria, nem por causa de toda a multidão que está com ele, porque há um maior conosco do que com ele. ^v7
+**7** """Sede fortes e de boa coragem. Não temais, nem fiqueis desencorajados, por causa do rei da Assíria e de todo o exército que está com ele, porque conosco está Alguém que é maior do que os que estão com ele." ^v7
 
-**8** Com ele está o braço de carne, mas conosco o Senhor nosso Deus, para nos ajudar, e para guerrear por nós. E o povo descansou nas palavras de Ezequias, rei de Judá. ^v8
+**8** "Com ele há apenas um braço humano, mas conosco está Yahweh, nosso Deus, para nos ajudar, e para lutar as nossas batalhas"". Então, o povo se confortou com as palavras de Ezequias, rei de Judá." ^v8
 
-**9** Depois disto Senaqueribe, rei da Assíria, enviou os seus servos a Jerusalém (ele porém estava diante de Laquis, com todas as suas forças), a Ezequias, rei de Judá, e a todo o Judá que estava em Jerusalém, dizendo: ^v9
+**9** Depois disso, Senaqueribe, rei da Assíria, enviou seus servos para Jerusalém — ele, porém, estava em frente a Laquis, e todo o seu exército estava com ele —, para Ezequias, rei de Judá, e para todo o Judá que estava em Jerusalém. Ele disse: ^v9
 
-**10** Assim diz Senaqueribe, rei da Assíria: Em que confiais vós, para vos deixardes sitiar em Jerusalém? ^v10
+**10** """Isso é o que Senaqueribe, rei da Assíria, diz: 'Em quem confiais para permanecerdes sitiados em Jerusalém?" ^v10
 
-**11** Porventura não vos incita Ezequias, para morrerdes à fome e à sede, dizendo: O Senhor nosso Deus nos livrará das mãos do rei da Assíria? ^v11
+**11** Não está Ezequias vos enganando, para que ele vos deixe morrer de fome e de sede, ao dizer: 'Yahweh, nosso Deus, nos livrará da mão do rei da Assíria'? ^v11
 
-**12** Não é Ezequias o mesmo que tirou os seus altos e os seus altares, e falou a Judá e a Jerusalém, dizendo: Diante de um único altar vos prostrareis, e sobre ele queimareis incenso? ^v12
+**12** Esse não é o mesmo Ezequias que tirou os seus lugares altos e os seus altares, e ordenou a Judá e a Jerusalém: 'Em um único altar ireis adorar, e nele queimareis os vossos sacrifícios'? ^v12
 
-**13** Não sabeis vós o que eu e meus pais fizemos a todos os povos das terras? Porventura puderam de qualquer maneira os deuses das nações daquelas terras livrar o seu país da minha mão? ^v13
+**13** Não sabeis vós o que eu e meus antepassados fizemos a todos os grupos de povos das outras terras? Eram os deuses desses outros povos capazes, de alguma forma, de livrar a terra deles do meu poder? ^v13
 
-**14** Qual é, de todos os deuses daquelas nações que meus pais destruíram, o que pôde livrar o seu povo da minha mão, para que vosso Deus vos possa livrar da minha mão? ^v14
+**14** Entre todos os deuses daquelas nações, que meus antepassados destruíram completamente, havia algum deus que poderia livrar o seu povo da minha mão? Por que deveria o vosso Deus ser capaz de vos livrar do meu poder? ^v14
 
-**15** Agora, pois, não vos engane Ezequias, nem vos incite assim, nem lhe deis crédito; porque nenhum deus de nação alguma, nem de reino algum, pôde livrar o seu povo da minha mão, nem da mão de meus pais; quanto menos vos poderá livrar o vosso Deus da minha mão? ^v15
+**15** "Agora, não deixeis que Ezequias vos engane ou vos iluda desta maneira. Não acrediteis nele, pois não há deus em qualquer nação ou reino que tenha sido capaz de livrar o seu povo da minha mão, ou da mão dos meus antepassados. Quanto menos o vosso Deus vos livrará da minha mão?'""." ^v15
 
-**16** Também seus servos falaram ainda mais contra o Senhor Deus, e contra Ezequias, o seu servo. ^v16
+**16** Os servos de Senaqueribe falaram ainda mais contra Deus Yahweh e contra o Seu servo Ezequias. ^v16
 
-**17** Escreveu também cartas, para blasfemar do Senhor Deus de Israel, e para falar contra ele, dizendo: Assim como os deuses das nações das terras não livraram o seu povo da minha mão, assim também o Deus de Ezequias não livrará o seu povo da minha mão. ^v17
+**17** "Senaqueribe também escreveu cartas para debochar de Yahweh, o Deus de Israel, e para falar contra Ele. Senaqueribe disse: ""Como os deuses das nações das terras não livraram o seu povo da minha mão, assim, o Deus de Ezequias não vai livrar o seu povo da minha mão""." ^v17
 
-**18** E clamaram em alta voz em judaico contra o povo de Jerusalém, que estava em cima do muro, para os atemorizar e os perturbar, para que tomassem a cidade. ^v18
+**18** Eles gritaram na língua dos judeus ao povo de Jerusalém que estava no muro, para assustá-los e inquietá-los, a fim de capturar a cidade. ^v18
 
-**19** E falaram do Deus de Jerusalém, como dos deuses dos povos da terra, obras das mãos dos homens. ^v19
+**19** Eles falaram do Deus de Jerusalém, assim como eles falaram dos deuses dos povos da terra, que são meramente o trabalho das mãos de homens. ^v19
 
-**20** Porém o rei Ezequias e o profeta Isaías, filho de Amós, oraram contra isso, e clamaram ao céu. ^v20
+**20** Ezequias , o rei, e Isaías, filho de Amós, o profeta, oraram sobre esse assunto e clamaram ao céu. ^v20
 
-**21** Então o Senhor enviou um anjo que destruiu a todos os homens valentes, e os líderes, e os capitàes no arraial do rei da Assíria; e envergonhado voltou à sua terra; e, entrando na casa de seu deus, alguns dos seus próprios filhos, o mataram ali à espada. ^v21
+**21** Yahweh enviou um anjo, que matou os guerreiros, os comandantes e os oficiais do rei no campo. Assim, Senaqueribe retornou envergonhado para sua própria terra. Quando ele tinha chegado na casa do seu deus, alguns dos seus próprios filhos o mataram a espada. ^v21
 
-**22** Assim livrou o Senhor a Ezequias, e aos moradores de Jerusalém, da mão de Senaqueribe, rei da Assíria, e da mão de todos; e de todos os lados os guiou. ^v22
+**22** Desse modo, Yahweh salvou Ezequias e os habitantes de Jerusalém da mão de Senaqueribe, rei da Assíria, e da mão de todos os outros, e lhes deu descanso por todos os lados. ^v22
 
-**23** E muitos traziam a Jerusalém presentes ao Senhor, e coisas preciosíssimas a Ezequias, rei de Judá, de modo que depois disto foi exaltado perante os olhos de todas as nações. ^v23
+**23** Muitos trouxeram ofertas para Yahweh em Jerusalém, e presentes preciosos para Ezequias, rei de Judá, e assim ele foi exaltado aos olhos de todas as nações dali em diante. ^v23
 
-**24** Naqueles dias Ezequias adoeceu mortalmente; e orou ao Senhor, o qual lhe falou, e lhe deu um sinal. ^v24
+**24** Naqueles dias, Ezequias ficou doente a ponto de morrer. Ele orou a Yahweh, que falou com ele e lhe de um sinal de que ele seria curado. ^v24
 
-**25** Mas não correspondeu Ezequias ao benefício que lhe fora feito; porque o seu coração se exaltou; por isso veio grande ira sobre ele, e sobre Judá e Jerusalém. ^v25
+**25** Mas, Ezequias não retribuiu a Yahweh pela ajuda dada a ele, pois seu coração se exaltou. Assim, ira veio sobre ele, sobre Judá e Jerusalém. ^v25
 
-**26** Ezequias, porém, se humilhou pela exaltação do seu coração, ele e os habitantes de Jerusalém; e a grande ira do Senhor não veio sobre eles, nos dias de Ezequias. ^v26
+**26** Ezequias se humilhou pelo orgulho do seu coração, ambos, ele e os habitantes de Jerusalém. Assim, a ira de Yahweh não veio sobre eles durante os dias de Ezequias. ^v26
 
-**27** E teve Ezequias riquezas e glória em grande abundância; proveu-se de tesouraria para prata, ouro, pedras preciosas, especiarias, escudos, e toda a espécie de objetos desejáveis. ^v27
+**27** Ezequias teve muitas riquezas e muita honra. Ele construiu para si muitos depósitos para prata, ouro, pedras preciosas e especiarias, assim como de escudos e todo tipo de objetos valiosos. ^v27
 
-**28** Também de armazéns para a colheita do trigo, e do vinho, e do azeite; e de estrebarias para toda a espécie de animais e de currais para os rebanhos. ^v28
+**28** Ele também teve celeiros para a colheita dos cereais, vinho novo e óleo, e baias para todo tipo de animal. Ele também teve rebanhos em seus cercados. ^v28
 
-**29** Edificou também cidades, e possuiu ovelhas e vacas em abundância; porque Deus lhe tinha dado muitíssimas possessões. ^v29
+**29** Além disso, ele construiu para si cidades e possuiu rebanhos e manadas em abundância, pois Deus tinha dado a ele muita riqueza. ^v29
 
-**30** Também o mesmo Ezequias tapou o manancial superior das águas de Giom, e as fez correr por baixo para o ocidente da cidade de Davi; porque Ezequias prosperou em todas as suas obras. ^v30
+**30** Foi esse mesmo Ezequias que tapou as nascentes superiores de água em Giom, e as canalizou pelo lado oeste da cidade de Davi. Ezequias teve sucesso em todos os seus projetos. ^v30
 
-**31** Contudo, no tocante aos embaixadores dos príncipes de babilônia, que foram enviados a ele, a perguntarem acerca do prodígio que se fez naquela terra, Deus o desamparou, para tentá-lo, para saber tudo o que havia no seu coração. ^v31
+**31** Contudo, na questão dos embaixadores dos príncipes da Babilônia, que foram enviados a ele para fazerem perguntas sobre os sinais milagrosos que foram feitos na terra, Deus o deixou sozinho, para testá-lo e para saber tudo que estava em seu coração. ^v31
 
-**32** Quanto aos demais atos de Ezequias, e as suas boas obras, eis que estão escritos na visão do profeta Isaías, filho de Amós, e no livro dos reis de Judá e de Israel. ^v32
+**32** As demais questões que dizem respeito a Ezequias, incluindo seus atos de lealdade à aliança, podem ser encontrados escritos na visão do profeta Isaías, filho de Amós, e no livro dos reis de Judá e Israel. ^v32
 
-**33** E dormiu Ezequias com seus pais, e o sepultaram no mais alto dos sepulcros dos filhos de Davi; e todo o Judá e os habitantes de Jerusalém lhe fizeram honras na sua morte; e Manassés, seu filho, reinou em seu lugar. ^v33
+**33** Ezequias descansou com os seus ancestrais, e o sepultaram no sepulcro dos descendentes de Davi. Todo Judá e os habitantes de Jerusalém o honraram na sua morte. Manassés, seu filho, se tornou rei em seu lugar. ^v33

@@ -1,45 +1,44 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Isaías|Isaías]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Isaías|Isaías]]"
+tags: [biblia]
 ---
 
 # Isaías 63
 
-**1** Quem é este, que vem de Edom, de Bozra, com vestes tintas; este que é glorioso em sua vestidura, que marcha com a sua grande força? Eu, que falo em justiça, poderoso para salvar. ^v1
+**1** Quem é este que vem de Edom, vestido em vivas cores, vindo de Bozra? Quem é Ele que, com majestosas roupas reais, marcha com absoluta confiança por causa da Sua grande força? “Este sou Eu, falando de justiça, e poderosamente capaz de salvar”. ^v1
 
-**2** Por que está vermelha a tua vestidura, e as tuas roupas como as daquele que pisa no lagar? ^v2
+**2** Por que Tuas roupas estão vermelhas, como se Tu tivesses pisado uvas em um lagar? ^v2
 
-**3** Eu sozinho pisei no lagar, e dos povos ninguém houve comigo; e os pisei na minha ira, e os esmaguei no meu furor; e o seu sangue salpicou as minhas vestes, e manchei toda a minha vestidura. ^v3
+**3** “Eu pisei no lagar sozinho; das nações, nenhum homem se juntou a Mim. Eu pisei as uvas em Minha ira e as esmaguei no Meu furor. Seu sangue respingou em Minha roupa e a manchou completamente. ^v3
 
-**4** Porque o dia da vingança estava no meu coração; e o ano dos meus remidos é chegado. ^v4
+**4** Pois Eu olhei ansioso para o dia da vingança e vi que o ano para a Minha redenção havia chegado. ^v4
 
-**5** E olhei, e não havia quem me ajudasse; e admirei-me de não haver quem me sustivesse, por isso o meu braço me trouxe a salvação, e o meu furor me susteve. ^v5
+**5** Procurei, mas não havia ninguém para Me ajudar. Fiquei surpreso por não ter encontrado alguém para ajudar, mas Meu próprio braço Me trouxe a vitória, e Minha forte ira Me conduziu adiante. ^v5
 
-**6** E atropelei os povos na minha ira, e os embriaguei no meu furor; e a sua força derrubei por terra. ^v6
+**6** Esmaguei os povos na Minha ira e os embriaguei no Meu furor, derramando seu sangue pela terra”. ^v6
 
-**7** As benignidades do Senhor mencionarei, e os muitos louvores do Senhor, conforme tudo quanto o Senhor nos concedeu; e grande bondade para com a casa de Israel, que usou com eles segundo as suas misericórdias, e segundo a multidão das suas benignidades. ^v7
+**7** Celebrarei o glorioso amor fiel de Yahweh e as Suas obras dignas. Contarei tudo o que Yahweh fez por nós e sobre Sua grande bondade para com a casa de Israel. Mostrou-nos compaixão por causa da Sua misericórdia, de Seu amor fiel. ^v7
 
-**8** Porque dizia: Certamente eles são meu povo, filhos que não mentirão; assim ele se fez o seu Salvador. ^v8
+**8** "Pois Ele disse: ""Com certeza, eles são Meu povo, filhos que não são infiéis"". Ele Se tornou o Salvador deles." ^v8
 
-**9** Em toda a angústia deles ele foi angustiado, e o anjo da sua presença os salvou; pelo seu amor, e pela sua compaixão ele os remiu; e os tomou, e os conduziu todos os dias da antiguidade. ^v9
+**9** Até o fim de todo o sofrimento deles, Ele sofreu também, e o anjo de Sua presença os salvou. Em Seu amor e misericórdia, Ele os salvou, os levantou e os carregou desde os tempos antigos. ^v9
 
-**10** Mas eles foram rebeldes, e contristaram o seu Espírito Santo; por isso se lhes tornou em inimigo, e ele mesmo pelejou contra eles. ^v10
+**10** Mas eles se rebelaram e ofenderam Seu Santo Espírito. Assim, Ele Se tornou inimigo e lutou contra eles. ^v10
 
-**11** Todavia se lembrou dos dias da antiguidade, de Moisés, e do seu povo, dizendo: Onde está agora o que os fez subir do mar com os pastores do seu rebanho? Onde está o que pôs no meio deles o seu Espírito Santo? ^v11
+**11** "Seu povo meditou sobre os antigos tempos de Moisés. Disseram: ""Onde está Deus, O qual lhes tirou do mar com os pastores e seus rebanhos? Onde está Deus, O qual colocou Seu Santo Espírito sobre eles?" ^v11
 
-**12** Aquele cujo braço glorioso ele fez andar à mão direita de Moisés, que fendeu as águas diante deles, para fazer para si um nome eterno? ^v12
+**12** Onde está Deus, O qual fez Seu glorioso poder ir com a mão direita de Moisés e dividiu a água diante deles, para fazer um nome perpétuo para Ele mesmo? ^v12
 
-**13** Aquele que os guiou pelos abismos, como o cavalo no deserto, de modo que nunca tropeçaram? ^v13
+**13** Onde está Deus, O qual lhes guiou até o fim da água profunda? Como um cavalo correndo em uma superfície plana, eles não caíram. ^v13
 
-**14** Como o animal que desce ao vale, o Espírito do Senhor lhes deu descanso; assim guiaste ao teu povo, para te fazeres um nome glorioso. ^v14
+**14** Como o gado que desce pelo vale, o Espírito de Yahweh lhes deu descanso. Assim, Tu guiaste Teu povo para fazer a Ti mesmo um nome de louvor. ^v14
 
-**15** Atenta desde os céus, e olha desde a tua santa e gloriosa habitação. Onde estão o teu zelo e as tuas obras poderosas? A comoção das tuas entranhas, e das tuas misericórdias, detém-se para comigo? ^v15
+**15** Do céu, olha para baixo e observa de Tua santa e gloriosa habitação. Onde estão o Teu zelo e Teus atos poderosos? Tuas ações piedosas e compassivas foram guardadas de nós. ^v15
 
-**16** Mas tu és nosso Pai, ainda que Abraão não nos conhece, e Israel não nos reconhece; tu, ó Senhor, és nosso Pai; nosso Redentor desde a antiguidade é o teu nome. ^v16
+**16** Pois Tu és nosso Pai, embora Abraão não nos conheça e Israel nos ignore, Tu, Yahweh, és o nosso Pai. “Nosso Redentor”, este tem sido o Teu Nome desde os tempos antigos. ^v16
 
-**17** Por que, ó Senhor, nos fazes errar dos teus caminhos? Por que endureces o nosso coração, para que não te temamos? Volta, por amor dos teus servos, às tribos da tua herança. ^v17
+**17** Yahweh, por que Tu nos fazes vagar longe dos Teus caminhos e endureces nossos corações, para que nós não obedeçamos a Ti? Volta, pelo bem dos Teus servos, pelas tribos da Tua herança. ^v17
 
-**18** Só por um pouco de tempo o teu santo povo a possuiu; nossos adversários pisaram o teu santuário. ^v18
+**18** Teu povo possuiu o Teu santo lugar por um curto tempo. Então, nossos inimigos pisaram nele. ^v18
 
-**19** Somos feitos como aqueles sobre quem tu nunca dominaste, e como os que nunca se chamaram pelo teu nome. ^v19
+**19** Nós nos tornamos como aqueles sobre quem Tu nunca governaste, como aqueles que nunca foram chamados pelo Teu Nome. ^v19

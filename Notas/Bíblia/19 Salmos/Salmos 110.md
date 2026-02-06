@@ -1,21 +1,18 @@
 ---
-Livro: "[[Salmos|Salmos]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Salmos|Salmos]]"
+tags: [biblia]
 ---
 
 # Salmos 110
 
-**1** Disse o SENHOR ao meu Senhor: Assenta-te à minha mão direita, até que ponha os teus inimigos por escabelo dos teus pés. ^v1
+**2** De Sião, Yahweh tomará o cetro de Sua força; governará entre os Teus inimigos. ^v2
 
-**2** O Senhor enviará o cetro da tua fortaleza desde Sião, dizendo: Domina no meio dos teus inimigos. ^v2
+**3** Com vestes santas, o Teu povo Te seguirá voluntariamente no dia do Teu poder; os Teus jovens virão como o orvalho emergindo do amanhecer. ^v3
 
-**3** O teu povo será mui voluntário no dia do teu poder; nos ornamentos de santidade, desde a madre da alva, tu tens o orvalho da tua mocidade. ^v3
+**4** "Yahweh jurou e não se arrependerá: ""Tu és um sacerdote eterno, à maneira de Melquizedeque.""" ^v4
 
-**4** Jurou o Senhor, e não se arrependerá: tu és um sacerdote eterno, segundo a ordem de Melquisedeque. ^v4
+**5** O Senhor, que está à Tua direita, destruirá reis no dia da Sua ira. ^v5
 
-**5** O Senhor, à tua direita, ferirá os reis no dia da sua ira. ^v5
+**6** Ele julgará as nações; Ele encherá os campos de batalha com cadáveres; destruirá os líderes em muitas nações. ^v6
 
-**6** Julgará entre os gentios; tudo encherá de corpos mortos; ferirá os cabeças de muitos países. ^v6
-
-**7** Beberá do ribeiro no caminho, por isso exaltará a cabeça. ^v7
+**7** Ele beberá do riacho pelo caminho e, então, levantará a Sua cabeça depois da vitória. ^v7

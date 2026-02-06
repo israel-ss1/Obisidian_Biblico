@@ -1,57 +1,56 @@
 ---
-Livro: "[[Juízes|Juízes]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Juízes|Juízes]]"
+tags: [biblia]
 ---
 
 # Juízes 13
 
-**1** E os filhos de Israel tornaram a fazer o que era mau aos olhos do SENHOR, e o SENHOR os entregou na mão dos filisteus por quarenta anos. ^v1
+**1** O povo de Israel, mais uma vez, fez o que era mau aos olhos de Yahweh, e Ele os entregou nas mãos dos filisteus por quarenta anos. ^v1
 
-**2** E havia um homem de Zorá, da tribo de Dã, cujo nome era Manoá; e sua mulher, sendo estéril, não tinha filhos. ^v2
+**2** Havia um homem de Zorá, do clã dos danitas, cujo nome era Manoá. Sua esposa, como era estéril, nunca havia dado à luz. ^v2
 
-**3** E o anjo do Senhor apareceu a esta mulher, e disse-lhe: Eis que agora és estéril, e nunca tens concebido; porém conceberás, e terás um filho. ^v3
+**3** O Anjo de Yahweh apareceu à mulher e disse-lhe: “Até agora, tu não tens conseguido engravidar e não deste à luz. Porém, tu ficarás grávida e darás à luz um filho. ^v3
 
-**4** Agora, pois, guarda-te de beber vinho, ou bebida forte, ou comer coisa imunda. ^v4
+**4** Agora, sê cuidadosa para não beber vinho ou bebida forte, nem comer qualquer coisa impura. ^v4
 
-**5** Porque eis que tu conceberás e terás um filho sobre cuja cabeça não passará navalha; porquanto o menino será nazireu de Deus desde o ventre; e ele começará a livrar a Israel da mão dos filisteus. ^v5
+**5** Vê, tu ficarás grávida e darás à luz um filho. Nenhuma navalha passará pela cabeça dele, porque o menino será nazireu para Deus, desde o ventre. Ele começará a libertar Israel das mãos dos filisteus. ^v5
 
-**6** Então a mulher entrou, e falou a seu marido, dizendo: Um homem de Deus veio a mim, cuja aparência era semelhante a de um anjo de Deus, terribilíssima; e não lhe perguntei donde era, nem ele me disse o seu nome. ^v6
+**6** "Então, a mulher veio e disse ao seu marido: ""Um homem de Deus veio até mim, e sua aparência era como de um anjo de Deus, e ele me causou muito medo. Eu não perguntei de onde veio e ele não me disse o seu nome." ^v6
 
-**7** Porém disse-me: Eis que tu conceberás e terás um filho; agora pois, não bebas vinho, nem bebida forte, e não comas coisa imunda; porque o menino será nazireu de Deus, desde o ventre até ao dia da sua morte. ^v7
+**7** Ele me disse: 'Vê! Tu ficarás grávida e darás à luz um filho. Então, não bebas vinho nem bebida forte, e não comas nenhuma comida que a Lei declara como impura, porque a criança será um nazireu de Deus, desde o tempo em que estiver no teu ventre até o dia da sua morte'''. ^v7
 
-**8** Então Manoá orou ao Senhor, e disse: Ah! Senhor meu, rogo-te que o homem de Deus, que enviaste, ainda venha para nós outra vez e nos ensine o que devemos fazer ao menino que há de nascer. ^v8
+**8** "Então, Manoá orou a Yahweh e disse: ""Ó, Senhor, por favor, faze com que o homem de Deus que Tu enviaste venha outra vez a nós e que ele nos ensine o que devemos fazer à criança que vai nascer""." ^v8
 
-**9** E Deus ouviu a voz de Manoá; e o anjo de Deus veio outra vez à mulher, e ela estava no campo, porém não estava com ela seu marido Manoá. ^v9
+**9** Deus ouviu a oração de Manoá, e o Anjo de Deus veio novamente até a mulher quando ela estava sentada no campo. Mas Manoá, seu marido, não estava com ela. ^v9
 
-**10** Apressou-se, pois, a mulher, e correu, e noticiou-o a seu marido, e disse-lhe: Eis que aquele homem que veio a mim o outro dia me apareceu. ^v10
+**10** "A mulher correu rapidamente e disse ao seu marido: ""Olha! O homem apareceu a mim, aquele que veio a mim outro dia!""." ^v10
 
-**11** Então Manoá levantou-se, e seguiu a sua mulher, e foi àquele homem, e disse-lhe: És tu aquele homem que falou a esta mulher? E disse: Eu sou. ^v11
+**11** "Manoá se levantou e seguiu sua esposa. Quando ele chegou até o homem, disse: ""És tu o homem que falou com a minha esposa?”. O homem disse: ""Sou eu""." ^v11
 
-**12** Então disse Manoá: Cumpram-se as tuas palavras; mas qual será o modo de viver e o serviço do menino? ^v12
+**12** "Então, Manoá disse: ""Que as tuas palavras se tornem verdade; mas quais serão a regras para a criança, e qual será seu trabalho?""." ^v12
 
-**13** E disse o anjo do Senhor a Manoá: De tudo quanto eu disse à mulher se guardará ela. ^v13
+**13** "O Anjo de Yahweh disse a Manoá: ""Ela precisa fazer cuidadosamente tudo o que lhe disse." ^v13
 
-**14** De tudo quanto procede da videira não comerá, nem vinho nem bebida forte beberá, nem coisa imunda comerá; tudo quanto lhe tenho ordenado guardará. ^v14
+**14** "Ela não poderá comer nada que venha da vinha e não poderá beber vinho ou bebida forte; não poderá comer nenhuma comida que a lei declara como impura. Ela deve obedecer tudo o que lhe ordenei para fazer""." ^v14
 
-**15** Então Manoá disse ao anjo do Senhor: Ora deixa que te detenhamos, e te preparemos um cabrito. ^v15
+**15** "Manoá disse ao Anjo de Yahweh: ""Por favor, fica mais um pouco, para nos dar tempo para te preparar um cabrito""." ^v15
 
-**16** Porém o anjo do Senhor disse a Manoá: Ainda que me detenhas, não comerei de teu pão; e se fizeres holocausto o oferecerás ao Senhor. Porque não sabia Manoá que era o anjo do Senhor. ^v16
+**16** "O Anjo de Yahweh disse a Manoá: ""Mesmo que Eu fique, não comerei da vossa comida, mas se tu preparares um holocausto, consagra-o para Yahweh"". Manoá não sabia que era o Anjo de Yahweh." ^v16
 
-**17** E disse Manoá ao anjo do Senhor: Qual é o teu nome, para que, quando se cumprir a tua palavra, te honremos? ^v17
+**17** "Manoá disse ao Anjo de Yahweh: ""Qual é o teu nome, para que te honremos quando a tua palavra se cumprir?”." ^v17
 
-**18** E o anjo do Senhor lhe disse: Por que perguntas assim pelo meu nome, visto que é maravilhoso? ^v18
+**18** "O Anjo de Yahweh lhe disse: ""Por que perguntas o Meu nome? Ele é maravilhoso!""." ^v18
 
-**19** Então Manoá tomou um cabrito e uma oferta de alimentos, e os ofereceu sobre uma penha ao Senhor: e houve-se o anjo maravilhosamente, observando-o Manoá e sua mulher. ^v19
+**19** Então, Manoá pegou o cabrito com a oferta de cereal e ofereceu-os em cima da pedra a Yahweh. Ele fez algo maravilhoso enquanto Manoá e sua esposa estavam observando. ^v19
 
-**20** E sucedeu que, subindo a chama do altar para o céu, o anjo do Senhor subiu na chama do altar; o que vendo Manoá e sua mulher, caíram em terra sobre seus rostos. ^v20
+**20** Quando a chama subiu do altar em direção ao céu, o Anjo de Yahweh subiu na chama do altar. Manoá e sua esposa viram isso e se prostraram com seus rostos em terra. ^v20
 
-**21** E nunca mais apareceu o anjo do Senhor a Manoá, nem a sua mulher; então compreendeu Manoá que era o anjo do Senhor. ^v21
+**21** O Anjo de Yahweh não apareceu mais a Manoá nem à sua esposa. Então, Manoá soube que ele era o Anjo de Yahweh. ^v21
 
-**22** E disse Manoá à sua mulher: Certamente morreremos, porquanto temos visto a Deus. ^v22
+**22** "Manoá disse à sua esposa: ""Certamente morreremos, porque vimos a Deus""." ^v22
 
-**23** Porém sua mulher lhe disse: Se o Senhor nos quisesse matar, não aceitaria da nossa mão o holocausto e a oferta de alimentos, nem nos mostraria tudo isto, nem nos deixaria ouvir tais coisas neste tempo. ^v23
+**23** "Mas sua esposa lhe disse: ""Se Yahweh quisesse nos matar, Ele não teria recebido o holocausto e a oferta de cereais que nós Lhe demos. Ele não teria nos mostrado todas essas coisas, nem nos teria feito ouvir tais coisas neste tempo""." ^v23
 
-**24** Depois teve esta mulher um filho, a quem pôs o nome de Sansão; e o menino cresceu, e o Senhor o abençoou. ^v24
+**24** Algum tempo depois, a mulher deu à luz um menino, e chamou-lhe Sansão. O menino cresceu, e Yahweh o abençoou. ^v24
 
-**25** E o Espírito do SENHOR começou a incitá-lo de quando em quando para o campo de Maané-Dã, entre Zorá e Estaol. ^v25
+**25** O Espírito de Yahweh começou a movê-lo em Maané-Dã, entre Zorá e Estaol. ^v25

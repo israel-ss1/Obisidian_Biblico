@@ -1,29 +1,28 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Oséias|Oséias]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Oséias|Oséias]]"
+tags: [biblia]
 ---
 
 # Oséias 6
 
-**1** Vinde, e tornemos ao SENHOR, porque ele despedaçou, e nos sarará; feriu, e nos atará a ferida. ^v1
+**1** """Vinde! Voltemos para Yahweh. Porque Ele nos despedaçou, mas irá nos sarar; Ele nos feriu, mas atará nossas feridas." ^v1
 
-**2** Depois de dois dias nos dará a vida; ao terceiro dia nos ressuscitará, e viveremos diante dele. ^v2
+**2** Depois de dois dias, Ele nos dará vida novamente; Ele nos levantará ao terceiro dia, e viveremos diante Dele. ^v2
 
-**3** Então conheçamos, e prossigamos em conhecer ao Senhor; a sua saída, como a alva, é certa; e ele a nós virá como a chuva, como chuva serôdia que rega a terra. ^v3
+**3** "Conheçamos a Yahweh, prossigamos em O conhecer. A Sua vinda é certa como o amanhecer; Ele virá até nós como as chuvas, como as chuvas da primavera que molham a terra""." ^v3
 
-**4** Que te farei, ó Efraim? Que te farei, ó Judá? Porque a vossa benignidade é como a nuvem da manhã e como o orvalho da madrugada, que cedo passa. ^v4
+**4** Efraim, que farei a ti? Que farei a ti, Judá? Tua fidelidade é como a nuvem da manhã, como o orvalho que cedo passa. ^v4
 
-**5** Por isso os abati pelos profetas; pelas palavras da minha boca os matei; e os teus juízos sairão como a luz, ^v5
+**5** Por isso, por meio dos profetas, Eu os parti em pedaços, Eu os matei com as palavras de Minha boca. Meus decretos são como a luz que brilha. ^v5
 
-**6** Porque eu quero a misericórdia, e não o sacrifício; e o conhecimento de Deus, mais do que os holocaustos. ^v6
+**6** Pois desejo fidelidade, e não sacrifício; e o conhecimento de Deus mais do que ofertas queimadas. ^v6
 
-**7** Mas eles transgrediram a aliança, como Adão; eles se portaram aleivosamente contra mim. ^v7
+**7** Como Adão, eles quebraram a Aliança; eles foram infiéis Comigo. ^v7
 
-**8** Gileade é a cidade dos que praticam iniqüidade, manchada de sangue. ^v8
+**8** Gileade é uma cidade de malfeitores marcada com pegadas de sangue. ^v8
 
-**9** Como as hordas de salteadores que esperam alguns, assim é a companhia dos sacerdotes que matam no caminho num mesmo consenso; sim, eles cometem abominações. ^v9
+**9** Como bandos de ladrões à espreita de alguém, assim estão os sacerdotes unidos para cometerem assassinato no caminho de Siquém; eles praticam crimes vergonhosos. ^v9
 
-**10** Vejo uma coisa horrenda na casa de Israel, ali está a prostituição de Efraim; Israel está contaminado. ^v10
+**10** Na casa de Israel vi uma coisa horrível; a prostituição de Efraim está lá, e Israel se contaminou. ^v10
 
-**11** Também para ti, ó Judá, está assinada uma sega, quando eu trouxer o cativeiro do meu povo. ^v11
+**11** Também para ti, Judá, uma colheita foi determinada, quando Eu restaurar o Meu povo do cativeiro. ^v11

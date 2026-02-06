@@ -1,37 +1,36 @@
 ---
-Livro: "[[Tito|Tito]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Tito|Tito]]"
+tags: [biblia]
 ---
 
 # Tito 3
 
-**1** Admoesta-os a que se sujeitem aos principados e potestades, que lhes obedeçam, e estejam preparados para toda a boa obra; ^v1
+**1** Lembra a eles que se submetam aos governantes e autoridades e os obedecem, para estarem prontos para toda boa obra; ^v1
 
-**2** Que a ninguém infamem, nem sejam contenciosos, mas modestos, mostrando toda a mansidão para com todos os homens. ^v2
+**2** não injurieis a ninguém, evitai discutir, mostrai benevolência e humildade para com todas as pessoas. ^v2
 
-**3** Porque também nós éramos noutro tempo insensatos, desobedientes, extraviados, servindo a várias concupiscências e deleites, vivendo em malícia e inveja, odiosos, odiando-nos uns aos outros. ^v3
+**3** Pois nós também, outrora, éramos sem juízo e desobedientes; éramos desgarrados e escravizados por várias paixões e prazeres; nós vivíamos na maldade e na inveja. Éramos detestáveis e rancorosos uns para com os outros. ^v3
 
-**4** Mas quando apareceu a benignidade e amor de Deus, nosso Salvador, para com os homens, ^v4
+**4** Mas quando a bondade de Deus, nosso Salvador, e Seu amor para com a humanidade apareceu, ^v4
 
-**5** Não pelas obras de justiça que houvéssemos feito, mas segundo a sua misericórdia, nos salvou pela lavagem da regeneração e da renovação do Espírito Santo, ^v5
+**5** Ele nos salvou, lavando-nos mediante o novo nascimento, e renovando-nos pelo Espírito Santo, não pelas obras que havíamos feito em justiça, mas de acordo com a Sua misericórdia. ^v5
 
-**6** Que abundantemente ele derramou sobre nós por Jesus Cristo nosso Salvador; ^v6
+**6** Deus ricamente derramou o Espírito Santo sobre nós, mediante o nosso Salvador Jesus Cristo, ^v6
 
-**7** Para que, sendo justificados pela sua graça, sejamos feitos herdeiros segundo a esperança da vida eterna. ^v7
+**7** de modo que, justificados pela Sua graça, nos tornemos herdeiros da esperança da vida eterna. ^v7
 
-**8** Fiel é a palavra, e isto quero que deveras afirmes, para que os que crêem em Deus procurem aplicar-se às boas obras; estas coisas são boas e proveitosas aos homens. ^v8
+**8** Fiel é a Palavra. Quero que fales confiantemente sobre essas coisas, de modo que aqueles que confiam em Deus possam pensar seriamente em praticar boas obras. Essas coisas são boas e proveitosas para todas as pessoas. ^v8
 
-**9** Mas não entres em questões loucas, genealogias e contendas, e nos debates acerca da lei; porque são coisas inúteis e vãs. ^v9
+**9** Mas, evita debates tolos, genealogias, contendas e debates sobre a lei. Essas coisas são sem valor e sem proveito. ^v9
 
-**10** Ao homem hereje, depois de uma e outra admoestação, evita-o, ^v10
+**10** Rejeita qualquer um que esteja causando divisões entre vós, depois de uma ou duas advertências, ^v10
 
-**11** Sabendo que esse tal está pervertido, e peca, estando já em si mesmo condenado. ^v11
+**11** e sabe que tal pessoa desviou-se do caminho certo e está pecando e condenando a si mesma. ^v11
 
-**12** Quando te enviar Ártemas, ou Tíquico, procura vir ter comigo a Nicópolis; porque deliberei invernar ali. ^v12
+**12** Quando eu te enviar Artemas ou Tíquico, apressa-te, e vem até mim em Nicópolis, onde decidi passar o inverno. ^v12
 
-**13** Acompanha com muito cuidado Zenas, doutor da lei, e Apolo, para que nada lhes falte. ^v13
+**13** Apressa-te e envia Zenas, o jurista, e Apolo, com todas as coisas que eles precisam. ^v13
 
-**14** E os nossos aprendam também a aplicar-se às boas obras, nas coisas necessárias, para que não sejam infrutuosos. ^v14
+**14** Nosso povo deve aprender a se comprometer com as boas obras para atender às necessidades urgentes, de modo que não sejam infrutíferos. ^v14
 
-**15** Saúdam-te todos os que estão comigo. Saúda tu os que nos amam na fé. A graça seja com vós todos. Amém. ^v15
+**15** Todos aqueles que estão comigo te saúdam. Saúda tu aqueles que nos amam na fé. Graça seja com todos vós. ^v15

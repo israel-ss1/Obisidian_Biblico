@@ -1,59 +1,58 @@
 ---
-Livro: "[[Deuteronômio|Deuteronômio]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Deuteronômio|Deuteronômio]]"
+tags: [biblia]
 ---
 
 # Deuteronômio 7
 
-**1** Quando o SENHOR teu Deus te houver introduzido na terra, à qual vais para a possuir, e tiver lançado fora muitas nações de diante de ti, os heteus, e os girgaseus, e os amorreus, e os cananeus, e os perizeus, e os heveus, e os jebuseus, sete nações mais numerosas e mais poderosas do que tu; ^v1
+**1** Quando Yahweh, teu Deus, te introduzir na terra que possuirás, e houver expulsado muitas nações diante de ti — os heteus, os girgaseus, os amorreus, os cananeus, os perizeus, os heveus, e os jebuseus — sete nações maiores e mais poderosas do que tu; ^v1
 
-**2** E o Senhor teu Deus as tiver dado diante de ti, para as ferir, totalmente as destruirás; não farás com elas aliança, nem terás piedade delas; ^v2
+**2** e, quando tu as encontrares na batalha e Yahweh, teu Deus, der a vitória sobre elas, tu as atacarás, e as destruirás completamente. Não farás nenhuma aliança com elas, nem demonstrarás misericórdia para com elas. ^v2
 
-**3** Nem te aparentarás com elas; não darás tuas filhas a seus filhos, e não tomarás suas filhas para teus filhos; ^v3
+**3** Não entres em acordo matrimonial algum com elas; não dês tuas filhas para os filhos delas, e não tomes as filhas delas para teus filhos. ^v3
 
-**4** Pois fariam desviar teus filhos de mim, para que servissem a outros deuses; e a ira do Senhor se acenderia contra vós, e depressa vos consumiria. ^v4
+**4** Pois farão teus filhos se desviarem para longe de mim, vindo a adorar a outros deuses. Assim, a ira de Yahweh se acenderá contra ti, e te destruirá rapidamente. ^v4
 
-**5** Porém assim lhes fareis: Derrubareis os seus altares, quebrareis as suas estátuas; e cortareis os seus bosques, e queimareis a fogo as suas imagens de escultura. ^v5
+**5** É assim que lidará com elas: destruirás os seus altares, quebrarás em pedaços os seus pilares sagrados de pedras, cortarás os seus aserins e lançarás seus ídolos no fogo. ^v5
 
-**6** Porque povo santo és ao Senhor teu Deus; o Senhor teu Deus te escolheu, para que lhe fosses o seu povo especial, de todos os povos que há sobre a terra. ^v6
+**6** Pois tu és uma nação que foste separada por Yahweh, teu Deus. Ele vos escolheu para ser um povo de Sua posse, dentre todos os outros povos que estão na face da Terra. ^v6
 
-**7** O Senhor não tomou prazer em vós, nem vos escolheu, porque a vossa multidão era mais do que a de todos os outros povos, pois vós éreis menos em número do que todos os povos; ^v7
+**7** Yahweh não colocou Seu amor sobre ti, ou te escolheu por ser mais numeroso que outros povos, pois eras o menor de todos os povos, ^v7
 
-**8** Mas, porque o Senhor vos amava, e para guardar o juramento que fizera a vossos pais, o Senhor vos tirou com mão forte e vos resgatou da casa da servidão, da mão de Faraó, rei do Egito. ^v8
+**8** mas porque Ele te amou e te livrou para cumprir o juramento que havia feito para teus pais. Esta é a razão pela qual Yahweh te resgatou com poderosa mão, da casa de escravidão, das mãos de Faraó, rei do Egito. ^v8
 
-**9** Saberás, pois, que o Senhor teu Deus, ele é Deus, o Deus fiel, que guarda a aliança e a misericórdia até mil gerações aos que o amam e guardam os seus mandamentos. ^v9
+**9** Portanto, saberás que Yahweh, teu Deus, é Deus, o Deus fiel, que guarda a aliança e fidelidade por mil gerações com aqueles que O amam e guardam Seus mandamentos, ^v9
 
-**10** E retribui no rosto qualquer dos que o odeiam, fazendo-o perecer; não será tardio ao que o odeia; em seu rosto lho pagará. ^v10
+**10** mas retribui pessoalmente àqueles que O odeiam para os destruir. Ele não será brando para com aqueles que O odeiam, prontamente retribuirá. ^v10
 
-**11** Guarda, pois, os mandamentos e os estatutos e os juízos que hoje te mando cumprir. ^v11
+**11** Portanto, guardarás os mandamentos, os estatutos, e os decretos que hoje te ordeno, e assim o farás. ^v11
 
-**12** Será, pois, que, se ouvindo estes juízos, os guardardes e cumprirdes, o Senhor teu Deus te guardará a aliança e a misericórdia que jurou a teus pais; ^v12
+**12** Se ouvires estes decretos, e os guardares e os cumprires, Yahweh, teu Deus, manterá a aliança e a fidelidade que Ele jurou a teus pais. ^v12
 
-**13** E amar-te-á, e abençoar-te-á, e te fará multiplicar; abençoará o fruto do teu ventre, e o fruto da tua terra, o teu grão, e o teu mosto, e o teu azeite, e a criação das tuas vacas, e o rebanho do teu gado miúdo, na terra que jurou a teus pais dar-te. ^v13
+**13** Ele te amará, te abençoará, e te multiplicará; ele abençoará o fruto do teu ventre e o fruto da tua terra, teu grão, teu vinho novo, e teu azeite, e multiplicará teu gado e a força dos teus rebanhos, na terra que jurou a teus pais que te daria. ^v13
 
-**14** Bendito serás mais do que todos os povos; não haverá estéril entre ti, seja homem, seja mulher, nem entre os teus animais. ^v14
+**14** Serás mais abençoado que todos os outros povos; não haverá homem ou mulher estéril no meio de ti ou do teu gado. ^v14
 
-**15** E o Senhor de ti desviará toda a enfermidade; sobre ti não porá nenhuma das más doenças dos egípcios, que bem sabes, antes as porá sobre todos os que te odeiam. ^v15
+**15** Yahweh afastará de ti todas as enfermidades; Ele não colocará sobre ti nenhuma das doenças malignas do Egito, que tu bem conheces, mas Ele as colocará sobre todos aqueles que te odiarem. ^v15
 
-**16** Pois consumirás a todos os povos que te der o Senhor teu Deus; os teus olhos não os poupará; e não servirás a seus deuses, pois isto te seria por laço. ^v16
+**16** Tu consumirás todos os povos, que Yahweh, teu Deus, entregar em tuas mãos, e teus olhos não se compadecerão deles. E tu não adorarás os seus deuses, pois isto seria uma armadilha para ti. ^v16
 
-**17** Se disseres no teu coração: Estas nações são mais numerosas do que eu; como as poderei lançar fora? ^v17
+**17** Se, em teu coração, disseres: 'Estas nações são mais numerosas que nós; como poderemos expulsá-las?'. ^v17
 
-**18** Delas não tenhas temor; não deixes de te lembrar do que o Senhor teu Deus fez a Faraó e a todos os egípcios; ^v18
+**18** Não terás medo delas! Lembrarás do que Yahweh, teu Deus, fez a Faraó e a todo o Egito. ^v18
 
-**19** Das grandes provas que viram os teus olhos, e dos sinais, e maravilhas, e mão forte, e braço estendido, com que o Senhor teu Deus te tirou; assim fará o Senhor teu Deus com todos os povos, diante dos quais tu temes. ^v19
+**19** O grande sofrimento que teu olhos viram, os sinais, as maravilhas, a poderosa mão e a manifestação de poder pelos quais Yahweh, teu Deus, te tirou. Yahweh, teu Deus, fará assim para com todos os povos que tu temes. ^v19
 
-**20** E mais, o Senhor teu Deus entre eles mandará vespões, até que pereçam os que ficarem e se esconderem de diante de ti. ^v20
+**20** Além disso, Yahweh, teu Deus, enviará vespas entre eles, até que pereçam aqueles que houverem se escondido de ti. ^v20
 
-**21** Não te espantes diante deles; porque o Senhor teu Deus está no meio de ti, Deus grande e terrível. ^v21
+**21** Não te assustes por causa deles, pois Yahweh teu Deus está no meio de ti, um Deus grande e temível . ^v21
 
-**22** E o Senhor teu Deus lançará fora estas nações pouco a pouco de diante de ti; não poderás destruí-las todas de pronto, para que as feras do campo não se multipliquem contra ti. ^v22
+**22** Yahweh, teu Deus, pouco a pouco, expulsará cada nação diante de ti. Não as vencerás todas de uma vez, pois os animais selvagens se multiplicariam em volta de ti. ^v22
 
-**23** E o Senhor teu Deus as entregará a ti, e lhes infligirá uma grande confusão até que sejam consumidas. ^v23
+**23** Mas Yahweh, teu Deus, te dará vitória sobre eles quando tu os encontrares em batalha; Yahweh os confundirá até que eles estejam destruídos. ^v23
 
-**24** Também os seus reis te entregará na mão, para que apagues os seus nomes de debaixo dos céus; nenhum homem resistirá diante de ti, até que os destruas. ^v24
+**24** Ele colocará seus reis debaixo das tuas mãos e fará o nome deles desaparecer de debaixo dos céus. Nenhum deles será capaz de estar diante de ti, até que os tenhas destruído. ^v24
 
-**25** As imagens de escultura de seus deuses queimarás a fogo; a prata e o ouro que estão sobre elas não cobiçarás, nem os tomarás para ti, para que não te enlaces neles; pois abominação é ao Senhor teu Deus. ^v25
+**25** Tu queimarás as imagens esculpidas de seus deuses; não cobiçarás a prata e o ouro que as recobrem, nem mesmo as tomarás para ti, pois isso seria uma armadilha para ti. Para Yahweh, o teu Deus, isso é uma abominação. ^v25
 
-**26** Não porás, pois, abominação em tua casa, para que não sejas anátema, assim como ela; de todo a detestarás, e de todo a abominarás, porque anátema é. ^v26
+**26** Tu não trarás nenhuma abominação para dentro de tua casa, para que não venhas a adorá-la. Tu as rejeitarás completamente e as abominarás, pois toda abominação será separada para destruição. ^v26

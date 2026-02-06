@@ -1,111 +1,110 @@
 ---
-Livro: "[[1 Samuel|1 Samuel]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/1 Samuel|1 Samuel]]"
+tags: [biblia]
 ---
 
 # 1 Samuel 14
 
-**1** Sucedeu, pois, que um dia disse Jônatas, filho de Saul, ao moço que lhe levava as armas: Vem, passemos à guarnição dos filisteus, que está lá daquele lado. Porém não o fez saber a seu pai. ^v1
+**1** "Um dia, Jônatas, filho de Saul, disse ao seu jovem escudeiro: ""Vem, vamos até as tropas militares dos filisteus, que estão do outro lado"". Mas ele não contou a seu pai." ^v1
 
-**2** E estava Saul à extremidade de Gibeá, debaixo da romeira que havia em Migrom; e o povo que estava com ele era uns seiscentos homens. ^v2
+**2** Saul estava nas fronteiras de Gibeá, debaixo da romeira em Migrom. Havia cerca de seiscentos homens com ele, ^v2
 
-**3** E Aías, filho de Aitube, irmão de Icabode, o filho de Finéias, filho de Eli, sacerdote do Senhor em Siló, trazia o éfode; porém o povo não sabia que Jônatas tinha ido. ^v3
+**3** incluindo Aías, filho de Aitube, irmão de Icabode, filho de Finéias, filho de Eli, sacerdote de Yahweh em Siló, que vestia um manto sacerdotal. O povo não sabia que Jônatas havia ido. ^v3
 
-**4** E entre os desfiladeiros pelos quais Jônatas procurava passar à guarnição dos filisteus, deste lado havia uma penha aguda, e do outro lado uma penha aguda; e era o nome de uma Bozez, e o nome da outra Sené. ^v4
+**4** De cada lado do desfiladeiro que Jônatas pretendia atravessar para alcançar a tropa dos filisteus, havia um penhasco rochoso, de um lado e de outro. O nome de um penhasco era Bozez, e o do outro era Sené. ^v4
 
-**5** Uma penha para o norte estava defronte de Micmás, e a outra para o sul, defronte de Gibeá. ^v5
+**5** Um desses penhascos se localizava ao norte, defronte de Micmás, e o outro ao sul defronte de Gibeá. ^v5
 
-**6** Disse, pois, Jônatas ao moço que lhe levava as armas: Vem, passemos à guarnição destes incircuncisos; porventura operará o Senhor por nós, porque para com o Senhor nenhum impedimento há de livrar com muitos ou com poucos. ^v6
+**6** "Jônatas disse ao seu jovem escudeiro: ""Vem, vamos atravessar o exército desses incircuncisos. Pode ser que Yahweh trabalhe a nosso favor, pois nada pode impedir Yahweh de salvar, com muitas ou com poucas pessoas." ^v6
 
-**7** Então o seu pajem de armas lhe disse: Faze tudo o que tens no coração; segue, eis-me aqui contigo, conforme o que quiseres. ^v7
+**7** "Seu escudeiro respondeu: ""Faze tudo quanto estiver em teu coração. Vá em frente, vê, eu estarei contigo, para obedecer a todas as tuas ordens""." ^v7
 
-**8** Disse, pois, Jônatas: Eis que passaremos àqueles homens, e nos revelaremos a eles. ^v8
+**8** "Então, Jônatas disse: ""Nós atravessaremos até aqueles homens, e nos mostraremos a eles." ^v8
 
-**9** Se nos disserem assim: Parai até que cheguemos a vós; então ficaremos no nosso lugar, e não subiremos a eles. ^v9
+**9** Se eles disserem: 'Esperem até que os alcancemos', - então ficaremos em nosso lugar e não atravessaremos até eles. ^v9
 
-**10** Porém, se disserem: Subi a nós; então subiremos, pois o Senhor os tem entregado nas nossas mãos, e isto nos será por sinal. ^v10
+**10** "Mas, se eles responderem: 'Vinde até nós', então os alcançaremos, porque Yahweh os entregou em nossas mãos. Este será o nosso sinal""." ^v10
 
-**11** Revelando-se eles à guarnição dos filisteus, disseram os filisteus: Eis que já os hebreus saíram das cavernas em que se tinham escondido. ^v11
+**11** "Então, os dois revelaram-se à tropa dos filisteus, que disseram: ""Olhem! Os hebreus estão saindo dos buracos onde haviam se escondido.""" ^v11
 
-**12** E os homens da guarnição responderam a Jônatas e ao seu pajem de armas, e disseram: Subi a nós, e nós vos ensinaremos uma lição. E disse Jônatas ao seu pajem de armas: Sobe atrás de mim, porque o Senhor os tem entregado na mão de Israel. ^v12
+**12** "Então, os homens do exército disseram a Jônatas e a seu escudeiro: ""Vinde até nós, e lhes mostraremos algo"". Jônatas disse ao seu escudeiro: ""Segue-me, porque Yahweh os entregou nas mãos de Israel""." ^v12
 
-**13** Então subiu Jônatas com os pés e com as mãos, e o seu pajem de armas atrás dele; e os filisteus caíam diante de Jônatas, e o seu pajem de armas os matava atrás dele. ^v13
+**13** Então, Jônatas subiu engatinhando, e seu escudeiro o seguiu. Os filisteus caíram mortos diante de Jônatas, e seu escudeiro os matava atrás deles. ^v13
 
-**14** E sucedeu esta primeira derrota, em que Jônatas e o seu pajem de armas feriram uns vinte homens, em cerca de meia jeira de terra que uma junta de bois podia lavrar. ^v14
+**14** Neste primeiro ataque, Jônatas e seu escudeiro mataram cerca de vinte homens, dentro de meia jeira de terra. ^v14
 
-**15** E houve tremor no arraial, no campo e em todo o povo; também a mesma guarnição e os saqueadores tremeram, até a terra se estremeceu porquanto era tremor de Deus. ^v15
+**15** Houve terror no acampamento, no campo e entre o povo. Até mesmo as tropas e os invasores estremeceram. A terra tremeu e houve grande desespero. ^v15
 
-**16** Olharam, pois, as sentinelas de Saul em Gibeá de Benjamim, e eis que a multidão se dissolvia, e fugia para cá e para lá. ^v16
+**16** Os vigias de Saul, em Gibeá de Benjamim, olharam; a multidão de soldados filisteus estava se dispersando, e fugiam para lá e para cá. ^v16
 
-**17** Disse então Saul ao povo que estava com ele: Ora contai, e vede quem é que saiu dentre nós. E contaram, e eis que nem Jônatas nem o seu pajem de armas estavam ali. ^v17
+**17** "Então, Saul disse ao povo que estava com ele: ""Ora, contai e vede quem está faltando entre nós"". Quando eles contaram, Jônatas e seu escudeiro não estavam ali." ^v17
 
-**18** Então Saul disse a Aías: Traze aqui a arca de Deus (porque naquele dia estava a arca de Deus com os filhos de Israel). ^v18
+**18** "Saul disse a Aías: ""Traze a Arca de Deus aqui"" — porque a Arca estava com o povo de Israel naqueles dias." ^v18
 
-**19** E sucedeu que, estando Saul ainda falando com o sacerdote, o alvoroço que havia no arraial dos filisteus ia crescendo muito, e se multiplicava, pelo que disse Saul ao sacerdote: Retira a tua mão. ^v19
+**19** "Enquanto Saul falava com o sacerdote, crescia cada vez mais o tumulto no acampamento filisteu. Então, Saul disse ao sacerdote: ""Retira a tua mão""." ^v19
 
-**20** Então Saul e todo o povo que havia com ele se reuniram, e foram à peleja; e eis que a espada de um era contra o outro, e houve mui grande tumulto. ^v20
+**20** Saul e todo o povo que estava com ele reuniram-se e foram para a batalha. Cada espada dos filisteus estava contra seus próprios companheiros, e havia grande confusão. ^v20
 
-**21** Também com os filisteus havia hebreus, como dantes, que subiram com eles ao arraial em redor; e também estes se ajuntaram com os israelitas que estavam com Saul e Jônatas. ^v21
+**21** Os hebreus que, anteriormente, se juntaram aos filisteus, e que haviam ido com eles para o acampamento, uniram-se aos israelitas que estavam com Saul e Jônatas. ^v21
 
-**22** Ouvindo, pois, todos os homens de Israel que se esconderam pela montanha de Efraim que os filisteus fugiam, eles também os perseguiram de perto na peleja. ^v22
+**22** Quando todos os homens de Israel, que haviam se escondido nas montanhas próximas a Efraim, ouviram que os filisteus estavam fugindo, eles também os perseguiram em batalha. ^v22
 
-**23** Assim livrou o Senhor a Israel naquele dia; e o arraial passou a Bete-Áven. ^v23
+**23** Então, Yahweh livrou Israel naquele dia, e a batalha passou além de Bete-Áven. ^v23
 
-**24** E estavam os homens de Israel já exaustos naquele dia, porquanto Saul conjurou o povo, dizendo: Maldito o homem que comer pão até à tarde, antes que me vingue de meus inimigos. Por isso todo o povo se absteve de provar pão. ^v24
+**24** "Naquele dia, os homens de Israel estavam angustiados, porque Saul havia colocado o povo sob juramento e dito: ""Maldito seja aquele que comer qualquer comida antes do anoitecer e até que eu me vingue dos meus inimigos"". Por isso, nenhum dos soldados se alimentou." ^v24
 
-**25** E todo o povo chegou a um bosque; e havia mel na superfície do campo. ^v25
+**25** Então, todo o povo chegou a uma floresta onde havia mel no chão. ^v25
 
-**26** E, chegando o povo ao bosque, eis que havia um manancial de mel; porém ninguém chegou a mão à boca, porque o povo temia a conjuração. ^v26
+**26** Quando o povo entrou na floresta, o mel escorria, mas ninguém o tocou nem o levou à boca, porque temiam o juramento. ^v26
 
-**27** Porém Jônatas não tinha ouvido quando seu pai conjurara o povo, e estendeu a ponta da vara que tinha na mão, e a molhou no favo de mel; e, tornando a mão à boca, aclararam-se os seus olhos. ^v27
+**27** Mas Jônatas não tinha ouvido que seu pai colocara o povo sob juramento. Ele estendeu a ponta da vara que estava em sua mão e a mergulhou no favo de mel. Ele levou a mão à boca, e seus olhos brilharam. ^v27
 
-**28** Então respondeu um do povo, e disse: Solenemente conjurou teu pai o povo, dizendo: Maldito o homem que comer hoje pão. Por isso o povo desfalecia. ^v28
+**28** "Então, alguém do povo disse: ""Seu pai jurou rigorosamente, dizendo: 'Maldito seja o homem que comer comida neste dia', embora o povo estivesse fraco de fome""." ^v28
 
-**29** Então disse Jônatas: Meu pai tem turbado a terra; ora vede como se me aclararam os olhos por ter provado um pouco deste mel, ^v29
+**29** "Então, Jônatas disse: ""Meu pai trouxe perturbação sobre a terra. Veja como meus olhos tornaram-se brilhantes, porque eu provei um pouco deste mel." ^v29
 
-**30** Quanto mais se o povo hoje livremente tivesse comido do despojo que achou de seus inimigos. Porém agora não foi tão grande o estrago dos filisteus. ^v30
+**30** "Quão bem faria ao povo, se tivesse comido hoje dos despojos achados dos seus inimigos? Por essa razão, o massacre não foi maior entre os filisteus""." ^v30
 
-**31** Feriram, porém, aquele dia aos filisteus, desde Micmás até Aijalom, e o povo desfaleceu em extremo. ^v31
+**31** Eles atacaram os filisteus, naquele dia, desde Micmás até Aijalom. O exército estava exausto. ^v31
 
-**32** Então o povo se lançou ao despojo, e tomaram ovelhas, e vacas, e bezerros, e os degolaram no chão; e o povo os comeu com sangue. ^v32
+**32** O povo avançou vorazmente sobre os despojos e pegou ovelhas, bois e bezerros, matando -os no chão, e os comendo com sangue. ^v32
 
-**33** E o anunciaram a Saul, dizendo: Eis que o povo peca contra o Senhor, comendo com sangue. E disse: Aleivosamente procedestes; trazei-me aqui já uma grande pedra. ^v33
+**33** "Então, disseram a Saul: ""Veja, o exército está pecando contra Yahweh ao comer com sangue. ""Saul disse: ""Vós agistes de maneira infiel. Agora, trazei-me uma grande pedra." ^v33
 
-**34** Disse mais Saul: Dispersai-vos entre o povo, e dizei-lhes: Trazei-me cada um o seu boi, e cada um a sua ovelha, e degolai-os aqui, e comei, e não pequeis contra o Senhor, comendo com sangue. Então todo o povo trouxe de noite, cada um pela sua mão, o seu boi, e os degolaram ali. ^v34
+**34** "Saul disse: ""Ide entre o povo, e dizei-lhe: 'deixe cada homem trazer seu boi e sua ovelha, matai-os aqui, e comei. Não pequeis contra Yahweh comendo-os com sangue"". Assim, naquela noite, cada pessoa trouxe consigo seu próprio boi e o matou ali." ^v34
 
-**35** Então edificou Saul um altar ao Senhor; este foi o primeiro altar que edificou ao Senhor. ^v35
+**35** Saul ergueu um altar a Yahweh. Este foi o primeiro altar que edificou a Ele. ^v35
 
-**36** Depois disse Saul: Desçamos de noite atrás dos filisteus, e despojemo-los, até que amanheça o dia, e não deixemos deles um só homem. E disseram: Tudo o que parecer bem aos teus olhos faze. Disse, porém, o sacerdote: Cheguemo-nos aqui a Deus. ^v36
+**36** "Então, Saul disse: ""Desçamos e persigamos os filisteus à noite e os saqueemos até o amanhecer; não deixemos nenhum deles vivo"". Eles responderam: ""Faz o que lhe parecer melhor"". Mas o sacerdote disse: ""Busquemos a Deus aqui""." ^v36
 
-**37** Então consultou Saul a Deus, dizendo: Descerei atrás dos filisteus? Entregá-los-ás na mão de Israel? Porém aquele dia não lhe respondeu. ^v37
+**37** "Saul consultou a Deus, dizendo: ""Descerei atrás dos filisteus? Tu os entregarás nas mãos de Israel?"". Mas Deus não lhe respondeu naquele dia." ^v37
 
-**38** Então disse Saul: Chegai-vos para cá, todos os chefes do povo, e informai-vos, e vede em que se cometeu hoje este pecado. ^v38
+**38** "Então, Saul disse: ""Vinde aqui, todos os líderes do povo; vede e sabei como este pecado aconteceu hoje." ^v38
 
-**39** Porque vive o Senhor que salva a Israel, que, ainda que seja em meu filho Jônatas, certamente morrerá. E nenhum de todo o povo lhe respondeu. ^v39
+**39** "Porque, assim como Yahweh vive e salva Israel, mesmo sendo Jônatas meu filho, ele morrerá"". Mas nenhum homem dentre o povo lhe respondeu." ^v39
 
-**40** Disse mais a todo o Israel: Vós estareis de um lado, e eu e meu filho Jônatas estaremos do outro lado. Então disse o povo a Saul: Faze o que parecer bem aos teus olhos. ^v40
+**40** "Ele disse a todo o Israel: ""Vós estareis de um lado, e eu e Jônatas, meu filho, estaremos do outro"". E o povo disse a Saul: ""Faz o que te parecer bom""." ^v40
 
-**41** Falou, pois, Saul ao Senhor Deus de Israel: Mostra o inocente. Então Jônatas e Saul foram tomados por sorte, e o povo saiu livre. ^v41
+**41** "Por isso, Saul disse a Yahweh, o Deus de Israel: ""Mostra-nos a verdade"". E a sorte caiu sobre Jônatas e Saul, e o povo escapou de ser escolhido." ^v41
 
-**42** Então disse Saul: Lançai a sorte entre mim e Jônatas, meu filho. E foi tomado Jônatas. ^v42
+**42** "Depois, Saul disse: ""Lançai sorte entre mim e meu filho, Jônatas"". E a sorte caiu sobre Jônatas." ^v42
 
-**43** Disse então Saul a Jônatas: Declara-me o que tens feito. E Jônatas lho declarou, e disse: Tão-somente provei um pouco de mel com a ponta da vara que tinha na mão; eis que devo morrer? ^v43
+**43** "E Saul disse a Jônatas: ""Dize-me o que fizeste"". Jônatas lhe disse: ""Eu provei um pouco de mel com a ponta da vara que estava em minha mão. Aqui estou eu. Eu morrerei""." ^v43
 
-**44** Então disse Saul: Assim me faça Deus, e outro tanto, que com certeza morrerás, Jônatas. ^v44
+**44** "Saul disse: ""Deus me castigue ainda mais se tu não morreres, Jônatas.""" ^v44
 
-**45** Porém o povo disse a Saul: Morrerá Jônatas, que efetuou tão grande salvação em Israel? Nunca tal suceda; vive o Senhor, que não lhe há de cair no chão um só cabelo da sua cabeça! pois com Deus fez isso hoje. Assim o povo livrou a Jônatas, para que não morresse. ^v45
+**45** "Então, o povo disse a Saul: ""Deveria Jônatas morrer, ele que trouxe tamanha glória a Israel? Longe disso! Assim como Yahweh vive, que nenhum fio de seu cabelo caia no chão, pois ele trabalhou com Deus hoje"". Então o povo resgatou Jônatas, e ele não morreu." ^v45
 
-**46** E Saul deixou de seguir os filisteus; e os filisteus se foram ao seu lugar. ^v46
+**46** E Saul parou de perseguir os filisteus, e eles foram para a sua terra. ^v46
 
-**47** Então tomou Saul o reino sobre Israel; e pelejou contra todos os seus inimigos em redor; contra Moabe, e contra os filhos de Amom, e contra Edom, e contra os reis de Zobá, e contra os filisteus, e para onde quer que se tornava executava castigo. ^v47
+**47** Quando Saul começou a reinar sobre Israel, ele lutou contra todos os seus inimigos de todos os lados. Lutou contra Moabe, os amonitas, Edom, os reis de Zobá e os filisteus. Onde quer que fosse, ele se impunha sobre eles e os vencia. ^v47
 
-**48** E houve-se valorosamente, e feriu aos amalequitas, e liberou a Israel da mão dos que o saqueavam. ^v48
+**48** Ele agiu com grande coragem e derrotou os amalequitas. Ele resgatou Israel das mãos daqueles que os saqueavam. ^v48
 
-**49** E os filhos de Saul eram Jônatas, e Isvi, e Malquisua; e os nomes de suas duas filhas eram estes: o da mais velha Merabe, e o da mais nova, Mical. ^v49
+**49** Os filhos de Saul eram Jônatas, Isvi e Malquisua. Os nomes de suas duas filhas eram: Merabe, a mais velha, e Mical, a mais nova. ^v49
 
-**50** E o nome da mulher de Saul, Ainoã, filha de Aimaás; e o nome do capitão do exército, Abner, filho de Ner, tio de Saul. ^v50
+**50** O nome da esposa de Saul era Ainoã, filha de Aimaás. O nome do comandante de seu exército era Abner, filho de Ner, tio de Saul. ^v50
 
-**51** E Quis, pai de Saul, e Ner, pai de Abner, eram filhos de Abiel. ^v51
+**51** Quis era o pai de Saul; e Ner, pai de Abner, era filho de Abiel. ^v51
 
-**52** E houve uma forte guerra contra os filisteus, todos os dias de Saul; por isso Saul a todos os homens valentes e valorosos que via, os agregava a si. ^v52
+**52** Houve guerra intensa contra os filisteus durante os dias do reinado de Saul. Quando Saul via um homem forte e valente, ele o juntava ao seu exército. ^v52

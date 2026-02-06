@@ -1,47 +1,46 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Mateus|Mateus]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Mateus|Mateus]]"
+tags: [biblia]
 ---
 
 # Mateus 28
 
-**1** E, no fim do sábado, quando já despontava o primeiro dia da semana, Maria Madalena e a outra Maria foram ver o sepulcro. ^v1
+**1** E após o sábado, ao raiar o primeiro dia da semana, Maria Madalena e a outra Maria foram ver o sepulcro. ^v1
 
-**2** E eis que houvera um grande terremoto, porque um anjo do Senhor, descendo do céu, chegou, removendo a pedra da porta, e sentou-se sobre ela. ^v2
+**2** E eis que houvera um grande terremoto, pois um anjo do Senhor desceu do céu, veio e rolou a pedra e sentou-se sobre ela. ^v2
 
-**3** E o seu aspecto era como um relâmpago, e as suas vestes brancas como neve. ^v3
+**3** Seu aspecto era como um relâmpago e as suas roupas, brancas como a neve. ^v3
 
-**4** E os guardas, com medo dele, ficaram muito assombrados, e como mortos. ^v4
+**4** Os guardas tremeram de medo e ficaram como mortos. ^v4
 
-**5** Mas o anjo, respondendo, disse às mulheres: Não tenhais medo; pois eu sei que buscais a Jesus, que foi crucificado. ^v5
+**5** "Mas o anjo, dirigindo-se às mulheres, disse-lhes: ""Não temais, eu sei que buscais Jesus, que foi crucificado." ^v5
 
-**6** Ele não está aqui, porque já ressuscitou, como havia dito. Vinde, vede o lugar onde o Senhor jazia. ^v6
+**6** Ele não está aqui, mas ressuscitou como tinha dito. Vinde ver o lugar onde o Senhor estava. ^v6
 
-**7** Ide pois, imediatamente, e dizei aos seus discípulos que já ressuscitou dentre os mortos. E eis que ele vai adiante de vós para a Galiléia; ali o vereis. Eis que eu vo-lo tenho dito. ^v7
+**7** "Ide depressa e dizei aos Seus discípulos: 'Ele ressuscitou dentre os mortos e vai à frente de vós para a Galileia, lá O vereis'. É como vos digo!""" ^v7
 
-**8** E, saindo elas pressurosamente do sepulcro, com temor e grande alegria, correram a anunciá-lo aos seus discípulos. ^v8
+**8** As mulheres deixaram o sepulcro rapidamente com temor e grande alegria, e correram para falar aos discípulos. ^v8
 
-**9** E, indo elas a dar as novas aos seus discípulos, eis que Jesus lhes sai ao encontro, dizendo: Eu vos saúdo. E elas, chegando, abraçaram os seus pés, e o adoraram. ^v9
+**9** "E eis que Jesus veio ao encontro delas e disse: ""Saudações!"". As mulheres, aproximando-se, abraçaram-Lhe os pés e O adoraram." ^v9
 
-**10** Então Jesus disse-lhes: Não temais; ide dizer a meus irmãos que vão à Galiléia, e lá me verão. ^v10
+**10** "Então Jesus lhes disse: ""Não temais. Ide e dizei para Meus irmãos irem à Galileia e lá Me verão""." ^v10
 
-**11** E, quando iam, eis que alguns da guarda, chegando à cidade, anunciaram aos príncipes dos sacerdotes todas as coisas que haviam acontecido. ^v11
+**11** E enquanto as mulheres estavam indo, eis que alguns dos guardas foram à cidade e contaram aos chefes dos sacerdotes tudo o que tinha acontecido. ^v11
 
-**12** E, congregados eles com os anciãos, e tomando conselho entre si, deram muito dinheiro aos soldados, ^v12
+**12** Tendo os sacerdotes se reunido com os anciãos e elaborado um plano, deram uma grande quantidade de dinheiro aos soldados, recomendando-lhes: ^v12
 
-**13** Dizendo: Dizei: Vieram de noite os seus discípulos e, dormindo nós, o furtaram. ^v13
+**13** """Dizei que os discípulos de Jesus vieram de noite e roubaram-lhe o corpo, enquanto dormíamos." ^v13
 
-**14** E, se isto chegar a ser ouvido pelo presidente, nós o persuadiremos, e vos poremos em segurança. ^v14
+**14** "E se esta notícia chegar aos ouvidos do governador, nós o convenceremos, e vos deixaremos livres de preocupações""." ^v14
 
-**15** E eles, recebendo o dinheiro, fizeram como estavam instruídos. E foi divulgado este dito entre os judeus, até ao dia de hoje. ^v15
+**15** Então os soldados pegaram o dinheiro e fizeram conforme tinham sido instruídos. Essa história se espalhou entre os judeus até o dia de hoje. ^v15
 
-**16** E os onze discípulos partiram para a Galiléia, para o monte que Jesus lhes tinha designado. ^v16
+**16** Os onze discípulos foram para a Galileia, para o monte que Jesus lhes indicara. ^v16
 
-**17** E, quando o viram, o adoraram; mas alguns duvidaram. ^v17
+**17** Quando eles O viram, O adoraram, mas alguns duvidaram. ^v17
 
-**18** E, chegando-se Jesus, falou-lhes, dizendo: É-me dado todo o poder no céu e na terra. ^v18
+**18** "E Jesus, aproximando-se deles, disse-lhes: ""Toda autoridade foi-Me dada no céu e sobre a terra." ^v18
 
-**19** Portanto ide, fazei discípulos de todas as nações, batizando-os em nome do Pai, e do Filho, e do Espírito Santo; ^v19
+**19** Portanto ide e fazei discípulos de todas as nações. Batizando-as em nome do Pai, do Filho e do Espírito Santo. ^v19
 
-**20** Ensinando-os a guardar todas as coisas que eu vos tenho mandado; e eis que eu estou convosco todos os dias, até a consumação dos séculos. Amém. ^v20
+**20** "Ensinando-as a guardar todas as coisas que vos tenho ordenado. E eis que estou convosco todos os dias, até o fim dos tempos""." ^v20

@@ -1,31 +1,30 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Isaías|Isaías]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Isaías|Isaías]]"
+tags: [biblia]
 ---
 
 # Isaías 53
 
-**1** Quem deu crédito à nossa pregação? E a quem se manifestou o braço do SENHOR? ^v1
+**1** Quem acreditou em nossa mensagem? E a quem foi revelado o braço de Yahweh? ^v1
 
-**2** Porque foi subindo como renovo perante ele, e como raiz de uma terra seca; não tinha beleza nem formosura e, olhando nós para ele, não havia boa aparência nele, para que o desejássemos. ^v2
+**2** Pois Ele cresceu diante de Yahweh como um rebento e como o germinar de um broto na terra seca. Ele não tinha nenhuma aparência notável nem esplendor; quando O vimos, não havia beleza Nele que pudesse nos atrair. ^v2
 
-**3** Era desprezado, e o mais rejeitado entre os homens, homem de dores, e experimentado nos trabalhos; e, como um de quem os homens escondiam o rosto, era desprezado, e não fizemos dele caso algum. ^v3
+**3** Ele foi desprezado e rejeitado pelas pessoas, um homem de sofrimento, familiarizado com a dor. Como um de quem os homens escondem o rosto, Ele foi desprezado e O consideramos insignificante. ^v3
 
-**4** Verdadeiramente ele tomou sobre si as nossas enfermidades, e as nossas dores levou sobre si; e nós o reputávamos por aflito, ferido de Deus, e oprimido. ^v4
+**4** Mas Ele, certamente, suportou nossas doenças e carregou nosso sofrimento; ainda que achássemos que Ele estava sendo punido por Yahweh, atingido e afligido por Yahweh. ^v4
 
-**5** Mas ele foi ferido por causa das nossas transgressões, e moído por causa das nossas iniqüidades; o castigo que nos traz a paz estava sobre ele, e pelas suas pisaduras fomos sarados. ^v5
+**5** Ele foi perfurado por causa de nossa rebeldia; Ele foi esmagado por causa de nossos pecados. A punição que nos traz a paz estava sobre Ele e, por Suas feridas, fomos sarados. ^v5
 
-**6** Todos nós andávamos desgarrados como ovelhas; cada um se desviava pelo seu caminho; mas o Senhor fez cair sobre ele a iniqüidade de nós todos. ^v6
+**6** Nós todos, como ovelhas, havíamos nos desviado; cada um em direção a seu próprio caminho; e Yahweh colocou sobre Ele a iniquidade de todos nós. ^v6
 
-**7** Ele foi oprimido e afligido, mas não abriu a sua boca; como um cordeiro foi levado ao matadouro, e como a ovelha muda perante os seus tosquiadores, assim ele não abriu a sua boca. ^v7
+**7** Ele foi oprimido; contudo, quando foi humilhado, não abriu a Sua boca. Como um cordeiro que é conduzido para o abate, e como ovelhas que, diante de seus tosquiadores, ficam em silêncio, Ele não abriu a Sua boca. ^v7
 
-**8** Da opressão e do juízo foi tirado; e quem contará o tempo da sua vida? Porquanto foi cortado da terra dos viventes; pela transgressão do meu povo ele foi atingido. ^v8
+**8** Por opressão e julgamento, Ele foi condenado. Quem daquela geração pensava mais sobre Ele? Ele foi cortado da terra dos viventes; por causa das ofensas do meu povo, a punição foi colocada sobre Ele. ^v8
 
-**9** E puseram a sua sepultura com os ímpios, e com o rico na sua morte; ainda que nunca cometeu injustiça, nem houve engano na sua boca. ^v9
+**9** Eles colocaram Sua sepultura com os criminosos, e com o homem rico em Sua morte, embora Ele não tivesse cometido nenhuma violência, nem houvesse engano em Sua boca. ^v9
 
-**10** Todavia, ao Senhor agradou moê-lo, fazendo-o enfermar; quando a sua alma se puser por expiação do pecado, verá a sua posteridade, prolongará os seus dias; e o bom prazer do Senhor prosperará na sua mão. ^v10
+**10** No entanto, foi a vontade de Yahweh esmagá-Lo e fazê-Lo adoecer. Quando Ele fizer de Sua vida uma oferta pelo pecado, Ele verá Sua descendência, prolongará Seus dias e o propósito de Yahweh se cumprirá através Dele. ^v10
 
-**11** Ele verá o fruto do trabalho da sua alma, e ficará satisfeito; com o seu conhecimento o meu servo, o justo, justificará a muitos; porque as iniqüidades deles levará sobre si. ^v11
+**11** "Depois do sofrimento de Sua vida, verá o que Ele fez e ficará satisfeito com isso. [Nota: Em vez de ""depois do sofrimento de Sua vida"", algumas versões modernas trazem ""a partir do sofrimento de Sua vida Ele verá o resultado"".] Meu justo Servo justificará muitos e carregará suas iniquidades. [Nota: Muitas versões modernas trazem ""luz"". Algumas versões modernas trazem ""Por seu conhecimento, Meu servo justo justificará muitos"".]" ^v11
 
-**12** Por isso lhe darei a parte de muitos, e com os poderosos repartirá ele o despojo; porquanto derramou a sua alma na morte, e foi contado com os transgressores; mas ele levou sobre si o pecado de muitos, e intercedeu pelos transgressores. ^v12
+**12** Portanto, darei Sua porção entre as multidões e Ele dividirá os despojos com muitos, porque Ele Se expôs à morte e foi contado com os transgressores. Ele carregou os pecados de muitos e intercedeu pelos transgressores. ^v12

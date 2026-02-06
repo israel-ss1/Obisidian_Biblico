@@ -1,63 +1,62 @@
 ---
-Livro: "[[Hebreus|Hebreus]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Hebreus|Hebreus]]"
+tags: [biblia]
 ---
 
 # Hebreus 7
 
-**1** Porque este Melquisedeque, que era rei de Salém, sacerdote do Deus Altíssimo, e que saiu ao encontro de Abraão quando ele regressava da matança dos reis, e o abençoou; ^v1
+**1** Este Melquisedeque, rei de Salém, é de fato sacerdote do Deus Altíssimo. Ele encontrou-se com Abraão quando este retornava da matança dos reis, e o abençoou. ^v1
 
-**2** A quem também Abraão deu o dízimo de tudo, e primeiramente é, por interpretação, rei de justiça, e depois também rei de Salém, que é rei de paz; ^v2
+**2** "Foi a ele que Abraão deu o dízimo de tudo. Seu nome ""Melquisedeque"" significa ""Rei de Justiça"" e também ""Rei de Salém"", ou seja, ""Rei de Paz""." ^v2
 
-**3** Sem pai, sem mãe, sem genealogia, não tendo princípio de dias nem fim de vida, mas sendo feito semelhante ao Filho de Deus, permanece sacerdote para sempre. ^v3
+**3** Ele não tem pai, nem mãe, nem genealogia, sem princípio de dias nem fim de vida. Feito semelhante ao Filho de Deus, ele permanece sacerdote para sempre. ^v3
 
-**4** Considerai, pois, quão grande era este, a quem até o patriarca Abraão deu os dízimos dos despojos. ^v4
+**4** Vede quão grande era esse homem visto que o patriarca Abraão lhe deu o dízimo dos melhores despojos. ^v4
 
-**5** E os que dentre os filhos de Levi recebem o sacerdócio têm ordem, segundo a lei, de tomar o dízimo do povo, isto é, de seus irmãos, ainda que tenham saído dos lombos de Abraão. ^v5
+**5** Por um lado, os descendentes de Levi que recebem o sacerdócio, têm um mandamento segundo a Lei para recolherem os dízimos do povo, isto é, de seus irmãos, que também descendem de Abraão. ^v5
 
-**6** Mas aquele, cuja genealogia não é contada entre eles, tomou dízimos de Abraão, e abençoou o que tinha as promessas. ^v6
+**6** Mas, por outro, Melquisedeque, que não era descendente de Levi, recebeu dízimos de Abraão e o abençoou, o qual tinha as promessas. ^v6
 
-**7** Ora, sem contradição alguma, o menor é abençoado pelo maior. ^v7
+**7** Não há como negar que o inferior é abençoado pelo superior. ^v7
 
-**8** E aqui certamente tomam dízimos homens que morrem; ali, porém, aquele de quem se testifica que vive. ^v8
+**8** Neste caso, são homens mortais que recolhem os dízimos; ao passo que Melquisedeque, que recebeu o dízimo de Abraão, afirma-se que vive. ^v8
 
-**9** E, por assim dizer, por meio de Abraão, até Levi, que recebe dízimos, pagou dízimos. ^v9
+**9** E, de certa forma, até Levi, que recebeu dízimos, também pagou dízimos através de Abraão, ^v9
 
-**10** Porque ainda ele estava nos lombos de seu pai quando Melquisedeque lhe saiu ao encontro. ^v10
+**10** pois ele ainda não havia sido gerado, quando Abraão se encontrou com Melquisedeque. ^v10
 
-**11** De sorte que, se a perfeição fosse pelo sacerdócio levítico (porque sob ele o povo recebeu a lei), que necessidade havia logo de que outro sacerdote se levantasse, segundo a ordem de Melquisedeque, e não fosse chamado segundo a ordem de Arão? ^v11
+**11** Portanto se a perfeição fora alcançada pelo sacerdócio levítico (pois nele se apoia a lei dada ao povo), que necessidade haveria de outro sacerdote segundo a ordem de Melquisedeque, e não segundo a ordem de Arão? ^v11
 
-**12** Porque, mudando-se o sacerdócio, necessariamente se faz também mudança da lei. ^v12
+**12** Pois quando o sacerdócio é alterado, a lei também precisa ser alterada. ^v12
 
-**13** Porque aquele de quem estas coisas se dizem pertence a outra tribo, da qual ninguém serviu ao altar, ^v13
+**13** Ora, Aquele a quem aqui se refere o texto pertence a outra tribo, da qual nenhum homem jamais serviu no altar. ^v13
 
-**14** Visto ser manifesto que nosso Senhor procedeu de Judá, e concernente a essa tribo nunca Moisés falou de sacerdócio. ^v14
+**14** É conhecido, que o nosso Senhor é descendente de Judá, tribo a respeito da qual Moisés nada diz quando se trata de sacerdotes. ^v14
 
-**15** E muito mais manifesto é ainda, se à semelhança de Melquisedeque se levantar outro sacerdote, ^v15
+**15** E isto fica mais evidente se, à semelhança de Melquisedeque, se constitui um outro sacerdote; ^v15
 
-**16** Que não foi feito segundo a lei do mandamento carnal, mas segundo a virtude da vida incorruptível. ^v16
+**16** não foi segundo a lei de descendência carnal que Ele se tornou um sacerdote, mas, em vez disso, conforme o poder de uma vida indestrutível. ^v16
 
-**17** Porque ele assim testifica: Tu és sacerdote eternamente, Segundo a ordem de Melquisedeque. ^v17
+**17** "Pois a Escritura testifica a respeito Dele: ""Tu és Sacerdote para sempre, segundo a ordem de Melquisedeque""." ^v17
 
-**18** Porque o precedente mandamento é abrogado por causa da sua fraqueza e inutilidade ^v18
+**18** Portanto o antigo mandamento está anulado porque era fraco e sem proveito; ^v18
 
-**19** (Pois a lei nenhuma coisa aperfeiçoou) e desta sorte é introduzida uma melhor esperança, pela qual chegamos a Deus. ^v19
+**19** de fato, a Lei nada aperfeiçoou, no entanto, uma melhor esperança foi introduzida, pela qual nos aproximamos de Deus. ^v19
 
-**20** E visto como não é sem prestar juramento (porque certamente aqueles, sem juramento, foram feitos sacerdotes, ^v20
+**20** E isso não aconteceu sem que houvesse um juramento. Por um lado, aqueles recebiam o sacerdócio sem prestar juramento; ^v20
 
-**21** Mas este com juramento por aquele que lhe disse: Jurou o Senhor, e não se arrependerá; Tu és sacerdote eternamente, Segundo a ordem de Melquisedeque, ^v21
+**21** "por outro, Este, Jesus, tornou-se Sacerdote com juramento Daquele que disse: ""O Senhor jurou e não voltará atrás: 'Tu és Sacerdote para sempre'""." ^v21
 
-**22** De tanto melhor aliança Jesus foi feito fiador. ^v22
+**22** Neste sentido, Jesus se tornou a garantia de uma aliança superior. ^v22
 
-**23** E, na verdade, aqueles foram feitos sacerdotes em grande número, porque pela morte foram impedidos de permanecer, ^v23
+**23** Ora, aqueles se tornam sacerdotes em maior número, mas são impedidos pela morte de continuar . ^v23
 
-**24** Mas este, porque permanece eternamente, tem um sacerdócio perpétuo. ^v24
+**24** Entretanto, porque Jesus vive para sempre, o Seu sacerdócio é permanente. ^v24
 
-**25** Portanto, pode também salvar perfeitamente os que por ele se chegam a Deus, vivendo sempre para interceder por eles. ^v25
+**25** Por isso, Ele também pode salvar completamente aqueles que, por meio Dele, se chegam a Deus; vivendo sempre para interceder por eles. ^v25
 
-**26** Porque nos convinha tal sumo sacerdote, santo, inocente, imaculado, separado dos pecadores, e feito mais sublime do que os céus; ^v26
+**26** Pois tal Sumo Sacerdote nos convinha: santo, imaculado, inocente, puro, separado dos pecadores, e que foi exaltado acima dos céus. ^v26
 
-**27** Que não necessitasse, como os sumos sacerdotes, de oferecer cada dia sacrifícios, primeiramente por seus próprios pecados, e depois pelos do povo; porque isto fez ele, uma vez, oferecendo-se a si mesmo. ^v27
+**27** Diferentemente dos outros sumos sacerdotes, Ele não precisa oferecer sacrifícios diários, primeiro por seus próprios pecados, e depois pelos pecados do povo. Ele já fez isso uma vez por todas, quando a si mesmo se ofereceu. ^v27
 
-**28** Porque a lei constitui sumos sacerdotes a homens fracos, mas a palavra do juramento, que veio depois da lei, constitui ao Filho, perfeito para sempre. ^v28
+**28** A Lei estabeleceu como sumos sacerdotes homens sujeitos à fraquezas; mas, a palavra do juramento, que veio após a Lei, elegeu o Filho, perfeito para sempre. ^v28

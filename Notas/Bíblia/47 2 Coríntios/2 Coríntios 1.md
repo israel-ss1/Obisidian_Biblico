@@ -1,55 +1,54 @@
 ---
-Livro: "[[2 Coríntios|2 Coríntios]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/2 Coríntios|2 Coríntios]]"
+tags: [biblia]
 ---
 
 # 2 Coríntios 1
 
-**1** Paulo, apóstolo de Jesus Cristo, pela vontade de Deus, e o irmão Timóteo, à igreja de Deus, que está em Corinto, com todos os santos que estão em toda a Acaia. ^v1
+**1** Paulo, apóstolo de Cristo Jesus pela vontade de Deus, e nosso irmão Timóteo, à igreja de Deus que está em Corinto e a todos os santos em toda a região da Acaia. ^v1
 
-**2** Graça a vós e paz da parte de Deus nosso Pai, e da do Senhor Jesus Cristo. ^v2
+**2** Que a graça seja convosco, e a paz de Deus, nosso Pai, e do Senhor Jesus Cristo. ^v2
 
-**3** Bendito seja o Deus e Pai de nosso Senhor Jesus Cristo, o Pai das misericórdias e o Deus de toda a consolação; ^v3
+**3** Que o Deus e Pai de nosso Senhor Jesus Cristo seja louvado; Ele é o Pai das misericórdias e Deus de toda consolação. ^v3
 
-**4** Que nos consola em toda a nossa tribulação, para que também possamos consolar os que estiverem em alguma tribulação, com a consolação com que nós mesmos somos consolados por Deus. ^v4
+**4** Deus nos consola em toda nossa aflição, para que possamos consolar os que estão em qualquer aflição, consolamos a outros com a mesma consolação que temos recebido de Deus. ^v4
 
-**5** Porque, como as aflições de Cristo são abundantes em nós, assim também é abundante a nossa consolação por meio de Cristo. ^v5
+**5** Pois, assim como os sofrimentos de Cristo são abundantes por nossa causa, assim também nosso consolo é abundante por meio de Cristo. ^v5
 
-**6** Mas, se somos atribulados, é para vossa consolação e salvação; ou, se somos consolados, para vossa consolação é, a qual se opera suportando com paciência as mesmas aflições que nós também padecemos; ^v6
+**6** Mas, se somos afligidos, é para o vosso consolo e salvação; e, se somos consolados, é para vosso consolo. Esse conforto é eficaz quando vós compartilhais com paciência os mesmos sofrimentos que nós. ^v6
 
-**7** E a nossa esperança acerca de vós é firme, sabendo que, como sois participantes das aflições, assim o sereis também da consolação. ^v7
+**7** E nossa confiança em vós é certa, sabemos que assim como vós compartilhais os sofrimentos, também compartilhais o consolo. ^v7
 
-**8** Porque não queremos, irmãos, que ignoreis a tribulação que nos sobreveio na Ásia, pois que fomos sobremaneira agravados mais do que podíamos suportar, de modo tal que até da vida desesperamos. ^v8
+**8** Porque não queremos, irmãos, que sejais ignorantes acerca das tribulações que tivemos na Ásia. Fomos completamente sobrecarregados além do que podíamos suportar, tanto que não tínhamos mais esperança de viver. ^v8
 
-**9** Mas já em nós mesmos tínha- mos a sentença de morte, para que não confiássemos em nós, mas em Deus, que ressuscita os mortos; ^v9
+**9** De fato, tínhamos a sentença de morte em nós. Contudo, isso era para que não colocássemos nossa confiança em nós mesmos, mas em Deus, que ressuscita os mortos. ^v9
 
-**10** O qual nos livrou de tão grande morte, e livra; em quem esperamos que também nos livrará ainda, ^v10
+**10** Ele nos resgatou de um perigo tão mortal, e nos resgatará novamente. Nós colocamos nossa confiança Nele, de que nos libertará novamente. ^v10
 
-**11** Ajudando-nos também vós com orações por nós, para que pela mercê, que por muitas pessoas nos foi feita, por muitas também sejam dadas graças a nosso respeito. ^v11
+**11** Ele nos libertará enquanto vós nos auxiliais através de vossas orações. Então, muitos agradecerão pelo favor gracioso nos dado através das orações de muitos. ^v11
 
-**12** Porque a nossa glória é esta: o testemunho da nossa consciência, de que com simplicidade e sinceridade de Deus, não com sabedoria carnal, mas na graça de Deus, temos vivido no mundo, e de modo particular convosco. ^v12
+**12** Nós nos orgulhamos disto: o testemunho da nossa consciência. Pois é por motivos puros e sinceros, da parte de Deus, que procedemos no mundo, especialmente convosco, não com sabedoria terrena, mas pela graça de Deus. ^v12
 
-**13** Porque nenhumas outras coisas vos escrevemos, senão as que já sabeis ou também reconheceis; e espero que também até ao fim as reconhecereis. ^v13
+**13** Não vos escrevemos qualquer coisa que não podeis ler ou entender. Espero que nos entendais completamente, ^v13
 
-**14** Como também já em parte reconhecestes em nós, que somos a vossa glória, como também vós sereis a nossa no dia do Senhor Jesus. ^v14
+**14** como já nos entendestes em parte. Então, no dia de nosso Senhor Jesus, seremos a razão do vosso orgulho, assim como vós sereis do nosso. ^v14
 
-**15** E com esta confiança quis primeiro ir ter convosco, para que tivésseis uma segunda graça; ^v15
+**15** Porque eu estava confiante disto, eu queria vir até vós primeiro, para receberdes o benefício de duas visitas. ^v15
 
-**16** E por vós passar à macedônia, e da macedônia ir outra vez ter convosco, e ser guiado por vós à Judéia. ^v16
+**16** Eu planejava vos visitar quando fosse à Macedônia, e depois iria novamente visitar-vos quando eu voltasse de lá, e então ser encaminhado por vós à Judeia. ^v16
 
-**17** E, deliberando isto, usei porventura de leviandade? Ou o que delibero, o delibero segundo a carne, para que haja em mim sim, sim, e não, não? ^v17
+**17** "Quando eu planejava isso, por acaso hesitava? Por acaso, planejo coisas de acordo com padrões humanos, de modo que digo: ""sim, sim"" e ""não, não"", ao mesmo tempo?" ^v17
 
-**18** Antes, como Deus é fiel, a nossa palavra para convosco não foi sim e não. ^v18
+**18** "Mas assim como Deus é fiel, nós não dizemos ao mesmo tempo ""sim"" e ""não""." ^v18
 
-**19** Porque o Filho de Deus, Jesus Cristo, que entre vós foi pregado por nós, isto é, por mim, Silvano e Timóteo, não foi sim e não; mas nele houve sim. ^v19
+**19** "Pois, o Filho de Deus, Jesus Cristo, a quem Silvano, Timóteo e eu proclamamos entre vós, não é ""sim"" e ""não""; mas é sempre ""sim""." ^v19
 
-**20** Porque todas quantas promessas há de Deus, são nele sim, e por ele o Amém, para glória de Deus por nós. ^v20
+**20** "Pois todas as promessas de Deus são ""sim"" Nele. Então, também através Dele, nós dizemos ""amém"" para a glória de Deus." ^v20
 
-**21** Mas o que nos confirma convosco em Cristo, e o que nos ungiu, é Deus, ^v21
+**21** É Deus quem nos confirma convosco em Cristo, e Ele nos comissionou. ^v21
 
-**22** O qual também nos selou e deu o penhor do Espírito em nossos corações. ^v22
+**22** Ele pôs Seu selo em nós e em nossos corações, e concedeu-nos o Espírito como um penhor. ^v22
 
-**23** Invoco, porém, a Deus por testemunha sobre a minha alma, que para vos poupar não tenho até agora ido a Corinto; ^v23
+**23** Eu tomo Deus como minha testemunha de que a razão pela qual não estive em Corinto foi para poupar-vos. ^v23
 
-**24** Não que tenhamos domínio sobre a vossa fé, mas porque somos cooperadores de vosso gozo; porque pela fé estais em pé. ^v24
+**24** Não porque tentamos controlar a vossa fé, mas porque trabalhamos convosco para vossa alegria, enquanto, pela fé, permaneceis firmes. ^v24

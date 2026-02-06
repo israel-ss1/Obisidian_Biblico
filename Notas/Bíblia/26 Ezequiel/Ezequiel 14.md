@@ -1,53 +1,52 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Ezequiel|Ezequiel]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Ezequiel|Ezequiel]]"
+tags: [biblia]
 ---
 
 # Ezequiel 14
 
-**1** E vieram a mim alguns homens dos anciãos de Israel, e se assentaram diante de mim. ^v1
+**1** Alguns dos anciãos de Israel vieram e se sentaram diante de mim. ^v1
 
-**2** Então veio a mim a palavra do Senhor, dizendo: ^v2
+**2** A palavra de Yahweh veio a mim, dizendo: ^v2
 
-**3** Filho do homem, estes homens levantaram os seus ídolos nos seus corações, e o tropeço da sua maldade puseram diante da sua face; devo eu de alguma maneira ser interrogado por eles? ^v3
+**3** """Filho do homem, estes homens deram lugar em seus corações aos ídolos e colocaram o tropeço de sua maldade diante de sua própria face. Deveria Eu ser consultado por eles?" ^v3
 
-**4** Portanto fala com eles, e dize-lhes: Assim diz o Senhor DEUS: Qualquer homem da casa de Israel, que levantar os seus ídolos no seu coração, e puser o tropeço da sua maldade diante da sua face, e vier ao profeta, eu, o SENHOR, vindo ele, lhe responderei conforme a multidão dos seus ídolos; ^v4
+**4** Portanto, anuncia isto a eles: 'Assim diz Yahweh Deus: Qualquer homem de Israel que, depois de guardar seus ídolos no coração, ou colocar tropeço de maldade diante de sua face, vier consultar os profetas, Eu, Yahweh, lhes responderei conforme a multidão de seus ídolos. ^v4
 
-**5** Para que eu possa apanhar a casa de Israel no seu coração, porquanto todos se apartaram de mim para seguirem os seus ídolos. ^v5
+**5** Eu farei isto para reconquistar os corações da casa de Israel, que foram afastados de Mim, através dos seus ídolos'. ^v5
 
-**6** Portanto dize à casa de Israel: Assim diz o Senhor DEUS: Convertei-vos, e tornai-vos dos vossos ídolos; e desviai os vossos rostos de todas as vossas abominações; ^v6
+**6** Portanto, diz à casa de Israel: 'Assim diz Yahweh Deus: Arrependei-vos e deixai os vossos ídolos! Desviai o rosto de todas as vossas abominações. ^v6
 
-**7** Porque qualquer homem da casa de Israel, e dos estrangeiros que peregrinam em Israel, que se alienar de mim, e levantar os seus ídolos no seu coração, e puser o tropeço da sua maldade diante do seu rosto, e vier ao profeta, para me consultar por meio dele, eu, o Senhor, lhe responderei por mim mesmo. ^v7
+**7** Pois a todos os da casa de Israel e a todos os estrangeiros que vivem em Israel, que Me abandonam, guardam seus ídolos no coração, colocam tropeço de maldade diante deles e que, depois, vêm consultar o profeta, Eu mesmo, Yahweh, lhes responderei. ^v7
 
-**8** E porei o meu rosto contra o tal homem, e o assolarei para que sirva de sinal e provérbio, e arrancá-lo-ei do meio do meu povo; e sabereis que eu sou o Senhor. ^v8
+**8** Virarei Meu rosto contra esses homens e farei deles um sinal e um provérbio, Eu os eliminarei do meio do Meu povo e vós sabereis que Eu sou Yahweh. ^v8
 
-**9** E se o profeta for enganado, e falar alguma coisa, eu, o Senhor, terei enganado esse profeta; e estenderei a minha mão contra ele, e destruí-lo-ei do meio do meu povo Israel. ^v9
+**9** Se um profeta for enganado e falar a mensagem, então, Eu, Yahweh, enganarei este profeta; estenderei Minha mão contra ele e o destruirei do meio do Meu povo. ^v9
 
-**10** E levarão sobre si o castigo da sua iniqüidade; o castigo do profeta será como o castigo de quem o consultar. ^v10
+**10** Eles levarão suas próprias iniquidades; e a iniquidade do profeta será a mesma iniquidade daquele que consultá-lo. ^v10
 
-**11** Para que a casa de Israel não se desvie mais de mim, nem mais se contamine com todas as suas transgressões; então eles serão o meu povo, e eu lhes serei o seu Deus, diz o Senhor DEUS. ^v11
+**11** "Para que a casa de Israel não se desvie de seguir-Me e nem se contamine por estas transgressões. Eles serão o Meu povo e Eu serei o seu Deus, esta é a palavra de Yahweh Deus""." ^v11
 
-**12** Veio ainda a mim a palavra do Senhor, dizendo: ^v12
+**12** A palavra de Yahweh veio a mim, dizendo: ^v12
 
-**13** Filho do homem, quando uma terra pecar contra mim, se rebelando gravemente, então estenderei a minha mão contra ela, e lhe quebrarei o sustento do pão, e enviarei contra ela fome, e cortarei dela homens e animais. ^v13
+**13** """Filho do homem, quando um povo pecar contra Mim, cometendo graves transgressões, Eu estenderei Minha mão contra ele e cortarei sua provisão, enviando fome sobre ele e seus animais, exterminando-os da terra;" ^v13
 
-**14** Ainda que estivessem no meio dela estes três homens, Noé, Daniel e Jó, eles pela sua justiça livrariam apenas as suas almas, diz o Senhor DEUS. ^v14
+**14** "e, mesmo se estes três homens — Noé, Daniel e Jó — estivessem ali, poderiam somente livrar suas próprias vidas, por sua justiça"" — esta é a palavra de Yahweh." ^v14
 
-**15** Se eu fizer passar pela terra as feras selvagens, e elas a desfilharem de modo que fique desolada, e ninguém possa passar por ela por causa das feras; ^v15
+**15** """Se Eu enviar animais selvagens pela terra e eles a devastarem, e ela se tornar improdutiva por causa dos animais," ^v15
 
-**16** E estes três homens estivessem no meio dela, vivo eu, diz o Senhor DEUS, que nem a filhos nem a filhas livrariam; eles só ficariam livres, e a terra seria assolada. ^v16
+**16** mesmo se esses três homens estivessem nela — assim como Eu vivo, diz Yahweh Deus — eles não poderiam salvar nem mesmo seus próprios filhos ou suas filhas; apenas suas vidas seriam poupadas e a terra seria desolada. ^v16
 
-**17** Ou, se eu trouxer a espada sobre aquela terra, e disser: Espada, passa pela terra; e eu cortar dela homens e animais; ^v17
+**17** Ou, se Eu trouxer a espada contra aquela terra e disser: 'Espada, passa pela terra e extermina o homem e o animal dela', ^v17
 
-**18** Ainda que aqueles três homens estivessem nela, vivo eu, diz o Senhor DEUS, que nem filhos nem filhas livrariam, mas somente eles ficariam livres. ^v18
+**18** mesmo se esses três homens estivessem nela — assim como Eu vivo, diz Yahweh — eles não poderiam salvar nem mesmo seus próprios filhos ou suas filhas; apenas suas vidas seriam resgatadas. ^v18
 
-**19** Ou, se eu enviar a peste sobre aquela terra, e derramar o meu furor sobre ela com sangue, para cortar dela homens e animais, ^v19
+**19** Ou, se Eu enviar a peste sobre esta terra e derramar meu furor contra ela com derramamento de sangue, para eliminar homem e animal, ^v19
 
-**20** Ainda que Noé, Daniel e Jó estivessem no meio dela, vivo eu, diz o Senhor DEUS, que nem um filho nem uma filha eles livrariam, mas somente eles livrariam as suas próprias almas pela sua justiça. ^v20
+**20** "mesmo se Noé, Daniel e Jó estivessem nessa terra — assim como Eu vivo, declara Yahweh Deus — eles não poderiam nem mesmo salvar seus filhos ou suas filhas; apenas suas próprias vidas seriam resgatadas, pela sua justiça""." ^v20
 
-**21** Porque assim diz o Senhor DEUS: Quanto mais, se eu enviar os meus quatro maus juízos, a espada, a fome, as feras, e a peste, contra Jerusalém, para cortar dela homens e feras? ^v21
+**21** "Porque assim diz Yahweh Deus: ""Certamente, irei piorar a situação enviando contra Jerusalém Minhas quatro punições — fome, espada, animais selvagens e peste — para eliminar todo homem e todo animal." ^v21
 
-**22** Mas eis que alguns fugitivos restarão nela, que serão levados para fora, assim filhos e filhas; eis que eles virão a vós, e vereis o seu caminho e os seus feitos; e ficareis consolados do mal que eu trouxe sobre Jerusalém, e de tudo o que trouxe sobre ela. ^v22
+**22** Mas, se houver sobreviventes que levem para fora os filhos e as filhas que foram deixados na cidade, eis que, quando eles vierem a vosso encontro, vereis seus caminhos e suas ações; e ficareis consolados da punição que Eu enviei para Jerusalém e de tudo que Eu enviei sobre ela. ^v22
 
-**23** E sereis consolados, quando virdes o seu caminho e os seus feitos; e sabereis que não fiz sem razão tudo quanto nela tenho feito, diz o Senhor DEUS. ^v23
+**23** "Os sobreviventes irão consolar-vos quando virdes os seus caminhos e suas ações, e sabereis que não fiz isto em vão — esta é a palavra de Yahweh Deus""." ^v23

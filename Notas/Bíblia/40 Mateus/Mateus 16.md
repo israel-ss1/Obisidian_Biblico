@@ -1,63 +1,62 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Mateus|Mateus]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Mateus|Mateus]]"
+tags: [biblia]
 ---
 
 # Mateus 16
 
-**1** E, chegando-se os fariseus e os saduceus, para o tentarem, pediram-lhe que lhes mostrasse algum sinal do céu. ^v1
+**1** Os fariseus e saduceus vieram colocar Jesus à prova, pedindo que lhes mostrasse um sinal do céu. ^v1
 
-**2** Mas ele, respondendo, disse-lhes: Quando é chegada a tarde, dizeis: Haverá bom tempo, porque o céu está rubro. ^v2
+**2** "Mas Ele lhes respondeu: ""Quando a tarde vem, vós dizeis: 'Haverá bom tempo, pois o céu está avermelhado'." ^v2
 
-**3** E, pela manhã: Hoje haverá tempestade, porque o céu está de um vermelho sombrio. Hipócritas, sabeis discernir a face do céu, e não conheceis os sinais dos tempos? ^v3
+**3** E de manhã dizeis: 'O tempo hoje está ruim, as nuvens estão vermelhas e escuras'. Sabeis interpretar o aspecto do céu, mas não sabeis interpretar os sinais dos tempos? ^v3
 
-**4** Uma geração má e adúltera pede um sinal, e nenhum sinal lhe será dado, senão o sinal do profeta Jonas. E, deixando-os, retirou-se. ^v4
+**4** "Uma geração má e adúltera pede um sinal, mas nenhum sinal será dado senão o de Jonas."" E Jesus, deixando-os, foi embora." ^v4
 
-**5** E, passando seus discípulos para o outro lado, tinham-se esquecido de trazer pão. ^v5
+**5** Os discípulos chegaram ao outro lado, mas eles esqueceram-se de levar pão. ^v5
 
-**6** E Jesus disse-lhes: Adverti, e acautelai-vos do fermento dos fariseus e saduceus. ^v6
+**6** "Jesus disse-lhes: ""Prestai atenção e sede cuidadosos com o fermento dos fariseus e saduceus""." ^v6
 
-**7** E eles arrazoavam entre si, dizendo: É porque não trouxemos pão. ^v7
+**7** "Os discípulos discutiam entre si dizendo: ""É porque não trouxemos pão""." ^v7
 
-**8** E Jesus, percebendo isso, disse: Por que arrazoais entre vós, homens de pouca fé, sobre o não terdes trazido pão? ^v8
+**8** "E Jesus percebendo isso disse: ""Homens de pequena fé, por que discutis entre vós e dizeis que é por não trazerdes pão?" ^v8
 
-**9** Não compreendeis ainda, nem vos lembrais dos cinco pães para cinco mil homens, e de quantas alcofas levantastes? ^v9
+**9** Vós ainda não percebeis e nem vos lembrais dos cinco pães para cinco mil homens e de quantos cestos recolhestes? ^v9
 
-**10** Nem dos sete pães para quatro mil, e de quantos cestos levantastes? ^v10
+**10** E dos sete pães para quatro mil homens e de quantos cestos recolhestes? ^v10
 
-**11** Como não compreendestes que não vos falei a respeito do pão, mas que vos guardásseis do fermento dos fariseus e saduceus? ^v11
+**11** "Como não entendeis que não vos falei de pães? Prestai atenção e sede cuidadosos com o fermento dos fariseus e saduceus""." ^v11
 
-**12** Então compreenderam que não dissera que se guardassem do fermento do pão, mas da doutrina dos fariseus. ^v12
+**12** Então eles entenderam que Ele não estava falando de serem cuidadosos com o fermento dos pães, mas de serem cuidadosos com os ensinamentos dos fariseus e saduceus. ^v12
 
-**13** E, chegando Jesus às partes de Cesaréia de Filipe, interrogou os seus discípulos, dizendo: Quem dizem os homens ser o Filho do homem? ^v13
+**13** "Quando Jesus veio para as regiões próximas de Cesareia de Filipe, perguntou a Seus discípulos: ""Quem o povo diz ser o Filho do Homem?""" ^v13
 
-**14** E eles disseram: Uns, João o Batista; outros, Elias; e outros, Jeremias, ou um dos profetas. ^v14
+**14** "Eles disseram: ""Alguns dizem: 'João, o Batista'; uns dizem: 'Elias', outros dizem: 'Jeremias ou um dos profetas'""." ^v14
 
-**15** Disse-lhes ele: E vós, quem dizeis que eu sou? ^v15
+**15** "E Ele perguntou-lhes: ""Mas vós dizeis que Eu sou quem?""" ^v15
 
-**16** E Simão Pedro, respondendo, disse: Tu és o Cristo, o Filho do Deus vivo. ^v16
+**16** "Respondendo Simão Pedro, disse: ""Tu és o Cristo, o Filho do Deus vivo.""" ^v16
 
-**17** E Jesus, respondendo, disse-lhe: Bem-aventurado és tu, Simão Barjonas, porque to não revelou a carne e o sangue, mas meu Pai, que está nos céus. ^v17
+**17** "E Jesus lhe respondeu: ""És abençoado, Simão Barjonas, pois não foi carne e sangue que te revelaram isso, mas O Meu Pai que está no céu." ^v17
 
-**18** Pois também eu te digo que tu és Pedro, e sobre esta pedra edificarei a minha igreja, e as portas do inferno não prevalecerão contra ela; ^v18
+**18** E também Eu te digo que tu és Pedro, e sobre esta rocha edificarei a Minha igreja e as portas do inferno não prevalecerão contra ela. ^v18
 
-**19** E eu te darei as chaves do reino dos céus; e tudo o que ligares na terra será ligado nos céus, e tudo o que desligares na terra será desligado nos céus. ^v19
+**19** "Eu te darei as chaves do Reino do Céu. O que ligares na terra terá sido ligado nos céus e o que desligares na terra terá sido desligado no céu""." ^v19
 
-**20** Então mandou aos seus discípulos que a ninguém dissessem que ele era Jesus o Cristo. ^v20
+**20** Então Jesus ordenou aos discípulos que não contassem a ninguém que Ele era o Cristo. ^v20
 
-**21** Desde então começou Jesus a mostrar aos seus discípulos que convinha ir a Jerusalém, e padecer muitas coisas dos anciãos, e dos principais dos sacerdotes, e dos escribas, e ser morto, e ressuscitar ao terceiro dia. ^v21
+**21** A partir daquele momento, Jesus começou a dizer aos Seus discípulos que Lhe era necessário ir para Jerusalém sofrer muitas coisas nas mãos dos anciãos, principais sacerdotes e escribas; ser morto e ressuscitar no terceiro dia. ^v21
 
-**22** E Pedro, tomando-o de parte, começou a repreendê-lo, dizendo: Senhor, tem compaixão de ti; de modo nenhum te acontecerá isso. ^v22
+**22** "Então Pedro chamou Jesus à parte e reprovou-O, dizendo: ""Longe de Ti, Senhor, isso nunca vai Te acontecer""." ^v22
 
-**23** Ele, porém, voltando-se, disse a Pedro: Para trás de mim, Satanás, que me serves de escândalo; porque não compreendes as coisas que são de Deus, mas só as que são dos homens. ^v23
+**23** "Mas, Jesus voltando-se, disse: ""Sai para trás de Mim, Satanás, tu és para Mim pedra de tropeço, porque não cuidas das coisas de Deus, mas das coisas dos homens""." ^v23
 
-**24** Então disse Jesus aos seus discípulos: Se alguém quiser vir após mim, renuncie-se a si mesmo, tome sobre si a sua cruz, e siga-me; ^v24
+**24** "Então Jesus disse a Seus discípulos: ""Se alguém quiser Me seguir, negue-se a si mesmo, tome a sua cruz e siga-Me." ^v24
 
-**25** Porque aquele que quiser salvar a sua vida, perdê-la-á, e quem perder a sua vida por amor de mim, achá-la-á. ^v25
+**25** Portanto quem quiser salvar a sua vida a perderá. E quem perder a sua vida por Minha causa a encontrará. ^v25
 
-**26** Pois que aproveita ao homem ganhar o mundo inteiro, se perder a sua alma? Ou que dará o homem em recompensa da sua alma? ^v26
+**26** Pois o que aproveitaria a uma pessoa ganhar o mundo inteiro e perder a sua vida? O que pode uma pessoa dar em troca da sua vida? ^v26
 
-**27** Porque o Filho do homem virá na glória de seu Pai, com os seus anjos; e então dará a cada um segundo as suas obras. ^v27
+**27** Porque o Filho do Homem virá na glória do Seu Pai com os Seus anjos. Então Ele recompensará cada um de acordo com aquilo que tiver feito. ^v27
 
-**28** Em verdade vos digo que alguns há, dos que aqui estão, que não provarão a morte até que vejam vir o Filho do homem no seu reino. ^v28
+**28** "Verdadeiramente Eu vos digo que alguns de vós dos que aqui estão não experimentarão a morte até que vejam o Filho do Homem vindo no Seu Reino""." ^v28

@@ -1,53 +1,52 @@
 ---
-Livro: "[[Romanos|Romanos]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Romanos|Romanos]]"
+tags: [biblia]
 ---
 
 # Romanos 14
 
-**1** Ora, quanto ao que está enfermo na fé, recebei-o, não em contendas sobre dúvidas. ^v1
+**1** Recebei aquele que é fraco na fé, mas sem julgar opiniões. ^v1
 
-**2** Porque um crê que de tudo se pode comer, e outro, que é fraco, come legumes. ^v2
+**2** Uma pessoa possui fé para comer qualquer coisa; outra, que é fraca, come apenas vegetais. ^v2
 
-**3** O que come não despreze o que não come; e o que não come, não julgue o que come; porque Deus o recebeu por seu. ^v3
+**3** Aquele que come de tudo não despreze aquele que não come; e aquele que não come de tudo não julgue o que come, pois Deus o recebeu. ^v3
 
-**4** Quem és tu, que julgas o servo alheio? Para seu próprio senhor ele está em pé ou cai. Mas estará firme, porque poderoso é Deus para o firmar. ^v4
+**4** Quem és tu, que julgas um servo alheio? Diante de seu próprio mestre ele fica de pé ou cai. Mas ele ficará de pé, pois o Senhor é poderoso para firmá-lo. ^v4
 
-**5** Um faz diferença entre dia e dia, mas outro julga iguais todos os dias. Cada um esteja inteiramente seguro em sua própria mente. ^v5
+**5** Uma pessoa considera um dia mais importante que outro; outra considera os dias iguais. Deixemos que cada pessoa esteja convicta em sua própria mente. ^v5
 
-**6** Aquele que faz caso do dia, para o Senhor o faz e o que não faz caso do dia para o Senhor o não faz. O que come, para o Senhor come, porque dá graças a Deus; e o que não come, para o Senhor não come, e dá graças a Deus. ^v6
+**6** Aquele que observa o dia, observa-o para o Senhor; e aquele que come, come para o Senhor, pois dá graças a Deus. Quem não come, por causa do Senhor não come, e também dá graças a Deus. ^v6
 
-**7** Porque nenhum de nós vive para si, e nenhum morre para si. ^v7
+**7** Porque nenhum de nós vive para si, e ninguém morre para si. ^v7
 
-**8** Porque, se vivemos, para o Senhor vivemos; se morremos, para o Senhor morremos. De sorte que, ou vivamos ou morramos, somos do Senhor. ^v8
+**8** Pois se vivemos, vivemos para o Senhor, e se morremos, morremos para o Senhor. Logo, vivendo ou morrendo, somos do Senhor. ^v8
 
-**9** Porque foi para isto que morreu Cristo, e ressurgiu, e tornou a viver, para ser Senhor, tanto dos mortos, como dos vivos. ^v9
+**9** Porque, para este propósito, Cristo morreu e reviveu, para que possa ser Senhor tanto dos mortos quanto dos vivos. ^v9
 
-**10** Mas tu, por que julgas teu irmão? Ou tu, também, por que desprezas teu irmão? Pois todos havemos de comparecer ante o tribunal de Cristo. ^v10
+**10** Mas tu, por que julgas teu irmão? E tu, por que desprezas teu irmão? Pois todos estaremos diante do tribunal de Deus. ^v10
 
-**11** Porque está escrito:Como eu vivo, diz o Senhor, que todo o joelho se dobrará a mim,E toda a língua confessará a Deus. ^v11
+**11** "Pois está escrito: ""Tão certo como Eu vivo,"" diz o Senhor, ""a Mim todo joelho se dobrará, e toda língua dará louvores a Deus.""" ^v11
 
-**12** De maneira que cada um de nós dará conta de si mesmo a Deus. ^v12
+**12** Assim, cada um de nós dará contas de si mesmo a Deus. ^v12
 
-**13** Assim que não nos julguemos mais uns aos outros; antes seja o vosso propósito não pôr tropeço ou escândalo ao irmão. ^v13
+**13** Portanto não julguemos mais uns aos outros; mas, ao invés disso, seja do vosso propósito que ninguém coloque um obstáculo ou armadilha diante de seu irmão. ^v13
 
-**14** Eu sei, e estou certo no Senhor Jesus, que nenhuma coisa é de si mesma imunda, a não ser para aquele que a tem por imunda; para esse é imunda. ^v14
+**14** Eu sei e estou certo no Senhor Jesus de que nada por si mesmo é impuro, exceto para aquele que considera qualquer coisa impura; para ele é impuro. ^v14
 
-**15** Mas, se por causa da comida se contrista teu irmão, já não andas conforme o amor. Não destruas por causa da tua comida aquele por quem Cristo morreu. ^v15
+**15** Se, por causa de comida, teu irmão é entristecido, não estás mais caminhando no amor. Não destruas com tua comida aquele por quem Cristo morreu. ^v15
 
-**16** Não seja, pois, blasfemado o vosso bem; ^v16
+**16** Então, não permitais que aquilo que considerais bom seja difamado. ^v16
 
-**17** Porque o reino de Deus não é comida nem bebida, mas justiça, e paz, e alegria no Espírito Santo. ^v17
+**17** Pois o reino de Deus não é sobre comida e bebida, mas sobre justiça, paz e a alegria no Espírito Santo. ^v17
 
-**18** Porque quem nisto serve a Cristo agradável é a Deus e aceito aos homens. ^v18
+**18** Pois aquele que serve a Cristo desse modo é aceito por Deus, e aprovado pelas pessoas. ^v18
 
-**19** Sigamos, pois, as coisas que servem para a paz e para a edificação de uns para com os outros. ^v19
+**19** Então, busquemos as coisas da paz e as que edificam um ao outro. ^v19
 
-**20** Não destruas por causa da comida a obra de Deus. É verdade que tudo é limpo, mas mal vai para o homem que come com escândalo. ^v20
+**20** Não destruas o trabalho de Deus por causa de comida. Todas as coisas de fato são limpas, mas é errado para a pessoa que come causar tropeço. ^v20
 
-**21** Bom é não comer carne, nem beber vinho, nem fazer outras coisas em que teu irmão tropece, ou se escandalize, ou se enfraqueça. ^v21
+**21** É melhor não comer carne, nem beber vinho, nem qualquer coisa que faça teu irmão tropeçar. ^v21
 
-**22** Tens tu fé? Tem-na em ti mesmo diante de Deus. Bem-aventurado aquele que não se condena a si mesmo naquilo que aprova. ^v22
+**22** Guarda entre ti e Deus o que crês a respeito disso. Abençoado é aquele que não se condena naquilo que aprova. ^v22
 
-**23** Mas aquele que tem dúvidas, se come está condenado, porque não come por fé; e tudo o que não é de fé é pecado. ^v23
+**23** Aquele que duvida é condenado se comer, porque não é segundo a fé; e o que não provém da fé é pecado. ^v23

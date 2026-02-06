@@ -1,47 +1,46 @@
 ---
-Livro: "[[Deuteronômio|Deuteronômio]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Deuteronômio|Deuteronômio]]"
+tags: [biblia]
 ---
 
 # Deuteronômio 20
 
-**1** Quando saíres à peleja contra teus inimigos, e vires cavalos, e carros, e povo maior em número do que tu, deles não terás temor; pois o SENHOR teu Deus, que te tirou da terra do Egito, está contigo. ^v1
+**1** Quando vós marchardes para batalha contra os vossos inimigos, e virdes cavalos, carros, e um povo mais numeroso do que vós, vós não ficareis com medo deles; pois Yahweh, vosso Deus, está convosco, ele que vos tirou da terra do Egito. ^v1
 
-**2** E será que, quando vos achegardes à peleja, o sacerdote se adiantará, e falará ao povo, ^v2
+**2** Quando vós chegardes perto da batalha, o sacerdote deve aproximar-se e falar ao povo, ^v2
 
-**3** E dir-lhe-á: Ouvi, ó Israel, hoje vos achegais à peleja contra os vossos inimigos; não se amoleça o vosso coração: não temais nem tremais, nem vos aterrorizeis diante deles, ^v3
+**3** e dizer-lhes: 'Escutai, Israel, hoje vós vos aproximais de uma batalha contra os vossos inimigos; não deixeis os vossos corações fraquejarem; não temais, nem tremais, nem tenhais medo deles; ^v3
 
-**4** Pois o Senhor vosso Deus é o que vai convosco, a pelejar contra os vossos inimigos, para salvar-vos. ^v4
+**4** pois Yahweh, vosso Deus, é quem vai convosco para lutar por vós contra os vossos inimigos e vos salvar'. ^v4
 
-**5** Então os oficiais falarão ao povo, dizendo: Qual é o homem que edificou casa nova e ainda não a consagrou? Vá, e torne-se à sua casa para que porventura não morra na peleja e algum outro a consagre. ^v5
+**5** Os oficiais falarão com o povo e dirão: 'Que homem que construiu uma casa nova e não usufruiu dela? Deixai-o ir e retornar para sua casa, para que ele não morra na batalha e outro homem usufrua dela. ^v5
 
-**6** E qual é o homem que plantou uma vinha e ainda não a desfrutou? Vá, e torne-se à sua casa, para que porventura não morra na peleja e algum outro a desfrute. ^v6
+**6** Que homem que plantou uma vinha e não desfrutou dela? Deixai ele ir e retornar para sua casa, para que ele não morra na batalha e outro homem desfrute dela. ^v6
 
-**7** E qual é o homem que está desposado com alguma mulher e ainda não a recebeu? Vá, e torne-se à sua casa, para que porventura não morra na peleja e algum outro homem a receba. ^v7
+**7** Que homem que está noivo de uma mulher mas ainda não se casou com ela? Deixai ele ir e retornar à sua casa, para que ele não morra na batalha e outro homem se case com ela'. ^v7
 
-**8** E continuarão os oficiais a falar ao povo, dizendo: Qual é o homem medroso e de coração tímido? Vá, e torne-se à sua casa, para que o coração de seus irmãos não se derreta como o seu coração. ^v8
+**8** Os oficiais falarão mais ao povo e dirão: 'Que homem que é medroso ou de coração fraco? Deixai ele ir e retornar à sua casa, para que o coração do seu irmão não seja influenciado pelo coração dele'. ^v8
 
-**9** E será que, quando os oficiais acabarem de falar ao povo, então designarão os capitães dos exércitos para a dianteira do povo. ^v9
+**9** Quando os oficiais terminarem de falar com o povo, eles escolherão comandantes sobre eles. ^v9
 
-**10** Quando te achegares a alguma cidade para combatê-la, apregoar-lhe-ás a paz. ^v10
+**10** Quando vós marchardes para atacar uma cidade, fazei a eles uma oferta de paz. ^v10
 
-**11** E será que, se te responder em paz, e te abrir as portas, todo o povo que se achar nela te será tributário e te servirá. ^v11
+**11** Se eles aceitarem a vossa oferta e abrirem seus portões para vós, todo o povo encontrado lá deve tornar-se vossos escravos e devem vos servir. ^v11
 
-**12** Porém, se ela não fizer paz contigo, mas antes te fizer guerra, então a sitiarás. ^v12
+**12** Mas, se não fizerem oferta de paz para vós, mas, ao invés disso, guerrear contra vós, então, devei sitiá-los, ^v12
 
-**13** E o Senhor teu Deus a dará na tua mão; e todo o homem que houver nela passarás ao fio da espada. ^v13
+**13** e, quando Yahweh, vosso Deus, dar-vos vitória e colocá-los debaixo do vosso controle, matai todo homem da cidade. ^v13
 
-**14** Porém, as mulheres, e as crianças, e os animais; e tudo o que houver na cidade, todo o seu despojo, tomarás para ti; e comerás o despojo dos teus inimigos, que te deu o Senhor teu Deus. ^v14
+**14** Mas as mulheres, as crianças, o gado, e toda coisa que há na cidade, e tudo que for valioso, pegareis como despojo para vós. Vós consumireis o despojo dos vossos inimigos, de quem Yahweh, vosso Deus, tem vos dado. ^v14
 
-**15** Assim farás a todas as cidades que estiverem mui longe de ti, que não forem das cidades destas nações. ^v15
+**15** Agi dessa forma com todas as cidades que estão longe de vós, cidades que não são parte dessas nações. ^v15
 
-**16** Porém, das cidades destas nações, que o Senhor teu Deus te dá em herança, nenhuma coisa que tem fôlego deixarás com vida. ^v16
+**16** Nas cidades desses povos que Yahweh, vosso Deus, está vos dando como herança, não deixeis com vida nada que respira. ^v16
 
-**17** Antes destruí-las-ás totalmente: aos heteus, e aos amorreus, e aos cananeus, e aos perizeus, e aos heveus, e aos jebuseus, como te ordenou o Senhor teu Deus. ^v17
+**17** Ao invés disso, devei destruí-los completamente: os heteus, os amorreus, os cananeus, os perizeus, os heveus e os jebuseus, como Yahweh, vosso Deus, vos ordenou. ^v17
 
-**18** Para que não vos ensinem a fazer conforme a todas as suas abominações, que fizeram a seus deuses, e pequeis contra o Senhor vosso Deus. ^v18
+**18** Fazei isso para que eles não vos ensinem a agir igual aos seus costumes repugnantes, assim como eles têm feito aos seus deuses. Se vós agirdes como eles, vós pecareis contra Yahweh, vosso Deus. ^v18
 
-**19** Quando sitiares uma cidade por muitos dias, pelejando contra ela para a tomar, não destruirás o seu arvoredo, colocando nele o machado, porque dele comerás; pois que não o cortarás (pois o arvoredo do campo é mantimento para o homem), para empregar no cerco. ^v19
+**19** Quando vós sitiardes uma cidade por um longo tempo, enquanto vós fazeis guerra para capturá-la, não destruais as árvores da cidade cortando-as com um machado. Pois vós podeis comer o fruto delas, então, não as corteis. É a árvore do campo como um homem que sitiareis? ^v19
 
-**20** Mas as árvores que souberes que não são árvores de alimento, destruí-las-ás e cortá-las-ás; e contra a cidade que guerrear contra ti edificarás baluartes, até que esta seja vencida. ^v20
+**20** Apenas as árvores que sabeis que não dão fruto, podeis destruir e derrubar; construireis baluartes contra a cidade que fizer guerra contra vós, até que ela caia. ^v20

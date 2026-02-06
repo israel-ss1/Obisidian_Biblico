@@ -1,105 +1,104 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Daniel|Daniel]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Daniel|Daniel]]"
+tags: [biblia]
 ---
 
 # Daniel 2
 
-**1** E no segundo ano do reinado de Nabucodonosor, Nabucodonosor teve sonhos; e o seu espírito se perturbou, e passou-se-lhe o sono. ^v1
+**1** No segundo ano do seu reinado, Nabucodonosor teve sonhos. Ele ficou com sua mente perturbada e não conseguiu dormir. ^v1
 
-**2** Então o rei mandou chamar os magos, os astrólogos, os encantadores e os caldeus, para que declarassem ao rei os seus sonhos; e eles vieram e se apresentaram diante do rei. ^v2
+**2** Assim, o rei convocou os magos e os adivinhos, chamou os feiticeiros e sábios para lhes contar sobre os seus sonhos. Então, eles vieram e se apresentaram perante o rei. ^v2
 
-**3** E o rei lhes disse: Tive um sonho; e para saber o sonho está perturbado o meu espírito. ^v3
+**3** "O rei lhes disse: ""Eu tive um sonho e minha mente está ansiosa para saber o seu significado""." ^v3
 
-**4** E os caldeus disseram ao rei em aramaico: Ó rei, vive eternamente! Dize o sonho a teus servos, e daremos a interpretação. ^v4
+**4** "Então, os sábios falaram ao rei em aramaico: ""Ó Rei, vive para sempre! Conta o sonho para nós, os teus servos, e revelaremos o significado""." ^v4
 
-**5** Respondeu o rei, e disse aos caldeus: O assunto me tem escapado; se não me fizerdes saber o sonho e a sua interpretação, sereis despedaçados, e as vossas casas serão feitas um monturo; ^v5
+**5** "O rei respondeu aos sábios: ""Este assunto já está resolvido. Se vós não me revelardes o sonho e a sua interpretação, vossos corpos serão dilacerados e vossas casas serão transformadas em um monte de lixo." ^v5
 
-**6** Mas se vós me declarardes o sonho e a sua interpretação, recebereis de mim dádivas, recompensas e grande honra; portanto declarai-me o sonho e a sua interpretação. ^v6
+**6** "Mas, se me contardes o sonho e o seu significado, vós recebereis de mim presentes, uma recompensa e grande honra. Então, dizei-me o sonho e o seu significado""." ^v6
 
-**7** Responderam segunda vez, e disseram: Diga o rei o sonho a seus servos, e daremos a sua interpretação. ^v7
+**7** "Eles lhe pediram novamente: ""Rei, conta o sonho a nós, teus servos, e lhe diremos o seu significado""." ^v7
 
-**8** Respondeu o rei, e disse: Percebo muito bem que vós quereis ganhar tempo; porque vedes que o assunto me tem escapado. ^v8
+**8** "O rei respondeu: ""Eu tenho certeza de que vós quereis mais tempo, porque sabeis da minha firme decisão." ^v8
 
-**9** De modo que, se não me fizerdes saber o sonho, uma só sentença será a vossa; pois vós preparastes palavras mentirosas e perversas para as proferirdes na minha presença, até que se mude o tempo; portanto dizei-me o sonho, para que eu entenda que me podeis dar a sua interpretação. ^v9
+**9** "Mas, se não me contardes o meu sonho, só há uma sentença para vós. Vós decidistes preparar palavras falsas e enganosas que, juntos, concordastes em dizer-me até que eu mude de ideia. Então, dizei-me o sonho e eu saberei que vós podeis interpretá-lo para mim""." ^v9
 
-**10** Responderam os caldeus na presença do rei, e disseram: Não há ninguém sobre a terra que possa declarar a palavra ao rei; pois nenhum rei há, grande ou dominador, que requeira coisas semelhantes de algum mago, ou astrólogo, ou caldeu. ^v10
+**10** "Os sábios responderam ao rei: ""Não há nenhum homem na terra capaz de atender à exigência do rei. Não há rei grande e poderoso que tenha exigido uma coisa dessas de algum mago, ou de qualquer adivinho, ou de um sábio." ^v10
 
-**11** Porque o assunto que o rei requer é difícil; e ninguém há que o possa declarar diante do rei, senão os deuses, cuja morada não é com a carne. ^v11
+**11** "O que o rei exige é difícil e não há ninguém que possa dizer ao rei, exceto os deuses e eles não vivem entre os humanos""." ^v11
 
-**12** Por isso o rei muito se irou e enfureceu; e ordenou que matassem a todos os sábios de babilônia. ^v12
+**12** Isso fez o rei ficar irado e muito enfurecido, e ele deu ordens para destruir, na Babilônia, todos aqueles que eram conhecidos por sua sabedoria. ^v12
 
-**13** E saiu o decreto, segundo o qual deviam ser mortos os sábios; e buscaram a Daniel e aos seus companheiros, para que fossem mortos. ^v13
+**13** Então, saiu um decreto dizendo que todos aqueles conhecidos por sua sabedoria seriam condenados à morte. Por causa desse decreto, eles procuraram Daniel e seus amigos para que fossem condenados à morte também. ^v13
 
-**14** Então Daniel falou avisada e prudentemente a Arioque, capitão da guarda do rei, que tinha saído para matar os sábios de babilônia. ^v14
+**14** Então, Daniel respondeu com prudência e discrição para Arioque, o comandante do corpo da guarda do rei, que havia vindo matar todos aqueles que eram conhecidos na Babilônia por sua sabedoria. ^v14
 
-**15** Respondeu, e disse a Arioque, capitão do rei: Por que se apressa tanto o decreto da parte do rei? Então Arioque explicou o caso a Daniel. ^v15
+**15** "Daniel perguntou ao comandante do rei: ""Por que o decreto do rei é tão urgente?"". Então, Arioque disse a Daniel o que havia acontecido." ^v15
 
-**16** E Daniel entrou; e pediu ao rei que lhe desse tempo, para que lhe pudesse dar a interpretação. ^v16
+**16** Daniel foi e solicitou uma audiência com o rei para que pudesse lhe apresentar a interpretação. ^v16
 
-**17** Então Daniel foi para a sua casa, e fez saber o caso a Hananias, Misael e Azarias, seus companheiros; ^v17
+**17** Então, Daniel foi para sua casa e explicou a Hananias, Misael e Azarias o que havia acontecido. ^v17
 
-**18** Para que pedissem misericórdia ao Deus do céu, sobre este mistério, a fim de que Daniel e seus companheiros não perecessem, juntamente com o restante dos sábios da Babilônia. ^v18
+**18** Ele os exortou a buscarem a misericórdia do Deus do céu acerca deste mistério, para que eles não fossem mortos juntamente com os outros sábios da Babilônia. ^v18
 
-**19** Então foi revelado o mistério a Daniel numa visão de noite; então Daniel louvou o Deus do céu. ^v19
+**19** Naquela noite, o mistério foi revelado a Daniel, numa visão. Então, Daniel louvou ao Deus do céu ^v19
 
-**20** Falou Daniel, dizendo: Seja bendito o nome de Deus de eternidade a eternidade, porque dele são a sabedoria e a força; ^v20
+**20** "e disse: ""Louvado seja o nome de Deus para todo o sempre, pois toda a sabedoria e todo poder pertencem a Ele." ^v20
 
-**21** E ele muda os tempos e as estações; ele remove os reis e estabelece os reis; ele dá sabedoria aos sábios e conhecimento aos entendidos. ^v21
+**21** Ele muda os tempos e as estações, Ele remove reis e coloca reis em seus tronos. Ele dá sabedoria ao sábio e conhecimento àqueles que têm entendimento. ^v21
 
-**22** Ele revela o profundo e o escondido; conhece o que está em trevas, e com ele mora a luz. ^v22
+**22** Ele revela as coisas profundas e escondidas, porque Ele sabe o que está em trevas, e a luz vive com Ele. ^v22
 
-**23** Ó Deus de meus pais, eu te dou graças e te louvo, porque me deste sabedoria e força; e agora me fizeste saber o que te pedimos, porque nos fizeste saber este assunto do rei. ^v23
+**23** "Deus dos meus pais, eu te agradeço e te louvo pela sabedoria e por tudo o que me deste. Agora, Tu me fizeste saber o que te pedimos; Tu nos fizeste saber o assunto que concerne ao rei""." ^v23
 
-**24** Por isso Daniel foi ter com Arioque, ao qual o rei tinha constituído para matar os sábios de babilônia; entrou, e disse-lhe assim: Não mates os sábios de babilônia; introduze-me na presença do rei, e declararei ao rei a interpretação. ^v24
+**24** "Então, Daniel foi ver Arioque (aquele que o rei designou para matar todos os sábios na Babilônia). Ele foi e lhe disse: ""Não mates os sábios na Babilônia. Leva-me ao rei e eu lhe mostrarei a interpretação do seu sonho""." ^v24
 
-**25** Então Arioque depressa introduziu a Daniel na presença do rei, e disse-lhe assim: Achei um homem dentre os cativos de Judá, o qual fará saber ao rei a interpretação. ^v25
+**25** "Rapidamente, Arioque trouxe Daniel à presença do rei e lhe disse: ""Encontrei, entre os exilados de Judá, um homem que vai revelar o significado do sonho do rei." ^v25
 
-**26** Respondeu o rei, e disse a Daniel (cujo nome era Beltessazar): Podes tu fazer-me saber o sonho que tive e a sua interpretação? ^v26
+**26** "O rei disse a Daniel (que era chamado Beltessazar): ""Tu és capaz de me revelar o sonho que tive e o seu significado?""." ^v26
 
-**27** Respondeu Daniel na presença do rei, dizendo: O segredo que o rei requer, nem sábios, nem astrólogos, nem magos, nem adivinhos o podem declarar ao rei; ^v27
+**27** "Daniel respondeu: ""O mistério que o rei requer não pode ser revelado nem por aqueles que têm a sabedoria, nem pelos adivinhos, nem por mágicos ou por astrólogos." ^v27
 
-**28** Mas há um Deus no céu, o qual revela os mistérios; ele, pois, fez saber ao rei Nabucodonosor o que há de acontecer nos últimos dias; o teu sonho e as visões da tua cabeça que tiveste na tua cama são estes: ^v28
+**28** No entanto, há um Deus que vive no céu, que revela os mistérios, e Ele te fez conhecer, rei Nabucodonosor, o que irá acontecer nos dias que virão. Estes foram os teus sonhos e as visões de tua mente, enquanto tu estavas deitado em tua cama. ^v28
 
-**29** Estando tu, ó rei, na tua cama, subiram os teus pensamentos, acerca do que há de ser depois disto. Aquele, pois, que revela os mistérios te fez saber o que há de ser. ^v29
+**29** Quanto a ti, ó rei, teus pensamentos sobre tua cama eram sobre coisas futuras, e Aquele que revela segredos te fez saber o que está prestes a acontecer. ^v29
 
-**30** E a mim me foi revelado esse mistério, não porque haja em mim mais sabedoria que em todos os viventes, mas para que a interpretação se fizesse saber ao rei, e para que entendesses os pensamentos do teu coração. ^v30
+**30** Quanto a mim, este mistério não me foi revelado por eu ter mais sabedoria que qualquer outra pessoa viva. Este segredo me foi revelado para que tu, rei, possas entender o significado e, assim, conhecer os pensamentos profundos dentro de ti. ^v30
 
-**31** Tu, ó rei, estavas vendo, e eis aqui uma grande estátua; esta estátua, que era imensa, cujo esplendor era excelente, e estava em pé diante de ti; e a sua aparência era terrível. ^v31
+**31** Rei, tu olhaste para cima e viste uma grande estátua. Essa estátua, que era muito poderosa e brilhante, estava diante de ti. Seu brilho era tremendo. ^v31
 
-**32** A cabeça daquela estátua era de ouro fino; o seu peito e os seus braços de prata; o seu ventre e as suas coxas de cobre; ^v32
+**32** A cabeça da estátua era feita de ouro fino. O peito e os braços eram feitos de prata. Seu ventre e coxas eram feitos de bronze, ^v32
 
-**33** As pernas de ferro; os seus pés em parte de ferro e em parte de barro. ^v33
+**33** e suas pernas eram feitas de ferro. Seus pés eram, em parte, de ferro e, em parte, de barro. ^v33
 
-**34** Estavas vendo isto, quando uma pedra foi cortada, sem auxílio de mão, a qual feriu a estátua nos pés de ferro e de barro, e os esmiuçou. ^v34
+**34** Tu olhavas para cima e uma pedra foi cortada, apesar de não ter sido por mãos humanas, e atingiu a estátua nos pés de ferro e argila, e os destruiu. ^v34
 
-**35** Então foi juntamente esmiuçado o ferro, o barro, o bronze, a prata e o ouro, os quais se fizeram como pragana das eiras do estio, e o vento os levou, e não se achou lugar algum para eles; mas a pedra, que feriu a estátua, se tornou grande monte, e encheu toda a terra. ^v35
+**35** Então, o ferro, a argila, o bronze, a prata e o ouro foram quebrados em pedaços ao mesmo tempo, tornando-se como palha de eiras no verão. O vento os levou embora e não houve mais vestígios restantes deles. Mas a pedra que feriu a estátua se tornou uma grande montanha e encheu toda a terra. ^v35
 
-**36** Este é o sonho; também a sua interpretação diremos na presença do rei. ^v36
+**36** Esse foi o teu sonho. Agora diremos ao rei o seu significado. ^v36
 
-**37** Tu, ó rei, és rei de reis; a quem o Deus do céu tem dado o reino, o poder, a força, e a glória. ^v37
+**37** Tu, rei, és rei dos reis a quem o Deus dos céus tem dado o reino, o poder, a força e a honra. ^v37
 
-**38** E onde quer que habitem os filhos de homens, na tua mão entregou os animais do campo, e as aves do céu, e fez que reinasse sobre todos eles; tu és a cabeça de ouro. ^v38
+**38** Ele tem dado, em tuas mãos, o lugar onde os seres humanos vivem. Ele tem dado todos os animais dos campos e os pássaros dos céus em tuas mãos, e tem feito de ti governante sobre todos eles. Tu és a cabeça de ouro da estátua. ^v38
 
-**39** E depois de ti se levantará outro reino, inferior ao teu; e um terceiro reino, de bronze, o qual dominará sobre toda a terra. ^v39
+**39** Depois de ti, outro reino inferior ao teu se levantará, e ainda um terceiro reino de bronze governará sobre toda a terra. ^v39
 
-**40** E o quarto reino será forte como ferro; pois, como o ferro, esmiúça e quebra tudo; como o ferro que quebra todas as coisas, assim ele esmiuçará e fará em pedaços. ^v40
+**40** Haverá um quarto reino, forte como o ferro, porque o ferro quebra outras coisas em pedaços, ele despedaça tudo. O reino despedaçará todas as coisas e as esmagará. ^v40
 
-**41** E, quanto ao que viste dos pés e dos dedos, em parte de barro de oleiro, e em parte de ferro, isso será um reino dividido; contudo haverá nele alguma coisa da firmeza do ferro, pois viste o ferro misturado com barro de lodo. ^v41
+**41** Assim como tu viste que os pés e os dedos eram feitos, em parte, de barro e, em parte, de ferro, esse será um reino dividido; algumas das forças de ferro estarão nele, assim como viste uma mistura com barro. ^v41
 
-**42** E como os dedos dos pés eram em parte de ferro e em parte de barro, assim por uma parte o reino será forte, e por outra será frágil. ^v42
+**42** Como os dedos dos pés eram, em parte, feitos de ferro e, em parte, feitos de barro, da mesma forma o reino será, em parte, forte e, em parte, frágil. ^v42
 
-**43** Quanto ao que viste do ferro misturado com barro de lodo, misturar-se-ão com semente humana, mas não se ligarão um ao outro, assim como o ferro não se mistura com o barro. ^v43
+**43** Assim como viste o ferro misturado com barro, as pessoas também serão uma mistura; elas não ficarão juntas, assim como o ferro não se mistura com o barro. ^v43
 
-**44** Mas, nos dias desses reis, o Deus do céu levantará um reino que não será jamais destruído; e este reino não passará a outro povo; esmiuçará e consumirá todos esses reinos, mas ele mesmo subsistirá para sempre, ^v44
+**44** Nos dias daqueles reis, o Deus do céu levantará um reino que nunca será destruído, nem mesmo será conquistado por outro povo. Ele quebrará os outros reinos em pedaços e porá um fim em todos eles, e permanecerá para sempre. ^v44
 
-**45** Da maneira que viste que do monte foi cortada uma pedra, sem auxílio de mãos, e ela esmiuçou o ferro, o bronze, o barro, a prata e o ouro; o grande Deus fez saber ao rei o que há de ser depois disto. Certo é o sonho, e fiel a sua interpretação. ^v45
+**45** "Assim como viste, uma pedra foi cortada da montanha, mas não por mãos humanas, e ela quebrou em pedaços o ferro, o bronze, o barro, a prata, e o ouro; o grande Deus te fez saber, rei, o que acontecerá depois disso. O sonho é verdadeiro e a interpretação é confiável""." ^v45
 
-**46** Então o rei Nabucodonosor caiu sobre a sua face, e adorou a Daniel, e ordenou que lhe oferecessem uma oblação e perfumes suaves. ^v46
+**46** O rei Nabucodonosor caiu sobre sua face perante Daniel e o honrou; ele ordenou que uma oferta fosse feita e que incenso fosse oferecido a ele. ^v46
 
-**47** Respondeu o rei a Daniel, e disse: Certamente o vosso Deus é Deus dos deuses, e o Senhor dos reis e revelador de mistérios, pois pudeste revelar este mistério. ^v47
+**47** "O rei disse a Daniel: ""Verdadeiramente teu Deus é o Deus dos deuses, o Senhor dos reis, e o único que revela segredos, pois fostes capaz de revelar esse mistério""." ^v47
 
-**48** Então o rei engrandeceu a Daniel, e lhe deu muitas e grandes dádivas, e o pôs por governador de toda a província de babilônia, como também o fez chefe dos governadores sobre todos os sábios de babilônia. ^v48
+**48** Então, o rei fez Daniel altamente honrado e deu a ele muitos presentes maravilhosos. Ele o fez governador sobre toda a província da Babilônia e também o fez governador chefe sobre todos os demais sábios da Babilônia. ^v48
 
-**49** E pediu Daniel ao rei, e constituiu ele sobre os negócios da província de babilônia a Sadraque, Mesaque e Abednego; mas Daniel permaneceu na porta do rei. ^v49
+**49** A pedido de Daniel, o rei nomeou Sadraque, Mesaque e Abednego administradores sobre toda a província da Babilônia. Mas Daniel permaneceu no palácio do rei. ^v49

@@ -1,47 +1,46 @@
 ---
-Livro: "[[1 Timóteo|1 Timóteo]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/1 Timóteo|1 Timóteo]]"
+tags: [biblia]
 ---
 
 # 1 Timóteo 1
 
-**1** Paulo, apóstolo de Jesus Cristo, segundo o mandado de Deus, nosso Salvador, e do Senhor Jesus Cristo, esperança nossa, ^v1
+**1** Paulo, apóstolo de Cristo Jesus de acordo com a ordem de Deus, nosso Salvador, e de Cristo Jesus, nossa esperança, ^v1
 
-**2** A Timóteo meu verdadeiro filho na fé: Graça, misericórdia e paz da parte de Deus nosso Pai, e da de Cristo Jesus, nosso Senhor. ^v2
+**2** a Timóteo, um verdadeiro filho na fé: graça, misericórdia e paz de Deus Pai e de Cristo Jesus, nosso Senhor. ^v2
 
-**3** Como te roguei, quando parti para a macedônia, que ficasses em Éfeso, para advertires a alguns, que não ensinem outra doutrina, ^v3
+**3** Como eu te roguei, quando partia para Macedônia, permanece em Éfeso para que tu possas advertir certas pessoas de que não ensinem uma doutrina diferente, ^v3
 
-**4** Nem se dêem a fábulas ou a genealogias intermináveis, que mais produzem questões do que edificação de Deus, que consiste na fé; assim o faço agora. ^v4
+**4** nem prestem atenção a histórias e genealogias sem fim, que causam discussões em vez de ajudarem o plano de Deus, que é pela fé. ^v4
 
-**5** Ora, o fim do mandamento é o amor de um coração puro, e de uma boa consciência, e de uma fé não fingida. ^v5
+**5** Mas o objetivo dessa advertência é o amor que procede de um coração puro, de uma boa consciência e de uma fé sincera. ^v5
 
-**6** Do que, desviando-se alguns, se entregaram a vãs contendas; ^v6
+**6** Algumas pessoas têm se enganado e se desviado disso com conversas tolas, ^v6
 
-**7** Querendo ser mestres da lei, e não entendendo nem o que dizem nem o que afirmam. ^v7
+**7** querendo ser mestres da lei, mas sem entender o que dizem, nem o que insistentemente afirmam. ^v7
 
-**8** Sabemos, porém, que a lei é boa, se alguém dela usa legitimamente; ^v8
+**8** Mas nós sabemos que a lei é boa se usada de forma legítima. ^v8
 
-**9** Sabendo isto, que a lei não é feita para o justo, mas para os injustos e obstinados, para os ímpios e pecadores, para os profanos e irreligiosos, para os parricidas e matricidas, para os homicidas, ^v9
+**9** E sabemos isto: a lei não é feita para o justo, mas para os rebeldes e sem lei, para os incrédulos e pecadores, para os que são ímpios e profanos, para os que matam os próprios pais e mães, para os assassinos, ^v9
 
-**10** Para os devassos, para os sodomitas, para os roubadores de homens, para os mentirosos, para os perjuros, e para o que for contrário à sã doutrina, ^v10
+**10** para as pessoas sexualmente imorais, para os homossexuais, para os traficantes de escravos, para os mentirosos, para as falsas testemunhas e para tudo o que é contra a sã doutrina. ^v10
 
-**11** Conforme o evangelho da glória de Deus bem-aventurado, que me foi confiado. ^v11
+**11** Essa doutrina está de acordo com o Evangelho glorioso do Deus bendito, que me foi confiado. ^v11
 
-**12** E dou graças ao que me tem confortado, a Cristo Jesus Senhor nosso, porque me teve por fiel, pondo-me no ministério; ^v12
+**12** Eu agradeço a Cristo Jesus, nosso Senhor, que me fortaleceu, pois me considerou fiel e me colocou nesta obra. ^v12
 
-**13** A mim, que dantes fui blasfemo, e perseguidor, e injurioso; mas alcancei misericórdia, porque o fiz ignorantemente, na incredulidade. ^v13
+**13** Eu era um homem blasfemo, perseguidor e violento, mas recebi misericórdia, porque agia ignorantemente na minha incredulidade. ^v13
 
-**14** E a graça de nosso Senhor superabundou com a fé e amor que há em Jesus Cristo. ^v14
+**14** Mas a graça do nosso Senhor transbordou com a fé e o amor que há em Cristo Jesus. ^v14
 
-**15** Esta é uma palavra fiel, e digna de toda a aceitação, que Cristo Jesus veio ao mundo, para salvar os pecadores, dos quais eu sou o principal. ^v15
+**15** Esta mensagem é confiável e digna de toda aceitação: Cristo Jesus veio ao mundo para salvar os pecadores, e eu sou o pior deles. ^v15
 
-**16** Mas por isso alcancei misericórdia, para que em mim, que sou o principal, Jesus Cristo mostrasse toda a sua longanimidade, para exemplo dos que haviam de crer nele para a vida eterna. ^v16
+**16** Mas, por essa razão, eu recebi misericórdia, de forma que em mim, o pior dos pecadores, Cristo Jesus pudesse demonstrar toda paciência. Ele fez isso como um exemplo para aqueles que haveriam de crer Nele para a vida eterna. ^v16
 
-**17** Ora, ao Rei dos séculos, imortal, invisível, ao único Deus sábio, seja honra e glória para todo o sempre. Amém. ^v17
+**17** Assim, ao Rei eterno, imortal e invisível, o único Deus, sejam a honra e a glória para sempre e sempre. Amém. ^v17
 
-**18** Este mandamento te dou, meu filho Timóteo, que, segundo as profecias que houve acerca de ti, milites por elas boa milícia; ^v18
+**18** Eu te entrego essa instrução, Timóteo, meu filho, em concordância com as profecias feitas a teu respeito, para que te empenhes no bom combate. ^v18
 
-**19** Conservando a fé, e a boa consciência, a qual alguns, rejeitando, fizeram naufrágio na fé. ^v19
+**19** Faze isso para que tu tenhas fé e uma boa consciência. Algumas pessoas as têm rejeitado e naufragaram na fé, ^v19
 
-**20** E entre esses foram Himeneu e Alexandre, os quais entreguei a Satanás, para que aprendam a não blasfemar. ^v20
+**20** entre elas estão Himeneu e Alexandre, os quais entreguei a Satanás para que eles aprendam a não blasfemar. ^v20

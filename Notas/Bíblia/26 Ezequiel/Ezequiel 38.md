@@ -1,53 +1,52 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Ezequiel|Ezequiel]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Ezequiel|Ezequiel]]"
+tags: [biblia]
 ---
 
 # Ezequiel 38
 
-**1** Veio a mim a palavra do SENHOR, dizendo: ^v1
+**1** A palavra de Yahweh veio a mim dizendo: ^v1
 
-**2** Filho do homem, dirige o teu rosto contra Gogue, terra de Magogue, príncipe e chefe de Meseque, e Tubal, e profetiza contra ele. ^v2
+**2** """Filho do homem, vira o teu rosto para Gogue, a terra de Magogue, o principal chefe de Meseque e Tubal; e profetiza contra ele, dizendo:" ^v2
 
-**3** E dize: Assim diz o Senhor DEUS: Eis que eu sou contra ti, ó Gogue, príncipe e chefe de Meseque e de Tubal; ^v3
+**3** 'Assim diz Yahweh Deus: Eis que sou contra ti, Gogue, principal chefe de Meseque e Tubal. ^v3
 
-**4** E te farei voltar, e porei anzóis nos teus queixos, e te levarei a ti, com todo o teu exército, cavalos e cavaleiros, todos vestidos com primor, grande multidão, com escudo e rodela, manejando todos a espada; ^v4
+**4** Então, Eu te farei voltar e porei anzóis em teus queixos; Eu te levarei com todas as tuas armas, teus cavalos e cavaleiros, toda armadura completa, uma grande companhia com grandes e pequenos escudos, todos manejando espada! ^v4
 
-**5** Persas, etíopes, e os de Pute com eles, todos com escudo e capacete; ^v5
+**5** Pérsia, Cuxe e Pute estarão com eles, todos com escudos e capacetes! ^v5
 
-**6** Gômer e todas as suas tropas; a casa de Togarma, do extremo norte, e todas as suas tropas, muitos povos contigo. ^v6
+**6** Omer e todas suas tropas e a casa de Togarma, das partes distantes do norte e todas as suas tropas! Muitas pessoas estarão contigo! ^v6
 
-**7** Prepara-te, e dispõe-te, tu e todas as multidões do teu povo que se reuniram a ti, e serve-lhes tu de guarda. ^v7
+**7** Prepara-te! Sim, dispõe-te tu e tuas tropas reunidas contigo e sê o comandante deles. ^v7
 
-**8** Depois de muitos dias serás visitado. No fim dos anos virás à terra que se recuperou da espada, e que foi congregada dentre muitos povos, junto aos montes de Israel, que sempre se faziam desertos; mas aquela terra foi tirada dentre as nações, e todas elas habitarão seguramente. ^v8
+**8** Tu, Israel, serás visitado depois de muitos dias; e, depois de muitos anos, tu irás à terra que se recuperou da espada e que foi reunida dentre muitos povos, junto às montanhas de Israel, as quais foram arruinadas; mas aquela terra foi tirada dentre os povos, e todos eles viverão em segurança! ^v8
 
-**9** Então subirás, virás como uma tempestade, far-te-ás como uma nuvem para cobrir a terra, tu e todas as tuas tropas, e muitos povos contigo. ^v9
+**9** Então, subirás, virás como a tempestade, e serás como uma nuvem que cobre a terra, tu, todas as tuas tropas e muitos soldados contigo. ^v9
 
-**10** Assim diz o Senhor DEUS: E acontecerá naquele dia que subirão palavras no teu coração, e maquinarás um mau desígnio, ^v10
+**10** Assim diz Yahweh Deus: Acontecerá naquele dia que terás planos ambiciosos no teu coração e farás projetos perversos. ^v10
 
-**11** E dirás: Subirei contra a terra das aldeias não muradas; virei contra os que estão em repouso, que habitam seguros; todos eles habitam sem muro, e não têm ferrolhos nem portas; ^v11
+**11** Então, dirás: 'subirei contra a terra aberta; eu irei contra as pessoas tranquilas, que vivem em segurança, todos vivendo onde não há muros ou trancas e onde não há portões na cidade. ^v11
 
-**12** A fim de tomar o despojo, e para arrebatar a presa, e tornar a tua mão contra as terras desertas que agora se acham habitadas, e contra o povo que se congregou dentre as nações, o qual adquiriu gado e bens, e habita no meio da terra. ^v12
+**12** Eu vou capturar despojos e roubar as pilhagens, para pôr a mão contra as ruínas recentemente habitadas, contra as pessoas reunidas das nações, pessoas que estão adquirindo gado e propriedades e vivem no centro da terra'. ^v12
 
-**13** Sebá e Dedã, e os mercadores de Társis, e todos os seus leõezinhos te dirão: Vens tu para tomar o despojo? Ajuntaste a tua multidão para arrebatar a tua presa? Para levar a prata e o ouro, para tomar o gado e os bens, para saquear o grande despojo? ^v13
+**13** Sabá, Dedã e os comerciantes de Társis, juntamente com todos os jovens guerreiros dirão: 'Vens tu para tomar o despojo? Reuniste teus exércitos para remover o despojo, para levar a prata e o ouro, para pegar gado e as propriedades e transportar grande despojo?'. ^v13
 
-**14** Portanto, profetiza, ó filho do homem, e dize a Gogue: Assim diz o Senhor DEUS: Porventura não o saberás naquele dia, quando o meu povo Israel habitar em segurança? ^v14
+**14** Poranto, profetiza, filho do homem, e dize para Gogue: Assim diz Yahweh Deus: Naquele dia, quando Meu povo Israel estiver vivendo em segurança, tu não o saberás? ^v14
 
-**15** Virás, pois, do teu lugar, do extremo norte, tu e muitos povos contigo, montados todos a cavalo, grande ajuntamento, e exército poderoso, ^v15
+**15** Virás do teu lugar, do extremo norte com um grande povo contigo, todos montados a cavalos, uma grande companhia, um grande exército. ^v15
 
-**16** E subirás contra o meu povo Israel, como uma nuvem, para cobrir a terra. Nos últimos dias sucederá que hei de trazer-te contra a minha terra, para que os gentios me conheçam a mim, quando eu me houver santificado em ti, ó Gogue, diante dos seus olhos. ^v16
+**16** Atacarás Meu povo Israel, como uma nuvem que cobre a terra. Nos últimos dias, Eu o trarei contra Minha terra, então, as nações saberão quando Eu manifestar Minha santidade através de ti, Gogue, para ser santo diante de teus olhos. ^v16
 
-**17** Assim diz o Senhor DEUS: Não és tu aquele de quem eu disse nos dias antigos, por intermédio dos meus servos, os profetas de Israel, os quais naqueles dias profetizaram largos anos, que te traria contra eles? ^v17
+**17** Assim diz Yahweh Deus: Não és tu aquele de quem falei antigamente, por intermédio de Meus servos, os profetas de Israel, que profetizaram em seu próprio tempo durante anos contra eles? ^v17
 
-**18** Sucederá, porém, naquele dia, no dia em que vier Gogue contra a terra de Israel, diz o Senhor DEUS, que a minha indignação subirá à minha face. ^v18
+**18** Assim acontecerá naquele dia, quando Gogue atacar a terra de Israel — assim diz Yahweh Deus — Minha indignação elevará a Minha ira. ^v18
 
-**19** Porque disse no meu zelo, no fogo do meu furor, que, certamente, naquele dia haverá grande tremor sobre a terra de Israel; ^v19
+**19** No Meu zelo e no fogo da Minha ira, declaro que, naquele dia, haverá um grande terremoto na terra de Israel. ^v19
 
-**20** De tal modo que tremerão diante da minha face os peixes do mar, e as aves do céu, e os animais do campo, e todos os répteis que se arrastam sobre a terra, e todos os homens que estão sobre a face da terra; e os montes serão deitados abaixo, e os precipícios se desfarão, e todos os muros desabarão por terra. ^v20
+**20** Tremerão diante de Mim, os peixes do mar, os pássaros dos céus, os animais dos campos e todas as criaturas que se arrastam na terra, bem como todas as pessoas que estão na superfície da terra. As montanhas serão derrubadas e os penhascos cairão, todos os muros cairão por terra. ^v20
 
-**21** Porque chamarei contra ele a espada sobre todos os meus montes, diz o Senhor DEUS; a espada de cada um se voltará contra seu irmão. ^v21
+**21** Convocarei contra ele a espada, em todas as Minhas montanhas. Assim diz Yahweh Deus — a espada de cada homem se voltará contra seu irmão. ^v21
 
-**22** E contenderei com ele por meio da peste e do sangue; e uma chuva inundante, e grandes pedras de saraiva, fogo, e enxofre farei chover sobre ele, e sobre as suas tropas, e sobre os muitos povos que estiverem com ele. ^v22
+**22** Então, Eu o julgarei por meio da praga e do sangue; chuva transbordante e pedras de granizo e fogo, e enxofre ardente sobre ele, suas tropas, e as muitas nações que com ele estão. ^v22
 
-**23** Assim eu me engrandecerei e me santificarei, e me darei a conhecer aos olhos de muitas nações; e saberão que eu sou o Senhor. ^v23
+**23** "Assim, mostrarei a Minha grandeza e a Minha santidade, e Me tornarei conhecido aos olhos de muitas nações e eles saberão que Eu sou Yahweh'""." ^v23

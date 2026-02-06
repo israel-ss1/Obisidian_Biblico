@@ -1,41 +1,40 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Josué|Josué]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Josué|Josué]]"
+tags: [biblia]
 ---
 
 # Josué 3
 
-**1** Levantou-se, pois, Josué de madrugada, e partiram de Sitim, ele e todos os filhos de Israel; e vieram até ao Jordão, e pousaram ali, antes que passassem. ^v1
+**1** Josué levantou-se de madrugada e todos partiram de Sitim. Chegaram ao rio Jordão, ele e todo povo de Israel, e acamparam ali antes de atravessá-lo. ^v1
 
-**2** E sucedeu, ao fim de três dias, que os oficiais passaram pelo meio do arraial; ^v2
+**2** Após três dias, os oficiais passaram no meio do acampamento ^v2
 
-**3** E ordenaram ao povo, dizendo: Quando virdes a arca da aliança do Senhor vosso Deus, e que os sacerdotes levitas a levam, partireis vós também do vosso lugar, e a seguireis. ^v3
+**3** "e ordernaram ao povo, dizendo: ""Quando virdes a Arca da Aliança de Yahweh, vosso Deus, carregada pelos sacerdotes levitas, partireis deste lugar e a seguireis." ^v3
 
-**4** Haja contudo, entre vós e ela, uma distância de dois mil côvados; e não vos chegueis a ela, para que saibais o caminho pelo qual haveis de ir; porquanto por este caminho nunca passastes antes. ^v4
+**4** "Entretanto, conservai uma distância de dois mil côvados entre vós e ela. Não vos aproximeis dela. Assim, sabereis qual caminho seguir, caminho pelo qual nunca passastes""." ^v4
 
-**5** Disse Josué também ao povo: Santificai-vos, porque amanhã fará o Senhor maravilhas no meio de vós. ^v5
+**5** "Josué disse ao povo: ""Santificai-vos porque amanhã Yahweh fará maravilhas no meio de vós""." ^v5
 
-**6** E falou Josué aos sacerdotes, dizendo: Levantai a arca da aliança, e passai adiante deste povo. Levantaram, pois, a arca da aliança, e foram andando adiante do povo. ^v6
+**6** "Depois Josué disse aos sacerdotes: ""Levantai a Arca da Aliança e passai em frente ao povo"". Então, eles levantaram a Arca da Aliança e foram andando adiante do povo." ^v6
 
-**7** E o Senhor disse a Josué: Hoje começarei a engrandecer-te perante os olhos de todo o Israel, para que saibam que, assim como fui com Moisés, assim serei contigo. ^v7
+**7** "Yahweh disse a Josué: ""Neste dia, te farei um grande homem aos olhos de todo o povo de Israel, para que vejam que estou contigo, como estive com Moisés." ^v7
 
-**8** Tu, pois, ordenarás aos sacerdotes que levam a arca da aliança, dizendo: Quando chegardes à beira das águas do Jordão, parareis aí. ^v8
+**8** Ordenarás aos sacerdotes que carregam a Arca da Aliança: 'Quando chegardes à beira das águas do rio Jordão, ali parareis”. ^v8
 
-**9** Então disse Josué aos filhos de Israel: Chegai-vos para cá, e ouvi as palavras do Senhor vosso Deus. ^v9
+**9** "Então, Josué disse ao povo de Israel: ""Chegai-vos e escutai as palavras de Yahweh, vosso Deus." ^v9
 
-**10** Disse mais Josué: Nisto conhecereis que o Deus vivo está no meio de vós; e que certamente lançará de diante de vós aos cananeus, e aos heteus, e aos heveus, e aos perizeus, e aos girgaseus, e aos amorreus, e aos jebuseus. ^v10
+**10** Deste modo, reconhecereis que o Deus Vivo está no meio de vós e, certamente, expulsará da vossa presença os cananeus, os heteus, os heveus, os perizeus, os girgaseus, os amorreus e os jebuseus. ^v10
 
-**11** Eis que a arca da aliança do Senhor de toda a terra passa o Jordão diante de vós. ^v11
+**11** Eis que a Arca da Aliança do Senhor de toda a terra passará à vossa frente no Jordão. ^v11
 
-**12** Tomai, pois, agora doze homens das tribos de Israel, de cada tribo um homem; ^v12
+**12** Agora escolhei doze homens das tribos de Israel, um de cada tribo. ^v12
 
-**13** Porque há de acontecer que, assim que as plantas dos pés dos sacerdotes, que levam a arca do Senhor, o Senhor de toda a terra, repousem nas águas do Jordão, se separarão as águas do Jordão, e as águas, que vêm de cima, pararão amontoadas. ^v13
+**13** "Quando a planta dos pés dos sacerdotes que carregam a arca de Yahweh, o Senhor de toda a terra, tocarem as águas do Jordão, estas serão separadas; e ainda que as águas que fluem rio acima parem de fluir, formarão uma represa""." ^v13
 
-**14** E aconteceu que, partindo o povo das suas tendas, para passar o Jordão, levavam os sacerdotes a arca da aliança adiante do povo. ^v14
+**14** Então, quando o povo levantou acampamento para atravessar o Jordão, os sacerdotes que carregavam a Arca da Aliança foram à frente do povo. ^v14
 
-**15** E quando os que levavam a arca, chegaram ao Jordão, e os seus pés se molharam na beira das águas (porque o Jordão transbordava sobre todas as suas ribanceiras, todos os dias da ceifa), ^v15
+**15** Assim que os carregadores da Arca chegaram ao Jordão, e seus pés tocaram nas águas (o Jordão transbordava pelas suas margens durante a colheita), ^v15
 
-**16** Pararam-se as águas, que vinham de cima; levantaram-se num montão, mui longe da cidade de Adão, que está ao lado de Zaretã; e as que desciam ao mar das campinas, que é o Mar Salgado, foram de todo separadas; então passou o povo em frente de Jericó. ^v16
+**16** as águas que vinham de cima pararam e formaram uma represa a uma longa distância, na altura de Adã, cidade ao lado de Zaretã, e até por todo o caminho abaixo do mar da Arabá, que é o mar Morto. E o povo atravessou diante de Jericó. ^v16
 
-**17** Porém os sacerdotes, que levavam a arca da aliança do Senhor, pararam firmes, em seco, no meio do Jordão, e todo o Israel passou a seco, até que todo o povo acabou de passar o Jordão. ^v17
+**17** Os sacerdotes que carregavam a Arca da Aliança de Yahweh ficaram parados no leito seco, no meio do Jordão, enquanto todo o povo de Israel atravessava em terra seca, até que todos acabassem de passar. ^v17

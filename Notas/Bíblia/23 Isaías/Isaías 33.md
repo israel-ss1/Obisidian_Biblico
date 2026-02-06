@@ -1,55 +1,54 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Isaías|Isaías]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Isaías|Isaías]]"
+tags: [biblia]
 ---
 
 # Isaías 33
 
-**1** Ai de ti, despojador, que não foste despojado, e que procedes perfidamente contra os que não procederam perfidamente contra ti! Acabando tu de despojar, serás despojado; e, acabando tu de tratar perfidamente, perfidamente te tratarão. ^v1
+**1** Ai de ti, destruidor que não foste destruído! Ai de ti, traidor que não foste traído! Quando parares de destruir, serás destruído. Quando parares de trair, eles te trairão. ^v1
 
-**2** Senhor, tem misericórdia de nós, por ti temos esperado; sê tu o nosso braço cada manhã, como também a nossa salvação no tempo da tribulação. ^v2
+**2** Yahweh, sê benevolente conosco; esperamos por Ti! Sê Tu nosso braço a cada manhã, nossa salvação no tempo de tribulação. ^v2
 
-**3** Ao ruído do tumulto fugirão os povos; à tua exaltação as nações serão dispersas. ^v3
+**3** Ao grande barulho, os povos fogem; quando Te levantas, as nações se dispersam. ^v3
 
-**4** Então ajuntar-se-á o vosso despojo como se ajunta a lagarta; como os gafanhotos saltam, assim ele saltará sobre eles. ^v4
+**4** Vosso despojo é colhido como os gafanhotos colhem; os homens saltam sobre ele como os gafanhotos saltam. ^v4
 
-**5** O Senhor está exaltado, pois habita nas alturas; encheu a Sião de juízo e justiça. ^v5
+**5** Yahweh é exaltado. Ele vive nas alturas. Ele encherá Sião de justiça e retidão. ^v5
 
-**6** E haverá estabilidade nos teus tempos, abundância de salvação, sabedoria e conhecimento; e o temor do Senhor será o seu tesouro. ^v6
+**6** Ele será, ó Sião, a estabilidade em teu tempo, abundância de salvação, sabedoria e conhecimento; o temor de Yahweh é o seu tesouro. ^v6
 
-**7** Eis que os seus embaixadores estão clamando de fora; e os mensageiros de paz estão chorando amargamente. ^v7
+**7** Vede! Seus enviados gritam nas ruas; os embaixadores, que esperavam a paz, choram amargamente. ^v7
 
-**8** As estradas estão desoladas, cessou o que passava pela vereda, ele rompeu a aliança, desprezou as cidades, e já não faz caso dos homens. ^v8
+**8** As estradas estão desertas, não há mais viajantes. As alianças são quebradas, as testemunhas são desprezadas e a humanidade é desrespeitada.[Nota: Em vez de “as testemunhas são desprezadas”, algumas versões têm: “as cidades são desprezadas”] ^v8
 
-**9** A terra geme e pranteia, o Líbano se envergonha e se murcha; Sarom se tornou como um deserto; e Basã e Carmelo foram sacudidos. ^v9
+**9** A terra pranteia e murcha; o Líbano envergonha-se e murcha; [Nota: Algumas versões têm: “A terra se seca e murcha”.] Sarom é como um deserto; Basã e Carmelo perdem suas folhas. ^v9
 
-**10** Agora, pois, me levantarei, diz o Senhor; agora me erguerei. Agora serei exaltado. ^v10
+**10** """Agora Me levantarei"", diz Yahweh; ""Agora serei exaltado! Agora serei elevado!" ^v10
 
-**11** Concebestes palha, dareis à luz restolho; e o vosso espírito vos devorará como o fogo. ^v11
+**11** Vós concebeis palha e dais à luz restolho; vosso fôlego é um fogo que vos consumirá. ^v11
 
-**12** E os povos serão como as queimas de cal; como espinhos cortados arderão no fogo. ^v12
+**12** Os povos serão queimados como se queima a cal, como espinheiros que são cortados e queimados. ^v12
 
-**13** Ouvi, vós os que estais longe, o que tenho feito; e vós que estais vizinhos, conhecei o meu poder. ^v13
+**13** "Vós que estais longe, ouvi o que fiz; e vós que estais perto, reconhecei o Meu poder""." ^v13
 
-**14** Os pecadores de Sião se assombraram, o tremor surpreendeu os hipócritas. Quem dentre nós habitará com o fogo consumidor? Quem dentre nós habitará com as labaredas eternas? ^v14
+**14** Os pecadores em Sião temem; o tremor apoderou-se dos ímpios. Quem dentre nós pode habitar com o fogo devorador? Quem dentre nós pode habitar com chamas eternas? ^v14
 
-**15** O que anda em justiça, e o que fala com retidão; o que rejeita o ganho da opressão, o que sacode das suas mãos todo o presente; o que tapa os seus ouvidos para não ouvir falar de derramamento de sangue e fecha os seus olhos para não ver o mal. ^v15
+**15** Aquele que anda em justiça e fala honestamente, aquele que rejeita o ganho da opressão, aquele que acena com as mãos para não aceitar o suborno, que tapa os ouvidos para não ouvir falar de crimes de sangue, e que fecha os olhos para não contemplar o mal. ^v15
 
-**16** Este habitará nas alturas; as fortalezas das rochas serão o seu alto refúgio, o seu pão lhe será dado, as suas águas serão certas. ^v16
+**16** Esse habitará nas alturas; seu local de defesa será as fortalezas das rochas; sua comida e sua água estarão em constante provisão. ^v16
 
-**17** Os teus olhos verão o rei na sua formosura, e verão a terra que está longe. ^v17
+**17** Teus olhos verão o rei em sua beleza, e contemplarão a vasta terra. ^v17
 
-**18** O teu coração considerará o assombro dizendo: Onde está o escrivão? Onde está o que pesou o tributo? Onde está o que conta as torres? ^v18
+**18** Teu coração refletirá sobre o terror. Onde está o escriba, onde está aquele que pesou o dinheiro? Onde está aquele que contou as torres? ^v18
 
-**19** Não verás mais aquele povo atrevido, povo de fala obscura, que não se pode compreender e de língua tão estranha que não se pode entender. ^v19
+**19** Tu já não verás as pessoas provocadoras, um povo de língua diferente, a quem tu não compreendes. ^v19
 
-**20** Olha para Sião, a cidade das nossas solenidades; os teus olhos verão a Jerusalém, habitação quieta, tenda que não será removida, cujas estacas nunca serão arrancadas e das suas cordas nenhuma se quebrará. ^v20
+**20** Olha para Sião, a cidade de nossos banquetes; teus olhos verão Jerusalém como uma habitação calma, como uma tenda cujas estacas não serão arrancadas ou nenhuma de suas cordas arrebentadas: uma tenda que não será removida. ^v20
 
-**21** Mas ali o glorioso Senhor será para nós um lugar de rios e correntes largas; barco nenhum de remo passará por ele, nem navio grande navegará por ele. ^v21
+**21** Em vez disso, Yahweh, em Sua majestade, estará conosco num lugar de largos rios e córregos, nos quais nenhum barco com remos viajará e nenhum grande navio de guerra navegará. ^v21
 
-**22** Porque o Senhor é o nosso Juiz; o Senhor é o nosso legislador; o Senhor é o nosso rei, ele nos salvará. ^v22
+**22** Porque Yahweh é o nosso juiz, Yahweh é o nosso legislador, Yahweh é o nosso rei; Ele nos salvará. ^v22
 
-**23** As tuas cordas se afrouxaram; não puderam ter firme o seu mastro, e nem desfraldar a vela; então a presa de abundantes despojos se repartirá; e até os coxos dividirão a presa. ^v23
+**23** As tuas cordas estão frouxas; elas não podem segurar o mastro em seu lugar, não podem estender a vela. Quando o grande despojo for dividido, até os coxos levarão sua parte. ^v23
 
-**24** E morador nenhum dirá: Enfermo estou; porque o povo que habitar nela será absolvido da iniqüidade. ^v24
+**24** "O povo não dirá: ""Estou doente"", pois o povo que vive ali terá sua iniquidade perdoada." ^v24

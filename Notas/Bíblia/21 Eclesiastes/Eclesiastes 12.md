@@ -1,35 +1,34 @@
 ---
-Livro: "[[Eclesiastes|Eclesiastes]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Eclesiastes|Eclesiastes]]"
+tags: [biblia]
 ---
 
 # Eclesiastes 12
 
-**1** Lembra-te também do teu Criador nos dias da tua mocidade, antes que venham os maus dias, e cheguem os anos dos quais venhas a dizer: Não tenho neles contentamento; ^v1
+**1** "Lembra-te do teu Criador nos dias da tua juventude, antes que venham os dias de dificuldade, e antes que cheguem os anos quando dirás: ""Não tenho neles prazer""." ^v1
 
-**2** Antes que se escureçam o sol, e a luz, e a lua, e as estrelas, e tornem a vir as nuvens depois da chuva; ^v2
+**2** Faze isso antes que se apague a luz do sol, da lua e das estrelas, e as nuvens escuras retornem após a chuva. ^v2
 
-**3** No dia em que tremerem os guardas da casa, e se encurvarem os homens fortes, e cessarem os moedores, por já serem poucos, e se escurecerem os que olham pelas janelas; ^v3
+**3** Chegará o tempo quando tremerá o guardião do palácio, e os homens fortes se curvarão, e as mulheres cessarão seus moedores, por serem poucos, e aqueles que olham para fora das janelas já não verão claramente. ^v3
 
-**4** E as portas da rua se fecharem por causa do baixo ruído da moedura, e se levantar à voz das aves, e todas as filhas da música se abaterem. ^v4
+**4** Chegará o tempo quando as portas serão fechadas na rua, e cessará o som da moagem; quando os homens ficarão assustados com o som de um pássaro, e o canto das vozes das meninas desaparecerá. ^v4
 
-**5** Como também quando temerem o que é alto, e houver espantos no caminho, e florescer a amendoeira, e o gafanhoto for um peso, e perecer o apetite; porque o homem se vai à sua casa eterna, e os pranteadore andarão rodeando pela praça; ^v5
+**5** Chegará o tempo quando os homens terão medo de altura e de perigos nas estradas, quando a amendoeira florescer, quando os gafanhotos se arrastarem, e quando os desejos naturais falharem. Então, o homem irá para o lar eterno e os enlutados descerão pelas ruas. ^v5
 
-**6** Antes que se rompa o cordão de prata, e se quebre o copo de ouro, e se despedace o cântaro junto à fonte, e se quebre a roda junto ao poço, ^v6
+**6** Lembra-te do teu Criador antes que o fio de prata seja cortado, ou a taça dourada seja esmagada, ou o jarro, estilhaçado na primavera, ou a roda d'água seja quebrada no poço; ^v6
 
-**7** E o pó volte à terra, como o era, e o espírito volte a Deus, que o deu. ^v7
+**7** antes que o pó volte à terra, de onde veio, e o espírito retorne a Deus que o deu. ^v7
 
-**8** Vaidade de vaidades, diz o pregador, tudo é vaidade. ^v8
+**8** Vaidade das vaidades, diz o pregador, tudo é inútil. ^v8
 
-**9** E, quanto mais sábio foi o pregador, tanto mais ensinou ao povo sabedoria; e atentando, e esquadrinhando, compôs muitos provérbios. ^v9
+**9** O sábio era erudito e ensinava o conhecimento ao povo. Ele estudou e contemplou, e colocou em ordem muitos provérbios. ^v9
 
-**10** Procurou o pregador achar palavras agradáveis; e escreveu-as com retidão, palavras de verdade. ^v10
+**10** O pregador procurou escrever usando palavras vívidas e verdadeiras. ^v10
 
-**11** As palavras dos sábios são como aguilhões, e como pregos, bem fixados pelos mestres das assembléias, que nos foram dadas pelo único Pastor. ^v11
+**11** As palavras dos sábios são como aguilhões. Como pregos bem fixados são as palavras dos mestres nas coleções de seus provérbios, que são ministrados por um pastor. ^v11
 
-**12** E, demais disto, filho meu, atenta: não há limite para fazer livros, e o muito estudar é enfado da carne. ^v12
+**12** Meu filho, fica ciente também disto: a escrita de muitos livros não tem limite, e o muito estudar traz cansaço ao corpo. ^v12
 
-**13** De tudo o que se tem ouvido, o fim é: Teme a Deus, e guarda os seus mandamentos; porque isto é o dever de todo o homem. ^v13
+**13** O fim de tudo o que se tem ouvido é: teme a Deus, e guarda Seus mandamentos, pois esse é todo o dever da humanidade. ^v13
 
-**14** Porque Deus há de trazer a juízo toda a obra, e até tudo o que está encoberto, quer seja bom, quer seja mau. ^v14
+**14** Porque Deus trará toda ação a julgamento, juntamente com tudo o que está oculto, seja ele bom ou mau. ^v14

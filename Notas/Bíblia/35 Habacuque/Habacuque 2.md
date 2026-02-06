@@ -1,47 +1,46 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Habacuque|Habacuque]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Habacuque|Habacuque]]"
+tags: [biblia]
 ---
 
 # Habacuque 2
 
-**1** Sobre a minha guarda estarei, e sobre a fortaleza me apresentarei e vigiarei, para ver o que falará a mim, e o que eu responderei quando eu for argüido. ^v1
+**1** "Estarei no meu posto de vigilância e tomarei posição na torre da guarda, e observarei atentamente para ver o que Ele me dirá, e como devo agir com a minha queixa. [Em vez de ""como devo agir com a minha queixa"", que é o que o texto hebraico traz, algumas versões modernas trazem ""como eu deveria responder quando ele responde à minha queixa"" ou ""como eu deveria responder quando ele me repreende"".]" ^v1
 
-**2** Então o Senhor me respondeu, e disse: Escreve a visão e torna-a bem legível sobre tábuas, para que a possa ler quem passa correndo. ^v2
+**2** "Yahweh me respondeu e disse: ""Grava a visão, e escreve claramente em tábuas para que quem passar correndo a possa ler." ^v2
 
-**3** Porque a visão é ainda para o tempo determinado, mas se apressa para o fim, e não enganará; se tardar, espera-o, porque certamente virá, não tardará. ^v3
+**3** Porque a visão ainda é para o futuro, e pronunciará no final, e não falhará. Ainda que ela se atrase, espera-a; porque, com certeza, virá e não tardará. ^v3
 
-**4** Eis que a sua alma está orgulhosa, não é reta nele; mas o justo pela sua fé viverá. ^v4
+**4** Olha! Aquele cujos desejos não são corretos é arrogante; mas o justo viverá pela sua fé. ^v4
 
-**5** Tanto mais que, por ser dado ao vinho é desleal; homem soberbo que não permanecerá; que alarga como o inferno a sua alma; e é como a morte que não se farta, e ajunta a si todas as nações, e congrega a si todos os povos. ^v5
+**5** Assim como o vinho é traiçoeiro, o homem arrogante também não permanece. A sua ganância é como a morte, que nunca está satisfeita. Ele ajunta para si todas as nações e recolhe para si todos os povos. ^v5
 
-**6** Não levantarão, pois, todos estes contra ele uma parábola e um provérbio sarcástico contra ele? E se dirá: Ai daquele que multiplica o que não é seu! (até quando? ) e daquele que carrega sobre si dívidas! ^v6
+**6** Por acaso, não criarão todos esses um dito para ridicularizá-lo, e uma canção de zombaria contra ele, e dirão: 'Ai daquele que acumula o que não é seu! Pois até quando irás acumular o peso dos penhores, que tu tens tomado?' ^v6
 
-**7** Porventura não se levantarão de repente os teus extorquiadores, e não despertarão os que te farão tremer, e não lhes servirás tu de despojo? ^v7
+**7** Por acaso não se levantarão de repente os que te mordem, e se despertarão os que te aterrorizam? Tu te tornarás uma vítima para eles! ^v7
 
-**8** Porquanto despojaste a muitas nações, todos os demais povos te despojarão a ti, por causa do sangue dos homens, e da violência feita à terra, à cidade, e a todos os que nela habitam. ^v8
+**8** Porque tu saqueaste muitas nações, todo o remanescente dos povos te saqueará. Pois derramaste sangue humano e agiste com violência contra a terra, as cidades e todos os seus habitantes. ^v8
 
-**9** Ai daquele que, para a sua casa, ajunta cobiçosamente bens mal adquiridos, para pôr o seu ninho no alto, a fim de se livrar do poder do mal! ^v9
+**9** 'Ai daquele que cobiça ganhos desonestos para sua casa, a fim de pôr seu ninho no alto para se manter seguro da mão do mal!' ^v9
 
-**10** Vergonha maquinaste para a tua casa; destruindo tu a muitos povos, pecaste contra a tua alma. ^v10
+**10** Tu planejaste vergonha para tua casa, porque eliminaste muitas pessoas, e pecaste contra ti mesmo. ^v10
 
-**11** Porque a pedra clamará da parede, e a trave lhe responderá do madeiramento. ^v11
+**11** Pois as pedras clamarão da parede, e as vigas de madeira lhes responderão: ^v11
 
-**12** Ai daquele que edifica a cidade com sangue, e que funda a cidade com iniqüidade! ^v12
+**12** 'Ai daquele que edifica uma cidade com sangue, e que estabelece uma vila com iniquidade!' ^v12
 
-**13** Porventura não vem do Senhor dos Exércitos que os povos trabalhem pelo fogo e os homens se cansem em vão? ^v13
+**13** Não provém de Yahweh dos Exércitos que os povos trabalhem para o fogo e que todas as outras nações se cansem em vão? ^v13
 
-**14** Porque a terra se encherá do conhecimento da glória do Senhor, como as águas cobrem o mar. ^v14
+**14** Ainda assim, a terra será cheia do conhecimento da glória de Yahweh, como as águas cobrem o mar. ^v14
 
-**15** Ai daquele que dá de beber ao seu companheiro! Ai de ti, que adicionas à bebida o teu furor, e o embebedas para ver a sua nudez! ^v15
+**15** 'Ai daquele que incentiva seu próximo a beber! Tu que entornas sua garrafa, pressionando-o a se embebedar, a fim de veres a sua nudez!' ^v15
 
-**16** Serás farto de ignomínia em lugar de honra; bebe tu também, e sê como um incircunciso; o cálice da mão direita do Senhor voltará a ti, e ignomínia cairá sobre a tua glória. ^v16
+**16** Tu serás cheio de vergonha, em vez de glória. Agora é tua vez! Bebe, e mostra tua incircuncisão! O cálice da mão direita de Yahweh passará por ti e a desgraça cobrirá a tua glória. ^v16
 
-**17** Porque a violência cometida contra o Líbano te cobrirá, e a destruição das feras te amedrontará, por causa do sangue dos homens, e da violência feita à terra, à cidade, e a todos os que nela habitam. ^v17
+**17** A violência feita ao Líbano te cobrirá, e a destruição dos animais te aterrorizará, porque derramaste sangue humano, e procedeste com violência contra a terra, contra as cidades e contra todos seus habitantes. ^v17
 
-**18** Que aproveita a imagem de escultura, depois que a esculpiu o seu artífice? Ela é imagem de fundição que ensina mentira, para que quem a formou confie na sua obra, fazendo ídolos mudos? ^v18
+**18** Qual proveito tem a figura esculpida para ti? Pois, aquele que a esculpiu ou quem molda a figura do metal fundido é um professor de mentiras; porque ele confia na obra de suas próprias mãos, quando faz esses deuses mudos. ^v18
 
-**19** Ai daquele que diz ao pau: Acorda! e à pedra muda: Desperta! Pode isso ensinar? Eis que está coberta de ouro e de prata, mas dentro dela não há espírito algum. ^v19
+**19** 'Ai daquele que diz à madeira: Desperta! Ou à pedra muda: Levanta-te!' Por acaso essas coisas ensinam? Vê! Estão cobertas de ouro e de prata, mas não há fôlego algum nelas. ^v19
 
-**20** Mas o Senhor está no seu santo templo; cale-se diante dele toda a terra. ^v20
+**20** "Porém, Yahweh está no Seu santo templo! Que toda a terra se cale diante Dele.""" ^v20

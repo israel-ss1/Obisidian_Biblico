@@ -1,109 +1,108 @@
 ---
-Livro: "[[1 Reis|1 Reis]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/1 Reis|1 Reis]]"
+tags: [biblia]
 ---
 
 # 1 Reis 7
 
-**1** Porém a sua casa edificou Salomão em treze anos; e acabou toda a sua casa. ^v1
+**1** Salomão levou treze anos para construir seu próprio palácio. ^v1
 
-**2** Também edificou a casa do bosque do Líbano de cem côvados de comprimento, e de cinqüenta côvados de largura, e de trinta côvados de altura, sobre quatro ordens de colunas de cedro, e vigas de cedro sobre as colunas. ^v2
+**2** Ele construiu o palácio do bosque do Líbano. Sua medida era cem côvados de comprimento, cinquenta de largura e trinta de altura. O palácio foi construído sobre quatro fileiras de pilares de cedro com vigas de cedro sobre os pilares. ^v2
 
-**3** E por cima estava coberta de cedro sobre as vigas, que estavam sobre quarenta e cinco colunas, quinze em cada ordem. ^v3
+**3** A cobertura da casa foi feita com cedro apoiado sobre vigas. Essas vigas eram sustentadas por pilares. Havia quarenta e cinco vigas, quinze sucessivamente. ^v3
 
-**4** E havia três ordens de janelas; e uma janela estava defronte da outra janela, em três ordens. ^v4
+**4** Havia três vigas em três fileiras, e cada janela ficava oposta a outra janela, em três conjuntos. ^v4
 
-**5** Também todas as portas e ombreiras quadradas eram de uma mesma vista; e uma janela estava defronte da outra, em três ordens. ^v5
+**5** Todas as portas e postes eram quadrados; e janela era oposta à janela, em cada conjunto. ^v5
 
-**6** Depois fez um pórtico de colunas de cinqüenta côvados de comprimento e de trinta côvados de largura; e o pórtico estava defronte delas, e as colunas com as grossas vigas defronte delas. ^v6
+**6** Havia um pátio de cinquenta côvados de comprimento, com um pórtico na frente e pilares e um teto. ^v6
 
-**7** Também fez o pórtico para o trono onde julgava, isto é, o pórtico do juízo, que estava revestido de cedro de soalho a soalho. ^v7
+**7** Salomão construiu a sala do trono onde ele ficava para julgar, ísto é, a sala da justiça que era coberta com cedro desde o chão até às vigas. ^v7
 
-**8** E em sua casa, em que morava, havia outro pátio, por dentro do pórtico, de obra semelhante à deste; também para a filha de Faraó, que Salomão tomara por mulher, fez uma casa semelhante àquele pórtico. ^v8
+**8** A casa residencial de Salomão, em outro pátio dentro do recinto do palácio, foi projetada de maneira similar. Ele também construiu uma casa semelhante para a filha do Faraó, a quem ele havia tomado como esposa. ^v8
 
-**9** Todas estas coisas eram de pedras de grande valor, cortadas à medida, serradas à serra por dentro e por fora; e isto desde o fundamento até às beiras do teto, e por fora até ao grande pátio. ^v9
+**9** Essas edificações eram adornadas com valiosas pedras lavradas, de medidas exatas, e cortadas com uma serra, e polidas em todos os lados. Essas pedras foram usadas desde o alicerce até as pedras no topo, e também no lado de fora para o grande átrio. ^v9
 
-**10** Também estava fundado sobre pedras finas, pedras grandes; sobre pedras de dez côvados e pedras de oito côvados. ^v10
+**10** Os alicerces foram construídos com enormes pedras de alto custo de oito e dez côvados de comprimento. ^v10
 
-**11** E em cima delas pedras de grande valor, lavradas segundo as medidas, e madeira de cedro. ^v11
+**11** Por cima, ficavam valiosas pedras lavradas, cortadas sob medida, e vigas de cedro. ^v11
 
-**12** Havia três ordens de pedras lavradas, com uma ordem de vigas de cedro; assim era também o pátio interior da casa do Senhor e o pórtico daquela casa. ^v12
+**12** O grande pátio que cercava o palácio tinha três fileiras de pedras cortadas e uma fileira de vigas de cedro, como no pátio interior do templo de Yahweh e no pórtico do templo. ^v12
 
-**13** E enviou o rei Salomão um mensageiro e mandou trazer a Hirão de Tiro. ^v13
+**13** O rei Salomão mandou trazer Hirão, de Tiro. ^v13
 
-**14** Era ele filho de uma mulher viúva, da tribo de Naftali, e fora seu pai um homem de Tiro, que trabalhava em cobre; e era cheio de sabedoria, e de entendimento, e de ciência para fazer toda a obra de cobre; este veio ao rei Salomão, e fez toda a sua obra. ^v14
+**14** Hirão era o filho de uma viúva na tribo de Naftali; seu pai era um homem de Tiro, um artesão em bronze. Hirão era cheio de sabedoria, entendimento e habilidade para fazer um bom trabalho com bronze. Ele veio ao rei Salomão para trabalhar com bronze para o rei. ^v14
 
-**15** E formou duas colunas de cobre; a altura de cada coluna era de dezoito côvados, e um fio de doze côvados cercava cada uma das colunas. ^v15
+**15** Hirão fez os dois pilares de bronze, cada um com dezoito côvados de altura e doze côvados de circunferência. ^v15
 
-**16** Também fez dois capitéis de fundição de cobre para pôr sobre as cabeças das colunas; de cinco côvados era a altura de um capitel, e de cinco côvados a altura do outro capitel. ^v16
+**16** Ele fez dois acabamentos de bronze polido para colocar no alto dos pilares. A altura de cada acabamento era de cinco côvados. ^v16
 
-**17** As redes eram de malhas, as ligas de obra de cadeia para os capitéis que estavam sobre a cabeça das colunas, sete para um capitel e sete para o outro capitel. ^v17
+**17** Haviam treliças e correntes entrelaçadas para os acabamentos que decoravam o alto dos pilares, sete para cada acabamento. ^v17
 
-**18** Assim fez as colunas, juntamente com duas fileiras em redor sobre uma rede, para cobrir os capitéis que estavam sobre a cabeça das romãs, assim também fez com o outro capitel. ^v18
+**18** Então Hirão fez duas fileiras de romãs de bronze em volta do topo de cada pilar para decorar os acabamentos. ^v18
 
-**19** E os capitéis que estavam sobre a cabeça das colunas eram de obra de lírios no pórtico, de quatro côvados. ^v19
+**19** Os acabamentos no topo dos pilares do pátio eram decorados com lírios de bronze, de quatro côvados de altura. ^v19
 
-**20** Os capitéis, pois, sobre as duas colunas estavam também defronte, em cima da parte globular que estava junto à rede; e duzentas romãs, em fileiras em redor, estavam também sobre o outro capitel. ^v20
+**20** Os acabamentos ao redor dos dois pilares também incluíam, perto do topo, uma fileira de duzentas romãs de bronze. ^v20
 
-**21** Depois levantou as colunas no pórtico do templo; e levantando a coluna direita, pôs-lhe o nome de Jaquim; e levantando a coluna esquerda, pôs-lhe o nome de Boaz. ^v21
+**21** Ele levantou os pilares do pátio do templo. O pilar da direita foi chamado de Jaquim e o da esquerda foi chamado Boaz. ^v21
 
-**22** E sobre a cabeça das colunas estava a obra de lírios; e assim se acabou a obra das colunas. ^v22
+**22** Os topos dos pilares foram decorados com lírios de bronze. O trabalho dos pilares foi concluído dessa maneira. ^v22
 
-**23** Fez mais o mar de fundição, de dez côvados de uma borda até à outra borda, perfeitamente redondo, e de cinco côvados de alto; e um cordão de trinta côvados o cingia em redor. ^v23
+**23** Hirão fez um tanque de metal, dez côvados de diâmetro. Sua altura era de cinco côvados e o tanque tinha trinta côvados de circunferência. ^v23
 
-**24** E por baixo da sua borda em redor havia botões que o cingiam; por dez côvados cercavam aquele mar em redor; duas ordens destes botões foram fundidas quando o mar foi fundido. ^v24
+**24** Abaixo da borda do tanque, a cada dez côvados, ao longo de sua circunferência, foram fundidas flores e frutos de cabaça, juntas em uma só peça, quando o tanque foi feito. ^v24
 
-**25** E firmava-se sobre doze bois, três que olhavam para o norte, e três que olhavam para o ocidente, e três que olhavam para o sul, e três que olhavam para o oriente; e o mar estava em cima deles, e todas as suas partes posteriores para o lado de dentro. ^v25
+**25** O tanque se apoiava em doze bois, três olhando em direção ao norte, três olhando em direção ao oeste, três voltados em direção ao sul e três voltados em direção ao leste. O tanque estava em cima deles e suas ancas estavam para dentro. ^v25
 
-**26** E a grossura era de um palmo, e a sua borda era como a de um copo, como de flor de lírios; ele levava dois mil batos. ^v26
+**26** O tanque tinha quatro dedos de espessura e sua borda era como a borda de um copo, como uma flor de lírio. O tanque tinha capacidade para dois mil batos de água. ^v26
 
-**27** Fez também as dez bases de cobre; o comprimento de uma base de quatro côvados, e de quatro côvados a sua largura, e três côvados a sua altura. ^v27
+**27** Hirão fez os dez suportes de bronze. Cada suporte tinha quatro côvados de comprimento, quatro de largura e três de altura. ^v27
 
-**28** E esta era a obra das bases; tinham cintas, e as cintas estavam entre as molduras. ^v28
+**28** O trabalho dos suportes era assim: tinham painéis que estavam fixados entre molduras, ^v28
 
-**29** E sobre as cintas que estavam entre as molduras havia leões, bois, e querubins, e sobre as molduras uma base por cima; e debaixo dos leões e dos bois junturas de obra estendida. ^v29
+**29** e, nos painéis e nas molduras, havia leões, bois e querubins. Acima e abaixo dos leões e bois, havia grinaldas esculpidas. ^v29
 
-**30** E uma base tinha quatro rodas de metal, e lâminas de cobre; e os seus quatro cantos tinham suportes; debaixo da pia estavam estes suportes fundidos, do lado de cada uma das junturas. ^v30
+**30** Cada suporte tinha quatro rodas e eixos de bronze e seus quatro cantos tinham apoio para a bacia. Os apoios eram fundidos com grinaldas em cada lado. ^v30
 
-**31** E a boca da pia estava dentro da coroa, e de um côvado por cima; e era a sua boca redonda segundo a obra da base, de côvado e meio; e também sobre a sua boca havia entalhes, e as suas cintas eram quadradas, não redondas. ^v31
+**31** A abertura ficava como um pedestal, com um côvado e meio de largura, dentro de uma coroa de um côvado de altura. Na abertura, havia gravuras esculpidas e seus painéis eram quadrados, não redondos. ^v31
 
-**32** E as quatro rodas estavam debaixo das cintas, e os eixos das rodas na base; e era a altura de cada roda de côvado e meio. ^v32
+**32** As quatro rodas ficavam debaixo dos painéis e os eixos das rodas e seus aros ficavam no suporte. A altura de uma roda era de um côvado e meio. ^v32
 
-**33** E era a obra das rodas como a obra da roda de carro; seus eixos, e suas cambas e seus cubos, e seus raios, todos eram fundidos. ^v33
+**33** As rodas foram forjadas como as de uma carruagem. Seus eixos, seus aros, seus raios e seus cubos eram todos de metal fundido. ^v33
 
-**34** E havia quatro suportes aos quatro cantos de cada base; seus suportes saíam da base. ^v34
+**34** As quatro alças nos quatro cantos de cada suporte foram forjadas em uma só peça. ^v34
 
-**35** E no alto de cada base havia uma peça redonda de meio côvado de altura; também sobre o alto de cada base havia asas e cintas, que saíam delas. ^v35
+**35** No topo dos suportes havia um cinto redondo de meio côvado de profundidade; no topo do suporte foram anexados apoios e painéis. ^v35
 
-**36** E nas placas de seus esteios e nas suas cintas lavrou querubins, leões, e palmas, segundo o espaço de cada uma, e outros adornos em redor. ^v36
+**36** Nas placas dos apoios e dos painéis, Hirão entalhou querubins, leões e palmeiras que cobriam o espaço disponível, circundada com grinaldas. ^v36
 
-**37** Conforme a esta fez as dez bases; todas tinham uma mesma fundição, uma mesma medida, e um mesmo entalhe. ^v37
+**37** Ele fez os dez suportes desta maneira: todos eles foram fundidos nos mesmos moldes, tinham o mesmo tamanho e forma. ^v37
 
-**38** Também fez dez pias de cobre; em cada pia cabiam quarenta batos, e cada pia era de quatro côvados, e sobre cada uma das dez bases estava uma pia. ^v38
+**38** Hirão fez as dez bacias de bronze. Uma bacia podia suportar quarenta batos de água. Cada bacia era de quatro côvados e havia uma bacia em cada um dos dez suportes. ^v38
 
-**39** E pôs cinco bases à direita da casa, e cinco à esquerda da casa; porém o mar pôs ao lado direito da casa para o lado do oriente, da parte do sul. ^v39
+**39** Ele fez cinco suportes voltados para o sul do templo e cinco voltados para o norte. Ele pôs o tanque no canto leste, voltado para o sul do templo. ^v39
 
-**40** Depois fez Hirão as pias, e as pás, e as bacias; e acabou Hirão de fazer toda a obra que fez para o rei Salomão, para a casa do Senhor. ^v40
+**40** Hirão fez as bacias, as pás e as caldeiras. Então ele finalizou toda a obra feita para o rei Salomão no templo de Yahweh: ^v40
 
-**41** A saber: as duas colunas, e os globos dos capitéis que estavam sobre a cabeça das duas colunas; e as duas redes, para cobrir os dois globos dos capitéis que estavam sobre a cabeça das colunas. ^v41
+**41** os dois pilares e os acabamentos em forma de taças que ficavam no topo, e os dois conjuntos de treliças decorativas para cobrir os acabamentos em forma de tigela no topo dos pilares. ^v41
 
-**42** E as quatrocentas romãs para as duas redes, a saber: duas carreiras de romãs para cada rede, para cobrirem os dois globos dos capitéis que estavam em cima das colunas. ^v42
+**42** Ele fez quatrocentas romãs para os dois conjuntos de treliças decorativas: duas fileiras de romãs para cada conjunto de treliça, para cobrir as duas taças de acabamento que estavam nos pilares; dez suportes ^v42
 
-**43** Juntamente com as dez bases, e as dez pias sobre as bases; ^v43
+**43** e dez bacias sobre os suportes. ^v43
 
-**44** Como também um mar, e os doze bois debaixo daquele mar; ^v44
+**44** Ele fez o tanque e os doze bois em baixo dele; ^v44
 
-**45** E os caldeirões, e as pás, e as bacias, e todos estes objetos que fez Hirão para o rei Salomão, para a casa do Senhor, todos eram de cobre polido. ^v45
+**45** também as vasilhas, pás, bacias e todos os outros utensílios. Hirão os fez de bronze polido, para o rei Salomão, para o templo de Yahweh. ^v45
 
-**46** Na planície do Jordão, o rei os fundiu em terra barrenta; entre Sucote e Zaretã. ^v46
+**46** O rei os fez fundir na planície do Jordão, num terreno argiloso entre Sucote e Zaretã. ^v46
 
-**47** E deixou Salomão de pesar todos os objetos, pelo seu excessivo número; nem se averiguou o peso do cobre. ^v47
+**47** Salomão não pesou todos os utensílios pois eram muitos para pesar, por isso o peso do bronze não pôde ser calculado. ^v47
 
-**48** Também fez Salomão todos os objetos que convinham à casa do Senhor; o altar de ouro, e a mesa de ouro, sobre a qual estavam os pães da proposição. ^v48
+**48** Salomão fez de ouro toda a mobília que estava no templo de Yahweh: o altar de ouro e a mesa dos pães da presença. ^v48
 
-**49** E os castiçais, cinco à direita e cinco à esquerda, diante do oráculo, de ouro finíssimo; e as flores, e as lâmpadas, e os espevitadores, também de ouro. ^v49
+**49** Os castiçais, cinco do lado direito e cinco do lado esquerdo, em frente ao santuário interior, eram feitos de ouro puro; e as flores, as lâmpadas e as pinças eram de ouro. ^v49
 
-**50** Como também os vasos, e os apagadores, e as bacias, e as colheres, e os perfumadores, de ouro finíssimo; e as dobradiças para as portas da casa interior para o lugar santíssimo, e as das portas da casa do templo, também de ouro. ^v50
+**50** As taças, os aparadores das lâmpadas, bacias e braseiros eram todos feitos de ouro puro. E também as dobradiças das portas do santuário, que era o Santíssimo Lugar, e as das portas do templo, eram todas feitas de ouro. ^v50
 
-**51** Assim se acabou toda a obra que fez o rei Salomão para a casa do Senhor; então trouxe Salomão as coisas que seu pai Davi havia consagrado; a prata, e o ouro, e os objetos pôs entre os tesouros da casa do Senhor. ^v51
+**51** Dessa maneira, todo o trabalho que o rei Salomão fez pela casa de Yahweh foi finalizado. Então Salomão trouxe as coisas que foram dedicadas a Yahweh por Davi, seu pai, a prata, o ouro, as mobílias e os depositou nos tesouros da casa de Yahweh. ^v51

@@ -1,47 +1,46 @@
 ---
-Livro: "[[Juízes|Juízes]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Juízes|Juízes]]"
+tags: [biblia]
 ---
 
 # Juízes 14
 
-**1** E desceu Sansão a Timnate; e, vendo em Timnate uma mulher das filhas dos filisteus, ^v1
+**1** Sansão desceu a Timnate e ali viu uma mulher, uma das filhas dos filisteus. ^v1
 
-**2** Subiu, e declarou-o a seu pai e a sua mãe, e disse: Vi uma mulher em Timnate, das filhas dos filisteus; agora, pois, tomai-ma por mulher. ^v2
+**2** "Quando retornou, disse a seu pai e à sua mãe: ""Vi uma mulher em Timnate, uma das filhas dos filisteus. Agora, tomai-a para ser minha esposa""." ^v2
 
-**3** Porém seu pai e sua mãe lhe disseram: Não há, porventura, mulher entre as filhas de teus irmãos, nem entre todo o meu povo, para que tu vás tomar mulher dos filisteus, daqueles incircuncisos? E disse Sansão a seu pai: Toma-me esta, porque ela agrada aos meus olhos. ^v3
+**3** "Seu pai e sua mãe lhe disseram: ""Não existe mulher entre as filhas de nossos parentes ou entre todo o nosso povo? Tomarás esposa dentre os incircuncisos filisteus?"". Sansão disse a seu pai: ""Traze-a para mim porque, quando eu a vejo, é ela quem me agrada""." ^v3
 
-**4** Mas seu pai e sua mãe não sabiam que isto vinha do Senhor; pois buscava ocasião contra os filisteus; porquanto naquele tempo os filisteus dominavam sobre Israel. ^v4
+**4** Mas seu pai e sua mãe não sabiam que isso vinha de Yahweh, pois Ele desejava criar conflito com os filisteus porque, naquele tempo, os filisteus dominavam Israel. ^v4
 
-**5** Desceu, pois, Sansão com seu pai e com sua mãe a Timnate; e, chegando às vinhas de Timnate eis que um filho de leão, rugindo, lhe saiu ao encontro. ^v5
+**5** Então, Sansão desceu a Timnate com seus pais, e chegaram às vinhas de Timnate. Ali, um leão novo veio até ele, rugindo. ^v5
 
-**6** Então o Espírito do Senhor se apossou dele tão poderosamente que despedaçou o leão, como quem despedaça um cabrito, sem ter nada na sua mão; porém nem a seu pai nem a sua mãe deu a saber o que tinha feito. ^v6
+**6** O Espírito de Yahweh veio repentinamente sobre Sansão, e ele, sem nada nas mãos, rasgou o leão ao meio, tão facilmente como se rasgasse um cabrito. Porém, não disse nada do que fizera ao seu pai ou à sua mãe. ^v6
 
-**7** E desceu, e falou àquela mulher, e ela agradou aos olhos de Sansão. ^v7
+**7** Depois disso, ele foi e falou com a mulher, e ela foi agradável à vista de Sansão. ^v7
 
-**8** E depois de alguns dias voltou ele para tomá-la; e, apartando-se do caminho para ver o corpo do leão morto, eis que nele havia um enxame de abelhas com mel. ^v8
+**8** Alguns dias depois, quando voltou para casar-se com a mulher, desviou-se do caminho para ver a carcaça do leão; e eis que dentro dela havia um enxame de abelhas e mel. ^v8
 
-**9** E tomou-o nas suas mãos, e foi andando e comendo dele; e foi a seu pai e a sua mãe, e deu-lhes do mel, e comeram; porém não lhes deu a saber que tomara o mel do corpo do leão. ^v9
+**9** Ele raspou o mel com as mãos e foi comendo pelo caminho. Quando aproximou-se de seu pai e de sua mãe, deu-lhes um pouco do mel e eles comeram, mas não lhes disse que havia tirado o mel do que havia sobrado do corpo do leão. ^v9
 
-**10** Descendo, pois, seu pai àquela mulher, fez Sansão ali um banquete; porque assim os moços costumavam fazer. ^v10
+**10** O pai de Sansão desceu para onde estava a mulher, e Sansão deu uma festa ali, pois esse era o costume dos noivos. ^v10
 
-**11** E sucedeu que, como o vissem, trouxeram trinta companheiros para estarem com ele. ^v11
+**11** Assim que os parentes da mulher o avistaram, trouxeram trinta dos seus amigos para estarem com ele. ^v11
 
-**12** Disse-lhes, pois, Sansão: Eu vos darei um enigma para decifrar; e, se nos sete dias das bodas o decifrardes e descobrirdes, eu vos darei trinta lençóis e trinta mudas de roupas. ^v12
+**12** "Sansão disse-lhes: ""Vou contar-lhes um enigma. Se um de vós descobrir e me contar a resposta durante os sete dias da festa, distribuirei trinta vestes de linho e trinta conjuntos de roupas." ^v12
 
-**13** E, se não puderdes decifrar, vós me dareis a mim trinta lençóis e as trinta mudas de roupas. E eles lhe disseram: Dá-nos o teu enigma a decifrar, para que o ouçamos. ^v13
+**13** "Mas, se não me responderdes, então vós me dareis trinta vestes de linho e trinta conjuntos de roupas"". Responderam-lhe: ""Dize-nos o enigma para o ouvirmos""." ^v13
 
-**14** Então lhes disse: Do comedor saiu comida, e do forte saiu doçura. E em três dias não puderam decifrar o enigma. ^v14
+**14** "Ele lhes disse: ""Do que come saiu comida, do forte saiu doçura"". Mas seus convidados não descobriram a resposta em três dias." ^v14
 
-**15** E sucedeu que, ao sétimo dia, disseram à mulher de Sansão: Persuade a teu marido que nos declare o enigma, para que porventura não queimemos a fogo a ti e à casa de teu pai; chamastes-nos aqui para vos apossardes do que é nosso, não é assim? ^v15
+**15** "No quarto dia, disseram à esposa de Sansão: ""Engana teu marido para que nos forneça a resposta do enigma, ou queimaremos a ti e a casa do teu pai. Por acaso nos convidastes aqui para nos empobrecer?”." ^v15
 
-**16** E a mulher de Sansão chorou diante dele, e disse: Tão-somente me desprezas, e não me amas; pois deste aos filhos do meu povo um enigma para decifrar, e ainda não o declaraste a mim. E ele lhe disse: Eis que nem a meu pai nem a minha mãe o declarei, e to declararia a ti? ^v16
+**16** "A mulher de Sansão começou a chorar na frente dele, dizendo: ""Tu me odeias! Tu não me amas! Falaste um enigma a alguns do meu povo, mas não me revelaste a resposta"". Sansão disse-lhe: “Olha aqui, se não revelei nem ao meu pai ou à minha mãe, por que revelaria a ti?""." ^v16
 
-**17** E chorou diante dele os sete dias em que celebravam as bodas; sucedeu, pois, que ao sétimo dia lho declarou, porquanto o importunava; então ela declarou o enigma aos filhos do seu povo. ^v17
+**17** Ela chorou durante os sete dias da sua festa. No sétimo dia, Sansão deu-lhe a resposta porque ela o pressionou muito. E ela contou aos parentes do seu povo. ^v17
 
-**18** Disseram, pois, a Sansão os homens daquela cidade, ao sétimo dia, antes de se pôr o sol: Que coisa há mais doce do que o mel? E que coisa há mais forte do que o leão? E ele lhes disse: Se vós não lavrásseis com a minha novilha, nunca teríeis descoberto o meu enigma. ^v18
+**18** "Então, no sétimo dia, antes do sol se pôr, os homens da cidade responderam a Sansão: ""O que é mais doce do que o mel? O que é mais forte do que um leão?"". Sansão lhes disse: ""Se não tivésseis arado com a minha novilha, não teríeis descoberto a resposta do meu enigma""." ^v18
 
-**19** Então o Espírito do Senhor tão poderosamente se apossou dele, que desceu aos ascalonitas, e matou deles trinta homens, e tomou as suas roupas, e deu as mudas de roupas aos que declararam o enigma; porém acendeu-se a sua ira, e subiu à casa de seu pai. ^v19
+**19** Então, o Espírito de Yahweh veio com poder sobre Sansão. Este desceu a Asquelom e matou trinta homens daquele lugar. Ele tomou despojo de roupas deles, e as deu aos que haviam respondido o enigma. Ardendo em furor, ele subiu para a casa do seu pai. ^v19
 
-**20** E a mulher de Sansão foi dada ao seu companheiro que antes o acompanhava. ^v20
+**20** A mulher de Sansão foi entregue como esposa ao melhor amigo dele. ^v20

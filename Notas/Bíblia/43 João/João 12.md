@@ -1,107 +1,106 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/João|João]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/João|João]]"
+tags: [biblia]
 ---
 
 # João 12
 
-**1** Foi, pois, Jesus seis dias antes da páscoa a betânia, onde estava Lázaro, o que falecera, e a quem ressuscitara dentre os mortos. ^v1
+**1** Seis dias antes da Páscoa, Jesus veio a Betânia, onde estava Lázaro, o qual Ele havia ressuscitado dentre os mortos. ^v1
 
-**2** Fizeram-lhe, pois, ali uma ceia, e Marta servia, e Lázaro era um dos que estavam à mesa com ele. ^v2
+**2** Então, ali fizeram com Ele um jantar, e Marta servia, e Lázaro era um dos que sentaram à mesa com Jesus. ^v2
 
-**3** Então Maria, tomando um arrátel de ungüento de nardo puro, de muito preço, ungiu os pés de Jesus, e enxugou-lhe os pés com os seus cabelos; e encheu-se a casa do cheiro do ungüento. ^v3
+**3** Então, Maria pegou uma libra de perfume feito de puro nardo, muito precioso, ungiu os pés de Jesus com isso, e enxugou-Lhe os pés com seus cabelos; a casa encheu-se com a fragrância do perfume. ^v3
 
-**4** Então, um dos seus discípulos, Judas Iscariotes, filho de Simão, o que havia de traí-lo, disse: ^v4
+**4** Judas Iscariotes, um de Seus discípulos, aquele que O havia de trair, disse: ^v4
 
-**5** Por que não se vendeu este ungüento por trezentos dinheiros e não se deu aos pobres? ^v5
+**5** """Por que este perfume não foi vendido por trezentos denários, e dado aos pobres?""." ^v5
 
-**6** Ora, ele disse isto, não pelo cuidado que tivesse dos pobres, mas porque era ladrão e tinha a bolsa, e tirava o que ali se lançava. ^v6
+**6** Ora, ele disse isso, não por causa do cuidado com os pobres, mas porque era ladrão; ele era encarregado da bolsa do dinheiro, e roubava o que ali se lançava. ^v6
 
-**7** Disse, pois, Jesus: Deixai-a; para o dia da minha sepultura guardou isto; ^v7
+**7** "Jesus disse: ""Deixai-a, ela guardou isto para o dia do meu sepultamento”." ^v7
 
-**8** Porque os pobres sempre os tendes convosco, mas a mim nem sempre me tendes. ^v8
+**8** "Os pobres vós sempre tereis convosco, mas nem sempre tereis a Mim""." ^v8
 
-**9** E muita gente dos judeus soube que ele estava ali; e foram, não só por causa de Jesus, mas também para ver a Lázaro, a quem ressuscitara dentre os mortos. ^v9
+**9** E uma grande multidão de judeus soube que Jesus estava lá, e veio, não apenas por causa de Jesus, mas também para ver Lázaro, a quem Jesus havia ressuscitado dentre os mortos. ^v9
 
-**10** E os principais dos sacerdotes tomaram deliberação para matar também a Lázaro; ^v10
+**10** Os principais sacerdotes conspiraram juntos para também levar Lázaro à morte; ^v10
 
-**11** Porque muitos dos judeus, por causa dele, iam e criam em Jesus. ^v11
+**11** porque foi por causa dele que muitos dos judeus se afastaram e creram em Jesus. ^v11
 
-**12** No dia seguinte, ouvindo uma grande multidão, que viera à festa, que Jesus vinha a Jerusalém, ^v12
+**12** No dia seguinte, uma grande multidão veio para a festa. Quando eles ouviram que Jesus vinha para Jerusalém, ^v12
 
-**13** Tomaram ramos de palmeiras, e saíram-lhe ao encontro, e clamavam: Hosana! Bendito o Rei de Israel que vem em nome do Senhor. ^v13
+**13** "trouxeram ramos de palmeiras, e saíram ao Seu encontro para saudá-Lo, gritando: ""Hosana! Bendito o que vem em Nome do Senhor, o Rei de Israel""." ^v13
 
-**14** E achou Jesus um jumentinho, e assentou-se sobre ele, como está escrito: ^v14
+**14** Jesus encontrou um jumentinho, e montou nele, como está escrito: ^v14
 
-**15** Não temas, ó filha de Sião; eis que o teu Rei vem assentado sobre o filho de uma jumenta. ^v15
+**15** """Não tenhas medo, filha de Sião; eis que teu Rei está vindo, sentado em um jumentinho""." ^v15
 
-**16** Os seus discípulos, porém, não entenderam isto no princípio; mas, quando Jesus foi glorificado, então se lembraram de que isto estava escrito dele, e que isto lhe fizeram. ^v16
+**16** Seus discípulos não entenderam essas coisas a princípio, mas, quando Jesus foi glorificado, então se lembraram de que essas coisas estavam escritas sobre Ele, e que assim fizeram a Ele. ^v16
 
-**17** A multidão, pois, que estava com ele quando Lázaro foi chamado da sepultura, testificava que ele o ressuscitara dentre os mortos. ^v17
+**17** Então, a multidão que estivera com Jesus quando Ele chamou Lázaro para fora do sepulcro e o ressuscitou dentre os mortos, deu testemunho para outros. ^v17
 
-**18** Por isso a multidão lhe saiu ao encontro, porque tinham ouvido que ele fizera este sinal. ^v18
+**18** Foi também por esta razão que a multidão saiu para conhecê-Lo, porque ouviram que Ele havia feito este sinal. ^v18
 
-**19** Disseram, pois, os fariseus entre si: Vedes que nada aproveitais? Eis que toda a gente vai após ele. ^v19
+**19** "Portanto, os fariseus disseram entre si: ""Vede, vós não podeis fazer nada; eis que o mundo tem ido atrás Dele""." ^v19
 
-**20** Ora, havia alguns gregos, entre os que tinham subido a adorar no dia da festa. ^v20
+**20** Entre os que subiram para adorar na festa, estavam alguns gregos. ^v20
 
-**21** Estes, pois, dirigiram-se a Filipe, que era de Betsaida da Galiléia, e rogaram-lhe, dizendo: Senhor, queríamos ver a Jesus. ^v21
+**21** "Esses foram para Filipe, que era de Betsaida na Galileia, e perguntaram-lhe dizendo: ""Senhor, nós desejamos ver Jesus""." ^v21
 
-**22** Filipe foi dizê-lo a André, e então André e Filipe o disseram a Jesus. ^v22
+**22** Filipe foi e falou a André; André foi com Filipe, e falaram a Jesus. ^v22
 
-**23** E Jesus lhes respondeu, dizendo: É chegada a hora em que o Filho do homem há de ser glorificado. ^v23
+**23** "Jesus lhes respondeu, dizendo: ""Chegou a hora do Filho do homem ser glorificado." ^v23
 
-**24** Na verdade, na verdade vos digo que, se o grão de trigo, caindo na terra, não morrer, fica ele só; mas se morrer, dá muito fruto. ^v24
+**24** Em verdade, em verdade, vos digo que, se o grão de trigo que cai na terra não morrer, ele permanece só, mas, se ele morrer, produzirá muito fruto. ^v24
 
-**25** Quem ama a sua vida perdê-la-á, e quem neste mundo odeia a sua vida, guardá-la-á para a vida eterna. ^v25
+**25** Quem ama sua vida a perderá; mas quem odeia sua vida neste mundo a conservará para vida eterna. ^v25
 
-**26** Se alguém me serve, siga-me, e onde eu estiver, ali estará também o meu servo. E, se alguém me servir, meu Pai o honrará. ^v26
+**26** Se alguém quiser Me servir, siga-Me, e onde Eu estiver, lá Meu servo também estará. Se alguém Me serve, Meu Pai o honrará. ^v26
 
-**27** Agora a minha alma está perturbada; e que direi eu? Pai, salva-me desta hora; mas para isto vim a esta hora. ^v27
+**27** Agora, minha alma está angustiada. E o que direi? 'Pai, salva-Me desta hora’?’ Mas por isso vim, para esta hora. ^v27
 
-**28** Pai, glorifica o teu nome. Então veio uma voz do céu que dizia: Já o tenho glorificado, e outra vez o glorificarei. ^v28
+**28** "Pai, glorifica o Teu nome"". Então, uma voz saiu do céu, e disse: ""Já O glorifiquei e novamente O glorificarei""." ^v28
 
-**29** Ora, a multidão que ali estava, e que a ouvira, dizia que havia sido um trovão. Outros diziam: Um anjo lhe falou. ^v29
+**29** "Quando a multidão, que ali estava, ouviu isso, disse que foi um trovão. Outros disseram: ""Um anjo Lhe falou""." ^v29
 
-**30** Respondeu Jesus, e disse: Não veio esta voz por amor de mim, mas por amor de vós. ^v30
+**30** "Jesus respondeu e disse: ""Essa voz não veio por Minha causa, mas por vossa causa." ^v30
 
-**31** Agora é o juízo deste mundo; agora será expulso o príncipe deste mundo. ^v31
+**31** Agora é o julgamento deste mundo, e o príncipe deste mundo será expulso. ^v31
 
-**32** E eu, quando for levantado da terra, todos atrairei a mim. ^v32
+**32** "E quando Eu for levantado da terra, atrairei todos a Mim mesmo""." ^v32
 
-**33** E dizia isto, significando de que morte havia de morrer. ^v33
+**33** Ele disse isso para referir-Se ao tipo de morte do qual morreria. ^v33
 
-**34** Respondeu-lhe a multidão: Nós temos ouvido da lei, que o Cristo permanece para sempre; e como dizes tu que convém que o Filho do homem seja levantado? Quem é esse Filho do homem? ^v34
+**34** "A multidão Lhe respondeu: ""Nós temos ouvido da Lei que o Cristo permanece para sempre. Como Tu dizes: 'O Filho do Homem será levantado?'. Quem é Este Filho do Homem?""." ^v34
 
-**35** Disse-lhes, pois, Jesus: A luz ainda está convosco por um pouco de tempo. Andai enquanto tendes luz, para que as trevas não vos apanhem; pois quem anda nas trevas não sabe para onde vai. ^v35
+**35** "Disse-lhes, então, Jesus: ""Ainda por um pouco mais de tempo a Luz estará entre vós. Caminhai enquanto tendes luz, para que as trevas não vos surpreendam. Quem caminha na escuridão não sabe para onde vai." ^v35
 
-**36** Enquanto tendes luz, crede na luz, para que sejais filhos da luz. Estas coisas disse Jesus e, retirando-se, escondeu-se deles. ^v36
+**36** """Enquanto tendes luz, crede na luz, para que vos torneis filhos da luz"". Jesus disse essas coisas e então partiu, e ocultou-Se deles." ^v36
 
-**37** E, ainda que tinha feito tantos sinais diante deles, não criam nele; ^v37
+**37** Embora Jesus tivesse feito muitos sinais diante deles, eles ainda não creram Nele, ^v37
 
-**38** Para que se cumprisse a palavra do profeta Isaías, que diz: Senhor, quem creu na nossa pregação? E a quem foi revelado o braço do Senhor? ^v38
+**38** "para que se cumprisse a palavra do profeta Isaías, que diz: ""Senhor, quem creu em nossa pregação? E a quem foi revelado o braço do Senhor?""." ^v38
 
-**39** Por isso não podiam crer, entào Isaías disse outra vez: ^v39
+**39** Por essa razão, eles não podiam crer, pois Isaías também disse: ^v39
 
-**40** Cegou-lhes os olhos, e endureceu-lhes o coração, A fim de que não vejam com os olhos, e compreendam no coração, E se convertam, E eu os cure. ^v40
+**40** """Cegou-lhes os olhos, e endureceu-lhes o coração; para que não vejam com os olhos, nem entendam com o coração, e se convertam, e Eu os cure""." ^v40
 
-**41** Isaías disse isto quando viu a sua glória e falou dele. ^v41
+**41** Isaías disse isso porque viu a Sua glória, e falou a respeito Dele. ^v41
 
-**42** Apesar de tudo, até muitos dos principais creram nele; mas não o confessavam por causa dos fariseus, para não serem expulsos da sinagoga. ^v42
+**42** Apesar de tudo, muitos dos líderes acreditaram em Jesus; mas por causa dos fariseus, eles não admitiram isso, para não serem banidos da sinagoga. ^v42
 
-**43** Porque amavam mais a glória dos homens do que a glória de Deus. ^v43
+**43** Eles amavam a glória que vinha das pessoas mais do que a glória que vem de Deus. ^v43
 
-**44** E Jesus clamou, e disse: Quem crê em mim, crê, não em mim, mas naquele que me enviou. ^v44
+**44** "Jesus clamou e disse: ""Quem crê em Mim, crê não somente em Mim, mas também Naquele que Me enviou," ^v44
 
-**45** E quem me vê a mim, vê aquele que me enviou. ^v45
+**45** e o que Me vê, vê Aquele que Me enviou. ^v45
 
-**46** Eu sou a luz que vim ao mundo, para que todo aquele que crê em mim não permaneça nas trevas. ^v46
+**46** Eu vim como luz ao mundo, de modo que todo aquele que crê em Mim não permaneça na escuridão. ^v46
 
-**47** E se alguém ouvir as minhas palavras, e não crer, eu não o julgo; porque eu vim, não para julgar o mundo, mas para salvar o mundo. ^v47
+**47** Se alguém ouve Minhas palavras, mas não as guarda, Eu não o julgo, pois vim, não para julgar o mundo, mas para salvar o mundo. ^v47
 
-**48** Quem me rejeitar a mim, e não receber as minhas palavras, já tem quem o julgue; a palavra que tenho pregado, essa o há de julgar no último dia. ^v48
+**48** Quem Me rejeita e não recebe Minhas palavras, já tem quem o julgue: a Palavra que Eu preguei, essa o julgará no último dia. ^v48
 
-**49** Porque eu não tenho falado de mim mesmo; mas o Pai, que me enviou, ele me deu mandamento sobre o que hei de dizer e sobre o que hei de falar. ^v49
+**49** Pois Eu não falei por Mim mesmo; ao contrário, o Pai que Me enviou, ordenou-Me o que dizer e o que falar. ^v49
 
-**50** E sei que o seu mandamento é a vida eterna. Portanto, o que eu falo, falo-o como o Pai mo tem dito. ^v50
+**50** "Eu sei que Seu mandamento é vida eterna; portanto, o que Eu digo é aquilo que o Pai Me mandou dizer""." ^v50

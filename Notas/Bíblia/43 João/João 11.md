@@ -1,121 +1,120 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/João|João]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/João|João]]"
+tags: [biblia]
 ---
 
 # João 11
 
-**1** Estava, porém, enfermo um certo Lázaro, de betânia, aldeia de Maria e de sua irmã Marta. ^v1
+**1** Certo homem chamado Lázaro estava doente. Ele era de Betânia, povoado de Maria e de sua irmã Marta. ^v1
 
-**2** E Maria era aquela que tinha ungido o Senhor com ungüento, e lhe tinha enxugado os pés com os seus cabelos, cujo irmão Lázaro estava enfermo. ^v2
+**2** Essa era a mesma Maria que havia ungido o Senhor com mirra e secado Seus pés com os cabelos, cujo irmão Lázaro estava doente. ^v2
 
-**3** Mandaram-lhe, pois, suas irmãs dizer: Senhor, eis que está enfermo aquele que tu amas. ^v3
+**3** "As irmãs mandaram uma mensagem a Jesus, que dizia: ""Senhor, aquele a quem amas está doente""." ^v3
 
-**4** E Jesus, ouvindo isto, disse: Esta enfermidade não é para morte, mas para glória de Deus, para que o Filho de Deus seja glorificado por ela. ^v4
+**4** "Quando Jesus ouviu isso, respondeu: ""Essa doença não é para a morte, mas é para a glória de Deus, para que o Filho de Deus seja glorificado por meio dela""." ^v4
 
-**5** Ora, Jesus amava a Marta, e a sua irmã, e a Lázaro. ^v5
+**5** Jesus amava a Marta, a sua irmã e a Lázaro. ^v5
 
-**6** Ouvindo, pois, que estava enfermo, ficou ainda dois dias no lugar onde estava. ^v6
+**6** Quando ouviu falar que Lázaro estava doente, permaneceu mais dois dias no local onde estava. ^v6
 
-**7** Depois disto, disse aos seus discípulos: Vamos outra vez para a Judéia. ^v7
+**7** "Depois disso, disse aos discípulos: ""Vamos outra vez para a Judeia""." ^v7
 
-**8** Disseram-lhe os discípulos: Rabi, ainda agora os judeus procuravam apedrejar-te, e tornas para lá? ^v8
+**8** "Os discípulos Lhe disseram: ""Rabi, os judeus há pouco queriam apedrejar-Te, e mesmo assim queres voltar para lá?""." ^v8
 
-**9** Jesus respondeu: Não há doze horas no dia? Se alguém andar de dia, não tropeça, porque vê a luz deste mundo; ^v9
+**9** "Jesus respondeu: ""O dia não tem doze horas? Se alguém anda de dia, não tropeça, pois vê a luz do dia." ^v9
 
-**10** Mas, se andar de noite, tropeça, porque nele não há luz. ^v10
+**10** "Entretanto, se ele anda à noite, tropeça, porque não há luz nele""." ^v10
 
-**11** Assim falou; e depois disse-lhes: Lázaro, o nosso amigo, dorme, mas vou despertá-lo do sono. ^v11
+**11** "Jesus disse essas coisas e, após dizer isso, disse-lhes: ""Nosso amigo Lázaro dormiu, mas Eu irei lá para acordá-lo de seu sono""." ^v11
 
-**12** Disseram, pois, os seus discípulos: Senhor, se dorme, estará salvo. ^v12
+**12** "Os discípulos disseram-Lhe: ""Senhor, se ele dorme, irá melhorar""." ^v12
 
-**13** Mas Jesus dizia isto da sua morte; eles, porém, cuidavam que falava do repouso do sono. ^v13
+**13** Jesus falava da morte de Lázaro, mas eles pensavam que Jesus estava falando do repouso do sono. ^v13
 
-**14** Então Jesus disse-lhes claramente: Lázaro está morto; ^v14
+**14** "Então, Jesus lhes disse claramente: ""Lázaro está morto." ^v14
 
-**15** E folgo, por amor de vós, de que eu lá não estivesse, para que acrediteis; mas vamos ter com ele. ^v15
+**15** "Por vossa causa, alegro-Me por não ter estado lá, para que creiais. Mas vamos até ele""." ^v15
 
-**16** Disse, pois, Tomé, chamado Dídimo, aos condiscípulos: Vamos nós também, para morrermos com ele. ^v16
+**16** "Então, Tomé, chamado Dídimo, disse aos outros discípulos: ""Vamos também para morrermos com Jesus""." ^v16
 
-**17** Chegando, pois, Jesus, achou que já havia quatro dias que estava na sepultura. ^v17
+**17** Quando Jesus chegou, Ele descobriu que Lázaro já estava no sepulcro havia quatro dias. ^v17
 
-**18** (Ora Betânia distava de Jerusalém quase quinze estádios. ) ^v18
+**18** Betânia era perto de Jerusalém, mais ou menos quinze estádios de distância. ^v18
 
-**19** E muitos dos judeus tinham ido consolar a Marta e a Maria, acerca de seu irmão. ^v19
+**19** Muitos judeus tinham vindo consolar Marta e Maria, por causa de seu irmão. ^v19
 
-**20** Ouvindo, pois, Marta que Jesus vinha, saiu-lhe ao encontro; Maria, porém, ficou assentada em casa. ^v20
+**20** Então Marta, quando soube que Jesus estava vindo, foi até Ele, mas Maria permaneceu em casa. ^v20
 
-**21** Disse, pois, Marta a Jesus: Senhor, se tu estivesses aqui, meu irmão não teria morrido. ^v21
+**21** "Marta, então, disse a Jesus: ""Senhor, se estivesses aqui, meu irmão não teria morrido." ^v21
 
-**22** Mas também agora sei que tudo quanto pedires a Deus, Deus to concederá. ^v22
+**22** "Mesmo agora, eu sei que qualquer coisa que pedires a Deus, Ele Te dará""." ^v22
 
-**23** Disse-lhe Jesus: Teu irmão há de ressuscitar. ^v23
+**23** "Jesus respondeu a ela: ""Teu irmão ressuscitará""." ^v23
 
-**24** Disse-lhe Marta: Eu sei que há de ressuscitar na ressurreição do último dia. ^v24
+**24** "Marta disse: ""Eu sei que ele ressuscitará na ressurreição no último dia""." ^v24
 
-**25** Disse-lhe Jesus: Eu sou a ressurreição e a vida; quem crê em mim, ainda que esteja morto, viverá; ^v25
+**25** "Jesus lhe disse: ""Eu sou a ressurreição e a vida, aquele que crê em Mim, mesmo que morra, viverá," ^v25
 
-**26** E todo aquele que vive, e crê em mim, nunca morrerá. Crês tu isto? ^v26
+**26** "e aquele que vive e crê em Mim nunca morrerá. Crês nisso?""." ^v26
 
-**27** Disse-lhe ela: Sim, Senhor, creio que tu és o Cristo, o Filho de Deus, que havia de vir ao mundo. ^v27
+**27** "Ela Lhe disse: ""Sim, Senhor, eu creio que Tu és o Cristo, o Filho de Deus, que devia vir ao mundo""." ^v27
 
-**28** E, dito isto, partiu, e chamou em segredo a Maria, sua irmã, dizendo: O Mestre está cá, e chama-te. ^v28
+**28** "Ao dizer isso, ela se retirou e chamou Maria à parte, dizendo: ""O Mestre está aqui, e está chamando a ti""." ^v28
 
-**29** Ela, ouvindo isto, levantou-se logo, e foi ter com ele. ^v29
+**29** Quando Maria ouviu isso, levantou-se depressa e foi ao Seu encontro. ^v29
 
-**30** (Pois, Jesus ainda não tinha chegado à aldeia, mas estava no lugar onde Marta o encontrara.) ^v30
+**30** Jesus ainda não havia chegado no povoado, mas ainda estava no local onde Marta O encontrara. ^v30
 
-**31** Vendo, pois, os judeus, que estavam com ela em casa e a consolavam, que Maria apressadamente se levantara e saíra, seguiram-na, dizendo: Vai ao sepulcro para chorar ali. ^v31
+**31** Os judeus que a estavam consolando, ao notarem que Maria se levantou apressadamente e partiu, seguiram-na, pois supunham que ela iria ao sepulcro para ali chorar. ^v31
 
-**32** Tendo, pois, Maria chegado aonde Jesus estava, e vendo-o, lançou-se aos seus pés, dizendo-lhe: Senhor, se tu estivesses aqui, meu irmão não teria morrido. ^v32
+**32** "Maria, então, ao chegar onde Jesus estava, vendo-O, ajoelhou-se aos Seus pés dizendo: ""Senhor, se estivesses aqui, meu irmão não teria morrido""." ^v32
 
-**33** Jesus pois, quando a viu chorar, e também chorando os judeus que com ela vinham, moveu-se muito em espírito, e perturbou-se. ^v33
+**33** Ao vê-la chorar assim, como também os judeus que a acompanhavam, Jesus ficou intensamente comovido em espírito. E, sob o impulso de profunda emoção, ^v33
 
-**34** E disse: Onde o pusestes? Disseram-lhe: Senhor, vem, e vê. ^v34
+**34** "disse-lhes: ""Onde o pusestes?"". Eles responderam: ""Senhor, vem e vê""." ^v34
 
 **35** Jesus chorou. ^v35
 
-**36** Disseram, pois, os judeus: Vede como o amava. ^v36
+**36** "Alguns judeus disseram entre eles: ""Vede como Ele amava Lázaro""." ^v36
 
-**37** E alguns deles disseram: Não podia ele, que abriu os olhos ao cego, fazer também com que este não morresse? ^v37
+**37** "Já outros disseram: ""Não poderia este Homem, que deu vista ao cego, fazer que também este homem não morresse?""." ^v37
 
-**38** Jesus, pois, movendo-se outra vez muito em si mesmo, veio ao sepulcro; e era uma caverna, e tinha uma pedra posta sobre ela. ^v38
+**38** Então Jesus, profundamente comovido, foi até o sepulcro. Era uma caverna com uma grande pedra posta na entrada. ^v38
 
-**39** Disse Jesus: Tirai a pedra. Marta, irmã do defunto, disse-lhe: Senhor, já cheira mal, porque é já de quatro dias. ^v39
+**39** "Jesus disse: ""Tirai a pedra!"". Marta, irmã de Lázaro, o que havia morrido, disse a Jesus: ""Senhor, ele já está em decomposição, pois está morto há quatro dias""." ^v39
 
-**40** Disse-lhe Jesus: Não te hei dito que, se creres, verás a glória de Deus? ^v40
+**40** "Jesus lhe respondeu: Eu não te disse que se creres, verás a glória de Deus?""." ^v40
 
-**41** Tiraram, pois, a pedra de onde o defunto jazia. E Jesus, levantando os olhos para cima, disse: Pai, graças te dou, por me haveres ouvido. ^v41
+**41** "Então, removeram a pedra. Jesus olhou para os céus e disse: ""Pai, agradeço por teres-Me ouvido." ^v41
 
-**42** Eu bem sei que sempre me ouves, mas eu disse isto por causa da multidão que está em redor, para que creiam que tu me enviaste. ^v42
+**42** "Eu sei que sempre Me ouves, mas é por causa da multidão que está em pé à minha volta que Eu disse isso, para que creiam que Me enviaste""." ^v42
 
-**43** E, tendo dito isto, clamou com grande voz: Lázaro, sai para fora. ^v43
+**43** "Depois de dizer essas coisas, Jesus exclamou em alta voz: ""Lázaro, vem para fora!""." ^v43
 
-**44** E o defunto saiu, tendo as mãos e os pés ligados com faixas, e o seu rosto envolto num lenço. Disse-lhes Jesus: Desligai-o, e deixai-o ir. ^v44
+**44** "O morto saiu com as mãos e os pés enfaixados, e o rosto coberto por um pano. Jesus ordenou-lhes: ""Desamarrai-o e deixai-o ir""." ^v44
 
-**45** Muitos, pois, dentre os judeus que tinham vindo a Maria, e que tinham visto o que Jesus fizera, creram nele. ^v45
+**45** Então, muitos dos judeus que vieram visitar Maria, e viram o que Jesus fez, creram Nele; ^v45
 
-**46** Mas alguns deles foram ter com os fariseus, e disseram-lhes o que Jesus tinha feito. ^v46
+**46** mas alguns deles foram até os fariseus, e contaram-lhes as coisas que Jesus havia feito. ^v46
 
-**47** Depois os principais dos sacerdotes e os fariseus formaram conselho, e diziam: Que faremos? porquanto este homem faz muitos sinais. ^v47
+**47** "Então, os principais sacerdotes e os fariseus reuniram no Sinédrio, e disseram: ""Que faremos? Esse Homem está fazendo muitos sinais milagrosos." ^v47
 
-**48** Se o deixamos assim, todos crerão nele, e virão os romanos, e tirar-nos-ão o nosso lugar e a nação. ^v48
+**48** "Se O deixarmos assim, muitos crerão Nele; então, os romanos virão e nos tirarão o nosso lugar e a nossa nação""." ^v48
 
-**49** E Caifás, um deles que era sumo sacerdote naquele ano, lhes disse: Vós nada sabeis, ^v49
+**49** "Entretanto, um deles, chamado Caifás, que naquele ano era o sumo sacerdote, tomou a palavra e disse-lhes: ""Vós não sabeis de nada." ^v49
 
-**50** Nem considerais que nos convém que um homem morra pelo povo, e que não pereça toda a nação. ^v50
+**50** "Não estais levando em conta o fato de que é melhor para vós que um homem morra pelo povo, do que perecer a toda uma nação""." ^v50
 
-**51** Ora ele não disse isto de si mesmo, mas, sendo o sumo sacerdote naquele ano, profetizou que Jesus devia morrer pela nação. ^v51
+**51** Ele não havia dito aquilo dele mesmo, mas, por ser o sumo sacerdote naquele ano, profetizou que Jesus morreria pela nação. ^v51
 
-**52** E não somente pela nação, mas também para reunir em um corpo os filhos de Deus que andavam dispersos. ^v52
+**52** E não somente pela nação, mas também pelos filhos de Deus, que estão espalhados, para os reunir em um só povo. ^v52
 
-**53** Desde aquele dia, pois, consultavam-se para o matarem. ^v53
+**53** Então, daquele dia em diante, resolveram planejar como matar Jesus. ^v53
 
-**54** Jesus, pois, já não andava manifestamente entre os judeus, mas retirou-se dali para a terra junto do deserto, para uma cidade chamada Efraim; e ali ficou com os seus discípulos. ^v54
+**54** Jesus não andava mais em público entre os judeus, mas retirou-Se para o interior, em uma região próxima do deserto, em um povoado chamado Efraim, onde Ele ficou com os Seus discípulos. ^v54
 
-**55** E estava próxima a páscoa dos judeus, e muitos daquela região subiram a Jerusalém antes da páscoa para se purificarem. ^v55
+**55** A Páscoa dos judeus estava próxima, e muitos foram daquele lugar para Jerusalém, a fim de se purificarem. ^v55
 
-**56** Buscavam, pois, a Jesus, e diziam uns aos outros, estando no templo: Que vos parece? Não virá à festa? ^v56
+**56** "Então, eles procuravam Jesus, e diziam uns aos outros no templo: ""Que vos parece? Será que Ele não virá à festa?""." ^v56
 
-**57** Ora, os principais dos sacerdotes e os fariseus tinham dado ordem para que, se alguém soubesse onde ele estava, o denunciasse, para o prenderem. ^v57
+**57** Os chefes dos sacerdotes e os fariseus haviam ordenado que, se alguém soubesse onde Jesus estava, que O denunciasse, para que eles O prendessem. ^v57

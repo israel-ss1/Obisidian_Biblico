@@ -1,55 +1,54 @@
 ---
-Livro: "[[Levítico|Levítico]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Levítico|Levítico]]"
+tags: [biblia]
 ---
 
 # Levítico 9
 
-**1** E aconteceu, ao dia oitavo, que Moisés chamou a Arão e seus filhos, e os anciãos de Israel, ^v1
+**1** No oitavo dia, Moisés chamou Arão, seus filhos e os anciãos de Israel. ^v1
 
-**2** E disse a Arão: Toma um bezerro, para expiação do pecado, e um carneiro para holocausto, sem defeito; e traze-os perante o Senhor. ^v2
+**2** "Ele disse a Arão: ""Toma um bezerro do rebanho para uma oferta pelo pecado e um carneiro sem defeito para o holocausto, e oferece-os perante Yahweh." ^v2
 
-**3** Depois falarás aos filhos de Israel, dizendo: Tomai um bode para expiação do pecado, e um bezerro, e um cordeiro de um ano, sem defeito, para holocausto; ^v3
+**3** Tu deverás falar ao povo de Israel e dizer: 'Tomai um bode para uma oferta pelo pecado, e um bezerro e um cordeiro, ambos de um ano e sem defeito, para holocausto; ^v3
 
-**4** Também um boi e um carneiro por sacrifício pacífico, para sacrificar perante o Senhor, e oferta de alimentos, amassada com azeite; porquanto hoje o Senhor vos aparecerá. ^v4
+**4** "e tomai também um boi e um carneiro para a oferta pacífica, para sacrificar diante de Yahweh, e uma oferta de cereais misturada com azeite. Porque hoje Yahweh aparecerá a vós""." ^v4
 
-**5** Então trouxeram o que ordenara Moisés, diante da tenda da congregação, e chegou-se toda a congregação e se pôs perante o Senhor. ^v5
+**5** Então eles trouxeram tudo quanto Moisés ordenou para a tenda da congregação, e toda a comunidade de Israel se aproximou e se postou de pé diante de Yahweh. ^v5
 
-**6** E disse Moisés: Esta é a coisa que o Senhor ordenou que fizésseis; e a glória do Senhor vos aparecerá. ^v6
+**6** "Depois, disse Moisés: ""Isso é o que Yahweh vos ordenou para fazer, e então a glória Dele poderá aparecer a vós""." ^v6
 
-**7** E disse Moisés a Arão: Chega-te ao altar, e faze a tua expiação de pecado e o teu holocausto; e faze expiação por ti e pelo povo; depois faze a oferta do povo, e faze expiação por eles, como ordenou o Senhor. ^v7
+**7** "Moisés disse a Arão: ""Vem para perto do altar e oferece tua oferta pelo pecado e o holocausto. Faz expiação para ti mesmo e para o povo, e oferece o sacrifício pelo povo, para fazer expiação por si mesmo, assim como Yahweh ordenou""." ^v7
 
-**8** Então Arão se chegou ao altar, e degolou o bezerro da expiação que era por si mesmo. ^v8
+**8** Arão foi para perto do altar e sacrificou o bezerro para a oferta pelo pecado, que era por si mesmo. ^v8
 
-**9** E os filhos de Arão trouxeram-lhe o sangue, e molhou o seu dedo no sangue, e o pôs sobre as pontas do altar; e o restante do sangue derramou à base do altar. ^v9
+**9** Os filhos de Arão lhe apresentaram o sangue, e, então, ele molhou seu dedo no sangue e o colocou sobre os chifres do altar. Depois, derramou o sangue na base do altar. ^v9
 
-**10** Mas a gordura, e os rins, e o redenho do fígado de expiação do pecado, queimou sobre o altar, como o Senhor ordenara a Moisés. ^v10
+**10** Todavia, ele queimou a gordura, os rins e a gordura que cobria o fígado no altar, como uma oferta pelo pecado, assim como Yahweh ordenara a Moisés. ^v10
 
-**11** Porém a carne e o couro queimou com fogo fora do arraial. ^v11
+**11** E queimou a carne e o couro fora do acampamento. ^v11
 
-**12** Depois degolou o holocausto, e os filhos de Arão lhe entregaram o sangue, e espargiu-o sobre o altar em redor. ^v12
+**12** Arão sacrificou o holocausto, e seus filhos lhe deram o sangue, o qual ele respingou por todos os lados do altar. ^v12
 
-**13** Também lhe entregaram o holocausto nos seus pedaços, com a cabeça; e queimou-o sobre o altar. ^v13
+**13** Depois, eles lhe deram o holocausto, pedaço por pedaço, junto com a cabeça, e ele os queimou no altar. ^v13
 
-**14** E lavou a fressura e as pernas, e as queimou sobre o holocausto no altar. ^v14
+**14** Então, lavou as vísceras e as pernas e as queimou sobre o holocausto no altar. ^v14
 
-**15** Depois fez chegar a oferta do povo, e tomou o bode da expiação do pecado, que era pelo povo, e o degolou, e o preparou por expiação do pecado, como o primeiro. ^v15
+**15** Arão apresentou o sacrifício pelo povo — um bode — e depois o tomou como um sacrifício pelos seus pecados e o matou; ele o sacrificou pelo pecado, da mesma forma como fez com o primeiro. ^v15
 
-**16** Fez também chegar o holocausto, e ofereceu-o segundo o rito. ^v16
+**16** Apresentou o holocausto e o ofereceu como Yahweh havia ordenado. ^v16
 
-**17** E fez chegar a oferta de alimentos, e a sua mão encheu dela, e queimou-a sobre o altar, além do holocausto da manhã. ^v17
+**17** Ele apresentou a oferta de cereais e encheu sua mão com ela e a queimou no altar, juntamente com o holocausto da manhã. ^v17
 
-**18** Depois degolou o boi e o carneiro em sacrifício pacífico, que era pelo povo; e os filhos de Arão entregaram-lhe o sangue, que espargiu sobre o altar em redor. ^v18
+**18** Ele também sacrificou o boi e o carneiro, o sacrifício para oferta pacífica pelo povo. Os filhos de Arão lhe deram o sangue, o qual ele respingou em todos os lados do altar. ^v18
 
-**19** Como também a gordura do boi e do carneiro, a cauda, e o que cobre a fressura, e os rins, e o redenho do fígado. ^v19
+**19** Todavia, retiraram a gordura do boi e do carneiro, a cauda gorda, a gordura que cobre as vísceras, os rins e a gordura que cobria o fígado. ^v19
 
-**20** E puseram a gordura sobre os peitos, e queimou a gordura sobre o altar; ^v20
+**20** Eles pegaram as partes que haviam sido retiradas e as colocaram sobre os peitos, e Arão queimou a gordura no altar. ^v20
 
-**21** Mas os peitos e a espádua direita Arão ofereceu por oferta movida perante o Senhor, como Moisés tinha ordenado. ^v21
+**21** Arão ergueu os peitos e a coxa direita para o alto como uma oferta diante de Yahweh e a apresentou a Ele, assim como Moisés havia ordenado. ^v21
 
-**22** Depois Arão levantou as suas mãos ao povo e o abençoou; e desceu, havendo feito a expiação do pecado, e o holocausto, e a oferta pacífica. ^v22
+**22** Então, Arão levantou suas mãos em direção ao povo, e o abençoou. Depois de oferecer a oferta pelo pecado, o holocausto, e a oferta pacífica, ele desceu. ^v22
 
-**23** Então entraram Moisés e Arão na tenda da congregação; depois saíram, e abençoaram ao povo; e a glória do Senhor apareceu a todo o povo. ^v23
+**23** Moisés e Arão entraram na Tenda do Encontro, e depois saíram de novo e abençoaram o povo, e a glória de Yahweh apareceu para todos eles. ^v23
 
-**24** Porque o fogo saiu de diante do Senhor, e consumiu o holocausto e a gordura, sobre o altar; o que vendo todo o povo, jubilaram e caíram sobre as suas faces. ^v24
+**24** Saiu fogo de Yahweh e consumiu o holocausto e a gordura no altar. Quando todo o povo viu isso, eles gritaram e se prostraram, com o rosto no chão. ^v24

@@ -1,111 +1,110 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Marcos|Marcos]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Marcos|Marcos]]"
+tags: [biblia]
 ---
 
 # Marcos 10
 
-**1** E, levantando-se dali, foi para os termos da Judéia, além do Jordão, e a multidão se reuniu em torno dele; e tornou a ensiná-los, como tinha por costume. ^v1
+**1** Jesus deixou aquele lugar e foi para a região da Judeia, para além do rio Jordão; e as multidões vieram a Ele novamente. Ele os ensinava, como tinha por costume. ^v1
 
-**2** E, aproximando-se dele os fariseus, perguntaram-lhe, tentando-o: É lícito ao homem repudiar sua mulher? ^v2
+**2** "Os fariseus se aproximaram e para testá-Lo perguntaram: ""É lícito ao marido divorciar-se de sua esposa?""." ^v2
 
-**3** Mas ele, respondendo, disse-lhes: Que vos mandou Moisés? ^v3
+**3** "Ele respondeu: ""O que vos ordenou Moisés?""." ^v3
 
-**4** E eles disseram: Moisés permitiu escrever carta de divórcio e repudiar. ^v4
+**4** "Eles disseram: ""Moisés permitiu ao homem escrever uma certidão de divórcio e, então, repudiar a esposa""." ^v4
 
-**5** E Jesus, respondendo, disse-lhes: Pela dureza dos vossos corações vos deixou ele escrito esse mandamento; ^v5
+**5** "Jesus, então, lhes disse: ""Foi por causa de vossos corações endurecidos que Moisés escreveu essa lei." ^v5
 
-**6** Porém, desde o princípio da criação, Deus os fez macho e fêmea. ^v6
+**6** Mas, desde o início da criação, 'Deus os fez macho e fêmea’. ^v6
 
-**7** Por isso deixará o homem a seu pai e a sua mãe, e unir-se-á a sua mulher, ^v7
+**7** ‘Por esse motivo o homem deixará seu pai e sua mãe e se unirá à sua esposa ^v7
 
-**8** E serão os dois uma só carne; e assim já não serão dois, mas uma só carne. ^v8
+**8** e os dois se tornarão uma única carne. Então já não são dois, mas uma única carne'. ^v8
 
-**9** Portanto, o que Deus ajuntou não o separe o homem. ^v9
+**9** "Portanto, o que Deus uniu, não separe o homem""." ^v9
 
-**10** E em casa tornaram os discípulos a interrogá-lo acerca disto mesmo. ^v10
+**10** Quando eles estavam em casa, os discípulos mais uma vez Lhe perguntaram sobre isso. ^v10
 
-**11** E ele lhes disse: Qualquer que deixar a sua mulher e casar com outra, adultera contra ela. ^v11
+**11** "Ele disse-lhes: ""Todo aquele que repudiar sua mulher e se casar com outra, comete adultério." ^v11
 
-**12** E, se a mulher deixar a seu marido, e casar com outro, adultera. ^v12
+**12** "Se ela se divorciar de seu marido e se casar com outro homem, ela comete adultério""." ^v12
 
-**13** E traziam-lhe meninos para que lhes tocasse, mas os discípulos repreendiam aos que lhos traziam. ^v13
+**13** Traziam-Lhe suas crianças para que pudesse tocá-las, mas os discípulos os repreendiam. ^v13
 
-**14** Jesus, porém, vendo isto, indignou-se, e disse-lhes: Deixai vir os meninos a mim, e não os impeçais; porque dos tais é o reino de Deus. ^v14
+**14** "Quando Jesus viu isto, ficou indignado, e disse-lhes: ""Deixai as crianças virem até Mim e não as proibais, pois o reino de Deus pertence aos que são semelhantes a elas." ^v14
 
-**15** Em verdade vos digo que qualquer que não receber o reino de Deus como menino, de maneira nenhuma entrará nele. ^v15
+**15** "Verdadeiramente vos digo: Todo aquele que não receber o reino de Deus como uma criança, de modo algum entrará nele""." ^v15
 
-**16** E, tomando-os nos seus braços, e impondo-lhes as mãos, os abençoou. ^v16
+**16** Então, Ele tomou as crianças em Seus braços e as abençoou impondo as mãos sobre elas. ^v16
 
-**17** E, pondo-se a caminho, correu para ele um homem, o qual se ajoelhou diante dele, e lhe perguntou: Bom Mestre, que farei para herdar a vida eterna? ^v17
+**17** "Quando Ele continuou Seu caminho, um homem veio correndo, ajoelhou-se diante Dele e perguntou: ""Bom Mestre, o que farei para herdar a vida eterna?""." ^v17
 
-**18** E Jesus lhe disse: Por que me chamas bom? Ninguém há bom senão um, que é Deus. ^v18
+**18** "E Jesus lhe respondeu: ""Por que Me chamas bom? Ninguém é bom, exceto Deus." ^v18
 
-**19** Tu sabes os mandamentos: Não adulterarás; não matarás; não furtarás; não dirás falso testemunho; não defraudarás alguém; honra a teu pai e a tua mãe. ^v19
+**19** "Tu conheces os mandamentos: 'Não matarás, não cometerás adultério, não roubarás, não darás falso testemunho, não defraudarás, honrarás teu pai e tua mãe'""." ^v19
 
-**20** Ele, porém, respondendo, lhe disse: Mestre, tudo isso guardei desde a minha mocidade. ^v20
+**20** "Disse o homem: ""Mestre, todas essas coisas tenho obedecido desde quando era jovem""." ^v20
 
-**21** E Jesus, olhando para ele, o amou e lhe disse: Falta-te uma coisa: vai, vende tudo quanto tens, e dá-o aos pobres, e terás um tesouro no céu; e vem, toma a cruz, e segue-me. ^v21
+**21** "Jesus olhou para ele e o amou, e disse-lhe: ""Uma coisa te falta; vai, vende tudo o que tens e dá-o aos pobres, e terás um tesouro no céu. Então, vem e segue-Me""." ^v21
 
-**22** Mas ele, pesaroso desta palavra, retirou-se triste; porque possuía muitas propriedades. ^v22
+**22** Mas o homem, desanimado com esta palavra, retirou-se triste porque tinha muitos bens. ^v22
 
-**23** Então Jesus, olhando em redor, disse aos seus discípulos: Quão dificilmente entrarão no reino de Deus os que têm riquezas! ^v23
+**23** "Jesus olhou em volta e disse aos Seus discípulos: ""Como é difícil para os ricos entrar no reino de Deus!""." ^v23
 
-**24** E os discípulos se admiraram destas suas palavras; mas Jesus, tornando a falar, disse-lhes: Filhos, quão difícil é, para os que confiam nas riquezas, entrar no reino de Deus! ^v24
+**24** "Os discípulos estavam admirados com Suas palavras. Mas, Jesus disse-lhes outra vez: ""Filhos, como é difícil entrar no reino de Deus!" ^v24
 
-**25** É mais fácil passar um camelo pelo fundo de uma agulha, do que entrar um rico no reino de Deus. ^v25
+**25** "É mais fácil um camelo passar pelo buraco de uma agulha, do que um rico entrar no Reino de Deus""." ^v25
 
-**26** E eles se admiravam ainda mais, dizendo entre si: Quem poderá, pois, salvar-se? ^v26
+**26** "Eles estavam perplexos e diziam uns aos outros: ""Então, quem pode ser salvo?”." ^v26
 
-**27** Jesus, porém, olhando para eles, disse: Para os homens é impossível, mas não para Deus, porque para Deus todas as coisas são possíveis. ^v27
+**27** "Jesus olhou para eles e disse: ""Para os homens é impossível, mas não para Deus. Porque todas as coisas são possíveis para Deus""." ^v27
 
-**28** E Pedro começou a dizer-lhe: Eis que nós tudo deixamos, e te seguimos. ^v28
+**28** "Pedro começou a dizer-Lhe: ""Eis que nós deixamos tudo para trás e Te seguimos""." ^v28
 
-**29** E Jesus, respondendo, disse: Em verdade vos digo que ninguém há, que tenha deixado casa, ou irmãos, ou irmãs, ou pai, ou mãe, ou mulher, ou filhos, ou campos, por amor de mim e do evangelho, ^v29
+**29** "Jesus respondeu: ""Verdadeiramente vos digo, não há quem tenha deixado casa, irmãos, irmãs, mãe, pai, filhos ou terras por Minha causa e pelo Evangelho" ^v29
 
-**30** Que não receba cem vezes tanto, já neste tempo, em casas, e irmãos, e irmãs, e mães, e filhos, e campos, com perseguições; e no século futuro a vida eterna. ^v30
+**30** que não receba cem vezes mais, agora neste mundo, casas, irmãos, irmãs, mães, filhos, terras, com perseguições; e no mundo que virá, vida eterna. ^v30
 
-**31** Porém muitos primeiros serão derradeiros, e muitos derradeiros serão primeiros. ^v31
+**31** "Mas muitos que são primeiros serão últimos, e os últimos serão primeiros""." ^v31
 
-**32** E iam no caminho, subindo para Jerusalém; e Jesus ia adiante deles. E eles maravilhavam-se, e seguiam-no atemorizados.  E, tornando a tomar consigo os doze, começou a dizer-lhes as coisas que lhe deviam sobrevir, ^v32
+**32** Eles estavam no caminho, subindo para Jerusalém, e Jesus ia à frente deles. Os que O seguiam estavam assustados e tinham medo. Jesus chamou os doze à parte novamente, e começou a dizer-lhes o que aconteceria a Ele em breve: ^v32
 
-**33** Dizendo: Eis que nós subimos a Jerusalém, e o Filho do homem será entregue aos príncipes dos sacerdotes, e aos escribas, e o condenarão à morte, e o entregarão aos gentios. ^v33
+**33** """Eis que estamos subindo para Jerusalém e o Filho do Homem será entregue aos chefes dos sacerdotes e aos escribas. Eles O condenarão à morte e O entregarão aos gentios." ^v33
 
-**34** E o escarnecerão, e açoitarão, e cuspirão nele, e o matarão; e, ao terceiro dia, ressuscitará. ^v34
+**34** "Zombarão Dele, cuspirão Nele, O açoitarão e O matarão. Mas depois de três dias, Ele ressuscitará""." ^v34
 
-**35** E aproximaram-se dele Tiago e João, filhos de Zebedeu, dizendo: Mestre, queremos que nos faças o que te pedirmos. ^v35
+**35** "Tiago e João, filhos de Zebedeu, vieram até Ele e disseram: ""Mestre, queremos que atendas o pedido que Te faremos""." ^v35
 
-**36** E ele lhes disse: Que quereis que vos faça? ^v36
+**36** "Ele lhes disse: ""Que quereis que Eu vos faça?""." ^v36
 
-**37** E eles lhe disseram: Concede-nos que na tua glória nos assentemos, um à tua direita, e outro à tua esquerda. ^v37
+**37** "Eles responderam: ""Permite-nos sentar com o Senhor em Sua glória, um à Tua direita e outro à Tua esquerda""." ^v37
 
-**38** Mas Jesus lhes disse: Não sabeis o que pedis; podeis vós beber o cálice que eu bebo, e ser batizados com o batismo com que eu sou batizado? ^v38
+**38** "Mas Jesus lhes respondeu: ""Não sabeis o que estais pedindo. Vós podeis beber do cálice do qual beberei, ou suportar o batismo com o qual serei batizado?""." ^v38
 
-**39** E eles lhe disseram: Podemos. Jesus, porém, disse-lhes: Em verdade, vós bebereis o cálice que eu beber, e sereis batizados com o batismo com que eu sou batizado; ^v39
+**39** "Eles responderam-Lhe: ""Nós podemos"". Disse-lhes Jesus: ""Do cálice que Eu beber, vós bebereis. E do batismo que Eu sou batizado, vós também sereis batizados." ^v39
 
-**40** Mas, o assentar-se à minha direita, ou à minha esquerda, não me pertence a mim concedê-lo, mas isso é para aqueles a quem está reservado. ^v40
+**40** "Mas não cabe a Mim conceder quem se assenta à Minha direita ou à Minha esquerda, mas é para aqueles a quem isso foi preparado""." ^v40
 
-**41** E os dez, tendo ouvido isto, começaram a indignar-se contra Tiago e João. ^v41
+**41** Quando os outros dez discípulos ouviram sobre isso, ficaram indignados com Tiago e João. ^v41
 
-**42** Mas Jesus, chamando-os a si, disse-lhes: Sabeis que os que julgam ser príncipes dos gentios, deles se assenhoreiam, e os seus grandes usam de autoridade sobre eles; ^v42
+**42** "Jesus chamou-os para Si e disse: ""Vós sabeis que aqueles que são considerados governantes dos gentios os dominam, e os seus altos oficiais exercem autoridade sobre eles." ^v42
 
-**43** Mas entre vós não será assim; antes, qualquer que entre vós quiser ser grande, será vosso serviçal; ^v43
+**43** Mas não deve ser dessa forma entre vós. Aquele que deseja tornar-se grande entre vós, deve ser o vosso servo, ^v43
 
-**44** E qualquer que dentre vós quiser ser o primeiro, será servo de todos. ^v44
+**44** e aquele que deseja ser o primeiro entre vós, deve ser escravo de todos. ^v44
 
-**45** Porque o Filho do homem também não veio para ser servido, mas para servir e dar a sua vida em resgate de muitos. ^v45
+**45** "Pois o Filho do Homem não veio para ser servido, mas para servir e dar a Sua vida em resgate de muitos""." ^v45
 
-**46** E depois, foram para Jericó. E, saindo ele de Jericó com seus discípulos e uma grande multidão, Bartimeu, o cego, filho de Timeu, estava assentado junto do caminho, mendigando. ^v46
+**46** E vieram para Jericó. Saindo Jesus de Jericó com os Seus discípulos e uma grande multidão, um homem chamado Bartimeu, filho de Timeu, um mendigo cego, estava sentado à beira da estrada. ^v46
 
-**47** E, ouvindo que era Jesus de Nazaré, começou a clamar, e a dizer: Jesus, filho de Davi, tem misericórdia de mim. ^v47
+**47** "Ouvindo ele que era Jesus, O Nazareno, que estava chegando, começou a gritar e a dizer: ""Jesus, Filho de Davi, tem compaixão de mim!""." ^v47
 
-**48** E muitos o repreendiam, para que se calasse; mas ele clamava cada vez mais: Filho de Davi! tem misericórdia de mim. ^v48
+**48** "Muitos o censuravam e diziam para que se calasse. Mas ele gritava ainda mais: ""Filho de Davi, tem compaixão de mim!""." ^v48
 
-**49** E Jesus, parando, disse que o chamassem; e chamaram o cego, dizendo-lhe: Tem bom ânimo; levanta-te, que ele te chama. ^v49
+**49** "Jesus parou e ordenou-lhes que o chamassem. Então chamaram o cego, dizendo: ""Coragem! Levanta! Ele te chama""." ^v49
 
-**50** E ele, lançando de si a sua capa, levantou-se, e foi ter com Jesus. ^v50
+**50** Ele lançou fora a sua capa, levantou-se em um salto e veio a Jesus. ^v50
 
-**51** E Jesus, falando, disse-lhe: Que queres que te faça? E o cego lhe disse: Mestre, que eu tenha vista. ^v51
+**51** "Jesus, respondendo-lhe, disse: ""O que queres que Eu te faça?"". O cego Lhe disse: ""Rabi, que eu recupere minha visão""." ^v51
 
-**52** E Jesus lhe disse: Vai, a tua fé te salvou. E logo viu, e seguiu a Jesus pelo caminho. ^v52
+**52** "Jesus disse: ""Vai, a tua fé te curou"". Imediatamente, ele recebeu sua visão e O seguia pelo caminho." ^v52

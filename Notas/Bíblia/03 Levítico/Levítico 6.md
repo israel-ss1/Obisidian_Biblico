@@ -1,67 +1,66 @@
 ---
-Livro: "[[Levítico|Levítico]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Levítico|Levítico]]"
+tags: [biblia]
 ---
 
 # Levítico 6
 
-**1** Falou mais o SENHOR a Moisés, dizendo: ^v1
+**1** Yahweh falou a Moisés, dizendo: ^v1
 
-**2** Quando alguma pessoa pecar, e transgredir contra o Senhor, e negar ao seu próximo o que lhe deu em guarda, ou o que deixou na sua mão, ou o roubo, ou o que reteve violentamente ao seu próximo, ^v2
+**2** """Se alguém pecar e quebrar um mandamento contra Yahweh, como agir falsamente com seu próximo sobre algo emprestado a ele, ou, se ele trapacear ou roubá-lo, ou extorqui-lo," ^v2
 
-**3** Ou que achou o perdido, e o negar com falso juramento, ou fizer alguma outra coisa de todas em que o homem costuma pecar; ^v3
+**3** ou achar algo que ele perdeu e mentir sobre isso, jurando falsamente, ou em qualquer coisa como estas, nas quais as pessoas pecam, ^v3
 
-**4** Será pois que, como pecou e tornou-se culpado, restituirá o que roubou, ou o que reteve violentamente, ou o depósito que lhe foi dado em guarda, ou o perdido que achou, ^v4
+**4** então, ao vir isso à tona, se ele pecou, e for culpado, que restaure o que quer que tenha roubado ou extorquido, ou foi pego de empréstimo por ele ou algo perdido que ele achou. ^v4
 
-**5** Ou tudo aquilo sobre que jurou falsamente; e o restituirá no seu todo, e ainda sobre isso acrescentará o quinto; àquele de quem é o dará no dia de sua expiação. ^v5
+**5** Ou, se ele mentiu sobre qualquer coisa, ele deve restaurar em sua totalidade e deve adicionar um quinto a mais para pagar àquele de quem lhe foi emprestado, no dia em que for declarado culpado. ^v5
 
-**6** E a sua expiação trará ao Senhor: um carneiro sem defeito do rebanho, conforme à tua estimação, para expiação da culpa trará ao sacerdote; ^v6
+**6** Então, ele deve trazer sua oferta pela culpa a Yahweh: um carneiro sem defeito do rebanho, que tenha o mesmo valor, como uma oferta pela culpa, será trazida ao sacerdote. ^v6
 
-**7** E o sacerdote fará expiação por ela diante do Senhor, e será perdoada de qualquer das coisas que fez, tornando-se culpada. ^v7
+**7** "O sacerdote fará expiação por ele diante de Yahweh, e ele será perdoado do pecado que o tornará culpado""." ^v7
 
-**8** Falou mais o Senhor a Moisés, dizendo: ^v8
+**8** Então, Yahweh falou a Moisés, dizendo: ^v8
 
-**9** Dá ordem a Arão e a seus filhos, dizendo: Esta é a lei do holocausto; o holocausto será queimado sobre o altar toda a noite até pela manhã, e o fogo do altar arderá nele. ^v9
+**9** """Dá ordem a Arão e a seus filhos, dizendo: 'Esta é a lei do holocausto: o holocausto deve estar no coração do altar, por toda a noite até a manhã, e o fogo do altar ficará queimando continuamente." ^v9
 
-**10** E o sacerdote vestirá a sua veste de linho, e vestirá as calças de linho, sobre a sua carne, e levantará a cinza, quando o fogo houver consumido o holocausto sobre o altar, e a porá junto ao altar. ^v10
+**10** O sacerdote colocará suas vestes de linho e também colocará seus calções de linho. Ele apanhará as cinzas que restaram depois que o fogo consumiu o holocausto no altar e as colocará ao lado do altar. ^v10
 
-**11** Depois despirá as suas vestes, e vestirá outras vestes; e levará a cinza fora do arraial para um lugar limpo. ^v11
+**11** Ele tirará suas vestes e colocará novas vestimentas, para levar as cinzas para fora do acampamento a um lugar limpo. ^v11
 
-**12** O fogo que está sobre o altar arderá nele, não se apagará; mas o sacerdote acenderá lenha nele cada manhã, e sobre ele porá em ordem o holocausto e sobre ele queimará a gordura das ofertas pacíficas. ^v12
+**12** O fogo no altar será mantido aceso. Ele não deve ser apagado e o sacerdote queimará lenha sobre o altar toda manhã. Ele colocará a oferta queimada como foi pedido e queimará no altar a gordura das ofertas pacíficas. ^v12
 
-**13** O fogo arderá continuamente sobre o altar; não se apagará. ^v13
+**13** O fogo deve ser mantido aceso no altar continuamente. Não deve ser apagado. ^v13
 
-**14** E esta é a lei da oferta de alimentos: os filhos de Arão a oferecerão perante o Senhor diante do altar. ^v14
+**14** Esta é a lei da oferta de cereais: Os filhos de Arão a oferecerão a Yahweh diante do altar. ^v14
 
-**15** E dela tomará um punhado da flor de farinha, da oferta e do seu azeite, e todo o incenso que estiver sobre a oferta de alimentos; então o acenderá sobre o altar, cheiro suave é isso, por ser memorial ao Senhor. ^v15
+**15** O sacerdote tomará um punhado da farinha mais fina da oferta de cereais e do azeite e do incenso que está sobre a oferta de cereais e ele a queimará no altar como memorial de aroma agradável a Yahweh. ^v15
 
-**16** E o restante dela comerão Arão e seus filhos; ázimo se comerá no lugar santo, no pátio da tenda da congregação o comerão. ^v16
+**16** Arão e seus filhos comerão o que restar da oferta. Isso deve ser comido sem fermento em um lugar santo. Eles o comerão no pátio da Tenda do Encontro. ^v16
 
-**17** Levedado não se cozerá; sua porção é que lhes dei das minhas ofertas queimadas; coisa santíssima é, como a expiação do pecado e como a expiação da culpa. ^v17
+**17** Não deve ser assado com fermento. Eu lhes dei como a parte que lhes cabe de Minhas ofertas queimadas. É coisa santíssima, como oferta pelo pecado e como oferta pela culpa. ^v17
 
-**18** Todo o homem entre os filhos de Arão comerá dela; estatuto perpétuo será para as vossas gerações das ofertas queimadas do Senhor; todo o que as tocar será santo. ^v18
+**18** "Por todo o tempo que virá para as gerações do teu povo, todo homem descendente de Arão pode comer isso como sua porção, tomada das ofertas queimadas a Yahweh. Qualquer que as tocar se tornará sant'""." ^v18
 
-**19** Falou mais o Senhor a Moisés, dizendo: ^v19
+**19** Então, Yahweh falou a Moisés novamente, dizendo: ^v19
 
-**20** Esta é a oferta de Arão e de seus filhos, a qual oferecerão ao Senhor no dia em que ele for ungido; a décima parte de um efa de flor de farinha pela oferta de alimentos contínua; a metade dela pela manhã, e a outra metade à tarde. ^v20
+**20** """Esta é a oferta de Arão e de seus filhos, a qual eles oferecerão a Yahweh no dia em que forem ungidos: a décima parte de um efa da farinha mais fina, como uma oferta queimada contínua, metade dela pela manhã e metade à tarde." ^v20
 
-**21** Numa caçoula se fará com azeite; cozida a trarás; e os pedaços cozidos da oferta oferecerás em cheiro suave ao Senhor. ^v21
+**21** Isso será feito com azeite em uma assadeira. Quando estiver embebido, trarás para dentro. Em pedaços cozidos, tu oferecerás a oferta de cereais como um aroma agradável a Yahweh. ^v21
 
-**22** Também o sacerdote, que de entre seus filhos for ungido em seu lugar, fará o mesmo; por estatuto perpétuo será ela toda queimada ao Senhor. ^v22
+**22** O filho do sumo sacerdote que está se tornando o novo sumo sacerdote dentre seus filhos a oferecerá, como mandamento perpétuo, tudo isso deve ser queimado a Yahweh. ^v22
 
-**23** Assim toda a oferta do sacerdote será totalmente queimada; não se comerá. ^v23
+**23** "Toda oferta queimada do sacerdote será completamente queimada. Não deve ser comida""." ^v23
 
-**24** Falou mais o Senhor a Moisés, dizendo: ^v24
+**24** Yahweh falou a Moisés novamente, dizendo: ^v24
 
-**25** Fala a Arão e a seus filhos, dizendo: Esta é a lei da expiação do pecado; no lugar onde se degola o holocausto se degolará a expiação do pecado perante o Senhor; coisa santíssima é. ^v25
+**25** """Fala a Arão e a seus filhos, dizendo: 'Esta é a lei da oferta pelo pecado: a oferta pelo pecado deve ser sacrificada no lugar onde o holocausto é sacrificado diante de Yahweh; é algo santíssimo." ^v25
 
-**26** O sacerdote que a oferecer pelo pecado a comerá; no lugar santo se comerá, no pátio da tenda da congregação. ^v26
+**26** O sacerdote, que a oferece pelo pecado, a comerá. Ela deve ser comida em um lugar santo, no pátio da Tenda do Encontro. ^v26
 
-**27** Tudo o que tocar a carne da oferta será santo; se o seu sangue for espargido sobre as vestes de alguém, lavarás em lugar santo aquilo sobre o que caiu. ^v27
+**27** Qualquer coisa que tocar a carne da oferta se tornará santa, e, se o sangue for aspergido em alguma roupa, tu deves lavar a parte em que foi aspergido em um lugar santo. ^v27
 
-**28** E o vaso de barro em que for cozida será quebrado; porém, se for cozida num vaso de cobre, esfregar-se-á e lavar-se-á na água. ^v28
+**28** Mas o pote de barro em que for cozida deve ser quebrado. Se for cozida em um pote de bronze, este deve ser esfregado e lavado em água limpa. ^v28
 
-**29** Todo o homem entre os sacerdotes a comerá; coisa santíssima é. ^v29
+**29** Qualquer homem dentre os sacerdotes poderá comer alguma dessas coisas, pois são santíssimas. ^v29
 
-**30** Porém, não se comerá nenhuma oferta pelo pecado, cujo sangue se traz à tenda da congregação, para expiar no santuário; no fogo será queimada. ^v30
+**30** Porém nenhuma oferta pelo pecado deve ser comida, cuja parte do sangue é trazida para dentro da tenda do encontro, para fazer expiação no lugar santo. Esta deve ser queimada. ^v30

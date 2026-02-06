@@ -1,53 +1,52 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Zacarias|Zacarias]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Zacarias|Zacarias]]"
+tags: [biblia]
 ---
 
 # Zacarias 8
 
-**1** Depois veio a mim a palavra do SENHOR dos Exércitos, dizendo: ^v1
+**1** A palavra de Yahweh dos Exércitos veio a mim, dizendo: ^v1
 
-**2** Assim diz o Senhor dos Exércitos: Zelei por Sião com grande zelo, e com grande indignação zelei por ela. ^v2
+**2** """Assim diz Yahweh dos Exércitos: 'Tenho por Sião grande zelo; tenho por ela ardente zelo com grande ira!'" ^v2
 
-**3** Assim diz o Senhor: Voltarei para Sião, e habitarei no meio de Jerusalém; e Jerusalém chamar-se-á a cidade da verdade, e o monte do Senhor dos Exércitos, o monte santo. ^v3
+**3** "Assim diz Yahweh dos Exércitos: 'Voltarei para Sião e viverei no meio de Jerusalém, porque Jerusalém será chamada 'A Cidade da Verdade' e o monte de Yahweh dos Exércitos será chamado 'O Monte Santo!'""." ^v3
 
-**4** Assim diz o Senhor dos Exércitos: Ainda nas praças de Jerusalém habitarão velhos e velhas; levando cada um, na mão, o seu bordão, por causa da sua muita idade. ^v4
+**4** "Assim diz Yahweh dos Exércitos: ""Homens e mulheres idosos voltarão a andar pelas ruas de Jerusalém, cada um com sua bengala por causa da idade avançada." ^v4
 
-**5** E as ruas da cidade se encherão de meninos e meninas, que nelas brincarão. ^v5
+**5** "As ruas da cidade estarão cheias de meninos e meninas brincando nelas""." ^v5
 
-**6** Assim diz o Senhor dos Exércitos: Se isto for maravilhoso aos olhos do restante deste povo naqueles dias, será também maravilhoso aos meus olhos? diz o Senhor dos Exércitos. ^v6
+**6** "Assim diz Yahweh dos Exércitos: ""Se isso parece impossível aos olhos do remanescente deste povo naqueles dias, será que também parece impossível aos Meus olhos?"" — esta é a declaração de Yahweh." ^v6
 
-**7** Assim diz o Senhor dos Exércitos: Eis que salvarei o meu povo da terra do oriente e da terra do ocidente; ^v7
+**7** "Assim diz Yahweh dos Exércitos: ""Eis que estou prestes a resgatar o Meu povo da terra do oriente e da terra do ocidente!" ^v7
 
-**8** E trá-los-ei, e habitarão no meio de Jerusalém; e eles serão o meu povo, e eu lhes serei o seu Deus em verdade e em justiça. ^v8
+**8** "Porque os trarei de volta e viverão no meio de Jerusalém. Assim, voltarão a ser Meu povo e serei Seu Deus em verdade e em retidão!""." ^v8
 
-**9** Assim diz o Senhor dos Exércitos: Esforcem-se as vossas mãos, ó vós que nestes dias ouvistes estas palavras da boca dos profetas, que estiveram no dia em que foi posto o fundamento da casa do Senhor dos Exércitos, para que o templo fosse edificado. ^v9
+**9** "Assim diz Yahweh dos Exércitos: ""Vós que, agora, continuais ouvindo as mesmas palavras que vieram das bocas dos profetas, quando o alicerce da Minha casa foi lançado, fortalecei as vossas mãos para que o templo seja construído." ^v9
 
-**10** Porque antes destes dias não tem havido salário para os homens, nem lhes davam ganhos os animais; nem havia paz para o que entrava nem para o que saía, por causa do inimigo, porque eu incitei a todos os homens, cada um contra o seu próximo. ^v10
+**10** "Porque, antes daqueles dias, ninguém realizou colheita alguma, não havia salário para os homens nem os animais lhes davam ganho, por causa do inimigo, não havia paz para quem saía ou entrava. Coloquei cada um contra o seu próximo""." ^v10
 
-**11** Mas agora não serei para com o restante deste povo como nos primeiros dias, diz o Senhor dos Exércitos. ^v11
+**11** """Mas agora não será como nos dias antigos. Eu estarei com o remanescente deste povo"" — esta é a declaração de Yahweh dos Exércitos." ^v11
 
-**12** Porque haverá semente de prosperidade; a vide dará o seu fruto, e a terra dará a sua novidade, e os céus darão o seu orvalho; e farei que o restante deste povo herde tudo isto. ^v12
+**12** """Porque sementes de paz serão semeadas; a videira dará o seu fruto e a terra dará o seu alimento; os céus darão o seu orvalho, porque farei o remanescente deste povo herdar todas estas coisas""." ^v12
 
-**13** E há de suceder, ó casa de Judá, e casa de Israel, que, assim como fostes uma maldição entre os gentios, assim vos salvarei, e sereis uma bênção; não temais, esforcem-se as vossas mãos. ^v13
+**13** """Casa de Judá e casa de Israel, vós fostes um exemplo de maldição para as outras nações. Então, hei de vos resgatar e sereis uma bênção. Não tenhais medo; fortalecei as vossas mãos!""." ^v13
 
-**14** Porque assim diz o Senhor dos Exércitos: Como pensei fazer-vos mal, quando vossos pais me provocaram à ira, diz o Senhor dos Exércitos, e não me arrependi, ^v14
+**14** "Porque Yahweh dos Exércitos diz: ""assim como planejei lhes fazer mal quando os vossos antepassados provocaram a Minha ira e não voltei atrás, diz Yahweh dos Exércitos," ^v14
 
-**15** Assim tornei a pensar nestes dias fazer o bem a Jerusalém e à casa de Judá; não temais. ^v15
+**15** "assim também planejarei nestes dias fazer, novamente, o bem a Jerusalém e à casa de Judá! Não temais!""." ^v15
 
-**16** Estas são as coisas que deveis fazer: Falai a verdade cada um com o seu próximo; executai juízo de verdade e de paz nas vossas portas. ^v16
+**16** """Eis o que deveis fazer: falar a verdade, cada um ao seu próximo; julgar com verdade, justiça e paz em seus portões;" ^v16
 
-**17** E nenhum de vós pense mal no seu coração contra o seu próximo, nem ameis o juramento falso; porque todas estas são coisas que eu odeio diz o Senhor. ^v17
+**17** "não planejar, em vosso coração, fazer o mal um ao outro; e não amar juramentos falsos — porque abomino essas coisas! — esta é a declaração de Yahweh""." ^v17
 
-**18** E a palavra do Senhor dos Exércitos veio a mim, dizendo: ^v18
+**18** Depois, a palavra de Yahweh dos Exércitos veio a mim, dizendo: ^v18
 
-**19** Assim diz o Senhor dos Exércitos: O jejum do quarto, e o jejum do quinto, e o jejum do sétimo, e o jejum do décimo mês será para a casa de Judá gozo, alegria, e festividades solenes; amai, pois, a verdade e a paz. ^v19
+**19** """Yahweh dos Exércitos diz isto: 'os jejuns, ao quarto mês, ao quinto mês, ao sétimo mês e ao décimo mês, se tornarão tempos de júbilo, alegria e festivais solenes para a casa de Judá! Portanto, ameis a verdade e a paz!'""." ^v19
 
-**20** Assim diz o Senhor dos Exércitos: Ainda sucederá que virão os povos e os habitantes de muitas cidades. ^v20
+**20** "Assim diz Yahweh dos Exércitos: ""o povo retornará, até os que vivem em muitas cidades diferentes." ^v20
 
-**21** E os habitantes de uma cidade irão à outra, dizendo: Vamos depressa suplicar o favor do Senhor, e buscar o Senhor dos Exércitos; eu também irei. ^v21
+**21** Os moradores de uma cidade irão para outra cidade e dirão: 'Vamos, rapidamente, suplicar diante da face de Yahweh e buscar Yahweh dos Exércitos!'. ^v21
 
-**22** Assim virão muitos povos e poderosas nações, a buscar em Jerusalém ao Senhor dos Exércitos, e a suplicar o favor do Senhor. ^v22
+**22** "Muitas pessoas e nações poderosas buscarão Yahweh dos Exércitos em Jerusalém e implorarão pelo favor de Yahweh!""." ^v22
 
-**23** Assim diz o Senhor dos Exércitos: Naquele dia sucederá que pegarão dez homens, de todas as línguas das nações, pegarão, sim, na orla das vestes de um judeu, dizendo: Iremos convosco, porque temos ouvido que Deus está convosco. ^v23
+**23** "Assim diz Yahweh dos Exércitos: ""Naqueles dias, dez homens de cada língua e nação apanharão a bainha da vossa túnica e dirão: 'Deixai que vos acompanhemos, porque ouvimos que Deus é convosco!'""." ^v23

@@ -1,31 +1,30 @@
 ---
-Livro: "[[1 Samuel|1 Samuel]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/1 Samuel|1 Samuel]]"
+tags: [biblia]
 ---
 
 # 1 Samuel 5
 
-**1** Os filisteus, pois, tomaram a arca de Deus e a trouxeram de Ebenézer a Asdode. ^v1
+**1** Os filisteus capturaram a Arca da Aliança e a trouxeram de Ebenézer a Asdode. ^v1
 
-**2** Tomaram os filisteus a arca de Deus, e a colocaram na casa de Dagom, e a puseram junto a Dagom. ^v2
+**2** Eles a levaram para dentro da casa de Dagom e a colocaram ao seu lado. ^v2
 
-**3** Levantando-se, porém, de madrugada no dia seguinte, os de Asdode, eis que Dagom estava caído com o rosto em terra, diante da arca do Senhor; e tomaram a Dagom, e tornaram a pô-lo no seu lugar. ^v3
+**3** Quando as pessoas de Asdode acordaram, no dia seguinte, observaram que Dagom havia caído, com o rosto em terra, diante da Arca de Yahweh. Então, eles o levantaram e o puseram de volta no seu lugar. ^v3
 
-**4** E, levantando-se de madrugada, no dia seguinte, pela manhã, eis que Dagom jazia caído com o rosto em terra diante da arca do Senhor; e a cabeça de Dagom e ambas as palmas das suas mãos estavam cortadas sobre o limiar; somente o tronco ficou a Dagom. ^v4
+**4** Quando acordaram pela manhã do dia seguinte, observaram que Dagom havia caído, com o rosto em terra, diante da Arca de Yahweh. Sua cabeça e ambas as mãos haviam sido cortadas e deixadas na entrada. Somente o tronco de Dagom permaneceu. ^v4
 
-**5** Por isso nem os sacerdotes de Dagom, nem nenhum de todos os que entram na casa de Dagom pisam o limiar de Dagom em Asdode, até ao dia de hoje. ^v5
+**5** Esse é o motivo pelo qual, até hoje, os sacerdotes de Dagom e qualquer um que chegue à sua casa não pisam na entrada da casa de Dagom, em Asdode. ^v5
 
-**6** Porém a mão do Senhor se agravou sobre os de Asdode, e os assolou; e os feriu com hemorróidas, em Asdode e nos seus termos. ^v6
+**6** A mão de Yahweh pesou sobre os habitantes de Asdode. Ele destruiu e afligiu com tumores Asdode juntamente com seus territórios. ^v6
 
-**7** Vendo então os homens de Asdode que assim foi, disseram: Não fique conosco a arca do Deus de Israel; pois a sua mão é dura sobre nós, e sobre Dagom, nosso deus. ^v7
+**7** "Quando os homens de Asdode perceberam o que estava acontecendo, eles disseram: ""A Arca do Deus de Israel não deve ficar conosco, pois Sua mão é dura contra nós e contra Dagom, nosso deus""." ^v7
 
-**8** Por isso enviaram mensageiros e congregaram a si todos os príncipes dos filisteus, e disseram: Que faremos nós da arca do Deus de Israel? E responderam: a arca do Deus de Israel será levada até Gate. Assim levaram para lá a arca do Deus de Israel. ^v8
+**8** "Então, eles mandaram reunir todos os governantes dos filisteus, e lhes disseram: ""O que devemos fazer com a Arca do Deus de Israel?"". Eles responderam: ""Deixe que a Arca do Deus de Israel seja levada para Gate"". E eles carregaram a Arca do Deus de Israel até lá." ^v8
 
-**9** E sucedeu que, assim que a levaram, a mão do Senhor veio contra aquela cidade, com mui grande vexame; pois feriu aos homens daquela cidade, desde o pequeno até ao grande; e tinham hemorróidas nas partes íntimas. ^v9
+**9** Mas, depois que eles a levaram, a mão de Yahweh foi contra a cidade, causando grande confusão. Ele afligiu os homens da cidade, tanto o grande quanto o pequeno, e tumores apareceram neles. ^v9
 
-**10** Então enviaram a arca de Deus a Ecrom. Sucedeu, porém, que, vindo a arca de Deus a Ecrom, os de Ecrom exclamaram, dizendo: Transportaram para nós a arca do Deus de Israel, para nos matarem, a nós e ao nosso povo. ^v10
+**10** "Então, eles enviaram a Arca da Aliança para Ecrom. Mas, assim que a Arca da Aliança chegou lá, os ecronitas clamaram, dizendo: ""Eles nos trouxeram a Arca do Deus de Israel, para matar a nós e ao nosso povo""." ^v10
 
-**11** E enviaram, e congregaram a todos os príncipes dos filisteus, e disseram: Enviai a arca do Deus de Israel, e torne para o seu lugar, para que não mate nem a nós nem ao nosso povo. Porque havia mortal vexame em toda a cidade, e a mão de Deus muito se agravara ali. ^v11
+**11** "Então, eles mandaram reunir todos os governantes dos filisteus, e lhes disseram: ""Mandem embora a Arca do Deus de Israel, e deixai-a retornar ao seu lugar, para que não mate a nós e ao nosso povo"". Pois havia pânico mortal por toda a cidade, e a mão de Deus foi muito pesada lá." ^v11
 
-**12** E os homens que não morriam eram tão atacados com hemorróidas que o clamor da cidade subia até o céu. ^v12
+**12** O homem que não morreu foi afligido por tumores, e o choro da cidade subiu aos céus. ^v12

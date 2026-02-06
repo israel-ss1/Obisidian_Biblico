@@ -1,55 +1,54 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Jeremias|Jeremias]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Jeremias|Jeremias]]"
+tags: [biblia]
 ---
 
 # Jeremias 30
 
-**1** A palavra que do SENHOR veio a Jeremias, dizendo: ^v1
+**1** Esta é a palavra que de Yahweh veio a Jeremias, dizendo: ^v1
 
-**2** Assim diz o Senhor Deus de Israel: Escreve num livro todas as palavras que te tenho falado. ^v2
+**2** """Isto é o que Yahweh, o Deus de Israel, diz: Escreve para ti, em um livro, as palavras que te declarei." ^v2
 
-**3** Porque eis que vêm dias, diz o Senhor, em que farei voltar do cativeiro o meu povo Israel, e de Judá, diz o Senhor; e tornarei a trazê-los à terra que dei a seus pais, e a possuirão. ^v3
+**3** "Vede! Dias virão – esta é a declaração de Yahweh – quando Eu mudarei o destino do Meu povo, Israel e Judá. Eu, Yahweh, já disse isso. Pois os trarei de volta à terra que dei aos vossos antepassados, e eles a possuirão.""" ^v3
 
-**4** E estas são as palavras que disse o Senhor, acerca de Israel e de Judá. ^v4
+**4** Estas são as palavras que Yahweh declarou acerca de Israel e de Judá: ^v4
 
-**5** Porque assim diz o Senhor: Ouvimos uma voz de tremor, de temor mas não de paz. ^v5
+**5** """Pois Yahweh diz isto: Ouvimos uma voz trêmula de pavor, não de paz." ^v5
 
-**6** Perguntai, pois, e vede, se um homem pode dar à luz. Por que, pois, vejo a cada homem com as mãos sobre os lombos como a que está dando à luz? e por que se tornaram pálidos todos os rostos? ^v6
+**6** Perguntai e observai se um homem pode dar à luz uma criança. Por que eu vejo todos os homens jovens com as mãos no ventre, como uma mulher em trabalho de parto? Por que todos os seus rostos ficaram pálidos? ^v6
 
-**7** Ah! porque aquele dia é tão grande, que não houve outro semelhante; e é tempo de angústia para Jacó; ele, porém, será salvo dela. ^v7
+**7** Ah! Como aquele dia será grandioso, como nenhum igual. Será um tempo de angústia para Jacó, mas ele será livre dela. ^v7
 
-**8** Porque será naquele dia, diz o Senhor dos Exércitos, que eu quebrarei o seu jugo de sobre o teu pescoço, e quebrarei os teus grilhões; e nunca mais se servirão dele os estrangeiros. ^v8
+**8** Porque será naquele dia, esta é a declaração de Yahweh dos Exércitos, que quebrarei o jugo sobre o teu pescoço, e quebrarei tuas correntes, para que estrangeiros não os escravizem mais. ^v8
 
-**9** Mas servirão ao Senhor, seu Deus, como também a Davi, seu rei, que lhes levantarei. ^v9
+**9** Mas irão adorar a Yahweh, seu Deus, e servir a Davi, a quem Eu levantarei como rei sobre eles. ^v9
 
-**10** Não temas, pois, tu, ó meu servo Jacó, diz o Senhor, nem te espantes, ó Israel; porque eis que te livrarei de terras de longe, e à tua descendência da terra do seu cativeiro; e Jacó voltará, e descansará, e ficará em sossego, e não haverá quem o atemorize. ^v10
+**10** Portanto, tu, meu servo Jacó, não temas, esta é a declaração de Yahweh, e não te espantes, Israel. Pois eu vos trarei de volta de terras distantes, e vossos descendentes, da terra dos cativos. Jacó retornará e estará em paz; ele estará seguro, e não haverá mais terror. ^v10
 
-**11** Porque eu sou contigo, diz o Senhor, para te salvar; porquanto darei fim a todas as nações entre as quais te espalhei; a ti, porém, não darei fim, mas castigar-te-ei com medida, e de todo não te terei por inocente. ^v11
+**11** Pois Eu estou convosco – esta é a declaração de Yahweh – para vos salvar. Destruirei totalmente todas as nações onde Eu vos espalhei. Mas, certamente, não darei fim a vós, mas vos disciplinarei de maneira justa; certamente, não vos deixarei impunes. ^v11
 
-**12** Porque assim diz o Senhor: A tua ferida é incurável; a tua chaga é dolorosa. ^v12
+**12** "Pois Yahweh diz isto: ""Tua injúria é incurável, tua ferida está infectada." ^v12
 
-**13** Não há quem defenda a tua causa para te aplicar curativo; não tens remédios que possam curar. ^v13
+**13** Não há ninguém para defender o teu caso; não há quem possa curá-lo, não tem remédio para a tua ferida. ^v13
 
-**14** Todos os teus amantes se esqueceram de ti, e não perguntam por ti; porque te feri com ferida de inimigo, e com castigo de quem é cruel, pela grandeza da tua maldade e multidão de teus pecados. ^v14
+**14** Todos os teus amantes se esqueceram de ti. Eles não te procurarão, pois Eu te feri com a ferida de um inimigo e a disciplina de um mestre cruel, por causa das tuas muitas iniquidades e incontáveis pecados. ^v14
 
-**15** Por que gritas por causa da tua ferida? Tua dor é incurável. Pela grandeza de tua maldade, e multidão de teus pecados, eu fiz estas coisas. ^v15
+**15** Por que gritas de dor? Tua ferida é incurável. Por causa de tuas muitas iniquidades, teus incontáveis pecados, Eu fiz estas coisas a ti. ^v15
 
-**16** Por isso todos os que te devoram serão devorados; e todos os teus adversários irão, todos eles, para o cativeiro; e os que te roubam serão roubados, e a todos os que te despojam entregarei ao saque. ^v16
+**16** Então, todos os que te consumirem serão consumidos, e todos os teus adversários irão para o cativeiro. E os que te despojam, serão despojados. Todos os que te saqueiam, entregarei para o saque. ^v16
 
-**17** Porque te restaurarei a saúde, e te curarei as tuas chagas, diz o Senhor; porquanto te chamaram a repudiada, dizendo: É Sião, já ninguém pergunta por ela. ^v17
+**17** "Pois restaurarei a ti; Eu curarei as tuas feridas – esta é a declaração de Yahweh – Eu farei isto porque eles chamaram-te: Rejeitada. Ninguém se importa com Sião.""" ^v17
 
-**18** Assim diz o Senhor: Eis que farei voltar do cativeiro as tendas de Jacó, e apiedar-me-ei das suas moradas; e a cidade será reedificada sobre o seu montão, e o palácio permanecerá como habitualmente. ^v18
+**18** "Yahweh diz isto: ""Vede! Estou prestes a mudar o destino das tendas de Jacó e de ter compaixão de seus lares. Então, uma cidade será construída sobre um monte de ruínas, e um palácio no seu devido lugar." ^v18
 
-**19** E sairá deles o louvor e a voz de júbilo; e multiplicá-los-ei, e não serão diminuídos, e glorificá-los-ei, e não serão apoucados. ^v19
+**19** Uma canção de louvor e um som de alegria sairão deles, porque Eu os multiplicarei e não serão diminuídos; Eu os honrarei para que não sejam humilhados. ^v19
 
-**20** E seus filhos serão como na antiguidade, e a sua congregação será confirmada diante de mim; e castigarei todos os seus opressores. ^v20
+**20** Então, seu povo será como antes, e sua comunidade será estabelecida diante de mim, quando Eu punir todos aqueles que, agora, os atormentam. ^v20
 
-**21** E os seus nobres serão deles; e o seu governador sairá do meio deles, e o farei aproximar, e ele se chegará a mim; pois, quem de si mesmo se empenharia para chegar-se a mim? diz o Senhor. ^v21
+**21** Seu príncipe procederá deles. Ele virá do meio deles, e o farei aproximar-se, e ele se chegará a Mim; se Eu não fizer isto, quem se atreverá a chegar perto de Mim? – Esta é a declaração de Yahweh. ^v21
 
-**22** E ser-me-eis por povo, e eu vos serei por Deus. ^v22
+**22** E vós sereis Meu povo, e Eu serei vosso Deus. ^v22
 
-**23** Eis que a tempestade do Senhor, a sua indignação, já saiu; uma tempestade varredora, cairá cruelmente sobre a cabeça dos ímpios. ^v23
+**23** Vede! A tempestade de Yahweh, sua fúria, já foi liberada. É uma tempestade contínua, e isso cairá na cabeça dos ímpios. ^v23
 
-**24** Não voltará atrás o furor da ira do Senhor, até que tenha executado e até que tenha cumprido os desígnios do seu coração; no fim dos dias entendereis isto. ^v24
+**24** "A ira de Yahweh não retornará até que tenham se cumprido todos os propósitos de Seu coração. Nos últimos dias, entendereis isto.""" ^v24

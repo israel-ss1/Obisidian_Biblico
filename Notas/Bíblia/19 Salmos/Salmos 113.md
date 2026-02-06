@@ -1,25 +1,24 @@
 ---
-Livro: "[[Salmos|Salmos]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Salmos|Salmos]]"
+tags: [biblia]
 ---
 
 # Salmos 113
 
-**1** Louvai ao SENHOR. Louvai, servos do SENHOR, louvai o nome do SENHOR. ^v1
+**1** Louvai a Yahweh. Louvai-o, vós, servos de Yahweh; louvai o nome de Yahweh. ^v1
 
-**2** Seja bendito o nome do Senhor, desde agora para sempre. ^v2
+**2** Bendito seja o nome de Yahweh, agora e para sempre. ^v2
 
-**3** Desde o nascimento do sol até ao ocaso, seja louvado o nome do Senhor. ^v3
+**3** Desde o nascer ao pôr do sol, louvado seja o nome de Yahweh. ^v3
 
-**4** Exaltado está o Senhor acima de todas as nações, e a sua glória sobre os céus. ^v4
+**4** Yahweh é exaltado sobre todas as nações, e Sua glória alcança acima dos céus. ^v4
 
-**5** Quem é como o Senhor nosso Deus, que habita nas alturas? ^v5
+**5** Quem é como Yahweh, nosso Deus, que está entronizado nas alturas ^v5
 
-**6** O qual se inclina, para ver o que está nos céus e na terra! ^v6
+**6** e, do alto, olha para o céu e a terra? ^v6
 
-**7** Levanta o pobre do pó e do monturo levanta o necessitado, ^v7
+**7** Do pó, Ele levanta o pobre, e do monturo ergue o necessitado, ^v7
 
-**8** Para o fazer assentar com os príncipes, mesmo com os príncipes do seu povo. ^v8
+**8** para que ele possa assentar-se com príncipes, com os príncipes do Seu povo. ^v8
 
-**9** Faz com que a mulher estéril habite em casa, e seja alegre mãe de filhos. Louvai ao Senhor. ^v9
+**9** Ele dá um lar à mulher estéril, e a faz uma alegre mãe de filhos. Louvado seja Yahweh! ^v9

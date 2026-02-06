@@ -1,75 +1,74 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Jeremias|Jeremias]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Jeremias|Jeremias]]"
+tags: [biblia]
 ---
 
 # Jeremias 52
 
-**1** Era Zedequias da idade de vinte e um anos quando começou a reinar, e reinou onze anos em Jerusalém; e o nome de sua mãe era Hamutal, filha de Jeremias, de Libna. ^v1
+**1** Zedequias tinha vinte e um anos quando começou a reinar e reinou onze anos em Jerusalém. Sua mãe se chamava Hamutal; ela era filha de Jeremias, de Libna. ^v1
 
-**2** E fez o que era mau aos olhos do Senhor, conforme tudo o que fizera Jeoiaquim. ^v2
+**2** Ele fez o que era mau aos olhos de Yahweh, fez tudo o que Jeoaquim havia feito. ^v2
 
-**3** Assim, por causa da ira do SENHOR, contra Jerusalém e Judá, ele os lançou de diante dele, e Zedequias se rebelou contra o rei de babilônia. ^v3
+**3** Por causa da ira de Yahweh, todos esses eventos aconteceram em Jerusalém e Judá, até que Ele os expulsou de sua presença. Então, Zedequias se rebelou contra o rei da Babilônia. ^v3
 
-**4** E aconteceu, que no ano nono do seu reinado, no décimo mês, no décimo dia do mês, veio Nabucodonosor, rei de babilônia, contra Jerusalém, ele e todo o seu exército, e se acamparam contra ela, e levantaram contra ela trincheiras ao redor. ^v4
+**4** Aconteceu que, no nono ano do reinado de Zedequias, no décimo dia do décimo mês, Nabucodonosor, rei da Babilônia, veio a Jerusalém com todo o seu exército. Eles acamparam em frente à cidade e construíram rampas até o topo das muralhas. ^v4
 
-**5** Assim esteve cercada a cidade, até ao undécimo ano do rei Zedequias. ^v5
+**5** Assim, a cidade foi sitiada até o décimo primeiro ano do reinado de Zedequias. ^v5
 
-**6** No quarto mês, aos nove dias do mês, quando já a fome prevalecia na cidade, e o povo da terra não tinha pão, ^v6
+**6** No nono dia do quarto mês daquele ano, a fome havia-se tornado tão severa na cidade que já não restava comida para o povo daquela terra. ^v6
 
-**7** Então foi aberta uma brecha na cidade, e todos os homens de guerra fugiram, e saíram da cidade de noite, pelo caminho da porta entre os dois muros, a qual estava perto do jardim do rei (porque os caldeus cercavam a cidade ao redor), e foram pelo caminho da campina. ^v7
+**7** Então, a cidade foi invadida e, mesmo com os babilônios cercando a cidade, todos os guerreiros fugiram, saindo durante a noite, através do portão que estava entre as duas paredes, ao lado do jardim real. Eles foram em direção a Arabá, ^v7
 
-**8** Mas o exército dos caldeus perseguiu o rei, e alcançou a Zedequias nas campinas de Jericó, e todo o seu exército se espalhou, abandonando-o. ^v8
+**8** mas o exército dos babilônios perseguiu o rei Zedequias e o alcançou na planície do rio Jordão, perto de Jericó. Todo o seu exército se dispersou e o abandonou. ^v8
 
-**9** E prenderam o rei, e o fizeram subir ao rei de babilônia, a Ribla, na terra de Hamate, o qual lhe pronunciou a sentença. ^v9
+**9** Eles capturaram o rei Zedequias e o trouxeram ao rei da Babilônia, em Ribla, na terra de Hamate, onde ordenou sentença sobre ele. ^v9
 
-**10** E o rei de babilônia degolou os filhos de Zedequias à sua vista, e também degolou a todos os príncipes de Judá em Ribla. ^v10
+**10** O rei da Babilônia matou os filhos de Zedequias diante de seus olhos e, em Ribla, também matou todos os líderes de Judá. ^v10
 
-**11** E cegou os olhos a Zedequias, e o atou com cadeias; e o rei de babilônia o levou para babilônia, e o conservou na prisão até o dia da sua morte. ^v11
+**11** E cegou Zedequias e o prendeu em correntes de bronze e o levou para a Babilônia. Zedequias permaneceu preso até o dia de sua morte. ^v11
 
-**12** E no quinto mês, no décimo dia do mês, que era o décimo nono ano do rei Nabucodonosor, rei de babilônia, Nebuzaradã, capitão da guarda, que assistia na presença do rei de babilônia, veio a Jerusalém. ^v12
+**12** No décimo dia do quinto mês, do décimo nono ano do reinado de Nabucodonosor, rei da Babilônia, Nebuzaradã chegou em Jerusalém. Ele era o comandante da guarda real e um servo do rei da Babilônia. ^v12
 
-**13** E queimou a casa do Senhor, e a casa do rei; e também a todas as casas de Jerusalém, e a todas as casas dos grandes ele as incendiou. ^v13
+**13** Ele queimou a Casa de Yahweh, o palácio real e todas as casas de Jerusalém; todas as construções importantes da cidade também foram queimadas. ^v13
 
-**14** E todo o exército dos caldeus, que estava com o capitão da guarda, derrubou a todos os muros em redor de Jerusalém. ^v14
+**14** E ele comandou o exército babilônico na destruição dos muros em volta de Jerusalém. ^v14
 
-**15** E dos mais pobres do povo, e a parte do povo, que tinha ficado na cidade, e os rebeldes que se haviam passado para o rei de babilônia, e o mais da multidão, Nebuzaradã, capitão da guarda, levou presos. ^v15
+**15** Quanto aos mais pobres e o restante do povo que ficou na cidade, os desertores de Judá que se entregaram ao rei da Babilônia e o restante dos artesãos, Nebuzaradã, o comandante da guarda real, levou alguns deles para o exílio. ^v15
 
-**16** Mas dos mais pobres da terra Nebuzaradã, capitão da guarda, deixou ficar alguns, para serem vinhateiros e lavradores. ^v16
+**16** Mas Nebuzaradã, o comandante da guarda real, deixou os mais pobres da terra para trabalharem no campo e nas vinheiras. ^v16
 
-**17** Quebraram mais os caldeus as colunas de bronze, que estavam na casa do SENHOR, e as bases, e o mar de bronze, que estavam na casa do SENHOR, e levaram todo o bronze para babilônia. ^v17
+**17** A respeito dos pilares de bronze pertencentes à Casa de Yahweh, e as bases do tanque de bronze que estavam na Casa de Yahweh, os babilônios os quebraram em pedaços e carregaram todo o bronze de volta a Babilônia. ^v17
 
-**18** Também tomaram os caldeirões, e as pás, e as espevitadeiras, e as bacias, e as colheres, e todos os utensílios de bronze, com que se ministrava. ^v18
+**18** As jarras, pás, aparadores de lâmpadas, bacias e todos os utensílios de bronze que os sacerdotes usavam no templo, os babilônios levaram embora. ^v18
 
-**19** E tomou o capitão da guarda as bacias, e os braseiros, e as tigelas, e os caldeirões, e os castiçais, e as colheres, e os copos; tanto o que era de puro ouro, como o que era de prata maciça. ^v19
+**19** As bacias e os braseiros, as jarras, as vasilhas, candelabros e bacias que eram feitas de ouro ou de prata, o comandante da guarda real também levou embora. ^v19
 
-**20** Quanto às duas colunas, ao único mar, e aos doze bois de bronze, que estavam debaixo das bases, que fizera o rei Salomão para a casa do Senhor, o peso do bronze de todos estes utensílios era incalculável. ^v20
+**20** Os dois pilares, o tanque e os doze bois de bronze que estavam em baixo das bases, objetos que Salomão havia feito para a Casa de Yahweh, continham mais bronze do que podiam pesar. ^v20
 
-**21** Quanto às colunas, a altura de cada uma era de dezoito côvados, e um fio de doze côvados a cercava; e era a sua espessura de quatro dedos, e era oca. ^v21
+**21** Os pilares tinham, cada um deles, dezoito côvados de altura e a circunferência de doze côvados. Cada um tinha quatro dedos grossos e era oco. ^v21
 
-**22** E havia sobre ela um capitel de bronze; e a altura do capitel era de cinco côvados; a rede e as romãs ao redor do capitel eram de bronze; e semelhante a esta era a segunda coluna, com as romãs. ^v22
+**22** Um capitel de bronze estava no topo. Ele tinha cinco côvados de altura, com rede e romãs em volta. Tudo feito de bronze. O outro pilar e romãs eram iguais ao primeiro. ^v22
 
-**23** E havia noventa e seis romãs em cada lado; as romãs todas, em redor da rede, eram cem. ^v23
+**23** Havia noventa e seis romãs nos lados do capitel e cem romãs acima e ao redor da rede. ^v23
 
-**24** Levou também o capitão da guarda a Seraías, o sacerdote chefe, e a Sofonias, o segundo sacerdote, e aos três guardas da porta. ^v24
+**24** O comandante da guarda real aprisionou Seraías, o sumo sacerdote, juntamente com Sofonias, o segundo sacerdote, e os três guardas da porta. ^v24
 
-**25** E da cidade tomou a um eunuco que tinha a seu cargo os homens de guerra, e a sete homens que estavam próximos à pessoa do rei, que se achavam na cidade, como também o escrivão-mor do exército, que alistava o povo da terra para a guerra, e a sessenta homens do povo da terra, que se achavam no meio da cidade. ^v25
+**25** Dos que ainda estavam na cidade, ele aprisionou um oficial que estava no comando dos soldados e sete conselheiros do rei. Também aprisionou o chefe do exército, responsável por recrutar homens, além de sessenta outros homens importantes. ^v25
 
-**26** Tomando-os, pois, Nebuzaradã, capitão da guarda, levou-os ao rei de babilônia, a Ribla. ^v26
+**26** Então, Nebuzaradã, o comandante da guarda real, levou-os para o rei da Babilônia, em Ribla. ^v26
 
-**27** E o rei de babilônia os feriu e os matou em Ribla, na terra de Hamate; assim Judá foi levado cativo para fora da sua terra. ^v27
+**27** Nessa cidade, a terra de Hamate, Nabucodonosor ordenou a morte de todos eles. Desta forma, Judá saiu de sua terra para o exílio. ^v27
 
-**28** Este é o povo que Nabucodonosor levou cativo, no sétimo ano: três mil e vinte e três judeus. ^v28
+**28** Esses são os números de pessoas que Nabucodonosor exilou: no sétimo ano, três mil e vinte três judeus; ^v28
 
-**29** No ano décimo oitavo de Nabucodonosor, ele levou cativas de Jerusalém oitocentas e trinta e duas pessoas. ^v29
+**29** no oitavo ano, Nabucodonosor prendeu oitocentos e trinta e duas pessoas de Jerusalém; ^v29
 
-**30** No ano vinte e três de Nabucodonosor, Nebuzaradã, capitão da guarda, levou cativas, dos judeus, setecentas e quarenta e cinco pessoas; todas as pessoas foram quatro mil e seiscentas. ^v30
+**30** no vigésimo terceiro ano de Nabucodonosor, Nebuzaradã, o capitão da guarda real, exilou setecentos e quarenta e cinco judeus. No total, foram exiladas quatro mil e seiscentas pessoas. ^v30
 
-**31** Sucedeu, pois, no ano trigésimo sétimo do cativeiro de Jeoiaquim, rei de Judá, no duodécimo mês, aos vinte e cinco dias do mês, que Evil-Merodaque, rei de babilônia, no primeiro ano do seu reinado, levantou a cabeça de Jeoiaquim, rei de Judá, e tirou-o do cárcere; ^v31
+**31** No trigésimo sétimo ano do exílio de Jeoaquim, rei de Judá, no vigésimo quinto dia do décimo segundo mês, Evil-Merodaque, rei da Babilônia, libertou da prisão Jeoaquim, rei de Judá. Isto aconteceu no ano em que Evil-Merodaque começou a reinar. ^v31
 
-**32** E falou com ele benignamente, e pôs o seu trono acima dos tronos dos reis que estavam com ele em babilônia; ^v32
+**32** O rei falou gentilmente com ele e lhe deu o assento de honra mais elevado do que os de outros reis que estavam com ele, na Babilônia. ^v32
 
-**33** E lhe fez mudar as vestes da sua prisão; e passou a comer pão sempre na presença do rei, todos os dias da sua vida. ^v33
+**33** Evil-Merodaque trocou as roupas de prisioneiro de Jeoaquim e ele passou a comer regularmente na mesa do rei, pelo resto de sua vida. ^v33
 
-**34** E, quanto à sua alimentação, foi-lhe dada refeição contínua do rei de babilônia, porção cotidiana, no seu dia, até o dia da sua morte, todos os dias da sua vida. ^v34
+**34** Uma porção alimentar e uma pensão lhe foram dadas durante o resto de seus dias, até a sua morte. ^v34

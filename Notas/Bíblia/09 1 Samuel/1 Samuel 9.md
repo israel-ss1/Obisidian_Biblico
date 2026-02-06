@@ -1,61 +1,60 @@
 ---
-Livro: "[[1 Samuel|1 Samuel]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/1 Samuel|1 Samuel]]"
+tags: [biblia]
 ---
 
 # 1 Samuel 9
 
-**1** E havia um homem de Benjamim, cujo nome era Quis, filho de Abiel, filho de Zeror, filho de Becorate, filho de Afia, filho de um homem de Benjamim; homem poderoso. ^v1
+**1** Havia um homem de Benjamim, um homem de influência. Seu nome era Quis, filho de Abiel, filho de Zeror, filho de Becorate, filho de Afias, o filho de um benjamita. ^v1
 
-**2** Este tinha um filho, cujo nome era Saul, moço, e tão belo que entre os filhos de Israel não havia outro homem mais belo do que ele; desde os ombros para cima sobressaía a todo o povo. ^v2
+**2** Ele tinha um filho chamado Saul, um belo rapaz. Não havia um homem entre o povo de Israel que fosse mais bonito que ele. Era o mais alto de todo o povo; dos seus ombros para cima, sobressaía a todos. ^v2
 
-**3** E perderam-se as jumentas de Quis, pai de Saul; por isso disse Quis a Saul, seu filho: Toma agora contigo um dos moços, e levanta-te e vai procurar as jumentas. ^v3
+**3** "As jumentas de Quis, Pai de Saul, estavam perdidas. Então, Quis disse para Saul, seu filho: ""Leve um dos servos contigo; levanta-te e vá procurar pelas jumentas""." ^v3
 
-**4** Passaram, pois, pela montanha de Efraim, e dali passaram à terra de Salisa, porém não as acharam; depois passaram à terra de Saalim, porém tampouco estavam ali; também passaram à terra de Benjamim, porém tampouco as acharam. ^v4
+**4** Assim, Saul passou pela região montanhosa de Efraim e foi pela terra de Salisa, mas, eles não as encontraram. Depois, eles passaram pelas terras de Saalim. Porém, elas também não estavam lá. Posteriormente, eles passaram pelas terras dos benjamitas, mas ali também não as encontraram. ^v4
 
-**5** Vindo eles então à terra de Zufe, Saul disse para o seu moço, com quem ele ia: Vem, e voltemos; para que porventura meu pai não deixe de inquietar-se pelas jumentas e se aflija por causa de nós. ^v5
+**5** "Quando eles foram para a terra de Zufe, Saul disse para o servo que estava com ele: ""Vem, vamos voltar, ou meu pai pode parar de se importar com as jumentas e começar a se preocupar conosco""." ^v5
 
-**6** Porém ele lhe disse: Eis que há nesta cidade um homem de Deus, e homem honrado é; tudo quanto diz, sucede assim infalivelmente; vamo-nos agora lá; porventura nos mostrará o caminho que devemos seguir. ^v6
+**6** "Porém, o servo lhe disse: ""Escuta, existe um homem de Deus nesta cidade. Ele é um homem honrado; tudo o que ele diz torna-se verdade. Vamos até lá. Talvez, ele possa nos dizer qual caminho devemos seguir em nossa jornada""." ^v6
 
-**7** Então Saul disse ao seu moço: Eis, porém, se lá formos, que levaremos então àquele homem? Porque o pão de nossos alforjes se acabou, e presente nenhum temos para levar ao homem de Deus; que temos? ^v7
+**7** "v 7 Então, Saul disse ao seu servo: ""Mas, se formos, o que podemos levar ao homem? Pois o pão de nossa cesta acabou e não há presente para levarmos para o homem de Deus. O que nós temos?""" ^v7
 
-**8** E o moço tornou a responder a Saul, e disse: Eis que ainda se acha na minha mão um quarto de um siclo de prata, o qual darei ao homem de Deus, para que nos mostre o caminho ^v8
+**8** "O servo respondeu, dizendo: ""Aqui, tenho comigo um quarto de siclo de prata, que darei ao homem de Deus, para nos dizer que caminho devemos seguir""." ^v8
 
-**9** (Antigamente em Israel, indo alguém consultar a Deus, dizia assim: Vinde, e vamos ao vidente; porque ao profeta de hoje, antigamente se chamava vidente). ^v9
+**9** "(Antigamente, em Israel, quando um homem buscava vontade de Deus, ele dizia: ""Vem, vamos ao vidente"". Pois, os profetas de hoje em dia eram, antigamente, chamados de videntes)." ^v9
 
-**10** Então disse Saul ao moço: Bem dizes; vem, pois, vamos. E foram-se à cidade onde estava o homem de Deus. ^v10
+**10** "Então, Saul disse ao seu servo: ""Falaste bem. Vem, vamos"". Logo, eles foram para a cidade onde estava o homem de Deus." ^v10
 
-**11** E, subindo eles à cidade, acharam umas moças que saíam a tirar água; e disseram-lhes: Está aqui o vidente? ^v11
+**11** "Assim que subiram o morro da cidade, eles acharam jovens mulheres que vinham para retirar água; Saul e seu servo lhes perguntaram: ""O vidente está aqui?""." ^v11
 
-**12** E elas lhes responderam, e disseram: Sim, eis aí o tens diante de ti; apressa-te, pois, porque hoje veio à cidade; porquanto o povo tem hoje sacrifício no alto. ^v12
+**12** "Elas responderam, dizendo: ""Ele está; vede, ele está à vossa frente. Apressai-vos, pois hoje ele está vindo para a cidade, porque, no lugar alto, as pessoas estão fazendo sacrifício." ^v12
 
-**13** Entrando vós na cidade, logo o achareis, antes que suba ao alto para comer; porque o povo não comerá, até que ele venha; porque ele é o que abençoa o sacrifício, e depois comem os convidados; subi, pois, agora, que hoje o achareis. ^v13
+**13** "Assim que entrardes na cidade, o achareis, antes que ele vá ao lugar alto para comer. As pessoas não comerão até que ele chegue, porque ele abençoará o sacrifício; após isso, os que forem convidados comerão. Agora subi, pois ireis encontrá-lo imediatamente""." ^v13
 
-**14** Subiram, pois, à cidade; e, vindo eles no meio da cidade, eis que Samuel lhes saiu ao encontro, para subir ao alto. ^v14
+**14** Então, eles subiram para a cidade. Enquanto entravam na cidade, viram Samuel vindo em direção a eles, indo para o lugar alto. ^v14
 
-**15** Porque o Senhor revelara isto aos ouvidos de Samuel, um dia antes que Saul viesse, dizendo: ^v15
+**15** Um dia antes de Saul chegar, Yahweh havia revelado a Samuel: ^v15
 
-**16** Amanhã a estas horas te enviarei um homem da terra de Benjamim, o qual ungirás por capitão sobre o meu povo de Israel, e ele livrará o meu povo da mão dos filisteus; porque tenho olhado para o meu povo; porque o seu clamor chegou a mim. ^v16
+**16** """Amanhã, por volta dessa hora, irei te mandar um homem da terra de Benjamim, e tu irás ungi-lo para ser o rei sobre o Meu povo Israel. Ele salvará Meu povo das mãos dos filisteus. Pois tenho olhado com compaixão para o Meu povo, porque o clamor deles chegou a mim""." ^v16
 
-**17** E quando Samuel viu a Saul, o Senhor lhe respondeu: Eis aqui o homem de quem eu te falei. Este dominará sobre o meu povo. ^v17
+**17** "Quando Samuel viu Saul, Yahweh lhe disse: ""Aqui está o homem de quem te falei! Será ele que governará Meu povo""." ^v17
 
-**18** E Saul se chegou a Samuel no meio da porta, e disse: Mostra-me, peço-te, onde está a casa do vidente. ^v18
+**18** "Então, Saul se aproximou de Samuel no portão e disse: ""Diz onde é a casa do vidente?""." ^v18
 
-**19** E Samuel respondeu a Saul, e disse: Eu sou o vidente; sobe diante de mim ao alto, e comei hoje comigo; e pela manhã te despedirei, e tudo quanto está no teu coração, to declararei. ^v19
+**19** "Samuel respondeu a Saul, dizendo: ""Eu sou o vidente. Suba antes de mim ao lugar alto, pois hoje comerás comigo. Pela manhã, eu te deixarei ir e te direi todas as coisas que estão em tua mente." ^v19
 
-**20** E quanto às jumentas que há três dias se te perderam, não ocupes o teu coração com elas, porque já se acharam. E para quem é todo o desejo de Israel? Porventura não é para ti, e para toda a casa de teu pai? ^v20
+**20** "A respeito das jumentas que se perderam há três dias atrás, não te preocupes, pois elas foram achadas. Em quem estão todos os desejos de Israel? Não está em ti e em todos os da casa de teu pai?""." ^v20
 
-**21** Então respondeu Saul, e disse: Porventura não sou eu filho de Benjamim, da menor das tribos de Israel? E a minha família a menor de todas as famílias da tribo de Benjamim? Por que, pois, me falas com semelhantes palavras? ^v21
+**21** "Saul respondeu, dizendo: ""Não sou eu um benjamita, da menor tribo de Israel? O meu clã, não é o clã menos importante da tribo de Benjamim? Por que, então, estás falando dessa maneira comigo?""." ^v21
 
-**22** Porém Samuel tomou a Saul e ao seu moço, e os levou à câmara; e deu-lhes lugar acima de todos os convidados, que eram uns trinta homens. ^v22
+**22** Então, Samuel pegou Saul e seu servo, levou-lhes para dentro do salão, e lhes sentou no principal lugar entre os que foram convidados, que eram por volta de trinta pessoas. ^v22
 
-**23** Então disse Samuel ao cozinheiro: Dá aqui a porção que te dei, de que te disse: Põe-na à parte contigo. ^v23
+**23** "Samuel disse ao cozinheiro: ""Traz a porção que eu te dei, sobre a qual eu te disse: 'Coloca isso de lado'""." ^v23
 
-**24** Levantou, pois, o cozinheiro a espádua, com o que havia nela, e pô-la diante de Saul; e disse Samuel: Eis que o que foi reservado está diante de ti. Come; porque se guardou para ti para esta ocasião, dizendo eu: Tenho convidado o povo. Assim comeu Saul aquele dia com Samuel. ^v24
+**24** "Então, o cozinheiro pegou a coxa que havia sido levada em sacrifício e a colocou diante de Saul. Samuel disse: ""Olha o que tem sido guardado para ti! Coma isso, porque tem sido guardado até o tempo marcado para ti. Por agora, pode dizer: 'Eu convidei o povo'"". Então, Saul comeu com Samuel naquele dia." ^v24
 
-**25** Então desceram do alto para a cidade; e falou com Saul sobre o eirado. ^v25
+**25** Quando eles desceram do lugar alto para a cidade, Samuel falou com Saul no terraço. ^v25
 
-**26** E se levantaram de madrugada; e sucedeu que, quase ao subir da alva, chamou Samuel a Saul ao eirado, dizendo: Levanta-te, e despedir-te-ei. Levantou-se Saul, e saíram ambos para fora, ele e Samuel. ^v26
+**26** "Ao amanhecer, Samuel chamou Saul e disse: ""Levanta-te, para que eu possa enviar-te no teu caminho"". Então Saul levantou-se, e ele e Samuel foram para a estrada." ^v26
 
-**27** E, descendo eles para a extremidade da cidade, Samuel disse a Saul: Dize ao moço que passe adiante de nós (e passou); porém tu espera agora, e te farei ouvir a palavra de Deus. ^v27
+**27** "Quando eles estavam indo para os arredores da cidade, Samuel disse a Saul: ""Diz ao servo para ir à nossa frente"" — e ele foi à frente — ""mas tu deves ficar aqui por um tempo, para que eu possa anunciar-te a mensagem de Deus""." ^v27

@@ -1,59 +1,58 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Isaías|Isaías]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Isaías|Isaías]]"
+tags: [biblia]
 ---
 
 # Isaías 3
 
-**1** Porque, eis que o Senhor, o SENHOR dos Exércitos, tirará de Jerusalém e de Judá o sustento e o apoio; a todo o sustento de pão e a todo o sustento de água; ^v1
+**1** Eis que o Senhor Yahweh dos Exércitos está prestes a tirar de Jerusalém e de Judá o sustento e o apoio: todo o suprimento de pão, todo o suprimento de água; ^v1
 
-**2** O poderoso, e o homem de guerra, o juiz, e o profeta, e o adivinho, e o ancião, ^v2
+**2** e o homem poderoso, o guerreiro, o juiz, o profeta, o adivinhador, o ancião; ^v2
 
-**3** O capitão de cinqüenta, e o homem respeitável, e o conselheiro, e o sábio entre os artífices, e o eloqüente orador. ^v3
+**3** o capitão de cinquenta, o cidadão respeitado, o conselheiro, o hábil artesão e o mago. ^v3
 
-**4** E dar-lhes-ei meninos por príncipes, e crianças governarão sobre eles. ^v4
+**4** """Colocarei jovens para serem seus líderes, e os meninos governarão sobre eles." ^v4
 
-**5** E o povo será oprimido; um será contra o outro, e cada um contra o seu próximo; o menino se atreverá contra o ancião, e o vil contra o nobre. ^v5
+**5** As pessoas serão oprimidas umas pelas outras, cada um pelo seu vizinho; as crianças insultarão os idosos e os corrompidos desafiarão pessoas de honra. ^v5
 
-**6** Quando alguém pegar de seu irmão na casa de seu pai, dizendo: Tu tens roupa, sê nosso governador, e toma sob a tua mão esta ruína; ^v6
+**6** Um homem agarrará seu irmão na casa do seu pai e dirá: 'Tu tens um casaco, sê o nosso comandante. Que estas ruínas fiquem sob o teu poder'. ^v6
 
-**7** Naquele dia levantará este a sua voz, dizendo: Não posso ser médico, nem tampouco há em minha casa pão, ou roupa alguma; não me haveis de constituir governador sobre o povo. ^v7
+**7** "Naquele dia, ele gritará e dirá: 'Não sou médico, eu não tenho pão ou vestimenta. Não me faças comandar este povo'""." ^v7
 
-**8** Porque Jerusalém está arruinada, e Judá caída; porque a sua língua e as suas obras são contra o Senhor, para provocarem os olhos da sua glória. ^v8
+**8** Pois Jerusalém está arruinada, e Judá caiu, porque suas falas e suas ações são contra Yahweh, para desafiarem a glória de Seus olhos. ^v8
 
-**9** O aspecto do seu rosto testifica contra eles; e publicam os seus pecados, como Sodoma; não os dissimulam. Ai da sua alma! Porque fazem mal a si mesmos. ^v9
+**9** O olhar em suas faces os denuncia; e eles falam dos seus pecados como o povo de Sodoma, eles não os escondem. Ai deles! Trouxeram o mal para si mesmos. ^v9
 
-**10** Dizei ao justo que bem lhe irá; porque comerão do fruto das suas obras. ^v10
+**10** Dizei aos justos que isto será bom para eles, pois comerão do fruto de suas ações. ^v10
 
-**11** Ai do ímpio! Mal lhe irá; porque se lhe fará o que as suas mãos fizeram. ^v11
+**11** Ai do corrupto! Tudo lhe irá mal, pois ele receberá do que suas mãos têm feito. ^v11
 
-**12** Os opressores do meu povo são crianças, e mulheres dominam sobre ele; ah, povo meu! Os que te guiam te enganam, e destroem o caminho das tuas veredas. ^v12
+**12** Quanto ao Meu povo, crianças são seus opressores e mulheres governam sobre eles. Ó, Meu povo, teus líderes te enganam e te confundem o caminho. ^v12
 
-**13** O Senhor se levanta para pleitear, e põe-se de pé para julgar os povos. ^v13
+**13** Yahweh Se levanta para pleitear; Ele Se levanta para julgar as nações. ^v13
 
-**14** O Senhor entrará em juízo contra os anciãos do seu povo, e contra os seus príncipes; é que fostes vós que consumistes esta vinha; o espólio do pobre está em vossas casas. ^v14
+**14** "Yahweh virá com julgamento contra os anciãos e os líderes do Seu povo. ""Vós tendes devorado a vinha. O que foi saqueado dos pobres está em vossas casas." ^v14
 
-**15** Que tendes vós, que esmagais o meu povo e moeis as faces dos pobres? Diz o Senhor DEUS dos Exércitos. ^v15
+**15** "Por que esmagais o Meu povo e triturais a face dos pobres?"" — Esta é a declaração do Senhor, Yahweh dos Exércitos." ^v15
 
-**16** Diz ainda mais o Senhor: Porquanto as filhas de Sião se exaltam, e andam com o pescoço erguido, lançando olhares impudentes; e quando andam, caminham afetadamente, fazendo um tilintar com os seus pés; ^v16
+**16** Yahweh diz que as filhas de Sião são orgulhosas, caminham de cabeça erguida, flertam com seus olhos, dão passos curtos ao andar, fazendo um tinir com os enfeites de seus pés. ^v16
 
-**17** Portanto o Senhor fará tinhoso o alto da cabeça das filhas de Sião, e o Senhor porá a descoberto a sua nudez, ^v17
+**17** Porque elas são assim, o Senhor formará feridas nas cabeças das filhas de Sião, Yahweh raspará suas cabeças. ^v17
 
-**18** Naquele dia tirará o Senhor os ornamentos dos pés, e as toucas, e adornos em forma de lua, ^v18
+**18** Naquele dia, o Senhor removerá suas lindas joias dos tornozelos, os turbantes, os colares, ^v18
 
-**19** Os pendentes, e os braceletes, as estolas, ^v19
+**19** os pingentes das orelhas, os braceletes e os véus, ^v19
 
-**20** Os gorros, e os ornamentos das pernas, e os cintos e as caixinhas de perfumes, e os brincos, ^v20
+**20** os lenços de cabelo, os ornamentos do tornozelo, os cintos, as caixas de perfumes e os amuletos de sorte. ^v20
 
-**21** Os anéis, e as jóias do nariz, ^v21
+**21** Ele removerá os anéis e as joias do nariz, ^v21
 
-**22** Os vestidos de festa, e os mantos, e os xales, e as bolsas. ^v22
+**22** as vestes festivas, os mantos, os véus e as bolsas, ^v22
 
-**23** Os espelhos, e o linho finíssimo, e os turbantes, e os véus. ^v23
+**23** os espelhos de mão, os linhos finos, os enfeites da cabeça e os xales. ^v23
 
-**24** E será que em lugar de perfume haverá mau cheiro; e por cinto uma corda; e em lugar de encrespadura de cabelos, calvície; e em lugar de veste luxuosa, pano de saco; e queimadura em lugar de formosura. ^v24
+**24** Em vez de perfumes doces haverá mau cheiro; em vez de cinto, uma corda; em vez de cabelo bem penteado, calvície; em vez de um manto, uma cobertura de pano de saco; e cicatriz, em vez de beleza. ^v24
 
-**25** Teus homens cairão à espada e teus poderosos na peleja. ^v25
+**25** Teus homens cairão pela espada e teus guerreiros cairão na guerra. ^v25
 
-**26** E as suas portas gemerão e prantearão; e ela, desolada, se assentará no chão. ^v26
+**26** Os portões de Jerusalém lamentarão e chorarão. Desolada, Sião se sentará no chão. ^v26

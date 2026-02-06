@@ -1,53 +1,52 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Oséias|Oséias]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Oséias|Oséias]]"
+tags: [biblia]
 ---
 
 # Oséias 2
 
-**1** Dizei a vossos irmãos: Ami; e a vossas irmãs: Ruama. ^v1
+**1** "Dizei a vossos irmãos: 'Meu povo!', e a vossas irmãs: 'A vós foi mostrada compaixão'.""" ^v1
 
-**2** Contendei com vossa mãe, contendei, porque ela não é minha mulher, e eu não sou seu marido; e desvie ela as suas prostituições da sua vista e os seus adultérios de entre os seus seios. ^v2
+**2** Trazei uma acusação contra vossa mãe; trazei uma acusação porque ela não é Minha mulher, e nem eu sou seu Marido. Que ela afaste de si sua prostituição e seus atos de adultério de entre os seus seios. ^v2
 
-**3** Para que eu não a despoje, ficando ela nua, e a ponha como no dia em que nasceu, e a faça como um deserto, e a torne como uma terra seca, e a mate à sede; ^v3
+**3** Senão, Eu a despirei e mostrarei a sua nudez como no dia em que ela nasceu. Eu a farei como o deserto, como terra seca, e a matarei de sede. ^v3
 
-**4** E não me compadeça de seus filhos, porque são filhos de prostituições. ^v4
+**4** Não terei nenhuma misericórdia dos seus filhos, pois são filhos da prostituição. ^v4
 
-**5** Porque sua mãe se prostituiu; aquela que os concebeu houve-se torpemente, porque diz: Irei atrás de meus amantes, que me dão o meu pão e a minha água, a minha lã e o meu linho, o meu óleo e as minhas bebidas. ^v5
+**5** "Porque sua mãe foi uma prostituta, e ela os concebeu, agindo vergonhosamente. Ela disse: ""Irei atrás dos meus amantes, pois eles me dão meu pão e água, minha lã e linho, meu óleo e bebida""." ^v5
 
-**6** Portanto, eis que cercarei o teu caminho com espinhos; e levantarei um muro de sebe, para que ela não ache as suas veredas. ^v6
+**6** Portanto, construirei uma cerca para bloquear seu caminho com espinhos. Erguerei uma parede contra ela para que não possa encontrar o seu caminho. ^v6
 
-**7** Ela irá atrás de seus amantes, mas não os alcançará; e buscá-los-á, mas não os achará; então dirá: Ir-me-ei, e tornar-me-ei a meu primeiro marido, porque melhor me ia então do que agora. ^v7
+**7** "Ela irá procurar seus amantes, mas não os alcançará. Ela os buscará, mas não os achará. Então, ela dirá: ""Voltarei ao meu primeiro marido, pois estava melhor do que agora""." ^v7
 
-**8** Ela, pois, não reconhece que eu lhe dei o grão, e o mosto, e o azeite, e que lhe multipliquei a prata e o ouro, que eles usaram para Baal. ^v8
+**8** Porque ela não reconheceu que fui Eu quem lhe deu o grão, o vinho novo e o azeite, e que multipliquei sua prata e ouro, que eles usaram para Baal. ^v8
 
-**9** Portanto tornarei a tirar o meu grão a seu tempo e o meu mosto no seu tempo determinado; e arrebatarei a minha lã e o meu linho, com que cobriam a sua nudez. ^v9
+**9** Assim, tirarei o grão dela na época da colheita, e o Meu vinho novo em sua estação. Tomarei a Minha lã e o Meu linho que foram usados para cobrir a sua nudez. ^v9
 
-**10** E agora descobrirei a sua vileza diante dos olhos dos seus amantes, e ninguém a livrará da minha mão. ^v10
+**10** Então a desnudarei diante de seus amantes, e ninguém a resgatará da Minha mão. ^v10
 
-**11** E farei cessar todo o seu gozo, as suas festas, as suas luas novas, e os seus sábados, e todas as suas festividades. ^v11
+**11** Também farei cessar todas as suas celebrações: suas festas, suas luas novas, seus sábados, e todas as suas festividades. ^v11
 
-**12** E devastarei a sua vide e a sua figueira, de que ela diz: É esta a minha paga que me deram os meus amantes; eu, pois, farei delas um bosque, e as feras do campo as devorarão. ^v12
+**12** """Destruirei suas videiras e suas figueiras, das quais ela disse: 'Este é o pagamento que os meus amantes me deram'. Farei delas uma floresta, e os animais do campo as devorarão." ^v12
 
-**13** Castigá-la-ei pelos dias dos Baalins, nos quais lhes queimou incenso, e se adornou dos seus pendentes e das suas jóias, e andou atrás de seus amantes, mas de mim se esqueceu, diz o SENHOR. ^v13
+**13** "Eu a punirei pelos dias de festa dos baalins, quando ela queimava incenso para eles, quando se adornou com seus anéis e joias, e ia atrás de seus amantes e se esquecia de Mim"" — essa é a declaração de Yahweh." ^v13
 
-**14** Portanto, eis que eu a atrairei, e a levarei para o deserto, e lhe falarei ao coração. ^v14
+**14** Então a reconquistarei, levarei-a para o deserto e falarei ternamente. ^v14
 
-**15** E lhe darei as suas vinhas dali, e o vale de Acor, por porta de esperança; e ali cantará, como nos dias de sua mocidade, e como no dia em que subiu da terra do Egito. ^v15
+**15** Eu lhe devolverei suas vinhas e o vale de Acor como porta de esperança. Ela Me responderá como nos dias de sua mocidade, como no dia em que subiu da terra do Egito. ^v15
 
-**16** E naquele dia, diz o SENHOR, tu me chamarás: Meu marido; e não mais me chamarás: Meu senhor. ^v16
+**16** """Naquele dia""— Yahweh declara— ""tu Me chamarás: 'meu Marido', e não mais Me chamarás: 'meu Baal'." ^v16
 
-**17** E da sua boca tirarei os nomes dos Baalins, e não mais se lembrará desses nomes. ^v17
+**17** "Pois, Eu removerei os nomes dos baalins de teus lábios; os nomes deles não serão mais lembrados""." ^v17
 
-**18** E naquele dia farei por eles aliança com as feras do campo, e com as aves do céu, e com os répteis da terra; e da terra quebrarei o arco, e a espada, e a guerra, e os farei deitar em segurança. ^v18
+**18** Naquele dia, em favor deles, farei uma aliança com as feras dos campos, com os pássaros do céu, com os répteis da terra. Tirarei da terra o arco, a espada, e a guerra, e os farei deitar em segurança. ^v18
 
-**19** E desposar-te-ei comigo para sempre; desposar-te-ei comigo em justiça, e em juízo, e em benignidade, e em misericórdias. ^v19
+**19** Prometo ser teu marido para sempre. Prometo ser teu marido em retidão, justiça, aliança fiel e misericórdia. ^v19
 
-**20** E desposar-te-ei comigo em fidelidade, e conhecerás ao Senhor. ^v20
+**20** Irei Me comprometer em fidelidade, e tu conhecerás Yahweh. ^v20
 
-**21** E acontecerá naquele dia que eu atenderei, diz o Senhor; eu atenderei aos céus, e estes atenderão à terra. ^v21
+**21** """Naquele dia, responderei"" — esta é a declaração de Yahweh — ""responderei aos céus, e eles responderão à terra." ^v21
 
-**22** E a terra atenderá ao trigo, e ao mosto, e ao azeite, e estes atenderão a Jizreel. ^v22
+**22** A terra responderá ao grão, ao vinho novo e ao óleo, e eles responderão a Jezreel. ^v22
 
-**23** E semeá-la-ei para mim na terra, e compadecer-me-ei dela que não obteve misericórdia; e eu direi àquele que não era meu povo: Tu és meu povo; e ele dirá: Tu és meu Deus! ^v23
+**23** "E a semearei na terra para Mim, e terei misericórdia de Lo-Ruama. Direi a Lo-Ami: 'Tu és Ammi Attah', e eles Me dirão: 'Tu és o meu Deus'""." ^v23

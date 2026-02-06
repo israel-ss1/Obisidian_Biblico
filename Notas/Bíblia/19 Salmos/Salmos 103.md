@@ -1,51 +1,48 @@
 ---
-Livro: "[[Salmos|Salmos]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Salmos|Salmos]]"
+tags: [biblia]
 ---
 
 # Salmos 103
 
-**1** Bendize, ó minha alma, ao SENHOR, e tudo o que há em mim bendiga o seu santo nome. ^v1
+**2** Louva a Yahweh, ó minha alma, e não te esqueças de nenhum dos Seus beneficíos. ^v2
 
-**2** Bendize, ó minha alma, ao Senhor, e não te esqueças de nenhum de seus benefícios. ^v2
+**3** Ele é quem perdoa todos os teus pecados; Ele é quem cura todas as tuas doenças. ^v3
 
-**3** Ele é o que perdoa todas as tuas iniqüidades, que sara todas as tuas enfermidades, ^v3
+**4** Ele redime tua vida da destruição e te coroa com amor leal e com ternos atos de misericórdia. ^v4
 
-**4** Que redime a tua vida da perdição; que te coroa de benignidade e de misericórdia, ^v4
+**5** Ele satisfaz tua vida com boas coisas, de modo que tua juventude é renovada como a da águia. ^v5
 
-**5** Que farta a tua boca de bens, de sorte que a tua mocidade se renova como a da águia. ^v5
+**6** Yahweh faz justiça e juízo para todos os oprimidos. ^v6
 
-**6** O Senhor faz justiça e juízo a todos os oprimidos. ^v6
+**7** Ele fez os Seus caminhos conhecidos a Moisés e Seus atos, aos descendentes de Israel. ^v7
 
-**7** Fez conhecidos os seus caminhos a Moisés, e os seus feitos aos filhos de Israel. ^v7
+**8** Yahweh é misericordioso e gracioso; Ele é paciente e grande é o Seu amor leal. ^v8
 
-**8** Misericordioso e piedoso é o Senhor; longânimo e grande em benignidade. ^v8
+**9** Ele não disciplinará para sempre; Ele não ficará irado para sempre. ^v9
 
-**9** Não reprovará perpetuamente, nem para sempre reterá a sua ira. ^v9
+**10** Ele não nos trata como merecemos, por causa da nossa iniquidade; não nos retribui conforme nossos pecados exigem. ^v10
 
-**10** Não nos tratou segundo os nossos pecados, nem nos recompensou segundo as nossas iniqüidades. ^v10
+**11** Assim como os céus estão muito acima da terra, assim é grande o Seu amor leal para aqueles que O honram. ^v11
 
-**11** Pois assim como o céu está elevado acima da terra, assim é grande a sua misericórdia para com os que o temem. ^v11
+**12** Como está distante o oriente do ocidente, assim Ele tem removido de nós a culpa dos nossos pecados. ^v12
 
-**12** Assim como está longe o oriente do ocidente, assim afasta de nós as nossas transgressões. ^v12
+**13** Como um pai tem compaixão dos seus filhos, assim Yahweh tem compaixão daqueles que O honram. ^v13
 
-**13** Assim como um pai se compadece de seus filhos, assim o Senhor se compadece daqueles que o temem. ^v13
+**14** Porque Ele sabe como nós fomos formados; Ele sabe que somos pó. ^v14
 
-**14** Pois ele conhece a nossa estrutura; lembra-se de que somos pó. ^v14
+**15** Quanto ao homem, seus dias são como a grama; ele floresce como a flor do campo, ^v15
 
-**15** Quanto ao homem, os seus dias são como a erva, como a flor do campo assim floresce. ^v15
+**16** o vento sopra sobre ela, e ela desaparece, e ninguém sabe onde ela havia crescido. ^v16
 
-**16** Passando por ela o vento, logo se vai, e o seu lugar não será mais conhecido. ^v16
+**17** Mas o amor fiel de Yahweh é de eternidade a eternidade sobre aqueles que O honram. Sua retidão se estende aos Seus descendentes, ^v17
 
-**17** Mas a misericórdia do Senhor é desde a eternidade e até a eternidade sobre aqueles que o temem, e a sua justiça sobre os filhos dos filhos; ^v17
+**18** aqueles que guardam Sua aliança e se lembram de obedecer às Suas instruções. ^v18
 
-**18** Sobre aqueles que guardam a sua aliança, e sobre os que se lembram dos seus mandamentos para os cumprir. ^v18
+**19** Yahweh estabeleceu Seu trono nos céus e as leis de Seu reino sobre todos. ^v19
 
-**19** O Senhor tem estabelecido o seu trono nos céus, e o seu reino domina sobre tudo. ^v19
+**20** Louvai a Yahweh, vós anjos poderosos, que obedeceis à Sua palavra, que obedeceis aos Seus comandos. ^v20
 
-**20** Bendizei ao Senhor, todos os seus anjos, vós que excedeis em força, que guardais os seus mandamentos, obedecendo à voz da sua palavra. ^v20
+**21** Louvai a Yahweh todos os Seus exércitos de anjos, vós que sois Seus servos, que executais a Sua vontade. ^v21
 
-**21** Bendizei ao Senhor, todos os seus exércitos, vós ministros seus, que executais o seu beneplácito. ^v21
-
-**22** Bendizei ao Senhor, todas as suas obras, em todos os lugares do seu domínio; bendize, ó minha alma, ao Senhor. ^v22
+**22** Louvai a Yahweh todas as Suas criaturas, em todos os lugares onde Ele reina. Eu louvarei a Yahweh com toda a minha vida. ^v22

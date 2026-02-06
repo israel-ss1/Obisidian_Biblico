@@ -1,43 +1,40 @@
 ---
-Livro: "[[Salmos|Salmos]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Salmos|Salmos]]"
+tags: [biblia]
 ---
 
 # Salmos 88
 
-**1** SENHOR Deus da minha salvação, diante de ti tenho clamado de dia e de noite. ^v1
+**2** Escuta a minha oração, ouve o meu choro. ^v2
 
-**2** Chegue a minha oração perante a tua face, inclina os teus ouvidos ao meu clamor; ^v2
+**3** Estou cheio de aflições e minha vida atingiu o Sheol. ^v3
 
-**3** Porque a minha alma está cheia de angústia, e a minha vida se aproxima da sepultura. ^v3
+**4** As pessoas me tratam como aquele que vai para a cova; eu sou um homem sem forças. ^v4
 
-**4** Estou contado com aqueles que descem ao abismo; estou como homem sem forças, ^v4
+**5** Estou abandonado entre os mortos; sou como os mortos deitados no túmulo, sobre quem não Te importas mais, porque eles estão afastados do Teu cuidado. ^v5
 
-**5** Livre entre os mortos, como os feridos de morte que jazem na sepultura, dos quais te não lembras mais, e estão cortados da tua mão. ^v5
+**6** Colocaste-me no fundo da cova, no escuro e nas profundezas. ^v6
 
-**6** Puseste-me no abismo mais profundo, em trevas e nas profundezas. ^v6
+**7** Tua ira repousa pesada sobre mim e todas as Tuas ondas se quebram sobre mim. [Interlúdio] ^v7
 
-**7** Sobre mim pesa o teu furor; tu me afligiste com todas as tuas ondas. (Selá.) ^v7
+**8** Por causa de Ti, meus conhecidos me evitam. Tu me fizeste uma abominação para eles. Estou cercado e não posso escapar. ^v8
 
-**8** Alongaste de mim os meus conhecidos, puseste-me em extrema abominação para com eles. Estou fechado, e não posso sair. ^v8
+**9** Meus olhos estão enfraquecidos por causa das minhas aflições; o dia todo eu clamo a Ti, Yahweh. Eu ergo minhas mãos a Ti. ^v9
 
-**9** A minha vista desmaia por causa da aflição. Senhor, tenho clamado a ti todo o dia, tenho estendido para ti as minhas mãos. ^v9
+**10** Farás maravilhas pelos mortos? Os que já morreram se levantarão e adorarão a Ti? [Interlúdio] ^v10
 
-**10** Mostrarás, tu, maravilhas aos mortos, ou os mortos se levantarão e te louvarão? (Selá.) ^v10
+**11** Será a Tua fidelidade proclamada na sepultura e a Tua lealdade, no lugar dos mortos? ^v11
 
-**11** Será anunciada a tua benignidade na sepultura, ou a tua fidelidade na perdição? ^v11
+**12** Será que as Tuas maravilhas serão conhecidas na escuridão, ou a Tua retidão no lugar de esquecimento? ^v12
 
-**12** Saber-se-ão as tuas maravilhas nas trevas, e a tua justiça na terra do esquecimento? ^v12
+**13** Mas eu clamo a Ti, Yahweh; pela manhã, minha oração chega perante Ti. ^v13
 
-**13** Eu, porém, Senhor, tenho clamado a ti, e de madrugada te esperará a minha oração. ^v13
+**14** Yahweh, por que me rejeitas? Por que escondes Tua face de mim ? ^v14
 
-**14** Senhor, porque rejeitas a minha alma? Por que escondes de mim a tua face? ^v14
+**15** Desde a minha juventude, eu sempre estive afligido e à beira da morte. Sofri sob Teus horrores; eu estou desesperado. ^v15
 
-**15** Estou aflito, e prestes tenho estado a morrer desde a minha mocidade; enquanto sofro os teus terrores, estou perturbado. ^v15
+**16** A Tua ira veio sobre mim e os Teus terrores me aniquilaram. ^v16
 
-**16** A tua ardente indignação sobre mim vai passando; os teus terrores me têm retalhado. ^v16
+**17** Rodeiam-me como água o dia todo; todos têm-me cercado. ^v17
 
-**17** Eles me rodeiam todo o dia como água; eles juntos me sitiam. ^v17
-
-**18** Desviaste para longe de mim amigos e companheiros, e os meus conhecidos estão em trevas. ^v18
+**18** Tiraste de mim todo amigo e conhecido. Minha única conhecida é a escuridão. ^v18

@@ -1,139 +1,138 @@
 ---
-Livro: "[[Lamentações|Lamentações]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Lamentações|Lamentações]]"
+tags: [biblia]
 ---
 
 # Lamentações 3
 
-**1** Eu sou aquele homem que viu a aflição pela vara do seu furor. ^v1
+**1** Eu sou um homem que viu a miséria sob a vara da fúria de Yahweh. ^v1
 
-**2** Ele me guiou e me fez andar em trevas e não na luz. ^v2
+**2** Ele me guiou e me fez andar na escuridão, ao invés da luz. ^v2
 
-**3** Deveras fez virar e revirar a sua mão contra mim o dia todo. ^v3
+**3** Certamente, Ele se voltou contra mim repetidamente, o dia todo. ^v3
 
-**4** Fez envelhecer a minha carne e a minha pele, quebrou os meus ossos. ^v4
+**4** Ele fez a minha carne e a minha pele desaparecerem e quebrou meus ossos. ^v4
 
-**5** Edificou contra mim, e me cercou de fel e trabalho. ^v5
+**5** Ele construiu um cerco contra mim e me rodeou com amargura e sofrimento. ^v5
 
-**6** Assentou-me em lugares tenebrosos, como os que estavam mortos há muito. ^v6
+**6** Ele me fez viver em lugares escuros, como aqueles que morreram há muito tempo. ^v6
 
-**7** Cercou-me de uma sebe, e não posso sair; agravou os meus grilhões. ^v7
+**7** Construiu um muro ao meu redor, não posso escapar. Tornou minhas correntes pesadas. ^v7
 
-**8** Ainda quando clamo e grito, ele exclui a minha oração. ^v8
+**8** Embora eu peça ajuda e grite por socorro, Ele rejeita as minhas orações. ^v8
 
-**9** Fechou os meus caminhos com pedras lavradas, fez tortuosas as minhas veredas. ^v9
+**9** Ele bloqueou meu caminho, com parede de pedra lavrada; fez meus caminhos tortos. ^v9
 
-**10** Fez-se-me como urso de emboscada, um leão em esconderijos. ^v10
+**10** Ele é como um urso, esperando para me emboscar, um leão no esconderijo; ^v10
 
-**11** Desviou os meus caminhos, e fez-me em pedaços; deixou-me assolado. ^v11
+**11** Ele desviou os meus caminhos, despedaçou-me, deixou-me desolado. ^v11
 
-**12** Armou o seu arco, e me pôs como alvo à flecha. ^v12
+**12** Curvou Seu arco e me colocou como alvo de Sua flecha. ^v12
 
-**13** Fez entrar nos meus rins as flechas da sua aljava. ^v13
+**13** Ele perfurou meus rins com as flechas de sua aljava. ^v13
 
-**14** Fui feito um objeto de escárnio para todo o meu povo, e a sua canção todo o dia. ^v14
+**14** Tornei-me motivo de riso para todo o meu povo, o objeto de seus insultos durante todo o dia. ^v14
 
-**15** Fartou-me de amarguras, embriagou-me de absinto. ^v15
+**15** Ele me encheu de amargura e me forçou a beber absinto. ^v15
 
-**16** Quebrou com cascalho os meus dentes, abaixou-me na cinza. ^v16
+**16** Ele esmagou meus dentes com cascalho, afundou-me no pó. ^v16
 
-**17** E afastaste da paz a minha alma; esqueci-me do bem. ^v17
+**17** Minha alma está privada de paz, esqueci o que é felicidade. ^v17
 
-**18** Então disse eu: Já pereceu a minha força, como também a minha esperança no Senhor. ^v18
+**18** "Então, eu disse: ""Minha resistência pereceu, assim como a minha esperança em Yahweh""." ^v18
 
-**19** Lembra-te da minha aflição e do meu pranto, do absinto e do fel. ^v19
+**19** Lembre-se da minha aflição e das minhas andanças, do absinto e da amargura. ^v19
 
-**20** Minha alma certamente disto se lembra, e se abate dentro de mim. ^v20
+**20** Continuamente me lembro disso e estou curvado dentro de mim. ^v20
 
-**21** Disto me recordarei na minha mente; por isso esperarei. ^v21
+**21** Mas chamo isso à memória e, portanto, tenho esperança: ^v21
 
-**22** As misericórdias do Senhor são a causa de não sermos consumidos, porque as suas misericórdias não têm fim; ^v22
+**22** O amor inabalável de Yahweh nunca cessa, e Suas misericórdias não têm fim. ^v22
 
-**23** Novas são cada manhã; grande é a tua fidelidade. ^v23
+**23** São novas a cada manhã. Tua fidelidade é grande! ^v23
 
-**24** A minha porção é o Senhor, diz a minha alma; portanto esperarei nele. ^v24
+**24** """Yahweh é minha herança"", eu disse. Então, esperarei Nele." ^v24
 
-**25** Bom é o Senhor para os que esperam por ele, para a alma que o busca. ^v25
+**25** Yahweh é bom para os que esperam Nele, para aquele que O busca. ^v25
 
-**26** Bom é ter esperança, e aguardar em silêncio a salvação do Senhor. ^v26
+**26** É bom esperar, em silêncio, pela salvação de Yahweh. ^v26
 
-**27** Bom é para o homem suportar o jugo na sua mocidade. ^v27
+**27** É bom para o homem carregar o jugo em sua juventude. ^v27
 
-**28** Assente-se solitário e fique em silêncio; porquanto Deus o pôs sobre ele. ^v28
+**28** Que ele fique sozinho, e em silêncio, porque Deus pôs tal jugo sobre ele. ^v28
 
-**29** Ponha a sua boca no pó; talvez ainda haja esperança. ^v29
+**29** Que ponha a boca no pó, talvez ainda haja esperança. ^v29
 
-**30** Dê a sua face ao que o fere; farte-se de afronta. ^v30
+**30** Que ele dê a face ao que o golpeia e que se encha de desgraça, ^v30
 
-**31** Pois o Senhor não rejeitará para sempre. ^v31
+**31** porque o Senhor não nos rejeitará para sempre; ^v31
 
-**32** Pois, ainda que entristeça a alguém, usará de compaixão, segundo a grandeza das suas misericórdias. ^v32
+**32** embora cause tristeza, Ele terá compaixão segundo a abundância de Seu amor inabalável. ^v32
 
-**33** Porque não aflige nem entristece de bom grado aos filhos dos homens. ^v33
+**33** Porque Ele não aflige de bom grado ou atormenta os filhos dos homens. ^v33
 
-**34** Pisar debaixo dos seus pés a todos os presos da terra, ^v34
+**34** Para esmagar todos os cativos na terra debaixo de Seus pés, ^v34
 
-**35** Perverter o direito do homem perante a face do Altíssimo, ^v35
+**35** para desviar a justiça dos homens diante da face do Altíssimo, ^v35
 
-**36** Subverter ao homem no seu pleito, não o veria o Senhor? ^v36
+**36** para suprimir uma pessoa em sua causa — o Senhor não o vê? ^v36
 
-**37** Quem é aquele que diz, e assim acontece, quando o Senhor o não mande? ^v37
+**37** Quem é que fala e acontece a não ser que o Senhor o tenha decretado? ^v37
 
-**38** Porventura da boca do Altíssimo não sai tanto o mal como o bem? ^v38
+**38** Não sai da boca do Altíssimo tanto o mal quanto o bem? Como pode qualquer pessoa viva queixar-se? ^v38
 
-**39** De que se queixa, pois, o homem vivente? Queixe-se cada um dos seus pecados. ^v39
+**39** Como pode qualquer homem queixar-se da punição pelos seus pecados? ^v39
 
-**40** Esquadrinhemos os nossos caminhos, e provemo-los, e voltemos para o Senhor. ^v40
+**40** Esquadrinhemos e examinemos os nossos caminhos e voltemos para Yahweh. ^v40
 
-**41** Levantemos os nossos corações com as mãos para Deus nos céus, dizendo: ^v41
+**41** Levantemos nossos corações e as nossas mãos para o Deus dos céus e oremos: ^v41
 
-**42** Nós transgredimos, e fomos rebeldes; por isso tu não perdoaste. ^v42
+**42** """Nós transgredimos e nos rebelamos contra Ti, de modo que Tu não nos perdoaste." ^v42
 
-**43** Cobriste-te de ira, e nos perseguiste; mataste, não perdoaste. ^v43
+**43** Tu te cobriste com ira e nos perseguiste. Tu nos abateste e não tiveste piedade de nós. ^v43
 
-**44** Cobriste-te de nuvens, para que não passe a nossa oração. ^v44
+**44** Tu te cobriste com uma nuvem, de modo que nenhuma oração possa atravessá-la. ^v44
 
-**45** Como escória e refugo nos puseste no meio dos povos. ^v45
+**45** Tu nos fizeste refugo e resto entre os povos. ^v45
 
-**46** Todos os nossos inimigos abriram contra nós a sua boca. ^v46
+**46** Todos os nossos inimigos abriram a sua boca com zombaria contra nós. ^v46
 
-**47** Temor e laço vieram sobre nós, assolação e destruição. ^v47
+**47** "Medo da sepultura veio sobre nós, desolação e esmagamento""." ^v47
 
-**48** Torrentes de água derramaram os meus olhos, por causa da destruição da filha do meu povo. ^v48
+**48** O meu olho desce com rios de água por causa do esmagamento da filha do meu povo. ^v48
 
-**49** Os meus olhos choram, e não cessam, porque não há descanso, ^v49
+**49** Meus olhos fluem, eles não param, pois não há fim para isso ^v49
 
-**50** Até que o Senhor atente e veja desde os céus. ^v50
+**50** até que Yahweh olhe para baixo e veja do céu. ^v50
 
-**51** Os meus olhos entristecem a minha alma, por causa de todas as filhas da minha cidade. ^v51
+**51** Meus olhos trazem uma dor severa à minha vida por causa de todas as filhas da minha cidade. ^v51
 
-**52** Como ave me caçam os que, sem causa, são meus inimigos. ^v52
+**52** Meus inimigos me caçaram implacavelmente como a um pássaro, sem motivo. ^v52
 
-**53** Cortaram-me a vida na masmorra, e lançaram pedras sobre mim. ^v53
+**53** Eles destruíram a minha vida num fosso e colocaram uma pedra sobre mim. ^v53
 
-**54** águas correram sobre a minha cabeça; eu disse: Estou cortado. ^v54
+**54** "Águas cobriram minha cabeça; Eu disse: ""Estou perdido!""." ^v54
 
-**55** Invoquei o teu nome, Senhor, desde a mais profunda masmorra. ^v55
+**55** Invoquei o Teu nome, Yahweh, do mais profundo fosso. ^v55
 
-**56** Ouviste a minha voz; não escondas o teu ouvido ao meu suspiro, ao meu clamor. ^v56
+**56** "Tu ouviste minha voz quando eu clamei: ""Não escondas Teus ouvidos do meu pedido de alívio, do meu clamor de socorro""." ^v56
 
-**57** Tu te aproximaste no dia em que te invoquei; disseste: Não temas. ^v57
+**57** "Tu Te aproximaste de mim no dia em que eu Te invoquei, Tu me disseste: ""Não temas!""." ^v57
 
-**58** Pleiteaste, Senhor, as causas da minha alma, remiste a minha vida. ^v58
+**58** Senhor, Tu me defendeste quando eu estava em julgamento por minha vida, Tu salvaste minha vida! ^v58
 
-**59** Viste, Senhor, a injustiça que me fizeram; julga a minha causa. ^v59
+**59** Yahweh, Tu viste a opressão deles sobre mim. Julga meu caso com justiça. ^v59
 
-**60** Viste toda a sua vingança, todos os seus pensamentos contra mim. ^v60
+**60** Viste todos os atos deles de vingança, todos os planos deles contra mim. ^v60
 
-**61** Ouviste a sua afronta, Senhor, todos os seus pensamentos contra mim, ^v61
+**61** Tu ouviste o desprezo deles, Yahweh, e todos os planos deles em relação a mim ^v61
 
-**62** Os lábios dos que se levantam contra mim e os seus desígnios me são contrários todo o dia. ^v62
+**62** Tu ouviste os lábios dos que se levantaram contra mim; Tens escutado os pensamentos profundos deles, que são contra mim o dia inteiro. ^v62
 
-**63** Observa-os ao assentarem-se e ao levantarem-se; eu sou a sua música. ^v63
+**63** Seja no seu sentar ou no seu levantar, olha, Yahweh! Eu sou o objeto de suas canções de escárnio. ^v63
 
-**64** Tu lhes darás recompensa, Senhor, conforme a obra das suas mãos. ^v64
+**64** Retribui-lhes, Yahweh, causa-lhes danos, tanto quanto o que têm feito as mãos deles. ^v64
 
-**65** Tu lhes darás ânsia de coração, maldição tua sobre eles. ^v65
+**65** Põe medo no coração deles; põe a Tua maldição sobre eles. ^v65
 
-**66** Na tua ira os perseguirás, e os destruirás de debaixo dos céus do Senhor. ^v66
+**66** Persegue-os na Tua ira e destrói-os em todos os lugares debaixo dos céus, Yahweh! ^v66

@@ -1,71 +1,68 @@
 ---
-Livro: "[[Juízes|Juízes]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Juízes|Juízes]]"
+tags: [biblia]
 ---
 
 # Juízes 5
 
-**1** E cantou Débora e Baraque, filho de Abinoão, naquele mesmo dia, dizendo: ^v1
+**1** Naquele dia, Débora e Baraque, filho de Abinoão, cantaram esta música: ^v1
 
-**2** Louvai ao Senhor pela vingança de Israel, quando o povo se ofereceu voluntariamente. ^v2
+**2** """Quando os líderes assumiram a liderança de Israel, quando o povo alegremente voluntariou-se para a guerra, nós louvamos Yahweh!" ^v2
 
-**3** Ouvi, reis; dai ouvidos, príncipes; eu, eu cantarei ao Senhor; salmodiarei ao Senhor Deus de Israel. ^v3
+**3** Ouvi, ó reis! Atentai, ó líderes! Eu cantarei a Yahweh! Cantarei louvores a Yahweh, o Deus de Israel. ^v3
 
-**4** Ó Senhor, saindo tu de Seir, caminhando tu desde o campo de Edom, a terra estremeceu; até os céus gotejaram; até as nuvens gotejaram águas. ^v4
+**4** Yahweh, quando saíste de Seir, quando Tu marchaste de Edom, a terra se abalou e os céus também se estremeceram; e as nuvens derramaram água. ^v4
 
-**5** Os montes se derreteram diante do Senhor, e até Sinai diante do Senhor Deus de Israel. ^v5
+**5** As montanhas tremeram diante da face de Yahweh. Até o Monte Sinai tremeu diante da face de Yahweh, o Deus de Israel. ^v5
 
-**6** Nos dias de Sangar, filho de Anate, nos dias de Jael cessaram os caminhos; e os que andavam por veredas iam por caminhos torcidos. ^v6
+**6** Nos dias de Sangar, filho de Anate, nos dias de Jael, as principais estradas foram abandonadas, e aqueles que passavam usavam somente caminhos tortuosos. ^v6
 
-**7** Cessaram as aldeias em Israel, cessaram; até que eu, Débora, me levantei, por mãe em Israel me levantei. ^v7
+**7** Havia poucos guerreiros em Israel, até que eu, Débora, tomei o comando. Uma mãe assumiu o comando em Israel! ^v7
 
-**8** E se escolhia deuses novos, logo a guerra estava às portas; via-se por isso escudo ou lança entre quarenta mil em Israel? ^v8
+**8** Quando eles escolheram novos deuses, havia guerra nos portões da cidade. Não se viam escudos nem lanças entre os quarenta mil, em Israel. ^v8
 
-**9** Meu coração é para os legisladores de Israel, que voluntariamente se ofereceram entre o povo; bendizei ao Senhor. ^v9
+**9** Meu coração vai junto com os comandantes de Israel, junto com o povo que, alegremente, se voluntariou. Nós bendizemos a Yahweh por eles! ^v9
 
-**10** Vós os que cavalgais sobre jumentas brancas, que vos assentais em juízo, que andais pelo caminho, falai disto. ^v10
+**10** Pensai sobre isso, vós que cavalgais em jumentas brancas, sentados em tapetes como suas selas, e vós que andais ao longo do caminho. ^v10
 
-**11** Donde se ouve o estrondo dos flecheiros, entre os lugares onde se tiram águas, ali falai das justiças do Senhor, das justiças que fez às suas aldeias em Israel; então o povo do Senhor descia às portas. ^v11
+**11** Ouvi as vozes dos que cantam entre os bebedouros. Ali eles falam novamente dos justos feitos de Yahweh, e das justas ações dos Seus guerreiros em Israel. Então, o povo de Yahweh desceu aos portões da cidade. ^v11
 
-**12** Desperta, desperta, Débora, desperta, desperta, entoa um cântico; levanta-te, Baraque, e leva presos os teus cativos, tu, filho de Abinoão. ^v12
+**12** Desperta, desperta, Débora! Desperta, desperta, entoa um cântico! Levanta-te, Baraque, e captura os teus prisioneiros, filho de Abinoão. ^v12
 
-**13** Então fez dominar sobre os nobres entre o povo, aos que restaram; fez-me o Senhor dominar sobre os poderosos. ^v13
+**13** Então, os sobreviventes desceram aos nobres; o povo de Yahweh desceu a mim com os soldados. ^v13
 
-**14** De Efraim saiu a sua raiz contra Amaleque; e depois de ti vinha Benjamim dentre os teus povos; de Maquir desceram os legisladores, e de Zebulom os que levaram a cana do escriba. ^v14
+**14** Vieram de Efraim, aqueles que tinham sua raiz em Amaleque; o povo de Benjamim vos seguiu. De Maquir desceram comandantes, e de Zebulom, aqueles que carregam uma vara de comando. ^v14
 
-**15** Também os principais de Issacar foram com Débora; e como Issacar, assim também Baraque, foi enviado a pé para o vale; nas divisões de Rúben foram grandes as resoluções do coração. ^v15
+**15** Meus príncipes de Issacar estavam com Débora; e Issacar estava com Baraque, seguindo-o, apressadamente, ao vale. Junto aos clãs de Rúben, havia grande inquietação de coração. ^v15
 
-**16** Por que ficaste tu entre os currais para ouvires os balidos dos rebanhos? Nas divisões de Rúben tiveram grandes esquadrinhações do coração. ^v16
+**16** Por que sentastes entre as fogueiras, ouvindo os pastores tocando apitos para seus rebanhos? Os clãs de Rúben estavam em grande inquietação de coração. ^v16
 
-**17** Gileade ficou além do Jordão, e Dã por que se deteve nos navios? Aser se assentou na beira dos mares, e ficou junto às suas baías. ^v17
+**17** Gileade ficou do outro lado do Jordão. E Dã, por que foi de um lado para o outro sobre os navios? Aser permaneceu na costa e morou perto de seus portos. ^v17
 
-**18** Zebulom é um povo que expôs a sua vida à morte, como também Naftali, nas alturas do campo. ^v18
+**18** Zebulom foi a tribo que arriscou suas vidas até a morte, assim como Naftali, no campo de batalha. ^v18
 
-**19** Vieram reis, pelejaram; então pelejaram os reis de Canaã em Taanaque, junto às águas de Megido; não tomaram despojo de prata. ^v19
+**19** Reis vieram e lutaram, os reis cananeus lutaram em Taanaque, junto às águas do Megido. Todavia, eles não levaram nenhuma prata como saque. ^v19
 
-**20** Desde os céus pelejaram; até as estrelas desde os lugares dos seus cursos pelejaram contra Sísera. ^v20
+**20** Dos céus, as estrelas lutaram; de seus caminhos, cruzando os céus, elas lutaram contra Sísera. ^v20
 
-**21** O ribeiro de Quisom os arrastou, aquele antigo ribeiro, o ribeiro de Quisom. Pisaste, ó minha alma, à força. ^v21
+**21** O rio Quisom os varreu; aquele antigo rio, o rio Quisom. Marcha, minha alma, sê forte! ^v21
 
-**22** Então os cascos dos cavalos se despedaçaram; pelo galopar, o galopar dos seus valentes. ^v22
+**22** Então, veio o som dos cascos dos cavalos galopando, o galope dos seus poderosos. ^v22
 
-**23** Amaldiçoai a Meroz, diz o anjo do Senhor, acremente amaldiçoai aos seus moradores; porquanto não vieram ao socorro do Senhor, ao socorro do Senhor com os valorosos. ^v23
+**23** 'Amaldiçoai Meroz!', diz o Anjo de Yahweh. 'Certamente, amaldiçoai seus habitantes! Porque não vieram para ajudar Yahweh, para ajudar Yahweh na batalha contra os poderosos soldados'. ^v23
 
-**24** Bendita seja entre as mulheres, Jael, mulher de Héber, o queneu; bendita seja entre as mulheres nas tendas. ^v24
+**24** Jael é mais abençoada do que todas as outras mulheres. Jael, a esposa de Héber, o queneu, é mais abençoada do que todas as mulheres que vivem nas tendas. ^v24
 
-**25** Água pediu ele, leite lhe deu ela; em prato de nobres lhe ofereceu manteiga. ^v25
+**25** O homem pediu água, e ela lhe deu leite. Ela lhe trouxe manteiga em um prato adequado para príncipes. ^v25
 
-**26** À estaca estendeu a sua mão esquerda, e ao martelo dos trabalhadores a sua direita; e matou a Sísera, e rachou-lhe a cabeça, quando lhe pregou e atravessou as fontes. ^v26
+**26** Ela colocou sua mão na estaca e sua mão direita no martelo de trabalhador. Com o martelo, ela golpeou Sísera, e esmagou a sua cabeça. Ela rachou seu crânio em pedaços quando o perfurou na lateral da cabeça. ^v26
 
-**27** Entre os seus pés se encurvou, caiu, ficou estirado; entre os seus pés se encurvou, caiu; onde se encurvou, ali ficou abatido. ^v27
+**27** Ele desabou entre os seus pés. Ele caiu e ficou ali. Entre os seus pés caiu estirado. O lugar onde caiu é onde foi violentamente morto. ^v27
 
-**28** A mãe de Sísera olhava pela janela, e exclamava pela grade: Por que tarda em vir o seu carro? Por que se demoram os ruídos dos seus carros? ^v28
+**28** Para fora da janela, ela olhou, a mãe de Sísera olhou através da grade, e gritou em tristeza: 'Por que o seu carro demora tanto para vir? Por que as batidas dos cascos dos cavalos que puxam a sua carruagem se atrasam?'. ^v28
 
-**29** As mais sábias das suas damas responderam; e até ela respondia a si mesma: ^v29
+**29** Sua mais sábia princesa lhe respondeu, e ela repetia essas palavras a si mesma: ^v29
 
-**30** Porventura não achariam e repartiriam despojos? Uma ou duas moças a cada homem? Para Sísera despojos de estofos coloridos, despojos de estofos coloridos bordados; de estofos coloridos bordados de ambos os lados como despojo para os pescoços. ^v30
+**30** 'Por acaso não encontraram e dividiram a pilhagem? Uma virgem, duas virgens para cada homem; uma pilhagem de roupas coloridas para Sísera, uma pilhagem de roupas coloridas e de bordados, duas peças de roupas bordadas para os pescoços daqueles que pilharam?'. ^v30
 
-**31** Assim, ó Senhor, pereçam todos os teus inimigos! Porém os que te amam sejam como o sol quando sai na sua força. ^v31
-
-**32** E sossegou a terra quarenta anos. ^v32
+**31** "Que pereçam todos os Teus inimigos, Yahweh! Mas que aqueles que Te amam sejam como o sol quando nasce em seu poder"". E a terra teve paz por quarenta anos." ^v31

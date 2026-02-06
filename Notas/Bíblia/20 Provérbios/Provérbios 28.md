@@ -1,63 +1,62 @@
 ---
-Livro: "[[Provérbios|Provérbios]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Provérbios|Provérbios]]"
+tags: [biblia]
 ---
 
 # Provérbios 28
 
-**1** Os ímpios fogem sem que haja ninguém a persegui-los; mas os justos são ousados como um leão. ^v1
+**1** Os corruptos fogem quando ninguém os persegue, mas os justos são ousados como um leão jovem. ^v1
 
-**2** Pela transgressão da terra muitos são os seus príncipes, mas por homem prudente e entendido a sua continuidade será prolongada. ^v2
+**2** Por causa da transgressão da terra, ela possui muitos governantes, mas, com um homem de entendimento e conhecimento, ela durará muito tempo. ^v2
 
-**3** O homem pobre que oprime os pobres é como a chuva impetuosa, que causa a falta de alimento. ^v3
+**3** O pobre que oprime outro pobre é como chuva forte que não deixa alimento. ^v3
 
-**4** Os que deixam a lei louvam o ímpio; porém os que guardam a lei contendem com eles. ^v4
+**4** Aqueles que abandonam a lei elogiam os corruptos, mas aqueles que guardam a lei lutam contra eles. ^v4
 
-**5** Os homens maus não entendem o juízo, mas os que buscam ao Senhor entendem tudo. ^v5
+**5** Os homens maus não entendem a justiça, mas aqueles que buscam a Yahweh entendem tudo. ^v5
 
-**6** Melhor é o pobre que anda na sua integridade do que o de caminhos perversos ainda que seja rico. ^v6
+**6** É melhor o pobre que anda em sua integridade que o rico que é tortuoso em seus caminhos. ^v6
 
-**7** O que guarda a lei é filho sábio, mas o companheiro dos desregrados envergonha a seu pai. ^v7
+**7** Aquele que guarda a lei é um filho com entendimento, mas aquele que é companheiro dos gulosos envergonha seu pai. ^v7
 
-**8** O que aumenta os seus bens com usura e ganância ajunta-os para o que se compadece do pobre. ^v8
+**8** Aquele que faz sua fortuna cobrando muitos juros ajunta sua riqueza para outro que terá compaixão dos pobres. ^v8
 
-**9** O que desvia os seus ouvidos de ouvir a lei, até a sua oração será abominável. ^v9
+**9** Se alguém desvia o ouvido de ouvir a lei, até a sua oração é detestável. ^v9
 
-**10** O que faz com que os retos errem por mau caminho, ele mesmo cairá na sua cova; mas os bons herdarão o bem. ^v10
+**10** Quem fizer desviar o justo para o mau caminho cairá em sua própria cova, mas os irrepreensíveis terão uma boa herança. ^v10
 
-**11** O homem rico é sábio aos seus próprios olhos, mas o pobre que é entendido, o examina. ^v11
+**11** O rico é sábio aos seus próprios olhos, mas o pobre que tem entendimento o avaliará. ^v11
 
-**12** Quando os justos exultam, grande é a glória; mas quando os ímpios sobem, os homens se escondem. ^v12
+**12** Quando os justos triunfam, há grande glória, mas, quando os corruptos se levantam, o povo se esconde. ^v12
 
-**13** O que encobre as suas transgressões nunca prosperará, mas o que as confessa e deixa, alcançará misericórdia. ^v13
+**13** Aquele que esconde seus pecados não prosperará, mas aquele que os confessa e os abandona alcançará misericórdia. ^v13
 
-**14** Bem-aventurado o homem que continuamente teme; mas o que endurece o seu coração cairá no mal. ^v14
+**14** Abençoado será aquele que sempre vive com reverência, mas quem endurece seu coração cairá em dificuldades. ^v14
 
-**15** Como leão rugidor, e urso faminto, assim é o ímpio que domina sobre um povo pobre. ^v15
+**15** Como um leão rugindo ou um urso quando ataca, assim é o governante corrupto sobre os pobres. ^v15
 
-**16** O príncipe falto de entendimento é também um grande opressor, mas o que odeia a avareza prolongará seus dias. ^v16
+**16** O governante a quem falta entendimento é um opressor cruel, mas aquele que odeia a desonestidade prolongará seus dias. ^v16
 
-**17** O homem carregado do sangue de qualquer pessoa fugirá até à cova; ninguém o detenha. ^v17
+**17** Se um homem é culpado porque derramou o sangue de alguém, ele será um fugitivo até a morte, e ninguém o ajudará. ^v17
 
-**18** O que anda sinceramente salvar-se-á, mas o perverso em seus caminhos cairá logo. ^v18
+**18** Quem caminha com integridade será mantido a salvo, mas aquele que tem o caminho torto cairá logo. ^v18
 
-**19** O que lavrar a sua terra virá a fartar-se de pão, mas o que segue a ociosos se fartará de pobreza. ^v19
+**19** Aquele que lavra a sua terra terá muita comida, mas quem segue objetivos inúteis terá muita pobreza. ^v19
 
-**20** O homem fiel será coberto de bênçãos, mas o que se apressa a enriquecer não ficará impune. ^v20
+**20** O homem fiel terá grandes bênçãos, mas aquele que se enriquece rapidamente não ficará impune. ^v20
 
-**21** Dar importância à aparência das pessoas não é bom, porque até por um bocado de pão um homem prevaricará. ^v21
+**21** Não é bom mostrar parcialidade, mas, por um pedaço de pão, o homem cometerá uma transgressão. ^v21
 
-**22** O que quer enriquecer depressa é homem de olho maligno, porém não sabe que a pobreza há de vir sobre ele. ^v22
+**22** O homem mesquinho corre atrás de riquezas, mas ele não sabe que a pobreza virá sobre ele. ^v22
 
-**23** O que repreende o homem gozará depois mais amizade do que aquele que lisonjeia com a língua. ^v23
+**23** Quem repreende alguém alcançará dele mais favor do que alguém que o bajule com sua língua. ^v23
 
-**24** O que rouba a seu próprio pai, ou a sua mãe, e diz: Não é transgressão, companheiro é do homem destruidor. ^v24
+**24** "Qualquer um que rouba seu pai e sua mãe e diz: ""Isso não é pecado"", esse é companheiro do que destrói." ^v24
 
-**25** O orgulhoso de coração levanta contendas, mas o que confia no Senhor prosperará. ^v25
+**25** O homem ganancioso provoca conflitos, mas o que confia em Yahweh prosperará. ^v25
 
-**26** O que confia no seu próprio coração é insensato, mas o que anda em sabedoria, será salvo. ^v26
+**26** Aquele que confia em seu próprio coração é um tolo, mas quem anda em sabedoria será mantido longe do perigo. ^v26
 
-**27** O que dá ao pobre não terá necessidade, mas o que esconde os seus olhos terá muitas maldições. ^v27
+**27** Àquele que dá aos pobres não lhe faltará nada, mas quem fecha os olhos para eles receberá muitas maldições. ^v27
 
-**28** Quando os ímpios se elevam, os homens andam se escondendo, mas quando perecem, os justos se multiplicam. ^v28
+**28** Quando os corruptos se levantam, o povo se esconde, mas quando eles perecem, os justos aumentam. ^v28

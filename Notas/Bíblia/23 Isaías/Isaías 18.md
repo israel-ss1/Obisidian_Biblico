@@ -1,21 +1,20 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Isaías|Isaías]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Isaías|Isaías]]"
+tags: [biblia]
 ---
 
 # Isaías 18
 
-**1** Ai da terra que ensombreia com as suas asas, que está além dos rios da Etiópia. ^v1
+**1** Ai da terra de asas ruidosas, que está ao longo dos rios da Etiópia; ^v1
 
-**2** Que envia embaixadores por mar em navios de junco sobre as águas, dizendo: Ide, mensageiros velozes, a um povo de elevada estatura e de pele lisa; a um povo terrível desde o seu princípio; a uma nação forte e esmagadora, cuja terra os rios dividem. ^v2
+**2** que envia embaixadores pelo mar, em navios de papiros sobre as águas. Ide, vós mensageiros velozes, para uma nação alta e de pele lisa, para um povo temido pelos de perto e pelos de longe, para uma nação forte e esmagadora, cuja terra os rios dividem. ^v2
 
-**3** Vós, todos os habitantes do mundo, e vós os moradores da terra, quando se arvorar a bandeira nos montes, o vereis; e quando se tocar a trombeta, o ouvireis. ^v3
+**3** Todos vós, habitantes do mundo, vós que viveis sobre a terra, quando um sinal for levantado nas montanhas, vede; e quando a trombeta soar, ouvi. ^v3
 
-**4** Porque assim me disse o Senhor: Estarei quieto, olhando desde a minha morada, como o ardor do sol resplandecente depois da chuva, como a nuvem do orvalho no calor da sega. ^v4
+**4** "Isto é o que Yahweh disse para mim: ""Da Minha casa observarei, silenciosamente, como o ardor do sol resplandecente, como o orvalho no calor, em tempos de colheita""." ^v4
 
-**5** Porque antes da sega, quando já o fruto está perfeito e, passada a flor, as uvas verdes amadurecerem, então, com foice podará os sarmentos e tirará os ramos e os lançará fora. ^v5
+**5** Antes da colheita, quando a florada terminar e as flores amadurecerem como uvas, Ele cortará os ramos com ganchos de poda, cortará e tirará os galhos espalhados. ^v5
 
-**6** Serão deixados juntos às aves dos montes e aos animais da terra; e sobre eles veranearão as aves de rapina, e todos os animais da terra invernarão sobre eles. ^v6
+**6** Eles serão deixados juntos para as aves das montanhas e para os animais da terra. As aves de rapina passarão o verão com eles e os animais da terra passarão o inverno. ^v6
 
-**7** Naquele tempo trará um presente ao Senhor dos Exércitos um povo de elevada estatura e de pele lisa, e um povo terrível desde o seu princípio; uma nação forte e esmagadora, cuja terra os rios dividem; ao lugar do nome do Senhor dos Exércitos, ao monte Sião. ^v7
+**7** Naquele tempo, serão levados tributos a Yahweh dos Exércitos — por um povo alto e de pele lisa, povo temido por todos, de longe e de perto, por uma nação forte e esmagadora, cuja terra é dividida por rios — ao monte Sião, o lugar do nome de Yahweh dos Exércitos. ^v7

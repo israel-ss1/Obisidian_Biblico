@@ -1,137 +1,136 @@
 ---
-Livro: "[[Números|Números]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Números|Números]]"
+tags: [biblia]
 ---
 
 # Números 26
 
-**1** Aconteceu, pois, que, depois daquela praga, falou o SENHOR a Moisés, e a Eleazar, filho de Arão, o sacerdote, dizendo: ^v1
+**1** Foi depois da praga que Yahweh falou com Moisés e Eleazar, filho do sacerdote Arão. Ele disse: ^v1
 
-**2** Tomai a soma de toda a congregação dos filhos de Israel, da idade de vinte anos para cima, segundo as casas de seus pais; todos os que em Israel podem sair à guerra. ^v2
+**2** """Contai toda a comunidade do povo de Israel, de vinte anos ou mais, pelas famílias de seus antepassados, todos que são aptos para guerrear por Israel""." ^v2
 
-**3** Falaram-lhes, pois, Moisés e Eleazar, o sacerdote, nas campinas de Moabe, junto ao Jordão na altura de Jericó, dizendo: ^v3
+**3** Então, Moisés e o sacerdote Eleazar falaram a eles na planície de Moabe diante do Jordão em Jericó, e disseram: ^v3
 
-**4** Conta o povo da idade de vinte anos para cima, como o Senhor ordenara a Moisés e aos filhos de Israel, que saíram do Egito. ^v4
+**4** """Contai o povo, de vinte anos de idade ou mais, como Yahweh ordenou a Moisés e ao povo de Israel, aqueles que saíram da terra do Egito""." ^v4
 
-**5** Rúben, o primogênito de Israel; os filhos de Rúben: de Enoque, a família dos enoquitas; de Palu, a família dos paluítas; ^v5
+**5** Rúben era o primogênito de Israel. De seu filho Hanoque, veio o clã dos hanoquitas; de Palu, veio o clã dos paluítas; ^v5
 
-**6** De Hezrom, a família dos hezronitas; de Carmi, a família dos carmitas. ^v6
+**6** de Hezrom, veio o clã dos hezronitas; de Carmi, veio o clã dos carmitas. ^v6
 
-**7** Estas são as famílias dos rubenitas; e os que foram deles contados foram quarenta e três mil e setecentos e trinta. ^v7
+**7** Esses são os clãs descendentes de Rúben, foram contados quarenta e três mil, setecentos e trinta homens. ^v7
 
-**8** E os filhos de Palu, Eliabe; ^v8
+**8** Eliabe era o filho de Palu. ^v8
 
-**9** E os filhos de Eliabe, Nemuel, e Datã, e Abirão: estes, Datã e Abirão, foram os do conselho da congregação, que contenderam contra Moisés e contra Arão no grupo de Coré, quando rebelaram contra o Senhor; ^v9
+**9** Os filhos de Eliabe eram Nemuel, Datã e Abirão. Esses eram os mesmos Datã e Abirão que seguiram Coré quando eles desafiaram Moisés e Arão e rebelaram-se contra Yahweh. ^v9
 
-**10** E a terra abriu a sua boca, e os tragou com Coré, quando morreu aquele grupo; quando o fogo consumiu duzentos e cinqüenta homens, os quais serviram de advertência. ^v10
+**10** A terra abriu sua boca e os engoliu junto com Coré quando todos os seus seguidores morreram. Naquele momento, o fogo devorou duzentos e cinquenta homens, que se tornaram um sinal de advertência. ^v10
 
-**11** Mas os filhos de Coré não morreram. ^v11
+**11** Todavia, a linhagem de Coré não morreu. ^v11
 
-**12** Os filhos de Simeão, segundo as suas famílias: de Nemuel, a família dos nemuelitas; de Jamim, a família dos jaminitas; de Jaquim, a família dos jaquinitas; ^v12
+**12** Os clãs dos descendentes de Simeão eram esses: de Nemuel, o clã dos Nemuelitas; de Jamim, o clã dos Jaminitas; de Jaquim, o clã do Jaquinitas; ^v12
 
-**13** De Zerá, a família dos zeraítas; de Saul, a família dos saulitas. ^v13
+**13** de Zerá, o clã dos Zeraítas; de Saul, o clã dos Saulitas. ^v13
 
-**14** Estas são as famílias dos simeonitas, vinte e dois mil e duzentos. ^v14
+**14** Esses eram os clãs descendentes de Simeão, foram contados vinte e dois mil e duzentos homens. ^v14
 
-**15** Os filhos de Gade, segundo as suas gerações; de Zefom, a família dos zefonitas; de Hagi, a família dos hagitas; de Suni, a família dos sunitas; ^v15
+**15** Os clãs descendentes de Gade eram estes: de Zefom, o clã dos zefonitas; de Hagui, o clã dos hagitas; de Suni, o clã do sunitas; ^v15
 
-**16** De Ozni, a família dos oznitas; de Eri, a família dos eritas; ^v16
+**16** de Ozni, o clã dos oznitas; de Eri, o clã dos eritas; ^v16
 
-**17** De Arode, a família dos aroditas; de Areli, a família dos arelitas. ^v17
+**17** de Arode, o clã dos aroditas; de Areli, o clã dos arelitas. ^v17
 
-**18** Estas são as famílias dos filhos de Gade, segundo os que foram deles contados, quarenta mil e quinhentos. ^v18
+**18** Esses eram os clãs descedentes de Gade, foram contados quarenta mil e quinhentos homens. ^v18
 
-**19** Os filhos de Judá, Er e Onã; mas Er e Onã morreram na terra de Canaã. ^v19
+**19** Os filhos de Judá eram Er e Onã, mas esses homens morreram na terra de Canaã. ^v19
 
-**20** Assim os filhos de Judá foram segundo as suas famílias; de Selá, a família dos selanitas; de Perez, a família dos perezitas; de Zerá, a família dos zeraítas. ^v20
+**20** Os clãs dos outros descendentes de Judá eram estes: de Selá, o clã de selanitas; de Perez, o clã de perezitas; e de Zerá, o clã dos zeraítas. ^v20
 
-**21** E os filhos de Perez foram: de Hezrom, a família dos hezronitas; de Hamul, a família dos hamulitas. ^v21
+**21** Os descendentes de Perez eram estes: de Hezrom, o clã dos hezronitas; de Hamul, o clã dos hamulitas. ^v21
 
-**22** Estas são as famílias de Judá, segundo os que foram deles contados, setenta e seis mil e quinhentos. ^v22
+**22** Esses eram os clãs dos descendentes de Judá, foram contados setenta e seis mil e quinhentos homens. ^v22
 
-**23** Os filhos de Issacar, segundo as suas famílias, foram: de Tola, a família dos tolaítas; de Puva, a família dos puvitas; ^v23
+**23** Os clãs dos descendentes de Issacar eram estes: de Tola, o clã de Tolaítas; de Puá, o clã dos Punitas; ^v23
 
-**24** De Jasube, a família dos jasubitas; de Sinrom, a família dos sinronitas. ^v24
+**24** de Jasube, o clã dos Jasubitas; de Sinrom, o clã dos Sinronitas. ^v24
 
-**25** Estas são as famílias de Issacar, segundo os que foram deles contados, sessenta e quatro mil e trezentos. ^v25
+**25** Esses eram os clãs de Issacar, foram contados sessenta e quatro mil e trezentos homens. ^v25
 
-**26** Os filhos de Zebulom, segundo as suas famílias, foram: de Serede, a família dos sereditas; de Elom, a família dos elonitas; de Jaleel, a família dos jaleelitas. ^v26
+**26** Os clãs de descendentes de Zebulom eram estes: de Serede, o clã dos sereditas; de Elom, o clã dos elonitas; de Jaleel, o clã dos jaleelitas. ^v26
 
-**27** Estas são as famílias dos zebulonitas, segundo os que foram deles contados, sessenta mil e quinhentos. ^v27
+**27** Esses eram os clãs dos zebulonitas, foram contados sessenta mil e quinhentos homens. ^v27
 
-**28** Os filhos de José segundo as suas famílias, foram Manassés e Efraim. ^v28
+**28** Os clãs de descendentes de José eram Manassés e Efraim. ^v28
 
-**29** Os filhos de Manassés foram; de Maquir, a família dos maquiritas; e Maquir gerou a Gileade; de Gileade, a família dos gileaditas. ^v29
+**29** Os descendentes de Manassés eram estes: de Maquir, o clã dos maquiritas (Maquir foi o pai de Gileade); de Gileade, o clã dos gileaditas. ^v29
 
-**30** Estes são os filhos de Gileade; de Jezer, a família dos jezeritas; de Heleque, a família dos helequitas; ^v30
+**30** Os descendentes de Gileade eram estes: de lezer, o clã dos iezeritas; de Heleque, o clã dos helequitas; ^v30
 
-**31** E de Asriel, a família dos asrielitas; e de Siquém, a família dos siquemitas; ^v31
+**31** de Asriel, o clã dos asrielitas; de Siquém, o clã dos siquemitas; ^v31
 
-**32** E de Semida, a família dos semidaítas; e de Hefer, a família dos heferitas. ^v32
+**32** de Semida, o clã dos semidaítas; de Hefer, o clã dos heferitas. ^v32
 
-**33** Porém, Zelofeade, filho de Hefer, não tinha filhos, senão filhas; e os nomes das filhas de Zelofeade foram Maalá, Noa, Hogla, Milca e Tirza. ^v33
+**33** Zelofeade, filho de Héfer, não teve filhos, apenas filhas. Os nomes de suas filhas eram Macla, Noa, Hogla, Milca e Tirza. ^v33
 
-**34** Estas são as famílias de Manassés; e os que foram deles contados, foram cinqüenta e dois mil e setecentos. ^v34
+**34** Esses foram os clãs de Manassés, foram contados cinquenta e dois mil e setecentos homens. ^v34
 
-**35** Estes são os filhos de Efraim, segundo as suas famílias: de Sutela, a família dos sutelaítas; de Bequer, a família dos bequeritas; de Taã, a família dos taanitas. ^v35
+**35** Os clãs dos descendentes de Efraim foram estes: De Sutela, o clã dos sutelaítas; de Bequer, o clã dos bequeritas; de Taã, o clã dos taanitas. ^v35
 
-**36** E estes são os filhos de Sutela: de Erã, a família dos eranitas. ^v36
+**36** Os descendentes de Sutela foram, de Erã, o clã dos eranitas. ^v36
 
-**37** Estas são as famílias dos filhos de Efraim, segundo os que foram deles contados, trinta e dois mil e quinhentos; estes são os filhos de José, segundo as suas famílias. ^v37
+**37** Esses foram os clãs dos descendentes de Efraim, foram contados trinta e dois mil e quinhentos homens. Esses foram os descendentes de José, contados em cada um dos seus clãs. ^v37
 
-**38** Os filhos de Benjamim, segundo as suas famílias: de Belá, a família dos belaítas; de Asbel, a família dos asbelitas; de Airã, a família dos airamitas; ^v38
+**38** Os clãs dos descendentes de Benjamim foram estes: de Belá, o clã dos belaítas; de Asbel, o clã dos asbelitas; de Airã, o clã dos airamitas; ^v38
 
-**39** De Sufã, a família dos sufamitas; de Hufã, a família dos hufamitas. ^v39
+**39** de Sufã, o clã dos sufamitas; de Hufã, o clã dos hufamitas. ^v39
 
-**40** E os filhos de Belá foram Arde e Naamã; de Arde, a família dos arditas; de Naamã, a família dos naamanitas. ^v40
+**40** Os filhos de Belá eram Arde e Naamã. De Arde, veio o clã dos arditas, e, de Naamã, veio o clã dos naamanitas. ^v40
 
-**41** Estes são os filhos de Benjamim, segundo as suas famílias; e os que foram deles contados, foram quarenta e cinco mil e seiscentos. ^v41
+**41** Esses foram os clãs dos descendentes de Benjamim. Foram contados quarenta e cinco mil e seiscentos homens. ^v41
 
-**42** Estes são os filhos de Dã, segundo as suas famílias; de Suã, a família dos suamitas. Estas são as famílias de Dã, segundo as suas famílias. ^v42
+**42** Os clãs dos descendentes de Dã eram, de Suão, os clãs dos suamitas. Esses foram os clãs dos descendentes de Dã. ^v42
 
-**43** Todas as famílias dos suamitas, segundo os que foram deles contados, foram sessenta e quatro mil e quatrocentos. ^v43
+**43** Todos os clãs dos suamitas foram contados sessenta e quatro mil. ^v43
 
-**44** Os filhos de Aser, segundo as suas famílias, foram: de Imna, a família dos imnaítas; de Isvi, a família dos isvitas; de Berias, a família dos beriítas. ^v44
+**44** Os clãs dos descendentes de Aser foram estes: de Imna, o clã dos imnaítas; de Isvi, o clã dos isvitas; de Berias, o clã dos beriaítas. ^v44
 
-**45** Dos filhos de Berias, foram; de Héber, a família dos heberitas; de Malquiel, a família dos malquielitas. ^v45
+**45** Os descendentes de Berias foram estes: de Héber, o clã dos heberitas; de Malquiel, o clã dos malquielitas. ^v45
 
-**46** E o nome da filha de Aser foi Sera. ^v46
+**46** O nome da filha de Aser era Sera. ^v46
 
-**47** Estas são as famílias dos filhos de Aser, segundo os que foram deles contados, cinqüenta e três mil e quatrocentos. ^v47
+**47** Esses foram os clãs dos descendentes de Aser, foram contados cinquenta e três mil e quatrocentos homens. ^v47
 
-**48** Os filhos de Naftali, segundo as suas famílias; de Jazeel, a família dos jazeelitas; de Guni, a família dos gunitas; ^v48
+**48** Os clãs dos descendentes de Naftali foram estes: de Jazeel, o clã dos jazeelitas; de Guni, o clã dos gunitas; ^v48
 
-**49** De Jezer, a família dos jezeritas; de Silém, a família dos silemitas. ^v49
+**49** de Jezer, o clã dos jezeritas; de Silém, o clã dos silemitas. ^v49
 
-**50** Estas são as famílias de Naftali, segundo as suas famílias; e os que foram deles contados, foram quarenta e cinco mil e quatrocentos. ^v50
+**50** Esses foram os clãs dos descendentes de Naftali, foram contados quarenta e cinco mil e quatrocentos homens. ^v50
 
-**51** Estes são os que foram contados dos filhos de Israel, seiscentos e um mil e setecentos e trinta. ^v51
+**51** Esta foi a conta completa dos homens entre o povo de Israel: seiscentos e um mil, setecentos e trinta. ^v51
 
-**52** E falou o Senhor a Moisés, dizendo: ^v52
+**52** Yahweh falou com Moisés e disse: ^v52
 
-**53** A estes se repartirá a terra em herança, segundo o número dos nomes. ^v53
+**53** """A terra será dividida entre estes homens como uma herança de acordo com o número dos seus nomes." ^v53
 
-**54** Aos muitos aumentarás a sua herança, e aos poucos diminuirás a sua herança; a cada um se dará a sua herança, segundo os que foram deles contados. ^v54
+**54** Para os clãs maiores, vós dareis maior herança, e, para os menores, dareis menor herança. Para toda família, dará uma herança de acordo com o número de homens que foram contados. ^v54
 
-**55** Todavia a terra se repartirá por sortes; segundo os nomes das tribos de seus pais a herdarão. ^v55
+**55** Entretanto, a terra será dividida em lotes aleatórios. Eles herdarão a terra conforme a divisão feita entre as tribos dos antepassados. ^v55
 
-**56** Segundo sair a sorte, se repartirá a herança deles entre as tribos de muitos e as de poucos. ^v56
+**56** A herança deles será dividida entre os grandes e pequenos clãs, distribuídas para eles em lotes aleatórios. ^v56
 
-**57** E estes são os que foram contados dos levitas, segundo as suas famílias: de Gérson, a família dos gersonitas; de Coate, a família dos coatitas; de Merari, a família dos meraritas. ^v57
+**57** Os clãs dos levitas, contado clã por clã, foram estes: de Gérson, o clã dos gersonitas; de Coate, o clã dos coatitas; de Merari, o clã dos meraritas. ^v57
 
-**58** Estas são as famílias de Levi: a família dos libnitas, a família dos hebronitas, a família dos malitas, a família dos musitas, a família dos coreítas. E Coate gerou a Anrão. ^v58
+**58** Os clãs de Levi foram estes: o clã dos libnitas; o clã dos hebronitas; o clã dos malitas; o clã dos musitas; o clã dos coraítas. Coate era o antepassado de Anrão. ^v58
 
-**59** E o nome da mulher de Anrão era Joquebede, filha de Levi, a qual nasceu a Levi no Egito; e de Anrão ela teve Arão, e Moisés, e Miriã, irmã deles. ^v59
+**59** O nome da esposa de Anrão era Joquebede, uma descendente de Levi, que nasceu dos levitas no Egito. Ela deu à luz aos filhos de Anrão, que eram Arão, Moisés e Miriã, irmã deles. ^v59
 
-**60** E a Arão nasceram Nadabe, Abiú, Eleazar, e Itamar. ^v60
+**60** De Arão, nasceram Nadabe e Abiú, Eleazar e Itamar. ^v60
 
-**61** Porém Nadabe e Abiú morreram quando trouxeram fogo estranho perante o Senhor. ^v61
+**61** Nadabe e Abiú morreram quando eles ofereceram fogo estranho diante de Yahweh. ^v61
 
-**62** E os que deles foram contados eram vinte e três mil, todo o homem da idade de um mês para cima; porque estes não foram contados entre os filhos de Israel, porquanto não lhes foi dada herança entre os filhos de Israel. ^v62
+**62** Os homens que foram contados entre os levitas totalizaram vinte três mil, todos homens com um mês de idade pra cima. Mas eles não foram contados entre os descendentes de Israel porque não lhes foi dada herança entre o povo de Israel. ^v62
 
-**63** Estes são os que foram contados por Moisés e Eleazar, o sacerdote, que contaram os filhos de Israel nas campinas de Moabe, junto ao Jordão na direção de Jericó. ^v63
+**63** Estes são os que foram contados por Moisés e pelo sacerdote Eleazar. Eles contaram o povo de Israel nas planícies de Moabe, junto ao Jordão em Jericó. ^v63
 
-**64** E entre estes nenhum houve dos que foram contados por Moisés e Arão, o sacerdote, quando contaram aos filhos de Israel no deserto de Sinai. ^v64
+**64** Mas, entre eles, não havia nenhum homem que havia sido contado por Moisés e pelo sacerdote Arão quando os descendentes de Israel foram contados no deserto de Sinai. ^v64
 
-**65** Porque o Senhor dissera deles que certamente morreriam no deserto; e nenhum deles ficou senão Calebe, filho de Jefoné, e Josué, filho de Num. ^v65
+**65** Pois Yahweh dissera que todo aquele povo certamente morreria no deserto. Não foi deixado nenhum homem entre eles, exceto Calebe, filho de Jefoné, e Josué, filho de Num. ^v65

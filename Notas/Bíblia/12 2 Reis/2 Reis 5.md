@@ -1,61 +1,60 @@
 ---
-Livro: "[[2 Reis|2 Reis]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/2 Reis|2 Reis]]"
+tags: [biblia]
 ---
 
 # 2 Reis 5
 
-**1** E Naamã, capitão do exército do rei da Síria, era um grande homem diante do seu SENHOR, e de muito respeito; porque por ele o SENHOR dera livramento aos sírios; e era este homem herói valoroso, porém leproso. ^v1
+**1** Naamã, comandante do exército do rei da Síria, era um grande e honrado homem diante de seu senhor, porque por ele Yahweh deu vitória aos sírios. Ele também era um forte e corajoso homem, mas estava com lepra. ^v1
 
-**2** E saíram tropas da Síria, da terra de Israel, e levaram presa uma menina que ficou ao serviço da mulher de Naamã. ^v2
+**2** Os sírios haviam atacado em bando e tomado uma menina das terras de Israel. Ela servia à esposa de Naamã. ^v2
 
-**3** E disse esta à sua senhora: Antes o meu senhor estivesse diante do profeta que está em Samaria; ele o restauraria da sua lepra. ^v3
+**3** "A menina disse a sua senhora: ""Eu queria muito que meu senhor estivesse com o profeta que vive em Samaria! Ele poderia ser curado de sua lepra""." ^v3
 
-**4** Então foi Naamã e notificou ao seu senhor, dizendo: Assim e assim falou a menina que é da terra de Israel. ^v4
+**4** Então, Naamã foi e disse ao rei o que a menina da terra de Israel havia dito. ^v4
 
-**5** Então disse o rei da Síria: Vai, anda, e enviarei uma carta ao rei de Israel. E foi, e tomou na sua mão dez talentos de prata, seis mil siclos de ouro e dez mudas de roupas. ^v5
+**5** "O rei da Síria disse a Naamã: ""Vai agora e enviarei uma carta ao rei de Israel"". Naamã saiu e levou com ele dez talentos de prata, seis mil peças de ouro e dez mudas de roupas." ^v5
 
-**6** E levou a carta ao rei de Israel, dizendo: Logo, em chegando a ti esta carta, saibas que eu te enviei Naamã, meu servo, para que o cures da sua lepra. ^v6
+**6** "Ele também levou para o rei de Israel a carta, que dizia: ""Logo que chegar a ti esta carta, saberás que eu te enviei Naamã, meu servo, para que o cures da sua lepra""." ^v6
 
-**7** E sucedeu que, lendo o rei de Israel a carta, rasgou as suas vestes, e disse: Sou eu Deus, para matar e para vivificar, para que este envie a mim um homem, para que eu o cure da sua lepra? Pelo que deveras notai, peço-vos, e vede que busca ocasião contra mim. ^v7
+**7** "Quando o rei de Israel leu a carta, ele rasgou as suas vestes e disse: ""Eu sou Deus, para matar ou fazer viver, para que o rei da Síria me envie um homem a fim de que eu o cure de sua lepra? Parece que ele está buscando motivo para se desentender comigo""." ^v7
 
-**8** Sucedeu, porém, que, ouvindo Eliseu, homem de Deus, que o rei de Israel rasgara as suas vestes, mandou dizer ao rei: Por que rasgaste as tuas vestes? Deixa-o vir a mim, e saberá que há profeta em Israel. ^v8
+**8** "Quando Eliseu, o homem de Deus, ouviu que o rei de Israel havia rasgado suas vestes, enviou um recado para o rei dizendo: ""Por que rasgaste tuas vestes? Deixe-o vir a mim agora e ele saberá que há profeta em Israel""." ^v8
 
-**9** Veio, pois, Naamã com os seus cavalos, e com o seu carro, e parou à porta da casa de Eliseu. ^v9
+**9** Veio, pois, Naamã, com seus cavalos e com suas carruagens, e ficou à porta da casa de Eliseu. ^v9
 
-**10** Então Eliseu lhe mandou um mensageiro, dizendo: Vai, e lava-te sete vezes no Jordão, e a tua carne será curada e ficarás purificado. ^v10
+**10** "Eliseu enviou um mensageiro a ele, dizendo: ""Vai e mergulha no Jordão sete vezes e tua carne será restaurada; tu ficarás limpo""." ^v10
 
-**11** Porém, Naamã muito se indignou, e se foi, dizendo: Eis que eu dizia comigo: Certamente ele sairá, pôr-se-á em pé, invocará o nome do Senhor seu Deus, e passará a sua mão sobre o lugar, e restaurará o leproso. ^v11
+**11** "Mas Naamã ficou furioso, foi embora e disse: ""Vede! Eu estava certo de que ele sairia até mim e clamaria pelo nome de Yahweh, seu Deus e, ao tocar sua mão sobre o local, curaria minha lepra." ^v11
 
-**12** Não são porventura Abana e Farpar, rios de Damasco, melhores do que todas as águas de Israel? Não me poderia eu lavar neles, e ficar purificado? E voltou-se, e se foi com indignação. ^v12
+**12** "Não são Abana e Farfar, os rios em Damasco, melhores que todas as águas de Israel? Não posso me banhar neles e ficar limpo?"". Então, ele retornou e foi embora irado." ^v12
 
-**13** Então chegaram-se a ele os seus servos, e lhe falaram, e disseram: Meu pai, se o profeta te dissesse alguma grande coisa, porventura não a farias? Quanto mais, dizendo-te ele: Lava-te, e ficarás purificado. ^v13
+**13** "Os servos de Naamã se aproximaram e disseram: ""Meu pai, se o profeta mandasse fazer algo difícil, tu não farias? Quanto mais uma coisa tão simples! Mergulha e fica limpo'.""" ^v13
 
-**14** Então desceu, e mergulhou no Jordão sete vezes, conforme a palavra do homem de Deus; e a sua carne tornou-se como a carne de um menino, e ficou purificado. ^v14
+**14** Então, ele desceu e mergulhou sete vezes no Jordão, obedecendo às instruções do homem de Deus. Sua carne foi restaurada, como a carne de uma criança e ele foi curado. ^v14
 
-**15** Então voltou ao homem de Deus, ele e toda a sua comitiva, e chegando, pôs-se diante dele, e disse: Eis que agora sei que em toda a terra não há Deus senão em Israel; agora, pois, peço-te que aceites uma bênção do teu servo. ^v15
+**15** "Naamã retornou ao homem de Deus, ele e toda a sua companhia, e veio e ficou diante dele. Ele disse: ""Vê, agora eu sei que não há Deus em toda a terra, exceto em Israel. Portanto, por favor, toma um presente de teu servo""." ^v15
 
-**16** Porém ele disse: Vive o Senhor, em cuja presença estou, que não a aceitarei. E instou com ele para que a aceitasse, mas ele recusou. ^v16
+**16** "Mas Eliseu respondeu: ""Como vive Yahweh, diante do qual estou, eu nada receberei"". Naamã insistiu com veemência para que Eliseu tomasse o presente, mas ele recusou." ^v16
 
-**17** E disse Naamã: Se não queres, dê-se a este teu servo uma carga de terra que baste para carregar duas mulas; porque nunca mais oferecerá este teu servo holocausto nem sacrifício a outros deuses, senão ao Senhor. ^v17
+**17** "E Naamã disse: ""Se não, eu te peço que deixe teu servo levar duas mulas de terra daqui. Teu servo não mais oferecerá nenhum holocausto para nenhum outro deus, mas a Yahweh." ^v17
 
-**18** Nisto perdoe o SENHOR a teu servo; quando meu senhor entrar na casa de Rimom para ali adorar, e ele se encostar na minha mão, e eu também tenha de me encurvar na casa de Rimom; quando assim me encurvar na casa de Rimom, nisto perdoe o SENHOR a teu servo. ^v18
+**18** "Mas, em uma coisa, que Yahweh perdoe teu servo: quando meu rei vai à casa de Rimom, para lá adorar, ele se apoia em minha mão e eu me ajoelho no templo de Rimom. Quando eu me ajoellhar na casa de Rimom, que Yahweh perdoe teu servo nessa questão""." ^v18
 
-**19** E ele lhe disse: Vai em paz. E foi dele a uma pequena distância. ^v19
+**19** "Eliseu lhe disse: ""Vai em paz"". Naamã se foi." ^v19
 
-**20** Então Geazi, servo de Eliseu, homem de Deus, disse: Eis que meu senhor poupou a este sírio Naamã, não recebendo da sua mão alguma coisa do que trazia; porém, vive o SENHOR que hei de correr atrás dele, e receber dele alguma coisa. ^v20
+**20** "Quando Naamã já ia a uma pequena distância, Geazi, servo de Eliseu, o homem de Deus, disse consigo mesmo: ""Vê, meu senhor isentou a Naamã, o sírio, não recebendo das suas mãos os presentes que ele trouxe. Como vive Yahweh, eu correrei após ele e receberei dele alguma coisa""." ^v20
 
-**21** E foi Geazi a alcançar Naamã; e Naamã, vendo que corria atrás dele, desceu do carro a encontrá-lo, e disse-lhe: Vai tudo bem? ^v21
+**21** "Então, Geazi seguiu após Naamã. Quando Naamã avistou alguém correndo atrás dele, desceu de sua carruagem para encontrá-lo e disse: ""Está tudo bem?""." ^v21
 
-**22** E ele disse: Tudo vai bem; meu senhor me mandou dizer: Eis que agora mesmo vieram a mim dois jovens dos filhos dos profetas da montanha de Efraim; dá-lhes, pois, um talento de prata e duas mudas de roupas. ^v22
+**22** "Geazi lhe respondeu: ""Meu senhor me enviou a ti, dizendo: 'Olha, agora mesmo vieram a mim, do alto da montanha de Efraim, dois jovens dos filhos dos profetas. Por favor, dá a eles um talento de prata e duas peças de roupa'""." ^v22
 
-**23** E disse Naamã: Sê servido tomar dois talentos. E instou com ele, e amarrou dois talentos de prata em dois sacos, com duas mudas de roupas; e pô-los sobre dois dos seus servos, os quais os levaram diante dele. ^v23
+**23** "Naamã respondeu: ""Estou muito feliz em lhe dar dois talentos"". Naamã insistiu com Geazi e amarrou dois talentos de prata em duas bolsas, com duas peças de roupas e as entregou a dois de seus servos, os quais carregavam as bolsas com a prata à frente de Geazi." ^v23
 
-**24** E, chegando ele a certa altura, tomou-os das suas mãos, e os depositou na casa; e despediu aqueles homens, e foram-se. ^v24
+**24** Quando subiu a montanha, Geazi tomou as bolsas das mãos deles e as escondeu em sua casa, mandou os homens embora e eles sairam. ^v24
 
-**25** Então ele entrou, e pôs-se diante de seu senhor. E disse-lhe Eliseu: Donde vens, Geazi? E disse: Teu servo não foi nem a uma nem a outra parte. ^v25
+**25** "Quando Geazi entrou, parou diante de seu senhor. Eliseu lhe disse: ""De onde vens?"". Ele respondeu: ""Teu servo não foi a lugar algum""." ^v25
 
-**26** Porém ele lhe disse: Porventura não foi contigo o meu coração, quando aquele homem voltou do seu carro a encontrar-te? Era a ocasião para receberes prata, e para tomares roupas, olivais e vinhas, ovelhas e bois, servos e servas? ^v26
+**26** "Eliseu disse a Geazi: ""Não estava meu espírito contigo, quando o homem desceu da carruagem para te encontrar? Era este o momento de aceitares dinheiro e roupas, plantação de oliveiras e de uvas, ovelhas e gados, servos e servas?" ^v26
 
-**27** Portanto a lepra de Naamã se pegará a ti e à tua descendência para sempre. Então saiu de diante dele leproso, branco como a neve. ^v27
+**27** "Então, a lepra de Naamã virá sobre ti e teus descendentes para sempre"". Então, Geazi saiu de sua presença, com lepra tão branca como a neve." ^v27

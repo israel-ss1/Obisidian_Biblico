@@ -1,69 +1,68 @@
 ---
-Livro: "[[Números|Números]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Números|Números]]"
+tags: [biblia]
 ---
 
 # Números 28
 
-**1** Falou mais o SENHOR a Moisés, dizendo: ^v1
+**1** Yahweh falou para Moisés e disse: ^v1
 
-**2** Dá ordem aos filhos de Israel, e dize-lhes: Da minha oferta, do meu alimento para as minhas ofertas queimadas, do meu cheiro suave, tereis cuidado, para me oferecê-las ao seu tempo determinado. ^v2
+**2** """Ordena ao povo de Israel e dize-lhes: 'Oferecei sacrifícios a Mim no tempo designado; a comida para Minhas ofertas queimadas de aroma agradável para Mim'." ^v2
 
-**3** E dir-lhes-ás: Esta é a oferta queimada que oferecereis ao Senhor: dois cordeiros de um ano, sem defeito, cada dia, em contínuo holocausto; ^v3
+**3** Tu também lhes dirás: 'Esta é a oferta queimada que vós oferecereis para Yahweh: dois cordeiros machos de um ano de idade, sem defeito, todos os dias, como um holocausto contínuo. ^v3
 
-**4** Um cordeiro sacrificarás pela manhã, e o outro cordeiro sacrificarás à tarde; ^v4
+**4** Oferecei um cordeiro pela manhã, e o outro cordeiro ao entardecer. ^v4
 
-**5** E a décima parte de um efa de flor de farinha em oferta de alimentos, misturada com a quarta parte de um him de azeite batido. ^v5
+**5** Oferecei a décima parte de um efa da melhor farinha, como a oferta de cereais, misturado com um quarto de um him de azeite batido. ^v5
 
-**6** Este é o holocausto contínuo, instituído no monte Sinai, em cheiro suave, oferta queimada ao Senhor. ^v6
+**6** Esse é o holocausto contínuo que foi ordenado no monte Sinai como aroma agradável, uma oferta queimada para Yahweh. ^v6
 
-**7** E a sua libação será a quarta parte de um him para um cordeiro; no santuário, oferecerás a libação de bebida forte ao Senhor. ^v7
+**7** A oferta de bebida será um quarto de um him para um dos cordeiros. Derramai, no lugar sagrado, uma oferta de bebida forte para Yahweh. ^v7
 
-**8** E o outro cordeiro sacrificarás à tarde, como a oferta de alimentos da manhã, e como a sua libação o oferecerás em oferta queimada de cheiro suave ao Senhor. ^v8
+**8** Oferecei o outro cordeiro ao entardecer, com uma oferta de cereais, como as oferecidas pela manhã. Oferecei também uma oferta de bebida com isso, uma oferta queimada, de aroma agradável para Yahweh. ^v8
 
-**9** Porém, no dia de sábado, oferecerás dois cordeiros de um ano, sem defeito, e duas décimas de flor de farinha, misturada com azeite, em oferta de alimentos, com a sua libação. ^v9
+**9** No dia de Sábado, oferecei dois cordeiros machos, de um ano de idade cada, sem defeito, e dois décimos de um efa da melhor farinha, como uma oferta de cereais, misturada com azeite, juntamente com a oferta de bebida. ^v9
 
-**10** Holocausto é de cada sábado, além do holocausto contínuo, e a sua libação. ^v10
+**10** Esse será o holocausto de todo sábado, além do holocausto contínuo e a oferta de bebida. ^v10
 
-**11** E nos princípios dos vossos meses oferecereis, em holocausto ao Senhor, dois novilhos e um carneiro, sete cordeiros de um ano, sem defeito; ^v11
+**11** No início de cada mês, oferecei um holocausto para Yahweh. Oferecei dois novilhos, um carneiro, e sete cordeiros machos de um ano de idade, sem defeito. ^v11
 
-**12** E três décimas de flor de farinha misturada com azeite, em oferta de alimentos, para um novilho; e duas décimas de flor de farinha misturada com azeite, em oferta de alimentos, para um carneiro. ^v12
+**12** Oferecei também três décimos de um efa da melhor farinha, como oferta de cereais, misturada com azeite para cada novilho, e dois décimos da melhor farinha, como oferta de cereais, misturada com azeite para cada carneiro. ^v12
 
-**13** E uma décima de flor de farinha misturada com azeite em oferta de alimentos, para um cordeiro; holocausto é de cheiro suave, oferta queimada ao Senhor. ^v13
+**13** Oferecei também um décimo de um efa da melhor farinha, misturada com azeite, como oferta de cereais para cada cordeiro. É holocausto de aroma agradável; oferta queimada a Yahweh. ^v13
 
-**14** E as suas libações serão a metade de um him de vinho para um novilho, e a terça parte de um him para um carneiro, e a quarta parte de um him para um cordeiro; este é o holocausto da lua nova de cada mês, segundo os meses do ano. ^v14
+**14** A oferta de bebida do povo será metade de um him de vinho para um novilho, um terço de um him para um carneiro, e um quarto de um him para um cordeiro. Essa será a oferta queimada, para todo mês de todos os meses do ano. ^v14
 
-**15** Também um bode para expiação do pecado ao Senhor, além do holocausto contínuo, com a sua libação se oferecerá. ^v15
+**15** Como oferta pelo pecado, oferecei um bode a Yahweh. Esse será um acréscimo ao holocausto contínuo e à oferta de bebida. ^v15
 
-**16** Porém no mês primeiro, aos catorze dias do mês, é a páscoa do Senhor. ^v16
+**16** Durante o primeiro mês, no décimo quarto dia do mês, acontece a Páscoa de Yahweh. ^v16
 
-**17** E aos quinze dias do mesmo mês haverá festa; sete dias se comerão pães ázimos. ^v17
+**17** No décimo quinto dia desse mês haverá um banquete. Por sete dias, comei pão sem fermento. ^v17
 
-**18** No primeiro dia haverá santa convocação; nenhum trabalho servil fareis; ^v18
+**18** No primeiro dia, haverá uma reunião santa para honrar Yahweh. Não fareis nenhum trabalho nesse dia. ^v18
 
-**19** Mas oferecereis oferta queimada em holocausto ao Senhor, dois novilhos e um carneiro, e sete cordeiros de um ano; eles serão sem defeito. ^v19
+**19** Porém, oferecei uma oferta queimada em holocausto a Yahweh. Oferecei dois novilhos, um carneiro, e sete cordeiros machos de um ano de idade, sem defeito. ^v19
 
-**20** E a sua oferta de alimentos será de flor de farinha misturada com azeite; oferecereis três décimas para um novilho, e duas décimas para um carneiro. ^v20
+**20** Oferecei, junto com o novilho, oferta de cereais de três décimos de um efa da melhor farinha, misturada com azeite e dois décimos junto com o carneiro. ^v20
 
-**21** Para cada um dos sete cordeiros oferecereis uma décima; ^v21
+**21** Para cada um dos sete cordeiros, oferecei um décimo de um efa da melhor farinha, misturada com azeite, ^v21
 
-**22** E um bode para expiação do pecado, para fazer expiação por vós. ^v22
+**22** e um bode como uma oferta pelo pecado para fazer expiação por vós. ^v22
 
-**23** Estas coisas oferecereis, além do holocausto da manhã, que é o holocausto contínuo. ^v23
+**23** Essas coisas oferecei além do holocausto da manhã, que é o holocausto contínuo. ^v23
 
-**24** Segundo este modo, cada dia oferecereis, por sete dias, o alimento da oferta queimada em cheiro suave ao Senhor; além do holocausto contínuo se oferecerá isto com a sua libação. ^v24
+**24** Assim, oferecei esses sacrifícios diariamente, durante os sete dias da Páscoa, a comida de oferta queimada de aroma agradável a Yahweh. Isso deve ser oferecido em acréscimo ao holocausto contínuo junto com a oferta de bebida. ^v24
 
-**25** E no sétimo dia tereis santa convocação; nenhum trabalho servil fareis. ^v25
+**25** No sétimo dia, farei vós uma santa convocação para honrar Yahweh, e vós não trabalheis nesse dia. ^v25
 
-**26** Semelhantemente, tereis santa convocação no dia das primícias, quando oferecerdes oferta nova de alimentos ao Senhor, segundo as vossas semanas; nenhum trabalho servil fareis. ^v26
+**26** Além disso, no dia das primícias, quando vós oferecerdes uma nova oferta de cereais para Yahweh na vossa Festa das Semanas, tereis santa convocação para honrar Yahweh, e não fareis nenhum trabalho nesse dia. ^v26
 
-**27** Então oferecereis ao Senhor por holocausto, em cheiro suave, dois novilhos, um carneiro e sete cordeiros de um ano; ^v27
+**27** Oferecei uma oferta queimada de aroma agradável para Yahweh. Oferecei dois novilhos, um carneiro, e sete cordeiros machos de um ano de idade. ^v27
 
-**28** E a sua oferta de alimentos de flor de farinha misturada com azeite: três décimas para um novilho, duas décimas para um carneiro; ^v28
+**28** Oferecei também oferta de cereais para acompanhar: da melhor farinha misturada com azeite, três décimos de um efa da melhor farinha misturada com azeite para cada novilho e dois décimos para um carneiro. ^v28
 
-**29** E uma décima, para cada um dos sete cordeiros; ^v29
+**29** Oferecei um décimo de um efa da melhor farinha misturada com azeite para cada um dos sete cordeiros, ^v29
 
-**30** Um bode para fazer expiação por vós. ^v30
+**30** e um bode para fazer expiação por vós. ^v30
 
-**31** Além do holocausto contínuo, e a sua oferta de alimentos, os oferecereis (ser-vos-ão eles sem defeito) com as suas libações. ^v31
+**31** "Quando vós oferecerdes esses animais sem defeitos, junto com as ofertas de bebida, isso será um acréscimo ao holocausto contínuo e à oferta de cereais'""." ^v31

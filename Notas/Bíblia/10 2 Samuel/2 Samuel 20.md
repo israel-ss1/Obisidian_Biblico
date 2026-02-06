@@ -1,59 +1,58 @@
 ---
-Livro: "[[2 Samuel|2 Samuel]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/2 Samuel|2 Samuel]]"
+tags: [biblia]
 ---
 
 # 2 Samuel 20
 
-**1** Então se achou ali por acaso um homem de Belial, cujo nome era Seba, filho de Bicri, homem de Benjamim, o qual tocou a buzina, e disse: Não temos parte em Davi, nem herança no filho de Jessé; cada um às suas tendas, ó Israel. ^v1
+**1** "Aconteceu de estar no mesmo lugar um homem problemático, cujo o nome era Sebá, filho de Bicri, um benjamita. Ele tocou a trombeta e disse: ""Nós não temos parte com Davi, nem temos herança alguma com o filho de Jessé. Que todos os homens voltem às suas casas, Israel""." ^v1
 
-**2** Então todos os homens de Israel se separaram de Davi, e seguiram Seba, filho de Bicri; porém os homens de Judá se uniram ao seu rei desde o Jordão até Jerusalém. ^v2
+**2** Então, todos os homens de Israel deixaram Davi e seguiram Sebá, filho de Bicri. Mas os homens de Judá seguiram de perto o seu rei, desde o Jordão até Jerusalém. ^v2
 
-**3** Vindo, pois, Davi para sua casa, em Jerusalém, tomou o rei as dez mulheres, suas concubinas, que deixara para guardarem a casa, e as pôs numa casa sob guarda, e as sustentava; porém não as possuiu; e estiveram encerradas até ao dia da sua morte, vivendo como viúvas. ^v3
+**3** Quando Davi veio ao seu palácio em Jerusalém, ele tomou as dez concubinas que havia deixado para cuidar do palácio, e as colocou em uma casa, sob guarda. Ele provia suas necessidades, mas não dormiu mais com elas. Então, elas ali ficaram até o dia de suas mortes, vivendo como se fossem viúvas. ^v3
 
-**4** Disse mais o rei a Amasa: Convoca-me os homens de Judá para o terceiro dia; e tu então apresenta-te aqui. ^v4
+**4** "Então, o rei disse a Amasa: ""Convoca os homens de Judá dentro de três dias; Tu deverás estar aqui, também""." ^v4
 
-**5** E foi Amasa para convocar a Judá; porém demorou-se além do tempo que lhe tinha sido designado. ^v5
+**5** Então, Amasa foi convocar os homens de Judá, mas ele ficou mais tempo do que o rei havia lhe ordenado. ^v5
 
-**6** Então disse Davi a Abisai: Mais mal agora nos fará Seba, o filho de Bicri, do que Absalão; por isso toma tu os servos de teu senhor, e persegue-o, para que não ache para si cidades fortes, e escape dos nossos olhos. ^v6
+**6** "Então, Davi disse a Abisai: ""Agora, Sebá, filho de Bicri, nos fará mais mal do que Absalão nos fez. Pega os servos do teu senhor, meus soldados, e o persiga, ou ele encontrará cidades fortificadas e escapará de nossa vista""." ^v6
 
-**7** Então saíram atrás dele os homens de Joabe, e os quereteus, e os peleteus, e todos os valentes; estes saíram de Jerusalém para irem atrás de Seba, filho de Bicri. ^v7
+**7** Então, os homens de Joabe, junto com os quereteus e os peleteus, e todos os guerreiros poderosos foram atrás de Sebá. Eles deixaram Jerusalém para perseguir o filho de Bicri. ^v7
 
-**8** Chegando eles, pois, à pedra grande, que está junto a Gibeom, Amasa veio diante deles; e estava Joabe cingido da sua roupa que vestira, e sobre ela um cinto, ao qual estava presa a espada a seus lombos, na sua bainha; e, adiantando-se ele, lhe caiu a espada. ^v8
+**8** Quando eles estavam na pedra grande que fica em Gibeão, Amasa foi encontrá-los. Joabe estava vestindo a armadura, a qual incluía um cinto ao redor da sua cintura com uma espada embainhada a ela. Enquanto ele andava, a espada caiu. ^v8
 
-**9** E disse Joabe a Amasa: Vai bem, meu irmão? E Joabe, com a mão direita, pegou da barba de Amasa, para o beijar. ^v9
+**9** "Então, Joabe disse a Amasa: ""Está tudo bem contigo, meu primo?"". Joabe pegou Amasa pela barba, com a mão direita, para beijá-lo." ^v9
 
-**10** E Amasa não se resguardou da espada que estava na mão de Joabe, de sorte que este o feriu com ela na quinta costela, e lhe derramou por terra as entranhas, e não o feriu segunda vez, e morreu; então Joabe e Abisai, seu irmão, foram atrás de Seba, filho de Bicri. ^v10
+**10** Amasa não notou o punhal que estava na mão esquerda de Joabe. Joabe apunhalou Amasa no estômago e suas entranhas derramaram-se no chão. Joabe não o atingiu novamente, e Amasa morreu. Então, Joabe e Abisai, seu irmão, perseguiram Sebá, filho de Bicri. ^v10
 
-**11** Mas um dentre os homens de Joabe parou junto a ele, e disse: Quem há que queira bem a Joabe, e quem seja por Davi, siga Joabe. ^v11
+**11** "Um dos homens de Joabe ficou ao lado de Amasa, e disse: ""Quem é a favor de Joabe e quem é a favor de Davi, siga Joabe""." ^v11
 
-**12** E Amasa estava envolto no seu sangue no meio do caminho; e, vendo aquele homem, que todo o povo parava, removeu a Amasa do caminho para o campo, e lançou sobre ele um manto; porque via que todo aquele que chegava a ele parava. ^v12
+**12** Amasa se revolvia sobre o seu próprio sangue no meio da estrada. Quando o homem viu que as pessoas ficavam paradas, ele carregou Amasa da estrada para dentro de um campo. Então, jogou uma capa sobre ele, porque viu que todas as pessoas que passavam por ali paravam. ^v12
 
-**13** E, como estava removido do caminho, todos os homens seguiram a Joabe, para perseguirem a Seba, filho de Bicri. ^v13
+**13** Depois que Amasa foi removido da estrada, todos os homens seguiram Joabe na perseguição de Sebá, filho de Bicri. ^v13
 
-**14** E ele passou por todas as tribos de Israel até Abel, e Bete-Maaca e a todos os beritas; e ajuntaram-se, e também o seguiram. ^v14
+**14** Sebá passou por todas as tribos de Israel até Abel de Bete-Maaca, e por toda a terra dos beritas. Os beritas se reuniram e seguiram Sebá. ^v14
 
-**15** E vieram, e o cercaram em Abel de Bete-Maaca, e levantaram uma barragem contra a cidade, e isto colocado na trincheira; e todo o povo que estava com Joabe batia no muro, para derrubá-lo. ^v15
+**15** Joabe e seus homens o alcançaram e o cercaram em Abel de Bete Maaca. Eles construíram uma rampa junto ao muro da cidade, e todo o exército que estava com Joabe bateu contra o muro para derrubá-lo. ^v15
 
-**16** Então uma mulher sábia gritou de dentro da cidade: Ouvi, ouvi, peço-vos que digais a Joabe: Chega-te aqui, para que eu te fale. ^v16
+**16** "Então, uma sábia mulher gritou de dentro da cidade: ""Ouve, por favor! Ouve, Joabe! Vem perto de mim para que eu possa falar contigo""." ^v16
 
-**17** Chegando-se a ela, a mulher lhe disse: Tu és Joabe? E disse ele: Eu sou. E ela lhe disse: Ouve as palavras da tua serva. E disse ele: Ouço. ^v17
+**17** "Então, Joabe chegou próximo a ela, e a mulher disse: ""És tu, Joabe?"". Ele respondeu: ""Sou eu"". Então, ela lhe disse: ""Ouve as palavras da tua serva"". Ele respondeu: ""Estou ouvindo""." ^v17
 
-**18** Então falou ela, dizendo: Antigamente costumava-se dizer: Certamente pediram conselho a Abel; e assim resolveram. ^v18
+**18** "Ela continuou: ""Eles costumavam dizer antigamente: ' Procura por conselhos em Abel', e aquele conselho resolveria o problema." ^v18
 
-**19** Sou eu uma das pacíficas e das fiéis em Israel; e tu procuras matar uma cidade que é mãe em Israel; por que, pois, devorarias a herança do Senhor? ^v19
+**19** "Nós somos uma das cidades mais pacíficas e fiéis em Israel. Tu estás tentando destruir uma cidade que é mãe em Israel. Por que tu queres devorar a herança de Yahweh?""." ^v19
 
-**20** Então respondeu Joabe, e disse: Longe, longe de mim que eu tal faça, que eu devore ou arruíne! ^v20
+**20** "Joabe respondeu: ""Longe de mim, longe de mim que eu devore ou destrua." ^v20
 
-**21** A coisa não é assim; porém um só homem do monte de Efraim, cujo nome é Seba, filho de Bicri, levantou a mão contra o rei, contra Davi; entregai-me só este, e retirar-me-ei da cidade. Então disse a mulher a Joabe: Eis que te será lançada a sua cabeça pelo muro. ^v21
+**21** "Isto não é verdade. Mas um homem dos montes de Efraim, chamado Sebá, filho de Bicri, tem levantado a sua mão contra o rei, contra Davi. Entrega-me esse homem e eu me retirarei da cidade"". A mulher disse a Joabe: ""A cabeça dele será jogada a ti por sobre o muro""." ^v21
 
-**22** E a mulher, na sua sabedoria, foi a todo o povo, e cortaram a cabeça de Seba, filho de Bicri, e a lançaram a Joabe; então este tocou a buzina, e se retiraram da cidade, cada um para a sua tenda, e Joabe voltou a Jerusalém, ao rei. ^v22
+**22** E a mulher, com sua sabedoria, foi a todo o povo. Eles cortaram fora a cabeça de Sebá, filho de Bicri, e a jogaram para Joabe. Então, ele tocou a trombeta e os homens de Joabe saíram da cidade, cada um para a sua casa. E Joabe retornou a Jerusalém, para o rei. ^v22
 
-**23** E Joabe estava sobre todo o exército de Israel; e Benaia, filho de Joiada, sobre os quereteus e sobre os peleteus; ^v23
+**23** Joabe comandava todo o exército de Israel, e Benaia, filho de Joiada, comandava os quereteus e os peleteus. ^v23
 
-**24** E Adorão sobre os tributos; e Jeosafá, filho de Ailude, era o cronista; ^v24
+**24** Adorão era comandante dos homens que faziam trabalhos forçados, e Josafá, filho de Ailude, era o cronista. ^v24
 
-**25** E Seva, o escrivão; e Zadoque e Abiatar, os sacerdotes; ^v25
+**25** Seva era escriba e Zadoque e Abiatar eram sacerdotes. ^v25
 
-**26** E também Ira, o jairita, era o oficial-mor de Davi. ^v26
+**26** Ira, o jairita, era ministro-chefe de Davi. ^v26

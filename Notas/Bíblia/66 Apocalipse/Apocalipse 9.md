@@ -1,49 +1,48 @@
 ---
-Livro: "[[Apocalipse|Apocalipse]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Apocalipse|Apocalipse]]"
+tags: [biblia]
 ---
 
 # Apocalipse 9
 
-**1** E o quinto anjo tocou a sua trombeta, e vi uma estrela que do céu caiu na terra; e foi-lhe dada a chave do poço do abismo. ^v1
+**1** Então o quinto anjo tocou a trombeta, e vi uma estrela do céu que havia caído na terra. E foi-lhe dada a chave do poço do abismo. ^v1
 
-**2** E abriu o poço do abismo, e subiu fumaça do poço, como a fumaça de uma grande fornalha, e com a fumaça do poço escureceu-se o sol e o ar. ^v2
+**2** E abriu o poço do abismo, e subiu fumaça do poço como a fumaça de uma grande fornalha e, com a fumaça do poço, escureceu-se o sol e o ar. ^v2
 
-**3** E da fumaça vieram gafanhotos sobre a terra; e foi-lhes dado poder, como o poder que têm os escorpiões da terra. ^v3
+**3** E da fumaça saíram gafanhotos para a terra, e foi-lhes dado poder como o que têm os escorpiões da terra. ^v3
 
-**4** E foi-lhes dito que não fizessem dano à erva da terra, nem a verdura alguma, nem a árvore alguma, mas somente aos homens que não têm nas suas testas o selo de Deus. ^v4
+**4** A eles foi ordenado que não danificassem a erva, nem qualquer coisa verde ou árvore, mas somente as pessoas que não tivessem na testa o sinal de Deus. ^v4
 
-**5** E foi-lhes permitido, não que os matassem, mas que por cinco meses os atormentassem; e o seu tormento era semelhante ao tormento do escorpião, quando fere o homem. ^v5
+**5** E não lhes foi permitido matar essas pessoas, mas atormentá-las durante cinco meses. Seu tormento seria como o de uma picada de escorpião quando fere alguém. ^v5
 
-**6** E naqueles dias os homens buscarão a morte, e não a acharão; e desejarão morrer, e a morte fugirá deles. ^v6
+**6** Naqueles dias, as pessoas buscarão a morte e não a encontrarão e desejarão a morte, mas a morte fugirá delas. ^v6
 
-**7** E o parecer dos gafanhotos era semelhante ao de cavalos aparelhados para a guerra; e sobre as suas cabeças havia umas como coroas semelhantes ao ouro; e os seus rostos eram como rostos de homens. ^v7
+**7** O aspecto dos gafanhotos era semelhante ao de cavalos preparados para a guerra. Em cima de suas cabeças, havia algo como que coroas de ouro, e os seus rostos pareciam com rostos de pessoas. ^v7
 
-**8** E tinham cabelos como cabelos de mulheres, e os seus dentes eram como de leões. ^v8
+**8** E eles tinham cabelos como cabelos de mulheres, e seus dentes eram como dentes de leões; ^v8
 
-**9** E tinham couraças como couraças de ferro; e o ruído das suas asas era como o ruído de carros, quando muitos cavalos correm ao combate. ^v9
+**9** tinham couraças como armaduras de ferro, e o som de suas asas era como o som de muitas carruagens que correm para a batalha. ^v9
 
-**10** E tinham caudas semelhantes às dos escorpiões, e aguilhões nas suas caudas; e o seu poder era para danificar os homens por cinco meses. ^v10
+**10** Tinham caudas com ferrões como de escorpiões. Em suas caudas havia poder para causar dano às pessoas por cinco meses. ^v10
 
-**11** E tinham sobre si rei, o anjo do abismo; em hebreu era o seu nome Abadom, e em grego Apoliom. ^v11
+**11** E tinham como rei sobre eles o anjo do abismo, cujo nome em hebraico era Abadom e, em grego, era Apoliom. ^v11
 
-**12** Passado é já um ai; eis que depois disso vêm ainda dois ais. ^v12
+**12** O primeiro ai passou; e eis que depois disso vêm ainda dois ais. ^v12
 
-**13** E tocou o sexto anjo a sua trombeta, e ouvi uma voz que vinha das quatro pontas do altar de ouro, que estava diante de Deus, ^v13
+**13** O sexto anjo tocou a trombeta, e ouvi uma voz vinda das quatro pontas do altar de ouro que se encontra diante de Deus. ^v13
 
-**14** A qual dizia ao sexto anjo, que tinha a trombeta: Solta os quatro anjos, que estão presos junto ao grande rio Eufrates. ^v14
+**14** "A voz disse ao sexto anjo que segurava a trombeta: ""Liberte os quatro anjos que estão atados junto ao grande rio Eufrates""." ^v14
 
-**15** E foram soltos os quatro anjos, que estavam preparados para a hora, e dia, e mês, e ano, a fim de matarem a terça parte dos homens. ^v15
+**15** Os quatro anjos que estavam preparados para a hora, o dia, o mês e o ano, foram soltos para matar um terço dos seres humanos. ^v15
 
-**16** E o número dos exércitos dos cavaleiros era de duzentos milhões; e ouvi o número deles. ^v16
+**16** O número de cavaleiros do exército era de duzentos milhões. Eu ouvi seu número. ^v16
 
-**17** E assim vi os cavalos nesta visão; e os que sobre eles cavalgavam tinham couraças de fogo, e de jacinto, e de enxofre; e as cabeças dos cavalos eram como cabeças de leões; e de suas bocas saía fogo e fumaça e enxofre. ^v17
+**17** Assim, nessa visão, os cavalos e os cavaleiros tinham couraças vermelhas como fogo, azuis como jacinto e amarelas como enxofre. As cabeças dos cavalos eram como cabeças de leão e, de suas bocas saía fogo, fumaça e enxofre. ^v17
 
-**18** Por estes três foi morta a terça parte dos homens, isto é pelo fogo, pela fumaça, e pelo enxofre, que saíam das suas bocas. ^v18
+**18** A terça parte da população foi morta por estas três pragas: o fogo, a fumaça e o enxofre que saíram da boca deles, ^v18
 
-**19** Porque o poder dos cavalos está na sua boca e nas suas caudas. Porquanto as suas caudas são semelhantes a serpentes, e têm cabeças, e com elas danificam. ^v19
+**19** pois o poder dos cavalos estava nas suas bocas e nas suas caudas, porquanto as suas caudas eram como de serpentes; e tinham cabeças com as quais causavam dano ao povo. ^v19
 
-**20** E os outros homens, que não foram mortos por estas pragas, não se arrependeram das obras de suas mãos, para não adorarem os demônios, e os ídolos de ouro, e de prata, e de bronze, e de pedra, e de madeira, que nem podem ver, nem ouvir, nem andar. ^v20
+**20** Os demais seres humanos, aqueles que não foram mortos por essas pragas, não se arrependeram das obras de suas mãos, nem deixaram de adorar os demônios e os ídolos de ouro, de prata, de bronze, de pedra e de madeira, que não podem ver, nem ouvir e nem andar. ^v20
 
-**21** E não se arrependeram dos seus homicídios, nem das suas feitiçarias, nem da sua fornicação, nem dos seus furtos. ^v21
+**21** E não se arrependeram de seus homicidios, nem de suas feitiçarias, nem de suas imoralidades e nem de seus furtos. ^v21

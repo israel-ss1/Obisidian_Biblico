@@ -1,125 +1,124 @@
 ---
-Livro: "[[Levítico|Levítico]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Levítico|Levítico]]"
+tags: [biblia]
 ---
 
 # Levítico 13
 
-**1** Falou mais o SENHOR a Moisés e a Arão, dizendo: ^v1
+**1** Yahweh falou para Moisés e para Arão, dizendo: ^v1
 
-**2** Quando um homem tiver na pele da sua carne, inchação, ou pústula, ou mancha lustrosa, na pele de sua carne como praga da lepra, então será levado a Arão, o sacerdote, ou a um de seus filhos, os sacerdotes. ^v2
+**2** """Quando alguém tiver sobre a pele de seu corpo um inchaço, ou crosta de ferida, ou mancha brilhante e isto se tornar infecionado, então essa pessoa deve ser levada a Arão, o Sumo Sacerdote, ou a um de seus filhos, os sacerdotes." ^v2
 
-**3** E o sacerdote examinará a praga na pele da carne; se o pêlo na praga se tornou branco, e a praga parecer mais profunda do que a pele da sua carne, é praga de lepra; o sacerdote o examinará, e o declarará por imundo. ^v3
+**3** Então o sacerdote examinará a enfermidade na pele de seu corpo. Se os pelos no local enfermo tiverem ficado esbranquiçados, e a área atingida for mais funda do que a pele, então trata-se de doença infecciosa. Depois do sacerdote examinar, ele o declarará impuro. ^v3
 
-**4** Mas, se a mancha na pele de sua carne for branca, e não parecer mais profunda do que a pele, e o pêlo não se tornou branco, então o sacerdote encerrará o que tem a praga por sete dias; ^v4
+**4** Mas se a mancha brilhante na sua pele estiver esbranquiçada e a área atingida não for mais funda que a pele e os pelos na região enferma não tiverem ficado esbranquiçados, então o sacerdote deve isolar o enfermo por sete dias. ^v4
 
-**5** E ao sétimo dia o sacerdote o examinará; e eis que, se a praga, ao seu parecer parou, e na pele não se estendeu, então o sacerdote o encerrará por outros sete dias; 6 ^v5
+**5** No sétimo dia, o sacerdote deve examiná-lo para averiguar, se na sua opinião, a enfermidade não piorou e não se espalhou pela pele. Se não tiver se espalhado, então o sacerdote deverá isolá-lo por mais sete dias. ^v5
 
-**6** E o sacerdote ao sétimo dia o examinará outra vez; e eis que, se a praga se recolheu, e na pele não se estendeu, então o sacerdote o declarará por limpo; é uma pústula; e lavará as suas vestes, e será limpo. ^v6
+**6** No sétimo dia, o sacerdote o examinará novamente para averiguar, se a área enferma está melhor e a enfermidade não se alastrou pela pele. Se não tiver se espalhado mais, então o sacerdote o declarará puro. É uma erupção na pele; ele deverá lavar as suas roupas e ficará limpo. ^v6
 
-**7** Mas, se a pústula na pele se estende grandemente, depois que foi mostrado ao sacerdote para a sua purificação, outra vez será mostrado ao sacerdote, ^v7
+**7** Mas, se a erupção na pele tiver se espalhado depois que ele tiver se apresentado ao sacerdote para a purificação, então ele deve apresentar-se ao sacerdote novamente. ^v7
 
-**8** E o sacerdote o examinará, e eis que, se a pústula na pele se tem estendido, o sacerdote o declarará por imundo; é lepra. ^v8
+**8** O sacerdote o examinará para averiguar se a erupção se espalhou pela pele. Se tiver se espalhado, então o sacerdote deverá declará-lo como impuro. Trata-se de doença infecciosa. ^v8
 
-**9** Quando no homem houver praga de lepra, será levado ao sacerdote, ^v9
+**9** Quando alguém estiver com doença infecciosa, então ele precisará ser levado ao sacerdote. ^v9
 
-**10** E o sacerdote o examinará, e eis que, se há inchação branca na pele, a qual tornou o pêlo em branco, e houver carne viva na inchação, ^v10
+**10** O sacerdote o examinará para averiguar se existe um inchaço esbranquiçado sobre a pele, cujos pelos da região se tornaram brancos, ou se houver uma ferida em carne viva sobre o inchaço, ^v10
 
-**11** Lepra inveterada é na pele da sua carne; portanto, o sacerdote o declarará por imundo; não o encerrará, porque imundo é. ^v11
+**11** então, trata-se de doença contagiosa crônica e o sacerdote deve declará-lo como impuro. E não o isolará, porque já está impuro. ^v11
 
-**12** E, se a lepra se espalhar de todo na pele, e a lepra cobrir toda a pele do que tem a praga, desde a sua cabeça até aos seus pés, quanto podem ver os olhos do sacerdote, ^v12
+**12** Se a doença contagiosa se alastrar vastamente e cobrir toda a pele da pessoa infectada, da cabeça aos pés, até onde é possível o sacerdote examinar; ^v12
 
-**13** Então o sacerdote examinará, e eis que, se a lepra tem coberto toda a sua carne, então declarará o que tem a praga por limpo; todo se tornou branco; limpo está. ^v13
+**13** então, o sacerdote deve examiná-la para averiguar se a enfermidade cobriu todo o seu corpo. Se tiver coberto, então o sacerdote deve declará-la como alguém que teve a efermidade purificada. Se tudo se tornou branco, então tal pessoa está pura. ^v13
 
-**14** Mas no dia em que aparecer nela carne viva será imundo. ^v14
+**14** Mas se feridas em carne viva aparacerem sobre ela, estará impura. ^v14
 
-**15** Vendo, pois, o sacerdote a carne viva, declará-lo-á por imundo; a carne é imunda; é lepra. ^v15
+**15** O sacerdote examinará a ferida em carne viva e deve declará-lo como impura, porque a ferida em carne viva é impura. Trata-se de uma doença infecciosa. ^v15
 
-**16** Ou, tornando a carne viva, e mudando-se em branca, então virá ao sacerdote, ^v16
+**16** Mas se a ferida em carne viva ficar novamente branca, então a pessoa deverá ir ao sacerdote. ^v16
 
-**17** E este o examinará, e eis que, se a praga se tornou branca, então o sacerdote declarará limpo o que tem a praga; limpo está. ^v17
+**17** O sacerdote examinará para averiguar se a carne ficou esbranquiçada. Se tiver ficado, então, o sacerdote vai anunciar que a pessoa está pura. ^v17
 
-**18** Se também a carne, em cuja pele houver alguma úlcera, sarar, ^v18
+**18** Quando uma pessoa tiver uma ferida com pus sobre a pele que já está curada ^v18
 
-**19** E, em lugar da pústula, vier inchação branca ou mancha lustrosa, tirando a vermelho, mostrar-se-á então ao sacerdote. ^v19
+**19** e se no lugar dessa ferida com pus, houver um inchaço esbranquiçado ou uma mancha clara de cor branco-avermelhada, então, esta deve ser mostrada ao sacerdote. ^v19
 
-**20** E o sacerdote examinará, e eis que, se ela parece mais funda do que a pele, e o seu pêlo se tornou branco, o sacerdote o declarará por imundo; é praga da lepra que brotou da pústula. ^v20
+**20** O sacerdote a examinará para averiguar se a mesma aparenta estar mais funda sob a pele e se os pelos na região ficaram brancos. Se sim, o sacerdote então declarará essa pessoa como impura.Trata-se de uma doença infecciosa, caso esta tenha se desenvolvido no lugar em que estava a ferida com pus. ^v20
 
-**21** E o sacerdote, vendo-a, e eis que se nela não houver pêlo branco, nem estiver mais funda do que a pele, mas encolhida, então o sacerdote o encerrará por sete dias. ^v21
+**21** Mas se o sacerdote averiguar e notar que não há pelos brancos na região ferida, e que não está mais funda que a pele, mas que já clareou, então, o sacerdote precisa isolar a pessoa por sete dias. ^v21
 
-**22** Se ela grandemente se estender na pele, o sacerdote o declarará por imundo; praga é. ^v22
+**22** Se a enfermidade se espalhar completamente pela pele, então o sacerdote deve declarar a pessoa como impura. Trata-se de uma doença contagiosa. ^v22
 
-**23** Mas se a mancha parar no seu lugar, não se estendendo, inflamação da pústula é; o sacerdote, pois, o declarará por limpo. ^v23
+**23** Mas se a mancha clara permanecer no mesmo lugar e não se espalhar, então é uma cicatriz da ferida com pus e o sacerdote deve declarar a pessoa como pura. ^v23
 
-**24** Ou, quando na pele da carne houver queimadura de fogo, e no que é sarado da queimadura houver mancha lustrosa, tirando a vermelho ou branco, ^v24
+**24** Quando a pele tiver uma queimadura e quando a carne viva da queimadura se transformar em uma mancha branco-avermelhada ou uma mancha esbranquiçada, ^v24
 
-**25** E o sacerdote vendo-a, e eis que se o pêlo na mancha se tornou branco e ela parece mais funda do que a pele, lepra é, que floresceu pela queimadura; portanto o sacerdote o declarará por imundo; é praga de lepra. ^v25
+**25** então o sacerdote a examinará para averiguar se os pelos clarearam e se a mancha está mais profunda que a pele. Se sim, trata-se de uma doença infecciosa que surgiu sobre a queimadura, e o sacerdote precisa declarar a pessoa como impura. Trata-se de uma doença infecciosa. ^v25
 
-**26** Mas, se o sacerdote, vendo-a, e eis que, se na mancha não aparecer pêlo branco, nem estiver mais funda do que a pele, mas recolhida, o sacerdote o encerrará por sete dias. ^v26
+**26** Mas se o sacerdote examiná-la e não encontrar pelos brancos na mancha e ela não estiver mais funda que a pele, porém já tenha desaparecido, então o sacerdote deverá isolar a pessoa por sete dias. ^v26
 
-**27** Depois o sacerdote o examinará ao sétimo dia; se grandemente se houver estendido na pele, o sacerdote o declarará por imundo; é praga de lepra. ^v27
+**27** Então o sacerdote deve examinar a pessoa no sétimo dia. Se a enfermidade tiver se espalhado completamente sobre a pele, então o sacerdote deverá declarar a pessoa como impura. Trata-se de uma doença contagiosa. ^v27
 
-**28** Mas se a mancha parar no seu lugar, e na pele não se estender, mas se recolher, inchação da queimadura é; portanto o sacerdote o declarará por limpo, porque inflamação é da queimadura. ^v28
+**28** Se a mancha permanecer no mesmo lugar e não estiver espalhado sobre pele, mas clareado, então é um inchaço da queimadura e o sacerdote deve declarar a pessoa como pura, pois não é nada mais que uma cicatriz da queimadura. ^v28
 
-**29** E, quando homem ou mulher tiver chaga na cabeça ou na barba, ^v29
+**29** Se um homem ou mulher tem ferida na cabeça ou queixo, ^v29
 
-**30** E o sacerdote, examinando a chaga, e eis que, se ela parece mais funda do que a pele, e pêlo amarelo fino há nela, o sacerdote o declarará por imundo; é tinha, é lepra da cabeça ou da barba. ^v30
+**30** "então o sacerdote examinará a pessoa à procura de uma doença infecciosa, para ver se esta aparenta estar mais funda do que a pele e para ver se há pelos amarelos e finos nela. Se houver, então o sacerdote deve declarar a pessoa como impura. É uma doença chamada ""sarna"", trata-se de um tipo de doença infecciosa na cabeça ou queixo." ^v30
 
-**31** Mas, se o sacerdote, havendo examinado a praga da tinha, e eis que, se ela não parece mais funda do que a pele, e se nela não houver pêlo preto, então o sacerdote encerrará o que tem a praga da tinha por sete dias. ^v31
+**31** Se o sacerdote examinar a ferida e notar que esta não está mais funda que a pele e se não há pelos pretos nela, então o sacerdote isolará a pessoa com a doença infecciosa por sete dias. ^v31
 
-**32** E o sacerdote examinará a praga ao sétimo dia; e eis que, se a tinha não se tiver estendido, e nela não houver pêlo amarelo, nem a tinha parecer mais funda do que a pele, ^v32
+**32** Ao sétimo dia, o sacerdote examinará a doença para ver se esta se espalhou. Se não houver pelos amarelos e se a doença não aparentar estar profunda na pele, ^v32
 
-**33** Então se rapará; mas não rapará a tinha; e o sacerdote segunda vez encerrará o que tem a tinha por sete dias. ^v33
+**33** então a pessoa deve ser raspada, mas a área infectada não pode ser raspada, e o sacerdote precisa isolar a pessoa com a doença contagiosa por mais sete dias. ^v33
 
-**34** Depois o sacerdote examinará a tinha ao sétimo dia; e eis que, se a tinha não se houver estendido na pele, e ela não parecer mais funda do que a pele, o sacerdote o declarará por limpo, e lavará as suas vestes, e será limpo. ^v34
+**34** Ao sétimo dia, o sacerdote examinará a doença para averiguar se esta parou de se espalhar pela pele. Caso aparente não estar mais profunda do que a pele, então o sacerdote deve declarar a pessoa como pura. Tal pessoa deverá lavar suas próprias roupas e então estará pura. ^v34
 
-**35** Mas, se a tinha, depois da sua purificação, se houver estendido grandemente na pele, ^v35
+**35** Mas se a doença contagiosa tiver se espalhado completamente pela pele depois de o sacerdote declarar a pessoa como pura, ^v35
 
-**36** Então o sacerdote o examinará, e eis que, se a tinha se tem estendido na pele, o sacerdote não buscará pêlo amarelo; imundo está. ^v36
+**36** então, o sacerdote deve examiná-la novamente. Se a doença tiver se espalhado pela pele, o sacerdote não precisa procurar por pelos amarelos. A pessoa está impura. ^v36
 
-**37** Mas, se a tinha ao seu ver parou, e pêlo preto nela cresceu, a tinha está sã, limpo está; portanto o sacerdote o declarará por limpo. ^v37
+**37** Mas, se à vista do sacerdote, a doença contagiosa tiver parado de se espalhar e tiver crescido cabelo preto na área que havia sido infectada, então a doença foi sarada. A pessoa está limpa, e o sacerdote deve declará-la como pura. ^v37
 
-**38** E, quando homem ou mulher tiver manchas lustrosas brancas na pele da sua carne, ^v38
+**38** Se um homem ou uma mulher tiver manchas brancas sobre a pele, ^v38
 
-**39** Então o sacerdote olhará, e eis que, se na pele da sua carne aparecem manchas lustrosas escurecidas, é impigem que floresceu na pele, limpo está. ^v39
+**39** então o sacerdote deve examinar a pessoa para averiguar se as manchas estão esbranquiçadas, ou seja, é somente uma coceira que se desenvolveu sobre a pele. A pessoa está pura. ^v39
 
-**40** E, quando os cabelos do homem caírem da cabeça, calvo é, mas limpo está. ^v40
+**40** Se o cabelo de um homem caiu de sua cabeça, ele está calvo, mas, está puro. ^v40
 
-**41** E, se lhe caírem os cabelos na frente da cabeça, meio calvo é; mas limpo está. ^v41
+**41** E se seu cabelo caiu da frente de sua cabeça e se sua fronte estiver calva, ele está puro. ^v41
 
-**42** Porém, se na calva, ou na meia calva, houver praga branca avermelhada, é lepra, florescendo na sua calva ou na sua meia calva. ^v42
+**42** Mas se houver uma ferida em sua cabeça ou fronte calva, essa é uma doença infecciosa que irrompeu sobre a pele. ^v42
 
-**43** Havendo, pois, o sacerdote examinado, e eis que, se a inchação da praga, na sua calva ou meia calva, está branca, tirando a vermelho, como parece a lepra na pele da carne, ^v43
+**43** Então o sacerdote deve examinar a pessoa para averiguar se o inchaço da área infectada em sua cabeça ou fronte calva está branco-avermelhada tal como a aparência de uma doença contagiosa sobre a pele. ^v43
 
-**44** Leproso é aquele homem, imundo está; o sacerdote o declarará totalmente por imundo, na sua cabeça tem a praga. ^v44
+**44** Se está assim, então a pessoa está com uma doença contagiosa e está impura. O sacerdote deve declará-lo como impuro por causa da doença em sua cabeça. ^v44
 
-**45** Também as vestes do leproso, em quem está a praga, serão rasgadas, e a sua cabeça será descoberta, e cobrirá o lábio superior, e clamará: Imundo, imundo. ^v45
+**45** "A pessoa que tem uma doença infecciosa deve vestir roupas rasgadas, seus cabelos precisam estar livremente soltos e deve cobrir seu rosto até o nariz e gritar: ""Impuro! Impuro!""." ^v45
 
-**46** Todos os dias em que a praga houver nele, será imundo; imundo está, habitará só; a sua habitação será fora do arraial. ^v46
+**46** Todos os dias que estiver com a doença infecciosa, essa pessoa estará impura. Porque está impura com uma enfermidade que pode se espalhar, essa pessoa deve viver sozinha. Deve viver fora do acampamento. ^v46
 
-**47** Quando também em alguma roupa houver praga de lepra, em roupa de lã, ou em roupa de linho, ^v47
+**47** Uma peça de roupa, seja de lã ou de linho, que estiver infectada com mofo, ^v47
 
-**48** Ou no fio urdido, ou no fio tecido, seja de linho, ou seja de lã, ou em pele, ou em qualquer obra de peles, ^v48
+**48** ou qualquer peça tecida ou tricotada com lã, ou linho, ou couro, ou qualquer artefato feito com couro - ^v48
 
-**49** E a praga na roupa, ou na pele, ou no fio urdido, ou no fio tecido, ou em qualquer coisa de peles aparecer verde ou vermelha, praga de lepra é, por isso se mostrará ao sacerdote, ^v49
+**49** se houver uma contaminação esverdeada ou avermelhada, no couro, na lã, ou no material tricotado, ou em qualquer artefato feito com couro, então é mofo que se espalha; deve ser apresentado ao sacerdote. ^v49
 
-**50** E o sacerdote examinará a praga, e encerrará aquilo que tem a praga por sete dias. ^v50
+**50** O sacerdote examinará a peça à procura de mofo; ele deve isolar qualquer peça em que há mofo por sete dias. ^v50
 
-**51** Então examinará a praga ao sétimo dia; se a praga se houver estendido na roupa, ou no fio urdido, ou no fio tecido ou na pele, para qualquer obra que for feita da pele, lepra roedora é, imunda está; ^v51
+**51** Ao sétimo dia, ele examinará o mofo novamente. Se este tiver se espalhado pela vestimenta ou qualquer peça tecida ou tricotada com lã, ou linho, ou couro, ou qualquer artefato em que é utilizado couro, então é um mofo prejudicial, e a peça está impura. ^v51
 
-**52** Por isso se queimará aquela roupa, ou fio urdido, ou fio tecido de lã, ou de linho, ou de qualquer obra de peles, em que houver a praga, porque lepra roedora é; com fogo se queimará. ^v52
+**52** O sacerdote deve queimar a vestimenta ou qualquer peça tecida ou tricotada com lã, ou linho, ou couro, ou feita com couro, onde o mofo prejudicial for encontrado, porque este pode levar à enfermidade. A peça deve ser completamente queimada. ^v52
 
-**53** Mas, o sacerdote, vendo, e eis que, se a praga não se estendeu na roupa, ou no fio urdido, ou no tecido, ou em qualquer obra de peles, ^v53
+**53** Se o sacerdote examinar a peça e notar que o mofo não se espalhou na vestimenta ou no material tecido ou tricotado com lã ou linho, ou em peças de vestuário de couro, ^v53
 
-**54** Então o sacerdote ordenará que se lave aquilo no qual havia a praga, e o encerrará segunda vez por sete dias; ^v54
+**54** então ele ordenará que sejam lavadas essas peças nas quais o mofo foi encontrado e ele deve isolá-las por mais sete dias. ^v54
 
-**55** E o sacerdote, examinando a praga, depois que for lavada, e eis que se ela não mudou o seu aspecto, nem se estendeu, imundo está, com fogo o queimarás; praga penetrante é, seja por dentro ou por fora. ^v55
+**55** Então o sacerdote examinará a peça depois que a peça contaminada com mofo foi lavada. Se o mofo não mudou de cor, mesmo que não tenha se espalhado, a peça está impura. Queimarás a peça, não importa onde o mofo a tenha contaminado. ^v55
 
-**56** Mas se o sacerdote verificar que a praga se tem recolhido, depois de lavada, então a rasgará da roupa, ou da pele ou do fio urdido ou tecido; ^v56
+**56** Se o sacerdote examinar a peça e se o mofo tiver diminuido depois que esta foi lavada, então ele cortará a parte contaminada da vestimenta, ou do couro, ou da peça tecida com lã, ou tricotada com linho. ^v56
 
-**57** E, se ainda aparecer na roupa, ou no fio urdido ou tecido ou em qualquer coisa de peles, lepra brotante é; com fogo queimarás aquilo em que há a praga; ^v57
+**57** Se o mofo ainda aparecer na vestimenta, quer seja naquela tecida com lã ou tricotada com linho, quer seja naquela feita de couro, ele está se espalhando. Queimarás qualquer peça em que houver o mofo. ^v57
 
-**58** Mas a roupa ou fio urdido ou tecido ou qualquer coisa de peles, que lavares, e de que a praga se retirar, se lavará segunda vez, e será limpa. ^v58
+**58** A vestimenta ou qualquer peça tecida com linho ou tricotada com lã, ou feita de couro ou qualquer uma feita com couro, se a lavardes e o mofo desaparecer, então a peça precisa ser lavada uma segunda vez e então estará pura. ^v58
 
-**59** Esta é a lei da praga da lepra na roupa de lã, ou de linho, ou do fio urdido, ou tecido, ou de qualquer coisa de peles, para declará-la limpa, ou para declará-la imunda. ^v59
+**59** Esta é a lei sobre mofo em uma vestimenta de lã ou linho, ou qualquer outra peça tecida com linho, ou tricotada com lã, ou feita de couro, ou qualquer uma feita com couro, para que vós possais anunciá-la como pura ou impura. ^v59

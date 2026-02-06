@@ -1,71 +1,70 @@
 ---
-Livro: "[[Ester|Ester]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Ester|Ester]]"
+tags: [biblia]
 ---
 
 # Ester 9
 
-**1** E, no duodécimo mês, que é o mês de Adar, no dia treze do mesmo mês em que chegou a palavra do rei e a sua ordem para se executar, no dia em que os inimigos dos judeus esperavam assenhorear-se deles, sucedeu o contrário, porque os judeus foram os que se assenhorearam dos que os odiavam. ^v1
+**1** No décimo segundo mês, que é o Mês de Adar, no décimo terceiro dia, quando a ordem do rei e decreto entrariam em vigor, no dia em que os inimigos dos judeus esperavam vencê-los, aconteceu o contrário. Os judeus ganharam força sobre aqueles que lhes odiavam. ^v1
 
-**2** Porque os judeus nas suas cidades, em todas as províncias do rei Assuero, se ajuntaram para pôr as mãos naqueles que procuravam o seu mal; e ninguém podia resistir-lhes, porque o medo deles caíra sobre todos aqueles povos. ^v2
+**2** Os judeus se ajuntaram em suas cidades por todas as províncias do rei Xerxes, para erguer as mãos contra aqueles que tentavam trazer-lhes desastre. Ninguém conseguia resistir-lhes, pois o temor deles tinha caído sobre todos os povos. ^v2
 
-**3** E todos os líderes das províncias, e os sátrapas, e os governadores, e os que faziam a obra do rei, auxiliavam os judeus; porque tinha caído sobre eles o temor de Mardoqueu. ^v3
+**3** Todos os oficiais das províncias, governadores provinciais, os governadores, e os administradores do rei ajudaram os judeus, porque o temor que tinham de Mardoqueu tinha caído sobre eles. ^v3
 
-**4** Porque Mardoqueu era grande na casa do rei, e a sua fama crescia por todas as províncias, porque o homem Mardoqueu ia sendo engrandecido. ^v4
+**4** Pois Mardoqueu tinha grande influência na casa do rei, e sua fama se espalhou em todas as províncias, porque Mardoqueu foi se tornando grande. ^v4
 
-**5** Feriram, pois, os judeus a todos os seus inimigos, a golpes de espada, com matança e com destruição; e fizeram dos seus inimigos o que quiseram. ^v5
+**5** Os judeus atacaram seus inimigos com espadas, matando e destruindo eles, e fizeram como eles desejaram para com aqueles que os odiavam. ^v5
 
-**6** E na fortaleza de Susã os judeus mataram e destruíram quinhentos homens; ^v6
+**6** Na própria fortaleza de Susã, os judeus mataram e destruíram quinhentos homens. ^v6
 
-**7** Como também a Parsandata, e a Dalfom e a Aspata, ^v7
+**7** Eles mataram Parsandata, Dalfom, Aspata, ^v7
 
-**8** E a Porata, e a Adalia, e a Aridata, ^v8
+**8** Porata, Adalia, Aridata, ^v8
 
-**9** E a Farmasta, e a Arisai, e a Aridai, e a Vaisata; ú ^v9
+**9** Farmasta, Arisai, Aridai e Vaisata, ^v9
 
-**10** Os dez filhos de Hamã, filho de Hamedata, o inimigo dos judeus, mataram, porém ao despojo não estenderam a sua mão. ^v10
+**10** e os dez filhos de Hamã, filho de Hamedata, o inimigo dos judeus. Mas eles não levaram nenhum bem. ^v10
 
-**11** No mesmo dia foi comunicado ao rei o número dos mortos na fortaleza de Susã. ^v11
+**11** Naquele dia, o número dos mortos na fortaleza de Susã foi comunicado ao rei. O rei disse para a rainha Ester: ^v11
 
-**12** E disse o rei à rainha Ester: Na fortaleza de Susã os judeus mataram e destruíram quinhentos homens, e os dez filhos de Hamã; nas mais províncias do rei que teriam feito? Qual é, pois, a tua petição? E dar-se-te-á. Ou qual é ainda o teu requerimento? E far-se-á. ^v12
+**12** """Os judeus mataram quinhentos homens na fortaleza de Susã, incluindo os dez filhos de Hamã. O que, então, terão feito no resto das províncias do rei? Agora, qual é a tua petição? Ela te será concedida. Qual é o teu pedido? Isso lhe será concedido""." ^v12
 
-**13** Então disse Ester: Se bem parecer ao rei, conceda-se aos judeus que se acham em Susã que também façam amanhã conforme ao mandado de hoje; e pendurem numa forca os dez filhos de Hamã. ^v13
+**13** "Ester disse: ""Se é de agrado do rei, deixa que os judeus de Susã tenham permissão para fazer também amanhã conforme o decreto de hoje, e que os dez filhos de Hamã sejam pendurados na forca""." ^v13
 
-**14** Então disse o rei que assim se fizesse; e publicou-se um edito em Susã, e enforcaram os dez filhos de Hamã. ^v14
+**14** Então, o rei ordenou que assim se fizesse. Um decreto foi emitido em Susã, e eles enforcaram os dez filhos de Hamã. ^v14
 
-**15** E reuniram-se os judeus que se achavam em Susã também no dia catorze do mês de Adar, e mataram em Susã trezentos homens; porém ao despojo não estenderam a sua mão. ^v15
+**15** Os judeus que estavam em Susã ajuntaram-se no décimo quarto dia do Mês de Adar, e mataram trezentos homens a mais em Susã, mas não colocaram as mãos nos bens. ^v15
 
-**16** Também os demais judeus que se achavam nas províncias do rei se reuniram e se dispuseram em defesa das suas vidas, e tiveram descanso dos seus inimigos; e mataram dos seus inimigos setenta e cinco mil; porém ao despojo não estenderam a sua mão. ^v16
+**16** Os outros judeus que estavam nas províncias do rei se juntaram para defender suas vidas, e eles receberam alívio de seus inimigos e mataram setenta e cinco mil dos que os odiavam, mas não colocaram as mãos nos bens daqueles que eles mataram. ^v16
 
-**17** Sucedeu isto no dia treze do mês de Adar; e descansaram no dia catorze, e fizeram, daquele dia, dia de banquetes e de alegria. ^v17
+**17** Aconteceu, no décimo terceiro dia do Mês de Adar, no décimo quarto dia, eles descansaram e fizeram dele um dia de banquete e de alegria. ^v17
 
-**18** Também os judeus, que se achavam em Susã se ajuntaram nos dias treze e catorze do mesmo; e descansaram no dia quinze, e fizeram, daquele dia, dia de banquetes e de alegria. ^v18
+**18** Mas os judeus que estavam em Susã se ajuntaram no décimo terceiro dia e no décimo quarto dia. No décimo quinto dia, eles descansaram e fizeram dele um dia de banquete e alegria. ^v18
 
-**19** Os judeus, porém, das aldeias, que habitavam nas vilas, fizeram do dia catorze do mês de Adar dia de alegria e de banquetes, e dia de folguedo, e de mandarem presentes uns aos outros. ^v19
+**19** Por isso os judeus das vilas, que construíram suas casas nas cidades rurais, observam o décimo quarto dia do Mês de Adar como um dia de alegria e banquete, e como um dia no qual eles enviam ofertas de comida uns para os outros. ^v19
 
-**20** E Mardoqueu escreveu estas coisas, e enviou cartas a todos os judeus que se achavam em todas as províncias do rei Assuero, aos de perto, e aos de longe, ^v20
+**20** Mardoqueu registrou estas coisas e enviou cartas para todos os judeus que estavam em todas as províncias do rei Xerxes, ambos de perto e longe, ^v20
 
-**21** Ordenando-lhes que guardassem o dia catorze do mês de Adar, e o dia quinze do mesmo, todos os anos, ^v21
+**21** obrigando-os a guardarem o décimo quarto dia e o décimo quinto dia de Adar todo ano. ^v21
 
-**22** Como os dias em que os judeus tiveram repouso dos seus inimigos, e o mês que se lhes mudou de tristeza em alegria, e de luto em dia de festa, para que os fizessem dias de banquetes e de alegria, e de mandarem presentes uns aos outros, e dádivas aos pobres. ^v22
+**22** Estes foram os dias em que os judeus se livraram de seus inimigos, e o mês quando sua tristeza tornou-se em alegria, e a lamentação em dia de celebração. Eles deveriam torná-los dias de banquete e alegria, enviando ofertas de comida uns aos outros, e ofertas para os pobres. ^v22
 
-**23** E os judeus encarregaram-se de fazer o que já tinham começado, como também o que Mardoqueu lhes tinha escrito. ^v23
+**23** Assim, os judeus continuaram a celebração que tinham começado, fazendo o que Mardoqueu tinha lhe escrito. ^v23
 
-**24** Porque Hamã, filho de Hamedata, o agagita, inimigo de todos os judeus, tinha intentado destruir os judeus, e tinha lançado Pur, isto é, a sorte, para os assolar e destruir. ^v24
+**24** Naquele tempo, Hamã, filho de Hamedata, o agagita, o inimigo de todos os judeus, tinha tramado eliminar os judeus e tinha lançado o pur (isto é, a sorte), para aniquilá-los e destruí-los. ^v24
 
-**25** Mas, vindo isto perante o rei, mandou ele por cartas que o mau intento que Hamã formara contra os judeus, se tornasse sobre a sua cabeça; pelo que penduraram a ele e a seus filhos numa forca. ^v25
+**25** Mas, quando o assunto chegou até o rei, ele deu ordens por cartas, para que o malicioso plano que Hamã tinha planejado contra os judeus recaísse sobre a sua própria cabeça, e que ele e seus filhos fossem pendurados na forca. ^v25
 
-**26** Por isso àqueles dias chamam Purim, do nome Pur; assim também por causa de todas as palavras daquela carta, e do que viram sobre isso, e do que lhes tinha sucedido, ^v26
+**26** Por isso, aqueles dias foram chamados Purim, segundo o nome de pur. Por causa de tudo o que estava escrito naquela carta, do que haviam visto e do que lhes havia acontecido, ^v26
 
-**27** Confirmaram os judeus, e tomaram sobre si, e sobre a sua descendência, e sobre todos os que se achegassem a eles, que não se deixaria de guardar estes dois dias conforme ao que se escrevera deles, e segundo o seu tempo determinado, todos os anos. ^v27
+**27** os judeus aceitaram um novo costume e encargo. Este costume seria por eles mesmos, sua descendência e por todos os que se juntaram a eles. Seria que eles celebrariam estes dois dias todos os anos. Celebrariam na forma prescrita e na data certa cada ano. ^v27
 
-**28** E que estes dias seriam lembrados e guardados em cada geração, família, província e cidade, e que esses dias de Purim não fossem revogados entre os judeus, e que a memória deles nunca teria fim entre os de sua descendência. ^v28
+**28** Esses dias deveriam ser celebrados e observados em toda geração, toda família, toda província, e toda cidade. Esses judeus e seus descedentes jamais cessariam de observar fielmente estes dias de Purim, assim eles jamais esqueceriam deles. ^v28
 
-**29** Então a rainha Ester, filha de Abiail, e Mardoqueu, o judeu, escreveram com toda autoridade uma segunda vez, para confirmar a carta a respeito de Purim. ^v29
+**29** A rainha Ester, filha de Abiail, e o judeu Mardoqueu escreveram com toda autoridade e confirmaram esta segunda carta sobre o Purim. ^v29
 
-**30** E mandaram cartas a todos os judeus, às cento e vinte e sete províncias do reino de Assuero, com palavras de paz e verdade. ^v30
+**30** Cartas foram enviadas para todos os judeus das cento e vinte e sete províncias do reino de Xerxes, desejando-lhes paz e segurança. ^v30
 
-**31** Para confirmarem estes dias de Purim nos seus tempos determinados, como Mardoqueu, o judeu, e a rainha Ester lhes tinham estabelecido, e como eles mesmos já o tinham estabelecido sobre si e sobre a sua descendência, acerca do jejum e do seu clamor. ^v31
+**31** Essas cartas confirmavam os dias de Purim, nas suas datas determinadas, como Mardoqueu, o judeu, e a rainha Ester ordenaram aos judeus. Os judeus aceitaram esta obrigação para eles mesmos e seus descendentes, como também eles aceitaram os tempos de jejum e lamentação. ^v31
 
-**32** E o mandado de Ester estabeleceu os sucessos daquele Purim; e escreveu-se no livro. ^v32
+**32** A ordenança de Ester confirmou estes regulamentos a respeito de Purim, e isso foi escrito no livro. ^v32

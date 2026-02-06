@@ -1,33 +1,30 @@
 ---
-Livro: "[[Salmos|Salmos]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Salmos|Salmos]]"
+tags: [biblia]
 ---
 
 # Salmos 108
 
-**1** Preparado está o meu coração, ó Deus; cantarei e darei louvores até com a minha glória. ^v1
+**2** Acordai, saltério e harpa; eu acordarei o amanhecer. ^v2
 
-**2** Despertai, saltério e harpa; eu mesmo despertarei ao romper da alva. ^v2
+**3** A Ti, Yahweh, eu darei graças entre os povos! Eu cantarei louvores a Ti entre as nações. ^v3
 
-**3** Louvar-te-ei entre os povos, Senhor, e a ti cantarei louvores entre as nações. ^v3
+**4** Pois o Teu amor leal é grande e se eleva acima do firmamento, e a Tua fidelidade alcança os céus. ^v4
 
-**4** Porque a tua benignidade se estende até aos céus, e a tua verdade chega até às mais altas nuvens. ^v4
+**5** Sê exaltado, ó Deus, acima dos céus, e que a Tua glória seja exaltada sobre toda a terra. ^v5
 
-**5** Exalta-te sobre os céus, ó Deus, e a tua glória sobre toda a terra. ^v5
+**6** Para que sejam resgatados aqueles a quem Tu amas; resgata-nos com a Tua mão direita e responde-nos. ^v6
 
-**6** Para que sejam livres os teus amados, salva-nos com a tua destra, e ouve-nos. ^v6
+**7** "Deus, em Sua santidade, falou: ""Eu Me regozijarei; Eu dividirei Siquém e repartirei o vale de Sucote." ^v7
 
-**7** Deus falou na sua santidade; eu me regozijarei; repartirei a Siquém, e medirei o vale de Sucote. ^v7
+**8** Gileade é Meu e Manassés é Meu; também Efraim é Meu capacete e Judá é Meu cetro. ^v8
 
-**8** Meu é Gileade, meu é Manassés; e Efraim a força da minha cabeça, Judá o meu legislador. ^v8
+**9** "Moabe é a bacia em que Me lavo; sobre Edom Eu atirarei Meu sapato; Eu gritarei vitória sobre a Filístia.""" ^v9
 
-**9** Moabe a minha bacia de lavar; sobre Edom lançarei o meu sapato, sobre a Filístia jubilarei. ^v9
+**10** Quem me trará para a cidade forte? Quem me conduzirá a Edom? ^v10
 
-**10** Quem me levará à cidade forte? Quem me guiará até Edom? ^v10
+**11** Deus, Tu nos rejeitaste? Tu que já não sais com o nosso exército para a batalha. ^v11
 
-**11** Porventura não serás tu, ó Deus, que nos rejeitaste? E não sairás, ó Deus, com os nossos exércitos? ^v11
+**12** Ajuda-nos contra o adversário, pois o socorro do homem é inútil. ^v12
 
-**12** Dá-nos auxílio para sair da angústia, porque vão é o socorro da parte do homem. ^v12
-
-**13** Em Deus faremos proezas, pois ele calcará aos pés os nossos inimigos. ^v13
+**13** Nós triunfaremos com a ajuda de Deus. Ele pisará nossos inimigos. ^v13

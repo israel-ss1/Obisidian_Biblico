@@ -1,73 +1,72 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/João|João]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/João|João]]"
+tags: [biblia]
 ---
 
 # João 16
 
-**1** Tenho-vos dito estas coisas para que vos não escandalizeis. ^v1
+**1** Eu vos disse essas coisas para não tropeçardes. ^v1
 
-**2** Expulsar-vos-ão das sinagogas; vem mesmo a hora em que qualquer que vos matar cuidará fazer um serviço a Deus. ^v2
+**2** Eles vos expulsarão das sinagogas. De fato, está chegando a hora em que todo aquele que vos matar pensará que oferece um culto a Deus. ^v2
 
-**3** E isto vos farão, porque não conheceram ao Pai nem a mim. ^v3
+**3** Eles farão isso porque não conhecem nem o Pai, nem a Mim. ^v3
 
-**4** Mas tenho-vos dito isto, a fim de que, quando chegar aquela hora, vos lembreis de que já vo-lo tinha dito. E eu não vos disse isto desde o princípio, porque estava convosco. ^v4
+**4** Eu vos disse essas coisas para que, quando a hora chegar, vos lembreis de como Eu vos falei a respeito delas. Eu não vos disse isso no princípio porque Eu estava convosco. ^v4
 
-**5** E agora vou para aquele que me enviou; e nenhum de vós me pergunta: Para onde vais? ^v5
+**5** Contudo, agora Eu vou para Aquele que Me enviou; e ainda nenhum de vós Me perguntais: 'Para onde vais?'. ^v5
 
-**6** Antes, porque isto vos tenho dito, o vosso coração se encheu de tristeza. ^v6
+**6** Mas porque Eu vos disse essas coisas, a tristeza encheu o vosso coração. ^v6
 
-**7** Todavia digo-vos a verdade, que vos convém que eu vá; porque, se eu não for, o Consolador não virá a vós; mas, quando eu for, vo-lo enviarei. ^v7
+**7** Contudo, Eu vos digo a verdade: é melhor para vós que Eu vá; pois se Eu não for, o Consolador não virá a vós; mas se Eu for, O enviarei a vós. ^v7
 
-**8** E, quando ele vier, convencerá o mundo do pecado, e da justiça e do juízo. ^v8
+**8** Quando o Consolador vier, convencerá o mundo a respeito do pecado, da justiça e do juízo. ^v8
 
-**9** Do pecado, porque não crêem em mim; ^v9
+**9** Do pecado, porque eles não creram em Mim; ^v9
 
-**10** Da justiça, porque vou para meu Pai, e não me vereis mais; ^v10
+**10** da justiça, porque Eu vou para o Pai, e vós não Me vereis mais; ^v10
 
-**11** E do juízo, porque já o príncipe deste mundo está julgado. ^v11
+**11** e do juízo, porque o príncipe deste mundo já está julgado. ^v11
 
-**12** Ainda tenho muito que vos dizer, mas vós não o podeis suportar agora. ^v12
+**12** Ainda tenho muitas coisas para vos dizer; mas não as entenderíeis agora. ^v12
 
-**13** Mas, quando vier aquele Espírito de verdade, ele vos guiará em toda a verdade; porque não falará de si mesmo, mas dirá tudo o que tiver ouvido, e vos anunciará o que há de vir. ^v13
+**13** Contudo, quando Ele, o Espírito da Verdade, vier, Ele vos guiará em toda a verdade; pois não falará de Si mesmo; mas Ele dirá tudo o que ouvir, e vos anunciará as coisas que estão por vir. ^v13
 
-**14** Ele me glorificará, porque há de receber do que é meu, e vo-lo há de anunciar. ^v14
+**14** Ele Me glorificará, porque receberá do que é Meu, e vos anunciará. ^v14
 
-**15** Tudo quanto o Pai tem é meu; por isso vos disse que há de receber do que é meu e vo-lo há de anunciar. ^v15
+**15** Tudo quanto o Pai tem é Meu; por isso, Eu disse que o Espírito receberá do que é Meu, e vos anunciará. ^v15
 
-**16** Um pouco, e não me vereis; e outra vez um pouco, e ver-me-eis; porquanto vou para o Pai. ^v16
+**16** Dentro de um pouco de tempo, vós não Me vereis; e depois de um pouco mais de tempo, de novo Me vereis”. ^v16
 
-**17** Então alguns dos seus discípulos disseram uns aos outros: Que é isto que nos diz? Um pouco, e não me vereis; e outra vez um pouco, e ver-me-eis; e: Porquanto vou para o Pai? ^v17
+**17** "Então, alguns dos Seus discípulos disseram uns aos outros: ""O que é isto que Ele nos diz: 'Um pouco de tempo e vós não Me vereis', e ainda, 'Um pouco mais de tempo, e de novo Me vereis,' e, 'Porque Eu vou para o Pai'?""." ^v17
 
-**18** Diziam, pois: Que quer dizer isto: Um pouco? Não sabemos o que diz. ^v18
+**18** "Por isso, disseram: ""O que é isto que Ele diz: 'Um pouco de tempo'? Nós não sabemos do que Ele está falando""." ^v18
 
-**19** Conheceu, pois, Jesus que o queriam interrogar, e disse-lhes: Indagais entre vós acerca disto que disse: Um pouco, e não me vereis, e outra vez um pouco, e ver-me-eis? ^v19
+**19** "Jesus viu que queriam interrogá-Lo, e lhes disse: ""Perguntais entre vós a respeito disso que Eu vos disse: 'Dentro de um pouco de tempo, vós não Me vereis; e depois um pouco de mais de tempo, de novo Me vereis'?" ^v19
 
-**20** Na verdade, na verdade vos digo que vós chorareis e vos lamentareis, e o mundo se alegrará, e vós estareis tristes, mas a vossa tristeza se converterá em alegria. ^v20
+**20** Em verdade, em verdade, vos digo, vós chorareis e lamentareis, mas o mundo se alegrará; vós ficareis tristes, mas a vossa tristeza se transformará em alegria. ^v20
 
-**21** A mulher, quando está para dar à luz, sente tristeza, porque é chegada a sua hora; mas, depois de ter dado à luz a criança, já não se lembra da aflição, pelo prazer de haver nascido um homem no mundo. ^v21
+**21** Uma mulher fica triste quando tem dores de parto porque seu tempo de dar à luz chegou; mas depois que ela deu à luz, não se lembra mais das suas dores, por causa da alegria de ter nascido um bebê no mundo. ^v21
 
-**22** Assim também vós agora, na verdade, tendes tristeza; mas outra vez vos verei, e o vosso coração se alegrará, e a vossa alegria ninguém vo-la tirará. ^v22
+**22** Assim, também vós tendes tristeza agora, mas Eu vos verei novamente; e o vosso coração se alegrará, e ninguém poderá tirar vossa alegria. ^v22
 
-**23** E naquele dia nada me perguntareis. Na verdade, na verdade vos digo que tudo quanto pedirdes a meu Pai, em meu nome, ele vo-lo há de dar. ^v23
+**23** Naquele dia, vós não Me perguntareis nada. Em verdade, em verdade, vos digo, se pedirdes qualquer coisa ao Pai em Meu nome, Ele vos dará. ^v23
 
-**24** Até agora nada pedistes em meu nome; pedi, e recebereis, para que o vosso gozo se cumpra. ^v24
+**24** Até agora não Me pedistes nada em Meu nome; pedi e recebereis, para que a vossa alegria seja completa. ^v24
 
-**25** Disse-vos isto por parábolas; chega, porém, a hora em que não vos falarei mais por parábolas, mas abertamente vos falarei acerca do Pai. ^v25
+**25** Eu vos disse essas coisas por meio de comparações; mas está chegando a hora em que não falarei mais por comparações, mas claramente anunciarei sobre o Pai. ^v25
 
-**26** Naquele dia pedireis em meu nome, e não vos digo que eu rogarei por vós ao Pai; ^v26
+**26** Naquele dia, vós pedireis em Meu nome, e Eu não vos digo que rogarei ao Pai por vós; ^v26
 
-**27** Pois o mesmo Pai vos ama, visto como vós me amastes, e crestes que saí de Deus. ^v27
+**27** pois o próprio Pai vos ama, porque tendes Me amado e crido que Eu vim do Pai. ^v27
 
-**28** Saí do Pai, e vim ao mundo; outra vez deixo o mundo, e vou para o Pai. ^v28
+**28** "Eu vim do Pai para o mundo; novamente, Eu deixo o mundo e vou para o Pai""." ^v28
 
-**29** Disseram-lhe os seus discípulos: Eis que agora falas abertamente, e não dizes parábola alguma. ^v29
+**29** "Seus discípulos disseram: ""Eis que agora falas claramente; e não usas comparações." ^v29
 
-**30** Agora conhecemos que sabes tudo, e não precisas de que alguém te interrogue. Por isso cremos que saíste de Deus. ^v30
+**30** Agora sabemos que Tu conheces todas as coisas, e que não precisas que ninguém Te faça perguntas. Por causa disso, cremos que vieste de Deus. ^v30
 
-**31** Respondeu-lhes Jesus: Credes agora? ^v31
+**31** "Jesus lhes respondeu: ""Agora, credes?." ^v31
 
-**32** Eis que chega a hora, e já se aproxima, em que vós sereis dispersos cada um para sua parte, e me deixareis só; mas não estou só, porque o Pai está comigo. ^v32
+**32** Eis que vem a hora, e de fato já chegou, em que vós sereis espalhados cada um para vossas próprias casas, e Me deixareis sozinho. Mas não estou sozinho, porque o Pai está comigo. ^v32
 
-**33** Tenho-vos dito isto, para que em mim tenhais paz; no mundo tereis aflições, mas tende bom ânimo, eu venci o mundo. ^v33
+**33** "Eu vos disse essas coisas para que tenhais paz em Mim. No mundo tereis aflições, mas tende coragem; Eu venci o mundo""." ^v33

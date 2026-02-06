@@ -1,85 +1,84 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Lucas|Lucas]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Lucas|Lucas]]"
+tags: [biblia]
 ---
 
 # Lucas 5
 
-**1** E aconteceu que, apertando-o a multidão, para ouvir a palavra de Deus, estava ele junto ao lago de Genesaré; ^v1
+**1** E aconteceu que, certo dia, a multidão se comprimia ao redor de Jesus para ouvir a palavra de Deus, e Ele estava em pé junto ao lago de Genesaré. ^v1
 
-**2** E viu estar dois barcos junto à praia do lago; e os pescadores, havendo descido deles, estavam lavando as redes. ^v2
+**2** Ele viu dois barcos à beira do lago, os pescadores haviam desembarcado e lavavam as suas redes. ^v2
 
-**3** E, entrando num dos barcos, que era o de Simão, pediu-lhe que o afastasse um pouco da terra; e, assentando-se, ensinava do barco a multidão. ^v3
+**3** Então Ele subiu em um dos barcos, que era de Simão, e pediu-lhe para afastar um pouco o barco da praia. Jesus assentou-se e, do barco, ensinava às multidões. ^v3
 
-**4** E, quando acabou de falar, disse a Simão: Faze-te ao mar alto, e lançai as vossas redes para pescar. ^v4
+**4** Quando terminou de ensinar, Jesus disse a Simão: “eva o barco às águas profundas e lançai as vossas redes”. ^v4
 
-**5** E, respondendo Simão, disse-lhe: Mestre, havendo trabalhado toda a noite, nada apanhamos; mas, sobre a tua palavra, lançarei a rede. ^v5
+**5** E Simão respondeu: “Mestre, trabalhamos a noite inteira e não pescamos nada, mas por causa da Tua palavra baixarei as redes”. ^v5
 
-**6** E, fazendo assim, colheram uma grande quantidade de peixes, e rompia-se-lhes a rede. ^v6
+**6** Depois de fazerem isso, eles pegaram uma grande quantidade de peixes, e as redes começaram a se rasgar. ^v6
 
-**7** E fizeram sinal aos companheiros que estavam no outro barco, para que os fossem ajudar. E foram, e encheram ambos os barcos, de maneira tal que quase iam a pique. ^v7
+**7** Então eles acenaram aos seus companheiros no outro barco para virem ajudá-los. Eles encheram tanto os dois barcos que chegaram a ponto de quase afundarem. ^v7
 
-**8** E vendo isto Simão Pedro, prostrou-se aos pés de Jesus, dizendo: Senhor, ausenta-te de mim, que sou um homem pecador. ^v8
+**8** Quando Simão Pedro viu isso, ele se prostrou aos pés de Jesus, dizendo: “afasta-Te de mim, porque sou um pecador, Senhor”. ^v8
 
-**9** Pois que o espanto se apoderara dele, e de todos os que com ele estavam, por causa da pesca de peixe que haviam feito. ^v9
+**9** Pois ele e todos os que estavam consigo ficaram assombrados com a pesca que haviam feito. ^v9
 
-**10** E, de igual modo, também de Tiago e João, filhos de Zebedeu, que eram companheiros de Simão. E disse Jesus a Simão: Não temas; de agora em diante serás pescador de homens. ^v10
+**10** Semelhantemente, também, Tiago e João, filhos de Zebedeu, que eram sócios de Simão. Então Jesus disse a Simão: “Não temas, pois a partir de agora tu serás pescador de homens”. ^v10
 
-**11** E, levando os barcos para terra, deixaram tudo, e o seguiram. ^v11
+**11** Quando eles trouxeram os barcos para a praia, deixaram tudo e seguiram a Jesus. ^v11
 
-**12** E aconteceu que, quando estava numa daquelas cidades, eis que um homem cheio de lepra, vendo a Jesus, prostrou-se sobre o rosto, e rogou-lhe, dizendo: Senhor, se quiseres, bem podes limpar-me. ^v12
+**12** Aconteceu que, enquanto Ele estava em uma das cidades, havia um homem cheio de lepra. Quando ele viu Jesus, prostrou-se, tocando o rosto no solo, e implorou-lhe, dizendo: “Senhor, se esta é a Tua vontade, podes purificar-me.” ^v12
 
-**13** E ele, estendendo a mão, tocou-lhe, dizendo: Quero, sê limpo. E logo a lepra desapareceu dele. ^v13
+**13** E Jesus estendeu as suas mãos e o tocou, dizendo: “Esta é a minha vontade. Sê purificado!” E imediatamente a lepra o deixou. ^v13
 
-**14** E ordenou-lhe que a ninguém o dissesse. Mas vai, disse, mostra-te ao sacerdote, e oferece pela tua purificação, o que Moisés determinou para que lhes sirva de testemunho. ^v14
+**14** "Ele o instruiu para não dizer a ninguém, mas falou-lhe: “Segue teu caminho, mostra-te ao sacerdote e oferece um sacrifício por tua purificação, de acordo com o que Moisés ordenou, para testemunhar-lhes""." ^v14
 
-**15** A sua fama, porém, se propagava ainda mais, e ajuntava-se muita gente para o ouvir e para ser por ele curada das suas enfermidades. ^v15
+**15** Porém, notícias sobre Ele espalharam-se ainda mais, e multidões de pessoas vinham para ouvir Jesus ensinar e para serem curadas de suas doenças. ^v15
 
-**16** Ele, porém, retirava-se para os desertos, e ali orava. ^v16
+**16** E com frequência Ele se retirava para um lugar solitário e orava. ^v16
 
-**17** E aconteceu que, num daqueles dias, estava ensinando, e estavam ali assentados fariseus e doutores da lei, que tinham vindo de todas as aldeias da Galiléia, e da Judéia, e de Jerusalém. E a virtude do Senhor estava ali para os curar. ^v17
+**17** Aconteceu que, certo dia, Jesus estava ensinando, e havia fariseus e mestres da Lei sentados perto Dele. Eles vieram de diversas aldeias das regiões da Judeia e da Galileia e também da cidade de Jerusalém. E o poder do Senhor estava com Ele para curar. ^v17
 
-**18** E eis que uns homens transportaram numa cama um homem que estava paralítico, e procuravam fazê-lo entrar e pô-lo diante dele. ^v18
+**18** Então alguns homens vieram carregando em um leito um homem que era paralítico. Eles procuravam uma maneira de trazê-lo para dentro do local, a fim de deitá-lo em frente a Jesus. ^v18
 
-**19** E, não achando por onde o pudessem levar, por causa da multidão, subiram ao telhado, e por entre as telhas o baixaram com a cama, até ao meio, diante de Jesus. ^v19
+**19** Mas, por causa da multidão, eles não conseguiram. Então subiram ao telhado e, por entre as telhas, desceram o homem em seu leito, no meio das pessoas, exatamente na frente de Jesus. ^v19
 
-**20** E, vendo ele a fé deles, disse-lhe: Homem, os teus pecados te são perdoados. ^v20
+**20** Vendo-lhes a fé, Jesus disse: “Homem, os teus pecados estão perdoados”. ^v20
 
-**21** E os escribas e os fariseus começaram a arrazoar, dizendo: Quem é este que diz blasfêmias? Quem pode perdoar pecados, senão só Deus? ^v21
+**21** Os escribas e fariseus começaram a questionar, dizendo: “Quem é este para dizer essas blasfêmias? Somente Deus pode perdoar pecados”. ^v21
 
-**22** Jesus, porém, conhecendo os seus pensamentos, respondeu, e disse-lhes: Que arrazoais em vossos corações? ^v22
+**22** Mas Jesus, percebendo o que eles estavam pensando, respondeu e disse-lhes: “Por que estais questionando isso em vossos corações? ^v22
 
-**23** Qual é mais fácil? dizer: Os teus pecados te são perdoados; ou dizer: Levanta-te, e anda? ^v23
+**23** O que é mais fácil dizer: 'Os teus pecados estão perdoados.' ou 'Levanta-te e anda?' ^v23
 
-**24** Ora, para que saibais que o Filho do homem tem sobre a terra poder de perdoar pecados (disse ao paralítico), a ti te digo: Levanta-te, toma a tua cama, e vai para tua casa. ^v24
+**24** "Porém, para que saibais que o Filho do Homem tem autoridade na terra para perdoar pecados, eu te digo: 'Levanta-te, pega o teu leito e vai para a tua casa""." ^v24
 
-**25** E, levantando-se logo diante deles, e tomando a cama em que estava deitado, foi para sua casa, glorificando a Deus. ^v25
+**25** Imediatamente ele se levantou perante eles, pegou o leito em que vivia deitado e foi para a sua casa glorificando a Deus. ^v25
 
-**26** E todos ficaram maravilhados, e glorificaram a Deus; e ficaram cheios de temor, dizendo: Hoje vimos prodígios. ^v26
+**26** Todos ficaram maravilhados, glorificavam a Deus e, cheios de temor, diziam: “Hoje nós vimos coisas extraordinárias”. ^v26
 
-**27** E, depois disto, saiu, e viu um publicano, chamado Levi, assentado na recebedoria, e disse-lhe: Segue-me. ^v27
+**27** "Depois disso, Jesus saiu de lá e viu um coletor de impostos chamado Levi assentado no local de coleta de impostos. Então Jesus lhe disse: “Segue-Me""." ^v27
 
-**28** E ele, deixando tudo, levantou-se e o seguiu. ^v28
+**28** Levi deixou tudo, levantou-se e O seguiu. ^v28
 
-**29** E fez-lhe Levi um grande banquete em sua casa; e havia ali uma multidão de publicanos e outros que estavam com eles à mesa. ^v29
+**29** Então Levi preparou um grande banquete para Jesus em sua casa. Muitos coletores de impostos e outras pessoas estavam reclinados à mesa, comendo com eles. ^v29
 
-**30** E os escribas deles, e os fariseus, murmuravam contra os seus discípulos, dizendo: Por que comeis e bebeis com publicanos e pecadores? ^v30
+**30** E os fariseus e escribas se queixavam aos discípulos de Jesus, dizendo: “Por que vós comeis e bebeis com coletores de impostos e outros pecadores?”. ^v30
 
-**31** E Jesus, respondendo, disse-lhes: Não necessitam de médico os que estão sãos, mas, sim, os que estão enfermos; ^v31
+**31** Respondeu-lhes Jesus: “Aqueles que têm saúde não precisam de médico, somente os doentes. ^v31
 
-**32** Eu não vim chamar os justos, mas, sim, os pecadores, ao arrependimento. ^v32
+**32** "Eu não vim para chamar os justos, mas para chamar os pecadores ao arrependimento""." ^v32
 
-**33** Disseram-lhe, então, eles: Por que jejuam os discípulos de João muitas vezes, e fazem orações, como também os dos fariseus, mas os teus comem e bebem? ^v33
+**33** Eles Lhe disseram: “Os discípulos de João estão sempre jejuando e orando, os discípulos dos fariseus também. Porém os teus discípulos bebem e comem”. ^v33
 
-**34** E ele lhes disse: Podeis vós fazer jejuar os filhos das bodas, enquanto o esposo está com eles? ^v34
+**34** Jesus disse-lhes: “Pode alguém fazer os convidados de um casamento jejuarem enquanto o noivo está com eles? ^v34
 
-**35** Dias virão, porém, em que o esposo lhes será tirado, e então, naqueles dias, jejuarão. ^v35
+**35** "Mas chegarão dias em que o noivo lhes será tirado, e naqueles dias eles jejuarão""." ^v35
 
-**36** E disse-lhes também uma parábola: Ninguém deita um pedaço de uma roupa nova para a coser em roupa velha, pois romperá a nova e o remendo não condiz com a velha. ^v36
+**36** Então Jesus contou-lhes uma parábola: “Ninguém tira remendo de uma roupa nova para consertar uma roupa velha. Pois, se fizer isso, a roupa nova ficará rasgada, e o remendo não combinará com a roupa velha. ^v36
 
-**37** E ninguém deita vinho novo em odres velhos; de outra sorte o vinho novo romperá os odres, e entornar-se-á o vinho, e os odres se estragarão; ^v37
+**37** Ninguém põe vinho novo em odres velhos. Se assim o fizer, o vinho novo romperá os odres e se derramará, e os odres serão destruídos. ^v37
 
-**38** Mas o vinho novo deve deitar-se em odres novos, e ambos juntamente se conservarão. ^v38
+**38** Mas o vinho novo deve ser colocado em odres novos. ^v38
 
-**39** E ninguém tendo bebido o velho quer logo o novo, porque diz: Melhor é o velho. ^v39
+**39** Ninguém, após tomar vinho velho, deseja tomar o vinho novo, pois diz: “O velho é que é bom!”. ^v39

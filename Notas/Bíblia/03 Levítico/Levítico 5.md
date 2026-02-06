@@ -1,45 +1,44 @@
 ---
-Livro: "[[Levítico|Levítico]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Levítico|Levítico]]"
+tags: [biblia]
 ---
 
 # Levítico 5
 
-**1** E quando alguma pessoa pecar, ouvindo uma voz de blasfêmia, de que for testemunha, seja porque viu, ou porque soube, se o não denunciar, então levará a sua iniqüidade. ^v1
+**1** Se alguém pecar porque não testemunhou quando ele tiver observado alguma coisa sobre a qual é requerido que testemunhe, se ele tiver visto ou ouvido sobre isso, ele será responsabilizado. ^v1
 
-**2** Ou, quando alguma pessoa tocar em alguma coisa imunda, seja corpo morto de fera imunda, seja corpo morto de animal imundo, seja corpo morto de réptil imundo, ainda que não soubesse, contudo será ele imundo e culpado. ^v2
+**2** Ou se alguém tocar em qualquer coisa que Deus considera imunda, seja um cadáver de animal selvagem impuro, ou de um animal doméstico que já tenha morrido, ou de animal que rasteja, mesmo que a pessoa não tenha tido a intenção de tocá-lo, ele ficará impuro e será culpado. ^v2
 
-**3** Ou, quando tocar a imundícia de um homem, seja qualquer que for a sua imundícia, com que se faça imundo, e lhe for oculto, e o souber depois, será culpado. ^v3
+**3** Ou se ele tocar a impureza de alguém, seja o que for, ainda que sem consciência, então ele será culpado quando souber disso. ^v3
 
-**4** Ou, quando alguma pessoa jurar, pronunciando temerariamente com os seus lábios, para fazer mal, ou para fazer bem, em tudo o que o homem pronuncia temerariamente com juramento, e lhe for oculto, e o souber depois, culpado será numa destas coisas. ^v4
+**4** Ou, se alguém jura precipitadamente com seus lábios, seja para fazer o mal ou o bem, qualquer que seja o juramento deste homem, mesmo que inconscientemente, quando ele souber disso, então será culpado de todas essas coisas. ^v4
 
-**5** Será, pois, que, culpado sendo numa destas coisas, confessará aquilo em que pecou. ^v5
+**5** Quando alguém é culpado de alguma dessas coisas, ele deverá confessar qualquer pecado que tenha cometido. ^v5
 
-**6** E a sua expiação trará ao Senhor, pelo seu pecado que cometeu: uma fêmea de gado miúdo, uma cordeira, ou uma cabrinha pelo pecado; assim o sacerdote por ela fará expiação do seu pecado. ^v6
+**6** Então, deverá trazer uma oferta para Yahweh pela culpa do pecado que cometeu. Um animal fêmea do rebanho, seja ovelha ou cabra, por oferta pela culpa, e o sacerdote fará a expiação por ele no que diz respeito ao seu pecado. ^v6
 
-**7** Mas, se em sua mão não houver recurso para gado miúdo, então trará, para expiação da culpa que cometeu, ao Senhor, duas rolas ou dois pombinhos; um para expiação do pecado, e o outro para holocausto; ^v7
+**7** Se ele não tiver condições de comprar uma ovelha, então poderá trazer a Yahweh, como oferta pela culpa, duas rolinhas ou dois pombinhos, um pela oferta da culpa e outra para holocausto. ^v7
 
-**8** E os trará ao sacerdote, o qual primeiro oferecerá aquele que é para expiação do pecado; e com a sua unha lhe fenderá a cabeça junto ao pescoço, mas não o partirá; ^v8
+**8** Ele deve trazê-las ao sacerdote, que irá oferecê-las primeiro por oferta do pecado — ele irá torcer-lhe o pescoço, sem, entretanto, arrancar-lhe a cabeça do corpo. ^v8
 
-**9** E do sangue da expiação do pecado espargirá sobre a parede do altar, porém o que sobejar daquele sangue espremer-se-á à base do altar; expiação do pecado é. ^v9
+**9** Então, ele aspergirá parte do sangue da oferta pela culpa sobre um lado do altar e escorrerá o restante do sangue na base do altar. Isso será a oferta pelo pecado. ^v9
 
-**10** E do outro fará holocausto conforme ao costume; assim o sacerdote por ela fará expiação do seu pecado que cometeu, e ele será perdoado. ^v10
+**10** Ele deve oferecer o segundo pássaro como holocausto, como está descrito nas instruções, e o sacerdote irá fazer expiação por ele, pelo pecado que cometeu. Então, a pessoa será perdoada. ^v10
 
-**11** Porém, se em sua mão não houver recurso para duas rolas, ou dois pombinhos, então aquele que pecou trará como oferta a décima parte de um efa de flor de farinha, para expiação do pecado; não deitará sobre ela azeite nem lhe porá em cima o incenso, porquanto é expiação do pecado; ^v11
+**11** Mas, se ele não pode comprar duas rolinhas ou dois pombinhos, então deve trazer como sacrifício pelo seu pecado um décimo de um efa de boa farinha por oferta pelo pecado. Ele não deverá colocar azeite ou incenso nela, porque isso é uma oferta pelo pecado. ^v11
 
-**12** E a trará ao sacerdote, e o sacerdote dela tomará a sua mão cheia pelo seu memorial, e a queimará sobre o altar, em cima das ofertas queimadas do Senhor; expiação de pecado é. ^v12
+**12** Ele deve levá-la ao sacerdote, que pegará um punhado dela como oferta memorial, e então a queimará no altar, por cima das ofertas queimadas para Yahweh. Essa é a oferta pelo pecado. ^v12
 
-**13** Assim o sacerdote por ela fará expiação do seu pecado, que cometeu em alguma destas coisas, e lhe será perdoado; e o restante será do sacerdote, como a oferta de alimentos. ^v13
+**13** O sacerdote fará uma expiação por qualquer pecado que a pessoa tenha cometido, e essa pessoa será perdoada. As sobras da oferta pertencerão ao sacerdote, como ofertas de cereais. ^v13
 
-**14** E falou o Senhor a Moisés, dizendo: ^v14
+**14** Então Yahweh falou a Moisés dizendo: ^v14
 
-**15** Quando alguma pessoa cometer uma transgressão, e pecar por ignorância nas coisas sagradas do Senhor, então trará ao Senhor pela expiação, um carneiro sem defeito do rebanho, conforme à tua estimação em siclos de prata, segundo o siclo do santuário, para expiação da culpa. ^v15
+**15** """Se alguém violar um mandamento e pecar contra as coisas que pertencem a Yahweh, mas o fizer sem intenção, então deve trazer sua oferta pela culpa a Yahweh. Essa oferta deve ser um carneiro sem defeito do rebanho; isso deve ser avaliado em siclos de prata — os siclos do santuário — como uma oferta pela culpa." ^v15
 
-**16** Assim restituirá o que pecar nas coisas sagradas, e ainda lhe acrescentará a quinta parte, e a dará ao sacerdote; assim o sacerdote, com o carneiro da expiação, fará expiação por ele, e ser-lhe-á perdoado o pecado. ^v16
+**16** Ele deve restituir a Yahweh pelo que fez de errado em relação ao que é santo; deve adicionar uma quinta parte e dá-la ao sacerdote. Então, o sacerdote irá fazer expiação por ele com o cordeiro da oferta pela culpa, e essa pessoa será perdoada. ^v16
 
-**17** E, se alguma pessoa pecar, e fizer, contra algum dos mandamentos do Senhor, aquilo que não se deve fazer, ainda que o não soubesse, contudo será ela culpada, e levará a sua iniqüidade; ^v17
+**17** Se alguém pecar e fizer qualquer coisa que Yahweh ordenou que não seja feito, mesmo que sem consciência, ele ainda assim é culpado, e deve carregar sua própria culpa. ^v17
 
-**18** E trará ao sacerdote um carneiro sem defeito do rebanho, conforme à tua estimação, para expiação da culpa, e o sacerdote por ela fará expiação do erro que cometeu sem saber; e ser-lhe-á perdoado. ^v18
+**18** Ele deverá trazer ao sacerdote, como oferta pela culpa, um carneiro sem defeito do rebanho, que será devidamente avaliado. Então, o sacerdote fará expiação por ele relativa ao pecado que cometeu, e mesmo que seja inconsciente, ele será perdoado. ^v18
 
-**19** Expiação de culpa é; certamente se fez culpado diante do Senhor. ^v19
+**19** É uma oferta pela culpa, pois certamente é culpado diante de Yahweh. ^v19

@@ -1,45 +1,44 @@
 ---
-Livro: "[[2 Samuel|2 Samuel]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/2 Samuel|2 Samuel]]"
+tags: [biblia]
 ---
 
 # 2 Samuel 10
 
-**1** E aconteceu depois disto que morreu o rei dos filhos de Amom, e seu filho Hanum reinou em seu lugar. ^v1
+**1** E aconteceu que, após um tempo, o rei dos amonitas morreu, e seu filho, Hanum, tornou-se rei em seu lugar. ^v1
 
-**2** Então disse Davi: Usarei de benevolência com Hanum, filho de Naás, como seu pai usou de benevolência comigo. E enviou Davi os seus servos para consolá-lo acerca de seu pai; e foram os servos de Davi à terra dos filhos de Amom. ^v2
+**2** "Davi disse: ""Eu mostrarei bondade para Hanum, filho de Naás, como seu pai mostrou bondade para comigo"". Então, Davi enviou seus servos para confortar Hanum, por causa de seu pai. Seus servos entraram na terra dos amonitas." ^v2
 
-**3** Então disseram os príncipes dos filhos de Amom a seu senhor, Hanum: Porventura honra Davi a teu pai aos teus olhos, porque te enviou consoladores? Não te enviou antes Davi os seus servos para reconhecerem esta cidade, e para espiá-la, e para transtorná-la? ^v3
+**3** "Entretanto, os líderes dos amonitas disseram a seu senhor, Hanum: ""Tu realmente pensas que Davi está honrando teu pai por haver mandado homens para te confortar? Não teria Davi enviado seus servos a ti para que observassem a cidade, para espiá-la, a fim de tomá-la?""." ^v3
 
-**4** Então tomou Hanum os servos de Davi, e lhes raspou metade da barba, e lhes cortou metade das vestes, até às nádegas, e os despediu. ^v4
+**4** Então, Hanum tomou os servos de Davi, raspou-lhes a metade das barbas, cortou-lhes fora as vestes até suas nádegas e mandou que fossem embora. ^v4
 
-**5** Quando isso foi informado a Davi, enviou ele mensageiros a encontrá-los, porque estavam aqueles homens sobremaneira envergonhados. Mandou o rei dizer-lhes: Deixai-vos estar em Jericó, até que vos torne a crescer a barba, e então voltai. ^v5
+**5** "Quando Davi se reuniu com eles, explicaram que foram profundamente humilhados. O rei disse: ""Permanecei em Jericó, até que vossa barba cresça novamente e, então, retornai""." ^v5
 
-**6** Vendo, pois, os filhos de Amom que se tinham feito abomináveis para com Davi, enviaram os filhos de Amom, e alugaram dos sírios de Bete-Reobe e dos sírios de Zobá vinte mil homens de pé, e do rei de Maaca mil homens e dos homens de Tobe doze mil homens. ^v6
+**6** Quando os amonitas perceberam que se tornaram odiosos perante Davi, enviaram mensageiros e contrataram vinte mil soldados dos arameus, de Bete-Reobe e Zobá, mil homens do rei de Maaca e doze mil homens de Tobe. ^v6
 
-**7** E ouvindo Davi, enviou a Joabe e a todo o exército dos valentes. ^v7
+**7** Quando Davi soube disso, mandou Joabe e todo o exército de soldados. ^v7
 
-**8** E saíram os filhos de Amom, e ordenaram a batalha à entrada da porta; mas os sírios de Zobá e Reobe, e os homens de Tobe e Maaca estavam à parte no campo. ^v8
+**8** Os amonitas vieram e formaram uma linha de batalha na entrada do portão da cidade, enquanto os arameus de Zobá e de Reobe e os homens de Tobe e de Maaca, ficaram em campo aberto. ^v8
 
-**9** Vendo, pois, Joabe que a batalha estava preparada contra ele pela frente e pela retaguarda, escolheu dentre todos os homens de Israel, e formou-os em linha contra os sírios. ^v9
+**9** Quando Joabe viu as linhas de batalha formadas, tanto à sua frente, quanto atrás, escolheu alguns dos melhores guerreiros e os organizou contra os arameus. ^v9
 
-**10** E o restante do povo entregou na mão de Abisai seu irmão, o qual formou em linha contra os filhos de Amom. ^v10
+**10** E o restante do exército ele entregou ao comando de seu irmão, Abisai, que os colocou na linha de batalha contra o exército dos amonitas. ^v10
 
-**11** E disse: Se os sírios forem mais fortes do que eu, tu me virás em socorro; e, se os filhos de Amom forem mais fortes do que tu, irei a socorrer-te. ^v11
+**11** "Joabe disse: ""Se os arameus forem tão fortes para comigo, então tu, Abisai, deves socorrer-me. Porém, se o exército dos amonitas for tão forte para contigo, eu irei te socorrer." ^v11
 
-**12** Esforça-te, pois, e esforcemo-nos pelo nosso povo, e pelas cidades de nosso Deus; e faça o Senhor o que bem parecer aos seus olhos. ^v12
+**12** "Sê forte e deixa que nos mostremos fortes para o nosso povo e pelas cidades de nosso Deus, pois Yahweh fará o que é bom, segundo Seu propósito""." ^v12
 
-**13** Então se achegou Joabe, e o povo que estava com ele, à peleja contra os sírios; e fugiram de diante dele. ^v13
+**13** Então, Joabe e os soldados do seu exército avançaram para a batalha contra os arameus, que foram forçados a fugir diante do exército de Israel. ^v13
 
-**14** E, vendo os filhos de Amom que os sírios fugiam, também eles fugiram de diante de Abisai, e entraram na cidade; e voltou Joabe dos filhos de Amom, e veio para Jerusalém. ^v14
+**14** Quando o exército dos amonitas viram que os arameus fugiram, eles também fugiram de Abisai e voltaram para a cidade. Então, Joabe retornou do povo de Amom e voltou para Jerusalém. ^v14
 
-**15** Vendo, pois, os sírios que foram feridos diante de Israel, tornaram a refazer-se. ^v15
+**15** Quando os arameus viram que estavam sendo derrotados por Israel, eles se reuniram novamente. ^v15
 
-**16** E mandou Hadadezer, e fez sair os sírios que estavam do outro lado do rio, e vieram a Helã; e Sobaque, capitão do exército de Hadadezer, marchava diante deles. ^v16
+**16** Então, Hadadezer enviou as tropas dos arameus para além do rio Eufrates. Eles vieram a Helã, acompanhados por Sobaque, comandante do exército de Hadadezer. ^v16
 
-**17** Do que informado Davi, ajuntou a todo o Israel, e passou o Jordão, e foi a Helã; e os sírios se puseram em ordem contra Davi, e pelejaram com ele. ^v17
+**17** Quando Davi foi informado disso, reuniu todo o Israel, atravessou o Jordão e chegou a Helã. Os arameus se agruparam em linhas na batalha contra Davi e lutaram contra ele. ^v17
 
-**18** Porém os sírios fugiram de diante de Israel, e Davi feriu dentre os sírios aos homens de setecentos carros, e quarenta mil homens de cavalaria; feriu também a Sobaque, capitão do exército, que morreu ali. ^v18
+**18** Os arameus fugiram de Israel. Davi matou setecentos soldados arameus que conduziam as carruagens e quarenta mil soldados de cavalaria. Sobaque, o comandante do exército arameu, foi ferido e ali morreu. ^v18
 
-**19** Vendo, pois, todos os reis, servos de Hadadezer, que foram feridos diante de Israel, fizeram paz com Israel, e o serviram; e temeram os sírios de socorrer aos filhos de Amom. ^v19
+**19** Quando todos os reis que foram servos de Hadadezer viram que foram derrotados por Israel, declararam paz e se tornaram submissos a ele. Assim, os arameus temeram em continuar a ajudar os amonitas. ^v19

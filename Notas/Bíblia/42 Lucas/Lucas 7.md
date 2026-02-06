@@ -1,107 +1,106 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Lucas|Lucas]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Lucas|Lucas]]"
+tags: [biblia]
 ---
 
 # Lucas 7
 
-**1** E, depois de concluir todos estes discursos perante o povo, entrou em Cafarnaum. ^v1
+**1** Quando Jesus terminou de transmitir aos ouvidos do povo todas essas palavras, entrou em Cafarnaum. ^v1
 
-**2** E o servo de um certo centurião, a quem muito estimava, estava doente, e moribundo. ^v2
+**2** Um servo, de um centurião, muito querido por ele, estava muito doente e prestes a morrer. ^v2
 
-**3** E, quando ouviu falar de Jesus, enviou-lhe uns anciãos dos judeus, rogando-lhe que viesse curar o seu servo. ^v3
+**3** E tendo ouvido falar sobre Jesus, o centurião enviou até Ele alguns anciãos dos judeus pedindo que Ele viesse e salvasse seu servo. ^v3
 
-**4** E, chegando eles junto de Jesus, rogaram-lhe muito, dizendo: É digno de que lhe concedas isto, ^v4
+**4** Quando eles chegaram até Jesus, pediram-Lhe insistentemente: “Ele é digno de que lhe faças isso, ^v4
 
-**5** Porque ama a nossa nação, e ele mesmo nos edificou a sinagoga. ^v5
+**5** pois ama nossa nação, e é quem construiu a sinagoga para nós”. ^v5
 
-**6** E foi Jesus com eles; mas, quando já estava perto da casa, enviou-lhe o centurião uns amigos, dizendo-lhe: Senhor, não te incomodes, porque não sou digno de que entres debaixo do meu telhado. ^v6
+**6** Então Jesus seguiu em Seu caminho com eles. Estando não muito longe da casa, o centurião enviou os seus amigos para dizer-Lhe: “Senhor, não te incomodes, pois não sou digno de que entres em minha casa. ^v6
 
-**7** E por isso nem ainda me julguei digno de ir ter contigo; dize, porém, uma palavra, e o meu criado sarará. ^v7
+**7** Por essa razão não me considero digno de ir ao Teu encontro; dize porém apenas uma palavra e meu servo será curado. ^v7
 
-**8** Porque também eu sou homem sujeito à autoridade, e tenho soldados sob o meu poder, e digo a este: Vai, e ele vai; e a outro: Vem, e ele vem; e ao meu servo: Faze isto, e ele o faz. ^v8
+**8** Pois também estou sob autoridade, e tenho soldados sob minhas ordens. Eu digo a este: “Ide” e ele vai; e digo a outro “Vinde” e ele vem; Eu digo ao meu servo: “Fazei isto” e ele o faz. ^v8
 
-**9** E, ouvindo isto Jesus, maravilhou-se dele, e voltando-se, disse à multidão que o seguia: Digo-vos que nem ainda em Israel tenho achado tanta fé. ^v9
+**9** Quando Jesus ouviu isso, Ele ficou admirado, e virando-se para a multidão que O seguia, disse: “Eu vos digo que nem mesmo em Israel encontrei alguém com tamanha fé”. ^v9
 
-**10** E, voltando para casa os que foram enviados, acharam são o servo enfermo. ^v10
+**10** Então aqueles que foram enviados a Ele retornaram para a casa e encontraram o servo saudável. ^v10
 
-**11** E aconteceu que, no dia seguinte, ele foi à cidade chamada Naim, e com ele iam muitos dos seus discípulos, e uma grande multidão; ^v11
+**11** Depois disso, aconteceu que Jesus estava viajando para uma cidade chamada Naim. Os Seus discípulos iam com Ele, juntamente com uma grande multidão. ^v11
 
-**12** E, quando chegou perto da porta da cidade, eis que levavam um defunto, filho único de sua mãe, que era viúva; e com ela ia uma grande multidão da cidade. ^v12
+**12** Quando aproximou-se do portão da cidade, um homem morto estava sendo carregado, o único filho de sua mãe. Ela era uma viúva, e uma multidão numerosa da cidade estava com ela. ^v12
 
-**13** E, vendo-a, o Senhor moveu-se de íntima compaixão por ela, e disse-lhe: Não chores. ^v13
+**13** Quando o Senhor a viu, Ele se compadeceu dela, e disse-lhe: “Não chores!” ^v13
 
-**14** E, chegando-se, tocou o esquife (e os que o levavam pararam), e disse: Jovem, a ti te digo: Levanta-te. E o que fora defunto assentou-se, e começou a falar. ^v14
+**14** Então Ele chegou perto, tocou a armação de madeira que levava o corpo, e aqueles que a carregavam pararam, e Ele disse: “Jovem, Eu te digo, levanta-te”. ^v14
 
-**15** E entregou-o à sua mãe. ^v15
+**15** O homem que estava morto se levantou e começou a falar. Então Jesus o entregou para sua mãe. ^v15
 
-**16** E de todos se apoderou o temor, e glorificavam a Deus, dizendo: Um grande profeta se levantou entre nós, e Deus visitou o seu povo. ^v16
+**16** E sobreveio temor sobre todos e eles glorificavam a Deus dizendo: “Um grande profeta surgiu entre nós” e “Deus tem olhado para o Seu povo”. ^v16
 
-**17** E correu dele esta fama por toda a Judéia e por toda a terra circunvizinha. ^v17
+**17** Essas notícias sobre Jesus se espalharam por toda a Judeia e por todas as regiões vizinhas. ^v17
 
-**18** E os discípulos de João anunciaram-lhe todas estas coisas. ^v18
+**18** Os discípulos de João contaram todas estas coisas para ele. ^v18
 
-**19** E João, chamando dois dos seusdiscípulos, enviou-os a Jesus, dizendo: És tu aquele que havia de vir, ou esperamos outro? ^v19
+**19** Então João chamou dois de seus discípulos e os enviou até o Senhor para dizer: “Tu és o que haveria de vir ou devemos esperar por outro? ^v19
 
-**20** E, quando aqueles homens chegaram junto dele, disseram: João o Batista enviou-nos a perguntar-te: És tu aquele que havia de vir, ou esperamos outro? ^v20
+**20** Quando eles encontraram Jesus, disseram: “João Batista nos enviou a Ti para perguntarmos: 'Tu és o que estava para vir ou devemos esperar por outro?'” ^v20
 
-**21** E, na mesma hora, curou muitos de enfermidades, e males, e espíritos maus, e deu vista a muitos cegos. ^v21
+**21** Naquela mesma hora Ele curou muitas pessoas de doenças, de aflições, de espíritos malignos e, a muitos cegos deu visão. ^v21
 
-**22** Respondendo, então, Jesus, disse-lhes: Ide, e anunciai a João o que tendes visto e ouvido: que os cegos vêem, os coxos andam, os leprosos são purificados, os surdos ouvem, os mortos ressuscitam e aos pobres anuncia-se o evangelho. ^v22
+**22** Jesus respondeu-lhes, dizendo: “Ide e relatai a João tudo o que tendes visto e ouvido. Pessoas cegas estão recebendo a visão, paralíticos estão andando, leprosos estão sendo purificados, surdos estão ouvindo, mortos estão sendo trazidos de volta à vida e aos necessitados estão sendo anunciadas as boas novas”. ^v22
 
-**23** E bem-aventurado é aquele que em mim se não escandalizar. ^v23
+**23** Bendito aquele que não deixar de acreditar em Mim por causa das minhas ações. ^v23
 
-**24** E, tendo-se retirado os mensageiros de João, começou a dizer à multidão acerca de João: Que saístes a ver no deserto? uma cana abalada pelo vento? ^v24
+**24** Quando os mensageiros de João foram embora, Jesus começou a falar para a multidão sobre ele. “O que fostes ver no deserto? Um caniço balançado pelo vento? ^v24
 
-**25** Mas que saístes a ver? um homem trajado de vestes delicadas? Eis que os que andam com preciosas vestiduras, e em delícias, estão nos paços reais. ^v25
+**25** O que fostes ver? Um homem vestido em roupas finas? Eis que pessoas que vestem roupas esplendorosas e têm uma vida de luxo estão em palácios reais. ^v25
 
-**26** Mas que saístes a ver? um profeta? Sim, vos digo, e muito mais do que profeta. ^v26
+**26** Mas o que fostes ver? Um profeta? Sim, Eu vos digo, e mais do que profeta. ^v26
 
-**27** Este é aquele de quem está escrito: Eis que envio o meu anjo diante da tua face, O qual preparará diante de ti o teu caminho. ^v27
+**27** Este é aquele sobre o qual está escrito: 'Eis que estou enviando Meu mensageiro diante de Tua face, o qual irá preparar Teu caminho diante de Ti'. ^v27
 
-**28** E eu vos digo que, entre os nascidos de mulheres, não há maior profeta do que João o Batista; mas o menor no reino de Deus é maior do que ele. ^v28
+**28** "Eu vos digo que entre os nascidos de mulher, não há ninguém maior do que João, mas aquele que é menor no Reino de Deus, é maior do que ele""." ^v28
 
-**29** E todo o povo que o ouviu e os publicanos, tendo sido batizados com o batismo de João, justificaram a Deus. ^v29
+**29** Quando todas as pessoas ouviram isso, inclusive os coletores de impostos, todos declararam que Deus é justo, sendo então, batizados com o batismo de João. ^v29
 
-**30** Mas os fariseus e os doutores da lei rejeitaram o conselho de Deus contra si mesmos, não tendo sido batizados por ele. ^v30
+**30** Mas os fariseus e os mestres da lei judaica rejeitaram o conselho de Deus para si mesmos, não sendo batizados por ele. ^v30
 
-**31** E disse o Senhor: A quem, pois, compararei os homens desta geração, e a quem são semelhantes? ^v31
+**31** “A quem, pois, compararei as pessoas desta geração? A quem elas se assemelham? ^v31
 
-**32** São semelhantes aos meninos que, assentados nas praças, clamam uns aos outros, e dizem: Tocamo-vos flauta, e não dançastes; cantamo-vos lamentações, e não chorastes. ^v32
+**32** São como crianças brincando na praça que sentam e chamam umas às outras e dizem: 'Nós vos tocamos flauta, mas não dançastes. Nós cantamos um cântico fúnebre e não chorastes’. ^v32
 
-**33** Porque veio João o Batista, que não comia pão nem bebia vinho, e dizeis: Tem demônio; ^v33
+**33** João Batista veio, não comendo pão e nem bebendo vinho, e vós dissestes: 'Ele tem demônio'. ^v33
 
-**34** Veio o Filho do homem, que come e bebe, e dizeis: Eis aí um homem comilão e bebedor de vinho, amigo dos publicanos e pecadores. ^v34
+**34** Veio o Filho do Homem, comendo e bebendo, e vós dissestes: 'Eis um homem glutão e bebedor de vinho, amigo de cobradores de impostos e pecadores!' ^v34
 
-**35** Mas a sabedoria é justificada por todos os seus filhos. ^v35
+**35** "Mas a sabedoria é justificada por todos os seus filhos""." ^v35
 
-**36** E rogou-lhe um dos fariseus que comesse com ele; e, entrando em casa do fariseu, assentou-se à mesa. ^v36
+**36** Então, um certo fariseu estava pedindo que Jesus comesse com ele. Então Jesus entrou na casa do fariseu e reclinou-se à mesa para comer. ^v36
 
-**37** E eis que uma mulher da cidade, uma pecadora, sabendo que ele estava à mesa em casa do fariseu, levou um vaso de alabastro com ungüento; ^v37
+**37** Havia naquela cidade uma certa mulher que era pecadora. Ao descobrir que Ele estava à mesa na casa do fariseu, ela levou um vaso de alabastro com perfume. ^v37
 
-**38** E, estando por detrás, aos seus pés, chorando, começou a regar-lhe os pés com lágrimas, e enxugava-lhos com os cabelos da sua cabeça; e beijava-lhe os pés, e ungia-lhos com o ungüento. ^v38
+**38** Então, ela se colocou atrás Dele, junto aos Seus pés e pranteou. E começou a molhar os Seus pés com suas lágrimas e enxugá-los com seu cabelo, beijando Seus pés e os ungindo com perfume. ^v38
 
-**39** Quando isto viu o fariseu que o tinha convidado, falava consigo, dizendo: Se este fora profeta, bem saberia quem e qual é a mulher que lhe tocou, pois é uma pecadora. ^v39
+**39** Quando o fariseu que havia convidado Jesus viu isso, ele pensou consigo mesmo: “Se este homem fosse profeta, saberia quem e que tipo de mulher está tocando nele, pois ela é uma pecadora”. ^v39
 
-**40** E respondendo, Jesus disse-lhe: Simão, uma coisa tenho a dizer-te. E ele disse: Dize-a, Mestre. ^v40
+**40** Então Jesus respondeu-lhe, dizendo: “Simão, eu tenho algo para lhe dizer”. E Simão disse: “Fala, Mestre!”. ^v40
 
-**41** Um certo credor tinha dois devedores: um devia-lhe quinhentos dinheiros, e outro cinqüenta. ^v41
+**41** Jesus disse: “Havia dois devedores a certo credor. Um devia quinhentos denários e o outro devia cinquenta denários. ^v41
 
-**42** E, não tendo eles com que pagar, perdoou-lhes a ambos. Dize, pois, qual deles o amará mais? ^v42
+**42** Como eles não tinham dinheiro para pagar a dívida, o credor perdoou os dois. Qual deles o amará mais?” ^v42
 
-**43** E Simão, respondendo, disse: Tenho para mim que é aquele a quem mais perdoou. E ele lhe disse: Julgaste bem. ^v43
+**43** Simão respondeu: “Eu suponho que aquele a quem mais foi perdoado”. Disse-lhe Jesus: “Julgaste corretamente”. ^v43
 
-**44** E, voltando-se para a mulher, disse a Simão: Vês tu esta mulher? Entrei em tua casa, e não me deste água para os pés; mas esta regou-me os pés com lágrimas, e os enxugou com os cabelos de sua cabeça. ^v44
+**44** Jesus virou-se para a mulher e disse a Simão: “Vês esta mulher? Eu entrei em tua casa e tu não Me ofereceste água para lavar os Meus pés, mas esta mulher molhou os Meus pés com suas lágrimas e os enxugou com seus cabelos. ^v44
 
-**45** Não me deste ósculo, mas esta, desde que entrou, não tem cessado de me beijar os pés. ^v45
+**45** Tu não Me deste um beijo, mas ela, desde que cheguei aqui, não para de beijar os Meus pés. ^v45
 
-**46** Não me ungiste a cabeça com óleo, mas esta ungiu-me os pés com ungüento. ^v46
+**46** Não ungistes a Minha cabeça com óleo, mas ela tem ungido Meus pés com perfume. ^v46
 
-**47** Por isso te digo que os seus muitos pecados lhe são perdoados, porque muito amou; mas aquele a quem pouco é perdoado pouco ama. ^v47
+**47** Por isso, te digo que os seus muitos pecados têm sido perdoados - porque ela muito amou. Mas aquele que pouco é perdoado, pouco ama. ^v47
 
-**48** E disse-lhe a ela: Os teus pecados te são perdoados. ^v48
+**48** Então Ele disse-lhe: “Os teus pecados estão perdoados”. ^v48
 
-**49** E os que estavam à mesa começaram a dizer entre si: Quem é este, que até perdoa pecados? ^v49
+**49** Aqueles que estavam sentados à mesa começaram a dizer entre si. “Quem é este que até perdoa pecados? ^v49
 
-**50** E disse à mulher: A tua fé te salvou; vai-te em paz. ^v50
+**50** Então Jesus disse à mulher: “A tua fé te salvou. Vai em paz”. ^v50

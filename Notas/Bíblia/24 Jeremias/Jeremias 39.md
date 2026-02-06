@@ -1,43 +1,42 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Jeremias|Jeremias]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Jeremias|Jeremias]]"
+tags: [biblia]
 ---
 
 # Jeremias 39
 
-**1** No ano nono de Zedequias, rei de Judá, no décimo mês, veio Nabucodonosor, rei de babilônia, e todo o seu exército, contra Jerusalém, e a cercaram. ^v1
+**1** No nono ano, no décimo mês de Zedequias, rei de Judá, Nabucodonosor, rei da Babilônia, veio com todo o seu exército contra Jerusalém e a cercaram. ^v1
 
-**2** No ano undécimo de Zedequias, no quarto mês, aos nove do mês, fez-se uma brecha na cidade. ^v2
+**2** No décimo primeiro ano e quarto mês de Zedequias, no nono dia do mês, a cidade foi invadida. ^v2
 
-**3** Entraram nela todos os príncipes do rei de babilônia, e pararam na porta do meio, a saber: Nergal-Sarezer, Sangar-Nebo, Sarsequim, Rabe-Saris, Nergal-Sarezer, Rabe-Mague, e todos os outros príncipes do rei de babilônia. ^v3
+**3** Então, todos os oficiais do rei da Babilônia vieram e se assentaram no Portão do Meio: Nergal-Sarezer de Sangar, Nebo-Sarsequim, um oficial importante. Nergal Sarezer, alto oficial, e com eles todos os outros oficiais do rei da Babilônia. ^v3
 
-**4** E sucedeu que, vendo-os Zedequias, rei de Judá, e todos os homens de guerra, fugiram, saindo de noite da cidade, pelo caminho do jardim do rei, pela porta que está entre os dois muros; e seguiram pelo caminho da campina. ^v4
+**4** Aconteceu que, quando Zedequias, rei de Judá e todos os seus guerreiros os viram, fugiram. Eles saíram da cidade à noite, pelo caminho do jardim do rei, através do portão entre os dois muros. O rei saiu na direção da Arabá, ^v4
 
-**5** Mas o exército dos caldeus os perseguiu, e alcançou a Zedequias nas campinas de Jericó; e eles o prenderam, e fizeram-no subir a Nabucodonosor, rei de babilônia, a Ribla, na terra de Hamate, e o rei o sentenciou. ^v5
+**5** mas o exército dos caldeus perseguiu-os e alcançou Zedequias nas planícies do vale do rio Jordão, perto de Jericó. Eles o capturaram e o trouxeram até Nabucodonosor, rei da Babilônia, em Ribla, na terra de Hamate, onde Nabucodonosor o sentenciou. ^v5
 
-**6** E o rei de babilônia matou em Ribla os filhos de Zedequias, diante dos seus olhos; também matou o rei de babilônia a todos os nobres de Judá. ^v6
+**6** O rei matou os filhos de Zedequias diante dele, em Ribla. Ele também matou todos os homens nobres de Judá. ^v6
 
-**7** E cegou os olhos de Zedequias, e o atou com duas cadeias de bronze, para levá-lo a babilônia. ^v7
+**7** Cegou os olhos de Zedequias e o prendeu com correntes de bronze para levá-lo à Babilônia. ^v7
 
-**8** E os caldeus incendiaram a casa do rei e as casas do povo, e derrubaram os muros de Jerusalém. ^v8
+**8** Então, os babilônios queimaram a casa do rei e as casas do povo. Eles também derrubaram os muros de Jerusalém. ^v8
 
-**9** E o restante do povo, que ficou na cidade, e os desertores que se tinham passado para ele, e o restante do povo que ficou, Nebuzaradã, capitão da guarda, levou cativo para a babilônia. ^v9
+**9** Nebuzaradã, capitão da guarda do rei, levou para o exílio o resto do povo que havia ficado na cidade. Isso incluía os que se renderam aos babilônios e o restante da população. ^v9
 
-**10** Porém os pobres dentre o povo, que não tinham nada, Nebuzaradã, capitão da guarda, deixou na terra de Judá; e deu-lhes vinhas e campos naquele dia. ^v10
+**10** Mas Nebuzaradã, o capitão da guarda do rei, permitiu que as pessoas mais pobres, que não possuíam nada, permanecessem na terra de Judá. Deu-lhes vinhas e campos naquele mesmo dia. ^v10
 
-**11** Mas Nabucodonosor, rei de babilônia, havia ordenado acerca de Jeremias, a Nebuzaradã, capitão da guarda, dizendo: ^v11
+**11** Nabucodonosor, o rei da Babilônia, havia dado uma ordem sobre Jeremias para Nebuzaradã, o capitão da guarda do rei. Ele dissera: ^v11
 
-**12** Toma-o, e põe sobre ele os teus olhos, e não lhe faças nenhum mal; antes como ele te disser, assim procederás com ele. ^v12
+**12** """Leva-o e cuida bem dele. Não o machuque. Faça por ele tudo o que te disser.""" ^v12
 
-**13** Por isso mandou Nebuzaradã, capitão da guarda, e Nebusazbã, Rabe-Saris, Nergal-Sarezer, Rabe-Mague, e todos os príncipes do rei de babilônia, ^v13
+**13** Então, Nebuzaradã, capitão da guarda do rei, Nebusazbã, Rabe-Sáris, Nergal-Sarezer, Rabe-Mague e todos os oficiais mais importantes do rei da Babilônia ^v13
 
-**14** Mandaram retirar a Jeremias do átrio da guarda, e o entregaram a Gedalias, filho de Aicão, filho de Safã, para que o levassem à casa; e ele habitou entre o povo. ^v14
+**14** mandaram retirar Jeremias do pátio e o entregaram a Gedalias, filho de Aicam, filho de Safã, para que o levasse para casa; assim, Jeremias permaneceu entre o povo. ^v14
 
-**15** Ora, tinha vindo a Jeremias a palavra do Senhor, estando ele ainda encarcerado no átrio da guarda, dizendo: ^v15
+**15** Ora, a palavra de Yahweh viera a Jeremias enquanto estava preso no pátio da guarda, dizendo: ^v15
 
-**16** Vai, e fala a Ebede-Meleque, o etíope, dizendo: Assim diz o Senhor dos Exércitos, Deus de Israel: Eis que eu trarei as minhas palavras sobre esta cidade para mal e não para bem; e cumprir-se-ão diante de ti naquele dia. ^v16
+**16** """Fala com Ebede-Meleque, o etíope, e diz: Yahweh dos Exércitos, o Deus de Israel, diz isto: Vede, Eu estou prestes a cumprir minhas palavras contra esta cidade, para o mal e não para o bem. Pois todas elas se cumprirão perante ti naquele dia." ^v16
 
-**17** A ti, porém, eu livrarei naquele dia, diz o Senhor, e não serás entregue na mão dos homens, a quem temes. ^v17
+**17** Mas eu te resgatarei naquele dia, esta é a declaração de Yahweh, e não serás entregue nas mãos dos homens a quem temes. ^v17
 
-**18** Porque certamente te livrarei, e não cairás à espada; mas a tua alma terás por despojo, porquanto confiaste em mim, diz o Senhor. ^v18
+**18** "Pois Eu, certamente, te salvarei. Tu não cairás pela espada. Escaparás com vida, pois confias em Mim"" – esta foi a declaração de Yahweh.""" ^v18

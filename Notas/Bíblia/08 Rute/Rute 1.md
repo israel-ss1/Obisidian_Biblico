@@ -1,51 +1,50 @@
 ---
-Livro: "[[Rute|Rute]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Rute|Rute]]"
+tags: [biblia]
 ---
 
 # Rute 1
 
-**1** E sucedeu que, nos dias em que os juízes julgavam, houve uma fome na terra; por isso um homem de Belém de Judá saiu a peregrinar nos campos de Moabe, ele e sua mulher, e seus dois filhos; ^v1
+**1** Nos dias em que os juízes julgavam, houve uma fome na terra; e um homem de Belém de Judá mudou-se para a terra de Moabe com sua mulher e seus dois filhos. ^v1
 
-**2** E era o nome deste homem Elimeleque, e o de sua mulher Noemi, e os de seus dois filhos Malom e Quiliom, efrateus, de Belém de Judá; e chegaram aos campos de Moabe, e ficaram ali. ^v2
+**2** O nome do homem era Elimeleque, e o nome de sua esposa era Noemi. Os filhos se chamavam Malom e Quiliom. Eles eram efrateus, de Belém de Judá. Chegaram à terra de Moabe e habitaram ali. ^v2
 
-**3** E morreu Elimeleque, marido de Noemi; e ficou ela com os seus dois filhos, ^v3
+**3** Então, Elimeleque, marido de Noemi, morreu; e ela ficou com seus dois filhos. ^v3
 
-**4** Os quais tomaram para si mulheres moabitas; e era o nome de uma Orfa, e o da outra Rute; e ficaram ali quase dez anos. ^v4
+**4** Seus filhos tomaram como esposas mulheres moabitas. O nome de uma era Orfa, e o nome da outra era Rute. Eles ficaram ali, por cerca de dez anos. ^v4
 
-**5** E morreram também ambos, Malom e Quiliom, ficando assim a mulher desamparada dos seus dois filhos e de seu marido. ^v5
+**5** Então ambos, Malom e Quiliom morreram, ficando Noemi desamparada do seu marido e de seus dois filhos. ^v5
 
-**6** Então se levantou ela com as suas noras, e voltou dos campos de Moabe, porquanto na terra de Moabe ouviu que o Senhor tinha visitado o seu povo, dando-lhe pão. ^v6
+**6** Então Noemi decidiu ir embora de Moabe com suas noras e retornar para Judá porque ela ouvira, na região de Moabe, que Yahweh havia se lembrado do seu povo, dando-lhe alimento. ^v6
 
-**7** Por isso saiu do lugar onde estivera, e as suas noras com ela. E, indo elas caminhando, para voltarem para a terra de Judá, ^v7
+**7** Então, deixou o lugar onde vivia com suas duas noras e, juntas, caminharam pela estrada, a fim de retornarem à terra de Judá. ^v7
 
-**8** Disse Noemi às suas noras: Ide, voltai cada uma à casa de sua mãe; e o Senhor use convosco de benevolência, como vós usastes com os falecidos e comigo. ^v8
+**8** "Noemi disse para suas duas noras: ""Ide e voltai, cada uma de vós, para a casa de vossas mães. Que Yahweh vos trate com a mesma bondade com que tratastes vossos falecidos maridos e a mim também." ^v8
 
-**9** O Senhor vos dê que acheis descanso cada uma em casa de seu marido. E, beijando-as ela, levantaram a sua voz e choraram. ^v9
+**9** "Que o Senhor permita que cada uma de vós encontre descanso na casa de um outro marido"". Então, ela as beijou e choraram em voz alta." ^v9
 
-**10** E disseram-lhe: Certamente voltaremos contigo ao teu povo. ^v10
+**10** "E disseram: ""Não! Nós retornaremos contigo para junto de teu povo""." ^v10
 
-**11** Porém Noemi disse: Voltai, minhas filhas. Por que iríeis comigo? Tenho eu ainda no meu ventre mais filhos, para que vos sejam por maridos? ^v11
+**11** "Mas Noemi disse: ""Voltai, minhas filhas! Por que haveríeis de vir comigo? Poderia eu ainda ter filhos em meu ventre para lhes dar como maridos?" ^v11
 
-**12** Voltai, filhas minhas, ide-vos embora, que já mui velha sou para ter marido; ainda quando eu dissesse: Tenho esperança, ou ainda que esta noite tivesse marido e ainda tivesse filhos, ^v12
+**12** Voltai, minhas filhas, parti; ide em vosso próprio caminho, porque eu já estou muito velha para ter um marido. Ainda que eu dissesse que há esperança e me casasse esta noite e, então, tivesse filhos, ^v12
 
-**13** Esperá-los-íeis até que viessem a ser grandes? Deter-vos-íeis por eles, sem tomardes marido? Não, filhas minhas, que mais amargo me é a mim do que a vós mesmas; porquanto a mão do Senhor se descarregou contra mim. ^v13
+**13** "acaso esperaríeis até que eles crescessem? Haveríeis de esperar por eles, sem vos casardes? Não, minhas filhas! Isso me entristece grandemente, muito mais que vos entristece, porque a mão de Yahweh se voltou contra mim""." ^v13
 
-**14** Então levantaram a sua voz, e tornaram a chorar; e Orfa beijou a sua sogra, porém Rute se apegou a ela. ^v14
+**14** Então, suas noras novamente choraram em voz alta. Orfa despediu-se de sua sogra com um beijo, mas Rute agarrou-se a ela. ^v14
 
-**15** Por isso disse Noemi: Eis que voltou tua cunhada ao seu povo e aos seus deuses; volta tu também após tua cunhada. ^v15
+**15** "Noemi disse: ""Ouve, tua cunhada está voltando para seu povo e para seus deuses. Volta tu também com ela""." ^v15
 
-**16** Disse, porém, Rute: Não me instes para que te abandone, e deixe de seguir-te; porque aonde quer que tu fores irei eu, e onde quer que pousares, ali pousarei eu; o teu povo é o meu povo, o teu Deus é o meu Deus; ^v16
+**16** "Mas Rute disse: ""Não me faça ir para longe de ti, porque para onde fores, eu irei; onde ficares, eu ficarei; teu povo será o meu povo, e teu Deus será o meu Deus." ^v16
 
-**17** Onde quer que morreres morrerei eu, e ali serei sepultada. Faça-me assim o Senhor, e outro tanto, se outra coisa que não seja a morte me separar de ti. ^v17
+**17** "Onde tu morreres, eu morrerei, e ali serei sepultada. Que Yahweh me castigue, ainda mais, se alguma coisa que não seja a morte venha a nos separar""." ^v17
 
-**18** Vendo Noemi, que de todo estava resolvida a ir com ela, deixou de lhe falar. ^v18
+**18** Quando Noemi viu que Rute estava determinada a ir com ela, parou de discutir com ela. ^v18
 
-**19** Assim, pois, foram-se ambas, até que chegaram a Belém; e sucedeu que, entrando elas em Belém, toda a cidade se comoveu por causa delas, e diziam: Não é esta Noemi? ^v19
+**19** "Então, as duas viajaram até chegarem à cidade de Belém. E aconteceu, que quando elas chegaram em Belém, toda a cidade se comoveu a respeito delas, e as mulheres perguntavam: ""Seria esta Noemi?""" ^v19
 
-**20** Porém ela lhes dizia: Não me chameis Noemi; chamai-me Mara; porque grande amargura me tem dado o Todo-Poderoso. ^v20
+**20** "Mas ela lhes disse: ""Não me chameis Noemi, mas me chamai Mara, pois o Todo-Poderoso tornou a minha vida muito amarga." ^v20
 
-**21** Cheia parti, porém vazia o Senhor me fez tornar; por que pois me chamareis Noemi? O Senhor testifica contra mim, e o Todo-Poderoso me tem feito mal. ^v21
+**21** "Eu parti na fartura, mas Yahweh trouxe-me de volta para casa de mãos vazias. Então, porque me chamais Noemi, visto que Yahweh condenou-me, que o Todo-Poderoso me afligiu?""." ^v21
 
-**22** Assim Noemi voltou, e com ela Rute a moabita, sua nora, que veio dos campos de Moabe; e chegaram a Belém no princípio da colheita das cevadas. ^v22
+**22** Então, Noemi e sua nora Rute, a moabita, retornaram da terra de Moabe. Elas vieram para Belém, no começo da colheita da cevada. ^v22

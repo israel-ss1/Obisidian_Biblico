@@ -1,85 +1,84 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Mateus|Mateus]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Mateus|Mateus]]"
+tags: [biblia]
 ---
 
 # Mateus 23
 
-**1** Então falou Jesus à multidão, e aos seus discípulos, ^v1
+**1** Então Jesus falou à multidão e aos seus discípulos, ^v1
 
-**2** Dizendo: Na cadeira de Moisés estão assentados os escribas e fariseus. ^v2
+**2** "dizendo: ""Os escribas e fariseus se assentam na cadeira de Moisés." ^v2
 
-**3** Todas as coisas, pois, que vos disserem que observeis, observai-as e fazei-as; mas não procedais em conformidade com as suas obras, porque dizem e não fazem; ^v3
+**3** Portanto o que quer que eles vos ordenem, fazei e guardai. Mas não imiteis seus atos, pois eles falam, mas não os praticam. ^v3
 
-**4** Pois atam fardos pesados e difíceis de suportar, e os põem aos ombros dos homens; eles, porém, nem com seu dedo querem movê-los; ^v4
+**4** Sim, eles atam fardos pesados que são difíceis de carregar, e os colocam nos ombros dos homens. Mas eles mesmos não moverão um dedo para carregá-los. ^v4
 
-**5** E fazem todas as obras a fim de serem vistos pelos homens; pois trazem largos filactérios, e alargam as franjas das suas vestes, ^v5
+**5** Eles fazem todos os seus atos para serem vistos pelos homens, pois aumentam os seus filactérios e alargam as franjas das vestes. ^v5
 
-**6** E amam os primeiros lugares nas ceias e as primeiras cadeiras nas sinagogas, ^v6
+**6** Eles amam os primeiros lugares nos banquetes e as primeiras cadeiras nas sinagogas ^v6
 
-**7** E as saudações nas praças, e o serem chamados pelos homens; Rabi, Rabi. ^v7
+**7** e as saudações especiais nas praças e serem chamados 'Mestres' pelo povo. ^v7
 
-**8** Vós, porém, não queirais ser chamados Rabi, porque um só é o vosso Mestre, a saber, o Cristo, e todos vós sois irmãos. ^v8
+**8** Mas não deveis ser chamados 'Rabi', pois para vós há um só Mestre, e todos vós sois irmãos. ^v8
 
-**9** E a ninguém na terra chameis vosso pai, porque um só é o vosso Pai, o qual está nos céus. ^v9
+**9** E não chamai nenhum homem na terra de vosso pai, pois para vós há um só Pai, e Ele está nos céus. ^v9
 
-**10** Nem vos chameis mestres, porque um só é o vosso Mestre, que é o Cristo. ^v10
+**10** Nem sejais chamados 'mestres', pois para vós há um só Mestre, o Cristo. ^v10
 
-**11** O maior dentre vós será vosso servo. ^v11
+**11** Mas aquele que é maior entre vós será vosso servo. ^v11
 
-**12** E o que a si mesmo se exaltar será humilhado; e o que a si mesmo se humilhar será exaltado. ^v12
+**12** Quem se exaltar será humilhado, e quem se humilhar será exaltado. ^v12
 
-**13** Mas ai de vós, escribas e fariseus, hipócritas! pois que fechais aos homens o reino dos céus; e nem vós entrais nem deixais entrar aos que estão entrando. ^v13
+**13** Mas ai de vós, escribas e fariseus, hipócritas! Vós que fechais o Reino dos Céus aos homens. Pois não entrais e nem deixais entrar os que entrariam. ^v13
 
-**14** Ai de vós, escribas e fariseus, hipócritas! pois que devorais as casas das viúvas, sob pretexto de prolongadas orações; por isso sofrereis mais rigoroso juízo. ^v14
+**14** [Ai de vós, escribas e fariseus, hipócritas! Pois devorais casas de viúvas enquanto vos exibis com longas orações. Recebereis portanto maior condenação. (Os manuscritos mais antigos omitem o verso 14, alguns o colocam após o verso 12)] ^v14
 
-**15** Ai de vós, escribas e fariseus, hipócritas! pois que percorreis o mar e a terra para fazer um prosélito; e, depois de o terdes feito, o fazeis filho do inferno duas vezes mais do que vós. ^v15
+**15** Ai de vós, escribas e fariseus, hipócritas! Pois rodeais o mar e a terra para fazer um prosélito. E quando ele tiver se tornado um, o fizestes duas vezes mais filho do inferno do que vós. ^v15
 
-**16** Ai de vós, condutores cegos! pois que dizeis: Qualquer que jurar pelo templo, isso nada é; mas o que jurar pelo ouro do templo, esse é devedor. ^v16
+**16** Ai de vós, guias cegos, que dizeis: 'Quem jurar pelo santuário, nada vale, mas quem jurar pelo ouro do santuário, está obrigado para com o seu juramento'. ^v16
 
-**17** Insensatos e cegos! Pois qual é maior: o ouro, ou o templo, que santifica o ouro? ^v17
+**17** Cegos tolos! Qual é maior, o ouro ou o santuário que santifica o ouro? ^v17
 
-**18** E aquele que jurar pelo altar isso nada é; mas aquele que jurar pela oferta que está sobre o altar, esse é devedor. ^v18
+**18** E 'Quem jurar pelo altar, nada vale. Mas quem jurar pela oferta que está sobre ele, está obrigado para com o seu juramento'. ^v18
 
-**19** Insensatos e cegos! Pois qual é maior: a oferta, ou o altar, que santifica a oferta? ^v19
+**19** Cegos! Qual é maior, a oferta ou o altar que consagra a oferta? ^v19
 
-**20** Portanto, o que jurar pelo altar, jura por ele e por tudo o que sobre ele está; ^v20
+**20** Portanto quem jura pelo altar, jura por ele e por todas as coisas sobre ele. ^v20
 
-**21** E, o que jurar pelo templo, jura por ele e por aquele que nele habita; ^v21
+**21** E quem jura pelo santuário, jura por ele e por quem habita nele. ^v21
 
-**22** E, o que jurar pelo céu, jura pelo trono de Deus e por aquele que está assentado nele. ^v22
+**22** E quem jura pelo céu, jura pelo trono de Deus e por quem se assenta nele. ^v22
 
-**23** Ai de vós, escribas e fariseus, hipócritas! pois que dizimais a hortelã, o endro e o cominho, e desprezais o mais importante da lei, o juízo, a misericórdia e a fé; deveis, porém, fazer estas coisas, e não omitir aquelas. ^v23
+**23** Ai de vós, escribas e fariseus, hipócritas! Pois dais o dízimo da hortelã, do endro e do cominho, mas deixais os preceitos mais importantes da Lei: justiça, misericórdia e fé. Mas deveis fazer essas coisas sem omitir aquelas. ^v23
 
-**24** Condutores cegos! que coais um mosquito e engulis um camelo. ^v24
+**24** Guias cegos, que filtrais um mosquito, mas engolis um camelo! ^v24
 
-**25** Ai de vós, escribas e fariseus, hipócritas! pois que limpais o exterior do copo e do prato, mas o interior está cheio de rapina e de intemperança. ^v25
+**25** Ai de vós, escribas e fariseus, hipócritas! Pois limpais fora do copo e do prato, mas por dentro estão cheios de rapina e intemperança. ^v25
 
-**26** Fariseu cego! limpa primeiro o interior do copo e do prato, para que também o exterior fique limpo. ^v26
+**26** Fariseus cegos! Limpai primeiro dentro do copo e do prato, para que o exterior também fique limpo. ^v26
 
-**27** Ai de vós, escribas e fariseus, hipócritas! pois que sois semelhantes aos sepulcros caiados, que por fora realmente parecem formosos, mas interiormente estão cheios de ossos de mortos e de toda a imundícia. ^v27
+**27** Ai de vós, escribas e fariseus, hipócritas! Pois sois como sepulcros caiados, que por fora parecem bonitos, mas por dentro estão cheios de ossos de mortos e de imundícia. ^v27
 
-**28** Assim também vós exteriormente pareceis justos aos homens, mas interiormente estais cheios de hipocrisia e de iniqüidade. ^v28
+**28** Da mesma maneira, exteriormente também pareceis justos aos homens, mas por dentro estais cheios de hipocrisia e de iniquidade. ^v28
 
-**29** Ai de vós, escribas e fariseus, hipócritas! pois que edificais os sepulcros dos profetas e adornais os monumentos dos justos, ^v29
+**29** Ai de vós, escribas e fariseus, hipócritas! Porque edificais os sepulcros dos profetas e ornamentais os túmulos dos justos. ^v29
 
-**30** E dizeis: Se existíssemos no tempo de nossos pais, nunca nos associaríamos com eles para derramar o sangue dos profetas. ^v30
+**30** Vós dizeis: “Se tivéssemos vivido nos dias dos nossos pais, não teríamos sido participantes com eles no derramamento do sangue dos profetas”. ^v30
 
-**31** Assim, vós mesmos testificais que sois filhos dos que mataram os profetas. ^v31
+**31** Portanto, testificais contra vós mesmos que sois filhos dos que mataram os profetas. ^v31
 
-**32** Enchei vós, pois, a medida de vossos pais. ^v32
+**32** Completai também a medida de vossos pais. ^v32
 
-**33** Serpentes, raça de víboras! como escapareis da condenação do inferno? ^v33
+**33** Serpentes, raça de víboras, como escapareis do juízo do inferno? ^v33
 
-**34** Portanto, eis que eu vos envio profetas, sábios e escribas; a uns deles matareis e crucificareis; e a outros deles açoitareis nas vossas sinagogas e os perseguireis de cidade em cidade; ^v34
+**34** Portanto vede, eu vos envio profetas, sábios e escribas. Alguns deles matareis e crucificareis, e alguns açoitareis nas vossas sinagogas e perseguireis de cidade em cidade; ^v34
 
-**35** Para que sobre vós caia todo o sangue justo, que foi derramado sobre a terra, desde o sangue de Abel, o justo, até ao sangue de Zacarias, filho de Baraquias, que matastes entre o santuário e o altar. ^v35
+**35** para que recaia sobre vós todo sangue dos justos lançado na terra, desde o de Abel, o justo, até o de Zacarias, filho de Baraquias, a quem matastes entre o santuário e o altar. ^v35
 
-**36** Em verdade vos digo que todas estas coisas hão de vir sobre esta geração. ^v36
+**36** "Verdadeiramente eu vos digo: ""Todas essas coisas virão sobre esta geração""." ^v36
 
-**37** Jerusalém, Jerusalém, que matas os profetas, e apedrejas os que te são enviados! quantas vezes quis eu ajuntar os teus filhos, como a galinha ajunta os seus pintos debaixo das asas, e tu não quiseste! ^v37
+**37** Jerusalém, Jerusalém, que matas os profetas e apedrejas os que te são enviados! Quantas vezes eu tentei ajuntar os vossos filhos, como a galinha ajunta seus pintinhos debaixo das suas asas, mas não quisestes! ^v37
 
-**38** Eis que a vossa casa vai ficar-vos deserta; ^v38
+**38** Vede, a vossa casa vos será deixada deserta. ^v38
 
-**39** Porque eu vos digo que desde agora me não vereis mais, até que digais: Bendito o que vem em nome do Senhor. ^v39
+**39** Eu vos digo, não me vereis de agora em diante até que direis: 'Bendito o que vem em nome do Senhor'. ^v39

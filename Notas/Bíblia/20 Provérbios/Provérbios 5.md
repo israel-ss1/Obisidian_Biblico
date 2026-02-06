@@ -1,53 +1,52 @@
 ---
-Livro: "[[Provérbios|Provérbios]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Provérbios|Provérbios]]"
+tags: [biblia]
 ---
 
 # Provérbios 5
 
-**1** Filho meu, atende à minha sabedoria; à minha inteligência inclina o teu ouvido; ^v1
+**1** Meu filho, presta atenção à minha sabedoria; inclina os teus ouvidos ao meu entendimento, ^v1
 
-**2** Para que guardes os meus conselhos e os teus lábios observem o conhecimento. ^v2
+**2** para que aprendas sobre a discrição, e teus lábios protejam o conhecimento. ^v2
 
-**3** Porque os lábios da mulher estranha destilam favos de mel, e o seu paladar é mais suave do que o azeite. ^v3
+**3** Pois os lábios da mulher adúltera destilam mel, e a sua boca é mais suave que o azeite, ^v3
 
-**4** Mas o seu fim é amargoso como o absinto, agudo como a espada de dois gumes. ^v4
+**4** mas, no final, é amarga como o absinto, e afiada como a espada. ^v4
 
-**5** Os seus pés descem para a morte; os seus passos estão impregnados do inferno. ^v5
+**5** Seus pés descem à morte, seus passos levam para o caminho do Sheol. ^v5
 
-**6** Para que não ponderes os caminhos da vida, as suas andanças são errantes: jamais os conhecerás. ^v6
+**6** Ela não se preocupa com o rumo da vida; seus passos vagam, ela não sabe para onde vai. ^v6
 
-**7** Agora, pois, filhos, dai-me ouvidos, e não vos desvieis das palavras da minha boca. ^v7
+**7** Agora, meus filhos, escutai a mim; não desvieis das palavras da minha boca. ^v7
 
-**8** Longe dela seja o teu caminho, e não te chegues à porta da sua casa; ^v8
+**8** Mantém o teu caminho longe dela, e não te aproximes da porta da sua casa. ^v8
 
-**9** Para que não dês a outrem a tua honra, e não entregues a cruéis os teus anos de vida; ^v9
+**9** Faz desta maneira para não acontecer que dês tua honra a outros, ou teus anos de vida a uma pessoa cruel; ^v9
 
-**10** Para que não farte a estranhos o teu esforço, e todo o fruto do teu trabalho vá parar em casa alheia; ^v10
+**10** estranhos se fartem da tua riqueza; aquilo pelo qual trabalhaste vá para a casa de estranhos; ^v10
 
-**11** E no fim venhas a gemer, no consumir-se da tua carne e do teu corpo. ^v11
+**11** e, no fim da tua vida, gemas quando tua carne e corpo se esvaírem; ^v11
 
-**12** E então digas: Como odiei a correção! e o meu coração desprezou a repreensão! ^v12
+**12** "e digas: ""Como odiei a disciplina e meu coração rejeitou a correção!" ^v12
 
-**13** E não escutei a voz dos que me ensinavam, nem aos meus mestres inclinei o meu ouvido! ^v13
+**13** Não obedeci aos meus professores, nem inclinei os meus ouvidos aos que me instruíram. ^v13
 
-**14** No meio da congregação e da assembléia foi que eu me achei em quase todo o mal. ^v14
+**14** "Quase fui completamente arruinado no meio da assembleia, entre a congregação""." ^v14
 
-**15** Bebe água da tua fonte, e das correntes do teu poço. ^v15
+**15** Bebe água da tua própria cisterna, e água corrente do teu próprio poço. ^v15
 
-**16** Derramar-se-iam as tuas fontes por fora, e pelas ruas os ribeiros de águas? ^v16
+**16** Por acaso, deveriam as tuas fontes se derramarem por todo lado, e teus ribeiros correrem em praça pública? ^v16
 
-**17** Sejam para ti só, e não para os estranhos contigo. ^v17
+**17** Sejam somente para ti, e não para estranhos contigo. ^v17
 
-**18** Seja bendito o teu manancial, e alegra-te com a mulher da tua mocidade. ^v18
+**18** Que a tua fonte seja abençoada, e alegra-te com a esposa da tua mocidade; ^v18
 
-**19** Como cerva amorosa, e gazela graciosa, os seus seios te saciem todo o tempo; e pelo seu amor sejas atraído perpetuamente. ^v19
+**19** porque ela é uma corça amorosa, uma gazela graciosa. Que os seios dela sempre te encham de prazer e tu estejas continuamente embriagado pelo seu amor. ^v19
 
-**20** E porque, filho meu, te deixarias atrair por outra mulher, e te abraçarias ao peito de uma estranha? ^v20
+**20** Pois, por que tu, meu filho, serias cativado por uma adúltera? Por que abraçarias os seios de uma mulher imoral? ^v20
 
-**21** Eis que os caminhos do homem estão perante os olhos do Senhor, e ele pesa todas as suas veredas. ^v21
+**21** Yahweh vê tudo o que uma pessoa faz e observa todos os caminhos em que anda. ^v21
 
-**22** Quanto ao ímpio, as suas iniqüidades o prenderão, e com as cordas do seu pecado será detido. ^v22
+**22** O corrupto será capturado por suas próprias iniquidades; as cordas do seu pecado o prenderão firmemente. ^v22
 
-**23** Ele morrerá, porque desavisadamente andou, e pelo excesso da sua loucura se perderá. ^v23
+**23** Ele morrerá por causa da sua falta de disciplina, e, pela sua insensatez, se desviará. ^v23

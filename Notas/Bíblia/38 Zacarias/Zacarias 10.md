@@ -1,31 +1,30 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Zacarias|Zacarias]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Zacarias|Zacarias]]"
+tags: [biblia]
 ---
 
 # Zacarias 10
 
-**1** Pedi ao SENHOR chuva no tempo da chuva serôdia, sim, ao SENHOR que faz relâmpagos; e lhes dará chuvas abundantes, e a cada um erva no campo. ^v1
+**1** Pedi por chuva a Yahweh na estação das chuvas da primavera — Yahweh é quem faz tempestades — e Ele dá chuvas a todos e vegetação no campo. ^v1
 
-**2** Porque os ídolos têm falado vaidade, e os adivinhos têm visto mentira, e contam sonhos falsos; com vaidade consolam, por isso seguem o seu caminho como ovelhas; estão aflitos, porque não há pastor. ^v2
+**2** Pois os ídolos do lar falam falsamente; os adivinhos imaginam mentiras; eles contam sonhos enganosos e dão consolação vazia, pois sofrem como ovelhas que não têm pastor. ^v2
 
-**3** Contra os pastores se acendeu a minha ira, e castigarei os bodes; mas o Senhor dos Exércitos visitará o seu rebanho, a casa de Judá, e os fará como o seu majestoso cavalo na peleja. ^v3
+**3** A Minha ira se acende contra os pastores; são os bodes — os líderes — que punirei. Yahweh dos Exércitos também cuidará de Seu rebanho, a casa de Judá, e fará deles como o Seu cavalo de guerra em batalha! ^v3
 
-**4** Dele sairá a pedra de esquina, dele a estaca, dele o arco de guerra, dele juntamente sairá todo o opressor. ^v4
+**4** De Judá, sairá a pedra angular; dela, virá o pilar da tenda, o arco da guerra e todos os líderes juntos. ^v4
 
-**5** E serão como poderosos que na batalha esmagam ao inimigo no lodo das ruas; porque o Senhor estará com eles; e confundirão os que andam montados em cavalos. ^v5
+**5** Serão como guerreiros que pisam seus inimigos na lama das ruas da batalha; eles farão guerra, pois Yahweh está com eles, e irão envergonhar os que montam os cavalos de guerra. ^v5
 
-**6** E fortalecerei a casa de Judá, e salvarei a casa de José, e fá-los- ei voltar, porque me compadeci deles; e serão como se eu não os tivera rejeitado, porque eu sou o Senhor seu Deus, e os ouvirei. ^v6
+**6** Eu fortificarei a casa de Judá e salvarei a casa de José; pois os restaurarei e terei misericórdia deles. Serão como se Eu não os tivesse jogado para fora, pois Eu sou Yahweh, Deus deles, e os ouvirei. ^v6
 
-**7** E os de Efraim serão como um poderoso, e o seu coração se alegrará como pelo vinho; e seus filhos o verão, e se alegrarão; o seu coração se regozijará no Senhor. ^v7
+**7** Então, Efraim será como um guerreiro, e o seu coração se alegrará como pelo vinho, seus filhos verão e se alegrarão. Seu coração se alegrará em Mim. ^v7
 
-**8** Eu lhes assobiarei, e os ajuntarei, porque eu os tenho remido; e multiplicar-se-ão como antes se tinham multiplicado. ^v8
+**8** Eu assobiarei por eles e os reunirei, pois irei remi-los, e eles se tornarão grandes como foram antes! ^v8
 
-**9** Ainda que os espalhei por entre os povos, eles se lembrarão de mim em lugares remotos; e viverão com seus filhos, e voltarão. ^v9
+**9** Eu os semeei entre os povos, mas eles se lembrarão de mim em países distantes. Então, eles e suas crianças viverão e retornarão. ^v9
 
-**10** Porque eu os farei voltar da terra do Egito, e os congregarei da Assíria; e trá-los-ei à terra de Gileade e do Líbano, e não se achará lugar bastante para eles. ^v10
+**10** Pois os restaurarei da terra do Egito e os ajuntarei da Assíria. Eu os trarei da terra de Gileade e do Líbano até que não haja mais espaço para eles. ^v10
 
-**11** E ele passará pelo mar com angústia, e ferirá as ondas no mar, e todas as profundezas do Nilo se secarão; então será derrubada a soberba da Assíria, e o cetro do Egito se retirará. ^v11
+**11** Eu passarei pelo mar da sua aflição, ferirei as ondas desse mar e secarei todas as profundezas do Nilo. A majestade da Assíria será lançada para baixo e o cetro do Egito será tirado dos egípcios. ^v11
 
-**12** E eu os fortalecerei no Senhor, e andarão no seu nome, diz o Senhor. ^v12
+**12** Eu os reforçarei em Mim mesmo, e eles andarão em Meu nome — essa é a declaração de Yahweh. ^v12

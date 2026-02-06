@@ -1,21 +1,18 @@
 ---
-Livro: "[[Salmos|Salmos]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Salmos|Salmos]]"
+tags: [biblia]
 ---
 
 # Salmos 87
 
-**1** O seu fundamento está nos montes santos. ^v1
+**2** Yahweh ama os portões de Sião mais do que todas as tendas de Jacó. ^v2
 
-**2** O Senhor ama as portas de Sião, mais do que todas as habitações de Jacó. ^v2
+**3** Coisas gloriosas são ditas sobre Ti, cidade de Deus. [Interlúdio] ^v3
 
-**3** Coisas gloriosas se dizem de ti, ó cidade de Deus. (Selá.) ^v3
+**4** "Mencionei Raabe e Babilônia aos meus seguidores. Vê, eis a Filístia e Tiro, juntamente com a Etiópia – e direi: ""Este aqui nasceu lá.""" ^v4
 
-**4** Farei menção de Raabe e de Babilônia àqueles que me conhecem; eis que da Filístia, e de Tiro, e da Etiópia, se dirá: Este homem nasceu ali. ^v4
+**5** "De Sião será dito: ""Cada um destes nasceu nela; e o próprio Altíssimo a estabelecerá.""" ^v5
 
-**5** E de Sião se dirá: Este e aquele homem nasceram ali; e o mesmo Altíssimo a estabelecerá. ^v5
+**6** "Yahweh escreve no livro de registro das nações: ""Este, nasceu lá."" [Interlúdio]" ^v6
 
-**6** O Senhor contará na descrição dos povos que este homem nasceu ali. (Selá.) ^v6
-
-**7** Assim os cantores como os tocadores de instrumentos estarão lá; todas as minhas fontes estão em ti. ^v7
+**7** "Então, tanto os cantores quanto os dançarinos dizem: ""Todas as minhas fontes estão em Ti.""" ^v7

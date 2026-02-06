@@ -1,65 +1,64 @@
 ---
-Livro: "[[Colossenses|Colossenses]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Colossenses|Colossenses]]"
+tags: [biblia]
 ---
 
 # Colossenses 1
 
-**1** Paulo, apóstolo de Jesus Cristo, pela vontade de Deus, e o irmão Timóteo, ^v1
+**1** Paulo, apóstolo de Jesus Cristo, de acordo com a vontade de Deus, e Timóteo, nosso irmão, ^v1
 
-**2** Aos santos e irmãos fiéis em Cristo, que estão em Colossos: Graça a vós, e paz da parte de Deus nosso Pai e do Senhor Jesus Cristo. ^v2
+**2** "para os santos e fiéis irmãos em Cristo que estão em Colossos. Graça a vós, e paz da parte de Deus nosso Pai [Nota: Algumas versões acrescentam: ""e do Senhor Jesus Cristo""]." ^v2
 
-**3** Graças damos a Deus, Pai de nosso Senhor Jesus Cristo, orando sempre por vós, ^v3
+**3** Damos graças a Deus, Pai do nosso Senhor Jesus Cristo, e sempre oramos por vós. ^v3
 
-**4** Porquanto ouvimos da vossa fé em Cristo Jesus, e do amor que tendes para com todos os santos; ^v4
+**4** Nós ouvimos da vossa fé em Cristo Jesus e do amor que tendes para com todos os santos de Deus, ^v4
 
-**5** Por causa da esperança que vos está reservada nos céus, da qual já antes ouvistes pela palavra da verdade do evangelho, ^v5
+**5** por causa da esperança reservada para vós nos céus. Vós primeiro ouvistes sobre esta esperança na Palavra da verdade, o Evangelho, ^v5
 
-**6** Que já chegou a vós, como também está em todo o mundo; e já vai frutificando, como também entre vós, desde o dia em que ouvistes e conhecestes a graça de Deus em verdade; ^v6
+**6** que chegou a vós. E que também está produzindo fruto e crescendo em todo o mundo, tal como também em vós, desde o dia que o ouvistes e conhecestes a graça de Deus na verdade. ^v6
 
-**7** Como aprendestes de Epafras, nosso amado conservo, que para vós é um fiel ministro de Cristo, ^v7
+**7** "Este é o Evangelho que aprendestes com Epafras, nosso amado conservo e companheiro, o qual é um fiel ministro de Cristo, em nosso favor [Nota: Algumas versões trazem: ""a vosso favor"".]." ^v7
 
-**8** O qual nos declarou também o vosso amor no Espírito. ^v8
+**8** Ele nos relatou do vosso amor no Espírito. ^v8
 
-**9** Por esta razão, nós também, desde o dia em que o ouvimos, não cessamos de orar por vós, e de pedir que sejais cheios do conhecimento da sua vontade, em toda a sabedoria e inteligência espiritual; ^v9
+**9** Por esta razão, também nós, desde o dia em que o ouvimos, não cessamos de orar e suplicar para que sejais cheios do conhecimento da sua vontade, em toda sabedoria e entendimento espiritual. ^v9
 
-**10** Para que possais andar dignamente diante do Senhor, agradando-lhe em tudo, frutificando em toda a boa obra, e crescendo no conhecimento de Deus; ^v10
+**10** Nós oramos para que andeis dignamente no Senhor, para o seu inteiro agrado, frutificando em toda boa obra e crescendo no conhecimento de Deus. ^v10
 
-**11** Corroborados em toda a fortaleza, segundo a força da sua glória, em toda a paciência, e longanimidade com gozo; ^v11
+**11** Oramos para que sejais fortalecidos com todo o poder, segundo a força da sua glória, em toda perseverança e paciência. ^v11
 
-**12** Dando graças ao Pai que nos fez idôneos para participar da herança dos santos na luz; ^v12
+**12** "Oramos para que deis graças ao Pai com alegria, que vos capacitou para receber uma parte da herança dos santos na luz [Nota: ""Quem nos fez capaz a ter uma parte"".]." ^v12
 
-**13** O qual nos tirou da potestade das trevas, e nos transportou para o reino do Filho do seu amor; ^v13
+**13** Ele nos resgatou do poder das trevas e nos transportou para o Reino do Seu Filho amado. ^v13
 
-**14** Em quem temos a redenção pelo seu sangue, a saber, a remissão dos pecados; ^v14
+**14** "Em quem temos redenção, isto é, o perdão dos pecados [Nota: Algumas versões trazem: ""Em Seu Filho, temos redenção, através do Seu sangue, o perdão de pecados""]." ^v14
 
-**15** O qual é imagem do Deus invisível, o primogênito de toda a criação; ^v15
+**15** Ele é a imagem do Deus invisível, o primogênito de toda criação. ^v15
 
-**16** Porque nele foram criadas todas as coisas que há nos céus e na terra, visíveis e invisíveis, sejam tronos, sejam dominações, sejam principados, sejam potestades. Tudo foi criado por ele e para ele. ^v16
+**16** Pois, Nele, todas as coisas foram criadas, quer nos céus e sobre a terra, as visíveis e as invisíveis; quer tronos ou domínios, ou governos ou autoridades, todas as coisas foram criadas por Ele e para Ele. ^v16
 
-**17** E ele é antes de todas as coisas, e todas as coisas subsistem por ele. ^v17
+**17** Ele é antes de todas as coisas, e todas as coisas Nele subsistem. ^v17
 
-**18** E ele é a cabeça do corpo, da igreja; é o princípio e o primogênito dentre os mortos, para que em tudo tenha a preeminência. ^v18
+**18** Ele é a cabeça do corpo, que é a igreja. Ele é o princípio, o primogênito dentre os mortos; assim, Ele tem o primeiro lugar em todas as coisas. ^v18
 
-**19** Porque foi do agrado do Pai que toda a plenitude nele habitasse, ^v19
+**19** Porquanto, agradou a Deus que toda Sua plenitude, Nele, habitasse, ^v19
 
-**20** E que, havendo por ele feito a paz pelo sangue da sua cruz, por meio dele reconciliasse consigo mesmo todas as coisas, tanto as que estão na terra, como as que estão nos céus. ^v20
+**20** e que havendo feito a paz pelo sangue da sua cruz, por meio dele, reconciliasse consigo mesmo todas as coisas, quer sobre a terra, quer nos céus. ^v20
 
-**21** A vós também, que noutro tempo éreis estranhos, e inimigos no entendimento pelas vossas obras más, agora contudo vos reconciliou ^v21
+**21** E vós também, outrora, éreis estranhos a Deus e Seus inimigos em vossas mentes e por vossas más obras. ^v21
 
-**22** No corpo da sua carne, pela morte, para perante ele vos apresentar santos, e irrepreensíveis, e inculpáveis, ^v22
+**22** Mas, agora, vos reconciliou no corpo da sua carne, mediante a Sua morte, para vos apresentar santos, inculpáveis e irrepreensíveis perante Ele, ^v22
 
-**23** Se, na verdade, permanecerdes fundados e firmes na fé, e não vos moverdes da esperança do evangelho que tendes ouvido, o qual foi pregado a toda criatura que há debaixo do céu, e do qual eu, Paulo, estou feito ministro. ^v23
+**23** se continuardes na fé, alicerçados e firmes, não sendo removidos da esperança do Evangelho que ouvistes, que foi proclamado em toda a criação debaixo dos céus. O Evangelho do qual eu, Paulo, me tornei ministro. ^v23
 
-**24** Regozijo-me agora no que padeço por vós, e na minha carne cumpro o resto das aflições de Cristo, pelo seu corpo, que é a igreja; ^v24
+**24** Agora, me alegro em meus sofrimentos por vós, e completo, na minha carne, o que está faltando das aflições de Cristo a favor do Seu corpo, que é a igreja. ^v24
 
-**25** Da qual eu estou feito ministro segundo a dispensação de Deus, que me foi concedida para convosco, para cumprir a palavra de Deus; ^v25
+**25** Esta é a igreja da qual sou ministro, segundo a responsabilidade que recebi de Deus, que me foi confiada em favor de vós, para cumprir a Palavra de Deus. ^v25
 
-**26** O mistério que esteve oculto desde todos os séculos, e em todas as gerações, e que agora foi manifesto aos seus santos; ^v26
+**26** Este é o mistério oculto desde os séculos e gerações, mas agora foi manisfestado aos seus santos, ^v26
 
-**27** Aos quais Deus quis fazer conhecer quais são as riquezas da glória deste mistério entre os gentios, que é Cristo em vós, esperança da glória; ^v27
+**27** para quem Deus quis fazer conhecidas as riquezas da Sua glória do mistério entre os gentios, isto é, Cristo em vós, a esperança da glória. ^v27
 
-**28** A quem anunciamos, admoestando a todo o homem, e ensinando a todo o homem em toda a sabedoria; para que apresentemos todo o homem perfeito em Jesus Cristo; ^v28
+**28** Este é o Cristo que nós proclamamos. Nós admoestamos a todos, os ensinando em toda sabedoria; para que possamos apresentá-los completos em Cristo. ^v28
 
-**29** E para isto também trabalho, combatendo segundo a sua eficácia, que opera em mim poderosamente. ^v29
+**29** Por isso, eu me esforço e luto, de acordo com a Sua força que opera em mim com poder. ^v29

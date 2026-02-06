@@ -1,63 +1,62 @@
 ---
-Livro: "[[1 Tessalonicenses|1 Tessalonicenses]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/1 Tessalonicenses|1 Tessalonicenses]]"
+tags: [biblia]
 ---
 
 # 1 Tessalonicenses 5
 
-**1** Mas, irmãos, acerca dos tempos e das estações, não necessitais de que se vos escreva; ^v1
+**1** A respeito do tempo e das estações, irmãos, não precisais que algo vos seja escrito. ^v1
 
-**2** Porque vós mesmos sabeis muito bem que o dia do Senhor virá como o ladrão de noite; ^v2
+**2** Sabeis perfeitamente que o dia do Senhor virá como um ladrão de noite. ^v2
 
-**3** Pois que, quando disserem: Há paz e segurança, então lhes sobrevirá repentina destruição, como as dores de parto àquela que está grávida, e de modo nenhum escaparão. ^v3
+**3** "Quando disserem: ""Paz e segurança"", a destruição repentina lhes sobrevirá. Será como dores de parto à mulher grávida, e eles não terão como escapar." ^v3
 
-**4** Mas vós, irmãos, já não estais em trevas, para que aquele dia vos surpreenda como um ladrão; ^v4
+**4** Mas vós, irmãos, não estais na escuridão de modo que aquele dia vos alcance como um ladrão. ^v4
 
-**5** Porque todos vós sois filhos da luz e filhos do dia; nós não somos da noite nem das trevas. ^v5
+**5** Vós sois todos filhos da luz e filhos do dia. Nós não somos filhos da noite ou da escuridão. ^v5
 
-**6** Não durmamos, pois, como os demais, mas vigiemos, e sejamos sóbrios; ^v6
+**6** Logo, não durmamos como os outros fazem, mas continuemos a vigiar, e estejamos sóbrios. ^v6
 
-**7** Porque os que dormem, dormem de noite, e os que se embebedam, embebedam-se de noite. ^v7
+**7** Porque os que dormem, dormem de noite, e aqueles que se embriagam, embriagam-se de noite. ^v7
 
-**8** Mas nós, que somos do dia, sejamos sóbrios, vestindo-nos da couraça da fé e do amor, e tendo por capacete a esperança da salvação; ^v8
+**8** Mas, como somos filhos do dia, fiquemos sóbrios. Coloquemos a couraça da fé e do amor, e a esperança da salvação futura como nosso capacete. ^v8
 
-**9** Porque Deus não nos destinou para a ira, mas para a aquisição da salvação, por nosso Senhor Jesus Cristo, ^v9
+**9** Porque Deus não nos destinou para a ira, mas para obtermos a salvação, por meio de nosso Senhor Jesus Cristo. ^v9
 
-**10** Que morreu por nós, para que, quer vigiemos, quer durmamos, vivamos juntamente com ele. ^v10
+**10** Ele que morreu por nós, para que, independentemente de estarmos acordados ou dormindo, possamos viver juntos com Ele. ^v10
 
-**11** Por isso exortai-vos uns aos outros, e edificai-vos uns aos outros, como também o fazeis. ^v11
+**11** Portanto, confortemos e edifiquemos uns aos outros como vós já fazeis. ^v11
 
-**12** E rogamo-vos, irmãos, que reconheçais os que trabalham entre vós e que presidem sobre vós no Senhor, e vos admoestam; ^v12
+**12** Nós vos pedimos, irmãos, que reconheçais aqueles que trabalham entre vós, que cuidam de vós no Senhor, e que vos admoestam. ^v12
 
-**13** E que os tenhais em grande estima e amor, por causa da sua obra. Tende paz entre vós. ^v13
+**13** Também pedimos que os considereis em alta estima, em amor, por causa do trabalho deles. Vivei em paz. ^v13
 
-**14** Rogamo-vos, também, irmãos, que admoesteis os desordeiros, consoleis os de pouco ânimo, sustenteis os fracos, e sejais pacientes para com todos. ^v14
+**14** Nós vos exortamos, irmãos, a advertir os indisciplinados, encorajar os desencorajados, auxiliar os fracos, e ser pacientes para com todos. ^v14
 
-**15** Vede que ninguém dê a outrem mal por mal, mas segui sempre o bem, tanto uns para com os outros, como para com todos. ^v15
+**15** Cuidai para que ninguém retribua o mal com o mal, mas esforçai-vos pelo bem uns dos outros e de todos. ^v15
 
-**16** Regozijai-vos sempre. ^v16
+**16** Alegrai-vos sempre. ^v16
 
 **17** Orai sem cessar. ^v17
 
-**18** Em tudo dai graças, porque esta é a vontade de Deus em Cristo Jesus para convosco. ^v18
+**18** Em tudo, dai graças. Pois essa é a vontade de Deus, em Cristo Jesus, para convosco. ^v18
 
-**19** Não extingais o Espírito. ^v19
+**19** Não apagueis o Espírito. ^v19
 
 **20** Não desprezeis as profecias. ^v20
 
-**21** Examinai tudo. Retende o bem. ^v21
+**21** Examinai todas as coisas; retende o que é bom. ^v21
 
-**22** Abstende-vos de toda a aparência do mal. ^v22
+**22** Afastai-vos de toda forma de mal. ^v22
 
-**23** E o mesmo Deus de paz vos santifique em tudo; e todo o vosso espírito, e alma, e corpo, sejam plenamente conservados irrepreensíveis para a vinda de nosso Senhor Jesus Cristo. ^v23
+**23** Que o próprio Deus da paz vos santifique completamente. Que todo seu espírito, alma e corpo sejam preservados irrepreensíveis para a vinda do nosso Senhor Jesus Cristo. ^v23
 
-**24** Fiel é o que vos chama, o qual também o fará. ^v24
+**24** Quem vos chamou é Fiel, e Ele também o fará. ^v24
 
-**25** Irmãos, orai por nós. ^v25
+**25** Irmãos, orai também por nós. ^v25
 
-**26** Saudai a todos os irmãos com ósculo santo. ^v26
+**26** Cumprimentai todos os irmãos com um beijo santo. ^v26
 
-**27** Pelo Senhor vos conjuro que esta epístola seja lida a todos os santos irmãos. ^v27
+**27** Eu lhes suplico, pelo Senhor, que esta carta seja lida para todos os irmãos. ^v27
 
-**28** A graça de nosso Senhor Jesus Cristo seja convosco. Amém. ^v28
+**28** Que a graça de nosso Senhor Jesus Cristo esteja convosco. ^v28

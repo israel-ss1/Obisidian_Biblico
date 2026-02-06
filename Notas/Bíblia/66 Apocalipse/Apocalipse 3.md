@@ -1,51 +1,50 @@
 ---
-Livro: "[[Apocalipse|Apocalipse]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Apocalipse|Apocalipse]]"
+tags: [biblia]
 ---
 
 # Apocalipse 3
 
-**1** E ao anjo da igreja que está em Sardes escreve: Isto diz o que tem os sete espíritos de Deus, e as sete estrelas: Conheço as tuas obras, que tens nome de que vives, e estás morto. ^v1
+**1** """Ao anjo da igreja em Sardes escreve: 'Estas são as palavras Daquele que tem os sete Espíritos de Deus e as sete estrelas: Conheço as tuas obras: passas por vivo e estás morto." ^v1
 
-**2** Sê vigilante, e confirma os restantes, que estavam para morrer; porque não achei as tuas obras perfeitas diante de Deus. ^v2
+**2** Sê vigilante e confirma o restante que estava para morrer, porque não tenho achado as tuas obras íntegras diante do meu Deus. ^v2
 
-**3** Lembra-te, pois, do que tens recebido e ouvido, e guarda-o, e arrepende-te. E, se não vigiares, virei sobre ti como um ladrão, e não saberás a que hora sobre ti virei. ^v3
+**3** Portanto lembra-te do que tens recebido e ouvido; obedece e arrepende-te. E, se não vigiares, Eu virei como um ladrão, e tu não saberás a que horas virei contra ti. ^v3
 
-**4** Mas também tens em Sardes algumas poucas pessoas que não contaminaram suas vestes, e comigo andarão de branco; porquanto são dignas disso. ^v4
+**4** Mas há alguns nomes em Sardes que não sujaram suas vestes. Eles andarão comigo vestidos de branco, pois são dignos. ^v4
 
-**5** O que vencer será vestido de vestes brancas, e de maneira nenhuma riscarei o seu nome do livro da vida; e confessarei o seu nome diante de meu Pai e diante dos seus anjos. ^v5
+**5** Aquele que vencer será vestido de vestes brancas e jamais apagarei seu nome do Livro da Vida. Eu confessarei seu nome diante de Meu Pai e diante dos Seus anjos. ^v5
 
-**6** Quem tem ouvidos, ouça o que o Espírito diz às igrejas. ^v6
+**6** "Quem tem ouvidos ouça o que o Espírito diz às igrejas'""." ^v6
 
-**7** E ao anjo da igreja que está em Filadélfia escreve: Isto diz o que é santo, o que é verdadeiro, o que tem a chave de Davi; o que abre, e ninguém fecha; e fecha, e ninguém abre: ^v7
+**7** """Ao anjo da igreja em Filadélfia escreve: 'Estas são as palavras Daquele que é Santo e Verdadeiro. Ele tem as chaves de Davi, O que abre e ninguém fecha, e O que fecha e ninguém pode abrir." ^v7
 
-**8** Conheço as tuas obras; eis que diante de ti pus uma porta aberta, e ninguém a pode fechar; tendo pouca força, guardaste a minha palavra, e não negaste o meu nome. ^v8
+**8** Eu sei o que tu tens feito. Vê que Eu tenho posto diante de ti uma porta aberta que ninguém pode fechar. Sei que tens pouca força. Mesmo assim, tens obedecido a Minha palavra e não tens negado o Meu nome. ^v8
 
-**9** Eis que eu farei aos da sinagoga de Satanás, aos que se dizem judeus, e não são, mas mentem: eis que eu farei que venham, e adorem prostrados a teus pés, e saibam que eu te amo. ^v9
+**9** Eis que farei aos que pertencem à sinagoga de Satanás, aqueles que se dizem judeus e não são, mas mentem, farei que venham e se curvem diante dos teus pés e saberão que Eu te amei. ^v9
 
-**10** Como guardaste a palavra da minha paciência, também eu te guardarei da hora da tentação que há de vir sobre todo o mundo, para tentar os que habitam na terra. ^v10
+**10** Uma vez que tens obedecido à minha ordem de suportar pacientemente, também te guardarei da hora da provação que virá sobre todo o mundo, para testar aqueles que vivem sobre a Terra. ^v10
 
-**11** Eis que venho sem demora; guarda o que tens, para que ninguém tome a tua coroa. ^v11
+**11** Venho sem demora, conserva o que tens para que ninguém tome tua coroa. ^v11
 
-**12** A quem vencer, eu o farei coluna no templo do meu Deus, e dele nunca sairá; e escreverei sobre ele o nome do meu Deus, e o nome da cidade do meu Deus, a nova Jerusalém, que desce do céu, do meu Deus, e também o meu novo nome. ^v12
+**12** Àquele que vencer, Eu o farei uma coluna no templo de meu Deus e ele nunca sairá dali. Escreverei nele o nome do Meu Deus, o nome da cidade do Meu Deus (a nova Jerusalém, que descerá do céu, da parte do Meu Deus) e Meu novo nome. ^v12
 
-**13** Quem tem ouvidos, ouça o que o Espírito diz às igrejas. ^v13
+**13** "Quem tem ouvidos ouça o que o Espírito diz às igrejas'""." ^v13
 
-**14** E ao anjo da igreja de Laodicéia escreve: Isto diz o Amém, a testemunha fiel e verdadeira, o princípio da criação de Deus: ^v14
+**14** """Ao anjo da igreja em Laodiceia escreve: 'Assim diz o Amém, a testemunha verdadeira e fiel, o princípio da criação de Deus." ^v14
 
-**15** Conheço as tuas obras, que nem és frio nem quente; quem dera foras frio ou quente! ^v15
+**15** Conheço tuas obras: não és nem frio nem quente; quem dera fosses frio ou quente! ^v15
 
-**16** Assim, porque és morno, e não és frio nem quente, vomitar-te-ei da minha boca. ^v16
+**16** Assim porque tu és morno, nem quente nem frio, Eu te vomitarei da minha boca. ^v16
 
-**17** Como dizes: Rico sou, e estou enriquecido, e de nada tenho falta; e não sabes que és um desgraçado, e miserável, e pobre, e cego, e nu; ^v17
+**17** Porque dizes: 'Sou rico, tenho muitos bens e não necessito de coisa alguma'. E não sabes que és infeliz, miserável, pobre, cego e nu. ^v17
 
-**18** Aconselho-te que de mim compres ouro provado no fogo, para que te enriqueças; e roupas brancas, para que te vistas, e não apareça a vergonha da tua nudez; e que unjas os teus olhos com colírio, para que vejas. ^v18
+**18** Aconselho-te que de Mim compres ouro refinado no fogo para que te enriqueças, vestes brancas para que não seja exposta a vergonha da tua nudez, e colírio para ungires os teus olhos, a fim de que vejas. ^v18
 
-**19** Eu repreendo e castigo a todos quantos amo; sê pois zeloso, e arrepende-te. ^v19
+**19** Corrijo e repreendo os que amo. Portanto, sê zeloso e arrepende-te. ^v19
 
-**20** Eis que estou à porta, e bato; se alguém ouvir a minha voz, e abrir a porta, entrarei em sua casa, e com ele cearei, e ele comigo. ^v20
+**20** Eis que estou à porta e bato. Se alguém ouvir Minha voz e abrir a porta, Eu entrarei em sua casa, cearei com ele e ele Comigo. ^v20
 
-**21** Ao que vencer lhe concederei que se assente comigo no meu trono; assim como eu venci, e me assentei com meu Pai no seu trono. ^v21
+**21** Àquele que vencer darei o direito de sentar-se Comigo em Meu trono, assim como Eu também venci e sentei-Me com Meu Pai, em Seu trono. ^v21
 
-**22** Quem tem ouvidos, ouça o que o Espírito diz às igrejas. ^v22
+**22** "Quem tem ouvidos ouça o que o Espírito diz às igrejas'""." ^v22

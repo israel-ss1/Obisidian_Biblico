@@ -1,63 +1,60 @@
 ---
-Livro: "[[Salmos|Salmos]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Salmos|Salmos]]"
+tags: [biblia]
 ---
 
 # Salmos 73
 
-**1** Verdadeiramente bom é Deus para com Israel, para com os limpos de coração. ^v1
+**2** Mas quanto a mim, meus pés quase deslizaram; meus pés quase escorregaram debaixo de mim, ^v2
 
-**2** Quanto a mim, os meus pés quase que se desviaram; pouco faltou para que escorregassem os meus passos. ^v2
+**3** porque eu tinha inveja dos arrogantes quando eu vi a prosperidade dos perversos. ^v3
 
-**3** Pois eu tinha inveja dos néscios, quando via a prosperidade dos ímpios. ^v3
+**4** Pois eles não passam por aflições nem na morte, mas são fortes e bem alimentados. ^v4
 
-**4** Porque não há apertos na sua morte, mas firme está a sua força. ^v4
+**5** Eles são livres das cargas dos outros mortais; não são afligidos como os outros homens. ^v5
 
-**5** Não se acham em trabalhos como outros homens, nem são afligidos como outros homens. ^v5
+**6** O orgulho os adorna como um colar em volta de seus pescoços; a violência os veste como um manto. ^v6
 
-**6** Por isso a soberba os cerca como um colar; vestem-se de violência como de adorno. ^v6
+**7** De tal cegueira vem o pecado; maus pensamentos passam através de seus corações. ^v7
 
-**7** Os olhos deles estão inchados de gordura; eles têm mais do que o coração podia desejar. ^v7
+**8** Zombeteiramente, dizem coisas más; orgulhosamente, eles ameaçam com violência. ^v8
 
-**8** São corrompidos e tratam maliciosamente de opressão; falam arrogantemente. ^v8
+**9** Com a boca falam contra os céus, e suas línguas perambulam pela terra. ^v9
 
-**9** Põem as suas bocas contra os céus, e as suas línguas andam pela terra. ^v9
+**10** Desta forma, o seu povo se volta para eles e bebe, abundantemente, de suas palavras. ^v10
 
-**10** Por isso o povo dele volta aqui, e águas de copo cheio se lhes espremem. ^v10
+**11** "Eles dizem: ""Como Deus sabe? Tem algum conhecimento o Altíssimo?""" ^v11
 
-**11** E eles dizem: Como o sabe Deus? Há conhecimento no Altíssimo? ^v11
+**12** Essas pessoas são perversas; elas estão sempre despreocupadas, tornando-se cada vez mais ricas. ^v12
 
-**12** Eis que estes são ímpios, e prosperam no mundo; aumentam em riquezas. ^v12
+**13** Certamente, foi em vão eu ter guardado meu coração e lavado minhas mãos na inocência. ^v13
 
-**13** Na verdade que em vão tenho purificado o meu coração; e lavei as minhas mãos na inocência. ^v13
+**14** Pois tenho sido afligido o dia todo, e sou disciplinado a cada manhã. ^v14
 
-**14** Pois todo o dia tenho sido afligido, e castigado cada manhã. ^v14
+**15** "Se eu tivesse dito: ""Eu falarei essas coisas"", eu teria traído a geração dos Teus filhos." ^v15
 
-**15** Se eu dissesse: Falarei assim; eis que ofenderia a geração de teus filhos. ^v15
+**16** Embora eu tentasse compreendê-las, isto era muito difícil para mim. ^v16
 
-**16** Quando pensava em entender isto, foi para mim muito doloroso; ^v16
+**17** Então eu entrei no santuário de Deus e entendi o destino deles. ^v17
 
-**17** Até que entrei no santuário de Deus; então entendi eu o fim deles. ^v17
+**18** Certamente, Tu os colocas em lugares escorregadios; Tu os fazes cair na ruína. ^v18
 
-**18** Certamente tu os puseste em lugares escorregadios; tu os lanças em destruição. ^v18
+**19** Eles se tornam uma desolação num momento, e são totalmente consumidos de pavor. ^v19
 
-**19** Como caem na desolação, quase num momento! Ficam totalmente consumidos de terrores. ^v19
+**20** Eles são como um sonho depois que se acorda; Yahweh, quando Te levantares, Tu nada pensarás sobre eles. ^v20
 
-**20** Como um sonho, quando se acorda, assim, ó Senhor, quando acordares, desprezarás a aparência deles. ^v20
+**21** Pois meu coração estava aflito, e eu estava profundamente ferido. ^v21
 
-**21** Assim o meu coração se azedou, e sinto picadas nos meus rins. ^v21
+**22** Eu era estúpido e ignorante; eu era como um animal selvagem diante de Ti. ^v22
 
-**22** Assim me embruteci, e nada sabia; fiquei como um animal perante ti. ^v22
+**23** Todavia, estou sempre Contigo; Tu seguras minha mão direita. ^v23
 
-**23** Todavia estou de contínuo contigo; tu me sustentaste pela minha mão direita. ^v23
+**24** Tu me guiarás com Teu conselho e, depois, me receberás em glória. ^v24
 
-**24** Guiar-me-ás com o teu conselho, e depois me receberás na glória. ^v24
+**25** Quem tenho nos céus senão a Ti? Não há ninguém na terra que eu deseje senão a Ti. ^v25
 
-**25** Quem tenho eu no céu senão a ti? e na terra não há quem eu deseje além de ti. ^v25
+**26** Minha carne e meu coração se enfraquecem, mas Deus é a força do meu coração para sempre. ^v26
 
-**26** A minha carne e o meu coração desfalecem; mas Deus é a fortaleza do meu coração, e a minha porção para sempre. ^v26
+**27** Aqueles que estão longe de Ti perecerão; Tu destruirás todos os que são infiéis a Ti. ^v27
 
-**27** Pois eis que os que se alongam de ti, perecerão; tu tens destruído todos aqueles que se desviam de ti. ^v27
-
-**28** Mas para mim, bom é aproximar-me de Deus; pus a minha confiança no Senhor DEUS, para anunciar todas as tuas obras. ^v28
+**28** Mas quanto a mim, tudo o que eu preciso fazer é me aproximar de Deus. Eu fiz de Yahweh Deus o meu refúgio. Eu proclamarei todos os Teus feitos. ^v28

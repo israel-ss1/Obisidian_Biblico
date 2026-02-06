@@ -1,35 +1,34 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Zacarias|Zacarias]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Zacarias|Zacarias]]"
+tags: [biblia]
 ---
 
 # Zacarias 4
 
-**1** E o anjo que falava comigo voltou, e despertou-me, como a um homem que é despertado do seu sono, ^v1
+**1** Então, o anjo que falava comigo voltou e me despertou, como se eu estivera dormindo. ^v1
 
-**2** E disse-me: Que vês? E eu disse: Olho, e eis que vejo um castiçal todo de ouro, e um vaso de azeite no seu topo, com as suas sete lâmpadas; e sete canudos, um para cada uma das lâmpadas que estão no seu topo. ^v2
+**2** "Ele me perguntou: ""O que tu vês?"". Respondi: ""Vejo um candelabro feito de ouro maciço, com uma bacia por cima. Há sete lâmpadas sobre ele e sete tubos em cima de cada lâmpada." ^v2
 
-**3** E, por cima dele, duas oliveiras, uma à direita do vaso de azeite, e outra à sua esquerda. ^v3
+**3** "Duas oliveiras estão nele, uma no lado direito do vaso, e outra no lado esquerdo""." ^v3
 
-**4** E respondi, dizendo ao anjo que falava comigo: Senhor meu, que é isto? ^v4
+**4** "Então, perguntei ao anjo que falava comigo: ""O que significam essas coisas, meu senhor?""." ^v4
 
-**5** Então respondeu o anjo que falava comigo, dizendo-me: Não sabes tu o que é isto? E eu disse: Não, senhor meu. ^v5
+**5** "O anjo me respondeu: ""Tu não sabes o que essas coisas significam?"". Respondi: ""Não, meu senhor""." ^v5
 
-**6** E respondeu-me, dizendo: Esta é a palavra do Senhor a Zorobabel, dizendo: Não por força nem por violência, mas sim pelo meu Espírito, diz o Senhor dos Exércitos. ^v6
+**6** "Então, ele me disse: ""Esta é a palavra de Yahweh para Zorobabel: Não por força nem por poder, mas pelo Meu Espírito"" — diz Yahweh dos Exércitos." ^v6
 
-**7** Quem és tu, ó grande monte? Diante de Zorobabel tornar-te-ás uma campina; porque ele trará a pedra angular com aclamações: Graça, graça a ela. ^v7
+**7** """Quem és tu, grande monte? Diante de Zorobabel, irás te tornar uma planície, e ele colocará a pedra angular, exclamando 'Graça! Graça sobre ela!'""." ^v7
 
-**8** E a palavra do Senhor veio novamente a mim, dizendo: ^v8
+**8** A palavra de Yahweh veio a mim, dizendo: ^v8
 
-**9** As mãos de Zorobabel têm lançado os alicerces desta casa; também as suas mãos a acabarão, para que saibais que o Senhor dos Exércitos me enviou a vós. ^v9
+**9** """As mãos de Zorobabel lançaram a fundação desta casa e elas irão concluí-la. Então, saberás que Yahweh dos Exércitos me enviou a ti." ^v9
 
-**10** Porque, quem despreza o dia das coisas pequenas? Pois esses se alegrarão, vendo o prumo na mão de Zorobabel; esses são os sete olhos do Senhor, que percorrem por toda a terra. ^v10
+**10** "Quem desprezou o dia das pequenas coisas? Este povo se alegrará e verá o prumo de pedra nas mãos de Zorobabel. (Estas sete lâmpadas são os olhos de Yahweh que percorrem toda a terra)""." ^v10
 
-**11** Respondi mais, dizendo-lhe: Que são as duas oliveiras à direita e à esquerda do castiçal? ^v11
+**11** "Então, eu perguntei ao anjo: ""O que são essas duas oliveiras que estão ao lado esquerdo e à direita do candelabro?""." ^v11
 
-**12** E, respondendo-lhe outra vez, disse: Que são aqueles dois ramos de oliveira, que estão junto aos dois tubos de ouro, e que vertem de si azeite dourado? ^v12
+**12** "Novamente perguntei: ""O que são esses dois ramos de oliveira ao lado dos dois tubos de ouro que vertem azeite dourado?""." ^v12
 
-**13** E ele me falou, dizendo: Não sabes tu o que é isto? E eu disse: Não, senhor meu. ^v13
+**13** "Então, ele me perguntou: ""Tu não sabes o que é isto?"". Eu disse: Não, meu senhor""." ^v13
 
-**14** Então ele disse: Estes são os dois ungidos, que estão diante do Senhor de toda a terra. ^v14
+**14** "Então, ele disse: ""Estes são os dois ungidos que estão diante do Senhor de toda a terra""." ^v14

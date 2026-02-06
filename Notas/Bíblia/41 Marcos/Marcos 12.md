@@ -1,95 +1,94 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Marcos|Marcos]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Marcos|Marcos]]"
+tags: [biblia]
 ---
 
 # Marcos 12
 
-**1** E começou a falar-lhes por parábolas: Um homem plantou uma vinha, e cercou-a de um valado, e fundou nela um lagar, e edificou uma torre, e arrendou-a a uns lavradores, e partiu para fora da terra. ^v1
+**1** "Então Jesus começou a ensiná-los por parábolas, dizendo: ""Um homem plantou uma vinha, colocou um cercado ao redor, cavou um poço para prensar as uvas, e construiu uma torre. Então arrendou a vinha para alguns lavradores e saiu de viagem." ^v1
 
-**2** E, chegado o tempo, mandou um servo aos lavradores para que recebesse, dos lavradores, do fruto da vinha. ^v2
+**2** No tempo certo da colheita, ele enviou um servo até os lavradores para receber deles do fruto da vinha. ^v2
 
-**3** Mas estes, apoderando-se dele, o feriram e o mandaram embora vazio. ^v3
+**3** Mas eles o pegaram, o espancaram e o mandaram de volta sem nada. ^v3
 
-**4** E tornou a enviar-lhes outro servo; e eles, apedrejando-o, o feriram na cabeça, e o mandaram embora, tendo-o afrontado. ^v4
+**4** Mais uma vez, ele mandou outro servo, e lhe feriram na cabeça e o humilharam. ^v4
 
-**5** E tornou a enviar-lhes outro, e a este mataram; e a outros muitos, dos quais a uns feriram e a outros mataram. ^v5
+**5** Ele mandou ainda outro, e a este mataram. Eles trataram a muitos outros servos da mesma maneira, espancando alguns e matando outros. ^v5
 
-**6** Tendo ele, pois, ainda um seu filho amado, enviou-o também a estes por derradeiro, dizendo: Ao menos terão respeito ao meu filho. ^v6
+**6** E restava-lhe ainda um, seu filho amado, o último que lhes fora enviado. Ele disse: 'Eles respeitarão o meu filho'. ^v6
 
-**7** Mas aqueles lavradores disseram entre si: Este é o herdeiro; vamos, matemo-lo, e a herança será nossa. ^v7
+**7** Mas os lavradores disseram entre si: 'Esse é o herdeiro, vamos matá-lo e a herança será nossa'. ^v7
 
-**8** E, pegando dele, o mataram, e o lançaram fora da vinha. ^v8
+**8** Eles o agarraram, o mataram e o jogaram para fora da vinha. ^v8
 
-**9** Que fará, pois, o senhor da vinha? Virá, e destruirá os lavradores, e dará a vinha a outros. ^v9
+**9** Portanto, que fará então o dono da vinha? Ele virá, destruirá os lavradores e dará a vinha para outras pessoas. ^v9
 
-**10** Ainda não lestes esta Escritura:A pedra, que os edificadores rejeitaram,Esta foi posta por cabeça de esquina; ^v10
+**10** Acaso não lestes esta Escritura? 'A pedra que os construtores rejeitaram veio a ser a angular. ^v10
 
-**11** Isto foi feito pelo Senhor E é coisa maravilhosa aos nossos olhos? ^v11
+**11** "Isso vem do Senhor, e é maravilha aos nossos olhos’""." ^v11
 
-**12** E buscavam prendê-lo, mas temiam a multidão; porque entendiam que contra eles dizia esta parábola; e, deixando-o, foram-se. ^v12
+**12** Eles procuraram um meio de prender Jesus, mas temiam a multidão, pois sabiam que Ele havia contado essa parábola contra eles. Então O deixaram e foram embora. ^v12
 
-**13** E enviaram-lhe alguns dos fariseus e dos herodianos, para que o apanhassem nalguma palavra. ^v13
+**13** E eles Lhe enviaram alguns dos fariseus e dos herodianos para que O apanhassem em alguma palavra. ^v13
 
-**14** E, chegando eles, disseram-lhe: Mestre, sabemos que és homem de verdade, e de ninguém se te dá, porque não olhas à aparência dos homens, antes com verdade ensinas o caminho de Deus; é lícito dar o tributo a César, ou não? Daremos, ou não daremos? ^v14
+**14** "Quando chegaram, disseram-Lhe: ""Mestre, sabemos que és verdadeiro e não Te importas com a opinião de ninguém, porque não julgas pela aparência dos homens. Verdadeiramente ensinas o caminho de Deus. É certo pagarmos impostos a César ou não? Devemos pagar ou não?""." ^v14
 
-**15** Então ele, conhecendo a sua hipocrisia, disse-lhes: Por que me tentais? Trazei-me uma moeda, para que a veja. ^v15
+**15** "Mas Jesus conhecia a hipocrisia deles e disse-lhes: ""Por que Me testais? Trazei-Me um denário para que Eu o veja""." ^v15
 
-**16** E eles lha trouxeram. E disse-lhes: De quem é esta imagem e inscrição? E eles lhe disseram: De César. ^v16
+**16** "Eles Lhe trouxeram um. Então, Jesus perguntou: ""De quem é esta imagem e inscrição?""." ^v16
 
-**17** E Jesus, respondendo, disse-lhes: Dai pois a César o que é de César, e a Deus o que é de Deus. E maravilharam-se dele. ^v17
+**17** "Eles Lhe responderam: ""De César"". Jesus disse: ""Dai a César o que é de Cesar e a Deus, o que é de Deus"". E ficaram maravilhados com Ele." ^v17
 
-**18** Então os saduceus, que dizem que não há ressurreição, aproximaram-se dele, e perguntaram-lhe, dizendo: ^v18
+**18** Então os saduceus, que dizem não haver ressurreição, vieram até Ele e perguntaram-Lhe, dizendo: ^v18
 
-**19** Mestre, Moisés nos escreveu que, se morresse o irmão de alguém, e deixasse a mulher e não deixasse filhos, seu irmão tomasse a mulher dele, e suscitasse descendência a seu irmão. ^v19
+**19** """Mestre, Moisés nos deixou escrito que: 'Se o irmão de um homem morrer e deixar uma esposa sem filhos, o irmão deve casar-se com a viúva e ter filhos para seu irmão'." ^v19
 
-**20** Ora, havia sete irmãos, e o primeiro tomou a mulher, e morreu sem deixar descendência; ^v20
+**20** Havia sete irmãos; o primeiro teve esposa e depois morreu, sem deixar filhos. ^v20
 
-**21** E o segundo também a tomou e morreu, e nem este deixou descendência; e o terceiro da mesma maneira. ^v21
+**21** Então, o segundo a tomou por esposa e morreu, sem deixar filhos. E com o terceiro de igual modo. ^v21
 
-**22** E tomaram-na os sete, sem, contudo, terem deixado descendência. Finalmente, depois de todos, morreu também a mulher. ^v22
+**22** E os sete não deixaram filhos. Depois de todos, a mulher também morreu. ^v22
 
-**23** Na ressurreição, pois, quando ressuscitarem, de qual destes será a mulher? porque os sete a tiveram por mulher. ^v23
+**23** "Na ressurreição, quando ressuscitarem, de quem ela será esposa? Já que os sete irmãos a tiveram como esposa""." ^v23
 
-**24** E Jesus, respondendo, disse-lhes: Porventura não errais vós em razão de não saberdes as Escrituras nem o poder de Deus? ^v24
+**24** "Respondeu-lhes Jesus: ""Não é esta a razão pela qual estais enganados, porque não conheceis as Escrituras nem o poder de Deus?" ^v24
 
-**25** Porquanto, quando ressuscitarem dentre os mortos, nem casarão, nem se darão em casamento, mas serão como os anjos que estão nos céus. ^v25
+**25** Pois quando ressuscitarem dentre os mortos, não se casam nem se dão em casamento, mas são como os anjos nos céus. ^v25
 
-**26** E, acerca dos mortos que houverem de ressuscitar, não tendes lido no livro de Moisés como Deus lhe falou na sarça, dizendo: Eu sou o Deus de Abraão, e o Deus de Isaque, e o Deus de Jacó? ^v26
+**26** Mas, quanto aos mortos que são ressuscitados, não lestes no livro de Moisés, no relato sobre a sarça, como Deus falou com ele e disse: 'Eu sou o Deus de Abraão, o Deus de Isaque e o Deus de Jacó?'. ^v26
 
-**27** Ora, Deus não é de mortos, mas sim, é Deus de vivos. Por isso vós errais muito. ^v27
+**27** "Ele não é Deus de mortos, mas de vivos. Grande é o vosso erro""." ^v27
 
-**28** Aproximou-se dele um dos escribas que os tinha ouvido disputar, e sabendo que lhes tinha respondido bem, perguntou-lhe: Qual é o primeiro de todos os mandamentos? ^v28
+**28** "Um dos escribas veio e ouviu a discussão, ele viu que Jesus lhes respondeu bem. E perguntou-Lhe: ""Qual mandamento é o mais importante de todos?""." ^v28
 
-**29** E Jesus respondeu-lhe: O primeiro de todos os mandamentos é: Ouve, Israel, o Senhor nosso Deus é o único Senhor. ^v29
+**29** "Respondeu Jesus: ""O mais importante é este: 'Ouve, Israel, o Senhor nosso Deus é o único Senhor." ^v29
 
-**30** Amarás, pois, ao Senhor teu Deus de todo o teu coração, e de toda a tua alma, e de todo o teu entendimento, e de todas as tuas forças; este é o primeiro mandamento. ^v30
+**30** Amarás, pois, o Senhor teu Deus, com todo o teu coração, com toda a tua alma, com todo o teu entendimento, e com todas as tuas forças'. ^v30
 
-**31** E o segundo, semelhante a este, é: Amarás o teu próximo como a ti mesmo. Não há outro mandamento maior do que estes. ^v31
+**31** "O segundo mandamento é este: 'Ama o teu próximo como a ti mesmo'. Mandamento maior do que esses não existe""." ^v31
 
-**32** E o escriba lhe disse: Muito bem, Mestre, e com verdade disseste que há um só Deus, e que não há outro além dele; ^v32
+**32** "Então o escriba lhe disse: ""Muito bem, Mestre! Verdadeiramente falaste que Deus é um só, e que não há outro exceto Ele." ^v32
 
-**33** E que amá-lo de todo o coração, e de todo o entendimento, e de toda a alma, e de todas as forças, e amar o próximo como a si mesmo, é mais do que todos os holocaustos e sacrifícios. ^v33
+**33** "Amá-Lo com todo o coração, com todo o entendimento e com todas as forças, e amar ao próximo como a si mesmo, é mais importante do que todos os sacrifícios e holocaustos""." ^v33
 
-**34** E Jesus, vendo que havia respondido sabiamente, disse-lhe: Não estás longe do reino de Deus. E já ninguém ousava perguntar-lhe mais nada. ^v34
+**34** "Quando Jesus viu que ele deu uma resposta sábia, disse-lhe: ""Tu não estás longe do Reino de Deus"". Depois disto, ninguém mais se atreveu a questionar Jesus." ^v34
 
-**35** E, falando Jesus, dizia, ensinando no templo: Como dizem os escribas que o Cristo é filho de Davi? ^v35
+**35** "E, enquanto ensinava no templo, Jesus respondeu-lhes, dizendo: ""Como dizem os escribas que o Cristo é filho de Davi?" ^v35
 
-**36** O próprio Davi disse pelo Espírito Santo:O Senhor disse ao meu Senhor:Assenta-te à minha direita Até que eu ponha os teus inimigos por escabelo dos teus pés. ^v36
+**36** Davi mesmo disse pelo Espírito Santo: 'O Senhor disse ao meu Senhor: Senta-te à Minha direita, até que Eu faça dos teus inimigos como escabelo debaixo dos teus pés'. ^v36
 
-**37** Pois, se Davi mesmo lhe chama Senhor, como é logo seu filho? E a grande multidão o ouvia de boa vontade. ^v37
+**37** "O próprio Davi chama o Cristo de 'Senhor', então, como pode ser filho dele?"". A grande multidão O ouvia com alegria." ^v37
 
-**38** E, ensinando-os, dizia-lhes: Guardai-vos dos escribas, que gostam de andar com vestes compridas, e das saudações nas praças, ^v38
+**38** "Em seu ensinamento, Jesus dizia: ""Cuidado com os escribas, que desejam andar com longas túnicas, receber saudações nas praças," ^v38
 
-**39** E das primeiras cadeiras nas sinagogas, e dos primeiros assentos nas ceias; ^v39
+**39** os lugares principais nas sinagogas e os lugares de honra nos banquetes. ^v39
 
-**40** Que devoram as casas das viúvas, e isso com pretexto de largas orações. Estes receberão mais grave condenação. ^v40
+**40** "Eles também devoram as casas das viúvas e, para o justificar, fazem longas orações. Estes receberão maior condenação""." ^v40
 
-**41** E, estando Jesus assentado defronte da arca do tesouro, observava a maneira como a multidão lançava o dinheiro na arca do tesouro; e muitos ricos deitavam muito. ^v41
+**41** Então Jesus sentou-Se perto de uma caixa de ofertas na área do templo. Ele estava olhando as pessoas enquanto lançavam seu dinheiro na caixa. Muitas pessoas ricas lançavam ali grandes quantias de dinheiro. ^v41
 
-**42** Vindo, porém, uma pobre viúva, deitou duas pequenas moedas, que valiam meio centavo. ^v42
+**42** Então, uma pobre viúva chegou e colocou na caixa duas moedas, que valem um quadrante. ^v42
 
-**43** E, chamando os seus discípulos, disse-lhes: Em verdade vos digo que esta pobre viúva deitou mais do que todos os que deitaram na arca do tesouro; ^v43
+**43** "Jesus chamou os Seus discípulos e disse-lhes: ""Verdadeiramente vos digo: Esta viúva pobre colocou ali mais do que todos aqueles que ofertaram na caixa." ^v43
 
-**44** Porque todos ali deitaram do que lhes sobejava, mas esta, da sua pobreza, deitou tudo o que tinha, todo o seu sustento. ^v44
+**44** Todos eles deram do que lhes era abundante, mas esta viúva, de sua pobreza, colocou todo o dinheiro que tinha para viver. ^v44

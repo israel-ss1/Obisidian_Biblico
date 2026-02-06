@@ -1,63 +1,62 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Ezequiel|Ezequiel]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Ezequiel|Ezequiel]]"
+tags: [biblia]
 ---
 
 # Ezequiel 1
 
-**1** E aconteceu no trigésimo ano, no quarto mês, no quinto dia do mês, que estando eu no meio dos cativos, junto ao rio Quebar, se abriram os céus, e eu tive visões de Deus. ^v1
+**1** No trigésimo ano, no quarto mês, ao quinto dia do mês, eu estava vivendo entre os cativos, no rio Quebar. Os céus se abriram e tive visões de Deus. ^v1
 
-**2** No quinto dia do mês, no quinto ano do cativeiro do rei Jeoiaquim, ^v2
+**2** Ao quinto dia daquele mês — era o quinto ano do exílio do rei Joaquim —, ^v2
 
-**3** Veio expressamente a palavra do Senhor a Ezequiel, filho de Buzi, o sacerdote, na terra dos caldeus, junto ao rio Quebar, e ali esteve sobre ele a mão do Senhor. ^v3
+**3** a palavra de Yahweh veio a Ezequiel, filho de Buzi, o sacerdote, na terra dos caldeus, junto ao rio Quebar, e a mão de Yahweh estava sobre ele naquele lugar. ^v3
 
-**4** Olhei, e eis que um vento tempestuoso vinha do norte, uma grande nuvem, com um fogo revolvendo-se nela, e um resplendor ao redor, e no meio dela havia uma coisa, como de cor de âmbar, que saía do meio do fogo. ^v4
+**4** Olhei e havia um vendaval vindo do norte, uma nuvem enorme com fogo cintilante dentro dela, com brilho ao redor e dentro dela; o fogo era da cor de âmbar dentro da nuvem. ^v4
 
-**5** E do meio dela saía a semelhança de quatro seres viventes. E esta era a sua aparência: tinham a semelhança de homem. ^v5
+**5** No meio, havia a semelhança de quatro seres viventes. Eis a sua aparência: tinham a semelhança de um homem; ^v5
 
-**6** E cada um tinha quatro rostos, como também cada um deles quatro asas. ^v6
+**6** porém cada uma tinha quatro rostos e cada uma das criaturas tinha quatro asas. ^v6
 
-**7** E os seus pés eram pés direitos; e as plantas dos seus pés como a planta do pé de uma bezerra, e luziam como a cor de cobre polido. ^v7
+**7** Suas pernas eram retas, mas as plantas dos seus pés eram como as patas de um bezerro que brilhava como bronze polido. ^v7
 
-**8** E tinham mãos de homem debaixo das suas asas, aos quatro lados; e assim todos quatro tinham seus rostos e suas asas. ^v8
+**8** Além disso, tinham mãos humanas debaixo das suas asas em todos os quatro lados; os rostos e as asas dos quatro eram assim: ^v8
 
-**9** Uniam-se as suas asas uma à outra; não se viravam quando andavam, e cada qual andava continuamente em frente. ^v9
+**9** as asas tocavam as asas da próxima criatura e não se viravam enquanto andavam; pelo contrário, cada uma andava para frente. ^v9
 
-**10** E a semelhança dos seus rostos era como o rosto de homem; e do lado direito todos os quatro tinham rosto de leão, e do lado esquerdo todos os quatro tinham rosto de boi; e também tinham rosto de águia todos os quatro. ^v10
+**10** A semelhança dos seus rostos era como o rosto humano. Os quatro tinham rosto de leão ao lado direito, e os quatro tinham rosto de boi ao lado esquerdo. Os quatro tinham também o rosto de uma águia. ^v10
 
-**11** Assim eram os seus rostos. As suas asas estavam estendidas por cima; cada qual tinha duas asas juntas uma a outra, e duas cobriam os corpos deles. ^v11
+**11** Seus rostos eram assim e as suas asas estavam abertas de modo que cada uma tinha um par de asas que tocava as asas da outra criatura e também um par de asas que cobria os seus corpos. ^v11
 
-**12** E cada qual andava para adiante de si; para onde o espírito havia de ir, iam; não se viravam quando andavam. ^v12
+**12** Cada uma ia para frente, para onde o Espírito fosse, elas andavam sem se virar. ^v12
 
-**13** E, quanto à semelhança dos seres viventes, o seu aspecto era como ardentes brasas de fogo, com uma aparência de lâmpadas; o fogo subia e descia por entre os seres viventes, e o fogo resplandecia, e do fogo saíam relâmpagos; ^v13
+**13** Os seres viventes pareciam brasas ardentes, eram como tochas; o fogo respladecia e se movia entre os seres e havia clarões de relâmpago. ^v13
 
-**14** E os seres viventes corriam, e voltavam, à semelhança de um clarão de relâmpago. ^v14
+**14** Os seres viventes se moviam rapidamente para frente e para trás e tinham a semelhança de relâmpago! ^v14
 
-**15** E vi os seres viventes; e eis que havia uma roda sobre a terra junto aos seres viventes, uma para cada um dos quatro rostos. ^v15
+**15** Depois, olhei para os seres viventes; havia uma roda no chão, ao lado dos seres viventes. ^v15
 
-**16** O aspecto das rodas, e a obra delas, era como a cor de berilo; e as quatro tinham uma mesma semelhança; e o seu aspecto, e a sua obra, era como se estivera uma roda no meio de outra roda. ^v16
+**16** Assim era a aparência e a estrutura das rodas: cada roda era como berilo e as quatro tinham a mesma semelhança; a sua aparência e a sua estrutura eram como uma roda interligada à outra. ^v16
 
-**17** Andando elas, andavam pelos seus quatro lados; não se viravam quando andavam. ^v17
+**17** Enquanto as rodas se moviam, elas iam a uma das suas quatro direções, sem se virar enquanto iam. ^v17
 
-**18** E os seus aros eram tão altos, que faziam medo; e estas quatro tinham as suas cambotas cheias de olhos ao redor. ^v18
+**18** Quanto aos seus aros, eram altos e assustadores, porque os aros estavam cheios de olhos ao seu redor. ^v18
 
-**19** E, andando os seres viventes, andavam as rodas ao lado deles; e, elevando-se os seres viventes da terra, elevavam-se também as rodas. ^v19
+**19** Sempre que os seres viventes se moviam, as rodas se moviam com eles. Quando os seres viventes erguiam-se da terra, as rodas também se erguiam. ^v19
 
-**20** Para onde o espírito queria ir, eles iam; para onde o espírito tinha de ir; e as rodas se elevavam defronte deles, porque o espírito do ser vivente estava nas rodas. ^v20
+**20** Aonde quer que o Espírito fosse, eles iam, e as rodas se erguiam com eles, porque o Espírito do ser vivente estava nas rodas. ^v20
 
-**21** Andando eles, andavam elas e, parando eles, paravam elas e, elevando-se eles da terra, elevavam-se também as rodas defronte deles; porque o espírito do ser vivente estava nas rodas. ^v21
+**21** Quando os seres se moviam, as rodas também se moviam; e, quando os seres paravam, as rodas paravam; quando os seres se erguiam da terra, as rodas se erguiam com eles, porque o Espírito do ser vivente estava nas rodas. ^v21
 
-**22** E sobre as cabeças dos seres viventes havia uma semelhança de firmamento, com a aparência de cristal terrível, estendido por cima, sobre as suas cabeças. ^v22
+**22** Sobre as cabeças dos seres viventes, havia uma redoma como cristal refulgente, estendida sobre as suas cabeças. ^v22
 
-**23** E debaixo do firmamento estavam as suas asas direitas uma em direção à outra; cada um tinha duas, que lhe cobriam o corpo de um lado; e cada um tinha outras duas asas, que os cobriam do outro lado. ^v23
+**23** Debaixo da redoma, cada uma das asas dos seres esticava-se e tocava nas asas do outro ser. Cada um dos seres viventes também tinha um par de asas para se cobrir; cada um tinha um par para cobrir o seu próprio corpo. ^v23
 
-**24** E, andando eles, ouvi o ruído das suas asas, como o ruído de muitas águas, como a voz do Onipotente, um tumulto como o estrépito de um exército; parando eles, abaixavam as suas asas. ^v24
+**24** Então, ouvi o som das suas asas como o barulho de muitas águas; como a voz do Onipotente, sempre que se moviam; como o som de um exército. Sempre que paravam, abaixavam as suas asas. ^v24
 
-**25** E ouviu-se uma voz vinda do firmamento, que estava por cima das suas cabeças; parando eles, abaixavam as suas asas. ^v25
+**25** Uma voz vinha por cima da redoma, sobre as suas cabeças, sempre que paravam e abaixavam as suas asas. ^v25
 
-**26** E por cima do firmamento, que estava por cima das suas cabeças, havia algo semelhante a um trono que parecia de pedra de safira; e sobre esta espécie de trono havia uma figura semelhante a de um homem, na parte de cima, sobre ele. ^v26
+**26** Sobre a redoma que estava acima das suas cabeças, havia algo semelhante a um trono que era da aparência de uma safira, e, sobre esse trono, havia alguém que parecia um homem. ^v26
 
-**27** E vi-a como a cor de âmbar, como a aparência do fogo pelo interior dele ao redor, desde o aspecto dos seus lombos, e daí para cima; e, desde o aspecto dos seus lombos e daí para baixo, vi como a semelhança de fogo, e um resplendor ao redor dele. ^v27
+**27** Vi que esse homem, da cintura para cima, parecia um metal brilhante cheio de fogo e, da cintura para baixo, vi um fogo que brilhava ao seu redor. ^v27
 
-**28** Como o aspecto do arco que aparece na nuvem no dia da chuva, assim era o aspecto do resplendor em redor. Este era o aspecto da semelhança da glória do Senhor; e, vendo isto, caí sobre o meu rosto, e ouvi a voz de quem falava. ^v28
+**28** Como a aparência de um arco-íris nas nuvens em um dia chuvoso, havia a aparência da luz cintilante que a rodeava. Era a aparência da glória de Yahweh. Quando vi isso, caí com o rosto em terra e ouvi a voz de Quem falava. ^v28

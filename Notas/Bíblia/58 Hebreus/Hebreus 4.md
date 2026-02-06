@@ -1,39 +1,38 @@
 ---
-Livro: "[[Hebreus|Hebreus]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Hebreus|Hebreus]]"
+tags: [biblia]
 ---
 
 # Hebreus 4
 
-**1** Temamos, pois, que, porventura, deixada a promessa de entrar no seu repouso, pareça que algum de vós fica para trás. ^v1
+**1** Portanto, sejamos cautelosos para que nenhum de vós pareça ter falhado em alcançar a promessa, deixada para vós, de entrar no descanso de Deus. ^v1
 
-**2** Porque também a nós foram pregadas as boas novas, como a eles, mas a palavra da pregação nada lhes aproveitou, porquanto não estava misturada com a fé naqueles que a ouviram. ^v2
+**2** Pois, recebemos as boas novas assim como eles, mas a mensagem não beneficia aqueles que a ouviram sem nela depositar a sua fé. ^v2
 
-**3** Porque nós, os que temos crido, entramos no repouso, tal como disse:Assim jurei na minha ira Que não entrarão no meu repouso; embora as suas obras estivessem acabadas desde a fundação do mundo. ^v3
+**3** "Porque nós, os que cremos, somos aqueles que entraremos neste descanso, assim como foi dito: ""Conforme jurei em minha ira, eles jamais entrarão no Meu descanso"". Embora, as Suas obras estivessem concluídas desde a fundação do mundo," ^v3
 
-**4** Porque em certo lugar disse assim do dia sétimo: E repousou Deus de todas as suas obras no sétimo dia. ^v4
+**4** "pois Ele disse, em algum lugar, a respeito do sétimo dia: ""Deus descansou no sétimo dia de todas as Suas obras""." ^v4
 
-**5** E outra vez neste lugar:Não entrarão no meu repouso. ^v5
+**5** "Novamente, disse: ""Eles não entrarão no Meu descanso""." ^v5
 
-**6** Visto, pois, que resta que alguns entrem nele, e que aqueles a quem primeiro foram pregadas as boas novas não entraram por causa da desobediência, ^v6
+**6** "Entretanto, como o descanso de Deus ainda está reservado para alguns entrarem, e uma vez que muitos Israelitas que ouviram as boas novas a respeito do Seu descanso não entraram por causa da desobediência, Deus novamente reservou um dia específico, chamado ""Hoje""." ^v6
 
-**7** Determina outra vez um certo dia, Hoje, dizendo por Davi, muito tempo depois, como está dito: Hoje, se ouvirdes a sua voz, Não endureçais os vossos corações. ^v7
+**7** "Ele estabeleceu esse dia quando falou por meio de Davi, como já havia dito anteriormente: ""Hoje, se ouvirdes a Sua voz, não endureçais o vosso coração""." ^v7
 
-**8** Porque, se Josué lhes houvesse dado repouso, não falaria depois disso de outro dia. ^v8
+**8** Pois, se Josué tivesse lhes dado descanso, Deus não vos teria falado acerca de outro dia. ^v8
 
-**9** Portanto, resta ainda um repouso para o povo de Deus. ^v9
+**9** Por isso, ainda existe um descanso sabático para o povo de Deus. ^v9
 
-**10** Porque aquele que entrou no seu repouso, ele próprio repousou de suas obras, como Deus das suas. ^v10
+**10** Porque aqueles que entram no descanso de Deus, descansam de suas obras, assim como Deus descansou das Suas. ^v10
 
-**11** Procuremos, pois, entrar naquele repouso, para que ninguém caia no mesmo exemplo de desobediência. ^v11
+**11** Portanto, esforçai-vos para entrar nesse descanso, a fim de que ninguém caia no mesmo tipo de desobediência que eles caíram. ^v11
 
-**12** Porque a palavra de Deus é viva e eficaz, e mais penetrante do que espada alguma de dois gumes, e penetra até à divisão da alma e do espírito, e das juntas e medulas, e é apta para discernir os pensamentos e intenções do coração. ^v12
+**12** Porque a Palavra de Deus é viva e poderosa, mais afiada do que uma espada de dois gumes, a qual penetra até a divisão da alma e do espírito, das juntas e medulas, apta para discernir as intenções e pensamentos do coração. ^v12
 
-**13** E não há criatura alguma encoberta diante dele; antes todas as coisas estão nuas e patentes aos olhos daquele com quem temos de tratar. ^v13
+**13** Nenhuma criatura está escondida diante de Seus olhos. Ao contrário, tudo está revelado e exposto diante dos olhos Daquele a quem deveremos prestar contas. ^v13
 
-**14** Visto que temos um grande sumo sacerdote, Jesus, Filho de Deus, que penetrou nos céus, retenhamos firmemente a nossa confissão. ^v14
+**14** Tendo, então, um grande Sumo Sacerdote que atravessou os céus, Jesus, o filho de Deus, apeguemo-nos firmemente à nossa confissão. ^v14
 
-**15** Porque não temos um sumo sacerdote que não possa compadecer-se das nossas fraquezas; porém, um que, como nós, em tudo foi tentado, mas sem pecado. ^v15
+**15** Pois, nós não temos um sumo sacerdote que não se compadeça de nossas fraquezas, mas, Aquele que foi tentado assim como nós, exceto pelo fato de Ele não ter pecado. ^v15
 
-**16** Cheguemos, pois, com confiança ao trono da graça, para que possamos alcançar misericórdia e achar graça, a fim de sermos ajudados em tempo oportuno. ^v16
+**16** Aproximemo-nos com ousadia ao trono da graça, para recebermos misericórdia e encontrarmos graça para ajudar-nos em tempo de necessidade. ^v16

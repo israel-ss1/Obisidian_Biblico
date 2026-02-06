@@ -1,55 +1,54 @@
 ---
-Livro: "[[Salmos|Salmos]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Salmos|Salmos]]"
+tags: [biblia]
 ---
 
 # Salmos 71
 
-**1** Em ti, SENHOR, confio; nunca seja eu confundido. ^v1
+**1** Em Ti, Yahweh, eu me refugio; que eu nunca seja envergonhado. ^v1
 
-**2** Livra-me na tua justiça, e faze-me escapar; inclina os teus ouvidos para mim, e salva-me. ^v2
+**2** Resgata-me e protege-me em Tua retidão; inclina Teus ouvidos para mim e salva-me. ^v2
 
-**3** Sê tu a minha habitação forte, à qual possa recorrer continuamente. Deste um mandamento que me salva, pois tu és a minha rocha e a minha fortaleza. ^v3
+**3** Sê minha rocha de refúgio, aonde eu sempre possa ir; Tu deste uma ordem para salvar-me, pois Tu és minha rocha e minha fortaleza. ^v3
 
-**4** Livra-me, meu Deus, das mãos do ímpio, das mãos do homem injusto e cruel. ^v4
+**4** Resgata-me, meu Deus, das mãos dos perversos, das mãos dos homens injustos e cruéis. ^v4
 
-**5** Pois tu és a minha esperança, Senhor DEUS; tu és a minha confiança desde a minha mocidade. ^v5
+**5** Pois Tu és minha esperança, Senhor Yahweh. Eu tenho confiado em Ti desde que eu era criança. ^v5
 
-**6** Por ti tenho sido sustentado desde o ventre; tu és aquele que me tiraste das entranhas de minha mãe; o meu louvor será para ti constantemente. ^v6
+**6** Desde o ventre, tenho sido sustentado por Ti; Tu és Aquele que me tiraste do ventre de minha mãe; meu louvor será continuamente a Teu respeito. ^v6
 
-**7** Sou como um prodígio para muitos, mas tu és o meu refúgio forte. ^v7
+**7** Tornei-me um exemplo para muitas pessoas; Tu és meu forte refúgio. ^v7
 
-**8** Encha-se a minha boca do teu louvor e da tua glória todo o dia. ^v8
+**8** Minha boca se encherá com Teu louvor, todo o dia com Tua glória. ^v8
 
-**9** Não me rejeites no tempo da velhice; não me desampares, quando se for acabando a minha força. ^v9
+**9** Não me rejeites em minha velhice; não me abandones quando minha força falhar. ^v9
 
-**10** Porque os meus inimigos falam contra mim, e os que espiam a minha alma consultam juntos, ^v10
+**10** Pois meus inimigos estão falando sobre mim; aqueles que espreitam a minha vida estão conspirando juntos. ^v10
 
-**11** Dizendo: Deus o desamparou; persegui-o e tomai-o, pois não há quem o livre. ^v11
+**11** """Deus o desamparou”, dizem eles, “persegui-o e tomai-o, pois não há ninguém para salvá-lo.""" ^v11
 
-**12** Ó Deus, não te alongues de mim; meu Deus, apressa-te em ajudar-me. ^v12
+**12** Deus, não Te afastes de mim, meu Deus, apressa-Te para ajudar-me! ^v12
 
-**13** Sejam confundidos e consumidos os que são adversários da minha alma; cubram-se de opróbrio e de confusão aqueles que procuram o meu mal. ^v13
+**13** Sejam envergonhados e consumidos aqueles que são hostis à minha vida; sejam cobertos com repreensão e desonra aqueles que buscam o meu mal. ^v13
 
-**14** Mas eu esperarei continuamente, e te louvarei cada vez mais. ^v14
+**14** Mas eu sempre esperarei em Ti e Te adorarei mais e mais. ^v14
 
-**15** A minha boca manifestará a tua justiça e a tua salvação todo o dia, pois não conheço o número delas. ^v15
+**15** Minha boca falará sobre Tua justiça e Tua salvação durante todo o dia, embora eu não consiga compreendê-las. ^v15
 
-**16** Sairei na força do Senhor DEUS, farei menção da tua justiça, e só dela. ^v16
+**16** Virei com os feitos poderosos do Senhor Yahweh; farei menção da Tua justiça, somente a Tua. ^v16
 
-**17** Ensinaste-me, ó Deus, desde a minha mocidade; e até aqui tenho anunciado as tuas maravilhas. ^v17
+**17** Deus, Tu tens me ensinado desde a minha mocidade; mesmo agora eu declaro as Tuas obras maravilhosas. ^v17
 
-**18** Agora também, quando estou velho e de cabelos brancos, não me desampares, ó Deus, até que tenha anunciado a tua força a esta geração, e o teu poder a todos os vindouros. ^v18
+**18** De fato, agora que estou velho e de cabelos grisalhos, ó Deus, não me abandones; para que eu declare a Tua força à próxima geração, e Teu poder para todos os que estão por vir. ^v18
 
-**19** Também a tua justiça, ó Deus, está muito alta, pois fizeste grandes coisas. Ó Deus, quem é semelhante a ti? ^v19
+**19** Também a Tua justiça, ó Deus, é muito elevada! Tu que tens feito grandes coisas, ó Deus, quem se compara a Ti? ^v19
 
-**20** Tu, que me tens feito ver muitos males e angústias, me darás ainda a vida, e me tirarás dos abismos da terra. ^v20
+**20** Tu, que me fizeste ver muitos problemas severos, nos ressuscitarás novamente, nos trarás de volta das profundezas da Terra. ^v20
 
-**21** Aumentarás a minha grandeza, e de novo me consolarás. ^v21
+**21** Que Tu aumentes minha grandeza e voltes a me confortar. ^v21
 
-**22** Também eu te louvarei com o saltério, bem como à tua verdade, ó meu Deus; cantarei com harpa a ti, ó Santo de Israel. ^v22
+**22** Eu também Te louvarei com a harpa por Tua fidelidade, meu Deus; a Ti cantarei louvores com a harpa, ó Santo de Israel. ^v22
 
-**23** Os meus lábios exultarão quando eu te cantar, assim como a minha alma, que tu remiste. ^v23
+**23** Meus lábios gritarão de alegria quando eu cantar louvores a Ti, assim como a minha alma, que Tu redimiste. ^v23
 
-**24** A minha língua falará da tua justiça todo o dia; pois estão confundidos e envergonhados aqueles que procuram o meu mal. ^v24
+**24** Minha língua também falará sobre Tua justiça por todo o dia; pois foram envergonhados e estão confusos aqueles que procuravam o meu mal. ^v24

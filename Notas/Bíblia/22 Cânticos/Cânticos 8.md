@@ -1,35 +1,34 @@
 ---
-Livro: "[[Cânticos|Cânticos]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Cânticos|Cânticos]]"
+tags: [biblia]
 ---
 
 # Cânticos 8
 
-**1** Ah! quem me dera que foras como meu irmão, que mamou aos seios de minha mãe! Quando te encontrasse lá fora, beijar-te-ia, e não me desprezariam! ^v1
+**1** """Eu gostaria que fosses como meu irmão, amamentado pelos seios da minha mãe. Então sempre que eu te encontrasse lá fora, eu poderia beijar-te, e ninguém me desprezaria." ^v1
 
-**2** Levar-te-ia e te introduziria na casa de minha mãe, e tu me ensinarias; eu te daria a beber do vinho aromático e do mosto das minhas romãs. ^v2
+**2** "Eu te guiaria e te levaria para dentro da casa da minha mãe, e tu me ensinarias. Eu te daria vinho aromático para beber e um pouco do suco de minhas romãs"". A jovem mulher falando para si mesma:" ^v2
 
-**3** A sua mão esquerda esteja debaixo da minha cabeça, e a sua direita me abrace. ^v3
+**3** """Sua mão esquerda está sob minha cabeça e sua mão direita me abraça"". A mulher falando para as outras mulheres:" ^v3
 
-**4** Conjuro-vos, ó filhas de Jerusalém, que não acordeis nem desperteis o meu amor, até que queira. ^v4
+**4** """Eu quero que jureis, filhas dos homens de Jerusalém, que vós não interrompais nosso amor até que ele acabe"". As mulheres de Jerusalém falando:" ^v4
 
-**5** Quem é esta que sobe do deserto, e vem encostada ao seu amado? Debaixo da macieira te despertei, ali esteve tua mãe com dores; ali esteve com dores aquela que te deu à luz. ^v5
+**5** """Quem é essa que está vindo do deserto, inclinando-se em seu amado?"". A jovem mulher falando para seu amor: ""Eu te despertei debaixo da macieira; ali sua mãe te concebeu; ali ela te deu a luz, ela te trouxe." ^v5
 
-**6** Põe-me como selo sobre o teu coração, como selo sobre o teu braço, porque o amor é forte como a morte, e duro como a sepultura o ciúme; as suas brasas são brasas de fogo, com veementes labaredas. ^v6
+**6** Põe-me como um selo no teu coração, como selo em teu braço, pois o amor é forte como a morte. A paixão é tão implacável quanto o Sheol; é explosão de fogo, é uma labareda de fogo, uma chama mais quente do que qualquer outro fogo. ^v6
 
-**7** As muitas águas não podem apagar este amor, nem os rios afogá-lo; ainda que alguém desse todos os bens de sua casa pelo amor, certamente o desprezariam. ^v7
+**7** "Águas torrenciais não poderiam apagar o amor, nem a inundação poderia afogá-lo. Se um homem desse todos os bens de sua casa por amor, a oferta seria completamente desprezada"". Os irmãos da jovem mulher falando entre eles:" ^v7
 
-**8** Temos uma irmã pequena, que ainda não tem seios; que faremos a esta nossa irmã, no dia em que dela se falar? ^v8
+**8** """Nós temos uma pequena irmã, e ela ainda não tem seios formados. O que podemos fazer para nossa irmã no dia que ela for prometida em casamento?" ^v8
 
-**9** Se ela for um muro, edificaremos sobre ela um palácio de prata; e, se ela for uma porta, cercá-la-emos com tábuas de cedro. ^v9
+**9** "Se ela for uma parede, nós construiremos nela uma torre de prata. Se ela for uma porta, nós a decoramos com tábuas de cedro"". A jovem falando de si mesma:" ^v9
 
-**10** Eu sou um muro, e os meus seios são como as suas torres; então eu era aos seus olhos como aquela que acha paz. ^v10
+**10** """Eu era uma parede, mas meus seios agora são como torres de fortaleza, então eu sou completamente madura aos seus olhos"". A jovem falando de si mesma:" ^v10
 
-**11** Teve Salomão uma vinha em Baal-Hamom; entregou-a a uns guardas; e cada um lhe trazia pelo seu fruto mil peças de prata. ^v11
+**11** """Salomão tinha uma vinha em Baal-Hamom. Ele arrendou a vinha para aqueles que a manteriam. Cada um tinha que trazer doze quilos de prata por seus frutos." ^v11
 
-**12** A minha vinha, que me pertence, está diante de mim; as mil peças de prata são para ti, ó Salomão, e duzentas para os que guardam o seu fruto. ^v12
+**12** "Minha vinha é só minha, os doze quilos de prata pertecem a ti, meu querido Salomão, e os dois quilos e meio são para aqueles que a mantêm por seus frutos"". O amante falando para ela:" ^v12
 
-**13** Ó tu, que habitas nos jardins, os companheiros estão atentos para ouvir a tua voz; faze-me, pois, também ouvi-la. ^v13
+**13** """Vós que viveis nos jardins, meus companheiros estão ouvindo sua voz; deixe-me ser o único que ouve também"". A jovem mulher falando para seu amante:" ^v13
 
-**14** Vem depressa, amado meu, e faze-te semelhante ao gamo ou ao filho dos veados sobre os montes dos aromas. ^v14
+**14** """Apressa-te, meu amado, e sê como a gazela ou um jovem cervo pelos montes perfumados!""." ^v14

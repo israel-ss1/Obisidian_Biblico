@@ -1,69 +1,68 @@
 ---
-Livro: "[[2 Samuel|2 Samuel]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/2 Samuel|2 Samuel]]"
+tags: [biblia]
 ---
 
 # 2 Samuel 12
 
-**1** E o SENHOR enviou Natã a Davi; e, apresentando-se ele a Davi, disse-lhe: Havia numa cidade dois homens, um rico e outro pobre. ^v1
+**1** "Então, Yahweh enviou Natã a Davi. Ele veio a Davi e disse: ""Havia dois homens numa cidade. Um homem era rico e o outro pobre." ^v1
 
-**2** O rico possuía muitíssimas ovelhas e vacas. ^v2
+**2** O rico tinha grande número de rebanhos e manadas, ^v2
 
-**3** Mas o pobre não tinha coisa nenhuma, senão uma pequena cordeira que comprara e criara; e ela tinha crescido com ele e com seus filhos; do seu bocado comia, e do seu copo bebia, e dormia em seu regaço, e a tinha como filha. ^v3
+**3** mas o homem pobre não tinha nada, exceto uma pequena cordeirinha, a qual ele havia comprado, alimentado e criado. Ela cresceu junto com ele e seus filhos. A cordeira até comia com ele e bebia do seu próprio copo, e dormia em seus braços. Era como uma filha para ele. ^v3
 
-**4** E, vindo um viajante ao homem rico, deixou este de tomar das suas ovelhas e das suas vacas para assar para o viajante que viera a ele; e tomou a cordeira do homem pobre, e a preparou para o homem que viera a ele. ^v4
+**4** "Um dia, o homem rico recebeu um visitante; porém, o homem rico não quis tomar de seus próprios rebanhos e manadas para lhe providenciar alimento. Ao invés disso, ele tomou a cordeirinha do homem pobre e a cozinhou para o seu visitante""." ^v4
 
-**5** Então o furor de Davi se acendeu em grande maneira contra aquele homem, e disse a Natã: Vive o Senhor, que digno de morte é o homem que fez isso. ^v5
+**5** "Davi ficou cheio de raiva contra o homem rico, e se enfureceu diante de Natã: ""Como vive Yahweh, o homem que fez isso merece ser condenado à morte." ^v5
 
-**6** E pela cordeira tornará a dar o quadruplicado, porque fez tal coisa, e porque não se compadeceu. ^v6
+**6** "E pela cordeira ele deve restituir quatro vezes mais, por ter feito tal coisa e porque ele não teve piedade do homem pobre""." ^v6
 
-**7** Então disse Natã a Davi: Tu és este homem. Assim diz o Senhor Deus de Israel: Eu te ungi rei sobre Israel, e eu te livrei das mãos de Saul; ^v7
+**7** "Então, Natã disse a Davi: ""Tu és esse homem! Yahweh, o Deus de Israel, diz: 'Eu o ungi rei sobre Israel, e Eu o resgatei da mão de Saul." ^v7
 
-**8** E te dei a casa de teu senhor, e as mulheres de teu senhor em teu seio, e também te dei a casa de Israel e de Judá, e, se isto é pouco, mais te acrescentaria tais e tais coisas. ^v8
+**8** Eu te dei a casa de teu senhor, e, em teus braços, dei as esposas de teu senhor. Eu também te dei a casa de Israel e Judá. Porém, se isso fosse pouco, Eu teria te dado muitas outras coisas. ^v8
 
-**9** Por que, pois, desprezaste a palavra do Senhor, fazendo o mal diante de seus olhos? A Urias, o heteu, feriste à espada, e a sua mulher tomaste por tua mulher; e a ele mataste com a espada dos filhos de Amom. ^v9
+**9** Por que, então, tens desprezado os comandos de Yahweh, para fazer o que é mau aos Seus olhos? Tu mataste Urias, o heteu, com a espada, e tomaste sua esposa para ser a tua própria esposa. Tu o mataste com a espada do exército de Amom. ^v9
 
-**10** Agora, pois, não se apartará a espada jamais da tua casa, porquanto me desprezaste, e tomaste a mulher de Urias, o heteu, para ser tua mulher. ^v10
+**10** Então, agora, a espada nunca deixará a tua casa, porque tens Me desprezado, e tomaste a esposa de Urias, o heteu, como tua esposa'. ^v10
 
-**11** Assim diz o Senhor: Eis que suscitarei da tua própria casa o mal sobre ti, e tomarei tuas mulheres perante os teus olhos, e as darei a teu próximo, o qual se deitará com tuas mulheres perante este sol. ^v11
+**11** Yahweh diz: 'Vê, Eu levantarei desastre contra ti dentro de tua própria casa. Diante dos teus próprios olhos, Eu tomarei tuas esposas e as darei ao teu vizinho, e ele dormirá com tuas esposas em plena luz do dia. ^v11
 
-**12** Porque tu o fizeste em oculto, mas eu farei este negócio perante todo o Israel e perante o sol. ^v12
+**12** "Porque tu cometeste teu pecado secretamente, porém Eu farei isto diante de todo o Israel, à luz do dia'""." ^v12
 
-**13** Então disse Davi a Natã: Pequei contra o Senhor. E disse Natã a Davi: Também o Senhor perdoou o teu pecado; não morrerás. ^v13
+**13** "Então, Davi disse a Natã: ""Eu pequei contra Yahweh"". Natã respondeu a Davi: ""Yahweh também perdoou teu pecado. Tu não serás morto." ^v13
 
-**14** Todavia, porquanto com este feito deste lugar sobremaneira a que os inimigos do Senhor blasfemem, também o filho que te nasceu certamente morrerá. ^v14
+**14** "Contudo, porque com a tua atitude desprezaste Yahweh, o filho que de ti nascer, certamente morrerá""." ^v14
 
-**15** Então Natã foi para sua casa; e o Senhor feriu a criança que a mulher de Urias dera a Davi, e adoeceu gravemente. ^v15
+**15** Então, Natã saiu e foi para casa. Yahweh feriu o filho de Davi com a esposa de Urias, e ele ficou muito doente. ^v15
 
-**16** E buscou Davi a Deus pela criança; e jejuou Davi, e entrou, e passou a noite prostrado sobre a terra. ^v16
+**16** Davi, então, implorou a Deus pelo menino. Davi jejuou, e entrou, e prostou-se no chão toda a noite. ^v16
 
-**17** Então os anciãos da sua casa se levantaram e foram a ele, para o levantar da terra; porém ele não quis, e não comeu pão com eles. ^v17
+**17** Os anciãos de sua casa se levantaram e se puseram do lado dele, para lhe fazer levantar do chão, porém ele não levantou, e nem comeu com eles. ^v17
 
-**18** E sucedeu que ao sétimo dia morreu a criança; e temiam os servos de Davi dizer-lhe que a criança estava morta, porque diziam: Eis que, sendo a criança ainda viva, lhe falávamos, porém não dava ouvidos à nossa voz; como, pois, lhe diremos que a criança está morta? Porque mais lhe afligiria. ^v18
+**18** "No sétimo dia, aconteceu que a criança morreu. Os servos de Davi estavam com medo de dizer-lhe que a criança havia morrido, pelo que eles disseram: ""Vede, enquanto a criança ainda estava viva, nós falávamos com ele, e ele não ouvia a nossa voz. O que poderá ele fazer a si mesmo se dissermos que o menino está morto?""." ^v18
 
-**19** Viu, porém, Davi que seus servos falavam baixo, e entendeu Davi que a criança estava morta, pelo que disse Davi a seus servos: Está morta a criança? E eles disseram: Está morta. ^v19
+**19** "Mas, quando Davi viu que seus servos estavam sussurrando entre si, ele percebeu que a criança havia morrido. Ele disse a seus servos: ""A criança está morta?"". Eles responderam: ""Ela está morta""." ^v19
 
-**20** Então Davi se levantou da terra, e se lavou, e se ungiu, e mudou de roupas, e entrou na casa do Senhor, e adorou. Então foi à sua casa, e pediu pão; e lhe puseram pão, e comeu. ^v20
+**20** Então, Davi se levantou do chão e lavou-se, ungiu-se e mudou as suas roupas. Ele foi ao tabernáculo de Yahweh e adorou ali, e depois voltou para o seu palácio. Quando ele pediu, colocaram o alimento diante dele e ele comeu. ^v20
 
-**21** E disseram-lhe seus servos: Que é isto que fizeste? Pela criança viva jejuaste e choraste; porém depois que morreu a criança te levantaste e comeste pão. ^v21
+**21** "Então, seus servos lhe disseram: ""Por que fizeste isso? Tu jejuaste e choraste pela criança enquanto ela estava viva, mas, quando a criança morreu, tu levantaste e comeste""." ^v21
 
-**22** E disse ele: Vivendo ainda a criança, jejuei e chorei, porque dizia: Quem sabe se DEUS se compadecerá de mim, e viverá a criança? ^v22
+**22** "Davi respondeu: ""Enquanto a criança ainda estava viva, eu jejuei e orei. Eu disse: 'quem sabe se Yahweh será gracioso comigo, e a criança poderá viver?'." ^v22
 
-**23** Porém, agora que está morta, por que jejuaria eu? Poderei eu fazê-la voltar? Eu irei a ela, porém ela não voltará para mim. ^v23
+**23** "Mas, agora, ela está morta; por que devo jejuar? Posso eu trazê-la de volta? Eu irei até ela, porém ela não retornará a mim""." ^v23
 
-**24** Então consolou Davi a Bate-Seba, sua mulher, e entrou a ela, e se deitou com ela, e ela deu à luz um filho, e deu-lhe o nome de Salomão; e o Senhor o amou. ^v24
+**24** Davi confortou Bate-Seba, sua esposa, foi até ela e dormiu com ela. E ela gerou um filho, e o menino foi chamado Salomão. Yahweh o amou, ^v24
 
-**25** E enviou pela mão do profeta Natã, dando-lhe o nome de Jedidias, por amor ao Senhor. ^v25
+**25** e Ele enviou sua palavra através de Natã, o profeta, para chamá-lo Jedidias, porque Yahweh o amou. ^v25
 
-**26** Ora pelejou Joabe contra Rabá, dos filhos de Amom, e tomou a cidade real. ^v26
+**26** Então, Joabe lutou contra Rabá, a cidade real do povo de Amom, e ele conquistou sua fortaleza. ^v26
 
-**27** Então mandou Joabe mensageiros a Davi, e disse: Pelejei contra Rabá, e também tomei a cidade das águas. ^v27
+**27** "Joabe enviou mensageiros a Davi, e disse: ""Eu lutei contra Rabá, e tomei as fontes de água da cidade." ^v27
 
-**28** Ajunta, pois, agora o restante do povo, e cerca a cidade, e toma-a, para que tomando eu a cidade, não se aclame sobre ela o meu nome. ^v28
+**28** "Portanto, junta o resto do exército e cerca a cidade e toma-a, porque se eu tomar a cidade, ela será chamada por meu nome""." ^v28
 
-**29** Então ajuntou Davi a todo o povo, e marchou para Rabá, e pelejou contra ela, e a tomou. ^v29
+**29** Então, Davi juntou todo o exército e foi a Rabá; ele lutou contra a cidade e a conquistou. ^v29
 
-**30** E tirou a coroa da cabeça do seu rei, cujo peso era de um talento de ouro, e havia nela pedras preciosas, e foi posta sobre a cabeça de Davi; e da cidade levou mui grande despojo. ^v30
+**30** Davi tomou a coroa da cabeça do rei; ela pesava um talento de ouro e nela havia uma pedra preciosa. A coroa foi colocada na cabeça de Davi. Então, ele trouxe grande quantidade de despojo para a cidade. ^v30
 
-**31** E, trazendo o povo que havia nela, o pôs às serras, e às talhadeiras de ferro, e aos machados de ferro, e os fez passar por forno de tijolos; e assim fez a todas as cidades dos filhos de Amom; e voltou Davi e todo o povo para Jerusalém. ^v31
+**31** Ele trouxe o povo que estava na cidade e forçou-os a trabalhar com serras, picaretas de ferro, e machados; ele os fez trabalhar também em fornos de tijolos. Davi cobrou de todas as cidades do povo de Amom que fizesse esse trabalho. Depois, Davi e todo o exército retornaram para Jerusalém. ^v31

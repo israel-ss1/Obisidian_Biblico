@@ -1,61 +1,60 @@
 ---
-Livro: "[[Êxodo|Êxodo]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Êxodo|Êxodo]]"
+tags: [biblia]
 ---
 
 # Êxodo 15
 
-**1** Então cantou Moisés e os filhos de Israel este cântico ao SENHOR, e falaram, dizendo: Cantarei ao SENHOR, porque gloriosamente triunfou; lançou no mar o cavalo e o seu cavaleiro. ^v1
+**1** "Então, Moisés e o povo de Israel entoaram esta canção a Deus. Eles cantaram: ""Eu louvo a Yahweh, pois Ele triunfou gloriosamente; o cavalo e seu cavaleiro, Ele lançou ao mar." ^v1
 
-**2** O Senhor é a minha força, e o meu cântico; ele me foi por salvação; este é o meu Deus, portanto lhe farei uma habitação; ele é o Deus de meu pai, por isso o exaltarei. ^v2
+**2** Yahweh é minha força e canção, Ele se tornou minha salvação. Este é meu Deus e eu O louvarei, o Deus de meu pai, e eu O exaltarei. ^v2
 
-**3** O Senhor é homem de guerra; o Senhor é o seu nome. ^v3
+**3** Yahweh é um guerreiro. Yahweh é o Seu nome. ^v3
 
-**4** Lançou no mar os carros de Faraó e o seu exército; e os seus escolhidos príncipes afogaram-se no Mar Vermelho. ^v4
+**4** Ele lançou ao mar as carruagens de Faraó e seu exército. Os oficiais escolhidos de Faraó foram lançados ao Mar Vermelho. ^v4
 
-**5** Os abismos os cobriram; desceram às profundezas como pedra. ^v5
+**5** As profundezas os cobriram, desceram às profundezas como pedras. ^v5
 
-**6** A tua destra, ó Senhor, se tem glorificado em poder, a tua destra, ó Senhor, tem despedaçado o inimigo; ^v6
+**6** Tua mão direita, Yahweh, é gloriosa em poder; Tua mão direita, Yahweh, esmagou o inimigo. ^v6
 
-**7** E com a grandeza da tua excelência derrubaste aos que se levantaram contra ti; enviaste o teu furor, que os consumiu como o restolho. ^v7
+**7** Em grande majestade, Tu venceste aqueles que se levantaram contra Ti. Tu enviaste a Tua ira e ela os consumiu como palha. ^v7
 
-**8** E com o sopro de tuas narinas amontoaram-se as águas, as correntes pararam como montão; os abismos coalharam-se no coração do mar. ^v8
+**8** Pelo sopro de Tuas narinas, as águas se amontoaram; as águas correntes se levantaram; as águas profundas se congelaram no coração do mar. ^v8
 
-**9** O inimigo dizia: Perseguirei, alcançarei, repartirei os despojos; fartar-se-á a minha alma deles, arrancarei a minha espada, a minha mão os destruirá. ^v9
+**9** O inimigo disse: 'Eu o perseguirei, eu vencerei, eu dividirei os despojos; meu desejo será satisfeito neles; eu conduzirei minha espada; minha mão os destruirá.' ^v9
 
-**10** Sopraste com o teu vento, o mar os cobriu; afundaram-se como chumbo em veementes águas. ^v10
+**10** Mas Tu sopraste com o Teu vento, e o mar os cobriu; eles afundaram em poderosas águas. ^v10
 
-**11** Ó Senhor, quem é como tu entre os deuses? Quem é como tu glorificado em santidade, admirável em louvores, realizando maravilhas? ^v11
+**11** Quem entre os deuses é como Tu, Yahweh? Quem é como Tu, majestoso em santidade, honrado em louvores, operando milagres? ^v11
 
-**12** Estendeste a tua mão direita; a terra os tragou. ^v12
+**12** Tu os alcançaste com Tua mão direita e a terra os tragou. ^v12
 
-**13** Tu, com a tua beneficência, guiaste a este povo, que salvaste; com a tua força o levaste à habitação da tua santidade. ^v13
+**13** Em Tua leal aliança, guiaste o povo que resgataste. Em Tua força, o guiaste para o santo lugar onde Tu vives. ^v13
 
-**14** Os povos o ouviram, eles estremeceram, uma dor apoderou-se dos habitantes da Filístia. ^v14
+**14** Os povos ouvirão e tremerão; o terror alcançará os habitantes da Filístia. ^v14
 
-**15** Então os príncipes de Edom se pasmaram; dos poderosos dos moabitas apoderou-se um tremor; derreteram-se todos os habitantes de Canaã. ^v15
+**15** Então, os líderes de Edom temerão, os soldados de Moabe tremerão; todos os habitantes de Canaã se abalarão. ^v15
 
-**16** Espanto e pavor caiu sobre eles; pela grandeza do teu braço emudeceram como pedra; até que o teu povo houvesse passado, ó Senhor, até que passasse este povo que adquiriste. ^v16
+**16** Terror e pavor virão sobre eles; pela força do Teu braço, eles se tornarão como pedra até que Teu povo passe, Yahweh, até que o povo que Tu resgataste tenha atravessado. ^v16
 
-**17** Tu os introduzirás, e os plantarás no monte da tua herança, no lugar que tu, ó Senhor, aparelhaste para a tua habitação, no santuário, ó Senhor, que as tuas mãos estabeleceram. ^v17
+**17** Tu os trarás e os plantarás no monte de Tua herança, o lugar, Yahweh, que Tu fizeste para habitares, o santuário, nosso Deus, que Tuas mãos construíram. ^v17
 
-**18** O Senhor reinará eterna e perpetuamente; ^v18
+**18** "Yahweh reinará para sempre e sempre""." ^v18
 
-**19** Porque os cavalos de Faraó, com os seus carros e com os seus cavaleiros, entraram no mar, e o Senhor fez tornar as águas do mar sobre eles; mas os filhos de Israel passaram em seco pelo meio do mar. ^v19
+**19** Pois os cavalos de Faraó entraram com suas carruagens e cavaleiros no mar. Yahweh derramou de volta as águas do mar por sobre eles. Porém os Israelitas caminharam por terra seca, no meio do mar. ^v19
 
-**20** Então Miriã, a profetisa, a irmã de Arão, tomou o tamboril na sua mão, e todas as mulheres saíram atrás dela com tamboris e com danças. ^v20
+**20** Miriam, a profetisa, irmã de Arão, tomou um tamborim e, com ela, todas as mulheres vieram com tamborins, dançando. ^v20
 
-**21** E Miriã lhes respondia: Cantai ao Senhor, porque gloriosamente triunfou; e lançou no mar o cavalo com o seu cavaleiro. ^v21
+**21** "Miriam cantou para elas: ""Cantai ao SENHOR, pois Ele triunfou gloriosamente. O cavalo e seu cavaleiro Ele lançou ao mar""." ^v21
 
-**22** Depois fez Moisés partir os israelitas do Mar Vermelho, e saíram ao deserto de Sur; e andaram três dias no deserto, e não acharam água. ^v22
+**22** Então desde o Mar Vermelho, Moisés guiou Israel adiante. Eles atravessaram pelo deserto de Sur. Viajaram três dias pelo deserto e não encontraram água. ^v22
 
-**23** Então chegaram a Mara; mas não puderam beber das águas de Mara, porque eram amargas; por isso chamou-se o lugar Mara. ^v23
+**23** Então chegaram a Mara, mas não puderam beber a água de lá, pois era amarga. Por isso chamaram aquele lugar de Mara. ^v23
 
-**24** E o povo murmurou contra Moisés, dizendo: Que havemos de beber? ^v24
+**24** "Então o povo murmurou contra Moisés dizendo: ""O que podemos beber?""" ^v24
 
-**25** E ele clamou ao Senhor, e o Senhor mostrou-lhe uma árvore, que lançou nas águas, e as águas se tornaram doces. Ali lhes deu estatutos e uma ordenança, e ali os provou. ^v25
+**25** Moisés clamou a Yahweh, e Yahweh lhe mostrou um tronco de árvore. Moisés o lançou às águas, e elas se tornaram doces para beber. Foi nesse lugar que Yahweh lhes deu uma lei estrita e foi ali que Ele os testou. ^v25
 
-**26** E disse: Se ouvires atento a voz do Senhor teu Deus, e fizeres o que é reto diante de seus olhos, e inclinares os teus ouvidos aos seus mandamentos, e guardares todos os seus estatutos, nenhuma das enfermidades porei sobre ti, que pus sobre o Egito; porque eu sou o Senhor que te sara. ^v26
+**26** "Ele disse: ""Se atentamente ouvirdes a Minha voz, Eu, Yahweh, o vosso DEUS, e fizerdes o que for correto aos Meus olhos - e se observardes os Meus mandamentos e obedecerdes às Minhas leis, não porei sobre vós nenhuma das aflições que Eu fiz cair sobre os egípcios; pois Eu sou Yahweh, aquele que vos cura.""" ^v26
 
-**27** Então vieram a Elim, e havia ali doze fontes de água e setenta palmeiras; e ali se acamparam junto das águas. ^v27
+**27** Então o povo chegou até Elim, onde havia doze nascentes de água e setenta palmeiras. Eles acamparam junto das águas. ^v27

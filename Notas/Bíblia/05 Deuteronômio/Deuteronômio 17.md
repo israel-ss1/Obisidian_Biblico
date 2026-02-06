@@ -1,47 +1,46 @@
 ---
-Livro: "[[Deuteronômio|Deuteronômio]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Deuteronômio|Deuteronômio]]"
+tags: [biblia]
 ---
 
 # Deuteronômio 17
 
-**1** Não sacrificarás ao SENHOR teu Deus, boi ou gado miúdo em que haja defeito ou alguma coisa má; pois abominação é ao SENHOR teu Deus. ^v1
+**1** Vós não sacrificareis a Yahweh, vosso Deus, um boi ou uma ovelha que tenha qualquer mancha ou defeito, pois isso seria abominação para Yahweh, vosso Deus. ^v1
 
-**2** Quando no meio de ti, em alguma das tuas portas que te dá o Senhor teu Deus, se achar algum homem ou mulher que fizer mal aos olhos do Senhor teu Deus, transgredindo a sua aliança. ^v2
+**2** Se for encontrado, no meio de vós, dentro de qualquer um dos portões da cidade que Yahweh, vosso Deus, vós dá, qualquer homem ou mulher que pratique o que é mal à vista de Yahweh, vosso Deus, quebrando a Sua aliança, ^v2
 
-**3** Que se for, e servir a outros deuses, e se encurvar a eles ou ao sol, ou à lua, ou a todo o exército do céu, o que eu não ordenei, ^v3
+**3** qualquer um que tenha ido e adorado outros deuses e se prostrado a eles, mesmo ao sol, à lua, ou a qualquer um dos astros do céu, nada do que eu tenho ordenado, ^v3
 
-**4** E te for denunciado, e o ouvires; então bem o inquirirás; e eis que, sendo verdade, e certo que se fez tal abominação em Israel, ^v4
+**4** e, se alguém vos falar sobre isso, ou, se ouvirdes sobre isso, então, fareis uma investigação cuidadosa. Se for verdade e estiverdes certos de que tal coisa detestável foi feita em Israel, eis o que fareis. ^v4
 
-**5** Então tirarás o homem ou a mulher que fez este malefício, às tuas portas, e apedrejarás o tal homem ou mulher, até que morra. ^v5
+**5** Trareis o homem ou a mulher que tiver cometido tal maldade para os portões da vossa cidade, esse mesmo homem ou essa mesma mulher, e apedrejai essa pessoa até a morte. ^v5
 
-**6** Por boca de duas testemunhas, ou três testemunhas, será morto o que houver de morrer; por boca de uma só testemunha não morrerá. ^v6
+**6** Pela palavra de duas ou três testemunhas, essa pessoa será condenada à morte; mas não será condenada pela palavra de apenas uma testemunha. ^v6
 
-**7** As mãos das testemunhas serão primeiro contra ele, para matá-lo; e depois as mãos de todo o povo; assim tirarás o mal do meio de ti. ^v7
+**7** A mão das testemunhas deve ser a primeira a condenar a pessoa à morte, e, a seguir, a mão de todo o povo; e vós removereis o mal do vosso meio. ^v7
 
-**8** Quando alguma coisa te for difícil demais em juízo, entre sangue e sangue, entre demanda e demanda, entre ferida e ferida, em questões de litígios nas tuas portas, então te levantarás, e subirás ao lugar que escolher o Senhor teu Deus; ^v8
+**8** Se surgir um assunto que seja muito difícil para vós julgardes, talvez uma questão de assassinato ou morte acidental, sobre o direito de uma pessoa ou o direito de outra pessoa, ou uma questão sobre algum tipo de dano feito, ou outro tipo de assunto, questões polêmicas no interior dos portões da vossa cidade, então, vós ireis ao lugar que Yahweh, vosso Deus, escolherá como Seu santuário. ^v8
 
-**9** E virás aos sacerdotes levitas, e ao juiz que houver naqueles dias, e inquirirás, e te anunciarão a sentença do juízo. ^v9
+**9** Ide aos sacerdotes, os descendentes de Levi, e ao juiz que estiver trabalhando nesse período; buscai o conselho deles, e eles vos darão o veredito. ^v9
 
-**10** E farás conforme ao mandado da palavra que te anunciarem no lugar que escolher o Senhor; e terás cuidado de fazer conforme a tudo o que te ensinarem. ^v10
+**10** Seguireis a lei que vos foi dada, no lugar que Yahweh escolherá como Seu santuário. Vós sereis cuidadosos em fazer tudo o que eles vos direcionarem a fazer. ^v10
 
-**11** Conforme ao mandado da lei que te ensinarem, e conforme ao juízo que te disserem, farás; da palavra que te anunciarem te não desviarás, nem para a direita nem para a esquerda. ^v11
+**11** Segui a lei que eles vos ensinarem, e façai de acordo com as decisões que eles vos informarem. Não vos afasteis do que eles vos disserem, nem para a direita nem para a esquerda. ^v11
 
-**12** O homem, pois, que se houver soberbamente, não dando ouvidos ao sacerdote, que está ali para servir ao Senhor teu Deus, nem ao juiz, esse homem morrerá; e tirarás o mal de Israel; ^v12
+**12** Qualquer um que agir arrogantemente, não ouvindo o sacerdote que está servindo diante de Yahweh, vosso Deus, ou não ouvindo o juiz, esse homem morrerá; vós eliminareis o mal do meio de Israel. ^v12
 
-**13** Para que todo o povo o ouça, e tema, e nunca mais se ensoberbeça. ^v13
+**13** Todo o povo deve ouvir e temer, e não mais agir arrogantemente. ^v13
 
-**14** Quando entrares na terra que te dá o Senhor teu Deus, e a possuíres, e nela habitares, e disseres: Porei sobre mim um rei, assim como têm todas as nações que estão em redor de mim; ^v14
+**14** Quando vós chegardes à terra que Yahweh, vosso Deus, vos dá, e, quando vós tomardes posse dela e começardes a viver nela, e disserdes: 'Designarei um rei sobre mim, como todas as outras nações que estão ao redor de mim', ^v14
 
-**15** Porás certamente sobre ti como rei aquele que escolher o Senhor teu Deus; dentre teus irmãos porás rei sobre ti; não poderás pôr homem estranho sobre ti, que não seja de teus irmãos. ^v15
+**15** então, vós certamente designareis um rei sobre vós, aquele que Yahweh, vosso Deus, escolherá. Designareis, como rei sobre vós, alguém do meio dos vossos irmãos. Não colocareis um estrangeiro, que não é vosso irmão, sobre vós. ^v15
 
-**16** Porém ele não multiplicará para si cavalos, nem fará voltar o povo ao Egito para multiplicar cavalos; pois o Senhor vos tem dito: Nunca mais voltareis por este caminho. ^v16
+**16** Mas ele não poderá multiplicar cavalos para si, nem fazer o povo retornar ao Egito para que ele multiplique seus cavalos, pois Yahweh vos disse: 'Vós, de agora em diante, jamais retornareis por esse caminho'. ^v16
 
-**17** Tampouco para si multiplicará mulheres, para que o seu coração não se desvie; nem prata nem ouro multiplicará muito para si. ^v17
+**17** E ele não multiplicará esposas para si, para que seu coração não se desvie de Yahweh; nem acumulará para si grande quantidade de prata e ouro. ^v17
 
-**18** Será também que, quando se assentar sobre o trono do seu reino, então escreverá para si num livro, um traslado desta lei, do original que está diante dos sacerdotes levitas. ^v18
+**18** Quando se assentar sobre o trono do seu reino, ele deve escrever para si, em um livro, uma cópia desta lei, que está diante dos sacerdotes, que são levitas. ^v18
 
-**19** E o terá consigo, e nele lerá todos os dias da sua vida, para que aprenda a temer ao Senhor seu Deus, para guardar todas as palavras desta lei, e estes estatutos, para cumpri-los; ^v19
+**19** O livro estará com ele, e ele o lerá todos os dias da sua vida, para aprender a honrar Yahweh, seu Deus, assim como guardar todas as palavras desta lei e estes estatutos, para os cumprir. ^v19
 
-**20** Para que o seu coração não se levante sobre os seus irmãos, e não se aparte do mandamento, nem para a direita nem para a esquerda; para que prolongue os seus dias no seu reino, ele e seus filhos no meio de Israel. ^v20
+**20** Ele fará isso e, assim, seu coração não se exaltará sobre o de seus irmãos, e ele não se desviará dos mandamentos, nem para a direita, nem para a esquerda. Assim, prolongará os dias do seu reinado, dele e de seus filhos, no meio de Israel. ^v20

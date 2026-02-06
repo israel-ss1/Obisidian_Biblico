@@ -1,75 +1,74 @@
 ---
-Livro: "[[1 Crônicas|1 Crônicas]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/1 Crônicas|1 Crônicas]]"
+tags: [biblia]
 ---
 
 # 1 Crônicas 27
 
-**1** Estes são os filhos de Israel segundo o seu número, os chefes dos pais, e os capitães dos milhares e das centenas, com os seus oficiais, que serviam ao rei em todos os negócios das turmas que entravam e saíam de mês em mês, em todos os meses do ano; cada turma de vinte e quatro mil. ^v1
+**1** Esta é a lista dos líderes das famílias israelitas, comandantes de milhares e de centenas, assim como dos oficiais armados que serviram ao rei de várias formas. Cada divisão militar servia mês a mês durante o ano. Havia vinte e quatro mil homens. ^v1
 
-**2** Sobre a primeira turma do primeiro mês estava Jasobeão, filho de Zabdiel; e em sua turma havia vinte e quatro mil. ^v2
+**2** Sobre a divisão do primeiro turno do mês, estava Jasobeão, filho de Zabdiel; em sua divisão, havia vinte e quatro mil homens. ^v2
 
-**3** Era este dos filhos de Perez, chefe de todos os capitães dos exércitos, para o primeiro mês, ^v3
+**3** Ele foi descendente de Perez e estava no comando de todos os oficiais do exército no primeiro mês. ^v3
 
-**4** E sobre a turma do segundo mês estava Dodai, o aoíta, com a sua turma, cujo líder era Miclote; também em sua turma havia vinte e quatro mil. ^v4
+**4** Sobre a divisão do segundo turno do mês, estava Dodai, o aoíta; o segundo no comando era Miclote. Em sua divisão, havia vinte e quatro mil homens. ^v4
 
-**5** O terceiro capitão do exército, para o terceiro mês, era Benaia, filho de Joiada, chefe dos sacerdotes; também em sua turma havia vinte e quatro mil. ^v5
+**5** O terceiro comandante do exército era Benaia, filho de Joiada, sacerdote e líder; em sua divisão, havia vinte e quatro mil homens. ^v5
 
-**6** Era este Benaia valente entre os trinta, e sobre os trinta; e na sua turma estava Amizabade, seu filho. ^v6
+**6** Esse é o Benaia que era líder dos trinta, e estava sobre os trinta. Seu filho Amizabade estava em sua divisão. ^v6
 
-**7** O quarto, do quarto mês, era Asael, irmão de Joabe, e depois dele Zebadias, seu filho; também em sua turma havia vinte e quatro mil. ^v7
+**7** O comandante para o quarto mês era Asael irmão de Joabe; seu filho Zebadias foi comandante depois dele. Em sua divisão, havia vinte e quatro mil homens. ^v7
 
-**8** O quinto, do quinto mês, Samute, o israíta; também em sua turma havia vinte e quatro mil. ^v8
+**8** O comandante para o quinto mês era Samute, o israíta; em sua divisão, havia vinte e quatro mil homens. ^v8
 
-**9** O sexto, do sexto mês, Ira, filho de Iques, o tecoíta; também em sua turma havia vinte e quatro mil. ^v9
+**9** O comandante para o sexto mês era Ira, filho de Iques, o tecoíta; em sua divisão, havia vinte e quatro mil homens. ^v9
 
-**10** O sétimo, do sétimo mês, Helez, o pelonita, dos filhos de Efraim; também em sua turma havia vinte e quatro mil. ^v10
+**10** O comandante para o sétimo mês era Helez, o pelonita, dos efraimitas; em sua divisão, havia vinte e quatro mil homens. ^v10
 
-**11** O oitavo, do oitavo mês, Sibecai, o husatita, dos zeraítas; também em sua turma havia vinte e quatro mil. ^v11
+**11** O comandante para o oitavo mês era Sibecai, o husatita, dos zeraítas; em sua divisão, havia vinte e quatro mil homens. ^v11
 
-**12** O nono, do nono mês, Abiezer, o anatotita, dos benjamitas; também em sua turma havia vinte e quatro mil. ^v12
+**12** O comandante para o nono mês era Abiezer, o anatotita, dos benjamitas; em sua divisão, havia vinte e quatro mil homens. ^v12
 
-**13** O décimo, do décimo mês, Maarai, o netofatita, dos zeraítas; também em sua turma havia vinte e quatro mil. ^v13
+**13** O comandante do décimo mês era Maarai, o netofatita, dos zeraítas; em sua divisão, havia vinte e quatro mil homens. ^v13
 
-**14** O undécimo, do undécimo mês, Benaia, o piratonita, dos filhos de Efraim; também em sua turma havia vinte e quatro mil. ^v14
+**14** O comandante do décimo primeiro mês era Benaías, o piratonita, dos efraimitas; em sua divisão, havia vinte e quatro mil homens. ^v14
 
-**15** O duodécimo, do duodécimo mês, Heldai, o netofatita, de Otniel; também em sua turma havia vinte e quatro mil. ^v15
+**15** O comandante do décimo segundo mês era Heldai, o netofatita, dos descendentes de Otniel; em sua divisão, havia vinte e quatro mil homens. ^v15
 
-**16** Sobre as tribos de Israel estavam: sobre os rubenitas era líder Eliezer, filho de Zicri; sobre os simeonitas, Sefatias, filho de Maaca. ^v16
+**16** Estes eram os líderes das tribos de Israel: sobre a tribo de Rúben, Eliézer, filho de Zicri, era o líder; sobre a tribo de Simeão, Sefatias, filho de Maaca, era o líder; ^v16
 
-**17** Sobre os levitas, Hasabias, filho de Quemuel; sobre os aronitas, Zadoque; ^v17
+**17** sobre a tribo de Levi, Hasabias, filho de Quemuel, era o líder; e Zadoque liderava os aronitas; ^v17
 
-**18** Sobre Judá, Eliú, dos irmãos de Davi; sobre Issacar, Onri, filho de Micael; ^v18
+**18** sobre a tribo de Judá, Eliú, um dos irmãos de Davi, era o líder; sobre a tribo de Issacar, Onri, filho de Micael, era o líder; ^v18
 
-**19** Sobre Zebulom, Ismaías, filho de Obadias; sobre Naftali, Jerimote, filho de Azriel; ^v19
+**19** sobre a tribo de Zebulom, Ismaías, filho de Obadias, era o líder; sobre a tribo de Naftali, Jerimote, filho de Azriel, era o líder; ^v19
 
-**20** Sobre os filhos de Efraim, Oséias, filho de Azazias; sobre a meia tribo de Manassés, Joel, filho de Pedaías; ^v20
+**20** sobre a tribo de Efraim, Oseias, filho de Azazias, era o líder; sobre a meia tribo de Manassés, Joel, filho de Pedaías, era o líder; ^v20
 
-**21** Sobre a outra meia tribo de Manassés em Gileade, Ido, filho de Zacarias; sobre Benjamim, Jaasiel, filho de Abner; ^v21
+**21** sobre a meia tribo de Manassés, em Gileade, Ido, filho de Zacarias, era o líder; sobre a tribo de Benjamin, Jaasiel, filho de Abner, era o líder; ^v21
 
-**22** Sobre Dã, Azarel, filho de Jeroão. Estes eram os príncipes das tribos de Israel. ^v22
+**22** sobre a tribo de Dã, Azarel, filho de Jeroão, era o líder. Esses eram os líderes das tribos de Israel. ^v22
 
-**23** Não tomou, porém, Davi o número dos de vinte anos para baixo, porquanto o Senhor tinha falado que havia de multiplicar a Israel como as estrelas do céu. ^v23
+**23** Davi não contou aqueles que tinham menos de vinte anos, porque Yahweh havia prometido aumentar Israel como as estrelas do céu; ^v23
 
-**24** Joabe, filho de Zeruia, tinha começado a numerá-los, porém não acabou; porquanto viera por isso grande ira sobre Israel; assim o número não se pôs no registro das crônicas do rei Davi. ^v24
+**24** Joabe, filho de Zeruia, começou a contar os homens mas não terminou; por causa disso, veio a fúria sobre Israel. Esse número não foi escrito nas Crônicas do rei Davi. ^v24
 
-**25** E sobre os tesouros do rei estava Azmavete, filho de Adiel; e sobre os tesouros dos campos, das cidades, e das aldeias, e das torres, Jônatas, filho de Uzias. ^v25
+**25** Azmavete, filho de Adiel, era encarregado dos tesouros do rei; Jônatas, filho de Uzias, era encarregado dos depósitos nos campos, nas cidades, nos vilarejos e nas torres fortificadas; ^v25
 
-**26** E sobre os que faziam a obra do campo, na lavoura da terra, Ezri, filho de Quelube. ^v26
+**26** Ezri, filho de Quelube, era encarregado dos trabalhadores, daqueles que cuidavam da terra; ^v26
 
-**27** E sobre as vinhas, Simei, o ramatita; porém sobre o que das vides entrava nas adegas do vinho, Zabdi, o sifmita. ^v27
+**27** Simei, o ramatita, era encarregado dos vinhedos, e Zabdi, o sifmita, era encarregado das uvas e das adegas. ^v27
 
-**28** E sobre os olivais e sicômoros que havia nas campinas, Baal-Hanã, o gederita; porém Joás sobre os armazéns do azeite. ^v28
+**28** Sobre os olivais e os sicômoros que havia nas campinas, estava Baal-Hanã, o gederita; e, sobre os depósitos de azeite, estava Joás; ^v28
 
-**29** E sobre os gados que pastavam em Sarom, Sitrai, o saronita; porém, sobre os gados dos vales, Safate, filho de Adlai. ^v29
+**29** sobre os rebanhos que estavam pastando em Sarom, estava Sitrai, o saronita; e, sobre os rebanhos que se encontravam nos vales, estava Safate, filho de Adlai; ^v29
 
-**30** E sobre os camelos, Obil, o ismaelita; e sobre as jumentas, Jedias, o meronotita. ^v30
+**30** sobre os camelos, estava Obil, o ismaelita; sobre as jumentas, estava Jedias, o merononita; sobre os rebanhos, estava Jaziz, o hagrita. ^v30
 
-**31** E sobre o gado miúdo, Jaziz, o hagrita; todos esses eram administradores da fazenda que tinha o rei Davi. ^v31
+**31** Todos esses estavam supervisionando as propriedades do rei Davi. ^v31
 
-**32** E Jônatas, tio de Davi, era do conselho, homem entendido, e também escriba; e Jeiel, filho de Hacmoni, estava com os filhos do rei. ^v32
+**32** Jônatas, tio de Davi, era um conselheiro, já que era um homem sábio e escriba. Jeiel, filho de Hacmoni, cuidava dos filhos do rei; ^v32
 
-**33** E Aitofel era do conselho do rei; e Husai, o arquita, amigo do rei. ^v33
+**33** Aitofel era o conselheiro do rei, Husai, o arquita, era o conselheiro privado do rei. ^v33
 
-**34** E depois de Aitofel, Joiada, filho de Benaia, e Abiatar; porém Joabe era o general do exército do rei. ^v34
+**34** A posição de Aitofel foi tomada por Joiada, filho de Benaia, e por Abiatar. Joabe era comandante do exército do rei. ^v34

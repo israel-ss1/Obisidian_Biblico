@@ -1,59 +1,58 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Tiago|Tiago]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Tiago|Tiago]]"
+tags: [biblia]
 ---
 
 # Tiago 2
 
-**1** Meus irmãos, não tenhais a fé de nosso Senhor Jesus Cristo, Senhor da glória, em acepção de pessoas. ^v1
+**1** Meus irmãos, não tenhais a fé de nosso Senhor Jesus Cristo, o Senhor da glória, com favoritismo em relação a algumas pessoas. ^v1
 
-**2** Porque, se no vosso ajuntamento entrar algum homem com anel de ouro no dedo, com trajes preciosos, e entrar também algum pobre com sórdido traje, ^v2
+**2** Imaginai que alguém entre em vossa reunião usando anéis de ouro e roupas finas, e que também entre um homem pobre com roupas sujas. ^v2
 
-**3** E atentardes para o que traz o traje precioso, e lhe disserdes: Assenta-te tu aqui num lugar de honra, e disserdes ao pobre: Tu, fica aí em pé, ou assenta-te abaixo do meu estrado, ^v3
+**3** "Se atentardes para a pessoa que usa roupas finas e disserdes: ""Por favor, senta-te aqui num ótimo lugar"", e disserdes ao homem pobre: ""Fica por ali"", ou: ""Senta-te aos meus pés""," ^v3
 
-**4** Porventura não fizestes distinção entre vós mesmos, e não vos fizestes juízes de maus pensamentos? ^v4
+**4** não estareis julgando entre vós mesmos? Não vos tornastes juízes com pensamentos malignos? ^v4
 
-**5** Ouvi, meus amados irmãos: Porventura não escolheu Deus aos pobres deste mundo para serem ricos na fé, e herdeiros do reino que prometeu aos que o amam? ^v5
+**5** Ouvi, meus amados irmãos: não escolheu Deus os pobres do mundo para serem ricos na fé e herdeiros do reino que Ele prometeu aos que O amam? ^v5
 
-**6** Mas vós desonrastes o pobre. Porventura não vos oprimem os ricos, e não vos arrastam aos tribunais? ^v6
+**6** Mas, tendes desonrado o pobre! Não é o rico que vos oprime? E não é ele que vos arrasta ao tribunal? ^v6
 
-**7** Porventura não blasfemam eles o bom nome que sobre vós foi invocado? ^v7
+**7** Não é o rico que blasfema o bom Nome ao qual vós pertenceis? ^v7
 
-**8** Todavia, se cumprirdes, conforme a Escritura, a lei real: Amarás a teu próximo como a ti mesmo, bem fazeis. ^v8
+**8** "Contudo, se cumpris a Lei real, segundo a Escritura: ""Amarás o teu próximo como a ti mesmo"", fazeis bem." ^v8
 
-**9** Mas, se fazeis acepção de pessoas, cometeis pecado, e sois redargüidos pela lei como transgressores. ^v9
+**9** Mas, se favoreceis certas pessoas, estais cometendo pecado, estais condenados pela Lei como transgressores. ^v9
 
-**10** Porque qualquer que guardar toda a lei, e tropeçar em um só ponto, tornou-se culpado de todos. ^v10
+**10** Pois qualquer um que obedece toda a Lei, mas tropeça em um único ponto, torna-se culpado de quebrar toda a Lei. ^v10
 
-**11** Porque aquele que disse: Não cometerás adultério, também disse: Não matarás. Se tu pois não cometeres adultério, mas matares, estás feito transgressor da lei. ^v11
+**11** "Porque o mesmo que disse: ""Não cometerás adultério"", também disse: ""Não matarás"". Se não cometes adultério, mas cometes assassinato, então te tornas transgressor da Lei." ^v11
 
-**12** Assim falai, e assim procedei, como devendo ser julgados pela lei da liberdade. ^v12
+**12** Então, falai e procedei como aqueles que serão julgados pela lei da liberdade. ^v12
 
-**13** Porque o juízo será sem misericórdia sobre aquele que não fez misericórdia; e a misericórdia triunfa do juízo. ^v13
+**13** Pois o julgamento vem sem misericórdia para aqueles que não demostraram misericórdia. A misericórdia triunfa sobre o julgamento. ^v13
 
-**14** Meus irmãos, que aproveita se alguém disser que tem fé, e não tiver as obras? Porventura a fé pode salvá-lo? ^v14
+**14** Que proveito há, meus irmãos, se alguém diz que tem fé, mas não tem obras? Pode tal fé salvá-lo? ^v14
 
-**15** E, se o irmão ou a irmã estiverem nus, e tiverem falta de mantimento quotidiano, ^v15
+**15** Imaginai que um irmão ou irmã precisa de roupa, e não tem comida para o dia. ^v15
 
-**16** E algum de vós lhes disser: Ide em paz, aquentai-vos, e fartai-vos; e nào lhes derdes as coisas necessárias para o corpo, que proveito virá daí? ^v16
+**16** "Se algum de vós lhe disser: ""Ide em paz, aquecei-vos e alimentai-vos bem"", sem lhes dar as coisas necessárias para o corpo, que proveito há?" ^v16
 
-**17** Assim também a fé, se não tiver as obras, é morta em si mesma. ^v17
+**17** Do mesmo modo, a fé por si só, se não tiver obras, é morta. ^v17
 
-**18** Mas dirá alguém: Tu tens a fé, e eu tenho as obras; mostra-me a tua fé sem as tuas obras, e eu te mostrarei a minha fé pelas minhas obras. ^v18
+**18** "Mas alguém poderá dizer: ""Tu tens fé, e eu tenho obras"". Mostra-me tua fé sem obras, e eu te mostrarei minha fé pelas minhas obras." ^v18
 
-**19** Tu crês que há um só Deus; fazes bem. Também os demônios o crêem, e estremecem. ^v19
+**19** Tu crês que há um único Deus; fazes bem! Mas até os demônios creem nisso, e eles tremem. ^v19
 
-**20** Mas, ó homem vão, queres tu saber que a fé sem as obras é morta? ^v20
+**20** Tu queres mesmo saber, homem insensato, que a fé sem obras é inútil? ^v20
 
-**21** Porventura o nosso pai Abraão não foi justificado pelas obras, quando ofereceu sobre o altar o seu filho Isaque? ^v21
+**21** Não foi Abraão, nosso pai, justificado pelas obras, quando ofereceu seu filho Isaque sobre o altar? ^v21
 
-**22** Bem vês que a fé cooperou com as suas obras, e que pelas obras a fé foi aperfeiçoada. ^v22
+**22** Vês que a fé operou junto com suas obras, e que, pelas obras, sua fé foi plenamente desenvolvida. ^v22
 
-**23** E cumpriu-se a Escritura, que diz: E creu Abraão em Deus, e foi-lhe isso imputado como justiça, e foi chamado o amigo de Deus. ^v23
+**23** "Cumpriu-se a Escritura, que diz: ""Abraão creu em Deus, e isso lhe foi imputado como justiça""; e ele foi chamado amigo de Deus." ^v23
 
-**24** Vedes então que o homem é justificado pelas obras, e não somente pela fé. ^v24
+**24** Vês que pelas obras um homem é justificado, e não somente pela fé. ^v24
 
-**25** E de igual modo Raabe, a meretriz, não foi também justificada pelas obras, quando recolheu os emissários, e os despediu por outro caminho? ^v25
+**25** Também, da mesma maneira, não foi a prostituta Raabe justificada por obras, quando recebeu os mensageiros, e os enviou por outro caminho? ^v25
 
-**26** Porque, assim como o corpo sem o espírito está morto, assim também a fé sem obras é morta. ^v26
+**26** Pois, assim como o corpo separado do espírito é morto, da mesma forma a fé separada das obras é morta. ^v26

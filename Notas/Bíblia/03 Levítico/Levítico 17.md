@@ -1,39 +1,38 @@
 ---
-Livro: "[[Levítico|Levítico]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Levítico|Levítico]]"
+tags: [biblia]
 ---
 
 # Levítico 17
 
-**1** Falou mais o SENHOR a Moisés, dizendo: ^v1
+**1** Yahweh falou com Moisés, dizendo: ^v1
 
-**2** Fala a Arão e aos seus filhos, e a todos os filhos de Israel, e dize-lhes: Esta é a palavra que o Senhor ordenou, dizendo: ^v2
+**2** """Fala a Arão, seus filhos e a todo o povo de Israel. Dize o que Yahweh tem lhes ordenado:" ^v2
 
-**3** Qualquer homem da casa de Israel que degolar boi, ou cordeiro, ou cabra, no arraial, ou quem os degolar fora do arraial, ^v3
+**3** 'qualquer homem de Israel que matar um boi, um cordeiro ou um bode no arraial, ou que matá-lo fora do arraial, a fim de sacrificá-lo — ^v3
 
-**4** E não os trouxer à porta da tenda da congregação, para oferecer oferta ao Senhor diante do tabernáculo do Senhor, a esse homem será imputado o sangue; derramou sangue; por isso será extirpado do seu povo; ^v4
+**4** e não o trouxer à entrada da tenda do encontro para oferecê-lo como um sacrifício a Yahweh ante o Seu tabernáculo, esse homem é culpado de carnificina. Ele derramou sangue, e ele deverá ser excluído do meio do seu povo. ^v4
 
-**5** Para que os filhos de Israel, trazendo os seus sacrifícios, que oferecem sobre a face do campo, os tragam ao Senhor, à porta da tenda da congregação, ao sacerdote, e os ofereçam por sacrifícios pacíficos ao Senhor. ^v5
+**5** O propósito desse mandamento é de que o povo de Israel traga seus sacrifícios a Yahweh à entrada da tenda do encontro, ao sacerdote, para ser sacrificado como oferta pacífica a Yahweh, ao invés de oferecer sacrifícios em um campo aberto. ^v5
 
-**6** E o sacerdote espargirá o sangue sobre o altar do Senhor, à porta da tenda da congregação, e queimará a gordura por cheiro suave ao Senhor. ^v6
+**6** O sacerdote aspergirá o sangue sobre o altar de Yahweh à entrada da tenda do encontro, e queimará a gordura para produzir um aroma agradável a Yahweh. ^v6
 
-**7** E nunca mais oferecerão os seus sacrifícios aos demônios, após os quais eles se prostituem; isto ser-lhes-á por estatuto perpétuo nas suas gerações. ^v7
+**7** O povo não deverá mais oferecer seus sacrifícios aos ídolos em forma de bode, pois, ao fazerem isso, agem como prostitutas. Esse será um estatuto permanente para eles e para suas gerações'. ^v7
 
-**8** Dize-lhes, pois: Qualquer homem da casa de Israel, ou dos estrangeiros que peregrinam entre vós, que oferecer holocausto ou sacrifício, ^v8
+**8** Dize-lhes, pois: 'qualquer homem de Israel, ou qualquer estrangeiro que vive entre eles, que oferecer um holocausto ou sacrifício ^v8
 
-**9** E não o trouxer à porta da tenda da congregação, para oferecê-lo ao Senhor, esse homem será extirpado do seu povo. ^v9
+**9** e não o trouxer à entrada da tenda do encontro a fim de sacrificá-lo a Yahweh, esse homem será excluído de seu povo. ^v9
 
-**10** E qualquer homem da casa de Israel, ou dos estrangeiros que peregrinam entre eles, que comer algum sangue, contra aquela alma porei a minha face, e a extirparei do seu povo. ^v10
+**10** E qualquer um de Israel ou qualquer estrangeiro que vive entre eles que consumir sangue, presdipor-Me-ei contra essa pessoa que consumiu sangue e a excluirei do meio de seu povo, ^v10
 
-**11** Porque a vida da carne está no sangue; pelo que vo-lo tenho dado sobre o altar, para fazer expiação pelas vossas almas; porquanto é o sangue que fará expiação pela alma. ^v11
+**11** pois a vida de um animal está em seu sangue. Eu dei o sangue deste para vós fazerdes expiação ao altar por vossas vidas porque esse é o sangue que faz expiação, pois, esse é o sangue que expia para a vida. ^v11
 
-**12** Portanto tenho dito aos filhos de Israel: Nenhum dentre vós comerá sangue, nem o estrangeiro, que peregrine entre vós, comerá sangue. ^v12
+**12** Assim sendo, Eu disse ao povo de Israel que ninguém dentre vós comerá sangue, como tampouco nenhum estrangeiro que vive entre vós o comerá. ^v12
 
-**13** Também qualquer homem dos filhos de Israel, ou dos estrangeiros que peregrinam entre eles, que caçar animal ou ave que se come, derramará o seu sangue, e o cobrirá com pó; ^v13
+**13** E qualquer um dentre o povo de Israel ou qualquer um dos estrangeiros que vive entre eles, que caça e mata um animal ou ave que pode ser comida, essa pessoa deverá despejar o sangue do animal e cobri-lo com terra. ^v13
 
-**14** Porquanto a vida de toda a carne é o seu sangue; por isso tenho dito aos filhos de Israel: Não comereis o sangue de nenhuma carne, porque a vida de toda a carne é o seu sangue; qualquer que o comer será extirpado. ^v14
+**14** "Pois a vida de cada criatura está em seu sangue. Por isso Eu disse ao povo de Israel: ""vós não podeis comer o sangue de nenhuma criatura, pois a vida de toda criatura viva está em seu próprio sangue. Qualquer que comer, tem de ser excluído do povo""." ^v14
 
-**15** E todo o homem entre os naturais, ou entre os estrangeiros, que comer corpo morto ou dilacerado, lavará as suas vestes, e se banhará com água, e será imundo até à tarde; depois será limpo. ^v15
+**15** Toda pessoa que comer um animal que morreu ou que tenha sido dilacerado por animais selvagens, seja essa pessoa um nativo, ou estrangeiro vivendo entre vós, precisará lavar suas roupas, banhar-se em água e estará impura até o entardecer. Depois disso, essa pessoa estará pura. ^v15
 
-**16** Mas, se os não lavar, nem banhar a sua carne, levará sobre si a sua iniqüidade. ^v16
+**16** "Mas se não lavar suas roupas ou banhar seu corpo, então deverá carregar essa culpa'""." ^v16

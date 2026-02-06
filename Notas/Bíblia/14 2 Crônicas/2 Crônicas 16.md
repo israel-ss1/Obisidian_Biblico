@@ -1,35 +1,34 @@
 ---
-Livro: "[[2 Crônicas|2 Crônicas]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/2 Crônicas|2 Crônicas]]"
+tags: [biblia]
 ---
 
 # 2 Crônicas 16
 
-**1** No trigésimo sexto ano do reinado de Asa, Baasa, rei de Israel, subiu contra Judá e edificou a Ramá, para não deixar ninguém sair, nem chegar a Asa, rei de Judá. ^v1
+**1** No trigésimo sexto ano do reinado de Asa, sendo Baasa o rei de Israel, este invadiu Judá e fortificou Ramá, para que ninguém pudesse sair do território de Asa, rei de Judá, ou entrar nele. ^v1
 
-**2** Então Asa tirou a prata e o ouro dos tesouros da casa do Senhor, e da casa do rei; e enviou servos a Ben-Hadade, rei da Síria, que habitava em Damasco, dizendo: ^v2
+**2** Então, Asa trouxe a prata e o ouro dos depósitos da casa de Yahweh e da casa do rei e enviou a Ben-Hadade, rei da Síria, que morava em Damasco. Ele disse: ^v2
 
-**3** Acordo há entre mim e ti, como houve entre meu pai e o teu; eis que te envio prata e ouro; vai, pois, e anula o teu acordo com Baasa, rei de Israel, para que se retire de sobre mim. ^v3
+**3** """Haja uma aliança entre mim e ti, como havia entre meu pai e teu pai. Olha, eu te enviei prata e outro. Quebra a aliança com Baasa, rei de Israel, para que assim ele possa me deixar em paz""." ^v3
 
-**4** E Ben-Hadade deu ouvidos ao rei Asa, e enviou os capitães dos seus exércitos, contra as cidades de Israel, e eles feriram a Ijom, a Dã, a Abel-Maim, e a todas as cidades-armazéns de Naftali. ^v4
+**4** Ben-Hadade deu ouvidos ao rei Asa e enviou os comandantes dos seus exércitos contra as cidades de Israel. Eles atacaram Ijom, Dã, Abel-Maim e todas as cidades de armazenamento de Naftali. ^v4
 
-**5** E sucedeu que, ouvindo-o Baasa, deixou de edificar a Ramá, e não continuou a sua obra. ^v5
+**5** Quando Baasa ouviu isso, ele parou de fortificar Ramá e cessou esse trabalho. ^v5
 
-**6** Então o rei Asa tomou a todo o Judá, e levaram as pedras de Ramá, e a sua madeira, com que Baasa edificara; e com elas edificou a Geba e a Mizpá. ^v6
+**6** Então o rei Asa levou todo o Judá consigo, eles pegaram as pedras e as madeiras de Ramá, com as quais Baasa estava fortificando essa cidade, e usaram esse material para construir Geba e Mispá. ^v6
 
-**7** Naquele mesmo tempo veio Hanani, o vidente, a Asa, rei de Judá, e disse-lhe: Porquanto confiaste no rei da Síria, e não confiaste no Senhor teu Deus, por isso o exército do rei da Síria escapou da tua mão. ^v7
+**7** "Naquele tempo o vidente Hanani veio a Asa, rei de Judá, e lhe disse: ""O exército do rei da Síria escapou das tuas mãos porque tu confiaste no rei da Síria e não confiaste em Yahweh, teu Deus." ^v7
 
-**8** Porventura não foram os etíopes e os líbios um grande exército, com muitíssimos carros e cavaleiros? Confiando tu, porém, no Senhor, ele os entregou nas tuas mãos. ^v8
+**8** Não eram os etíopes e os líbios um exército enorme, com muitos carros de guerra e cavaleiros? Contudo, porque tu confiaste em Yahweh, Ele te deu a vitória sobre eles. ^v8
 
-**9** Porque, quanto ao Senhor, seus olhos passam por toda a terra, para mostrar-se forte para com aqueles cujo coração é perfeito para com ele; nisto, pois, procedeste loucamente porque desde agora haverá guerras contra ti. ^v9
+**9** "Os olhos de Yahweh percorrem todos os lugares sobre toda a terra, a fim de mostrar que Ele é forte para aqueles cujos corações são íntegros para com ele. Mas tu procedeste de forma tola nessa questão. Portanto, de ora em diante, tu terás guerra.""" ^v9
 
-**10** Porém Asa se indignou contra o vidente, e lançou-o na casa do tronco; porque estava enfurecido contra ele, por causa disto; também Asa, no mesmo tempo, oprimiu a alguns do povo. ^v10
+**10** Então, irado por causa dessa questão, Asa lançou o vidente na prisão. Ao mesmo tempo, Asa oprimiu alguns do povo. ^v10
 
-**11** E eis que os atos de Asa, tanto os primeiros, como os últimos, estão escritos no livro dos reis de Judá e Israel. ^v11
+**11** Eis que os feitos de Asa, do primeiro ao último, estão escritos no Livros dos Reis de Judá e Israel. ^v11
 
-**12** E, no ano trinta e nove do seu reinado, Asa caiu doente de seus pés, a sua doença era em extremo grave; contudo, na sua enfermidade, não buscou ao Senhor, mas antes os médicos. ^v12
+**12** No trigésimo nono ano do seu reinado, Asa foi acometido de uma doença muito grave nos pés. Mesmo assim, ele não buscou ajuda de Yahweh, mas apenas dos médicos. ^v12
 
-**13** E Asa dormiu com seus pais; e morreu no ano quarenta e um do seu reinado. ^v13
+**13** No quadragésimo primeiro ano do seu reinado, Asa morreu e descansou com seus antepassados. ^v13
 
-**14** E o sepultaram no seu sepulcro, que tinha cavado para si na cidade de Davi, havendo-o deitado na cama, que se enchera de perfumes e especiarias preparadas segundo a arte dos perfumistas; e, destas coisas fizeram-lhe uma grande queima. ^v14
+**14** Ele foi sepultado no mesmo túmulo que havia cavado para si na cidade de Davi. Seu corpo foi colocado num esquife cheio de incensos doces e vários tipos de especiarias preparadas por perfumistas habilidosos, e fizeram uma grande fogueira, em sua homenagem. ^v14

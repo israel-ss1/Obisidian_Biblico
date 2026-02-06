@@ -1,45 +1,44 @@
 ---
-Livro: "[[Hebreus|Hebreus]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Hebreus|Hebreus]]"
+tags: [biblia]
 ---
 
 # Hebreus 3
 
-**1** Por isso, irmãos santos, participantes da vocação celestial, considerai a Jesus Cristo, apóstolo e sumo sacerdote da nossa confissão, ^v1
+**1** Por isso, irmãos santos, companheiros de vocação celestial, considerai o Apóstolo e Sumo Sacerdote de nossa confissão, Jesus. ^v1
 
-**2** Sendo fiel ao que o constituiu, como também o foi Moisés em toda a sua casa. ^v2
+**2** Ele foi fiel a Deus que O constituiu, assim como também Moisés foi fiel em toda a casa de Deus. ^v2
 
-**3** Porque ele é tido por digno de tanto maior glória do que Moisés, quanto maior honra do que a casa tem aquele que a edificou. ^v3
+**3** Pois Jesus foi considerado digno de maior glória do que Moisés, porque aquele que constrói a casa tem maior honra do que a própria casa em si. ^v3
 
-**4** Porque toda a casa é edificada por alguém, mas o que edificou todas as coisas é Deus. ^v4
+**4** Pois toda casa é construída por alguém, mas o construtor de tudo é Deus. ^v4
 
-**5** E, na verdade, Moisés foi fiel em toda a sua casa, como servo, para testemunho das coisas que se haviam de anunciar; ^v5
+**5** Por um lado, Moisés, foi fiel como servo em toda a casa de Deus, para dar testemunho a respeito das coisas que seriam ditas no futuro. ^v5
 
-**6** Mas Cristo, como Filho, sobre a sua própria casa; a qual casa somos nós, se tão somente conservarmos firme a confiança e a glória da esperança até ao fim. ^v6
+**6** Por outro lado, Cristo, sendo Filho, está acima da casa de Deus, que somos nós, se mantivermos firmes a ousadia e exaltação da nossa esperança. ^v6
 
-**7** Portanto, como diz o Espírito Santo: Se ouvirdes hoje a sua voz, ^v7
+**7** "Portanto, é como diz o Espírito Santo: ""Hoje, se a voz Dele ouvirdes," ^v7
 
-**8** Não endureçais os vossos corações,Como na provocação, no dia da tentação no deserto. ^v8
+**8** não endureçais os vossos corações como na rebelião, no tempo de provações no deserto. ^v8
 
-**9** Onde vossos pais me tentaram, me provaram,E viram por quarenta anos as minhas obras. ^v9
+**9** Isso aconteceu quando vossos pais se rebelaram, testando-Me; e quando, durante quarenta anos, eles viram os Meus feitos. ^v9
 
-**10** Por isso me indignei contra esta geração, E disse: Estes sempre erram em seu coração, E não conheceram os meus caminhos. ^v10
+**10** Mas eu fiquei irado com aquela geração. Eu disse: 'Eles têm sido guiados por seus próprios corações, e não têm conhecido os Meus caminhos.' ^v10
 
-**11** Assim jurei na minha ira Que não entrarão no meu repouso. ^v11
+**11** "Assim é que Eu jurei na Minha ira: 'eles jamais entrarão no Meu descanso'""." ^v11
 
-**12** Vede, irmãos, que nunca haja em qualquer de vós um coração mau e infiel, para se apartar do Deus vivo. ^v12
+**12** Sede cuidadosos, irmãos, para que não haja em vosso meio coração perverso de incredulidade, um coração que se afaste do Deus vivo. ^v12
 
-**13** Antes, exortai-vos uns aos outros todos os dias, durante o tempo que se chama Hoje, para que nenhum de vós se endureça pelo engano do pecado; ^v13
+**13** "Mas, encorajai-vos mutuamente cada dia, e também no dia chamado ""hoje"", para que ninguém entre vós seja endurecido pelo engano do pecado." ^v13
 
-**14** Porque nos tornamos participantes de Cristo, se retivermos firmemente o princípio da nossa confiança até ao fim. ^v14
+**14** Pois nos tornamos participantes de Cristo se guardarmos firmes até o fim a confiança que tivemos Nele desde o início. ^v14
 
-**15** Enquanto se diz: Hoje, se ouvirdes a sua voz, Não endureçais os vossos corações, como na provocação. ^v15
+**15** "Sobre isso se diz: ""Hoje, se ouvirdes a Sua voz, não endureçais os vossos corações, como foi na rebelião""." ^v15
 
-**16** Porque, havendo-a alguns ouvido, o provocaram; mas não todos os que saíram do Egito por meio de Moisés. ^v16
+**16** Pois quem foram os que tendo ouvido a Deus, se rebelaram? Não foram todos os que saíram do Egito por intermédio de Moisés ? ^v16
 
-**17** Mas com quem se indignou por quarenta anos? Não foi porventura com os que pecaram, cujos corpos caíram no deserto? ^v17
+**17** E com quais Deus Se irritou por quarenta anos? Não foram com os que pecaram, cujos cadáveres caíram no deserto? ^v17
 
-**18** E a quem jurou que não entrariam no seu repouso, senão aos que foram desobedientes? ^v18
+**18** E a quem Ele jurou que não entraria no Seu descanso, senão aos que Lhe desobedeceram? ^v18
 
-**19** E vemos que não puderam entrar por causa da sua incredulidade. ^v19
+**19** Vemos pois, que eles não puderam entrar no Seu descanso, por causa da incredulidade. ^v19

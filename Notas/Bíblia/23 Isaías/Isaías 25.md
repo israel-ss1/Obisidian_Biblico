@@ -1,31 +1,30 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Isaías|Isaías]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Isaías|Isaías]]"
+tags: [biblia]
 ---
 
 # Isaías 25
 
-**1** Ó Senhor, tu és o meu Deus; exaltar-te-ei, e louvarei o teu nome, porque fizeste maravilhas; os teus conselhos antigos são verdade e firmeza. ^v1
+**1** Yahweh, Tu és o meu Deus! Eu Te exaltarei! Louvarei o Teu nome porque Tu tens feito coisas maravilhosas, coisas planejadas há muito tempo, em perfeita fidelidade. ^v1
 
-**2** Porque da cidade fizeste um montão de pedras, e da cidade forte uma ruína, e do paço dos estranhos, que não seja mais cidade, e jamais se torne a edificar. ^v2
+**2** Porque Tu fizeste da cidade um monte de pedras; de uma cidade fortificada, uma ruína; e, de uma fortaleza de estrangeiros, uma cidade destruída. ^v2
 
-**3** Por isso te glorificará um povo poderoso, e a cidade das nações formidáveis te temerá. ^v3
+**3** Portanto, um povo forte Te glorificará; a cidade das nações cruéis Te temerá. ^v3
 
-**4** Porque foste a fortaleza do pobre, e a fortaleza do necessitado, na sua angústia; refúgio contra a tempestade, e sombra contra o calor; porque o sopro dos opressores é como a tempestade contra o muro. ^v4
+**4** Pois Tu tens sido um lugar de proteção para aquele que é pobre, um abrigo para o necessitado na sua angústia, um refúgio na tempestade e uma sombra no calor. Porque o sopro do cruel é como uma tormenta contra uma parede, ^v4
 
-**5** Como o calor em lugar seco, assim abaterás o ímpeto dos estranhos; como se abranda o calor pela sombra da espessa nuvem, assim o cântico dos tiranos será humilhado. ^v5
+**5** como o calor na seca. Tu dominaste o barulho dos forasteiros; assim como o calor se abranda pela sombra de uma nuvem, assim o cântico dos cruéis cessará. ^v5
 
-**6** E o Senhor dos Exércitos dará neste monte a todos os povos uma festa com animais gordos, uma festa de vinhos velhos, com tutanos gordos, e com vinhos velhos, bem purificados. ^v6
+**6** Nesse monte, Yahweh dos Exércitos fará, para todos os povos, um banquete de coisas gordurosas, de vinhos selecionados, de carnes macias; um banquete com os mais finos vinhos. ^v6
 
-**7** E destruirá neste monte a face da cobertura, com que todos os povos andam cobertos, e o véu com que todas as nações se cobrem. ^v7
+**7** Sobre esse monte, Ele destruirá o manto que cobre todos os povos e a teia tecida sobre todas as nações. ^v7
 
-**8** Aniquilará a morte para sempre, e assim enxugará o Senhor DEUS as lágrimas de todos os rostos, e tirará o opróbrio do seu povo de toda a terra; porque o SENHOR o disse. ^v8
+**8** Ele engolirá a morte para sempre; o Senhor Yahweh enxugará dos rostos todas as lágrimas; Ele tirará de toda a terra a desgraça contra o Seu povo, porque Yahweh assim o disse. ^v8
 
-**9** E naquele dia se dirá: Eis que este é o nosso Deus, a quem aguardávamos, e ele nos salvará; este é o Senhor, a quem aguardávamos; na sua salvação gozaremos e nos alegraremos. ^v9
+**9** "Naquele dia, será dito: ""Vede, este é o nosso Deus! Temos esperado por Ele e Ele nos salvará. Este é Yahweh! Temos esperado Nele, nós exultaremos e nos alegraremos na Sua salvação""." ^v9
 
-**10** Porque a mão do Senhor descansará neste monte; mas Moabe será trilhado debaixo dele, como se trilha a palha no monturo. ^v10
+**10** Pois a mão de Yahweh repousará sobre este monte, e Moabe será pisada no Seu lugar, assim como a palha é pisada em um poço cheio de estrume. ^v10
 
-**11** E estenderá as suas mãos por entre eles, como as estende o nadador para nadar; e abaterá a sua altivez com as ciladas das suas mãos. ^v11
+**11** Eles estenderão suas mãos, como um nadador as estende para nadar; mas Yahweh abaterá o orgulho deles, apesar da habilidade de suas mãos. ^v11
 
-**12** E abaixará as altas fortalezas dos teus muros, abatê-las-á e derrubá-las-á por terra até ao pó. ^v12
+**12** Os muros altos da sua fortaleza, Ele os derrubará por terra, até o pó. ^v12

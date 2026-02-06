@@ -1,77 +1,76 @@
 ---
-Livro: "[[Levítico|Levítico]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Levítico|Levítico]]"
+tags: [biblia]
 ---
 
 # Levítico 4
 
-**1** Falou mais o SENHOR a Moisés, dizendo: ^v1
+**1** Yahweh falou a Moisés, dizendo: ^v1
 
-**2** Fala aos filhos de Israel, dizendo: Quando uma alma pecar, por ignorância, contra alguns dos mandamentos do Senhor, acerca do que não se deve fazer, e proceder contra algum deles; ^v2
+**2** """Diz ao povo de Israel: 'Quando alguém pecar sem intenção de fazê-lo, praticando qualquer das coisas que Yahweh recomendou que não se fizesse, e, se ele fizer alguma coisa que é proibida, deverá ser feito como se descreve a seguir." ^v2
 
-**3** Se o sacerdote ungido pecar para escândalo do povo, oferecerá ao Senhor, pelo seu pecado, que cometeu, um novilho sem defeito, por expiação do pecado. ^v3
+**3** Se for o sumo sacerdote que pecar de forma a trazer culpa sobre o povo, então oferecerá pelo seu pecado um novilho sem defeito como uma oferta a Yahweh pelo pecado. ^v3
 
-**4** E trará o novilho à porta da tenda da congregação, perante o Senhor, e porá a sua mão sobre a cabeça do novilho, e degolará o novilho perante o Senhor. ^v4
+**4** Ele deve trazer o novilho à entrada da Tenda do Encontro, diante de Yahweh, impor sua mão sobre o novilho e matá-lo diante de Yahweh. ^v4
 
-**5** Então o sacerdote ungido tomará do sangue do novilho, e o trará à tenda da congregação; ^v5
+**5** O sacerdote ungido pegará um pouco do sangue do novilho e o trará para a Tenda do Encontro. ^v5
 
-**6** E o sacerdote molhará o seu dedo no sangue, e daquele sangue espargirá sete vezes perante o Senhor diante do véu do santuário. ^v6
+**6** O sacerdote molhará seu dedo no sangue e aspergirá um pouco dele sete vezes perante Yahweh, diante do véu do santíssimo lugar. ^v6
 
-**7** Também o sacerdote porá daquele sangue sobre as pontas do altar do incenso aromático, perante o Senhor que está na tenda da congregação; e todo o restante do sangue do novilho derramará à base do altar do holocausto, que está à porta da tenda da congregação. ^v7
+**7** E o sacerdote colocará, diante de Yahweh, um pouco do sangue nos chifres do altar de incenso, que está na tenda do encontro, e despejará o sangue restante do novilho na base do altar do holocausto, que fica na entrada da Tenda do Encontro. ^v7
 
-**8** E tirará toda a gordura do novilho da expiação; a gordura que cobre a fressura, e toda a gordura que está sobre a fressura, ^v8
+**8** Ele removerá toda a gordura do novilho da oferta pelo pecado: A gordura que cobre as vísceras, toda a gordura que está junto delas, ^v8
 
-**9** E os dois rins, e a gordura que está sobre eles, que está junto aos lombos, e o redenho de sobre o fígado, com os rins, tirá-los-á, ^v9
+**9** os dois rins, a gordura que está sobre eles, ao lado dos lombos, e o lóbulo do fígado juntamente com os rins — ele deverá retirar tudo isso. ^v9
 
-**10** Como se tira do boi do sacrifício pacífico; e o sacerdote os queimará sobre o altar do holocausto. ^v10
+**10** Ele retirará tudo, assim como ele o faz com a novilha do sacrifício de ofertas pacíficas. Então, o sacerdote queimará essas partes no altar do holocausto. ^v10
 
-**11** Mas o couro do novilho, e toda a sua carne, com a sua cabeça e as suas pernas, e as suas entranhas, e o seu esterco, ^v11
+**11** O couro do novilho e as sobras de carne, junto com a cabeça, pés, víceras e seu excremento; ^v11
 
-**12** Enfim, o novilho todo levará fora do arraial a um lugar limpo, onde se lança a cinza, e o queimará com fogo sobre a lenha; onde se lança a cinza se queimará. ^v12
+**12** todo o restante das partes do novilho — ele levará para fora do acampamento, para um lugar onde se purificam para Mim, onde despejam as cinzas; queimarão aquelas partes sobre a lenha. Eles devem queimar aquelas partes onde despejam as cinzas. ^v12
 
-**13** Mas, se toda a congregação de Israel pecar por ignorância, e o erro for oculto aos olhos do povo, e se fizerem contra alguns dos mandamentos do Senhor, aquilo que não se deve fazer, e forem culpados, ^v13
+**13** Se toda a congregação de Israel pecar sem desejar fazê-lo, se estiver sem consciência de que pecou, e tiver praticado qualquer das coisas que Yahweh recomendou que não fizesse, e se for culpada, ^v13
 
-**14** E quando o pecado que cometeram for conhecido, então a congregação oferecerá um novilho, por expiação do pecado, e o trará diante da tenda da congregação, ^v14
+**14** então, quando o pecado que cometeu se tornar conhecido, a congregação deverá oferecer um novilho como oferta pelo pecado e trazê-lo diante da tenda do encontro. ^v14
 
-**15** E os anciãos da congregação porão as suas mãos sobre a cabeça do novilho perante o Senhor; e degolar-se-á o novilho perante o Senhor. ^v15
+**15** Os anciãos da congregação imporão suas mãos sobre a cabeça do novilho, perante Yahweh, e o novilho será morto diante de Yahweh. ^v15
 
-**16** Então o sacerdote ungido trará do sangue do novilho à tenda da congregação, ^v16
+**16** O sacerdote ungido trará um pouco do sangue do novilho para a Tenda do Encontro ^v16
 
-**17** E o sacerdote molhará o seu dedo naquele sangue, e o espargirá sete vezes perante o Senhor, diante do véu. ^v17
+**17** e molhará o dedo no sangue e o aspergirá sete vezes perante Yahweh, diante do véu. ^v17
 
-**18** E daquele sangue porá sobre as pontas do altar, que está perante a face do Senhor, na tenda da congregação; e todo o restante do sangue derramará à base do altar do holocausto, que está diante da porta da tenda da congregação. ^v18
+**18** Ele colocará um pouco do sangue nos chifres do altar, diante de Yahweh, que está na Tenda do Encontro, e despejará todo o sangue na base do altar do holocausto que fica na entrada da Tenda do Encontro. ^v18
 
-**19** E tirará dele toda a sua gordura, e queimá-la-á sobre o altar; ^v19
+**19** Ele retirará toda a gordura e a queimará no altar. ^v19
 
-**20** E fará a este novilho, como fez ao novilho da expiação; assim lhe fará, e o sacerdote por eles fará propiciação, e lhes será perdoado o pecado. ^v20
+**20** Isso é o que ele deve fazer com o novilho. Da mesma forma que ele fez com o das ofertas pelo pecado, assim fará com este novilho, e o sacerdote fará a expiação para o povo, e eles serão perdoados. ^v20
 
-**21** Depois levará o novilho fora do arraial, e o queimará como queimou o primeiro novilho; é expiação do pecado da congregação. ^v21
+**21** Ele levará o novilho para fora do acampamento e o queimará assim como fez com o primeiro novilho. Esta é a oferta de pecado pela assembleia. ^v21
 
-**22** Quando um príncipe pecar, e por ignorância proceder contra algum dos mandamentos do Senhor seu Deus, naquilo que não se deve fazer, e assim for culpado; ^v22
+**22** Quando um líder pecar sem intenção, praticando qualquer coisa que Yahweh, seu Deus, ordenou que não fizesse, e, se ele for culpado, ^v22
 
-**23** Ou se o pecado que cometeu lhe for notificado, então trará pela sua oferta um bode tirado das cabras, macho sem defeito; ^v23
+**23** então, quando o pecado cometido por ele for de seu conhecimento, deverá trazer para seu sacrifício um bode, macho sem defeito. ^v23
 
-**24** E porá a sua mão sobre a cabeça do bode, e o degolará no lugar onde se degola o holocausto, perante a face do Senhor; expiação do pecado é. ^v24
+**24** Ele imporá sua mão sobre a cabeça do bode e o matará no lugar onde oferecem o holocausto diante de Yahweh. Esta é uma oferta pelo pecado. ^v24
 
-**25** Depois o sacerdote com o seu dedo tomará do sangue da expiação, e o porá sobre as pontas do altar do holocausto; então o restante do seu sangue derramará à base do altar do holocausto. ^v25
+**25** O sacerdote pegará o sangue da oferta pelo pecado com seus dedos e o colocará nos chifres do altar do holocausto e despejará o restante do sangue na base do altar do holocausto. ^v25
 
-**26** Também queimará sobre o altar toda a sua gordura como gordura do sacrifício pacífico; assim o sacerdote por ele fará expiação do seu pecado, e lhe será perdoado. ^v26
+**26** Ele queimará toda a gordura no altar, tal como o fez com a gordura do sacrifício de ofertas pacíficas. O sacerdote fará a expiação pelo líder, referente a seu pecado, e o líder será perdoado. ^v26
 
-**27** E, se qualquer pessoa do povo da terra pecar por ignorância, fazendo contra algum dos mandamentos do Senhor, aquilo que não se deve fazer, e assim for culpada; ^v27
+**27** Se qualquer pessoa comum pecar sem intenção, praticando qualquer das coisas que Yahweh ordenara que não se fizesse, e se ele for culpado, ^v27
 
-**28** Ou se o pecado que cometeu lhe for notificado, então trará pela sua oferta uma cabra sem defeito, pelo seu pecado que cometeu, ^v28
+**28** então, quando ele perceber o pecado que cometeu, deverá trazer para seu sacrifício uma cabra, uma fêmea sem defeito, como oferta pelo pecado que cometeu. ^v28
 
-**29** E porá a sua mão sobre a cabeça da oferta da expiação do pecado, e a degolará no lugar do holocausto. ^v29
+**29** Ele imporá a mão sobre a cabeça do animal, da oferta pelo pecado, oferecendo-a e matando-a no lugar do holocausto. ^v29
 
-**30** Depois o sacerdote com o seu dedo tomará do seu sangue, e o porá sobre as pontas do altar do holocausto; e todo o restante do seu sangue derramará à base do altar; ^v30
+**30** O sacerdote tirará um pouco do sangue com seus dedos e o colocará nos chifres do altar do holocausto. Ele despejará todo o restante do sangue na base do altar. ^v30
 
-**31** E tirará toda a gordura, como se tira a gordura do sacrifício pacífico; e o sacerdote a queimará sobre o altar, por cheiro suave ao Senhor; e o sacerdote fará expiação por ela, e ser-lhe-á perdoado o pecado. ^v31
+**31** Ele retirará toda a gordura, da mesma forma que é retirada no sacrifício de ofertas pacíficas. O sacerdote a queimará no altar, como aroma agradável para Yahweh. O sacerdote fará a expiação do pecado, e ele será perdoado. ^v31
 
-**32** Mas, se pela sua oferta trouxer uma cordeira para expiação do pecado, sem defeito trará. ^v32
+**32** Se o homem trouxer um cordeiro e seu sacrifício for uma oferta pelo pecado, ele trará uma fêmea sem defeito; ^v32
 
-**33** E porá a sua mão sobre a cabeça da oferta da expiação do pecado, e a degolará por oferta pelo pecado, no lugar onde se degola o holocausto. ^v33
+**33** imporá a mão sobre a cabeça do animal, da oferta pelo pecado, e o matará como oferta pelo pecado, no lugar onde realizaram o holocausto. ^v33
 
-**34** Depois o sacerdote com o seu dedo tomará do sangue da expiação do pecado, e o porá sobre as pontas do altar do holocausto; então todo o restante do seu sangue derramará na base do altar. ^v34
+**34** O sacerdote tirará um pouco do sangue das ofertas pelo pecado, com seus dedos, e o colocará nos chifres do altar do holocausto. Ele despejará todo o restante do sangue na base do altar. ^v34
 
-**35** E tirará toda a sua gordura, como se tira a gordura do cordeiro do sacrifício pacífico; e o sacerdote a queimará sobre o altar, em cima das ofertas queimadas do Senhor; assim o sacerdote por ele fará expiação dos seus pecados que cometeu, e ele será perdoado. ^v35
+**35** Ele cortará fora toda a gordura dele, da mesma forma que a gordura do cordeiro é retirada no sacrifício de ofertas pacíficas e o sacerdote a queimará no altar sobre os holocautos oferecidos a Yahweh. O sacerdote fará a expiação pelo seu pecado, e o homem será perdoado. ^v35

@@ -1,105 +1,104 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Ezequiel|Ezequiel]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Ezequiel|Ezequiel]]"
+tags: [biblia]
 ---
 
 # Ezequiel 20
 
-**1** E aconteceu, no sétimo ano, no quinto mês, aos dez do mês, que vieram alguns dos anciãos de Israel, para consultarem o SENHOR; e assentaram-se diante de mim. ^v1
+**1** Por volta do sétimo ano, no décimo dia do quinto mês, os anciãos de Israel vieram consultar Yahweh e se assentaram diante de mim. ^v1
 
-**2** Então veio a mim a palavra do Senhor, dizendo: ^v2
+**2** Então, veio a mim a palavra de Yahweh, dizendo: ^v2
 
-**3** Filho do homem, fala aos anciãos de Israel, e dize-lhes: Assim diz o Senhor DEUS: Viestes consultar-me? Vivo eu, que não me deixarei ser consultado por vós, diz o Senhor DEUS. ^v3
+**3** """Filho do homem, declara aos anciãos de Israel, dizendo: 'Assim diz Yahweh Deus: Viestes consultar-Me? Tão certo como Eu vivo, não serei consultado por vós! — esta é a declaração de Yahweh Deus'." ^v3
 
-**4** Porventura tu os julgarias, julgarias tu, ó filho do homem? Notifica-lhes as abominações de seus pais; ^v4
+**4** Tu irás julgá-los? Julgarás tu, filho do homem? Que eles saibam sobre as abominações de seus pais. ^v4
 
-**5** E dize-lhes: Assim diz o Senhor DEUS: No dia em que escolhi a Israel, levantei a minha mão para a descendência da casa de Jacó, e me dei a conhecer a eles na terra do Egito, e levantei a minha mão para eles, dizendo: Eu sou o SENHOR vosso Deus; ^v5
+**5** Dize-lhes: 'Assim diz Yahweh Deus: No dia em que Eu escolhi Israel e levantei a Minha mão para jurar aos descendentes da casa de Jacó e Me fiz conhecer na terra do Egito, quando Eu ergui Minha mão e jurei para eles, Eu disse: 'Eu sou Yahweh, vosso Deus' — ^v5
 
-**6** Naquele dia levantei a minha mão para eles, para os tirar da terra do Egito, para uma terra que já tinha previsto para eles, a qual mana leite e mel, e é a glória de todas as terras. ^v6
+**6** naquele dia, levantei a Minha mão para jurar que os tiraria da terra do Egito para uma terra que Eu, cuidadosamente, havia escolhido para eles, da qual flui leite e mel; foi o mais belo ornamento entre todas as terras. ^v6
 
-**7** Então lhes disse: Cada um lance de si as abominações dos seus olhos, e não vos contamineis com os ídolos do Egito; eu sou o Senhor vosso Deus. ^v7
+**7** Eu disse a eles: 'Que cada homem tire as coisas detestáveis que seduzem os seus olhos e também os ídolos do Egito. Não vos torneis imundos. Eu sou Yahweh, o vosso Deus'. ^v7
 
-**8** Mas rebelaram-se contra mim, e não me quiseram ouvir; ninguém lançava de si as abominações dos seus olhos, nem deixava os ídolos do Egito; então eu disse que derramaria sobre eles o meu furor, para cumprir a minha ira contra eles no meio da terra do Egito. ^v8
+**8** Mas eles se rebelaram contra Mim e relutaram em ouvir-Me. Cada homem não jogou fora as coisas detestáveis que seduzem os seus olhos, nem abandonou os ídolos do Egito. Então, Eu decidi derramar a Minha fúria para satisfazer a Minha ira contra eles, no meio da terra do Egito. ^v8
 
-**9** O que fiz, porém, foi por amor do meu nome, para que não fosse profanado diante dos olhos dos gentios, no meio dos quais estavam, a cujos olhos eu me dei a conhecer a eles, para os tirar da terra do Egito. ^v9
+**9** Agi por amor do Meu nome, para que não fosse profanado aos olhos das nações em que eles estavam. Fiz-Me conhecer a eles, aos seus olhos, tirando-os da terra do Egito. ^v9
 
-**10** E os tirei da terra do Egito, e os levei ao deserto. ^v10
+**10** Então, Eu os tirei da terra do Egito e os trouxe ao deserto. ^v10
 
-**11** E dei-lhes os meus estatutos e lhes mostrei os meus juízos, os quais, cumprindo-os o homem, viverá por eles. ^v11
+**11** Ali, Eu lhes dei os Meus estatutos e lhes fiz conhecer os Meus decretos, pelos quais o homem viverá, se lhes obedecer. ^v11
 
-**12** E também lhes dei os meus sábados, para que servissem de sinal entre mim e eles; para que soubessem que eu sou o Senhor que os santifica. ^v12
+**12** Também lhes dei os Meus sábados como um sinal entre Mim mesmo e eles, para que soubessem que Eu sou Yahweh, que os santifica. ^v12
 
-**13** Mas a casa de Israel se rebelou contra mim no deserto, não andando nos meus estatutos, e rejeitando os meus juízos, os quais, cumprindo-os, o homem viverá por eles; e profanaram grandemente os meus sábados; e eu disse que derramaria sobre eles o meu furor no deserto, para os consumir. ^v13
+**13** Mas a casa de Israel se rebelou contra Mim no deserto. Não andaram nos Meus estatutos. Em vez disso, rejeitaram os Meus decretos, pelos quais o homem viverá, se lhes obedecer. Eles profanaram os Meus sábados. Então, Eu disse que derramaria sobre eles a Minha fúria, no deserto, para acabar com eles. ^v13
 
-**14** O que fiz, porém, foi por amor do meu nome, para que não fosse profanado diante dos olhos dos gentios perante a vista dos quais os fiz sair. ^v14
+**14** Eu agi por amor do Meu nome, para que não fosse profanado aos olhos das nações, diante das quais Eu os havia tirado do Egito. ^v14
 
-**15** E, contudo, eu levantei a minha mão para eles no deserto, para não os deixar entrar na terra que lhes tinha dado, a qual mana leite e mel, e é a glória de todas as terras; ^v15
+**15** Eu também levantei a Minha mão para jurar-lhes, no deserto, que não os traria para a terra que Eu ia lhes dar; uma terra de que flui leite e mel, que era o mais belo ornamento entre todas as terras. ^v15
 
-**16** Porque rejeitaram os meus juízos, e não andaram nos meus estatutos, e profanaram os meus sábados; porque o seu coração andava após os seus ídolos. ^v16
+**16** Jurei isso porque rejeitaram os Meus decretos e não andaram nos Meus estatutos; profanaram os Meus sábados, já que seus corações seguiam seus ídolos. ^v16
 
-**17** Não obstante o meu olho lhes perdoou, e eu não os destruí nem os consumi no deserto. ^v17
+**17** Mas os Meus olhos se compadeceram deles por causa da sua destruição e não os aniquilei no deserto. ^v17
 
-**18** Mas disse eu a seus filhos no deserto: Não andeis nos estatutos de vossos pais, nem guardeis os seus juízos, nem vos contamineis com os seus ídolos. ^v18
+**18** Eu disse a seus filhos e suas filhas no deserto: 'Não andeis conforme os estatutos de vossos pais; não guardeis os seus decretos, nem vos contamineis com seus ídolos. ^v18
 
-**19** Eu sou o Senhor vosso Deus; andai nos meus estatutos, e guardai os meus juízos, e executai-os. ^v19
+**19** Eu sou Yahweh, vosso Deus, andai nos Meus estatutos; guardai os Meus decretos e obedecei a eles. ^v19
 
-**20** E santificai os meus sábados, e servirão de sinal entre mim e vós, para que saibais que eu sou o Senhor vosso Deus. ^v20
+**20** Guardai os Meus sábados santos, para que sejam um sinal entre Mim e vós, para que saibais que Eu sou Yahweh, o vosso Deus'. ^v20
 
-**21** Mas também os filhos se rebelaram contra mim, e não andaram nos meus estatutos, nem guardaram os meus juízos para os fazer, os quais, cumprindo-os, o homem viverá por eles; eles profanaram os meus sábados; por isso eu disse que derramaria sobre eles o meu furor, para cumprir contra eles a minha ira no deserto. ^v21
+**21** Mas os seus filhos e suas filhas se rebelaram contra Mim. Não andaram nos Meus estatutos, nem guardaram os Meus decretos, segundo os quais o homem pode viver se lhes obedecer. Eles profanaram os Meus sábados. Então, Eu decidi derramar sobre eles a Minha fúria para satisfazer a Minha ira contra eles no deserto. ^v21
 
-**22** Mas contive a minha mão, e o fiz por amor do meu nome, para que não fosse profanado perante os olhos dos gentios, à vista dos quais os fiz sair. ^v22
+**22** Mas Eu desviei a Minha mão e agi por amor do Meu nome, para que não fosse profanado aos olhos das nações que Me viram trazendo os israelitas. ^v22
 
-**23** Também levantei a minha mão para eles no deserto, para os espalhar entre os gentios, e os derramar pelas terras, ^v23
+**23** Eu também levantei a Minha mão para eles no deserto, para jurar que os espalharia entre as nações e os dispersaria entre as terras. ^v23
 
-**24** Porque não executaram os meus juízos, e rejeitaram os meus estatutos, e profanaram os meus sábados, e os seus olhos iam após os ídolos de seus pais. ^v24
+**24** Eu decidi fazer isso, pois eles não obedeceram aos Meus decretos, rejeitaram os Meus estatutos e profanaram os Meus sábados. Seus olhos desejavam os ídolos de seus pais. ^v24
 
-**25** Por isso também lhes dei estatutos que não eram bons, juízos pelos quais não haviam de viver; ^v25
+**25** Então, também lhes dei estatutos que não eram bons e decretos pelos quais eles não poderiam viver. ^v25
 
-**26** E os contaminei em seus próprios dons, nos quais faziam passar pelo fogo tudo o que abre a madre; para assolá-los para que soubessem que eu sou o Senhor. ^v26
+**26** Eu os fiz impuros por suas ofertas, quando eles fizeram um sacrifício de cada primogênito no ventre e os puseram no fogo. Fiz isso para aterrorizá-los, para que eles saibam que Eu sou Yahweh!'. ^v26
 
-**27** Portanto fala à casa de Israel, ó filho do homem, e dize-lhe: Assim diz o Senhor DEUS: Ainda até nisto me blasfemaram vossos pais, e que procederam traiçoeiramente contra mim. ^v27
+**27** Portanto, filho do homem, anuncia isto à casa de Israel; dize-lhes: ‘Assim diz Yahweh Deus: Vossos pais Me blasfemaram, traindo-Me. E assim o fizeram: ^v27
 
-**28** Porque, havendo-os eu introduzido na terra sobre a qual eu levantara a minha mão, para lha dar, então olharam para todo o outeiro alto, e para toda a árvore frondosa, e ofereceram ali os seus sacrifícios e apresentaram ali a provocação das suas ofertas; puseram ali os seus cheiros suaves, e ali derramaram as suas libações. ^v28
+**28** quando os trouxe para a terra que Eu levantei as mãos para lhes entregar, e, quando viram todos os altos montes e as árvores frondosas, ofereceram ali os seus sacrifícios e Me provocaram com as suas ofertas. Lá eles também queimaram incenso perfumado e derramaram ofertas de bebida. ^v28
 
-**29** E eu lhes disse: Que alto é este, aonde vós ides? E seu nome tem sido Bamá até o dia de hoje. ^v29
+**29** Então, Eu lhes disse: 'Que lugar alto é este, para onde ireis?'. Assim, é chamado de Bamá até hoje'. ^v29
 
-**30** Portanto dize à casa de Israel: Assim diz o Senhor DEUS: Contaminai-vos a vós mesmos a maneira de vossos pais? E vos prostituístes com as suas abominações? ^v30
+**30** Portanto, dize à casa de Israel: ‘Assim diz Yahweh Deus: Por que vos contaminais com os caminhos de vossos pais? E por que vós agis como prostitutas, procurando por coisas repugnantes? ^v30
 
-**31** E, quando ofereceis os vossos dons, e fazeis passar os vossos filhos pelo fogo, não é certo que estais contaminados com todos os vossos ídolos, até este dia? E vós me consultaríeis, ó casa de Israel? Vivo eu, diz o Senhor DEUS, que vós não me consultareis. ^v31
+**31** Pois, quando ofereceis as vossas ofertas e pondes vossos filhos no fogo, até o dia de hoje, vós vos tornais imundos com todos os vossos ídolos. Então, por que Eu deveria deixar que vós Me questioneis, casa de Israel? Assim como Eu vivo — esta é a declaração de Yahweh Deus — Eu não deixarei que vós Me questioneis. ^v31
 
-**32** E o que veio à vossa mente de modo algum sucederá, quando dizeis: Seremos como os gentios, como as outras famílias da terra, servindo ao madeiro e à pedra. ^v32
+**32** O vosso pensamento jamais se tornará realidade. Vós dizeis: 'Sejamos como as outras nações, como os clãs das outras terras que adoram madeira e pedra'. ^v32
 
-**33** Vivo eu, diz o Senhor DEUS, que com mão forte, e com braço estendido, e com indignação derramada, hei de reinar sobre vós. ^v33
+**33** Assim como Eu vivo — esta é a declaração de Yahweh Deus — certamente, reinarei sobre vós com mão poderosa, braço levantado e fúria que se derramará sobre vós. ^v33
 
-**34** E vos tirarei dentre os povos, e vos congregarei das terras nas quais andais espalhados, com mão forte, e com braço estendido, e com indignação derramada. ^v34
+**34** Eu vos tirarei dos outros povos e vos reunirei dentre os países aos quais fostes espalhados. Eu farei isto com mão poderosa e com fúria derramada. ^v34
 
-**35** E vos levarei ao deserto dos povos; e ali face a face entrarei em juízo convosco; ^v35
+**35** Então, Eu vos levarei ao deserto dos povos e, ali, vos julgarei face a face. ^v35
 
-**36** Como entrei em juízo com vossos pais, no deserto da terra do Egito, assim entrarei em juízo convosco, diz o Senhor DEUS. ^v36
+**36** Assim como julguei vossos pais no deserto da terra do Egito, assim também Eu vos julgarei — esta é a declaração de Yahweh Deus. ^v36
 
-**37** Também vos farei passar debaixo da vara, e vos farei entrar no vínculo da aliança. ^v37
+**37** Eu farei com que passeis debaixo da Minha vara e Eu vos farei obedecer às exigências da aliança. ^v37
 
-**38** E separarei dentre vós os rebeldes, e os que transgrediram contra mim; da terra das suas peregrinações os tirarei, mas à terra de Israel não voltarão; e sabereis que eu sou o Senhor. ^v38
+**38** Purificarei dentre vós os rebeldes e os que se revoltam contra Mim. Eu os tirarei para a terra em que permanecerão como estrangeiros, mas eles não entrarão na terra de Israel. Então, sabereis que Eu sou Yahweh. ^v38
 
-**39** Quanto a vós, ó casa de Israel, assim diz o Senhor DEUS; Ide, sirva cada um os seus ídolos, pois que a mim não me quereis ouvir; mas não profaneis mais o meu santo nome com as vossas dádivas e com os vossos ídolos. ^v39
+**39** Assim, a vós, casa de Israel, diz Yahweh Deus: Cada um de vós deve ir para os seus próprios ídolos. Adorai-os, se vos recusardes a ouvir a Mim, mas vós não deveis mais profanar o Meu santo nome com vossas ofertas e vossos ídolos. ^v39
 
-**40** Porque no meu santo monte, no monte alto de Israel, diz o Senhor DEUS, ali me servirá toda a casa de Israel, toda ela naquela terra; ali me deleitarei neles, e ali requererei as vossas ofertas alçadas, e as primícias das vossas oblações, com todas as vossas coisas santas; ^v40
+**40** Pois, no Meu santo monte, no pico da montanha de Israel — esta é a declaração de Yahweh Deus —, toda a casa de Israel Me adorará. Eu estarei satisfeito em requerer as vossas ofertas e também os primeiros frutos do vosso tributo, com todas as vossas coisas santas, naquele lugar. ^v40
 
-**41** Com cheiro suave me deleitarei em vós, quando eu vos tirar dentre os povos e vos congregar das terras em que andais espalhados; e serei santificado em vós perante os olhos dos gentios. ^v41
+**41** Eu vos aceitarei como incenso perfumado, quando Eu vos tirar dos povos e vos ajuntar fora dos países onde fostes espalhados. Eu Me mostrarei santo entre vós para que as nações vejam. ^v41
 
-**42** E sabereis que eu sou o Senhor, quando eu vos introduzir na terra de Israel, terra pela qual levantei a minha mão para dá-la a vossos pais. ^v42
+**42** Então, quando Eu vos trouxer à terra de Israel, à terra que levantei a Minha mão para dar a vossos pais, vós sabereis que Eu sou Yahweh. ^v42
 
-**43** E ali vos lembrareis de vossos caminhos, e de todos os vossos atos com que vos contaminastes, e tereis nojo de vós mesmos, por causa de todas as vossas maldades que tendes cometido. ^v43
+**43** Ali, vos lembrareis dos vossos maus caminhos e todas as vossas obras pelas quais vos tornastes imundos e vos odiareis aos vossos próprios olhos por todas as más ações que haveis cometido. ^v43
 
-**44** E sabereis que eu sou o SENHOR, quando eu proceder para convosco por amor do meu nome; não conforme os vossos maus caminhos, nem conforme os vossos atos corruptos, ó casa de Israel, disse o Senhor DEUS. ^v44
+**44** "Pois sabereis que Eu sou Yahweh quando vos faço isto por amor do Meu nome, não por vossos maus caminhos, nem por vossas ações corruptas, casa de Israel — esta é a declaração de Yahweh Deus""." ^v44
 
-**45** E veio a mim a palavra do Senhor, dizendo: ^v45
+**45** Então, a palavra de Yahweh veio a mim, dizendo: ^v45
 
-**46** Filho do homem, dirige o teu rosto para o caminho do sul, e derrama as tuas palavras contra o sul, e profetiza contra o bosque do campo do sul. ^v46
+**46** """Filho do homem, volta o teu rosto para as terras do sul e fala contra o sul; profetiza contra a floresta do Neguebe." ^v46
 
-**47** E dize ao bosque do sul: Ouve a palavra do SENHOR: Assim diz o Senhor DEUS: Eis que acenderei em ti um fogo que em ti consumirá toda a árvore verde e toda a árvore seca; não se apagará a chama flamejante, antes com ela se queimarão todos os rostos, desde o sul até ao norte. ^v47
+**47** Diz à floresta do Neguebe: 'Esta é a declaração de Yahweh — assim diz Yahweh Deus: Eis que porei fogo entre vós. Consumirá toda árvore fresca e toda árvore seca entre vós. A chama de fogo não se apagará e toda a face do sul e do norte será queimada. ^v47
 
-**48** E verá toda a carne que eu, o Senhor, o acendi; não se apagará. ^v48
+**48** "Então, toda a carne verá que eu sou Yahweh, quando Eu acender o fogo e ele não se apagar'""." ^v48
 
-**49** Então disse eu: Ah! Senhor DEUS! Eles dizem de mim: Não é este um proferidor de parábolas? ^v49
+**49** "Então, eu disse: ""Ah! Yahweh Deus, eles estão dizendo de mim: 'Não é um mero narrador de parábolas?'""." ^v49

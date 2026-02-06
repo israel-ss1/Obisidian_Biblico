@@ -1,89 +1,88 @@
 ---
-Livro: "[[Números|Números]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Números|Números]]"
+tags: [biblia]
 ---
 
 # Números 22
 
-**1** Depois partiram os filhos de Israel, e acamparam-se nas campinas de Moabe, além do Jordão na altura de Jericó. ^v1
+**1** O povo de Israel viajou até as planícies de Moabe, e ali acamparam, do outro lado do rio Jordão, nas proximidades da cidade de Jericó. ^v1
 
-**2** Vendo, pois, Balaque, filho de Zipor, tudo o que Israel fizera aos amorreus, ^v2
+**2** Balaque, filho de Zipor, viu tudo que Israel havia feito com os amorreus. ^v2
 
-**3** Moabe temeu muito diante deste povo, porque era numeroso; e Moabe andava angustiado por causa dos filhos de Israel. ^v3
+**3** Moabe estava com muito medo dos israelitas, pois eles eram muitos, e isto causava-lhes pavor. ^v3
 
-**4** Por isso Moabe disse aos anciãos dos midianitas: Agora lamberá esta congregação tudo quanto houver ao redor de nós, como o boi lambe a erva do campo. Naquele tempo Balaque, filho de Zipor, era rei dos moabitas. ^v4
+**4** "O rei de Moabe disse aos anciãos de Midiã: ""Essa multidão comerá tudo à nossa volta como um boi que devora as ervas do campo"". Nessa época, Balaque, filho de Zipor, era rei de Moabe." ^v4
 
-**5** Este enviou mensageiros a Balaão, filho de Beor, a Petor, que está junto ao rio, na terra dos filhos do seu povo, a chamá-lo, dizendo: Eis que um povo saiu do Egito; eis que cobre a face da terra, e está parado defronte de mim. ^v5
+**5** "Ele mandou mensageiros para Balaão, filho de Beor, em Petor, que fica perto do rio Eufrates, na terra de sua nação e seu povo. Ele o chamou e disse-lhe: ""Olha, uma nação veio aqui do Egito. Eles cobrem a face da terra e estão agora ao meu lado." ^v5
 
-**6** Vem, pois, agora, rogo-te, amaldiçoa-me este povo, pois mais poderoso é do que eu; talvez o poderei ferir e lançar fora da terra; porque eu sei que, a quem tu abençoares será abençoado, e a quem tu amaldiçoares será amaldiçoado. ^v6
+**6** "Então, por favor, vem e amaldiçoa essa nação por mim, porque são mais fortes do que eu. Talvez, então, eu consiga atacá-los e expulsá-los dessa terra. Eu sei que qualquer um que abençoares será abençoado, e qualquer um que amaldiçoares será amaldiçoado""." ^v6
 
-**7** Então foram-se os anciãos dos moabitas e os anciãos dos midianitas com o preço dos encantamentos nas suas mãos; e chegaram a Balaão, e disseram-lhe as palavras de Balaque. ^v7
+**7** Então, os anciãos de Moabe e os anciãos de Midiã partiram, levando o pagamento pelos encantamentos. Eles foram até Balaão e falaram-lhe as palavras de Balaque. ^v7
 
-**8** E ele lhes disse: Passai aqui esta noite, e vos trarei a resposta, como o Senhor me falar; então os príncipes dos moabitas ficaram com Balaão. ^v8
+**8** "Balaão disse: ""Ficai aqui esta noite. Eu trarei o que Yahweh disser para mim"". Então, os líderes de Moabe ficaram com Balaão naquela noite." ^v8
 
-**9** E veio Deus a Balaão, e disse: Quem são estes homens que estão contigo? ^v9
+**9** "Veio Deus a Balaão e disse-lhe: ""Quem são esses homens que vieram a ti?""." ^v9
 
-**10** E Balaão disse a Deus: Balaque, filho de Zipor, rei dos moabitas, os enviou, dizendo: ^v10
+**10** "Balaão respondeu: ""Balaque, filho de Zipor, rei de Moabe, enviou-os para que me dissessem:" ^v10
 
-**11** Eis que o povo que saiu do Egito cobre a face da terra; vem agora, amaldiçoa-o; porventura poderei pelejar contra ele e expulsá-lo. ^v11
+**11** "'Olha, esse povo que veio do Egito cobre a superfície da terra. Agora vem e amaldiçoa esse povo para mim. Talvez eu consiga lutar contra eles e expulsá-los dessa terra'""." ^v11
 
-**12** Então disse Deus a Balaão: Não irás com eles, nem amaldiçoarás a este povo, porquanto é bendito. ^v12
+**12** "Deus disse a Balaão: ""Não irás com aqueles homens. Não amaldiçoarás o povo de Israel, porque eles foram abençoados""." ^v12
 
-**13** Então Balaão levantou-se pela manhã, e disse aos príncipes de Balaque: Ide à vossa terra, porque o Senhor recusa deixar-me ir convosco. ^v13
+**13** "Balaão se levantou pela manhã e disse aos líderes: ""Voltai para vossa terra, pois Yahweh Se recusou a permitir que eu vá convosco""." ^v13
 
-**14** E levantaram-se os príncipes dos moabitas, e vieram a Balaque, e disseram: Balaão recusou vir conosco. ^v14
+**14** "Então, os líderes de Moabe partiram e voltaram a Balaque. Disseram-lhe: ""Balaão se recusou a vir conosco""." ^v14
 
-**15** Porém Balaque tornou a enviar mais príncipes, mais honrados do que aqueles. ^v15
+**15** Balaque enviou novamente líderes, que eram ainda mais honrados que o primeiro grupo. ^v15
 
-**16** Os quais foram a Balaão, e lhe disseram: Assim diz Balaque, filho de Zipor: Rogo-te que não te demores em vir a mim. ^v16
+**16** "Eles foram a Balaão e disseram-lhe: ""Balaque, filho de Zipor, diz: 'Por favor, que nada te detenha de vir a mim," ^v16
 
-**17** Porque grandemente te honrarei, e farei tudo o que me disseres; vem pois, rogo-te, amaldiçoa-me este povo. ^v17
+**17** "porque eu te pagarei extremamente bem e te darei grandes honras, e farei tudo o que disseres. Então, por favor, vem e amaldiçoa esse povo para mim""." ^v17
 
-**18** Então Balaão respondeu, e disse aos servos de Balaque: Ainda que Balaque me desse a sua casa cheia de prata e de ouro, eu não poderia ir além da ordem do Senhor meu Deus, para fazer coisa pequena ou grande; ^v18
+**18** "Balaão respondeu, e disse aos homens de Balaque: ""Mesmo que Balaque me desse seu palácio cheio de prata e ouro, eu não poderia ir contra a palavra de Yahweh, meu Deus, e fazer nada mais e nada menos do que Ele me disser." ^v18
 
-**19** Agora, pois, rogo-vos que também aqui fiqueis esta noite, para que eu saiba o que mais o Senhor me dirá. ^v19
+**19** "Então, por favor, esperem aqui também esta noite, para que eu compreenda o que mais Yahweh dirá a mim""." ^v19
 
-**20** Veio, pois, Deus a Balaão, de noite, e disse-lhe: Se aqueles homens te vieram chamar, levanta-te, vai com eles; todavia, farás o que eu te disser. ^v20
+**20** "Deus veio a Balaão naquela noite e disse-lhe: ""Já que esses homens convocaram a ti, levanta-te e vai com eles. Mas faz apenas o que Eu lhe disser""." ^v20
 
-**21** Então Balaão levantou-se pela manhã, e albardou a sua jumenta, e foi com os príncipes de Moabe. ^v21
+**21** Balaão acordou pela manhã, preparou sua jumenta, e foi junto com os líderes de Moabe. ^v21
 
-**22** E a ira de Deus acendeu-se, porque ele se ia; e o anjo do Senhor pôs-se-lhe no caminho por adversário; e ele ia caminhando, montado na sua jumenta, e dois de seus servos com ele. ^v22
+**22** Mas, porque ele foi, a ira de Deus se acendeu. O anjo de Yahweh se colocou em frente ao caminho como alguém hostil a Balaão, que estava montado em sua jumenta. Os dois servos de Balaão estavam junto com ele. ^v22
 
-**23** Viu, pois, a jumenta o anjo do Senhor, que estava no caminho, com a sua espada desembainhada na mão; pelo que desviou-se a jumenta do caminho, indo pelo campo; então Balaão espancou a jumenta para fazê-la tornar ao caminho. ^v23
+**23** A jumenta viu o anjo de Yahweh posicionado no caminho, com a espada desembainhada em sua mão. A jumenta se desviou da estrada e foi para o campo. Balaão bateu na jumenta para que ela voltasse ao caminho. ^v23
 
-**24** Mas o anjo do Senhor pôs-se numa vereda entre as vinhas, havendo uma parede de um e de outro lado. ^v24
+**24** Então, o anjo de Yahweh ficou numa parte estreita do caminho entre alguns vinhedos, com uma parede à sua direita e outra à sua esquerda. ^v24
 
-**25** Vendo, pois, a jumenta, o anjo do Senhor, encostou-se contra a parede, e apertou contra a parede o pé de Balaão; por isso tornou a espancá-la. ^v25
+**25** A jumenta viu novamente o anjo de Yahweh. Ela foi em direção à parede e pressionou o pé de Balaão contra ela. Balaão bateu nela de novo. ^v25
 
-**26** Então o anjo do Senhor passou mais adiante, e pôs-se num lugar estreito, onde não havia caminho para se desviar nem para a direita nem para a esquerda. ^v26
+**26** O anjo de Yahweh foi mais adiante, e posicionou-se em outra parte estreita, onde não havia saída em nenhum lado. ^v26
 
-**27** E, vendo a jumenta o anjo do Senhor, deitou-se debaixo de Balaão; e a ira de Balaão acendeu-se, e espancou a jumenta com o bordão. ^v27
+**27** A jumenta viu o anjo de Yahweh, e deitou-se debaixo de Balaão. A ira de Balaão se acendeu, e ele bateu na jumenta com seu cajado. ^v27
 
-**28** Então o Senhor abriu a boca da jumenta, a qual disse a Balaão: Que te fiz eu, que me espancaste estas três vezes? ^v28
+**28** "Então, Yahweh abriu a boca da jumenta, e ela começou a falar. Ela disse a Balaão: ""O que fiz para que julgasses necessário bater-me três vezes?""." ^v28
 
-**29** E Balaão disse à jumenta: Por que zombaste de mim; quem dera tivesse eu uma espada na mão, porque agora te mataria. ^v29
+**29** "Balaão respondeu: ""Foi porque agiste estupidamente comigo. Gostaria que houvesse uma espada em minha mão. Se tivesse, eu a teria matado." ^v29
 
-**30** E a jumenta disse a Balaão: Porventura não sou a tua jumenta, em que cavalgaste desde o tempo em que me tornei tua até hoje? Acaso tem sido o meu costume fazer assim contigo? E ele respondeu: Não. ^v30
+**30** "A jumenta disse a Balaão: ""Não sou a jumenta em que montaste toda a tua vida até os dias de hoje? Já tive o hábito de fazer essas coisas contigo antes?"". Balaão disse: ""Não""." ^v30
 
-**31** Então o Senhor abriu os olhos a Balaão, e ele viu o anjo do Senhor, que estava no caminho e a sua espada desembainhada na mão; pelo que inclinou a cabeça, e prostrou-se sobre a sua face. ^v31
+**31** Então, Yahweh abriu os olhos de Balaão, e ele viu o anjo de Yahweh posicionado no caminho, com a espada desembainhada em sua mão. Balaão curvou sua cabeça, e deitou-se com a face na terra. ^v31
 
-**32** Então o anjo do Senhor lhe disse: Por que já três vezes espancaste a tua jumenta? Eis que eu saí para ser teu adversário, porquanto o teu caminho é perverso diante de mim; ^v32
+**32** "O anjo de Yahweh lhe disse: ""Por que bateste em tua jumenta três vezes? Olha, vim como alguém hostil a ti, pois tuas ações perante minha presença foram perversas." ^v32
 
-**33** Porém a jumenta me viu, e já três vezes se desviou de diante de mim; se ela não se desviasse de diante de mim, na verdade que eu agora te haveria matado, e a ela deixaria com vida. ^v33
+**33** "A jumenta me viu três vezes, e desviou de mim as três vezes. Se ela não tivesse desviado, certamente o teria matado e poupado a vida dela""." ^v33
 
-**34** Então Balaão disse ao anjo do Senhor: Pequei, porque não sabia que estavas neste caminho para te opores a mim; e agora, se parece mal aos teus olhos, voltarei. ^v34
+**34** "Balaão disse ao anjo de Yahweh: ""Pequei. Não sabia que estavas parado no caminho contra mim. Então, se essa viagem o desagradar, retornarei ao lugar de onde vim""." ^v34
 
-**35** E disse o anjo do Senhor a Balaão: Vai-te com estes homens; mas somente a palavra que eu falar a ti, esta falarás. Assim Balaão se foi com os príncipes de Balaque. ^v35
+**35** "Porém, o anjo de Yahweh disse a Balaão: ""Vá em frente com esses homens, mas tu falarás somente o que eu te disser"". Então, Balaão foi junto com os líderes de Balaque." ^v35
 
-**36** Ouvindo, pois, Balaque que Balaão vinha, saiu-lhe ao encontro até à cidade de Moabe, que está no termo de Arnom, na extremidade do termo dele. ^v36
+**36** Quando Balaque ouviu que Balaão havia chegado, ele foi ao seu encontro na região de Moabe, que está na fronteira de Arnom. ^v36
 
-**37** E Balaque disse a Balaão: Porventura não enviei diligentemente a chamar-te? Por que não vieste a mim? Não posso eu na verdade honrar-te? ^v37
+**37** "Balaque disse a Balaão: ""Não mandei homens para te convocar? Por que tu não vieste a mim? Não sou capaz de honrá-lo?""." ^v37
 
-**38** Então Balaão disse a Balaque: Eis que eu tenho vindo a ti; porventura poderei eu agora de alguma forma falar alguma coisa? A palavra que Deus puser na minha boca, essa falarei. ^v38
+**38** "Então, Balaão respondeu a Balaque: ""Vê, eu vim a ti. Será que tenho algum poder para dizer qualquer coisa? Posso dizer somente as palavras que Deus coloca em minha boca""." ^v38
 
-**39** E Balaão foi com Balaque, e chegaram a Quiriate-Huzote. ^v39
+**39** Balaão foi com Balaque, até Quiriate-Huzote. ^v39
 
-**40** Então Balaque matou bois e ovelhas; e deles enviou a Balaão e aos príncipes que estavam com ele. ^v40
+**40** Então, Balaque sacrificou bois e ovelhas, e deu carne a Balaão e aos líderes que estavam com ele. ^v40
 
-**41** E sucedeu que, pela manhã Balaque tomou a Balaão, e o fez subir aos altos de Baal, e viu ele dali a última parte do povo. ^v41
+**41** Durante a manhã, Balaque levou Balaão às colinas de Baal. De lá, Balaão viu somente uma parte dos israelitas em seu campo. ^v41

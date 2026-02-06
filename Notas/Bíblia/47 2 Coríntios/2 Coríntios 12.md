@@ -1,49 +1,48 @@
 ---
-Livro: "[[2 Coríntios|2 Coríntios]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/2 Coríntios|2 Coríntios]]"
+tags: [biblia]
 ---
 
 # 2 Coríntios 12
 
-**1** Em verdade que não convém gloriar-me; mas passarei às visões e revelações do Senhor. ^v1
+**1** Devo me gloriar, mas nada é ganho com isso. Então, passarei às visões e revelações do Senhor. ^v1
 
-**2** Conheço um homem em Cristo que há catorze anos (se no corpo, não sei, se fora do corpo, não sei; Deus o sabe) foi arrebatado ao terceiro céu. ^v2
+**2** Conheço um homem em Cristo, o qual, catorze anos atrás, foi arrebatado ao terceiro céu — se no corpo ou fora do corpo, eu não sei; Deus o sabe. ^v2
 
-**3** E sei que o tal homem (se no corpo, se fora do corpo, não sei; Deus o sabe) ^v3
+**3** E sei que tal homem — se no corpo, ou fora do corpo, eu não sei; Deus o sabe — ^v3
 
-**4** Foi arrebatado ao paraíso; e ouviu palavras inefáveis, que ao homem não é lícito falar. ^v4
+**4** foi arrebatado ao paraíso, e ouviu coisas muito sagradas para alguém dizer. ^v4
 
-**5** De alguém assim me gloriarei eu, mas de mim mesmo não me gloriarei, senão nas minhas fraquezas. ^v5
+**5** Por tal homem eu me gloriarei; mas por mim, não me gloriarei, exceto das minhas fraquezas. ^v5
 
-**6** Porque, se quiser gloriar-me, não serei néscio, porque direi a verdade; mas deixo isto, para que ninguém cuide de mim mais do que em mim vê ou de mim ouve. ^v6
+**6** Se quisesse gloriar-me, não seria louco, pois estaria falando a verdade; mas não me gloriarei, para que ninguém pense de mim mais do que é visto em mim ou do que ouve de mim. ^v6
 
-**7** E, para que não me exaltasse pela excelência das revelações, foi-me dado um espinho na carne, a saber, um mensageiro de Satanás para me esbofetear, a fim de não me exaltar. ^v7
+**7** Também não me gloriarei por causa de tão extraordinária revelação. Portanto, para que não me orgulhasse demais, me foi dado um espinho na carne, um mensageiro de Satanás para me atormentar, para que eu não me exalte. ^v7
 
-**8** Acerca do qual três vezes orei ao Senhor para que se desviasse de mim. ^v8
+**8** Três vezes implorei ao Senhor sobre isso, para que Ele pudesse tirá-lo de mim. ^v8
 
-**9** E disse-me: A minha graça te basta, porque o meu poder se aperfeiçoa na fraqueza. De boa vontade, pois, me gloriarei nas minhas fraquezas, para que em mim habite o poder de Cristo. ^v9
+**9** "E Ele disse: ""A minha graça te basta; pois o poder se aperfeiçoa na fraqueza"". Portanto, prefiro me orgulhar da minha fraqueza, para que o poder de Cristo habite em mim." ^v9
 
-**10** Por isso sinto prazer nas fraquezas, nas injúrias, nas necessidades, nas perseguições, nas angústias por amor de Cristo. Porque quando estou fraco então sou forte. ^v10
+**10** Por isso, estou contente nas fraquezas, nos insultos, nos problemas, nas perseguições e nos desastres, por causa de Cristo. Pois, quando sou fraco, então sou forte. ^v10
 
-**11** Fui néscio em gloriar-me; vós me constrangestes. Eu devia ter sido louvado por vós, visto que em nada fui inferior aos mais excelentes apóstolos, ainda que nada sou. ^v11
+**11** Tornei-me louco! Vós me forçastes a isso, pois eu deveria ser louvado por vós. Pois, em nada fui inferior aos chamados superapóstolos, embora eu não seja nada. ^v11
 
-**12** Os sinais do meu apostolado foram manifestados entre vós com toda a paciência, por sinais, prodígios e maravilhas. ^v12
+**12** As verdadeiras marcas de um apóstolo foram realizados entre vós com toda paciência, sinais, maravilhas e milagres. ^v12
 
-**13** Pois, em que tendes vós sido inferiores às outras igrejas, a não ser que eu mesmo vos não fui pesado? Perdoai-me este agravo. ^v13
+**13** Então, como fostes vós menos importantes do que o resto das igrejas, exceto que eu não fui um fardo para vós? Perdoai-me por este erro! ^v13
 
-**14** Eis aqui estou pronto para pela terceira vez ir ter convosco, e não vos serei pesado, pois que não busco o que é vosso, mas sim a vós: porque não devem os filhos entesourar para os pais, mas os pais para os filhos. ^v14
+**14** Vede! Estou pronto para voltar a vós pela terceira vez. Não vos serei um fardo; pois não quero o que é vosso, quero a vós outros. Pois os filhos não devem acumular bens para os pais, mas os pais acumular para os filhos. ^v14
 
-**15** Eu de muito boa vontade gastarei, e me deixarei gastar pelas vossas almas, ainda que, amando-vos cada vez mais, seja menos amado. ^v15
+**15** Alegremente gastarei o que tenho e me deixarei ser gasto por vossas almas. Se vos amo mais, serei menos amado? ^v15
 
-**16** Mas seja assim; eu não vos fui pesado mas, sendo astuto, vos tomei com dolo. ^v16
+**16** Dessa forma, não vos sobrecarreguei; mas, já que sou tão astuto, vos prendi com engano. ^v16
 
-**17** Porventura aproveitei-me de vós por algum daqueles que vos enviei? ^v17
+**17** Por acaso vos explorei através de alguém que enviei? ^v17
 
-**18** Roguei a Tito, e enviei com ele um irmão. Porventura Tito se aproveitou de vós? Não andamos porventura no mesmo espírito, sobre as mesmas pisadas? ^v18
+**18** Eu convenci Tito a ir até vós, e mandei outro irmão com ele. Por acaso Tito vos explorou? Nós não andamos no mesmo espírito? Não demos os mesmos passos? ^v18
 
-**19** Cuidais que ainda nos desculpamos convosco? Falamos em Cristo perante Deus, e tudo isto, ó amados, para vossa edificação. ^v19
+**19** Pensais que, todo este tempo estávamos nos defendendo perante vós? Diante de Deus, estávamos dizendo todas essas coisas para a vossa edificação. ^v19
 
-**20** Porque receio que, quando chegar, não vos ache como eu quereria, e eu seja achado de vós como não quereríeis; que de alguma maneira haja pendências, invejas, iras, porfias, detrações, mexericos, orgulhos, tumultos; ^v20
+**20** Pois temo que, quando eu vier, não vos encontre como gostaria, e que não me encontreis como gostaríeis. Temo que haja brigas, invejas, ódio, ambição egoísta, calúnias, falatórios, arrogância e desordem. ^v20
 
-**21** Que, quando for outra vez, o meu Deus me humilhe para convosco, e chore por muitos daqueles que dantes pecaram, e não se arrependeram da imundícia, e fornicação, e desonestidade que cometeram. ^v21
+**21** Temo que, quando voltar, meu Deus me humilhe diante de vós, e talvez eu me lamente por muitos daqueles que pecaram anteriormente, e não se arrependeram da impureza, da imoralidade sexual e da lascívia que praticaram. ^v21

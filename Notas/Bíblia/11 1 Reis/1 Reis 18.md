@@ -1,99 +1,98 @@
 ---
-Livro: "[[1 Reis|1 Reis]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/1 Reis|1 Reis]]"
+tags: [biblia]
 ---
 
 # 1 Reis 18
 
-**1** E sucedeu que, depois de muitos dias, a palavra do SENHOR veio a Elias, no terceiro ano, dizendo: Vai, apresenta-te a Acabe; porque darei chuva sobre a terra. ^v1
+**1** "Então, depois de muitos dias, a palavra de Yahweh veio a Elias, no terceiro ano da seca, dizendo: ""Vai, apresenta-te a Acabe, e Eu enviarei chuva sobre a terra.""" ^v1
 
-**2** E foi Elias apresentar-se a Acabe; e a fome era extrema em Samaria. ^v2
+**2** Elias foi apresentar-se a Acabe; naquela época, a fome era severa em Samaria. ^v2
 
-**3** E Acabe chamou a Obadias, o mordomo; e Obadias temia muito ao Senhor, ^v3
+**3** Acabe chamou Obadias, que estava no comando do palácio. Obadias honrava muito a Yahweh, ^v3
 
-**4** Porque sucedeu que, destruindo Jezabel os profetas do Senhor, Obadias tomou cem profetas, e de cinqüenta em cinqüenta os escondeu numa cova, e os sustentou com pão e água. ^v4
+**4** pois, quando Jezabel estava matando os profetas de Yahweh, Obadias pegou cem profetas e os escondeu de cinquenta em cinquenta em cavernas e alimentou-os com pão e água. ^v4
 
-**5** E disse Acabe a Obadias: Vai pela terra a todas as fontes de água, e a todos os rios; pode ser que achemos erva, para que em vida conservemos os cavalos e mulas, e não percamos todos os animais. ^v5
+**5** "Acabe disse a Obadias: ""Vai pela terra a todas as fontes de água e ribeiros, pode ser que acharemos pasto para conservar vivos os cavalos e mulas, e assim não perderemos todos os animais""." ^v5
 
-**6** E repartiram entre si a terra, para a percorrerem: Acabe foi à parte por um caminho, e Obadias também foi sozinho por outro caminho. ^v6
+**6** Então eles dividiram a terra entre si para a percorrerem procurando água. Acabe foi por um caminho sozinho, e Obadias foi por outro caminho. ^v6
 
-**7** Estando, pois, Obadias já em caminho, eis que Elias o encontrou; e Obadias, reconhecendo-o, prostrou-se sobre o seu rosto, e disse: És tu o meu senhor Elias? ^v7
+**7** "Enquanto Obadias ia pela estrada, Elias, sem esperar, encontrou-o. Obadias o reconheceu e colocou o rosto em terra, e disse: ""És tu o meu senhor Elias?""" ^v7
 
-**8** E disse-lhe ele: Eu sou; vai, e dize a teu senhor: Eis que Elias está aqui. ^v8
+**8** "Elias respondeu: ""Sou eu. Vai e diz a teu senhor: 'Olha, Elias está aqui'""." ^v8
 
-**9** Porém ele disse: Em que pequei, para que entregues a teu servo na mão de Acabe, para que me mate? ^v9
+**9** "Obadias respondeu: ""Em que pequei eu, para entregares o teu servo nas mãos de Acabe, para ele me matar?" ^v9
 
-**10** Vive o SENHOR teu Deus, que não houve nação nem reino aonde o meu senhor não mandasse em busca de ti; e dizendo eles: Aqui não está, então fazia jurar os reinos e nações, que não te haviam achado. ^v10
+**10** Assim como vive Yahweh, teu Deus, não há nação ou reino que meu senhor não tenha enviado homens para te procurar. Sempre que uma nação ou reino diz: 'Elias não está aqui', Acabe faz com que eles jurem que não te acharam. ^v10
 
-**11** E agora dizes tu: Vai, dize a teu senhor: Eis que aqui está Elias. ^v11
+**11** Mas agora tu dizes: 'vai dizer ao teu senhor que Elias está aqui'. ^v11
 
-**12** E poderia ser que, apartando-me eu de ti, o Espírito do Senhor te tomasse, não sei para onde, e, vindo eu a dar as novas a Acabe, e não te achando ele, me mataria; porém eu, teu servo, temo ao Senhor desde a minha mocidade. ^v12
+**12** Assim que eu te deixar, o Espírito de Yahweh te levará para lugares onde eu não sei; e, indo eu dizer isso a Acabe, e ele não podendo te achar, ele me matará. Porém eu, teu servo, tenho adorado Yahweh desde minha juventude. ^v12
 
-**13** Porventura não disseram a meu senhor o que fiz, quando Jezabel matava os profetas do SENHOR? Como escondi a cem homens dos profetas do SENHOR, de cinqüenta em cinqüenta, numa cova, e os sustentei com pão e água? ^v13
+**13** Não foi dito a ti, meu mestre, o que eu fiz quando Jezabel matou os profetas de Yahweh, como eu escondi cem profetas de Yahweh divididos entre cinquenta em cinquenta nas cavernas e os alimentei com pão e água? ^v13
 
-**14** E agora dizes tu: Vai, dize a teu senhor: Eis que Elias está aqui; ele me mataria. ^v14
+**14** "E agora tu dizes: 'Vai, fala ao teu senhor que Elias está aqui'. Assim ele me matará.""" ^v14
 
-**15** E disse Elias: Vive o Senhor dos Exércitos, perante cuja face estou, que deveras hoje me apresentarei a ele. ^v15
+**15** "Então Elias respondeu: ""Tão certo como Yahweh dos Exércitos vive, em cuja presença estou, hoje eu me apresentarei a Acabe""." ^v15
 
-**16** Então foi Obadias encontrar-se com Acabe, e lho anunciou; e foi Acabe encontrar-se com Elias. ^v16
+**16** Assim Obadias foi se encontrar com Acabe e disse a ele o que Elias lhe dissera. Então o rei foi ao encontro de Elias. ^v16
 
-**17** E sucedeu que, vendo Acabe a Elias, disse-lhe: És tu o perturbador de Israel? ^v17
+**17** "Quando Acabe viu Elias, disse-lhe: ""És tu, o pertubador de Israel?""" ^v17
 
-**18** Então disse ele: Eu não tenho perturbado a Israel, mas tu e a casa de teu pai, porque deixastes os mandamentos do Senhor, e seguistes a Baalim. ^v18
+**18** "Elias respondeu: ""Eu não tenho perturbado Israel, porém tu e a família de teu pai é que são os perturbadores, abandonando os mandamentos de Yahweh e seguindo os ídolos de Baal." ^v18
 
-**19** Agora, pois, manda reunir-se a mim todo o Israel no monte Carmelo; como também os quatrocentos e cinqüenta profetas de Baal, e os quatrocentos profetas de Aserá, que comem da mesa de Jezabel. ^v19
+**19** Agora, ordena e reúne para mim todo Israel no monte Carmelo, junto a quatrocentos e cinquenta profetas de Baal e os quatrocentos profetas de Aserá, que se alimentam da mesa de Jesabel. ^v19
 
-**20** Então Acabe convocou todos os filhos de Israel; e reuniu os profetas no monte Carmelo. ^v20
+**20** Então Acabe ordenou a todo o povo de Israel e aos profetas que se reunissem no monte Carmelo. ^v20
 
-**21** Então Elias se chegou a todo o povo, e disse: Até quando coxeareis entre dois pensamentos? Se o Senhor é Deus, segui-o, e se Baal, segui-o. Porém o povo nada lhe respondeu. ^v21
+**21** "Elias se aproximou de todo o povo e disse: ""Até quando ficareis indecisos entre dois pensamentos? Se Yahweh é Deus, segui-o. Mas, se Baal é deus, então segui-o"". E o povo não respondeu a ele palavra alguma." ^v21
 
-**22** Então disse Elias ao povo: Só eu fiquei por profeta do Senhor, e os profetas de Baal são quatrocentos e cinqüenta homens. ^v22
+**22** "Então Elias disse ao povo: ""Eu sou o último profeta de Yahweh, mas os profetas de Baal são quatrocentos e cinquenta homens." ^v22
 
-**23** Dêem-se-nos, pois, dois bezerros, e eles escolham para si um dos bezerros, e o dividam em pedaços, e o ponham sobre a lenha, porém não lhe coloquem fogo, e eu prepararei o outro bezerro, e o porei sobre a lenha, e não lhe colocarei fogo. ^v23
+**23** Então deixai que eles tragam dois bois. Deixai que eles escolham um boi para eles e cortem em pedaços e coloquem sobre a lenha, mas não ponham fogo nela. Então eu prepararei o outro boi, colocarei sobre a lenha e não colocarei fogo. ^v23
 
-**24** Então invocai o nome do vosso deus, e eu invocarei o nome do Senhor; e há de ser que o deus que responder por meio de fogo esse será Deus. E todo o povo respondeu, dizendo: É boa esta palavra. ^v24
+**24** "Então vós clamareis pelo nome de vosso deus e eu clamarei pelo nome de Yahweh, e o deus que responder por meio de fogo, esse é Deus."" E todo o povo respondeu: ""Está bem""." ^v24
 
-**25** E disse Elias aos profetas de Baal: Escolhei para vós um dos bezerros, e preparai-o primeiro, porque sois muitos, e invocai o nome do vosso deus, e não lhe ponhais fogo. ^v25
+**25** "Então Elias disse aos profetas de Baal: ""Escolhei primeiro um boi para vós e o preparai, pois vós sois muitas pessoas. Então clamai pelo nome de vosso deus, mas não colocai fogo sob o boi""." ^v25
 
-**26** E tomaram o bezerro que lhes dera, e o prepararam; e invocaram o nome de Baal, desde a manhã até ao meio-dia, dizendo: Ah! Baal, responde-nos! Porém nem havia voz, nem quem respondesse; e saltavam sobre o altar que tinham feito. ^v26
+**26** "Eles pegaram o boi que lhes fora entregue e o prepararam, e clamaram no nome de Baal desde a manhã até ao meio-dia, dizendo: ""Baal, responde-nos!"" Mas não houve voz, nem ninguém que respondesse; e dançavam em volta do altar que haviam feito." ^v26
 
-**27** E sucedeu que ao meio-dia Elias zombava deles e dizia: Clamai em altas vozes, porque ele é um deus; pode ser que esteja falando, ou que tenha alguma coisa que fazer, ou que intente alguma viagem; talvez esteja dormindo, e despertará. ^v27
+**27** "Ao meio dia, Elias zombava deles dizendo: ""Gritai mais alto! Ele é um deus! Talvez ele esteja pensando, ou atendendo alguma necessidade, ou em viagem, ou talvez esteja dormindo e precisa ser despertado""." ^v27
 
-**28** E eles clamavam em altas vozes, e se retalhavam com facas e com lancetas, conforme ao seu costume, até derramarem sangue sobre si. ^v28
+**28** Então eles gritaram mais alto, e, conforme o seu costume, cortaram-se com facas e lancetas, até escorrer sangue sobre si. ^v28
 
-**29** E sucedeu que, passado o meio-dia, profetizaram eles, até a hora de se oferecer o sacrifício da tarde; porém não houve voz, nem resposta, nem atenção alguma. ^v29
+**29** O meio dia se passou, e eles ainda estavam delirantes até o momento do sacrifício da tarde, mas não havia qualquer voz ou alguém que respondesse; não havia quem prestasse atenção aos seus pedidos. ^v29
 
-**30** Então Elias disse a todo o povo: Chegai-vos a mim. E todo o povo se chegou a ele; e restaurou o altar do Senhor, que estava quebrado. ^v30
+**30** "Então Elias disse a todo o povo: ""Chegai-vos a mim"", e todo o povo se aproximou dele. E ele reparou o altar de Yahweh, que estava em ruínas." ^v30
 
-**31** E Elias tomou doze pedras, conforme ao número das tribos dos filhos de Jacó, ao qual veio a palavra do Senhor, dizendo: Israel será o teu nome. ^v31
+**31** "Elias pegou doze pedras, cada pedra representando uma das doze tribos dos filhos de Jacó — foi para Jacó que a palavra de Yahweh veio dizendo: ""Teu nome será Israel""." ^v31
 
-**32** E com aquelas pedras edificou o altar em nome do Senhor; depois fez um rego em redor do altar, segundo a largura de duas medidas de semente. ^v32
+**32** Com as pedras, ele construiu um altar em nome de Yahweh, cavou uma cova em volta do altar, larga o suficiente para semear duas medidas de semente. ^v32
 
-**33** Então armou a lenha, e dividiu o bezerro em pedaços, e o pôs sobre a lenha. ^v33
+**33** "A seguir, ele armou a lenha para o fogo, dividiu o novilho em pedaços, e colocou os pedaços sobre a lenha. Ele disse: ""Enchei quatro cântaros de água e despejai sobre o sacrifício e sobre a lenha""." ^v33
 
-**34** E disse: Enchei de água quatro cântaros, e derramai-a sobre o holocausto e sobre a lenha. E disse: Fazei-o segunda vez; e o fizeram segunda vez. Disse ainda: Fazei-o terceira vez; e o fizeram terceira vez; ^v34
+**34** "Então disse: ""Façai pela segunda vez"", e eles fizeram isto pela segunda vez. Mais uma vez, ele disse: ""Façai uma terceira vez"", e eles fizeram pela terceira vez." ^v34
 
-**35** De maneira que a água corria ao redor do altar; e até o rego ele encheu de água. ^v35
+**35** A água correu ao redor do altar e encheu a cova. ^v35
 
-**36** Sucedeu que, no momento de ser oferecido o sacrifício da tarde, o profeta Elias se aproximou, e disse: Ó Senhor Deus de Abraão, de Isaque e de Israel, manifeste-se hoje que tu és Deus em Israel, e que eu sou teu servo, e que conforme à tua palavra fiz todas estas coisas. ^v36
+**36** "Aconteceu que, na hora da oferta do sacrifício da tarde, o profeta Elias se aproximou e disse: ""Yahweh, Deus de Abraão, de Isaque e de Israel, manifesta hoje que tu és Deus em Israel, que eu sou Teu servo, e que eu tenho feito todas essas coisas conforme a Tua palavra." ^v36
 
-**37** Responde-me, Senhor, responde-me, para que este povo conheça que tu és o Senhor Deus, e que tu fizeste voltar o seu coração. ^v37
+**37** "Responde-me, Yahweh, responde-me, para que esse povo saiba que tu, Yahweh, és Deus e que tu fizeste o coração deles se voltar para Ti""." ^v37
 
-**38** Então caiu fogo do Senhor, e consumiu o holocausto, e a lenha, e as pedras, e o pó, e ainda lambeu a água que estava no rego. ^v38
+**38** Então o fogo de Yahweh caiu e consumiu tanto o sacrifício, quanto a lenha, as pedras, o pó, e até a água que estava na cova. ^v38
 
-**39** O que vendo todo o povo, caíram sobre os seus rostos, e disseram: Só o Senhor é Deus! Só o Senhor é Deus! ^v39
+**39** "Quando todo o povo viu isso, todos se prostraram com o rosto em terra e disseram: ""Yahweh, Ele é Deus! Yahweh, Ele é Deus!""" ^v39
 
-**40** E Elias lhes disse: Lançai mão dos profetas de Baal, que nenhum deles escape. E lançaram mão deles; e Elias os fez descer ao ribeiro de Quisom, e ali os matou. ^v40
+**40** "Elias disse ao povo: ""Agarrai os profetas de Baal; não deixai nenhum deles escapar"". Então eles os agarraram e Elias trouxe esses profetas para perto do ribeiro de Quison e os matou lá." ^v40
 
-**41** Então disse Elias a Acabe: Sobe, come e bebe, porque há ruído de uma abundante chuva. ^v41
+**41** "Elias disse à Acabe: ""Sobe, come e bebe, pois há som de muita chuva""." ^v41
 
-**42** E Acabe subiu a comer e a beber; mas Elias subiu ao cume do Carmelo, e se inclinou por terra, e pôs o seu rosto entre os seus joelhos. ^v42
+**42** Assim sendo, Acabe subiu para comer e beber; enquanto isso, Elias subiu ao topo do monte Carmelo, inclinou-se na terra, colocou seu rosto entre seus joelhos, ^v42
 
-**43** E disse ao seu servo: Sobe agora, e olha para o lado do mar. E subiu, e olhou, e disse: Não há nada. Então disse ele: Volta lá sete vezes. ^v43
+**43** "e disse ao seu servo: ""Sobe agora, olha na direção do mar"". O seu servo subiu, olhou e disse: ""Não há nada"". Então Elias disse: ""Vai de novo"" e assim por sete vezes." ^v43
 
-**44** E sucedeu que, à sétima vez, disse: Eis aqui uma pequena nuvem, como a mão de um homem, subindo do mar. Então disse ele: Sobe, e dize a Acabe: Aparelha o teu carro, e desce, para que a chuva não te impeça. ^v44
+**44** "Na sétima vez, o servo disse: ""Olha, há uma nuvem subindo do mar, pequena como a mão de um homem"". Elias respondeu: ""Sobe e diz a Acabe: 'Prepara a tua carruagem e desce antes que a chuva te pare'""." ^v44
 
-**45** E sucedeu que, entretanto, os céus se enegreceram com nuvens e vento, e veio uma grande chuva; e Acabe subiu ao carro, e foi para Jizreel. ^v45
+**45** Aconteceu que, em pouco tempo, os céus se escureceram com nuvens e vento, e caiu uma forte chuva. Acabe entrou em sua carruagem e foi para Jezreel, ^v45
 
-**46** E a mão do Senhor estava sobre Elias, o qual cingiu os lombos, e veio correndo perante Acabe, até à entrada de Jizreel. ^v46
+**46** mas a mão de Yahweh estava sobre Elias. Ele enfiou o manto no seu cinto, depois correu, e ainda chegou antes de Acabe na entrada de Jezreel. ^v46

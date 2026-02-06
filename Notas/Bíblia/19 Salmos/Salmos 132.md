@@ -1,43 +1,40 @@
 ---
-Livro: "[[Salmos|Salmos]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Salmos|Salmos]]"
+tags: [biblia]
 ---
 
 # Salmos 132
 
-**1** Lembra-te, SENHOR, de Davi, e de todas as suas aflições. ^v1
+**2** Relembra como ele jurou a Yahweh, como ele fez voto ao Poderoso de Jacó. ^v2
 
-**2** Como jurou ao Senhor, e fez votos ao poderoso Deus de Jacó, dizendo: ^v2
+**3** "Ele disse: ""Não entrarei em minha casa ou deitarei em minha cama," ^v3
 
-**3** Certamente que não entrarei na tenda de minha casa, nem subirei à minha cama, ^v3
+**4** não darei sono aos meus olhos ou descanso às minhas pálpebras ^v4
 
-**4** Não darei sono aos meus olhos, nem repouso às minhas pálpebras, ^v4
+**5** "até que eu encontre um lugar para Yahweh, um tabernáculo ao Poderoso de Jacó.""" ^v5
 
-**5** Enquanto não achar lugar para o Senhor, uma morada para o poderoso Deus de Jacó. ^v5
+**6** Ouvimos dizer que a arca está em Efrata. ^v6
 
-**6** Eis que ouvimos falar dela em Efrata, e a achamos no campo do bosque. ^v6
+**7** Nós a encontramos nos campos de Jaar. Iremos ao tabernáculo de Deus; adoraremos no estrado de Seus pés. ^v7
 
-**7** Entraremos nos seus tabernáculos; prostrar-nos-emos ante o escabelo de seus pés. ^v7
+**8** Levanta-Te, Yahweh. Vem ao Teu lugar de repouso, Tu e a arca da Tua fortaleza! ^v8
 
-**8** Levanta-te, Senhor, ao teu repouso, tu e a arca da tua força. ^v8
+**9** Que os Teus sacerdotes se vistam de integridade; que Teus fiéis bradem de alegria. ^v9
 
-**9** Vistam-se os teus sacerdotes de justiça, e alegrem-se os teus santos. ^v9
+**10** Por causa do Teu servo Davi, não Te afastes do Teu rei ungido. ^v10
 
-**10** Por amor de Davi, teu servo, não faças virar o rosto do teu ungido. ^v10
+**11** "Yahweh jurou firmemente a Davi; Ele não voltará atrás: ""Colocarei um de teus descendentes em teu trono." ^v11
 
-**11** O Senhor jurou com verdade a Davi, e não se apartará dela: Do fruto do teu ventre porei sobre o teu trono. ^v11
+**12** "Se teus filhos guardarem a Minha aliança e as leis que Eu lhes ensinarei, os filhos deles também sentarão sobre teu trono para todo o sempre.""" ^v12
 
-**12** Se os teus filhos guardarem a minha aliança, e os meus testemunhos, que eu lhes hei de ensinar, também os seus filhos se assentarão perpetuamente no teu trono. ^v12
+**13** Certamente, Yahweh escolheu Sião; Ele a desejou para Seu trono. ^v13
 
-**13** Porque o Senhor escolheu a Sião; desejou-a para a sua habitação, dizendo: ^v13
+**14** """Este é o Meu lugar de descanso para sempre; viverei aqui, pois a escolhi." ^v14
 
-**14** Este é o meu repouso para sempre; aqui habitarei, pois o desejei. ^v14
+**15** Eu a abençoarei abundantemente com provisões; ^v15
 
-**15** Abençoarei abundantemente o seu mantimento; fartarei de pão os seus necessitados. ^v15
+**16** saciarei seus pobres com pão. Vestirei seus sacerdotes com salvação; seus fiéis bradarão de alegria. ^v16
 
-**16** Também vestirei os seus sacerdotes de salvação, e os seus santos saltarão de prazer. ^v16
+**17** Ali, farei crescer a força de Davi; e colocarei uma lâmpada para o Meu ungido. ^v17
 
-**17** Ali farei brotar a força de Davi; preparei uma lâmpada para o meu ungido. ^v17
-
-**18** Vestirei os seus inimigos de vergonha; mas sobre ele florescerá a sua coroa. ^v18
+**18** "Envergonharei seus inimigos, mas a coroa dele brilhará.""" ^v18

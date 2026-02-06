@@ -1,77 +1,76 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Marcos|Marcos]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Marcos|Marcos]]"
+tags: [biblia]
 ---
 
 # Marcos 3
 
-**1** E outra vez entrou na sinagoga, e estava ali um homem que tinha uma das mãos mirrada. ^v1
+**1** Novamente, Jesus entrou na sinagoga e havia um homem com uma mão atrofiada. ^v1
 
-**2** E estavam observando-o securaria no sábado, para o acusarem. ^v2
+**2** E algumas pessoas O observavam atentamente para ver se Ele o curaria no Sabbath, para que pudessem acusá-Lo. ^v2
 
-**3** E disse ao homem que tinha a mão mirrada: Levanta-te e vem para o meio. ^v3
+**3** "Jesus disse ao homem com a mão atrofiada: ""Levanta e vem aqui para o meio de todos""." ^v3
 
-**4** E perguntou-lhes: É lícito no sábado fazer bem, ou fazer mal? salvar a vida, ou matar? E eles calaram-se. ^v4
+**4** "Então, Ele disse às pessoas: ""É permitido fazer o bem no Sabbath ou fazer mal; salvar uma vida, ou matar?"". Mas eles ficaram em silêncio." ^v4
 
-**5** E, olhando para eles em redor com indignação, condoendo-se da dureza do seu coração, disse ao homem: Estende a tua mão. E ele a estendeu, e foi-lhe restituída a sua mão, sã como a outra. ^v5
+**5** "Ele, olhando ao redor indignado, muito entristecido pela dureza de seus corações, disse ao homem: ""Estende a mão"". Ele estendeu a mão e Jesus a restaurou." ^v5
 
-**6** E, tendo saído os fariseus, tomaram logo conselho com os herodianos contra ele, procurando ver como o matariam. ^v6
+**6** Os fariseus se retiraram e, imediatamente, começaram a conspirar com os herodianos, sobre como poderiam matá-Lo. ^v6
 
-**7** E retirou-se Jesus com os seus discípulos para o mar, e seguia-o uma grande multidão da Galiléia e da Judéia, ^v7
+**7** Então, Jesus foi com seus discípulos para o mar. E uma grande multidão de pessoas O seguia, vinda da Galileia, da Judeia, ^v7
 
-**8** E de Jerusalém, e da Iduméia, e de além do Jordão, e de perto de Tiro e de Sidom; uma grande multidão que, ouvindo quão grandes coisas fazia, vinha ter com ele. ^v8
+**8** de Jerusalém, Idumeia e dalém do Jordão, e dos arredores de Tiro e Sidom. Quando ouviram falar das coisas que Ele estava fazendo, uma grande multidão veio até Ele. ^v8
 
-**9** E ele disse aos seus discípulos que lhe tivessem sempre pronto um barquinho junto dele, por causa da multidão, para que o não oprimisse, ^v9
+**9** E pediu a Seus discípulos que deixassem um pequeno barco pronto para Ele, por causa da multidão, para que não O esmagassem. ^v9
 
-**10** Porque tinha curado a muitos, de tal maneira que todos quantos tinham algum mal se arrojavam sobre ele, para lhe tocarem. ^v10
+**10** Pois Ele curou a muitos, a ponto de que todos os que padeciam de enfermidades, ansiosamente, se aproximavam Dele para tocá-Lo. ^v10
 
-**11** E os espíritos imundos vendo-o, prostravam-se diante dele, e clamavam, dizendo: Tu és o Filho de Deus. ^v11
+**11** "Sempre que os espíritos imundos O viam, caíam diante Dele, clamavam e diziam: ""Tu és o Filho de Deus""." ^v11
 
-**12** E ele os ameaçava muito, para que não o manifestassem. ^v12
+**12** Ele, com firmeza, ordenava-lhes que não O tornassem conhecido. ^v12
 
-**13** E subiu ao monte, e chamou para si os que ele quis; e vieram a ele. ^v13
+**13** Ele subiu à montanha e chamou por aqueles que queria, e vieram a Ele. ^v13
 
-**14** E nomeou doze para que estivessem com ele e os mandasse a pregar, ^v14
+**14** Escolheu os doze (a quem chamou apóstolos) para que estivessem com Ele, para enviá-los a proclamar a mensagem, ^v14
 
-**15** E para que tivessem o poderde curar as enfermidades e expulsar os demônios: ^v15
+**15** e ter autoridade para expelir demônios. ^v15
 
-**16** A Simão, a quem pôs o nome de Pedro, ^v16
+**16** Ele nomeou os doze: Simão, a quem Ele deu o nome de Pedro; ^v16
 
-**17** E a Tiago, filho de Zebedeu, e a João, irmão de Tiago, aos quais pôs o nome de Boanerges, que significa: Filhos do trovão; ^v17
+**17** Tiago, filho de Zebedeu, e João, irmão de Tiago, aos quais Ele deu o nome de Boanerges, que significa filhos do trovão; ^v17
 
-**18** E a André, e a Filipe, e a Bartolomeu, e a Mateus, e a Tomé, e a Tiago, filho de Alfeu, e a Tadeu, e a Simão, o Cananita, ^v18
+**18** e André; Filipe; Bartolomeu; Mateus; Tomé; Tiago, filho de Alfeu; Tadeu; Simão, o zelote; ^v18
 
-**19** E a Judas Iscariotes, o que o entregou. ^v19
+**19** e Judas Iscariotes, que O trairia. ^v19
 
-**20** E foram para uma casa. E afluiu outra vez a multidão, de tal maneira que nem sequer podiam comer pão. ^v20
+**20** Então, Ele foi para casa, e a multidão se ajuntou novamente de modo que eles não podiam nem mesmo se alimentar de pão. ^v20
 
-**21** E, quando os seus ouviram isto, saíram para o prender; porque diziam: Está fora de si. ^v21
+**21** "Quando Sua família ouviu sobre isso, eles saíram para impedi-Lo, pois diziam: ""Ele está fora de si""." ^v21
 
-**22** E os escribas, que tinham descido de Jerusalém, diziam: Tem Belzebu, e pelo príncipe dos demônios expulsa os demônios. ^v22
+**22** "Os escribas que vieram de Jerusalém diziam: ""Ele está possuído por Belzebu"" e ""pelo chefe dos demônios é que Ele expulsa os demônios""." ^v22
 
-**23** E, chamando-os a si, disse-lhes por parábolas: Como pode Satanás expulsar Satanás? ^v23
+**23** "Jesus os chamou e falou-lhes em parábolas: ""Como pode Satanás expulsar Satanás?" ^v23
 
-**24** E, se um reino se dividir contra si mesmo, tal reino não pode subsistir; ^v24
+**24** Se um reino está dividido contra si mesmo, tal reino não pode permanecer. ^v24
 
-**25** E, se uma casa se dividir contra si mesma, tal casa não pode subsistir. ^v25
+**25** Se uma casa está dividida contra si mesma, tal casa não conseguirá permanecer. ^v25
 
-**26** E, se Satanás se levantar contra si mesmo, e for dividido, não pode subsistir; antes tem fim. ^v26
+**26** Se Satanás se levantou contra si mesmo e está dividido, não pode permanecer, mas chegou ao fim. ^v26
 
-**27** Ninguém pode roubar os bens do valente, entrando-lhe em sua casa, se primeiro não maniatar o valente; e então roubará a sua casa. ^v27
+**27** Mas ninguém pode entrar na casa de um homem forte e roubar seus pertences sem amarrá-lo primeiro; então, lhe saqueará a casa. ^v27
 
-**28** Na verdade vos digo que todos os pecados serão perdoados aos filhos dos homens, e toda a sorte de blasfêmias, com que blasfemarem; ^v28
+**28** Verdadeiramente eu vos digo, todos os pecados dos filhos dos homens serão perdoados, até mesmo todas as blasfêmias que proferiram; ^v28
 
-**29** Qualquer, porém, que blasfemar contra o Espírito Santo, nunca obterá perdão, mas será réu do eterno juízo ^v29
+**29** "mas quem blasfema contra o Espírito Santo nunca terá perdão, mas é culpado de um pecado eterno""." ^v29
 
-**30** (Porque diziam: Tem espírito imundo). ^v30
+**30** "Jesus disse isso porque estavam dizendo: ""Ele tem um espírito imundo""." ^v30
 
-**31** Chegaram, então, seus irmãos e sua mãe; e, estando fora, mandaram-no chamar. ^v31
+**31** Sua mãe e irmãos vieram e ficaram do lado de fora. Eles enviaram alguém para chamá-Lo. ^v31
 
-**32** E a multidão estava assentada ao redor dele, e disseram-lhe: Eis que tua mãe e teus irmãos te procuram, e estão lá fora. ^v32
+**32** "Uma multidão sentou-se em volta Dele e falou para Jesus: ""Tua mãe e Teus irmãos estão lá fora e estão à Tua procura""." ^v32
 
-**33** E ele lhes respondeu, dizendo: Quem é minha mãe e meus irmãos? ^v33
+**33** "Ele lhes respondeu: ""Quem são minha mãe e meus irmãos?""." ^v33
 
-**34** E, olhando em redor para os que estavam assentados junto dele, disse: Eis aqui minha mãe e meus irmãos. ^v34
+**34** "Ele olhou para todos os que estavam sentados em círculo a sua volta e lhes disse: ""Vede, aqui estão minha mãe e meus irmãos!" ^v34
 
-**35** Porquanto, qualquer que fizer a vontade de Deus, esse é meu irmão, e minha irmã, e minha mãe. ^v35
+**35** "Porque qualquer um que faz a vontade de Deus, esse é Meu irmão, irmã e mãe""." ^v35

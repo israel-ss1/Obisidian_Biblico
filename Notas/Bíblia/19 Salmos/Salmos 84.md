@@ -1,31 +1,28 @@
 ---
-Livro: "[[Salmos|Salmos]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Salmos|Salmos]]"
+tags: [biblia]
 ---
 
 # Salmos 84
 
-**1** Quão amáveis são os teus tabernáculos, SENHOR dos Exércitos! ^v1
+**2** Minha alma anseia e desfalece pelos átrios de Yahweh; meu coração e todo o meu ser clamam pelo Deus vivo. ^v2
 
-**2** A minha alma está desejosa, e desfalece pelos átrios do Senhor; o meu coração e a minha carne clamam pelo Deus vivo. ^v2
+**3** Até o pardal achou casa, e a andorinha, ninho para si, onde possa abrigar seus filhotes; eu encontrei Teus altares, Yahweh dos Exércitos, meu Rei e meu Deus! ^v3
 
-**3** Até o pardal encontrou casa, e a andorinha ninho para si, onde ponha seus filhos, até mesmo nos teus altares, Senhor dos Exércitos, Rei meu e Deus meu. ^v3
+**4** Abençoados são aqueles que vivem em Tua casa; aqueles que Te louvam continuamente. [Interlúdio] ^v4
 
-**4** Bem-aventurados os que habitam em tua casa; louvar-te-ão continuamente. (Selá.) ^v4
+**5** Abençoado é o homem cuja força está em Ti, em cujo coração, estão os caminhos retos. ^v5
 
-**5** Bem-aventurado o homem cuja força está em ti, em cujo coração estão os caminhos aplanados. ^v5
+**6** Passando pelo vale de Baca, eles encontram fontes de água para beber, como as primeiras chuvas fazem ao transbordar as cisternas. ^v6
 
-**6** Que, passando pelo vale de Baca, faz dele uma fonte; a chuva também enche os tanques. ^v6
+**7** Eles caminham com vigor crescente, até que cada um se apresente a Deus em Sião. ^v7
 
-**7** Vão indo de força em força; cada um deles em Sião aparece perante Deus. ^v7
+**8** Yahweh, Deus dos Exércitos, ouve minha oração; escuta o que estou dizendo, Deus de Jacó! [Interlúdio] ^v8
 
-**8** Senhor Deus dos Exércitos, escuta a minha oração; inclina os ouvidos, ó Deus de Jacó! (Selá.) ^v8
+**9** Ó Deus, nosso escudo, mostra preocupação pelo Teu ungido. ^v9
 
-**9** Olha, ó Deus, escudo nosso, e contempla o rosto do teu ungido. ^v9
+**10** Pois mais vale um dia em Teus átrios que mil em outro lugar. Eu prefiro ficar à porta da casa do meu Deus a viver nas tendas dos ímpios. ^v10
 
-**10** Porque vale mais um dia nos teus átrios do que mil. Preferiria estar à porta da casa do meu Deus, a habitar nas tendas dos ímpios. ^v10
+**11** Pois Yahweh Deus é sol e escudo; Yahweh dá graça e honra; Ele não recusa nenhum bem àqueles que caminham em integridade. ^v11
 
-**11** Porque o Senhor Deus é um sol e escudo; o Senhor dará graça e glória; não retirará bem algum aos que andam na retidão. ^v11
-
-**12** Senhor dos Exércitos, bem-aventurado o homem que em ti põe a sua confiança. ^v12
+**12** Yahweh dos Exércitos, abençoado é o homem que em Ti confia. ^v12

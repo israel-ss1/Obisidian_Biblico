@@ -1,85 +1,84 @@
 ---
-Livro: "[[2 Samuel|2 Samuel]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/2 Samuel|2 Samuel]]"
+tags: [biblia]
 ---
 
 # 2 Samuel 13
 
-**1** E aconteceu depois disto que, tendo Absalão, filho de Davi, uma irmã formosa, cujo nome era Tamar, Amnom, filho de Davi, amou-a. ^v1
+**1** Aconteceu que, depois disso, Amnom, filho de Davi, ficou muito atraído por sua bonita meia irmã Tamar, que era irmã legítima de Absalão, um dos outros filhos de Davi. ^v1
 
-**2** E angustiou-se Amnom, até adoecer, por Tamar, sua irmã, porque era virgem; e parecia aos olhos de Amnom dificultoso fazer-lhe coisa alguma. ^v2
+**2** Amnom estava tão frustrado que ficou doente por causa de sua irmã Tamar. Ela era virgem, e parecia impossível a Amnom lhe fazer alguma coisa. ^v2
 
-**3** Tinha, porém, Amnom um amigo, cujo nome era Jonadabe, filho de Siméia, irmão de Davi; e era Jonadabe homem mui sagaz. ^v3
+**3** Mas Amnom tinha um amigo cujo nome era Jonadabe, filho de Simeia, irmão de Davi. Jonadabe era um homem muito astuto. ^v3
 
-**4** O qual lhe disse: Por que tu de dia em dia tanto emagreces, sendo filho do rei? Não mo farás saber a mim? Então lhe disse Amnom: Amo a Tamar, irmã de Absalão, meu irmão. ^v4
+**4** "Ele disse a Amnom: ""Por que, filho do rei, estás deprimido toda manhã? Não queres me contar?"". Amnom lhe respondeu: ""Eu amo Tamar, irmã de meu irmão Absalão""." ^v4
 
-**5** E Jonadabe lhe disse: Deita-te na tua cama, e finge-te doente; e, quando teu pai te vier visitar, dize-lhe: Peço-te que minha irmã Tamar venha, e me dê de comer pão, e prepare a comida diante dos meus olhos, para que eu a veja e coma da sua mão. ^v5
+**5** "Então, Jonadabe lhe disse: ""Deita-te na tua cama e finge estar doente. Quando teu pai vier te ver, pede-lhe: 'Poderias enviar, por favor, minha irmã Tamar para me dar alguma coisa de comer e cozinhar diante de mim, para que eu veja e coma da sua mão?'""." ^v5
 
-**6** Deitou-se, pois, Amnom, e fingiu-se doente; e, vindo o rei visitá-lo, disse Amnom, ao rei: Peço-te que minha irmã Tamar venha, e prepare dois bolos diante dos meus olhos, para que eu coma de sua mão. ^v6
+**6** "Amnom se deitou e fingiu estar doente. Quando o rei veio vê-lo, Amnom disse ao rei: ""Por favor, envia minha irmã Tamar para fazer alguma comida diante de mim, para que eu possa comer das mãos dela""." ^v6
 
-**7** Mandou então Davi à casa, a Tamar, dizendo: Vai à casa de Amnom, teu irmão, e faze-lhe alguma comida. ^v7
+**7** "Davi, então, mandou Tamar, que estava no palácio, e disse-lhe: ""Vai à casa de teu irmão Amnom e prepara-lhe algum alimento""." ^v7
 
-**8** E foi Tamar à casa de Amnom, seu irmão (ele porém estava deitado), e tomou massa, e a amassou, e fez bolos diante dos seus olhos, e cozeu os bolos. ^v8
+**8** Assim, Tamar foi à casa de seu irmão Amnom, que estava deitado. Ela pegou a massa e a amassou, fez pão à sua vista, e o assou. ^v8
 
-**9** E tomou a frigideira, e os tirou diante dele; porém ele recusou comer. E disse Amnom: Fazei retirar a todos da minha presença. E todos se retiraram dele. ^v9
+**9** "Ela tomou a forma e deu o pão a ele; porém, ele se recusou a comer. Então, Amnom disse aos outros presentes: ""Saí todos para longe de mim"". Então, todos se retiraram dele." ^v9
 
-**10** Então disse Amnom a Tamar: Traze a comida ao quarto, e comerei da tua mão. E tomou Tamar os bolos que fizera, e levou-os a Amnom, seu irmão, no quarto. ^v10
+**10** "Então, Amnom disse a Tamar: ""Traz o alimento ao meu quarto para que eu possa comer de tua mão"". Então, Tamar tomou o pão que havia feito e o levou ao quarto de Amnom, seu irmão." ^v10
 
-**11** E chegando-lhos, para que comesse, pegou dela, e disse-lhe: Vem, deita-te comigo, minha irmã. ^v11
+**11** "Quando ela lhe trouxe o alimento, ele a segurou e disse: ""Vem, deita-te comigo, minha irmã""." ^v11
 
-**12** Porém ela lhe disse: Não, meu irmão, não me forces, porque não se faz assim em Israel; não faças tal loucura. ^v12
+**12** "Ela lhe respondeu: ""Não, meu irmão, não me forces! Não se faz isso em Israel. Não faças essa coisa horrível!" ^v12
 
-**13** Porque, aonde iria eu com a minha vergonha? E tu serias como um dos loucos de Israel. Agora, pois, peço-te que fales ao rei, porque não me negará a ti. ^v13
+**13** "Como eu poderia esconder a minha vergonha? E tu? Tu serias como um dos loucos de Israel! Agora, por favor, fala com o rei! Ele não me negará a ti""." ^v13
 
-**14** Porém ele não quis dar ouvidos à sua voz; antes, sendo mais forte do que ela, a forçou, e se deitou com ela. ^v14
+**14** Amnon não a ouviu. Como ele era mais forte do que Tamar, ele a segurou e deitou-se com ela. ^v14
 
-**15** Depois Amnom sentiu grande aversão por ela, pois maior era o ódio que sentiu por ela do que o amor com que a amara. E disse-lhe Amnom: Levanta-te, e vai-te. ^v15
+**15** "Então, Amnom odiou Tamar com extrema aversão. Ele a odiou mais do que a havia desejado. Amnom lhe disse: ""Levanta e sai""." ^v15
 
-**16** Então ela lhe disse: Não há razão de me despedires assim; maior seria este mal do que o outro que já me tens feito. Porém não lhe quis dar ouvidos. ^v16
+**16** "Ela lhe respondeu: ""Não! Porque este grande mal de me fazer sair é pior do que o que me fizeste!"". Mas Amnom não a ouviu." ^v16
 
-**17** E chamou a seu moço que o servia, e disse: Ponha fora a esta, e fecha a porta após ela. ^v17
+**17** "Ao invés disso, ele chamou seu servo pessoal e lhe disse: ""Tira esta mulher de diante de mim, e tranca a porta após ela""." ^v17
 
-**18** E trazia ela uma roupa de muitas cores (porque assim se vestiam as filhas virgens dos reis); e seu servo a pôs para fora, e fechou a porta após ela. ^v18
+**18** Então, seu servo a colocou para fora e trancou a porta após ela. Tamar estava usando uma túnica toda trabalhada, porque era assim que as filhas virgens do rei se vestiam. ^v18
 
-**19** Então Tamar tomou cinza sobre a sua cabeça, e a roupa de muitas cores que trazia rasgou; e pôs as mãos sobre a cabeça, e foi andando e clamando. ^v19
+**19** Ela colocou cinzas em sua cabeça e rasgou a sua túnica; colocou as mãos sobre sua cabeça e se foi, chorando alto enquanto ia. ^v19
 
-**20** E Absalão, seu irmão, lhe disse: Esteve Amnom, teu irmão, contigo? Ora, pois, minha irmã, cala-te; é teu irmão. Não se angustie o teu coração por isto. Assim ficou Tamar, e esteve solitária em casa de Absalão seu irmão. ^v20
+**20** "Absalão, seu irmão lhe disse: ""Esteve Amnom, teu irmão, contigo? Porém, agora fica calada, minha irmã. Ele é teu irmão. Não leves essas coisas ao teu coração"". Então, Tamar permaneceu sozinha na casa de seu irmão, Absalão." ^v20
 
-**21** E, ouvindo o rei Davi todas estas coisas, muito se lhe acendeu a ira. ^v21
+**21** Mas, quando o rei Davi ouviu sobre todas essas coisas, ele se enfureceu muito. ^v21
 
-**22** Porém Absalão não falou com Amnom, nem mal nem bem; porque Absalão odiava a Amnom, por ter forçado a Tamar sua irmã. ^v22
+**22** Absalão não disse nada a Amnom porque Absalão o odiou pelo que ele havia feito a Tamar, e como ele havia desonrado sua irmã. ^v22
 
-**23** E aconteceu que, passados dois anos inteiros, Absalão tinha tosquiadores em Baal-Hazor, que está junto a Efraim; e convidou Absalão a todos os filhos do rei. ^v23
+**23** Aconteceu que, depois de dois anos inteiros, Absalão tinha tosquiadores trabalhando em Baal-Hazor, que fica perto de Efraim. Absalão convidou todos os filhos do rei para visitá-lo ali. ^v23
 
-**24** E foi Absalão ao rei, e disse: Eis que teu servo tem tosquiadores; peço que o rei e os seus servos venham com o teu servo. ^v24
+**24** "Absalão foi ao rei e disse: ""Agora vê, teus servos estão tosquiando as ovelhas. Por favor, que venham o rei e seus servos comigo, o teu servo""." ^v24
 
-**25** O rei, porém, disse a Absalão: Não, filho meu, não vamos todos juntos, para não te sermos pesados. E instou com ele; porém não quis ir, mas o abençoou. ^v25
+**25** "O rei respondeu a Absalão: ""Não, meu filho, não devemos ir todos nós, porque nós seríamos um peso para ti"". Absalão encorajou o rei, mas este não foi; entretanto, ele abençoou Absalão." ^v25
 
-**26** Então disse Absalão: Quando não, deixa ir conosco Amnom, meu irmão. Porém o rei disse: Para que iria contigo? ^v26
+**26** "Então, Absalão disse: ""Se não, por favor deixa meu irmão Amnom ir conosco"". O rei lhe perguntou: ""Por que Amnom deve ir contigo?""." ^v26
 
-**27** E, instando Absalão com ele, deixou ir com ele a Amnom, e a todos os filhos do rei. ^v27
+**27** Absalão pressionou Davi, e ele deixou Amnom e todos os outros filhos irem com ele. ^v27
 
-**28** E Absalão deu ordem aos seus servos, dizendo: Tomai sentido; quando o coração de Amnom estiver alegre do vinho, e eu vos disser: Feri a Amnom, então o matareis; não temais: porque porventura não sou eu quem vo-lo ordenei? Esforçai-vos, e sede valentes. ^v28
+**28** "Absalão ordenou aos seus servos, dizendo: ""Ouvi atentamente: quando Amnom se embriagar com vinho e quando eu vos disser 'atacai Amnom', então, matai-o. Não fiqueis com medo. Não sou eu quem vos ordenei? Sede bravos e corajosos!""." ^v28
 
-**29** E os servos de Absalão fizeram a Amnom como Absalão lho havia ordenado. Então todos os filhos do rei se levantaram, e montaram cada um no seu mulo, e fugiram. ^v29
+**29** Os servos de Absalão fizeram a Amnom conforme as suas ordens. Então, todos os filhos do rei se levantaram, e cada homem montou em sua mula e fugiu. ^v29
 
-**30** E aconteceu que, estando eles ainda no caminho, chegou a nova a Davi, dizendo-se: Absalão feriu a todos os filhos do rei, e nenhum deles ficou. ^v30
+**30** "E aconteceu que, enquanto eles estavam na estrada, as notícias chegaram a Davi, que disse: ""Absalão matou todos os filhos do rei, e não sobrou nenhum""." ^v30
 
-**31** Então o rei se levantou, e rasgou as suas vestes, e se lançou por terra; da mesma maneira todos os seus servos estavam com vestes rotas. ^v31
+**31** Então, o rei se levantou, rasgou suas vestes e se prostrou no chão, e todos os seus servos estavam com suas vestes rasgadas. ^v31
 
-**32** Mas Jonadabe, filho de Siméia, irmão de Davi, respondeu, e disse: Não diga o meu senhor que mataram a todos os moços filhos do rei, porque só morreu Amnom; porque assim tinha resolvido fazer Absalão, desde o dia em que forçou a Tamar sua irmã. ^v32
+**32** "Jonadabe, filho de Simeia, irmão de Davi, respondeu e disse: ""Meu senhor, não deves acreditar que mataram todos os jovens, filhos do rei, pois só Amnom está morto. Absalão planejou isso desde o dia em que Amnon violentou sua irmã Tamar." ^v32
 
-**33** Não se lhe ponha, pois, agora no coração do rei meu senhor tal coisa, dizendo: Morreram todos os filhos do rei; porque só morreu Amnom. ^v33
+**33** "Por isso, meu senhor, o rei não deve colocar essas coisas no coração e acreditar que todos os filhos do rei estão mortos, pois só Amnom está morto""." ^v33
 
-**34** E Absalão fugiu; e o moço que estava de guarda, levantou os seus olhos, e olhou; e eis que muito povo vinha pelo caminho por detrás dele, pelo lado do monte. ^v34
+**34** Absalão fugiu. Um servo que estava de guarda levantou os olhos e viu muita gente vindo no caminho, na encosta, a oeste dele. ^v34
 
-**35** Então disse Jonadabe ao rei: Eis aqui vêm os filhos do rei; conforme à palavra de teu servo, assim sucedeu. ^v35
+**35** "Então, Jonadabe disse ao rei: ""Vê, os filhos do rei estão vindo, assim como teu servo disse""." ^v35
 
-**36** E aconteceu que, como acabou de falar, os filhos do rei vieram, e levantaram a sua voz, e choraram; e também o rei e todos os seus servos choraram amargamente. ^v36
+**36** Assim, aconteceu que, acabando de falar, os filhos do rei chegaram, levantaram sua voz e choraram. O rei e todos os seus servos também choraram amargamente. ^v36
 
-**37** Assim Absalão fugiu, e foi a Talmai, filho de Amiur, rei de Gesur. E Davi pranteava por seu filho todos aqueles dias. ^v37
+**37** Porém, Absalão fugiu para Talmai, filho de Amiur, rei de Gesur. Davi lamentou por seu filho todos os dias. ^v37
 
-**38** Assim Absalão fugiu, e foi para Gesur; esteve ali três anos. ^v38
+**38** Absalão fugiu e foi para Gesur, onde ficou por três anos. ^v38
 
-**39** Então tinha o rei Davi saudades de Absalão; porque já se tinha consolado acerca da morte de Amnom. ^v39
+**39** Em seu pensamento, o rei Davi desejava ir e ver Absalão, porque ele estava confortado sobre a morte de Amnom. ^v39

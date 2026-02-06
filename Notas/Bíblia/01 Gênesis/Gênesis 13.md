@@ -1,43 +1,42 @@
 ---
-Livro: "[[Gênesis|Gênesis]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Gênesis|Gênesis]]"
+tags: [biblia]
 ---
 
 # Gênesis 13
 
-**1** Subiu, pois, Abrão do Egito para o lado do sul, ele e sua mulher, e tudo o que tinha, e com ele Ló. ^v1
+**1** Então Abrão subiu do Egito para o Neguebe. Ele, sua mulher e tudo o que tinha. Ló também foi com ele. ^v1
 
-**2** E era Abrão muito rico em gado, em prata e em ouro. ^v2
+**2** Abrão era muito rico: possuía gado, prata e ouro. ^v2
 
-**3** E fez as suas jornadas do sul até Betel, até ao lugar onde a princípio estivera a sua tenda, entre Betel e Ai; ^v3
+**3** Ele continuou sua jornada de Neguebe para Betel, até o lugar onde sua tenda já esteve antes, entre Betel e Ai. ^v3
 
-**4** Até ao lugar do altar que outrora ali tinha feito; e Abrão invocou ali o nome do Senhor. ^v4
+**4** Esse é o lugar onde estava o altar que ele havia construído anteriormente, e ali Abrão invocou o nome de Yahweh. ^v4
 
-**5** E também Ló, que ia com Abrão, tinha rebanhos, gado e tendas. ^v5
+**5** Nessa época, Ló, que acompanhava Abrão, também possuía rebanhos e tendas. ^v5
 
-**6** E não tinha capacidade a terra para poderem habitar juntos; porque os seus bens eram muitos; de maneira que não podiam habitar juntos. ^v6
+**6** A terra não era suficiente para sustentá-los, pois os seus bens eram muitos, de modo que não podiam viver juntos. ^v6
 
-**7** E houve contenda entre os pastores do gado de Abrão e os pastores do gado de Ló; e os cananeus e os perizeus habitavam então na terra. ^v7
+**7** Houve contenda entre os pastores dos rebanhos de Abrão e os pastores dos rebanhos de Ló. Nesse tempo, os cananeus e os ferezeus habitavam essa terra. ^v7
 
-**8** E disse Abrão a Ló: Ora, não haja contenda entre mim e ti, e entre os meus pastores e os teus pastores, porque somos irmãos. ^v8
+**8** "Disse Abrão a Ló: ""Que não haja contenda entre mim e ti, nem entre os meus pastores e os teus pastores, pois somos irmãos." ^v8
 
-**9** Não está toda a terra diante de ti? Eia, pois, aparta-te de mim; e se escolheres a esquerda, irei para a direita; e se a direita escolheres, eu irei para a esquerda. ^v9
+**9** "Não está diante de ti toda a terra? Peço-te que te apartes de mim. Se fores para a esquerda, então irei para a direita. Ou se fores para a direita, irei para a esquerda""." ^v9
 
-**10** E levantou Ló os seus olhos, e viu toda a campina do Jordão, que era toda bem regada, antes do Senhor ter destruído Sodoma e Gomorra, e era como o jardim do Senhor, como a terra do Egito, quando se entra em Zoar. ^v10
+**10** Então Ló olhou ao redor e viu que todo o vale do Jordão era bem irrigado por todo o caminho até Zoar; era como o jardim de Yahweh, como a terra do Egito. Isso foi antes de Yahweh destruir Sodoma e Gomorra. ^v10
 
-**11** Então Ló escolheu para si toda a campina do Jordão, e partiu Ló para o oriente, e apartaram-se um do outro. ^v11
+**11** Assim Ló escolheu para si todo o vale do Jordão e partiu para o Oriente, e separaram-se um do outro. ^v11
 
-**12** Habitou Abrão na terra de Canaã e Ló habitou nas cidades da campina, e armou as suas tendas até Sodoma. ^v12
+**12** Abrão habitou na terra de Canaã, e Ló, nas cidades do vale, armando suas tendas até Sodoma. ^v12
 
-**13** Ora, eram maus os homens de Sodoma, e grandes pecadores contra o Senhor. ^v13
+**13** Ora, os homens de Sodoma eram extremamente maus e grandes pecadores contra Yahweh. ^v13
 
-**14** E disse o Senhor a Abrão, depois que Ló se apartou dele: Levanta agora os teus olhos, e olha desde o lugar onde estás, para o lado do norte, e do sul, e do oriente, e do ocidente; ^v14
+**14** "Yahweh disse a Abrão, após Ló ter se separado dele: ""Ergue os teus olhos e olha desde o lugar onde estás para o norte, para o sul, para o oriente e para o ocidente." ^v14
 
-**15** Porque toda esta terra que vês, te hei de dar a ti, e à tua descendência, para sempre. ^v15
+**15** Toda esta terra que vês, Eu darei a ti e aos teus descendentes para sempre. ^v15
 
-**16** E farei a tua descendência como o pó da terra; de maneira que se alguém puder contar o pó da terra, também a tua descendência será contada. ^v16
+**16** E farei tua descendência tão numerosa quanto o pó da terra, de modo que, se alguém pudesse contar o pó da terra, então tua descendência também poderia ser contada. ^v16
 
-**17** Levanta-te, percorre essa terra, no seu comprimento e na sua largura; porque a ti a darei. ^v17
+**17** "Levanta-te, percorre esta terra no seu comprimento e largura, pois para ti a darei""." ^v17
 
-**18** E Abrão mudou as suas tendas, e foi, e habitou nos carvalhais de Manre, que estão junto a Hebrom; e edificou ali um altar ao Senhor. ^v18
+**18** Então Abrão desarmou suas tendas e habitou perto dos carvalhos de Manre, situados no Hebrom, onde edificou um altar a Yahweh. ^v18

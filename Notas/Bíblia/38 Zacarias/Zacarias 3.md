@@ -1,27 +1,26 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Zacarias|Zacarias]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Zacarias|Zacarias]]"
+tags: [biblia]
 ---
 
 # Zacarias 3
 
-**1** E ele mostrou-me o sumo sacerdote Josué, o qual estava diante do anjo do SENHOR, e Satanás estava à sua mão direita, para se lhe opor. ^v1
+**1** Então, Yahweh mostrou-me Josué, o sumo sacerdote, parado diante do anjo do Senhor, e Satanás estava em pé ao seu lado direito para acusar-lhe do pecado. ^v1
 
-**2** Mas o Senhor disse a Satanás: O Senhor te repreenda, ó Satanás, sim, o Senhor, que escolheu Jerusalém, te repreenda; não é este um tição tirado do fogo? ^v2
+**2** "O anjo de Yahweh disse a Satanás: ""Que Yahweh te repreenda, Satanás! Aquele que escolheu Jerusalém te repreenda! Não é este um tição tirado do fogo?""." ^v2
 
-**3** Josué, vestido de vestes sujas, estava diante do anjo. ^v3
+**3** Josué estava em pé diante do anjo e vestia uma roupa suja. ^v3
 
-**4** Então respondeu, aos que estavam diante dele, dizendo: Tirai-lhe estas vestes sujas. E a Josué disse: Eis que tenho feito com que passe de ti a tua iniqüidade, e te vestirei de vestes finas. ^v4
+**4** "O anjo falou para aqueles que estavam em pé diante dele: ""Tirai-lhe as roupas sujas"". E disse a Josué: ""Vê! Tenho posto a tua iniquidade para que passe de ti e te vestirei com roupas finas""." ^v4
 
-**5** E disse eu: Ponham-lhe uma mitra limpa sobre a sua cabeça. E puseram uma mitra limpa sobre a sua cabeça, e vestiram-no das roupas; e o anjo do Senhor estava em pé. ^v5
+**5** "Ele disse: ""Deixa que coloquem um turbante limpo sobre a tua cabeça!"". E colocaram um turbante limpo sobre a cabeça de Josué e lhe vestiram com roupas limpas no momento em que o anjo de Yahweh estava ali, em pé!" ^v5
 
-**6** E o anjo do Senhor protestou a Josué, dizendo: ^v6
+**6** Em seguida, o anjo de Yahweh, solenemente, ordenou a Josué, dizendo: ^v6
 
-**7** Assim diz o Senhor dos Exércitos: Se andares nos meus caminhos, e se observares a minha ordenança, também tu julgarás a minha casa, e também guardarás os meus átrios, e te darei livre acesso entre os que estão aqui. ^v7
+**7** """Assim diz Yahweh dos Exércitos: Se andares nos Meus caminhos, e, se guardares os Meus mandamentos, tu governarás a Minha casa e guardarás os Meus átrios, pois deixarei que tenhas livre acesso entre os que aqui estão." ^v7
 
-**8** Ouve, pois, Josué, sumo sacerdote, tu e os teus companheiros que se assentam diante de ti, porque são homens portentosos; eis que eu farei vir o meu servo, o RENOVO. ^v8
+**8** Ouvi, Josué, sumo sacerdote, tu e os teus companheiros que vivem contigo! Estes homens são um sinal, pois Eu mesmo levantarei Meu servo, o Renovo. ^v8
 
-**9** Porque eis aqui a pedra que pus diante de Josué; sobre esta pedra única estão sete olhos; eis que eu esculpirei a sua escultura, diz o Senhor dos Exércitos, e tirarei a iniqüidade desta terra num só dia. ^v9
+**9** "Agora, olha para esta pedra que Eu coloquei diante de Josué. Sobre esta pedra, estão sete olhos e nela gravarei uma inscrição"". Esta é a declaração de Yahweh dos Exércitos: ""e tirarei o pecado desta terra em um dia""." ^v9
 
-**10** Naquele dia, diz o Senhor dos Exércitos, cada um de vós convidará o seu próximo para debaixo da videira e para debaixo da figueira. ^v10
+**10** """Naquele dia"" — esta é a declaração de Yahweh dos Exércitos — ""cada homem convidará o seu vizinho para se sentar debaixo de sua videira e debaixo de sua figueira""." ^v10

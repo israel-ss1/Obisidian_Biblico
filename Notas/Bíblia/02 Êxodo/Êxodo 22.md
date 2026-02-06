@@ -1,69 +1,68 @@
 ---
-Livro: "[[Êxodo|Êxodo]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Êxodo|Êxodo]]"
+tags: [biblia]
 ---
 
 # Êxodo 22
 
-**1** Se alguém furtar boi ou ovelha, e o degolar ou vender, por um boi pagará cinco bois, e pela ovelha quatro ovelhas. ^v1
+**1** Se um homem roubar um boi ou uma ovelha e os matar ou vender, então ele deve pagar cinco bois por um boi, e quatro ovelhas por uma ovelha. ^v1
 
-**2** Se o ladrão for achado roubando, e for ferido, e morrer, o que o feriu não será culpado do sangue. ^v2
+**2** Se um ladrão for encontrado arrombando uma casa, e, se alguém o ferir e ele morrer, nesse caso nenhuma culpa pelo assassinato será colocado sobre a pessoa que o matar. ^v2
 
-**3** Se o sol houver saído sobre ele, o agressor será culpado do sangue; o ladrão fará restituição total; e se não tiver com que pagar, será vendido por seu furto. ^v3
+**3** Mas, se o sol nascer antes que ele arrombe, culpa pelo assassinato será colocada sobre a pessoa que o matou. O ladrão deverá fazer a restituição do que roubou. Se ele não possuir nada, então ele deverá ser vendido por seu roubo. ^v3
 
-**4** Se o furto for achado vivo na sua mão, seja boi, ou jumento, ou ovelha, pagará o dobro. ^v4
+**4** Se o animal roubado for encontrado vivo em sua posse, seja um boi, um jumento ou uma ovelha, ele deverá pagar de volta em dobro. ^v4
 
-**5** Se alguém fizer pastar o seu animal num campo ou numa vinha, e largá-lo para comer no campo de outro, o melhor do seu próprio campo e o melhor da sua própria vinha restituirá. ^v5
+**5** Se um homem levar seu rebanho para pastar em um campo ou em uma vinha e deixar seus animais soltos, e eles pastarem no campo de outro homem, ele deverá fazer a restituição com o melhor de sua própria vinha. ^v5
 
-**6** Se irromper um fogo, e pegar nos espinhos, e queimar a meda de trigo, ou a seara, ou o campo, aquele que acendeu o fogo totalmente pagará o queimado. ^v6
+**6** Se um incêndio começar e se espalhar entre os espinheiros, de maneira que os grãos colhidos, ou os grãos plantados, ou um campo for consumido, aquele que causou o incêndio deverá fazer a restituição. ^v6
 
-**7** Se alguém der ao seu próximo dinheiro, ou bens, a guardar, e isso for furtado da casa daquele homem, o ladrão, se for achado, pagará o dobro. ^v7
+**7** Se um homem der dinheiro e bens a seu vizinho para serem guardados com segurança, e eles forem roubados da casa desse homem, se o ladrão for encontrado, esse ladrão deverá pagar em dobro. ^v7
 
-**8** Se o ladrão não for achado, então o dono da casa será levado diante dos juízes, a ver se não pôs a sua mão nos bens do seu próximo. ^v8
+**8** Porém, se o ladrão não for encontrado, então o dono da casa deverá apresentar-se diante dos juízes a fim de ver se ele colocou sua própria mão na propriedade de seus vizinho. ^v8
 
-**9** Sobre todo o negócio fraudulento, sobre boi, sobre jumento, sobre gado miúdo, sobre roupa, sobre toda a coisa perdida, de que alguém disser que é sua, a causa de ambos será levada perante os juízes; aquele a quem condenarem os juízes pagará em dobro ao seu próximo. ^v9
+**9** "Para toda disputa, seja por um boi, um jumento, uma ovelha, roupas, ou qualquer outra coisa que tenha sido perdida, sobre a qual alguém diga: ""Isto pertence a mim"", a causa das duas partes deverá ser apresentada diante dos juízes. O homem a quem o juiz considerar culpado deve pagar o dobro a seu vizinho." ^v9
 
-**10** Se alguém der a seu próximo a guardar um jumento, ou boi, ou ovelha, ou outro animal, e este morrer, ou for dilacerado, ou arrebatado, ninguém o vendo, ^v10
+**10** Se um homem der a seu vizinho um jumento, um boi, uma ovelha ou qualquer animal para guardar e, se este morrer ou se machucar ou for levado sem que ninguém o veja, ^v10
 
-**11** Então haverá juramento do Senhor entre ambos, de que não pôs a sua mão nos bens do seu próximo; e seu dono o aceitará, e o outro não o restituirá. ^v11
+**11** um juramento a Yahweh deverá ser feito por ambos como forma de verificar se uma pessoa colocou sua mão na propriedade de seu vizinho. O dono deverá aceitá-lo e o outro não fará restituição. ^v11
 
-**12** Mas, se de fato lhe tiver sido furtado, pagá-lo-á ao seu dono. ^v12
+**12** Mas, se o animal tiver sido roubado dele, o outro deverá fazer a restituição ao seu dono. ^v12
 
-**13** Porém se lhe for dilacerado, trá-lo-á em testemunho disso, e não pagará o dilacerado. ^v13
+**13** Se um animal tiver sido dilacerado, permiti que o outro homem traga o animal como evidência. Ele não terá que pagar pelo que foi dilacerado. ^v13
 
-**14** E se alguém pedir emprestado a seu próximo algum animal, e for danificado ou morto, não estando presente o seu dono, certamente o pagará. ^v14
+**14** Se um homem emprestar qualquer animal de seu vizinho e o animal se machucar ou morrer sem que o dono esteja presente, o outro homem deverá fazer a restituição. ^v14
 
-**15** Se o seu dono estava presente, não o pagará; se foi alugado, será pelo seu aluguel. ^v15
+**15** Mas, se o dono estiver presente, o outro homem não terá que pagar; se o animal tiver sido alugado, ele será pago por seu valor de locação. ^v15
 
-**16** Se alguém enganar alguma virgem, que não for desposada, e se deitar com ela, certamente a dotará e tomará por sua mulher. ^v16
+**16** Se um homem seduzir uma virgem que não esteja prometida, e deitar-se com ela, ele deverá certamente torná-la sua esposa pagando o dote requerido. ^v16
 
-**17** Se seu pai inteiramente recusar dar-lha, pagará ele em dinheiro conforme ao dote das virgens. ^v17
+**17** Se seu pai recusar-se completamente a entregá-la, ele deverá pagar o valor equivalente ao dote das virgens. ^v17
 
-**18** A feiticeira não deixarás viver. ^v18
+**18** Vós não devereis permitir que uma feiticeira viva. ^v18
 
-**19** Todo aquele que se deitar com animal, certamente morrerá. ^v19
+**19** Aquele que dormir com um animal certamente deverá ser condenado à morte. ^v19
 
-**20** O que sacrificar aos deuses, e não só ao Senhor, será morto. ^v20
+**20** Aquele que sacrificar a qualquer deus que não seja a Yahweh deverá ser completamente destruído. ^v20
 
-**21** O estrangeiro não afligirás, nem o oprimirás; pois estrangeiros fostes na terra do Egito. ^v21
+**21** Não devereis maltratar um estrangeiro ou oprimi-lo, pois fostes estrangeiros na terra do Egito. ^v21
 
-**22** A nenhuma viúva nem órfão afligireis. ^v22
+**22** Não devereis maltratar nenhuma viúva ou órfão. ^v22
 
-**23** Se de algum modo os afligires, e eles clamarem a mim, eu certamente ouvirei o seu clamor. ^v23
+**23** Se porventura os afligirdes, e eles clamarem a Mim, Yahweh, certamente ouvirei o clamor deles. ^v23
 
-**24** E a minha ira se acenderá, e vos matarei à espada; e vossas mulheres ficarão viúvas, e vossos filhos órfãos. ^v24
+**24** Minha ira se acenderá, e vos matarei ao fio de espada; vossas esposas se tornarão viúvas e vossos filhos se tornarão órfãos. ^v24
 
-**25** Se emprestares dinheiro ao meu povo, ao pobre que está contigo, não te haverás com ele como um usurário; não lhe imporeis usura. ^v25
+**25** Se emprestardes dinheiro a qualquer um dentre Meu povo que seja pobre, não devereis agir como um credor para com ele ou cobrar dele juros. ^v25
 
-**26** Se tomares em penhor a roupa do teu próximo, lho restituirás antes do pôr do sol, ^v26
+**26** Se tomardes o manto de seu vizinho como penhor, devereis devolvê-lo antes que o sol se ponha, ^v26
 
-**27** Porque aquela é a sua cobertura, e o vestido da sua pele; em que se deitaria? Será pois que, quando clamar a mim, eu o ouvirei, porque sou misericordioso. ^v27
+**27** pois este é o único cobertor para seu corpo; é seu manto para seu corpo. Onde mais ele poderá dormir? Quando ele clamar a Mim, Eu o ouvirei, pois sou compassivo. ^v27
 
-**28** A Deus não amaldiçoarás, e o príncipe dentre o teu povo não maldirás. ^v28
+**28** Vós não devereis blasfemar contra Mim, Deus, nem amaldiçoar o juiz de vosso povo. ^v28
 
-**29** As tuas primícias, e os teus licores não retardarás; o primogênito de teus filhos me darás. ^v29
+**29** Vós não devereis reter ofertas de vossa colheita ou de vossos lagares. Devereis Me oferecer vossos primogênitos. ^v29
 
-**30** Assim farás dos teus bois e das tuas ovelhas: sete dias estarão com sua mãe, e ao oitavo dia mos darás. ^v30
+**30** Vós fareis o mesmo com vossos bois e vossas ovelhas. Por sete dias, eles ficarão com suas mães, mas, ao oitavo dia, oferecei-os a Mim. ^v30
 
-**31** E ser-me-eis homens santos; portanto não comereis carne despedaçada no campo; aos cães a lançareis. ^v31
+**31** Vós sereis povo separado para Mim. Então, não devereis comer carne dilacerada por animais no campo. Em vez disso, devei jogá-la aos cães. ^v31

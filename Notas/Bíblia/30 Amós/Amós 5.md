@@ -1,61 +1,60 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Amós|Amós]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Amós|Amós]]"
+tags: [biblia]
 ---
 
 # Amós 5
 
-**1** Ouvi esta palavra, que levanto como uma lamentação sobre vós, ó casa de Israel. ^v1
+**1** Ouvi estas palavras que Eu trago como um lamento sobre vós, casa de Israel. ^v1
 
-**2** A virgem de Israel caiu, e não mais tornará a levantar-se; desamparada está na sua terra, não há quem a levante. ^v2
+**2** "A virgem de Israel caiu; não se levantará mais; está esquecida em sua terra; não há quem a levante""." ^v2
 
-**3** Porque assim diz o Senhor DEUS: A cidade da qual saem mil conservará cem, e aquela da qual saem cem conservará dez, para a casa de Israel. ^v3
+**3** "Pois assim diz o Senhor Yahweh: ""À cidade que saiu com mil restarão cem, e à que saiu com cem restarão dez dos que pertencem à casa de Israel""." ^v3
 
-**4** Porque assim diz o Senhor à casa de Israel: Buscai-me, e vivei. ^v4
+**4** "Pois assim diz Yahweh à casa de Israel: ""Buscai-Me e vivei!" ^v4
 
-**5** Mas não busqueis a Betel, nem venhais a Gilgal, nem passeis a Berseba, porque Gilgal certamente será levada ao cativeiro, e Betel será desfeita em nada. ^v5
+**5** Não busqueis Betel; não entreis em Gilgal; nem passeis a Berseba. Porque Gilgal certamente será levada cativa, e Betel se tornará em nada. ^v5
 
-**6** Buscai ao Senhor, e vivei, para que ele não irrompa na casa de José como um fogo, e a consuma, e não haja em Betel quem o apague. ^v6
+**6** Buscai a Yahweh e vivei, ou Ele irromperá como fogo na casa de José. Ele devorará, e não haverá ninguém para apagá-lo em Betel. ^v6
 
-**7** Vós que converteis o juízo em alosna, e deitais por terra a justiça, ^v7
+**7** "Essas pessoas transformam a justiça em coisa amarga e lançam por terra a retidão!""." ^v7
 
-**8** Procurai o que faz o sete-estrêlo e o órion e torna a sombra da noite em manhã, e faz escurecer o dia como a noite, que chama as águas do mar, e as derrama sobre a terra; o Senhor é o seu nome. ^v8
+**8** Deus fez as Plêiades e o Órion; Ele muda a escuridão em alvorada; Ele torna o dia em trevas com a noite e chama as águas do mar; Ele as derrama na face da terra. Yahweh é o Seu nome! ^v8
 
-**9** O que promove súbita destruição contra o forte; de modo que venha a destruição contra a fortaleza. ^v9
+**9** Ele traz súbita destruição sobre o forte, para que a destruição venha sobre a fortaleza. ^v9
 
-**10** Odeiam na porta ao que os repreende, e abominam ao que fala sinceramente. ^v10
+**10** Eles odeiam todos aqueles que os corrigem às portas da cidade, e abominam todos os que falam a verdade. ^v10
 
-**11** Portanto, visto que pisais o pobre e dele exigis um tributo de trigo, edificastes casas de pedras lavradas, mas nelas não habitareis; vinhas desejáveis plantastes, mas não bebereis do seu vinho. ^v11
+**11** Porque vós pisais o pobre e dele tomais porções de trigo. Embora tenhais construído casas de pedras trabalhadas, não vivereis nelas. Tendes deliciosas videiras, mas não bebereis do seu vinho. ^v11
 
-**12** Porque sei que são muitas as vossas transgressões e graves os vossos pecados; afligis o justo, tomais resgate, e rejeitais os necessitados na porta. ^v12
+**12** Pois Eu sei quantas são as vossas ofensas e quão grandes são vossos pecados. Vós que afligis o justo, tomais o suborno e rejeitais o necessitado às portas da cidade. ^v12
 
-**13** Portanto, o que for prudente guardará silêncio naquele tempo, porque o tempo será mau. ^v13
+**13** No entanto, neste momento, os prudentes estão em silêncio porque o tempo é mau. ^v13
 
-**14** Buscai o bem, e não o mal, para que vivais; e assim o Senhor, o Deus dos Exércitos, estará convosco, como dizeis. ^v14
+**14** Procurai o bem, e não o mal, para que possais viver. Pois Yahweh, o Deus dos Exércitos, certamente estará convosco, como dizeis que Ele está. ^v14
 
-**15** Odiai o mal, e amai o bem, e estabelecei na porta o juízo. Talvez o Senhor Deus dos Exércitos tenha piedade do remanescente de José. ^v15
+**15** Odiai o mal, amai o bem; estabelecei a justiça às portas da cidade. Talvez Yahweh, o Deus dos Exércitos, seja gracioso com o remanescente de José. ^v15
 
-**16** Portanto, assim diz o Senhor, o Deus dos Exércitos, o Senhor: Em todas as ruas haverá pranto, e em todas as estradas dirão: Ai! Ai! E ao lavrador chamarão para choro, e para pranto os que souberem prantear. ^v16
+**16** "Portanto, assim diz Yahweh, o Deus dos Exércitos, o Senhor: ""Haverá lamento em todas as praças, e eles dirão em todas as estradas, 'Ai de nós!' Eles chamarão os fazendeiros para o luto e os enlutados para lamentar." ^v16
 
-**17** E em todas as vinhas haverá pranto; porque passarei pelo meio de ti, diz o Senhor. ^v17
+**17** "Dentro de toda vinha haverá lamento, porque Eu passarei pelo meio de vós"", diz Yahweh." ^v17
 
-**18** Ai daqueles que desejam o dia do Senhor! Para que quereis vós este dia do Senhor? Será de trevas e não de luz. ^v18
+**18** Ai de vós que desejais o dia de Yahweh! Por que desejais o dia de Yahweh? Será de trevas, e não de luz. ^v18
 
-**19** É como se um homem fugisse de diante do leão, e se encontrasse com ele o urso; ou como se entrando numa casa, a sua mão encostasse à parede, e fosse mordido por uma cobra. ^v19
+**19** Será como quando um homem foge de um leão, e um urso o encontra; ou ele entra numa casa, coloca sua mão na parede, e uma cobra o morde. ^v19
 
-**20** Não será, pois, o dia do Senhor trevas e não luz, e escuridão, sem que haja resplendor? ^v20
+**20** Não será o dia de Yahweh um dia de trevas, e não de luz? De escuridão sem nenhuma claridade? ^v20
 
-**21** Odeio, desprezo as vossas festas, e as vossas assembléias solenes não me exalarão bom cheiro. ^v21
+**21** Odeio e detesto vossas festividades, não tenho prazer em vossas assembleias solenes. ^v21
 
-**22** E ainda que me ofereçais holocaustos, ofertas de alimentos, não me agradarei delas; nem atentarei para as ofertas pacíficas de vossos animais gordos. ^v22
+**22** Apesar de me oferecerdes vossos holocaustos e ofertas de manjares, não os aceitarei, nem olharei para as ofertas pacíficas de vossos animais cevados. ^v22
 
-**23** Afasta de mim o estrépito dos teus cânticos; porque não ouvirei as melodias das tuas violas. ^v23
+**23** Tirai de Mim o ruído das vossas canções; não mais ouvirei o som de vossas harpas. ^v23
 
-**24** Corra, porém, o juízo como as águas, e a justiça como o ribeiro impetuoso. ^v24
+**24** Antes, deixai a retidão fluir como água; e a justiça, como um rio perene. ^v24
 
-**25** Oferecestes-me vós sacrifícios e oblações no deserto por quarenta anos, ó casa de Israel? ^v25
+**25** Foi para mim que trouxestes sacrifícios e ofertas no deserto por quarenta anos, casa de Israel? ^v25
 
-**26** Antes levastes a tenda de vosso Moloque, e a estátua das vossas imagens, a estrela do vosso deus, que fizestes para vós mesmos. ^v26
+**26** Erguestes Sicute como vosso rei, e Quium, vosso deus astral, ídolos que fizestes para vós mesmos. ^v26
 
-**27** Portanto vos levarei cativos, para além de Damasco, diz o Senhor, cujo nome é o Deus dos Exércitos. ^v27
+**27** "Por isso, Eu vos levarei para o exílio, além de Damasco"", diz Yahweh, cujo nome é o Deus dos Exércitos." ^v27

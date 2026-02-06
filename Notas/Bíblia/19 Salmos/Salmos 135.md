@@ -1,49 +1,48 @@
 ---
-Livro: "[[Salmos|Salmos]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Salmos|Salmos]]"
+tags: [biblia]
 ---
 
 # Salmos 135
 
-**1** Louvai ao SENHOR. Louvai o nome do SENHOR; louvai-o, servos do SENHOR. ^v1
+**1** Louvai Yahweh. Louvai o nome de Yahweh. Louvai-o, servos de Yahweh, ^v1
 
-**2** Vós que assistis na casa do Senhor, nos átrios da casa do nosso Deus. ^v2
+**2** vós que servis na Casa de Yahweh, nos pátios da Casa de nosso Deus. ^v2
 
-**3** Louvai ao Senhor, porque o Senhor é bom; cantai louvores ao seu nome, porque é agradável. ^v3
+**3** Louvai Yahweh, pois Ele é bom; cantai louvores ao Seu nome, pois é prazeroso fazê-lo. ^v3
 
-**4** Porque o Senhor escolheu para si a Jacó, e a Israel para seu próprio tesouro. ^v4
+**4** Pois Yahweh escolheu Jacó para Si e Israel como Sua posse. ^v4
 
-**5** Porque eu conheço que o Senhor é grande e que o nosso Senhor está acima de todos os deuses. ^v5
+**5** Eu sei que Yahweh é grande, que nosso Senhor é sobre todos os deuses. ^v5
 
-**6** Tudo o que o Senhor quis, fez, nos céus e na terra, nos mares e em todos os abismos. ^v6
+**6** Tudo o que Yahweh deseja, Ele o faz nos céus, na terra, nos mares e nas profundezas do oceano. ^v6
 
-**7** Faz subir os vapores das extremidades da terra; faz os relâmpagos para a chuva; tira os ventos dos seus tesouros. ^v7
+**7** Ele traz as nuvens de longe, fazendo com que raios acompanhem a chuva, e trazendo os ventos para fora de Seus depósitos. ^v7
 
-**8** O que feriu os primogênitos do Egito, desde os homens até os animais; ^v8
+**8** Ele matou o primogênito do Egito, tanto dos homens quanto dos animais. ^v8
 
-**9** O que enviou sinais e prodígios no meio de ti, ó Egito, contra Faraó e contra os seus servos; ^v9
+**9** Ele enviou sinais e maravilhas ao Egito, contra Faraó e todos os seus servos. ^v9
 
-**10** O que feriu muitas nações, e matou poderosos reis: ^v10
+**10** Ele atacou muitas nações e matou reis poderosos: ^v10
 
-**11** A Siom, rei dos amorreus, e a Ogue, rei de Basã, e a todos os reinos de Canaã; ^v11
+**11** Siom, rei dos amorreus, e Ogue, rei de Basã, e todos os reinos de Canaã. ^v11
 
-**12** E deu a sua terra em herança, em herança a Israel, seu povo. ^v12
+**12** Ele deu sua terra como herança, uma herança para Israel, o Seu povo. ^v12
 
-**13** O teu nome, ó Senhor, dura perpetuamente, e a tua memória, ó Senhor, de geração em geração. ^v13
+**13** Seu nome, Yahweh, dura para sempre; Sua reputação, Yahweh, perdura por todas as gerações. ^v13
 
-**14** Pois o Senhor julgará o seu povo, e se arrependerá com respeito aos seus servos. ^v14
+**14** Pois Yahweh defende Seu povo e tem compaixão de Seus servos. ^v14
 
-**15** Os ídolos dos gentios são prata e ouro, obra das mãos dos homens. ^v15
+**15** Os ídolos das nações são prata e ouro, trabalho das mãos dos homens. ^v15
 
-**16** Têm boca, mas não falam; têm olhos, e não vêem, ^v16
+**16** Esses ídolos têm boca, mas não falam; têm olhos, mas não vêem; ^v16
 
-**17** Têm ouvidos, mas não ouvem, nem há respiro algum nas suas bocas. ^v17
+**17** eles têm ouvidos, mas não ouvem, nem há respiração em suas bocas. ^v17
 
-**18** Semelhantes a eles se tornem os que os fazem, e todos os que confiam neles. ^v18
+**18** Aqueles que o fazem são como eles, assim como todos os que confiam neles. ^v18
 
-**19** Casa de Israel, bendizei ao Senhor; casa de Arão, bendizei ao Senhor; ^v19
+**19** Descendentes de Israel, bendizei Yahweh; descendentes de Arão, bendizei Yahweh. ^v19
 
-**20** Casa de Levi, bendizei ao Senhor; vós os que temeis ao Senhor, louvai ao Senhor. ^v20
+**20** Descendentes de Levi, bendizei Yahweh; tu que honras Yahweh, bendizei Yahweh. ^v20
 
-**21** Bendito seja o Senhor desde Sião, que habita em Jerusalém. Louvai ao Senhor. ^v21
+**21** Bendito seja Yahweh em Sião, Ele que vive em Jerusalém. Louvai Yahweh. ^v21

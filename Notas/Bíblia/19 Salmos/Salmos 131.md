@@ -1,13 +1,10 @@
 ---
-Livro: "[[Salmos|Salmos]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Salmos|Salmos]]"
+tags: [biblia]
 ---
 
 # Salmos 131
 
-**1** SENHOR, o meu coração não se elevou nem os meus olhos se levantaram; não me exercito em grandes matérias, nem em coisas muito elevadas para mim. ^v1
+**2** Na verdade, eu acalmei e aquietei a minha alma; como uma criança desmamada de sua mãe; a minha alma, dentro de mim, é como essa criança. ^v2
 
-**2** Certamente que me tenho portado e sossegado como uma criança desmamada de sua mãe; a minha alma está como uma criança desmamada. ^v2
-
-**3** Espere Israel no Senhor, desde agora e para sempre. ^v3
+**3** Israel, espera em Yahweh, agora e para sempre. ^v3

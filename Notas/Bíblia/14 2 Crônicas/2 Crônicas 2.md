@@ -1,43 +1,42 @@
 ---
-Livro: "[[2 Crônicas|2 Crônicas]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/2 Crônicas|2 Crônicas]]"
+tags: [biblia]
 ---
 
 # 2 Crônicas 2
 
-**1** E determinou Salomão edificar uma casa ao nome do SENHOR, como também uma casa para o seu reino. ^v1
+**1** Salomão determinou a construção de uma casa ao nome de Yahweh e a construção de um palácio para seu reino. ^v1
 
-**2** E designou Salomão setenta mil homens de carga, e oitenta mil que talhavam pedras na montanha, e três mil e seiscentos inspetores sobre eles. ^v2
+**2** Salomão designou setenta mil homens para o carregamento, oitenta mil homens como cortadores de madeira nas montanhas e três mil e seiscentos homens para os supervisionarem. ^v2
 
-**3** E Salomão mandou dizer a Hirão, rei de Tiro: Como fizeste com Davi meu pai, mandando-lhe cedros, para edificar uma casa em que morasse, assim também faze comigo. ^v3
+**3** "Salomão enviou uma mensagem a Hirão, rei de Tiro, dizendo: ""Assim como tu fizeste com Davi meu pai, enviando-lhe cedros para construir uma casa para morar, faça o mesmo comigo." ^v3
 
-**4** Eis que estou para edificar uma casa ao nome do Senhor meu Deus, para lhe consagrar, para queimar perante ele incenso aromático, e para a apresentação contínua do pão da proposição, para os holocaustos da manhã e da tarde, nos sábados e nas luas novas, e nas festividades do Senhor nosso Deus; o que é obrigação perpétua de Israel. ^v4
+**4** Vê, eu vou construir uma casa ao nome de Yahweh, meu Deus, para dedicar a Ele, para queimar diante Dele especiarias de aroma suave, apresentar continuamente o pão da proposição e para queimar ofertas nas manhãs e ao entardecer, aos sábados, nas luas novas e nas festas fixas de Yahweh, nosso Deus. Esta lei será eterna para Israel. ^v4
 
-**5** E a casa que estou para edificar há de ser grande; porque o nosso Deus é maior do que todos os deuses. ^v5
+**5** A casa que construirei será bem grande, porque o nosso Deus é maior que todos os outros deuses. ^v5
 
-**6** Porém, quem seria capaz de lhe edificar uma casa, visto que os céus e até os céus dos céus o não podem conter? E quem sou eu, que lhe edificasse casa, salvo para queimar incenso perante ele? ^v6
+**6** Mas quem é capaz de construir a Deus uma casa, sendo que o universo inteiro e todo o céu não podem contê-lo? Quem sou eu para lhe construir uma casa, a não ser que seja para queimar sacrifícios? ^v6
 
-**7** Manda-me, pois, agora um homem hábil para trabalhar em ouro, em prata, em bronze, em ferro, em púrpura, em carmesim e em azul; e que saiba lavrar ao buril, juntamente com os peritos que estão comigo em Judá e em Jerusalém, os quais Davi, meu pai, preparou. ^v7
+**7** Então, envia-me um homem que seja habilidoso no trabalho com ouro, prata, bronze, ferro, e tecido púrpura, carmesim e lã azul, um homem que saiba como fazer todo tipo de entalhe em madeira. Ele se juntará aos especialistas que estão comigo em Judá e Jerusalém, os quais meu pai, Davi, providenciou. ^v7
 
-**8** Manda-me também madeiras de cedro, de cipreste, e algumins do Líbano; porque bem sei eu que os teus servos sabem cortar madeira no Líbano; e eis que os meus servos estarão com os teus servos. ^v8
+**8** Me mande também cedro, ciprestes e sândalo do Líbano, pois eu sei que os teus servos sabem como cortar mandeira do Líbano. Vê, meus servos estarão com teus servos, ^v8
 
-**9** E isso para prepararem muita madeira; porque a casa que estou para fazer há de ser grande e maravilhosa. ^v9
+**9** para preparar para mim madeira em abundância, pois a casa a qual eu estou construindo será grande e maravilhosa. ^v9
 
-**10** E eis que a teus servos, os cortadores, que cortarem a madeira, darei vinte mil coros de trigo malhado, vinte mil coros de cevada, vinte mil batos de vinho e vinte mil batos de azeite. ^v10
+**10** "Vê, eu darei para teus servos, os homens que cortarão madeira, vinte mil coros de trigo malhado, vinte mil coros de cevada, vinte mil batos de vinho e vinte mil batos de óleo""." ^v10
 
-**11** E Hirão, rei de Tiro, respondeu por escrito que enviou a Salomão, dizendo: Porque o Senhor tem amado o seu povo, te constituiu sobre ele rei. ^v11
+**11** "Então Hirão, o rei de Tiro, respondeu a Salomão: ""Porque Yahweh ama Seu povo, Ele tem te feito rei sobre ele""." ^v11
 
-**12** Disse mais Hirão: Bendito seja o Senhor Deus de Israel, que fez os céus e a terra; o que deu ao rei Davi um filho sábio, de grande prudência e entendimento, que edifique casa ao Senhor, e para o seu reino. ^v12
+**12** "Além disso, Hirão disse: ""Abençoado seja Yahweh, o Deus de Israel, que fez o céu e a terra, que deu a Davi, o rei, um filho sábio, presentando-o com prudência e entendimento, o qual construirá uma casa para Yaweh e uma casa para seu reino." ^v12
 
-**13** Agora, pois, envio um homem sábio de grande entendimento, a saber, Hirão Abiú. ^v13
+**13** Agora, tenho te enviado um homem talentoso, dotado de inteligência, Hurão-Abi, meu especialista. ^v13
 
-**14** Filho de uma mulher das filhas de Dã, e cujo pai foi homem de Tiro; este sabe trabalhar em ouro, em prata, em bronze, em ferro, em pedras e em madeira, em púrpura, em azul, e em linho fino, e em carmesim, e é hábil para toda a obra do buril, e para toda a espécie de invenções, qualquer coisa que se lhe propuser, juntamente com os teus peritos, e os peritos de Davi, meu senhor, teu pai. ^v14
+**14** Ele é o filho de uma mulher das filhas de Dã. Seu pai foi um homem de Tiro. Ele é habilidoso para trabalhar com ouro, prata, bronze, ferro, pedra, com madeira e com tecido de púrpura, lãs carmesim e azul, e linho fino. Ele também é talentoso para fazer qualquer tipo de entalhe e também projetos. Coloque-o para trabalhar entre os teus especialistas e também com os trabalhadores do meu senhor, Davi, teu pai. ^v14
 
-**15** Agora, pois, meu senhor, mande para os seus servos o trigo, a cevada, o azeite e o vinho, de que falou; ^v15
+**15** Agora, então, o trigo e a cevada, o óleo e o vinho, os quais meu senhor havia dito, deixe-me enviar essas coisas a teus servos. ^v15
 
-**16** E nós cortaremos tanta madeira no Líbano, quanta houveres mister, e ta traremos em jangadas pelo mar até Jope, e tu a farás subir a Jerusalém. ^v16
+**16** "Nós iremos cortar madeira do Líbano, o quanto lhe for necessário. Nós a levaremos por jangadas pelo mar até Jope e tu a transportarás para Jerusalém""." ^v16
 
-**17** E Salomão contou todos os homens estrangeiros, que havia na terra de Israel, conforme o censo com que os contara Davi seu pai; e acharam-se cento e cinqüenta e três mil e seiscentos. ^v17
+**17** Salomão contou todos os estrangeiros que estavam na terra de Israel, segundo o método que Davi seu pai, já havia feito. Eles encontraram cento e cinquenta e três mil, e seiscentos. ^v17
 
-**18** E designou deles setenta mil carregadores, e oitenta mil cortadores na montanha; como também três mil e seiscentos inspetores, para fazerem trabalhar o povo. ^v18
+**18** Ele designou setenta mil dos seus como carregadores, oitenta mil como cortadores de madeira nas montanhas e três mil e seiscentos como supervisores, para fazerem o povo trabalhar. ^v18

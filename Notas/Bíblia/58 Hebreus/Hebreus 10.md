@@ -1,85 +1,84 @@
 ---
-Livro: "[[Hebreus|Hebreus]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Hebreus|Hebreus]]"
+tags: [biblia]
 ---
 
 # Hebreus 10
 
-**1** Porque tendo a lei a sombra dos bens futuros, e não a imagem exata das coisas, nunca, pelos mesmos sacrifícios que continuamente se oferecem cada ano, pode aperfeiçoar os que a eles se chegam. ^v1
+**1** Pois a Lei é apenas uma sombra dos bens futuros, não as formas reais dessas coisas em si. Ela nunca pode tornar perfeitos os que se aproximam de Deus, através dos mesmos sacrifícios que os sacerdotes oferecem continuamente ano após ano. ^v1
 
-**2** Doutra maneira, teriam deixado de se oferecer, porque, purificados uma vez os ministrantes, nunca mais teriam consciência de pecado. ^v2
+**2** Do contrário aqueles sacrifícios não teriam deixado de serem oferecidos? Nesse caso, se tivessem sido limpos de uma vez por todas, os que prestam culto não teriam mais consciência do pecado. ^v2
 
-**3** Nesses sacrifícios, porém, cada ano se faz comemoração dos pecados, ^v3
+**3** Mas, com aqueles sacrifícios, há uma lembrança dos pecados ano após ano. ^v3
 
-**4** Porque é impossível que o sangue dos touros e dos bodes tire os pecados. ^v4
+**4** Pois é impossível que o sangue de touros e de cabritos tire os pecados. ^v4
 
-**5** Por isso, entrando no mundo, diz: Sacrifício e oferta não quiseste, Mas corpo me preparaste; ^v5
+**5** "Por isso, quando Cristo entrou no mundo, disse: ""Não desejaste sacrifícios e ofertas, mas um corpo que preparaste para Mim." ^v5
 
-**6** Holocaustos e oblações pelo pecado não te agradaram. ^v6
+**6** Não tiveste prazer com holocaustos nem com sacrifícios pelos pecados. ^v6
 
-**7** Então disse: Eis aqui venho(No princípio do livro está escrito de mim),Para fazer, ó Deus, a tua vontade. ^v7
+**7** "Então eu disse: ""Eis aqui estou, ó Deus, para fazer a Tua vontade, como está escrito nos pergaminhos a Meu respeito""." ^v7
 
-**8** Como acima diz: Sacrifício e oferta, e holocaustos e oblações pelo pecado não quiseste, nem te agradaram (os quais se oferecem segundo a lei). ^v8
+**8** "Primeiro Ele disse: ""Tu não desejaste nem sacrifícios, nem ofertas, nem holocaustos, nem sacrifícios pelos pecados. Nem tiveste prazer neles"". Esses são os sacrifícios oferecidos de acordo com a Lei." ^v8
 
-**9** Então disse: Eis aqui venho, para fazer, ó Deus, a tua vontade. Tira o primeiro, para estabelecer o segundo. ^v9
+**9** "Então Ele disse: ""Eis aqui estou para fazer a Tua vontade"". Ele remove a primeira prática a fim de estabelecer a segunda." ^v9
 
-**10** Na qual vontade temos sido santificados pela oblação do corpo de Jesus Cristo, feita uma vez. ^v10
+**10** E, por essa vontade, temos sido santificados através da oferta do corpo de Jesus Cristo de uma vez por todas. ^v10
 
-**11** E assim todo o sacerdote aparece cada dia, ministrando e oferecendo muitas vezes os mesmos sacrifícios, que nunca podem tirar os pecados; ^v11
+**11** Por um lado, todo sacerdote permanece, dia após dia, ministrando, sempre oferecendo os mesmos sacrifícios, embora eles nunca possam tirar os pecados. ^v11
 
-**12** Mas este, havendo oferecido para sempre um único sacrifício pelos pecados, está assentado à destra de Deus, ^v12
+**12** Por outro lado, Cristo ofereceu um sacrifício pelos pecados para sempre, e assentou-se à direita de Deus. ^v12
 
-**13** Daqui em diante esperando até que os seus inimigos sejam postos por escabelo de seus pés. ^v13
+**13** E então espera até que seus inimigos sejam postos por estrado dos Seus pés. ^v13
 
-**14** Porque com uma só oblação aperfeiçoou para sempre os que são santificados. ^v14
+**14** De fato, por uma única oferta, Ele aperfeiçoou, para sempre, aqueles que estão sendo santificados. ^v14
 
-**15** E também o Espírito Santo no-lo testifica, porque depois de haver dito: ^v15
+**15** E o Espírito Santo também nos dá testemunho, após ter dito: ^v15
 
-**16** Esta é a aliança que farei com eles Depois daqueles dias, diz o Senhor:Porei as minhas leis em seus corações,E as escreverei em seus entendimentos; acrescenta: ^v16
+**16** "é a aliança que farei com eles depois daqueles dias"", diz o Senhor. ""Colocarei as Minhas leis em seus corações e as increverei em sua mente." ^v16
 
-**17** E jamais me lembrarei de seus pecados e de suas iniqüidades. ^v17
+**17** "Não lembrarei mais dos seus pecados e de suas iniquidades""." ^v17
 
-**18** Ora, onde há remissão destes, não há mais oblação pelo pecado. ^v18
+**18** E se há perdão para isso, já não há necessidade de qualquer sacrifício pelo pecado. ^v18
 
-**19** Tendo, pois, irmãos, ousadia para entrar no santuário, pelo sangue de Jesus, ^v19
+**19** Portanto, irmãos, temos confiança para entrar no Santíssimo Lugar pelo sangue de Jesus. ^v19
 
-**20** Pelo novo e vivo caminho que ele nos consagrou, pelo véu, isto é, pela sua carne, ^v20
+**20** Esse é o novo e vivo caminho que Ele abriu para nós através do véu, isto é, pela Sua carne. ^v20
 
-**21** E tendo um grande sacerdote sobre a casa de Deus, ^v21
+**21** E, porque temos um Grande Sacerdote sobre a casa de Deus, ^v21
 
-**22** Cheguemo-nos com verdadeiro coração, em inteira certeza de fé, tendo os corações purificados da má consciência, e o corpo lavado com água limpa, ^v22
+**22** aproximemo-nos com um verdadeiro coração, em plena certeza de fé, tendo os nossos corações sido purificados de uma má consciência e os nossos corpos lavados com água pura. ^v22
 
-**23** Retenhamos firmes a confissão da nossa esperança; porque fiel é o que prometeu. ^v23
+**23** Também seguremos firmemente a confissão da nossa esperança, sem vacilar, porque Deus, que prometeu, é fiel. ^v23
 
-**24** E consideremo-nos uns aos outros, para nos estimularmos ao amor e às boas obras, ^v24
+**24** Consideremos uns aos outros para nos motivarmos ao amor e às boas obras. ^v24
 
-**25** Não deixando a nossa congregação, como é costume de alguns, antes admoestando-nos uns aos outros; e tanto mais, quanto vedes que se vai aproximando aquele dia. ^v25
+**25** Não deixemos de congregar-nos, como alguns têm feito. Em vez disso, encorajemos uns aos outros quanto mais vedes que o dia está próximo. ^v25
 
-**26** Porque, se pecarmos voluntariamente, depois de termos recebido o conhecimento da verdade, já não resta mais sacrifício pelos pecados, ^v26
+**26** Porque se nós pecarmos deliberadamente depois de termos recebido o conhecimento da verdade, já não existe mais um sacrifício pelos pecados. ^v26
 
-**27** Mas uma certa expectação horrível de juízo, e ardor de fogo, que há de devorar os adversários. ^v27
+**27** Em vez disso, há apenas uma terrível expectativa de juízo e um fogo ardente que consumirá os inimigos de Deus. ^v27
 
-**28** Quebrantando alguém a lei de Moisés, morre sem misericórdia, só pela palavra de duas ou três testemunhas. ^v28
+**28** Qualquer um que rejeita a Lei de Moisés, diante da confirmação de duas ou três testemunhas, morre sem misericórdia. ^v28
 
-**29** De quanto maior castigo cuidais vós será julgado merecedor aquele que pisar o Filho de Deus, e tiver por profano o sangue da aliança com que foi santificado, e fizer agravo ao Espírito da graça? ^v29
+**29** Que punição mais severa merece aquele que tenha pisado o Filho de Deus, alguém que tratou o sangue da aliança como impuro, o sangue pelo qual ele foi santificado, e insultou o Espírito da graça? ^v29
 
-**30** Porque bem conhecemos aquele que disse: Minha é a vingança, eu darei a recompensa, diz o Senhor. E outra vez: O Senhor julgará o seu povo. ^v30
+**30** "Nós conhecemos Aquele que disse: ""A vingança pertence a Mim, Eu a retribuirei"". E novamente: ""O Senhor julgará o Seu povo""." ^v30
 
-**31** Horrenda coisa é cair nas mãos do Deus vivo. ^v31
+**31** É uma coisa terrível cair nas mãos do Deus vivo! ^v31
 
-**32** Lembrai-vos, porém, dos dias passados, em que, depois de serdes iluminados, suportastes grande combate de aflições. ^v32
+**32** Mas lembrai-vos dos dias anteriores, depois que fostes iluminados, como suportastes uma grande luta no sofrimento. ^v32
 
-**33** Em parte fostes feitos espetáculo com vitupérios e tribulações, e em parte fostes participantes com os que assim foram tratados. ^v33
+**33** Fostes expostos publicamente, ridicularizados por insultos e perseguições, e fostes participantes com aqueles que assim foram tratados com tal sofrimento. ^v33
 
-**34** Porque também vos compadecestes das minhas prisões, e com alegria permitistes o roubo dos vossos bens, sabendo que em vós mesmos tendes nos céus uma possessão melhor e permanente. ^v34
+**34** Pois, tivestes compaixão daqueles que eram prisioneiros e aceitastes com alegria a tomada de vossas posses, sabendo que possuís um patrimônio melhor e permanente. ^v34
 
-**35** Não rejeiteis, pois, a vossa confiança, que tem grande e avultado galardão. ^v35
+**35** Então, não lanceis fora a vossa confiança, na qual tendes uma grande recompensa. ^v35
 
-**36** Porque necessitais de paciência, para que, depois de haverdes feito a vontade de Deus, possais alcançar a promessa. ^v36
+**36** Pois precisais de paciência para que, depois de terdes feito a Sua vontade, possais receber o que Deus vos tem prometido. ^v36
 
-**37** Porque ainda um pouquinho de tempo, E o que há de vir virá, e não tardará. ^v37
+**37** """Pois, em muito pouco tempo, Aquele que está vindo virá e não tardará." ^v37
 
-**38** Mas o justo viverá pela fé; E, se ele recuar, a minha alma não tem prazer nele. ^v38
+**38** "O Meu justo viverá pela fé. Caso ele volte atrás, Eu não terei prazer nele""." ^v38
 
-**39** Nós, porém, não somos daqueles que se retiram para a perdição, mas daqueles que crêem para a conservação da alma. ^v39
+**39** Mas nós não somos daqueles que voltam atrás, para destruição, mas daqueles que têm fé para preservar nossa alma. ^v39

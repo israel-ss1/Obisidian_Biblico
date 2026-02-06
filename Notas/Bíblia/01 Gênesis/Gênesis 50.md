@@ -1,59 +1,58 @@
 ---
-Livro: "[[Gênesis|Gênesis]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Gênesis|Gênesis]]"
+tags: [biblia]
 ---
 
 # Gênesis 50
 
-**1** Então José se lançou sobre o rosto de seu pai e chorou sobre ele, e o beijou. ^v1
+**1** EntãoJosé se lançou sobre o rosto de seu pai, chorou sobre ele e o beijou. ^v1
 
-**2** E José ordenou aos seus servos, os médicos, que embalsamassem a seu pai; e os médicos embalsamaram a Israel. ^v2
+**2** José ordenou a seus servos, os médicos, para embalsamar seu pai. Então os médicos embalsamaram Israel ^v2
 
-**3** E cumpriram-se-lhe quarenta dias; porque assim se cumprem os dias daqueles que se embalsamam; e os egípcios o choraram setenta dias. ^v3
+**3** Eles levaram quarenta dias, pois esse é o tempo completo para embalsamento. Os egípcios lamentaram por ele setenta dias. ^v3
 
-**4** Passados, pois, os dias de seu choro, falou José à casa de Faraó, dizendo: Se agora tenho achado graça aos vossos olhos, rogo-vos que faleis aos ouvidos de Faraó, dizendo: ^v4
+**4** "Quando os dias de lamento acabaram, José falou para a corte real de Faraó, dizendo: ""Se eu tenho achado graça aos teus olhos, por favor, dizei ao Faraó:" ^v4
 
-**5** Meu pai me fez jurar, dizendo: Eis que eu morro; em meu sepulcro, que cavei para mim na terra de Canaã, ali me sepultarás. Agora, pois, te peço, que eu suba, para que sepulte a meu pai; então voltarei. ^v5
+**5** "'Meu pai me fez jurar, dizendo: 'Vê, estou para morrer. Sepulta-me no túmulo que cavei para mim mesmo na terra de Canaã. Lá me sepultarás'. Agora, deixa-me subir e sepultar meu pai, e então retornarei'""." ^v5
 
-**6** E Faraó disse: Sobe, e sepulta a teu pai como ele te fez jurar. ^v6
+**6** "Faraó respondeu: ""Vai e sepulta teu pai, como ele te fez jurar""." ^v6
 
-**7** E José subiu para sepultar a seu pai; e subiram com ele todos os servos de Faraó, os anciãos da sua casa, e todos os anciãos da terra do Egito. ^v7
+**7** José foi sepultar seu pai. Com ele, subiram todos os oficiais de Faraó, toda a corte de sua casa, e todas as autoridades da terra do Egito, ^v7
 
-**8** Como também toda a casa de José, e seus irmãos, e a casa de seu pai; somente deixaram na terra de Gósen os seus meninos, e as suas ovelhas e as suas vacas. ^v8
+**8** com toda a casa de José e seus irmãos, e a casa de seu pai. Mas eles deixaram suas crianças, seu rebanho de ovelhas, e seu rebanho de gados na terra de Gósen. ^v8
 
-**9** E subiram também com ele, tanto carros como gente a cavalo; e o cortejo foi grandíssimo. ^v9
+**9** Foram também com ele carros e cavaleiros; era um grande grupo de pessoas. ^v9
 
-**10** Chegando eles, pois, à eira de Atade, que está além do Jordão, fizeram um grande e dolorido pranto; e fez a seu pai uma grande lamentação por sete dias. ^v10
+**10** Quando eles chegaram à eira de Atade, do outro lado do rio Jordão, eles lamentaram com grande e intenso choro. Lá, José fez sete dias de lamento por seu pai. ^v10
 
-**11** E vendo os moradores da terra, os cananeus, o luto na eira de Atade, disseram: É este o pranto grande dos egípcios. Por isso chamou-se-lhe Abel-Mizraim, que está além do Jordão. ^v11
+**11** "Quando os habitantes da terra, os cananeus, viram a lamentação na eira de Atade, eles disseram: ""Esta é uma ocasião muito triste para os egípcios"". É por esta razão que o lugar é chamado Abel-Mizraim, e está além do Jordão." ^v11
 
-**12** E fizeram-lhe os seus filhos assim como ele lhes ordenara. ^v12
+**12** Então seus filhos fizeram a Jacó como ele lhes havia instruído. ^v12
 
-**13** Pois os seus filhos o levaram à terra de Canaã, e o sepultaram na cova do campo de Macpela, que Abraão tinha comprado com o campo, por herança de sepultura de Efrom, o heteu, em frente de Manre. ^v13
+**13** Carregaram-no até a terra de Canaã e o sepultaram na caverna, no campo de Macpela, perto de Manre. Abraão havia comprado a caverna com o campo para ser lugar de sepultura. Ele comprou de Efrom, o heteu. ^v13
 
-**14** Depois de haver sepultado seu pai, voltou José para o Egito, ele e seus irmãos, e todos os que com ele subiram a sepultar seu pai. ^v14
+**14** Depois de sepultar seu pai, José retornou para o Egito, junto com seus irmãos, e todos aqueles que o acompanharam para o sepultamento de seu pai. ^v14
 
-**15** Vendo então os irmãos de José que seu pai já estava morto, disseram: Porventura nos odiará José e certamente nos retribuirá todo o mal que lhe fizemos. ^v15
+**15** "Quando os irmãos de José viram que seu pai estava morto, disseram: ""E se José tiver um rancor e quiser nos retribuir por todo o mal que lhe causamos?""" ^v15
 
-**16** Portanto mandaram dizer a José: Teu pai ordenou, antes da sua morte, dizendo: ^v16
+**16** "Então eles enviaram uma mensagem para José, dizendo: ""Teu pai deu instruções antes de morrer, dizendo:" ^v16
 
-**17** Assim direis a José: Perdoa, rogo-te, a transgressão de teus irmãos, e o seu pecado, porque te fizeram mal; agora, pois, rogamos-te que perdoes a transgressão dos servos do Deus de teu pai. E José chorou quando eles lhe falavam. ^v17
+**17** "'Diz isto a José: Por favor, perdoa teus irmãos e o erro que eles cometeram quando te trataram mal. Agora, por favor, perdoa os servos do Deus de teu pai'"". José chorou quando a mensagem chegou até ele." ^v17
 
-**18** Depois vieram também seus irmãos, e prostraram-se diante dele, e disseram: Eis-nos aqui por teus servos. ^v18
+**18** "Seus irmãos também prostaram-se diante dele e disseram: ""Eis que nós somos teus servos""" ^v18
 
-**19** E José lhes disse: Não temais; porventura estou eu em lugar de Deus? ^v19
+**19** "E José lhes respondeu: ""Não tenham medo. Por acaso estou no lugar de Deus?" ^v19
 
-**20** Vós bem intentastes mal contra mim; porém Deus o intentou para bem, para fazer como se vê neste dia, para conservar muita gente com vida. ^v20
+**20** É certo que vós planejastes contra mim, mas Deus o tornou em bem, para preservar a vida de muitas pessoas, como vedes hoje. ^v20
 
-**21** Agora, pois, não temais; eu vos sustentarei a vós e a vossos filhos. Assim os consolou, e falou segundo o coração deles. ^v21
+**21** "Então, agora, não tenham medo. Eu proverei para vós e vossos filhos."" Ele lhes confortou e assim lhes falou gentilmente ao coração." ^v21
 
-**22** José, pois, habitou no Egito, ele e a casa de seu pai; e viveu José cento e dez anos. ^v22
+**22** José viveu no Egito junto com a família de seu pai. Ele viveu cento e dez anos. ^v22
 
-**23** E viu José os filhos de Efraim, da terceira geração; também os filhos de Maquir, filho de Manassés, nasceram sobre os joelhos de José. ^v23
+**23** José viu os filhos de Efraim até a terceira geração. Ele também viu os filhos de Maquir, filho de Manassés. Eles nasceram sobre os joelhos de José. ^v23
 
-**24** E disse José a seus irmãos: Eu morro; mas Deus certamente vos visitará, e vos fará subir desta terra à terra que jurou a Abraão, a Isaque e a Jacó. ^v24
+**24** "José disse a seus irmãos: ""Eu estou para morrer, mas Deus certamente virá até vós e vos fará subir desta terra para a terra que Ele jurou dar a Abraão, Isaque e Jacó""." ^v24
 
-**25** E José fez jurar os filhos de Israel, dizendo: Certamente vos visitará Deus, e fareis transportar os meus ossos daqui. ^v25
+**25** "Então José fez o povo de Israel jurar, dizendo: ""Deus certamente vos visitará. Neste tempo carregareis meus ossos daqui.""" ^v25
 
-**26** E morreu José da idade de cento e dez anos, e o embalsamaram e o puseram num caixão no Egito. ^v26
+**26** Então José morreu aos cento e dez anos. Depois, eles o embalsamaram e o colocaram num caixão no Egito. ^v26

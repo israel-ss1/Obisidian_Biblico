@@ -1,29 +1,26 @@
 ---
-Livro: "[[Salmos|Salmos]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Salmos|Salmos]]"
+tags: [biblia]
 ---
 
 # Salmos 32
 
-**1** Bem-aventurado aquele cuja transgressão é perdoada, e cujo pecado é coberto. ^v1
+**2** Abençoado é o homem que Yahweh não considera culpado e, em cujo espírito, não há engano. ^v2
 
-**2** Bem-aventurado o homem a quem o Senhor não imputa maldade, e em cujo espírito não há engano. ^v2
+**3** Enquanto permaneci em silêncio, meus ossos enfraqueciam por eu gemer o dia todo. ^v3
 
-**3** Quando eu guardei silêncio, envelheceram os meus ossos pelo meu bramido em todo o dia. ^v3
+**4** Pois, dia e noite, Tua mão pesava sobre mim; minha força foi se esgotando como no tempo seco do verão. [Interlúdio] ^v4
 
-**4** Porque de dia e de noite a tua mão pesava sobre mim; o meu humor se tornou em sequidão de estio. (Selá.) ^v4
+**5** "Então, reconheci o meu pecado diante de Ti e não mais escondi a minha iniquidade. Eu disse: ""Confessarei minhas transgressões a Yahweh"", e Tu perdoaste a culpa do meu pecado. [Interlúdio]" ^v5
 
-**5** Confessei-te o meu pecado, e a minha maldade não encobri. Dizia eu: Confessarei ao Senhor as minhas transgressões; e tu perdoaste a maldade do meu pecado. (Selá.) ^v5
+**6** Portanto, todos os que são piedosos devem orar a Ti no tempo de grande aflição. Assim, quando as águas transbordarem, elas não lhes alcançarão. ^v6
 
-**6** Por isso, todo aquele que é santo orará a ti, a tempo de te poder achar; até no transbordar de muitas águas, estas não lhe chegarão. ^v6
+**7** Tu és meu esconderijo; Tu me protegerás da tribulação. Tu me cercarás com as canções de vitória. [Interlúdio] ^v7
 
-**7** Tu és o lugar em que me escondo; tu me preservas da angústia; tu me cinges de alegres cantos de livramento. (Selá.) ^v7
+**8** Eu te instruirei e te ensinarei o caminho que deves seguir. Eu te instruirei com Meus olhos fixos em ti. ^v8
 
-**8** Instruir-te-ei, e ensinar-te-ei o caminho que deves seguir; guiar-te-ei com os meus olhos. ^v8
+**9** Não sejas como um cavalo ou uma mula, que não têm entendimento e somente com cabresto e freio são controlados. ^v9
 
-**9** Não sejais como o cavalo, nem como a mula, que não têm entendimento, cuja boca precisa de cabresto e freio para que não se cheguem a ti. ^v9
+**10** O corrupto tem muitas tristezas, mas o amor leal de Yahweh cercará aqueles que Nele confiam. ^v10
 
-**10** O ímpio tem muitas dores, mas àquele que confia no Senhor a misericórdia o cercará. ^v10
-
-**11** Alegrai-vos no Senhor, e regozijai-vos, vós os justos; e cantai alegremente, todos vós que sois retos de coração. ^v11
+**11** Alegrai-vos em Yahweh, e regozijai-vos, ó justos; gritai de alegria todos os que são retos de coração. ^v11

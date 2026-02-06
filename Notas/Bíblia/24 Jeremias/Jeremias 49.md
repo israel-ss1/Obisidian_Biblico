@@ -1,85 +1,84 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Jeremias|Jeremias]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Jeremias|Jeremias]]"
+tags: [biblia]
 ---
 
 # Jeremias 49
 
-**1** Contra os filhos de Amom. Assim diz o SENHOR: Acaso Israel não tem filhos, nem tem herdeiro? Por que, pois, herdou Malcã a Gade e o seu povo habitou nas suas cidades? ^v1
+**1** "A respeito do povo amonita, Yahweh diz isto: ""Israel não tem filhos? Não há nenhum herdeiro em Israel? Por que Milcom ocupa Gade, e seu povo vive nessas cidades?" ^v1
 
-**2** Portanto, eis que vêm dias, diz o Senhor, em que farei ouvir em Rabá dos filhos de Amom o alarido de guerra, e tornar-se-á num montão de ruínas, e os lugares da sua jurisdição serão queimados a fogo; e Israel herdará aos que o herdaram, diz o Senhor. ^v2
+**2** "Esta é a declaração de Yahweh: Vede, dias virão quando Eu soar o sinal da batalha contra Rabá (entre os amonitas), a qual virá a ser um montão de ruínas e suas vilas serão incendiadas. Pois Israel possuirá todos os que o possuíram"", diz Yahweh." ^v2
 
-**3** Lamenta, ó Hesbom, porque é destruída Ai; clamai, ó filhas de Rabá, cingi-vos de sacos, lamentai, e dai voltas pelos valados; porque Malcã irá em cativeiro, juntamente com seus sacerdotes e os seus príncipes. ^v3
+**3** Uiva e lamenta, Hesbon, pois Ai será devastada! Gritai, filhas de Rabá! Vesti pano de saco. Lamentai e dai voltas pelos muros, pois Milcom está indo para o cativeiro, junto com seus sacerdotes e líderes. ^v3
 
-**4** Por que te glorias nos vales, teus luxuriantes vales, ó filha rebelde, que confias nos teus tesouros, dizendo: Quem virá contra mim? ^v4
+**4** Por que estás orgulhosa da tua força? Tua força escoará pelo caminho, filha rebelde, tu que confias em tua riqueza. Tu dizes: 'Quem virá contra mim?' ^v4
 
-**5** Eis que eu trarei temor sobre ti, diz o Senhor DEUS dos Exércitos, de todos os que estão ao redor de ti; e sereis lançados fora cada um diante de si, e ninguém recolherá o desgarrado. ^v5
+**5** Vê, Eu estou prestes a trazer terror sobre ti — essa é a declaração de Yahweh, o Senhor dos Exércitos. Esse terror virá de todos os que estão à tua volta. Cada um de vós será disperso diante disso. Não haverá ninguém para reunir todos os que estão fugindo. ^v5
 
-**6** Mas depois disto farei voltar os cativos dos filhos de Amom, diz o Senhor. ^v6
+**6** "Mas, depois disso, restaurarei a sorte do povo amonita — essa é a declaração de Yahweh.""" ^v6
 
-**7** Acerca de Edom. Assim diz o Senhor dos Exércitos: Acaso não há mais sabedoria em Temã? Pereceu o conselho dos entendidos? Corrompeu-se a sua sabedoria? ^v7
+**7** "Sobre Edom, Yahweh dos Exércitos diz isto: ""Não há mais sabedoria a ser encontrada em Temã? Os bons conselhos desapareceram para todos os que têm entendimento? Toda sabedoria foi corrompida?" ^v7
 
-**8** Fugi, voltai-vos, buscai profundezas para habitar, ó moradores de Dedã, porque eu trarei sobre ele a ruína de Esaú, no tempo em que o castiguei. ^v8
+**8** Fugi! Retornai! Ficai em buracos no chão, habitantes de Dedã. Pois trarei o desastre de Esaú sobre ele, no momento em que Eu o punir. ^v8
 
-**9** Se vindimadores viessem a ti, não deixariam rabiscos? Se ladrões de noite viessem, não te danificariam quanto lhes bastasse? ^v9
+**9** Se colhedores de uva viessem a ti, eles não deixariam um pouco para trás? Se ladrões viessem à noite, não levariam somente o quanto procuravam? ^v9
 
-**10** Mas eu despi a Esaú, descobri os seus esconderijos, e não se poderá esconder; foi destruída a sua descendência, como também seus irmãos e seus vizinhos, e ele já não existe. ^v10
+**10** Mas Eu despojei Esaú nu. Revelei seus lugares escondidos. Então, ele não será capaz de se esconder. Seus filhos, seus irmãos e seus vizinhos estão destruídos, e ele se foi. ^v10
 
-**11** Deixa os teus órfãos, eu os guardarei em vida; e as tuas viúvas confiem em mim. ^v11
+**11** "Deixa teus órfãos para trás, Eu os guardarei em vida, e tuas viúvas podem confiar em Mim.""" ^v11
 
-**12** Porque assim diz o Senhor: Eis que os que não estavam condenados a beber do copo, totalmente o beberão; e tu ficarias inteiramente impune? Não ficarás impune, mas certamente o beberás. ^v12
+**12** "Pois Yahweh diz isto: ""Vede, todos os que não merecem isso, certamente, devem beber deste copo. Tu pensas que irás livrar-te da punição? Não irás, pois certamente, beberás." ^v12
 
-**13** Porque por mim mesmo jurei, diz o Senhor, que Bozra servirá de espanto, de opróbrio, de assolação, e de maldição; e todas as suas cidades se tornarão em desolações perpétuas. ^v13
+**13** "Pois Eu tenho jurado por Mim mesmo – esta é a declaração de Yahweh – que Bozra se tornará em horror, em desgraça, em devastação, em objeto de maldição. Todas as cidades se tornarão em devastação, para sempre.""" ^v13
 
-**14** Ouvi novas vindas do Senhor, que um embaixador é enviado aos gentios, para lhes dizer: Ajuntai-vos, e vinde contra ela, e levantai-vos para a guerra. ^v14
+**14** Eu ouvi notícias de Yahweh e a mensagem que foi enviada às nações: 'Ajuntai-vos todos e atacai-a. Preparai-vos para a batalha'. ^v14
 
-**15** Porque eis que te fiz pequeno entre os gentios, desprezado entre os homens. ^v15
+**15** """Pois, vede, Eu te fiz pequena, comparada a outras nações, desprezada pelo povo." ^v15
 
-**16** Quanto à tua terribilidade, enganou-te a arrogância do teu coração, tu que habitas nas cavernas das rochas, que ocupas as alturas dos outeiros; ainda que eleves o teu ninho como a águia, de lá te derrubarei, diz o Senhor. ^v16
+**16** Quanto ao medo que tens causado, o orgulho do teu coração tem te enganado, tu que habitas nos penhascos, que ocupas as altas colinas, de modo que podes fazer teu ninho como uma águia. Eu te trarei para baixo — esta é a declaração de Yahweh. ^v16
 
-**17** Assim servirá Edom de desolação; todo aquele que passar por ela se espantará, e assobiará por causa de todas as suas pragas. ^v17
+**17** Edom se tornará em horror para todos os que passarem por ele. Todos tremerão e assobiarão por causa desses desastres. ^v17
 
-**18** Será como a destruição de Sodoma e Gomorra, e dos seus vizinhos, diz o Senhor; não habitará ninguém ali, nem morará nela filho de homem. ^v18
+**18** Como a destruição de Sodoma e Gomorra e suas vizinhas, diz Yahweh, ninguém viverá lá; nenhuma pessoa ficará lá. ^v18
 
-**19** Eis que ele como leão subirá da enchente do Jordão contra a morada do forte; porque num momento o farei correr dali; e quem é o escolhido que porei sobre ela? Pois quem é semelhante a mim? e quem me fixará o tempo? e quem é o pastor que subsistirá perante mim? ^v19
+**19** Vede, ele irá para cima como um leão vindo da floresta de verdes pastagens do Jordão. Pois eu, rapidamente, farei Edom correr de lá e colocarei no comando alguém que escolherei. Pois quem é semelhante a Mim e quem Me convocará? Qual pastor é capaz de resistir a Mim? ^v19
 
-**20** Portanto ouvi o conselho do Senhor, que ele decretou contra Edom, e os seus desígnios que ele intentou entre os moradores de Temã: Certamente os menores do rebanho serão arrastados; certamente ele assolará as suas moradas com eles. ^v20
+**20** Então, escuta os planos que Yahweh decidiu contra Edom, os planos que Ele formou contra os habitantes de Temã. Eles, certamente, serão arrastados no caminho, até mesmo o menor rebanho. Suas pastagens se tornarão em ruínas. ^v20
 
-**21** A terra estremeceu com o estrondo da sua queda; e do seu grito, até ao Mar Vermelho se ouviu o som. ^v21
+**21** Ao som de sua queda a terra estremece. O som dos gritos angustiados são ouvidos até o mar Vermelho. ^v21
 
-**22** Eis que ele como águia subirá, e voará, e estenderá as suas asas contra Bozra; e o coração dos valentes de Edom naquele dia será como o coração da mulher que está com dores de parto. ^v22
+**22** "Vede, alguém atacará, rapidamente, como uma águia, descerá e abrirá suas asas sobre Bozra. Então, naquele dia, os corações dos soldados de Edom se tornarão como o coração de uma mulher em dores de parto.""" ^v22
 
-**23** Acerca de Damasco. Envergonhou-se Hamate e Arpade, porquanto ouviram más novas, desmaiaram; no mar há angústia, não se pode sossegar. ^v23
+**23** "A respeito de Damasco: ""Hamate e Arpade serão envergonhados, pois eles têm ouvido notícias do desastre. Estão assustados! Eles se tornaram perturbados como o mar, que não pode ficar calmo." ^v23
 
-**24** Enfraquecida está Damasco; virou as costas para fugir, e o tremor a tomou; angústia e dores a tomaram como da que está de parto. ^v24
+**24** Damasco se tornou muito frágil. Isso a fez fugir, acometida de terror! Aflição e dor tomou para si, como a dor de uma mulher dando à luz. ^v24
 
 **25** Como está abandonada a cidade do louvor, a cidade da minha alegria! ^v25
 
-**26** Portanto cairão os seus jovens nas suas ruas; e todos os homens de guerra serão consumidos naquele dia, diz o Senhor dos Exércitos. ^v26
+**26** Portanto, esses jovens homens cairão nessas praças e todos os guerreiros perecerão naquele dia — esta é a declaração de Yahweh dos Exércitos ^v26
 
-**27** E acenderei fogo no muro de Damasco, e consumirá os palácios de Bene-Hadade. ^v27
+**27** "Pois, no muro de Damasco, atearei fogo que devorará as fortalezas de Ben-Hadade.""" ^v27
 
-**28** Acerca de Quedar, e dos reinos de Hazor, que Nabucodonosor, rei de babilônia, feriu. Assim diz o SENHOR: Levantai-vos, subi contra Quedar, e destruí os filhos do oriente. ^v28
+**28** "Sobre Kedar e os reinos de Hazor que Nabucodonosor, rei da Babilônia, feriu, Yahweh diz isto: ""Levantai e atacai Quedar e destruí todo o povo do Oriente." ^v28
 
-**29** Tomarão as suas tendas, os seus gados, as suas cortinas e todos os seus utensílios, e os seus camelos levarão para si; e lhes clamarão: Há medo por todos os lados. ^v29
+**29** Eles pegarão suas tendas e seus rebanhos, as cortinas de suas tendas e todo o seu equipamento; seus camelos serão levados e os homens lhes gritarão: 'O terror está ao redor!' ^v29
 
-**30** Fugi, desviai-vos para muito longe, buscai profundezas para habitar, ó moradores de Hazor, diz o SENHOR; porque Nabucodonosor, rei de babilônia, tomou conselho contra vós, e formou um desígnio contra vós. ^v30
+**30** Fugi! Ide para um caminho distante! Ficai nos buracos no chão, habitantes de Hazor — esta é a declaração de Yahweh — pois Nabucodonosor, rei da Babilônia, idealizou um plano contra vós. Fugi! Retornai! ^v30
 
-**31** Levantai-vos, subi contra uma nação tranqüila, que habita confiadamente, diz o Senhor, que não tem portas, nem ferrolhos; habitam sós. ^v31
+**31** Levantai! Atacai a nação tranquila, que habita em segurança, diz Yahweh. Eles não têm portões ou trancas e seu povo vive por si mesmo. ^v31
 
-**32** E os seus camelos serão para presa, e a multidão dos seus gados para despojo; e os espalharei a todo o vento, àqueles que estão nos lugares mais distantes, e de todos os seus lados lhes trarei a sua ruína, diz o Senhor. ^v32
+**32** Pois seus camelos e a abundância de suas propriedades se tornarão em despojo. Então, Eu espalharei ao vento todos os que cortam as pontas dos seus cabelos e Eu trarei desastre de todos os lados — esta é a declaração de Yahweh. ^v32
 
-**33** E Hazor se tornará em morada de chacais, em assolação para sempre; ninguém habitará ali, nem morará nela filho de homem. ^v33
+**33** "Hazor se tornará um covil de chacais, uma terra permanentemente vazia. Ninguém viverá lá; nenhum ser humano ficará lá.""" ^v33
 
-**34** A palavra do Senhor, que veio a Jeremias, o profeta, contra Elão, no princípio do reinado de Zedequias, rei de Judá, dizendo: ^v34
+**34** Esta é a palavra de Yahweh que veio a Jeremias, o profeta, sobre Elão. Isto aconteceu no início do reinado de Zedequias, rei de Judá, e ele disse: ^v34
 
-**35** Assim diz o Senhor dos Exércitos: Eis que eu quebrarei o arco de Elão, o principal do seu poder. ^v35
+**35** ''Yahweh dos Exércitos diz isto: Vede, Eu estou prestes a quebrar o arqueiro de Elão, a fonte do seu poder. ^v35
 
-**36** E trarei sobre Elão os quatro ventos dos quatro cantos dos céus, e os espalharei na direção de todos estes ventos; e não haverá nação aonde não cheguem os fugitivos de Elão. ^v36
+**36** Pois Eu trarei os quatro ventos dos quatro cantos da terra e Eu espalharei o povo de Elão ao vento. Não há nação para a qual os que foram dispersos de Elão não irão. ^v36
 
-**37** E farei que Elão tema diante de seus inimigos e diante dos que procuram a sua morte; e farei vir sobre eles o mal, o furor da minha ira, diz o Senhor; e enviarei após eles a espada, até que venha a consumi-los. ^v37
+**37** Então, Eu despedaçarei Elão diante dos seus inimigos e diante de todos os que procuram sua vida. Pois Eu trarei desastre contra eles, a fúria da Minha ira — esta é a declaração de Yahweh. Enviarei a espada atrás deles até que Eu os tenha aniquilado. ^v37
 
-**38** E porei o meu trono em Elão; e destruirei dali o rei e os príncipes, diz o Senhor. ^v38
+**38** Então, colocarei Meu trono em Elão e destruirei o rei e os líderes de lá —esta é a declaração de Yahweh. ^v38
 
-**39** Acontecerá, porém, nos últimos dias, que farei voltar os cativos de Elão, diz o Senhor. ^v39
+**39** "E acontecerá, nos últimos dias, que Eu mudarei a sorte de Elão — esta é a declaração de Yahweh.""" ^v39

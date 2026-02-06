@@ -1,63 +1,62 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Isaías|Isaías]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Isaías|Isaías]]"
+tags: [biblia]
 ---
 
 # Isaías 43
 
-**1** Mas agora, assim diz o SENHOR que te criou, ó Jacó, e que te formou, ó Israel: Não temas, porque eu te remi; chamei-te pelo teu nome, tu és meu. ^v1
+**1** "Mas agora, é isto o que Yahweh diz. Ele, que vos criou, ó Jacó; Ele, que vos formou, ó Israel: ""Não temais, porque Eu vos redimi; Eu vos chamei pelo vosso nome. Sois Meus." ^v1
 
-**2** Quando passares pelas águas estarei contigo, e quando pelos rios, eles não te submergirão; quando passares pelo fogo, não te queimarás, nem a chama arderá em ti. ^v2
+**2** Quando passares pelas águas, Eu estarei contigo; quando passares pelos rios, eles não te submergirão; quando passares pelo fogo, não te queimarás, nem as chamas te causarão dano. ^v2
 
-**3** Porque eu sou o Senhor teu Deus, o Santo de Israel, o teu Salvador; dei o Egito por teu resgate, a Etiópia e a Seba em teu lugar. ^v3
+**3** Porque Eu Sou Yahweh, teu Deus, o Santo de Israel, teu Salvador. Eu dei o Egito para te resgatar, a Etiópia e Seba em teu lugar. ^v3
 
-**4** Visto que foste precioso aos meus olhos, também foste honrado, e eu te amei, assim dei os homens por ti, e os povos pela tua vida. ^v4
+**4** Visto que és precioso e especial aos Meus olhos, porque Eu te amo; por isso, darei pessoas em teu lugar e outros povos em troca de tua vida. ^v4
 
-**5** Não temas, pois, porque estou contigo; trarei a tua descendência desde o oriente, e te ajuntarei desde o ocidente. ^v5
+**5** Não temas, pois estou contigo. Eu trarei tua descendência do leste, e te ajuntarei desde o oeste. ^v5
 
-**6** Direi ao norte: Dá; e ao sul: Não retenhas; trazei meus filhos de longe e minhas filhas das extremidades da terra, ^v6
+**6** Direi ao norte: 'Entrega-os' e, ao sul: 'Não retenhas ninguém! Trazei Meus filhos de longe e Minhas filhas das regiões remotas da terra ^v6
 
-**7** A todos os que são chamados pelo meu nome, e os que criei para a minha glória: eu os formei, e também eu os fiz. ^v7
+**7** — todos os que são chamados pelo Meu Nome, os que Eu criei para Minha glória, aqueles que Eu formei, sim, aqueles que Eu fiz'. ^v7
 
-**8** Trazei o povo cego, que tem olhos; e os surdos, que têm ouvidos. ^v8
+**8** Trazei o povo que tem olhos, mas é cego, que tem ouvidos, mas é surdo. ^v8
 
-**9** Todas as nações se congreguem, e os povos se reúnam; quem dentre eles pode anunciar isto, e fazer-nos ouvir as coisas antigas? Apresentem as suas testemunhas, para que se justifiquem, e se ouça, e se diga: Verdade é. ^v9
+**9** Todas as nações se ajuntem e os povos se reúnam. Quem dentre eles declarou isto e anunciou eventos passados? Que tragam suas testemunhas para provarem que estão certos, que eles ouçam e afirmem: 'Isso é verdade'. ^v9
 
-**10** Vós sois as minhas testemunhas, diz o Senhor, e meu servo, a quem escolhi; para que o saibais, e me creiais, e entendais que eu sou o mesmo, e que antes de mim deus nenhum se formou, e depois de mim nenhum haverá. ^v10
+**10** "Vós sois Minhas testemunhas"", declara Yahweh; ""e Meu servo, a quem escolhi, para que conheçam e acreditem em Mim e entendam quem Eu Sou. Antes de Mim, nenhum deus se formou, e não haverá nenhum depois de Mim." ^v10
 
-**11** Eu, eu sou o Senhor, e fora de mim não há Salvador. ^v11
+**11** Eu, Eu Sou Yahweh e não há salvador além de Mim. ^v11
 
-**12** Eu anunciei, e eu salvei, e eu o fiz ouvir, e deus estranho não houve entre vós, pois vós sois as minhas testemunhas, diz o Senhor; eu sou Deus. ^v12
+**12** "Eu declarei, salvei e proclamei e não há nenhum outro deus entre vós. Vós sois Minhas testemunhas"", declara Yahweh; ""Eu Sou Deus." ^v12
 
-**13** Ainda antes que houvesse dia, eu sou; e ninguém há que possa fazer escapar das minhas mãos; agindo eu, quem o impedirá? ^v13
+**13** "Desde toda a eternidade, Eu o Sou e não há quem possa resgatar alguém das Minhas mãos. Agindo Eu, quem pode mudar o que Eu faço?""" ^v13
 
-**14** Assim diz o SENHOR, vosso Redentor, o Santo de Israel: Por amor de vós enviei a babilônia, e a todos fiz descer como fugitivos, os caldeus, nos navios com que se vangloriavam. ^v14
+**14** "Isto é o que Yahweh diz, vosso Redentor, o Santo de Israel: ""Por vossa causa, Eu enviei um exército contra a Babilônia e conduzi todos os fugitivos de lá, transformando em lamentação as expressões de alegria dos babilônios." ^v14
 
-**15** Eu sou o Senhor, vosso Santo, o Criador de Israel, vosso Rei. ^v15
+**15** "Eu Sou Yahweh, vosso Santo, o Criador de Israel, vosso Rei""." ^v15
 
-**16** Assim diz o Senhor, o que preparou no mar um caminho, e nas águas impetuosas uma vereda; ^v16
+**16** Isto é o que Yahweh diz — Aquele que abriu um caminho no mar e uma vereda nas águas impetuosas, ^v16
 
-**17** O que fez sair o carro e o cavalo, o exército e a força; eles juntamente se deitaram, e nunca se levantarão; estão extintos; como um pavio se apagaram. ^v17
+**17** Aquele que conduziu o carro, o cavalo, o exército e a tropa poderosa. Eles caíram juntos, nunca se levantarão novamente; foram extintos, apagados como um pavio queimado. ^v17
 
-**18** Não vos lembreis das coisas passadas, nem considereis as antigas. ^v18
+**18** """Não penseis sobre essas coisas antigas, nem considereis as coisas de tempos atrás." ^v18
 
-**19** Eis que faço uma coisa nova, agora sairá à luz; porventura não a percebeis? Eis que porei um caminho no deserto, e rios no ermo. ^v19
+**19** Vede, Eu estou prestes a fazer uma coisa nova; agora, isso começou a acontecer; vós não o percebestes? Eu vou fazer uma estrada na terra seca e correntes de água no deserto. ^v19
 
-**20** Os animais do campo me honrarão, os chacais, e os avestruzes; porque porei águas no deserto, e rios no ermo, para dar de beber ao meu povo, ao meu eleito. ^v20
+**20** Os animais selvagens do campo Me honrarão, e também os chacais e os avestruzes, porque Eu dei água ao deserto e rios para a terra seca, para Meus escolhidos beberem, ^v20
 
-**21** A esse povo que formei para mim; o meu louvor relatarão. ^v21
+**21** pessoas que Eu formei para Mim a fim de declararem Meu louvor. ^v21
 
-**22** Contudo tu não me invocaste a mim, ó Jacó, mas te cansaste de mim, ó Israel. ^v22
+**22** Mas vós não Me chamastes, Jacó; vós vos cansastes de Mim, Israel. ^v22
 
-**23** Não me trouxeste o gado miúdo dos teus holocaustos, nem me honraste com os teus sacrifícios; não te fiz servir com ofertas, nem te fatiguei com incenso. ^v23
+**23** Não Me trouxeste algumas das tuas ovelhas, como ofertas queimadas, nem Me honraste com vossos sacrifícios. Eu não te sobrecarreguei com ofertas de grãos, nem te cansei com ofertas de incenso. ^v23
 
-**24** Não me compraste por dinheiro cana aromática, nem com a gordura dos teus sacrifícios me satisfizeste, mas me deste trabalho com os teus pecados, e me cansaste com as tuas iniqüidades. ^v24
+**24** Não compraste cana de cheiro doce, nem derramaste para Mim a gordura de teus sacrifícios; mas Me sobrecarregaste com teus pecados, Me cansaste com tuas maldades. ^v24
 
-**25** Eu, eu mesmo, sou o que apago as tuas transgressões por amor de mim, e dos teus pecados não me lembro. ^v25
+**25** Eu, sim, Eu Sou aquele que apaga tuas ofensas por causa de Mim; e Eu não trarei à mente teus pecados. ^v25
 
-**26** Faze-me lembrar; entremos juntos em juízo; conta tu as tuas razões, para que te possas justificar. ^v26
+**26** Lembra-Me do que aconteceu. Vamos debater juntos; apresenta tua causa para que tua inocência seja provada. ^v26
 
-**27** Teu primeiro pai pecou, e os teus intérpretes prevaricaram contra mim. ^v27
+**27** Teu primeiro pai pecou e teus primeiros líderes se rebelaram contra Mim. ^v27
 
-**28** Por isso profanei os príncipes do santuário; e entreguei Jacó ao anátema, e Israel ao opróbrio. ^v28
+**28** "Por isso, Eu profanei os líderes do santuário; entreguei Jacó para a destruição completa e Israel para humilhação extrema""." ^v28

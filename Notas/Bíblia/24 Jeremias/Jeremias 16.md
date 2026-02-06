@@ -1,49 +1,48 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Jeremias|Jeremias]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Jeremias|Jeremias]]"
+tags: [biblia]
 ---
 
 # Jeremias 16
 
-**1** E veio a mim a palavra do SENHOR, dizendo: ^v1
+**1** Então, a palavra de Yahweh veio a mim, dizendo: ^v1
 
-**2** Não tomarás para ti mulher, nem terás filhos nem filhas neste lugar. ^v2
+**2** """Não tomes uma esposa para ti e não tenhas filhos ou filhas neste lugar." ^v2
 
-**3** Porque assim diz o Senhor, acerca dos filhos e das filhas que nascerem neste lugar, acerca de suas mães, que os tiverem, e de seus pais que os gerarem nesta terra: ^v3
+**3** Porque assim diz Yahweh a respeito dos filhos e filhas que nascem neste lugar, para as mães que dão à luz a eles e para os pais que geraram nesta terra: ^v3
 
-**4** Morrerão de enfermidades dolorosas, e não serão pranteados nem sepultados; servirão de esterco sobre a face da terra; e pela espada e pela fome serão consumidos, e os seus cadáveres servirão de mantimento para as aves do céu e para os animais da terra. ^v4
+**4** "'Eles morrerão de enfermidades terríveis, não serão lamentados ou enterrados, serão como esterco no chão. Eles morrerão por espada e fome, e seus corpos serão alimento para os pássaros dos céus e para as feras da terra""." ^v4
 
-**5** Porque assim diz o Senhor: Não entres na casa do luto, nem vás a lamentar, nem te compadeças deles; porque deste povo, diz o Senhor, retirei a minha paz, benignidade e misericórdia. ^v5
+**5** "Assim diz Yahweh: ""Não entres em nenhuma casa que esteja em luto; não lamentes e não se compadeça deles. Pois Eu levei para longe dessas pessoas a Minha paz, Meu amor leal e a Minha misericórdia! — Esta é a declaração de Yahweh." ^v5
 
-**6** E morrerão grandes e pequenos nesta terra, e não serão sepultados, e não os prantearão, nem se farão por eles incisões, nem por eles se raparão os cabelos. ^v6
+**6** Ambos, grandes e pequenos, morrerão nesta terra. Eles não serão enterrados, nem serão lamentados por ninguém; não cortarão a si mesmos e nem rasparão as suas cabeças por eles. ^v6
 
-**7** E não se partirá pão para consolá-los por causa de seus mortos; nem lhes darão a beber do copo de consolação, pelo pai ou pela mãe de alguém. ^v7
+**7** Ninguém deve compartilhar alimento com os que estiverem pranteando para confortá-los por causa dos mortos e, ninguém deve dar de beber o cálice de consolação pela morte de seu pai ou mãe, a fim de confortá-los. ^v7
 
-**8** Nem entres na casa do banquete, para te assentares com eles a comer e a beber. ^v8
+**8** Tu não entrarás numa casa de banquete para sentar-se com eles, para comer e beber. ^v8
 
-**9** Porque assim diz o Senhor dos Exércitos, o Deus de Israel: Eis que farei cessar, neste lugar, perante os vossos olhos, e em vossos dias, a voz de gozo e a voz de alegria, a voz do esposo e a voz da esposa. ^v9
+**9** Pois, Yahweh dos Exércitos, Deus de Israel, disse isto: Vede, diante de vossos olhos, em vossos dias e neste lugar, Eu farei cessar o som de alegria e celebração, e também a voz do noivo e da noiva. ^v9
 
-**10** E será que, quando anunciares a este povo todas estas palavras, e eles te disserem: Por que pronuncia o Senhor sobre nós todo este grande mal? E qual é a nossa iniqüidade, e qual é o nosso pecado, que cometemos contra o Senhor nosso Deus? ^v10
+**10** Então, acontecerá que tu falarás todas estas palavras para esse povo, e eles te dirão: 'Por que Yahweh decretou esse grande mal contra nós? Qual é a nossa iniquidade? Qual é nossa iniquidade e pecado contra Yahweh nosso Deus?' ^v10
 
-**11** Então lhes dirás: Porquanto vossos pais me deixaram, diz o Senhor, e se foram após outros deuses, e os serviram, e se inclinaram diante deles, e a mim me deixaram, e a minha lei não a guardaram. ^v11
+**11** Então, responde-lhes: 'É porque vossos ancestrais Me abandonaram!' — Esta é a declaração de Yahweh. 'Eles foram atrás de outros deuses e os adoraram, e curvaram-se diante deles; eles Me abandonaram e não guardaram a Minha lei. ^v11
 
-**12** E vós fizestes pior do que vossos pais; porque, eis que cada um de vós anda segundo o propósito do seu mau coração, para não me dar ouvidos a mim. ^v12
+**12** Todavia, vós mesmos fizestes mais maldades do que vossos ancestrais, cada pessoa está caminhando pela obstinação do seu coração perverso; não há ninguém que Me escute. ^v12
 
-**13** Portanto lançar-vos-ei fora desta terra, para uma terra que não conhecestes, nem vós nem vossos pais; e ali servireis a deuses alheios de dia e de noite, porque não usarei de misericórdia convosco. ^v13
+**13** Portanto, Eu vos tirarei desta terra para uma terra que não conheceis, nem vós, nem vossos ancestrais; e vós adorareis os deuses de lá, dia e noite, e não vos darei nenhum favor. ^v13
 
-**14** Portanto, eis que dias vêm, diz o Senhor, em que nunca mais se dirá: Vive o Senhor, que fez subir os filhos de Israel da terra do Egito. ^v14
+**14** Vede! Os dias estão chegando — esta é a declaração de Yahweh — quando não mais se dirá: 'Tão certo como vive Yahweh, Aquele que trouxe o povo de Israel da terra de Egito'; ^v14
 
-**15** Mas: Vive o Senhor, que fez subir os filhos de Israel da terra do norte, e de todas as terras para onde os tinha lançado; porque eu os farei voltar à sua terra, a qual dei a seus pais. ^v15
+**15** mas, 'tão certo como vive Yahweh, Aquele que livrou o povo de Israel da terra do norte e das terras por onde Ele os espalhou!' Eu vos trarei de volta à terra que dei aos vossos ancestrais. ^v15
 
-**16** Eis que mandarei muitos pescadores, diz o Senhor, os quais os pescarão; e depois enviarei muitos caçadores, os quais os caçarão de sobre todo o monte, e de sobre todo o outeiro, e até das fendas das rochas. ^v16
+**16** Vede! Eu enviarei muitos pescadores — esta é a declaração de Yahweh — e eles pescarão o povo. Depois disso, Eu enviarei muitos caçadores, e eles vos caçarão em todas as montanhas, morros e fendas de rochas. ^v16
 
-**17** Porque os meus olhos estão sobre todos os seus caminhos; não se escondem da minha face, nem a sua maldade se encobre aos meus olhos. ^v17
+**17** Porque Meus olhos estão sobre todos os vossos caminhos; não podereis esconder-vos de Mim; vossa iniquidade não será oculta diante dos Meus olhos. ^v17
 
-**18** E primeiramente pagarei em dobro a sua maldade e o seu pecado, porque profanaram a minha terra com os cadáveres das suas coisas detestáveis, e das suas abominações encheram a minha herança. ^v18
+**18** "Primeiramente, Eu vos retribuirei em dobro por vossa iniquidade e pecado, por contaminar a Minha terra com vossas imagens detestáveis, e por encherem minha herança com vossos ídolos abomináveis.""" ^v18
 
-**19** Ó Senhor, fortaleza minha, e força minha, e refúgio meu no dia da angústia; a ti virão os gentios desde os fins da terra, e dirão: Nossos pais herdaram só mentiras, e vaidade, em que não havia proveito. ^v19
+**19** Yahweh, Tu és minha fortaleza e meu refúgio, meu lugar seguro no dia da angústia. As nações virão a Ti dos confins da terra e dirão: 'Certamente, os nossos ancestrais herdaram mentira, vaidade e coisas que não servem para nada'. ^v19
 
-**20** Porventura fará um homem deuses para si, que contudo não são deuses? ^v20
+**20** """O povo faz para si deuses que, na verdade, não são deuses?." ^v20
 
-**21** Portanto, eis que lhes farei conhecer, desta vez lhes farei conhecer a minha mão e o meu poder; e saberão que o meu nome é o Senhor. ^v21
+**21** "Portanto, vede! Eu farei com que eles, nesse tempo, conheçam a Minha mão e o Meu poder; então, eles saberão que Yahweh é Meu nome""." ^v21

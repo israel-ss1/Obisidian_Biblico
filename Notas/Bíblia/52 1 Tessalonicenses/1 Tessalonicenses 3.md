@@ -1,33 +1,32 @@
 ---
-Livro: "[[1 Tessalonicenses|1 Tessalonicenses]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/1 Tessalonicenses|1 Tessalonicenses]]"
+tags: [biblia]
 ---
 
 # 1 Tessalonicenses 3
 
-**1** Por isso, não podendo esperar mais, achamos por bem ficar sozinhos em Atenas; ^v1
+**1** Portanto, quando nós já não podíamos mais suportar, pensamos que seria bom ficarmos sozinhos em Atenas. ^v1
 
-**2** E enviamos Timóteo, nosso irmão, e ministro de Deus, e nosso cooperador no evangelho de Cristo, para vos confortar e vos exortar acerca da vossa fé; ^v2
+**2** Nós enviamos Timóteo, nosso irmão e ministro de Deus no Evangelho de Cristo, para vos fortalecer e confortar em relação à vossa fé. ^v2
 
-**3** Para que ninguém se comova por estas tribulações; porque vós mesmos sabeis que para isto fomos ordenados, ^v3
+**3** Nós fizemos isso com o desejo de que ninguém fosse abalado por essas tribulações. Pois vós sabeis que foi para isso que fomos destinados. ^v3
 
-**4** Pois, estando ainda convosco, vos predizíamos que havíamos de ser afligidos, como sucedeu, e vós o sabeis. ^v4
+**4** Verdadeiramente, quando estávamos convosco, predissemos que haveríamos de sofrer aflição, e isso aconteceu, como vós sabeis. ^v4
 
-**5** Portanto, não podendo eu também esperar mais, mandei-o saber da vossa fé, temendo que o tentador vos tentasse, e o nosso trabalho viesse a ser inútil. ^v5
+**5** Por essa razão, quando eu não podia mais suportar, eu o enviei para poder saber acerca da vossa fé, pois talvez o tentador, de alguma maneira, houvesse vos tentado e nosso trabalho tivesse sido em vão. ^v5
 
-**6** Vindo, porém, agora Timóteo de vós para nós, e trazendo-nos boas novas da vossa fé e amor, e de como sempre tendes boa lembrança de nós, desejando muito ver-nos, como nós também a vós; ^v6
+**6** Mas Timóteo retornou a nós e trouxe boas notícias da vossa fé e amor. Conforme ele nos disse, vós sempre tendes boas lembranças de nós e desejais nos ver, assim como também nós desejamos ver a vós. ^v6
 
-**7** Por esta razão, irmãos, ficamos consolados acerca de vós, em toda a nossa aflição e necessidade, pela vossa fé, ^v7
+**7** Por causa disso, irmãos, nós fomos confortados por causa da vossa fé, em toda a nossa angústia e aflição. ^v7
 
-**8** Porque agora vivemos, se estais firmes no Senhor. ^v8
+**8** Pois nós agora vivemos, se vós permanecerdes firmes no Senhor. ^v8
 
-**9** Porque, que ação de graças poderemos dar a Deus por vós, por todo o gozo com que nos regozijamos por vossa causa diante do nosso Deus, ^v9
+**9** Pois quantas graças podemos dar a Deus por vós, por toda alegria que nós temos diante de Deus por vossa causa? ^v9
 
-**10** Orando abundantemente dia e noite, para que possamos ver o vosso rosto, e supramos o que falta à vossa fé? ^v10
+**10** Noite e dia nós oramos arduamente para ver vossas faces e prover aquilo que falta à vossa fé. ^v10
 
-**11** Ora, o mesmo nosso Deus e Pai, e nosso Senhor Jesus Cristo, encaminhem a nossa viagem para vós. ^v11
+**11** Que o próprio Deus, nosso Pai, e nosso Senhor Jesus, direcionem nosso caminho até vós. ^v11
 
-**12** E o Senhor vos aumente, e faça crescer em amor uns para com os outros, e para com todos, como também o fazemos para convosco; ^v12
+**12** E que o Senhor vos faça crescer e abundar no amor uns para com os outros e para com todos as pessoas, assim como nós também fazemos para convosco. ^v12
 
-**13** Para confirmar os vossos corações, para que sejais irrepreensíveis em santidade diante de nosso Deus e Pai, na vinda de nosso Senhor Jesus Cristo com todos os seus santos. ^v13
+**13** Que Ele fortaleça os vossos corações, a fim de que sejam irrepreensíveis em santidade diante do nosso Deus e Pai, na vinda do nosso Senhor Jesus com todos os Seus santos. ^v13

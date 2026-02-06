@@ -1,19 +1,18 @@
 ---
-Livro: "[[Salmos|Salmos]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Salmos|Salmos]]"
+tags: [biblia]
 ---
 
 # Salmos 1
 
-**1** Bem-aventurado o homem que não anda segundo o conselho dos ímpios, nem se detém no caminho dos pecadores, nem se assenta na roda dos escarnecedores. ^v1
+**1** Como é abençoado o homem que não anda no conselho dos maus, não permanece no caminho dos pecadores, nem se assenta na roda dos zombadores. ^v1
 
-**2** Antes tem o seu prazer na lei do Senhor, e na sua lei medita de dia e de noite. ^v2
+**2** Mas o seu prazer está na Lei de Yahweh e, na Sua Lei, medita dia e noite. ^v2
 
-**3** Pois será como a árvore plantada junto a ribeiros de águas, a qual dá o seu fruto no seu tempo; as suas folhas não cairão, e tudo quanto fizer prosperará. ^v3
+**3** Ele será como a árvore plantada perto das correntes das águas, que produz seu fruto na estação certa e cujas folhas não murcham. Ele terá êxito em tudo o que fizer. ^v3
 
-**4** Não são assim os ímpios; mas são como a moinha que o vento espalha. ^v4
+**4** Com os perversos não é assim. Eles são como a palha que o vento leva. ^v4
 
-**5** Por isso os ímpios não subsistirão no juízo, nem os pecadores na congregação dos justos. ^v5
+**5** Por isso, os perversos não permanecerão de pé no julgamento, nem os pecadores no ajuntamento dos justos. ^v5
 
-**6** Porque o Senhor conhece o caminho dos justos; porém o caminho dos ímpios perecerá. ^v6
+**6** Pois Yahweh aprova o caminho dos justos, mas o caminho dos perversos perecerá. ^v6

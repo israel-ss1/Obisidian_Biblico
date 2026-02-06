@@ -1,83 +1,82 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Marcos|Marcos]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Marcos|Marcos]]"
+tags: [biblia]
 ---
 
 # Marcos 8
 
-**1** Naqueles dias, havendo uma grande multidão, e não tendo o que comer, Jesus chamou a si os seus discípulos, e disse-lhes: ^v1
+**1** Naqueles dias, havia novamente uma grande multidão, e eles não tinham nada para comer. Jesus chamou Seus discípulos e disse-lhes: ^v1
 
-**2** Tenho compaixão da multidão, porque há já três dias que estão comigo, e não têm o que comer. ^v2
+**2** """Tenho compaixão da multidão, pois permanecem comigo há três dias e não têm o que comer." ^v2
 
-**3** E, se os deixar ir em jejum, para suas casas, desfalecerão no caminho, porque alguns deles vieram de longe. ^v3
+**3** "Se eu os despedir para as suas casas sem comererem, desfalecerão pelo caminho. Muitos deles vieram de longe""." ^v3
 
-**4** E os seus discípulos responderam-lhe: De onde poderá alguém satisfazê-los de pão aqui no deserto? ^v4
+**4** "Seus discípulos responderam: ""Onde podemos conseguir pães o bastante para satisfazer essas pessoas neste lugar deserto?""." ^v4
 
-**5** E perguntou-lhes: Quantos pães tendes? E disseram-lhe: Sete. ^v5
+**5** "Jesus perguntou: ""Quantos pães tendes?"". Eles disseram: ""Sete""." ^v5
 
-**6** E ordenou à multidão que se assentasse no chão. E, tomando os sete pães, e tendo dado graças, partiu-os, e deu-os aos seus discípulos, para que os pusessem diante deles, e puseram-nos diante da multidão. ^v6
+**6** Ele ordenou à multidão que se assentasse no chão. Ele pegou os sete pães, deu graças e os partiu; deu aos discípulos para servirem, e eles serviram a multidão. ^v6
 
-**7** Tinham também alguns peixinhos; e, tendo dado graças, ordenou que também lhos pusessem diante. ^v7
+**7** Eles também tinham alguns peixinhos, e depois de dar graças, Ele ordenou aos discípulos que os servissem. ^v7
 
-**8** E comeram, e saciaram-se; e dos pedaços que sobejaram levantaram sete cestos. ^v8
+**8** Eles comeram e ficaram satisfeitos. Os discípulos pegaram dos pedaços que havia sobrado, sete cestos grandes. ^v8
 
-**9** E os que comeram eram quase quatro mil; e despediu-os. ^v9
+**9** Havia cerca de quatro mil homens ali. Jesus os despediu. ^v9
 
-**10** E, entrando logo no barco, com os seus discípulos, foi para as partes de Dalmanuta. ^v10
+**10** Imediatamente Ele foi para o barco com Seus discípulos e foram para a região de Dalmanuta. ^v10
 
-**11** E saíram os fariseus, e começaram a disputar com ele, pedindolhe, para o tentarem, um sinal do céu. ^v11
+**11** Então os fariseus vieram e começaram a discutir com Ele. Pediram-Lhe um sinal do céu, para testá-Lo. ^v11
 
-**12** E, suspirando profundamente em seu espírito, disse: Por que pede esta geração um sinal? Em verdade vos digo que a esta geração não se dará sinal algum. ^v12
+**12** "Suspirando profundamente em Seu espírito, disse: ""Por que esta geração busca um sinal? Em verdade vos digo que nenhum sinal será dado a esta geração""." ^v12
 
-**13** E, deixando-os, tornou a entrar no barco, e foi para o outro lado. ^v13
+**13** E, deixando-os, entrou novamente no barco e partiu para o outro lado. ^v13
 
-**14** E eles se esqueceram de levar pão e, no barco, não tinham consigo senão um pão. ^v14
+**14** Aconteceu que os discípulos se esqueceram de levar pães. E tinham apenas um pão no barco. ^v14
 
-**15** E ordenou-lhes, dizendo: Olhai, guardai-vos do fermento dos fariseus e do fermento de Herodes. ^v15
+**15** "Jesus lhes advertiu: ""Atentai-vos e guardai-vos do fermento dos fariseus e do fermento de Herodes""." ^v15
 
-**16** E arrazoavam entre si, dizendo: É porque não temos pão. ^v16
+**16** "Os discípulos arrazoavam entre si: ""É porque não temos pão""." ^v16
 
-**17** E Jesus, conhecendo isto, disse-lhes: Para que arrazoais, que não tendes pão? não considerastes, nem compreendestes ainda? tendes ainda o vosso coração endurecido? ^v17
+**17** "Jesus percebendo isso, disse-lhes: ""Por que arrazoais por não terdes pão? Não percebeis ainda? Não entendeis? Estão os vossos corações endurecidos?" ^v17
 
-**18** Tendo olhos, não vedes? e tendo ouvidos, não ouvis? e não vos lembrais, ^v18
+**18** Tendes olhos e não vedes? Tende ouvidos e não ouvis? Não vos lembrais? ^v18
 
-**19** Quando parti os cinco pães entre os cinco mil, quantas alcofas cheias de pedaços levantastes? Disseram-lhe: Doze. ^v19
+**19** "Quando Eu parti os cinco pães entre os cinco mil, quantos cestos de pães recolhestes?"". Responderam-Lhe: ""Doze""." ^v19
 
-**20** E, quando parti os sete entre os quatro mil, quantos cestos cheios de pedaços levantastes? E disseram-lhe: Sete. ^v20
+**20** """E quando reparti os sete pães entre os quatro mil, quantos cestos recolhestes?"". Eles disseram: ""Sete""." ^v20
 
-**21** E ele lhes disse: Como não entendeis ainda? ^v21
+**21** "Então perguntou-lhes: ""E ainda não entendeis?""" ^v21
 
-**22** E chegou a Betsaida; e trouxeram-lhe um cego, e rogaram-lhe que o tocasse. ^v22
+**22** Eles chegaram a Betsaida. As pessoas levaram até Jesus um cego rogando-Lhe que o tocasse. ^v22
 
-**23** E, tomando o cego pela mão, levou-o para fora da aldeia; e, cuspindo-lhe nos olhos, e impondo-lhe as mãos, perguntou-lhe se via alguma coisa. ^v23
+**23** "Jesus o tomou pela mão e o levou para fora da aldeia. Quando Ele cuspiu em seus olhos e colocou as mãos sobre ele, perguntou-lhe: ""Vês alguma coisa?""." ^v23
 
-**24** E, levantando ele os olhos, disse: Vejo os homens; pois os vejo como árvores que andam. ^v24
+**24** "Levantando os olhos, ele disse: ""Vejo homens que parecem árvores andando""." ^v24
 
-**25** Depois disto, tornou a pôr-lhe as mãos sobre os olhos, e o fez olhar para cima: e ele ficou restaurado, e viu a todos claramente. ^v25
+**25** Então Ele novamente tocou-lhe os olhos; a visão do homem foi restaurada e ele tudo viu com clareza. ^v25
 
-**26** E mandou-o para sua casa, dizendo: Nem entres na aldeia, nem o digas a ninguém na aldeia. ^v26
+**26** "Jesus o mandou para sua casa e disse: ""Não entres na cidade""." ^v26
 
-**27** E saiu Jesus, e os seus discípulos, para as aldeias de Cesaréia de Filipe; e no caminho perguntou aos seus discípulos, dizendo: Quem dizem os homens que eu sou? ^v27
+**27** "Jesus foi com Seus discípulos para as aldeias de Cesareia de Filipe. No caminho, Ele perguntou aos discípulos: ""Quem as pessoas dizem que Eu sou?""" ^v27
 
-**28** E eles responderam: João o Batista; e outros: Elias; mas outros: Um dos profetas. ^v28
+**28** "Eles responderam: ""João, o Batista. Outros dizem: 'Elias'; outros, 'Um dos profetas'""." ^v28
 
-**29** E ele lhes disse: Mas vós, quem dizeis que eu sou? E, respondendo Pedro, lhe disse: Tu és o Cristo. ^v29
+**29** "Ele perguntou-lhes: ""Mas quem vós dizeis que Eu sou?"". Respondendo, Pedro disse: ""Tu és o Cristo""." ^v29
 
-**30** E admoestou-os, para que a ninguém dissessem aquilo dele. ^v30
+**30** Jesus advertiu-lhes que não contassem a ninguém a respeito Dele. ^v30
 
-**31** E começou a ensinar-lhes que importava que o Filho do homem padecesse muito, e que fosse rejeitado pelos anciãos e príncipes dos sacerdotes, e pelos escribas, e que fosse morto, mas que depois de três dias ressuscitaria. ^v31
+**31** Ele começou a ensiná-los que o Filho do Homem deve sofrer muitas coisas, ser rejeitado pelos anciãos, pelos principais sacerdotes e pelos escribas, ser morto, e ressuscitar após três dias. ^v31
 
-**32** E dizia abertamente estas palavras. E Pedro o tomou à parte, e começou a repreendê-lo. ^v32
+**32** Ele disse isso abertamente. Então Pedro, chamando-O em particular, começou a repreendê-Lo. ^v32
 
-**33** Mas ele, virando-se, e olhando para os seus discípulos, repreendeu a Pedro, dizendo: Retira-te de diante de mim, Satanás; porque não compreendes as coisas que são de Deus, mas as que são dos homens. ^v33
+**33** "Mas Jesus virou-se, olhou para os discípulos, repreendeu a Pedro, dizendo: ""Para trás de Mim, Satanás! Não pensas nas coisas de Deus, mas nas dos homens""." ^v33
 
-**34** E chamando a si a multidão, com os seus discípulos, disse-lhes: Se alguém quiser vir após mim, negue-se a si mesmo, e tome a sua cruz, e siga-me. ^v34
+**34** "Então Ele chamou a multidão com os discípulos e disse: ""Se alguém quiser Me seguir, negue-se a si mesmo, tome sua cruz e siga-Me." ^v34
 
-**35** Porque qualquer que quiser salvar a sua vida, perdê-la-á, mas, qualquer que perder a sua vida por amor de mim e do evangelho, esse a salvará. ^v35
+**35** Pois aquele que quiser salvar sua vida, a perderá, e qualquer que perder sua vida por causa de Mim e do Evangelho, este a salvará. ^v35
 
-**36** Pois, que aproveitaria ao homem ganhar todo o mundo e perder a sua alma? ^v36
+**36** Que benefício terá aquele que ganhar o mundo todo e perder sua vida? ^v36
 
-**37** Ou, que daria o homem pelo resgate da sua alma? ^v37
+**37** O que daria o homem em troca da sua vida? ^v37
 
-**38** Porquanto, qualquer que, entre esta geração adúltera e pecadora, se envergonhar de mim e das minhas palavras, também o Filho do homem se envergonhará dele, quando vier na glória de seu Pai, com os santos anjos. ^v38
+**38** "Qualquer que se envergonhar de Mim e da Minha palavra nesta geração adúltera e pecadora, o Filho do Homem se envergonhará dele quando vier na glória de Seu Pai com os santos anjos""." ^v38

@@ -1,33 +1,32 @@
 ---
-Livro: "[[Apocalipse|Apocalipse]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Apocalipse|Apocalipse]]"
+tags: [biblia]
 ---
 
 # Apocalipse 8
 
-**1** E, havendo aberto o sétimo selo, fez-se silêncio no céu quase por meia hora. ^v1
+**1** E, quando o Cordeiro abriu o sétimo selo, houve um silêncio no céu, por cerca de meia hora. ^v1
 
-**2** E vi os sete anjos, que estavam diante de Deus, e foram-lhes dadas sete trombetas. ^v2
+**2** Então vi os sete anjos que estão em pé diante de Deus, e lhes foram dadas sete trombetas. ^v2
 
-**3** E veio outro anjo, e pôs-se junto ao altar, tendo um incensário de ouro; e foi-lhe dado muito incenso, para o pôr com as orações de todos os santos sobre o altar de ouro, que está diante do trono. ^v3
+**3** E outro anjo veio segurando um incensário de ouro e ficou em pé junto ao altar. Muito incenso foi-lhe dado para que oferecesse com as orações de todos os santos, sobre o altar dourado diante do trono. ^v3
 
-**4** E a fumaça do incenso subiu com as orações dos santos desde a mão do anjo até diante de Deus. ^v4
+**4** E da mão do anjo subiu, diante de Deus, a fumaça do incenso juntamente com as orações dos santos. ^v4
 
-**5** E o anjo tomou o incensário, e o encheu do fogo do altar, e o lançou sobre a terra; e houve depois vozes, e trovões, e relâmpagos e terremotos. ^v5
+**5** O anjo tomou depois o incensário e o encheu com fogo do altar e o jogou na terra; e houve trovões, clamores, relâmpagos e um terremoto. ^v5
 
-**6** E os sete anjos, que tinham as sete trombetas, prepararam-se para tocá-las. ^v6
+**6** E os sete anjos que tinham as sete trombetas prepararam-se para tocá-las. ^v6
 
-**7** E o primeiro anjo tocou a sua trombeta, e houve saraiva e fogo misturado com sangue, e foram lançados na terra, que foi queimada na sua terça parte; queimou-se a terça parte das árvores, e toda a erva verde foi queimada. ^v7
+**7** O primeiro anjo tocou a sua trombeta, e houve na terra granizo e fogo misturados com sangue: uma terça parte da terra foi queimada, a terça parte das árvores foi queimada, e toda erva verde foi queimada. ^v7
 
-**8** E o segundo anjo tocou a trombeta; e foi lançada no mar uma coisa como um grande monte ardendo em fogo, e tornou-se em sangue a terça parte do mar. ^v8
+**8** O segundo anjo tocou a trombeta, e algo como uma grande montanha ardendo em chamas foi lançado ao mar. E a terça parte do mar se tornou sangue, ^v8
 
-**9** E morreu a terça parte das criaturas que tinham vida no mar; e perdeu-se a terça parte das naus. ^v9
+**9** e a terça parte dos seres vivos no mar morreu, e a terça parte das embarcações foi destruída. ^v9
 
-**10** E o terceiro anjo tocou a sua trombeta, e caiu do céu uma grande estrela ardendo como uma tocha, e caiu sobre a terça parte dos rios, e sobre as fontes das águas. ^v10
+**10** E o terceiro anjo tocou a trombeta, e uma grande estrela caiu do céu, queimando como uma tocha, sobre uma terça parte dos rios e das fontes de água. ^v10
 
-**11** E o nome da estrela era Absinto, e a terça parte das águas tornou-se em absinto, e muitos homens morreram das águas, porque se tornaram amargas. ^v11
+**11** O nome da estrela é Absinto. A terça parte das águas se tornou em absinto, e muitas pessoas morreram por causa das águas que se tornaram amargas. ^v11
 
-**12** E o quarto anjo tocou a sua trombeta, e foi ferida a terça parte do sol, e a terça parte da lua, e a terça parte das estrelas; para que a terça parte deles se escurecesse, e a terça parte do dia não brilhasse, e semelhantemente a noite. ^v12
+**12** O quarto anjo tocou a sua trombeta, e a terça parte do sol foi ferida, bem como a terça parte da lua e a terça parte das estrelas. Assim a terça parte deles se tornou escura; a terça parte, tanto do dia como da noite, não brilharam. ^v12
 
-**13** E olhei, e ouvi um anjo voar pelo meio do céu, dizendo com grande voz: Ai! ai! ai! dos que habitam sobre a terra! por causa das outras vozes das trombetas dos três anjos que hão de ainda tocar. ^v13
+**13** "E vi e ouvi uma águia voando no meio do céu, clamando em alta voz: ""Ai, ai, ai daqueles que habitam na terra, por causa dos toques restantes de trombeta que ainda estão para ser soados pelos três anjos""." ^v13

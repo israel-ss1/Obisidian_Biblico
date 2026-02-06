@@ -1,35 +1,34 @@
 ---
-Livro: "[[2 Coríntios|2 Coríntios]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/2 Coríntios|2 Coríntios]]"
+tags: [biblia]
 ---
 
 # 2 Coríntios 13
 
-**1** É esta a terceira vez que vou ter convosco. Por boca de duas ou três testemunhas será confirmada toda a palavra. ^v1
+**1** "Esta é a terceira vez que eu irei até vós. ""Toda acusação deve ser resolvida pela palavra de duas ou três testemunhas""." ^v1
 
-**2** Já anteriormente o disse, e segunda vez o digo como quando estava presente; mas agora, estando ausente, o escrevo aos que antes pecaram e a todos os mais, que, se outra vez for, não lhes perdoarei; ^v2
+**2** Eu já falei para aqueles que pecaram anteriormente e para todos os demais, quando estive convosco pela segunda vez, e digo de novo: quando voltar novamente, não vos pouparei. ^v2
 
-**3** Visto que buscais uma prova de Cristo que fala em mim, o qual não é fraco para convosco, antes é poderoso entre vós. ^v3
+**3** Eu vos digo isso porque estais procurando evidências de que Cristo está falando através de mim. Ele não é fraco para convosco. Ao contrário, Ele é poderoso em vós. ^v3
 
-**4** Porque, ainda que foi crucificado por fraqueza, vive, contudo, pelo poder de Deus. Porque nós também somos fracos nele, mas viveremos com ele pelo poder de Deus em vós. ^v4
+**4** Pois Ele foi crucificado em fraqueza, mas está vivo pelo poder de Deus. Pois nós também somos fracos Nele, mas viveremos com Ele pelo poder de Deus entre vós. ^v4
 
-**5** Examinai-vos a vós mesmos, se permaneceis na fé; provai-vos a vós mesmos. Ou não sabeis quanto a vós mesmos, que Jesus Cristo está em vós? Se não é que já estais reprovados. ^v5
+**5** Examinai a vós mesmos para saberdes se estais na fé. Provai a vós mesmos. Não percebeis que Jesus Cristo está em vós? A não ser que já estais reprovados. ^v5
 
-**6** Mas espero que entendereis que nós não somos reprovados. ^v6
+**6** E eu estou confiante de que reconhecereis que não somos reprovados. ^v6
 
-**7** Ora, eu rogo a Deus que não façais mal algum, não para que sejamos achados aprovados, mas para que vós façais o bem, embora nós sejamos como reprovados. ^v7
+**7** Oramos a Deus para que não façais mal algum. Não oro para que pareçamos aprovados. Em vez disso, oro para que façais o que é certo, embora pareça que fomos reprovados no teste. ^v7
 
-**8** Porque nada podemos contra a verdade, senão pela verdade. ^v8
+**8** Pois não podemos fazer coisa alguma contra a verdade, mas apenas em favor da verdade. ^v8
 
-**9** Porque nos regozijamos de estar fracos, quando vós estais fortes; e o que desejamos é a vossa perfeição. ^v9
+**9** Pois nos alegramos quando estamos fracos e vós estais fortes. Nós também oramos para que sejais aperfeiçoados. ^v9
 
-**10** Portanto, escrevo estas coisas estando ausente, para que, estando presente, não use de rigor, segundo o poder que o Senhor me deu para edificação, e não para destruição. ^v10
+**10** Escrevo essas coisas enquanto estou distante de vós, para que, quando eu estiver convosco, não precise vos tratar com rigor no uso da minha autoridade, a qual o Senhor me deu, para que eu possa vos edificar, e não vos destruir. ^v10
 
-**11** Quanto ao mais, irmãos, regozijai-vos, sede perfeitos, sede consolados, sede de um mesmo parecer, vivei em paz; e o Deus de amor e de paz será convosco. ^v11
+**11** Finalmente, irmãos, alegrai-vos! Trabalhai para serdes aperfeiçoados, sedes encorajados, concordai uns com os outros, vivei em paz. E o Deus de amor e paz estará convosco. ^v11
 
-**12** Saudai-vos uns aos outros com ósculo santo. ^v12
+**12** Saudai-vos uns aos outros com um beijo santo. ^v12
 
-**13** Todos os santos vos saúdam. ^v13
+**13** Todos os santos vos saúdam.[] ^v13
 
-**14** A graça do Senhor Jesus Cristo, e o amor de Deus, e a comunhão do Espírito Santo seja com todos vós. Amém. ^v14
+**14** Que a graça do Senhor Jesus Cristo, o amor de Deus, e a comunhão do Espírito Santo sejam com todos vós. ^v14

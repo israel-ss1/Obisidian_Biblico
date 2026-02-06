@@ -1,75 +1,74 @@
 ---
-Livro: "[[1 Reis|1 Reis]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/1 Reis|1 Reis]]"
+tags: [biblia]
 ---
 
 # 1 Reis 13
 
-**1** E eis que, por ordem do SENHOR, veio, de Judá a Betel, um homem de Deus; e Jeroboão estava junto ao altar, para queimar incenso. ^v1
+**1** Um homem de Deus veio de Judá, pela palavra de Yahweh, para Betel. Jeroboão estava junto ao altar para queimar incenso. ^v1
 
-**2** E ele clamou contra o altar por ordem do Senhor, e disse: Altar, altar! Assim diz o Senhor: Eis que um filho nascerá à casa de Davi, cujo nome será Josias, o qual sacrificará sobre ti os sacerdotes dos altos que sobre ti queimam incenso, e ossos de homens se queimarão sobre ti. ^v2
+**2** "O homem de Deus gritou contra o altar, pela palavra de Yahweh: ""Altar, altar! Isto é o que Yahweh disse: 'Vê, um filho nascerá para a família de Davi, com o nome de Josias, e ele sacrificará os sacerdotes dos lugares altos que agora queimam incenso aqui, e, sobre ti, queimarão ossos humanos'""." ^v2
 
-**3** E deu, naquele mesmo dia, um sinal, dizendo: Este é o sinal de que o Senhor falou: Eis que o altar se fenderá, e a cinza, que nele está, se derramará. ^v3
+**3** "Então o homem de Deus deu um sinal no mesmo dia, dizendo: ""Esse é o sinal que Yahweh falou: 'Olha, o altar se partirá, e as cinzas sobre ele se derramarão'""." ^v3
 
-**4** Sucedeu, pois, que, ouvindo o rei a palavra do homem de Deus, que clamara contra o altar de Betel, Jeroboão estendeu a sua mão de sobre o altar, dizendo: Pegai-o! Mas a sua mão, que estendera contra ele, se secou, e não podia tornar a trazê-la a si. ^v4
+**4** "Quando o rei ouviu o que o homem de Deus falou, que ele havia gritado contra o altar de Betel, Jeroboão estendeu a mão sobre o altar, dizendo: ""Prendei-o!"" Então a mão que ele estendeu contra o homem secou, e ele não conseguiu recolhê-la para si mesmo." ^v4
 
-**5** E o altar se fendeu, e a cinza se derramou do altar, segundo o sinal que o homem de Deus apontara por ordem do Senhor. ^v5
+**5** (O altar também estava partido, e as cinzas se derramaram do altar, conforme o sinal que o homem de Deus havia dado por meio da palavra de Yahweh). ^v5
 
-**6** Então respondeu o rei, e disse ao homem de Deus: Suplica ao Senhor teu Deus, e roga por mim, para que se me restitua a minha mão. Então o homem de Deus suplicou ao Senhor, e a mão do rei se lhe restituiu, e ficou como dantes. ^v6
+**6** "O rei Jeroboão respondeu e disse para o homem de Deus: ""Intercede pelo favor de Yahweh, teu Deus, e ora por mim, para que a minha mão seja restaurada novamente"". Então o homem de Deus orou a Yahweh, e a mão do rei foi restaurada a ele novamente e ficou como estava antes." ^v6
 
-**7** E o rei disse ao homem de Deus: Vem comigo para casa, e conforta-te; e dar-te-ei um presente. ^v7
+**7** "O rei falou para o homem de Deus: ""Vem para casa comigo, refresca-te e te darei uma recompensa""." ^v7
 
-**8** Porém o homem de Deus disse ao rei: Ainda que me desses metade da tua casa, não iria contigo, nem comeria pão nem beberia água neste lugar. ^v8
+**8** "O homem de Deus disse ao rei: ""Mesmo se tu me deres a metade de tuas posses, eu não irei contigo, não comerei e nem beberei água neste lugar," ^v8
 
-**9** Porque assim me ordenou o Senhor pela sua palavra, dizendo: Não comerás pão nem beberás água; e não voltarás pelo caminho por onde vieste. ^v9
+**9** "pois Yahweh ordenou-me com Sua palavra: 'Tu não comerás pão ou beberás água, nem retornarás pelo caminho que tu vieste'""." ^v9
 
-**10** Assim foi por outro caminho; e não voltou pelo caminho, por onde viera a Betel. ^v10
+**10** Então o homem de Deus foi por outro caminho e não retornou à sua casa pelo caminho por onde ele tinha vindo para Betel. ^v10
 
-**11** E morava em Betel um velho profeta; e vieram seus filhos, e contaram-lhe tudo o que o homem de Deus fizera aquele dia em Betel, e as palavras que dissera ao rei; e as contaram a seu pai. ^v11
+**11** Havia um velho profeta vivendo em Betel, e um de seus filhos veio e lhe falou todas as coisas que o homem de Deus tinha feito naquele dia em Betel. Seus filhos também falaram para ele o que o homem de Deus havia falado para o rei. ^v11
 
-**12** E disse-lhes seu pai: Por que caminho se foi? E seus filhos lhe mostraram o caminho por onde fora o homem de Deus que viera de Judá. ^v12
+**12** "O pai deles lhes disse: ""Por qual caminho ele foi?"" Seus filhos tinham visto o caminho por onde o homem do Deus de Judá havia ido." ^v12
 
-**13** Então disse a seus filhos: Albardai-me um jumento. E albardaram-lhe o jumento no qual ele montou. ^v13
+**13** "Então, ele falou para os seus filhos: ""Selai o jumento para mim"". Então eles selaram o jumento, e ele foi embora cavalgando." ^v13
 
-**14** E foi após o homem de Deus, e achou-o assentado debaixo de um carvalho, e disse-lhe: És tu o homem de Deus que vieste de Judá? E ele disse: Sou. ^v14
+**14** "O velho profeta foi atrás do homem de Deus, achou-o sentado debaixo de um carvalho e lhe disse: ""És tu o homem de Deus que veio de Judá?"" Ele respondeu: ""Sou eu""." ^v14
 
-**15** Então lhe disse: Vem comigo à casa, e come pão. ^v15
+**15** "Então o velho profeta lhe disse: ""Vem embora para a casa comigo e coma alguma coisa""." ^v15
 
-**16** Porém ele disse: Não posso voltar contigo, nem entrarei contigo; nem tampouco comerei pão, nem beberei contigo água neste lugar. ^v16
+**16** "O homem de Deus respondeu: ""Eu não devo retornar contigo, nem ir contigo, nem comer ou beber água contigo, neste lugar," ^v16
 
-**17** Porque me foi mandado pela palavra do Senhor: Ali não comerás pão, nem beberás água; nem voltarás pelo caminho por onde vieste. ^v17
+**17** "pois foi ordenado a mim, pela palavra de Yahweh: 'Tu não comerás, nem beberás água lá, nem retornarás pelo caminho pelo qual tu vieste'""." ^v17
 
-**18** E ele lhe disse: Também eu sou profeta como tu, e um anjo me falou por ordem do Senhor, dizendo: Faze-o voltar contigo à tua casa, para que coma pão e beba água (porém mentiu-lhe). ^v18
+**18** "Então o velho profeta lhe disse: ""Eu também sou um profeta como tu és, e um anjo falou comigo, pela palavra de Yahweh, dizendo: 'Traze-o de volta contigo, para tua casa, para que ele coma algo e beba água'"". Mas ele estava mentindo para o homem de Deus." ^v18
 
-**19** Assim voltou com ele, e comeu pão em sua casa e bebeu água. ^v19
+**19** Então o homem de Deus voltou com o velho profeta e comeu e bebeu água em sua casa. ^v19
 
-**20** E sucedeu que, estando eles à mesa, a palavra do Senhor veio ao profeta que o tinha feito voltar. ^v20
+**20** Quando eles se sentaram à mesa, a palavra de Yahweh veio para o profeta que o havia trazido de volta, ^v20
 
-**21** E clamou ao homem de Deus, que viera de Judá, dizendo: Assim diz o Senhor: Porquanto foste rebelde à ordem do Senhor, e não guardaste o mandamento que o Senhor teu Deus te mandara, ^v21
+**21** "e ele clamou para o homem de Deus que veio de Judá, dizendo: ""Yahweh disse: 'Porque tu foste desobediente à palavra de Yahweh e não guardaste o mandamento que Yahweh, teu Deus, te deu," ^v21
 
-**22** Antes voltaste, e comeste pão e bebeste água no lugar de que o Senhor te dissera: Não comerás pão nem beberás água; o teu cadáver não entrará no sepulcro de teus pais. ^v22
+**22** "mas voltaste, comeste e bebeste água no lugar em que Yahweh disse para não comer nem beber água, teu corpo não será enterrado no túmulo de teus pais'""." ^v22
 
-**23** E sucedeu que, depois que comeu pão, e depois que bebeu, albardou ele o jumento para o profeta que fizera voltar. ^v23
+**23** Depois de ele ter comido e bebido, o profeta selou o jumento do homem de Deus, o homem que tinha voltado com ele. ^v23
 
-**24** Este, pois, se foi, e um leão o encontrou no caminho, e o matou; e o seu cadáver ficou estendido no caminho, e o jumento estava parado junto a ele, e também o leão estava junto ao cadáver. ^v24
+**24** Quando o homem de Deus foi embora, um leão veio até ele na estrada e o matou, e seu corpo ficou na estrada. Então o jumento ficou perto dele, e o leão também ficou diante do corpo. ^v24
 
-**25** E eis que alguns homens passaram, e viram o corpo lançado no caminho, como também o leão, que estava junto ao corpo; e foram, e o disseram na cidade onde o velho profeta habitava. ^v25
+**25** Quando homens passaram perto, e viram o corpo deixado na estrada e o leão diante do corpo, vieram e contaram isso na cidade onde o velho profeta vivia. ^v25
 
-**26** E, ouvindo-o o profeta que o fizera voltar do caminho, disse: É o homem de Deus, que foi rebelde à ordem do Senhor; por isso o Senhor o entregou ao leão, que o despedaçou e matou, segundo a palavra que o Senhor lhe dissera. ^v26
+**26** "Quando o profeta que o trouxe de volta do caminho ouviu, ele disse: ""É o homem de Deus, que desobedeceu à palavra de Yahweh. Portanto Yahweh entregou-o ao leão, que o rasgou em pedaços e o matou, como a palavra de Yahweh o tinha avisado""." ^v26
 
-**27** Então disse a seus filhos: Albardai-me o jumento. Eles o albardaram. ^v27
+**27** "Então o velho profeta falou aos seus filhos, dizendo: ""Selai o meu jumento"", e eles o selaram." ^v27
 
-**28** Então foi, e achou o cadáver estendido no caminho, e o jumento e o leão, que estavam parados junto ao cadáver; e o leão não tinha devorado o corpo, nem tinha despedaçado o jumento. ^v28
+**28** Ele foi e encontrou o corpo deixado na estrada, e o jumento e o leão diante do corpo. O leão não tinha comido o corpo, nem atacado o jumento. ^v28
 
-**29** Então o profeta levantou o cadáver do homem de Deus, e pô-lo em cima do jumento levando-o consigo; assim veio o velho profeta à cidade, para o chorar e enterrar. ^v29
+**29** O profeta pegou o corpo do homem de Deus, colocou no jumento e o trouxe de volta. Ele foi para sua cidade para chorar por ele e para enterrá-lo. ^v29
 
-**30** E colocou o cadáver no seu próprio sepulcro; e prantearam-no, dizendo: Ah, irmão meu! ^v30
+**30** "Ele enterrou o corpo em seu próprio túmulo, e eles choravam sobre ele, dizendo: ""Ai, meu irmão!""" ^v30
 
-**31** E sucedeu que, depois de o haver sepultado, disse a seus filhos: Morrendo eu, sepultai-me no sepulcro em que o homem de Deus está sepultado; ponde os meus ossos junto aos ossos dele. ^v31
+**31** "Então, depois de o haver enterrado, o velho profeta falou aos seus filhos, dizendo: ""Quando eu estiver morto, enterrai-me num túmulo em que o homem de Deus estiver enterrado. Colocai meus ossos ao lado dos ossos dele." ^v31
 
-**32** Porque certamente se cumprirá o que pela palavra do Senhor exclamou contra o altar que está em Betel, como também contra todas as casas dos altos que estão nas cidades de Samaria. ^v32
+**32** "Porque a mensagem que ele declarou pela palavra de Yahweh contra o altar em Betel e contra todas as casas nos lugares altos nas cidades de Samaria certamente acontecerá""." ^v32
 
-**33** Nem depois destas coisas deixou Jeroboão o seu mau caminho; antes, de todo o povo, tornou a constituir sacerdotes dos lugares altos; e a qualquer que queria consagrava sacerdote dos lugares altos. ^v33
+**33** Depois disso Jeroboão não se arrependeu dos seus maus caminhos, mas ainda nomeou sacerdotes comuns para os lugares altos, entre todos os tipos de pessoas. Ele consagrou qualquer um que quisesse servir como sacerdote. ^v33
 
-**34** E isso foi causa de pecado à casa de Jeroboão, para destruí-la e extingui-la da terra. ^v34
+**34** Isso tornou-se pecado para a família de Jeroboão e resultou na destruição dessa família, bem como no seu extermínio da face da terra. ^v34

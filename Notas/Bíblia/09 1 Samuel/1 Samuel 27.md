@@ -1,31 +1,30 @@
 ---
-Livro: "[[1 Samuel|1 Samuel]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/1 Samuel|1 Samuel]]"
+tags: [biblia]
 ---
 
 # 1 Samuel 27
 
-**1** Disse, porém, Davi no seu coração: Ora, algum dia ainda perecerei pela mão de Saul; não há coisa melhor para mim do que escapar apressadamente para a terra dos filisteus, para que Saul perca a esperança de mim, e cesse de me buscar por todos os termos de Israel; e assim escaparei da sua mão. ^v1
+**1** "Davi disse em seu coração: ""Algum dia perecerei pela mão de Saul; não há melhor escolha do que fugir para a terra dos filisteus; Saul desistirá de me procurar nos arredores de Israel; assim, escaparei de sua mão""." ^v1
 
-**2** Então Davi se levantou, e passou, com os seiscentos homens que com ele estavam, a Aquis, filho de Maoque, rei de Gate. ^v2
+**2** Davi levantou-se e saiu — ele e os seiscentos homens que o acompanhavam — para Áquis, filho de Maoque, o rei de Gate. ^v2
 
-**3** E Davi ficou com Aquis em Gate, ele e os seus homens, cada um com a sua casa; Davi com ambas as suas mulheres, Ainoã, a jizreelita, e Abigail, a mulher de Nabal, o carmelita. ^v3
+**3** Davi habitou em Gate — ele e seus homens, cada homem com toda a sua casa, e Davi com suas duas esposas, Aionã, a jezreelita, e Abigail a carmelita, esposa de Nabal. ^v3
 
-**4** E, sendo Saul avisado que Davi tinha fugido para Gate, não cuidou mais de buscá-lo. ^v4
+**4** Saul, sendo informado de que Davi havia fugido para Gate, não o procurou mais. ^v4
 
-**5** E disse Davi a Aquis: Se eu tenho achado graça em teus olhos, dá-me lugar numa das cidades da terra, para que ali habite; pois por que razão habitaria o teu servo contigo na cidade real? ^v5
+**5** "Davi disse a Áquis: ""Se encontrei favor aos teus olhos, dá-me um lugar em uma das cidades do país, para que lá eu possa habitar. Por que deveria o teu servo habitar na cidade real contigo?""." ^v5
 
-**6** Então lhe deu Aquis, naquele dia, a cidade de Ziclague (por isso Ziclague pertence aos reis de Judá, até ao dia de hoje). ^v6
+**6** Então, Áquis lhe deu Ziclague naquele dia; por isso, Ziclague pertence aos reis de Judá até estes dias. ^v6
 
-**7** E foi o número dos dias, que Davi habitou na terra dos filisteus, um ano e quatro meses. ^v7
+**7** O tempo em que Davi habitou na terra dos filisteus foi de um ano e quatro meses. ^v7
 
-**8** E subia Davi com os seus homens, e davam sobre os gesuritas, e os gersitas, e os amalequitas; porque antigamente foram estes os moradores da terra que se estende na direção de Sur, até à terra do Egito. ^v8
+**8** Davi e seus homens atacaram vários lugares; saquearam os gezuritas, e os amalequitas, pois estas nações eram os habitantes da terra, conforme se vai para Sur, tão longe quanto a terra do Egito. Eles habitavam nessa terra desde o tempo dos anciãos. ^v8
 
-**9** E Davi feria aquela terra, e não dava vida nem a homem nem a mulher, e tomava ovelhas, e vacas, e jumentos, e camelos, e vestes; e voltava, e vinha a Aquis. ^v9
+**9** Davi atacou a terra e não poupou a vida de homens nem de mulheres; ele tomou as ovelhas, o gado, os jumentos, os camelos e as roupas. Ele atacava e retornava a Áquis. ^v9
 
-**10** E dizendo Aquis: Onde atacastes hoje? Davi dizia: Sobre o sul de Judá, e sobre o sul dos jerameelitas, e sobre o sul dos queneus. ^v10
+**10** "Áquis perguntava: ""Contra quem atacastes hoje?"". Davi respondia: ""Contra o sul de Judá"", ou ""Contra o sul dos jerameleus"", ou ""Contra o sul dos queneus""." ^v10
 
-**11** E Davi não deixava com vida nem a homem nem a mulher, para trazê-los a Gate, dizendo: Para que porventura não nos denunciem, dizendo: Assim Davi o fazia. E este era o seu costume por todos os dias que habitou na terra dos filisteus. ^v11
+**11** "Davi não manteria vivos nem homens, nem mulheres para trazê-los a Gate, dizendo: ""Assim, não poderão dizer de nós: 'Davi fez assim e assim'"". Fez isto durante todo o tempo em que morou no país dos filisteus." ^v11
 
-**12** E Aquis confiava em Davi, dizendo: Fez-se ele por certo aborrecível para com o seu povo em Israel; por isso me será por servo para sempre. ^v12
+**12** "Áquis acreditava em Davi, pois dizia: ""Ele tem feito com que seu povo em Israel o odeie; assim, ele será meu servo para sempre""." ^v12

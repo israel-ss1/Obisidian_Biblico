@@ -1,43 +1,42 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Josué|Josué]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Josué|Josué]]"
+tags: [biblia]
 ---
 
 # Josué 17
 
-**1** Também coube sorte à tribo de Manassés, porquanto era o primogênito de José. Maquir, o primogênito de Manassés, pai de Gileade, porquanto era homem de guerra, teve a Gileade e Basã; ^v1
+**1** Esta foi a terra distribuída à tribo de Manassés (o qual era o primogênito de José), isto é, a Maquir, o primogênito de Manassés, pai de Gileade. Aos descendentes de Maquir, que era homem de guerra, foi distribuída a terra de Gileade e Basã. ^v1
 
-**2** Também os demais filhos de Manassés tiveram a sua parte, segundo as suas famílias, a saber: Os filhos de Abiezer, e os filhos de Heleque, e os filhos de Asriel, e os filhos de Siquém, e os filhos de Hefer, e os filhos de Semida; esses são os filhos de Manassés, filho de José, segundo as suas famílias. ^v2
+**2** A terra também foi dada por herança aos outros filhos de Manassés, conforme seus clãs, isto é, aos descendentes de Abiezer, Heleque, Asriel, Siquém, Hefer e Semida. Esses foram os descendentes machos de Manassés, filho de José, segundo seus clãs. ^v2
 
-**3** Zelofeade, porém, filho de Hefer, filho de Gileade, filho de Maquir, filho de Manassés, não teve filhos, mas só filhas; e estes são os nomes de suas filhas: Maalá, Noa, Hogla, Milca e Tirza. ^v3
+**3** Mas Zelofeade, filho de Hefer, filho de Gileade, filho de Maquir, filho de Manassés, não teve filhos, somentes filhas. Estes foram os nomes das suas filhas: Maalá, Noa, Hogla, Milca e Tirza. ^v3
 
-**4** Estas, pois, chegaram diante de Eleazar, o sacerdote, e diante de Josué, filho de Num, e diante dos príncipes, dizendo: O Senhor ordenou a Moisés que se nos desse herança no meio de nossos irmãos, pelo que, conforme a ordem do Senhor, lhes deu herança no meio dos irmãos de seu pai. ^v4
+**4** "Elas se apresentaram a Eleazar, o sacerdote, a Josué, filho de Num, e aos líderes, e disseram: ""Yahweh ordenou a Moisés que nos desse herança entre os nossos irmãos"". Então, seguindo a ordem de Yahweh, ele deu àquelas mulheres uma herança entre os irmãos do seu pai." ^v4
 
-**5** E couberam a Manassés dez quinhões, afora a terra de Gileade e Basã, que está além do Jordão; ^v5
+**5** Manassés recebeu dez partes da terra em Gileade e Basã, a qual ficava do outro lado do Jordão, ^v5
 
-**6** Porque as filhas de Manassés receberam herança entre os filhos dele; e os outros filhos de Manassés ficaram com a terra de Gileade. ^v6
+**6** por causa das filhas de Manassés que receberam herança entre os filhos dele. A terra de Gileade foi dividida entre o restante da tribo de Manassés. ^v6
 
-**7** E o termo de Manassés foi desde Aser até Micmetá, que está defronte de Siquém; e estende-se este termo à direita até os moradores de En-Tapua. ^v7
+**7** O território de Manassés abrangia de Aser até Micmetá, que ficava ao leste de Siquém. Então, a fronteira estendia-se para o sul até os habitantes que moravam perto da fonte de Tapua. ^v7
 
-**8** Tinha Manassés a terra de Tapua; porém Tapua, junto ao termo de Manassés, pertencia aos filhos de Efraim. ^v8
+**8** (A terra de Tapua pertencia a Manassés, mas a cidade de Tapua, na fronteira de Manassés, pertencia à tribo de Efraim). ^v8
 
-**9** Então descia este termo ao ribeiro de Caná. A Efraim couberam as cidades ao sul do ribeiro, entre as cidades de Manassés; e o termo de Manassés estava ao norte do ribeiro, indo terminar no mar. ^v9
+**9** Depois, a fronteira descia ao longo do riacho de Caná. Estas cidades do sul do riacho no meio de Manassés pertenceram a Efraim. A fronteira de Manassés estava no lado norte do riacho e finalizava no mar. ^v9
 
-**10** Efraim ao sul, e Manassés ao norte, e o mar é o seu termo; pelo norte tocam em Aser, e pelo oriente em Issacar. ^v10
+**10** A terra do sul pertencia a Efraim e a terra do norte, a Manassés; o mar era sua fronteira. O lado norte estendia-se de Aser e, ao leste, até Issacar. ^v10
 
-**11** Porque em Issacar e em Aser tinha Manassés a Bete-Seã e as suas vilas, e Ibleã e as suas vilas, e os habitantes de Dor e as suas vilas, e os habitantes de En-Dor e as suas vilas, e os habitantes de Taanaque e as suas vilas, e os habitantes de Megido e as suas vilas; três outeiros. ^v11
+**11** Também em Issacar e Aser, Manassés recebeu Bete-Seã e suas vilas, Ibleão e suas vilas, os habitantes de Dor e suas vilas, os habitantes de En-Dor e suas vilas, os habitantes de Taanaque e suas vilas, e os habitantes de Megido e suas vilas (e a terceira cidade é Nafete). ^v11
 
-**12** E os filhos de Manassés não puderam expulsar os habitantes daquelas cidades; porquanto os cananeus queriam habitar na mesma terra. ^v12
+**12** Contudo, a tribo de Manassés não pôde tomar posse daquelas cidades, pois os cananeus continuavam a habitar naquela terra. ^v12
 
-**13** E sucedeu que, engrossando em forças os filhos de Israel, fizeram tributários aos cananeus; porém não os expulsaram de todo. ^v13
+**13** Mas, quando o povo de Israel tornou-se forte, sujeitou os cananeus a trabalhos forçados; porém, não os expulsou completamente. ^v13
 
-**14** Então os filhos de José falaram a Josué, dizendo: Por que me deste por herança só uma sorte e um quinhão, sendo eu um tão grande povo, visto que o Senhor até aqui me tem abençoado? ^v14
+**14** "Então, os descendentes de José disseram a Josué: ""Por que nos deste somente uma porção de terra e uma porção por herança, visto que somos um povo grande em número e Yahweh sempre nos tem abençoado?""." ^v14
 
-**15** E disse-lhes Josué: Se tão grande povo és, sobe ao bosque, e ali corta, para ti, lugar na terra dos perizeus e dos refains; pois que as montanhas de Efraim te são tão estreitas. ^v15
+**15** "Josué lhes disse: ""Se sois um povo numeroso, subi vós mesmos à floresta e limpai um local para vós na terra dos perizeus e dos refains, já que as colinas de Efraim são pequenas demais para vós""." ^v15
 
-**16** Então disseram os filhos de José: As montanhas não nos bastariam; também carros de ferro há entre todos os cananeus que habitam na terra do vale, entre os de Bete-Seã e as suas vilas, e entre os que estão no vale de Jizreel. ^v16
+**16** "E os descendentes de José disseram: ""A região montanhosa não é suficiente para nós. Porém, todos os cananeus que vivem no vale têm carros de ferro, tanto os de Bete-Seã e suas vilas, como os que estão no vale de Jezreel""." ^v16
 
-**17** Então Josué falou à casa de José, a Efraim e a Manassés, dizendo: Grande povo és, e grande força tens; não terás uma sorte apenas; ^v17
+**17** "Então, Josué disse à casa de José, isto é, a Efraim e a Manassés: ""Vós sois um povo numeroso e tendes grande poder. Não tereis apenas uma porção de terra distribuída." ^v17
 
-**18** Porém as montanhas serão tuas. Ainda que é bosque, cortá-lo-ás, e as suas extremidades serão tuas; porque expulsarás os cananeus, ainda que tenham carros de ferro, ainda que sejam fortes. ^v18
+**18** "A região montanhosa também será vossa. Embora seja uma floresta, vós a limpareis e tomareis posse dela até as suas fronteiras mais distantes. Expulsareis os cananeus, mesmo que eles tenham carros de ferro e sejam fortes""." ^v18

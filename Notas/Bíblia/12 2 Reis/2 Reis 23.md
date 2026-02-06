@@ -1,81 +1,80 @@
 ---
-Livro: "[[2 Reis|2 Reis]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/2 Reis|2 Reis]]"
+tags: [biblia]
 ---
 
 # 2 Reis 23
 
-**1** Então o rei ordenou, e todos os anciãos de Judá e de Jerusalém se reuniram a ele. ^v1
+**1** Assim, o rei enviou mensageiros que reuniram até ele todos os anciãos de Judá e de Jerusalém. ^v1
 
-**2** O rei subiu à casa do Senhor, e com ele todos os homens de Judá, e todos os moradores de Jerusalém, os sacerdotes, os profetas e todo o povo, desde o menor até ao maior; e leu aos ouvidos deles todas as palavras do livro da aliança, que se achou na casa do Senhor. ^v2
+**2** Então, o rei subiu ao templo de Yahweh e com ele todos os homens de Judá, todos os habitantes de Jerusalém, os sacerdotes, os profetas e todas as pessoas, do pequeno ao grande. Ele, então, leu aos ouvidos deles todas as palavras do Livro da Aliança, que havia sido encontrado no templo de Yahweh. ^v2
 
-**3** E o rei se pôs em pé junto à coluna, e fez a aliança perante o Senhor, para seguirem o Senhor, e guardarem os seus mandamentos, os seus testemunhos e os seus estatutos, com todo o coração e com toda a alma, confirmando as palavras desta aliança, que estavam escritas naquele livro; e todo o povo apoiou esta aliança. ^v3
+**3** O rei ficou ao lado da coluna e fez uma aliança perante Yahweh, de andar após Yahweh e guardar os Seus mandamentos, Seus regulamentos e Seus estatutos, com todo seu coração e toda a sua alma, para confirmar as palavras da aliança que foram escritas neste livro. Assim todo o povo concordou em apoiar a aliança. ^v3
 
-**4** E o rei mandou ao sumo sacerdote Hilquias, aos sacerdotes da segunda ordem, e aos guardas do umbral da porta, que tirassem do templo do Senhor todos os vasos que se tinham feito para Baal, para o bosque e para todo o exército dos céus e os queimou fora de Jerusalém, nos campos de Cedrom e levou as cinzas deles a Betel. ^v4
+**4** O rei ordenou ao sumo sacerdote Hilquias, aos sacerdotes abaixo dele e aos porteiros a levarem para fora do templo de Yahweh todos os vasos que haviam sido feitos para Baal e Aserá e para todas as estrelas do céu. Ele os queimou fora de Jerusalém, nos campos de Cedrom, e carregou suas cinzas para Betel. ^v4
 
-**5** Também destituiu os sacerdotes que os reis de Judá estabeleceram para incensarem sobre os altos nas cidades de Judá e ao redor de Jerusalém, como também os que queimavam incenso a Baal, ao sol, à lua, e aos planetas, e a todo o exército dos céus. ^v5
+**5** Ele destituiu os sacerdotes idólatras que os reis de Judá haviam escolhido para queimar incenso nos lugares altos nas cidades de Judá e nos lugares ao redor de Jerusalém — aqueles que queimaram incensos para Baal, para o sol e a lua, para os planetas e para todas as estrelas do céu. ^v5
 
-**6** Também tirou da casa do Senhor o ídolo do bosque levando-o para fora de Jerusalém até ao ribeiro de Cedrom, e o queimou junto ao ribeiro de Cedrom, e o desfez em pó, e lançou o seu pó sobre as sepulturas dos filhos do povo. ^v6
+**6** Ele levou o poste de Aserá para fora do templo de Yahweh, para o Vale de Cedrom, fora de Jerusalém, e o queimou lá. Reduziu-o a pó e jogou o pó dentro dos túmulos do povo comum. ^v6
 
-**7** Também derrubou as casas dos sodomitas que estavam na casa do Senhor, em que as mulheres teciam casinhas para o ídolo do bosque. ^v7
+**7** Ele limpou as salas das prostitutas cultuais que estavam no templo de Yahweh, onde as mulheres teciam vestimentas para Aserá. ^v7
 
-**8** E a todos os sacerdotes trouxe das cidades de Judá, e profanou os altos em que os sacerdotes queimavam incenso, desde Geba até Berseba; e derrubou os altos que estavam às portas, junto à entrada da porta de Josué, o governador da cidade, que estava à esquerda daquele que entrava pela porta da cidade. ^v8
+**8** Josias levou todos os sacerdotes para fora da cidade de Judá e profanou os lugares altos onde os sacerdotes haviam queimado incenso, desde Geba até Berseba. Destruiu os lugares altos que estavam na entrada da porta de Josué (o governador da cidade), que estava à esquerda da porta da cidade. ^v8
 
-**9** Mas os sacerdotes dos altos não sacrificavam sobre o altar do Senhor em Jerusalém; porém comiam pães ázimos no meio de seus irmãos. ^v9
+**9** Apesar de os sacerdotes daqueles lugares altos não poderem servir no altar de Yahweh em Jerusalém, eles comiam pão sem fermento, no meio de seus irmãos. ^v9
 
-**10** Também profanou a Tofete, que está no vale dos filhos de Hinom, para que ninguém fizesse passar a seu filho, ou sua filha, pelo fogo a Moloque. ^v10
+**10** Josias profanou Tofete, que estava no Vale do Ben Hinom, para que ninguém pudesse oferecer seu filho ou sua filha como holocausto a Moloque. ^v10
 
-**11** Também tirou os cavalos que os reis de Judá tinham dedicado ao sol, à entrada da casa do Senhor, perto da câmara de Natã-Meleque, o camareiro, que estava no recinto; e os carros do sol queimou a fogo. ^v11
+**11** Ele tirou os cavalos que os reis de Judá haviam dado ao sol. Eles estavam na área da entrada do templo de Yahweh, próxima à sala de Natã-Meleque, o camareiro. Josias queimou as carruagens do sol. ^v11
 
-**12** Também o rei derrubou os altares que estavam sobre o terraço do cenáculo de Acaz, os quais os reis de Judá tinham feito, como também o rei derrubou os altares que fizera Manassés nos dois átrios da casa do Senhor; e esmiuçados os tirou dali e lançou o pó deles no ribeiro de Cedrom. ^v12
+**12** O rei Josias destruiu os altares que estavam no terraço na parte superior de Acaz, que os reis de Judá haviam feito, e os altares que Manassés havia feito nos dois pátios do templo de Yahweh. Josias esmagou-os em pedaços e jogou-os no Vale de Cedrom. ^v12
 
-**13** O rei profanou também os altos que estavam defronte de Jerusalém, à mão direita do monte de Masite, os quais edificara Salomão, rei de Israel, a Astarote, a abominação dos sidônios, e a Quemós, a abominação dos moabitas, e a Milcom, a abominação dos filhos de Amom. ^v13
+**13** O rei profanou os lugares altos que estavam ao leste de Jerusalém, ao sul do monte da Destruição, que Salomão, o rei de Israel, havia construído para Astarote, o repugnante ídolo dos sidônios; para Camos, o repugnante ídolo de Moabe; e para Milcom, o repugnante ídolo dos amonitas. ^v13
 
-**14** Semelhantemente quebrou as estátuas, cortou os bosques e encheu o seu lugar com ossos de homens. ^v14
+**14** O rei Josias quebrou em pedaços os pilares de pedra, cortou os postes de Aserá e preencheu o lugar com ossos humanos. ^v14
 
-**15** E também o altar que estava em Betel, e o alto que fez Jeroboão, filho de Nebate, com que tinha feito Israel pecar, esse altar derrubou juntamente com o alto; queimando o alto, em pó o esmiuçou, e queimou o ídolo do bosque. ^v15
+**15** Josias também destruiu completamente o altar que estava em Betel e os lugares altos que Jeroboão, filho de Nebate (aquele que fez Israel pecar), havia construído. Ele queimou o altar e o lugar alto e os reduziu a pó. Ele também queimou o poste de Aserá. ^v15
 
-**16** E, virando-se Josias, viu as sepulturas que estavam ali no monte; e mandou tirar os ossos das sepulturas, e os queimou sobre aquele altar, e assim o profanou, conforme a palavra do Senhor, que profetizara o homem de Deus, quando anunciou estas palavras. ^v16
+**16** Enquanto Josias olhava ao redor, notou os túmulos que estavam ao lado do monte. Ele enviou homens para pegarem os ossos dos túmulos; depois os queimou no altar, e, assim, o profanou. Isso ocorreu de acordo com a palavra de Yahweh que o homem de Deus havia falado, o homem que falara dessas coisas anteriormente. ^v16
 
-**17** Então disse: Que é este monumento que vejo? E os homens da cidade lhe disseram: É a sepultura do homem de Deus que veio de Judá, e anunciou estas coisas que fizeste contra este altar de Betel. ^v17
+**17** "Depois ele disse: ""O que é aquele monumento que vejo?"". Os homens da cidade disseram-lhe: ""Aquele é o túmulo do homem de Deus que veio de Judá e falou sobre essas coisas que acabaste de fazer contra o altar de Betel""." ^v17
 
-**18** E disse: Deixai-o estar; ninguém mexa nos seus ossos. Assim deixaram estar os seus ossos com os ossos do profeta que viera de Samaria. ^v18
+**18** "Assim Josias disse: ""Deixai-o estar. Ninguém deve mover os ossos dele"". Assim deixaram os ossos como estavam, juntamente com os ossos do profeta que havia vindo de Samaria." ^v18
 
-**19** Demais disto também Josias tirou todas as casas dos altos que havia nas cidades de Samaria, e que os reis de Israel tinham feito para provocarem à ira o Senhor; e lhes fez conforme todos os atos que tinha feito em Betel. ^v19
+**19** Então, Josias removeu todas as casas dos lugares altos que estavam na cidade de Samaria, as quais os reis de Israel haviam feito, e que haviam provocado Yahweh à ira. Ele lhes fez exatamente o mesmo que havia feito em Betel. ^v19
 
-**20** E sacrificou todos os sacerdotes dos altos, que havia ali, sobre os altares, e queimou ossos humanos sobre eles; depois voltou a Jerusalém. ^v20
+**20** Matou todos os sacerdotes dos lugares altos, nos altares, e queimou ossos humanos neles. Depois ele retornou a Jerusalém. ^v20
 
-**21** O rei deu ordem a todo o povo, dizendo: Celebrai a páscoa ao Senhor vosso Deus, como está escrito no livro da aliança. ^v21
+**21** "Então, o rei ordenou a todas as pessoas, dizendo: ""Mantende a Páscoa para Yahweh, vosso Deus, como está escrito neste Livro da Aliança""." ^v21
 
-**22** Porque nunca se celebrou tal páscoa como esta desde os dias dos juízes que julgaram a Israel, nem em todos os dias dos reis de Israel, nem tampouco dos reis de Judá. ^v22
+**22** Tal celebração de Páscoa nunca havia sido realizada desde os dias dos juízes que governaram Israel, nem em todos os dias dos reis de Israel ou Judá. ^v22
 
-**23** Porém no ano décimo oitavo do rei Josias esta páscoa se celebrou ao Senhor em Jerusalém. ^v23
+**23** Mas, no décimo oitavo ano do rei Josias, essa Páscoa de Yahweh foi celebrada em Jerusalém. ^v23
 
-**24** E também os adivinhos, os feiticeiros, os terafins, os ídolos, e todas as abominações que se viam na terra de Judá e em Jerusalém, os extirpou Josias, para confirmar as palavras da lei, que estavam escritas no livro que o sacerdote Hilquias achara na casa do Senhor. ^v24
+**24** Josias também baniu aqueles que falavam com os mortos ou com os espíritos. Ele também proibiu os feiticeiros, os ídolos e todas as coisas repugnantes que foram vistas na terra de Judá e em Jerusalém, para confirmar as palavras da lei que foram escritas no livro que o sacerdote Hilquias havia achado no templo de Yahweh. ^v24
 
-**25** E antes dele não houve rei semelhante, que se convertesse ao Senhor com todo o seu coração, com toda a sua alma e com todas as suas forças, conforme toda a lei de Moisés; e depois dele nunca se levantou outro tal. ^v25
+**25** Antes de Josias, não houve nenhum rei como ele, que se voltou para Yahweh com todo o seu coração, toda a sua alma e toda a sua força, que seguiu toda a lei de Moisés. E nunca mais houve um rei como ele. ^v25
 
-**26** Todavia o Senhor não se demoveu do ardor da sua grande ira, com que ardia contra Judá, por todas as provocações com que Manassés o tinha provocado. ^v26
+**26** No entanto, Yahweh não Se desfez da ferocidade de Sua ira, que havia sido acendida contra Judá por toda a adoração pagã com que Manassés O havia provocado. ^v26
 
-**27** E disse o Senhor: Também a Judá hei de tirar de diante da minha face, como tirei a Israel, e rejeitarei esta cidade de Jerusalém que escolhi, como também a casa de que disse: Estará ali o meu nome. ^v27
+**27** "Então, Yahweh disse: ""Eu removerei Judá de diante da minha vista, assim como removi Israel, e rejeitarei Jerusalém, a cidade que escolhi, e o templo sobre a qual Eu havia dito: 'Meu nome estará lá'""." ^v27
 
-**28** Ora, o mais dos atos de Josias e tudo quanto fez, porventura não está escrito no livro das crônicas dos reis de Judá? ^v28
+**28** Quanto aos outros assuntos relativos a Josias, todas as coisas que ele fez, não estão escritas no livro de Crônicas dos reis de Judá? ^v28
 
-**29** Nos seus dias subiu Faraó Neco, rei do Egito, contra o rei da Assíria, ao rio Eufrates; e o rei Josias lhe foi ao encontro; e, vendo-o ele, o matou em Megido. ^v29
+**29** Em seus dias, Faraó Neco, rei do Egito, lutou contra o rei da Assíria no rio Eufrates. O rei Josias encontrou Neco em batalha, e Neco o matou em Megido. ^v29
 
-**30** E seus servos, num carro, o levaram morto, de Megido, e o trouxeram a Jerusalém, e o sepultaram na sua sepultura; e o povo da terra tomou a Jeoacaz, filho de Josias, e ungiram-no, e fizeram-no rei em lugar de seu pai. ^v30
+**30** Os servos de Josias o carregaram morto em uma carruagem desde Megido, trouxeram-lhe para Jerusalém e sepultaram-no em seu próprio túmulo. Então, o povo da terra tomou Jeocaz, filho de Josias, ungiram-no, e o fizeram rei no lugar de seu pai. ^v30
 
-**31** Tinha Jeoacaz vinte e três anos de idade quando começou a reinar, e três meses reinou em Jerusalém; e era o nome de sua mãe Hamutal, filha de Jeremias, de Libna. ^v31
+**31** Joacaz tinha vinte e três anos quando começou a reinar e reinou três meses em Jerusalém. O nome de sua mãe era Hamutal; ela era filha de Jeremias de Libna. ^v31
 
-**32** E fez o que era mau aos olhos do Senhor, conforme tudo o que fizeram seus pais. ^v32
+**32** Joacaz fez o que era mau à vista de Yahweh, como todas as coisas que seus antepassados haviam feito. ^v32
 
-**33** Porém Faraó Neco o mandou prender em Ribla, em terra de Hamate, para que não reinasse em Jerusalém; e à terra impôs pena de cem talentos de prata e um talento de ouro. ^v33
+**33** Faraó Neco o colocou na prisão em Ribla, na terra de Hamate, para que ele não pudesse reinar em Jerusalém. Então, Neco multou Judá com cem talentos de prata e um talento de ouro. ^v33
 
-**34** Também Faraó Neco constituiu rei a Eliaquim, filho de Josias, em lugar de seu pai Josias, e lhe mudou o nome para Jeoiaquim; porém a Jeoacaz tomou consigo, e foi ao Egito, e morreu ali. ^v34
+**34** Faraó Neco fez Eliaquim, filho de Josias, rei no lugar de Josias seu pai, e mudou seu nome para Jeoaquim. Porém ele levou Joacaz para o Egito, e Joacaz morreu ali. ^v34
 
-**35** E Jeoiaquim deu aquela prata e aquele ouro a Faraó; porém tributou a terra, para dar esse dinheiro conforme o mandado de Faraó; a cada um segundo a sua avaliação exigiu a prata e o ouro do povo da terra, para o dar a Faraó Neco. ^v35
+**35** Jeoaquim pagou a prata e o ouro para o Faraó. A fim de obedecer às ordens do Faraó, ele estabeleceu impostos sobre a terra e forçou cada homem entre o povo da terra a pagar a prata e o ouro, de acordo com os impostos. ^v35
 
-**36** Tinha Jeoiaquim vinte e cinco anos de idade quando começou a reinar, e reinou onze anos em Jerusalém; e era o nome de sua mãe Zebida, filha de Pedaías, de Ruma. ^v36
+**36** Jeoaquim tinha vinte e cinco anos de idade quando começou a reinar e reinou por onze anos em Jerusalém. O nome de sua mãe era Zebida; ela era filha de Pedaías de Ruma. ^v36
 
-**37** E fez o que era mau aos olhos do Senhor, conforme tudo quanto fizeram seus pais. ^v37
+**37** Jeoaquim fez o que era mau aos olhos de Yahweh, como todos os seus antepassados haviam feito. ^v37

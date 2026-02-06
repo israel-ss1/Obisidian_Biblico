@@ -1,115 +1,114 @@
 ---
-Livro: "[[Números|Números]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Números|Números]]"
+tags: [biblia]
 ---
 
 # Números 1
 
-**1** Falou mais o SENHOR a Moisés no deserto de Sinai, na tenda da congregação, no primeiro dia do segundo mês, no segundo ano da sua saída da terra do Egito, dizendo: ^v1
+**1** Yahweh falou a Moisés na Tenda do Encontro no deserto do Sinai, no primeiro dia do segundo mês durante o segundo ano após o povo de Israel ter saído da terra do Egito. Yahweh disse: ^v1
 
-**2** Tomai a soma de toda a congregação dos filhos de Israel, segundo as suas famílias, segundo a casa de seus pais, conforme o número dos nomes de todo o homem, cabeça por cabeça; ^v2
+**2** """Realiza um censo de todos os homens de Israel, conforme cada clã, de acordo com a família de seus pais. Conta nominalmente, homem por homem," ^v2
 
-**3** Da idade de vinte anos para cima, todos os que em Israel podem sair à guerra, a estes contareis segundo os seus exércitos, tu e Arão. ^v3
+**3** todos aqueles que tiverem de vinte anos de idade para cima, que são aptos a lutarem como soldados por Israel. Tu e Arão registrareis o número de homens de acordo com grupo armado. ^v3
 
-**4** Estará convosco, de cada tribo, um homem que seja cabeça da casa de seus pais. ^v4
+**4** Um homem de cada tribo, o cabeça do clã, deve servir convosco como o líder de sua tribo. Cada um deverá liderar os homens que lutarão por sua tribo. ^v4
 
-**5** Estes, pois, são os nomes dos homens que estarão convosco: De Rúben, Elizur, filho de Sedeur; ^v5
+**5** Estes são os nomes dos líderes que lutarão convosco: da tribo de Rúben, Elizur, filho de Sedeur; ^v5
 
-**6** De Simeão, Selumiel, filho de Zurisadai; ^v6
+**6** da tribo de Simeão, Selumiel, filho de Zurisadai; ^v6
 
-**7** De Judá, Naasson, filho de Aminadabe; ^v7
+**7** da tribo de Judá, Nasom, filho de Aminadabe; ^v7
 
-**8** De Issacar, Natanael, filho de Zuar; ^v8
+**8** da tribo de Issacar, Netanel, filho de Zuar; ^v8
 
-**9** De Zebulom, Eliabe, filho de Helom; ^v9
+**9** da tribo de Zebulom, Eliabe, filho de Helom; ^v9
 
-**10** Dos filhos de José: De Efraim, Elisama, filho de Amiúde; de Manassés, Gamaliel, filho de Pedazur; ^v10
+**10** da tribo de Efraim, filho de José, Elisama, filho de Amiúde; da tribo de Manassés, Gamaliel, filho de Pedazur; ^v10
 
-**11** De Benjamim, Abidã, filho de Gideoni; ^v11
+**11** da tribo de Benjamim, Abidã, filho de Gideoni; ^v11
 
-**12** De Dã, Aieser, filho de Amisadai; ^v12
+**12** da tribo de Dã, Aiezer, filho de Amisadai; ^v12
 
-**13** De Aser, Pagiel, filho de Ocrã; ^v13
+**13** da tribo de Aser, Pagiel, filho de Ocrã; ^v13
 
-**14** De Gade, Eliasafe, filho de Deuel; ^v14
+**14** da tribo de Gade, Eliasafe, filho de Deuel; ^v14
 
-**15** De Naftali, Aira, filho de Enã. ^v15
+**15** "e, da tribo de Naftali, Airá, filho de Enã""." ^v15
 
-**16** Estes foram os chamados da congregação, os príncipes das tribos de seus pais, os cabeças dos milhares de Israel. ^v16
+**16** Esses foram os homens escolhidos pelo povo. Eles lideraram as tribos de seus antepassados. Eles foram os líderes dos clãs em Israel. ^v16
 
-**17** Então tomaram Moisés e Arão a estes homens, que foram declarados pelos seus nomes, ^v17
+**17** Moisés e Arão convocaram esses homens, que foram designados pelos seus nomes, ^v17
 
-**18** E reuniram toda a congregação no primeiro dia do mês segundo, e declararam a sua descendência segundo as suas famílias, segundo a casa de seus pais, pelo número dos nomes dos de vinte anos para cima, cabeça por cabeça; ^v18
+**18** e, junto a eles, reuniram todos os homens de Israel, no primeiro dia do segundo mês. Depois, cada homem de vinte anos de idade para cima identificou seu antepassado, nomeando os clãs e as famílias descendentes de seus antepassados. ^v18
 
-**19** Como o Senhor ordenara a Moisés, assim os contou no deserto de Sinai. ^v19
+**19** Então, Moisés registrou seus números no deserto do Sinai, como Yahweh lhe ordenara. ^v19
 
-**20** Foram, pois, os filhos de Rúben, o primogênito de Israel, as suas gerações, pelas suas famílias, segundo a casa de seus pais, pelo número dos nomes, cabeça por cabeça, todo o homem de vinte anos para cima, todos os que podiam sair à guerra, ^v20
+**20** Dos descendentes de Rúben, o primogênito de Israel, foram contados os nomes de todo homem de vinte anos de idade para cima apto a ir para a guerra, dos registros de seus clãs antepassados e famílias. ^v20
 
-**21** Foram contados deles, da tribo de Rúben, quarenta e seis mil e quinhentos. ^v21
+**21** Foram contados quarenta e seis mil e quinhentos homens da tribo de Rúben. ^v21
 
-**22** Dos filhos de Simeão, as suas gerações pelas suas famílias, segundo a casa dos seus pais; os seus contados, pelo número dos nomes, cabeça por cabeça, todo o homem de vinte anos para cima, todos os que podiam sair à guerra, ^v22
+**22** Dos descendentes de Simeão, foram contados todos os nomes de cada homem de vinte anos de idade para cima apto a ir para a guerra, dos registros dos clãs e das famílias de seus antepassados. ^v22
 
-**23** Foram contados deles, da tribo de Simeão, cinqüenta e nove mil e trezentos. ^v23
+**23** Foram contados cinquenta e nove mil e trezentos homens da tribo de Simeão. ^v23
 
-**24** Dos filhos de Gade, as suas gerações, pelas suas famílias, segundo a casa de seus pais, pelo número dos nomes dos de vinte anos para cima, todos os que podiam sair à guerra, ^v24
+**24** Dos descendentes de Gade, foram contados os nomes de todo homem de vinte anos de idade para cima apto a ir para a guerra, dos registros de seus clãs antepassados e famílias. ^v24
 
-**25** Foram contados deles, da tribo de Gade, quarenta e cinco mil e seiscentos e cinqüenta. ^v25
+**25** Foram contados quarenta e cinco mil seiscentos e cinquenta homens da tribo de Gade. ^v25
 
-**26** Dos filhos de Judá, as suas gerações, pelas suas famílias, segundo a casa de seus pais; pelo número dos nomes dos de vinte anos para cima, todos os que podiam sair à guerra, ^v26
+**26** Dos descendentes de Judá, foram contados os nomes de todo homem de vinte anos de idade para cima apto a ir para a guerra, dos registros de seus clãs antepassados e famílias. ^v26
 
-**27** Foram contados deles, da tribo de Judá, setenta e quatro mil e seiscentos. ^v27
+**27** Foram contados setenta e quatro mil e seiscentos homens da tribo de Judá. ^v27
 
-**28** Dos filhos de Issacar, as suas gerações, pelas suas famílias, segundo a casa de seus pais, pelo número dos nomes dos de vinte anos para cima, todos os que podiam sair à guerra, ^v28
+**28** Dos descendentes de Issacar, foram contados os nomes de todo homem de vinte anos de idade para cima apto a ir para a guerra, dos registros de seus clãs antepassados e famílias. ^v28
 
-**29** Foram contados deles da tribo de Issacar, cinqüenta e quatro mil e quatrocentos. ^v29
+**29** Foram contados cinquenta e quatro mil e quatrocentos homens da tribo de Issacar. ^v29
 
-**30** Dos filhos de Zebulom, as suas gerações, pelas suas famílias, segundo a casa de seus pais, pelo número dos nomes dos de vinte anos para cima, todos os que podiam sair à guerra, ^v30
+**30** Dos descendentes de Zebulom, foram contados os nomes de todo homem de vinte anos de idade para cima apto a ir para a guerra, dos registros de seus clãs antepassados e famílias. ^v30
 
-**31** Foram contados deles, da tribo de Zebulom, cinqüenta e sete mil e quatrocentos. ^v31
+**31** Foram contados cinquenta e sete mil e quatrocentos homens da tribo de Zebulom. ^v31
 
-**32** Dos filhos de José, dos filhos de Efraim, as suas gerações, pelas suas famílias, segundo a casa de seus pais, pelo número dos nomes dos de vinte anos para cima, todos os que podiam sair à guerra, ^v32
+**32** Dos descendentes de Efraim, filho de José, foram contados os nomes de todo homem de vinte anos de idade para cima apto a ir para a guerra, dos registros de seus clãs antepassados e famílias. ^v32
 
-**33** Foram contados deles, da tribo de Efraim, quarenta mil e quinhentos. ^v33
+**33** Foram contados quarenta mil e quinhentos homens da tribo de Efraim. ^v33
 
-**34** Dos filhos de Manassés, as suas gerações, pelas suas famílias, segundo a casa de seus pais, pelo número dos nomes dos de vinte anos para cima, todos os que podiam sair à guerra, ^v34
+**34** Dos descendentes de Manassés, filho de José, foram contados os nomes de todo homem de vinte anos de idade para cima apto a ir para a guerra, dos registros de seus clãs antepassados e famílias. ^v34
 
-**35** Foram contados deles, da tribo de Manassés, trinta e dois mil e duzentos. ^v35
+**35** Foram contados trinta e dois mil e duzentos homens da tribo de Manassés. ^v35
 
-**36** Dos filhos de Benjamim, as suas gerações, pelas suas famílias, segundo a casa de seus pais, pelo número dos nomes dos de vinte anos para cima, todos os que podiam sair à guerra, ^v36
+**36** Dos descendentes de Benjamim, foram contados os nomes de todo homem de vinte anos de idade para cima apto a ir para a guerra, dos registros de seus clãs antepassados e famílias. ^v36
 
-**37** Foram contados deles, da tribo de Benjamim, trinta e cinco mil e quatrocentos. ^v37
+**37** Foram contados trinta e cinco mil e quatrocentos homens da tribo de Benjamim. ^v37
 
-**38** Dos filhos de Dã, as suas gerações, pelas suas famílias, segundo a casa de seus pais, pelo número dos nomes dos de vinte anos para cima, todos os que podiam sair à guerra, ^v38
+**38** Dos descendentes de Dã, foram contados os nomes de todo homem de vinte anos de idade para cima apto a ir para a guerra, dos registros de seus clãs antepassados e famílias. ^v38
 
-**39** Foram contados deles, da tribo de Dã, sessenta e dois mil e setecentos. ^v39
+**39** Foram contados sessenta e dois mil e setecentos homens da tribo de Dã. ^v39
 
-**40** Dos filhos de Aser, as suas gerações, pelas suas famílias, segundo a casa de seus pais, pelo número dos nomes dos de vinte anos para cima, todos os que podiam sair à guerra, ^v40
+**40** Dos descendentes de Aser, foram contados os nomes de todo homem de vinte anos de idade para cima apto a ir para a guerra, dos registros dos clãs e das famílias de seus antepassados. ^v40
 
-**41** Foram contados deles, da tribo de Aser, quarenta e um mil e quinhentos. ^v41
+**41** contados quarenta e um mil e quinhentos homens da tribo de Aser. ^v41
 
-**42** Dos filhos de Naftali, as suas gerações, pelas suas famílias, segundo a casa de seus pais, pelo número dos nomes dos de vinte anos para cima, todos os que podiam sair à guerra, ^v42
+**42** Dos descendentes de Naftali, foram contados os nomes de todo homem de vinte anos de idade para cima apto a ir para a guerra, dos registros dos clãs e das famílias de seus antepassados. ^v42
 
-**43** Foram contados deles, da tribo de Naftali, cinqüenta e três mil e quatrocentos. ^v43
+**43** Foram contados cinquenta e três mil e quatrocentos homens da tribo de Naftali. ^v43
 
-**44** Estes foram os contados, que contaram Moisés e Arão, e os príncipes de Israel, doze homens, cada um era pela casa de seus pais. ^v44
+**44** Moisés e Arão contaram todos esses homens, junto aos doze homens que estavam liderando as doze tribos de Israel. ^v44
 
-**45** Assim foram todos os contados dos filhos de Israel, segundo a casa de seus pais, de vinte anos para cima, todos os que podiam sair à guerra em Israel; ^v45
+**45** Então, todos os homens de Israel de vinte anos de idade para cima, todos os que poderiam lutar na guerra, foram contados em cada uma de suas famílias. ^v45
 
-**46** Todos os contados eram seiscentos e três mil e quinhentos e cinqüenta. ^v46
+**46** Foram contados seiscentos e três mil quinhentos e cinquenta homens. ^v46
 
-**47** Mas os levitas, segundo a tribo de seus pais, não foram contados entre eles, ^v47
+**47** Mas os homens que eram descendentes de Levi não foram contados, ^v47
 
-**48** Porquanto o Senhor tinha falado a Moisés, dizendo: ^v48
+**48** porque Yahweh dissera a Moisés: ^v48
 
-**49** Porém não contarás a tribo de Levi, nem tomarás a soma deles entre os filhos de Israel; ^v49
+**49** """Tu não contarás a tribo de Levi, nem levantarás o censo deles entre os filhos de Israel." ^v49
 
-**50** Mas tu põe os levitas sobre o tabernáculo do testemunho, e sobre todos os seus utensílios, e sobre tudo o que pertence a ele; eles levarão o tabernáculo e todos os seus utensílios; e eles o administrarão, e acampar-se-ão ao redor do tabernáculo. ^v50
+**50** Em vez disso, encarregarás os levitas de cuidar do Tabernáculo do Testemunho, cuidando de todas as suas mobílias e de tudo que nele há. Eles transportarão o Tabernáculo e as suas mobílias, cuidarão dele e acamparão ao seu redor. ^v50
 
-**51** E, quando o tabernáculo partir, os levitas o desarmarão; e, quando o tabernáculo se houver de assentar no arraial, os levitas o armarão; e o estranho que se chegar morrerá. ^v51
+**51** Quando o Tabernáculo tiver que ser transportado para outro lugar, os levitas o desarmarão. Quando o Tabernáculo tiver de ser armado, os levitas o farão. Qualquer estranho que chegar perto do Tabernáculo será morto. ^v51
 
-**52** E os filhos de Israel armarão as suas tendas, cada um no seu esquadrão, e cada um junto à sua bandeira, segundo os seus exércitos. ^v52
+**52** Quando o povo de Israel montar suas tendas, cada homem o fará perto da bandeira que pertence ao seu grupo armado. ^v52
 
-**53** Mas os levitas armarão as suas tendas ao redor do tabernáculo do testemunho, para que não haja indignação sobre a congregação dos filhos de Israel, pelo que os levitas terão o cuidado da guarda do tabernáculo do testemunho. ^v53
+**53** "Porém, os levitas armarão suas tendas ao redor do Tabernáculo do Testemunho, para que Minha fúria não caia sobre o povo de Israel. Os levitas guardarão o Tabernáculo do Testemunho""." ^v53
 
-**54** Assim fizeram os filhos de Israel; conforme a tudo o que o Senhor ordenara a Moisés, assim o fizeram. ^v54
+**54** O povo de Israel fez todas essas coisas. Eles fizeram tudo que Yahweh ordenou através de Moisés. ^v54

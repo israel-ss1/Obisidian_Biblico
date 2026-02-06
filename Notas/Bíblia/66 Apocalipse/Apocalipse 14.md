@@ -1,47 +1,46 @@
 ---
-Livro: "[[Apocalipse|Apocalipse]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Apocalipse|Apocalipse]]"
+tags: [biblia]
 ---
 
 # Apocalipse 14
 
-**1** E olhei, e eis que estava o Cordeiro sobre o monte Sião, e com ele cento e quarenta e quatro mil, que em suas testas tinham escrito o nome de seu Pai. ^v1
+**1** E olhei e vi o Cordeiro em pé sobre o Monte Sião. Com Ele estavam os cento e quarenta e quatro mil, que tinham escritos em suas testas o nome Dele e do Seu Pai. ^v1
 
-**2** E ouvi uma voz do céu, como a voz de muitas águas, e como a voz de um grande trovão; e ouvi uma voz de harpistas, que tocavam com as suas harpas. ^v2
+**2** Ouvi uma voz do céu, um som como o barulho de muitas águas e como de um grande trovão. E a voz que eu ouvi era também como harpistas tocando suas harpas. ^v2
 
-**3** E cantavam um como cântico novo diante do trono, e diante dos quatro animais e dos anciãos; e ninguém podia aprender aquele cântico, senão os cento e quarenta e quatro mil que foram comprados da terra. ^v3
+**3** Eles cantavam um novo cântico diante do trono, diante dos quatros seres viventes e dos anciãos. Ninguém podia aprender o cântico, exceto os cento e quarenta e quatro mil que foram comprados da terra. ^v3
 
-**4** Estes são os que não estão contaminados com mulheres; porque são virgens. Estes são os que seguem o Cordeiro para onde quer que vá. Estes são os que dentre os homens foram comprados como primícias para Deus e para o Cordeiro. ^v4
+**4** Estes são os que não se contaminaram com mulheres, porque se mantiveram sexualmente puros. São estes que seguem o Cordeiro por onde Ele for. Estes foram comprados dentre a humanidade como primícias para Deus e para o Cordeiro. ^v4
 
-**5** E na sua boca não se achou engano; porque são irrepreensíveis diante do trono de Deus. ^v5
+**5** Mentira alguma foi encontrada em suas bocas; eles são irrepreensíveis. ^v5
 
-**6** E vi outro anjo voar pelo meio do céu, e tinha o evangelho eterno, para o proclamar aos que habitam sobre a terra, e a toda a nação, e tribo, e língua, e povo, ^v6
+**6** Eu vi outro anjo voando no meio do céu, que tinha a mensagem eterna, boas novas para proclamar aos que vivem sobre a terra, a toda nação, tribo, língua e povo. ^v6
 
-**7** Dizendo com grande voz: Temei a Deus, e dai-lhe glória; porque é vinda a hora do seu juízo. E adorai aquele que fez o céu, e a terra, e o mar, e as fontes das águas. ^v7
+**7** "Ele proclamava em alta voz: ""Temei a Deus e dai-Lhe glória, pois a hora do Seu juízo chegou. Adorai Aquele que fez o céu, a terra, o mar e as fontes das águas""." ^v7
 
-**8** E outro anjo seguiu, dizendo: Caiu, caiu Babilônia, aquela grande cidade, que a todas as nações deu a beber do vinho da ira da sua fornicação. ^v8
+**8** "Um segundo anjo o seguiu, dizendo: ""Caiu, caiu a grande Babilônia, que persuadiu todas as nações a beberem o vinho da sua paixão imoral""." ^v8
 
-**9** E seguiu-os o terceiro anjo, dizendo com grande voz: Se alguém adorar a besta, e a sua imagem, e receber o sinal na sua testa, ou na sua mão, ^v9
+**9** "Seguiu-os ainda um terceiro anjo, falando em alta voz: ""Se alguém adorar a besta e a sua imagem, e receber a marca na testa ou na mão," ^v9
 
-**10** Também este beberá do vinho da ira de Deus, que se deitou, não misturado, no cálice da sua ira; e será atormentado com fogo e enxofre diante dos santos anjos e diante do Cordeiro. ^v10
+**10** também beberá o vinho do furor de Deus, que foi derramado sem mistura no cálice da Sua ira. E será ainda atormentado com fogo e enxofre diante dos Seus santos anjos e diante do Cordeiro. ^v10
 
-**11** E a fumaça do seu tormento sobe para todo o sempre; e não têm repouso nem de dia nem de noite os que adoram a besta e a sua imagem, e aquele que receber o sinal do seu nome. ^v11
+**11** A fumaça do seu tormento sobe para todo o sempre; e não têm descanso, nem de dia e nem de noite, os que adoram a besta e a sua imagem, e todos os que recebem a marca do seu nome. ^v11
 
-**12** Aqui está a paciência dos santos; aqui estão os que guardam os mandamentos de Deus e a fé em Jesus. ^v12
+**12** "Aqui está a perseverança dos santos, daqueles que obedecem os mandamentos de Deus e a fé em Jesus""." ^v12
 
-**13** E ouvi uma voz do céu, que me dizia: Escreve: Bem-aventurados os mortos que desde agora morrem no Senhor. Sim, diz o Espírito, para que descansem dos seus trabalhos, e as suas obras os seguem. ^v13
+**13** "Eu ouvi a voz do céu dizer: ""Escreve: 'Abençoados são os que morrem no Senhor"". ""Sim"", diz o Espírito: ""que eles descansem dos seus trabalhos, pois as suas obras os seguirão""." ^v13
 
-**14** E olhei, e eis uma nuvem branca, e assentado sobre a nuvem um semelhante ao Filho do homem, que tinha sobre a sua cabeça uma coroa de ouro, e na sua mão uma foice aguda. ^v14
+**14** Olhei, e havia uma nuvem branca e, assentado sobre a nuvem, um semelhante a filho de homem. Ele tinha uma coroa de ouro em sua cabeça e uma foice afiada em sua mão. ^v14
 
-**15** E outro anjo saiu do templo, clamando com grande voz ao que estava assentado sobre a nuvem: Lança a tua foice, e sega; a hora de segar te é vinda, porque já a seara da terra está madura. ^v15
+**15** "Então outro anjo saiu do templo clamando em alta voz ao que estava assentado sobre a nuvem: ""Pega a tua foice e começa a colheita, pois o seu tempo chegou, a safra da terra está madura para a ceifa""." ^v15
 
-**16** E aquele que estava assentado sobre a nuvem meteu a sua foice à terra, e a terra foi segada. ^v16
+**16** Então aquele que estava sentado nas nuvens passou sua foice pela terra, e a terra foi ceifada. ^v16
 
-**17** E saiu do templo, que está no céu, outro anjo, o qual também tinha uma foice aguda. ^v17
+**17** Outro anjo saiu do templo no céu, trazendo também uma foice afiada. ^v17
 
-**18** E saiu do altar outro anjo, que tinha poder sobre o fogo, e clamou com grande voz ao que tinha a foice aguda, dizendo: Lança a tua foice aguda, e vindima os cachos da vinha da terra, porque já as suas uvas estão maduras. ^v18
+**18** "E saiu do altar outro anjo que tem autoridade sobre o fogo, e clamando em alta voz ao que tinha uma foice afiada: ""Pega a sua foice afiada e colhe os cachos da vinha da terra, pois as suas uvas estão maduras""." ^v18
 
-**19** E o anjo lançou a sua foice à terra e vindimou as uvas da vinha da terra, e atirou-as no grande lagar da ira de Deus. ^v19
+**19** E o anjo passou a foice pela terra e colheu as uvas da ceifa e lançou-as no grande lagar da ira de Deus. ^v19
 
-**20** E o lagar foi pisado fora da cidade, e saiu sangue do lagar até aos freios dos cavalos, pelo espaço de mil e seiscentos estádios. ^v20
+**20** O lagar foi pisado fora da cidade e dele saiu sangue até à altura dos freios dos cavalos, numa extensão de mil e seissentos estádios. ^v20

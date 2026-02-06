@@ -1,65 +1,64 @@
 ---
-Livro: "[[2 Reis|2 Reis]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/2 Reis|2 Reis]]"
+tags: [biblia]
 ---
 
 # 2 Reis 8
 
-**1** E falou Eliseu àquela mulher cujo filho ele ressuscitara, dizendo: Levanta-te e vai, tu e a tua família, e peregrina onde puderes peregrinar; porque o SENHOR chamou a fome, a qual também virá à terra por sete anos. ^v1
+**1** "Eliseu havia falado para a mulher, cujo filho ele havia restaurado a vida. E disse-lhe: ''Levanta-te e vai com a tua família, e fica onde puderes em outra terra, porque Yahweh enviará fome sobre esta terra durante sete anos""." ^v1
 
-**2** E levantou-se a mulher, e fez conforme a palavra do homem de Deus; porque foi ela com a sua família, e peregrinou na terra dos filisteus sete anos. ^v2
+**2** Então, a mulher levantou-se e obedeceu a palavra do homem de Deus. Ela foi com a sua família e viveu na terra dos filisteus, durante sete anos. ^v2
 
-**3** E sucedeu que, ao fim dos sete anos, a mulher voltou da terra dos filisteus, e saiu a clamar ao rei pela sua casa e pelas suas terras. ^v3
+**3** No final dos sete anos, a mulher retornou da terra dos filisteus, e foi até o rei para suplicá-lo por sua casa e por sua terra de volta. ^v3
 
-**4** Ora o rei falava a Geazi, servo do homem de Deus, dizendo: Conta-me, peço-te, todas as grandes obras que Eliseu tem feito. ^v4
+**4** Ora, o rei estava falando com Geazi, servo do homem de Deus, dizendo: ''Por favor, conta-me todas as grandes coisas que Eliseu tem feito''. ^v4
 
-**5** E sucedeu que, contando ele ao rei como ressuscitara a um morto, eis que a mulher cujo filho ressuscitara clamou ao rei pela sua casa e pelas suas terras. Então disse Geazi: Ó rei meu senhor, esta é a mulher, e este o seu filho a quem Eliseu ressuscitou. ^v5
+**5** "Então, quando ele estava dizendo como Eliseu restaurou a vida da criança que estava morta, a mulher, cujo filho ele havia restaurado a vida, veio suplicar ao rei pela sua casa e pela sua terra. Então, disse Geazi: ''Meu senhor, rei, esta é a mulher e este é o filho dela, a quem Eliseu restaurou a vida""." ^v5
 
-**6** E o rei perguntou à mulher, e ela lho contou. Então o rei lhe deu um oficial, dizendo: Faze-lhe restituir tudo quanto era seu, e todas as rendas das terras desde o dia em que deixou a terra até agora. ^v6
+**6** "Quando o rei perguntou à mulher acerca de seu filho, ela lhe explicou tudo. Então, o rei ordenou um oficial para ela, dizendo: ""Restitui-lhe tudo o que era dela e todas as suas colheitas dos seus campos, desde o dia em que ela deixou a terra até agora''." ^v6
 
-**7** Depois veio Eliseu a Damasco, estando Ben-Hadade, rei da Síria, doente; e lho anunciaram, dizendo: O homem de Deus é chegado aqui. ^v7
+**7** "Depois, foi Eliseu a Damasco, onde Ben-Hadade, rei da Síria, estava doente. E lhe disseram: ''O homem de Deus chegou aqui""." ^v7
 
-**8** Então o rei disse a Hazael: Toma um presente na tua mão, e vai a encontrar-te com o homem de Deus; e pergunta por ele ao Senhor, dizendo: Hei de sarar desta doença? ^v8
+**8** "O rei disse para Hazael: ""Leva contigo um presente e vai ao encontro do homem de Deus e, através dele, consulta a Yahweh, dizendo: 'Serei eu curado desta doença?'""." ^v8
 
-**9** Foi, pois, Hazael a encontrar-se com ele, e tomou um presente na sua mão, a saber: de tudo o que de bom havia em Damasco, quarenta camelos carregados; e veio, e se pôs diante dele e disse: Teu filho Ben-Hadade, rei da Síria, me enviou a ti, a dizer: Sararei eu desta doença? ^v9
+**9** "Então, Hazael foi ao encontro dele e levou consigo um presente de tudo de bom que havia em Damasco, carregado por quarenta camelos. Então, Hazael foi e ficou diante de Eliseu e disse: ""Teu filho, Ben-Hadade, rei da Síria, enviou-me a ti, perguntando: 'sararei eu dessa doença?'""." ^v9
 
-**10** E Eliseu lhe disse: Vai, e dize-lhe: Certamente viverás. Porém, o Senhor me tem mostrado que certamente morrerá. ^v10
+**10** "Eliseu disse: ""Vai, diz para Ben-Hadade: 'Tu certamente recuperarás a saúde', mas Yahweh mostrou-me que ele certamente morrerá''." ^v10
 
-**11** E afirmou a sua vista, e fitou os olhos nele até se envergonhar; e o homem de Deus chorou. ^v11
+**11** Então, Eliseu olhou fixamente para Hazael até que ele ficou envergonhado, e o homem de Deus chorou. ^v11
 
-**12** Então disse Hazael: Por que chora o meu senhor? E ele disse: Porque sei o mal que hás de fazer aos filhos de Israel; porás fogo às suas fortalezas, e os seus jovens matarás à espada, e os seus meninos despedaçarás, e as suas mulheres grávidas fenderás. ^v12
+**12** "Hazael perguntou: ''Por que choras, meu senhor?''. Ele respondeu: ""Porque eu sei as maldades que farás ao povo de Israel. Colocarás fogo às suas fortalezas e matarás os seus jovens à espada; despedaçarás os seus pequeninos, e rasgarás o ventre das mulheres grávidas""." ^v12
 
-**13** E disse Hazael: Pois, que é teu servo, que não é mais do que um cão, para fazer tão grande coisa? E disse Eliseu: O Senhor me tem mostrado que tu hás de ser rei da Síria. ^v13
+**13** "Hazael respondeu: ""Quem teu servo é para fazer essas grandes coisas? Ele é apenas um cão"". Eliseu respondeu: ""Yahweh mostrou-me que tu serás o rei da Síria""." ^v13
 
-**14** Então partiu de Eliseu, e foi a seu senhor, o qual lhe disse: Que te disse Eliseu? E disse ele: Disse-me que certamente viverás. ^v14
+**14** "Então, Hazael deixou Eliseu e foi ao encontro do seu senhor, e este disse para ele: ""O que Elizeu te disse?''. Ele respondeu: ""Ele me disse que tu certamente te recuperarás''." ^v14
 
-**15** E sucedeu que no outro dia tomou um cobertor e o molhou na água, e o estendeu sobre o seu rosto, e morreu; e Hazael reinou em seu lugar. ^v15
+**15** Então, no dia seguinte, Hazael pegou um cobertor e molhou com água e cobriu o rosto de Ben-Hadade e, em seguida, ele morreu. Dessa forma, Hazael se tornou rei no lugar dele. ^v15
 
-**16** E no ano quinto de Jorão, filho de Acabe, rei de Israel, reinando ainda Jeosafá em Judá, começou a reinar Jeorão, filho de Jeosafá, rei de Judá. ^v16
+**16** No quinto ano de Jorão, filho de Acabe, rei de Israel, Jeorão começou a reinar. Ele era filho de Josafá, rei de Judá. Ele começou a reinar quando Josafá era o rei de Judá. ^v16
 
-**17** Era ele da idade de trinta e dois anos quando começou a reinar, e oito anos reinou em Jerusalém. ^v17
+**17** Jeorão tinha trinta e dois anos de idade quando começou a reinar, e reinou durante oito anos em Jerusalém. ^v17
 
-**18** E andou no caminho dos reis de Israel, como também fizeram os da casa de Acabe, porque tinha por mulher a filha de Acabe, e fez o que era mal aos olhos do Senhor. ^v18
+**18** Jeorão andou nos caminhos dos reis de Israel, conforme a família de Acabe; pois ele tinha como mulher a filha de Acabe, e ele fez o que era mau aos olhos de Yahweh. ^v18
 
-**19** Porém o Senhor não quis destruir a Judá por amor de Davi, seu servo, como lhe tinha falado que lhe daria, para sempre, uma lâmpada, a ele e a seus filhos. ^v19
+**19** Contudo, por causa de seu servo Davi, Yahweh não quis destruir Judá, pois Ele lhe havia dito que sempre lhe daria descendentes. ^v19
 
-**20** Nos seus dias se rebelaram os edomitas, contra o mando de Judá, e puseram sobre si um rei. ^v20
+**20** Nos dias de Jeorão, Edom, sob a mão de Judá, se revoltou, e eles estabeleceram um rei para si. ^v20
 
-**21** Por isso Jeorão passou a Zair, e todos os carros com ele; e ele se levantou de noite, e feriu os edomitas que estavam ao redor dele, e os capitães dos carros; e o povo foi para as suas tendas. ^v21
+**21** Então, Jeorão atravessou Zair com os seus comandantes e todas suas carruagens de guerra. Aconteceu que ele se levantou durante a noite, atacou e subjugou os edomitas que o haviam cercado e os comandantes das carruagens de guerra. Então, o exército de Jeorão escapou para as suas tendas. ^v21
 
-**22** Todavia os edomitas ficaram rebeldes, contra o mando de Judá, até ao dia de hoje; então, no mesmo tempo, Libna também se rebelou. ^v22
+**22** Assim, Edom se rebelou contra o domínio de Judá até o dia de hoje, e, ao mesmo tempo, também Libna se rebelou. ^v22
 
-**23** O mais dos atos de Jeorão, e tudo quanto fez, porventura não está escrito no livro das crônicas de Judá? ^v23
+**23** Os outros atos concernentes a Jeorão, tudo o que ele fez, não estão escritos no livro das Crônicas dos reis de Judá? ^v23
 
-**24** E Jeorão dormiu com seus pais, e foi sepultado com seus pais na cidade de Davi; e Acazias, seu filho, reinou em seu lugar. ^v24
+**24** Jeorão morreu e descansou com seus pais e foi enterrado junto a eles, na cidade de Davi. Então, Acazias, seu filho, tornou-se rei no lugar dele. ^v24
 
-**25** No ano doze de Jorão, filho de Acabe, rei de Israel, começou a reinar Acazias, filho de Jeorão, rei de Judá. ^v25
+**25** No décimo segundo ano de Jorão, filho de Acabe, rei de Israel, Acazias filho de Jeorão, rei de Judá, começou a reinar. ^v25
 
-**26** Era Acazias de vinte e dois anos de idade quando começou a reinar, e reinou um ano em Jerusalém; e era o nome de sua mãe Atalia, filha de Onri, rei de Israel. ^v26
+**26** Acazias tinha vinte e dois anos de idade quando começou a reinar; e reinou por um ano em Jerusalém. O nome de sua mãe era Atalia, filha de Onri, rei de Israel. ^v26
 
-**27** E andou no caminho da casa de Acabe, e fez o que era mal aos olhos do Senhor, como a casa de Acabe, porque era genro da casa de Acabe. ^v27
+**27** Acazias andou nos caminhos da casa de Acabe e fez o que era mau aos olhos de Deus, conforme a família de Acabe, pois Acazias era seu genro. ^v27
 
-**28** E foi com Jorão, filho de Acabe, a Ramote de Gileade, à peleja contra Hazael, rei da Síria; e os sírios feriram a Jorão. ^v28
+**28** Acazias foi com Jorão, filho de Acabe, para lutar contra Hazael, rei da Síria, em Ramote-Gileade. Os sírios feriram Jorão. ^v28
 
-**29** Então voltou o rei Jorão para se curar, em Jizreel, das feridas que os sírios lhe fizeram em Ramá, quando pelejou contra Hazael, rei da Síria; e desceu Acazias, filho de Jeorão, rei de Judá, para ver a Jorão, filho de Acabe, em Jizreel, porquanto estava doente. ^v29
+**29** O rei Jorão voltou para ser curado em Jezreel das feridas que os sírios o tinham ferido em Ramá, quando ele lutou contra Hazael, rei da Síria. Então, Acazias, filho de Jeorão, rei de Judá, desceu a Jezreel para ver Jorão, filho de Acabe, porque havia sido ferido. ^v29

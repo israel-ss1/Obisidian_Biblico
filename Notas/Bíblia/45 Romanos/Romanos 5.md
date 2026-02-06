@@ -1,49 +1,48 @@
 ---
-Livro: "[[Romanos|Romanos]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Romanos|Romanos]]"
+tags: [biblia]
 ---
 
 # Romanos 5
 
-**1** Tendo sido, pois, justificados pela fé, temos paz com Deus, por nosso Senhor Jesus Cristo; ^v1
+**1** Portanto, justificados pela fé, temos paz com Deus por intermédio do nosso Senhor Jesus Cristo. ^v1
 
-**2** Pelo qual também temos entrada pela fé a esta graça, na qual estamos firmes, e nos gloriamos na esperança da glória de Deus. ^v2
+**2** Através Dele, também temos acesso, pela fé, a esta graça na qual estamos firmes. Regozijamo-nos na esperança que Deus nos dá para o futuro, a confiança que compartilharemos na glória de Deus. ^v2
 
-**3** E não somente isto, mas também nos gloriamos nas tribulações; sabendo que a tribulação produz a paciência, ^v3
+**3** Não somente isso, mas também nos regozijamos em nossos sofrimentos, sabendo que o sofrimento produz perseverança; ^v3
 
-**4** E a paciência a experiência, e a experiência a esperança. ^v4
+**4** a perseverança produz aprovação; e a aprovação produz confiança para o futuro. ^v4
 
-**5** E a esperança não traz confusão, porquanto o amor de Deus está derramado em nossos corações pelo Espírito Santo que nos foi dado. ^v5
+**5** A confiança não desaponta, porque o amor de Deus tem sido derramado em nossos corações por intermédio do Espírito Santo, que nos foi dado. ^v5
 
-**6** Porque Cristo, estando nós ainda fracos, morreu a seu tempo pelos ímpios. ^v6
+**6** Pois, quando ainda éramos fracos, Cristo morreu pelos ímpios no tempo certo. ^v6
 
-**7** Porque apenas alguém morrerá por um justo; pois poderá ser que pelo bom alguém ouse morrer. ^v7
+**7** Porque dificilmente alguém morreria por um justo; isto é, talvez alguém até ouse morrer por uma boa pessoa. ^v7
 
-**8** Mas Deus prova o seu amor para conosco, em que Cristo morreu por nós, sendo nós ainda pecadores. ^v8
+**8** Mas Deus prova Seu próprio amor por nós, porque Cristo morreu por nós, enquanto ainda éramos pecadores. ^v8
 
-**9** Logo muito mais agora, tendo sido justificados pelo seu sangue, seremos por ele salvos da ira. ^v9
+**9** Muito mais agora, que somos justificados por Seu sangue, seremos salvos por Ele da ira de Deus. ^v9
 
-**10** Porque se nós, sendo inimigos, fomos reconciliados com Deus pela morte de seu Filho, muito mais, tendo sido já reconciliados, seremos salvos pela sua vida. ^v10
+**10** Pois, se nós, enquanto éramos inimigos, fomos reconciliados com Deus através da morte de Seu Filho, muito mais depois de termos sido reconciliados, seremos salvos por Sua vida. ^v10
 
-**11** E não somente isto, mas também nos gloriamos em Deus por nosso Senhor Jesus Cristo, pelo qual agora alcançamos a reconciliação. ^v11
+**11** Não somente isso, mas também nos regozijamos em Deus através do nosso Senhor Jesus Cristo, por meio de Quem agora recebemos essa reconciliação. ^v11
 
-**12** Portanto, como por um homem entrou o pecado no mundo, e pelo pecado a morte, assim também a morte passou a todos os homens por isso que todos pecaram. ^v12
+**12** Portanto, como o pecado entrou no mundo através de um homem, da mesma forma a morte entrou através do pecado. E a morte se espalhou para todas as pessoas, porque todos pecaram. ^v12
 
-**13** Porque até à lei estava o pecado no mundo, mas o pecado não é imputado, não havendo lei. ^v13
+**13** Pois até a Lei, o pecado estava no mundo, mas o pecado não é levado em conta quando não há Lei. ^v13
 
-**14** No entanto, a morte reinou desde Adão até Moisés, até sobre aqueles que não tinham pecado à semelhança da transgressão de Adão, o qual é a figura daquele que havia de vir. ^v14
+**14** No entanto, a morte reinou de Adão até Moisés, mesmo sobre aqueles que não pecaram de modo semelhante à desobediência de Adão, que é um modelo Daquele que estava por vir. ^v14
 
-**15** Mas não é assim o dom gratuito como a ofensa. Porque, se pela ofensa de um morreram muitos, muito mais a graça de Deus, e o dom pela graça, que é de um só homem, Jesus Cristo, abundou sobre muitos. ^v15
+**15** Mas, mesmo assim, o dom gratuito não é como a transgressão. Pois, se todos morreram pela transgressão de um, muito mais a graça de Deus e a dádiva pela graça de um único homem, Jesus Cristo, abundaram para muitos. ^v15
 
-**16** E não foi assim o dom como a ofensa, por um só que pecou. Porque o juízo veio de uma só ofensa, na verdade, para condenação, mas o dom gratuito veio de muitas ofensas para justificação. ^v16
+**16** Porque o dom não é como a consequência do pecado de um homem. Pois, por um lado, o julgamento da condenação veio por causa da transgressão de um só homem; mas, por outro lado, o dom gratuito veio depois de muitas transgressões, para justificação. ^v16
 
-**17** Porque, se pela ofensa de um só, a morte reinou por esse, muito mais os que recebem a abundância da graça, e do dom da justiça, reinarão em vida por um só, Jesus Cristo. ^v17
+**17** Pois, se a morte reinou através de um pela transgressão de um só, muito mais aqueles que recebem a abundância da graça e do dom da justiça reinarão em vida através de um só, Jesus Cristo. ^v17
 
-**18** Pois assim como por uma só ofensa veio o juízo sobre todos os homens para condenação, assim também por um só ato de justiça veio a graça sobre todos os homens para justificação de vida. ^v18
+**18** Então, assim como todas as pessoas foram condenadas por uma transgressão, também por um ato de justiça veio a justificação da vida a todas as pessoas. ^v18
 
-**19** Porque, como pela desobediência de um só homem, muitos foram feitos pecadores, assim pela obediência de um muitos serão feitos justos. ^v19
+**19** Pois, como pela desobediência de um só homem, muitos foram feitos pecadores, da mesma forma, através da obediência de um, muitos serão feitos justos. ^v19
 
-**20** Veio, porém, a lei para que a ofensa abundasse; mas, onde o pecado abundou, superabundou a graça; ^v20
+**20** Mas a Lei entrou para que a transgressão abundasse. Entretanto, onde o pecado abundou, a graça abundou ainda mais. ^v20
 
-**21** Para que, assim como o pecado reinou na morte, também a graça reinasse pela justiça para a vida eterna, por Jesus Cristo nosso Senhor. ^v21
+**21** Isso aconteceu para que, da mesma forma que o pecado reinou na morte, assim também a graça possa reinar, por meio da justiça, para a vida eterna através de Jesus Cristo, nosso Senhor. ^v21

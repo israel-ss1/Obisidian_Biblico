@@ -1,61 +1,60 @@
 ---
-Livro: "[[2 Crônicas|2 Crônicas]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/2 Crônicas|2 Crônicas]]"
+tags: [biblia]
 ---
 
 # 2 Crônicas 30
 
-**1** Depois disto Ezequias enviou mensageiros por todo o Israel e Judá, e escreveu também cartas a Efraim e a Manassés para que viessem à casa do SENHOR em Jerusalém, para celebrarem a páscoa ao SENHOR Deus de Israel. ^v1
+**1** Ezequias enviou mensageiros para todo o Israel e Judá, e também escreveu cartas para Efraim e Manassés, para que eles fossem à casa de Yahweh em Jerusalém, para celebrar a Páscoa a Yahweh, o Deus de Israel. ^v1
 
-**2** Porque o rei tivera conselho com os seus príncipes, e com toda a congregação em Jerusalém, para celebrarem a páscoa no segundo mês. ^v2
+**2** Porque o rei, seus líderes, e toda a assembléia em Jerusalém resolveram juntos, e decidiram celebrar a páscoa no segundo mês. ^v2
 
-**3** Porquanto não a puderam celebrar no tempo próprio, porque não se tinham santificado sacerdotes em número suficiente, e o povo não se tinha ajuntado em Jerusalém. ^v3
+**3** Eles não puderam celebrar imediatamente, porque não havia sacerdotes consagrados em número suficiente, e o povo não havia se reunido em Jerusalém. ^v3
 
-**4** E isto pareceu bem aos olhos do rei, e de toda a congregação. ^v4
+**4** Esta proposta pareceu boa aos olhos do rei e de toda assembléia. ^v4
 
-**5** E ordenaram que se fizesse passar pregão por todo o Israel, desde Berseba até Dã, para que viessem a celebrar a páscoa ao Senhor Deus de Israel, em Jerusalém; porque muitos não a tinham celebrado como estava escrito. ^v5
+**5** Então, eles concordaram em fazer uma proclamação por todo o Israel, de Berseba até Dã, para que o povo viesse celebrar a Páscoa de Yahweh, o Deus de Israel, em Jerusalém. Pois, um grande número deles não havia celebrado, segundo o que estava escrito. ^v5
 
-**6** Foram, pois, os correios com as cartas, do rei e dos seus príncipes, por todo o Israel e Judá, segundo o mandado do rei, dizendo: Filhos de Israel, convertei-vos ao Senhor Deus de Abraão, de Isaque e de Israel; para que ele se volte para o restante de vós que escapou da mão dos reis da Assíria. ^v6
+**6** "Assim, os mensageiros levaram as cartas do rei e de seus líderes por todo o Israel e Judá, conforme a ordem do rei. Eles falaram: ""Vós, povo de Israel, voltai para Yahweh , o Deus de Abraão, Isaque e Israel, para que Ele se volte para o restante de vós que escapastes das mãos dos reis da Assíria." ^v6
 
-**7** E não sejais como vossos pais e como vossos irmãos, que transgrediram contra o Senhor Deus de seus pais, pelo que os entregou à desolação como vedes. ^v7
+**7** Não sejais como vossos ancestrais ou como vossos irmãos, que pecaram contra Yahweh, o Deus de seus ancestrais, por isso Ele lhes entregou à destruição, como vós podeis ver. ^v7
 
-**8** Não endureçais agora a vossa cerviz, como vossos pais; dai a mão ao Senhor, e vinde ao seu santuário que ele santificou para sempre, e servi ao Senhor vosso Deus, para que o ardor da sua ira se desvie de vós. ^v8
+**8** Agora, não sejais teimosos, como vossos ancestrais foram, ao invés disso, sujeitai-vos a Yahweh e venhais para Seu Santo Lugar, o qual Ele tem santificado para sempre, e adorem Yahweh, vosso Deus, para que a Sua fúria se afaste de vós. ^v8
 
-**9** Porque, em vos convertendo ao Senhor, vossos irmãos e vossos filhos acharão misericórdia perante os que os levaram cativos, e tornarão a esta terra; porque o Senhor vosso Deus é misericordioso e compassivo, e não desviará de vós o seu rosto, se vos converterdes a ele. ^v9
+**9** "Pois, se vos voltardes para Yahweh, vossos irmãos e crianças encontrarão compaixão diante daqueles que os levaram para longe como prisioneiros, e eles voltarão para esta terra. Porque Yahweh, vosso Deus, é gracioso e misericordioso, e não virará Sua face de vós, se vós retornardes para Ele""." ^v9
 
-**10** E os correios foram passando de cidade em cidade, pela terra de Efraim e Manassés até Zebulom; porém riram-se e zombaram deles. ^v10
+**10** Assim, os mensageiros foram de cidade em cidade pelas regiões de Efraim e Manassés, todo o caminho até Zebulom, mas o povo riu e caçoou deles. ^v10
 
-**11** Todavia alguns de Aser, e de Manassés, e de Zebulom, se humilharam, e vieram a Jerusalém. ^v11
+**11** Entretanto, certos homens de Aser, de Manassés e de Zebulom se humilharam, e vieram até Jerusalém. ^v11
 
-**12** E a mão de Deus esteve com Judá, dando-lhes um só coração, para fazerem o mandado do rei e dos príncipes, conforme a palavra do Senhor. ^v12
+**12** A mão de Deus também veio sobre Judá, para lhes dá um só coração, para cumprirem as ordens do rei e dos líderes conforme a palavra de Yahweh. ^v12
 
-**13** E ajuntou-se em Jerusalém muito povo, para celebrar a festa dos pães ázimos, no segundo mês; uma congregação mui grande. ^v13
+**13** Muitas pessoas, se reuniram em uma grande assembleia em Jerusalém para celebrar a Festa dos Pães sem Fermento no segundo mês. ^v13
 
-**14** E levantaram-se, e tiraram os altares que havia em Jerusalém; também tiraram todos os altares de incenso, e os lançaram no ribeiro de Cedrom. ^v14
+**14** Eles se levantaram e tiraram os altares que estavam em Jerusalém e todos os altares de incenso; e eles os lançaram dentro do ribeiro de Cedrom. ^v14
 
-**15** Então sacrificaram a páscoa no dia décimo quarto do segundo mês; e os sacerdotes e levitas se envergonharam e se santificaram e trouxeram holocaustos à casa do Senhor. ^v15
+**15** Então, eles mataram os cordeiros da Páscoa no décimo quarto dia do segundo mês. Os sacerdotes e levitas estavam envergonhados, e eles consagraram-se e trouxeram sacrifícios para a casa de Yahweh. ^v15
 
-**16** E puseram-se no seu posto, segundo o seu costume, conforme a lei de Moisés, o homem de Deus; e os sacerdotes espargiam o sangue, tomando-o da mão dos levitas. ^v16
+**16** Eles se posicionaram em seus lugares segundo suas divisões, seguindo as direções que foram dadas na lei de Moisés, o homem de Deus. Os sacerdotes aspergiram o sangue que eles receberam das mãos dos levitas, ^v16
 
-**17** Porque havia muitos na congregação que não se tinham santificado; pelo que os levitas tinham o encargo de matarem os cordeiros da páscoa por todo aquele que não estava limpo, para o santificarem ao Senhor. ^v17
+**17** porque havia muitos na assembleia que não tinham se consagrado. Por isso, os Levitas sacrificaram os cordeiros da Páscoa por aqueles que não estavam purificados e não podiam consagrar seus sacrifícios a Yahweh. ^v17
 
-**18** Porque uma multidão do povo, muitos de Efraim e Manassés, Issacar e Zebulom, não se tinham purificado, e contudo comeram a páscoa, não como está escrito; porém Ezequias orou por eles, dizendo: O Senhor, que é bom, perdoa todo aquele ^v18
+**18** "Um grande número de pessoas, muitos deles de Efraim e Manassés, Issacar e Zebulom, não havia se purificado, mesmo assim, eles comeram a Páscoa, contrariando as instruções que estavam escritas. Mas Ezequias orou por eles dizendo: ""Que o bom Yahweh, possa perdoar a todos aqueles" ^v18
 
-**19** Que tem preparado o seu coração para buscar ao Senhor Deus, o Deus de seus pais, ainda que não esteja purificado segundo a purificação do santuário. ^v19
+**19** "que colocam em seu coração buscar a Deus, Yahweh, o Deus de seus ancestrais, mesmo que não tenham se purificado conforme os ritos de purificação do Santo Lugar.""" ^v19
 
-**20** E ouviu o Senhor a Ezequias, e sarou o povo. ^v20
+**20** Então, Yahweh ouviu Ezequias e curou o povo. ^v20
 
-**21** E os filhos de Israel, que se acharam em Jerusalém, celebraram a festa dos pães ázimos sete dias com grande alegria; e os levitas e os sacerdotes louvaram ao Senhor de dia em dia, com estrondosos instrumentos ao Senhor. ^v21
+**21** O povo de Israel que estava presente em Jerusalém celebrou o Festival dos Pães sem Fermento por sete dias com grande alegria. Os levitas e os sacerdotes adoraram Yahweh dia após dia, cantando para Yahweh, com instrumentos possantes. ^v21
 
-**22** E Ezequias falou benignamente a todos os levitas, que tinham bom entendimento no conhecimento do Senhor; e comeram as ofertas da solenidade por sete dias, oferecendo ofertas pacíficas, e louvando ao Senhor Deus de seus pais. ^v22
+**22** Ezequias encorajou todos os levitas que entenderam o serviço de Yahweh. Assim, eles comeram por todo o festival, por sete dias, oferecendo sacrifícios de ofertas pacíficas e fazendo confissões a Yahweh, o Deus de seus ancestrais. ^v22
 
-**23** E, tendo toda a congregação conselho para celebrarem outros sete dias, celebraram ainda sete dias com alegria. ^v23
+**23** Toda a assembleia decidiu celebrar por outros sete dias, e assim o fizeram com alegria. ^v23
 
-**24** Porque Ezequias, rei de Judá, ofereceu à congregação mil novilhos e sete mil ovelhas; e os príncipes ofereceram à congregação mil novilhos e dez mil ovelhas; e os sacerdotes se santificaram em grande número. ^v24
+**24** Pois, Ezequias, rei de Judá, deu para a assembleia mil novilhos e sete mil ovelhas para sacrifício; os líderes deram para a assembleia mil novilhos e dez mil ovelhas e bodes. Um grande número de sacerdotes se consagraram. ^v24
 
-**25** E alegraram-se, toda a congregação de Judá, e os sacerdotes, e os levitas, toda a congregação de todos os que vieram de Israel, como também os estrangeiros que vieram da terra de Israel e os que habitavam em Judá. ^v25
+**25** Toda a assembleia de Judá, com os sacerdotes e levitas, e todo o povo que se reuniu de Israel, como também os estrangeiros que vieram das terras de Israel e aqueles que viviam em Judá; todos se alegraram. ^v25
 
-**26** E houve grande alegria em Jerusalém; porque desde os dias de Salomão, filho de Davi, rei de Israel, tal não houve em Jerusalém. ^v26
+**26** Assim, houve grande alegria em Jerusalém, pois, nem no tempo de Salomão, filho de Davi, rei de Israel, houve algo igual em Jerusalém. ^v26
 
-**27** Então os sacerdotes e os levitas se levantaram e abençoaram o povo; e a sua voz foi ouvida; porque a sua oração chegou até à santa habitação de Deus, até aos céus. ^v27
+**27** Então, os sacerdotes, os levitas, se levantaram e abençoaram o povo. Suas vozes foram ouvidas e suas orações se elevaram ao céu, Lugar Santo onde Deus vive. ^v27

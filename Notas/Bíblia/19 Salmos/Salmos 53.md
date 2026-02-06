@@ -1,19 +1,16 @@
 ---
-Livro: "[[Salmos|Salmos]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Salmos|Salmos]]"
+tags: [biblia]
 ---
 
 # Salmos 53
 
-**1** Disse o néscio no seu coração: Não há Deus. Têm-se corrompido, e cometido abominável iniqüidade; não há ninguém que faça o bem. ^v1
+**2** Deus olha dos céus para os filhos da humanidade para ver se há algum que tenha entendimento, alguém que O busque. ^v2
 
-**2** Deus olhou desde os céus para os filhos dos homens, para ver se havia algum que tivesse entendimento e buscasse a Deus. ^v2
+**3** Todos eles se afastaram, todos se corromperam; não existe ninguém que faça o bem, nenhum deles. ^v3
 
-**3** Desviaram-se todos, e juntamente se fizeram imundos; não há quem faça o bem, não, nem sequer um. ^v3
+**4** Aqueles que cometem iniquidade não têm entendimento? Eles devoram o Meu povo como se estivessem comendo pão, e não clamam por Deus! ^v4
 
-**4** Acaso não têm conhecimento os que praticam a iniqüidade, os quais comem o meu povo como se comessem pão? Eles não invocaram a Deus. ^v4
+**5** Eles estavam apavorados, apesar de não haver razão para ter medo. Foi Deus quem espalhou os ossos daqueles que acamparam contra ti; essas pessoas foram envergonhadas porque Deus as rejeitou. ^v5
 
-**5** Ali se acharam em grande temor, onde não havia temor, pois Deus espalhou os ossos daquele que te cercava; tu os confundiste, porque Deus os rejeitou. ^v5
-
-**6** Oh! se já de Sião viesse a salvação de Israel! Quando Deus fizer voltar os cativos do seu povo, então se regozijará Jacó e se alegrará Israel. ^v6
+**6** Oh, que a salvação de Israel venha de Sião! Quando Deus trouxer de volta Seu povo do cativeiro, então Jacó se regozijará e Israel se alegrará! ^v6

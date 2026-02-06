@@ -1,153 +1,152 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Neemias|Neemias]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Neemias|Neemias]]"
+tags: [biblia]
 ---
 
 # Neemias 7
 
-**1** Sucedeu que, depois que o muro foi edificado, eu levantei as portas; e foram estabelecidos os porteiros, os cantores e os levitas. ^v1
+**1** Quando o muro foi concluído e eu havia colocado as portas no lugar, e os porteiros, os cantores e os levitas foram designados, ^v1
 
-**2** Eu nomeei a Hanani, meu irmão, e a Hananias, líder da fortaleza, sobre Jerusalém; porque ele era homem fiel e temente a Deus, mais do que muitos. ^v2
+**2** dei a meu irmão Hanani o encargo de administração de Jerusalém, juntamente com Hananias, que era chefe da fortaleza, pois ele era um homem fiel e temia a Deus mais que muitos. ^v2
 
-**3** E disse-lhes: Não se abram as portas de Jerusalém até que o sol aqueça, e enquanto os que assisti-rem ali permanecerem, fechem as portas, e vós trancai-as; e ponhamse guardas dos moradores de Jerusalém, cada um na sua guarda, e cada um diante da sua casa. ^v3
+**3** "E disse-lhes: ""Não abrais os portões de Jerusalém até que o sol esteja alto. Enquanto os porteiros estão em guarda, deveis fechar as portas e trancá-las. Designai guardas dos que moram em Jerusalém, alguns em seus postos de guarda e outros em frente a suas próprias casas""." ^v3
 
-**4** E era a cidade larga de espaço, e grande, porém pouco povo havia dentro dela; e ainda as casas não estavam edificadas. ^v4
+**4** Ora, a cidade era ampla e grande, porém havia poucas pessoas nela e as casas não haviam sido reconstruídas ainda. ^v4
 
-**5** Então o meu Deus me pôs no coração que ajuntasse os nobres, os magistrados e o povo, para registrar as genealogias; e achei o livro da genealogia dos que subiram primeiro e nele estava escrito o seguinte: ^v5
+**5** Meu Deus colocou, em meu coração, de reunir os nobres, os oficiais e o povo para registrá-los conforme suas famílias. E encontrei o livro da genealogia daqueles que haviam retornado primeiro e nele achei escrito o seguinte: ^v5
 
-**6** Estes são os filhos da província, que subiram do cativeiro dos exilados, que transportara Nabucodonosor, rei de Babilônia; e voltaram para Jerusalém e para Judá, cada um para a sua cidade; ^v6
+**6** """Este é o povo da província que saiu do cativeiro em que Nabucodonosor, o rei da Babilônia, os levou para o exílio. Eles retornaram a Jerusalém e a Judá, cada um para sua cidade." ^v6
 
-**7** Os quais vieram com Zorobabel, Jesuá, Neemias, Azarias, Raamias, Naamani, Mordecai, Bilsã, Misperete, Bigvai, Neum, e Baaná; este é o número dos homens do povo de Israel. ^v7
+**7** Eles vieram com Zorobabel, Jesua, Neemias, Azarias, Raamias, Naamani, Mardoqueu, Bilsã, Misperete, Bigvai, Neum e Baaná. O número dos homens do povo de Israel incluía o seguinte: ^v7
 
-**8** Foram os filhos de Parós, dois mil, cento e setenta e dois. ^v8
+**8** os descendentes de Parós, dois mil cento e setenta e dois; ^v8
 
-**9** Os filhos de Sefatias, trezentos e setenta e dois. ^v9
+**9** os descendentes de Sefatias, trezentos e setenta e dois; ^v9
 
-**10** Os filhos de Ará, seiscentos e cinqüenta e dois. ^v10
+**10** os descendentes de Ara, seissentos e cinquenta e dois; ^v10
 
-**11** Os filhos de Paate-Moabe, dos filhos de Jesuá e de Joabe, dois mil, oitocentos e dezoito. ^v11
+**11** os descendentes de Paate-Moabe, por meio da descendência de Jesua e de Joabe, dois mil oitocentos e dezoito; ^v11
 
-**12** Os filhos de Elão, mil, duzentos e cinqüenta e quatro. ^v12
+**12** os descendentes de Elão, mil duzentos e cinquenta e quatro; ^v12
 
-**13** Os filhos de Zatu, oitocentos e quarenta e cinco. ^v13
+**13** os descendentes de Zatu, oitocentos e quarenta e cinco; ^v13
 
-**14** Os filhos de Zacai, setecentos e sessenta. ^v14
+**14** os descendentes de Zacai, setecentos e sessenta; ^v14
 
-**15** Os filhos de Binui, seiscentos e quarenta e oito. ^v15
+**15** os descendentes de Binuí, seiscentos e quarenta e oito; ^v15
 
-**16** Os filhos de Bebai, seiscentos e vinte e oito. ^v16
+**16** os descendentes de Bebai, seissentos e vinte e oito; ^v16
 
-**17** Os filhos de Azgade, dois mil, trezentos e vinte e dois. ^v17
+**17** os descendentes de Azgade, dois mil trezentos e vinte e dois; ^v17
 
-**18** Os filhos de Adonicão, seiscentos e sessenta e sete. ^v18
+**18** os descendentes de Adonicão, seiscentos e sessenta e sete; ^v18
 
-**19** Os filhos de Bigvai, dois mil e sessenta e sete. ^v19
+**19** os descendentes de Bigvai, dois mil e sessenta e sete; ^v19
 
-**20** Os filhos de Adim, seiscentos e cinqüenta e cinco. ^v20
+**20** os descendentes de Adim, seiscentos e cinquenta e cinco; ^v20
 
-**21** Os filhos de Ater, de Ezequias, noventa e oito. ^v21
+**21** os descendentes de Ater, de Ezequias, noventa e oito; ^v21
 
-**22** Os filhos de Hassum, trezentos e vinte e oito. ^v22
+**22** os descendentes de Hasum, trezentos e vinte e oito; ^v22
 
-**23** Os filhos de Bezai, trezentos e vinte e quatro. ^v23
+**23** os descendentes de Bezai, trezentos e vinte e quatro; ^v23
 
-**24** Os filhos de Harife, cento e doze. ^v24
+**24** os descendentes de Harife, cento e doze; ^v24
 
-**25** Os filhos de Gibeom, noventa e cinco. ^v25
+**25** os descendentes de Gibeão, noventa e cinco; ^v25
 
-**26** Os homens de Belém e de Netofa, cento e oitenta e oito. ^v26
+**26** os homens de Belém e de Netofá, cento e oitenta e oito; ^v26
 
-**27** Os homens de Anatote, cento e vinte e oito. ^v27
+**27** os homens de Anatote, cento e vinte e oito; ^v27
 
-**28** Os homens de Bete-Azmavete, quarenta e dois. ^v28
+**28** os homens de Bete-Azmavete, quarenta e dois; ^v28
 
-**29** Os homens de Quiriate-Jearim, Quefira e Beerote, setecentos e quarenta e três. ^v29
+**29** os homens de Quiriate-Jearim, Cefira e Beerote, setecentos e quarenta e três; ^v29
 
-**30** Os homens de Ramá e Geba, seiscentos e vinte e um. ^v30
+**30** os homens de Ramá e Geba, seiscentos e vinte e um; ^v30
 
-**31** Os homens de Micmás, cento e vinte e dois. ^v31
+**31** os homens de Micmás, cento e vinte e dois; ^v31
 
-**32** Os homens de Betel e Ai, cento e vinte e três. ^v32
+**32** os homens de Betel e Ai, cento e vinte e três; ^v32
 
-**33** Os homens do outro Nebo, cinqüenta e dois. ^v33
+**33** os homens do outro Nebo, cinquenta e dois; ^v33
 
-**34** Os filhos do outro Elão, mil, duzentos e cinqüenta e quatro: ^v34
+**34** o povo do outro Elão, mil duzentos e cinquenta e quatro; ^v34
 
-**35** Os filhos de Harim, trezentos e vinte. ^v35
+**35** os homens de Harim, trezentos e vinte; ^v35
 
-**36** Os filhos de Jericó, trezentos e quarenta e cinco. ^v36
+**36** os homens de Jericó, trezentos e quarenta e cinco; ^v36
 
-**37** Os filhos de Lode, Hadide e Ono, setecentos e vinte e um. ^v37
+**37** os homens de Lode, Hadide e Ono, setecentos e vinte e um; ^v37
 
-**38** Os filhos de Senaá, três mil, novecentos e trinta. ^v38
+**38** os homens de Senaá, três mil novecentos e trinta. ^v38
 
-**39** Os sacerdotes: Os filhos de Jedaías, da casa de Jesuá, novecentos e setenta e três. ^v39
+**39** Os sacerdotes: os descendentes de Jedaías (da casa de Jesua), novecentos e setenta e três; ^v39
 
-**40** Os filhos de Imer, mil e cinqüenta e dois. ^v40
+**40** os descendentes de Imer, mil e cinquenta e dois; ^v40
 
-**41** Os filhos de Pasur, mil, duzentos e quarenta e sete. ^v41
+**41** os descendentes de Pasur, mil duzentos e quarenta e sete; ^v41
 
-**42** Os filhos de Harim, mil e dezessete. ^v42
+**42** os descendentes de Harim, mil e dezessete. ^v42
 
-**43** Os levitas: Os filhos de Jesuá, de Cadmiel, dos filhos de Hodeva, setenta e quatro. ^v43
+**43** "Os levitas: os descendentes de Jesua, por meio de Cadmiel, da descendencia de Binuí e de Hodevá, setenta e quatro. [Em lugar de ""da descendencia de Binuí e de Hodevá"" , algumas versões modernas adotam ""da descendência de Hodevá"".]" ^v43
 
-**44** Os cantores: Os filhos de Asafe, cento e quarenta e oito. ^v44
+**44** Os cantores: os descendentes de Asafe, cento e quarenta e oito. ^v44
 
-**45** Os porteiros: Os filhos de Salum, os filhos de Ater, os filhos de Talmom, os filhos de Acube, os filhos de Hatita, os filhos de Sobai, cento e trinta e oito. ^v45
+**45** Os porteiros dos descendentes de Salum, os descendentes de Ater, os descendentes de Talmom, os descendentes de Acube, os descendentes de Hatita, os descendentes de Sobai, cento e trinta e oito. ^v45
 
-**46** Os servidores do templo: Os filhos de Zia, os filhos de Hasufa, os filhos de Tabaote, ^v46
+**46** Os servos do templo: os descendentes de Zia, os descendentes de Hasufa, os descendentes de Tabaote, ^v46
 
-**47** Os filhos de Queros, os filhos de Sia, os filhos de Padom, ^v47
+**47** os descendentes de Queros, os descendentes de Sai, os descendentes de Padom, ^v47
 
-**48** Os filhos de Lebana, os filhos de Hagaba, os filhos de Salmai, ^v48
+**48** os descendentes de Lebana, os descendentes de Hagaba, os descendentes de Salmai, ^v48
 
-**49** Os filhos de Hanã, os filhos de Gidel, os filhos de Gaar, ^v49
+**49** os descendentes de Hanã, os descendentes de Gidel, os descendentes de Gaar; ^v49
 
-**50** Os filhos de Reaías, os filhos de Rezim, os filhos de Necoda, ^v50
+**50** os descendentes de Reaías, os descendentes de Rezim, os descendentes de Necoda, ^v50
 
-**51** Os filhos de Gazão, os filhos de Uzá, os filhos de Paseá, ^v51
+**51** os descendentes de Gazão, os descendentes de Uzá, os descendentes de Paseia, ^v51
 
-**52** Os filhos de Besai, os filhos de Meunim, os filhos de Nefussim, ^v52
+**52** os descendentes de Besai, os descendentes de Meunim, os descendentes de Nefusesim; ^v52
 
-**53** Os filhos de Bacbuque, os filhos de Hacufa, os filhos de Harur, ^v53
+**53** os descendentes de Baquebuque, os descendentes de Hacufa, os descendentes de Harur, ^v53
 
-**54** Os filhos de Bazlite, os filhos de Meída, os filhos de Harsa, ^v54
+**54** os descendentes de Baslite, os descendentes de Meída, os descendentes de Harsa, ^v54
 
-**55** Os filhos de Barcos, os filhos de Sísera, os filhos de Tamá, ^v55
+**55** os descendentes de Barcos, os descendentes de Sísera, os descendentes de Tamá, ^v55
 
-**56** Os filhos de Neziá, os filhos de Hatifa. ^v56
+**56** os descendentes de Nesias, os descendentes de Hatifa. ^v56
 
-**57** Os filhos dos servos de Salomão, os filhos de Sotai, os filhos de Soferete, os filhos de Perida, ^v57
+**57** Os descendentes dos servos de Salomão: os descendentes de Sotai, os descendentes de Soferete, os descendentes de Perida, ^v57
 
-**58** Os filhos de Jaala, os filhos de Darcom, os filhos de Gidel, ^v58
+**58** os descendentes de Jaala, os descendentes de Darcom, os descendentes de Gidel, ^v58
 
-**59** Os filhos de Sefatias, os filhos de Hatil, os filhos de Poquerete-Hazebaim, os filhos de Amom. ^v59
+**59** os descendentes de Sefatias, os descendentes de Hatil, os descendentes de Poquerete-Hazebaim, os descendentes de Amom. ^v59
 
-**60** Todos os servidores do templo e os filhos dos servos de Salomão, trezentos e noventa e dois. ^v60
+**60** Todos os servos do templo e os descendentes dos servos de Salomão, eram trezentos e noventa e dois. ^v60
 
-**61** Também estes subiram de Tel-Melá, e Tel-Harsa, Querube, Adom, Imer; porém não puderam provar que a casa de seus pais e a sua linhagem, eram de Israel. ^v61
+**61** E estes foram os que vieram de Tel-Melá, Tel-Harsa, Querube, Adom e Imer, porém eles não puderam provar que eles ou seus antepassados eram descendentes de Israel: ^v61
 
-**62** Os filhos de Delaías, os filhos de Tobias, os filhos de Necoda, seiscentos e quarenta e dois. ^v62
+**62** os descendentes de Delaías, os descendentes de Tobias, e os descendentes de Necoda, seiscentos e quarenta e dois. ^v62
 
-**63** E dos sacerdotes: os filhos de Habaías, os filhos de Coz, os filhos de Barzilai, que tomara uma mulher das filhas de Barzilai, o gileadita, e que foi chamado do seu nome. ^v63
+**63** E dos sacerdotes: os descendentes de Hobaías, de Hacoz e de Barzilai, o qual tomou como esposa uma das filhas de Barzilai, o gileadita, e passou a ser chamado por esse nome. ^v63
 
-**64** Estes buscaram o seu registro nos livros genealógicos, porém não se achou; então, como imundos, foram excluídos do sacerdócio. ^v64
+**64** Estes buscaram seus registros entre aqueles que foram registrados segundo sua genealogia, todavia, não encontraram, por isso foram excluídos do sacerdócio como impuros. ^v64
 
-**65** E o governador lhes disse que não comessem das coisas sagradas, até que se apresentasse o sacerdote com Urim e Tumim. ^v65
+**65** E o governador disse-lhes que não deveriam ser autorizados a comer a quota de comida dos sacerdotes, provenientes dos sacrifícios, até que se levantasse um sacerdote com Urim e Tumim. ^v65
 
-**66** Toda esta congregação junta foi de quarenta e dois mil, trezentos e sessenta, ^v66
+**66** Toda a assembleia reunida era quarenta e dois mil trezentos e sessenta, ^v66
 
-**67** Afora os seus servos e as suas servas, que foram sete mil, trezentos e trinta e sete; e tinham duzentos e quarenta e cinco cantores e cantoras. ^v67
+**67** além dos seus servos e das suas servas, os quais eram sete mil trezentos e trinta e sete. Eles tinham duzentos e quarenta e cinco cantores e cantoras. ^v67
 
-**68** Os seus cavalos, setecentos e trinta e seis; os seus mulos, duzentos e quarenta e cinco. ^v68
+**68** Eles tinham setecentos e trinta e sete cavalos; duzentos e quarenta e cinco mulas; ^v68
 
-**69** Camelos, quatrocentos e trinta e cinco; jumentos, seis mil, setecentos e vinte. ^v69
+**69** quatrocentos e trinta e cinco camelos e seis mil setecentos e vinte jumentos. ^v69
 
-**70** E uma parte dos chefes dos pais contribuíram para a obra. O governador deu para o tesouro, em ouro, mil dracmas, cinqüenta bacias, e quinhentas e trinta vestes sacerdotais. ^v70
+**70** "Alguns dos chefes das famílias paternas deram ofertas para a obra. O governador deu à tesouraria mil dáricos de ouro, cinquenta bacias e quinhentos e trinta túnicas sacerdotais. [O texto hebraico registra ""trinta túnicas sacerdotais"", mas é difícil de entender. A maioria das versões modernas adotam ""quinhentos e trinta túnicas sacerdotais"". No entanto, alguns sugerem a leitura como ""trinta túnicas sacerdotais e quinhentas minas de prata"".]" ^v70
 
-**71** E alguns mais dos chefes dos pais contribuíram para o tesouro da obra, em ouro, vinte mil dracmas, e em prata, duas mil e duzentas libras. ^v71
+**71** Alguns dos chefes das famílias paternas deram para a tesouraria da obra vinte mil dáricos de ouro e duas mil e duzentas minas de prata. ^v71
 
-**72** E o que deu o restante do povo foi, em ouro, vinte mil dracmas, e em prata, duas mil libras; e sessenta e sete vestes sacerdotais. ^v72
+**72** O restante do povo deu vinte mil dáricos de ouro, duas mil minas de prata e sessenta e sete túnicas sacerdotais. ^v72
 
-**73** E habitaram os sacerdotes, os levitas, os porteiros, os cantores, alguns do povo, os servidores do templo, e todo o Israel nas suas cidades. ^v73
+**73** "Os sacerdotes, os levitas, os porteiros, os cantores, alguns do povo, os servos do templo e todo o Israel, estabeleceram-se em suas cidades. Ao sétimo mês, o povo de Israel estava instalado em suas cidades""." ^v73

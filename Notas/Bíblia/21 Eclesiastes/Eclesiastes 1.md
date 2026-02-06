@@ -1,43 +1,42 @@
 ---
-Livro: "[[Eclesiastes|Eclesiastes]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Eclesiastes|Eclesiastes]]"
+tags: [biblia]
 ---
 
 # Eclesiastes 1
 
-**1** Palavras do pregador, filho de Davi, rei em Jerusalém. ^v1
+**1** Estas são as palavras do pregador, o filho de Davi e rei em Jerusalém. ^v1
 
-**2** Vaidade de vaidades, diz o pregador, vaidade de vaidades! Tudo é vaidade. ^v2
+**2** Vaidade das vaidades, diz o pregador: nada é importante. ^v2
 
-**3** Que proveito tem o homem, de todo o seu trabalho, que faz debaixo do sol? ^v3
+**3** Que lucro o homem obtém de todo o trabalho com que se afadiga debaixo do sol? ^v3
 
-**4** Uma geração vai, e outra geração vem; mas a terra para sempre permanece. ^v4
+**4** Uma geração vai, outra geração vem, mas a terra permanece para sempre. ^v4
 
-**5** Nasce o sol, e o sol se põe, e apressa-se e volta ao seu lugar de onde nasceu. ^v5
+**5** O sol nasce e se põe, e novamente se apressa a retornar ao lugar onde nasceu. ^v5
 
-**6** O vento vai para o sul, e faz o seu giro para o norte; continuamente vai girando o vento, e volta fazendo os seus circuitos. ^v6
+**6** O vento sopra para o sul e circula ao redor para o norte, sempre indo pelo seu caminho e voltando novamente. ^v6
 
-**7** Todos os rios vão para o mar, e contudo o mar não se enche; ao lugar para onde os rios vão, para ali tornam eles a correr. ^v7
+**7** Todos os rios correm para o mar, mas o mar nunca se enche. Ao lugar para onde os rios vão, para ali, eles irão novamente. ^v7
 
-**8** Todas as coisas são trabalhosas; o homem não o pode exprimir; os olhos não se fartam de ver, nem os ouvidos se enchem de ouvir. ^v8
+**8** Tudo se torna cansaço e ninguém pode explicar isso. Os olhos não ficam satisfeitos com o que veem, nem os ouvidos com o que ouvem. ^v8
 
-**9** O que foi, isso é o que há de ser; e o que se fez, isso se fará; de modo que nada há de novo debaixo do sol. ^v9
+**9** O que foi é o que será, e o que se fez é o que se fará. Não há nada de novo debaixo do sol. ^v9
 
-**10** Há alguma coisa de que se possa dizer: Vê, isto é novo? Já foi nos séculos passados, que foram antes de nós. ^v10
+**10** "Há algo sobre o qual possa ser dito: ""Vê! Isto é novo?"" O que quer que exista já havia existido há muito tempo, em tempos antigos, muito antes de nós." ^v10
 
-**11** Já não há lembrança das coisas que precederam, e das coisas que hão de ser também delas não haverá lembrança, entre os que hão de vir depois. ^v11
+**11** "Ninguém parece lembrar-se daquilo que aconteceu nos tempos antigos, nem das coisas que ocorreram muito depois, e o que acontecerá no futuro, provavelmente, também não será lembrado""." ^v11
 
-**12** Eu, o pregador, fui rei sobre Israel em Jerusalém. ^v12
+**12** Eu sou o pregador, e tenho reinado sobre Israel em Jerusalém. ^v12
 
-**13** E apliquei o meu coração a esquadrinhar, e a informar-me com sabedoria de tudo quanto sucede debaixo do céu; esta enfadonha ocupação deu Deus aos filhos dos homens, para nela os exercitar. ^v13
+**13** Apliquei minha mente a estudar e a procurar com sabedoria sobre tudo o que é feito debaixo dos céus. Essa procura é uma tarefa penosa que Deus entregou aos filhos dos homens para se ocuparem. ^v13
 
-**14** Atentei para todas as obras que se fazem debaixo do sol, e eis que tudo era vaidade e aflição de espírito. ^v14
+**14** Tenho visto todas as obras que são feitas debaixo do sol, e tudo é inútil, como tentar agarrar o vento. ^v14
 
-**15** Aquilo que é torto não se pode endireitar; aquilo que falta não se pode calcular. ^v15
+**15** O que está distorcido não pode ser endireitado; o que falta não pode ser contado! ^v15
 
-**16** Falei eu com o meu coração, dizendo: Eis que eu me engrandeci, e sobrepujei em sabedoria a todos os que houve antes de mim em Jerusalém; e o meu coração contemplou abundantemente a sabedoria e o conhecimento. ^v16
+**16** "Tenho falado ao meu coração, dizendo: ""Vê! Adquiri mais sabedoria do que todos os que viveram antes de mim, em Jerusalém. Minha mente tem visto grande sabedoria e conhecimento""." ^v16
 
-**17** E apliquei o meu coração a conhecer a sabedoria e a conhecer os desvarios e as loucuras, e vim a saber que também isto era aflição de espírito. ^v17
+**17** Então, apliquei meu coração a conhecer a sabedoria e também a loucura e a tolice. Eu cheguei à compreensão de que isso também era uma tentativa de agarrar o vento. ^v17
 
-**18** Porque na muita sabedoria há muito enfado; e o que aumenta em conhecimento, aumenta em dor. ^v18
+**18** Pois na abundância da sabedoria há muita frustração, e aquele que aumenta o saber, aumenta o sofrimento. ^v18

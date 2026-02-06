@@ -1,67 +1,66 @@
 ---
-Livro: "[[1 Crônicas|1 Crônicas]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/1 Crônicas|1 Crônicas]]"
+tags: [biblia]
 ---
 
 # 1 Crônicas 21
 
-**1** Então Satanás se levantou contra Israel, e incitou Davi a numerar a Israel. ^v1
+**1** Satanás se levantou contra Israel e incitou Davi a fazer a contagem de Israel. ^v1
 
-**2** E disse Davi a Joabe e aos maiorais do povo: Ide, numerai a Israel, desde Berseba até Dã; e trazei-me a conta para que saiba o número deles. ^v2
+**2** "Davi disse a Joabe e aos comandantes do exército: ""Ide, contai o povo de Israel, de Berseba até Dã e reportai de volta a mim, para que eu saiba seu número""." ^v2
 
-**3** Então disse Joabe: O SENHOR acrescente ao seu povo cem vezes tanto como é; porventura, ó rei meu senhor, não são todos servos de meu senhor? Por que procura isto o meu senhor? Porque seria isto causa de delito para com Israel. ^v3
+**3** "Joabe disse: ""Que Yahweh faça seu exército cem vezes maior do que já é. Mas, meu senhor, o rei, não servem todos eles ao meu senhor? Por que meu senhor quer isso? Por que trazer culpa sobre Israel?""." ^v3
 
-**4** Porém a palavra do rei prevaleceu contra Joabe; por isso saiu Joabe, e passou por todo o Israel; então voltou para Jerusalém. ^v4
+**4** Mas a palavra do rei foi final contra Joabe. Então, saiu Joabe e percorreu todo o Israel e depois voltou para Jerusalém. ^v4
 
-**5** E Joabe deu a Davi a soma do número do povo; e era todo o Israel um milhão e cem mil homens, dos que arrancavam da espada; e de Judá quatrocentos e setenta mil homens, dos que arrancavam da espada. ^v5
+**5** Joabe relatou o total da contagem de todos os homens de combate a Davi. Havia em Israel um milhão e cem mil homens que manejavam a espada. Somente em Judá havia quatrocentos e setenta mil soldados. ^v5
 
-**6** Porém os de Levi e Benjamim não contou entre eles, porque a palavra do rei foi abominável a Joabe. ^v6
+**6** Porém, Levi e Benjamim não foram contados entre eles, pois a ordem do rei foi abominável a Joabe. ^v6
 
-**7** E este negócio também pareceu mau aos olhos de Deus; por isso feriu a Israel. ^v7
+**7** Deus não se agradou desta ação. Por isso Ele atacou Israel. ^v7
 
-**8** Então disse Davi a Deus: Gravemente pequei em fazer este negócio; porém agora sê servido tirar a iniqüidade de teu servo, porque procedi mui loucamente. ^v8
+**8** "Davi disse a Yahweh: ""Eu pequei grandemente fazendo isso; agora retira a culpa de Teu servo, pois eu agi tolamente""." ^v8
 
-**9** Falou, pois, o Senhor a Gade, o vidente de Davi, dizendo: ^v9
+**9** Yahweh disse a Gade, o profeta de Davi: ^v9
 
-**10** Vai, e fala a Davi, dizendo: Assim diz o Senhor: Três coisas te proponho; escolhe uma delas, para que eu ta faça. ^v10
+**10** """Vai e diz a Davi: 'Assim diz Yahweh: Eu te dou três opções, escolhe uma delas'""." ^v10
 
-**11** E Gade veio a Davi, e lhe disse: Assim diz o Senhor: Escolhe para ti, ^v11
+**11** "Gade foi até Davi e disse a ele: ""Assim diz Yahweh: 'Faz a tua escolha:" ^v11
 
-**12** Ou três anos de fome, ou que três meses sejas consumido diante dos teus adversários, e a espada de teus inimigos te alcance, ou que três dias a espada do Senhor, isto é, a peste na terra, e o anjo do Senhor destrua todos os termos de Israel; vê, pois, agora, que resposta hei de levar a quem me enviou. ^v12
+**12** "ou três anos de escassez, três meses de perseguição por teus inimigos, sendo atacado por suas espadas, ou então, três dias da espada de Yahweh, isto é, uma praga em toda a terra, com o Anjo de Yahweh destruindo toda a terra de Israel'. Agora, decide qual a resposta que levarei àquele que me enviou'""." ^v12
 
-**13** Então disse Davi a Gade: Estou em grande angústia; caia eu, pois, nas mãos do Senhor, porque são muitíssimas as suas misericórdias; mas que eu não caia nas mãos dos homens. ^v13
+**13** "Então, Davi disse a Gade: ""Eu estou em grande aflição, deixa-me cair nas mãos de Yahweh ao invés de cair nas mãos dos homens, pois grandes são Seus misericordiosos feitos""." ^v13
 
-**14** Mandou, pois, o Senhor a peste a Israel; e caíram de Israel setenta mil homens. ^v14
+**14** Então, Yahweh enviou uma praga sobre Israel e setenta mil pessoas morreram. ^v14
 
-**15** E Deus mandou um anjo a Jerusalém para a destruir; e, destruindo-a ele, o Senhor olhou, e se arrependeu daquele mal, e disse ao anjo destruidor: Basta, agora retira a tua mão. E o anjo do Senhor estava junto à eira de Ornã, o jebuseu. ^v15
+**15** "Yahweh enviou um anjo para destruir Jerusalém; porém, quando ele estava prestes a destruí-la, Yahweh olhou e mudou Sua opinião sobre aquele castigo. Ele falou ao anjo destruidor: ""Basta! Agora recolhe a tua mão"". E, naquela hora, o Anjo de Yahweh estava em pé na eira de Ornã, o jebuseu." ^v15
 
-**16** E, levantando Davi os seus olhos, viu o anjo do Senhor, que estava entre a terra e o céu, com a sua espada desembainhada na sua mão estendida contra Jerusalém; então Davi e os anciãos, cobertos de sacos, se prostraram sobre os seus rostos. ^v16
+**16** Davi olhou para cima e viu o Anjo de Yahweh em pé entre a terra e o céu, com a espada desembainhada em suas mãos levantada sobre Jerusalém. Então, Davi e os anciãos, vestidos em sacos, se prostraram com o rosto em terra. ^v16
 
-**17** E disse Davi a Deus: Não sou eu o que disse que se contasse o povo? E eu mesmo sou o que pequei, e fiz muito mal; mas estas ovelhas que fizeram? Ah! Senhor, meu Deus, seja a tua mão contra mim, e contra a casa de meu pai, e não para castigo de teu povo. ^v17
+**17** "Davi disse a Yahweh: ""Não fui eu que ordenei que numerasse o exército? Eu fiz algo abominável, mas estas ovelhas, o que elas fizeram? Yahweh, meu Deus, que a Tua mão castigue a mim e a minha família, mas não castigue o Teu povo." ^v17
 
-**18** Então o anjo do Senhor ordenou a Gade que dissesse a Davi para subir e levantar um altar ao Senhor na eira de Ornã, o jebuseu. ^v18
+**18** Então, o Anjo de Yahweh ordenou Gade que dissesse a Davi que ele deveria subir e contruir um altar para Yahweh na eira de Ornã, o Jebuseu. ^v18
 
-**19** Subiu, pois, Davi, conforme a palavra de Gade, que falara em nome do Senhor. ^v19
+**19** Então, Davi subiu como Gade o instruiu a fazer em nome de Yahweh. ^v19
 
-**20** E, virando-se Ornã, viu o anjo, e esconderam-se seus quatro filhos que estavam com ele; e Ornã estava trilhando o trigo. ^v20
+**20** Enquanto Ornã estava malhando trigo, ele se virou e viu o anjo; então, ele e seus quatro filhos se esconderam. ^v20
 
-**21** E Davi veio a Ornã; e olhou Ornã, e viu a Davi, e saiu da eira, e se prostrou perante Davi com o rosto em terra. ^v21
+**21** Quando Davi se aproximava, Ornã olhou e viu Davi. Ele deixou a eira e se prostrou diante de Davi com seu rosto no chão. ^v21
 
-**22** E disse Davi a Ornã: Dá-me este lugar da eira, para edificar nele um altar ao Senhor; dá-mo pelo seu valor, para que cesse este castigo sobre o povo. ^v22
+**22** "Então, Davi disse a Ornã: ""Vende-me esta eira, para que eu possa construir um altar para Yahweh, eu pagarei o devido valor, para que a praga seja removida do povo""." ^v22
 
-**23** Então disse Ornã a Davi: Toma-o para ti, e faça o rei meu senhor dele o que parecer bem aos seus olhos; eis que dou os bois para holocaustos, e os trilhos para lenha, e o trigo para oferta de alimentos; tudo dou. ^v23
+**23** "Ornã disse a Davi: ""Toma-a para ti, meu senhor, o rei, faz com ela o que for bom aos teus olhos. Olha, eu te darei bois para os holocaustos e o debulhador como lenha e o trigo para oferta de cereais; te darei tudo""." ^v23
 
-**24** E disse o rei Davi a Ornã: Não, antes, pelo seu valor, a quero comprar; porque não tomarei o que é teu, para o Senhor, para que não ofereça holocausto sem custo. ^v24
+**24** "O rei Davi disse a Ornã: ""Não, eu insisto em comprar pelo devido valor, eu não tomarei o que é teu e oferecerei como sacrifício a Yahweh o que não me custar nada""." ^v24
 
-**25** E Davi deu a Ornã, por aquele lugar, o peso de seiscentos siclos de ouro. ^v25
+**25** Então, Davi pagou seiscentos siclos de ouro pelo terreno. ^v25
 
-**26** Então Davi edificou ali um altar ao Senhor, e ofereceu nele holocaustos e sacrifícios pacíficos; e invocou o Senhor, o qual lhe respondeu com fogo do céu sobre o altar do holocausto. ^v26
+**26** Ele construiu um altar para Yahweh ali e ofereceu holocaustos e ofertas pacíficas sobre o altar. Davi invocou Yahweh, que respondeu com fogo dos céus sobre o altar dos holocautos. ^v26
 
-**27** E o Senhor deu ordem ao anjo, e ele tornou a sua espada à bainha. ^v27
+**27** Então, Yahweh deu ordem a Seu anjo e ele embainhou sua espada. ^v27
 
-**28** Vendo Davi, no mesmo tempo, que o Senhor lhe respondera na eira de Ornã, o jebuseu, sacrificou ali. ^v28
+**28** Então, Davi viu que Yahweh o respondeu no meio da eira de Ornã, o jebuseu; ele ofereceu ali, os seus sacrifícios ao mesmo tempo. ^v28
 
-**29** Porque o tabernáculo do Senhor, que Moisés fizera no deserto, e o altar do holocausto, estavam naquele tempo no alto de Gibeom. ^v29
+**29** Naquele tempo, o tabernáculo de Yahweh, que Moisés fez no deserto, e o altar dos holocaustos estavam no lugar alto de Gibeão. ^v29
 
-**30** E não podia Davi ir perante ele consultar a Deus; porque estava aterrorizado por causa da espada do anjo do Senhor. ^v30
+**30** Contudo, Davi não pôde pedir direção para Deus, pois estava com medo da espada do Anjo de Yahweh. ^v30

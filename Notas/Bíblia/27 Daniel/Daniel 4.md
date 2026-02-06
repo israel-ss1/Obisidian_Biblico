@@ -1,81 +1,80 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Daniel|Daniel]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Daniel|Daniel]]"
+tags: [biblia]
 ---
 
 # Daniel 4
 
-**1** Nabucodonosor rei, a todos os povos, nações e línguas, que moram em toda a terra: Paz vos seja multiplicada. ^v1
+**1** "O rei Nabucodonosor enviou este decreto a todos os povos, nações, e línguas que viviam sobre a terra: ""Que a vossa paz seja multiplicada." ^v1
 
-**2** Pareceu-me bem fazer conhecidos os sinais e maravilhas que Deus, o Altíssimo, tem feito para comigo. ^v2
+**2** Pareceu-me bem contar a vocês acerca dos sinais e maravilhas que me fez o Altíssimo. ^v2
 
-**3** Quão grandes são os seus sinais, e quão poderosas as suas maravilhas! O seu reino é um reino sempiterno, e o seu domínio de geração em geração. ^v3
+**3** "Quão grandes são os Seus sinais e quão poderosas são as Suas maravilhas! Seu Reino é um reino eterno e o Seu domínio vai de geração a geração""." ^v3
 
-**4** Eu, Nabucodonosor, estava sossegado em minha casa, e próspero no meu palácio. ^v4
+**4** Eu, Nabucodonosor, vivia alegremente em minha casa e desfrutava de prosperidade no meu palácio. ^v4
 
-**5** Tive um sonho, que me espantou; e estando eu na minha cama, as imaginações e as visões da minha cabeça me turbaram. ^v5
+**5** Mas tive um sonho e fiquei com medo. Enquanto eu estava ali deitado, as imagens que eu vi e as visões em minha mente me perturbaram. ^v5
 
-**6** Por isso expedi um decreto, para que fossem introduzidos à minha presença todos os sábios de babilônia, para que me fizessem saber a interpretação do sonho. ^v6
+**6** Então, expedi um decreto para que trouxessem diante de mim todos os sábios da Babilônia, a fim de que interpretassem o sonho para mim. ^v6
 
-**7** Então entraram os magos, os astrólogos, os caldeus e os adivinhadores, e eu contei o sonho diante deles; mas não me fizeram saber a sua interpretação. ^v7
+**7** Então, vieram os magos, os adivinhadores, os sábios e os astrólogos. Eu lhes contei o sonho, mas eles não puderam interpretá-lo. ^v7
 
-**8** Mas por fim entrou na minha presença Daniel, cujo nome é Beltessazar, segundo o nome do meu deus, e no qual há o espírito dos deuses santos; e eu lhe contei o sonho, dizendo: ^v8
+**8** Por fim, veio Daniel (chamado Beltessazar, segundo o nome do meu deus, e em quem está o espírito dos deuses santos) e contei-lhe o sonho. ^v8
 
-**9** Beltessazar, mestre dos magos, pois eu sei que há em ti o espírito dos deuses santos, e nenhum mistério te é difícil, dize-me as visões do meu sonho que tive e a sua interpretação. ^v9
+**9** """Beltessazar, chefe dos magos, eu sei que o espírito dos deuses santos está em ti, e que nenhum mistério é muito difícil para ti. Dize-me o que eu vi em meu sonho e o que significa""." ^v9
 
-**10** Eis, pois, as visões da minha cabeça, estando eu na minha cama: Eu estava assim olhando, e vi uma árvore no meio da terra, cuja altura era grande; ^v10
+**10** Estas foram as visões que tive em minha mente enquanto dormia: olhei e havia uma árvore no meio da terra e ela era muito alta. ^v10
 
-**11** Crescia esta árvore, e se fazia forte, de maneira que a sua altura chegava até ao céu; e era vista até aos confins da terra. ^v11
+**11** A árvore cresceu e se tornou forte. O seu topo alcançou os céus e podia ser vista até os confins da terra. ^v11
 
-**12** A sua folhagem era formosa, e o seu fruto abundante, e havia nela sustento para todos; debaixo dela os animais do campo achavam sombra, e as aves do céu faziam morada nos seus ramos, e toda a carne se mantinha dela. ^v12
+**12** Suas folhas eram lindas, seus frutos eram abundantes e nela havia comida para todos. Os animais do campo achavam sombra sob ela e as aves do céu viviam em seus ramos. Todas as criaturas se alimentavam dela. ^v12
 
-**13** Estava vendo isso nas visões da minha cabeça, estando eu na minha cama; e eis que um vigia, um santo, descia do céu, ^v13
+**13** Enquanto estava deitado em minha cama, eu vi, em minha mente, um mensageiro descendo dos céus. ^v13
 
-**14** Clamando fortemente, e dizendo assim: Derrubai a árvore, e cortai-lhe os ramos, sacudi as suas folhas, espalhai o seu fruto; afugentem-se os animais de debaixo dela, e as aves dos seus ramos. ^v14
+**14** Ele clamou e disse: 'Abatei a árvore e cortai seus ramos, sacudi as suas folhas e espalhai seus frutos. Que os animais fujam dela e os pássaros voem para longe de seus ramos. ^v14
 
-**15** Mas deixai na terra o tronco com as suas raízes, atada com cadeias de ferro e de bronze, na erva do campo; e seja molhado do orvalho do céu, e seja a sua porção com os animais na erva da terra; ^v15
+**15** Deixai o tronco e suas raízes na terra, cercai-a com uma cinta de ferro e bronze no meio da grama verde do campo; que seja molhada com o orvalho dos céus; que viva com os animais entre as plantas da terra. ^v15
 
-**16** Seja mudado o seu coração, para que não seja mais coração de homem, e lhe seja dado coração de animal; e passem sobre ele sete tempos. ^v16
+**16** Que a sua mente seja mudada, deixando de ser humana, e lhe seja dada uma mente de animal, até que se passem sete anos. ^v16
 
-**17** Esta sentença é por decreto dos vigias, e esta ordem por mandado dos santos, a fim de que conheçam os viventes que o Altíssimo tem domínio sobre o reino dos homens, e o dá a quem quer, e até ao mais humilde dos homens constitui sobre ele. ^v17
+**17** Esta decisão veio do decreto apresentado pelo mensageiro. É uma decisão tomada pelo Santíssimo, para que aqueles que estão vivos saibam que o Altíssimo governa sobre os reinos dos povos, e os dá a quem Ele quer, para os governar, até ao homem mais humilde'. ^v17
 
-**18** Este sonho eu, rei Nabucodonosor vi. Tu, pois, Beltessazar, dize a interpretação, porque todos os sábios do meu reino não puderam fazer-me saber a sua interpretação, mas tu podes; pois há em ti o espírito dos deuses santos. ^v18
+**18** "Eu, rei Nabuconodosor, tive esse sonho. Agora tu, Beltessazar, conta-me a interpretação, porque nenhum dos sábios no meu reino pode o interpretar para mim. Mas tu és capaz de fazê-lo, porque o espírito dos deuses santos está em ti""." ^v18
 
-**19** Então Daniel, cujo nome era Beltessazar, esteve atônito por uma hora, e os seus pensamentos o turbavam; falou, pois, o rei, dizendo: Beltessazar, não te espante o sonho, nem a sua interpretação. Respondeu Beltessazar, dizendo: Senhor meu, seja o sonho contra os que te têm ódio, e a sua interpretação aos teus inimigos. ^v19
+**19** "Então Daniel, também chamado de Beltessazar, ficou triste por algum tempo, seus pensamentos o perturbaram. O rei disse: ""Beltessazar, não deixe que o sonho ou sua interpretação te perturbem"". Beltessazar respondeu: ""Meu senhor, que este sonho seja para aqueles que te odeiam; que esta interpretação seja para os teus inimigos." ^v19
 
-**20** A árvore que viste, que cresceu, e se fez forte, cuja altura chegava até ao céu, e que foi vista por toda a terra; ^v20
+**20** A árvore que tu viste — a que cresceu e se tornou forte, e cujo topo alcançou os céus, e que podia ser vista até os confins da terra, ^v20
 
-**21** Cujas folhas eram formosas, e o seu fruto abundante, e em que para todos havia sustento, debaixo da qual moravam os animais do campo, e em cujos ramos habitavam as aves do céu; ^v21
+**21** cujas folhas eram lindas, e cujos frutos eram abundantes, e nela havia comida para todos e, debaixo dela, animais do campo achavam sombra, e na qual as aves do céu viviam — ^v21
 
-**22** És tu, ó rei, que cresceste, e te fizeste forte; a tua grandeza cresceu, e chegou até ao céu, e o teu domínio até à extremidade da terra. ^v22
+**22** tu és esta árvore, rei. Tu cresceste e te fortaleceste. Tuas grandezas se espalharam alcançando os céus e tua autoridade alcançou os confins da terra. ^v22
 
-**23** E quanto ao que viu o rei, um vigia, um santo, que descia do céu, e dizia: Cortai a árvore, e destruí-a, mas o tronco com as suas raízes deixai na terra, e atada com cadeias de ferro e de bronze, na erva do campo; e seja molhado do orvalho do céu, e a sua porção seja com os animais do campo, até que passem sobre ele sete tempos; ^v23
+**23** Tu, rei, viste um santo mensageiro que desceu do céu e disse: 'Cortai a árvore e a destruí, mas deixai o tronco e suas raízes na terra, cercai-a com cinta de ferro e bronze, no meio da grama verde do campo. Que seja molhada com o orvalho dos céus. Que ela viva com os animais selvagens no campo até que sete anos se passem'. ^v23
 
-**24** Esta é a interpretação, ó rei; e este é o decreto do Altíssimo, que virá sobre o rei, meu senhor: ^v24
+**24** Esta é a interpretação, rei. Este é o decreto do Altíssimo que te alcançou, ó rei e meu senhor. ^v24
 
-**25** Serás tirado dentre os homens, e a tua morada será com os animais do campo, e te farão comer erva como os bois, e serás molhado do orvalho do céu; e passar-se-ão sete tempos por cima de ti; até que conheças que o Altíssimo tem domínio sobre o reino dos homens, e o dá a quem quer. ^v25
+**25** Tu serás expulso do meio dos homens e viverás com os animais do campo; comerás grama como um boi e serás molhado com o orvalho dos céus. Sete anos se passarão até que tu saibas que o Altíssimo governa sobre os reinos dos povos e Ele os dá a quem quiser. ^v25
 
-**26** E quanto ao que foi falado, que deixassem o tronco com as raízes da árvore, o teu reino voltará para ti, depois que tiveres conhecido que o céu reina. ^v26
+**26** Como foi ordenado que fossem deixados o tronco e as raízes da árvore, da mesma forma, o teu reino será devolvido a ti a partir do momento em que tu aprenderes que é o céu que governa. ^v26
 
-**27** Portanto, ó rei, aceita o meu conselho, e põe fim aos teus pecados, praticando a justiça, e às tuas iniqüidades, usando de misericórdia com os pobres, pois, talvez se prolongue a tua tranqüilidade. ^v27
+**27** "Portanto, ó rei, aceita o meu conselho: deixa de pecar e faz o que é certo. Afasta-te de tuas iniquidades e mostra misericórdia ao oprimido. Talvez, assim, a tua prosperidade seja prolongada""." ^v27
 
-**28** Todas estas coisas vieram sobre o rei Nabucodonosor. ^v28
+**28** Todas essas coisas aconteceram ao rei Nabucodonosor. ^v28
 
-**29** Ao fim de doze meses, quando passeava no palácio real de babilônia, ^v29
+**29** Doze meses depois, ele estava caminhando no palácio real, na Babilônia, ^v29
 
-**30** Falou o rei, dizendo: Não é esta a grande babilônia que eu edifiquei para a casa real, com a força do meu poder, e para glória da minha magnificência? ^v30
+**30** "e disse: ""Esta não é a grande Babilônia que eu construí para ser minha residência real, para a glória da minha majestade?""." ^v30
 
-**31** Ainda estava a palavra na boca do rei, quando caiu uma voz do céu: A ti se diz, ó rei Nabucodonosor: Passou de ti o reino. ^v31
+**31** "Enquanto o rei ainda estava dizendo isso, uma voz veio do céu: ""rei Nabucodonosor, foi decretado que este reino foi tirado de ti." ^v31
 
-**32** E serás tirado dentre os homens, e a tua morada será com os animais do campo; far-te-ão comer erva como os bois, e passar-se-ão sete tempos sobre ti, até que conheças que o Altíssimo domina sobre o reino dos homens, e o dá a quem quer. ^v32
+**32** "Tu serás afastado das pessoas e o seu lar será com os animais do campo. Tu comerás grama como o boi. Sete anos se passarão até reconheceres que o Altíssimo governa sobre os reinos dos povos, e os dá a quem Ele deseja""." ^v32
 
-**33** Na mesma hora se cumpriu a palavra sobre Nabucodonosor, e foi tirado dentre os homens, e comia erva como os bois, e o seu corpo foi molhado do orvalho do céu, até que lhe cresceu pêlo, como as penas da águia, e as suas unhas como as das aves. ^v33
+**33** Este decreto contra Nabucodonosor se cumpriu imediatamente. Ele foi expulso do meio do povo, comeu grama como boi e o seu corpo foi molhado com o orvalho dos céus. O seu cabelo cresceu como as penas das águias e as suas unhas, como as das aves. ^v33
 
-**34** Mas ao fim daqueles dias eu, Nabucodonosor, levantei os meus olhos ao céu, e tornou-me a vir o entendimento, e eu bendisse o Altíssimo, e louvei e glorifiquei ao que vive para sempre, cujo domínio é um domínio sempiterno, e cujo reino é de geração em geração. ^v34
+**34** """Ao fim dos dias, eu, Nabucodonosor, levantei meus olhos para o céu e a minha sanidade voltou a mim. Eu louvei ao Altíssimo, honrei e glorifiquei Àquele que vive para sempre, pois Seu reinado é um reinado eterno. O Seu reino dura de geração em geração." ^v34
 
-**35** E todos os moradores da terra são reputados em nada, e segundo a sua vontade ele opera com o exército do céu e os moradores da terra; não há quem possa estorvar a sua mão, e lhe diga: Que fazes? ^v35
+**35** Para Ele, todos os habitantes da terra são considerados como nada; Ele faz o que Lhe apraz entre os exércitos do céu e os habitantes da terra. Ninguém pode pará-Lo, nem desafiá-Lo. Ninguém pode dizer-Lhe: 'Por que Tu fizeste isso?'. ^v35
 
-**36** No mesmo tempo tornou a mim o meu entendimento, e para a dignidade do meu reino tornou-me a vir a minha majestade e o meu resplendor; e buscaram-me os meus conselheiros e os meus senhores; e fui restabelecido no meu reino, e a minha glória foi aumentada. ^v36
+**36** No mesmo momento em que a minha sanidade retornou, minha majestade e o meu esplendor me foram devolvidos para a glória do meu reino. Os meus conselheiros e os meus nobres solicitaram o meu favor. Fui colocado de volta no meu trono e ainda mais grandeza me foi dada. ^v36
 
-**37** Agora, pois, eu, Nabucodonosor, louvo, exalço e glorifico ao Rei do céu; porque todas as suas obras são verdade, e os seus caminhos juízo, e pode humilhar aos que andam na soberba. ^v37
+**37** "Agora eu, Nabucodonosor, louvo, exalto e honro ao Rei do céu, porque todas as Suas obras são retas e Seus caminhos são justos. Ele pode humilhar aqueles que andam em orgulho""." ^v37

@@ -1,19 +1,18 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Isaías|Isaías]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Isaías|Isaías]]"
+tags: [biblia]
 ---
 
 # Isaías 20
 
-**1** No ano em que Tartã, enviado por Sargom, rei da Assíria, veio a Asdode, e guerreou contra ela, e a tomou, ^v1
+**1** No ano em que Tartã, enviado por Sargão, rei da Assíria, veio a Asdode, ele a atacou e a tomou. ^v1
 
-**2** Nesse mesmo tempo falou o Senhor por intermédio de Isaías, filho de Amós, dizendo: Vai, solta o cilício de teus lombos, e descalça os sapatos dos teus pés. E ele assim o fez, indo nu e descalço. ^v2
+**2** "Nessa mesma ocasião, Yahweh falou por meio de Isaías, filho de Amoz, dizendo: ""Vai e tira a veste de saco da tua cintura, e também as sandálias dos teus pés"". Assim ele fez, passando a caminhar descalço e nu." ^v2
 
-**3** Então disse o Senhor: Assim como o meu servo Isaías andou três anos nu e descalço, por sinal e prodígio sobre o Egito e sobre a Etiópia, ^v3
+**3** "Yahweh disse: ""Assim como o Meu servo Isaías caminhou nu e descalço por três anos, este é um sinal e um presságio contra o Egito e contra a Etiópia," ^v3
 
-**4** Assim o rei da Assíria levará em cativeiro os presos do Egito, e os exilados da Etiópia, tanto moços como velhos, nus e descalços, e com as nádegas descobertas, para vergonha do Egito. ^v4
+**4** desta mesma forma, o rei da Assíria conduzirá os prisioneiros do Egito e os exilados da Etiópia — jovens e idosos — nus e descalços, com as nádegas descobertas, para a vergonha do Egito. ^v4
 
-**5** E assombrar-se-ão, e envergonhar-se-ão, por causa dos etíopes, sua esperança, como também dos egípcios, sua glória. ^v5
+**5** Eles ficarão aterrorizados e envergonhados pela Etiópia, sua esperança, e pelo Egito, sua glória. ^v5
 
-**6** Então os moradores desta ilha dirão naquele dia: Vede que tal é a nossa esperança, à qual fugimos por socorro, para nos livrarmos da face do rei da Assíria! Como pois escaparemos nós? ^v6
+**6** "Naquele dia, os que habitam na região costeira dirão: 'Vede o que aconteceu com a nossa fonte de esperança, a quem pedimos ajuda para sermos resgatados do reino da Assíria. E agora, como poderemos escapar?'""" ^v6

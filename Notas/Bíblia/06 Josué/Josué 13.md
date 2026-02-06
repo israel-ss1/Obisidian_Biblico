@@ -1,73 +1,72 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Josué|Josué]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Josué|Josué]]"
+tags: [biblia]
 ---
 
 # Josué 13
 
-**1** Era, porém, Josué já velho, entrado em dias; e disse-lhe o SENHOR: Já estás velho, entrado em dias; e ainda muitíssima terra ficou para possuir. ^v1
+**1** "Josué estava bem idoso quando Yahweh lhe disse: ""Tu estás bem idoso, mas ainda há muitas terras para conquistar." ^v1
 
-**2** A terra que ainda fica é esta: Todos os termos dos filisteus e toda a Gesur; ^v2
+**2** Esta é a terra que ainda resta: todas as regiões dos filisteus e todas as dos gesureus; ^v2
 
-**3** Desde Sior, que está em frente ao Egito, até ao termo de Ecrom para o norte, que se diz ser dos cananeus; cinco príncipes dos filisteus; o gazeu, e o asdodeu, o asqueloneu, o giteu, e o ecroneu, e os aveus; ^v3
+**3** desde Sior, que está ao leste do Egito, e ao norte até a fronteira de Ecrom, que é considerada propriedade dos cananeus; os cinco governantes filisteus: o de Gaza, o de Asdode, o de Asquelom, o de Gate e o de Ecrom — o território dos aveus. ^v3
 
-**4** Desde o sul, toda a terra dos cananeus, e Meara, que é dos sidônios; até Afeca, até ao termo dos amorreus; ^v4
+**4** No sul, ainda restam todas as terras dos cananeus, desde Meara, pertencente aos sidônios, até Afeca, na fronteira dos amorreus; ^v4
 
-**5** Como também a terra dos gebalitas, e todo o Líbano, para o nascente do sol, desde Baal-Gade, ao pé do monte Hermom, até a entrada de Hamate; ^v5
+**5** bem como a terra dos gebalitas e todo o Líbano; no leste, desde Baal-Gade, ao pé do monte Hermom até Lebo-Hamate; ^v5
 
-**6** Todos os que habitam nas montanhas desde o Líbano até Misrefote-Maim, todos os sidônios; eu os lançarei de diante dos filhos de Israel; tão-somente reparte a terra em herança a Israel, como já te mandei. ^v6
+**6** também, todos os habitantes das regiões montanhosas desde o Líbano até Misrefote-Maim, incluindo todo o povo de Sidom. Eu os expulsarei diante do exército de Israel. Certifica-te de distribuir a terra a Israel, como uma herança, como te ordenei. ^v6
 
-**7** Reparte, pois, agora esta terra por herança às nove tribos, e à meia tribo de Manassés, ^v7
+**7** "Distribui esta terra como herança às nove tribos e à meia tribo de Manassés""." ^v7
 
-**8** Com a qual os rubenitas e os gaditas já receberam a sua herança, além do Jordão para o oriente, assim como já lhes tinha dado Moisés, servo do Senhor. ^v8
+**8** Com a outra meia tribo de Manassés, os rubenitas e os gaditas já haviam recebido sua herança que Moisés dera a eles, no lado leste do Jordão, ^v8
 
-**9** Desde Aroer, que está à beira do ribeiro de Arnom, e a cidade que está no meio do vale, e toda a campina de Medeba até Dibom; ^v9
+**9** desde Aroer, que está à borda do vale do rio Arnom (incluindo a cidade que está no meio do vale), e todo o planalto de Medeba até Dibom; ^v9
 
-**10** E todas as cidades de Siom, rei dos amorreus, que reinou em Hesbom, até ao termo dos filhos de Amom; ^v10
+**10** todas as cidades de Siom, rei dos amorreus, que reinou em Hesbom, até a fronteira dos amonitas; ^v10
 
-**11** E Gileade, e o termo dos gesureus, e dos maacateus, e todo o monte Hermom, e toda a Basã até Salcá; ^v11
+**11** e Gileade, a região dos gesureus e maacateus, todo o monte Hermom, toda a Basã até Salca; ^v11
 
-**12** Todo o reino de Ogue em Basã, que reinou em Astarote e em Edrei; este ficou do restante dos gigantes que Moisés feriu e expulsou. ^v12
+**12** todo o reino de Ogue, em Basã, que reinou em Astarote e Edrei — esses são os que restaram dos refains — que Moisés derrotou e expulsou. ^v12
 
-**13** Porém os filhos de Israel não expulsaram os gesureus, nem os maacateus; antes Gesur e Maacate ficaram habitando no meio de Israel até ao dia de hoje. ^v13
+**13** Mas o povo de Israel não expulsou os gesureus nem os maacateus. Ao invés disso, eles vivem no meio de Israel até o dia de hoje. ^v13
 
-**14** Tão-somente à tribo de Levi não deu herança; os sacrifícios queimados do Senhor Deus de Israel são a sua herança, como já lhe tinha falado. ^v14
+**14** Somente à tribo de Levi que Moisés não deu herança. As ofertas queimadas para Yahweh, o Deus de Israel, são a sua herança, como Deus dissera a Moisés. ^v14
 
-**15** Assim Moisés deu à tribo dos filhos de Rúben, conforme as suas famílias. ^v15
+**15** Moisés deu uma herança à tribo de Rúben, conforme os seus clãs. ^v15
 
-**16** E foi o seu limite desde Aroer, que está à beira do ribeiro de Arnom, e a cidade que está no meio do vale, e toda a campina até Medeba; ^v16
+**16** O território deles incluía desde Aroer, que está à beira do rio Arnom, a cidade que está no meio do vale, e todo o planalto até Medeba; ^v16
 
-**17** Hesbom e todas as suas cidades, que estão na campina; Dibom, e Bamote-Baal, e Bete-Baal-Meom; ^v17
+**17** Rúben também recebeu Hesbom, e todas as cidades que estão no planalto: Dibom, Bamote-Baal, Bete-Baal-Meom, ^v17
 
-**18** E Jasa e Quedemote, e Mefaate; ^v18
+**18** Jaza, Quedemote, Mefaate, ^v18
 
-**19** E Quiriataim e Sibma, e Zerete-Saar, no monte do vale; ^v19
+**19** Quiriataim, Sibma e Zerete-Saar, no monte do vale; ^v19
 
-**20** Bete-Peor, e Asdote-Pisga, Bete-Jesimote; ^v20
+**20** Rúben recebeu, também, Bete-Peor, as encostas do monte Pisga e Bete-Jesimote; ^v20
 
-**21** E todas as cidades da campina, e todo o reino de Siom, rei dos amorreus, que reinou em Hesbom, a quem Moisés feriu, como também aos príncipes de Midiã, Evi, e Requém, e Zur, e Hur, e Reba, príncipes de Siom, moradores da terra. ^v21
+**21** todas as cidades do planalto e todo o reino de Siom, rei dos amorreus, que reinou em Hesbom, o qual Moisés havia derrotado juntamente com os líderes de Midiã, Evi, Requém, Zur, Hur e Reba, líderes de Siom, que haviam habitado na terra. ^v21
 
-**22** Também os filhos de Israel mataram à espada a Balaão, filho de Beor, o adivinho, com os outros que por eles foram mortos. ^v22
+**22** O povo de Israel também matou, com espada, Balaão, filho de Beor, que praticava adivinhações, dentre aqueles que eles haviam matado. ^v22
 
-**23** E o termo dos filhos de Rúben ficou sendo o Jordão e os seus limites; esta foi a herança dos filhos de Rúben, segundo as suas famílias, as cidades, e as suas aldeias. ^v23
+**23** A fronteira da tribo de Rúben é o rio Jordão. Essa foi a herança da tribo de Rúben, dada a cada família, incluindo suas cidades e povoados. ^v23
 
-**24** E deu Moisés à tribo de Gade, aos filhos de Gade, segundo as suas famílias. ^v24
+**24** Moisés deu como herança à tribo de Gade, segundo os seus clãs: ^v24
 
-**25** E foi o seu termo Jazer, e todas as cidades de Gileade, e metade da terra dos filhos de Amom, até Aroer, que está em frente de Rabá. ^v25
+**25** o território de Jazer, todas as cidades de Gileade, incluindo a metade da terra dos amonitas, até Aroer, que está ao leste de Rabá; ^v25
 
-**26** E desde Hesbom até Ramate-Mizpá e Betonim, e desde Maanaim até ao termo de Debir; ^v26
+**26** desde Hesbom até Ramá-Mispá e Betonim, desde Maanaim até a região de Debir. ^v26
 
-**27** E no vale Bete-Arã, e Bete-Nimra, e Sucote, Zafom, que ficara do restante do reino de Siom, em Hesbom, o Jordão e o seu termo, até a extremidade do mar de Quinerete além do Jordão para o oriente. ^v27
+**27** Ainda, no vale, Moisés lhes deu Bete-Arã, Bete-Ninra, Sucote e Zafom, o restante do reinado de Siom, rei de Hesbom, tendo o rio Jordão como fronteira, até a extremidade do mar de Quinerete, do lado oriental do Jordão. ^v27
 
-**28** Esta é a herança dos filhos de Gade segundo as suas famílias, as cidades e as suas aldeias. ^v28
+**28** Essa foi a herança da tribo de Gade, segundo seus clãs, incluindo suas cidades e povoados. ^v28
 
-**29** Deu também Moisés herança à meia tribo de Manassés; e deu à meia tribo dos filhos de Manassés, segundo as suas famílias. ^v29
+**29** À meia-tribo de Manassés, Moisés deu uma herança distribuída segundo seus clãs. ^v29
 
-**30** De maneira que o seu termo foi desde Maanaim, todo o Basã, todo o reino de Ogue, rei de Basã, e todas as aldeias de Jair, que estão em Basã, sessenta cidades, ^v30
+**30** O território dela incluía desde Maanaim, toda a Basã, todo o reino de Ogue, rei de Basã, e todos os povoados de Jair, que estão em Basã, sessenta ao todo; ^v30
 
-**31** E metade de Gileade, e Astarote, e Edrei, cidades do reino de Ogue em Basã, deu aos filhos de Maquir, filho de Manassés, a saber, à metade dos filhos de Maquir, segundo as suas famílias. ^v31
+**31** e a metade de Gileade, Astarote e Edrei (cidades do reino de Ogue, em Basã). Essa foi a herança repartida às famílias dos descendentes de Maquir, filho de Manassés, isto é, à metade do povo de Maquir. ^v31
 
-**32** Isto é o que Moisés repartiu em herança nas campinas de Moabe, além do Jordão para o oriente de Jericó. ^v32
+**32** Essa foi a herança que Moisés distribuiu nas planícies de Moabe, além do Jordão, ao leste de Jericó. ^v32
 
-**33** Porém, à tribo de Levi, Moisés não deu herança; o Senhor Deus de Israel é a sua herança, como já lhe tinha falado. ^v33
+**33** Moisés não deu nenhuma herança para a tribo de Levi. Yahweh, o Deus de Israel, é a sua herança, como já lhes havia dito. ^v33

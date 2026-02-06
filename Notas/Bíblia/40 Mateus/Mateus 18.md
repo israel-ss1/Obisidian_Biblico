@@ -1,77 +1,76 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Mateus|Mateus]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Mateus|Mateus]]"
+tags: [biblia]
 ---
 
 # Mateus 18
 
-**1** Naquela mesma hora chegaram os discípulos ao pé de Jesus, dizendo: Quem é o maior no reino dos céus? ^v1
+**1** "Naquele mesmo tempo, os discípulos vieram a Jesus e perguntaram: ""Quem é o maior no Reino dos Céus?""" ^v1
 
-**2** E Jesus, chamando um menino, o pôs no meio deles, ^v2
+**2** Jesus chamou para si uma criança, colocou-a entre eles ^v2
 
-**3** E disse: Em verdade vos digo que, se não vos converterdes e não vos fizerdes como meninos, de modo algum entrareis no reino dos céus. ^v3
+**3** "e disse: ""Verdadeiramente eu vos digo que, a menos que vos convertais e vos torneis como criança, de modo algum entrareis no Reino dos Céus." ^v3
 
-**4** Portanto, aquele que se tornar humilde como este menino, esse é o maior no reino dos céus. ^v4
+**4** Portanto aquele que se humilhar como esta criança é o maior no Reino dos Céus. ^v4
 
-**5** E qualquer que receber em meu nome um menino, tal como este, a mim me recebe. ^v5
+**5** E aquele que receber uma destas crianças em meu nome, a mim me recebe. ^v5
 
-**6** Mas, qualquer que escandalizar um destes pequeninos, que crêem em mim, melhor lhe fora que se lhe pendurasse ao pescoço uma mó de azenha, e se submergisse na profundeza do mar. ^v6
+**6** Mas aquele que levar a pecar um destes pequeninos que acreditam em mim, melhor seria que uma grande pedra de moinho fosse pendurada em seu pescoço e fosse afundado até as profundezas do mar. ^v6
 
-**7** Ai do mundo, por causa dos escândalos; porque é mister que venham escândalos, mas ai daquele homem por quem o escândalo vem! ^v7
+**7** Ai do mundo por causa dos que fazem tropeçar! É necessário que venham os tropeços, mas ai da pessoa pela qual vem o tropeço! ^v7
 
-**8** Portanto, se a tua mão ou o teu pé te escandalizar, corta-o, e atira-o para longe de ti; melhor te é entrar na vida coxo, ou aleijado, do que, tendo duas mãos ou dois pés, seres lançado no fogo eterno. ^v8
+**8** Se tua mão ou teu pé te faz tropeçar, corta-o e atira-o longe de ti. É melhor para ti entrares na vida manco ou aleijado, do que seres atirado no fogo eterno tendo as duas mãos ou os dois pés. ^v8
 
-**9** E, se o teu olho te escandalizar, arranca-o, e atira-o para longe de ti; melhor te é entrar na vida com um só olho, do que, tendo dois olhos, seres lançado no fogo do inferno. ^v9
+**9** Se o teu olho te leva a tropeçar, arranca-o e atira-o longe de ti. É melhor para ti entrares na vida com um olho do que seres atirado no fogo eterno tendo os dois olhos. ^v9
 
-**10** Vede, não desprezeis algum destes pequeninos, porque eu vos digo que os seus anjos nos céus sempre vêem a face de meu Pai que está nos céus. ^v10
+**10** Vede que não desprezeis nenhum destes pequeninos. Pois Eu vos digo que os seus anjos nos céus vêem continuamente a face de meu Pai que está nos céus. ^v10
 
-**11** Porque o Filho do homem veio salvar o que se tinha perdido. ^v11
+**11** "[As cópias mais antigas omitem a frase que aparece como v.11 ""Pois o Filho do Homem veio salvar o que estava perdido.""]" ^v11
 
-**12** Que vos parece? Se algum homem tiver cem ovelhas, e uma delas se desgarrar, não irá pelos montes, deixando as noventa e nove, em busca da que se desgarrou? ^v12
+**12** O que pensais? Se alguém tiver cem ovelhas, e uma dessas se extraviar, não deixa as noventa e nove sobre a colina, e parte seguindo aquela que se extraviou? ^v12
 
-**13** E, se porventura achá-la, em verdade vos digo que maior prazer tem por aquela do que pelas noventa e nove que se não desgarraram. ^v13
+**13** Verdadeiramente vos digo que, se ele a encontra, alegra-se mais por esta do que pelas noventa e nove que não se desviaram. ^v13
 
-**14** Assim, também, não é vontade de vosso Pai, que está nos céus, que um destes pequeninos se perca. ^v14
+**14** Do mesmo modo, não é o desejo de vosso Pai celeste que pereça um destes pequeninos. ^v14
 
-**15** Ora, se teu irmão pecar contra ti, vai, e repreende-o entre ti e ele só; se te ouvir, ganhaste a teu irmão; ^v15
+**15** Se teu irmão pecar [contra ti], vai, dize-lhe sobre sua falta, entre ti e ele somente. Se ele te ouvir, terás ganhado o teu irmão. ^v15
 
-**16** Mas, se não te ouvir, leva ainda contigo um ou dois, para que pela boca de duas ou três testemunhas toda a palavra seja confirmada. ^v16
+**16** Mas, se ele não te ouvir, traz contigo mais uma ou duas pessoas e, então, pela boca de duas ou três testemunhas toda palavra será confirmada. ^v16
 
-**17** E, se não as escutar, dize-o à igreja; e, se também não escutar a igreja, considera-o como um gentio e publicano. ^v17
+**17** Porém, se ele se recusar a ouvi-lo, dize-o à igreja. Se ele também se recusar a ouvir a igreja, considera-o como um gentio e coletor de impostos. ^v17
 
-**18** Em verdade vos digo que tudo o que ligardes na terra será ligado no céu, e tudo o que desligardes na terra será desligado no céu. ^v18
+**18** Verdadeiramente eu vos digo: tudo que ligardes na terra será ligado no céu; e tudo que desligardes na terra será desligado no céu. ^v18
 
-**19** Também vos digo que, se dois de vós concordarem na terra acerca de qualquer coisa que pedirem, isso lhes será feito por meu Pai, que está nos céus. ^v19
+**19** Além disso, eu vos digo que, se dois concordarem na terra sobre qualquer coisa que pedirem, isso será feito em favor deles por meu Pai, que está nos céus. ^v19
 
-**20** Porque, onde estiverem dois ou três reunidos em meu nome, aí estou eu no meio deles. ^v20
+**20** "Pois onde há dois ou três reunidos em meu nome, ali estou no meio deles""." ^v20
 
-**21** Então Pedro, aproximando-se dele, disse: Senhor, até quantas vezes pecará meu irmão contra mim, e eu lhe perdoarei? Até sete? ^v21
+**21** "Então Pedro veio e disse a Jesus: ""Senhor, quantas vezes meu irmão pecará contra mim e eu lhe perdoarei? Até sete vezes?""" ^v21
 
-**22** Jesus lhe disse: Não te digo que até sete; mas, até setenta vezes sete. ^v22
+**22** "Jesus respondeu: ""Não apenas sete vezes, mas até setenta vezes sete." ^v22
 
-**23** Por isso o reino dos céus pode comparar-se a um certo rei que quis fazer contas com os seus servos; ^v23
+**23** Portanto o reino dos céus é similar a certo rei que queria acertar as contas com seus servos. ^v23
 
-**24** E, começando a fazer contas, foi-lhe apresentado um que lhe devia dez mil talentos; ^v24
+**24** Assim que ele começou o acerto, foi-lhe trazido um servo que devia dez mil talentos. ^v24
 
-**25** E, não tendo ele com que pagar, o seu senhor mandou que ele, e sua mulher e seus filhos fossem vendidos, com tudo quanto tinha, para que a dívida se lhe pagasse. ^v25
+**25** Mas, uma vez que ele não tinha os meios para pagar, seu senhor ordenou que ele fosse vendido juntamente com a esposa e os filhos e tudo o que ele tinha, e o pagamento fosse feito. ^v25
 
-**26** Então aquele servo, prostrando-se, o reverenciava, dizendo: Senhor, sê generoso para comigo, e tudo te pagarei. ^v26
+**26** Então o servo caiu prostrado diante dele e disse: 'Senhor, tem paciência comigo, e eu te pagarei tudo'. ^v26
 
-**27** Então o Senhor daquele servo, movido de íntima compaixão, soltou-o e perdoou-lhe a dívida. ^v27
+**27** Então o senhor daquele servo, movido de compaixão, livrou-o e perdoou-lhe a dívida. ^v27
 
-**28** Saindo, porém, aquele servo, encontrou um dos seus conservos, que lhe devia cem dinheiros, e, lançando mão dele, sufocava-o, dizendo: Paga-me o que me deves. ^v28
+**28** Mas aquele servo saiu e encontrou um de seus conservos que lhe devia cem denários. Ele agarrou-o, pegou-o pela garganta, e disse: 'Paga-me o que me deves'. ^v28
 
-**29** Então o seu companheiro, prostrando-se a seus pés, rogava-lhe, dizendo: Sê generoso para comigo, e tudo te pagarei. ^v29
+**29** Mas seu conservo caiu e implorou-lhe, dizendo: 'Tem paciência comigo, e eu te pagarei'. ^v29
 
-**30** Ele, porém, não quis, antes foi encerrá-lo na prisão, até que pagasse a dívida. ^v30
+**30** Mas o primeiro servo se recusou a perdoar-lhe. Em vez disso, ele atirou-o na prisão, até que lhe pagasse tudo o que devia. ^v30
 
-**31** Vendo, pois, os seus conservos o que acontecia, contristaram-se muito, e foram declarar ao seu senhor tudo o que se passara. ^v31
+**31** Quando seus conservos viram tudo o que tinha acontecido, ficaram muito desapontados, foram e contaram ao seu senhor tudo o que tinha acontecido. ^v31
 
-**32** Então o seu senhor, chamando-o à sua presença, disse-lhe: Servo malvado, perdoei-te toda aquela dívida, porque me suplicaste. ^v32
+**32** Então o senhor daquele servo o chamou e disse-lhe: 'Servo mau, perdoei-te toda aquela dívida porque me imploraste. ^v32
 
-**33** Não devias tu, igualmente, ter compaixão do teu companheiro, como eu também tive misericórdia de ti? ^v33
+**33** Não devias tu ter tido misericórdia do teu conservo, assim como eu tive misericórdia de ti?' ^v33
 
-**34** E, indignado, o seu senhor o entregou aos atormentadores, até que pagasse tudo o que lhe devia. ^v34
+**34** Seu senhor enfureceu-se e entregou-o aos torturadores até que ele pagasse tudo aquilo que era devido. ^v34
 
-**35** Assim vos fará, também, meu Pai celestial, se do coração não perdoardes, cada um a seu irmão, as suas ofensas. ^v35
+**35** "Assim também meu Pai celeste vos fará, se cada um de vós não perdoar, de coração, ao seu irmão""." ^v35

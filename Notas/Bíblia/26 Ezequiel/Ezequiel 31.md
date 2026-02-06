@@ -1,43 +1,42 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Ezequiel|Ezequiel]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Ezequiel|Ezequiel]]"
+tags: [biblia]
 ---
 
 # Ezequiel 31
 
-**1** E sucedeu, no ano undécimo, no terceiro mês, ao primeiro do mês, que veio a mim a palavra do SENHOR, dizendo: ^v1
+**1** Sucedeu acerca disto que, no décimo primeiro ano, no terceiro mês, no primeiro dia do mês, veio a mim a palavra de Yahweh, dizendo: ^v1
 
-**2** Filho do homem, dize a Faraó, rei do Egito, e à sua multidão: A quem és semelhante na tua grandeza? ^v2
+**2** """Filho do homem, dize ao Faraó, o rei do Egito, e à multidão em sua volta: 'Quem é semelhante a ti em sua grandeza?" ^v2
 
-**3** Eis que a Assíria era um cedro no Líbano, de ramos formosos, de sombrosa ramagem e de alta estatura, e a sua copa estava entre os ramos espessos. ^v3
+**3** Eis que a Assíria era um cedro no Líbano, com ramos formosos, de sombrosa folhagem, de alta estatura, com seus ramos expessos. ^v3
 
-**4** As águas o fizeram crescer, o abismo o exalçou; as suas correntes corriam em torno da sua plantação, e ele enviava os regatos a todas as árvores do campo. ^v4
+**4** Muitas águas o fizeram crescer; as profundezas das águas o fez crescer; rios corriam nesta área e os seus canais eram estendidos para todas árvores do campo. ^v4
 
-**5** Por isso se elevou a sua estatura sobre todas as árvores do campo, e se multiplicaram os seus ramos, e se alongaram as suas varas, por causa das muitas águas quando brotava. ^v5
+**5** Era mais alta que qualquer outras árvores do campo e se multiplicaram os seus ramos e as suas varas se alongaram por causa das muitas águas em suas raízes. ^v5
 
-**6** Todas as aves do céu se aninhavam nos seus ramos, e todos os animais do campo geravam debaixo dos seus ramos, e todas as grandes nações habitavam à sua sombra. ^v6
+**6** Todas as aves do céu se aninhavam nos seus ramos, todos os animais do campo davam cria debaixo das suas folhagens. E as nações se assentavam à sua sombra. ^v6
 
-**7** Assim era ele formoso na sua grandeza, na extensão dos seus ramos, porque a sua raiz estava junto às muitas águas. ^v7
+**7** Era formosa na sua grandeza e na extensão dos seus ramos e, nas muitas águas, estavam as suas raízes. ^v7
 
-**8** Os cedros, no jardim de Deus, não o podiam obscurecer; as faias não igualavam os seus ramos, e os castanheiros não eram como os seus renovos; nenhuma árvore no jardim de Deus se assemelhou a ele na sua formosura. ^v8
+**8** Os cedros no jardim de Deus não se igualavam a ele. Nenhuma árvore de cipreste se assemelhava aos seus ramos, plátanos não se comparavam aos seus galhos. Não havia outra árvore no jardim de Deus como esta em sua formosura. ^v8
 
-**9** Formoso o fiz com a multidão dos seus ramos; e todas as árvores do Éden, que estavam no jardim de Deus, tiveram inveja dele. ^v9
+**9** Eu o fiz formoso com a multidão de ramos; e todas árvores do Éden, que estavam no jardim de Deus, tiveram inveja dele. ^v9
 
-**10** Portanto assim diz o Senhor DEUS: Porquanto te elevaste na tua estatura, e se levantou a sua copa no meio dos espessos ramos, e o seu coração se exalçou na sua altura, ^v10
+**10** Portanto, assim diz Yahweh Deus: Porque te elevaste em tua estatura, te levantaste no teu topo entre seus ramos e exaltaste teu coração por causa da tua altura. ^v10
 
-**11** Eu o entregarei na mão do mais poderoso dos gentios, que lhe dará o tratamento merecido; pela sua impiedade o lançarei fora. ^v11
+**11** Eu te entreguei na mão da mais poderosa das nações, que te dará o tratamento merecido pela tua corrupção. Já te lançei fora. ^v11
 
-**12** E estrangeiros, das mais terríveis nações o cortarão, e deixá-lo-ão; cairão os seus ramos sobre os montes e por todos os vales, e os seus renovos serão quebrados por todos os rios da terra; e todos os povos da terra se retirarão da sua sombra, e o deixarão. ^v12
+**12** Estrangeiros, que eram terror de todas as nações, te cortaram e te deixaram morrer. Os teus ramos caíram sobre os montes e em todos os vales; os teus renovos foram quebrados por todas as correntes da terra. Então, todas as nações da Terra se retiraram debaixo das tuas sombras e te deixaram. ^v12
 
-**13** Todas as aves do céu habitarão sobre a sua ruína, e todos os animais do campo se acolherão sob os seus renovos; ^v13
+**13** Todas as aves do céu pousavam no tronco da árvore caída e todos os animais do campo se vieram sobre os seus ramos. ^v13
 
-**14** Para que todas as árvores junto às águas não se exaltem na sua estatura, nem levantem a sua copa no meio dos ramos espessos, nem as que bebem as águas venham a confiar em si, por causa da sua altura; porque todos estão entregues à morte, até à terra mais baixa, no meio dos filhos dos homens, com os que descem à cova. ^v14
+**14** Isso aconteceu para que nenhuma outra árvore que crescesse junto às águas, se exaltasse pelas suas folhagens ou por sua altura, para que nenhuma outra árvore que cresce junto às águas crescesse até o alto. Pois todas elas estão destinadas à morte abaixo da terra, no meio dos filhos dos homens, com os que descem à cova. ^v14
 
-**15** Assim diz o Senhor DEUS: No dia em que ele desceu ao inferno, fiz eu que houvesse luto; fiz cobrir o abismo, por sua causa, e retive as suas correntes, e detiveram-se as muitas águas; e cobri o Líbano de preto por causa dele, e todas as árvores do campo por causa dele desfaleceram. ^v15
+**15** Assim diz Yahweh Deus: No dia em que o cedro desceu para o Sheol, Eu trouxe luto para a terra, cobrí as suas águas profundas e retive as águas do oceano. Retive as águas profundas e fiz aparecer luto para o Líbano, por causa dele. E todas as árvores do campo desfaleceram por causa dele. ^v15
 
-**16** Ao som da sua queda fiz tremer as nações, quando o fiz descer ao inferno, com os que descem à cova; e todas as árvores do Éden, a flor e o melhor do Líbano, todas as árvores que bebem águas, se consolavam nas partes mais baixas da terra. ^v16
+**16** Eu trouxe tremor para as nações ao som da sua queda, quando o fiz descer ao inferno, com aqueles que descem à cova. Eu consolei todas as árvores do Éden e o melhor do Líbano, todas as árvores que beberam as águas, dos lugares mais baixos da terra. ^v16
 
-**17** Também estes com ele descerão ao inferno a juntar-se aos que foram traspassados à espada, sim, aos que foram seu braço, e que habitavam à sombra no meio dos gentios. ^v17
+**17** Pois elas também desceram com o cedro para o Sheol, para se unir aos que foram mortos pela espada. Estes foram seu braço forte, as nações que viviam às suas sombras. ^v17
 
-**18** A quem, pois, és semelhante em glória e em grandeza entre as árvores do Éden? Todavia serás precipitado com as árvores do Éden às partes mais baixas da terra; no meio dos incircuncisos jazerás com os que foram traspassados à espada; este é Faraó e toda a sua multidão, diz o Senhor DEUS. ^v18
+**18** "Qual das árvores do Éden que era semelhante a ti em glória e em grandeza? Também tu serás derrubada com as árvores do Éden nas mais baixas partes da terra; no meio dos incircuncisos, morarás com aqueles que foram mortos pela espada'. Este é Faraó e toda sua multidão — essa é a declaração de Yahweh Deus""." ^v18

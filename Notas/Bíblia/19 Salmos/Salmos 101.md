@@ -1,23 +1,20 @@
 ---
-Livro: "[[Salmos|Salmos]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Salmos|Salmos]]"
+tags: [biblia]
 ---
 
 # Salmos 101
 
-**1** Cantarei a misericórdia e o juízo; a ti, SENHOR, cantarei. ^v1
+**2** Eu andarei no caminho da integridade. Oh, quando Tu virás a mim? Andarei em minha casa com integridade de coração. ^v2
 
-**2** Portar-me-ei com inteligência no caminho reto. Quando virás a mim? Andarei em minha casa com um coração sincero. ^v2
+**3** Eu não colocarei transgressão diante dos meus olhos; odeio a conduta daqueles que se desviam; isso não se apegará a mim. ^v3
 
-**3** Não porei coisa má diante dos meus olhos. Odeio a obra daqueles que se desviam; não se me pegará a mim. ^v3
+**4** Longe de mim o perverso de coração; não me envolverei com o mal. ^v4
 
-**4** Um coração perverso se apartará de mim; não conhecerei o homem mau. ^v4
+**5** Eu calarei aquele que calunia seu vizinho secretamente. Não vou tolerar ninguém que tenha um comportamento orgulhoso e uma atitude arrogante. ^v5
 
-**5** Aquele que murmura do seu próximo às escondidas, eu o destruirei; aquele que tem olhar altivo e coração soberbo, não suportarei. ^v5
+**6** Meus olhos estarão sobre os fiéis da terra para que habitem comigo. Aquele que anda no caminho perfeito me servirá. ^v6
 
-**6** Os meus olhos estarão sobre os fiéis da terra, para que se assentem comigo; o que anda num caminho reto, esse me servirá. ^v6
+**7** Pessoas enganadoras não permanecerão dentro da minha casa; os mentirosos não se estabelecerão diante dos meus olhos. ^v7
 
-**7** O que usa de engano não ficará dentro da minha casa; o que fala mentiras não estará firme perante os meus olhos. ^v7
-
-**8** Pela manhã destruirei todos os ímpios da terra, para desarraigar da cidade do Senhor todos os que praticam a iniqüidade. ^v8
+**8** Manhã após manhã, destruirei todos os ímpios da terra; exterminarei todos os malfeitores da cidade de Yahweh. ^v8

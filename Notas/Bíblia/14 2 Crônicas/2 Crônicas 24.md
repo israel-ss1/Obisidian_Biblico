@@ -1,61 +1,60 @@
 ---
-Livro: "[[2 Crônicas|2 Crônicas]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/2 Crônicas|2 Crônicas]]"
+tags: [biblia]
 ---
 
 # 2 Crônicas 24
 
-**1** Tinha Joás sete anos de idade quando começou a reinar, e quarenta anos reinou em Jerusalém; e era o nome da sua mãe Zíbia, de Berseba. ^v1
+**1** Joás tinha sete anos quando começou seu reinado; reinou por quarenta anos em Jerusalém. O nome de sua mãe era Zíbia, de Berseba. ^v1
 
-**2** E fez Joás o que era reto aos olhos do Senhor, todos os dias do sacerdote Joiada. ^v2
+**2** Joás fez o que era bom aos olhos de Yahweh em todos os dias do sacerdote Joiada. ^v2
 
-**3** E tomou-lhe Joiada duas mulheres, e gerou filhos e filhas. ^v3
+**3** Joiada tomou duas mulheres para ele, e tornou-se pai de filhos e filhas. ^v3
 
-**4** E, depois disto, Joás resolveu renovar a casa do Senhor. ^v4
+**4** Aconteceu, depois dessas coisas, que Joás decidiu restaurar a casa de Yahweh. ^v4
 
-**5** Reuniu, pois, os sacerdotes e os levitas, e disse-lhes: Saí pelas cidades de Judá, e levantai dinheiro de todo o Israel para reparar a casa do vosso Deus de ano em ano; e vós, apressai este negócio. Porém os levitas não se apressaram. ^v5
+**5** "Ele reuniu os sacerdotes e levitas, e disse-lhes: ""Ide todos os anos nas cidades de Judá e recolham de todo o Israel dinheiro para a restauração da casa de vosso Deus. Tenham certeza de começar logo"". De inicio os levitas nada fizeram." ^v5
 
-**6** E o rei chamou a Joiada, o chefe, e disse-lhe: Por que não requereste dos levitas, que trouxessem de Judá e de Jerusalém o tributo que Moisés, servo do Senhor, ordenou à congregação de Israel, para a tenda do testemunho? ^v6
+**6** "Assim, o rei chamou Joiada, o sumo sacerdote, e disse-lhe: ""Por que não requerestes dos levitas que trouxessem de Judá e Jerusalém a taxa estabelecida por Moisés, o servo de Yahweh, e pela assembleia de Israel, para a tenda dos decretos da aliança?""." ^v6
 
-**7** Porque, sendo Atalia ímpia, seus filhos arruinaram a casa de Deus, e até todas as coisas sagradas da casa do Senhor empregaram em Baalins. ^v7
+**7** Pois os filhos de Atalia, aquela mulher ímpia, que arruinaram a Casa de Deus, e deram todas as coisas sagradas da Casa de Yahweh aos cultos aos baalins. ^v7
 
-**8** E o rei, pois, deu ordem e fizeram um cofre, e o puseram fora, à porta da casa do Senhor. ^v8
+**8** Assim, o rei ordenou e fizeram um baú e o colocaram do lado de fora da entrada da casa de Yahweh. ^v8
 
-**9** E publicou-se em Judá e em Jerusalém que trouxessem ao Senhor o tributo de Moisés, o servo de Deus, ordenado a Israel no deserto. ^v9
+**9** Então, anunciaram em Judá e Jerusalém, para que o povo trouxesse para Yahweh as taxas que Moisés o servo de Deus estabeleceu para Israel no deserto. ^v9
 
-**10** Então todos os príncipes e todo o povo se alegraram, e o trouxeram e o lançaram no cofre, até que ficou cheio. ^v10
+**10** Todos os líderes e todo o povo regozijaram e trouxeram o dinheiro e colocaram no baú até terminar de enchê-lo. ^v10
 
-**11** E sucedia que, quando levavam o cofre pelas mãos dos levitas, segundo o mandado do rei, e vendo-se que já havia muito dinheiro, vinha o escrivão do rei, e o oficial do sumo sacerdote, e esvaziavam o cofre, e tomavam-no e levavam-no de novo ao seu lugar; assim faziam de dia em dia, e ajuntaram dinheiro em abundância. ^v11
+**11** Aconteceu que, sempre que traziam o baú aos oficiais do rei pela mão dos levitas, e sempre que viam que havia muito dinheiro nele, o escriba do rei e o oficial do sumo sacerdote vinham e esvaziavam o baú, e o levavam de volta ao seu lugar. Fizeram isso dia após dia, juntando uma grande quantidade de dinheiro. ^v11
 
-**12** O qual o rei e Joiada davam aos que tinham o encargo da obra do serviço da casa do Senhor; e contrataram pedreiros e carpinteiros, para renovarem a casa do Senhor; como também ferreiros e serralheiros, para repararem a casa do Senhor. ^v12
+**12** O rei e Joiada deram o dinheiro para aqueles que fizeram o trabalho de servir na casa de Yahweh. Esses homens contrataram pedreiros e carpinteiros para restaurar a casa de Yahweh, e também aqueles que trabalhavam com ferro e bronze. ^v12
 
-**13** E os que tinham o encargo da obra faziam com que o trabalho de reparação fosse crescendo pelas suas mãos; e restauraram a casa de Deus no seu estado, e a fortaleceram. ^v13
+**13** Aqueles que tinham o encargo do trabalho faziam que o trabalho de reparação fosse crescendo por suas mãos. Eles restauraram a casa de Deus em seu desenho original e o fortaleceu. ^v13
 
-**14** E, depois de acabarem, trouxeram ao rei e a Joiada o resto do dinheiro, e dele fizeram utensílios para a casa do Senhor, objetos para ministrar e oferecer, colheres, vasos de ouro e de prata. E continuamente sacrificaram holocaustos na casa do Senhor, todos os dias de Joiada. ^v14
+**14** Quando terminaram, trouxeram o resto do dinheiro ao rei e a Joiada. Este dinheiro foi usado para fazer movéis para a casa de Yahweh, utensílios nas quais para servir e fazer ofertas, colheres e utensílios de ouro e prata. Ofereceram ofertas queimadas na Casa de Yahweh continuamente, todos os dias de Joiada. ^v14
 
-**15** E envelheceu Joiada, e morreu farto de dias; era da idade de cento e trinta anos quando morreu. ^v15
+**15** Joiada envelheceu e estava com idade avançada de cento e trinta anos de idade quando morreu. ^v15
 
-**16** E o sepultaram na cidade de Davi com os reis; porque tinha feito bem em Israel, e para com Deus e a sua casa. ^v16
+**16** O sepultaram na cidade de Davi, junto com os reis, porque ele havia feito o bem em Israel, para com Deus, e à Casa de Deus. ^v16
 
-**17** Porém, depois da morte de Joiada vieram os príncipes de Judá e prostraram-se perante o rei; e o rei os ouviu. ^v17
+**17** Após a morte de Joiada, os lideres de Judá vieram e honraram o rei. E o rei os ouviu. ^v17
 
-**18** E deixaram a casa do Senhor Deus de seus pais, e serviram às imagens do bosque e aos ídolos. Então, por causa desta sua culpa, veio grande ira sobre Judá e Jerusalém. ^v18
+**18** Eles abandonaram a Casa de Yahweh, o Deus de seus ancestrais, e louvaram aos deuses de Astarote e os ídolos. A ira de Deus veio sobre Judá e Jerusalém por causa dos erros deles. ^v18
 
-**19** Porém enviou profetas entre eles, para os reconduzir ao Senhor, os quais protestaram contra eles; mas eles não deram ouvidos. ^v19
+**19** Mesmo assim Ele lhes enviou profetas para os trazer de volta a Yahweh. Os profetas testificaram contra o povo, mas, eles se recusaram a ouví-los. ^v19
 
-**20** E o Espírito de Deus revestiu a Zacarias, filho do sacerdote Joiada, o qual se pôs em pé acima do povo, e lhes disse: Assim diz Deus: Por que transgredis os mandamentos do Senhor, de modo que não possais prosperar? Porque deixastes ao Senhor, também ele vos deixará. ^v20
+**20** "O Espírito de Deus veio sobre Zacarias filho do sacerdote Joiada. Zacarias se levantou sobre o povo e disse-lhes: ""Disse Deus: 'Por que vós estais transgredindo os mandamentos de Yahweh, fazendo com que não prospereis? Desde quando abandonaram Yahweh, Ele também vos abandonou'""." ^v20
 
-**21** E eles conspiraram contra ele, e o apedrejaram por mandado do rei, no pátio da casa do Senhor. ^v21
+**21** Mas eles conspiraram contra ele. Sob a ordem do rei, eles o apredejaram no pátio da casa de Yahweh. ^v21
 
-**22** Assim o rei Joás não se lembrou da beneficência que Joiada, pai de Zacarias, lhe fizera; porém matou-lhe o filho, o qual, morrendo, disse: O Senhor o verá, e o requererá. ^v22
+**22** "Desta forma, o rei Joás ignorou a bondade que Joiada, pai de Zacarias, fizera com ele. Ao invés disso, ele matou o filho de Joiada. Quando Zacarias estava morrendo, disse: ""Que Yahweh veja e te faça prestar contas disso""." ^v22
 
-**23** E sucedeu que, decorrido um ano, o exército da Síria subiu contra ele; e vieram a Judá e a Jerusalém, e destruíram dentre o povo a todos os seus príncipes; e enviaram todo o seu despojo ao rei de Damasco. ^v23
+**23** E aconteceu que, no final do ano, o exército da Síria se levantou contra Joás. Eles vieram a Judá e Jerusalém; mataram todos os líderes do povo, e enviaram todos os despojos ao rei de Damasco. ^v23
 
-**24** Porque ainda que o exército dos sírios viera com poucos homens, contudo o Senhor entregou na sua mão um exército mui numeroso, porquanto deixaram ao Senhor Deus de seus pais. Assim executaram juízos contra Joás. ^v24
+**24** O exército de sírios vieram com um exército pequeno, mas Yahweh os deu a vitória sobre um grande exército, pois Judá abandonou Yahweh, o Deus de seus ancestrais. Dessa forma, os sirios trouxeram o julgamento sobre Joás. ^v24
 
-**25** E, quando os sírios se retiraram, deixaram-no gravemente ferido; então seus servos conspiraram contra ele por causa do sangue do filho do sacerdote Joiada, e o feriram na sua cama, e morreu; e o sepultaram na cidade de Davi, porém não nos sepulcros dos reis. ^v25
+**25** Quando os sírios se foram, deixaram Joás gravemente ferido. E seus próprios servos conspiraram contra ele, por causa do assassinato do filho do sacerdote Joiada. Eles o mataram em sua cama e o sepultaram na cidade de Davi, mas não nas tumbas dos reis. ^v25
 
-**26** Estes, pois, foram os que conspiraram contra ele; Zabade, filho de Simeate, a amonita, e Jeozabade, filho de Sinrite, a moabita. ^v26
+**26** Estes foram os que conspiraram contra ele: foram Zabade, filho de Simeate, a amonita, e Jeozabade, filho de Sinrite, a moabita. ^v26
 
-**27** E, quanto a seus filhos, e à grandeza do cargo que se lhe impôs, e à restauração da casa de Deus, eis que estão escritos no livro da história dos reis; e Amazias, seu filho, reinou em seu lugar. ^v27
+**27** Quanto aos filhos de Joás, as importantes profecias ditas sobre ele e a reconstrução da casa de Deus, eis que estão escritos no livro dos reis. E Amazias, seu filho, tornou-se rei em seu lugar. ^v27

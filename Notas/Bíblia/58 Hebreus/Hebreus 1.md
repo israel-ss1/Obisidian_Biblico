@@ -1,35 +1,34 @@
 ---
-Livro: "[[Hebreus|Hebreus]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Hebreus|Hebreus]]"
+tags: [biblia]
 ---
 
 # Hebreus 1
 
-**1** Havendo Deus antigamente falado muitas vezes, e de muitas maneiras, aos pais, pelos profetas, a nós falou-nos nestes últimos dias pelo Filho, ^v1
+**1** Há muito tempo, Deus falou aos nossos antepassados por meio de profetas, por muitas vezes e de várias formas. ^v1
 
-**2** A quem constituiu herdeiro de tudo, por quem fez também o mundo. ^v2
+**2** Mas, nestes últimos dias, Ele nos falou por meio do Filho, a quem constituiu como herdeiro de todas as coisas e por intermédio de quem também criou o universo. ^v2
 
-**3** O qual, sendo o resplendor da sua glória, e a expressa imagem da sua pessoa, e sustentando todas as coisas pela palavra do seu poder, havendo feito por si mesmo a purificação dos nossos pecados, assentou-se à destra da majestade nas alturas; ^v3
+**3** Ele é o resplendor da glória de Deus, a verdadeira expressão de Sua essência. Ele tudo sustenta pela palavra do Seu poder. Depois de ter realizado a purificação dos pecados, Ele sentou-se no Céu à direita da Majestade, ^v3
 
-**4** Feito tanto mais excelente do que os anjos, quanto herdou mais excelente nome do que eles. ^v4
+**4** tornou-se tão superior aos anjos que herdou um nome mais excelente do que o deles. ^v4
 
-**5** Porque, a qual dos anjos disse jamais: Tu és meu Filho, Hoje te gerei? E outra vez: Eu lhe serei por Pai, E ele me será por Filho? ^v5
+**5** "De fato, para qual dos anjos disse Deus: ""Tu és meu filho; Eu hoje te gerei""? E, ainda: ""Eu lhe serei Pai, e Ele me será Filho""?" ^v5
 
-**6** E outra vez, quando introduz no mundo o primogênito, diz:E todos os anjos de Deus o adorem. ^v6
+**6** "Porém, quando Deus enviou ao mundo Seu Primogênito, Ele diz: ""Todos os anjos de Deus devem adorá-Lo""." ^v6
 
-**7** E, quanto aos anjos, diz: Faz dos seus anjos espíritos, E de seus ministros labareda de fogo. ^v7
+**7** "Ainda em relação aos anjos, Deus declara: ""É Ele quem faz de Seus anjos ventos e de Seus ministros chamas de fogo""." ^v7
 
-**8** Mas, do Filho, diz: Ó Deus, o teu trono subsiste pelos séculos dos séculos; Cetro de eqüidade é o cetro do teu reino. ^v8
+**8** "Mas, em relação ao Filho, diz: ""Teu trono, Deus, permanece para todo o sempre; e o cetro de Teu Reino é o cetro de justiça." ^v8
 
-**9** Amaste a justiça e odiaste a iniqüidade; por isso Deus, o teu Deus, te ungiuCom óleo de alegria mais do que a teus companheiros. ^v9
+**9** Amaste a justiça e odiaste a injustiça; portanto, Deus, o Teu Deus, Te ungiu com o óleo de alegria, mais que a Teus companheiros. ^v9
 
-**10** E: Tu, Senhor, no princípio fundaste a terra, E os céus são obra de tuas mãos. ^v10
+**10** No princípio, ó Senhor, Tu estabeleceste a fundação da terra; os céus são obras de Tuas mãos. ^v10
 
-**11** Eles perecerão, mas tu permanecerás; E todos eles, como roupa, envelhecerão, ^v11
+**11** Eles perecerão, mas Tu permaneces. Eles se gastarão como roupas. ^v11
 
-**12** E como um manto os enrolarás, e serão mudados. Mas tu és o mesmo, E os teus anos não acabarão. ^v12
+**12** "Tu os enrolarás como um manto e como roupas os mudarás. Mas Tu és o mesmo, e Teus anos não terão fim""." ^v12
 
-**13** E a qual dos anjos disse jamais: Assenta-te à minha destra, Até que ponha a teus inimigos por escabelo de teus pés? ^v13
+**13** "Mas para quais dos anjos Deus, porventura, em algum momento, disse: ""Senta-te à minha direita, até que eu faça de teus inimigos um estrado para os teus pés"" ?" ^v13
 
-**14** Não são porventura todos eles espíritos ministradores, enviados para servir a favor daqueles que hão de herdar a salvação? ^v14
+**14** Não são todos os anjos espíritos ministradores enviados para cuidar daqueles que herdarão a salvação? ^v14

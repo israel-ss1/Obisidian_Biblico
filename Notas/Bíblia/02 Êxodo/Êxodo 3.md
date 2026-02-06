@@ -1,51 +1,50 @@
 ---
-Livro: "[[Êxodo|Êxodo]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Êxodo|Êxodo]]"
+tags: [biblia]
 ---
 
 # Êxodo 3
 
-**1** E apascentava Moisés o rebanho de Jetro, seu sogro, sacerdote em Midiã; e levou o rebanho atrás do deserto, e chegou ao monte de Deus, a Horebe. ^v1
+**1** Moisés, agora, pastoreava o rebanho de Jetro, seu sogro, o sacerdote de Midiã. Moisés conduziu o rebanho para longe do deserto e chegou a Horebe, a montanha de Deus. ^v1
 
-**2** E apareceu-lhe o anjo do Senhor em uma chama de fogo do meio duma sarça; e olhou, e eis que a sarça ardia no fogo, e a sarça não se consumia. ^v2
+**2** Então, o Anjo de Yahweh lhe apareceu numa chama de fogo em um arbusto. Moisés olhou, e eis que o arbusto estava em chamas, mas não se queimava. ^v2
 
-**3** E Moisés disse: Agora me virarei para lá, e verei esta grande visão, porque a sarça não se queima. ^v3
+**3** "Moisés disse: ""Eu darei uma volta para ver melhor esse fenômeno, porque o arbusto não está sendo consumido pelas chamas""." ^v3
 
-**4** E vendo o Senhor que se virava para ver, bradou Deus a ele do meio da sarça, e disse: Moisés, Moisés. Respondeu ele: Eis-me aqui. ^v4
+**4** "Quando Yahweh viu que ele contornou para ver, Deus o chamou das chamas e disse: ""Moisés, Moisés"". Moisés disse: ""Eis-me aqui""." ^v4
 
-**5** E disse: Não te chegues para cá; tira os sapatos de teus pés; porque o lugar em que tu estás é terra santa. ^v5
+**5** "Deus ordenou: ""Não te aproximes mais! Tira os sapatos de teus pés, pois este lugar em que estás é terra consagrada a Mim""." ^v5
 
-**6** Disse mais: Eu sou o Deus de teu pai, o Deus de Abraão, o Deus de Isaque, e o Deus de Jacó. E Moisés encobriu o seu rosto, porque temeu olhar para Deus. ^v6
+**6** "E disse mais: ""Eu sou o Deus de teu pai, o Deus de Abraão, o Deus de Isaque, e o Deus de Jacó"". Então, Moisés cobriu o rosto, pois estava com medo de olhar para Deus." ^v6
 
-**7** E disse o Senhor: Tenho visto atentamente a aflição do meu povo, que está no Egito, e tenho ouvido o seu clamor por causa dos seus exatores, porque conheci as suas dores. ^v7
+**7** "Yahweh disse: ""Com certeza, Eu tenho visto o sofrimento do Meu povo, que está no Egito. Eu tenho ouvido o seu clamor por causa dos feitores, pois conheço os seus sofrimentos." ^v7
 
-**8** Portanto desci para livrá-lo da mão dos egípcios, e para fazê-lo subir daquela terra, a uma terra boa e larga, a uma terra que mana leite e mel; ao lugar do cananeu, e do heteu, e do amorreu, e do perizeu, e do heveu, e do jebuseu. ^v8
+**8** Eu desci para libertá-los das mãos dos egípcios e para levá-los a uma terra boa e farta, uma terra de onde flui leite e mel; a região dos cananeus, heteus, amorreus, periseus, heveus e jebuseus. ^v8
 
-**9** E agora, eis que o clamor dos filhos de Israel é vindo a mim, e também tenho visto a opressão com que os egípcios os oprimem. ^v9
+**9** O clamor do povo de Israel tem chegado a Mim. Além disso, Eu tenho visto a opressão causada pelos egípcios. ^v9
 
-**10** Vem agora, pois, e eu te enviarei a Faraó para que tires o meu povo (os filhos de Israel) do Egito. ^v10
+**10** "Agora, portanto, Eu te enviarei a Faraó e, então tu deverás trazer meu povo, os israelitas, para fora do Egito""." ^v10
 
-**11** Então Moisés disse a Deus: Quem sou eu, que vá a Faraó e tire do Egito os filhos de Israel? ^v11
+**11** "Mas Moisés disse a Deus: ""Quem sou eu para ir a Faraó e tirar os Israelitas para fora do Egito?""." ^v11
 
-**12** E disse: Certamente eu serei contigo; e isto te será por sinal de que eu te enviei: Quando houveres tirado este povo do Egito, servireis a Deus neste monte. ^v12
+**12** "Deus respondeu: ""Certamente, Eu estarei contigo. Isto será um sinal de que Eu o enviei. Quando tu tiveres trazido teus irmãos do Egito, vós me adorareis neste monte""." ^v12
 
-**13** Então disse Moisés a Deus: Eis que quando eu for aos filhos de Israel, e lhes disser: O Deus de vossos pais me enviou a vós; e eles me disserem: Qual é o seu nome? Que lhes direi? ^v13
+**13** "Moisés disse a Deus: ""Quando eu for aos israelitas e disser-lhes: 'O Deus de vossos antepassados me enviou a vós,' e, quando eles disserem a mim: 'Qual é o nome Dele?', o que devo dizer-lhes?""." ^v13
 
-**14** E disse Deus a Moisés: EU SOU O QUE SOU. Disse mais: Assim dirás aos filhos de Israel: EU SOU me enviou a vós. ^v14
+**14** "Deus respondeu a Moisés: ""EU SOU O QUE SOU"". Deus disse: ""Tu deverás dizer ao israelitas: 'EU SOU me enviou a vós'""." ^v14
 
-**15** E Deus disse mais a Moisés: Assim dirás aos filhos de Israel: O Senhor Deus de vossos pais, o Deus de Abraão, o Deus de Isaque, e o Deus de Jacó, me enviou a vós; este é meu nome eternamente, e este é meu memorial de geração em geração. ^v15
+**15** "Deus também disse a Moisés: ""Tu deverás dizer aos israelitas: 'Yahweh, o Deus de vossos antepassados, o Deus de Abraão, de Isaque e de Jacó enviou-me a vós. Este é o Meu nome para sempre; é assim que me invocarão por todas as gerações'." ^v15
 
-**16** Vai, e ajunta os anciãos de Israel e dize-lhes: O Senhor Deus de vossos pais, o Deus de Abraão, de Isaque e de Jacó, me apareceu, dizendo: Certamente vos tenho visitado e visto o que vos é feito no Egito. ^v16
+**16** "Ide e reuni os anciãos de Israel. Dizei-lhes: 'Yahweh, o Deus de vossos antepassados, o Deus de Abraão, de Isaque e de Jacó, apareceu a mim e disse: ""De fato, Eu vos tenho observado e visto o que vos tem acontecido no Egito." ^v16
 
-**17** Portanto eu disse: Far-vos-ei subir da aflição do Egito à terra do cananeu, do heteu, do amorreu, do perizeu, do heveu e do jebuseu, a uma terra que mana leite e mel. ^v17
+**17** "Eu tenho prometido tirar-vos da opressão do Egito para a terra dos cananeus, heteus, amorreus, perizeus, heveus e jebuseus, uma terra de onde flui leite e mel'""." ^v17
 
-**18** E ouvirão a tua voz; e irás, tu com os anciãos de Israel, ao rei do Egito, e dir-lhe-eis: O Senhor Deus dos hebreus nos encontrou. Agora, pois, deixa-nos ir caminho de três dias para o deserto, para que sacrifiquemos ao Senhor nosso Deus. ^v18
+**18** Eles te ouvirão. Tu e os anciãos de Israel irão ao rei do Egito e dirão a ele: 'Yahweh, o Deus dos hebreus, encontrou-nos. Portanto, deixa-nos ir por três dias de jornada no deserto, de forma que ali possamos sacrificar a Yahweh, nosso Deus'. ^v18
 
-**19** Eu sei, porém, que o rei do Egito não vos deixará ir, nem ainda por uma mão forte. ^v19
+**19** Mas Eu sei que o rei do Egito não vos deixará partir, a menos que seja forçado. ^v19
 
-**20** Porque eu estenderei a minha mão, e ferirei ao Egito com todas as minhas maravilhas que farei no meio dele; depois vos deixará ir. ^v20
+**20** Eu os alcançarei com Minha mão e atacarei os egípcios com todos os prodígios que farei no meio deles. Após isso, ele vos deixará ir. ^v20
 
-**21** E eu darei graça a este povo aos olhos dos egípcios; e acontecerá que, quando sairdes, não saireis vazios, ^v21
+**21** Eu asseguro que vós tereis o favor dos egípcios quando partirem; não partirão de mãos vazias. ^v21
 
-**22** Porque cada mulher pedirá à sua vizinha e à sua hóspeda jóias de prata, e jóias de ouro, e vestes, as quais poreis sobre vossos filhos e sobre vossas filhas; e despojareis os egípcios. ^v22
+**22** "Todas as mulheres pedirão prata, joias de ouro e roupas de suas vizinhas egípcias e de quaisquer outras que estiverem hospedadas na casa de suas vizinhas. Vós colocareis em seus filhos e filhas. Desse modo, vós saqueareis os egípcios""." ^v22

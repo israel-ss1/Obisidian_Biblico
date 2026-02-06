@@ -1,31 +1,30 @@
 ---
-Livro: "[[Deuteronômio|Deuteronômio]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Deuteronômio|Deuteronômio]]"
+tags: [biblia]
 ---
 
 # Deuteronômio 34
 
-**1** Então subiu Moisés das campinas de Moabe ao monte Nebo, ao cume de Pisga, que está em frente a Jericó e o SENHOR mostrou-lhe toda a terra desde Gileade até Dã; ^v1
+**1** Moisés subiu das planícies de Moabe ao monte Nebo, ao cume do Pisga, que fica de frente para Jericó. Ali, Yahweh mostrou-lhe toda a terra, desde Gileade até Dã, ^v1
 
-**2** E todo Naftali, e a terra de Efraim, e Manassés e toda a terra de Judá, até ao mar ocidental; ^v2
+**2** toda Naftali, e a terra de Efraim e Manassés, e toda a terra de Judá, até o mar ocidental, ^v2
 
-**3** E o sul, e a campina do vale de Jericó, a cidade das palmeiras, até Zoar. ^v3
+**3** e o Neguebe, e a planície do vale de Jericó, a cidade das palmeiras, até Zoar. ^v3
 
-**4** E disse-lhe o Senhor: Esta é a terra que jurei a Abraão, Isaque, e Jacó, dizendo: À tua descendência a darei; eu te faço vê-la com os teus olhos, porém lá não passarás. ^v4
+**4** "Yahweh lhe disse: ""Esta é a terra que prometi a Abraão, a Isaque e a Jacó, dizendo: 'À tua descendência Eu a darei'. Eu te fiz vê-la com teus olhos, mas não irás para lá""." ^v4
 
-**5** Assim morreu ali Moisés, servo do Senhor, na terra de Moabe, conforme a palavra do Senhor. ^v5
+**5** Então, Moisés, servo de Yahweh, morreu ali na terra de Moabe, conforme Yahweh havia prometido. ^v5
 
-**6** E o sepultou num vale, na terra de Moabe, em frente de Bete-Peor; e ninguém soube até hoje o lugar da sua sepultura. ^v6
+**6** Yahweh enterrou-o no vale, nas terras de Moabe, de frente para Bete-Peor, mas ninguém conhece o local da sua sepultura até hoje. ^v6
 
-**7** Era Moisés da idade de cento e vinte anos quando morreu; os seus olhos nunca se escureceram, nem perdeu o seu vigor. ^v7
+**7** Moisés tinha cento e vinte anos quando morreu, mas enxergava bem e não havia perdido o seu vigor. ^v7
 
-**8** E os filhos de Israel prantearam a Moisés trinta dias, nas campinas de Moabe; e os dias do pranto no luto de Moisés se cumpriram. ^v8
+**8** O povo de Israel lamentou por Moisés por trinta dias nas planícies de Moabe, e, então, acabaram os dias de luto por Moisés. ^v8
 
-**9** E Josué, filho de Num, foi cheio do espírito de sabedoria, porquanto Moisés tinha posto sobre ele as suas mãos; assim os filhos de Israel lhe deram ouvidos, e fizeram como o Senhor ordenara a Moisés. ^v9
+**9** Josué, filho de Num, estava cheio do espírito de sabedoria, pois Moisés havia imposto suas mãos sobre ele. O povo de Israel o ouviu, e obedeceu ao que Yahweh ordenara a Moisés. ^v9
 
-**10** E nunca mais se levantou em Israel profeta algum como Moisés, a quem o Senhor conhecera face a face; ^v10
+**10** Nunca mais, surgiu em Israel um profeta como Moisés, a quem Yahweh conhecia face a face. ^v10
 
-**11** Nem semelhante em todos os sinais e maravilhas, que o Senhor o enviou para fazer na terra do Egito, a Faraó, e a todos os seus servos, e a toda a sua terra. ^v11
+**11** Nunca houve outro profeta igual a ele em todos os sinais e maravilhas que Yahweh o enviou para realizar na terra do Egito, a Faraó, a todos os seus servos, e a toda a sua terra. ^v11
 
-**12** E em toda a mão forte, e em todo o grande espanto, que praticou Moisés aos olhos de todo o Israel. ^v12
+**12** E jamais houve um profeta como ele nas grandes e terríveis coisas que ele fez aos olhos de todo Israel. ^v12

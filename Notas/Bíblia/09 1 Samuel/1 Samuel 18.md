@@ -1,67 +1,66 @@
 ---
-Livro: "[[1 Samuel|1 Samuel]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/1 Samuel|1 Samuel]]"
+tags: [biblia]
 ---
 
 # 1 Samuel 18
 
-**1** E sucedeu que, acabando ele de falar com Saul, a alma de Jônatas se ligou com a alma de Davi; e Jônatas o amou, como à sua própria alma. ^v1
+**1** Depois de ter falado com Saul, a alma de Jônatas se uniu à de Davi e Jônatas o amou como sua própria alma. ^v1
 
-**2** E Saul naquele dia o tomou, e não lhe permitiu que voltasse para casa de seu pai. ^v2
+**2** Naquele dia, Saul introduziu Davi em seu serviço e não o deixou retornar à casa de seu pai. ^v2
 
-**3** E Jônatas e Davi fizeram aliança; porque Jônatas o amava como à sua própria alma. ^v3
+**3** Em consequência disso, Jônatas e Davi fizeram entre si um pacto de amizade, porque Jônatas amou Davi como sua própria alma. ^v3
 
-**4** E Jônatas se despojou da capa que trazia sobre si, e a deu a Davi, como também as suas vestes, até a sua espada, e o seu arco, e o seu cinto. ^v4
+**4** Jônatas se despiu do manto que usava e presenteou Davi juntamente com sua armadura, bem como sua espada, seu arco e seu cinto. ^v4
 
-**5** E saía Davi aonde quer que Saul o enviasse e conduzia-se com prudência, e Saul o pôs sobre os homens de guerra; e era aceito aos olhos de todo o povo, e até aos olhos dos servos de Saul. ^v5
+**5** Davi ia a todos os lugares para onde Saul o enviava e era bem sucedido. Saul o colocou como chefe dos seus guerreiros. Isto agradou a todos, até mesmo aos servos de Saul. ^v5
 
-**6** Sucedeu, porém, que, vindo eles, quando Davi voltava de ferir os filisteus, as mulheres de todas as cidades de Israel saíram ao encontro do rei Saul, cantando e dançando, com adufes, com alegria, e com instrumentos de música. ^v6
+**6** Ao retornarem para casa, vindo da vitória contra os filisteus, as mulheres de todas as cidades de Israel vieram, com júbilo, cantando e dançando ao som de tamborins e instrumentos musicais. ^v6
 
-**7** E as mulheres dançando e cantando se respondiam umas às outras, dizendo: Saul feriu os seus milhares, porém, Davi os seus dez milhares. ^v7
+**7** "As mulheres cantavam e diziam umas às outras: ""Saul matou seus milhares, mas Davi dez milhares""." ^v7
 
-**8** Então Saul se indignou muito, e aquela palavra pareceu mal aos seus olhos, e disse: Dez milhares deram a Davi, e a mim somente milhares; na verdade, que lhe falta, senão só o reino? ^v8
+**8** "Saul ficou extremamente furioso, pois essa canção o incomodou. ""Eles renderam a Davi dez milhares, mas a mim apenas os milhares. O que mais pode ele almejar senão o reinado?"", disse Saul." ^v8
 
-**9** E, desde aquele dia em diante, Saul tinha Davi em suspeita. ^v9
+**9** E, a partir daquele dia, Saul olhava Davi com suspeita. ^v9
 
-**10** E aconteceu no outro dia, que o mau espírito da parte de Deus se apoderou de Saul, e profetizava no meio da casa; e Davi tocava a harpa com a sua mão, como nos outros dias; Saul, porém, tinha na mão uma lança. ^v10
+**10** No dia seguinte, um espírito maligno da parte de Deus se apoderou de Saul, e ele se encheu de ira dentro de casa. Então, Davi tocou seu instrumento exatamente como sempre fazia. ^v10
 
-**11** E Saul atirou com a lança, dizendo: Encravarei a Davi na parede. Porém Davi se desviou dele por duas vezes. ^v11
+**11** "Saul tinha na mão uma lança. Ele a arremessou contra Davi enquanto pensava no seu coração: ""Vou encravá-lo na parede"". Porém, Davi escapou dele por duas vezes." ^v11
 
-**12** E temia Saul a Davi, porque o Senhor era com ele e se tinha retirado de Saul. ^v12
+**12** Saul temia Davi porque Yahweh estava com ele, e não mais com Saul. ^v12
 
-**13** Por isso Saul o desviou de si, e o pôs por capitão de mil; e saía e entrava diante do povo. ^v13
+**13** Saul, então, o removeu de sua presença e o comissionou como comandante de mil homens. Desta forma, Davi entrava e saía diante do povo. ^v13
 
-**14** E Davi se conduzia com prudência em todos os seus caminhos, e o Senhor era com ele. ^v14
+**14** Ele prosperava em tudo o que fazia porque Yahweh era com ele. ^v14
 
-**15** Vendo então Saul que tão prudentemente se conduzia, tinha receio dele. ^v15
+**15** Saul, ao perceber que Davi prosperava em tudo, o admirou. ^v15
 
-**16** Porém todo o Israel e Judá amava a Davi, porquanto saía e entrava diante deles. ^v16
+**16** Toda a nação de Israel e Judá amava Davi, pois ele saía e entrava diante deles. ^v16
 
-**17** Por isso Saul disse a Davi: Eis que Merabe, minha filha mais velha, te darei por mulher; sê-me somente filho valoroso, e guerreia as guerras do Senhor (porque Saul dizia consigo: Não seja contra ele a minha mão, mas sim a dos filisteus). ^v17
+**17** "Saul, então, disse a Davi: ""Vê, aqui está Merabe minha filha mais velha. Eu a darei a ti como esposa. Tão somente sê corajoso e guerreia as batalhas de Yahweh"". O raciocínio de Saul era: ""Não caia sobre ele minhas mãos e, sim, a dos filisteus""." ^v17
 
-**18** Mas Davi disse a Saul: Quem sou eu, e qual é a minha vida e a família de meu pai em Israel, para vir a ser genro do rei? ^v18
+**18** "Davi disse a Saul: ""Quem sou eu, e o que significa minha vida ou a família do meu pai em Israel para que eu seja genro do rei?""" ^v18
 
-**19** Sucedeu, porém, que ao tempo que Merabe, filha de Saul, devia ser dada a Davi, ela foi dada por mulher a Adriel, meolatita. ^v19
+**19** Porém, quando chegou o tempo para que Merabe fosse entregue a Davi, ela foi dada como esposa a Adriel, o meolatita. ^v19
 
-**20** Mas Mical, a outra filha de Saul amava a Davi; o que, sendo anunciado a Saul, pareceu isto bom aos seus olhos. ^v20
+**20** Mical, no entanto, a outra filha de Saul, amava Davi. Disseram isto a Saul, o que lhe agradou. ^v20
 
-**21** E Saul disse: Eu lha darei, para que lhe sirva de laço, e para que a mão dos filisteus venha a ser contra ele. Pelo que Saul disse a Davi: Com a outra serás hoje meu genro. ^v21
+**21** "Saul pensou: ""Vou dar Mical a Davi para que ela sirva de armadilha e, assim, a mão dos filisteus esteja contra ele"". Então, Saul disse a Davi pela segunda vez: ""Tu serás meu genro""." ^v21
 
-**22** E Saul deu ordem aos seus servos: Falai em segredo a Davi, dizendo: Eis que o rei te está mui afeiçoado, e todos os seus servos te amam; agora, pois, consente em ser genro do rei. ^v22
+**22** "Saul ordenou aos seus servos, dizendo: ""Conversai em particular com Davi e dizei-lhe: 'Vê, o rei gosta muito de ti, e todos os seus servos te amam também. Ora, pois, aceita o convite para ser genro do rei'""." ^v22
 
-**23** E os servos de Saul falaram todas estas palavras aos ouvidos de Davi. Então disse Davi: Parece-vos pouco aos vossos olhos ser genro do rei, sendo eu homem pobre e desprezível? ^v23
+**23** "Então, os servos de Saul falaram essas palavras a Davi, mas este retrucou: ""Por acaso, vos parece coisa trivial ser genro do rei, já que sou pobre e de pouca estima em Israel""?" ^v23
 
-**24** E os servos de Saul lhe anunciaram isto, dizendo: Foram tais as palavras que falou Davi. ^v24
+**24** Os servos de Saul contaram a ele as palavras que Davi dissera. ^v24
 
-**25** Então disse Saul: Assim direis a Davi: O rei não tem necessidade de dote, senão de cem prepúcios de filisteus, para se tomar vingança dos inimigos do rei. Porquanto Saul tentava fazer cair a Davi pela mão dos filisteus. ^v25
+**25** "Ao que Saul disse: ""Assim direis a Davi: 'O rei não está interessado em nenhum dote, tão somente em cem prepúcios dos filisteus como forma de vingança contra os inimigos dele"". Saul pensou que desse modo pudesse fazer Davi cair pelas mãos dos filisteus." ^v25
 
-**26** E anunciaram os seus servos estas palavras a Davi, e este negócio pareceu bem aos olhos de Davi, de que fosse genro do rei; porém ainda os dias não se haviam cumprido. ^v26
+**26** Quando seus servos disseram a Davi tais palavras, ele ficou feliz em tornar-se genro do rei. ^v26
 
-**27** Então Davi se levantou, e partiu com os seus homens, e feriu dentre os filisteus duzentos homens, e Davi trouxe os seus prepúcios, e os entregou todos ao rei, para que fosse genro do rei; então Saul lhe deu por mulher a sua filha. ^v27
+**27** Antes mesmo de esgotar o prazo, Davi saiu com seus homens e matou duzentos filisteus. Ele trouxe os prepúcios, que foram todos entregues ao rei, para que Davi pudesse se tornar seu genro. Assim, Saul o presenteou com Mical, sua filha, que se tornou sua esposa. ^v27
 
-**28** E viu Saul, e notou que o Senhor era com Davi; e Mical, filha de Saul, o amava. ^v28
+**28** Saul viu e percebeu que Yahweh era com Davi. E Mical, filha de Saul, o amava. ^v28
 
-**29** Então Saul temeu muito mais a Davi; e Saul foi todos os seus dias inimigo de Davi. ^v29
+**29** Saul temeu ainda mais Davi e, de contínuo, o odiava. ^v29
 
-**30** E, saindo os príncipes dos filisteus à campanha, sucedia que Davi se conduzia com mais êxito do que todos os servos de Saul; portanto o seu nome era muito estimado. ^v30
+**30** Os príncipes dos filisteus saíram, depois disso, para a luta; e todas as vezes que isto acontecia, Davi era mais bem sucedido do que todos os servos de Saul; desta forma, seu nome passou a ser altamente estimado. ^v30

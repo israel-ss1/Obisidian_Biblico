@@ -1,35 +1,32 @@
 ---
-Livro: "[[Salmos|Salmos]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Salmos|Salmos]]"
+tags: [biblia]
 ---
 
 # Salmos 27
 
-**1** O SENHOR é a minha luz e a minha salvação; a quem temerei? O SENHOR é a força da minha vida; de quem me recearei? ^v1
+**2** Quando os malfeitores se achegaram para devorar a minha carne, meus adversários e inimigos é que tropeçaram e caíram. ^v2
 
-**2** Quando os malvados, meus adversários e meus inimigos, se chegaram contra mim, para comerem as minhas carnes, tropeçaram e caíram. ^v2
+**3** Embora um exército se acampe contra mim, meu coração não terá medo; embora declarem guerra contra mim, mesmo assim eu continuarei confiante. ^v3
 
-**3** Ainda que um exército me cercasse, o meu coração não temeria; ainda que a guerra se levantasse contra mim, nisto confiaria. ^v3
+**4** Uma coisa eu peço a Yahweh e isto buscarei: que eu possa viver na casa de Yahweh todos os dias da minha vida, para ver a beleza de Yahweh e meditar no Seu templo. ^v4
 
-**4** Uma coisa pedi ao Senhor, e a buscarei: que possa morar na casa do Senhor todos os dias da minha vida, para contemplar a formosura do Senhor, e inquirir no seu templo. ^v4
+**5** Pois no dia da tribulação, Ele me esconderá no Seu abrigo; Ele me esconderá no interior de Sua tenda. Ele me levantará sobre o alto de uma rocha! ^v5
 
-**5** Porque no dia da adversidade me esconderá no seu pavilhão; no oculto do seu tabernáculo me esconderá; pôr-me-á sobre uma rocha. ^v5
+**6** Então, minha cabeça estará erguida acima dos inimigos que me cercam. Com alegria, oferecerei sacrifícios em Sua tenda; cantarei e louvarei a Yahweh! ^v6
 
-**6** Também agora a minha cabeça será exaltada sobre os meus inimigos que estão em redor de mim; por isso oferecerei sacrifício de júbilo no seu tabernáculo; cantarei, sim, cantarei louvores ao Senhor. ^v6
+**7** Ouve, Yahweh, minha voz quando a Ti clamo! Tem misericórdia de mim e responde-me. ^v7
 
-**7** Ouve, Senhor, a minha voz quando clamo; tem também piedade de mim, e responde-me. ^v7
+**8** "Meu coração fala sobre Ti: ""Buscai a Minha presença!"" A Tua presença, Yahweh, eu buscarei!" ^v8
 
-**8** Quando tu disseste: Buscai o meu rosto; o meu coração disse a ti: O teu rosto, Senhor, buscarei. ^v8
+**9** Não escondas a Tua face de mim; não rejeites Teu servo com ira; Tu tens sido o meu ajudador; não me deixes nem me abandones, Deus da minha salvação! ^v9
 
-**9** Não escondas de mim a tua face, não rejeites ao teu servo com ira; tu foste a minha ajuda, não me deixes nem me desampares, ó Deus da minha salvação. ^v9
+**10** Mesmo que meu pai e minha mãe me abandonem, Yahweh me acolherá. ^v10
 
-**10** Porque, quando meu pai e minha mãe me desampararem, o Senhor me recolherá. ^v10
+**11** Ensina-me o Teu caminho, Yahweh! Conduze-me em um caminho plano por causa dos meus inimigos. ^v11
 
-**11** Ensina-me, Senhor, o teu caminho, e guia-me pela vereda direita, por causa dos meus inimigos. ^v11
+**12** Não me entregues aos desejos dos meus inimigos, pois testemunhas falsas têm-se levantado contra mim, respirando violência. ^v12
 
-**12** Não me entregues à vontade dos meus adversários; pois se levantaram falsas testemunhas contra mim, e os que respiram crueldade. ^v12
+**13** O que teria acontecido comigo se eu não acreditasse que veria a bondade de Yahweh na terra dos viventes? ^v13
 
-**13** Pereceria sem dúvida, se não cresse que veria a bondade do Senhor na terra dos viventes. ^v13
-
-**14** Espera no Senhor, anima-te, e ele fortalecerá o teu coração; espera, pois, no Senhor. ^v14
+**14** Espera por Yahweh! Sê forte e valente em teu coração! Espera por Yahweh! ^v14

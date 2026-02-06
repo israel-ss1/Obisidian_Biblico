@@ -1,77 +1,76 @@
 ---
-Livro: "[[Êxodo|Êxodo]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Êxodo|Êxodo]]"
+tags: [biblia]
 ---
 
 # Êxodo 32
 
-**1** Mas vendo o povo que Moisés tardava em descer do monte, acercou-se de Arão, e disse-lhe: Levanta-te, faze-nos deuses, que vão adiante de nós; porque quanto a este Moisés, o homem que nos tirou da terra do Egito, não sabemos o que lhe sucedeu. ^v1
+**1** "Quando o povo viu que Moisés demorava para descer da montanha, eles se ajuntaram em volta de Arão e lhe disseram: ""Vem, faze-nos um ídolo para que vá a nossa frente. Quanto a esse Moisés, o homem que nos tirou da terra do Egito, não sabemos o que aconteceu com ele""." ^v1
 
-**2** E Arão lhes disse: Arrancai os pendentes de ouro, que estão nas orelhas de vossas mulheres, e de vossos filhos, e de vossas filhas, e trazei-mos. ^v2
+**2** "Então Arão lhes disse: ""Tirai os brincos de ouro das orelhas de vossas esposas e das orelhas dos vossos filhos e filhas, e trazei-os a mim""." ^v2
 
-**3** Então todo o povo arrancou os pendentes de ouro, que estavam nas suas orelhas, e os trouxeram a Arão. ^v3
+**3** E todo o povo retirou os brincos de ouro que estavam em suas orelhas e os levou a Arão. ^v3
 
-**4** E ele os tomou das suas mãos, e trabalhou o ouro com um buril, e fez dele um bezerro de fundição. Então disseram: Este é teu deus, ó Israel, que te tirou da terra do Egito. ^v4
+**4** "Ele recebeu o ouro do povo, e o modelou em forma de um bezerro. Então o povo disse: ""Israel, este é o vosso deus que vos tirou da terra do Egito""'." ^v4
 
-**5** E Arão, vendo isto, edificou um altar diante dele; e apregoou Arão, e disse: Amanhã será festa ao Senhor. ^v5
+**5** "Quando Arão viu isso, ele construiu um altar diante do bezerro e proclamou, dizendo: ""Amanhã haverá um festival em honra a Yahweh""." ^v5
 
-**6** E no dia seguinte madrugaram, e ofereceram holocaustos, e trouxeram ofertas pacíficas; e o povo assentou-se a comer e a beber; depois levantou-se a folgar. ^v6
+**6** No dia seguinte, o povo se levantou cedo e ofereceu ofertas queimadas e trouxeram ofertas pacificas. Então se sentaram para comer e beber, e depois se levantaram para se divertir. ^v6
 
-**7** Então disse o Senhor a Moisés: Vai, desce; porque o teu povo, que fizeste subir do Egito, se tem corrompido, ^v7
+**7** "Então Yahweh disse a Moisés: ""Vá imediatamente, pois o teu povo, os quais tiraste da terra do Egito, tem se corrompido." ^v7
 
-**8** E depressa se tem desviado do caminho que eu lhe tinha ordenado; eles fizeram para si um bezerro de fundição, e perante ele se inclinaram, e ofereceram-lhe sacrifícios, e disseram: Este é o teu deus, ó Israel, que te tirou da terra do Egito. ^v8
+**8** "Eles rapidamente se desviaram do caminho que Eu os ordenei. Eles moldaram um bezerro para eles e o adoraram e fizeram sacrificios para ele. Eles têm dito: 'Israel, esse é o seu deus que vos tirou da terra do Egito'""." ^v8
 
-**9** Disse mais o Senhor a Moisés: Tenho visto a este povo, e eis que é povo de dura cerviz. ^v9
+**9** "E disse Yahweh a Moisés: ""Eu tenho visto esse povo. Vê, eles são um povo teimoso." ^v9
 
-**10** Agora, pois, deixa-me, para que o meu furor se acenda contra ele, e o consuma; e eu farei de ti uma grande nação. ^v10
+**10** Agora, pois, não tentes me impedir. Minha furia irá queimar contra eles, então EU os destruirei. Feito isso irei fazer uma grande nação por meio de ti. ^v10
 
-**11** Moisés, porém, suplicou ao Senhor seu Deus e disse: Ó Senhor, por que se acende o teu furor contra o teu povo, que tiraste da terra do Egito com grande força e com forte mão? ^v11
+**11** "Porém Moisés tentou acalmar Yahweh seu Deus. Ele disse: ""Yahweh por que a tua ira se acende contra o teu povo, os quais Tu trouxeste da terra do Egito com grande poder e mão poderosa?" ^v11
 
-**12** Por que hão de falar os egípcios, dizendo: Para mal os tirou, para matá-los nos montes, e para destruí-los da face da terra? Torna-te do furor da tua ira, e arrepende-te deste mal contra o teu povo. ^v12
+**12** Por que os egípcios deveriam dizer: 'Ele os livrou do mal para matá-los nas montanhas e destruí-los da face da terra'? Afasta-te desta fúria ardente e retira essa punição de sobre o Teu povo. ^v12
 
-**13** Lembra-te de Abraão, de Isaque, e de Israel, os teus servos, aos quais por ti mesmo tens jurado, e lhes disseste: Multiplicarei a vossa descendência como as estrelas dos céus, e darei à vossa descendência toda esta terra, de que tenho falado, para que a possuam por herança eternamente. ^v13
+**13** "Lembra-te de Abraão, de Isaque e de Israel, Teus servos, aos quais Tu juraste, por ti mesmo, dizendo-lhes: ""Multiplicarei teus descendentes como as estrelas nos céus, e lhes darei toda esta terra a qual tenho falado. Eles a herdarão para sempre'""." ^v13
 
-**14** Então o Senhor arrependeu-se do mal que dissera que havia de fazer ao seu povo. ^v14
+**14** Então Yahweh desistiu da punição que Ele lhe havia dito que traria contra o Seu povo. ^v14
 
-**15** E virou-se Moisés e desceu do monte com as duas tábuas do testemunho na mão, tábuas escritas de ambos os lados; de um e de outro lado estavam escritas. ^v15
+**15** Então Moisés se virou e desceu a montanha, carragando as duas tábuas dos Decretos da Aliança em suas mãos. As tábuas estavam escritas em ambos os lados, frente e verso. ^v15
 
-**16** E aquelas tábuas eram obra de Deus; também a escritura era a mesma escritura de Deus, esculpida nas tábuas. ^v16
+**16** As tábuas e os seus escritos eram obras do próprio Deus, esculpidos por Ele mesmo. ^v16
 
-**17** E, ouvindo Josué a voz do povo que jubilava, disse a Moisés: Alarido de guerra há no arraial. ^v17
+**17** "Quando Josué ouviu o barulho do povo que gritava, ele disse a Moisés: ""Há gritos de combate no acampamento""." ^v17
 
-**18** Porém ele respondeu: Não é alarido dos vitoriosos, nem alarido dos vencidos, mas o alarido dos que cantam, eu ouço. ^v18
+**18** "Mas disse-lhe Moisés: ""Isso não é grito dos vitoriosos, e nem barulho de pessoas derrotadas, o que escuto é o som de pessoas cantando""." ^v18
 
-**19** E aconteceu que, chegando Moisés ao arraial, e vendo o bezerro e as danças, acendeu-se-lhe o furor, e arremessou as tábuas das suas mãos, e quebrou-as ao pé do monte; ^v19
+**19** Quando Moisés chegou ao acampamento, ele viu o bezerro e as pessoas dançando. Logo enfureceu-se. Ele lançou as tábuas de suas mãos e as quebrou ao pé da montanha. ^v19
 
-**20** E tomou o bezerro que tinham feito, e queimou-o no fogo, moendo-o até que se tornou em pó; e o espargiu sobre as águas, e deu-o a beber aos filhos de Israel. ^v20
+**20** Ele pegou o bezerro que as pessoas haviam feito, queimou-o, triturou-o até virar pó, e o despejou na água. Então ele fez com que o povo de Israel a bebesse. ^v20
 
-**21** E Moisés perguntou a Arão: Que te tem feito este povo, que sobre ele trouxeste tamanho pecado? ^v21
+**21** "Então Moisés disse a Arão: ""O que esse povo te fez, para que trouxesses tamanho pecado sobre ele""?" ^v21
 
-**22** Então respondeu Arão: Não se acenda a ira do meu senhor; tu sabes que este povo é inclinado ao mal; ^v22
+**22** "Disse-lhe Arão: ""Não se acenda a vossa ira, meu senhor. Tu conheces esse povo, e sabes o quanto eles empenhados em fazer o mal." ^v22
 
-**23** E eles me disseram: Faze-nos um deus que vá adiante de nós; porque não sabemos o que sucedeu a este Moisés, a este homem que nos tirou da terra do Egito. ^v23
+**23** Eles me disseram: 'Faze-nos um deus que vá a nossa frente. Quanto a Moisés, o homem que nos trouxe da terra do Egito, nós não sabemos o que houve com ele' ^v23
 
-**24** Então eu lhes disse: Quem tem ouro, arranque-o; e deram-mo, e lancei-o no fogo, e saiu este bezerro. ^v24
+**24** "Então eu lhes disse: 'Aqueles que têm ouro, tirem-no. Eles me deram, e eu o lancei ao fogo, e saiu esse bezerro'""." ^v24
 
-**25** E, vendo Moisés que o povo estava despido, porque Arão o havia deixado despir-se para vergonha entre os seus inimigos, ^v25
+**25** Moisés viu que o povo estava agindo de forma estranha, pois Arão os deixou perder o controle, expondo-os à zombaria dos seus inimigos. ^v25
 
-**26** Pôs-se em pé Moisés na porta do arraial e disse: Quem é do Senhor, venha a mim. Então se ajuntaram a ele todos os filhos de Levi. ^v26
+**26** "Então Moisés ficou de pé, na entrada do acampamento, e disse: ""Quem estiver do lado de Yahweh, venha até mim"". Todos os levitas se ajuntaram em volta dele." ^v26
 
-**27** E disse-lhes: Assim diz o Senhor Deus de Israel: Cada um ponha a sua espada sobre a sua coxa; e passai e tornai pelo arraial de porta em porta, e mate cada um a seu irmão, e cada um a seu amigo, e cada um a seu vizinho. ^v27
+**27** "Ele lhes disse: ""Yahweh, o Deus de Israel, diz isto: 'Que cada homem prepare sua espada ao lado indo e vindo, de porta em porta, por todo o acampamento, e mate seus irmãos, seus companheiros e vizinhos'""." ^v27
 
-**28** E os filhos de Levi fizeram conforme à palavra de Moisés; e caíram do povo aquele dia uns três mil homens. ^v28
+**28** Os levitas fizeram conforme Moisés lhes havia ordenado. Naquele dia morreram cerca de três mil homens do povo. ^v28
 
-**29** Porquanto Moisés tinha dito: Consagrai hoje as vossas mãos ao Senhor; porquanto cada um será contra o seu filho e contra o seu irmão; e isto, para que ele vos conceda hoje uma bênção. ^v29
+**29** "Moisés disse aos levitas: ""Vós fostes postos a serviço de Yahweh hoje, pois cada um de vós agiu contra seu irmão, portanto Yahweh vos deu uma benção hoje""." ^v29
 
-**30** E aconteceu que no dia seguinte Moisés disse ao povo: Vós cometestes grande pecado. Agora, porém, subirei ao Senhor; porventura farei propiciação por vosso pecado. ^v30
+**30** "No dia seguinte, Moisés disse ao povo: ""Cometestes um grande pecado. Agora eu subirei a Yahweh. Talvez eu possa fazer expiação pelo vosso pecado." ^v30
 
-**31** Assim tornou-se Moisés ao Senhor, e disse: Ora, este povo cometeu grande pecado fazendo para si deuses de ouro. ^v31
+**31** "Moisés voltou a Yahweh e disse: ""Oh, esse povo cometeu um grande pecado e fizeram para si um ídolo de ouro." ^v31
 
-**32** Agora, pois, perdoa o seu pecado; se não, risca-me, peço-te, do teu livro, que tens escrito. ^v32
+**32** "Mas agora, perdoa-lhes o pecado; se não o fizeres, apaga-me do livro que escreveste""." ^v32
 
-**33** Então disse o Senhor a Moisés: Aquele que pecar contra mim, a este riscarei do meu livro. ^v33
+**33** "Yahweh disse a Moisés: ""Aquele que tiver pecado contra mim, essa pessoa eu apagarei do meu livro." ^v33
 
-**34** Vai, pois, agora, conduze este povo para onde te tenho dito; eis que o meu anjo irá adiante de ti; porém no dia da minha visitação visitarei neles o seu pecado. ^v34
+**34** "Agora vai e conduz este povo para o lugar sobre o qual eu te falei. Vê, o Meu anjo irá na tua frente. Porém no dia em que Eu os castigar, Eu os punirei por seu pecado""." ^v34
 
-**35** Assim feriu o Senhor o povo, por ter sido feito o bezerro que Arão tinha formado. ^v35
+**35** Então Yahweh enviou a praga para o povo, por fezer o bezerro, aquele que Arão havia fabricado. ^v35

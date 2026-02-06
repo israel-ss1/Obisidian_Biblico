@@ -1,111 +1,110 @@
 ---
-Livro: "[[Deuteronômio|Deuteronômio]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Deuteronômio|Deuteronômio]]"
+tags: [biblia]
 ---
 
 # Deuteronômio 32
 
-**1** Inclinai os ouvidos, ó céus, e falarei; e ouça a terra as palavras da minha boca. ^v1
+**1** Escutai, ó céus, e deixai-me falar. Deixai a terra ouvir as palavras de minha boca; ^v1
 
-**2** Goteje a minha doutrina como a chuva, destile a minha palavra como o orvalho, como chuvisco sobre a erva e como gotas de água sobre a relva. ^v2
+**2** e meus ensinamentos caírem como a chuva, e meu discurso descer como o orvalho, como a garoa sobre a grama macia, e como chuva sobre a relva. ^v2
 
-**3** Porque apregoarei o nome do Senhor; engrandecei a nosso Deus. ^v3
+**3** Pois eu proclamarei o nome de Yahweh, e engrandecerei o nosso Deus. ^v3
 
-**4** Ele é a Rocha, cuja obra é perfeita, porque todos os seus caminhos justos são; Deus é a verdade, e não há nele injustiça; justo e reto é. ^v4
+**4** Ele é a Rocha, Suas obras são perfeitas; todos os Seus caminhos são justos. Ele é Deus fiel, em quem não há iniquidade. Ele é justo e reto. ^v4
 
-**5** Corromperam-se contra ele; não são seus filhos, mas a sua mancha; geração perversa e distorcida é. ^v5
+**5** O povo corrompeu-se contra Ele. Eles não são Seus filhos. Esta é a sua desgraça. São uma geração perversa e depravada. ^v5
 
-**6** Recompensais assim ao Senhor, povo louco e ignorante? Não é ele teu pai que te adquiriu, te fez e te estabeleceu? ^v6
+**6** É assim que recompensas Yahweh, povo tolo e insensato? Não é Ele teu pai, que te criou? Ele te fez e te estabeleceu. ^v6
 
-**7** Lembra-te dos dias da antiguidade, atenta para os anos de muitas gerações: pergunta a teu pai, e ele te informará; aos teus anciãos, e eles te dirão. ^v7
+**7** Lembra dos dias remotos, considera as gerações passadas. Pergunta a teu pai e Ele te mostrará, aos teus anciãos e eles te contarão. ^v7
 
-**8** Quando o Altíssimo distribuía as heranças às nações, quando dividia os filhos de Adão uns dos outros, estabeleceu os termos dos povos, conforme o número dos filhos de Israel. ^v8
+**8** Quando o Altíssimo dava a cada nação a sua herança — quando dividiu os homens e estabeleceu os limites de cada povo, e também fixou o número dos seus deuses. ^v8
 
-**9** Porque a porção do Senhor é o seu povo; Jacó é a parte da sua herança. ^v9
+**9** Pois a porção de Yahweh é Seu povo; Jacó é a Sua herança. ^v9
 
-**10** Achou-o numa terra deserta, e num ermo solitário cheio de uivos; cercou-o, instruiu-o, e guardou-o como a menina do seu olho. ^v10
+**10** Ele o encontrou em uma terra deserta, no deserto estéril de ventos uivantes; Ele o protegeu e cuidou dele; Ele o guardou como a pupila de Seus olhos. ^v10
 
-**11** Como a águia desperta a sua ninhada, move-se sobre os seus filhos, estende as suas asas, toma-os, e os leva sobre as suas asas, ^v11
+**11** Como a águia que guarda seu ninho, e voa ao redor de seus filhotes, assim Yahweh abriu Suas asas, tomou-os e os carregou sobre elas. ^v11
 
-**12** Assim só o Senhor o guiou; e não havia com ele deus estranho. ^v12
+**12** Yahweh sozinho o conduziu; nenhum deus estrangeiro o acompanhou. ^v12
 
-**13** Ele o fez cavalgar sobre as alturas da terra, e comer os frutos do campo, e o fez chupar mel da rocha e azeite da dura pederneira. ^v13
+**13** Ele o fez cavalgar sobre as alturas da terra, e o alimentou com os frutos do campo; alimentou-o com mel da rocha, e azeite da pedra dura. ^v13
 
-**14** Manteiga de vacas, e leite de ovelhas, com a gordura dos cordeiros e dos carneiros que pastam em Basã, e dos bodes, com o mais escolhido trigo; e bebeste o sangue das uvas, o vinho puro. ^v14
+**14** Ele comeu manteiga das vacas e tomou leite das ovelhas, com a gordura dos cordeiros, dos carneiros de Basã e dos bodes, com o melhor do trigo — e bebeste o vinho mais fino feito com o suco das uvas. ^v14
 
-**15** E, engordando-se Jesurum, deu coices (engordaste-te, engrossaste-te, e de gordura te cobriste) e deixou a Deus, que o fez, e desprezou a Rocha da sua salvação. ^v15
+**15** Mas Jesurum engordou e deu coices — tu engordaste, te engrossaste e te saciaste — ele abandonou a Deus, que o fez, e desprezou a Rocha da sua salvação. ^v15
 
-**16** Com deuses estranhos o provocaram a zelos; com abominações o irritaram. ^v16
+**16** Eles fizeram Yahweh ter ciúmes dos deuses estranhos, e O enfureceram com suas abominações. ^v16
 
-**17** Sacrifícios ofereceram aos demônios, não a Deus; aos deuses que não conheceram, novos deuses que vieram há pouco, aos quais não temeram vossos pais. ^v17
+**17** Eles sacrificaram aos demônios, e não a Deus — deuses desconhecidos, que haviam aparecido recentemente, que seus pais não temiam. ^v17
 
-**18** Esqueceste-te da Rocha que te gerou; e em esquecimento puseste o Deus que te formou; ^v18
+**18** Tu abandonaste a Rocha que te gerou e te esqueceste do Deus que te formou. ^v18
 
-**19** O que vendo o Senhor, os desprezou, por ter sido provocado à ira contra seus filhos e suas filhas; ^v19
+**19** Yahweh viu isto e os desprezou, porque Seus filhos e Suas filhas O provocaram. ^v19
 
-**20** E disse: Esconderei o meu rosto deles, verei qual será o seu fim; porque são geração perversa, filhos em quem não há lealdade. ^v20
+**20** """Eu esconderei deles a Minha face"", Ele disse: ""E verei qual será o seu fim, pois eles são uma geração perversa de filhos infiéis." ^v20
 
-**21** A zelos me provocaram com aquilo que não é Deus; com as suas vaidades me provocaram à ira: portanto eu os provocarei a zelos com o que não é povo; com nação louca os despertarei à ira. ^v21
+**21** Eles provocaram o Meu ciúme com aquilo que não é deus, e iraram-Me com seus ídolos sem valor. Portanto, Eu os provocarei ciúmes com aquele que não é povo; Eu os irritarei com uma nação insensata. ^v21
 
-**22** Porque um fogo se acendeu na minha ira, e arderá até ao mais profundo do inferno, e consumirá a terra com a sua colheita, e abrasará os fundamentos dos montes. ^v22
+**22** Porque um fogo se acendeu na Minha ira, e queimará até o mais baixo Sheol; devorará a terra e a sua colheita; queimará os alicerces dos montes. ^v22
 
-**23** Males amontoarei sobre eles; as minhas setas esgotarei contra eles. ^v23
+**23** Amontoarei desastres sobre eles, e esgotarei contra eles Minhas flechas. ^v23
 
-**24** Consumidos serão de fome, comidos pela febre ardente e de peste amarga; e contra eles enviarei dentes de feras, com ardente veneno de serpentes do pó. ^v24
+**24** Serão devastados pela fome, e consumidos pelo calor ardente e terrível destruição; Eu enviarei contra eles animais selvagens, e animais venenosos que rastejam no chão. ^v24
 
-**25** Por fora devastará a espada, e por dentro o pavor; ao jovem, juntamente com a virgem, assim à criança de peito como ao homem encanecido. ^v25
+**25** A espada devastará por fora, e por dentro das casas, o terror. Destruirá tanto os jovens quanto as virgens; tanto o bebê de peito quanto o ancião. ^v25
 
-**26** Eu disse: Por todos os cantos os espalharei; farei cessar a sua memória dentre os homens, ^v26
+**26** Eu disse que os espalharia por todos os cantos, e apagaria sua memória dentre os homens. ^v26
 
-**27** Se eu não receasse a ira do inimigo, para que os seus adversários não se iludam, e para que não digam: A nossa mão está exaltada; o Senhor não fez tudo isto. ^v27
+**27** Se não receasse a provocação do inimigo, para que seus adversários não dissessem, iludindo-se: 'Nossa mão está erguida; não foi Yahweh quem fez tudo isso'. ^v27
 
-**28** Porque são gente falta de conselhos, e neles não há entendimento. ^v28
+**28** Pois Israel é uma nação sem sabedoria, e não há neles entendimento. ^v28
 
-**29** Quem dera eles fossem sábios! Que isto entendessem, e atentassem para o seu fim! ^v29
+**29** Se fossem sábios, entenderiam isso e considerariam seu destino. ^v29
 
-**30** Como poderia ser que um só perseguisse mil, e dois fizessem fugir dez mil, se a sua Rocha os não vendera, e o Senhor os não entregara? ^v30
+**30** Como poderia um só perseguir mil, e dois pôr em fuga dez mil, a não ser que sua Rocha os tivesse vendido, e Yahweh os tivesse entregado? ^v30
 
-**31** Porque a sua rocha não é como a nossa Rocha, sendo até os nossos inimigos juízes disto. ^v31
+**31** Pois a nossa Rocha não é como a dos nossos inimigos, como eles mesmos admitem. ^v31
 
-**32** Porque a sua vinha é a vinha de Sodoma e dos campos de Gomorra; as suas uvas são uvas venenosas, cachos amargos têm. ^v32
+**32** Pois suas vinhas vêm das vinhas de Sodoma e dos campos de Gomorra; suas uvas são venenosas, e seus cachos são amargos. ^v32
 
-**33** O seu vinho é ardente veneno de serpentes, e peçonha cruel de víboras. ^v33
+**33** Seus vinhos são veneno de serpentes e peçonha mortal de víboras. ^v33
 
-**34** Não está isto guardado comigo? Selado nos meus tesouros? ^v34
+**34** Não tenho Eu guardado esses planos secretamente, selado em Meus tesouros? ^v34
 
-**35** Minha é a vingança e a recompensa, ao tempo que resvalar o seu pé; porque o dia da sua ruína está próximo, e as coisas que lhes hão de suceder, se apressam a chegar. ^v35
+**35** "Minha será a vingança e a retribuição, quando seus pés tropeçarem; pois o dia do desastre está próximo, e as coisas que virão aproximam-se rapidamente""." ^v35
 
-**36** Porque o Senhor fará justiça ao seu povo, e se compadecerá de seus servos; quando vir que o poder deles se foi, e não há preso nem desamparado. ^v36
+**36** Pois Yahweh fará justiça ao Seu povo, e terá compaixão dos Seus servos, quando Ele vir que o poder deles se foi, e não sobrou ninguém, nem escravos, nem livres. ^v36
 
-**37** Então dirá: Onde estão os seus deuses? A rocha em quem confiavam, ^v37
+**37** "Então, Ele dirá: ""Onde estão seus deuses, a rocha em que se refugiavam? —" ^v37
 
-**38** De cujos sacrifícios comiam a gordura, e de cujas libações bebiam o vinho? Levantem-se, e vos ajudem, para que haja para vós esconderijo. ^v38
+**38** os deuses que comiam a gordura de seus sacrifícios e bebiam o vinho de suas ofertas de libação? Que se levantem para ajudá-los, que sejam sua proteção. ^v38
 
-**39** Vede agora que eu, eu o sou, e mais nenhum deus há além de mim; eu mato, e eu faço viver; eu firo, e eu saro, e ninguém há que escape da minha mão. ^v39
+**39** Vede agora que Eu, Eu mesmo, sou Deus, e não há outro além de Mim; Eu mato e faço viver; Eu firo e curo; E não há quem vos possa salvar da Minha mão. ^v39
 
-**40** Porque levantarei a minha mão aos céus, e direi: Eu vivo para sempre. ^v40
+**40** Pois Eu levanto Minha mão ao céu e digo: Assim como Eu vivo para sempre, ^v40
 
-**41** Se eu afiar a minha espada reluzente, e se a minha mão travar o juízo, retribuirei a vingança sobre os meus adversários, e recompensarei aos que me odeiam. ^v41
+**41** quando Eu afiar Minha espada reluzente, e quando Minhas mãos começarem a trazer justiça, Eu retribuirei vingança aos Meus inimigos, e recompensarei os que Me odeiam. ^v41
 
-**42** Embriagarei as minhas setas de sangue, e a minha espada comerá carne; do sangue dos mortos e dos prisioneiros, desde a cabeça, haverá vinganças do inimigo. ^v42
+**42** "Embriagarei Minhas flechas com sangue, e a Minha espada devorará carne com o sangue dos mortos e cativos, e das cabeças dos líderes inimigos""." ^v42
 
-**43** Jubilai, ó nações, o seu povo, porque ele vingará o sangue dos seus servos, e sobre os seus adversários retribuirá a vingança, e terá misericórdia da sua terra e do seu povo. ^v43
+**43** Alegrai-vos, ó nações, com o povo de Deus, pois Ele vingará o sangue de vossos servos; Ele fará vingança aos vossos inimigos e Ele fará expiação por Sua terra e Seu povo. ^v43
 
-**44** E veio Moisés, e falou todas as palavras deste cântico aos ouvidos do povo, ele e Josué, filho de Num. ^v44
+**44** Moisés veio e recitou todas as palavras deste cântico na presença do povo, ele e Josué, filho de Num. ^v44
 
-**45** E, acabando Moisés de falar todas estas palavras a todo o Israel, ^v45
+**45** Então, Moisés terminou de recitar essas palavras a todo Israel, ^v45
 
-**46** Disse-lhes: Aplicai o vosso coração a todas as palavras que hoje testifico entre vós, para que as recomendeis a vossos filhos, para que tenham cuidado de cumprir todas as palavras desta lei. ^v46
+**46** "e disse-lhes: ""Aplicai vossas mentes a todas as palavras que hoje vos anuncio, para que ordeneis a vossos filhos que cumpram todas as palavras desta lei." ^v46
 
-**47** Porque esta palavra não vos é vã, antes é a vossa vida; e por esta mesma palavra prolongareis os dias na terra a qual, passando o Jordão, ides a possuir. ^v47
+**47** "Pois esta palavra não é sem valor para ti, porque é a vossa vida, e, através dela, prolongareis vossos dias nesta terra, que atravessareis o Jordão para possuir""." ^v47
 
-**48** Depois falou o Senhor a Moisés, naquele mesmo dia, dizendo: ^v48
+**48** Yahweh falou a Moisés naquele mesmo dia: ^v48
 
-**49** Sobe ao monte de Abarim, ao monte Nebo, que está na terra de Moabe, defronte de Jericó, e vê a terra de Canaã, que darei aos filhos de Israel por possessão. ^v49
+**49** """Sobe as montanhas de Abarim, ao monte Nebo, que está na terra de Moabe, em frente a Jericó. Tu verás a terra de Canaã, que Eu dou como propriedade ao povo de Israel." ^v49
 
-**50** E morre no monte ao qual subirás; e recolhe-te ao teu povo, como Arão teu irmão morreu no monte Hor, e se recolheu ao seu povo. ^v50
+**50** Tu morrerás na montanha que subirás, e serás reunido ao teu povo, assim como teu irmão, Arão, morreu no monte Hor e foi reunido ao seu povo. ^v50
 
-**51** Porquanto transgredistes contra mim no meio dos filhos de Israel, às águas de Meribá de Cades, no deserto de Zim; pois não me santificastes no meio dos filhos de Israel. ^v51
+**51** Pois fostes infiéis a Mim, em meio ao povo de Israel, nas águas de Meribá em Cades, no deserto de Zim; porque tu não Me santificaste entre o povo de Israel. ^v51
 
-**52** Pelo que verás a terra diante de ti, porém não entrarás nela, na terra que darei aos filhos de Israel. ^v52
+**52** "Tu verás a terra diante de ti, mas tu não entrarás na terra que Eu dou ao povo de Israel""." ^v52

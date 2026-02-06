@@ -1,73 +1,72 @@
 ---
-Livro: "[[2 Samuel|2 Samuel]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/2 Samuel|2 Samuel]]"
+tags: [biblia]
 ---
 
 # 2 Samuel 18
 
-**1** E Davi contou o povo que tinha consigo, e pôs sobre eles capitães de mil e capitães de cem. ^v1
+**1** Davi contou o número de soldados que estavam com ele e nomeou-lhes capitães de mil e capitães de cem. ^v1
 
-**2** E Davi enviou o povo, um terço sob o mando de Joabe, e outro terço sob o mando de Abisai, filho de Zeruia, irmão de Joabe, e outro terço sob o mando de Itai, o giteu; e disse o rei ao povo: Eu também sairei convosco. ^v2
+**2** "Ele enviou um terço do seu exército sob o comando de Joabe, outro terço sob o comando de Abisai, filho de Zeruia, irmão de Joabe, e ainda outro terço sob o comando de Itai, o geteu. O rei disse ao exército: ""Certamente, irei pessoalmente convosco""." ^v2
 
-**3** Porém o povo disse: Não sairás, porque, se formos obrigados a fugir, não se importarão conosco; e, ainda que metade de nós morra, não farão caso de nós, porque ainda, tais como nós somos, ajuntarás dez mil; melhor será, pois, que da cidade nos sirvas de socorro. ^v3
+**3** "Mas os homens lhe disseram: ""Não deverás ir à batalha, pois, se nós fugirmos, eles não se importarão conosco, ou, se metade de nós perecer, ainda não se importarão. Porém, tu és digno de dez mil de nós! Por isso, será melhor que, na cidade, tu estejas pronto para nos ajudar""." ^v3
 
-**4** Então disse-lhe Davi: O que bem parecer aos vossos olhos, farei. E o rei se pôs do lado da porta, e todo o povo saiu em centenas e em milhares. ^v4
+**4** "Então, o rei respondeu-lhes: ""Farei o que lhes parecer melhor"". O rei estava ao lado dos portões da cidade, enquanto todo o exército saía às centenas e aos milhares." ^v4
 
-**5** E o rei deu ordem a Joabe, e a Abisai, e a Itai, dizendo: Brandamente tratai, por amor de mim, ao jovem Absalão. E todo o povo ouviu quando o rei deu ordem a todos os capitães acerca de Absalão. ^v5
+**5** "O rei ordenou a Joabe, Abisai e Itai dizendo: ""Sede cuidadosos, por minha causa, com o jovem Absalão"". E todo o povo ouviu o rei ordenando isso aos capitães, a respeito de Absalão." ^v5
 
-**6** Saiu, pois, o povo ao campo, a encontrar-se com Israel, e deu-se a batalha no bosque de Efraim. ^v6
+**6** Então, o exército saiu para o campo, contra Israel, e a batalha se espalhou pela floresta de Efraim. ^v6
 
-**7** E ali foi ferido o povo de Israel, diante dos servos de Davi; e naquele mesmo dia houve ali uma grande derrota de vinte mil. ^v7
+**7** O exército de Israel foi derrotado ali, diante dos soldados de Davi e, naquele dia, houve um grande massacre de vinte mil homens. ^v7
 
-**8** Porque ali se derramou a batalha sobre a face de toda aquela terra; e foram mais os do povo que o bosque consumiu do que os que a espada consumiu naquele dia. ^v8
+**8** A batalha se estendeu por todas as partes do campo e mais homens foram mortos pela floresta do que pela espada. ^v8
 
-**9** E Absalão se encontrou com os servos de Davi; e Absalão ia montado num mulo; e, entrando o mulo debaixo dos espessos ramos de um grande carvalho, pegou-se-lhe a cabeça no carvalho, e ficou pendurado entre o céu e a terra; e o mulo, que estava debaixo dele, passou adiante. ^v9
+**9** Absalão encontrou alguns soldados do exército de Davi. Ele montava sua mula, a qual passou sob grossos galhos de um grande carvalho. Aconteceu que a cabeça de Absalão ficou presa nos galhos da árvore; ele ficou pendurado ali, entre os galhos e o chão, enquanto a mula seguiu pelo caminho. ^v9
 
-**10** O que vendo um homem, fez saber a Joabe, e disse: Eis que vi a Absalão pendurado num carvalho. ^v10
+**10** "Alguém viu isso e disse a Joabe. ""Olha, eu vi Absalão pendurado num carvalho!""." ^v10
 
-**11** Então disse Joabe ao homem que lho fizera saber: Pois que o viste, por que o não feriste logo ali em terra? E forçoso seria o eu dar-te dez moedas de prata e um cinto. ^v11
+**11** "Joabe disse ao homem que lhe contara sobre Absalão: ""Tu o vistes! Por que não o abatestes, lançando-o por terra? Eu teria lhe dado dez siclos de prata e um cinto""." ^v11
 
-**12** Disse, porém, aquele homem a Joabe: Ainda que eu pudesse pesar nas minhas mãos mil moedas de prata, não estenderia a minha mão contra o filho do rei, pois bem ouvimos que o rei te deu ordem a ti, e a Abisai, e a Itai, dizendo: Guardai-vos, cada um de vós, de tocar no jovem Absalão. ^v12
+**12** "O homem respondeu a Joabe: ""Ainda que eu recebesse mil siclos de prata, eu não teria estendido as mãos contra o filho do rei, pois nós todos ouvimos as ordens do rei a ti, Abisai e Itai, dizendo: 'Ninguém deve tocar no jovem Absalão'." ^v12
 
-**13** Ainda que cometesse mentira a risco da minha vida, nem por isso coisa nenhuma se esconderia ao rei; e tu mesmo te oporias. ^v13
+**13** "Se eu arriscasse minha vida por essa desobediência (e nada fica em oculto ao rei), tu terias me abandonado""." ^v13
 
-**14** Então disse Joabe: Não me demorarei assim contigo aqui. E tomou três dardos, e traspassou com eles o coração de Absalão, estando ele ainda vivo no meio do carvalho. ^v14
+**14** "Então, Joabe disse: ""Eu não esperarei por ti"". Assim, Joabe pegou três dardos e os lançou no coração de Absalão, atravessando-o quando este ainda estava vivo, pendurado no carvalho." ^v14
 
-**15** E o cercavam dez moços, que levaram as armas de Joabe. E feriram a Absalão, e o mataram. ^v15
+**15** Então, dez jovens que carregavam a armadura de Joabe cercaram Absalão e o atacaram, matando-o. ^v15
 
-**16** Então tocou Joabe a buzina, e voltou o povo de perseguir a Israel, porque Joabe deteve o povo. ^v16
+**16** Joabe tocou a trombeta e o exército regressou da perseguição a Israel, porque Joabe o reteve. ^v16
 
-**17** E tomaram a Absalão, e o lançaram no bosque, numa grande cova, e levantaram sobre ele um mui grande montão de pedras; e todo o Israel fugiu, cada um para a sua tenda. ^v17
+**17** Tomaram Absalão e o lançaram numa grande cova, na floresta. Eles enterraram seu corpo sob uma grade pilha de pedras, enquanto todo o Israel fugia, cada homem para sua própria casa. ^v17
 
-**18** Ora, Absalão, quando ainda vivia, tinha tomado e levantado para si uma coluna, que está no vale do rei, porque dizia: Filho nenhum tenho para conservar a memória do meu nome. E chamou aquela coluna pelo seu próprio nome; por isso até ao dia de hoje se chama o Pilar de Absalão. ^v18
+**18** "Ora, Absalão, quando vivo, construiu para si mesmo um grande altar no vale do rei, e disse: ""Eu não tenho filho para perpetuar a memória do meu nome"". Logo, ele colocou seu próprio nome naquele altar, que é chamado de Monumento a Absalão até o dia de hoje." ^v18
 
-**19** Então disse Aimaás, filho de Zadoque: Deixa-me correr, e denunciarei ao rei que já o Senhor o vingou da mão de seus inimigos. ^v19
+**19** "Então, Aimaaz, filho de Zadoque, disse: ""Deixa-me ir correndo ao rei para levar as boas notícias, de como Yahweh o resgatou da mão dos seus inimigos""." ^v19
 
-**20** Mas Joabe lhe disse: Tu não serás hoje o portador de novas, porém outro dia as levarás; mas hoje não darás a nova, porque é morto o filho do rei. ^v20
+**20** "Joabe respondeu a ele: ""Tu não serás, hoje, o portador das notícias; tu o farás em outro dia. Hoje, tu não darás nenhuma notícia porque o filho do rei está morto""." ^v20
 
-**21** E disse Joabe a Cusi: Vai tu, e dize ao rei o que viste. E Cusi se inclinou a Joabe, e correu. ^v21
+**21** "Então, Joabe disse ao cuxita: ""Vai, dize ao rei o que vistes"". O cuxita curvou-se diante de Joabe e correu." ^v21
 
-**22** E prosseguiu Aimaás, filho de Zadoque, e disse a Joabe: Seja o que for deixa-me também correr após Cusi. E disse Joabe: Para que agora correrias tu, meu filho, pois não tens mensagem conveniente? ^v22
+**22** "Aimaaz, filho de Zadoque, disse novamente a Joabe: ""Independentemente do que possa acontecer, por favor, deixa-me também correr e seguir o cuxita"". Joabe respondeu: ""Por que tu desejas correr, meu filho, visto que não terás nenhuma recompensa pela notícia?""." ^v22
 
-**23** Seja o que for, disse Aimaás, correrei. E Joabe lhe disse: Corre. E Aimaás correu pelo caminho da planície, e passou a Cusi. ^v23
+**23** "E disse Aimaaz: ""Aconteça o que for, irei"". Joabe, então, respondeu: ""Corra"". Aimaaz correu pelo caminho da planície e ultrapassou o cuxita." ^v23
 
-**24** E Davi estava assentado entre as duas portas; e a sentinela subiu ao terraço da porta junto ao muro; e levantou os olhos, e olhou, e eis que um homem corria só. ^v24
+**24** Davi estava sentado entre os portões internos e externos. O sentinela subiu ao telhado do portão e levantou seus olhos por cima dos muros. Quando olhou, viu um homem se aproximando, correndo sozinho. ^v24
 
-**25** Gritou, pois, a sentinela, e o disse ao rei: Se vem só, há novas em sua boca. E vinha andando e chegando. ^v25
+**25** "O sentinela anunciou e disse ao rei. Então, o rei disse: ""Se ele está só, deve haver notícias em seus lábios"". O corredor se aproximou da cidade." ^v25
 
-**26** Então viu a sentinela outro homem que corria, e a sentinela gritou ao porteiro, e disse: Eis que lá vem outro homem correndo só. Então disse o rei: Também traz este novas. ^v26
+**26** "Logo, o sentinela viu outro homem correndo, e o sentinela anunciou ao vigia do portão. Ele disse: ""Olha, há outro homem correndo sozinho"". O rei disse: ""Ele está trazendo notícias também""." ^v26
 
-**27** Disse mais a sentinela: Vejo o correr do primeiro, que parece ser o correr de Aimaás, filho de Zadoque. Então disse o rei: Este é homem de bem, e virá com boas novas. ^v27
+**27** "O sentinela, disse: ""Eu penso que o homem que corre na frente se parece com Aimaaz, filho de Zadoque"". O rei disse: ""Ele é um homem bom e está vindo com boas notícias""." ^v27
 
-**28** Gritou, pois, Aimaás, e disse ao rei: Paz. E inclinou-se ao rei com o rosto em terra, e disse: Bendito seja o SENHOR, que entregou os homens que levantaram a mão contra o rei meu senhor. ^v28
+**28** "Então, Aimaaz chamou o rei: ""Está tudo bem"". E ele se curvou diante do rei com seu rosto na terra e disse: ""Bendito seja Yahweh teu Deus! Ele entregou os homens que se levantaram contra meu senhor, o rei""." ^v28
 
-**29** Então disse o rei: Vai bem com o jovem, com Absalão? E disse Aimaás: Vi um grande alvoroço, quando Joabe mandou o servo do rei, e a mim teu servo; porém não sei o que era. ^v29
+**29** "Então, o rei respondeu: ""Está tudo bem com o jovem Absalão?"". Aimaaz respondeu: ""Quando Joabe, o servo do rei, me enviou a ti, rei, eu vi uma grande confusão, mas eu não sabia o que era""." ^v29
 
-**30** E disse o rei: Vira-te, e põe-te aqui. E virou-se, e parou. ^v30
+**30** "O rei disse: ""Fica aqui ao lado"". Então, Aimaaz aguardou ali ao lado." ^v30
 
-**31** E eis que vinha Cusi; e disse Cusi: Anunciar-se-á ao rei meu senhor que hoje o SENHOR te vingou da mão de todos os que se levantaram contra ti. ^v31
+**31** "Imediatamente, o cuxita chegou e disse: ""Tenho boas notícias ao meu senhor, o rei, pois hoje Yahweh te vingou de todos os que se levantaram contra ti""." ^v31
 
-**32** Então disse o rei a Cusi: Vai bem com o jovem, com Absalão? E disse Cusi: Sejam como aquele jovem os inimigos do rei meu senhor, e todos os que se levantam contra ti para mal. ^v32
+**32** "O rei, então, disse ao cuxita: ""Está tudo bem com o jovem Absalão?"". O cuxita respondeu: ""Os inimigos do meu senhor, o rei, e todos os que se levantaram contra ti para fazer-te mal sejam como aquele jovem""." ^v32
 
-**33** Então o rei se perturbou, e subiu à sala que estava por cima da porta, e chorou; e andando, dizia assim: Meu filho Absalão, meu filho, meu filho, Absalão! Quem me dera que eu morrera por ti, Absalão, meu filho, meu filho! ^v33
+**33** "Então, o rei ficou profundamente abalado, subiu aos aposentos acima do portão e chorou. Andando de um lado para outro, lamentava: ""Meu filho Absalão, meu filho, meu filho Absalão! Meu desejo é que eu tivesse morrido em teu lugar, Absalão, meu filho, meu filho!""." ^v33

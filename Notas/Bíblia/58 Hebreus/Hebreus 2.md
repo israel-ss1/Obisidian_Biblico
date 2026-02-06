@@ -1,43 +1,42 @@
 ---
-Livro: "[[Hebreus|Hebreus]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Hebreus|Hebreus]]"
+tags: [biblia]
 ---
 
 # Hebreus 2
 
-**1** Portanto, convém-nos atentar com mais diligência para as coisas que já temos ouvido, para que em tempo algum nos desviemos delas. ^v1
+**1** Portanto, devemos prestar mais atenção ao que nós temos ouvido, para que de maneira alguma nos apartemos disso. ^v1
 
-**2** Porque, se a palavra falada pelos anjos permaneceu firme, e toda a transgressão e desobediência recebeu a justa retribuição, ^v2
+**2** Pois, se a palavra falada pelos anjos se tornou firme, e toda transgressão e desobediência recebeu justa punição, ^v2
 
-**3** Como escaparemos nós, se não atentarmos para uma tão grande salvação, a qual, começando a ser anunciada pelo Senhor, foi-nos depois confirmada pelos que a ouviram; ^v3
+**3** como escaparemos se negligenciarmos tão grande salvação? Salvação esta que tendo sido anunciada inicialmente pelo Senhor, foi depois confirmada a nós pelos que a ouviram. ^v3
 
-**4** Testificando também Deus com eles, por sinais, e milagres, e várias maravilhas e dons do Espírito Santo, distribuídos por sua vontade? ^v4
+**4** Testemunhando Deus juntamente com eles, por meio de sinais, maravilhas e vários milagres e ainda por dons do Espírito Santo, distribuídos de acordo com a Sua vontade. ^v4
 
-**5** Porque não foi aos anjos que sujeitou o mundo futuro, de que falamos. ^v5
+**5** Pois não foi a anjos que Deus sujeitou o mundo vindouro, do qual estamos falando. ^v5
 
-**6** Mas em certo lugar testificou alguém, dizendo:Que é o homem, para que dele te lembres?Ou o filho do homem, para que o visites? ^v6
+**6** "Mas, em certo lugar, alguém testemunhou, dizendo: ""O que é o homem, para que dele Te lembres? Ou o filho do homem, para que o visites?" ^v6
 
-**7** Tu o fizeste um pouco menor do que os anjos,De glória e de honra o coroaste,E o constituíste sobre as obras de tuas mãos; ^v7
+**7** "Tu o fizeste um pouco menor que os anjos, de glória e de honra o coroaste. [Algumas versões antigas adicionam: ""e o constituíste sobre as obras das tuas mãos"".]" ^v7
 
-**8** Todas as coisas lhe sujeitaste debaixo dos pés.Ora, visto que lhe sujeitou todas as coisas, nada deixou que lhe não esteja sujeito. Mas agora ainda não vemos que todas as coisas lhe estejam sujeitas. ^v8
+**8** Todas as coisas sujeitaste debaixo dos seus pés. Pois ao sujeitar todas as coisas a ele, nada deixou que não lhe fosse sujeito. Porém, agora, ainda não vemos todas as coisas sujeitas a ele. ^v8
 
-**9** Vemos, porém, coroado de glória e de honra aquele Jesus que fora feito um pouco menor do que os anjos, por causa da paixão da morte, para que, pela graça de Deus, provasse a morte por todos. ^v9
+**9** Contudo, temos visto Aquele que se fez um pouco menor que os anjos, Jesus, por causa do sofrimento da morte, foi coroado de glória e de honra, para que, pela graça de Deus, provasse a morte por todo homem. ^v9
 
-**10** Porque convinha que aquele, para quem são todas as coisas, e mediante quem tudo existe, trazendo muitos filhos à glória, consagrasse pelas aflições o príncipe da salvação deles. ^v10
+**10** Porque convinha a Deus, para quem e por meio de quem todas as coisas existem, conduzindo muitos filhos à glória, aperfeiçoasse o Autor da salvação deles, por meio de sofrimentos. ^v10
 
-**11** Porque, assim o que santifica, como os que são santificados, são todos de um; por cuja causa não se envergonha de lhes chamar irmãos, ^v11
+**11** Pois, tanto o que santifica quanto os que são santificados, todos vêm de uma só fonte, Deus. Por essa razão, Aquele que os santifica não Se envergonha de lhes chamar irmãos. ^v11
 
-**12** Dizendo:Anunciarei o teu nome a meus irmãos,Cantar-te-ei louvores no meio da congregação. ^v12
+**12** "Ele diz: ""Proclamarei o Teu nome para os meus irmãos; cantarei a Teu respeito no meio da congregação""." ^v12
 
-**13** E outra vez: Porei nele a minha confiança. E outra vez: Eis-me aqui a mim, e aos filhos que Deus me deu. ^v13
+**13** "E de novo Ele diz: ""Nele confiarei"". E novamente: ""Veja, aqui estou Eu e os filhos que Deus Me deu""." ^v13
 
-**14** E, visto como os filhos participam da carne e do sangue, também ele participou das mesmas coisas, para que pela morte aniquilasse o que tinha o império da morte, isto é, o diabo; ^v14
+**14** Portanto, visto que os filhos de Deus compartilham carne e sangue, Jesus também compartilhou a mesma coisa, ou seja, por meio da morte Ele destruiu aquele que tem o poder da morte, isto é, o diabo. ^v14
 
-**15** E livrasse todos os que, com medo da morte, estavam por toda a vida sujeitos à servidão. ^v15
+**15** E, assim, Ele libertou todos aqueles que, por medo da morte, estavam sujeitos à escravidão por toda a vida. ^v15
 
-**16** Porque, na verdade, ele não tomou os anjos, mas tomou a descendência de Abraão. ^v16
+**16** Pois, certamente, não está preocupado em socorrer aos anjos, mas Ele socorre a descendência de Abraão. ^v16
 
-**17** Por isso convinha que em tudo fosse semelhante aos irmãos, para ser misericordioso e fiel sumo sacerdote naquilo que é de Deus, para expiar os pecados do povo. ^v17
+**17** Portanto, foi necessário que Ele fosse como Seus irmãos em todos os sentidos, para que se tornasse o Sumo Sacerdote misericordioso e fiel das coisas de Deus e, assim, fazer propiciação pelos pecados do povo. ^v17
 
-**18** Porque naquilo que ele mesmo, sendo tentado, padeceu, pode socorrer aos que são tentados. ^v18
+**18** Como Jesus sofreu, tendo sido tentado, Ele é capaz de ajudar aqueles que também estão sendo tentados. ^v18

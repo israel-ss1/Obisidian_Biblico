@@ -1,27 +1,26 @@
 ---
-Livro: "[[Salmos|Salmos]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Salmos|Salmos]]"
+tags: [biblia]
 ---
 
 # Salmos 112
 
-**1** Louvai ao SENHOR. Bem-aventurado o homem que teme ao SENHOR, que em seus mandamentos tem grande prazer. ^v1
+**1** Louvai a Yahweh. Bendito é o homem que obedece a Yahweh, que tem grande prazer em Seus mandamentos. ^v1
 
-**2** A sua semente será poderosa na terra; a geração dos retos será abençoada. ^v2
+**2** Seus descendentes serão poderosos na terra; os descendentes dos justos serão abençoados. ^v2
 
-**3** Prosperidade e riquezas haverá na sua casa, e a sua justiça permanece para sempre. ^v3
+**3** Prosperidade e riqueza estão em sua casa; Sua justiça durará para sempre. ^v3
 
-**4** Aos justos nasce luz nas trevas; ele é piedoso, misericordioso e justo. ^v4
+**4** A luz brilha nas trevas para os justos; Ele é gracioso, misericordioso e justo. ^v4
 
-**5** O homem bom se compadece, e empresta; disporá as suas coisas com juízo; ^v5
+**5** Feliz é o homem que se compadece e empresta dinheiro, que conduz seus negócios com honestidade. ^v5
 
-**6** Porque nunca será abalado; o justo estará em memória eterna. ^v6
+**6** Pois ele nunca será abalado; o homem justo será lembrado para sempre. ^v6
 
-**7** Não temerá maus rumores; o seu coração está firme, confiando no Senhor. ^v7
+**7** Ele não teme notícias ruins; ele é seguro, pois confia em Yahweh. ^v7
 
-**8** O seu coração está bem confirmado, ele não temerá, até que veja o seu desejo sobre os seus inimigos. ^v8
+**8** Seu coração é tranquilo e não sente medo, até que ele triunfe sobre seus adversários. ^v8
 
-**9** Ele espalhou, deu aos necessitados; a sua justiça permanece para sempre, e a sua força se exaltará em glória. ^v9
+**9** Ele dá generosamente aos pobres; sua justiça dura para sempre; ele será exaltado com honra. ^v9
 
-**10** O ímpio o verá, e se entristecerá; rangerá os dentes, e se consumirá; o desejo dos ímpios perecerá. ^v10
+**10** O perverso verá isso e ficará furioso; ele rangerá seus dentes e fugirá; o desejo dos perversos perecerá. ^v10

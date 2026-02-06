@@ -1,33 +1,32 @@
 ---
-Livro: "[[Juízes|Juízes]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Juízes|Juízes]]"
+tags: [biblia]
 ---
 
 # Juízes 17
 
-**1** E havia um homem da montanha de Efraim, cujo nome era Mica. ^v1
+**1** Havia um homem na região montanhosa de Efraim, e seu nome era Mica. ^v1
 
-**2** O qual disse à sua mãe: As mil e cem moedas de prata que te foram tiradas, por cuja causa lançaste maldições, e de que também me falaste, eis que esse dinheiro está comigo; eu o tomei. Então lhe disse sua mãe: Bendito do Senhor seja meu filho. ^v2
+**2** "Ele disse à sua mãe: ""As mil e cem peças de prata que foram tiradas de ti, pelo que falaste uma maldição (eu a escutei), olha aqui: eu tenho a prata comigo. Fui eu que a roubei"". Sua mãe lhe disse: ""Que Yahweh te abençoe, meu filho!""." ^v2
 
-**3** Assim restituiu as mil e cem moedas de prata à sua mãe; porém sua mãe disse: Inteiramente tenho dedicado este dinheiro da minha mão ao Senhor, para meu filho fazer uma imagem de escultura e uma de fundição; de sorte que agora to tornarei a dar. ^v3
+**3** "Ele devolveu as mil e cem peças de prata à sua mãe, e ela disse: ""Dedico esta prata à Yahweh, para que meu filho faça imagens de escultura e de metal de fundição. Assim, agora eu a devolvo a ti""." ^v3
 
-**4** Porém ele restituiu aquele dinheiro à sua mãe; e sua mãe tomou duzentas moedas de prata, e as deu ao ourives, o qual fez delas uma imagem de escultura e uma de fundição, que ficaram em casa de Mica. ^v4
+**4** Quando ele devolveu o dinheiro à sua mãe, ela tomou duzentas peças de prata e as deu a um ourives. Ele fez delas imagens de escultura e de metal de fundição, que foram colocadas na casa de Mica. ^v4
 
-**5** E teve este homem, Mica, uma casa de deuses; e fez um éfode e terafins, e consagrou um de seus filhos, para que lhe fosse por sacerdote. ^v5
+**5** Esse homem, Mica, tinha uma casa de ídolos. Ele fez um colete sacerdotal e alguns deuses da casa, e constituiu um de seus filhos como sacerdote. ^v5
 
-**6** Naqueles dias não havia rei em Israel; cada um fazia o que parecia bem aos seus olhos. ^v6
+**6** Não havia rei em Israel naqueles dias, e todos faziam o que lhes parecia certo aos seus próprios olhos. ^v6
 
-**7** E havia um moço de Belém de Judá, da tribo de Judá, que era levita, e peregrinava ali. ^v7
+**7** Havia um jovem de Belém de Judá, da família de Judá, que era levita. Ele estava ali para cumprir seus deveres. ^v7
 
-**8** E este homem partiu da cidade de Belém de Judá para peregrinar onde quer que achasse conveniente. Chegando ele, pois, à montanha de Efraim, até à casa de Mica, seguindo o seu caminho, ^v8
+**8** Esse homem deixou Belém de Judá para ir encontrar um lugar para morar. Enquanto viajava, ele veio à casa de Mica, na região montanhosa de Efraim. ^v8
 
-**9** Disse-lhe Mica: Donde vens? E ele lhe disse: Sou levita de Belém de Judá, e vou peregrinar onde quer que achar conveniente. ^v9
+**9** "Mica disse-lhe: ""De onde vens?"". O homem lhe respondeu: ""Eu sou um levita de Belém de Judá, e estou viajando para encontrar um lugar em que possa morar""." ^v9
 
-**10** Então lhe disse Mica: Fica comigo, e sê-me por pai e sacerdote; e cada ano te darei dez moedas de prata, e vestuário, e o sustento. E o levita entrou. ^v10
+**10** "Mica disse-lhe: ""Mora comigo e sê para mim um pai e sacerdote. Eu te darei dez peças de prata por ano, um conjunto de roupas e tua comida"". Então, o levita aceitou ficar em sua casa." ^v10
 
-**11** E consentiu o levita em ficar com aquele homem; e o moço lhe foi como um de seus filhos. ^v11
+**11** O levita estava contente em morar com aquele homem, e o jovem tornou-se para Mica como um de seus filhos. ^v11
 
-**12** E Mica consagrou o levita, e aquele moço lhe foi por sacerdote; e esteve em casa de Mica. ^v12
+**12** Mica separou o levita para os deveres sagrados, e o jovem tornou-se o seu sacerdote, e ficou na casa de Mica. ^v12
 
-**13** Então disse Mica: Agora sei que o SENHOR me fará bem; porquanto tenho um levita por sacerdote. ^v13
+**13** "Então, Mica disse: ""Agora eu sei que Yahweh me fará bem, porque este levita tornou-se o meu sacerdote""." ^v13

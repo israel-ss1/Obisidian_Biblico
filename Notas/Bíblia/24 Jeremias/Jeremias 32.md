@@ -1,95 +1,94 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Jeremias|Jeremias]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Jeremias|Jeremias]]"
+tags: [biblia]
 ---
 
 # Jeremias 32
 
-**1** A palavra que veio a Jeremias da parte do SENHOR, no ano décimo de Zedequias, rei de Judá, o qual foi o décimo oitavo de Nabucodonosor. ^v1
+**1** Esta é a palavra que veio de Yahweh a Jeremias no décimo ano de Zedequias, rei de Judá, no décimo oitavo ano de Nabucodonosor. ^v1
 
-**2** Ora, nesse tempo o exército do rei de babilônia cercava Jerusalém; e Jeremias, o profeta, estava encerrado no pátio da guarda que estava na casa do rei de Judá; ^v2
+**2** Naquele tempo, o exército do rei da Babilônia estava sitiando Jerusalém, e Jeremias, o profeta, estava preso no pátio da guarda, na casa do rei de Judá. ^v2
 
-**3** Porque Zedequias, rei de Judá, o tinha encerrado, dizendo: Por que profetizas tu, dizendo: Assim diz o SENHOR: Eis que entrego esta cidade na mão do rei de babilônia, e ele a tomará; ^v3
+**3** "Zedequias, rei de Judá, o prendeu, dizendo: ""Por que profetizas e dizes: 'Yahweh diz: Eu estou prestes a entregar esta cidade nas mãos do rei da Babilônia e ele a conquistará." ^v3
 
-**4** E Zedequias, rei de Judá, não escapará das mãos dos caldeus; mas certamente será entregue na mão do rei de babilônia, e com ele falará boca a boca, e os seus olhos verão os dele; ^v4
+**4** Zedequias, rei de Judá, não escapará das mãos dos babilônios, mas certamente será entregue na mãos do rei da Babilônia. Sua boca falará à boca do rei, e seus olhos verão os olhos do rei. ^v4
 
-**5** E ele levará Zedequias para babilônia, e ali estará, até que eu o visite, diz o SENHOR e, ainda que pelejeis contra os caldeus, não ganhareis? ^v5
+**5** "Ele levará Zedequias para a Babilônia e ficará lá, até que Eu cuide dele – essa é a declaração de Yahweh – ainda que lutes contra os babilônios, tu não serás bem sucedido.""" ^v5
 
-**6** Disse, pois, Jeremias: Veio a mim a palavra do Senhor, dizendo: ^v6
+**6** "Jeremias disse: ""A palavra de Yahweh veio a mim, dizendo:" ^v6
 
-**7** Eis que Hanameel, filho de Salum, teu tio, virá a ti dizendo: Compra para ti a minha herdade que está em Anatote, pois tens o direito de resgate para comprá-la. ^v7
+**7** "'Eis que Hanameel, filho de teu tio Salum, está vindo a ti e dirá: ""Compra o meu campo que está em Anatote, pois a ti pertence o direito de comprá-lo.""" ^v7
 
-**8** Veio, pois, a mim Hanameel, filho de meu tio, segundo a palavra do Senhor, ao pátio da guarda, e me disse: Compra agora a minha herdade que está em Anatote, na terra de Benjamim; porque teu é o direito de herança, e tens o resgate; compra-a para ti. Então entendi que isto era a palavra do Senhor. ^v8
+**8** "Então, como Yahweh declarou, Hanameel, filho do meu tio, veio a mim no pátio da guarda e me disse: ""Compra meu campo que está em Ananote, na terra de Benjamim, pois o direito de herança é teu. Compra-o para ti."" Então, eu soube que esta era a palavra de Yahweh." ^v8
 
-**9** Comprei, pois, a herdade de Hanameel, filho de meu tio, a qual está em Anatote; e pesei-lhe o dinheiro, dezessete siclos de prata. ^v9
+**9** Eu comprei de Hanameel, o filho do meu tio, o campo em Ananote, e pesei para ele dezessete siclos de prata. ^v9
 
-**10** E assinei a escritura, e selei-a, e fiz confirmar por testemunhas; e pesei-lhe o dinheiro numa balança. ^v10
+**10** Assinei a escritura, a selei, e chamei testemunhas para conferirem. Então pesei a prata numa balança. ^v10
 
-**11** E tomei a escritura da compra, selada segundo a lei e os estatutos, e a cópia aberta. ^v11
+**11** Depois, peguei a escritura da compra que estava selada, seguindo os termos e estatutos, bem como a escritura aberta. ^v11
 
-**12** E dei a escritura da compra a Baruque, filho de Nerias, filho de Maaséias, na presença de Hanameel, filho de meu tio e na presença das testemunhas, que subscreveram a escritura da compra, e na presença de todos os judeus que se assentavam no pátio da guarda. ^v12
+**12** Entreguei a escritura selada a Baruque, filho de Nerias, filho de Maseias, na frente de Hanameel, filho do meu tio, e das testemunhas que assinaram na escritura selada, e diante de todos os judeus que estavam sentados no pátio da guarda. ^v12
 
-**13** E dei ordem a Baruque, na presença deles, dizendo: ^v13
+**13** Então, ordenei a Baruque diante deles, dizendo: ^v13
 
-**14** Assim diz o Senhor dos Exércitos, o Deus de Israel: Toma estas escrituras, este auto de compra, tanto a selada, como a aberta, e coloca-as num vaso de barro, para que se possam conservar muitos dias. ^v14
+**14** """Yahweh dos Exércitos, o Deus de Israel, diz isto: 'Pegue estes documentos com a escritura de compra, tanto a selada como a aberta, os ponha em um jarro de barro, para que durem por muito tempo.'" ^v14
 
-**15** Porque assim diz o Senhor dos Exércitos, o Deus de Israel: Ainda se comprarão casas, e campos, e vinhas nesta terra. ^v15
+**15** "Porque Yahweh dos Exércitos, o Deus de Israel, diz: ""Casas, campos e vinhas serão comprados novamente nesta terra.""" ^v15
 
-**16** E depois que dei a escritura da compra a Baruque, filho de Nerias, orei ao Senhor, dizendo: ^v16
+**16** Depois de entregar a escritura de compra a Baruque, filho de Nerias, eu orei a Yahweh e disse: ^v16
 
-**17** Ah Senhor DEUS! Eis que tu fizeste os céus e a terra com o teu grande poder, e com o teu braço estendido; nada há que te seja demasiado difícil; ^v17
+**17** """Ah, Senhor Yahweh! Vê! Tu sozinho fizeste os céus e a terra pelo Teu grande poder e com Teu braço estendido. Nada que digas é difícil demais para que faças." ^v17
 
-**18** Tu que usas de benignidade com milhares, e retribuis a maldade dos pais ao seio dos filhos depois deles; o grande, o poderoso Deus cujo nome é o Senhor dos Exércitos; ^v18
+**18** Tu demonstras misericórdia a milhares e retribuis a iniquidade dos pais nos filhos. Tu és o Grande e Poderoso Deus, Yahweh dos Exércitos é o Teu nome! ^v18
 
-**19** Grande em conselho, e magnífico em obras; porque os teus olhos estão abertos sobre todos os caminhos dos filhos dos homens, para dar a cada um segundo os seus caminhos e segundo o fruto das suas obras; ^v19
+**19** Tu és grande em sabedoria e poderoso em obras, pois Teus olhos estão abertos para todas as pessoas, para dar a cada homem aquilo que ele merece, segundo a sua conduta. ^v19
 
-**20** Tu puseste sinais e maravilhas na terra do Egito até ao dia de hoje, tanto em Israel, como entre os outros homens, e te fizeste um nome, o qual tu tens neste dia. ^v20
+**20** Tu fizeste sinais e maravilhas na terra do Egito, até o dia de hoje; aqui em Israel e entre toda a humanidade, fizeste Teu nome conhecido. ^v20
 
-**21** E tiraste o teu povo Israel da terra do Egito, com sinais e com maravilhas, e com mão forte, e com braço estendido, e com grande espanto, ^v21
+**21** Pois trouxeste o teu povo, Israel, para fora do Egito com sinais e maravilhas, com mão forte, com braço estendido e com grande terror. ^v21
 
-**22** E lhes deste esta terra, que juraste a seus pais que lhes havias de dar, terra que mana leite e mel. ^v22
+**22** Então, deste a eles esta terra, a qual jurou que daria aos antepassados deles, uma terra que jorra leite e mel. ^v22
 
-**23** E entraram nela, e a possuíram, mas não obedeceram à tua voz, nem andaram na tua lei; tudo o que lhes mandaste que fizessem, eles não o fizeram; por isso ordenaste lhes sucedesse todo este mal. ^v23
+**23** E entraram e tomaram posse dela; mas eles não obedeceram à Tua voz, nem viveram em obediência à Tua lei. Eles não fizeram nada daquilo que ordenaste que fizessem, então trouxeste toda essa desgraça sobre eles. ^v23
 
-**24** Eis aqui os valados; já vieram contra a cidade para tomá-la, e a cidade está entregue na mão dos caldeus, que pelejam contra ela, pela espada, pela fome e pela pestilência; e o que disseste se cumpriu, e eis aqui o estás presenciando. ^v24
+**24** Olhai! Os cercos chegaram à cidade para conquistá-la. Pois pela espada, fome e peste a cidade foi entregue nas mãos dos babilônios, que lutam contra ela. Pois o que disseste que aconteceria, está acontecendo; e vede, Tu mesmo o vês. ^v24
 
-**25** Contudo tu me disseste, ó Senhor DEUS: Compra para ti o campo por dinheiro, e faze que o confirmem testemunhas, embora a cidade já esteja entregue na mão dos caldeus. ^v25
+**25** "E Tu me disseste: ""Compre um campo para ti com prata, e tenha testemunhas, mesmo que a cidade esteja sendo entregue nas mãos dos babilônios.""" ^v25
 
-**26** Então veio a palavra do Senhor a Jeremias, dizendo: ^v26
+**26** Esta é a palavra de Yahweh que veio a Jeremias, dizendo: ^v26
 
-**27** Eis que eu sou o Senhor, o Deus de toda a carne; acaso haveria alguma coisa demasiado difícil para mim? ^v27
+**27** """Olhai! Eu sou Yahweh, Deus de toda a humanidade. Existe algo que seja difícil demais para mim?""" ^v27
 
-**28** Portanto assim diz o SENHOR: Eis que eu entrego esta cidade na mão dos caldeus, e na mão de Nabucodonosor, rei de babilônia, e ele a tomará. ^v28
+**28** "Portanto, Yahweh diz isto: ""Vede, vou entregar esta cidade nas mãos dos babilônios, e Nabucodonosor, rei da Babilônia, a conquistará." ^v28
 
-**29** E os caldeus, que pelejam contra esta cidade, entrarão nela, e pôr-lhe-ão fogo, e queimarão, as casas sobre cujos terraços queimaram incenso a Baal e ofereceram libações a outros deuses, para me provocarem à ira. ^v29
+**29** Os babilônios que estão lutando contra esta cidade, entrarão e a incendiarão. Eles a queimarão, junto com as casas em cujos telhados as pessoas adoravam Baal e derramavam ofertas de bebidas a outros deuses, para Me provocarem. ^v29
 
-**30** Porque os filhos de Israel e os filhos de Judá não fizeram senão mal aos meus olhos, desde a sua mocidade; porque os filhos de Israel nada fizeram senão provocar-me à ira com as obras das suas mãos, diz o Senhor. ^v30
+**30** Pois o povo de Israel e de Judá, certamente, tem sido um povo que, desde a sua juventude, faz o que é mau diante dos Meus olhos. O povo de Israel, certamente, Me ofendeu com as práticas de suas mãos – esta é a declaração de Yahweh. ^v30
 
-**31** Porque para a minha ira e para o meu furor me tem sido esta cidade, desde o dia em que a edificaram, e até ao dia de hoje, para que a tirasse da minha presença; ^v31
+**31** Pois esta cidade tem sido uma provocação à Minha ira e fúria desde o dia em que eles a construíram. E tem sido assim até o dia de hoje. Então, Eu a removerei de diante de Mim, ^v31
 
-**32** Por causa de toda a maldade dos filhos de Israel, e dos filhos de Judá, que fizeram, para me provocarem à ira, eles e os seus reis, os seus príncipes, os seus sacerdotes, e os seus profetas, como também os homens de Judá e os moradores de Jerusalém. ^v32
+**32** por causa de toda a maldade do povo de Israel e Judá, das coisas que eles fizeram para Me provocar; eles, seus reis, príncipes, sacerdotes, profetas e todos os habitantes de Judá e de Jerusalém. ^v32
 
-**33** E viraram-me as costas, e não o rosto; ainda que eu os ensinava, madrugando e ensinando-os, contudo eles não deram ouvidos, para receberem o ensino. ^v33
+**33** Eles voltaram suas costas para Mim, ao invés de suas faces, mesmo que zelosamente os ensinasse. Eu tentei ensiná-los, mas nenhum deles escutou para receber instrução. ^v33
 
-**34** Antes puseram as suas abominações na casa que se chama pelo meu nome, para a profanarem. ^v34
+**34** Eles colocaram seus ídolos abomináveis na casa que se chama pelo Meu nome, para contaminá-la. ^v34
 
-**35** E edificaram os altos de Baal, que estão no Vale do Filho de Hinom, para fazerem passar seus filhos e suas filhas pelo fogo a Moloque; o que nunca lhes ordenei, nem veio ao meu coração, que fizessem tal abominação, para fazerem pecar a Judá. ^v35
+**35** "Depois, edificaram os altos de Baal no vale de Ben-Hinom, para sacrificar seus filhos e filhas a Moloque, algo que Eu não lhes ordenei, nem me passou pela mente que fizessem tal abominação, para fazerem Judá pecar.""" ^v35
 
-**36** E por isso agora assim diz o SENHOR, o Deus de Israel, acerca desta cidade, da qual vós dizeis: Já está dada na mão do rei de babilônia, pela espada, pela fome, e pela pestilência: ^v36
+**36** Portanto, Eu, Yahweh, o Deus de Israel, digo isto a respeito desta cidade, a cidade da qual vós falais: 'Está entregue nas mãos do rei da Babilônia pela espada, fome e peste.' ^v36
 
-**37** Eis que eu os congregarei de todas as terras, para onde os tenho lançado na minha ira, e no meu furor, e na minha grande indignação; e os tornarei a trazer a este lugar, e farei que habitem nele seguramente. ^v37
+**37** Vede, Eu estou prestes a reuni-los de todas as terras de onde os dispersei na Minha ira, fúria e grande raiva. Certamente, os trarei de volta a este lugar e permitirei que vivam em segurança. ^v37
 
-**38** E eles serão o meu povo, e eu lhes serei o seu Deus; ^v38
+**38** E eles serão o Meu povo, e Eu serei o seu Deus. ^v38
 
-**39** E lhes darei um mesmo coração, e um só caminho, para que me temam todos os dias, para seu bem, e o bem de seus filhos, depois deles. ^v39
+**39** Eu lhes darei um só coração e uma só forma de Me honrarem todos os dias, para o seu bem e o bem de seus filhos. ^v39
 
-**40** E farei com eles uma aliança eterna de não me desviar de fazer-lhes o bem; e porei o meu temor nos seus corações, para que nunca se apartem de mim. ^v40
+**40** E Eu estabelecerei uma aliança eterna com eles, não deixarei de fazer-lhes o bem. Porei o Meu temor no seu coração, e eles nunca mais se afastarão de Mim. ^v40
 
-**41** E alegrar-me-ei deles, fazendo-lhes bem; e plantá-los-ei nesta terra firmemente, com todo o meu coração e com toda a minha alma. ^v41
+**41** E Me regozijarei, fazendo o bem a eles. Eu os plantarei firmemente nesta terra com todo o Meu coração e toda a Minha vida. ^v41
 
-**42** Porque assim diz o Senhor: Como eu trouxe sobre este povo todo este grande mal, assim eu trarei sobre ele todo o bem que lhes tenho declarado. ^v42
+**42** Pois Yahweh diz isto: 'Assim como Eu trouxe essa grande desgraça sobre este povo, trarei sobre eles todo o bem que lhes tenho prometido. ^v42
 
-**43** E comprar-se-ão campos nesta terra, da qual vós dizeis: Está desolada, sem homens, sem animais; está entregue na mão dos caldeus. ^v43
+**43** "Então, campos serão comprados nesta terra, sobre a qual dizeis: ""Esta é uma terra arruinada, que não tem nem homens, nem animais. Ela foi entregue nas mãos dos babilônios.""" ^v43
 
-**44** Comprarão campos por dinheiro, e assinarão as escrituras, e as selarão, e farão que confirmem testemunhas, na terra de Benjamim, e nos contornos de Jerusalém, e nas cidades de Judá, e nas cidades das montanhas, e nas cidades das planícies, e nas cidades do sul; porque os farei voltar do seu cativeiro, diz o Senhor. ^v44
+**44** "Eles comprarão campos com prata; escrituras serão assinadas e seladas. Eles chamarão testemunhas na terra de Benjamim, nos lugares ao redor de Jerusalém, nas cidades de Judá, nas cidades da região montanhosa, nas cidades das planícies e nas cidades do sul. Pois Eu mudarei o destino deles, esta é a declaração de Yahweh.""" ^v44

@@ -1,71 +1,70 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Joel|Joel]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Joel|Joel]]"
+tags: [biblia]
 ---
 
 # Joel 2
 
-**1** Tocai a trombeta em Sião, e clamai em alta voz no meu santo monte; tremam todos os moradores da terra, porque o dia do SENHOR vem, já está perto; ^v1
+**1** """Tocai a trombeta em Sião e soai o alarme no Meu monte santo! Deixai que todos os habitantes da terra tremam de medo, pois o dia de Yahweh está chegando; de fato está perto." ^v1
 
-**2** Dia de trevas e de escuridão; dia de nuvens e densas trevas, como a alva espalhada sobre os montes; povo grande e poderoso, qual nunca houve desde o tempo antigo, nem depois dele haverá pelos anos adiante, de geração em geração. ^v2
+**2** É um dia de escuridão e melancolia, um dia de nuvens e densa escuridão. Como a aurora que se espalha pelas montanhas, um grande e poderoso exército está se aproximando. Nunca houve um exército como esse, e nunca haverá de novo, mesmo depois de muitas gerações. ^v2
 
-**3** Diante dele um fogo consome, e atrás dele uma chama abrasa; a terra diante dele é como o jardim do Éden, mas atrás dele um desolado deserto; sim, nada lhe escapará. ^v3
+**3** Um fogo está consumindo tudo na frente dele, e por detrás a chama está ardendo. À frente dele a terra é como o jardim do Éden, mas atrás há um deserto arruinado. De fato, nada escapará dele. ^v3
 
-**4** A sua aparência é como a de cavalos; e como cavaleiros assim correm. ^v4
+**4** A aparência do exército é como cavalos, e correm como cavaleiros. ^v4
 
-**5** Como o estrondo de carros, irão saltando sobre os cumes dos montes, como o ruído da chama de fogo que consome a pragana, como um povo poderoso, posto em ordem para o combate. ^v5
+**5** Eles saltam com um som como o dos carros de guerra no topo das montanhas, como o som de chama de fogo que devora a palha, como um poderoso exército pronto para a batalha. ^v5
 
-**6** Diante dele temerão os povos; todos os rostos se tornarão enegrecidos. ^v6
+**6** Na sua presença, o povo está em angústia, e todos os seus rostos tornam-se pálidos. ^v6
 
-**7** Como valentes correrão, como homens de guerra subirão os muros; e marchará cada um no seu caminho e não se desviará da sua fileira. ^v7
+**7** Eles correm como poderosos guerreiros, sobem os muros como soldados, marcham como em um só passo e não quebram suas fileiras. ^v7
 
-**8** Ninguém apertará a seu irmão; marchará cada um pelo seu caminho; sobre a mesma espada se arremessarão, e não serão feridos. ^v8
+**8** Nenhum deles empurra o outro para o lado; eles marcham cada um em seu caminho. Quebram as defesas e não saem da linha. ^v8
 
-**9** Irão pela cidade, correrão pelos muros, subirão às casas, entrarão pelas janelas como o ladrão. ^v9
+**9** Eles se apressam na cidade, correm no muro, sobem nas casas e passam pelas janelas como ladrões. ^v9
 
-**10** Diante dele tremerá a terra, abalar-se-ão os céus; o sol e a lua se enegrecerão, e as estrelas retirarão o seu resplendor. ^v10
+**10** A terra treme em frente deles; os céus tremem; o sol e a lua escurecem e as estrelas deixam de brilhar. ^v10
 
-**11** E o Senhor levantará a sua voz diante do seu exército; porque muitíssimo grande é o seu arraial; porque poderoso é, executando a sua palavra; porque o dia do Senhor é grande e mui terrível, e quem o poderá suportar? ^v11
+**11** Yahweh levanta a Sua voz diante do Seu exército, pois Seus guerreiros são muito numerosos, são fortes, aqueles que executam Seus comandos. Pois o dia de Yahweh é grande e muito terrível. Quem pode sobreviver? ^v11
 
-**12** Ainda assim, agora mesmo diz o Senhor: Convertei-vos a mim de todo o vosso coração; e isso com jejuns, e com choro, e com pranto. ^v12
+**12** """Ainda agora mesmo"", diz Yahweh, ""retornai para mim de todo o vosso coração, com jejum, choro e lamento""." ^v12
 
-**13** E rasgai o vosso coração, e não as vossas vestes, e convertei-vos ao Senhor vosso Deus; porque ele é misericordioso, e compassivo, e tardio em irar-se, e grande em benignidade, e se arrepende do mal. ^v13
+**13** Rasgai o vosso coração e não apenas as vossas roupas e voltai para Yahweh vosso Deus. Pois, Ele é gracioso e misericordioso, tardio para se irar, e grande em misericórdia e muda de idéia de infligir punição. ^v13
 
-**14** Quem sabe se não se voltará e se arrependerá, e deixará após si uma bênção, em oferta de alimentos e libação para o Senhor vosso Deus? ^v14
+**14** Quem sabe? Talvez Ele se voltará e se compadecerá, deixando uma bênção após Ele, uma oferta de cereais e bebida para Yahweh vosso Deus? ^v14
 
-**15** Tocai a trombeta em Sião, santificai um jejum, convocai uma assembléia solene. ^v15
+**15** Tocai a trombeta em Sião, convocai um santo jejum e uma assembleia santa. ^v15
 
-**16** Congregai o povo, santificai a congregação, ajuntai os anciãos, congregai as crianças, e os que mamam; saia o noivo da sua recâmara, e a noiva do seu aposento. ^v16
+**16** Congregai o povo, convocai uma assembleia santa. Ajuntai os anciãos, as crianças e os que mamam. Que os noivos saiam dos seus quartos, e as noivas, dos seus aposentos nupciais. ^v16
 
-**17** Chorem os sacerdotes, ministros do Senhor, entre o alpendre e o altar, e digam: Poupa a teu povo, ó Senhor, e não entregues a tua herança ao opróbrio, para que os gentios o dominem; por que diriam entre os povos: Onde está o seu Deus? ^v17
+**17** "Que os sacerdotes, os ministros de Yahweh, chorem entre o pórtico e o altar; que digam: ""Tem misericórdia do Teu povo, Yahweh, e não tragas vergonha para Tua herança, para que as nações governem sobre eles"". Por que diriam entre as nações: ""Onde está o teu Deus?""." ^v17
 
-**18** Então o Senhor se mostrou zeloso da sua terra, e compadeceu-se do seu povo. ^v18
+**18** Então Yahweh Se mostrou zeloso pela Sua terra, teve misericórdia do Seu povo. ^v18
 
-**19** E o Senhor, respondendo, disse ao seu povo: Eis que vos envio o trigo, e o mosto, e o azeite, e deles sereis fartos, e vos não entregarei mais ao opróbrio entre os gentios. ^v19
+**19** "Yahweh respondeu ao Seu povo: ""Eu vos mandarei grãos, vinho novo e azeite. Vós ficareis satisfeitos, e Eu não vos farei mais uma desgraça entre as nações." ^v19
 
-**20** Mas removerei para longe de vós o exército do norte, e lançá-lo-ei em uma terra seca e deserta; a sua frente para o mar oriental, e a sua retaguarda para o mar ocidental; e subirá o seu mau cheiro, e subirá a sua podridão; porque fez grandes coisas. ^v20
+**20** "Eu removerei para longe de vós o exército do norte, e os conduzirei para uma terra seca e abandonada. A dianteira do seu exército irá para o mar oriental e a sua retaguarda para o mar ocidental. Subirá o seu mau cheiro e subirá sua podridão"". Por que Ele tem feito grandes coisas." ^v20
 
-**21** Não temas, ó terra: regozija-te e alegra-te, porque o Senhor fez grandes coisas. ^v21
+**21** Não temas, terra, alegra-te e regozija-te, pois Yahweh fez grandes coisas. ^v21
 
-**22** Não temais, animais do campo, porque os pastos do deserto reverdecerão, porque o arvoredo dará o seu fruto, a vide e a figueira darão a sua força. ^v22
+**22** Não temais, feras do campo, pois os pastos do deserto brotarão, as árvores produzirão frutos e as figueiras e a vinhas produzirão com vigor. ^v22
 
-**23** E vós, filhos de Sião, regozijai-vos e alegrai-vos no Senhor vosso Deus, porque ele vos dará em justa medida a chuva temporã; fará descer a chuva no primeiro mês, a temporã e a serôdia. ^v23
+**23** Alegra-te, povo de Sião, e regozija-te em Yahweh, teu Deus. Pois Ele vos dará a chuva de outono no devido tempo, enviará muita chuva para ti, a chuva de outono e a chuva de primavera, assim como antes. ^v23
 
-**24** E as eiras se encherão de trigo, e os lagares trasbordarão de mosto e de azeite. ^v24
+**24** """A eira estará cheia de trigo e os tonéis transbordarão com vinho e azeite." ^v24
 
-**25** E restituir-vos-ei os anos que comeu o gafanhoto, a locusta, e o pulgão e a lagarta, o meu grande exército que enviei contra vós. ^v25
+**25** Eu vos restaurarei os anos que os gafanhotos comeram — o gafanhoto migrador, o gafanhoto devorador, o gafanhoto destruidor e o gafanhoto cortador — Meu poderoso exército que Eu mandei entre vós. ^v25
 
-**26** E comereis abundantemente e vos fartareis, e louvareis o nome do Senhor vosso Deus, que procedeu para convosco maravilhosamente; e o meu povo nunca mais será envergonhado. ^v26
+**26** Vós comereis abundantemente e vos saciareis, e louvareis o Nome de Yahweh, vosso Deus, que fez maravilhas no meio de vós, e Eu nunca trarei de novo vergonha ao Meu povo. ^v26
 
-**27** E vós sabereis que eu estou no meio de Israel, e que eu sou o Senhor vosso Deus, e que não há outro; e o meu povo nunca mais será envergonhado. ^v27
+**27** Vós sabereis que Eu estou no meio de Israel e que Eu Sou Yahweh, vosso Deus, e não há outro, e Eu nunca trarei vergonha para o Meu povo. ^v27
 
-**28** E há de ser que, depois derramarei o meu Espírito sobre toda a carne, e vossos filhos e vossas filhas profetizarão, os vossos velhos terão sonhos, os vossos jovens terão visões. ^v28
+**28** Acontecerá, depois, que derramarei Meu Espírito sobre toda carne, e vossos filhos e filhas profetizarão. Vossos idosos sonharão; vossos jovens terão visões. ^v28
 
-**29** E também sobre os servos e sobre as servas naqueles dias derramarei o meu Espírito. ^v29
+**29** Naqueles dias, derramarei Meu Espírito também sobre os servos e as servas. ^v29
 
-**30** E mostrarei prodígios no céu, e na terra, sangue e fogo, e colunas de fumaça. ^v30
+**30** Mostrarei maravilhas no céu e na terra; sangue, fogo e colunas de fumaça. ^v30
 
-**31** O sol se converterá em trevas, e a lua em sangue, antes que venha o grande e terrível dia do Senhor. ^v31
+**31** O sol se tornará em trevas e a lua em sangue, antes que venha o grande e terrível Dia de Yahweh. ^v31
 
-**32** E há de ser que todo aquele que invocar o nome do Senhor será salvo; porque no monte Sião e em Jerusalém haverá livramento, assim como disse o Senhor, e entre os sobreviventes, aqueles que o Senhor chamar. ^v32
+**32** E todo aquele que clamar pelo Nome de Yahweh será salvo. Pois, no monte Sião e em Jerusalém, estarão aqueles que escaparam, como Yahweh disse, e, entre os sobreviventes, aqueles a quem Yahweh chamar. [Nota: Normalmente, nas Bíblias católicas, o livro de Joel tem 4 capítulos, e nas protestantes, 3; mas o conteúdo é o mesmo: Joel 2:28-32 corresponde a Joel 3:1-5, enquanto o capítulo 3 corresponde ao 4 das católicas]. ^v32

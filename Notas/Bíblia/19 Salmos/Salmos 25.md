@@ -1,51 +1,48 @@
 ---
-Livro: "[[Salmos|Salmos]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Salmos|Salmos]]"
+tags: [biblia]
 ---
 
 # Salmos 25
 
-**1** A ti, SENHOR, levanto a minha alma. ^v1
+**2** Meu Deus, confio em Ti. Não permitas que eu seja humilhado, nem que meus inimigos se regozijem triunfantes sobre mim. ^v2
 
-**2** Deus meu, em ti confio, não me deixes confundido, nem que os meus inimigos triunfem sobre mim. ^v2
+**3** Nenhum dos que esperam em Ti sejam desonrados, mas que sejam envergonhados aqueles que agem traiçoeiramente, sem motivo. ^v3
 
-**3** Na verdade, não serão confundidos os que esperam em ti; confundidos serão os que transgridem sem causa. ^v3
+**4** Faze-me conhecer os Teus caminhos, Yahweh; ensina-me Tuas veredas. ^v4
 
-**4** Faze-me saber os teus caminhos, Senhor; ensina-me as tuas veredas. ^v4
+**5** Guia-me em Tua verdade e ensina-me, pois Tu és o Deus da minha salvação; em Ti está minha esperança o tempo todo. ^v5
 
-**5** Guia-me na tua verdade, e ensina-me, pois tu és o Deus da minha salvação; por ti estou esperando todo o dia. ^v5
+**6** Lembra-Te, Yahweh, dos Teus atos de compaixão e da Tua fidelidade à aliança, pois eles sempre existiram. ^v6
 
-**6** Lembra-te, Senhor, das tuas misericórdias e das tuas benignidades, porque são desde a eternidade. ^v6
+**7** Não Te lembres dos pecados ou da rebelião da minha juventude; lembra-Te de mim pela fidelidade à aliança, Yahweh, por causa da Tua bondade. ^v7
 
-**7** Não te lembres dos pecados da minha mocidade, nem das minhas transgressões; mas segundo a tua misericórdia, lembra-te de mim, por tua bondade, Senhor. ^v7
+**8** Yahweh é bom e justo; por isso, Ele ensina o caminho aos pecadores. ^v8
 
-**8** Bom e reto é o Senhor; por isso ensinará o caminho aos pecadores. ^v8
+**9** Ele guia os humildes naquilo que é justo e lhes ensina o Seu caminho. ^v9
 
-**9** Guiará os mansos em justiça e aos mansos ensinará o seu caminho. ^v9
+**10** Todos os caminhos de Yahweh são de amor constante e de fidelidade àqueles que guardam Sua aliança e Seus testemunhos. ^v10
 
-**10** Todas as veredas do Senhor são misericórdia e verdade para aqueles que guardam a sua aliança e os seus testemunhos. ^v10
+**11** Por amor do Teu nome, Yahweh, perdoa meu pecado, que é tão grande! ^v11
 
-**11** Por amor do teu nome, Senhor, perdoa a minha iniqüidade, pois é grande. ^v11
+**12** Quem é o homem que teme a Yahweh? O Senhor o instruirá no caminho que deve escolher. ^v12
 
-**12** Qual é o homem que teme ao Senhor? Ele o ensinará no caminho que deve escolher. ^v12
+**13** Ele habitará em prosperidade, e seus descendentes herdarão a terra. ^v13
 
-**13** A sua alma pousará no bem, e a sua semente herdará a terra. ^v13
+**14** A intimidade de Yahweh é para aqueles que O temem; Ele os faz conhecer a Sua aliança. ^v14
 
-**14** O segredo do Senhor é com aqueles que o temem; e ele lhes mostrará a sua aliança. ^v14
+**15** Meus olhos estão sempre em Yahweh, pois Ele tirará meus pés da armadilha. ^v15
 
-**15** Os meus olhos estão continuamente no Senhor, pois ele tirará os meus pés da rede. ^v15
+**16** Volta-Te para mim e tem misericórdia de mim, pois estou sozinho e aflito. ^v16
 
-**16** Olha para mim, e tem piedade de mim, porque estou solitário e aflito. ^v16
+**17** As tribulações do meu coração têm-se multiplicado; livra-me do meu sofrimento! ^v17
 
-**17** As ânsias do meu coração se têm multiplicado; tira-me dos meus apertos. ^v17
+**18** Vê minha aflição e minha fadiga; perdoa todos os meus pecados. ^v18
 
-**18** Olha para a minha aflição e para a minha dor, e perdoa todos os meus pecados. ^v18
+**19** Vê como são muitos os meus inimigos; eles me odeiam com ódio cruel. ^v19
 
-**19** Olha para os meus inimigos, pois se vão multiplicando e me odeiam com ódio cruel. ^v19
+**20** Protege minha vida e me resgata; não permitas que eu seja humilhado, pois em Ti me refugio! ^v20
 
-**20** Guarda a minha alma, e livra-me; não me deixes confundido, porquanto confio em ti. ^v20
+**21** Que a integridade e a retidão me protejam, pois eu espero em Ti. ^v21
 
-**21** Guardem-me a sinceridade e a retidão, porquanto espero em ti. ^v21
-
-**22** Redime, ó Deus, a Israel de todas as suas angústias. ^v22
+**22** Ó Deus, resgata Israel de todas as suas tribulações! ^v22

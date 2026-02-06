@@ -1,71 +1,70 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Neemias|Neemias]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Neemias|Neemias]]"
+tags: [biblia]
 ---
 
 # Neemias 3
 
-**1** E levantou-se Eliasibe, o sumo sacerdote, com os seus irmãos, os sacerdotes, e reedificaram a porta do gado, a qual consagraram; e levantaram as suas portas, e até à torre de Meá consagraram, e até à torre de Hananel. ^v1
+**1** Então, Eliasibe, o sumo sacerdote, dispôs-se com seus irmãos sacerdotes, e eles reconstruíram a Porta das Ovelhas. Consagraram-na e colocaram as portas no lugar. Depois continuaram até consagrar a torre dos cem e prosseguiram até consagrar a torre de Hananel. ^v1
 
-**2** E junto a ele edificaram os homens de Jericó; também ao seu lado edificou Zacur, filho de Imri. ^v2
+**2** Perto dele trabalharam os homens de Jericó e, logo adiante deles, Zacur, filho de Inri. ^v2
 
-**3** E à porta do peixe edificaram os filhos de Hassenaá; a qual emadeiraram, e levantaram as suas portas com as suas fechaduras e os seus ferrolhos. ^v3
+**3** Os filhos de Hassenaá reconstruíram a Porta do Peixe. Colocaram as vigas no lugar e instalaram as portas com seus ferrolhos e trancas. ^v3
 
-**4** E ao seu lado reparou Meremote, filho de Urias, o filho de Coz; e ao seu lado reparou Mesulão, filho de Berequias, o filho de Mesezabeel; e ao seu lado reparou Zadoque, filho de Baana. ^v4
+**4** Meremote reparou o trecho seguinte; ele é o filho de Urias, filho de Hacoz. E o próximo trecho foi reparado por Mesulão; ele é filho de Berequias, o qual é filho de Mesezabel. ^v4
 
-**5** E ao seu lado repararam os tecoítas; porém os seus nobres não submeteram a cerviz ao serviço de seu Senhor. ^v5
+**5** Os tecoítas fizeram a reconstrução próximo deles, mas os líderes deles recusaram-se a fazer o trabalho ordenado pelos seus supervisores. ^v5
 
-**6** E a porta velha repararam-na Joiada, filho de Paséia, e Mesulão, filho de Besodias; estes a emadeiraram, e levantaram as suas portas com as suas fechaduras e os seus ferrolhos. ^v6
+**6** Joiada, filho de Paseia, e Mesulão, filho de Besodeias, repararam o Porta Velha. Colocaram as vigas e puseram as portas, os ferrolhos e as trancas. ^v6
 
-**7** E ao seu lado repararam Melatias, o gibeonita, e Jadom, meronotita, homens de Gibeom e Mizpá, que pertenciam ao domínio do governador dalém do rio. ^v7
+**7** Próximo a eles, Melatias, o gibeonita, e Jadom, o merenotita, homens de Gibeão e Mispá, fizeram reparos na porção onde o governador da província dalém do rio morava. ^v7
 
-**8** Ao seu lado reparou Uziel, filho de Haraías, um dos ourives; e ao seu lado reparou Hananias, filho de um dos boticários; e fortificaram a Jerusalém até ao muro largo. ^v8
+**8** Próximo a ele, Uziel, filho de Haraías, um dos ourives, fez a reconstrução; e, próximo a ele, estava Hananias, um perfumista. Eles reconstríram Jerusalém até o muro Largo. ^v8
 
-**9** E ao seu lado reparou Refaías, filho de Hur, líder da metade de Jerusalém. ^v9
+**9** Refaías, filho de Hur, fez a reconstrução próximo a eles. Ele era o governador de metade do distrito de Jerusalém. ^v9
 
-**10** E ao seu lado reparou Jedaías, filho de Harumafe, e defronte de sua casa e ao seu lado reparou Hatus, filho de Hasabnéias. ^v10
+**10** Próximo a ele, Jedaías, filho de Harumafe, reconstruiu perto de sua casa. Próximo a ele reconstruiu Hatus, filho de Hasabneias. ^v10
 
-**11** A outra porção reparou Malquias, filho de Harim, e Hasube, filho de Paate-Moabe; como também a torre dos fornos. ^v11
+**11** Malquias, filho de Harim, e Hassube, filho de Paate-Moabe, reconstruíram outro trecho juntamente com a Torre dos Fornos. ^v11
 
-**12** E ao seu lado reparou Salum, filho de Haloés, líder da outra meia parte de Jerusalém, ele e suas filhas. ^v12
+**12** Próximo a eles, Salum filho de Haloés, o governador da outra metade do distrito de Jerusalém, fizeram a reconstrução com a ajuda de suas filhas. ^v12
 
-**13** A porta do vale reparou-a Hanum e os moradores de Zanoa; estes a edificaram, e lhe levantaram as portas com as suas fechaduras e os seus ferrolhos, como também mil côvados do muro, até a porta do monturo. ^v13
+**13** Hanum e os moradores de Zanoa reconstruíram o Portão do Vale. Eles o reconstruíram, colocaram as portas, os ferrolhos e as trancas. Eles repararam mil côvados até o Portão do Esterco. ^v13
 
-**14** E a porta do monturo reparou-a Malquias, filho de Recabe, líder do distrito de Bete-Haquerém; este a edificou, e lhe levantou as portas com as suas fechaduras e os seus ferrolhos. ^v14
+**14** Malquias, filho de Recabe, o governador do distrito de Bete-Haquerém, reparou o portão do Esterco. Ele o construiu, colocou as portas, os ferrolhos e as trancas. ^v14
 
-**15** E a porta da fonte reparou-a Salum, filho de Col-Hoze, líder do distrito de Mizpá; este a edificou, e a cobriu, e lhe levantou as portas com as suas fechaduras e os seus ferrolhos, como também o muro do tanque de Hasselá, ao pé do jardim do rei, e até aos degraus que descem da cidade de Davi. ^v15
+**15** Salum, filho de Col-Hoze, o governador do distrito de Mispá, reconstruiu a Porta da Fonte. Ele a construiu, colocou a porta, os ferrolhos e as trancas. Ele também reconstuiu o muro do tanque de Siloé, do jardim do rei, até os degraus que descem da cidade de Davi. ^v15
 
-**16** Depois dele edificou Neemias, filho de Azbuque, líder da metade de Bete-Zur, até defronte dos sepulcros de Davi, até ao tanque artificial e até à casa dos valentes. ^v16
+**16** Neemias, filho de Azbuque, governador da metade do distrito de Bete-Zur, fez os reparos até em frente ao sepulcro de Davi, até o açude artificial, e até a casa dos soldados. ^v16
 
-**17** Depois dele repararam os levitas, Reum, filho de Bani; ao seu lado reparou Hasabias, líder da metade de Queila, no seu distrito. ^v17
+**17** Depois dele, os levitas, incluindo Reum, filho de Bani e próximo a ele Hasabias, o governador da metade do distrito de Queila, fizeram os reparos no seu distrito. ^v17
 
-**18** Depois dele repararam seus irmãos, Bavai, filho de Henadade, líder da outra meia parte de Queila. ^v18
+**18** Depois dele, seus compatriotas, incluindo Bavai, filho de Henadade, o governador da metade do distrito de Queila fizeram reparos. ^v18
 
-**19** Ao seu lado reparou Ezer, filho de Jesuá, líder de Mizpá, outra porção, defronte da subida à casa das armas, à esquina. ^v19
+**19** Próximo a ele Ézer, filho de Jesua, governador de Mispá, reparou outro trecho em frente à subida para a casa de armas, até a esquina do muro. ^v19
 
-**20** Depois dele reparou com grande ardor Baruque, filho de Zabai, outra medida, desde a esquina até à porta da casa de Eliasibe, o sumo sacerdote. ^v20
+**20** Depois dele, Baruque, filho de Zabai, com muita dedicação fez reparos em outro trecho, desde a esquina do muro até a porta da casa de Eliasibe, o sumo sacerdote. ^v20
 
-**21** Depois dele reparou Meremote, filho de Urias, o filho de Coz, outra porção, desde a porta da casa de Eliasibe, até à extremidade da casa de Eliasibe. ^v21
+**21** Depois dele, Meremote, filho de Urias, filho de Hacoz, fez reparos em outro trecho, desde a porta da casa de Eliasibe até o fim dela. ^v21
 
-**22** E depois dele repararam os sacerdotes que habitavam na campina. ^v22
+**22** Próximo a ele, os sacerdotes que habitavam nos arredores de Jerusalém fizeram reparos. ^v22
 
-**23** Depois reparou Benjamim e Hasube, defronte da sua casa; depois dele reparou Azarias, filho de Maaséias, o filho de Ananias, junto à sua casa. ^v23
+**23** Depois deles, Benjamim e Hassube fizeram reparos defronte de suas próprias casas. Depois deles Azarias, filho de Maaseias, filho de Ananias, fez reparos perto de sua própria casa. ^v23
 
-**24** Depois dele reparou Binui, filho de Henadade, outra porção, desde a casa de Azarias até à esquina, e até ao canto. ^v24
+**24** Depois dele, Binuí, filho de Henadade fez reparos em outro trecho, desde a casa de Azarias até a esquina do muro. ^v24
 
-**25** Palal, filho de Uzai, reparou defronte da esquina, e a torre que sai da casa real superior, que está junto ao pátio da prisão; depois dele Pedaías, filho de Parós. ^v25
+**25** Palal, filho de Uzai, fez reparos defronte da esquina e da torre que sai da casa real superior, perto do pátio da guarda. Após ele, Pedaías, filho de Parós, fez reparos. ^v25
 
-**26** E os servidores do templo que habitavam em Ofel, até defronte da porta das águas, para o oriente, e até à torre alta. ^v26
+**26** Os servos do templo que moravam em Ofel, fizeram reparos até defronte da Porta da Água ao leste da grande torre. ^v26
 
-**27** Depois repararam os tecoítas outra porção, defronte da torre grande e alta, e até ao muro de Ofel. ^v27
+**27** Depois deles, os tecoítas fizeram reparos em outro trecho, oposto à grande torre, que sobressai até o muro de Ofel. ^v27
 
-**28** Desde acima da porta dos cavalos repararam os sacerdotes, cada um defronte da sua casa. ^v28
+**28** Os sacerdotes fizeram reparos em cima da Porta dos Cavalos; cada um em frente à sua própria casa. ^v28
 
-**29** Depois deles reparou Zadoque, filho de Imer, defronte da sua casa; e depois dele reparou Semaías, filho de Secanias, guarda da porta oriental. ^v29
+**29** Depois deles Zadoque, filho de Imer, reparou o trecho em frente à sua própria casa. E, depois dele, Semaías, filho de Secanias, o guarda da porta leste, fez reparos. ^v29
 
-**30** Depois dele reparou Hananias, filho de Selemias, e Hanum, filho de Zalafe, o sexto, outra porção; depois dele reparou Mesulão, filho de Berequias, defronte da sua câmara. ^v30
+**30** Depois deles, Hananias, filho de Selemias, e Hanum, o sexto filho de Zalafe, repararam outro trecho. Depois deles, Mesulão, filho de Berequias, fez reparos em frente à sua morada. ^v30
 
-**31** Depois dele reparou Malquias, filho de um ourives, até à casa dos servidores do templo e mercadores, defronte da porta de Mifcade, e até à câmara do canto. ^v31
+**31** Depois dele, Malquias, um dos ourives, fez reparos na casa dos servos do templo e dos mercadores que estava em frente à Porta da Guarda até a torre de vigia da esquina. ^v31
 
-**32** E entre a câmara do canto e a porta do gado, repararam os ourives e os mercadores. ^v32
+**32** E os ourives e comerciantes fizeram reparos entre a torre de vigia da esquina e a Porta das Ovelhas. ^v32

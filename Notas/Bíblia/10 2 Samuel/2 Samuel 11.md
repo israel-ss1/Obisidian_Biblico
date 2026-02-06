@@ -1,61 +1,60 @@
 ---
-Livro: "[[2 Samuel|2 Samuel]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/2 Samuel|2 Samuel]]"
+tags: [biblia]
 ---
 
 # 2 Samuel 11
 
-**1** E aconteceu que, tendo decorrido um ano, no tempo em que os reis saem à guerra, enviou Davi a Joabe, e com ele os seus servos, e a todo o Israel; e eles destruíram os filhos de Amom, e cercaram a Rabá; porém Davi ficou em Jerusalém. ^v1
+**1** Por ocasião da primavera, na época em que os reis normalmente vão à guerra, Davi enviou Joabe, seu servo, e todo o exército de Israel. Eles destruíram o exército de Amon e cercaram Rabá. Mas Davi ficou em Jerusalém. ^v1
 
-**2** E aconteceu que numa tarde Davi se levantou do seu leito, e andava passeando no terraço da casa real, e viu do terraço a uma mulher que se estava lavando; e era esta mulher mui formosa à vista. ^v2
+**2** Aconteceu que, em uma tarde, Davi levantou-se de sua cama e andou até o terraço de seu palácio. De lá, ele acabou vendo uma mulher que estava se banhando, e ela era muito bonita de se olhar. ^v2
 
-**3** E mandou Davi indagar quem era aquela mulher; e disseram: Porventura não é esta Bate-Seba, filha de Eliã, mulher de Urias, o heteu? ^v3
+**3** "Davi mandou perguntar às pessoas quem conheceria a mulher. Alguém disse: ""Não é essa Bate-Seba, filha de Eliã, e não é ela a mulher de Urias, o heteu?""." ^v3
 
-**4** Então enviou Davi mensageiros, e mandou trazê-la; e ela veio, e ele se deitou com ela (pois já estava purificada da sua imundícia); então voltou ela para sua casa. ^v4
+**4** Davi enviou mensageiros, e a trouxeram; ela veio até ele, e ele dormiu com ela, que havia acabado de se purificar do período menstrual. Depois, ela retornou à sua casa. ^v4
 
-**5** E a mulher concebeu; e mandou dizer a Davi: Estou grávida. ^v5
+**5** "A mulher concebeu e mandou avisar a Davi; ela disse: ""Estou grávida""." ^v5
 
-**6** Então Davi mandou dizer a Joabe: Envia-me Urias, o heteu. E Joabe enviou Urias a Davi. ^v6
+**6** "Então, Davi enviou mensagem a Joabe, dizendo: ""Traze-me Urias, o heteu"". Joabe trouxe Urias a Davi." ^v6
 
-**7** Vindo, pois, Urias a ele, perguntou Davi como passava Joabe, e como estava o povo, e como ia a guerra. ^v7
+**7** Quando Urias chegou, Davi lhe perguntou como Joabe estava, como o exército estava e como a guerra ia. ^v7
 
-**8** Depois disse Davi a Urias: Desce à tua casa, e lava os teus pés. E, saindo Urias da casa real, logo lhe foi mandado um presente da mesa do rei. ^v8
+**8** "Davi disse a Urias: ""Vai à tua casa e lava teus pés"". Assim, Urias deixou o palácio do rei, e este enviou um presente a Urias logo após sua saída." ^v8
 
-**9** Porém Urias se deitou à porta da casa real, com todos os servos do seu senhor; e não desceu à sua casa. ^v9
+**9** Porém, Urias dormiu às portas do palácio do rei, junto a todos os servos de seu senhor, e não foi para sua casa. ^v9
 
-**10** E fizeram saber isto a Davi, dizendo: Urias não desceu a sua casa. Então disse Davi à Urias: Não vens tu duma jornada? Por que não desceste à tua casa? ^v10
+**10** "Quando disseram a Davi: ""Urias não foi para sua casa"", Davi disse a Urias: ""Não vieste tu de uma jornada? Por que não foste para tua casa?""." ^v10
 
-**11** E disse Urias a Davi: A arca, e Israel, e Judá ficaram em tendas; e Joabe, meu senhor, e os servos de meu senhor estão acampados no campo; e hei de eu entrar na minha casa, para comer e beber, e para me deitar com minha mulher? Pela tua vida, e pela vida da tua alma, não farei tal coisa. ^v11
+**11** "Urias respondeu a Davi: ""A arca, Israel e Judá estão em tendas, meu mestre Joabe e os seus servos estão acampados em campo aberto. Como, então, posso ir para minha casa para comer, beber e dormir com minha esposa? Tão certo como tu vives, não farei isso""." ^v11
 
-**12** Então disse Davi a Urias: Demora-te aqui ainda hoje, e amanhã te despedirei. Urias, pois, ficou em Jerusalém aquele dia e o seguinte. ^v12
+**12** "Davi disse a Urias: ""Fica aqui também hoje, e amanhã deixarei que tu vás"". Então, Urias permaneceu em Jerusalém naquele dia e no dia seguinte." ^v12
 
-**13** E Davi o convidou, e comeu e bebeu diante dele, e o embebedou; e à tarde saiu a deitar-se na sua cama com os servos de seu senhor; porém não desceu à sua casa. ^v13
+**13** Quando Davi o chamou, ele comeu e bebeu diante dele, e Davi o embebedou. Ao anoitecer, Urias foi dormir em sua cama, com os servos de seu senhor; ele não retornou à sua casa. ^v13
 
-**14** E sucedeu que pela manhã Davi escreveu uma carta a Joabe; e mandou-lha por mão de Urias. ^v14
+**14** Logo pela manhã, Davi escreveu uma carta para Joabe e a enviou pelas mãos de Urias. ^v14
 
-**15** Escreveu na carta, dizendo: Ponde a Urias na frente da maior força da peleja; e retirai-vos de detrás dele, para que seja ferido e morra. ^v15
+**15** "Davi escreveu na carta, dizendo: ""Coloca Urias na frente mais intensa da batalha e, então, aparta-te dele, para que seja ferido e morto""." ^v15
 
-**16** Aconteceu, pois, que, tendo Joabe observado bem a cidade, pôs a Urias no lugar onde sabia que havia homens valentes. ^v16
+**16** Assim, ao observavar o cerco da cidade, Joabe designou Urias para o local onde sabia que os mais fortes soldados inimigos estariam batalhando. ^v16
 
-**17** E, saindo os homens da cidade, e pelejando com Joabe, caíram alguns do povo, dos servos de Davi; e morreu também Urias, o heteu. ^v17
+**17** Quando os homens da cidade saíram e lutaram contra o exército de Joabe, alguns dos soldados de Davi caíram, e Urias, o heteu, também foi morto lá. ^v17
 
-**18** Então enviou Joabe, e fez saber a Davi todo o sucesso daquela peleja. ^v18
+**18** Quando Joabe enviou notícias a Davi sobre tudo o que acontecia na guerra, ^v18
 
-**19** E deu ordem ao mensageiro, dizendo: Acabando tu de contar ao rei todo o sucesso desta peleja, ^v19
+**19** "ordenou ao mensageiro, dizendo: ""Quando tu terminares de contar todas as coisas sobre a guerra ao rei," ^v19
 
-**20** E sucedendo que o rei se encolerize, e te diga: Por que vos chegastes tão perto da cidade a pelejar? Não sabíeis vós que haviam de atirar do muro? ^v20
+**20** pode acontecer que ele fique com raiva e te diga: 'Por que fostes tão perto da cidade para lutar? Não sabíeis que eles atirariam da muralha? ^v20
 
-**21** Quem feriu a Abimeleque, filho de Jerubesete? Não lançou uma mulher sobre ele do muro um pedaço de uma mó corredora, de que morreu em Tebes? Por que vos chegastes ao muro? Então dirás: Também morreu teu servo Urias, o heteu. ^v21
+**21** "Quem matou Abimeleque, filho de Jerubesete? Não foi uma mulher que jogou uma pedra de moinho nele, do alto do muro, de forma que ele morreu em Tébez? Por que fostes tão perto da muralha?'. Então, deves responder: 'Teu servo Urias, o heteu, também está morto'""." ^v21
 
-**22** E foi o mensageiro, e entrou, e fez saber a Davi tudo o que Joabe o enviara a dizer. ^v22
+**22** Então, o mensageiro saiu e foi a Davi e lhe contou tudo o que Joabe mandou que dissesse. ^v22
 
-**23** E disse o mensageiro a Davi: Na verdade que mais poderosos foram aqueles homens do que nós, e saíram a nós ao campo; porém nós fomos contra eles, até à entrada da porta. ^v23
+**23** "E o mensageiro disse a Davi: ""O inimigo era mais forte do que nós no começo; eles saíram de encontro a nós, na batalha, mas os fizemos retroceder até à entrada do portão." ^v23
 
-**24** Então os flecheiros atiraram contra os teus servos desde o alto do muro, e morreram alguns dos servos do rei; e também morreu o teu servo Urias, o heteu. ^v24
+**24** "Então, os arqueiros deles atiraram em teus soldados, do alto da muralha; alguns dos servos do rei foram mortos e o teu servo Urias, o heteu, também foi morto""." ^v24
 
-**25** E disse Davi ao mensageiro: Assim dirás a Joabe: Não te pareça isto mal aos teus olhos; pois a espada tanto consome este como aquele; esforça a tua peleja contra a cidade, e a derrota; esforça-o tu assim. ^v25
+**25** "Davi, então, disse ao mensageiro: ""Diz isto a Joabe: 'Não deixes que isso te aflija, porque a espada devora um assim como o outro. Continua tua batalha ainda mais forte contra a cidade e supera isso' e encoraja-o""." ^v25
 
-**26** Ouvindo, pois, a mulher de Urias que seu marido era morto, lamentou a seu senhor. ^v26
+**26** Quando a mulher de Urias soube que seu marido estava morto, ela lamentou profundamente por seu marido. ^v26
 
-**27** E, passado o luto, enviou Davi, e a recolheu em sua casa, e lhe foi por mulher, e deu-lhe à luz um filho. Porém esta coisa que Davi fez pareceu mal aos olhos do Senhor. ^v27
+**27** Quando seu luto passou, Davi mandou que a trouxessem da sua casa ao palácio; ela tornou-se sua esposa e lhe deu um filho. Mas o que Davi fez desagradou Yahweh. ^v27

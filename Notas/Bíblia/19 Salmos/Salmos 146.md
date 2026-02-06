@@ -1,27 +1,26 @@
 ---
-Livro: "[[Salmos|Salmos]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Salmos|Salmos]]"
+tags: [biblia]
 ---
 
 # Salmos 146
 
-**1** Louvai ao Senhor. Ó minha alma, louva ao Senhor. ^v1
+**1** Louvado seja Yahweh. Louva, ó minha alma, a Yahweh. ^v1
 
-**2** Louvarei ao Senhor durante a minha vida; cantarei louvores ao meu Deus enquanto eu for vivo. ^v2
+**2** Eu louvarei Yahweh enquanto eu viver; eu cantarei louvores ao meu Deus enquanto eu existir. ^v2
 
-**3** Não confieis em príncipes, nem em filho de homem, em quem não há salvação. ^v3
+**3** Não deposites tua confiança em príncipes ou na humanidade, nos quais não há salvação. ^v3
 
-**4** Sai-lhe o espírito, volta para a terra; naquele mesmo dia perecem os seus pensamentos. ^v4
+**4** Quando o fôlego de vida de uma pessoa para, ela retorna ao pó; nesse dia, os planos terminam. ^v4
 
-**5** Bem-aventurado aquele que tem o Deus de Jacó por seu auxílio, e cuja esperança está posta no Senhor seu Deus. ^v5
+**5** Feliz é aquele que tiver o Deus de Jacó como auxílio, aquele cuja esperança está em Yahweh, seu Deus. ^v5
 
-**6** O que fez os céus e a terra, o mar e tudo quanto há neles, e o que guarda a verdade para sempre; ^v6
+**6** Yahweh fez os céus e a terra, o mar e tudo o que neles há; Ele mantém Sua fidelidade para sempre. ^v6
 
-**7** O que faz justiça aos oprimidos, o que dá pão aos famintos. O Senhor solta os encarcerados. ^v7
+**7** Ele executa justiça aos oprimidos e alimenta os famintos. Yahweh liberta os prisioneiros; ^v7
 
-**8** O Senhor abre os olhos aos cegos; o Senhor levanta os abatidos; o Senhor ama os justos; ^v8
+**8** Yahweh abre os olhos do cego; Yahweh eleva aqueles que foram humilhados; Yahweh ama as pessoas justas. ^v8
 
-**9** O Senhor guarda os estrangeiros; sustém o órfão e a viúva, mas transtorna o caminho dos ímpios. ^v9
+**9** Yahweh protege os estrangeiros na terra; Ele eleva os órfãos e as viúvas; Ele se opõe aos perversos. ^v9
 
-**10** O Senhor reinará eternamente; o teu Deus, ó Sião, de geração em geração. Louvai ao Senhor. ^v10
+**10** Yahweh reinará para sempre; o teu Deus, ó Sião, reinará por todas as gerações. Louvai a Yahweh. ^v10

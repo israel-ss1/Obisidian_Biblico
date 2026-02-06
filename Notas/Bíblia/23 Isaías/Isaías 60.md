@@ -1,51 +1,50 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Isaías|Isaías]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Isaías|Isaías]]"
+tags: [biblia]
 ---
 
 # Isaías 60
 
-**1** Levanta-te, resplandece, porque vem a tua luz, e a glória do SENHOR vai nascendo sobre ti; ^v1
+**1** Levanta-te, resplandece! Porque chegou a tua luz e a glória de Yahweh nasce sobre ti. ^v1
 
-**2** Porque eis que as trevas cobriram a terra, e a escuridão os povos; mas sobre ti o Senhor virá surgindo, e a sua glória se verá sobre ti. ^v2
+**2** Embora a escuridão cubra a terra e as densas trevas envolvam os povos, ainda assim, Yahweh resplandecerá sobre ti e a Sua glória será vista em ti. ^v2
 
-**3** E os gentios caminharão à tua luz, e os reis ao resplendor que te nasceu. ^v3
+**3** As nações caminharão para a tua luz e os reis, para o resplendor da tua aurora. ^v3
 
-**4** Levanta em redor os teus olhos, e vê; todos estes já se ajuntaram, e vêm a ti; teus filhos virão de longe, e tuas filhas serão criadas ao teu lado. ^v4
+**4** Olha ao redor e vê. Todos eles se reúnem e vêm a ti. Teus filhos virão de longe e tuas filhas serão carregadas nos braços. ^v4
 
-**5** Então o verás, e serás iluminado, e o teu coração estremecerá e se alargará; porque a abundância do mar se tornará a ti, e as riquezas dos gentios virão a ti. ^v5
+**5** Então, verás e ficarás radiante; o teu coração regozijará e transbordará de alegria, porque as riquezas do mar afluirão a ti e os tesouros das nações a ti virão. ^v5
 
-**6** A multidão de camelos te cobrirá, os dromedários de Midiã e Efá; todos virão de Sabá; ouro e incenso trarão, e publicarão os louvores do Senhor. ^v6
+**6** Caravanas de camelos te inundarão, os camelinhos de Midiã e Efá. Todos virão de Sabá, trazendo ouro e incenso, e cantarão louvores a Yahweh. ^v6
 
-**7** Todas as ovelhas de Quedar se congregarão a ti; os carneiros de Nebaiote te servirão; com agrado subirão ao meu altar, e eu glorificarei a casa da minha glória. ^v7
+**7** Todos os rebanhos de Quedar serão trazidos para junto de ti, os carneiros de Nebaiote te servirão. Serão ofertas agradáveis sobre o Meu altar, e Eu cobrirei de glória a Minha casa. ^v7
 
-**8** Quem são estes que vêm voando como nuvens, e como pombas às suas janelas? ^v8
+**8** Quem são esses que voam como nuvens, como pombas aos seus pombais? ^v8
 
-**9** Certamente as ilhas me aguardarão, e primeiro os navios de Társis, para trazer teus filhos de longe, e com eles a sua prata e o seu ouro, para o nome do Senhor teu Deus, e para o Santo de Israel, porquanto ele te glorificou. ^v9
+**9** As terras costeiras esperam em Mim; os navios de Társis vêm à frente para trazer os teus filhos de longe e, com eles, sua prata e seu ouro, para o nome de Yahweh, teu Deus, para o Santo de Israel, porque Ele te glorificou. ^v9
 
-**10** E os filhos dos estrangeiros edificarão os teus muros, e os seus reis te servirão; porque no meu furor te feri, mas na minha benignidade tive misericórdia de ti. ^v10
+**10** Filhos de estrangeiros reconstruirão os teus muros, e os seus reis te servirão; pois, se te castiguei em Minha ira, agora, na Minha graça, Eu terei misericórdia de ti. ^v10
 
-**11** E as tuas portas estarão abertas de contínuo, nem de dia nem de noite se fecharão; para que tragam a ti as riquezas dos gentios, e, conduzidos com elas, os seus reis. ^v11
+**11** Tuas portas permanecerão abertas continuamente; nem de dia nem de noite serão fechadas, para que a riqueza das nações seja trazida a ti, sendo conduzida por seus reis. ^v11
 
-**12** Porque a nação e o reino que não te servirem perecerão; sim, essas nações serão de todo assoladas. ^v12
+**12** De fato, as nações e os reinos que não te servirem perecerão; essas nações serão totalmente destruídas. ^v12
 
-**13** A glória do Líbano virá a ti; a faia, o pinheiro, e o álamo conjuntamente, para ornarem o lugar do meu santuário, e glorificarei o lugar dos meus pés. ^v13
+**13** A glória do Líbano virá a ti; o cipreste, o pinheiro e o abeto virão juntos para enfeitar o Meu santuário; e farei glorioso o lugar onde pisam Meus pés. ^v13
 
-**14** Também virão a ti, inclinando-se, os filhos dos que te oprimiram; e prostrar-se-ão às plantas dos teus pés todos os que te desprezaram; e chamar-te-ão a cidade do Senhor, a Sião do Santo de Israel. ^v14
+**14** Os filhos daqueles que te oprimiram virão e se curvarão diante de ti; todos os que te desprezavam se curvarão aos teus pés; eles te chamarão de Cidade de Yahweh, a Sião do Santo de Israel. ^v14
 
-**15** Em lugar de seres deixada, e odiada, de modo que ninguém passava por ti, far-te-ei uma excelência perpétua, um gozo de geração em geração. ^v15
+**15** Ao invés de permanecer abandonada e odiada, sem ninguém passando por ti, Eu te farei eterno motivo de orgulho e alegria, de geração em geração. ^v15
 
-**16** E mamarás o leite dos gentios, e alimentar-te-ás ao peito dos reis; e saberás que eu sou o Senhor, o teu Salvador, e o teu Redentor, o Poderoso de Jacó. ^v16
+**16** Tu beberás o leite das nações e te alimentarás do peito dos reis. Tu saberás que Eu, Yahweh, Sou teu Salvador e teu Redentor, o Poderoso de Jacó. ^v16
 
-**17** Por cobre trarei ouro, e por ferro trarei prata, e por madeira, bronze, e por pedras, ferro; e farei pacíficos os teus oficiais e justos os teus exatores. ^v17
+**17** Em vez de bronze, trarei ouro, em vez de ferro, trarei prata; em vez de madeira, bronze e, em vez de pedras, ferro; farei pacíficos os teus oficiais e justos os teus governantes. ^v17
 
-**18** Nunca mais se ouvirá de violência na tua terra, desolação nem destruição nos teus termos; mas aos teus muros chamarás Salvação, e às tuas portas Louvor. ^v18
+**18** Não mais se ouvirá sobre a violência em tua terra, nem sobre devastação ou destruição dentro de tuas fronteiras; mas aos teus muros chamarás Salvação, e às tuas portas, Louvor. ^v18
 
-**19** Nunca mais te servirá o sol para luz do dia nem com o seu resplendor a lua te iluminará; mas o Senhor será a tua luz perpétua, e o teu Deus a tua glória. ^v19
+**19** O sol não mais te servirá para luz durante o dia, nem o brilho da lua te iluminará à noite, mas Yahweh será a tua luz perpétua, o teu Deus será a tua glória. ^v19
 
-**20** Nunca mais se porá o teu sol, nem a tua lua minguará; porque o Senhor será a tua luz perpétua, e os dias do teu luto findarão. ^v20
+**20** Teu sol não mais voltará a se pôr, nem a tua lua se retirará e desaparecerá, porque Yahweh será a tua luz para sempre, e os teus dias de luto cessarão. ^v20
 
-**21** E todos os do teu povo serão justos, para sempre herdarão a terra; serão renovos por mim plantados, obra das minhas mãos, para que eu seja glorificado. ^v21
+**21** Todo o teu povo será justo; eles tomarão a posse da terra para sempre; serão o ramo da Minha plantação, obras das Minhas mãos, para que Eu seja glorificado. ^v21
 
-**22** O menor virá a ser mil, e o mínimo uma nação forte; eu, o Senhor, ao seu tempo o farei prontamente. ^v22
+**22** O menor virá a ser mil, e o mínimo, uma nação forte. Eu, Yahweh, farei estas coisas quando chegar a hora. ^v22

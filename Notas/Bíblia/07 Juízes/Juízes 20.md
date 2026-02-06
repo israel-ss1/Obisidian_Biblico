@@ -1,103 +1,102 @@
 ---
-Livro: "[[Juízes|Juízes]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Juízes|Juízes]]"
+tags: [biblia]
 ---
 
 # Juízes 20
 
-**1** Então todos os filhos de Israel saíram, e a congregação se ajuntou, perante o SENHOR em Mizpá, como se fora um só homem, desde Dã até Berseba, como também a terra de Gileade. ^v1
+**1** Então, todo o povo de Israel saiu, como um só homem, de Dã até Berseba, incluindo a terra de Gileade, e se reuniram diante de Yahweh, em Mispá. ^v1
 
-**2** E os principais de todo o povo, de todas as tribos de Israel, se apresentaram na congregação do povo de Deus; quatrocentos mil homens de pé que tiravam a espada ^v2
+**2** Os líderes de todo o povo e de todas as tribos de Israel tomaram os seus lugares na assembleia do povo de Deus. Quatrocentos mil homens a pé, capazes de lutar com a espada. ^v2
 
-**3** (Ouviram, pois, os filhos de Benjamim que os filhos de Israel haviam subido a Mizpá). E disseram os filhos de Israel: Falai, como sucedeu esta maldade? ^v3
+**3** "Ora, o povo de Benjamim soube que o povo de Israel havia subido a Mispá. E os israelitas disseram: ""Contai-nos como essa maldade ocorreu?""." ^v3
 
-**4** Então respondeu o homem levita, marido da mulher que fora morta, e disse: Cheguei com a minha concubina a Gibeá, cidade de Benjamim, para passar a noite. ^v4
+**4** "O levita, marido da mulher que havia sido assassinada, respondeu: ""Eu cheguei a Gibeá no território que pertence a Benjamim, eu e a minha concubina, para passarmos a noite." ^v4
 
-**5** E os cidadãos de Gibeá se levantaram contra mim, e cercaram a casa de noite; intentaram matar-me, e violaram a minha concubina, de maneira que morreu. ^v5
+**5** Durante a noite, os líderes de Gibeá me atacaram, cercando a casa com a intenção de me matar. Eles violentaram a minha concubina, e ela morreu. ^v5
 
-**6** Então peguei na minha concubina, e fi-la em pedaços, e a enviei por toda a terra da herança de Israel; porquanto fizeram tal malefício e loucura em Israel. ^v6
+**6** Eu tomei a minha concubina, cortei o seu corpo em pedaços e os enviei para cada região da herança de Israel, por tamanho mal e ultraje por eles cometido em Israel. ^v6
 
-**7** Eis que todos sois filhos de Israel; dai aqui a vossa palavra e conselho. ^v7
+**7** "Agora, todos vós, israelitas, dai aqui o vosso parecer e conselho!""." ^v7
 
-**8** Então todo o povo se levantou como um só homem, dizendo: Nenhum de nós irá à sua tenda nem nenhum de nós voltará à sua casa. ^v8
+**8** "Todo o povo se levantou como um só homem, e disse: ""Nenhum de nós irá para a sua tenda, e nenhum de nós voltará para casa!" ^v8
 
-**9** Porém isto é o que faremos a Gibeá: procederemos contra ela por sorte. ^v9
+**9** Porém, faremos isto a Gibeá: nós a atacaremos, conforme o que o sorteio nos determinar. ^v9
 
-**10** E de todas as tribos de Israel, tomaremos dez homens de cada cem, e cem de cada mil, e mil de cada dez mil, para providenciarem mantimento para o povo; para que, vindo ele a Gibeá de Benjamim, lhe façam conforme a toda a loucura que tem feito em Israel. ^v10
+**10** "Tomaremos dez homens de cada cem de todas as tribos de Israel, e cem de mil, e mil de dez mil, para fornecerem provisões para estes homens, para que, quando chegarem a Gibeá de Benjamim, eles os punam pela maldade que cometeram em Israel""." ^v10
 
-**11** Assim ajuntaram-se contra esta cidade todos os homens de Israel, unidos como um só homem. ^v11
+**11** Então, todos os soldados de Israel ajuntaram-se contra a cidade, unidos como se fossem um só homem. ^v11
 
-**12** E as tribos de Israel enviaram homens por toda a tribo de Benjamim, dizendo: Que maldade é esta que se fez entre vós? ^v12
+**12** "As tribos de Israel enviaram homens por toda a tribo de Benjamim, dizendo: ""Que maldade é essa que ocorreu entre vós?" ^v12
 
-**13** Dai-nos, pois, agora aqueles homens, filhos de Belial, que estão em Gibeá, para que os matemos, e tiremos de Israel o mal. Porém os filhos de Benjamim não quiseram ouvir a voz de seus irmãos, os filhos de Israel. ^v13
+**13** "Portanto, entregai-nos esses perversos homens de Gibeá, para que os matemos e, assim, removamos por completo o mal de Israel"". Porém, os benjamitas não deram ouvidos aos seus irmãos, o povo de Israel." ^v13
 
-**14** Antes os filhos de Benjamim se ajuntaram das cidades em Gibeá, para saírem a pelejar contra os filhos de Israel. ^v14
+**14** Então, o povo de Benjamim saiu das cidades e se reuniu em Gibeá, a fim de se preparar para lutar contra o povo de Israel. ^v14
 
-**15** E contaram-se naquele dia os filhos de Benjamim, das cidades, vinte e seis mil homens que tiravam a espada, afora os moradores de Gibeá, de que se contaram setecentos homens escolhidos. ^v15
+**15** O povo de Benjamim trouxe consigo, vindos de suas cidades para lutar naquele dia, vinte e seis mil soldados, que eram treinados para lutar com a espada. Além desses, havia setecentos homens selecionados dos habitantes de Gibeá. ^v15
 
-**16** Entre todo este povo havia setecentos homens escolhidos, canhotos, os quais atiravam com a funda uma pedra em um cabelo, e não erravam. ^v16
+**16** Entre todos esses soldados, havia setecentos homens selecionados que eram canhotos, cada um dos quais era capaz de atirar uma pedra, com a funda, num fio de cabelo sem errar. ^v16
 
-**17** E contaram-se dos homens de Israel, afora os de Benjamim, quatrocentos mil homens que tiravam da espada, e todos eles homens de guerra. ^v17
+**17** Os homens de Israel, sem incluir os de Benjamim, foram contados em quatrocentos mil. Todos treinados para lutar com a espada. Eram homens de guerra. ^v17
 
-**18** E levantaram-se os filhos de Israel, e subiram a Betel; e consultaram a Deus, dizendo: Quem dentre nós subirá primeiro a pelejar contra Benjamim? E disse o Senhor: Judá subirá primeiro. ^v18
+**18** "O povo de Israel levantou-se, subiu a Betel e consultou a Deus. Perguntaram-Lhe: ""Quem de nós atacará o povo de Benjamim primeiro?"". Yahweh disse: ""Judá atacará primeiro""." ^v18
 
-**19** Levantaram-se, pois, os filhos de Israel pela manhã, e acamparam-se contra Gibeá. ^v19
+**19** Os israelitas levantaram-se ao amanhecer e moveram o seu acampamento para próximo de Gibeá. ^v19
 
-**20** E os homens de Israel saíram à peleja contra Benjamim; e os homens de Israel ordenaram a batalha contra eles, ao pé de Gibeá. ^v20
+**20** Eles saíram para lutar contra Benjamim e tomaram seus postos de batalha contra eles, em Gibeá. ^v20
 
-**21** Então os filhos de Benjamim saíram de Gibeá, e derrubaram por terra, naquele dia, vinte e dois mil homens de Israel. ^v21
+**21** Os benjamitas saíram de Gibeá e mataram vinte e dois mil homens do exército de Israel naquele dia. ^v21
 
-**22** Porém esforçou-se o povo, isto é, os homens de Israel, e tornaram a ordenar a peleja no lugar onde no primeiro dia a tinham ordenado. ^v22
+**22** Mas os israelitas se fortaleceram e formaram uma linha de batalha no mesmo local em que haviam tomado suas posições no primeiro dia. ^v22
 
-**23** E subiram os filhos de Israel, e choraram perante o Senhor até à tarde, e perguntaram ao Senhor, dizendo: Tornar-me-ei a chegar à peleja contra os filhos de Benjamim, meu irmão? E disse o Senhor: Subi contra ele. ^v23
+**23** "Então, os israelitas subiram e choraram perante Yahweh até a tarde e buscaram a direção de Yahweh. Eles perguntaram: ""Devemos nos levantar novamente contra os nossos irmãos, os benjamitas?"". Yahweh disse: ""Atacai-os!""." ^v23
 
-**24** Chegaram-se, pois, os filhos de Israel aos filhos de Benjamim, no dia seguinte. ^v24
+**24** Então, os israelitas foram enfrentar os benjamitas no segundo dia. ^v24
 
-**25** Também os de Benjamim no dia seguinte lhes saíram ao encontro fora de Gibeá, e derrubaram ainda por terra mais dezoito mil homens, todos dos que tiravam a espada. ^v25
+**25** Nesse segundo dia, o exército de Benjamim veio de Gibeá ao encontro deles, e matou dezoito mil homens do povo de Israel. Todos esses eram treinados para lutar com a espada. ^v25
 
-**26** Então todos os filhos de Israel, e todo o povo, subiram, e vieram a Betel e choraram, e estiveram ali perante o Senhor, e jejuaram aquele dia até à tarde; e ofereceram holocaustos e ofertas pacíficas perante o Senhor. ^v26
+**26** Então, todos os guerreiros de Israel, e todo o povo, subiram a Betel e choraram. E ali ficaram sentados diante de Yahweh. Eles jejuaram naquele dia até a tarde e ofereceram holocaustos e ofertas pacíficas perante Yahweh. ^v26
 
-**27** E os filhos de Israel perguntaram ao Senhor (porquanto a arca da aliança de Deus estava ali naqueles dias; ^v27
+**27** O povo de Israel perguntou a Yahweh (porque, naqueles dias, a Arca da Aliança de Deus estava presente ali, ^v27
 
-**28** E Finéias, filho de Eleazar, filho de Arão, estava perante ele naqueles dias), dizendo: Tornarei ainda a pelejar contra os filhos de Benjamim, meu irmão, ou pararei? E disse o Senhor: Subi, que amanhã eu to entregarei na mão. ^v28
+**28** "e Fineias, filho de Eleazar, filho de Arão, estava ministrando perante a Arca naqueles dias): ""Devemos partir para a batalha mais uma vez contra os benjamitas, nossos irmãos, ou devemos parar?"". Yahweh disse: ""Atacai, porque amanhã Eu vos auxiliarei a derrotá-los""." ^v28
 
-**29** Então Israel pôs emboscadas em redor de Gibeá. ^v29
+**29** Então, Israel posicionou homens em locais secretos ao redor de Gibeá. ^v29
 
-**30** E subiram os filhos de Israel ao terceiro dia contra os filhos de Benjamim, e ordenaram a peleja junto a Gibeá, como das outras vezes. ^v30
+**30** Os israelitas lutaram contra os benjamitas no terceiro dia, e formaram suas linhas de batalha contra Gibeá, como haviam feito antes. ^v30
 
-**31** Então os filhos de Benjamim saíram ao encontro do povo, e desviaram-se da cidade; e começaram a ferir alguns do povo, atravessando-os, como das outras vezes, pelos caminhos (um dos quais sobe para Betel, e o outro para Gibeá pelo campo), uns trinta dos homens de Israel. ^v31
+**31** Os benjamitas saíram e lutaram contra o povo, e foram atraídos para longe da cidade. Eles começaram a matar alguns do povo. Ali, cerca de trinta homens de Israel morreram nos campos e nas estradas. Uma das estradas subia para Betel e outra ia para Gibeá. ^v31
 
-**32** Então os filhos de Benjamim disseram: Estão derrotados diante de nós como dantes. Porém os filhos de Israel disseram: Fujamos, e desviemo-los da cidade para os caminhos. ^v32
+**32** "Então, os benjamitas disseram: ""Eles estão derrotados e fogem de nós, como antes"". Mas os soldados de Israel disseram: ""Vamos recuar e atraí-los para fora da cidade, para as estradas""." ^v32
 
-**33** Então todos os homens de Israel se levantaram do seu lugar, e ordenaram a peleja em Baal-Tamar; e a emboscada de Israel saiu do seu lugar, da caverna de Gibeá. ^v33
+**33** Todos os homens de Israel levantaram-se de seus postos e formaram-se em linha de batalha em Baal-Tamar. Então, os soldados de Israel que se encontravam escondidos nos locais estratégicos atacaram de suas posições, a oeste de Gibeá. ^v33
 
-**34** E dez mil homens escolhidos de todo o Israel vieram contra Gibeá, e a peleja se agravou; porém eles não sabiam o mal que lhes tocaria. ^v34
+**34** Saíram dez mil homens selecionados de todo o Israel, contra Gibeá, e a batalha tornou-se feroz, mas os benjamitas não sabiam que o desastre estava próximo deles. ^v34
 
-**35** Então feriu o Senhor a Benjamim diante de Israel; e destruíram os filhos de Israel, naquele dia, vinte e cinco mil e cem homens de Benjamim, todos dos que tiravam a espada. ^v35
+**35** Yahweh derrotou Benjamim perante Israel. Naquele dia, os soldados de Israel mataram vinte e cinco mil e cem homens de Benjamim. Todos esses que morreram foram treinados para lutar com a espada. ^v35
 
-**36** E viram os filhos de Benjamim que estavam feridos; porque os homens de Israel deram lugar aos benjamitas, porquanto estavam confiados na emboscada que haviam posto contra Gibeá. ^v36
+**36** Assim, os soldados de Benjamim viram que estavam derrotados. Os homens de Israel haviam cedido terreno a Benjamim, pois estavam contando com os homens que haviam-se posicionado nos locais secretos fora de Gibeá. ^v36
 
-**37** E a emboscada se apressou, e acometeu a Gibeá; e a emboscada arremeteu contra ela, e feriu ao fio da espada toda a cidade. ^v37
+**37** Então, os homens que estavam se escondendo levantaram-se e avançaram em direção a Gibeá e, ao fio de espada, mataram todos os que estavam na cidade. ^v37
 
-**38** E os homens de Israel tinham um sinal determinado com a emboscada, que era fazer levantar da cidade uma grande nuvem de fumaça. ^v38
+**38** O sinal combinado entre os soldados de Israel e os que estavam escondidos era que uma grande nuvem de fumaça subiria da cidade. ^v38
 
-**39** Viraram-se, pois, os homens de Israel na peleja; e já Benjamim começava a ferir, dos homens de Israel, quase trinta homens, pois diziam: Já infalivelmente estão derrotados diante de nós, como na peleja passada. ^v39
+**39** "Quando o sinal foi enviado, os soldados de Israel se afastaram da batalha. Ora, os homens de Benjamim já haviam começado a atacar, e mataram em torno de trinta homens de Israel, e disseram: ""É certo que estão derrotados perante nós, como na primeira batalha""." ^v39
 
-**40** Então a nuvem de fumaça começou a se levantar da cidade, como uma coluna; e, virando-se Benjamim a olhar para trás de si, eis que a fumaça da cidade subia ao céu. ^v40
+**40** Mas, quando a coluna de fumaça começou a subir, os benjamitas viraram-se para trás e viram a fumaça subindo ao céu, vinda da cidade. ^v40
 
-**41** E os homens de Israel viraram os rostos, e os homens de Benjamim pasmaram; porque viram que o mal lhes tocaria. ^v41
+**41** Então, os israelitas voltaram-se contra eles. Os homens de Benjamim ficaram aterrorizados, pois viram que o desastre havia chegado sobre eles. ^v41
 
-**42** E viraram as costas diante dos homens de Israel, para o caminho do deserto; porém a peleja os apertou; e os que saíam das cidades os destruíram no meio deles. ^v42
+**42** Eles fugiram dos homens de Israel, escapando rumo ao deserto. Mas a batalha os alcançou. Os soldados de Israel saíram das cidades e os mataram onde eles estavam. ^v42
 
-**43** E cercaram aos de Benjamim, e os perseguiram, e à vontade os pisaram, até diante de Gibeá, para o nascente do sol. ^v43
+**43** Cercaram os benjamitas e foram atrás deles, e os esmagaram em Noá, ao longo do caminho, até o leste de Gibeá. ^v43
 
-**44** E caíram de Benjamim dezoito mil homens, todos estes sendo homens valentes. ^v44
+**44** Da tribo de Benjamim, dezoito mil morreram. Todos eles eram homens que se destacavam na batalha. ^v44
 
-**45** Então viraram as costas, e fugiram para o deserto, à penha de Rimom; colheram ainda deles pelos caminhos uns cinco mil homens; e de perto os seguiram até Gidom, e feriram deles dois mil homens. ^v45
+**45** Eles se viraram e fugiram rumo ao deserto para a rocha de Rimom. Mas os israelitas mataram ainda cinco mil deles ao longo das estradas. E continuaram a perseguição, seguindo-os de perto até Gidom, e ali mataram mais dois mil. ^v45
 
-**46** E, todos os que caíram de Benjamim, naquele dia, foram vinte e cinco mil homens que tiravam a espada, todos eles homens valentes. ^v46
+**46** Todos os soldados de Benjamim que caíram naquele dia foram vinte e cinco mil homens treinados para lutar com a espada. Todos esses se destacavam na batalha. ^v46
 
-**47** Porém seiscentos homens viraram as costas, e fugiram para o deserto, à penha de Rimom; e ficaram na penha de Rimom quatro meses. ^v47
+**47** Mas seiscentos homens se viraram e fugiram para o deserto, rumo à rocha de Rimom, e ali ficaram por quatro meses. ^v47
 
-**48** E os homens de Israel voltaram para os filhos de Benjamim, e os feriram ao fio da espada, desde os homens da cidade até aos animais, até a tudo quanto se achava, como também a todas as cidades, quantas acharam, puseram fogo. ^v48
+**48** Os soldados de Israel se voltaram contra os benjamitas e os mataram a fio de espada, incluindo os que estavam nas cidades, o gado, e tudo o que encontravam. Por fim, queimaram todos os povoados pelo caminho. ^v48

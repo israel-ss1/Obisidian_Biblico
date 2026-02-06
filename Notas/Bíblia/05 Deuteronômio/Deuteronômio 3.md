@@ -1,65 +1,64 @@
 ---
-Livro: "[[Deuteronômio|Deuteronômio]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Deuteronômio|Deuteronômio]]"
+tags: [biblia]
 ---
 
 # Deuteronômio 3
 
-**1** Depois nos viramos e subimos o caminho de Basã; e Ogue, rei de Basã, nos saiu ao encontro, ele e todo o seu povo, à peleja em Edrei. ^v1
+**1** Depois, viramos e subimos o caminho de Basã. Ogue, rei de Basã, veio com todo o seu povo e atacou-nos, para lutar em Edrei. ^v1
 
-**2** Então o Senhor me disse: Não o temas, porque a ele e a todo o seu povo, e a sua terra, tenho dado na tua mão; e far-lhe-ás como fizeste a Siom, rei dos amorreus, que habitava em Hesbom. ^v2
+**2** Então, disse-me Yahweh: 'Não o temas, porque Eu o entregarei em tuas mãos, ele e todo seu povo e sua terra. Farás a ele o mesmo que fizeste a Siom, rei dos amorreus, que habitava em Hesbom'. ^v2
 
-**3** E também o Senhor nosso Deus nos deu na nossa mão a Ogue, rei de Basã, e a todo o seu povo; de maneira que o ferimos até que não lhe ficou sobrevivente algum. ^v3
+**3** Assim, Yahweh, nosso Deus, nos deu vitória sobre Ogue, rei de Basã, e todo o seu povo foi posto sobre nosso controle. E nós os derrotamos até que não ficou sobrevivente algum. ^v3
 
-**4** E naquele tempo tomamos todas as suas cidades; nenhuma cidade houve que lhes não tomássemos; sessenta cidades, toda a região de Argobe, o reino de Ogue em Basã. ^v4
+**4** Então, naquele tempo, conquistamos todas suas cidades, e nenhuma cidade ficou que não conquistássemos: sessenta cidades em, toda a região de Argobe, o reino de Ogue em Basã. ^v4
 
-**5** Todas estas cidades eram fortificadas com altos muros, portas e ferrolhos; e muitas outras cidades sem muros. ^v5
+**5** Todas essas cidades eram protegidas por altos muros, portões e ferrolhos; além de muitas outras cidades sem muros. ^v5
 
-**6** E destruímo-las como fizemos a Siom, rei de Hesbom, destruindo todas as cidades, homens, mulheres e crianças. ^v6
+**6** Nós as destruímos completamente, como fizemos a Siom, rei de Hesbom, matando todos, homens, mulheres e crianças. ^v6
 
-**7** Porém todo o gado, e o despojo das cidades, tomamos para nós por presa. ^v7
+**7** Porém, reservamos para nós todo o gado e o despojo das cidades. ^v7
 
-**8** Assim naquele tempo tomamos a terra das mãos daqueles dois reis dos amorreus, que estavam além do Jordão; desde o rio de Arnom, até ao monte de Hermom ^v8
+**8** Naquele tempo, tomamos a terra da mão de dois reis amorreus que estavam além do Jordão, desde o rio Arnom até o monte Hermom ^v8
 
-**9** (A Hermom os sidônios chamam Siriom; porém os amorreus o chamam Senir); ^v9
+**9** (monte Hermom, que os sidônios chamam Siriom, e os amorreus o chamam Senir); ^v9
 
-**10** Todas as cidades do planalto, e todo o Gileade, e todo o Basã, até Salcá e Edrei, cidades do reino de Ogue em Basã. ^v10
+**10** e todas as cidades do planalto, todo Gileade, e todo Basã, todo o caminho para Salca e Edrei, cidades do reino de Ogue, em Basã. ^v10
 
-**11** Porque só Ogue, o rei de Basã, restou dos gigantes; eis que o seu leito, um leito de ferro, não está porventura em Rabá dos filhos de Amom? De nove côvados, o seu comprimento, e de quatro côvados, a sua largura, pelo côvado comum. ^v11
+**11** Apenas Ogue, rei de Basã, havia restado dos refains; sua cama de ferro, que possuía nove côvados de comprimento e quatro côvados de largura, (de acordo com a medida usada naquele tempo) estava em Rabá, onde habitavam os descendentes de Amom. ^v11
 
-**12** Tomamos, pois, esta terra em possessão naquele tempo: Desde Aroer, que está junto ao ribeiro de Arnom, e a metade da montanha de Gileade, com as suas cidades, tenho dado aos rubenitas e gaditas. ^v12
+**12** Naquele tempo, tomamos posse desta terra. Dei aos rubenitas e gaditas a região desde de Aroer, perto do vale de Arnom, e a metade das colinas de Gileade com as suas cidades. ^v12
 
-**13** E o restante de Gileade, como também todo o Basã, o reino de Ogue, dei à meia tribo de Manassés; toda aquela região de Argobe, por todo o Basã, se chamava a terra dos gigantes. ^v13
+**13** O resto de Gileade e toda região de Basã, o reino de Ogue, isto é, toda a região de Argobe e todo Basã dei à meia-tribo de Manassés. (Este território era chamado de terra dos refains. ^v13
 
-**14** Jair, filho de Manassés, alcançou toda a região de Argobe, até ao termo dos gesuritas, e maacatitas, e a chamou de seu nome, Havote-Jair até este dia. ^v14
+**14** Jair, um descendente de Manassés, conquistou toda a região de Argobe até a fronteira com os gesuritas e os maacatitas. Ele chamou essa região, incluindo Basã, por seu próprio nome, Havote-Jair, até o dia de hoje). ^v14
 
-**15** E a Maquir dei Gileade. ^v15
+**15** E para Maquir, dei Gileade. ^v15
 
-**16** Mas aos rubenitas e gaditas dei desde Gileade até ao ribeiro de Arnom, cujo meio serve de limite; e até ao ribeiro de Jaboque, o termo dos filhos de Amom. ^v16
+**16** Aos rubenitas e aos gaditas, dei o território de Gileade até o vale de Arnom, tanto o meio do vale como a fronteira do território, até o rio de Jaboque, que é a fronteira com os descendentes de Amom. ^v16
 
-**17** Como também a campina, e o Jordão por termo; desde Quinerete até ao mar da campina, o Mar Salgado, abaixo de Asdote-Pisga para o oriente. ^v17
+**17** Outra de suas fronteiras é também a planície do vale do rio Jordão, de Quinerete até o mar de Arabá, o mar Salgado, nas encostas orientais do monte Pisga. ^v17
 
-**18** E no mesmo tempo vos ordenei, dizendo: O Senhor vosso Deus vos deu esta terra, para possuí-la; passai, pois, armados vós, todos os homens valentes, diante de vossos irmãos, os filhos de Israel. ^v18
+**18** "Naquele tempo, eu vos ordenei: ""Yahweh, vosso Deus, vos deu esta terra como posse. Vós, todos os guerreiros, passareis armados diante de vossos irmãos, o povo de Israel." ^v18
 
-**19** Tão-somente vossas mulheres, e vossas crianças, e vosso gado (porque eu sei que tendes muito gado), ficarão nas vossas cidades, que já vos tenho dado. ^v19
+**19** Todavia, ficarão nas cidades que dei a vós, somente vossas mulheres, vossas crianças, e vosso gado, porque sei que tendes muito gado, ^v19
 
-**20** Até que o Senhor dê descanso a vossos irmãos como a vós; para que eles herdem também a terra que o Senhor vosso Deus lhes há de dar além do Jordão; então voltareis cada qual à sua herança que já vos tenho dado. ^v20
+**20** até que Yahweh dê descanso a vossos irmãos, assim como deu a vós, e eles também possuam a terra que Yahweh, vosso Deus, lhes dá além do Jordão. Então, voltareis, cada um de vós, para a propriedade que Eu vos tenho dado'. ^v20
 
-**21** Também dei ordem a Josué no mesmo tempo, dizendo: Os teus olhos têm visto tudo o que o Senhor vosso Deus tem feito a estes dois reis; assim fará o Senhor a todos os reinos, a que tu passarás. ^v21
+**21** Também ordenei a Josué, naquele tempo, dizendo: 'Os teus olhos viram tudo o que Yahweh, teu Deus, fez a esses dois reis. Assim fará Yahweh a todos os reinos em que entrares. ^v21
 
-**22** Não os temais, porque o Senhor vosso Deus é o que peleja por vós. ^v22
+**22** Não os temas, pois Yahweh, teu Deus, é quem pelejará por ti'. ^v22
 
-**23** Também eu pedi graça ao Senhor no mesmo tempo, dizendo: ^v23
+**23** Naquele tempo, eu supliquei a Yahweh, dizendo: ^v23
 
-**24** Senhor DEUS! já começaste a mostrar ao teu servo a tua grandeza e a tua forte mão; pois, que Deus há nos céus e na terra, que possa fazer segundo as tuas obras, e segundo os teus grandes feitos? ^v24
+**24** 'Ó, Senhor Yahweh, Tu começaste a mostrar a teu servo, Tua grandeza e Tua forte mão; que Deus há na terra ou nos céus, que possa fazer obras como as que tens feito, e segundo Teus poderosos feitos? ^v24
 
-**25** Rogo-te que me deixes passar, para que veja esta boa terra que está além do Jordão; esta boa montanha, e o Líbano! ^v25
+**25** Deixa-me entrar! Deixa-me contemplar a boa terra que está além do Jordão, essa bela região montanhosa, e também o Líbano!'. ^v25
 
-**26** Porém o Senhor indignou-se muito contra mim por causa de vós, e não me ouviu; antes o Senhor me disse: Basta; não me fales mais deste assunto; ^v26
+**26** Mas, por vossa causa, Yahweh se indignou comigo, e não me deu ouvidos. Yahweh me disse: 'Basta! Não fales mais sobre este assunto. ^v26
 
-**27** Sobe ao cume de Pisga, e levanta os teus olhos ao ocidente, e ao norte, e ao sul, e ao oriente, e vê com os teus olhos; porque não passarás este Jordão. ^v27
+**27** Sobe ao cume do monte Pisga e olha para o ocidente, para o norte, para o sul e para o oriente; contempla com teus olhos, pois não atravessarás o Jordão. ^v27
 
-**28** Manda, pois, a Josué, e anima-o, e fortalece-o; porque ele passará adiante deste povo, e o fará possuir a terra que verás. ^v28
+**28** Em vez disso, dá ordens a Josué, encoraja-o e fortaleça-o, porque ele atravessará à frente deste povo, e o guiará na conquista da terra que tu verás'. ^v28
 
-**29** Assim ficamos neste vale, defronte de Bete-Peor. ^v29
+**29** Assim, nós ficamos no vale em frente a Bete-Peor. ^v29

@@ -1,53 +1,52 @@
 ---
-Livro: "[[Deuteronômio|Deuteronômio]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Deuteronômio|Deuteronômio]]"
+tags: [biblia]
 ---
 
 # Deuteronômio 21
 
-**1** Quando na terra que te der o SENHOR teu Deus, para possuí-la, se achar um morto, caído no campo, sem que se saiba quem o matou, ^v1
+**1** Se alguém for encontrado morto na terra em que Yahweh, vosso Deus, vos dá para possuir, se este estiver estirado no campo, e seu agressor for desconhecido, ^v1
 
-**2** Então sairão os teus anciãos e os teus juízes, e medirão a distância até as cidades que estiverem em redor do morto; ^v2
+**2** então, vossos anciãos e vossos juízes sairão e medirão as distâncias do corpo até as cidades ao redor do corpo que foi morto. ^v2
 
-**3** E, na cidade mais próxima ao morto, os anciãos da mesma cidade tomarão uma novilha da manada, que não tenha trabalhado nem tenha puxado com o jugo; ^v3
+**3** Os anciãos da cidade que está mais perto do homem que foi morto pegarão uma novilha da manada, uma que nunca foi colocada ao trabalho, nem tenha sido usado uma canga. ^v3
 
-**4** E os anciãos daquela cidade trarão a novilha a um vale áspero, que nunca foi lavrado nem semeado; e ali, naquele vale, degolarão a novilha; ^v4
+**4** Os anciãos daquela cidade trarão a novilha para o vale com água corrente, um vale que nunca tenha sido cultivado nem semeado, e quebrarão o pescoço da novilha ali no vale. ^v4
 
-**5** Então se achegarão os sacerdotes, filhos de Levi; pois o Senhor teu Deus os escolheu para o servirem, e para abençoarem em nome do Senhor; e pela sua palavra se decidirá toda a demanda e todo o ferimento; ^v5
+**5** Os sacerdotes, descendentes de Levi, se aproximarão, pois deles Yahweh, vosso Deus, os tem escolhido para servi-Lo e para abençoarem o povo em nome de Yahweh; ouvi seus conselhos, pois sua palavra será o veredito em toda disputa e caso de violência. ^v5
 
-**6** E todos os anciãos da mesma cidade, mais próxima ao morto, lavarão as suas mãos sobre a novilha degolada no vale; ^v6
+**6** Todos os anciãos daquela cidade que está mais próxima ao homem morto, lavarão suas mãos sobre a novilha que teve seu pescoço quebrado no vale; ^v6
 
-**7** E protestarão, e dirão: As nossas mãos não derramaram este sangue, e os nossos olhos o não viram. ^v7
+**7** e responderão ao caso e dizer: 'Nossas mãos não derramaram este sangue, e nossos olhos não o viram. ^v7
 
-**8** Sê propício ao teu povo Israel, que tu, ó Senhor, resgataste, e não ponhas o sangue inocente no meio do teu povo Israel. E aquele sangue lhes será expiado. ^v8
+**8** Perdoa, Yahweh, Teu povo Israel, a quem Tu redimiste, e não coloques culpa no sangue inocente no meio de Seu povo Israel'. Então, o sangue derramado será perdoado. ^v8
 
-**9** Assim tirarás o sangue inocente do meio de ti; pois farás o que é reto aos olhos do Senhor. ^v9
+**9** Dessa forma, vós tirareis o sangue inocente de vosso meio, quando fizerdes o que é certo aos olhos de Yahweh. ^v9
 
-**10** Quando saíres à peleja contra os teus inimigos, e o Senhor teu Deus os entregar nas tuas mãos, e tu deles levares prisioneiros, ^v10
+**10** Quando fordes à batalha contra vossos inimigos e Yahweh, vosso Deus, der-lhes a vitória e os colocardes debaixo de vosso controle, então, devereis levá-los cativos. ^v10
 
-**11** E tu entre os presos vires uma mulher formosa à vista, e a cobiçares, e a tomares por mulher, ^v11
+**11** Se virdes entre os cativos uma mulher bonita e tiverdes desejo por ela e quiserdes levá-la como esposa, ^v11
 
-**12** Então a trarás para a tua casa; e ela rapará a cabeça e cortará as suas unhas. ^v12
+**12** então, a levareis para vossa casa, depois, ela raspará sua cabeça e cortará suas unhas. ^v12
 
-**13** E despirá o vestido do seu cativeiro, e se assentará na tua casa, e chorará a seu pai e a sua mãe um mês inteiro; e depois chegarás a ela, e tu serás seu marido e ela tua mulher. ^v13
+**13** Ela tirará as roupas que vestia quando foi levada cativa, e permanecerá na tua casa e lamentará por seu pai e sua mãe durante um mês. Depois disso, poderás dormir com ela tornando-te seu marido e ela será tua esposa. ^v13
 
-**14** E será que, se te não contentares dela, a deixarás ir à sua vontade; mas de modo algum a venderás por dinheiro, nem a tratarás como escrava, pois a tens humilhado. ^v14
+**14** Mas, se não te agradares dela, então, deverá deixar-la ir onde ela desejar. Mas não poderás vendê-la por dinheiro, e não a trates como escrava, pois a humilhaste. ^v14
 
-**15** Quando um homem tiver duas mulheres, uma a quem ama e outra a quem despreza, e a amada e a desprezada lhe derem filhos, e o filho primogênito for da desprezada, ^v15
+**15** Se um homem tem duas esposas e uma é amada e a outra é odiada e ambas lhe tiverem dado filhos e o primogênito for da desprezada ^v15
 
-**16** Será que, no dia em que fizer herdar a seus filhos o que tiver, não poderá dar a primogenitura ao filho da amada, preferindo-o ao filho da desprezada, que é o primogênito. ^v16
+**16** então, no dia em que o homem fizer seus filhos herdarem o que possui, ele não poderá fazer o filho da amada o primogênito antes do filho da odiada, que ,de fato, é o primogênito. ^v16
 
-**17** Mas ao filho da desprezada reconhecerá por primogênito, dando-lhe dobrada porção de tudo quanto tiver; porquanto aquele é o princípio da sua força, o direito da primogenitura é dele. ^v17
+**17** Ao invés disso, ele reconhecerá o primogênito, o filho da esposa odiada, dando-lhe uma porção dobrada de tudo que ele possui; pois aquele filho é o começo de sua força; o direito da primogênitura pertence a ele. ^v17
 
-**18** Quando alguém tiver um filho contumaz e rebelde, que não obedecer à voz de seu pai e à voz de sua mãe, e, castigando-o eles, lhes não der ouvidos, ^v18
+**18** Se um homem tem um filho teimoso e rebelde que não obedece a voz de teu pai ou a voz de tua mãe, e que, ainda que seja corrigido, não ouvir; ^v18
 
-**19** Então seu pai e sua mãe pegarão nele, e o levarão aos anciãos da sua cidade, e à porta do seu lugar; ^v19
+**19** então, seu pai e sua mãe deverão pegá-lo e levá-lo para os anciãos de sua cidade e para o portão de sua cidade. ^v19
 
-**20** E dirão aos anciãos da cidade: Este nosso filho é rebelde e contumaz, não dá ouvidos à nossa voz; é um comilão e um beberrão. ^v20
+**20** "Eles dirão para os anciãos de sua cidade: ""Este nosso filho é teimoso e rebelde; ele não obedece nossa voz; ele é um glutão e bêbado""." ^v20
 
-**21** Então todos os homens da sua cidade o apedrejarão, até que morra; e tirarás o mal do meio de ti, e todo o Israel ouvirá e temerá. ^v21
+**21** Então, com pedras, todos os homens de sua cidade deverão apedrejá-lo até a morte; e tu removerás o mal de vosso meio. O povo de Israel ouvirá sobre isso e temerá. ^v21
 
-**22** Quando também em alguém houver pecado, digno do juízo de morte, e for morto, e o pendurares num madeiro, ^v22
+**22** Se um homem cometer um pecado digno de morte, e for morto, e o tiveres pendurado em uma árvore, ^v22
 
-**23** O seu cadáver não permanecerá no madeiro, mas certamente o enterrarás no mesmo dia; porquanto o pendurado é maldito de Deus; assim não contaminarás a tua terra, que o Senhor teu Deus te dá em herança. ^v23
+**23** então, seu corpo não deverá permanecer na árvore por toda noite. Ao invés disso, tu certamente deverás enterrá-lo no mesmo dia, pois quem for pendurado é amaldiçoado por Deus. Obedece este mandamento para que tua terra não seja contaminada, que Yahweh, teu Deus, está te dando como herança. ^v23

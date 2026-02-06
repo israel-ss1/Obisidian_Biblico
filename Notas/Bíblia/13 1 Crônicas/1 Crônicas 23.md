@@ -1,71 +1,70 @@
 ---
-Livro: "[[1 Crônicas|1 Crônicas]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/1 Crônicas|1 Crônicas]]"
+tags: [biblia]
 ---
 
 # 1 Crônicas 23
 
-**1** Sendo, pois, Davi já velho, e cheio de dias, fez a Salomão, seu filho, rei sobre Israel. ^v1
+**1** Quando Davi estava velho e perto do final de sua vida, ele fez seu filho Salomão, rei sobre Israel. ^v1
 
-**2** E reuniu a todos os príncipes de Israel, como também aos sacerdotes e levitas. ^v2
+**2** Ele reuniu todos os líderes de Israel, com os sacerdotes e levitas. ^v2
 
-**3** E foram contados os levitas de trinta anos para cima; e foi o número deles, segundo as suas cabeças, trinta e oito mil homens. ^v3
+**3** Os levitas que tinham trinta anos ou mais foram contados, o número total foi de trinta e oito mil. ^v3
 
-**4** Destes havia vinte e quatro mil, para promoverem a obra da casa do Senhor, e seis mil oficiais e juízes, ^v4
+**4** """Destes, vinte e quatro mil supervisionaram o trabalho da casa de Yahweh, e seis mil foram oficiais e juízes." ^v4
 
-**5** E quatro mil porteiros, e quatro mil para louvarem ao Senhor com os instrumentos, que eu fiz para o louvar, disse Davi. ^v5
+**5** "Quatro mil foram porteiros; e quatro mil louvavam Yahweh com instrumentos que eu fiz para a adoração."", disse Davi." ^v5
 
-**6** E Davi os repartiu por turnos, segundo os filhos de Levi, Gérson, Coate e Merari. ^v6
+**6** Davi os dividiu em grupos que correspondiam aos filhos de Levi: Gérson, Coate e Merari. ^v6
 
-**7** Dos gersonitas: Ladã e Simei. ^v7
+**7** Dos clãs decendentes de Gérson, havia Ladã e Simei. ^v7
 
-**8** Os filhos de Ladã: Jeiel, o chefe, e Zetã, e Joel, três. ^v8
+**8** Havia três filhos de Ladã: Jeiel, o chefe, Zetão e Joel. ^v8
 
-**9** Os filhos de Simei: Selomite, Haziel, e Harã, três; estes foram os chefes dos pais de Ladã. ^v9
+**9** Havia três filhos de Simei: Selomite, Haziel e Arã. Esses foram os líderes do clã de Ladã. ^v9
 
-**10** E os filhos de Simei: Jaate, Ziza, Jeús, e Berias; estes foram os filhos de Simei, quatro. ^v10
+**10** Havia quatro filhos de Simei: Jaate, Ziza, Jeús e Berias. ^v10
 
-**11** E Jaate era o chefe, e Ziza o segundo, mas Jeús e Berias não tiveram muitos filhos; por isso estes, sendo contados juntos se tornaram uma só família. ^v11
+**11** Jaate era o mais velho, e Ziza o segundo, mas Jeús e Berias não tiveram muitos filhos, então, eram considerados como um único clã com as mesmas obrigações. ^v11
 
-**12** Os filhos de Coate: Anrão, Izar, Hebrom, e Uziel, quatro. ^v12
+**12** Havia quatro filhos de Coate: Anrão, Izar, Hebrom e Uziel. ^v12
 
-**13** Os filhos de Anrão: Arão e Moisés; e Arão foi separado para santificar o santo dos santos, ele e seus filhos, eternamente; para incensar diante do Senhor, para o servirem, e para darem a bênção em seu nome eternamente. ^v13
+**13** Estes eram os filhos de Anrão: Arão e Moisés. Arão foi escolhido para consagrar as coisas santíssimas, e ele e seus descendentes ofereceriam  incenso diante de Yahweh, O serviriam e pronunciariam bençãos em Seu nome, para sempre. ^v13
 
-**14** E, quanto a Moisés, homem de Deus, seus filhos foram contados entre os da tribo de Levi. ^v14
+**14** Mas, quanto a Moisés, homem de Deus, seus filhos foram considerados levitas. ^v14
 
-**15** Foram, pois, os filhos de Moisés, Gérson e Eliézer. ^v15
+**15** Os filhos de Moisés foram Gérson e Eliézer. ^v15
 
-**16** Dos filhos de Gérson foi Sebuel o chefe. ^v16
+**16** O descendente de Gérson foi Sebuel, o mais velho. ^v16
 
-**17** E, quanto aos filhos de Eliézer, foi Reabias o chefe; e Eliézer não teve outros filhos; porém os filhos de Reabias foram muitos. ^v17
+**17** O descendente de Eliézer foi Reabias. Eliézer não teve outros filhos, mas Reabias teve muitos descendentes. ^v17
 
-**18** Dos filhos de Izar foi Selomite o chefe. ^v18
+**18** O descendente de Izar foi Selomite, o líder. ^v18
 
-**19** Quanto aos filhos de Hebrom, foram Jerias o primeiro, Amarias o segundo, Jaaziel o terceiro, e Jecameão o quarto. ^v19
+**19** Os descendentes de Hebrom foram Jerias, o mais velho; Amarias, o segundo; Jaaziel, o terceiro; e Jecameão, o quarto. ^v19
 
-**20** Quanto aos filhos de Uziel, Mica o chefe, e Issias o segundo. ^v20
+**20** Os filhos de Uziel foram Mica, o mais velho, e Issias, o segundo. ^v20
 
-**21** Os filhos de Merari: Mali, e Musi; os filhos de Mali: Eleazar e Quis. ^v21
+**21** Os filhos de Merari foram Mali e Musi. Os filhos de Mali foram Eleazar e Quis. ^v21
 
-**22** E morreu Eleazar, e não teve filhos, porém filhas; e os filhos de Quis, seus parentes, as tomaram por mulheres. ^v22
+**22** Eleazar morreu sem ter filhos. Ele teve apenas filhas. Os filhos de Quis casaram com elas. ^v22
 
-**23** Os filhos de Musi: Mali, e Eder, e Jeremote, três. ^v23
+**23** Os três filhos de Musi foram Mali, Eder e Jerimote. ^v23
 
-**24** Estes são os filhos de Levi, segundo a casa de seus pais, chefes dos pais, conforme foram contados pelos seus nomes, segundo as suas cabeças, que faziam a obra do ministério da casa do Senhor, desde a idade de vinte anos para cima. ^v24
+**24** Estes foram os descendentes de Levi correspondentes aos seus clãs. Eles eram os líderes, contados e listados pelo nome, do clãs que trabalhavam no serviço da Casa de Yahweh, de trinta anos para cima. ^v24
 
-**25** Porque disse Davi: O Senhor Deus de Israel deu repouso ao seu povo, e habitará em Jerusalém para sempre. ^v25
+**25** "Davi disse: ""Yahweh, o Deus de Israel, deu descanso ao Seu povo. Ele estabelece a Sua Casa em Jerusalém para sempre." ^v25
 
-**26** E também, quanto aos levitas, que nunca mais levassem o tabernáculo, nem algum de seus aparelhos pertencentes ao seu ministério. ^v26
+**26** "Os levitas não precisarão mais carregar o Tabernáculo nem os utensílios usados para seu serviço""." ^v26
 
-**27** Porque, segundo as últimas palavras de Davi, foram contados os filhos de Levi da idade de vinte anos para cima: ^v27
+**27** Pelas últimas palavras de Davi, os levitas foram contados, de vinte anos de idade para cima. ^v27
 
-**28** Porque o seu cargo era assistir aos filhos de Arão no ministério da casa do Senhor, nos átrios, e nas câmaras, e na purificação de todas as coisas sagradas, e na obra do ministério da casa de Deus. ^v28
+**28** O dever deles era auxiliar os descendentes de Arão no serviço da Casa de Yahweh. Eles cuidavam dos pátios, dos aposentos, da purificação cerimonial de todas as coisas pertencentes a Yahweh, e outras obras a serviço da casa de Deus. ^v28
 
-**29** A saber: para os pães da proposição, e para a flor de farinha, para a oferta de alimentos, e para os coscorões ázimos, e para as sertãs, e para o tostado, e para todo o peso e medida; ^v29
+**29** Eles também tomavam conta dos Pães da Proposição, e do trigo fino para as ofertas de cereal, dos pães sem fermento e ofertas assadas, das ofertas misturadas com óleo, e todo tipo de medidas e pesos das coisas. ^v29
 
-**30** E para estarem cada manhã em pé para louvarem e celebrarem ao Senhor; e semelhantemente à tarde; ^v30
+**30** Eles também se levantavam toda manhã para agradecer e adorar Yahweh. Eles faziam isso também ao entardecer ^v30
 
-**31** E para oferecerem os holocaustos do Senhor, aos sábados, nas luas novas, e nas solenidades, segundo o seu número e costume, continuamente perante o Senhor; ^v31
+**31** e sempre que holocaustos eram oferecidos para Yahweh, no sábado, nas Festas de Lua Nova e nos dias de celebração. Um número fixo, designado por decreto, sempre tinha que estar presente diante de Yahweh. ^v31
 
-**32** E para que tivessem cuidado da guarda da tenda da congregação, e da guarda do santuário, e da guarda dos filhos de Arão, seus irmãos, no ministério da casa do Senhor. ^v32
+**32** Eles estavam no comando da Tenda do Encontro, o Santo Lugar, e ajudavam seus companheiros, descendentes de Arão, no serviço da Casa de Yahweh. ^v32

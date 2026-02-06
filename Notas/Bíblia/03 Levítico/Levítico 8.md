@@ -1,79 +1,78 @@
 ---
-Livro: "[[Levítico|Levítico]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Levítico|Levítico]]"
+tags: [biblia]
 ---
 
 # Levítico 8
 
-**1** Falou mais o SENHOR a Moisés, dizendo: ^v1
+**1** Yahweh falou a Moisés, dizendo: ^v1
 
-**2** Toma a Arão e a seus filhos com ele, e as vestes, e o azeite da unção, como também o novilho da expiação do pecado, e os dois carneiros, e o cesto dos pães ázimos, ^v2
+**2** """Toma Arão e seus filhos, suas vestes e o óleo da unção, o novilho para a oferta de pecado, os dois carneiros e o cesto com os pães não fermentados." ^v2
 
-**3** E reúne toda a congregação à porta da tenda da congregação. ^v3
+**3** "Reúne toda a congregação à entrada da Tenda do Encontro""." ^v3
 
-**4** Fez, pois, Moisés como o Senhor lhe ordenara, e a congregação reuniu-se à porta da tenda da congregação. ^v4
+**4** Então, Moisés fez como Yahweh ordenou, e a congregação ajuntou-se à entrada da Tenda do Encontro. ^v4
 
-**5** Então disse Moisés à congregação: Isto é o que o Senhor ordenou que se fizesse. ^v5
+**5** "Moisés disse à congregação: ""Isto é o que Yahweh ordenou que seja feito""." ^v5
 
-**6** E Moisés fez chegar a Arão e a seus filhos, e os lavou com água. ^v6
+**6** Moisés trouxe Arão e seus filhos, e os lavou com água. ^v6
 
-**7** E vestiu-lhe a túnica, e cingiu-o com o cinto, e pôs sobre ele o manto; também pôs sobre ele o éfode, e cingiu-o com o cinto de obra esmerada do éfode e o apertou com ele. ^v7
+**7** Ele vestiu Arão com a túnica e passou a faixa pela cintura dele, vestiu-o com a capa e pôs sobre ele o manto sacerdotal. Então, ele amarrou o manto sacerdotal com um cinto finamente trançado e atou-o ao corpo dele. ^v7
 
-**8** Depois pôs-lhe o peitoral, pondo no peitoral o Urim e o Tumim; ^v8
+**8** Ele colocou o peitoral em Arão. Nesse peitoral, posicionou o Urim e o Tumim. ^v8
 
-**9** E pôs a mitra sobre a sua cabeça; e sobre esta, na parte dianteira, pôs a lâmina de ouro, a coroa da santidade, como o Senhor ordenara a Moisés. ^v9
+**9** Ele fixou o turbante em sua cabeça. No turbante, bem à frente, uma lâmina de ouro, a coroa santa, como Yahweh havia ordenado. ^v9
 
-**10** Então Moisés tomou o azeite da unção, e ungiu o tabernáculo, e tudo o que havia nele, e o santificou; ^v10
+**10** Moisés pegou o óleo da unção, ungiu o tabernáculo e tudo o que lá havia e os consagrou a Yahweh. ^v10
 
-**11** E dele espargiu sete vezes sobre o altar, e ungiu o altar e todos os seus utensílios, como também a pia e a sua base, para santificá-las. ^v11
+**11** Ele aspergiu o óleo sete vezes no altar e ungiu o altar e todos os utensílios que lá estavam, bem como a bacia e o suporte, para consagrá-los a Yahweh. ^v11
 
-**12** Depois derramou do azeite da unção sobre a cabeça de Arão, e ungiu-o, para santificá-lo. ^v12
+**12** Ele derramou um pouco do óleo da unção sobre a cabeça de Arão e o ungiu para consagrá-lo a Yahweh. ^v12
 
-**13** Também Moisés fez chegar os filhos de Arão, e vestiu-lhes as túnicas, e cingiu-os com o cinto, e apertou-lhes as tiaras, como o Senhor ordenara a Moisés. ^v13
+**13** Moisés trouxe os filhos de Arão e os vestiu com túnicas. Ele amarrou faixas em volta das cinturas deles e cobriu suas cabeças com mitras, assim como Yahweh havia mandado. ^v13
 
-**14** Então fez chegar o novilho da expiação do pecado; e Arão e seus filhos puseram as suas mãos sobre a cabeça do novilho da expiação do pecado; ^v14
+**14** Moisés trouxe o novilho para oferta pelo pecado, e Arão e seus filhos puseram suas mãos sobre a cabeça do novilho que eles tinham trazido para a oferta pelo pecado. ^v14
 
-**15** E o degolou; e Moisés tomou o sangue, e pôs dele com o seu dedo sobre as pontas do altar em redor, e purificou o altar; depois derramou o restante do sangue à base do altar, e o santificou, para fazer expiação por ele. ^v15
+**15** Ele o matou, pegou seu sangue e o colocou com o dedo nos chifres do altar; purificou o altar, derramou o sangue na base do altar e o consagrou a Deus como forma de expiação dos pecados. ^v15
 
-**16** Depois tomou toda a gordura que está na fressura, e o redenho do fígado, e os dois rins e a sua gordura; e Moisés queimou-os sobre o altar. ^v16
+**16** Ele retirou toda a gordura que estava nas vísceras, a que cobria o fígado, e os dois rins e a gordura junto a eles, e Moisés queimou tudo isso no altar. ^v16
 
-**17** Mas o novilho com o seu couro, e a sua carne, e o seu esterco, queimou com fogo fora do arraial, como o Senhor ordenara a Moisés. ^v17
+**17** Mas o novilho, seu couro e sua carne, bem como os excrementos foram queimados, fora do acampamento, exatamente como Yahweh havia determinado. ^v17
 
-**18** Depois fez chegar o carneiro do holocausto; e Arão e seus filhos puseram as suas mãos sobre a cabeça do carneiro; ^v18
+**18** Moisés apresentou o carneiro para o holocausto, e Arão e seus filhos impuseram suas mãos sobre a cabeça do carneiro. ^v18
 
-**19** E degolou-o; e Moisés espargiu o sangue sobre o altar em redor. ^v19
+**19** Ele o matou e aspergiu o sangue em cada lado do altar. ^v19
 
-**20** Partiu também o carneiro nos seus pedaços; e Moisés queimou a cabeça, e os pedaços e a gordura. ^v20
+**20** Ele cortou o carneiro em pedaços e queimou a cabeça, os pedaços e a gordura. ^v20
 
-**21** Porém a fressura e as pernas lavou com água; e Moisés queimou todo o carneiro sobre o altar; holocausto de cheiro suave, uma oferta queimada ao Senhor, como o Senhor ordenou a Moisés. ^v21
+**21** Ele lavou as vísceras e as pernas com água e queimou todo o carneiro no altar. Isso foi um holocausto de aroma agradável, oferta queimada a Yahweh, exatamente como Yahweh havia ordenado a Moisés. ^v21
 
-**22** Depois fez chegar o outro carneiro, o carneiro da consagração; e Arão com seus filhos puseram as suas mãos sobre a cabeça do carneiro. ^v22
+**22** Então Moisés apresentou o outro carneiro, o da consagração, e Arão e seus filhos impuseram suas mãos sobre a cabeça do carneiro. ^v22
 
-**23** E degolou-o; e Moisés tomou do seu sangue, e o pôs sobre a ponta da orelha direita de Arão, e sobre o polegar da sua mão direita, e sobre o polegar do seu pé direito. ^v23
+**23** Arão matou-o, e Moisés recolheu um pouco do sangue e o passou na ponta da orelha direita de Arão, no polegar de sua mão direita e no dedão do seu pé direito. ^v23
 
-**24** Moisés também fez chegar os filhos de Arão, e pôs daquele sangue sobre a ponta da orelha direita deles, e sobre o polegar da sua mão direita, e sobre o polegar do seu pé direito; e Moisés espargiu o restante do sangue sobre o altar em redor. ^v24
+**24** Ele trouxe os filhos de Arão e passou um pouco do sangue na ponta da orelha direita, no polegar da mão direita e no dedão do pé direito. Então, Moisés aspergiu o sangue em cada lado do altar. ^v24
 
-**25** E tomou a gordura, e a cauda, e toda a gordura que está na fressura, e o redenho do fígado, e ambos os rins, e a sua gordura e a espádua direita. ^v25
+**25** Ele recolheu a gordura, a cauda gorda, e toda a gordura que estava nas vísceras, a que cobria o fígado, os dois rins e a gordura junto a eles, e a coxa direita. ^v25
 
-**26** Também do cesto dos pães ázimos, que estava diante do Senhor, tomou um bolo ázimo, e um bolo de pão azeitado, e um coscorão, e os pôs sobre a gordura e sobre a espádua direita. ^v26
+**26** E do cesto dos pães não fermentados, que estava perante Yahweh, ele apanhou um pão não fermentado, um outro feito com óleo e um outro pão fino, e os colocou sobre as gorduras e sobre a coxa direita. ^v26
 
-**27** E tudo isto pôs nas mãos de Arão e nas mãos de seus filhos; e os ofereceu por oferta movida perante o Senhor. ^v27
+**27** Ele depositou tudo nas mãos de Arão e nas mãos de seus filhos e moveu por oferta de movimento perante Yahweh. ^v27
 
-**28** Depois Moisés tomou-os das suas mãos, e os queimou no altar sobre o holocausto; estes foram uma consagração, por cheiro suave, oferta queimada ao Senhor. ^v28
+**28** Então, Moisés tomou tudo das mãos deles e queimou no altar para holocausto. Isso foi uma oferta consagrada, de aroma agradável a Deus. Foi uma oferta queimada para Yahweh. ^v28
 
-**29** E tomou Moisés o peito, e ofereceu-o por oferta movida perante o Senhor. Aquela foi a porção de Moisés do carneiro da consagração, como o Senhor ordenara a Moisés. ^v29
+**29** Moisés tomou o peito e o movimentou como oferta movida para Yahweh. Isso foi a parte do carneiro que cabia a Moisés, para ordenação sacerdotal, como Yahweh havia ordenado a ele. ^v29
 
-**30** Tomou Moisés também do azeite da unção, e do sangue que estava sobre o altar, e o espargiu sobre Arão e sobre as suas vestes, e sobre os seus filhos, e sobre as vestes de seus filhos com ele; e santificou a Arão e as suas vestes, e seus filhos, e as vestes de seus filhos com ele. ^v30
+**30** Moisés pegou uma parte do óleo da unção e o sangue que estava no altar; aspergiu-o em Arão, em suas roupas, em seus filhos e nas roupas de seus filhos. Dessa forma, ele consagrou Arão e suas roupas, e seus filhos e suas roupas a Yahweh. ^v30
 
-**31** E Moisés disse a Arão, e a seus filhos: Cozei a carne diante da porta da tenda da congregação, e ali a comereis com o pão que está no cesto da consagração, como tenho ordenado, dizendo: Arão e seus filhos a comerão. ^v31
+**31** "Então, Moisés disse a Arão e a seus filhos: ""Cozinhai a carne na entrada da tenda do encontro, e lá comei-a juntamente com o pão que está no cesto da consagração, assim como ordenei, dizendo: 'Arão e seus filhos comerão isso'." ^v31
 
-**32** Mas o que sobejar da carne e do pão, queimareis com fogo. ^v32
+**32** E o que restar da carne e do pão vós deveis queimar. ^v32
 
-**33** Também da porta da tenda da congregação não saireis por sete dias, até ao dia em que se cumprirem os dias da vossa consagração; porquanto por sete dias ele vos consagrará. ^v33
+**33** E vós não saireis da entrada da tenda do encontro por sete dias, até que os dias da ordenação sejam cumpridos. Pois Yahweh vos consagrará por sete dias. ^v33
 
-**34** Como se fez neste dia, assim o Senhor ordenou se fizesse, para fazer expiação por vós. ^v34
+**34** Isso que foi feito neste dia é o que Yahweh ordenou para ser feito para vossa expiação. ^v34
 
-**35** Ficareis, pois, à porta da tenda da congregação dia e noite por sete dias, e guardareis as ordenanças do Senhor, para que não morrais; porque assim me foi ordenado. ^v35
+**35** "Vós permanecereis noite e dia, por sete dias, à entrada da Tenda do Encontro, e guardareis o que Yahweh ordenou, para que não morrais, porque isso é o que tenho ordenado""." ^v35
 
-**36** E Arão e seus filhos fizeram todas as coisas que o Senhor ordenara pela mão de Moisés. ^v36
+**36** Então, Arão e seus filhos fizeram todas as coisas que Yahweh lhes havia ordenado por meio de Moisés. ^v36

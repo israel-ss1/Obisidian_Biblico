@@ -1,65 +1,64 @@
 ---
-Livro: "[[Gênesis|Gênesis]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Gênesis|Gênesis]]"
+tags: [biblia]
 ---
 
 # Gênesis 35
 
-**1** Depois disse Deus a Jacó: Levanta-te, sobe a Betel, e habita ali; e faze ali um altar ao Deus que te apareceu, quando fugiste da face de Esaú teu irmão. ^v1
+**1** "Deus disse a Jacó: ""Levanta-te, sobe a Betel e habita ali. Constrói um altar ao Deus que apareceu a ti quando fugiste de Esaú, teu irmão""." ^v1
 
-**2** Então disse Jacó à sua família, e a todos os que com ele estavam: Tirai os deuses estranhos, que há no meio de vós, e purificai-vos, e mudai as vossas vestes. ^v2
+**2** "Então Jacó disse à sua família e a todos que estavam com ele: ""Lançai fora os deuses estrangeiros que estão entre vós, purificai-vos e mudai vossas roupas." ^v2
 
-**3** E levantemo-nos, e subamos a Betel; e ali farei um altar ao Deus que me respondeu no dia da minha angústia, e que foi comigo no caminho que tenho andado. ^v3
+**3** "Partamos e subamos a Betel. Eu farei ali um altar a Deus que me respondeu no dia da minha angústia e esteve comigo por onde andei""." ^v3
 
-**4** Então deram a Jacó todos os deuses estranhos, que tinham em suas mãos, e as arrecadas que estavam em suas orelhas; e Jacó os escondeu debaixo do carvalho que está junto a Siquém. ^v4
+**4** Dito isto, eles entregaram a Jacó todos os deuses estrangeiros que estavam em suas mãos, e os brincos que estavam em suas orelhas. Jacó enterrou-os debaixo do carvalho que estava próximo a Siquém. ^v4
 
-**5** E partiram; e o terror de Deus foi sobre as cidades que estavam ao redor deles, e não seguiram após os filhos de Jacó. ^v5
+**5** Enquanto viajavam, o terror de Deus caiu sobre as cidades que estavam ao seu redor, para que aqueles povos não perseguissem os filhos de Jacó. ^v5
 
-**6** Assim chegou Jacó a Luz, que está na terra de Canaã (esta é Betel), ele e todo o povo que com ele havia. ^v6
+**6** Então Jacó chegou em Luz (esta é Betel), que fica na terra de Canaã; ele e todo seu povo que com ele estava. ^v6
 
-**7** E edificou ali um altar, e chamou aquele lugar El-Betel; porquanto Deus ali se lhe tinha manifestado, quando fugia da face de seu irmão. ^v7
+**7** Ele construi ali um altar e o chamou de El-Betel, pois ali Deus havia se revelado a ele, quando estava fugindo de seu irmão. ^v7
 
-**8** E morreu Débora, a ama de Rebeca, e foi sepultada ao pé de Betel, debaixo do carvalho cujo nome chamou Alom-Bacute. ^v8
+**8** Débora, ama de Rebeca, morreu. Ela foi enterrada em Betel, debaixo de um carvalho, que passou a ser chamado Alom-Bacute. ^v8
 
-**9** E apareceu Deus outra vez a Jacó, vindo de Padã-Arã, e abençoou-o. ^v9
+**9** Quando Jacó voltou de Padã-Arã, Deus apareceu-lhe novamente e o abençoou. ^v9
 
-**10** E disse-lhe Deus: O teu nome é Jacó; não te chamarás mais Jacó, mas Israel será o teu nome. E chamou-lhe Israel. ^v10
+**10** "Deus disse-lhe: ""Teu nome é Jacó, porém não mais o será. Tu serás chamado Israel"". E Deus deu-lhe o nome de Israel." ^v10
 
-**11** Disse-lhe mais Deus: Eu sou o Deus Todo-Poderoso; frutifica e multiplica-te; uma nação, sim, uma multidão de nações sairá de ti, e reis procederão dos teus lombos; ^v11
+**11** "Deus disse-lhe: ""Eu sou o Deus Todo Poderoso. Frutifica e multiplica-te. Uma nação e uma multidão de nações virão de ti e haverá reis entre teus descendentes." ^v11
 
-**12** E te darei a ti a terra que tenho dado a Abraão e a Isaque, e à tua descendência depois de ti darei a terra. ^v12
+**12** "A terra que dei a Abraão e a Isaque, darei a ti e também a teus descendentes""." ^v12
 
-**13** E Deus subiu dele, do lugar onde falara com ele. ^v13
+**13** E Deus subiu de diante dele, do lugar onde havia lhe falado. ^v13
 
-**14** E Jacó pôs uma coluna no lugar onde falara com ele, uma coluna de pedra; e derramou sobre ela uma libação, e deitou sobre ela azeite. ^v14
+**14** Jacó levantou uma coluna no lugar onde Deus havia lhe falado, uma coluna de pedra. Ele derramou sobre ela uma oferta de libação, e também azeite. ^v14
 
-**15** E chamou Jacó aquele lugar, onde Deus falara com ele, Betel. ^v15
+**15** E Jacó deu o nome Betel ao lugar onde Deus havia lhe falado. ^v15
 
-**16** E partiram de Betel; e havia ainda um pequeno espaço de terra para chegar a Efrata, e deu à luz Raquel, e ela teve trabalho em seu parto. ^v16
+**16** Eles partiram de Betel. Enquanto ainda estavam a alguma distância de Efrata, Raquel entrou em trabalho de parto. Foi-lhe muito difícil dar à luz. ^v16
 
-**17** E aconteceu que, tendo ela trabalho em seu parto, lhe disse a parteira: Não temas, porque também este filho terás. ^v17
+**17** "Enquanto estava nas fortes dores de parto, a parteira disse-lhe: ""Não temas, pois terás outro filho""." ^v17
 
-**18** E aconteceu que, saindo-se-lhe a alma (porque morreu), chamou-lhe Benoni; mas seu pai chamou-lhe Benjamim. ^v18
+**18** Como estava morrendo, em seu último suspiro nomeou-o Benoni, entretanto seu pai chamou-lhe Benjamim. ^v18
 
-**19** Assim morreu Raquel, e foi sepultada no caminho de Efrata; que é Belém. ^v19
+**19** Raquel morreu e foi enterrada no caminho para Efrata (que é Belém). ^v19
 
-**20** E Jacó pôs uma coluna sobre a sua sepultura; esta é a coluna da sepultura de Raquel até o dia de hoje. ^v20
+**20** Jacó levantou uma coluna sobre seu túmulo. É a marca de seu túmulo até os dias de hoje. ^v20
 
-**21** Então partiu Israel, e estendeu a sua tenda além de Migdal Eder. ^v21
+**21** Israel partiu e armou sua tenda além da torre de Migdal-Éder. ^v21
 
-**22** E aconteceu que, habitando Israel naquela terra, foi Rúben e deitou-se com Bila, concubina de seu pai; e Israel o soube. E eram doze os filhos de Jacó. ^v22
+**22** Enquanto Israel estava vivendo naquela terra, Rúben deitou-se com Bila, concubina de seu pai, e Israel ouviu a respeito. E os filhos de Jacó eram doze: ^v22
 
-**23** Os filhos de Lia: Rúben, o primogênito de Jacó, depois Simeão e Levi, e Judá, e Issacar e Zebulom; ^v23
+**23** com Lia ele teve Rúben, o primogênito, Simeão, Levi, Judá, Issacar e Zebulom; ^v23
 
-**24** Os filhos de Raquel: José e Benjamim; ^v24
+**24** com Raquel teve José e Benjamim; ^v24
 
-**25** E os filhos de Bila, serva de Raquel: Dã e Naftali; ^v25
+**25** com Bila, serva de Raquel, teve Dã e Naftali; ^v25
 
-**26** E os filhos de Zilpa, serva de Lia: Gade e Aser. Estes são os filhos de Jacó, que lhe nasceram em Padã-Arã. ^v26
+**26** com Zilpa, serva de Lia, teve Gade e Aser. Todos esses são os filhos de Jacó, os quais nasceram em Padã-Arã. ^v26
 
-**27** E Jacó veio a seu pai Isaque, a Manre, a Quiriate-Arba (que é Hebrom), onde peregrinaram Abraão e Isaque. ^v27
+**27** Jacó foi até Isaque, seu pai, em Manre, Quiriate-Arba (a mesma que Hebrom), onde peregrinaram Abraão e Isaque. ^v27
 
-**28** E foram os dias de Isaque cento e oitenta anos. ^v28
+**28** Isaque viveu cento e oitenta anos. ^v28
 
-**29** E Isaque expirou, e morreu, e foi recolhido ao seu povo, velho e farto de dias; e Esaú e Jacó, seus filhos, o sepultaram. ^v29
+**29** Expirou e morreu, e foi recolhido aos seus ancestrais idoso e cheio de dias. Esaú e Jacó, seus filhos, sepultaram-no. ^v29

@@ -1,31 +1,30 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Isaías|Isaías]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Isaías|Isaías]]"
+tags: [biblia]
 ---
 
 # Isaías 56
 
-**1** Assim diz o SENHOR: Guardai o juízo, e fazei justiça, porque a minha salvação está prestes a vir, e a minha justiça, para se manifestar. ^v1
+**1** "Porque assim diz Yahweh: ""Observai o que é reto, fazei o que é justo; porque a Minha salvação está perto e a Minha justiça está prestes a ser revelada." ^v1
 
-**2** Bem-aventurado o homem que fizer isto, e o filho do homem que lançar mão disto; que se guarda de profanar o sábado, e guarda a sua mão de fazer algum mal. ^v2
+**2** "Abençoado é o homem que assim o faz e persevera firmemente. Ele guarda o sábado, sem o profanar e guarda a sua mão de fazer o mal""." ^v2
 
-**3** E não fale o filho do estrangeiro, que se houver unido ao Senhor, dizendo: Certamente o Senhor me separará do seu povo; nem tampouco diga o eunuco: Eis que sou uma árvore seca. ^v3
+**3** "Nenhum estrangeiro que se uniu a Yahweh diga: ""Yahweh, certamente, me excluirá do Seu povo"". Que o eunuco não fale: ""Vê, eu sou uma árvore seca.""" ^v3
 
-**4** Porque assim diz o Senhor a respeito dos eunucos, que guardam os meus sábados, e escolhem aquilo em que eu me agrado, e abraçam a minha aliança: ^v4
+**4** "Porque assim diz Yahweh: ""Aos eunucos que guardam os Meus sábados e escolhem o que Me agrada, e guardam a Minha aliança," ^v4
 
-**5** Também lhes darei na minha casa e dentro dos meus muros um lugar e um nome, melhor do que o de filhos e filhas; um nome eterno darei a cada um deles, que nunca se apagará. ^v5
+**5** "Eu construirei para eles, na Minha casa e dentro dos Meus muros, um monumento que é melhor do que ter filhos e filhas; Eu lhes darei um nome eterno que nunca lhes será retirado""." ^v5
 
-**6** E aos filhos dos estrangeiros, que se unirem ao Senhor, para o servirem, e para amarem o nome do Senhor, e para serem seus servos, todos os que guardarem o sábado, não o profanando, e os que abraçarem a minha aliança, ^v6
+**6** Também os estrangeiros que se aliam a Yahweh para servi-Lo e que amam o nome de Yahweh para adorá-Lo, todos os que observam o sábado e não o violam, e guardam a Minha aliança, ^v6
 
-**7** Também os levarei ao meu santo monte, e os alegrarei na minha casa de oração; os seus holocaustos e os seus sacrifícios serão aceitos no meu altar; porque a minha casa será chamada casa de oração para todos os povos. ^v7
+**7** Eu os trarei ao Meu santo monte e os alegrarei na Minha casa de oração; seus holocaustos e sacrifícios serão aceitos no Meu altar, porque a Minha casa será chamada casa de oração para todas as nações. ^v7
 
-**8** Assim diz o Senhor DEUS, que congrega os dispersos de Israel: Ainda ajuntarei outros aos que já se lhe ajuntaram. ^v8
+**8** "Esta é a declaração do Senhor Yahweh, que ajunta os rejeitados de Israel — Eu ainda trarei outros para acrescentar a eles""." ^v8
 
-**9** Vós, todos os animais do campo, todos os animais dos bosques, vinde comer. ^v9
+**9** Todos vós, animais do campo, todos os animais da floresta, vinde e devorai! ^v9
 
-**10** Todos os seus atalaias são cegos, nada sabem; todos são cães mudos, não podem ladrar; andam adormecidos, estão deitados, e gostam do sono. ^v10
+**10** Todos os vossos guardas são cegos; eles não entendem; são como cães mudos que não conseguem latir; deitando-se, sonham, e amam dormir. ^v10
 
-**11** E estes cães são gulosos, não se podem fartar; e eles são pastores que nada compreendem; todos eles se tornam para o seu caminho, cada um para a sua ganância, cada um por sua parte. ^v11
+**11** Eles são cães gulosos que nunca estão satisfeitos; são pastores sem discernimento; todos se desviaram para seu próprio caminho, cada um busca seu próprio interesse. ^v11
 
-**12** Vinde, dizem, trarei vinho, e beberemos bebida forte; e o dia de amanhã será como este, e ainda muito mais abundante. ^v12
+**12** """Vinde"", eles dizem: ""Tomemos vinho e bebida forte; amanhã será como hoje, um dia sem igual”." ^v12

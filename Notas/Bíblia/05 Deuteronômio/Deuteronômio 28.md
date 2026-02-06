@@ -1,143 +1,142 @@
 ---
-Livro: "[[Deuteronômio|Deuteronômio]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Deuteronômio|Deuteronômio]]"
+tags: [biblia]
 ---
 
 # Deuteronômio 28
 
-**1** E será que, se ouvires a voz do SENHOR teu Deus, tendo cuidado de guardar todos os seus mandamentos que eu hoje te ordeno, o SENHOR teu Deus te exaltará sobre todas as nações da terra. ^v1
+**1** Se, cuidadosamente, ouvires a voz de Yahweh, teu Deus, e guardares todos os Seus mandamentos que hoje te ordeno, Yahweh, teu Deus, te colocará sobre todas as outras nações da terra. ^v1
 
-**2** E todas estas bênçãos virão sobre ti e te alcançarão, quando ouvires a voz do Senhor teu Deus: ^v2
+**2** Todas estas bençãos virão sobre ti e te alcançarão, se ouvires a voz de Yahweh, teu Deus. ^v2
 
 **3** Bendito serás na cidade, e bendito serás no campo. ^v3
 
-**4** Bendito o fruto do teu ventre, e o fruto da tua terra, e o fruto dos teus animais; e as crias das tuas vacas e das tuas ovelhas. ^v4
+**4** Benditos serão os frutos do teu ventre, e os frutos das tuas terras, e os frutos de teus animais, as crias dos teus gados, e as crias dos teus rebanhos. ^v4
 
-**5** Bendito o teu cesto e a tua amassadeira. ^v5
+**5** Benditos serão o teu cesto e a tua vasilha de amassar pão. ^v5
 
-**6** Bendito serás ao entrares, e bendito serás ao saíres. ^v6
+**6** Bendito serás quando vieres, e bendito serás quando fores. ^v6
 
-**7** O Senhor entregará, feridos diante de ti, os teus inimigos, que se levantarem contra ti; por um caminho sairão contra ti, mas por sete caminhos fugirão da tua presença. ^v7
+**7** Yahweh fará teus inimigos, que se levantarem contra ti, serem derrubados diante de ti; eles sairão contra ti por um caminho, mas fugirão diante de ti por sete caminhos. ^v7
 
-**8** O Senhor mandará que a bênção esteja contigo nos teus celeiros, e em tudo o que puseres a tua mão; e te abençoará na terra que te der o Senhor teu Deus. ^v8
+**8** Yahweh mandará a benção ir sobre ti em teus celeiros e em tudo que tu colacares as mãos. Ele te abençoará na terra que Ele te deu. ^v8
 
-**9** O Senhor te confirmará para si como povo santo, como te tem jurado, quando guardares os mandamentos do Senhor teu Deus, e andares nos seus caminhos. ^v9
+**9** Yahweh te estabelecerá como povo santo, como Ele te jurou, se guardares os mandamentos de Yahweh, teu Deus, e andares nos Seus caminhos. ^v9
 
-**10** E todos os povos da terra verão que é invocado sobre ti o nome do Senhor, e terão temor de ti. ^v10
+**10** Todos os povos da terra verão que tu és chamado pelo nome de Yahweh, e eles terão medo de ti. ^v10
 
-**11** E o Senhor te dará abundância de bens no fruto do teu ventre, e no fruto dos teus animais, e no fruto do teu solo, sobre a terra que o Senhor jurou a teus pais te dar. ^v11
+**11** Yahweh fará muito próspero o fruto do teu ventre, o fruto dos teus gados e o fruto do teu solo na terra que Ele jurou aos teus pais que te daria. ^v11
 
-**12** O Senhor te abrirá o seu bom tesouro, o céu, para dar chuva à tua terra no seu tempo, e para abençoar toda a obra das tuas mãos; e emprestarás a muitas nações, porém tu não tomarás emprestado. ^v12
+**12** Yahweh abrirá para ti as comportas do céu para dar a chuva para tua terra no momento certo, e abençoará todo o trabalho das tuas mãos. Emprestarás para muitas nações, mas não tomarás emprestado. ^v12
 
-**13** E o Senhor te porá por cabeça, e não por cauda; e só estarás em cima, e não debaixo, se obedeceres aos mandamentos do Senhor teu Deus, que hoje te ordeno, para os guardar e cumprir. ^v13
+**13** Yahweh te porá como o cabeça, e não como cauda; estarás sempre por cima e não por baixo, se ouvires os mandamentos de Yahweh, teu Deus, que eu te ordeno hoje, tanto para observar como para cumpri-los, ^v13
 
-**14** E não te desviarás de todas as palavras que hoje te ordeno, nem para a direita nem para a esquerda, andando após outros deuses, para os servires. ^v14
+**14** e, se não desviares de nenhuma das palavras que eu te ordeno hoje, nem para a direita, nem para a esquerda, nem seguir outros deuses para servi-los. ^v14
 
-**15** Será, porém, que, se não deres ouvidos à voz do Senhor teu Deus, para não cuidares em cumprir todos os seus mandamentos e os seus estatutos, que hoje te ordeno, então virão sobre ti todas estas maldições, e te alcançarão: ^v15
+**15** Se, porém, não ouvires a voz de Yahweh, teu Deus, para guardares todos os Seus mandamentos e Seus estatutos, que hoje te ordeno, então, todas essas maldições virão sobre ti e te alcançarão. ^v15
 
-**16** Maldito serás tu na cidade, e maldito serás no campo. ^v16
+**16** Maldito serás na cidade, e maldito serás no campo. ^v16
 
-**17** Maldito o teu cesto e a tua amassadeira. ^v17
+**17** Malditos serão teu cesto e tua vasilha de amassar pão. ^v17
 
-**18** Maldito o fruto do teu ventre, e o fruto da tua terra, e as crias das tuas vacas, e das tuas ovelhas. ^v18
+**18** Malditos serão o fruto do teu ventre, o fruto das tuas terras, as crias dos teus gados, e as crias dos teus rebanhos. ^v18
 
-**19** Maldito serás ao entrares, e maldito serás ao saíres. ^v19
+**19** Maldito serás quando vieres e maldito serás quando fores. ^v19
 
-**20** O Senhor mandará sobre ti a maldição; a confusão e a derrota em tudo em que puseres a mão para fazer; até que sejas destruído, e até que repentinamente pereças, por causa da maldade das tuas obras, pelas quais me deixaste. ^v20
+**20** Yahweh enviará sobre ti maldições, confusões, e afastará tudo em que colocares as mãos para fazer, até que sejas destruído, e até que morras, rapidamente, por causa das ações maldosas pelas quais tu Me abandonaste. ^v20
 
-**21** O Senhor fará pegar em ti a pestilência, até que te consuma da terra a que passas a possuir. ^v21
+**21** Yahweh te fará contrair uma praga, até que Ele te destrua na terra em que tu estás entrando para possuir. ^v21
 
-**22** O Senhor te ferirá com a tísica e com a febre, e com a inflamação, e com o calor ardente, e com a secura, e com crestamento e com ferrugem; e te perseguirão até que pereças. ^v22
+**22** Yahweh te atacará com doenças infecciosas, com febres, inflamações, com seca e forte calor, com vento escaldante e com mofo. Estes te perseguirão até que tu morras. ^v22
 
-**23** E os teus céus, que estão sobre a cabeça, serão de bronze; e a terra que está debaixo de ti, será de ferro. ^v23
+**23** Teu céu, que está sobre tua cabeça, será de bronze; a terra, que está debaixo de ti, será de ferro. ^v23
 
-**24** O Senhor dará por chuva sobre a tua terra, pó e poeira; dos céus descerá sobre ti, até que pereças. ^v24
+**24** Yahweh fará a chuva de tua terra em pó e poeira, do céu isto descerá sobre ti, até que tu sejas destruído. ^v24
 
-**25** O Senhor te fará cair diante dos teus inimigos; por um caminho sairás contra eles, e por sete caminhos fugirás de diante deles, e serás espalhado por todos os reinos da terra. ^v25
+**25** Yahweh fará com que sejas derrotado diante dos teus inimigos; tu sairás por um caminho, e fugirás por sete caminhos. E serás motivo de horror para todos os reinos da terra. ^v25
 
-**26** E o teu cadáver servirá de comida a todas as aves dos céus, e aos animais da terra; e ninguém os espantará. ^v26
+**26** Teus cadaver se tornará comida para todos os pássaros dos céu e para os animais da terra; e não haverá ninguém para afugentá-los. ^v26
 
-**27** O Senhor te ferirá com as úlceras do Egito, com tumores, e com sarna, e com coceira, de que não possas curar-te; ^v27
+**27** Yahweh te atacará com as úlceras do Egito e com tumores, sarna e coceira, das quais não poderás ser curado. ^v27
 
-**28** O Senhor te ferirá com loucura, e com cegueira, e com pasmo de coração; ^v28
+**28** Yahweh te atacará com loucura, com cegueira, e com confusão mental. ^v28
 
-**29** E apalparás ao meio-dia, como o cego apalpa na escuridão, e não prosperarás nos teus caminhos; porém somente serás oprimido e roubado todos os dias, e não haverá quem te salve. ^v29
+**29** Ficarás confuso ao meio dia, como o cego se confunde na escuridão, e tu não prosperarás em teus caminhos. Serás sempre oprimido e roubado, e não terás ninguém para te salvar. ^v29
 
-**30** Desposar-te-ás com uma mulher, porém outro homem dormirá com ela; edificarás uma casa, porém não morarás nela; plantarás uma vinha, porém não aproveitarás o seu fruto. ^v30
+**30** Tu casarás com uma mulher, mas outro homem dormirá com ela. Tu construirás uma casa, mas não viverás nela; plantarás videiras, mas não desfrutarás do fruto. ^v30
 
-**31** O teu boi será morto aos teus olhos, porém dele não comerás; o teu jumento será roubado diante de ti, e não voltará a ti; as tuas ovelhas serão dadas aos teus inimigos, e não haverá quem te salve. ^v31
+**31** Teu boi será morto diante dos teus olhos, mas não comerás sua carne; teu burro será levado para longe diante de ti, e não te será restituído. Tua ovelha será dada aos teus inimigos, e não terás ninguém para te ajudar. ^v31
 
-**32** Teus filhos e tuas filhas serão dados a outro povo, os teus olhos o verão, e por eles desfalecerão todo o dia; porém não haverá poder na tua mão. ^v32
+**32** Teus filhos e tuas filhas serão dados a outros povos; teus olhos irão procurar por eles o dia inteiro, mas cansarão de esperar por eles. E não terás força em tua mão. ^v32
 
-**33** O fruto da tua terra e todo o teu trabalho, comerá um povo que nunca conheceste; e tu serás oprimido e quebrantado todos os dias. ^v33
+**33** A colheita da tua terra e de todo o teu trabalho alimentará uma nação que não conheces. Serás sempre oprimido e esmagado. ^v33
 
-**34** E enlouquecerás com o que vires com os teus olhos. ^v34
+**34** Então, enlouquecerás pelo que verás acontecer. ^v34
 
-**35** O Senhor te ferirá com úlceras malignas nos joelhos e nas pernas, de que não possas sarar, desde a planta do teu pé até ao alto da cabeça. ^v35
+**35** Yahweh te atacará nos joelhos e nas pernas com úlceras severas, das quais não poderás ser curado, da planta dos teus pés até o alto da tua cabeça. ^v35
 
-**36** O Senhor te levará a ti e a teu rei, que tiveres posto sobre ti, a uma nação que não conheceste, nem tu nem teus pais; e ali servirás a outros deuses, ao pau e à pedra. ^v36
+**36** Yahweh te levará junto com o rei que colocaste sobre ti, para uma nação que nunca conheceste, nem tu e nem teus antepassados. Ali, cultuarás deuses de madeira e de pedra. ^v36
 
-**37** E serás por pasmo, por ditado, e por fábula, entre todos os povos a que o Senhor te levará. ^v37
+**37** Tornarás motivo de horror, um provérbio, e como escárnio entre os povos aos quais Yahweh te levará. ^v37
 
-**38** Lançarás muita semente ao campo; porém colherás pouco, porque o gafanhoto a consumirá. ^v38
+**38** Plantarás muitas sementes no teu campo, mas colherás pouco, pois os gafanhotos as consumirão. ^v38
 
-**39** Plantarás vinhas, e cultivarás; porém não beberás vinho, nem colherás as uvas; porque o bicho as colherá. ^v39
+**39** Plantarás videiras e as cultivarás, mas não beberás nenhum vinho, nem colherás as uvas, pois os vermes as comerão. ^v39
 
-**40** Em todos os termos terás oliveiras; porém não te ungirás com azeite; porque a azeitona cairá da tua oliveira. ^v40
+**40** Terás oliveiras em todo o teu território, mas não te ungirás com azeite, pois os frutos cairão da tua oliveira antes de amadurecer. ^v40
 
-**41** Filhos e filhas gerarás; porém não serão para ti; porque irão em cativeiro. ^v41
+**41** Terás filhos e filhas, mas eles não pertencerão a ti, pois serão levados cativos. ^v41
 
-**42** Todo o teu arvoredo e o fruto da tua terra consumirá a lagarta. ^v42
+**42** Todas as tuas árvores e o todo fruto do teu solo, os gafanhotos consumirão. ^v42
 
-**43** O estrangeiro, que está no meio de ti, se elevará muito sobre ti, e tu mais baixo descerás; ^v43
+**43** O estrangeiro que está em tua terra se multiplicará cada vez mais, e tu, cada vez mais, diminuirás. ^v43
 
-**44** Ele te emprestará a ti, porém tu não emprestarás a ele; ele será por cabeça, e tu serás por cauda. ^v44
+**44** Ele emprestará a ti, mas não emprestarás a ele. Ele será a cabeça, e tu serás a cauda. ^v44
 
-**45** E todas estas maldições virão sobre ti, e te perseguirão, e te alcançarão, até que sejas destruído; porquanto não ouviste à voz do Senhor teu Deus, para guardares os seus mandamentos, e os seus estatutos, que te tem ordenado; ^v45
+**45** Todas essas maldições virão sobre ti, e te perseguirão e te alcançarão até que sejas destruído. Isto acontecerá, pois não ouviste a voz de Yahweh, teu Deus, para guardar Seus mandamentos e Seus estatutos, que Ele te ordenou. ^v45
 
-**46** E serão entre ti por sinal e por maravilha, como também entre a tua descendência para sempre. ^v46
+**46** Essas maldições serão como sinais e maravilhas sobre ti, e sobre teus descendentes para sempre. ^v46
 
-**47** Porquanto não serviste ao Senhor teu Deus com alegria e bondade de coração, pela abundância de tudo. ^v47
+**47** Pois não cultuaste a Yahweh, teu Deus, com alegria e prazer de coração quando eras próspero, ^v47
 
-**48** Assim servirás aos teus inimigos, que o Senhor enviará contra ti, com fome e com sede, e com nudez, e com falta de tudo; e sobre o teu pescoço porá um jugo de ferro, até que te tenha destruído. ^v48
+**48** portanto, servirás aos inimigos que Yahweh enviará contra ti; irás servi-los com fome, com sede, em nudez, e em pobreza. Ele colocará um jugo de ferro em teu pescoço, até te destruir. ^v48
 
-**49** O Senhor levantará contra ti uma nação de longe, da extremidade da terra, que voa como a águia, nação cuja língua não entenderás; ^v49
+**49** Yahweh trará uma nação contra ti, de longe, dos confins da terra, como uma águia que voa para sua vítima, uma nação cuja língua não compreenderás; ^v49
 
-**50** Nação feroz de rosto, que não respeitará o rosto do velho, nem se apiedará do moço; ^v50
+**50** uma nação feroz de rosto, que não respeitará o velho, nem terá pena do jovem. ^v50
 
-**51** E comerá o fruto dos teus animais, e o fruto da tua terra, até que sejas destruído; e não te deixará grão, mosto, nem azeite, nem crias das tuas vacas, nem das tuas ovelhas, até que te haja consumido; ^v51
+**51** Ela comerá os filhotes do teu gado e o fruto da tua terra até que sejas destruído. Não te deixará nenhum grão, nem vinho novo, ou azeite, nenhuma cria do teu gado ou do teu rebanho, até que te faça perecer. ^v51
 
-**52** E sitiar-te-á em todas as tuas portas, até que venham a cair os teus altos e fortes muros, em que confiavas em toda a tua terra; e te sitiará em todas as tuas portas, em toda a tua terra que te tem dado o Senhor teu Deus. ^v52
+**52** Ela te sitiará em todos os portões da tua cidade, até que as tuas muralhas altas e fortes venham abaixo, em toda a tua terra, muralhas nas quais tu confiaste. Ela te sitiará em todos os portões da tua cidade, em toda a terra que Yahweh, teu Deus, havia te dado. ^v52
 
-**53** E comerás o fruto do teu ventre, a carne de teus filhos e de tuas filhas, que te der o Senhor teu Deus, no cerco e no aperto com que os teus inimigos te apertarão. ^v53
+**53** Tu comerás o fruto de teu próprio corpo, a carne de teus filhos e de tuas filhas, que Yahweh, teu Deus te deu, no sitiamento e na desolação com a qual teus inimigos porão sobre ti. ^v53
 
-**54** Quanto ao homem mais mimoso e delicado no meio de ti, o seu olho será maligno para com o seu irmão, e para com a mulher do seu regaço, e para com os demais de seus filhos que ainda lhe ficarem; ^v54
+**54** O homem que é gentil e refinado, ele será mesquinho para com o seu irmão e para com a mulher do seu amor, e para com qualquer filho que ele ainda tenha. ^v54
 
-**55** De sorte que não dará a nenhum deles da carne de seus filhos, que ele comer; porquanto nada lhe ficou de resto no cerco e no aperto, com que o teu inimigo te apertará em todas as tuas portas. ^v55
+**55** Então, ele não dará para ninguém carne de seu próprio filho que ele estiver para comer, pois não sobrará nada para si mesmo, no sitiamento e na desolação que teu inimigo colocará sobre ti nos portões da tua cidade. ^v55
 
-**56** E quanto à mulher mais mimosa e delicada no meio de ti, que de mimo e delicadeza nunca tentou pôr a planta de seu pé sobre a terra, será maligno o seu olho contra o homem de seu regaço, e contra seu filho, e contra sua filha; ^v56
+**56** A mulher mais gentil e refinada entre vós, que não ousaria colocar a planta do seu pé no solo por causa da delicadeza e fragilidade, ela será mesquinha para com o homem do seu coração, para com seu filho, e para com sua filha. ^v56
 
-**57** E isto por causa de suas páreas, que saírem dentre os seus pés, e para com os seus filhos que tiver, porque os comerá às escondidas pela falta de tudo, no cerco e no aperto, com que o teu inimigo te apertará nas tuas portas. ^v57
+**57** Ela será mesquinha da placenta que sair por entre suas pernas, e dos filhos que ela gerar. Ela os comerá em privado pela falta de tudo, durante o sitiamento e desolação pelo qual teu inimigo colocará sobre ti nos portões da tua cidade. ^v57
 
-**58** Se não tiveres cuidado de guardar todas as palavras desta lei, que estão escritas neste livro, para temeres este nome glorioso e temível, o SENHOR TEU DEUS, ^v58
+**58** Se tu não guardares todas as palavras desta lei, que estão escritas neste livro, para honrar esse glorioso e temido nome Yahweh, teu Deus. ^v58
 
-**59** Então o Senhor fará espantosas as tuas pragas, e as pragas de tua descendência, grandes e permanentes pragas, e enfermidades malignas e duradouras; ^v59
+**59** Então, Yahweh fará que tuas pragas sejam terríveis, e as de teus descendentes; estas pragas serão grandes, de longa duração, e doenças severas, de longa duração. ^v59
 
-**60** E fará tornar sobre ti todos os males do Egito, de que tu tiveste temor, e se apegarão a ti. ^v60
+**60** Novamente, Ele trará sobre ti todas as doenças do Egito que te assustaram; elas se apegarão a ti. ^v60
 
-**61** Também o Senhor fará vir sobre ti toda a enfermidade e toda a praga, que não está escrita no livro desta lei, até que sejas destruído. ^v61
+**61** Além disso, cada doença e praga que não está escrita no livro desta lei, essa também Yahweh irá trazer sobre ti até que tu sejas destruído. ^v61
 
-**62** E ficareis poucos em número, em lugar de haverem sido como as estrelas dos céus em multidão; porquanto não destes ouvidos à voz do Senhor teu Deus. ^v62
+**62** E vós sereis poucos em número, embora vós fostes como estrelas no céu em número, pois não ouvistes a voz de Yahweh, vosso Deus. ^v62
 
-**63** E será que, assim como o Senhor se deleitava em vós, em fazer-vos bem e multiplicar-vos, assim o Senhor se deleitará em destruir-vos e consumir-vos; e desarraigados sereis da terra a qual passais a possuir. ^v63
+**63** Como Yahweh uma vez alegrou-se sobre vós em vos fazer o bem, e vos multiplicar, então, Ele se alegrará sobre vós em vos fazer morrer e em vos destruir. Vós sereis arrancados da terra que vós estais entrando para possuir. ^v63
 
-**64** E o Senhor vos espalhará entre todos os povos, desde uma extremidade da terra até à outra; e ali servireis a outros deuses que não conheceste, nem tu nem teus pais; ao pau e à pedra. ^v64
+**64** Yahweh vos dispersará entre todos os povos desde uma extremidade da terra até a outra. Lá, cultuareis outros deuses que vós não conheceis, nem vós, nem vossos antepassados, deuses de madeira e de pedra. ^v64
 
-**65** E nem ainda entre estas nações descansarás, nem a planta de teu pé terá repouso; porquanto o Senhor ali te dará coração agitado, e desfalecimento de olhos, e desmaio da alma. ^v65
+**65** Entre essas nações, não encontrarás facilidade e lá não haverá descanso para teus pés; ao invés disto, Yahweh te dará ali um coração angustiado, olhos sem esperança, e uma alma que chora. ^v65
 
-**66** E a tua vida, como em suspenso, estará diante de ti; e estremecerás de noite e de dia, e não crerás na tua própria vida. ^v66
+**66** Tua vida estará suspensa, como por um fio, diante de ti; tu terás medo toda noite e todo dia, e não terás segurança em toda a sua vida. ^v66
 
-**67** Pela manhã dirás: Ah! quem me dera ver a noite! E à tarde dirás: ah! quem me dera ver a manhã! pelo pasmo de teu coração, que sentirás, e pelo que verás com os teus olhos. ^v67
+**67** Pela manhã, dirás: 'Eu gostaria que fosse noite!' e, à noite, dirás: 'Eu gostaria que fosse manhã!' por causa do medo em teu coração e das coisas que teus olhos terão que ver. ^v67
 
-**68** E o Senhor te fará voltar ao Egito em navios, pelo caminho de que te tenho dito; nunca jamais o verás; e ali sereis vendidos como escravos e escravas aos vossos inimigos; mas não haverá quem vos compre. ^v68
+**68** "Yahweh te fará voltar para o Egito novamente, em navios, pela rota sobre a qual Eu te disse: 'tu não verás o Egito novamente'. Lá, oferecerás a ti mesmo para a venda para vossos inimigos, como escravos e escravas, mas ninguém vos comprará""." ^v68

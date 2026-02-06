@@ -1,25 +1,22 @@
 ---
-Livro: "[[Salmos|Salmos]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Salmos|Salmos]]"
+tags: [biblia]
 ---
 
 # Salmos 52
 
-**1** Por que te glorias na malícia, ó homem poderoso? Pois a bondade de Deus permanece continuamente. ^v1
+**2** Tua língua planeja destruição, como uma lâmina afiada, trabalhando enganosamente. ^v2
 
-**2** A tua língua intenta o mal, como uma navalha amolada, traçando enganos. ^v2
+**3** Tu amas mais o mal do que o bem, o mentir, ao invés do falar retamente. [Interlúdio] ^v3
 
-**3** Tu amas mais o mal do que o bem, e a mentira mais do que o falar a retidão. (Selá.) ^v3
+**4** Tu amas todas as palavras devoradoras, ó língua enganosa. ^v4
 
-**4** Amas todas as palavras devoradoras, ó língua fraudulenta. ^v4
+**5** Deus te destruirá para sempre. Ele te pegará e te arrancará para fora da tua tenda e te expulsará da terra dos viventes. [Interlúdio] ^v5
 
-**5** Também Deus te destruirá para sempre; arrebatar-te-á e arrancar-te-á da tua habitação, e desarraigar-te-á da terra dos viventes. (Selá.) ^v5
+**6** Os justos verão isso e temerão; rirão dele e dirão: ^v6
 
-**6** E os justos o verão, e temerão: e se rirão dele, dizendo: ^v6
+**7** """Vede! Este é o homem que não fez de Deus o seu refúgio; antes, confiou na abundância de sua própria riqueza e se fortaleceu destruindo os outros.""" ^v7
 
-**7** Eis aqui o homem que não pôs em Deus a sua fortaleza, antes confiou na abundância das suas riquezas, e se fortaleceu na sua maldade. ^v7
+**8** Mas eu sou como uma oliveira verde na casa de Deus; confiarei no amor leal de Deus, para sempre e sempre. ^v8
 
-**8** Mas eu sou como a oliveira verde na casa de Deus; confio na misericórdia de Deus para sempre, eternamente. ^v8
-
-**9** Para sempre te louvarei, porque tu o fizeste, e esperarei no teu nome, porque é bom diante de teus santos. ^v9
+**9** Te louvarei para sempre, ó Deus, pelo que fizeste. Eu esperarei em Teu nome, porque é bom, na presença dos Teus fiéis. ^v9

@@ -1,27 +1,26 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Ezequiel|Ezequiel]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Ezequiel|Ezequiel]]"
+tags: [biblia]
 ---
 
 # Ezequiel 2
 
-**1** E disse-me: Filho do homem, põe-te em pé, e falarei contigo. ^v1
+**1** "E Ele me disse: ""Filho do homem, põe-te em pé, e falarei contigo""." ^v1
 
-**2** Então entrou em mim o Espírito, quando ele falava comigo, e me pôs em pé, e ouvi o que me falava. ^v2
+**2** Então, enquanto me falava, o Espírito entrou em mim e me pôs em pé, e O ouvi falando comigo. ^v2
 
-**3** E disse-me: Filho do homem, eu te envio aos filhos de Israel, às nações rebeldes que se rebelaram contra mim; eles e seus pais transgrediram contra mim até este mesmo dia. ^v3
+**3** "Ele me disse: ""Filho do homem, estou te enviando ao povo de Israel, às nações rebeldes que têm se rebelado contra Mim. Tanto eles como seus antepassados têm pecado contra Mim até o dia de hoje!" ^v3
 
-**4** E os filhos são de semblante duro, e obstinados de coração; eu te envio a eles, e lhes dirás: Assim diz o Senhor DEUS. ^v4
+**4** Seus descendentes têm semblantes teimosos e corações duros. Eu te envio a eles, para que lhes digas: 'Isto é o que Yahweh Deus diz', ^v4
 
-**5** E eles, quer ouçam quer deixem de ouvir (porque eles são casa rebelde), hão de saber, contudo, que esteve no meio deles um profeta. ^v5
+**5** quer te ouçam, quer não, pois são uma casa rebelde. Ao menos, saberão que um profeta esteve no meio deles. ^v5
 
-**6** E tu, ó filho do homem, não os temas, nem temas as suas palavras; ainda que estejam contigo sarças e espinhos, e tu habites entre escorpiões, não temas as suas palavras, nem te assustes com os seus semblantes, porque são casa rebelde. ^v6
+**6** Tu, filho do homem, não tenhas medo deles nem das suas palavras. Não temas, embora estejas entre sarças e espinhos e vivas entre escorpiões. Não tenhas medo das suas palavras, nem desfaleças por causa dos seus rostos, pois são uma casa rebelde. ^v6
 
-**7** Mas tu lhes dirás as minhas palavras, quer ouçam quer deixem de ouvir, pois são rebeldes. ^v7
+**7** Porém, tu lhes dirás Minhas palavras, quer ouçam, quer não, pois são muito rebeldes. ^v7
 
-**8** Mas tu, ó filho do homem, ouve o que eu te falo, não sejas rebelde como a casa rebelde; abre a tua boca, e come o que eu te dou. ^v8
+**8** "Mas tu, filho do homem, ouve o que Eu te digo, não sejas rebelde como aquela casa rebelde. Abre a tua boca e come o que Eu estou para te dar!""." ^v8
 
-**9** Então vi, e eis que uma mão se estendia para mim, e eis que nela havia um rolo de livro. ^v9
+**9** Então olhei, e uma mão me foi estendida; nela, havia um rolo de um livro. ^v9
 
-**10** E estendeu-o diante de mim, e ele estava escrito por dentro e por fora; e nele estavam escritas lamentações, e suspiros e ais. ^v10
+**10** Ele o desenrolou diante de mim. O livro estava escrito por dentro e por fora e, nele, estavam escritos prantos, lamentações e tristezas. ^v10

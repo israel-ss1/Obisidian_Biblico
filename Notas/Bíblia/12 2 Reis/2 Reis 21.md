@@ -1,59 +1,58 @@
 ---
-Livro: "[[2 Reis|2 Reis]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/2 Reis|2 Reis]]"
+tags: [biblia]
 ---
 
 # 2 Reis 21
 
-**1** Tinha Manassés doze anos de idade quando começou a reinar, e cinqüenta e cinco anos reinou em Jerusalém; e era o nome de sua mãe Hefzibá. ^v1
+**1** Manassés tinha doze anos quando começou a reinar. Ele reinou por cinquenta e cinco anos em Jerusalém. Sua mãe se chamava Hefzibá. ^v1
 
-**2** E fez o que era mau aos olhos do Senhor, conforme as abominações dos gentios que o Senhor expulsara de suas possessões, de diante dos filhos de Israel. ^v2
+**2** Ele fez o que era mau à vista de Yahweh, como as coisas abomináveis das nações que Yahweh havia tirado diante do povo de Israel. ^v2
 
-**3** Porque tornou a edificar os altos que Ezequias, seu pai, tinha destruído, e levantou altares a Baal, e fez um bosque como o que fizera Acabe, rei de Israel, e se inclinou diante de todo o exército dos céus, e os serviu. ^v3
+**3** Pois ele reconstruiu os lugares altos que Ezequias, seu pai, havia destruído, e ele construiu altares a Baal, fez um poste a Astarote, como o que Acabe, rei de Israel, havia feito, e ele se prostrou a todas as estrelas do céu e as adorou. ^v3
 
-**4** E edificou altares na casa do Senhor, da qual o Senhor tinha falado: Em Jerusalém porei o meu nome. ^v4
+**4** "Manassés contruiu altares pagãos na casa de Yahweh, apesar do comando de Yahweh: ""Em Jerusalém, é onde Meu nome será para sempre""." ^v4
 
-**5** Também edificou altares a todo o exército dos céus em ambos os átrios da casa do Senhor. ^v5
+**5** Ele construiu altares para todas as estrelas do céu nos dois pátios do templo de Yahweh. ^v5
 
-**6** E até fez passar a seu filho pelo fogo, adivinhava pelas nuvens, era agoureiro e ordenou adivinhos e feiticeiros; e prosseguiu em fazer o que era mau aos olhos do Senhor, para o provocar à ira. ^v6
+**6** Ele ofereceu seu filho no fogo; ele praticou feitiçaria e encantamento, e se consultou com aqueles que falam com os mortos e aqueles que falam com os espíritos. Ele praticou muitos atos malignos diante de Yahweh, e ele provocou a ira de Deus. ^v6
 
-**7** Também pôs uma imagem de escultura, do bosque que tinha feito, na casa de que o Senhor dissera a Davi e a Salomão, seu filho: Nesta casa e em Jerusalém, que escolhi de todas as tribos de Israel, porei o meu nome para sempre; ^v7
+**7** "A imagem esculpida de Astarote que ele fez, ele a pôs no templo de Yahweh. Foi sobre esse templo que Yahweh havia dito a Davi e a Salomão, seu filho. Ele disse: ""Neste templo e em Jerusalém, a qual Eu escolhi de todas as tribos de Israel, que Eu colocarei Meu nome para sempre." ^v7
 
-**8** E não mais farei mover o pé de Israel desta terra que tenho dado a seus pais; contanto que somente tenham cuidado de fazer conforme tudo o que lhes tenho ordenado, e conforme toda a lei que Moisés, meu servo, lhes ordenou. ^v8
+**8** "Não mais deixarei que os pés de Israel andem fora da terra que dei aos seus antepassados, caso eles obedeçam cuidadosamente tudo o que Eu os comandei, e sigam toda Lei que Meu servo Moisés ordenou a eles""." ^v8
 
-**9** Porém não ouviram; porque Manassés de tal modo os fez errar, que fizeram pior do que as nações, que o Senhor tinha destruído de diante dos filhos de Israel. ^v9
+**9** Mas as pessoas se recusaram a escutar, e Manassés os levou a fazer coisas bem piores, muito mais do que as nações que Yahweh havia destruído diante do povo de Israel. ^v9
 
-**10** Então o Senhor falou pelo ministério de seus servos, os profetas, dizendo: ^v10
+**10** Assim, Yahweh falou por meio de Seus servos, os profetas, dizendo: ^v10
 
-**11** Porquanto Manassés, rei de Judá, fez estas abominações, fazendo pior do que tudo quanto fizeram os amorreus, que foram antes dele, e até também a Judá fez pecar com os seus ídolos; ^v11
+**11** """Porque Manassés, rei de Judá, tem feito essas coisas abomináveis, e tendo agido perversamente, que todos os amorreus antes dele fizeram, e também havia feito Judá pecar com seus ídolos," ^v11
 
-**12** Por isso, assim diz o Senhor Deus de Israel: Eis que hei de trazer um mal sobre Jerusalém e Judá, que qualquer que ouvir, lhe ficarão retinindo ambos os ouvidos. ^v12
+**12** então, Yahweh, o Deus de Israel, diz: 'Vê, Eu estou para trazer tal mal sobre Jerusalém e Judá que qualquer que ouvir isto, ambos os ouvidos retinarão. ^v12
 
-**13** E estenderei sobre Jerusalém o cordel de Samaria e o prumo da casa de Acabe; e limparei a Jerusalém, como quem limpa o prato, limpa-o e vira-o para baixo. ^v13
+**13** Eu estenderei sobre Jerusalém a corda de medidas usada contra Samaria, e a corda de prumo contra a casa de Acabe; Eu irei limpar Jerusalém, da mesma maneira que um homem lava a louça, lavando-a e virando-a de cabeça para baixo. ^v13
 
-**14** E desampararei os restantes da minha herança, entregá-los-ei na mão de seus inimigos; e servirão de presa e despojo para todos os seus inimigos; ^v14
+**14** Eu lançarei fora o remanescente da Minha herança e os entregarei na mão de seus inimigos. Eles se tornarão vítimas e despojo para todos os seus inimigos, ^v14
 
-**15** Porquanto fizeram o que era mau aos meus olhos e me provocaram à ira, desde o dia em que seus pais saíram do Egito até hoje. ^v15
+**15** "porque eles fizeram o mal à Minha vista, e Me provocaram à ira, desde o dia em que seus ancestrais vieram do Egito, até o dia de hoje'""." ^v15
 
-**16** Além disso, também Manassés derramou muitíssimo sangue inocente, até que encheu a Jerusalém de um ao outro extremo, afora o seu pecado, com que fez Judá pecar, fazendo o que era mau aos olhos do Senhor. ^v16
+**16** Além disso, Manassés derramou muito sangue inocente, até encher Jerusalém de morte de um extremo ao outro. Isto foi em adição ao pecado pelo qual ele fez Judá pecar, quando ela fez o que era mal à vista de Yahweh. ^v16
 
-**17** Quanto ao mais dos feitos de Manassés, e a tudo quanto fez, e ao seu pecado, que praticou, porventura não está escrito no livro das crônicas dos reis de Judá? ^v17
+**17** Quanto aos demais atos relacionados a Manassés, tudo que ele fez, e o pecado cometido, não estão escritos no livro de Crônicas dos reis de Judá? ^v17
 
-**18** E Manassés dormiu com seus pais, e foi sepultado no jardim da sua casa, no jardim de Uzá; e Amom, seu filho, reinou em seu lugar. ^v18
+**18** Manassés dormiu com seus antepassados e foi sepultado no jardim de sua própria casa, no jardim de Uzá. Amom seu filho tornou-se rei em seu lugar. ^v18
 
-**19** Tinha Amom vinte e dois anos de idade quando começou a reinar, e dois anos reinou em Jerusalém; e era o nome de sua mãe Mesulemete, filha de Harus, de Jotbá. ^v19
+**19** Amom tinha vinte e dois anos quando começou a reinar; ele reinou por dois anos em Jerusalém. O nome de sua mãe era Mesulemete; ela era a filha de Haruz de Jobtá. ^v19
 
-**20** E fez o que era mau aos olhos do Senhor, como fizera Manassés, seu pai. ^v20
+**20** Ele fez o que era mau à vista de Yahweh, da mesma maneira que Manassés, seu pai, fez. ^v20
 
-**21** Porque andou em todo o caminho em que andara seu pai; e serviu os ídolos, a que seu pai tinha servido, e se inclinou diante deles. ^v21
+**21** Amom seguiu o caminho em que seu pai andou e adorou aos ídolos que seu pai adorou, e se prostrou a eles. ^v21
 
-**22** Assim deixou ao Senhor Deus de seus pais, e não andou no caminho do Senhor. ^v22
+**22** Ele abandonou Yahweh, o Deus de seus pais, e não andou no caminho de Yahweh. ^v22
 
-**23** E os servos de Amom conspiraram contra ele, e mataram o rei em sua casa. ^v23
+**23** Os servos de Amom conspiraram contra ele e o mataram em sua própria casa. ^v23
 
-**24** Porém o povo da terra feriu a todos os que conspiraram contra o rei Amom; e o povo da terra pôs Josias, seu filho, rei em seu lugar. ^v24
+**24** Mas o povo da terra matou todos aqueles que conspiraram contra o rei Amom, e fizeram de Josias, seu filho, rei em seu lugar. ^v24
 
-**25** Quanto ao mais dos atos de Amom, que fez, porventura não está escrito no livro das crônicas dos reis de Judá? ^v25
+**25** Quanto às demais situações relacionadas aos atos de Amom, os mesmos não estão escritos no livro de Crônicas dos reis de Judá? ^v25
 
-**26** E o sepultaram na sua sepultura, no jardim de Uzá; e Josias, seu filho, reinou em seu lugar. ^v26
+**26** O povo o sepultou na sua tumba no jardim de Uzá, e Josias seu filho se tornou rei em seu lugar. ^v26

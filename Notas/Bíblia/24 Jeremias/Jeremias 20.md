@@ -1,43 +1,42 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Jeremias|Jeremias]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Jeremias|Jeremias]]"
+tags: [biblia]
 ---
 
 # Jeremias 20
 
-**1** E Pasur, filho de Imer, o sacerdote, que havia sido nomeado presidente na casa do SENHOR, ouviu a Jeremias, que profetizava estas palavras. ^v1
+**1** Pasur, filho de Imer, o mais alto sacerdote da Casa de Yahweh, ouviu Jeremias profetizando essas palavras. ^v1
 
-**2** E feriu Pasur ao profeta Jeremias, e o colocou no cepo que está na porta superior de Benjamim, na casa do Senhor. ^v2
+**2** Então, Pasur açoitou Jeremias, o profeta, e colocou-o no tronco que estava no portão superior de Benjamim, na Casa de Yahweh. ^v2
 
-**3** E sucedeu que no dia seguinte Pasur tirou a Jeremias do cepo. Então disse-lhe Jeremias: O Senhor não chama o teu nome Pasur, mas, Terror por todos os lados. ^v3
+**3** "E aconteceu que, no dia seguinte, Passur tirou Jeremias do tronco. Então, Jeremias lhe disse: ""Yahweh não o chama mais Pasur, mas tu és Magor-Missabibe." ^v3
 
-**4** Porque assim diz o SENHOR: Eis que farei de ti um terror para ti mesmo, e para todos os teus amigos. Eles cairão à espada de seus inimigos, e teus olhos o verão. Entregarei todo o Judá na mão do rei de babilônia; ele os levará presos a babilônia, e feri-los-á à espada. ^v4
+**4** Porque assim diz Yahweh: 'Eis que farei de ti um objeto de terror para ti e para todos os teus amigos; pois eles cairão pela espada de seus inimigos e teus olhos verão isso. Entregarei todo o Judá nas mãos do rei da Babilônia. Ele os levará cativos à Babilônia ou os matará à espada. ^v4
 
-**5** Também entregarei toda a riqueza desta cidade, e todo o seu trabalho, e todas as suas coisas preciosas, sim, todos os tesouros dos reis de Judá entregarei na mão de seus inimigos, e saqueá-los-ão, e tomá-los-ão e levá-los-ão a babilônia. ^v5
+**5** Eu entregarei toda a riqueza dessa cidade e todo o fruto do seu trabalho, tudo o que há de precioso e todos os tesouros dos reis de Judá. Tudo isso colocarei nas mãos de teus inimigos, eles te saquearão e tudo levarão para a Babilônia. ^v5
 
-**6** E tu, Pasur, e todos os moradores da tua casa ireis para o cativeiro; e virás a babilônia, e ali morrerás, e ali serás sepultado, tu, e todos os teus amigos, aos quais profetizaste falsamente. ^v6
+**6** "Mas tu, Pasur, e todos os moradores de tua casa ireis para o cativeiro. Tu irás para a Babilônia e ali morrerás. Tu e todos os teus amigos, para quem profetizastes falsamente, serão enterrados ali.""" ^v6
 
-**7** Persuadiste-me, ó Senhor, e persuadido fiquei; mais forte foste do que eu, e prevaleceste; sirvo de escárnio todo o dia; cada um deles zomba de mim. ^v7
+**7** """Tu me enganaste, ó Yahweh, e enganado fiquei. Tu foste mais forte do que eu e prevaleceste. Tornei-me motivo de riso o dia inteiro; todos zombam de mim." ^v7
 
-**8** Porque desde que falo, grito, clamo: Violência e destruição; porque se tornou a palavra do Senhor um opróbrio e ludíbrio todo o dia. ^v8
+**8** Pois sempre que eu falo, grito e proclamo: 'Violência e destruição', a palavra de Yahweh tem-se tornado para mim reprovação e zombaria ,todos os dias. ^v8
 
-**9** Então disse eu: Não me lembrarei dele, e não falarei mais no seu nome; mas isso foi no meu coração como fogo ardente, encerrado nos meus ossos; e estou fatigado de sofrer, e não posso mais. ^v9
+**9** Quando eu disse: 'Eu não me lembrarei mais de Yahweh, e não falarei mais o Seu nome', meu coração se tornou como o fogo, retido em meus ossos. Eu tenho me esforçado para contê-lo, mas não consigo. ^v9
 
-**10** Porque ouvi a murmuração de muitos, terror de todos os lados: Denunciai, e o denunciaremos; todos os que têm paz comigo aguardam o meu manquejar, dizendo: Bem pode ser que se deixe persuadir; então prevaleceremos contra ele e nos vingaremos dele. ^v10
+**10** Eu ouço rumores de terror vindo de muitas pessoas, por todos os lados: 'Denunciai! Nós devemos denunciá-lo!' Aqueles que estão próximos me observam, esperando a minha queda: 'Talvez ele possa ser enganado. Se assim for, poderemos dominá-lo e e nos vingarmos dele'. ^v10
 
-**11** Mas o Senhor está comigo como um valente terrível; por isso tropeçarão os meus perseguidores, e não prevalecerão; ficarão muito confundidos; porque não se houveram prudentemente, terão uma confusão perpétua que nunca será esquecida. ^v11
+**11** Mas Yahweh está comigo, como um poderoso guerreiro; por isso, os meus perseguidores serão confundidos. Eles não me derrotarão e ficarão muito envergonhados porque não tiveram sucesso. Eles sofrerão uma vergonha interminável, que nunca será esquecida. ^v11
 
-**12** Tu, pois, ó Senhor dos Exércitos, que provas o justo, e vês os rins e o coração, permite que eu veja a tua vingança contra eles; pois já te revelei a minha causa. ^v12
+**12** Mas Tu, Yahweh dos Exércitos, Tu que examinas os justos e vês os pensamentos e o coração, deixa-me ver Tua vingança sobre eles, pois apresentei a minha causa a Ti. ^v12
 
-**13** Cantai ao Senhor, louvai ao Senhor; pois livrou a alma do necessitado da mão dos malfeitores. ^v13
+**13** Cantai a Yahweh! Louvai a Yahweh! Porque Ele tem resgatado as vidas dos que são oprimidos pelas mãos dos malfeitores. ^v13
 
-**14** Maldito o dia em que nasci; não seja bendito o dia em que minha mãe me deu à luz. ^v14
+**14** Maldito o dia em que nasci. Não seja bendito o dia em que minha mãe me deu à luz. ^v14
 
-**15** Maldito o homem que deu as novas a meu pai, dizendo: Nasceu-te um filho; alegrando-o com isso grandemente. ^v15
+**15** Que seja amaldiçoado o homem que contou a meu pai, dizendo: 'Um menino te nasceu', trazendo grande alegria. ^v15
 
-**16** E seja esse homem como as cidades que o Senhor destruiu e não se arrependeu; e ouça clamor pela manhã, e ao tempo do meio-dia um alarido. ^v16
+**16** Que esse homem seja como as cidades que Yahweh derrubou, quando Ele não tinha misericórdia. E ouça ele um clamor de ajuda ao amanhecer e um grito de guerra ao meio-dia, ^v16
 
-**17** Por que não me matou na madre? Assim minha mãe teria sido a minha sepultura, e teria ficado grávida perpetuamente! ^v17
+**17** porque Yahweh não me matou no ventre ou fez de minha mãe minha sepultura. Quem dera ela ficasse grávida eternamente. ^v17
 
-**18** Por que saí da madre, para ver trabalho e tristeza, e para que os meus dias se consumam na vergonha? ^v18
+**18** "Por que eu saí do ventre de minha mãe? Para ver sofrimentos e aflições, para que meus dias fossem cheios de vergonha?""" ^v18

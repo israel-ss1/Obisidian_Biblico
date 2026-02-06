@@ -1,83 +1,82 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Lucas|Lucas]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Lucas|Lucas]]"
+tags: [biblia]
 ---
 
 # Lucas 3
 
-**1** E no ano quinze do império de Tibério César, sendo Pôncio Pilatos presidente da Judéia, e Herodes tetrarca da Galiléia, e seu irmão Filipe tetrarca da Ituréia e da província de Traconites, e Lisânias tetrarca de Abilene, ^v1
+**1** No décimo quinto ano do reinado de Tibério César, enquanto Pôncio Pilatos era governador da Judeia, e Herodes, era tetrarca da Galileia, e seu irmão Filipe, era tetrarca da região de Itureia, e Traconites e Lisânias, tetrarca de Abilene, ^v1
 
-**2** Sendo Anás e Caifás sumos sacerdotes, veio no deserto a palavra de Deus a João, filho de Zacarias. ^v2
+**2** durante o tempo dos sumos sacerdotes Anás e Caifás, a palavra de Deus veio a João, filho de Zacarias, no deserto. ^v2
 
-**3** E percorreu toda a terra ao redor do Jordão, pregando o batismo de arrependimento, para o perdão dos pecados; ^v3
+**3** Ele viajou por toda a região em derredor do Jordão, pregando o batismo do arrependimento, para o perdão dos pecados. ^v3
 
-**4** Segundo o que está escrito no livro das palavras do profeta Isaías, que diz: Voz do que clama no deserto: Preparai o caminho do Senhor; Endireitai as suas veredas. ^v4
+**4** Como está escrito no livro das palavras do profeta Isaías: “Voz do que clama no deserto: 'Preparai o caminho do Senhor, endireitai as Suas veredas. ^v4
 
-**5** Todo o vale se encherá, E se abaixará todo o monte e outeiro; E o que é tortuoso se endireitará, E os caminhos escabrosos se aplanarão; ^v5
+**5** Todo vale será enchido, toda montanha e colina serão abaixadas, as estradas tortuosas serão endireitadas, e os caminhos acidentados serão feitos planos; ^v5
 
-**6** E toda a carne verá a salvação de Deus. ^v6
+**6** e todos verão a salvação de Deus'”. ^v6
 
-**7** Dizia, pois, João à multidão que saía para ser batizada por ele: Raça de víboras, quem vos ensinou a fugir da ira que está para vir? ^v7
+**7** Então João disse para a grande multidão que vinha para ser batizada por ele: “Vós sois raça de víboras! Quem vos alertou para fugir da ira que está chegando? ^v7
 
-**8** Produzi, pois, frutos dignos de arrependimento, e não comeceis a dizer em vós mesmos: Temos Abraão por pai; porque eu vos digo que até destas pedras pode Deus suscitar filhos a Abraão. ^v8
+**8** Portanto produzi frutos dignos de arrependimento e não comeceis a dizer entre vós: 'Nós temos Abraão por nosso pai!', porque eu vos digo que Deus pode suscitar filhos a Abraão até mesmo destas pedras. ^v8
 
-**9** E também já está posto o machado à raiz das árvores; toda a árvore, pois, que não dá bom fruto, corta-se e lança-se no fogo. ^v9
+**9** O machado já está posto junto à raiz das árvores. Pois toda árvore que não produz bom fruto é cortada e lançada no fogo”. ^v9
 
-**10** E a multidão o interrogava, dizendo: Que faremos, pois? ^v10
+**10** E as multidões perguntavam-lhe, dizendo: “O que devemos fazer então?” ^v10
 
-**11** E, respondendo ele, disse-lhes: Quem tiver duas túnicas, reparta com o que não tem, e quem tiver alimentos, faça da mesma maneira. ^v11
+**11** Ele respondeu, dizendo: “Se alguém tem duas túnicas, dê uma delas àquele que não tem nenhuma e o que tem alimentos, faça o mesmo”. ^v11
 
-**12** E chegaram também uns publicanos, para serem batizados, e disseram-lhe: Mestre, que devemos fazer? ^v12
+**12** Então alguns coletores de impostos, que também vieram para ser batizados, perguntaram: “Mestre, o que devemos fazer?” ^v12
 
-**13** E ele lhes disse: Não peçais mais do que o que vos está ordenado. ^v13
+**13** E João disse-lhes: “Não coleteis mais dinheiro do que vos foi ordenado”. ^v13
 
-**14** E uns soldados o interrogaram também, dizendo: E nós que faremos? E ele lhes disse: A ninguém trateis mal nem defraudeis, e contentai-vos com o vosso soldo. ^v14
+**14** Alguns soldados também lhe perguntaram, dizendo: “E quanto a nós? O que devemos fazer?” E Ele respondeu: “Não tomeis dinheiro das pessoas à força, nem acuseis alguém falsamente. Contentai-vos com o vosso salário”. ^v14
 
-**15** E, estando o povo em expectação, e pensando todos de João, em seus corações, se porventura seria o Cristo, ^v15
+**15** Como o povo estava avidamente esperando a chegada do Cristo, todos estavam imaginando em seus corações que João poderia ser o Cristo. ^v15
 
-**16** Respondeu João a todos, dizendo: Eu, na verdade, batizo-vos com água, mas eis que vem aquele que é mais poderoso do que eu, do qual não sou digno de desatar a correia das alparcas; esse vos batizará com o Espírito Santo e com fogo. ^v16
+**16** João respondeu-lhes, dizendo: “Quanto a mim, eu vos batizo com água, mas virá Aquele que é mais poderoso do que eu e eu não sou digno nem de desatar as amarras de Suas sandálias. Ele vos batizará com o Espírito Santo e com fogo. ^v16
 
-**17** Ele tem a pá na sua mão; e limpará a sua eira, e ajuntará o trigo no seu celeiro, mas queimará a palha com fogo que nunca se apaga. ^v17
+**17** Ele tem em Sua mão uma pá para limpar cuidadosamente a Sua eira e para ajuntar o trigo em Seu celeiro. Mas Ele queimará a palha com fogo que nunca pode apagar.” ^v17
 
-**18** E assim, admoestando-os, muitas outras coisas também anunciava ao povo. ^v18
+**18** Com muitas outras advertências, João pregava as boas novas ao povo. ^v18
 
-**19** Sendo, porém, o tetrarca Herodes repreendido por ele por causa de Herodias, mulher de seu irmão Filipe, e por todas as maldades que Herodes tinha feito, ^v19
+**19** E repreendeu Herodes, o tetrarca, por ter se casado com a mulher do seu irmão, Herodias, por muitas outras coisas más que ele havia feito, ^v19
 
-**20** Acrescentou a todas as outras ainda esta, a de encerrar João num cárcere. ^v20
+**20** e ainda acrescentou a todos elas, o de prender João na prisão. ^v20
 
-**21** E aconteceu que, como todo o povo se batizava, sendo batizado também Jesus, orando ele, o céu se abriu; ^v21
+**21** Sucedeu então que enquanto as pessoas eram batizadas por João, Jesus também foi batizado, ^v21
 
-**22** E o Espírito Santo desceu sobre ele em forma corpórea, como pomba; e ouviu-se uma voz do céu, que dizia: Tu és o meu Filho amado, em ti me comprazo. ^v22
+**22** e enquanto Ele orava o céu se abriu; e o Espírito Santo desceu até Ele em forma corpórea, como uma pomba. E ouviu-se uma voz do céu: “Tu és o meu Filho amado, em Ti me comprazo”. ^v22
 
-**23** E o mesmo Jesus começava a ser de quase trinta anos, sendo (como se cuidava) filho de José, e José de Heli, ^v23
+**23** Quando Jesus começou o Seu ministério, Ele tinha trinta anos. Ele era filho de José (como se pensava), filho de Eli, ^v23
 
-**24** E Heli de Matã, e Matã de Levi, e Levi de Melqui, e Melqui de Janai, e Janai de José, ^v24
+**24** filho de Matate, filho de Levi, filho de Melqui, filho de Janai, filho de José, ^v24
 
-**25** E José de Matatias, e Matatias de Amós, e Amós de Naum, e Naum de Esli, e Esli de Nagaí, ^v25
+**25** filho de Matatias, filho de Amós, filho de Naum, filho de Esli, filho de Nagai, ^v25
 
-**26** E Nagaí de Máate, e Máate de Matatias, e Matatias de Semei, e Semei de José, e José de Jodá, ^v26
+**26** filho de Maate, filho de Matatias, filho de Semei, filho de Joseque, filho de Jodá, ^v26
 
-**27** E Jodá de Joanã, e Joanã de Resá, e Resá de Zorobabel, e Zorobabel de Salatiel, e Salatiel de Neri, ^v27
+**27** filho de Joanã, filho de Resa, filho de Zorobabel, filho de Salatiel, filho de Neri, ^v27
 
-**28** E Neri de Melqui, e Melqui de Adi, e Adi de Cosã, e Cosã de Elmadã, e Elmadã de Er, ^v28
+**28** filho de Melqui, filho de Adi, filho de Cosã, filho de Elmodã, filho de Er, ^v28
 
-**29** E Er de Josué, e Josué de Eliézer, e Eliézer de Jorim, e Jorim de Matã, e Matã de Levi, ^v29
+**29** filho de Josué, filho de Eliézer, filho de Jorim, filho Matate, filho de Levi, ^v29
 
-**30** E Levi de Simeão, e Simeão de Judá, e Judá de José, e José de Jonã, e Jonã de Eliaquim, ^v30
+**30** filho de Simeão, filho de Judá, filho de José, filho de Jonã, filho de Eliaquim, ^v30
 
-**31** E Eliaquim de Meleá, e Meleá de Mená, e Mená de Matatá, e Matatá de Natã, e Natã de Davi, ^v31
+**31** filho de Meleá, filho de Mená, filho de Matatá, filho de Natã, filho de Davi, ^v31
 
-**32** E Davi de Jessé, e Jessé de Obede, e Obede de Boaz, e Boaz de Salá, e Salá de Naassom, ^v32
+**32** filho de Jessé, filho de Obede, filho de Boaz, filho de Salá, filho de Nasom, ^v32
 
-**33** E Naassom de Aminadabe, e Aminadabe de Arão, e Arão de Esrom, e Esrom Perez, e Perez de Judá, ^v33
+**33** filho de Aminadabe, filho de Admim, filho de Arni, filho de Esrom, filho de Farés, filho de Judá, ^v33
 
-**34** E Judá de Jacó, e Jacó de Isaque, e Isaque de Abraão, e Abraão de Terá, e Terá de Nacor, ^v34
+**34** filho de Jacó, filho de Isaque, filho de Abraão, filho de Terá, filho de Naor, ^v34
 
-**35** E Nacor de Seruque, e Seruque de Ragaú, e Ragaú de Fáleque, e Fáleque de Eber, e Eber de Salá, ^v35
+**35** filho de Seruque, filho de Ragaú, filho de Faleque, filho de Eber, filho de Salá, ^v35
 
-**36** E Salá de Cainã, e Cainã de Arfaxade, e Arfaxade de Sem, e Sem de Noé, e Noé de Lameque, ^v36
+**36** filho de Cainã, filho de Arfaxade, filho de Sem, filho de Noé, filho de Lameque, ^v36
 
-**37** E Lameque de Matusalém, e Matusalém de Enoque, e Enoque de Jarete, e Jarete de Maleleel, e Maleleel de Cainã, ^v37
+**37** filho de Matusalém, filho de Enoque, filho de Jarede, filho de Maleleel, filho de Cainã, ^v37
 
-**38** E Cainã de Enos, e Enos de Sete, e Sete de Adão, e Adão de Deus. ^v38
+**38** filho de Enos, filho de Sete, filho de Adão, filho de Deus. ^v38

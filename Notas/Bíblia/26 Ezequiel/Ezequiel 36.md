@@ -1,83 +1,82 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Ezequiel|Ezequiel]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Ezequiel|Ezequiel]]"
+tags: [biblia]
 ---
 
 # Ezequiel 36
 
-**1** E tu, ó filho do homem, profetiza aos montes de Israel, e dize: Montes de Israel, ouvi a palavra do SENHOR. ^v1
+**1** """Agora tu, filho do homem, profetiza aos montes de Israel e dize: 'Montes de Israel, ouvi a palavra de Yahweh." ^v1
 
-**2** Assim diz o Senhor DEUS: Pois que disse o inimigo contra vós: Ah! ah! até as alturas eternas serão nossa herança; ^v2
+**2** "Assim diz Yahweh Deus: O inimigo disse contra ti: ""Bem feito!"" e ""Os teus antigos lugares altos tornaram-se nossa possessão'""." ^v2
 
-**3** Portanto, profetiza, e dize: Assim diz o Senhor DEUS: Porquanto vos assolaram e devoraram de todos os lados, para que ficásseis feitos herança do restante dos gentios, e tendes andado em lábios paroleiros, e em infâmia do povo, ^v3
+**3** "Portanto, profetiza e dize: ""Assim diz Yahweh Deus: Por causa da vossa desolação e por causa dos ataques que vieram sobre vós de todos os lados, vós vos tornastes uma possessão das outras nações; fostes sujeitos aos lábios, às línguas caluniosas e às histórias do povo." ^v3
 
-**4** Portanto, ouvi, ó montes de Israel, a palavra do Senhor DEUS: Assim diz o Senhor DEUS aos montes e aos outeiros, aos rios e aos vales, aos lugares assolados e solitários, e às cidades desamparadas que se tornaram em rapina e em escárnio para o restante dos gentios que lhes estão em redor; ^v4
+**4** Portanto, montes de Israel, ouvi a palavra de Yahweh Deus: Assim diz Yahweh Deus aos montes e às colinas, às correntes de água e aos vales, aos desertos assolados e às cidades abandonadas que se tornaram presa e alvo de zombaria para as outras nações, que os rodeiam — ^v4
 
-**5** Portanto, assim diz o Senhor DEUS: Certamente no fogo do meu zelo falei contra o restante dos gentios, e contra todo o Edom, que se apropriaram da minha terra, com toda a alegria de seu coração, e com menosprezo da alma, para a lançarem fora à rapina. ^v5
+**5** portanto, assim diz Yahweh Deus: 'Certamente, falei, no fogo e na Minha fúria, contra outras nações e contra Edom e todos que tomaram a Minha terra para eles como sua possessão, contra todos que tiveram ao mesmo tempo júbilo em seu coração e desdém em seu espírito, para saquearem a Minha terra'. ^v5
 
-**6** Portanto, profetiza sobre a terra de Israel, e dize aos montes, e aos outeiros, aos rios e aos vales: Assim diz o Senhor DEUS: Eis que falei no meu zelo e no meu furor, porque levastes sobre vós o opróbrio dos gentios. ^v6
+**6** Portanto, profetiza à terra de Israel e dize aos montes e às colinas, às correntes de água e aos vales: 'Assim diz Yahweh Deus: Eis que falei em Minha fúria e em Minha ira, porque vós levastes vexame às nações. ^v6
 
-**7** Portanto, assim diz o Senhor DEUS: Eu levantei a minha mão, para que os gentios, que estão ao redor de vós, levem o seu opróbrio. ^v7
+**7** Portanto, assim diz Yahweh Deus: Eu mesmo levantarei a Minha mão para jurar que as nações que estão ao redor de vós certamente, carregarão a sua própria vergonha. ^v7
 
-**8** Mas vós, ó montes de Israel, produzireis os vossos ramos, e dareis o vosso fruto para o meu povo de Israel; porque estão prestes a vir. ^v8
+**8** Vós, porém, montes de Israel, produzireis ramos e dareis fruto para o meu povo Israel, uma vez que, em breve, retornarão. ^v8
 
-**9** Porque eis que eu estou convosco, e eu me voltarei para vós, e sereis lavrados e semeados. ^v9
+**9** Eis que Eu estou convosco e vos trato com graça; sereis lavrados e semeados. ^v9
 
-**10** E multiplicarei homens sobre vós, a toda a casa de Israel, a toda ela; e as cidades serão habitadas, e os lugares devastados serão edificados. ^v10
+**10** Assim, multiplicarei em vós homens dos montes em toda a casa de Israel, as cidades serão habitadas e as ruínas reedificadas. ^v10
 
-**11** E multiplicarei homens e animais sobre vós, e eles se multiplicarão, e frutificarão. E farei com que sejais habitados como dantes e vos tratarei melhor que nos vossos princípios; e sabereis que eu sou o Senhor. ^v11
+**11** Multiplicarei homem e animais em vossos montes, para que eles multipliquem e sejam frutíferos. Depois, farei com que sejais habitada, como antes, Eu vos farei prosperar mais do que fostes no passado e sabereis que Eu sou Yahweh. ^v11
 
-**12** E farei andar sobre vós homens, o meu povo de Israel; eles te possuirão, e serás a sua herança, e nunca mais os desfilharás. ^v12
+**12** Trarei homens, meu povo Israel, para andarem sobre vós. Eles vos possuirão e vós sereis sua herança e não mais causarão morte dos seus filhos. ^v12
 
-**13** Assim diz o Senhor DEUS: Porquanto vos dizem: Tu és uma terra que devora os homens, e és uma terra que desfilha as suas nações; ^v13
+**13** "Assim diz Yahweh Deus: Porque a vós eles dizem: ""Vós devorais pessoas e os filhos da vossa nação morreram""," ^v13
 
-**14** Por isso tu não devorarás mais os homens, nem desfilharás mais as tuas nações, diz o Senhor DEUS. ^v14
+**14** portanto, não mais devorareis as pessoas e não mais fareis a vossa nação ficar sem filhos. Esta é a declaração de Yahweh Deus. ^v14
 
-**15** E farei que nunca mais tu ouças a afronta dos gentios; nem levarás mais sobre ti o opróbrio das gentes, nem mais desfilharás a tua nação, diz o Senhor DEUS. ^v15
+**15** "Nem mais vos deixarei ouvir insultos das nações; não mais levarás sobre vós o vexame dos povos ou fará com que a vossa nação caia — esta é a declaração de Yahweh Deus'""." ^v15
 
-**16** E veio a mim a palavra do Senhor, dizendo: ^v16
+**16** Depois, a palavra de Yahweh veio a mim, dizendo: ^v16
 
-**17** Filho do homem, quando a casa de Israel habitava na sua terra, então a contaminaram com os seus caminhos e com as suas ações. Como a imundícia de uma mulher em sua separação, tal era o seu caminho perante o meu rosto. ^v17
+**17** """Filho do homem, quando a casa de Israel habitou em sua terra, eles profanaram os seus caminhos e seus feitos. Seus caminhos eram como a impureza de uma mulher na menstruação, assim eram diante de Mim." ^v17
 
-**18** Derramei, pois, o meu furor sobre eles, por causa do sangue que derramaram sobre a terra, e dos seus ídolos, com que a contaminaram. ^v18
+**18** Por isso, derramei a Minha fúria contra eles, por causa do sangue que derramaram na terra e porque contaminaram com seus ídolos. ^v18
 
-**19** E espalhei-os entre os gentios, e foram dispersos pelas terras; conforme os seus caminhos, e conforme os seus feitos, eu os julguei. ^v19
+**19** Espalhei-os pelas nações; foram dispersos pelas terras. Julguei-os segundo os seus caminhos e seus feitos. ^v19
 
-**20** E, chegando aos gentios para onde foram, profanaram o meu santo nome, porquanto se dizia deles: Estes são o povo do Senhor, e saíram da sua terra. ^v20
+**20** Depois, foram às nações, e onde quer que foram, profanaram o Meu santo nome, quando o povo deles dizia: 'São estes realmente o povo de Yahweh? Pois foram lançados para fora da sua terra'. ^v20
 
-**21** Mas eu os poupei por amor do meu santo nome, que a casa de Israel profanou entre os gentios para onde foi. ^v21
+**21** Mas tive compaixão do Meu santo nome, que a casa de Israel havia profanado dentre as nações, quando lá estiveram. ^v21
 
-**22** Dize portanto à casa de Israel: Assim diz o Senhor DEUS: Não é por respeito a vós que eu faço isto, ó casa de Israel, mas pelo meu santo nome, que profanastes entre as nações para onde fostes. ^v22
+**22** Portanto, diz à casa de Israel: 'Assim diz Yahweh Deus: Não procedo assim por causa de vós, casa de Israel, mas pelo Meu santo nome, que vós profanastes dentre as nações por onde fostes. ^v22
 
-**23** E eu santificarei o meu grande nome, que foi profanado entre os gentios, o qual profanastes no meio deles; e os gentios saberão que eu sou o SENHOR, diz o Senhor DEUS, quando eu for santificado aos seus olhos. ^v23
+**23** Porque santificarei o Meu grande nome, que vós profanastes dentre as nações; no meio das quais vós profanastes. Então, as nações saberão que Eu sou Yahweh — esta é a declaração de Yahweh Deus — quando vós virdes que Eu sou santo. ^v23
 
-**24** E vos tomarei dentre os gentios, e vos congregarei de todas as terras, e vos trarei para a vossa terra. ^v24
+**24** Eu vos tirarei dentre as nações e vos ajuntarei de toda a terra e vos reunirei na vossa terra. ^v24
 
-**25** Então aspergirei água pura sobre vós, e ficareis purificados; de todas as vossas imundícias e de todos os vossos ídolos vos purificarei. ^v25
+**25** Depois, aspergirei água pura sobre vós e ficareis purificados de todas as vossas impurezas e de todos os vossos ídolos. ^v25
 
-**26** E dar-vos-ei um coração novo, e porei dentro de vós um espírito novo; e tirarei da vossa carne o coração de pedra, e vos darei um coração de carne. ^v26
+**26** Dar-vos-ei um novo coração e porei, no vosso íntimo, um novo espírito e tirarei o vosso coração de pedra e vos darei um coração de carne. ^v26
 
-**27** E porei dentro de vós o meu Espírito, e farei que andeis nos meus estatutos, e guardeis os meus juízos, e os observeis. ^v27
+**27** Colocarei o Meu Espírito em vós e vos farei andar em Meus estatutos e guardar os Meus mandamentos, para que os cumprais. ^v27
 
-**28** E habitareis na terra que eu dei a vossos pais e vós sereis o meu povo, e eu serei o vosso Deus. ^v28
+**28** Depois, habitareis na terra que Eu dei aos vossos antepassados; sereis Meu povo e Eu serei vosso Deus. ^v28
 
-**29** E livrar-vos-ei de todas as vossas imundícias; e chamarei o trigo, e o multiplicarei, e não trarei fome sobre vós. ^v29
+**29** Porque, Eu vos livrarei de toda a vossa imundície. Trarei trigo e o multiplicarei; não mais porei fome sobre vós. ^v29
 
-**30** E multiplicarei o fruto das árvores, e a novidade do campo, para que nunca mais recebais o opróbrio da fome entre os gentios. ^v30
+**30** Multiplicarei o fruto das árvores e a produção do campo, para que não mais tenhais vergonha e fome entre as nações. ^v30
 
-**31** Então vos lembrareis dos vossos maus caminhos, e dos vossos feitos, que não foram bons; e tereis nojo em vós mesmos das vossas iniqüidades e das vossas abominações. ^v31
+**31** Então, lembrareis dos vossos caminhos corruptos e vossos feitos que não eram bons; mostrareis nojo em vossos rostos, por causa do vosso próprio pecado e vossas obras abomináveis. ^v31
 
-**32** Não é por amor de vós que eu faço isto, diz o Senhor DEUS; notório vos seja; envergonhai-vos, e confundi-vos por causa dos vossos caminhos, ó casa de Israel. ^v32
+**32** Não faço isto por causa de vós — esta é a declaração de Yahweh — sabeis disso. Então, ficai envergonhados e humilhai-vos por causa dos vossos caminhos, casa de Israel. ^v32
 
-**33** Assim diz o Senhor DEUS: No dia em que eu vos purificar de todas as vossas iniqüidades, então farei com que sejam habitadas as cidades e sejam edificados os lugares devastados. ^v33
+**33** Assim diz Yahweh Deus: No dia em que Eu vos purificar de toda a vossa iniquidade, Eu vos farei habitar nas cidades e reedificar os lugares arruinados. ^v33
 
-**34** E a terra assolada será lavrada, em lugar de estar assolada aos olhos de todos os que passavam. ^v34
+**34** Pois lavrareis a terra arruinada até que não mais seja uma ruína, diante dos olhos de todos que passam. ^v34
 
-**35** E dirão: Esta terra assolada ficou como jardim do Éden: e as cidades solitárias, e assoladas, e destruídas, estão fortalecidas e habitadas. ^v35
+**35** "Então, eles dirão: ""Esta terra estava desolada, mas tornou-se como o jardim do Éden; as cidades desoladas e as ruínas desabitadas que foram derribadas são agora fortificadas e habitadas""." ^v35
 
-**36** Então saberão os gentios, que tiverem ficado ao redor de vós, que eu, o Senhor, tenho reedificado as cidades destruídas, e plantado o que estava devastado. Eu, o Senhor, o disse e o farei. ^v36
+**36** E as outras nações ao vosso redor saberão que Eu sou Yahweh, que edifiquei as ruínas e replantei os lugares abandonados. Eu sou Yahweh. Assim declarei e assim farei. ^v36
 
-**37** Assim diz o Senhor DEUS: Ainda por isso serei solicitado pela casa de Israel, que lho faça; multiplicar-lhes-ei os homens, como a um rebanho. ^v37
+**37** Assim diz Yahweh Deus: Vou novamente ser procurado pela casa de Israel, para fazer isto para eles, para lhes multiplicar como um rebanho de pessoas. ^v37
 
-**38** Como o rebanho santificado, como o rebanho de Jerusalém nas suas solenidades, assim as cidades desertas se encherão de rebanhos de homens; e saberão que eu sou o Senhor. ^v38
+**38** "Como rebanho é separado para sacrifícios, como rebanho de Jerusalém nas suas festas solenes, assim serão as cidades arruinadas, cheias de rebanhos de pessoas e saberão que Eu sou Yahweh'""." ^v38

@@ -1,105 +1,104 @@
 ---
-Livro: "[[Números|Números]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Números|Números]]"
+tags: [biblia]
 ---
 
 # Números 4
 
-**1** E falou o SENHOR a Moisés e a Arão, dizendo: ^v1
+**1** Yahweh falou para Moises e Arão. Ele disse: ^v1
 
-**2** Fazei a soma dos filhos de Coate, dentre os filhos de Levi, pelas suas famílias, segundo a casa de seus pais; ^v2
+**2** """Conduzi o censo dos descendentes homens de Coate entre os levitas, por seus clãs e antepassados das famílias." ^v2
 
-**3** Da idade de trinta anos para cima até aos cinqüenta anos, será todo aquele que entrar neste serviço, para fazer o trabalho na tenda da congregação. ^v3
+**3** Contai todos os homens que têm entre trinta e cinquenta anos de idade. Esses homens entrarão para servir na Tenda do Encontro. ^v3
 
-**4** Este será o ministério dos filhos de Coate na tenda da congregação, nas coisas santíssimas. ^v4
+**4** Os descendentes de Coate cuidarão das coisas mais santas, separadas por Mim, na Tenda do Encontro. ^v4
 
-**5** Quando partir o arraial, Arão e seus filhos virão e tirarão o véu da tenda, e com ele cobrirão a arca do testemunho; ^v5
+**5** Quando o acampamento se preparar para avançar, Arão e seus filhos entrarão na Tenda, baixarão a cortina que separa o lugar mais santo do lugar santo, e cobrirão a Arca da Aliança com ela. ^v5
 
-**6** E pôr-lhe-ão por cima uma coberta de peles de texugos, e sobre ela estenderão um pano, todo azul, e lhe colocarão os varais. ^v6
+**6** Eles a cobrirão com pele de peixe-boi e espalharão um tecido azul sobre ela e inserirão as varas nos anéis da Arca para carregá-la. ^v6
 
-**7** Também sobre a mesa da proposição estenderão um pano azul; e sobre ela porão os pratos, as colheres, e as taças e os jarros para libação; também o pão contínuo estará sobre ela. ^v7
+**7** Eles forrarão a mesa dos pães da presença com um tecido azul. Sobre ela, colocarão as louças, as colheres, bacias, e as jarras para oferta. Os pães sempre estarão sobre a mesa. ^v7
 
-**8** Depois estenderão em cima deles um pano de carmesim, e com a coberta de peles de texugos o cobrirão, e lhe colocarão os seus varais. ^v8
+**8** Eles os cobrirão com um tecido vermelho escuro, novamente com pele de peixe-boi, e inserirão as varas nos anéis das mesas para carregá-la. ^v8
 
-**9** Então tomarão um pano azul, e cobrirão o candelabro da luminária, e as suas lâmpadas, e os seus espevitadores, e os seus apagadores, e todos os seus vasos de azeite, com que o servem. ^v9
+**9** Tomarão um pano azul e cobrirão o candelabro da luminária, juntamente com seus lampiões, pegadores, bandejas, e todas as jarras de azeite para os lampiões. ^v9
 
-**10** E envolverão, a ele e a todos os seus utensílios, na coberta de peles de texugos; e o colocarão sobre os varais. ^v10
+**10** Eles envolverão os candelabros e todos os seus acessórios com a pele do peixe-boi, e os colocarão em um suporte. ^v10
 
-**11** E sobre o altar de ouro estenderão um pano azul, e com a coberta de peles de texugos, o cobrirão, e lhe colocarão os seus varais. ^v11
+**11** Estenderão um pano azul sobre o altar de ouro e o cobrirão com pele de peixe-boi para, em seguida, inserir as varas de carregar. ^v11
 
-**12** Também tomarão todos os utensílios do ministério, com que servem no santuário; e os colocarão num pano azul, e os cobrirão com uma coberta de peles de texugos, e os colocarão sobre os varais. ^v12
+**12** Eles juntarão todos os utensílios para o trabalho no lugar santo e os envolverão em um tecido azul, para, então, cobri-los com pele de peixe-boi e colocá-los no suporte de carregar. ^v12
 
-**13** E tirarão as cinzas do altar, e por cima dele estenderão um pano de púrpura. ^v13
+**13** Eles removerão as cinzas do altar e o cobrirão com um tecido roxo. ^v13
 
-**14** E sobre ele colocarão todos os seus instrumentos com que o servem: os seus braseiros, os garfos e as pás, e as bacias; todos os pertences do altar; e por cima dele estenderão uma coberta de peles de texugos, e lhe colocarão os seus varais. ^v14
+**14** Colocarão nele todos os utensílios usados no serviço: os braseiros, garfos, pás, tigelas e todos os outros utensílios do altar. E cobrirão o altar com a pele de peixe-boi para, então, inserir as varas de carregar. ^v14
 
-**15** Havendo, pois, Arão e seus filhos, ao partir do arraial, acabado de cobrir o santuário, e todos os instrumentos do santuário, então os filhos de Coate virão para levá-lo; mas no santuário não tocarão para que não morram; este é o cargo dos filhos de Coate na tenda da congregação. ^v15
+**15** Quando Arão e seus filhos cobrirem completamente o lugar santo e todos os seus utensílios, e quando o acampamento avançar, então os descendentes de Coates devem carregar o lugar santo. Se eles tocarem os instrumentos santos, morrerão. Este é o trabalho dos descendentes de Coate, de carregar as mobílias da Tenda do Encontro. ^v15
 
-**16** Porém o cargo de Eleazar, filho de Arão, o sacerdote, será o azeite da luminária e o incenso aromático, e a contínua oferta dos alimentos, e o azeite da unção, o cargo de todo o tabernáculo, e de tudo que nele há, o santuário e os seus utensílios. ^v16
+**16** "Eliazar, filho do sacerdote Arão, carregará o azeite para o lampião. Ele deve supervisionar o carregamento do incenso doce, o cereal da oferta regular, o óleo da unção, todo o Tabernáculo e tudo que está nele, as mobílias santas e os utensílios""." ^v16
 
-**17** E falou o Senhor a Moisés e a Arão, dizendo: ^v17
+**17** Yahweh falou para Moisés e Arão. Ele disse: ^v17
 
-**18** Não deixareis extirpar a tribo das famílias dos coatitas do meio dos levitas. ^v18
+**18** """Não permitais que o clã tribal dos coatitas seja removido dentre os levitas." ^v18
 
-**19** Mas isto lhes fareis, para que vivam e não morram, quando se aproximarem das coisas santíssimas: Arão e seus filhos virão, e a cada um colocarão no seu ministério e no seu cargo, ^v19
+**19** Protegei-lhes, para que eles vivam e não morram fazendo isso. Quando eles se aproximarem das coisas mais santas, ^v19
 
-**20** Porém não entrarão a ver, quando cobrirem o santuário, para que não morram. ^v20
+**20** "eles não entrarão para ver o lugar santo, nem sequer por um momento, ou, então, morrerão. Arão e seus filhos serão quem entrarão. Estes são os que atribuirão a cada coatita sua tarefa, sua habilidade especial""." ^v20
 
-**21** Falou mais o Senhor a Moisés, dizendo: ^v21
+**21** Yahweh falou novamente para Moisés. Ele disse: ^v21
 
-**22** Fazei também a soma dos filhos de Gérson, segundo a casa de seus pais, segundo as suas famílias: ^v22
+**22** """Conduze também um censo dos descendentes de Gérson, dos ancestrais das famílias de seus clãs." ^v22
 
-**23** Da idade de trinta anos para cima até aos cinqüenta, contarás a todo aquele que entrar a se ocupar no seu serviço, para executar o ministério na tenda da congregação. ^v23
+**23** "Conta todos os que têm de trinta a cinquenta anos de idade. Conta todos os que entrarão no serviço para fazer o trabalho na Tenda do Encontro""." ^v23
 
-**24** Este será o ministério das famílias dos gersonitas no serviço e no cargo. ^v24
+**24** Este é o trabalho da tribo dos gersonitas, o que devem fazer e o que devem carregar. ^v24
 
-**25** Levarão, pois, as cortinas do tabernáculo, e a tenda da congregação, e a sua coberta, e a coberta de peles de texugos, que está por cima dele, e a cortina da porta da tenda da congregação, ^v25
+**25** Eles carregarão as cortinas do Tabernáculo, a Tenda do Encontro, suas cobertas, as cobertas do peixe-boi que estão sobre ela, e as cortinas para a entrada da Tenda do Encontro. ^v25
 
-**26** E as cortinas do pátio, e a cortina da porta do pátio, que está junto ao tabernáculo, e junto ao altar em redor, e as suas cordas, e todos os instrumentos do seu ministério, com tudo o que diz respeito a eles, para que sirvam. ^v26
+**26** Eles devem carregar as cortinas do pátio, as cortinas da entrada da porta do pátio, que está perto do Tabernáculo e próximo do altar, suas cordas, e todos os utensílios para o serviço. Servirão em tudo o que diz respeito a essas coisas. ^v26
 
-**27** Todo o ministério dos filhos dos gersonitas, em todo o seu cargo, e em todo o seu trabalho, será segundo o mandado de Arão e de seus filhos; e lhes designareis as responsabilidades do seu cargo. ^v27
+**27** Arão e seus filhos direcionarão todo o serviço dos descendentes dos gersonitas, em todas as coisas que eles transportarem, e em todos os seus serviços. Vós deveis designá-los para todas as suas responsabilidades. ^v27
 
-**28** Este é o ministério das famílias dos filhos dos gersonitas na tenda da congregação; e a sua guarda será debaixo da mão de Itamar, filho de Arão, o sacerdote. ^v28
+**28** Este é o serviço do clã dos descendentes dos gersonitas para a Tenda do Encontro. Itamar, filho de Arão, o sacerdote, deve liderá-los nos seus serviços. ^v28
 
-**29** Quanto aos filhos de Merari, segundo as suas famílias e segundo a casa de seus pais os contarás; ^v29
+**29** Tu contarás os descendentes de Merari por suas tribos, e os ordenarão pelas famílias de seus antepassados, de trinta anos de idade até cinquenta anos de idade. ^v29
 
-**30** Da idade de trinta anos para cima, até aos cinqüenta, contarás a todo aquele que entrar neste serviço, para administrar o ministério da tenda da congregação. ^v30
+**30** Conta cada um que se unirá ao grupo que servirá na Tenda do Encontro. ^v30
 
-**31** Esta, pois, será a responsabilidade do seu cargo, segundo todo o seu ministério, na tenda da congregação: As tábuas do tabernáculo, e os seus varais, e as suas colunas, e as suas bases; ^v31
+**31** Esta é a responsabilidade e o trabalho deles em todo o serviço na Tenda do Encontro. Eles devem cuidar da estrutura do Tabernáculo, suas traves, suas varas e suas bases, ^v31
 
-**32** Como também as colunas do pátio em redor, e as suas bases, e as suas estacas, e as suas cordas, com todos os seus instrumentos, e com todo o seu ministério; e contareis os objetos que ficarão a seu cargo, nome por nome. ^v32
+**32** juntamente com as varas do pátio ao redor do Tabernáculo, suas bases, seus pegadores, suas cordas, com todos os seus objetos. Lista os nomes dos artigos que eles devem carregar. ^v32
 
-**33** Este é o ministério das famílias dos filhos de Merari, segundo todo o seu ministério, na tenda da congregação, debaixo da mão de Itamar, filho de Arão, o sacerdote. ^v33
+**33** Este é o serviço dos clãs dos descendentes de Merari, o que eles devem fazer na Tenda do Encontro, sob a direção de Itamar, filho de Arão, o sacerdote. ^v33
 
-**34** Moisés, pois, e Arão e os príncipes da congregação contaram os filhos dos coatitas, segundo as suas famílias e segundo a casa de seus pais; ^v34
+**34** Moisés, Arão, e os líderes da comunidade contaram os descendentes dos Coates, pelos clãs dos antepassados de suas famílias. ^v34
 
-**35** Da idade de trinta anos para cima, até aos cinqüenta, todo aquele que entrou neste serviço, para o ministério da tenda da congregação. ^v35
+**35** Eles contaram aqueles que tinham entre trinta a cinquenta anos de idade. Eles contaram todos que se juntariam para servir na Tenda do Encontro. ^v35
 
-**36** Os que deles foram contados, pois, segundo as suas famílias, foram dois mil e setecentos e cinqüenta. ^v36
+**36** Foram contados dois mil, setecentos e cinquenta homens nos seus clãs. ^v36
 
-**37** Estes são os que foram contados das famílias dos coatitas, de todo aquele que ministrava na tenda da congregação, os quais Moisés e Arão contaram, conforme ao mandado do Senhor pela mão de Moisés. ^v37
+**37** Moisés e Arão contaram todos os homens nos clãs e famílias dos coatitas que servem na Tenda do Encontro. Fazendo isso, eles obedeceram ao que Yahweh, por intermédio de Moisés, havia ordenado que fizessem. ^v37
 
-**38** Semelhantemente os que foram contados dos filhos de Gérson, segundo as suas famílias, e segundo a casa de seus pais; ^v38
+**38** Os descendentes de Gérson foram contados nos seus clãs, pelos antepassados de suas famílias, ^v38
 
-**39** Da idade de trinta anos para cima até aos cinqüenta, todo aquele que entrou neste serviço, para o ministério na tenda da congregação. ^v39
+**39** de trinta a cinquenta anos de idade, todos os que se uniriam para servir na Tenda do Encontro. ^v39
 
-**40** Os que deles foram contados, segundo as suas famílias, segundo a casa de seus pais, foram dois mil e seiscentos e trinta. ^v40
+**40** Todos os homens, contados em suas tribos e nas famílias de seus antepassados, totalizaram dois mil, seiscentos e trinta. ^v40
 
-**41** Estes são os contados das famílias dos filhos de Gérson, de todo aquele que ministrava na tenda da congregação; os quais Moisés e Arão contaram, conforme ao mandado do Senhor. ^v41
+**41** Moisés e Arão contaram os clãs dos descendentes de Gerson que iriam servir na Tenda do Encontro. Fazendo isso, eles obedeceram ao que Yahweh havia ordenado, por intermédio de Moisés. ^v41
 
-**42** E os que foram contados das famílias dos filhos de Merari, segundo as suas famílias, segundo a casa de seus pais; ^v42
+**42** Os descendentes de Merari foram contados nos seus clãs pelos descendentes dos antepassados de cada família, ^v42
 
-**43** Da idade de trinta anos para cima, até aos cinqüenta, todo aquele que entrou neste serviço, para o ministério na tenda da congregação. ^v43
+**43** de trinta a cinquenta anos de idade, todos que se uniriam para servir na Tenda do Encontro. ^v43
 
-**44** Os que deles foram contados, segundo as suas famílias, eram três mil e duzentos. ^v44
+**44** Todos os homens, contados por clã e por seus antepassados familiares, totalizaram três mil e duzentos. ^v44
 
-**45** Estes são os contados das famílias dos filhos de Merari; os quais Moisés e Arão contaram, conforme ao mandado do Senhor, pela mão de Moisés. ^v45
+**45** Moisés e Arão contaram todos os homens, os descendentes de Merari. Fazendo isso, eles obedeceram ao que Yahweh havia ordenado, por intermédio de Moisés. ^v45
 
-**46** Todos os que deles foram contados, que contaram Moisés e Arão, e os príncipes de Israel, dos levitas, segundo as suas famílias, segundo a casa de seus pais; ^v46
+**46** Assim, Moisés e Arão, e os líderes de Israel, contaram todos os levitas nos seus clãs e pela família de seus antepassados ^v46
 
-**47** Da idade de trinta anos para cima, até aos cinqüenta, todo aquele que entrava a executar o ministério da administração, e o ministério das cargas na tenda da congregação. ^v47
+**47** de trinta a cinquenta anos. Eles contaram todos os que trabalhariam no Tabernáculo, e que iriam carregar e cuidar dos itens da Tenda do Encontro. ^v47
 
-**48** Os que deles foram contados foram oito mil quinhentos e oitenta. ^v48
+**48** Eles contaram oito mil, quinhentos e oitenta homens. ^v48
 
-**49** Conforme ao mandado do Senhor, pela mão de Moisés, foram contados cada qual segundo o seu ministério, e segundo o seu cargo; assim foram contados por ele, como o Senhor ordenara a Moisés. ^v49
+**49** Conforme Yahweh ordenara, Moisés contou cada homem, mantendo a contagem de acordo com o tipo de trabalho que cada um fazia. Ele contou cada homem conforme o tipo de responsabilidade que ele iria ter. E, fazendo isto, eles obedeceram ao que Yahweh havia ordenado, por intermédio de Moisés. ^v49

@@ -1,23 +1,20 @@
 ---
-Livro: "[[Salmos|Salmos]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Salmos|Salmos]]"
+tags: [biblia]
 ---
 
 # Salmos 121
 
-**1** Levantarei os meus olhos para os montes, de onde vem o meu socorro. ^v1
+**2** O meu socorro vem de Yahweh, que fez os céus e a terra. ^v2
 
-**2** O meu socorro vem do Senhor que fez o céu e a terra. ^v2
+**3** Ele não permitirá que teus pés escorreguem; Aquele que te protege não dormirá. ^v3
 
-**3** Não deixará vacilar o teu pé; aquele que te guarda não tosquenejará. ^v3
+**4** Vê, o guardião de Israel nunca pega no sono ou dorme. ^v4
 
-**4** Eis que não tosquenejará nem dormirá o guarda de Israel. ^v4
+**5** Yahweh é teu guardião; Yahweh é a sombra à tua direita. ^v5
 
-**5** O Senhor é quem te guarda; o Senhor é a tua sombra à tua direita. ^v5
+**6** O sol não te prejudicará de dia, nem a lua de noite. ^v6
 
-**6** O sol não te molestará de dia nem a lua de noite. ^v6
+**7** Yahweh te protegerá de todo mal, Ele protegerá tua vida. ^v7
 
-**7** O Senhor te guardará de todo o mal; guardará a tua alma. ^v7
-
-**8** O Senhor guardará a tua entrada e a tua saída, desde agora e para sempre. ^v8
+**8** Yahweh te protegerá em tudo o que fizeres, agora e para sempre. ^v8

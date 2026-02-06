@@ -1,49 +1,48 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Isaías|Isaías]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Isaías|Isaías]]"
+tags: [biblia]
 ---
 
 # Isaías 26
 
-**1** Naquele dia se entoará este cântico na terra de Judá: Temos uma cidade forte, a que Deus pôs a salvação por muros e antemuros. ^v1
+**1** Naquele dia, será entoado este cântico na terra de Judá: Nós temos uma cidade forte; Deus colocou a salvação por seus muros e colunas. ^v1
 
-**2** Abri as portas, para que entre nelas a nação justa, que observa a verdade. ^v2
+**2** Abri, vós, os portões, para que entre a nação justa, que mantém a fé. ^v2
 
-**3** Tu conservarás em paz aquele cuja mente está firme em ti; porque ele confia em ti. ^v3
+**3** Todo aquele que tem a mente alicerçada em Ti, Tu o manterás em perfeita paz, porque ele confia em Ti. ^v3
 
-**4** Confiai no SENHOR perpetuamente; porque o SENHOR DEUS é uma rocha eterna. ^v4
+**4** Confiai em Yahweh para sempre; porque Yah, que é Yahweh, é a Rocha eterna. ^v4
 
-**5** Porque ele abate os que habitam no alto, na cidade elevada; humilha-a, humilha-a até ao chão, e derruba-a até ao pó. ^v5
+**5** Ele derrubará aqueles que vivem orgulhosamente; Ele lançará ao chão a cidade fortificada; Ele a reduzirá ao pó. ^v5
 
-**6** O pé pisá-la-á; os pés dos aflitos, e os passos dos pobres. ^v6
+**6** Ela será pisada pelos pés dos pobres e trilhada pelos necessitados. ^v6
 
-**7** O caminho do justo é todo plano; tu retamente pesas o andar do justo. ^v7
+**7** A vereda do justo é plana; Tu, que és Justo, nivelas o caminho de quem é reto. ^v7
 
-**8** Também no caminho dos teus juízos, Senhor, te esperamos; no teu nome e na tua memória está o desejo da nossa alma. ^v8
+**8** Sim, no caminho dos Teus julgamentos esperamos por Ti, Yahweh; Teu nome e Tua reputação são o nosso desejo. ^v8
 
-**9** Com minha alma te desejei de noite, e com o meu espírito, que está dentro de mim, madrugarei a buscar-te; porque, havendo os teus juízos na terra, os moradores do mundo aprendem justiça. ^v9
+**9** Minha alma anseia por Ti durante a noite; sim, dentro de mim, meu espírito Te busca diligentemente. Porque quando Teus juízos vêm à terra, os habitantes do mundo aprendem a justiça. ^v9
 
-**10** Ainda que se mostre favor ao ímpio, nem por isso aprende a justiça; até na terra da retidão ele pratica a iniqüidade, e não atenta para a majestade do Senhor. ^v10
+**10** Ainda que o favor seja mostrado ao corrupto, ele não aprenderá sobre a justiça. Na terra da retidão, ele age de maneira má, e não enxerga a majestade de Yahweh. ^v10
 
-**11** Senhor, a tua mão está exaltada, mas nem por isso a vêem; vê-la-ão, porém, e confundir-se-ão por causa do zelo que tens do teu povo; e o fogo consumirá os teus adversários. ^v11
+**11** Yahweh, Tua mão está levantada, mas eles não percebem. Porém, eles verão o zelo que tens pelo Teu povo e serão envergonhados; porque o fogo reservado aos Teus adversários os devorará. ^v11
 
-**12** Senhor, tu nos darás a paz, porque tu és o que fizeste em nós todas as nossas obras. ^v12
+**12** Yahweh, Tu nos trarás paz. De fato, Tu também realizaste por nós todos os nossos feitos. ^v12
 
-**13** Ó Senhor Deus nosso, já outros senhores têm tido domínio sobre nós; porém, por ti só, nos lembramos de teu nome. ^v13
+**13** Yahweh, nosso Deus, outros senhores além de Ti dominaram sobre nós; mas nós adoramos somente o Teu nome. ^v13
 
-**14** Morrendo eles, não tornarão a viver; falecendo, não ressuscitarão; por isso os visitaste e destruíste, e apagaste toda a sua memória. ^v14
+**14** Eles estão mortos e não mais se levantarão. Na verdade, Tu vieste em julgamento e os destruíste; e fizeste perecer toda a sua memória. ^v14
 
-**15** Tu, Senhor, aumentaste a esta nação, tu aumentaste a esta nação, fizeste-te glorioso; alargaste todos os confins da terra. ^v15
+**15** Tu aumentaste a nação, Yahweh, Tu aumentaste a nação! Tu és honrado! Tu estendeste todas as fronteiras de nossa terra. ^v15
 
-**16** Ó Senhor, na angústia te buscaram; vindo sobre eles a tua correção, derramaram a sua oração secreta. ^v16
+**16** Yahweh, eles, angustiados, olharam para Ti e sussurraram orações quando estavam sob Tua disciplina. ^v16
 
-**17** Como a mulher grávida, quando está próxima a sua hora, tem dores de parto, e dá gritos nas suas dores, assim fomos nós diante de ti, ó Senhor! ^v17
+**17** Como uma grávida perto de dar à luz, que está em dores e grita em seu trabalho de parto, assim estamos nós diante de Ti, Yahweh. ^v17
 
-**18** Bem concebemos nós e tivemos dores de parto, porém demos à luz o vento; livramento não trouxemos à terra, nem caíram os moradores do mundo. ^v18
+**18** Nós engravidamos, estivemos em dores de parto, mas é como se tivéssemos dado à luz o vento. Nós não trouxemos salvação à terra, nem caíram os habitantes do mundo. ^v18
 
-**19** Os teus mortos e também o meu cadáver viverão e ressuscitarão; despertai e exultai, os que habitais no pó, porque o teu orvalho será como o orvalho das ervas, e a terra lançará de si os mortos. ^v19
+**19** Teus mortos viverão; seus corpos ressuscitarão. Despertai e cantai com alegria, vós que habitais no pó, pois Teu orvalho é o orvalho da luz, e a terra trará de volta os seus mortos. ^v19
 
-**20** Vai, pois, povo meu, entra nos teus quartos, e fecha as tuas portas sobre ti; esconde-te só por um momento, até que passe a ira. ^v20
+**20** Vai, povo meu, entra em teus quartos e fecha tuas portas atrás de ti; esconde-te por um tempo, até que passe a indignação. ^v20
 
-**21** Porque eis que o Senhor sairá do seu lugar, para castigar os moradores da terra, por causa da sua iniqüidade, e a terra descobrirá o seu sangue, e não encobrirá mais os seu mortos. ^v21
+**21** Porque eis que Yahweh está para sair de Seu lugar para punir os habitantes da terra por causa da sua iniquidade; a terra revelará o sangue nela derramado e não mais esconderá os que foram mortos. ^v21

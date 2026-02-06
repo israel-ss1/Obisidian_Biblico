@@ -1,27 +1,26 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Isaías|Isaías]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Isaías|Isaías]]"
+tags: [biblia]
 ---
 
 # Isaías 35
 
-**1** O deserto e o lugar solitário se alegrarão disto; e o ermo exultará e florescerá como a rosa. ^v1
+**1** O deserto e a terra seca ficarão felizes; o deserto se regozijará e florescerá. ^v1
 
-**2** Abundantemente florescerá, e também jubilará de alegria e cantará; a glória do Líbano se lhe deu, a excelência do Carmelo e Sarom; eles verão a glória do Senhor, o esplendor do nosso Deus. ^v2
+**2** Florescerá abundantemente e se regozijará, cantando com alegria; a glória do Líbano lhe será dada, o esplendor do Carmelo e Sarom; eles verão a glória de Yahweh, o esplendor do nosso Deus. ^v2
 
-**3** Fortalecei as mãos fracas, e firmai os joelhos trementes. ^v3
+**3** Fortalecei as mãos fracas e firmai os joelhos que tremem. ^v3
 
-**4** Dizei aos turbados de coração: Sede fortes, não temais; eis que o vosso Deus virá com vingança, com recompensa de Deus; ele virá, e vos salvará. ^v4
+**4** "Dizei àqueles de coração aflito: ""Sede fortes, não temais! Vede! Vosso Deus virá com vingança, com recompensa; Ele virá e vos salvará""." ^v4
 
-**5** Então os olhos dos cegos serão abertos, e os ouvidos dos surdos se abrirão. ^v5
+**5** Então, os olhos dos cegos verão e os ouvidos dos surdos ouvirão. ^v5
 
-**6** Então os coxos saltarão como cervos, e a língua dos mudos cantará; porque águas arrebentarão no deserto e ribeiros no ermo. ^v6
+**6** O homem manco saltará como um cervo e a língua muda cantará, pois água brotará nos lugares desolados e rios, no deserto. ^v6
 
-**7** E a terra seca se tornará em lagos, e a terra sedenta em mananciais de águas; e nas habitações em que jaziam os chacais haverá erva com canas e juncos. ^v7
+**7** A areia, que queima, se tornará um lago e a terra sedenta, mananciais de água. Na habitação dos chacais, onde uma vez se deitaram, haverá gramado com canas e juncos. ^v7
 
-**8** E ali haverá uma estrada, um caminho, que se chamará o caminho santo; o imundo não passará por ele, mas será para aqueles; os caminhantes, até mesmo os loucos, não errarão. ^v8
+**8** Haverá ali uma estrada que será chamada o Caminho Santo. O impuro não passará por lá. Será para aqueles que andam no caminho de Deus, nenhum tolo andará nele. ^v8
 
-**9** Ali não haverá leão, nem animal feroz subirá a ele, nem se achará nele; porém só os remidos andarão por ele. ^v9
+**9** Nenhum leão estará lá, nenhuma besta feroz andará nele; eles não serão achados no caminho; porém, o redimido caminhará nele. ^v9
 
-**10** E os resgatados do Senhor voltarão; e virão a Sião com júbilo, e alegria eterna haverá sobre as suas cabeças; gozo e alegria alcançarão, e deles fugirá a tristeza e o gemido. ^v10
+**10** Os resgatados de Yahweh retornarão e virão cantando para Sião, a alegria eterna estará em suas cabeças; felicidade e alegria tomarão conta deles; tristeza e pranto fugirão. ^v10

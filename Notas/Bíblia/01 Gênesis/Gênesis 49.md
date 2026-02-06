@@ -1,73 +1,72 @@
 ---
-Livro: "[[Gênesis|Gênesis]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Gênesis|Gênesis]]"
+tags: [biblia]
 ---
 
 # Gênesis 49
 
-**1** Depois chamou Jacó a seus filhos, e disse: Ajuntai-vos, e anunciar-vos-ei o que vos há de acontecer nos dias vindouros; ^v1
+**1** "Então Jacó chamou seus filhos e disse-lhes: ""Reuni-vos, que vou dizer-vos o que vos acontecerá no futuro." ^v1
 
-**2** Ajuntai-vos, e ouvi, filhos de Jacó; e ouvi a Israel vosso pai. ^v2
+**2** Ajuntai-vos e escutai, filhos de Jacó. Escutai a Israel, vosso pai. ^v2
 
-**3** Rúben, tu és meu primogênito, minha força e o princípio de meu vigor, o mais excelente em alteza e o mais excelente em poder. ^v3
+**3** Rúben, tu és meu primogênito, minha força e o início do meu vigor, excelente em dignidade e poder. ^v3
 
-**4** Impetuoso como a água, não serás o mais excelente, porquanto subiste ao leito de teu pai. Então o contaminaste; subiu à minha cama. ^v4
+**4** Incontrolável como as águas turbulentas, não terás a primazia, porque subiste à cama de teu pai. Assim a contaminaste; subiste à minha cama. ^v4
 
-**5** Simeão e Levi são irmãos; as suas espadas são instrumentos de violência. ^v5
+**5** Simeão e Levi são irmãos. Suas espadas são armas de violência. ^v5
 
-**6** No seu secreto conselho não entre minha alma, com a sua congregação minha glória não se ajunte; porque no seu furor mataram homens, e na sua teima arrebataram bois. ^v6
+**6** Ó minha alma, não entres em seu conselho. Não me encontrarei em seus ajuntamentos, pois meu coração é muito honrado para isso. Porque, no seu furor, mataram homens. Foi por prazer que esquartejaram bois. ^v6
 
-**7** Maldito seja o seu furor, pois era forte, e a sua ira, pois era dura; eu os dividirei em Jacó, e os espalharei em Israel. ^v7
+**7** Que sua ira seja amaldiçoada, porque era forte, e vossa fúria era cruel. Eu os dividirei em Jacó, e os espalharei em Israel. ^v7
 
-**8** Judá, a ti te louvarão os teus irmãos; a tua mão será sobre o pescoço de teus inimigos; os filhos de teu pai a ti se inclinarão. ^v8
+**8** Judá, teus irmãos te louvarão. Tua mão será sobre o pescoço de teus inimigos. Os filhos de teu pai se curvarão diante de ti. ^v8
 
-**9** Judá é um leãozinho, da presa subiste, filho meu; encurva-se, e deita-se como um leão, e como um leão velho; quem o despertará? ^v9
+**9** Judá é um leãozinho. Tu de suas presas subiste, meu filho. Inclinando-se, ele se agachou como um leão, como uma leoa. Quem se atreveria a despertá-lo? ^v9
 
-**10** O cetro não se arredará de Judá, nem o legislador dentre seus pés, até que venha Siló; e a ele se congregarão os povos. ^v10
+**10** O cetro não se apartará de Judá, nem o pendão de autoridade dentre seus pés, até que venha Siló. As nações lhe obedecerão. ^v10
 
-**11** Ele amarrará o seu jumentinho à vide, e o filho da sua jumenta à cepa mais excelente; ele lavará a sua roupa no vinho, e a sua capa em sangue de uvas. ^v11
+**11** Amarrando seu jumentinho na vinha e o potro da jumenta na videira escolhida, ele lavará suas roupas no vinho e sua túnica no sangue de uvas. ^v11
 
-**12** Os olhos serão vermelhos de vinho, e os dentes brancos de leite. ^v12
+**12** Seus olhos serão tão escuros quanto o vinho e os seus dentes brancos como o leite. ^v12
 
-**13** Zebulom habitará no porto dos mares, e será como porto dos navios, e o seu termo será para Sidom. ^v13
+**13** Zebulom habitará na região costeira. Ele será um porto para os navios e seus domínios se estenderão até Sidom. ^v13
 
-**14** Issacar é jumento de fortes ossos, deitado entre dois fardos. ^v14
+**14** Issacar é um jumento forte, deitado entre os currais das ovelhas. ^v14
 
-**15** E viu ele que o descanso era bom, e que a terra era deliciosa e abaixou seu ombro para acarretar, e serviu debaixo de tributo. ^v15
+**15** Ele vê um bom lugar de descanso e uma terra agradável. E oferecerá seus ombros para a carga e se entregará como servo para as tarefas. ^v15
 
-**16** Dã julgará o seu povo, como uma das tribos de Israel. ^v16
+**16** Dã julgará seu povo como uma das tribos de Israel. ^v16
 
-**17** Dã será serpente junto ao caminho, uma víbora junto à vereda, que morde os calcanhares do cavalo, e faz cair o seu cavaleiro por detrás. ^v17
+**17** Dã será como uma serpente à beira da estrada, uma serpente peçonhenta que morde o calcanhar do cavalo, e assim faz cair o seu cavaleiro para trás. ^v17
 
-**18** A tua salvação espero, ó Senhor! ^v18
+**18** Eu espero por Tua salvação, Yahweh. ^v18
 
-**19** Quanto a Gade, uma tropa o acometerá; mas ele a acometerá por fim. ^v19
+**19** Gade, cavaleiros o atacarão, mas ele os atacará nos seus calcanhares. ^v19
 
-**20** De Aser, o seu pão será gordo, e ele dará delícias reais. ^v20
+**20** O alimento de Aser será abundante, e produzirá iguarias reais. ^v20
 
-**21** Naftali é uma gazela solta; ele dá palavras formosas. ^v21
+**21** Naftali é uma corça livre e terá belos filhotes. ^v21
 
-**22** José é um ramo frutífero, ramo frutífero junto à fonte; seus ramos correm sobre o muro. ^v22
+**22** José é um ramo frutífero, perto de uma fonte, cujos galhos escalam acima do muro. ^v22
 
-**23** Os flecheiros lhe deram amargura, e o flecharam e odiaram. ^v23
+**23** Os arqueiros irão atacá-lo, atirar nele e assediá-lo. ^v23
 
-**24** O seu arco, porém, susteve-se no forte, e os braços de suas mãos foram fortalecidos pelas mãos do Valente de Jacó (de onde é o pastor e a pedra de Israel). ^v24
+**24** Mas seu arco permanecerá firme e suas mãos permanecerão hábeis por causa das mãos do Poderoso de Jacó e devido ao nome do Pastor, a Rocha de Israel. ^v24
 
-**25** Pelo Deus de teu pai, o qual te ajudará, e pelo Todo-Poderoso, o qual te abençoará com bênçãos dos altos céus, com bênçãos do abismo que está embaixo, com bênçãos dos seios e da madre. ^v25
+**25** O Deus de teu pai te ajudará e o Todo-Poderoso Deus te abençoará com bênçãos celestiais de cima, bênçãos das profundezas que repousam abaixo, e bênçãos dos seios e do ventre. ^v25
 
-**26** As bênçãos de teu pai excederão as bênçãos de meus pais, até à extremidade dos outeiros eternos; elas estarão sobre a cabeça de José, e sobre o alto da cabeça do que foi separado de seus irmãos. ^v26
+**26** As bênçãos de teu pai serão maiores do que as bênçãos das antigas montanhas ou as coisas mais desejáveis das eternas colinas. Eles estarão sob a cabeça de José, bênçãos que coroam a cabeça de quem foi príncipe sobre seus irmãos. ^v26
 
-**27** Benjamim é lobo que despedaça; pela manhã comerá a presa, e à tarde repartirá o despojo. ^v27
+**27** "Benjamim é um lobo faminto. De manhã devorará a presa, e à noite dividirá o despojo""." ^v27
 
-**28** Todas estas são as doze tribos de Israel; e isto é o que lhes falou seu pai quando os abençoou; a cada um deles abençoou segundo a sua bênção. ^v28
+**28** Essas são as doze tribos de Israel. Isso foi o que seu pai lhes disse quando os abençoou. A cada um abençoou com uma bênção apropriada. ^v28
 
-**29** Depois ordenou-lhes, e disse-lhes: Eu me congrego ao meu povo; sepultai-me com meus pais, na cova que está no campo de Efrom, o heteu, ^v29
+**29** "Então ele os instruiu e disse-lhes: ""Breve irei para o meu povo. Enterrai-me com meus antepassados na cova que está no campo de Efrom, o heteu," ^v29
 
-**30** Na cova que está no campo de Macpela, que está em frente de Manre, na terra de Canaã, a qual Abraão comprou com aquele campo de Efrom, o heteu, por herança de sepultura. ^v30
+**30** na caverna que está no campo de Macpela, que é perto de Manre, na terra de Canaã, o campo que Abraão comprou de Efrom, o heteu, para sepultura. ^v30
 
-**31** Ali sepultaram a Abraão e a Sara sua mulher; ali sepultaram a Isaque e a Rebeca sua mulher; e ali eu sepultei a Lia. ^v31
+**31** Ali, eles sepultaram Abraão e Sara, sua esposa; ali, eles sepultaram Isaque e Rebeca, sua esposa; e alí sepultei a Lia. ^v31
 
-**32** O campo e a cova que está nele, foram comprados aos filhos de Hete. ^v32
+**32** "O campo e a cova que está nele foram comprados do povo de Hete""." ^v32
 
-**33** Acabando, pois, Jacó de dar instruções a seus filhos, encolheu os pés na cama, e expirou, e foi congregado ao seu povo. ^v33
+**33** Quando Jacó terminou essas instruções a seus filhos, recolheu seus pés na cama, deu seu último suspiro e foi para o seu povo. ^v33

@@ -1,45 +1,44 @@
 ---
-Livro: "[[1 Pedro|1 Pedro]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/1 Pedro|1 Pedro]]"
+tags: [biblia]
 ---
 
 # 1 Pedro 4
 
-**1** Ora, pois, já que Cristo padeceu por nós na carne, armai-vos também vós com este mesmo pensamento, que aquele que padeceu na carne já cessou do pecado; ^v1
+**1** Portanto uma vez que Cristo sofreu na carne, armai-vos com a mesma convicção: aquele que sofreu na carne deixou o pecado. ^v1
 
-**2** Para que, no tempo que vos resta na carne, não vivais mais segundo as concupiscências dos homens, mas segundo a vontade de Deus. ^v2
+**2** Consequentemente, tal pessoa, pelo resto de seus dias na carne, não mais viverá para os desejos dos homens, mas para a vontade de Deus. ^v2
 
-**3** Porque é bastante que no tempo passado da vida fizéssemos a vontade dos gentios, andando em dissoluções, concupiscências, borrachices, glutonarias, bebedices e abomináveis idolatrias; ^v3
+**3** Porque basta o tempo que passastes praticando o que os gentios queriam fazer: sensualidade, paixão, bebedeiras, banquetes, orgias, e idolatrias abomináveis. ^v3
 
-**4** E acham estranho não correrdes com eles no mesmo desenfreamento de dissolução, blasfemando de vós. ^v4
+**4** Eles acham estranho que não vos junteis a eles ao mesmo excesso de devassidão, por isso, eles falam mal de vós. ^v4
 
-**5** Os quais hão de dar conta ao que está preparado para julgar os vivos e os mortos. ^v5
+**5** Mas disto eles prestarão contas Àquele que está pronto para julgar os vivos e os mortos. ^v5
 
-**6** Porque por isto foi pregado o evangelho também aos mortos, para que, na verdade, fossem julgados segundo os homens na carne, mas vivessem segundo Deus em espírito; ^v6
+**6** Para este propósito, o Evangelho foi também pregado para os mortos, para que, embora julgados segundo os homens quando na carne, vivam no Espírito, segundo Deus. ^v6
 
-**7** E já está próximo o fim de todas as coisas; portanto sede sóbrios e vigiai em oração. ^v7
+**7** O fim de todas as coisas está próximo. Portanto sede sensatos e sóbrios em vossos pensamentos por causa das vossas orações. ^v7
 
-**8** Mas, sobretudo, tende ardente amor uns para com os outros; porque o amor cobrirá a multidão de pecados. ^v8
+**8** Antes de todas as coisas, tende amor fervoroso uns pelos outros, porque o amor cobre uma multidão de pecados. ^v8
 
-**9** Sendo hospitaleiros uns para com os outros, sem murmurações, ^v9
+**9** Sede hospitaleiros uns para com os outros, sem murmuração. ^v9
 
-**10** Cada um administre aos outros o dom como o recebeu, como bons despenseiros da multiforme graça de Deus. ^v10
+**10** Conforme o dom que cada um de vós recebeu, usai-o para servir uns aos outros, como bons administradores da multiforme graça de Deus. ^v10
 
-**11** Se alguém falar, fale segundo as palavras de Deus; se alguém administrar, administre segundo o poder que Deus dá; para que em tudo Deus seja glorificado por Jesus Cristo, a quem pertence a glória e poder para todo o sempre. Amém. ^v11
+**11** Se alguém fala, fale como quem transmite a Palavra de Deus; se alguém serve, sirva com a força que Deus lhe dá; assim, em todas as coisas, Deus seja glorificado por meio de Jesus Cristo, a quem pertence a glória e o poder pelos séculos dos séculos. Amém. ^v11
 
-**12** Amados, não estranheis a ardente prova que vem sobre vós para vos tentar, como se coisa estranha vos acontecesse; ^v12
+**12** Amados, não estranheis a provação que vem como fogo para testá-los, como se alguma coisa estranha estivesse acontecendo a vós. ^v12
 
-**13** Mas alegrai-vos no fato de serdes participantes das aflições de Cristo, para que também na revelação da sua glória vos regozijeis e alegreis. ^v13
+**13** Pelo contrário, por mais que experimenteis os sofrimentos de Cristo, alegrai-vos, para que também vos alegreis e exulteis na revelação de Sua Glória. ^v13
 
-**14** Se pelo nome de Cristo sois vituperados, bem-aventurados sois, porque sobre vós repousa o Espírito da glória e de Deus; quanto a eles, é ele, sim, blasfemado, mas quanto a vós, é glorificado. ^v14
+**14** Se sois insultados por causa do nome de Cristo, vós sois abençoados, porque sobre vós está repousando o Espírito da glória, o Espírito de Deus. ^v14
 
-**15** Que nenhum de vós padeça como homicida, ou ladrão, ou malfeitor, ou como o que se entremete em negócios alheios; ^v15
+**15** Todavia, que ninguém sofra como assassino, ladrão, malfeitor, ou como quem se intromete em negócios alheios. ^v15
 
-**16** Mas, se padece como cristão, não se envergonhe, antes glorifique a Deus nesta parte. ^v16
+**16** Mas se alguém sofrer como um cristão, não se envergonhe, porém glorifique a Deus por ter esse nome. ^v16
 
-**17** Porque já é tempo que comece o julgamento pela casa de Deus; e, se primeiro começa por nós, qual será o fim daqueles que são desobedientes ao evangelho de Deus? ^v17
+**17** Porque é o tempo de começar o juizo a partir da casa de Deus. E se isso começa conosco, qual será o fim daqueles que não obedecem o Evangelho de Deus? ^v17
 
-**18** E, se o justo apenas se salva, onde aparecerá o ímpio e o pecador? ^v18
+**18** "E se ""é com dificuldades que o justo é salvo, em que situação ficará o ímpio pecador?""" ^v18
 
-**19** Portanto também os que padecem segundo a vontade de Deus encomendem-lhe as suas almas, como ao fiel Criador, fazendo o bem. ^v19
+**19** Portanto aqueles que sofrem de acordo com a vontade de Deus, confiem suas almas ao fiel Criador, praticando o bem. ^v19

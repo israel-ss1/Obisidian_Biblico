@@ -1,47 +1,46 @@
 ---
-Livro: "[[Eclesiastes|Eclesiastes]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Eclesiastes|Eclesiastes]]"
+tags: [biblia]
 ---
 
 # Eclesiastes 5
 
-**1** Guarda o teu pé, quando entrares na casa de Deus; porque chegar-se para ouvir é melhor do que oferecer sacrifícios de tolos, pois não sabem que fazem mal. ^v1
+**1** Presta atenção a tua conduta quando fores à casa de Deus. Vai lá para ouvir. Ouvir é melhor do que oferecer sacrifícios como tolos, pois não sabem o que fazem; são perversos em sua vida. ^v1
 
-**2** Não te precipites com a tua boca, nem o teu coração se apresse a pronunciar palavra alguma diante de Deus; porque Deus está nos céus, e tu estás sobre a terra; assim sejam poucas as tuas palavras. ^v2
+**2** Não sejas muito rápido para falar, nem teu coração se apresse a trazer qualquer assunto diante de Deus. Deus está no céu, mas tu estás na terra; portanto sejam poucas as tuas palavras. ^v2
 
-**3** Porque, da muita ocupação vêm os sonhos, e a voz do tolo da multidão das palavras. ^v3
+**3** Se tens muitas coisas para te preocupares, provavelmente terás sonhos ruins. Quanto mais palavras falares, provavelmente mais coisas tolas dirás. ^v3
 
-**4** Quando a Deus fizeres algum voto, não tardes em cumpri-lo; porque não se agrada de tolos; o que votares, paga-o. ^v4
+**4** Quando fizeres um voto a Deus, não demores a cumpri-lo, pois Deus não tem prazer em tolos. Cumpre o que prometeres. ^v4
 
-**5** Melhor é que não votes do que votares e não cumprires. ^v5
+**5** Melhor não fazer um voto do que fazê-lo e não cumprir. ^v5
 
-**6** Não consintas que a tua boca faça pecar a tua carne, nem digas diante do anjo que foi erro; por que razão se iraria Deus contra a tua voz, e destruiria a obra das tuas mãos? ^v6
+**6** "Não permitas que tua boca te faça pecar. Não digas ao mensageiro de Deus: ""Esse voto foi um erro"". Por que fazer com que Deus Se ire, por teres jurado falsamente, provocando-O a destruir o trabalho de tuas mãos?" ^v6
 
-**7** Porque, como na multidão dos sonhos há vaidades, assim também nas muitas palavras; mas tu teme a Deus. ^v7
+**7** Porque em muitos sonhos, como em muitas palavras, há vaidade; então, teme a Deus. ^v7
 
-**8** Se vires em alguma província opressão do pobre, e violência do direito e da justiça, não te admires de tal procedimento; pois quem está altamente colocado tem superior que o vigia; e há mais altos do que eles. ^v8
+**8** Quando vires, em tua província, o pobre ser oprimido e negligenciado de um tratamento justo e correto, não te surpreendas como se ninguém soubesse disso, porque há pessoas no poder que vigiam aqueles que estão abaixo deles, e ainda há outros que estão acima deles. ^v8
 
-**9** O proveito da terra é para todos; até o rei se serve do campo. ^v9
+**9** Além disso, o produto da terra é para todos, e o próprio rei tira produtos dos campos. ^v9
 
-**10** Quem amar o dinheiro jamais dele se fartará; e quem amar a abundância nunca se fartará da renda; também isto é vaidade. ^v10
+**10** Quem ama a prata não ficará satisfeito com ela, e qualquer pessoa que ama as riquezas sempre quer mais. Isso também é vaidade. ^v10
 
-**11** Onde os bens se multiplicam, ali se multiplicam também os que deles comem; que mais proveito, pois, têm os seus donos do que os ver com os seus olhos? ^v11
+**11** À medida que a prosperidade aumenta, também aumentam as pessoas que a consomem. Que vantagem existe na riqueza para seu proprietário, exceto em vê-la com seus olhos? ^v11
 
-**12** Doce é o sono do trabalhador, quer coma pouco quer muito; mas a fartura do rico não o deixa dormir. ^v12
+**12** O sono de um homem trabalhador é doce, quer coma pouco, quer muito; mas os bens de uma pessoa rica não lhe permitem dormir bem. ^v12
 
-**13** Há um grave mal que vi debaixo do sol, e atrai enfermidades: as riquezas que os seus donos guardam para o seu próprio dano; ^v13
+**13** Há um mal severo que vi debaixo do sol: riquezas acumuladas pelo dono, resultando em sua própria miséria. ^v13
 
-**14** Porque as mesmas riquezas se perdem por qualquer má ventura, e havendo algum filho nada lhe fica na sua mão. ^v14
+**14** Quando o homem rico perde os bens através de má sorte, seu próprio filho, a quem ele gerou, fica sem nada nas mãos. ^v14
 
-**15** Como saiu do ventre de sua mãe, assim nu tornará, indo-se como veio; e nada tomará do seu trabalho, que possa levar na sua mão. ^v15
+**15** Como um homem nasce nu do ventre de sua mãe, assim também ele deixará essa vida. Ele não pode levar em suas mãos nada de seu trabalho. ^v15
 
-**16** Assim que também isto é um grave mal que, justamente como veio, assim há de ir; e que proveito lhe vem de trabalhar para o vento, ^v16
+**16** Outro mal severo é que exatamente como uma pessoa veio, assim ela também voltará. Que lucro alguém pode ter trabalhando para o vento? ^v16
 
-**17** E de haver comido todos os seus dias nas trevas, e de haver padecido muito enfado, e enfermidade, e furor? ^v17
+**17** Durante seus dias, ele come na escuridão, com muita angústia, doença e ira. ^v17
 
-**18** Eis aqui o que eu vi, uma boa e bela coisa: comer e beber, e gozar cada um do bem de todo o seu trabalho, em que trabalhou debaixo do sol, todos os dias de vida que Deus lhe deu, porque esta é a sua porção. ^v18
+**18** Eis o que tenho visto: bom e adequado é comer e beber, e aproveitar o lucro de todo nosso trabalho, enquanto trabalhamos duro sob o sol durante os dias da vida que Deus nos deu, pois esta é a tarefa do homem. ^v18
 
-**19** E a todo o homem, a quem Deus deu riquezas e bens, e lhe deu poder para delas comer e tomar a sua porção, e gozar do seu trabalho, isto é dom de Deus. ^v19
+**19** Qualquer um a quem Deus tenha dado riquezas e bens, e a capacidade de receber sua parte e alegrar-se em seu trabalho — isso é um presente de Deus. ^v19
 
-**20** Porque não se lembrará muito dos dias da sua vida; porquanto Deus lhe enche de alegria o seu coração. ^v20
+**20** Porque não lembrará muito dos dias de sua vida, porque Deus o faz manter-se ocupado com as coisas que ele gosta de fazer. ^v20

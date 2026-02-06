@@ -1,87 +1,86 @@
 ---
-Livro: "[[1 Coríntios|1 Coríntios]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/1 Coríntios|1 Coríntios]]"
+tags: [biblia]
 ---
 
 # 1 Coríntios 14
 
-**1** Segui o amor, e procurai com zelo os dons espirituais, mas principalmente o de profetizar. ^v1
+**1** Segui o amor e desejai intensamente os dons espirituais, especialmente o de profetizar; ^v1
 
-**2** Porque o que fala em língua desconhecida não fala aos homens, senão a Deus; porque ninguém o entende, e em espírito fala mistérios. ^v2
+**2** porque aquele que fala em uma língua não fala a pessoas, mas a Deus. Pois ninguém o entende, porque ele fala mistérios no Espírito; ^v2
 
-**3** Mas o que profetiza fala aos homens, para edificação, exortação e consolação. ^v3
+**3** mas aquele que profetiza fala a pessoas para as edificar, encorajar e confortar. ^v3
 
-**4** O que fala em língua desconhecida edifica-se a si mesmo, mas o que profetiza edifica a igreja. ^v4
+**4** Aquele que fala em língua edifica a si mesmo, mas o que profetiza edifica a igreja. ^v4
 
-**5** E eu quero que todos vós faleis em línguas, mas muito mais que profetizeis; porque o que profetiza é maior do que o que fala em línguas, a não ser que também interprete para que a igreja receba edificação. ^v5
+**5** Gostaria que todos vós falasseis em línguas; porém, muito mais que isso, gostaria que todos profetizásseis. Aquele que profetiza é maior do que o que fala em línguas (a menos que alguém interprete, para que a igreja seja edificada). ^v5
 
-**6** E agora, irmãos, se eu for ter convosco falando em línguas, que vos aproveitaria, se não vos falasse ou por meio da revelação, ou da ciência, ou da profecia, ou da doutrina? ^v6
+**6** Entretanto, irmãos, se eu chegar a vós falando em línguas, que beneficio vos trarei? Nenhum! A não ser que vos fale com revelação, conhecimento, profecia ou ensino. ^v6
 
-**7** Da mesma sorte, se as coisas inanimadas, que fazem som, seja flauta, seja cítara, não formarem sons distintos, como se conhecerá o que se toca com a flauta ou com a cítara? ^v7
+**7** Se instrumentos sem vida que produzem sons, como a flauta ou a harpa, não produzem diferentes tons, como alguém saberá qual melodia a harpa ou a flauta estão tocando? ^v7
 
-**8** Porque, se a trombeta der sonido incerto, quem se preparará para a batalha? ^v8
+**8** Porque se a trombeta tocar um som incerto, como alguém saberá quando é o tempo de se preparar para a batalha? ^v8
 
-**9** Assim também vós, se com a língua não pronunciardes palavras bem inteligíveis, como se entenderá o que se diz? porque estareis como que falando ao ar. ^v9
+**9** Assim é convosco: se pronunciardes discurso que é ininteligível, como alguém entenderá o que dizeis? Vós falareis, e ninguém vos entenderá. ^v9
 
-**10** Há, por exemplo, tanta espécie de vozes no mundo, e nenhuma delas é sem significação. ^v10
+**10** Sem dúvida, existem muitas línguas diferentes no mundo, e nenhuma é sem sentido. ^v10
 
-**11** Mas, se eu ignorar o sentido da voz, serei bárbaro para aquele a quem falo, e o que fala será bárbaro para mim. ^v11
+**11** Todavia, se eu não souber o significado de uma língua, serei um estrangeiro para quem fala, e ele será um estrangeiro para mim. ^v11
 
-**12** Assim também vós, como desejais dons espirituais, procurai abundar neles, para edificação da igreja. ^v12
+**12** Do mesmo modo, convosco: já que estais desejosos pelas manifestações do Espírito, sede zelosos para abundar na edificação da igreja. ^v12
 
-**13** Por isso, o que fala em língua desconhecida, ore para que a possa interpretar. ^v13
+**13** Então, o que fala em uma língua deve orar para que a possa interpretar. ^v13
 
-**14** Porque, se eu orar em língua desconhecida, o meu espírito ora bem, mas o meu entendimento fica sem fruto. ^v14
+**14** Porque se eu oro em línguas, meu espírito ora, mas minha mente está infrutífera. ^v14
 
-**15** Que farei, pois? Orarei com o espírito, mas também orarei com o entendimento; cantarei com o espírito, mas também cantarei com o entendimento. ^v15
+**15** O que devo fazer? Orarei com meu espírito, mas também com minha mente. Cantarei com meu espírito, e também com minha mente. ^v15
 
-**16** De outra maneira, se tu bendisseres com o espírito, como dirá o que ocupa o lugar de indouto, o Amém, sobre a tua ação de graças, visto que não sabe o que dizes? ^v16
+**16** "De outro modo, se louvais a Deus com o espírito, como a outra pessoa dirá ""Amém"" quando estiveres dando graça, se ele não souber o que tu estás dizendo?" ^v16
 
-**17** Porque realmente tu dás bem as graças, mas o outro não é edificado. ^v17
+**17** Vós certamente dais graças muito bem, mas a outra pessoa não é edificada. ^v17
 
-**18** Dou graças ao meu Deus, porque falo mais línguas do que vós todos. ^v18
+**18** Eu agradeço a Deus por falar em línguas mais que todos vós, ^v18
 
-**19** Todavia eu antes quero falar na igreja cinco palavras na minha própria inteligência, para que possa também instruir os outros, do que dez mil palavras em língua desconhecida. ^v19
+**19** mas na igreja eu preferiria falar cinco palavras com meu entendimento a fim de instruir a outros, a falar dez mil palavras em línguas. ^v19
 
-**20** Irmãos, não sejais meninos no entendimento, mas sede meninos na malícia, e adultos no entendimento. ^v20
+**20** Irmãos, não sejais crianças em vosso pensar. Particularmente, quanto ao mal, sede como criancinhas; mas em vosso pensar, sede maduros. ^v20
 
-**21** Está escrito na lei: Por gente de outras línguas, e por outros lábios, falarei a este povo; e ainda assim me não ouvirão, diz o Senhor. ^v21
+**21** "Na Lei está escrito: ""Por homens de outras línguas e pelos lábios estrangeiros Eu falarei a este povo. Mesmo assim, não Me ouvirão"", diz o Senhor." ^v21
 
-**22** De sorte que as línguas são um sinal, não para os fiéis, mas para os infiéis; e a profecia não é sinal para os infiéis, mas para os fiéis. ^v22
+**22** Portanto, línguas são um sinal, não para os cristãos, mas para os não cristãos; mas profecia é um sinal, não para os não cristãos, mas para os cristãos. ^v22
 
-**23** Se, pois, toda a igreja se congregar num lugar, e todos falarem em línguas, e entrarem indoutos ou infiéis, não dirão porventura que estais loucos? ^v23
+**23** Se, portanto, toda a igreja se juntar e todos falarem em línguas, e os de fora e os não cristãos chegarem, não diriam eles que vós estais loucos? ^v23
 
-**24** Mas, se todos profetizarem, e algum indouto ou infiel entrar, de todos é convencido, de todos é julgado. ^v24
+**24** Mas se todos vós estiverdes profetizando e um não cristão ou alguém de fora chegar, ele seria convencido de tudo o que ouviu, e seria julgado por tudo o que foi dito. ^v24
 
-**25** E, portanto, os segredos do seu coração ficam manifestos, e assim, lançando-se sobre o seu rosto, adorará a Deus, publicando que Deus está verdadeiramente entre vós. ^v25
+**25** Os segredos do seu coração seriam revelados; como resultado, ele se prostraria com seu rosto em terra, adoraria a Deus, e declararia que Deus está realmente entre vós. ^v25
 
-**26** Que fareis pois, irmãos? Quando vos ajuntais, cada um de vós tem salmo, tem doutrina, tem revelação, tem língua, tem interpretação. Faça-se tudo para edificação. ^v26
+**26** Então, como é, irmãos? Quando vos reunis, cada um tenha um salmo, um ensinamento, uma revelação, uma língua ou uma interpretação. Fazei tudo para a edificação da igreja. ^v26
 
-**27** E, se alguém falar em língua desconhecida, faça-se isso por dois, ou quando muito três, e por sua vez, e haja intérprete. ^v27
+**27** Se alguém fala em uma língua, que sejam dois ou no máximo três, e um de cada vez, então alguém deve interpretar o que é dito. ^v27
 
-**28** Mas, se não houver intérprete, esteja calado na igreja, e fale consigo mesmo, e com Deus. ^v28
+**28** Contudo, se não há ninguém para interpretar, que cada um permaneça em silêncio na igreja. Deixe que ele fale sozinho consigo mesmo e com Deus. ^v28
 
-**29** E falem dois ou três profetas, e os outros julguem. ^v29
+**29** Que dois ou três profetas falem, e que os outros ouçam com discernimento o que é dito. ^v29
 
-**30** Mas, se a outro, que estiver assentado, for revelada alguma coisa, cale-se o primeiro. ^v30
+**30** Mas, se uma revelação for dada a quem está sentado no culto, que fique em silêncio o que estava falando. ^v30
 
-**31** Porque todos podereis profetizar, uns depois dos outros; para que todos aprendam, e todos sejam consolados. ^v31
+**31** Porque cada um de vós pode profetizar, um por um, para que cada um aprenda, e todos sejam encorajados. ^v31
 
-**32** E os espíritos dos profetas estão sujeitos aos profetas. ^v32
+**32** Porque os espíritos dos profetas estão sob o controle dos profetas. ^v32
 
-**33** Porque Deus não é Deus de confusão, senão de paz, como em todas as igrejas dos santos. ^v33
+**33** Porque Deus não é Deus de confusão, mas de paz. Esta é a ordenança em todas as igrejas dos santos. ^v33
 
-**34** As vossas mulheres estejam caladas nas igrejas; porque não lhes é permitido falar; mas estejam sujeitas, como também ordena a lei. ^v34
+**34** As mulheres devem ficar em silêncio nas igrejas, porque não lhes é permitido falar. Ao invés disso, devem estar submissas, como também diz a Lei. ^v34
 
-**35** E, se querem aprender alguma coisa, interroguem em casa a seus próprios maridos; porque é vergonhoso que as mulheres falem na igreja. ^v35
+**35** Se há alguma coisa que elas desejem aprender, que elas perguntem para seus maridos em casa. Porque é vergonhoso para a mulher falar na igreja. ^v35
 
-**36** Porventura saiu dentre vós a palavra de Deus? Ou veio ela somente para vós? ^v36
+**36** Veio de vós a palavra de Deus? Vós sois os únicos que fostes alcançados? ^v36
 
-**37** Se alguém cuida ser profeta, ou espiritual, reconheça que as coisas que vos escrevo são mandamentos do Senhor. ^v37
+**37** Se alguém pensa ser um profeta ou espiritual, deveria reconhecer que as coisas que vos escrevi são mandamentos do Senhor. ^v37
 
-**38** Mas, se alguém ignora isto, que ignore. ^v38
+**38** "Mas se alguém não reconhece isso, que não seja reconhecido. [Algumas versões antigas trazem: ""Todavia, se alguém é ignorante sobre isto, deixe-o ser ignorante.""]" ^v38
 
-**39** Portanto, irmãos, procurai, com zelo, profetizar, e não proibais falar línguas. ^v39
+**39** Então, irmãos, desejai intensamente profetizar, e não proibais ninguém de falar em línguas. ^v39
 
-**40** Mas faça-se tudo decentemente e com ordem. ^v40
+**40** Mas que todas as coisas sejam feitas decentemente e em ordem. ^v40

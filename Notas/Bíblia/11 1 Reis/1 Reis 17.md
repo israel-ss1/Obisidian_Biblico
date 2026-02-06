@@ -1,55 +1,54 @@
 ---
-Livro: "[[1 Reis|1 Reis]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/1 Reis|1 Reis]]"
+tags: [biblia]
 ---
 
 # 1 Reis 17
 
-**1** Então Elias, o tisbita, dos moradores de Gileade, disse a Acabe: Vive o SENHOR Deus de Israel, perante cuja face estou, que nestes anos nem orvalho nem chuva haverá, senão segundo a minha palavra. ^v1
+**1** "Elias, o tesbita, de Tisbé, em Gileade, disse a Acabe: ""Assim como Yahweh, o Deus de Israel vive, diante de quem estou, não haverá orvalho ou chuva nestes anos, a menos que eu o diga""." ^v1
 
-**2** Depois veio a ele a palavra do Senhor, dizendo: ^v2
+**2** A palavra de Yahweh veio a Elias, dizendo: ^v2
 
-**3** Retira-te daqui, e vai para o oriente, e esconde-te junto ao ribeiro de Querite, que está diante do Jordão. ^v3
+**3** """Sai daqui e vai para o leste; esconde-te ao lado do ribeiro de Querite, no lado leste do Jordão." ^v3
 
-**4** E há de ser que beberás do ribeiro; e eu tenho ordenado aos corvos que ali te sustentem. ^v4
+**4** "Acontecerá que tu beberás do ribeiro, e Eu ordenei aos corvos que te alimentem lá""." ^v4
 
-**5** Foi, pois, e fez conforme a palavra do Senhor; porque foi, e habitou junto ao ribeiro de Querite, que está diante do Jordão. ^v5
+**5** Então Elias foi e fez como a palavra de Yahweh ordenou. Ele foi viver ao lado do ribeiro Querite, no lado leste do Jordão. ^v5
 
-**6** E os corvos lhe traziam pão e carne pela manhã; como também pão e carne à noite; e bebia do ribeiro. ^v6
+**6** Os corvos traziam para ele pão e carne pela manhã e pão e carne à noite, e ele bebia do ribeiro. ^v6
 
-**7** E sucedeu que, passados dias, o ribeiro se secou, porque não tinha havido chuva na terra. ^v7
+**7** Mas, depois de um tempo, o ribeiro secou porque não havia nenhuma chuva na terra. ^v7
 
-**8** Então veio a ele a palavra do Senhor, dizendo: ^v8
+**8** A palavra de Yahweh veio a ele dizendo: ^v8
 
-**9** Levanta-te, e vai para Sarepta, que é de Sidom, e habita ali; eis que eu ordenei ali a uma mulher viúva que te sustente. ^v9
+**9** """Levanta-te, vai para Sarepta, que pertence a Sidom, e habita lá. Vê, Eu ordenei a uma viúva que te sustente""." ^v9
 
-**10** Então ele se levantou, e foi a Sarepta; e, chegando à porta da cidade, eis que estava ali uma mulher viúva apanhando lenha; e ele a chamou, e lhe disse: Traze-me, peço-te, num vaso um pouco de água que beba. ^v10
+**10** "Então ele levantou-se e foi para Sarepta e, quando ele chegou ao portão da cidade, a viúva estava lá, juntando lenha. Então ele a chamou e disse: ""Por favor, traze-me um pouco de água em uma jarra, para que eu possa beber""." ^v10
 
-**11** E, indo ela a trazê-la, ele a chamou e lhe disse: Traze-me agora também um bocado de pão na tua mão. ^v11
+**11** "Enquanto ela estava indo pegar água, ele a chamou e disse: ""Por favor, traze-me um pedaço de pão em tua mão""." ^v11
 
-**12** Porém ela disse: Vive o Senhor teu Deus, que nem um bolo tenho, senão somente um punhado de farinha numa panela, e um pouco de azeite numa botija; e vês aqui apanhei dois cavacos, e vou prepará-lo para mim e para o meu filho, para que o comamos, e morramos. ^v12
+**12** "Ela respondeu: ""Assim como Yahweh, teu Deus, vive, eu não tenho nenhum pão, mas apenas um punhado de farinha em um pote e um pouco de azeite em uma jarra. Vê, eu estou juntando dois pedaços de lenha para que eu vá e cozinhe para mim e meu filho, para comermos e morrermos""." ^v12
 
-**13** E Elias lhe disse: Não temas; vai, faze conforme à tua palavra; porém faze dele primeiro para mim um bolo pequeno, e traze-mo aqui; depois farás para ti e para teu filho. ^v13
+**13** "Elias disse a ela: ""Não temas. Vai e faz como tens dito, mas faz-me um pouco de pão primeiramente e traz para mim. Então, depois faz um para ti e teu filho." ^v13
 
-**14** Porque assim diz o Senhor Deus de Israel: A farinha da panela não se acabará, e o azeite da botija não faltará até ao dia em que o Senhor dê chuva sobre a terra. ^v14
+**14** "Pois Yahweh, o Deus de Israel diz: 'O pote de farinha não se esvaziará, nem mesmo a jarra de azeite parará de fluir, até o dia que Yahweh mandar chuva na terra'""." ^v14
 
-**15** E ela foi e fez conforme a palavra de Elias; e assim comeu ela, e ele, e a sua casa muitos dias. ^v15
+**15** Então ela fez como Elias lhe havia dito. Ela, Elias e o filho dela comeram por muitos dias. ^v15
 
-**16** Da panela a farinha não se acabou, e da botija o azeite não faltou; conforme a palavra do Senhor, que ele falara pelo ministério de Elias. ^v16
+**16** O pote de farinha não se esvaziou, nem a jarra de azeite secou, assim como a palavra de Yahweh tinha dito, como Ele falou por meio de Elias. ^v16
 
-**17** E depois destas coisas sucedeu que adoeceu o filho desta mulher, dona da casa; e a sua doença se agravou muito, até que nele nenhum fôlego ficou. ^v17
+**17** Depois dessas coisas, o filho da mulher, a dona da casa, ficou doente. Sua doença era tão severa que não havia mais fôlego restando nele. ^v17
 
-**18** Então ela disse a Elias: Que tenho eu contigo, homem de Deus? vieste tu a mim para trazeres à memória a minha iniqüidade, e matares a meu filho? ^v18
+**18** "Então a mãe dele disse a Elias: ""O que tens contra mim, homem de Deus? Vieste aqui para me lembrar do meu pecado e matar meu filho?""" ^v18
 
-**19** E ele disse: Dá-me o teu filho. E ele o tomou do seu regaço, e o levou para cima, ao quarto, onde ele mesmo habitava, e o deitou em sua cama, ^v19
+**19** "Então Elias respondeu-lhe: ""Dá-me teu filho"". Ele pegou o menino dos braços dela e o carregou subindo até o quarto onde ele ficava e o deitou na sua cama." ^v19
 
-**20** E clamou ao Senhor, e disse: Ó Senhor meu Deus, também até a esta viúva, com quem me hospedo, afligiste, matando-lhe o filho? ^v20
+**20** "Elias clamou a Yahweh, dizendo: ""Yahweh, meu Deus, Tu trouxeste desastre até mesmo para esta viúva que me hospedou, matando seu filho?""" ^v20
 
-**21** Então se estendeu sobre o menino três vezes, e clamou ao Senhor, e disse: Ó Senhor meu Deus, rogo-te que a alma deste menino torne a entrar nele. ^v21
+**21** "Então Elias deitou-se sobre o menino três vezes; ele clamou a Yahweh e disse: ""Yahweh, meu Deus, eu Te imploro, por favor, que a vida deste menino retorne a ele""." ^v21
 
-**22** E o Senhor ouviu a voz de Elias; e a alma do menino tornou a entrar nele, e reviveu. ^v22
+**22** Yahweh ouviu a voz de Elias; a vida do menino retornou, e ele reviveu. ^v22
 
-**23** E Elias tomou o menino, e o trouxe do quarto à casa, e o deu à sua mãe; e disse Elias: Vês aí, teu filho vive. ^v23
+**23** "Elias tomou a criança e desceu do seu quarto trazendo-a para dentro da casa, entregou o menino à sua mãe e disse: ""Vê, teu filho está vivo""." ^v23
 
-**24** Então a mulher disse a Elias: Nisto conheço agora que tu és homem de Deus, e que a palavra do Senhor na tua boca é verdade. ^v24
+**24** "A mulher disse a Elias: ""Agora eu sei que és um homem de Deus e que a palavra de Yahweh em tua boca é verdadeira""." ^v24

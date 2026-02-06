@@ -1,61 +1,60 @@
 ---
-Livro: "[[1 Crônicas|1 Crônicas]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/1 Crônicas|1 Crônicas]]"
+tags: [biblia]
 ---
 
 # 1 Crônicas 17
 
-**1** Sucedeu, pois, que, morando Davi já em sua casa, disse ao profeta Natã: Eis que moro em casa de cedro, mas a arca da aliança do SENHOR está debaixo de cortinas. ^v1
+**1** "Aconteceu que, após o rei ter se estabelecido em sua casa, ele disse ao profeta Natã: ""Olha, eu estou morando em uma casa de cedro, mas a Arca da Aliança de Yahweh está sob uma tenda""." ^v1
 
-**2** Então Natã disse a Davi: Tudo quanto tens no teu coração faze, porque Deus é contigo. ^v2
+**2** "Então, Natã disse a Davi: ""Vai e faz o que está em teu coração, pois Deus é contigo""." ^v2
 
-**3** Mas sucedeu, na mesma noite, que a palavra de Deus veio a Natã, dizendo: ^v3
+**3** Mas, naquela mesma noite, a palavra de Deus veio a Natã, dizendo: ^v3
 
-**4** Vai, e dize a Davi meu servo: Assim diz o Senhor: Tu não me edificarás uma casa para eu morar; ^v4
+**4** """Vai e diz a Meu servo Davi: 'Assim diz Yahweh: Tu não construirás uma casa para Eu morar," ^v4
 
-**5** Porque em casa nenhuma morei, desde o dia em que fiz subir a Israel até ao dia de hoje; mas fui de tenda em tenda, e de tabernáculo em tabernáculo. ^v5
+**5** pois Eu não morei em casa alguma desde o dia em que tirei Israel do Egito até o dia de hoje. Em vez disso, tenho morado em uma tenda, um tabernáculo, em vários lugares. ^v5
 
-**6** Por todas as partes por onde andei com todo o Israel, porventura falei alguma palavra a algum dos juízes de Israel, a quem ordenei que apascentasse o meu povo, dizendo: Por que não me edificais uma casa de cedro? ^v6
+**6** "Em todos os lugares para os quais Me mudei, entre todo o Israel, porventura, falei alguma palavra aos líderes de Israel que designei para pastorear o Meu povo, dizendo: 'Por que não Me edificaste uma casa de cedro?""'." ^v6
 
-**7** Agora, pois, assim dirás a meu servo Davi: Assim diz o Senhor dos Exércitos: Eu te tirei do curral, de detrás das ovelhas, para que fosses chefe do meu povo Israel. ^v7
+**7** "Agora, pois, diz a Meu servo Davi: 'Assim diz Yahweh dos Exércitos: ""Eu te tirei da pastagem, de andar atrás das ovelhas, para que fosses governador do Meu povo Israel." ^v7
 
-**8** E estive contigo por toda a parte, por onde foste, e de diante de ti exterminei todos os teus inimigos, e te fiz um nome como o nome dos grandes que estão na terra, ^v8
+**8** Eu tenho estado contigo por onde quer que foste e tenho eliminado todos os teus inimigos de diante de ti, e farei teu nome tão grande quanto o nome dos maiores líderes na Terra; ^v8
 
-**9** E ordenarei um lugar para o meu povo Israel, e o plantarei, para que habite no seu lugar, e nunca mais seja removido de uma para outra parte; e nunca mais os filhos da perversidade o debilitarão como dantes, ^v9
+**9** Eu designarei um lugar para Meu povo Israel e o plantarei lá para que possam viver em seu próprio lugar e não sejam mais perturbados; não serão mais oprimidos por perversos, como antes, ^v9
 
-**10** E desde os dias em que ordenei juízes sobre o meu povo Israel. Assim abaterei a todos os teus inimigos; também te faço saber que o Senhor te edificará uma casa. ^v10
+**10** desde os dias em que ordenei juízes sobre o Meu povo Israel. Então, Eu subjugarei todos os teus inimigos; também te digo, que Eu, Yahweh, edificarei uma casa para ti. ^v10
 
-**11** E há de ser que, quando forem cumpridos os teus dias, para ires a teus pais, suscitarei a tua descendência depois de ti, um dos teus filhos, e estabelecerei o seu reino. ^v11
+**11** Quando teus dias forem cumpridos para ires a teus pais, suscitarei um descendente depois de ti, um dos teus filhos, e Eu estabelecerei o seu reino; ^v11
 
-**12** Este me edificará casa; e eu confirmarei o seu trono para sempre. ^v12
+**12** ele construirá uma casa para Mim e Eu estabelecerei o trono dele para sempre. ^v12
 
-**13** Eu lhe serei por pai, e ele me será por filho; e a minha benignidade não retirarei dele, como a tirei daquele, que foi antes de ti. ^v13
+**13** Eu lhe serei por Pai e ele será Meu filho; não retirarei dele Minha misericórdia, como a retirei de Saul, que governou antes de ti; ^v13
 
-**14** Mas o confirmarei na minha casa e no meu reino para sempre, e o seu trono será firme para sempre. ^v14
+**14** "Eu o confirmarei na Minha casa em Meu reino para sempre, seu trono será estabelecido para sempre""'." ^v14
 
-**15** Conforme todas estas palavras, e conforme toda esta visão, assim falou Natã a Davi. ^v15
+**15** Natã falou a Davi, relatou-lhe todas essas palavras e lhe contou toda a visão. ^v15
 
-**16** Então entrou o rei Davi, e ficou perante o Senhor; e disse: Quem sou eu, Senhor Deus? e qual é a minha casa, para que me tenhas trazido até aqui? ^v16
+**16** "Então, o rei Davi entrou, ficou diante de Yahweh e disse: ""Quem sou eu, Deus Yahweh, e quem é minha família para que me tenhas trazido até aqui?" ^v16
 
-**17** E ainda isto, ó Deus, foi pouco aos teus olhos; pelo que falaste da casa de teu servo para tempos distantes; e trataste-me como a um homem ilustre, ó Senhor Deus. ^v17
+**17** Pois isso foi pouco aos Teus olhos, Deus, falar sobre a família de Teu servo sobre um maravilhoso futuro, e me mostrar as gerações futuras, Deus Yahweh. ^v17
 
-**18** Que mais te dirá Davi, acerca da honra feita a teu servo? Porém tu conheces bem a teu servo. ^v18
+**18** Que mais posso eu, Davi, dizer a Ti? Tens honrado Teu servo. Tu tens dado reconhecimento especial ao Teu servo. ^v18
 
-**19** Ó Senhor, por amor de teu servo, e segundo o teu coração, fizeste toda esta grandeza, para fazer notória todas estas grandes coisas. ^v19
+**19** Yahweh, por causa de Teu servo e para cumprir Teu propósito, tens feito grandes coisas para revelar todos os Teus grandes feitos. ^v19
 
-**20** Senhor, ninguém há como tu, e não há Deus fora de ti, segundo tudo quanto ouvimos com os nossos ouvidos. ^v20
+**20** Yahweh, não há ninguém como Tu e não há outro Deus além de Ti, assim como sempre ouvimos. ^v20
 
-**21** E quem há como o teu povo Israel, única gente na terra, a quem Deus foi resgatar para seu povo, fazendo-te nome com coisas grandes e temerosas, lançando as nações de diante do teu povo, que resgataste do Egito? ^v21
+**21** Que nação na Terra é como Teu povo Israel a quem Tu, Deus, resgataste do Egito para ser Teu povo, e engrandeceste Teu próprio Nome pelos grandes e maravilhosos feitos? Tu expulsaste nações diante de Teu povo a quem resgataste do Egito. ^v21
 
-**22** E confirmaste o teu povo Israel para ser teu povo para sempre; e tu, Senhor, lhe foste por Deus. ^v22
+**22** Fizeste Israel, Teu povo para sempre, e Tu, Yahweh, Te tornaste o seu Deus. ^v22
 
-**23** Agora, pois, Senhor, a palavra que falaste de teu servo, e acerca da sua casa, confirma-a para sempre; e faze como falaste. ^v23
+**23** Então, agora, Yahweh, que a promessa que fizeste a respeito de Teu servo e sua família, seja estabelecida para sempre. Faze como falaste. ^v23
 
-**24** Confirme-se e engrandeça-se o teu nome para sempre, e diga-se: O Senhor dos Exércitos é o Deus de Israel, é Deus para Israel; e permaneça firme diante de ti a casa de Davi, teu servo. ^v24
+**24** Que Teu nome seja estabelecido para sempre e seja engrandecido. Assim, o povo dirá: 'Yahweh dos Exércitos é o Deus de Israel', e que a casa de Teu servo Davi permaneça firme diante de Ti. ^v24
 
-**25** Porque tu, Deus meu, revelaste ao ouvido de teu servo que lhe edificarias casa; pelo que o teu servo achou confiança para orar em tua presença. ^v25
+**25** Pois Tu, meu Deus, revelaste a Teu servo que lhe construirás uma casa; por isso encontrei eu, Teu servo, coragem para orar a Ti. ^v25
 
-**26** Agora, pois, Senhor, tu és o mesmo Deus, e falaste este bem acerca de teu servo. ^v26
+**26** Agora, Yahweh, Tu és Deus e tens feito essa boa promessa a Teu servo. ^v26
 
-**27** Agora, pois, foste servido abençoar a casa de teu servo, para que permaneça para sempre diante de ti: porque tu, Senhor, a abençoaste, e ficará abençoada para sempre. ^v27
+**27** "Agora, Te agradaste abençoar a casa de Teu servo, e que possa continuar para sempre diante de Ti; pois Tu, Yahweh, a tens abençoado e será abençoada para sempre""." ^v27

@@ -1,41 +1,40 @@
 ---
-Livro: "[[Levítico|Levítico]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Levítico|Levítico]]"
+tags: [biblia]
 ---
 
 # Levítico 1
 
-**1** E chamou o SENHOR a Moisés, e falou com ele da tenda da congregação, dizendo: ^v1
+**1** Yahweh chamou Moisés e falou a ele na Tenda do Encontro, dizendo: ^v1
 
-**2** Fala aos filhos de Israel, e dize-lhes: Quando algum de vós oferecer oferta ao Senhor, oferecerá a sua oferta de gado, isto é, de gado vacum e de ovelha. ^v2
+**2** """Fala ao povo de Israel e diz: 'Quando alguém dentre vós trouxer uma oferta a Yahweh, trazei como oferta um animal do vosso rebanho, seja ele de pequeno ou grande porte." ^v2
 
-**3** Se a sua oferta for holocausto de gado, oferecerá macho sem defeito; à porta da tenda da congregação a oferecerá, de sua própria vontade, perante o Senhor. ^v3
+**3** Se a oferta dele for holocausto de gado graúdo, ele deverá oferecer um macho sem defeito na entrada da Tenda do Encontro, para que seja aceito diante de Yahweh. ^v3
 
-**4** E porá a sua mão sobre a cabeça do holocausto, para que seja aceito a favor dele, para a sua expiação. ^v4
+**4** Ele porá a mão sobre a cabeça do animal oferecido em holocausto, e então, a oferta será aceita em seu favor, para sua expiação. ^v4
 
-**5** Depois degolará o bezerro perante o Senhor; e os filhos de Arão, os sacerdotes, oferecerão o sangue, e espargirão o sangue em redor sobre o altar que está diante da porta da tenda da congregação. ^v5
+**5** Ele sacrificará o novilho diante de Yahweh. Os sacerdotes, filhos de Arão, apresentarão o sangue e o aspergirão sobre o altar na entrada da Tenda do Encontro. ^v5
 
-**6** Então esfolará o holocausto, e o partirá nos seus pedaços. ^v6
+**6** Então ele esfolará o holocausto e o cortará em pedaços. ^v6
 
-**7** E os filhos de Arão, o sacerdote, porão fogo sobre o altar, pondo em ordem a lenha sobre o fogo. ^v7
+**7** E os filhos de Arão, o sacerdote, colocarão fogo no altar e lenha para o fogo. ^v7
 
-**8** Também os filhos de Arão, os sacerdotes, porão em ordem os pedaços, a cabeça e o redenho sobre a lenha que está no fogo em cima do altar; ^v8
+**8** Os sacerdotes, filhos de Arão, colocarão em ordem os pedaços, a cabeça e a gordura sobre a lenha que está no fogo do altar. ^v8
 
-**9** Porém a sua fressura e as suas pernas lavar-se-ão com água; e o sacerdote tudo isso queimará sobre o altar; holocausto é, oferta queimada, de cheiro suave ao Senhor. ^v9
+**9** Mas as vísceras e as pernas, as lavarão com água. E então, o sacerdote queimará tudo no altar como holocausto. Isso produzirá um aroma agradável para Mim; será uma oferta queimada para Mim. ^v9
 
-**10** E se a sua oferta for de gado miúdo, de ovelhas ou de cabras, para holocausto, oferecerá macho sem defeito. ^v10
+**10** Se a oferta for holocausto de gado miúdo, de cordeiro ou de cabrito, ele oferecerá um macho sem defeito. ^v10
 
-**11** E o degolará ao lado do altar que dá para o norte, perante o Senhor; e os filhos de Arão, os sacerdotes, espargirão o seu sangue em redor sobre o altar. ^v11
+**11** Ele o matará do lado norte do altar diante de Yahweh. Os sacerdotes, filhos de Arão, aspergirão o sangue por todos os lados do altar. ^v11
 
-**12** Depois o partirá nos seus pedaços, como também a sua cabeça e o seu redenho; e o sacerdote os porá em ordem sobre a lenha que está no fogo sobre o altar; ^v12
+**12** Então, ele o cortará em pedaços, juntamente com a cabeça e a gordura, e o sacerdote porá os pedaços em ordem sobre lenha que está no fogo sobre o altar; ^v12
 
-**13** Porém a fressura e as pernas lavar-se-ão com água; e o sacerdote tudo oferecerá, e o queimará sobre o altar; holocausto é, oferta queimada, de cheiro suave ao Senhor. ^v13
+**13** mas as vísceras e as pernas serão lavadas com água. Então o sacerdote oferecerá tudo isso e queimará no altar. Isso é um holocausto, e produzirá um aroma agradável a Yahweh; será uma oferta feita para Ele pelo fogo. ^v13
 
-**14** E se a sua oferta ao Senhor for holocausto de aves, oferecerá a sua oferta de rolas ou de pombinhos; ^v14
+**14** Se a oferta a Yahweh for holocausto de aves, então trará como oferta rolinhas ou pombinhas. ^v14
 
-**15** E o sacerdote a oferecerá sobre o altar, e tirar-lhe-á a cabeça, e a queimará sobre o altar; e o seu sangue será espremido na parede do altar; ^v15
+**15** O sacerdote a trará sobre o altar, destroncará a cabeça da ave e a queimará sobre o altar. Então ele fará o sangue escorrer ao lado do altar. ^v15
 
-**16** E o seu papo com as suas penas tirará e o lançará junto ao altar, para o lado do oriente, no lugar da cinza; ^v16
+**16** Ele removerá o papo e as penas, e lançará sobre o lugar das cinzas, do lado leste do altar. ^v16
 
-**17** E fendê-la-á junto às suas asas, porém não a partirá; e o sacerdote a queimará em cima do altar sobre a lenha que está no fogo; holocausto é, oferta queimada de cheiro suave ao Senhor. ^v17
+**17** Ele a cortará pelas asas, mas não a dividirá em duas partes. Então o sacerdote a queimará sobre o altar, sobre a lenha que está no fogo. Isso será um holocausto, e produzirá um aroma agradável para Yahweh; será uma oferta feita para Ele pelo fogo. ^v17

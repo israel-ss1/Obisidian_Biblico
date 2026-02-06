@@ -1,33 +1,32 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Isaías|Isaías]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Isaías|Isaías]]"
+tags: [biblia]
 ---
 
 # Isaías 27
 
-**1** Naquele dia o SENHOR castigará com a sua dura espada, grande e forte, o leviatã, serpente veloz, e o leviatã, a serpente tortuosa, e matará o dragão, que está no mar. ^v1
+**1** Naquele dia, Yahweh, com Sua espada grande, forte e resistente, punirá o Leviatã, a serpente fugitiva, o Leviatã, a serpente tortuosa e matará o monstro, o dragão do mar. ^v1
 
-**2** Naquele dia haverá uma vinha de vinho tinto; cantai-lhe. ^v2
+**2** Naquele dia, cantai sobre a videira. ^v2
 
-**3** Eu, o Senhor, a guardo, e cada momento a regarei; para que ninguém lhe faça dano, de noite e de dia a guardarei. ^v3
+**3** """Eu, Yahweh, sou Seu protetor; Eu a rego continuamente. Portanto, ninguém a danifique, pois Eu a vigio noite e dia." ^v3
 
-**4** Não há indignação em mim. Quem me poria sarças e espinheiros diante de mim na guerra? Eu iria contra eles e juntamente os queimaria. ^v4
+**4** Eu não estou irado. Ó, se na batalha houver tão somente espinhos e abrolhos, marcharei contra eles; Eu os queimarei todos juntos, ^v4
 
-**5** Ou que se apodere da minha força, e faça paz comigo; sim, que faça paz comigo. ^v5
+**5** a menos que eles busquem Minha proteção e façam paz Comigo. Que eles façam paz Comigo. ^v5
 
-**6** Dias virão em que Jacó lançará raízes, e florescerá e brotará Israel, e encherão de fruto a face do mundo. ^v6
+**6** "No dia vindouro, Jacó lançará raízes; Israel florescerá e brotará, enchendo de frutos toda a terra""." ^v6
 
-**7** Feriu-o como feriu aos que o feriram? Ou matou-o, assim como matou aos que foram mortos por ele? ^v7
+**7** Porventura, Yahweh já atacou Israel do modo como feriu as nações que lhe atacaram? Foram os israelitas mortos como no massacre dessas nações, que foram mortas por eles? ^v7
 
-**8** Com medida contendeste com ela, quando a rejeitaste, quando a tirou com o seu vento forte, no tempo do vento leste. ^v8
+**8** "Na medida exata, Tu os contestaste, enviando Israel embora; Tu os expulsaste com Teu impetuoso vento leste. [Nota: Ao invés de ""Na medida exata"", muitas versões modernas têm uma ideia similar de ""Ao afastá-los""]." ^v8
 
-**9** Por isso se expiará a iniqüidade de Jacó, e este será todo o fruto de se haver tirado seu pecado; quando ele fizer a todas as pedras do altar como pedras de cal feitas em pedaços, então os bosques e as imagens não poderão ficar em pé. ^v9
+**9** Desta maneira, a iniquidade de Jacó será expiada e este será o fruto da remoção do seu pecado: quando Ele fizer todas as pedras do altar como pedaços de pedras de cal, nenhum poste de Aserá e nenhum altar de incenso permanecerão de pé. ^v9
 
-**10** Porque a cidade fortificada ficará solitária, será uma habitação rejeitada e abandonada como um deserto; ali pastarão os bezerros, e ali se deitarão, e devorarão os seus ramos. ^v10
+**10** Pois a cidade fortificada está desolada, a habitação está deserta e abandonada como o deserto. Ali, o bezerro comerá; ali, ele se deitará e consumirá os seus ramos. ^v10
 
-**11** Quando os seus ramos se secarem, serão quebrados, e vindo as mulheres, os acenderão, porque este povo não é povo de entendimento, assim aquele que o fez não se compadecerá dele, e aquele que o formou não lhe mostrará nenhum favor. ^v11
+**11** Os galhos se quebrarão quando estiverem secos. Mulheres virão e farão fogo com eles, porque não é um povo com entendimento. Portanto, seu Criador não Se compadecerá; Aquele que os fez não terá misericórdia deles. ^v11
 
-**12** E será naquele dia que o Senhor debulhará seus cereais desde as correntes do rio, até ao rio do Egito; e vós, ó filhos de Israel, sereis colhidos um a um. ^v12
+**12** E virá o dia em que Yahweh debulhará as suas espigas desde a correnteza do rio Eufrates até o ribeiro do Egito; e vós, povo de Israel, sereis colhidos um por um. ^v12
 
-**13** E será naquele dia que se tocará uma grande trombeta, e os que andavam perdidos pela terra da Assíria, e os que foram desterrados para a terra do Egito, tornarão a vir, e adorarão ao Senhor no monte santo em Jerusalém. ^v13
+**13** Naquele dia, uma grande trombeta tocará; os que estiverem perecendo na terra da Assíria e os exilados na terra do Egito virão e adorarão Yahweh no monte santo em Jerusalém. ^v13

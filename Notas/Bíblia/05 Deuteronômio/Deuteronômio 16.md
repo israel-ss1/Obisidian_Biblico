@@ -1,51 +1,50 @@
 ---
-Livro: "[[Deuteronômio|Deuteronômio]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Deuteronômio|Deuteronômio]]"
+tags: [biblia]
 ---
 
 # Deuteronômio 16
 
-**1** Guarda o mês de Abibe, e celebra a páscoa ao SENHOR teu Deus; porque no mês de Abibe o SENHOR teu Deus te tirou do Egito, de noite. ^v1
+**1** Observai o mês de Abibe, e celebrai a Páscoa para Yahweh vosso Deus, pois, no mês de Abibe, Yahweh, vosso Deus, vos tirou do Egito, durante a noite. ^v1
 
-**2** Então sacrificarás a páscoa ao Senhor teu Deus, das ovelhas e das vacas, no lugar que o Senhor escolher para ali fazer habitar o seu nome. ^v2
+**2** Oferecei sacrifíicos da Páscoa para Yahweh, vosso Deus, com alguns do rebanho de ovelhas e vacas no lugar que Yahweh escolherá como Seu Santuário. ^v2
 
-**3** Nela não comerás levedado; sete dias nela comerás pães ázimos, pão de aflição (porquanto apressadamente saíste da terra do Egito), para que te lembres do dia da tua saída da terra do Egito, todos os dias da tua vida. ^v3
+**3** Vós comereis pão sem fermento com o sacrifício; por sete dias, vós comereis pão sem fermento com o sacrifício, o pão da aflição; pois saíste com pressa da terra do Egito. Fazei isto todos os dias das vossas vidas para lembrardes do dia em que saíste da terra do Egito. ^v3
 
-**4** Levedado não aparecerá contigo por sete dias em todos os teus termos; também da carne que matares à tarde, no primeiro dia, nada ficará até à manhã. ^v4
+**4** Nenhum fermento deve ser encontrado entre vós, dentro de vossas fronteiras, durante sete dias; e nenhuma carne que vós sacrificardes ao anoitecer do primeiro dia deverá permanecer até a manhã seguinte. ^v4
 
-**5** Não poderás sacrificar a páscoa em nenhuma das tuas portas que te dá o Senhor teu Deus; ^v5
+**5** Vós não sacrificareis a Páscoa dentro dos portões da cidade que Yahweh, vosso Deus, vos dá. ^v5
 
-**6** Senão no lugar que escolher o Senhor teu Deus, para fazer habitar o seu nome, ali sacrificarás a páscoa à tarde, ao pôr do sol, ao tempo determinado da tua saída do Egito. ^v6
+**6** Ao invés disto, sacrificai no lugar que Yahweh, vosso Deus, escolher como Seu Santuário. Nele, vós apresentareis o sacrifício da Páscoa à noite, no pôr do Sol, na época do ano em que saístes do Egito. ^v6
 
-**7** Então a cozerás, e comerás no lugar que escolher o Senhor teu Deus; depois voltarás pela manhã, e irás às tuas tendas. ^v7
+**7** Vós a assareis e a comereis no lugar que Yahweh, vosso Deus, escolher; na manhã, vós ireis para as vossas tendas. ^v7
 
-**8** Seis dias comerás pães ázimos e no sétimo dia é solenidade ao Senhor teu Deus; nenhum trabalho farás. ^v8
+**8** Por seis dias, vós comereis pão sem fermento; no sétimo dia, haverá uma assembleia solene para Yahweh, vosso Deus. Neste dia não trabalhareis. ^v8
 
-**9** Sete semanas contarás; desde que a foice começar na seara iniciarás a contar as sete semanas. ^v9
+**9** Vós contareis sete semanas para vós mesmos; do tempo que começardes a colocar a foice na plantação, vós contareis sete semanas. ^v9
 
-**10** Depois celebrarás a festa das semanas ao Senhor teu Deus; o que deres será oferta voluntária da tua mão, segundo o Senhor teu Deus te houver abençoado. ^v10
+**10** Vós guardareis a Festa das Semanas para Yahweh, vosso Deus, contribuindo com a oferta voluntária da vossa mão, de acordo com o que Yahweh, vosso Deus, vos abençoou. ^v10
 
-**11** E te alegrarás perante o Senhor teu Deus, tu, e teu filho, e tua filha, e o teu servo, e a tua serva, e o levita que está dentro das tuas portas, e o estrangeiro, e o órfão, e a viúva, que estão no meio de ti, no lugar que o Senhor teu Deus escolher para ali fazer habitar o seu nome. ^v11
+**11** Vós vos regozijareis perante Yahweh, vosso Deus, vós, vosso filho, vossa filha, vosso servo, vossa serva, o levita que está dentro dos portões da vossa cidade, o estrangeiro, o orfão e a viúva que estão entre vós, no lugar que Yahweh, vosso Deus, escolher para Seu santuário. ^v11
 
-**12** E lembrar-te-ás de que foste servo no Egito; e guardarás estes estatutos, e os cumprirás. ^v12
+**12** Vós vos lembrareis que éreis escravos no Egito; observareis e seguireis esses estatutos. ^v12
 
-**13** A festa dos tabernáculos celebrarás sete dias, quando tiveres colhido da tua eira e do teu lagar. ^v13
+**13** Guardareis a Festa dos Tabernáculos por sete dias, depois que colherdes da plantação da vossa separação de grãos e das vossas uvas pisoteadas. ^v13
 
-**14** E, na tua festa, alegrar-te-ás, tu, e teu filho, e tua filha, e o teu servo, e a tua serva, e o levita, e o estrangeiro, e o órfão, e a viúva, que estão dentro das tuas portas. ^v14
+**14** Regozijareis durante a Festa, vós, vosso filho, vossa filha, vosso servo, vossa serva, o levita, o estrangeiro, o orfão e a viúva que estão dentro dos vossos portões. ^v14
 
-**15** Sete dias celebrarás a festa ao Senhor teu Deus, no lugar que o Senhor escolher; porque o Senhor teu Deus te há de abençoar em toda a tua colheita, e em todo o trabalho das tuas mãos; por isso certamente te alegrarás. ^v15
+**15** Por sete dias, observareis a Festa para Yahweh, vosso Deus, no lugar que Yahweh escolher, porque Yahweh, vosso Deus, vos abençoará em toda vossa colheita e em todo o trabalho de vossas mãos; e vos alegrareis. ^v15
 
-**16** Três vezes no ano todo o homem entre ti aparecerá perante o Senhor teu Deus, no lugar que escolher, na festa dos pães ázimos, e na festa das semanas, e na festa dos tabernáculos; porém não aparecerá vazio perante o Senhor; ^v16
+**16** Três vezes por ano, todos os vossos homens se apresentarão perante Yahweh, vosso Deus, no lugar que Ele escolher: na Festa do Pão sem Fermento, na Festa das Semanas e na Festa dosTabernáculos; e eles não aparecerão diante de Yahweh de mãos vazias; ^v16
 
-**17** Cada um, conforme ao dom da sua mão, conforme a bênção do Senhor teu Deus, que lhe tiver dado. ^v17
+**17** ao invés disso, todo homem ofertará como puder, para conhecer a benção que Yahweh, vosso Deus, vos dá. ^v17
 
-**18** Juízes e oficiais porás em todas as tuas cidades que o Senhor teu Deus te der entre as tuas tribos, para que julguem o povo com juízo de justiça. ^v18
+**18** Escolhereis juízes e oficiais entre todas as cidades que Yahweh, vosso Deus, vos dá; eles serão escolhidos de cada uma das vossas tribos, e devem julgar as pessoas com um julgamento justo. ^v18
 
-**19** Não torcerás o juízo, não farás acepção de pessoas, nem receberás peitas; porquanto a peita cega os olhos dos sábios, e perverte as palavras dos justos. ^v19
+**19** Não pervertereis a justiça; não mostrareis parcialidade, nem recebereis suborno, pois o suborno cega os olhos dos sábios e perverte as palavras do justo. ^v19
 
-**20** A justiça, somente a justiça seguirás; para que vivas, e possuas em herança a terra que te dará o Senhor teu Deus. ^v20
+**20** Vós seguireis a justiça, somente a justiça, para viverdes e tomardes como herança a terra que Yahweh, vosso Deus, vos dá. ^v20
 
-**21** Não plantarás nenhuma árvore junto ao altar do Senhor teu Deus, que fizeres para ti. ^v21
+**21** Não levantareis para vós mesmos nenhum tipo de poste-ídolo, a não ser o altar de Yahweh, vosso Deus, que fareis para vós mesmos. ^v21
 
-**22** Nem levantarás imagem, a qual o Senhor teu Deus odeia. ^v22
+**22** Nem mesmo levantareis para vós mesmos qualquer pilar de pedra sagrado, que Yahweh, vosso Deus, odeia. ^v22

@@ -1,57 +1,56 @@
 ---
-Livro: "[[Deuteronômio|Deuteronômio]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Deuteronômio|Deuteronômio]]"
+tags: [biblia]
 ---
 
 # Deuteronômio 23
 
-**1** Aquele a quem forem trilhados os testículos, ou cortado o membro viril, não entrará na congregação do SENHOR. ^v1
+**1** Qualquer homem cujas partes íntimas foram esmagadas ou cortadas não entrará na assembleia de Yahweh. ^v1
 
-**2** Nenhum bastardo entrará na congregação do Senhor; nem ainda a sua décima geração entrará na congregação do Senhor. ^v2
+**2** Nenhuma criança ilegítima pode pertencer à assembleia de Yahweh; nem mesmo até a décima geração de seus descendentes, nenhum deles pode pertencer à assembleia de Yahweh. ^v2
 
-**3** Nenhum amonita nem moabita entrará na congregação do Senhor; nem ainda a sua décima geração entrará na congregação do Senhor eternamente. ^v3
+**3** Nenhum amonita ou moabita deve pertencer à assembleia de Yahweh; nem mesmo até a décima geração de seus descendentes, nenhum deles pode pertencer à assembleia de Yahweh. ^v3
 
-**4** Porquanto não saíram com pão e água, a receber-vos no caminho, quando saíeis do Egito; e porquanto alugaram contra ti a Balaão, filho de Beor, de Petor, de mesopotâmia, para te amaldiçoar. ^v4
+**4** Isso porque eles não foram ao vosso encontro com pão e água no caminho quando saístes do Egito, e porque contrataram contra vós Balaão, filho de Beor, de Petor, na Mesopotâmia, para vos amaldiçoar. ^v4
 
-**5** Porém o Senhor teu Deus não quis ouvir Balaão; antes o Senhor teu Deus trocou em bênção a maldição; porquanto o Senhor teu Deus te amava. ^v5
+**5** Mas Yahweh, vosso Deus, não ouviu a Balaão; ao contrário, Yahweh, vosso Deus, transformou a maldição em benção para vós, porque Yahweh, vosso Deus, vos ama. ^v5
 
-**6** Não lhes procurarás nem paz nem bem em todos os teus dias para sempre. ^v6
+**6** Não procureis a paz ou prosperidade deles, durante todos os vossos dias. ^v6
 
-**7** Não abominarás o edomeu, pois é teu irmão; nem abominarás o egípcio, pois estrangeiro foste na sua terra. ^v7
+**7** Tu não odiarás um edomita, pois ele é teu irmão; nem odiarás um egípcio, porque foste estrangeiro em sua terra. ^v7
 
-**8** Os filhos que lhes nascerem na terceira geração, cada um deles entrará na congregação do Senhor. ^v8
+**8** Os descendentes deles da terceira geração poderão pertencer à assembleia de Yahweh. ^v8
 
-**9** Quando o exército sair contra os teus inimigos, então te guardarás de toda a coisa má. ^v9
+**9** Quando marchardes, como um exército, contra vossos inimigos, então, guardareis de toda coisa má. ^v9
 
-**10** Quando entre ti houver alguém que, por algum acidente noturno, não estiver limpo, sairá fora do arraial; não entrará no meio dele. ^v10
+**10** Se estiver entre vós um homem impuro por causa de algo que lhe aconteceu pela noite, então, ele sairá do acampamento do exército; ele não poderá voltar ao acampamento. ^v10
 
-**11** Porém será que, declinando a tarde, se lavará em água; e, em se pondo o sol, entrará no meio do arraial. ^v11
+**11** Quando entardecer, ele se banhará com água; ao pôr do sol, ele voltará para o acampamento. ^v11
 
-**12** Também terás um lugar fora do arraial, para onde sairás. ^v12
+**12** Terás um lugar fora do acampamento para o qual possas ir; ^v12
 
-**13** E entre as tuas armas terás uma pá; e será que, quando estiveres assentado, fora, então com ela cavarás e, virando-te, cobrirás o que defecaste. ^v13
+**13** e terás, entre as tuas ferramentas, uma pá para cavar; quando abaixares para te aliviar, cavarás e, então, colocarás de volta a terra para cobrir teus excrementos. ^v13
 
-**14** Porquanto o Senhor teu Deus anda no meio de teu arraial, para te livrar, e entregar a ti os teus inimigos; pelo que o teu arraial será santo, para que ele não veja coisa feia em ti, e se aparte de ti. ^v14
+**14** Porque Yahweh, teu Deus, anda no meio do teu acampamento para te dar vitória e entregar a ti os teus inimigos. Portanto, teu acampamento será santo, para que Ele não veja nenhuma coisa impura entre ti e não Se afaste de ti. ^v14
 
-**15** Não entregarás a seu senhor o servo que, tendo fugido dele, se acolher a ti; ^v15
+**15** Não devolverás para teu senhor um escravo que escapou dele. ^v15
 
-**16** Contigo ficará, no meio de ti, no lugar que escolher em alguma das tuas portas, onde lhe agradar; não o oprimirás. ^v16
+**16** Que ele viva contigo, em qualquer cidade que ele escolher. Não o oprimas. ^v16
 
-**17** Não haverá prostituta dentre as filhas de Israel; nem haverá sodomita dentre os filhos de Israel. ^v17
+**17** Não haverá prostitutas cultuais entre as filhas de Israel, nem haverá prostitutos ultuais entre aos filhos de Israel. ^v17
 
-**18** Não trarás o salário da prostituta nem preço de um sodomita à casa do Senhor teu Deus por qualquer voto; porque ambos são igualmente abominação ao Senhor teu Deus. ^v18
+**18** Não trareis os salários de uma prostituta, ou o salário de um cão para a casa de Yahweh, vosso Deus, por nenhum voto; pois ambos são abominações para Yahweh, vosso Deus. ^v18
 
-**19** A teu irmão não emprestarás com juros, nem dinheiro, nem comida, nem qualquer coisa que se empreste com juros. ^v19
+**19** Não emprestes com juros ao teu companheiro israelita — juros sobre dinheiro, comida, ou qualquer coisa que é emprestada com juros. ^v19
 
-**20** Ao estranho emprestarás com juros, porém a teu irmão não emprestarás com juros; para que o Senhor teu Deus te abençoe em tudo que puseres a tua mão, na terra a qual vais a possuir. ^v20
+**20** Para o estrangeiro, poderás emprestar com juros; mas, para teu companheiro israelita, não emprestarás com juros, para que Yahweh, teu Deus, te abençoe em tudo que colocares tua mão, na terra que vais possuir. ^v20
 
-**21** Quando fizeres algum voto ao Senhor teu Deus, não tardarás em cumpri-lo; porque o Senhor teu Deus certamente o requererá de ti, e em ti haverá pecado. ^v21
+**21** Quando fizeres um voto para Yahweh, teu Deus, não demores em cumpri-lo, pois Yahweh, teu Deus, certamente requererá de ti; será pecado se não o cumprires. ^v21
 
-**22** Porém, abstendo-te de votar, não haverá pecado em ti. ^v22
+**22** Mas, se te abstiveres de fazer um voto, não será pecado. ^v22
 
-**23** O que saiu dos teus lábios guardarás, e cumprirás, tal como voluntariamente votaste ao Senhor teu Deus, declarando-o pela tua boca. ^v23
+**23** Aquilo que sair de teus lábios, observarás e cumprirás de acordo com o que prometeres a Yahweh, teu Deus, qualquer coisa que tenhas livremente prometido com tua boca. ^v23
 
-**24** Quando entrares na vinha do teu próximo, comerás uvas conforme ao teu desejo até te fartares, porém não as porás no teu cesto. ^v24
+**24** Quando fores à vinha de teu vizinho,comas quantas uvas quiseres, mas não coloques nenhuma no teu cesto. ^v24
 
-**25** Quando entrares na seara do teu próximo, com a tua mão arrancarás as espigas; porém não porás a foice na seara do teu próximo. ^v25
+**25** Quando fores à seara de teu vizinho, podes arrancar as espigas com tua mão, mas não uses foice na seara dele. ^v25

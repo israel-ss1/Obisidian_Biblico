@@ -1,27 +1,24 @@
 ---
-Livro: "[[Salmos|Salmos]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Salmos|Salmos]]"
+tags: [biblia]
 ---
 
 # Salmos 6
 
-**1** Senhor, não me repreendas na tua ira, nem me castigues no teu furor. ^v1
+**2** Tem misericórdia de mim, Yahweh, pois sou frágil. Cura-me, Yahweh, pois meus ossos estão tremendo. ^v2
 
-**2** Tem misericórdia de mim, Senhor, porque sou fraco; sara-me, Senhor, porque os meus ossos estão perturbados. ^v2
+**3** Minha alma também está muito perturbada. Yahweh, até quando isso vai continuar? ^v3
 
-**3** Até a minha alma está perturbada; mas tu, Senhor, até quando?. ^v3
+**4** Retorna, Yahweh, e resgata-me! Salva-me por causa do Teu amor leal! ^v4
 
-**4** Volta-te, Senhor, livra a minha alma; salva-me por tua benignidade. ^v4
+**5** Pois, na morte, não há lembrança de Ti. No Sheol, quem Te louvará? ^v5
 
-**5** Porque na morte não há lembrança de ti; no sepulcro quem te louvará? ^v5
+**6** Estou cansado do meu gemido; todas as noites, molho minha cama com lágrimas, lavo o meu leito com elas. ^v6
 
-**6** Já estou cansado do meu gemido, toda a noite faço nadar a minha cama; molho o meu leito com as minhas lágrimas, ^v6
+**7** Meus olhos escurecem de tristeza; eles enfraquecem por causa dos meus adversários. ^v7
 
-**7** Já os meus olhos estão consumidos pela mágoa, e têm-se envelhecido por causa de todos os meus inimigos. ^v7
+**8** Afastai-vos de mim, todos vós que praticais a iniquidade, pois Yahweh tem escutado o som do meu choro. ^v8
 
-**8** Apartai-vos de mim todos os que praticais a iniqüidade; porque o Senhor já ouviu a voz do meu pranto. ^v8
+**9** Yahweh escutou meu apelo por misericórdia; Yahweh aceitou minha oração. ^v9
 
-**9** O Senhor já ouviu a minha súplica; o Senhor aceitará a minha oração. ^v9
-
-**10** Envergonhem-se e perturbem-se todos os meus inimigos; tornem atrás e envergonhem-se num momento. ^v10
+**10** Todos os meus inimigos estão envergonhados e muito atribulados. Eles serão humilhados e se afastarão repentinamente. ^v10

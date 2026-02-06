@@ -1,59 +1,58 @@
 ---
-Livro: "[[Deuteronômio|Deuteronômio]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Deuteronômio|Deuteronômio]]"
+tags: [biblia]
 ---
 
 # Deuteronômio 27
 
-**1** E deram ordem, Moisés e os anciãos, ao povo de Israel, dizendo: Guardai todos estes mandamentos que hoje vos ordeno; ^v1
+**1** "Moisés e os anciãos de Israel ordenaram ao povo e dizendo: ""Guardai todos os mandamentos que hoje eu vos ordeno." ^v1
 
-**2** Será, pois, que, no dia em que passares o Jordão à terra que te der o Senhor teu Deus, levantar-te-ás umas pedras grandes, e as caiarás. ^v2
+**2** No dia em que atravessardes o Jordão para a terra que Yahweh, vosso Deus, vos dá, levantareis algumas pedras grandes e as pintareis com cal. ^v2
 
-**3** E, havendo-o passado, escreverás nelas todas as palavras desta lei, para entrares na terra que te der o Senhor teu Deus, terra que mana leite e mel, como te falou o Senhor Deus de teus pais. ^v3
+**3** Quando atravessardes, escrevereis nelas todas as palavras desta lei; vós entrareis na terra que Yahweh, vosso Deus, vos dá; uma terra de onde flui leite e mel, como Yahweh, Deus de vossos antepassados, vos prometeu. ^v3
 
-**4** Será, pois, que, quando houveres passado o Jordão, levantareis estas pedras, que hoje vos ordeno, no monte Ebal, e as caiarás. ^v4
+**4** Quando atravessardes o Jordão, levantareis estas pedras, que hoje vos ordeno, no monte Ebal, e as pintareis com cal. ^v4
 
-**5** E ali edificarás um altar ao Senhor teu Deus, um altar de pedras; não alçarás instrumento de ferro sobre elas. ^v5
+**5** Lá, construireis um altar para Yahweh, vosso Deus, um altar de pedras. Entretanto, não usareis nenhuma ferramenta para talhar as pedras. ^v5
 
-**6** De pedras brutas edificarás o altar do Senhor teu Deus; e sobre ele oferecerás holocaustos ao Senhor teu Deus. ^v6
+**6** Construireis o altar para Yahweh, vosso Deus, com pedras brutas; oferecereis ali ofertas queimadas para Yahweh, vosso Deus, ^v6
 
-**7** Também sacrificarás ofertas pacíficas, e ali comerás perante o Senhor teu Deus, e te alegrarás. ^v7
+**7** e sacrificareis ofertas pacíficas e comereis ali; vos alegrareis diante de Yahweh, vosso Deus. ^v7
 
-**8** E naquelas pedras escreverás todas as palavras desta lei, exprimindo-as nitidamente. ^v8
+**8** "E escrevereis, nitidamente nas pedras, todas as palavras desta lei""." ^v8
 
-**9** Falou mais Moisés, juntamente com os sacerdotes levitas, a todo o Israel, dizendo: Guarda silêncio e ouve, ó Israel! Hoje vieste a ser povo do Senhor teu Deus. ^v9
+**9** "Moisés e os sacerdotes, os levitas, falaram para todo o Israel, dizendo: ""Fazei silêncio e escutai, Israel: hoje vos tornastes o povo de Yahweh, vosso Deus." ^v9
 
-**10** Portanto obedecerás à voz do Senhor teu Deus, e cumprirás os seus mandamentos e os seus estatutos que hoje te ordeno. ^v10
+**10** "Todavia, vós obedecereis à voz de Yahweh, vosso Deus, e cumprireis Seus mandamentos e estatutos, que hoje vos ordeno""." ^v10
 
-**11** E Moisés deu ordem naquele dia ao povo, dizendo: ^v11
+**11** Moisés ordenou ao povo naquele mesmo dia, dizendo: ^v11
 
-**12** Quando houverdes passado o Jordão, estes estarão sobre o monte Gerizim, para abençoarem o povo: Simeão, e Levi, e Judá, e Issacar, e José, e Benjamim; ^v12
+**12** """Estas tribos ficarão no monte Gerizim para abençoar o povo, depois de passardes pelo Jordão: a tribo de Simeão, Levi, Judá, Isacar, José e Benjamin." ^v12
 
-**13** E estes estarão sobre o monte Ebal para amaldiçoar: Rúben, Gade, e Aser, e Zebulom, Dã e Naftali. ^v13
+**13** Estas são as tribos que estarão no monte Ebal para pronunciar maldições: a tribo de Rúben, Gade, Aser, Zebulon, Dã e Naftali. ^v13
 
-**14** E os levitas testificarão a todo o povo de Israel em alta voz, e dirão: ^v14
+**14** Os levitas responderão e dirão a todos os homens de Israel em alta voz: ^v14
 
-**15** Maldito o homem que fizer imagem de escultura, ou de fundição, abominação ao Senhor, obra da mão do artífice, e a puser em um lugar escondido. E todo o povo, respondendo, dirá: Amém. ^v15
+**15** 'Maldito o homem que esculpir ou fundir imagem. É abominação para Yahweh a obra da mão do artesão que a guarda em lugar escondido'. Então, todo o povo responderá, dizendo: 'Amém!'. ^v15
 
-**16** Maldito aquele que desprezar a seu pai ou a sua mãe. E todo o povo dirá: Amém. ^v16
+**16** 'Maldito o homem que desonrar seu pai ou sua mãe'. Então, todo o povo responderá, dizendo: 'Amém!'. ^v16
 
-**17** Maldito aquele que remover os limites do seu próximo. E todo o povo dirá: Amém. ^v17
+**17** 'Maldito o homem que remover as marcações da terra do seu vizinho'. Então, todo o povo responderá, dizendo: 'Amém!'. ^v17
 
-**18** Maldito aquele que fizer que o cego erre de caminho. E todo o povo dirá: Amém. ^v18
+**18** 'Maldito o homem que fizer o cego desviar-se do caminho'. Então, todo o povo responderá: 'Amém!'. ^v18
 
-**19** Maldito aquele que perverter o direito do estrangeiro, do órfão e da viúva. E todo o povo dirá: Amém. ^v19
+**19** 'Maldito o homem que usar a força para retirar a justiça do estrangeiro, do órfão ou da viúva'. Então, todo o povo responderá: 'Amém!'. ^v19
 
-**20** Maldito aquele que se deitar com a mulher de seu pai, porquanto descobriu a nudez de seu pai. E todo o povo dirá: Amém. ^v20
+**20** 'Maldito o homem que se deitar com a esposa do seu pai, porque profanará os direitos do seu pai'. Então, todo o povo responderá: 'Amém!'. ^v20
 
-**21** Maldito aquele que se deitar com algum animal. E todo o povo dirá: Amém. ^v21
+**21** Maldito o homem que tiver relação sexual com algum animal'. Então, todo o povo responderá: 'Amém!'. ^v21
 
-**22** Maldito aquele que se deitar com sua irmã, filha de seu pai, ou filha de sua mãe. E todo o povo dirá: Amém. ^v22
+**22** 'Maldito o homem que tiver relação sexual com sua irmã, a filha de seu pai ou a filha de sua mãe'. Então, todo o povo responderá: 'Amém!'. ^v22
 
-**23** Maldito aquele que se deitar com sua sogra. E todo o povo dirá: Amém. ^v23
+**23** 'Maldito o homem que dormir com sua sogra'. Então, todo o povo responderá: 'Amém!'. ^v23
 
-**24** Maldito aquele que ferir ao seu próximo em oculto. E todo o povo dirá: Amém. ^v24
+**24** 'Maldito o homem que matar seu vizinho secretamente'. Então, todo o povo responderá: 'Amém!'. ^v24
 
-**25** Maldito aquele que aceitar suborno para ferir uma pessoa inocente. E todo o povo dirá: Amém. ^v25
+**25** 'Maldito o homem que aceitar suborno para matar uma pessoa inocente'. Então, todo o povo responderá: 'Amém!'. ^v25
 
-**26** Maldito aquele que não confirmar as palavras desta lei, não as cumprindo. E todo o povo dirá: Amém. ^v26
+**26** 'Maldito o homem que não confirmar as palavras desta lei, para as cumprir'. Então, todo o povo responderá: 'Amém!'. ^v26

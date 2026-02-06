@@ -1,59 +1,58 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Ezequiel|Ezequiel]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Ezequiel|Ezequiel]]"
+tags: [biblia]
 ---
 
 # Ezequiel 41
 
-**1** Então me levou ao templo, e mediu os pilares, seis côvados de largura de um lado, e seis côvados de largura do outro, que era a largura da tenda. ^v1
+**1** Depois disso, o homem me levou para o lugar santo do templo e mediu os pilares das portas, seis côvados de largura para cada lado. ^v1
 
-**2** E a largura da entrada, dez côvados; e os lados da entrada, cinco côvados de um lado e cinco côvados do outro; também mediu o seu comprimento, de quarenta côvados, e a largura, de vinte côvados. ^v2
+**2** A largura do corredor da entrada era de dez côvados; a parede de cada lado era de cinco côvados de comprimento. Então, o homem mediu as dimensões do santo lugar — quarenta côvados de comprimento e vinte côvados de largura. ^v2
 
-**3** E entrou no interior, e mediu o pilar da entrada, dois côvados, e a entrada, seis côvados, e a largura da entrada, sete côvados. ^v3
+**3** Então, o homem entrou no lugar santo e mediu os pilares da entrada: dois côvados e a entrada era de seis côvados de largura; e a parede media sete côvados de largura. ^v3
 
-**4** Também mediu o seu comprimento, vinte côvados, e a largura, vinte côvados, diante do templo, e disse-me: Este é o Santo dos Santos. ^v4
+**4** "Então, ele mediu o comprimento dos quartos — vinte côvados; e a sua largura — vinte côvados para a frente do muro do templo. Daí, ele me disse: ""Este é o Lugar Santíssimo""." ^v4
 
-**5** E mediu a parede da casa, seis côvados, e a largura das câmaras laterais, quatro côvados, por todo o redor da casa. ^v5
+**5** Então, o homem mediu a parede do templo, que tinha seis côvados de espessura e a largura de cada lado dos quartos, em volta do templo, era de quatro côvados de comprimento. ^v5
 
-**6** E as câmaras laterais, estavam em três andares, câmara sobre câmara, trinta em cada andar, e elas entravam na parede que tocava na casa pelas câmaras laterais em redor, para prenderem nela, e não travavam na parede da casa. ^v6
+**6** As salas laterais estavam em três níveis, uma sala por cima da outra, e trinta salas em cada andar. Havia camadas em volta da parede do templo para apoiar todos os lados, porque não haviam sido colocados suportes na parede da casa. ^v6
 
-**7** E havia maior largura nas câmaras laterais superiores, porque o caracol da casa ia subindo muito alto por todo o redor da casa, por isso que a casa tinha mais largura para cima; e assim da câmara baixa se subia à mais alta pelo meio. ^v7
+**7** As câmaras laterais aumentavam em largura, de andar para andar, de andar em andar ao redor e para cima. Assim, subia do andar inferior até o superior, passando pelo nível do meio. ^v7
 
-**8** E olhei para a altura da casa ao redor; e eram os fundamentos das câmaras laterais da medida de uma cana inteira, seis côvados grandes. ^v8
+**8** Então, vi uma parte elevada em volta do templo, as fundações das salas laterais, que mediam a espessura de seis côvados. ^v8
 
-**9** A grossura da parede das câmaras laterais de fora era de cinco côvados; e o que foi deixado vazio era o lugar das câmaras laterais, que estavam por dentro. ^v9
+**9** A largura externa da parede das salas laterais, era de cinco côvados. Havia um espaço aberto do outro lado desta sala, no templo. ^v9
 
-**10** E entre as câmaras havia a largura de vinte côvados por todo o redor da casa. ^v10
+**10** E as salas mediam vinte côvados de largura, por todo o redor do templo. ^v10
 
-**11** E as entradas das câmaras laterais estavam voltadas para o lugar vazio; uma entrada para o caminho do norte, e outra entrada para o do sul; e a largura do lugar vazio era de cinco côvados em redor. ^v11
+**11** Havia portas nos lados das entradas das salas laterais para uma área aberta, para o lado norte havia uma porta e outra para o lado do sul. A largura desta área aberta era de cinco côvados ao redor. ^v11
 
-**12** Era também o edifício que estava diante do lugar separado, do lado do ocidente, da largura de setenta côvados; e a parede do edifício de cinco côvados de largura em redor, e o seu comprimento era de noventa côvados. ^v12
+**12** O edifício que estava separado, do lado ocidental, tinha setenta côvados de largura. A sua parede media cinco côvados de espessura em todo redor e noventa côvados de comprimento. ^v12
 
-**13** Assim mediu a casa, do comprimento de cem côvados, como também o lugar separado, e o edifício, e as suas paredes, cem côvados de comprimento. ^v13
+**13** Assim, o templo media de cem côvados de comprimento. Os edifícios separados, suas paredes e o pátio mediam cem côvados de comprimento. ^v13
 
-**14** E a largura da frente da casa, e do lugar separado para o oriente, de uma e de outra parte, de cem côvados. ^v14
+**14** A largura da frente oriental do templo, também era de cem côvados. ^v14
 
-**15** Também mediu o comprimento do edifício, diante do lugar separado, que estava por detrás, e as suas galerias de uma e de outra parte, cem côvados, com o templo de dentro e os vestíbulos do átrio. ^v15
+**15** Então, o homem mediu o comprimento do edifício por trás do templo, ao oriente, com suas galerias da cada lado; mediam cem côvados. O templo e o pórtico do átrio, ^v15
 
-**16** Os umbrais e as janelas estreitas, e as galerias em redor nos três andares, defronte do umbral, estavam cobertas de madeira em redor; e isto desde o chão até às janelas; e as janelas estavam cobertas. ^v16
+**16** as paredes interiores e janelas e as galerias ao redor,eram em três níveis, amadeiradas. ^v16
 
-**17** No espaço em cima da porta, e até na casa, no seu interior e na parte de fora, e até toda a parede em redor, por dentro e por fora, tudo por medida. ^v17
+**17** Acima da porta, para o interior do templo e o espaço ao longo das paredes, tinham uma medida pré-determinada. ^v17
 
-**18** E foi feito com querubins e palmeiras, de maneira que cada palmeira estava entre querubim e querubim, e cada querubim tinha dois rostos, ^v18
+**18** Estava decorado de querubins e palmeiras; e havia uma palmeira entre cada querubim, e cada querubim tinha duas faces; ^v18
 
-**19** A saber: um rosto de homem olhava para a palmeira de um lado, e um rosto de leãozinho para a palmeira do outro lado; assim foi feito por toda a casa em redor. ^v19
+**19** a face humana era voltada para a palmeira de um lado, e a face de leão, voltada para a palmeira do outro lado. Era assim em toda a volta do templo. ^v19
 
-**20** Desde o chão até acima da entrada estavam feitos os querubins e as palmeiras, como também pela parede do templo. ^v20
+**20** Desde o chão até em cima da entrada, os querubins e as palmeiras, estavam posicionados no exterior da parede do templo. ^v20
 
-**21** As ombreiras do templo eram quadradas e, no tocante à frente do santuário, a aparência de uma era como a aparência da outra, ^v21
+**21** Os pilares do templo eram quadrados. Sua aparência, era semelhante a de ^v21
 
-**22** O altar de madeira era de três côvados de altura, e o seu comprimento de dois côvados; os seus cantos, o seu comprimento e as suas paredes eram de madeira; e disse-me: Esta é a mesa que está perante a face do Senhor. ^v22
+**22** "um altar de madeira em frente do templo, que tinha três côvados de altura, e dois côvados de comprimento de cada lado. Seus cantos, sua base, e suas paredes eram feitas de madeira. Então, o homem me disse: ""Esta é a mesa que fica diante de Yahweh""." ^v22
 
-**23** E o templo e o santuário, ambos tinham duas portas. ^v23
+**23** Havia portas duplas, para o templo e para o Santíssimo Lugar. ^v23
 
-**24** E as portas tinham duas folhas; duas folhas que viravam; duas para uma porta e duas para a outra. ^v24
+**24** Essas portas tinham dois painéis dobráveis cada, dois painéis para uma porta e dois painéis para a segunda. ^v24
 
-**25** E nelas, isto é, nas portas do templo, foram feitos querubins e palmeiras, como estavam feitos nas paredes, e havia uma trave grossa de madeira na frente do vestíbulo por fora. ^v25
+**25** Esculpidas nelas, nas portas do templo, havia querubins e palmeiras, assim como era a decoração das paredes e havia uma cobertura de madeira, na parte de fora do pórtico da entrada. ^v25
 
-**26** E havia janelas estreitas, e palmeiras, de um e de outro lado, pelos lados do vestíbulo, como também nas câmaras da casa e nas grossas traves. ^v26
+**26** Havia janelas estreitas e palmeiras de cada lado do pórtico, e nos cômodos laterais do templo, como também nas suas soleiras. ^v26

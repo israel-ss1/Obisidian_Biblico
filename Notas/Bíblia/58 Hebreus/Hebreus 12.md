@@ -1,65 +1,64 @@
 ---
-Livro: "[[Hebreus|Hebreus]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Hebreus|Hebreus]]"
+tags: [biblia]
 ---
 
 # Hebreus 12
 
-**1** Portanto nós também, pois que estamos rodeados de uma tão grande nuvem de testemunhas, deixemos todo o embaraço, e o pecado que tão de perto nos rodeia, e corramos com paciência a carreira que nos está proposta, ^v1
+**1** Portanto, uma vez que estamos rodeados por uma tão grande nuvem de testemunhas, rejeitemos todo o peso e o pecado que facilmente nos assedia. Corramos pacientemente a corrida que está diante de nós ^v1
 
-**2** Olhando para Jesus, autor e consumador da fé, o qual, pelo gozo que lhe estava proposto, suportou a cruz, desprezando a afronta, e assentou-se à destra do trono de Deus. ^v2
+**2** e fixemos os olhos em Jesus, o Autor e Consumador da nossa fé. Em troca da alegria que Lhe estava proposta, suportou a cruz, desprezou a vergonha e se assentou à direita do trono de Deus. ^v2
 
-**3** Considerai, pois, aquele que suportou tais contradições dos pecadores contra si mesmo, para que não enfraqueçais, desfalecendo em vossos ânimos. ^v3
+**3** Considerai, pois, Aquele que suportou tal oposição dos pecadores contra Si, para que vós não vos canseis e desanimeis. ^v3
 
-**4** Ainda não resististes até ao sangue, combatendo contra o pecado. ^v4
+**4** Vós ainda não resististes até ao sangue na luta contra o pecado; ^v4
 
-**5** E já vos esquecestes da exortação que argumenta convosco como filhos: Filho meu, não desprezes a correção do Senhor, E não desmaies quando por ele fores repreendido; ^v5
+**5** "e vós esquecestes a exortação, a qual vos foi dirigida como a filhos: ""Meu Filho, não desprezes a correção do Senhor, nem desanimes quando estiveres sendo corrigido por Ele""." ^v5
 
-**6** Porque o Senhor corrige o que ama,E açoita a qualquer que recebe por filho. ^v6
+**6** Porque o Senhor corrige a quem ama e açoita a todo o filho a quem Ele acolhe. ^v6
 
-**7** Se suportais a correção, Deus vos trata como filhos; porque, que filho há a quem o pai não corrija? ^v7
+**7** Suportai o sofrimento como forma de correção; Deus vos trata como filhos, pois qual é o filho a quem o pai não corrige? ^v7
 
-**8** Mas, se estais sem disciplina, da qual todos são feitos participantes, sois então bastardos, e não filhos. ^v8
+**8** Mas, se estais sem correção, da qual todos são participantes, então vós sois filhos ilegítimos e não filhos Dele. ^v8
 
-**9** Além do que, tivemos nossos pais segundo a carne, para nos corrigirem, e nós os reverenciamos; não nos sujeitaremos muito mais ao Pai dos espíritos, para vivermos? ^v9
+**9** Além disso, tínhamos pais segundo a carne, que nos corrigiam e nós os respeitávamos. Não deveríamos mais ainda obedecer ao nosso Pai espiritual e assim viver? ^v9
 
-**10** Porque aqueles, na verdade, por um pouco de tempo, nos corrigiam como bem lhes parecia; mas este, para nosso proveito, para sermos participantes da sua santidade. ^v10
+**10** Por um lado, nossos pais nos corrigiam por alguns dias como lhes parecia certo. Mas, por outro lado, Deus nos corrige para o nosso bem, para que possamos participar da Sua santidade. ^v10
 
-**11** E, na verdade, toda a correção, ao presente, não parece ser de gozo, senão de tristeza, mas depois produz um fruto pacífico de justiça nos exercitados por ela. ^v11
+**11** Toda correção, no momento, não parece motivo de alegria, mas de tristeza. No entanto, mais tarde, produz fruto pacífico de justiça, para aqueles que têm sido por ela exercitados. ^v11
 
-**12** Portanto, tornai a levantar as mãos cansadas, e os joelhos desconjuntados, ^v12
+**12** Portanto, fortalecei as vossas mãos cansadas e os joelhos fracos; ^v12
 
-**13** E fazei veredas direitas para os vossos pés, para que o que manqueja não se desvie inteiramente, antes seja sarado. ^v13
+**13** fazei caminhos retos para os pés, para que todo aquele que é manco não se desvie, pelo contrário, seja curado. ^v13
 
-**14** Segui a paz com todos, e a santificação, sem a qual ninguém verá o Senhor; ^v14
+**14** Segui a paz com todos e a santificação, sem a qual ninguém verá o Senhor. ^v14
 
-**15** Tendo cuidado de que ninguém se prive da graça de Deus, e de que nenhuma raiz de amargura, brotando, vos perturbe, e por ela muitos se contaminem. ^v15
+**15** Cuidado para que ninguém tenha falta da graça de Deus, e que nenhuma raiz de amargura, crescendo, vos perturbe a ponto de contaminar a muitos. ^v15
 
-**16** E ninguém seja devasso, ou profano, como Esaú, que por uma refeição vendeu o seu direito de primogenitura. ^v16
+**16** Cuidai para que não haja algum imoral ou profano como Esaú, o qual, por uma refeição, vendeu o seu direito de primogenitura. ^v16
 
-**17** Porque bem sabeis que, querendo ele ainda depois herdar a bênção, foi rejeitado, porque não achou lugar de arrependimento, ainda que com lágrimas o buscou. ^v17
+**17** Porque sabeis que posteriormente, querendo ele herdar a bênção, foi rejeitado porque não encontrou lugar de arrependimento, embora com lágrimas o tivesse buscado. ^v17
 
-**18** Porque não chegastes ao monte palpável, aceso em fogo, e à escuridão, e às trevas, e à tempestade, ^v18
+**18** Porque não chegastes a um monte que possais tocar, a uma montanha de fogo ardente, à escuridão, às trevas e à tempestade; ^v18
 
-**19** E ao sonido da trombeta, e à voz das palavras, a qual os que a ouviram pediram que se lhes não falasse mais; ^v19
+**19** não chegastes ao som de trombeta, nem a uma voz que fala palavras, cujos ouvintes suplicaram que nenhuma outra palavra lhes fosse falada. ^v19
 
-**20** Porque não podiam suportar o que se lhes mandava: Se até um animal tocar o monte será apedrejado ou passado com um dardo. ^v20
+**20** "Pois não suportavam o que lhes era ordenado: ""Até um animal, se tocar o monte, será apedrejado""." ^v20
 
-**21** E tão terrível era a visão, que Moisés disse: Estou todo assombrado, e tremendo. ^v21
+**21** "Tão terrível era aquela visão, que Moisés disse: ""Estou aterrorizado e trêmulo""." ^v21
 
-**22** Mas chegastes ao monte Sião, e à cidade do Deus vivo, à Jerusalém celestial, e aos muitos milhares de anjos; ^v22
+**22** Mas, chegastes ao Monte Sião, à cidade do Deus vivo, à Jerusalém celestial e às dezenas de milhares de anjos em celebração. ^v22
 
-**23** À universal assembléia e igreja dos primogênitos, que estão inscritos nos céus, e a Deus, o juiz de todos, e aos espíritos dos justos aperfeiçoados; ^v23
+**23** Viestes à igreja dos primogênitos arrolados nos céus; a Deus, o Juiz de todos; aos espíritos dos justos que foram aperfeiçoados. ^v23
 
-**24** E a Jesus, o Mediador de uma nova aliança, e ao sangue da aspersão, que fala melhor do que o de Abel. ^v24
+**24** Viestes a Jesus, o Mediador da nova aliança, e ao sangue da aspersão, que fala melhor do que o sangue de Abel. ^v24
 
-**25** Vede que não rejeiteis ao que fala; porque, se não escaparam aqueles que rejeitaram o que na terra os advertia, muito menos nós, se nos desviarmos daquele que é dos céus; ^v25
+**25** Vede que não recuseis Aquele que vos está falando. Pois, se as pessoas que rejeitaram Quem na terra os advertia não escaparam, nós certamente não escaparemos, se nos desviarmos Daquele que nos está advertindo dos céus; ^v25
 
-**26** A voz do qual moveu então a terra, mas agora anunciou, dizendo: Ainda uma vez comoverei, não só a terra, senão também o céu. ^v26
+**26** "Aquele, cuja voz abalou a terra. Mas agora Ele prometeu e disse: ""Ainda, uma vez mais, hei de abalar não só a terra, mas também o céu""." ^v26
 
-**27** E esta palavra: Ainda uma vez, mostra a mudança das coisas móveis, como coisas feitas, para que as imóveis permaneçam. ^v27
+**27** "Estas palavras: ""Ainda uma vez mais"" indicam a remoção dessas coisas abaladas, ou seja, as coisas criadas, para que permaneçam as que não podem ser abaladas." ^v27
 
-**28** Por isso, tendo recebido um reino que não pode ser abalado, retenhamos a graça, pela qual sirvamos a Deus agradavelmente, com reverência e piedade; ^v28
+**28** Por isso, tendo recebido um reino que não pode ser abalado, retenhamos essa graça e desta forma sirvamos a Deus de modo agradável, com reverência e temor. ^v28
 
-**29** Porque o nosso Deus é um fogo consumidor. ^v29
+**29** Pois o nosso Deus é um fogo consumidor. ^v29

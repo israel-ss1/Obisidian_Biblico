@@ -1,43 +1,42 @@
 ---
-Livro: "[[Salmos|Salmos]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Salmos|Salmos]]"
+tags: [biblia]
 ---
 
 # Salmos 115
 
-**1** Não a nós, SENHOR, não a nós, mas ao teu nome dá glória, por amor da tua benignidade e da tua verdade. ^v1
+**1** Não a nós, Yahweh, não a nós, mas ao Teu nome seja a glória, por causa do Teu amor e da Tua fidelidade. ^v1
 
-**2** Porque dirão os gentios: Onde está o seu Deus? ^v2
+**2** "Por que as nações diriam: ""Onde está o Deus deles?""" ^v2
 
-**3** Mas o nosso Deus está nos céus; fez tudo o que lhe agradou. ^v3
+**3** Nosso Deus está nos Céus; Ele faz conforme Lhe agrada. ^v3
 
-**4** Os ídolos deles são prata e ouro, obra das mãos dos homens. ^v4
+**4** Os ídolos das nações são ouro e prata, obra das mãos dos homens. ^v4
 
-**5** Têm boca, mas não falam; olhos têm, mas não vêem. ^v5
+**5** Esses ídolos têm boca, mas não falam; têm olhos, mas não veem; ^v5
 
-**6** Têm ouvidos, mas não ouvem; narizes têm, mas não cheiram. ^v6
+**6** têm ouvidos, mas não ouvem; têm nariz, mas não cheiram; ^v6
 
-**7** Têm mãos, mas não apalpam; pés têm, mas não andam; nem som algum sai da sua garganta. ^v7
+**7** eles têm mãos, mas não sentem; eles têm pés, mas não andam, nem falam com suas próprias bocas. ^v7
 
-**8** A eles se tornem semelhantes os que os fazem, assim como todos os que neles confiam. ^v8
+**8** Aqueles que os fazem são semelhantes a eles, assim como todos os que neles confiam. ^v8
 
-**9** Israel, confia no Senhor; ele é o seu auxílio e o seu escudo. ^v9
+**9** Israel, confia em Yahweh; Ele é teu socorro e escudo. ^v9
 
-**10** Casa de Arão, confia no Senhor; ele é o seu auxílio e o seu escudo. ^v10
+**10** Casa de Aarão, confia em Yahweh; Ele é teu socorro e escudo. ^v10
 
-**11** Vós, os que temeis ao Senhor, confiai no Senhor; ele é o seu auxílio e o seu escudo. ^v11
+**11** Tu que honras Yahweh, confia Nele; Ele é o teu socorro e escudo. ^v11
 
-**12** O Senhor se lembrou de nós; ele nos abençoará; abençoará a casa de Israel; abençoará a casa de Arão. ^v12
+**12** Yahweh tem-se lembrado de nós e nos abençoará. Ele abençoará a casa de Israel, abençoará a casa de Aarão. ^v12
 
-**13** Abençoará os que temem ao Senhor, tanto pequenos como grandes. ^v13
+**13** Ele abençoará aqueles que O honram, tanto jovens como velhos. ^v13
 
-**14** O Senhor vos aumentará cada vez mais, a vós e a vossos filhos. ^v14
+**14** Que Yahweh vos multiplique mais e mais, vós e vossos descendentes. ^v14
 
-**15** Sois benditos do Senhor, que fez os céus e a terra. ^v15
+**15** Que sejais abençoados por Yahweh, que fez os céus e a terra. ^v15
 
-**16** Os céus são os céus do Senhor; mas a terra a deu aos filhos dos homens. ^v16
+**16** Os céus pertencem a Yahweh, mas a terra foi dada à humanidade. ^v16
 
-**17** Os mortos não louvam ao Senhor, nem os que descem ao silêncio. ^v17
+**17** Os mortos não louvam a Yahweh, nem os que descem ao silêncio; ^v17
 
-**18** Mas nós bendiremos ao Senhor, desde agora e para sempre. Louvai ao Senhor. ^v18
+**18** mas nós bendiremos a Yahweh, agora e para sempre. Louvai a Yahweh! ^v18

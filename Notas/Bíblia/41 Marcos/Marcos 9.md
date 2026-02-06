@@ -1,107 +1,106 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Marcos|Marcos]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Marcos|Marcos]]"
+tags: [biblia]
 ---
 
 # Marcos 9
 
-**1** Dizia-lhes também: Em verdade vos digo que, dos que aqui estão, alguns há que não provarão a morte sem que vejam chegado o reino de Deus com poder. ^v1
+**1** "E Jesus disse-lhes: ""Em verdade vos digo , alguns de vós que estão aqui não experimentarão a morte antes que vejam o reino de Deus vir com poder""." ^v1
 
-**2** E seis dias depois Jesus tomou consigo a Pedro, a Tiago, e a João, e os levou sós, em particular, a um alto monte; e transfigurou-se diante deles; ^v2
+**2** Seis dias depois, Jesus tomou consigo Pedro, Tiago e João, e os levou em particular a um alto monte. Então foi transfigurado diante deles. ^v2
 
-**3** E as suas vestes tornaram- se resplandecentes, extremamente brancas como a neve, tais como nenhum lavadeiro sobre a terra as poderia branquear. ^v3
+**3** Suas vestes tornaram-se radiantemente brilhantes, extremamente brancas, mais brancas do que qualquer lavandeiro na terra poderia branquear. ^v3
 
-**4** E apareceu-lhes Elias, com Moisés, e falavam com Jesus. ^v4
+**4** Então Elias e Moisés apareceram a eles e conversavam com Jesus. ^v4
 
-**5** E Pedro, tomando a palavra, disse a Jesus: Mestre, é bom que estejamos aqui; e façamos três cabanas, uma para ti, outra para Moisés, e outra para Elias. ^v5
+**5** "Pedro respondeu e disse a Jesus: ""Rabi, é bom estarmos aqui; façamos três tendas: uma para Ti, uma para Moisés, uma para Elias""." ^v5
 
-**6** Pois não sabia o que dizia, porque estavam assombrados. ^v6
+**6** (Ele não sabia o que dizer, pois estavam aterrorizados). ^v6
 
-**7** E desceu uma nuvem que os cobriu com a sua sombra, e saiu da nuvem uma voz que dizia: Este é o meu filho amado; a ele ouvi. ^v7
+**7** "Uma nuvem veio e os envolveu. Então uma voz veio da nuvem: ""Este é meu Filho amado. A Ele ouvi!""." ^v7
 
-**8** E, tendo olhado em redor, ninguém mais viram, senão só Jesus com eles. ^v8
+**8** De repente, quando olharam em volta, não viram mais ninguém com eles, apenas Jesus. ^v8
 
-**9** E, descendo eles do monte, ordenou-lhes que a ninguém contassem o que tinham visto, até que o Filho do homem ressuscitasse dentre os mortos. ^v9
+**9** Ao descerem do monte, Ele lhes ordenou que não contassem a ninguém o que haviam visto, até que o Filho do Homem ressuscitasse dos mortos. ^v9
 
-**10** E eles retiveram o caso entre si, perguntando uns aos outros que seria aquilo, ressuscitar dentre os mortos. ^v10
+**10** "Então eles guardaram o assunto para si mesmos, mas discutiam o que poderia significar ""ressuscitar dos mortos""." ^v10
 
-**11** E interrogaram-no, dizendo: Por que dizem os escribas que é necessário que Elias venha primeiro? ^v11
+**11** "Eles lhe perguntaram: ""Por que os escribas dizem que Elias deve vir primeiro?""" ^v11
 
-**12** E, respondendo ele, disse-lhes: Em verdade Elias virá primeiro, e todas as coisas restaurará; e, como está escrito do Filho do homem, que ele deva padecer muito e ser aviltado. ^v12
+**12** "Jesus lhes respondeu: ""Elias realmente vem primeiro para restaurar todas as coisas. Então por que está escrito que o Filho do Homem deve sofrer muitas coisas e ser desprezado?" ^v12
 
-**13** Digo-vos, porém, que Elias já veio, e fizeram-lhe tudo o que quiseram, como dele está escrito. ^v13
+**13** "Mas Eu vos digo que Elias veio, e fizeram o que quiseram com ele, exatamente como as escrituras dizem sobre ele""." ^v13
 
-**14** E, quando se aproximou dos discípulos, viu ao redor deles grande multidão, e alguns escribas que disputavam com eles. ^v14
+**14** Quando voltaram para onde estavam os outros discípulos, viram que uma grande multidão os rodeava, e escribas discutindo com eles. ^v14
 
-**15** E logo toda a multidão, vendo-o, ficou espantada e, correndo para ele, o saudaram. ^v15
+**15** E quando a multidão O viu, ficou maravilhada, e correu até Ele para cumprimentá-Lo. ^v15
 
-**16** E perguntou aos escribas: Que é que discutis com eles? ^v16
+**16** "Ele perguntou a Seus discípulos: ""Sobre o que vós estais discutindo com eles?""." ^v16
 
-**17** E um da multidão, respondendo, disse: Mestre, trouxe-te o meu filho, que tem um espírito mudo; ^v17
+**17** "Alguém da multidão Lhe respondeu: ""Mestre, eu Te trouxe meu filho; ele tem um espírito que o impede de falar." ^v17
 
-**18** E este, onde quer que o apanhe, despedaça-o, e ele espuma, e range os dentes, e vai definhando; e eu disse aos teus discípulos que o expulsassem, e não puderam. ^v18
+**18** "Este o faz ter convulsões, o derruba e ele espuma pela boca, range seus dentes, e se enrijece. Eu pedi a Seus discípulos para expulsá-lo, mas eles não puderam""." ^v18
 
-**19** E ele, respondendo-lhes, disse: Ó geração incrédula! até quando estarei convosco? até quando vos sofrerei ainda? Trazei-mo. ^v19
+**19** "Ele lhes respondeu: ""Geração incrédula, até quando Eu terei de estar convosco? Até quando Eu vos suportarei? Trazei-o para Mim""." ^v19
 
-**20** E trouxeram-lho; e quando ele o viu, logo o espírito o agitou com violência, e, caindo o endemoninhado por terra, revolvia-se, escumando. ^v20
+**20** Eles trouxeram-Lhe o menino. Quando o espírito viu Jesus, imediatamente o fez convulsionar. O menino caiu no chão e rolando espumava pela boca. ^v20
 
-**21** E perguntou ao pai dele: Quanto tempo há que lhe sucede isto? E ele disse-lhe: Desde a infância. ^v21
+**21** "Jesus perguntou a seu pai: ""Há quanto tempo ele está assim?"" O pai disse: ""Desde a infância." ^v21
 
-**22** E muitas vezes o tem lançado no fogo, e na água, para o destruir; mas, se tu podes fazer alguma coisa, tem compaixão de nós, e ajuda-nos. ^v22
+**22** "E muitas vezes o atira no fogo ou na água, e tenta destruí-lo. Se Tu podes fazer algo, tem compaixão de nós e ajuda-nos""." ^v22
 
-**23** E Jesus disse-lhe: Se tu podes crer, tudo é possível ao que crê. ^v23
+**23** "Jesus lhe disse: ""’Se Tu podes!’ Todas as coisas são possíveis ao que crê""." ^v23
 
-**24** E logo o pai do menino, clamando, com lágrimas, disse: Eu creio, Senhor! ajuda a minha incredulidade. ^v24
+**24** "Imediatamente o pai da criança clamou e disse: ""Eu creio! Ajuda-me na minha incredulidade!""." ^v24
 
-**25** E Jesus, vendo que a multidão concorria, repreendeu o espírito imundo, dizendo-lhe: Espírito mudo e surdo, eu te ordeno: Sai dele, e não entres mais nele. ^v25
+**25** "Quando Jesus viu a multidão correndo em direção a eles, repreendeu o espírito imundo, dizendo-lhe: ""Espírito surdo e mudo, Eu te ordeno: Sai dele, e nunca mais entres nele novamente""." ^v25
 
-**26** E ele, clamando, e agitando-o com violência, saiu; e ficou o menino como morto, de tal maneira que muitos diziam que estava morto. ^v26
+**26** "E gritou e convulsionou o menino grandemente e então saiu dele. Ele parecia morto, tanto que a maioria do povo dizia: ""Ele está morto""." ^v26
 
-**27** Mas Jesus, tomando-o pela mão, o ergueu, e ele se levantou. ^v27
+**27** Mas Jesus o tomou pela mão e o levantou, e o menino ficou de pé. ^v27
 
-**28** E, quando entrou em casa, os seus discípulos lhe perguntaram à parte: Por que o não pudemos nós expulsar? ^v28
+**28** "Quando Jesus entrou na casa, Seus discípulos Lhe perguntaram em particular: ""Por que não pudemos expulsá-lo?""." ^v28
 
-**29** E disse-lhes: Esta casta não pode sair com coisa alguma, a não ser com oração e jejum. ^v29
+**29** "Ele lhes disse: ""Esse tipo não pode ser expulso senão pela oração""." ^v29
 
-**30** E, tendo partido dali, caminharam pela Galiléia, e não queria que alguém o soubesse; ^v30
+**30** Partindo de lá, passavam pela Galileia, e Jesus não queria que ninguém soubesse onde eles estavam, ^v30
 
-**31** Porque ensinava os seus discípulos, e lhes dizia: O Filho do homem será entregue nas mãos dos homens, e matá-lo-ão; e, morto ele, ressuscitará ao terceiro dia. ^v31
+**31** "pois Ele ensinava a seus discípulos e lhes dizia: ""O Filho do Homem será entregue nas mãos dos homens, e eles O matarão. Quando Ele for morto, após três dias ressuscitará""." ^v31
 
-**32** Mas eles não entendiam esta palavra, e receavam interrogá-lo. ^v32
+**32** Mas eles não entenderam esta declaração e estavam com medo de perguntar-Lhe. ^v32
 
-**33** E chegou a Cafarnaum e, entrando em casa, perguntou-lhes: Que estáveis vós discutindo pelo caminho? ^v33
+**33** "Foram para Cafarnaum. Quando Ele estava em casa perguntou a Seus discípulos: ""O que vós estáveis discutindo pelo caminho?""." ^v33
 
-**34** Mas eles calaram-se; porque pelo caminho tinham disputado entre si qual era o maior. ^v34
+**34** Mas eles ficaram calados, pois argumentavam uns com os outros pelo caminho sobre quem era o maior. ^v34
 
-**35** E ele, assentando-se, chamou os doze, e disse-lhes: Se alguém quiser ser o primeiro, será o derradeiro de todos e o servo de todos. ^v35
+**35** "Ele sentou-se, chamou os doze e disse-lhes: ""Se alguém quer ser o primeiro, será o último e o servo de todos""." ^v35
 
-**36** E, lançando mão de um menino, pô-lo no meio deles e, tomando-o nos seus braços, disse-lhes: ^v36
+**36** Ele pegou uma criança pequena, colocou-a no meio deles, e tomando-a em Seus braços, disse-lhes: ^v36
 
-**37** Qualquer que receber um destes meninos em meu nome, a mim me recebe; e qualquer que a mim me receber, recebe, não a mim, mas ao que me enviou. ^v37
+**37** """Qualquer um que receber uma criança como esta em Meu nome, este também Me recebe; e se alguém Me recebe, este não recebe a Mim , mas Àquele que Me enviou""." ^v37
 
-**38** E João lhe respondeu, dizendo: Mestre, vimos um que em teu nome expulsava demônios, o qual não nos segue; e nós lho proibimos, porque não nos segue. ^v38
+**38** "João disse-Lhe: ""Mestre, nós vimos alguém expulsando demônios em Teu nome e o proibimos, porque ele não nos segue""." ^v38
 
-**39** Jesus, porém, disse: Não lho proibais; porque ninguém há que faça milagre em meu nome e possa logo falar mal de mim. ^v39
+**39** Mas Jesus disse: “Não o proibais. Porque ninguém pode fazer um milagre em Meu nome e logo depois dizer algo ruim a Meu respeito. ^v39
 
-**40** Porque quem não é contra nós, é por nós. ^v40
+**40** Quem não é contra nós, é por nós. ^v40
 
-**41** Porquanto, qualquer que vos der a beber um copo de água em meu nome, porque sois discípulos de Cristo, em verdade vos digo que não perderá o seu galardão. ^v41
+**41** Qualquer um que vos der um copo de água para beber porque sois de Cristo, verdadeiramente vos digo que não perderá sua recompensa. ^v41
 
-**42** E qualquer que escandalizar um destes pequeninos que crêem em mim, melhor lhe fora que lhe pusessem ao pescoço uma mó de atafona, e que fosse lançado no mar. ^v42
+**42** Qualquer que fizer um destes pequeninos que crê em Mim tropeçar, seria melhor para ele ter uma grande pedra de moinho amarrada em volta de seu pescoço e ser lançado ao mar. ^v42
 
-**43** E, se a tua mão te escandalizar, corta-a; melhor é para ti entrares na vida aleijado do que, tendo duas mãos, ires para o inferno, para o fogo que nunca se apaga, ^v43
+**43** Se tua mão te faz tropeçar, corta-a fora. É melhor para ti entrar na vida com uma das mãos decepada do que ter as duas mãos e ires para o inferno, para o fogo que não se apaga. ^v43
 
-**44** Onde o seu bicho não morre, e o fogo nunca se apaga. ^v44
+**44** [Onde os vermes nunca morrem, e o fogo nunca se apaga (Este trecho é omitido nos manuscritos mais antigos)]. ^v44
 
-**45** E, se o teu pé te escandalizar, corta-o; melhor é para ti entrares coxo na vida do que, tendo dois pés, seres lançado no inferno, no fogo que nunca se apaga, ^v45
+**45** Se teu pé te faz tropeçar, corta-o fora. Melhor será que entres na vida aleijado, a ter os dois pés, e seres lançado no inferno. ^v45
 
-**46** Onde o seu bicho não morre, e o fogo nunca se apaga. ^v46
+**46** [Onde os vermes nunca morrem, e o fogo nunca se apaga (Este trecho é omitido nos manuscritos mais antigos)]. ^v46
 
-**47** E, se o teu olho te escandalizar, lança-o fora; melhor é para ti entrares no reino de Deus com um só olho do que, tendo dois olhos, seres lançado no fogo do inferno, ^v47
+**47** Se teu olho te causar tropeço, arranca-o. Melhor será que entres no Reino de Deus com um olho do que ter os dois olhos, e seres lançado no inferno, ^v47
 
-**48** Onde o seu bicho não morre, e o fogo nunca se apaga. ^v48
+**48** onde os vermes nunca morrem, e o fogo nunca se apaga. ^v48
 
-**49** Porque cada um será salgado com fogo, e cada sacrifício será salgado com sal. ^v49
+**49** Porque cada um será salgado com fogo. ^v49
 
-**50** Bom é o sal; mas, se o sal se tornar insípido, com que o temperareis? Tende sal em vós mesmos, e paz uns com os outros. ^v50
+**50** "O sal é bom, mas se o sal tiver perdido o sabor, como podeis fazê-lo salgar novamente? Tende sal em vós mesmos, e vivei em paz uns com os outros""." ^v50

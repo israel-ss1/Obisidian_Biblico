@@ -1,83 +1,82 @@
 ---
-Livro: "[[Gênesis|Gênesis]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Gênesis|Gênesis]]"
+tags: [biblia]
 ---
 
 # Gênesis 42
 
-**1** Vendo então Jacó que havia mantimento no Egito, disse a seus filhos: Por que estais olhando uns para os outros? ^v1
+**1** "Ora, Jacó soube que havia cereal no Egito. Ele disse aos seus filhos: ""Por que olhais uns para os outros?""" ^v1
 
-**2** Disse mais: Eis que tenho ouvido que há mantimentos no Egito; descei para lá, e comprai-nos dali, para que vivamos e não morramos. ^v2
+**2** "Ele disse: ""Vejam só, eu ouvi dizer que no Egito existe cereal. Desçam até lá e comprem para nós, para que vivamos e não morramos""." ^v2
 
-**3** Então desceram os dez irmãos de José, para comprarem trigo no Egito. ^v3
+**3** Os dez irmãos de José desceram para comprar cereal do Egito. ^v3
 
-**4** A Benjamim, porém, irmão de José, não enviou Jacó com os seus irmãos, porque dizia: Para que lhe não suceda, porventura, algum desastre. ^v4
+**4** Mas Benjamim, irmão de José, Jacó não o mandou com seus irmãos, pois temia que algum mal lhe acontecesse. ^v4
 
-**5** Assim, entre os que iam lá foram os filhos de Israel para comprar, porque havia fome na terra de Canaã. ^v5
+**5** Os filhos de Israel chegaram para comprar juntamente com outras pessoas que vinham, porque a fome estava presente na terra de Canaã. ^v5
 
-**6** José, pois, era o governador daquela terra; ele vendia a todo o povo da terra; e os irmãos de José chegaram e inclinaram-se a ele, com o rosto em terra. ^v6
+**6** Agora, José era o governador da terra. Era ele quem vendia para todo o povo da terra. Os irmãos de José vieram e se curvaram diante dele, baixando seus rostos para o chão. ^v6
 
-**7** E José, vendo os seus irmãos, conheceu-os; porém mostrou-se estranho para com eles, e falou-lhes asperamente, e disse-lhes: De onde vindes? E eles disseram: Da terra de Canaã, para comprarmos mantimento. ^v7
+**7** "José viu seus irmãos e os reconheceu, mas ele se disfarçou e falou asperamente com eles, dizendo-lhes ""De onde viestes?"" Eles disseram: ""Da terra de Canaã, para comprar comida.""" ^v7
 
-**8** José, pois, conheceu os seus irmãos; mas eles não o conheceram. ^v8
+**8** José reconheceu os seus irmãos, porém eles não o reconheceram. ^v8
 
-**9** Então José lembrou-se dos sonhos que havia tido deles e disse-lhes: Vós sois espias, e viestes para ver a nudez da terra. ^v9
+**9** "Então José se lembrou dos sonhos que tivera sobre eles, e disse-lhes: ""Vocês são espiões! Viestes ver as partes indefesas da terra""." ^v9
 
-**10** E eles lhe disseram: Não, senhor meu; mas teus servos vieram comprar mantimento. ^v10
+**10** "Eles lhe disseram: ""Não, senhor meu.Teus servos vieram comprar comida." ^v10
 
-**11** Todos nós somos filhos de um mesmo homem; somos homens de retidão; os teus servos não são espias. ^v11
+**11** "Nós somos filhos de um único homem. Somos homens honestos. Teus servos não são espiões.""" ^v11
 
-**12** E ele lhes disse: Não; antes viestes para ver a nudez da terra. ^v12
+**12** "Ele lhes disse: ""Não, mas viestes ver as partes indefesas da terra""." ^v12
 
-**13** E eles disseram: Nós, teus servos, somos doze irmãos, filhos de um homem na terra de Canaã; e eis que o mais novo está com nosso pai hoje; mas um já não existe. ^v13
+**13** "Eles disseram: ""Nós, teus servos, somos doze irmãos, filhos de um único homem da terra de Canaã. O mais novo está com nosso pai, e um irmão não vive mais.""" ^v13
 
-**14** Então lhes disse José: Isso é o que vos tenho dito, sois espias; ^v14
+**14** "José disse-lhes: ""É como eu vos disse: vocês são espiões." ^v14
 
-**15** Nisto sereis provados; pela vida de Faraó, não saireis daqui senão quando vosso irmão mais novo vier aqui. ^v15
+**15** Por isso sereis testados. Pela vida do Faraó, vós não saireis daqui, a menos que teu irmão mais novo venha aqui. ^v15
 
-**16** Enviai um dentre vós, que traga vosso irmão, mas vós ficareis presos, e vossas palavras sejam provadas, se há verdade convosco; e se não, pela vida de Faraó, vós sois espias. ^v16
+**16** "Enviai um de vós para buscar teu irmão. Ficareis na prisão, para que vossas palavras sejam testadas, se há verdade em vós.""" ^v16
 
-**17** E pô-los juntos, em prisão, três dias. ^v17
+**17** Ele os pôs na prisão por três dias. ^v17
 
-**18** E ao terceiro dia disse-lhes José: Fazei isso, e vivereis; porque eu temo a Deus. ^v18
+**18** "José disse-lhes no terceiro dia: ""Fazei isso e vivei, pois eu temo a Deus." ^v18
 
-**19** Se sois homens de retidão, que fique um de vossos irmãos preso na casa de vossa prisão; e vós ide, levai mantimento para a fome de vossa casa, ^v19
+**19** Se sois homens honestos, deixem um dos vossos irmãos ficar confinado nessa prisão, mas vós ireis levar cereal por causa da fome de vossas casas. ^v19
 
-**20** E trazei-me o vosso irmão mais novo, e serão verificadas vossas palavras, e não morrereis. E eles assim fizeram. ^v20
+**20** "Trazei vosso irmão mais novo a mim, para que as vossas palavras sejam confirmadas e vocês não morrerão."" Então eles o fizeram." ^v20
 
-**21** Então disseram uns aos outros: Na verdade, somos culpados acerca de nosso irmão, pois vimos a angústia da sua alma, quando nos rogava; nós porém não ouvimos, por isso vem sobre nós esta angústia. ^v21
+**21** "Eles disseram uns ao outros: ""Nós somos verdadeiramente culpados em relação ao nosso irmão, porque vimos a aflição de sua alma, quando ele suplicava conosco e não o ouvimos. Por isso esta angústia veio sobre nós""." ^v21
 
-**22** E Rúben respondeu-lhes, dizendo: Não vo-lo dizia eu: Não pequeis contra o menino; mas não ouvistes; e vedes aqui, o seu sangue também é requerido. ^v22
+**22** "Rúben respondeu-lhes: ""Eu não vos disse: 'não pequeis contra o menino', mas vós não me ouvistes? Agora vede: o sangue dele é cobrado de nós.""" ^v22
 
-**23** E eles não sabiam que José os entendia, porque havia intérprete entre eles. ^v23
+**23** Eles não sabiam que José os entendia, porque havia um intérprete entre eles. ^v23
 
-**24** E retirou-se deles e chorou. Depois tornou a eles, e falou-lhes, e tomou a Simeão dentre eles, e amarrou-o perante os seus olhos. ^v24
+**24** Ele se afastou e chorou. José voltou e falou com eles. Ele tomou Simeão deles e o amarrou diante dos seus olhos. ^v24
 
-**25** E ordenou José, que enchessem os seus sacos de trigo, e que lhes restituíssem o seu dinheiro a cada um no seu saco, e lhes dessem comida para o caminho; e fizeram-lhes assim. ^v25
+**25** Então José ordenou seus servos que enchessem com cereal as bagagens dos seus irmãos, e colocassem de volta o dinheiro de cada um em seus sacos, e lhes dessem provisão para a jornada. E isso lhes foi feito. ^v25
 
-**26** E carregaram o seu trigo sobre os seus jumentos e partiram dali. ^v26
+**26** Os irmãos carregaram seus jumentos com seu cereal e partiram dali. ^v26
 
-**27** E, abrindo um deles o seu saco, para dar pasto ao seu jumento na estalagem, viu o seu dinheiro; porque eis que estava na boca do seu saco. ^v27
+**27** Quando um deles abriu o seu saco de cereal para dar comida ao seu jumento em um alojamento, ele viu seu dinheiro. Eis que ele estava na boca do saco. ^v27
 
-**28** E disse a seus irmãos: Devolveram o meu dinheiro, e ei-lo também aqui no saco. Então lhes desfaleceu o coração, e pasmavam, dizendo um ao outro: Que é isto que Deus nos tem feito? ^v28
+**28** "Ele disse para seus irmãos: ""Meu dinheiro foi posto de volta. Vede-o aqui na boca do saco de cereal "". Seus corações desfaleceram e, tremendo, viraram-se uns para os outros, dizendo: ""O que é isto que Deus fez conosco?""." ^v28
 
-**29** E vieram para Jacó, seu pai, na terra de Canaã; e contaram-lhe tudo o que lhes aconteceu, dizendo: ^v29
+**29** Eles foram a Jacó, seu pai, na terra de Canaã, e lhe contaram o que lhes acontecera. Eles disseram: ^v29
 
-**30** O homem, o senhor da terra, falou conosco asperamente, e tratou-nos como espias da terra; ^v30
+**30** """O homem, o senhor da terra, falou duramente conosco e pensou que nós fôssemos espiões da terra." ^v30
 
-**31** Mas dissemos-lhe: Somos homens de retidão; não somos espias; ^v31
+**31** Nós dissemos para ele: 'Somos homens honestos. Não somos espiões. ^v31
 
-**32** Somos doze irmãos, filhos de nosso pai; um não mais existe, e o mais novo está hoje com nosso pai na terra de Canaã. ^v32
+**32** Somos doze irmãos, filhos do nosso pai. Um não vive mais e o mais novo está hoje com nosso pai na terra de Canaã'. ^v32
 
-**33** E aquele homem, o senhor da terra, nos disse: Nisto conhecerei que vós sois homens de retidão; deixai comigo um de vossos irmãos, e tomai para a fome de vossas casas, e parti, ^v33
+**33** O homem, o senhor da terra, disse-nos: 'Com isso eu saberei que sois homens honestos. Esteja um de vossos irmãos comigo, levai cereal por causa da fome em vossas casas, e ide por vosso caminho. ^v33
 
-**34** E trazei-me vosso irmão mais novo; assim saberei que não sois espias, mas homens de retidão; então vos darei o vosso irmão e negociareis na terra. ^v34
+**34** "Trazei vosso irmão mais novo para mim. Então eu saberei que vós não sois espiões, mas que sois homens honestos. Então soltarei vosso irmão pra vós, e podereis negociar na terra.'""" ^v34
 
-**35** E aconteceu que, despejando eles os seus sacos, eis que cada um tinha o pacote com seu dinheiro no seu saco; e viram os pacotes com seu dinheiro, eles e seu pai, e temeram. ^v35
+**35** Aconteceu que, quando esvaziaram suas bagagens, eis que cada um dos homens estava com sua bolsa de dinheiro no saco de cereal. Quando eles e seu pai viram suas bolsas de dinheiro, ficaram com medo. ^v35
 
-**36** Então Jacó, seu pai, disse-lhes: Tendes-me desfilhado; José já não existe e Simeão não está aqui; agora levareis a Benjamim. Todas estas coisas vieram sobre mim. ^v36
+**36** "Jacó, seu pai, disse-lhes: ""Estais me tirando meus filhos. José não está mais vivo, Simeão se foi, e quereis levar Benjamim. Todas essas coisas estão contra mim""." ^v36
 
-**37** Mas Rúben falou a seu pai, dizendo: Mata os meus dois filhos, se eu não tornar a trazê-lo para ti; entrega-o em minha mão, e tornarei a trazê-lo. ^v37
+**37** "Rúben falou para seu pai: ""Podes matar meus dois filhos se eu não trouxer Benjamim de volta para ti. Coloca-o em minhas mãos, e eu o trarei para ti de novo.""" ^v37
 
-**38** Ele porém disse: Não descerá meu filho convosco; porquanto o seu irmão é morto, e só ele ficou. Se lhe suceder algum desastre no caminho por onde fordes, fareis descer minhas cãs com tristeza à sepultura. ^v38
+**38** "Jacó disse: ""Meu filho não descerá convosco. Pois seu irmão está morto e somente ele restou. Se lhe acontecer algum mal no caminho por onde forem, fareis meus cabelos brancos descerem com tristeza ao Sheol""." ^v38

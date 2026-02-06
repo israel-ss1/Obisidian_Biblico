@@ -1,37 +1,36 @@
 ---
-Livro: "[[1 Timóteo|1 Timóteo]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/1 Timóteo|1 Timóteo]]"
+tags: [biblia]
 ---
 
 # 1 Timóteo 2
 
-**1** Admoesto-te, pois, antes de tudo, que se façam deprecações, orações, intercessões, e ações de graças, por todos os homens; ^v1
+**1** Portanto antes de tudo, exorto que sejam feitos pedidos, orações, intercessões e ações de graças em favor de todas as pessoas, ^v1
 
-**2** Pelos reis, e por todos os que estão em eminência, para que tenhamos uma vida quieta e sossegada, em toda a piedade e honestidade; ^v2
+**2** pelos reis e por todos os que exercem autoridade, para que possamos viver uma vida tranquila e serena, em toda piedade e dignidade. ^v2
 
-**3** Porque isto é bom e agradável diante de Deus nosso Salvador, ^v3
+**3** Isso é bom e aceitável perante Deus nosso Salvador. ^v3
 
-**4** Que quer que todos os homens se salvem, e venham ao conhecimento da verdade. ^v4
+**4** Ele deseja que todas as pessoas sejam salvas e cheguem ao pleno conhecimento da verdade. ^v4
 
-**5** Porque há um só Deus, e um só Mediador entre Deus e os homens, Jesus Cristo homem. ^v5
+**5** Pois há um só Deus, e há um só mediador entre Deus e o homem, Jesus Cristo homem. ^v5
 
-**6** O qual se deu a si mesmo em preço de redenção por todos, para servir de testemunho a seu tempo. ^v6
+**6** O qual Se entregou em resgate por todos, para servir de testemunho no tempo oportuno. ^v6
 
-**7** Para o que (digo a verdade em Cristo, não minto) fui constituído pregador, e apóstolo, e doutor dos gentios na fé e na verdade. ^v7
+**7** Digo a verdade, não minto, para esse propósito, fui constituído mensageiro e apóstolo, mestre dos gentios na fé e na verdade. ^v7
 
-**8** Quero, pois, que os homens orem em todo o lugar, levantando mãos santas, sem ira nem contenda. ^v8
+**8** Desejo, portanto, que os homens orem em todo lugar, levantando mãos santas sem ira ou contenda. ^v8
 
-**9** Que do mesmo modo as mulheres se ataviem em traje honesto, com pudor e modéstia, não com tranças, ou com ouro, ou pérolas, ou vestidos preciosos, ^v9
+**9** Do mesmo modo, quero que as mulheres se vistam com roupas decentes, com modéstia e com discrição. Elas não devem usar cabelos com tranças, nem com ouro ou pérolas, ou vestidos custosos. ^v9
 
-**10** Mas (como convém a mulheres que fazem profissão de servir a Deus) com boas obras. ^v10
+**10** Mas, ao contrário, que se vistam de boas obras, com aquilo que é apropriado às mulheres que professam piedade. ^v10
 
-**11** A mulher aprenda em silêncio, com toda a sujeição. ^v11
+**11** A mulher deve aprender em silêncio e com toda a submissão. ^v11
 
-**12** Não permito, porém, que a mulher ensine, nem use de autoridade sobre o marido, mas que esteja em silêncio. ^v12
+**12** Pois não permito que a mulher ensine, nem que exerça autoridade sobre o homem, mas que esteja em silêncio. ^v12
 
-**13** Porque primeiro foi formado Adão, depois Eva. ^v13
+**13** Porque Adão foi criado primeiro e Eva depois. ^v13
 
-**14** E Adão não foi enganado, mas a mulher, sendo enganada, caiu em transgressão. ^v14
+**14** E Adão não foi enganado, mas a mulher que foi completamente enganada e caiu em transgressão. ^v14
 
-**15** Salvar-se-á, porém, dando à luz filhos, se permanecer com modéstia na fé, no amor e na santificação. ^v15
+**15** No entanto ela será salva ao gerar filhos, desde que permaneça na fé, no amor e na santificação com sabedoria no seu pensar. ^v15

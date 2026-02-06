@@ -1,47 +1,46 @@
 ---
-Livro: "[[Hebreus|Hebreus]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Hebreus|Hebreus]]"
+tags: [biblia]
 ---
 
 # Hebreus 6
 
-**1** Por isso, deixando os rudimentos da doutrina de Cristo, prossigamos até à perfeição, não lançando de novo o fundamento do arrependimento de obras mortas e de fé em Deus, ^v1
+**1** Então, deixando o que primeiramente aprendemos acerca da Palavra de Cristo, devemos prosseguir para maturidade. Não lançando, outra vez, o fundamento do arrependimento das obras mortas e da fé em Deus, ^v1
 
-**2** E da doutrina dos batismos, e da imposição das mãos, e da ressurreição dos mortos, e do juízo eterno. ^v2
+**2** nem o fundamento do ensino sobre batismos, imposição de mãos, a ressurreição dos mortos e o juízo eterno. ^v2
 
-**3** E isto faremos, se Deus o permitir. ^v3
+**3** Nós também faremos essas coisas, se Deus permitir. ^v3
 
-**4** Porque é impossível que os que já uma vez foram iluminados, e provaram o dom celestial, e se fizeram participantes do Espírito Santo, ^v4
+**4** Por isso, é impossível para aqueles que uma vez foram iluminados, que provaram do dom celestial, se tornaram participantes do Espírito Santo, ^v4
 
-**5** E provaram a boa palavra de Deus, e as virtudes do século futuro, ^v5
+**5** provaram da boa palavra de Deus, dos poderes dos tempos vindouros ^v5
 
-**6** E recaíram, sejam outra vez renovados para arrependimento; pois assim, quanto a eles, de novo crucificam o Filho de Deus, e o expõem ao vitupério. ^v6
+**6** e que depois caíram; é impossível restaurá-los novamente para o arrependimento. Isto porque crucificaram para si mesmos, outra vez, o próprio Filho de Deus, fazendo Dele um objeto de vergonha pública. ^v6
 
-**7** Porque a terra que embebe a chuva, que muitas vezes cai sobre ela, e produz erva proveitosa para aqueles por quem é lavrada, recebe a bênção de Deus; ^v7
+**7** Porque a terra que absorve a chuva que cai e que produz colheita útil para aqueles que nela trabalham, recebe a bênção de Deus. ^v7
 
-**8** Mas a que produz espinhos e abrolhos, é reprovada, e perto está da maldição; o seu fim é ser queimada. ^v8
+**8** Mas se produz espinhos e abrolhos, é inútil e está perto de ser amaldiçoada. Seu fim é ser queimada. ^v8
 
-**9** Mas de vós, ó amados, esperamos coisas melhores, e coisas que acompanham a salvação, ainda que assim falamos. ^v9
+**9** Mas nós estamos convencidos de coisas melhores acerca de vós, amados, coisas concernentes à salvação, ainda que falemos dessa forma. ^v9
 
-**10** Porque Deus não é injusto para se esquecer da vossa obra, e do trabalho do amor que para com o seu nome mostrastes, enquanto servistes aos santos; e ainda servis. ^v10
+**10** Pois Deus não é injusto para esquecer o vosso trabalho e o amor que vós demonstrastes pelo Seu nome, no qual vós servistes aos santos e continuastes a fazê-lo. ^v10
 
-**11** Mas desejamos que cada um de vós mostre o mesmo cuidado até ao fim, para completa certeza da esperança; ^v11
+**11** E desejamos grandemente que cada um de vós mostreis o mesmo zelo até o fim, com completa certeza da esperança. ^v11
 
-**12** Para que vos não façais negligentes, mas sejais imitadores dos que pela fé e paciência herdam as promessas. ^v12
+**12** Não vos torneis preguiçosos, mas imitadores dos que, por meio da fé e paciência, herdam as promessas. ^v12
 
-**13** Porque, quando Deus fez a promessa a Abraão, como não tinha outro maior por quem jurasse, jurou por si mesmo, ^v13
+**13** Porque quando Deus fez a Sua promessa para Abraão, por não ter ninguém maior do que Ele por quem jurar, jurou por Si mesmo. ^v13
 
-**14** Dizendo: Certamente, abençoando te abençoarei, e multiplicando te multiplicarei. ^v14
+**14** "Ele disse: ""Eu certamente te abençoarei e te multiplicarei grandemente""." ^v14
 
-**15** E assim, esperando com paciência, alcançou a promessa. ^v15
+**15** Dessa forma, Abraão obteve o que lhe foi prometido após ter esperado pacientemente. ^v15
 
-**16** Porque os homens certamente juram por alguém superior a eles, e o juramento para confirmação é, para eles, o fim de toda a contenda. ^v16
+**16** Pois as pessoas juram por alguém maior do que elas e em todas as suas disputas, os seus juramentos são uma confirmação. ^v16
 
-**17** Por isso, querendo Deus mostrar mais abundantemente a imutabilidade do seu conselho aos herdeiros da promessa, se interpôs com juramento; ^v17
+**17** Quando Deus decidiu mostrar, mais claramente, para os herdeiros da promessa a qualidade imutável do seu propósito, Ele o garantiu com um juramento. ^v17
 
-**18** Para que por duas coisas imutáveis, nas quais é impossível que Deus minta, tenhamos a firme consolação, nós, os que pomos o nosso refúgio em reter a esperança proposta; ^v18
+**18** Ele o fez por meio de duas coisas imutáveis, nas quais é impossível que Deus minta; para que nós, que saímos em busca de refúgio, pudéssemos ter forte encorajamento para apegar-nos firmemente na esperança que nos foi proposta. ^v18
 
-**19** A qual temos como âncora da alma, segura e firme, e que penetra até ao interior do véu, ^v19
+**19** A qual temos como âncora segura e firme de nossas almas e que penetra além do véu, ^v19
 
-**20** Onde Jesus, nosso precursor, entrou por nós, feito eternamente sumo sacerdote, segundo a ordem de Melquisedeque. ^v20
+**20** onde Jesus, como nosso precursor, entrou em nosso lugar, tornando-se Sumo Sacerdote para sempre, segundo a ordem de Melquisedeque. ^v20

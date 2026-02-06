@@ -1,53 +1,52 @@
 ---
-Livro: "[[Rute|Rute]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Rute|Rute]]"
+tags: [biblia]
 ---
 
 # Rute 2
 
-**1** E tinha Noemi um parente de seu marido, homem valente e poderoso, da família de Elimeleque; e era o seu nome Boaz. ^v1
+**1** Elimeleque, marido de Noemi, tinha um parente, Boaz, que era um homem rico e influente . ^v1
 
-**2** E Rute, a moabita, disse a Noemi: Deixa-me ir ao campo, e apanharei espigas atrás daquele em cujos olhos eu achar graça. E ela disse: Vai, minha filha. ^v2
+**2** "Rute, a moabita, disse a Noemi: ""Agora, deixa-me ir recolher entre as espigas de trigo caídas no campo. Eu seguirei aquele em cujos olhos eu achar graça"". E Noemi disse a ela: ""Vai, minha filha!""." ^v2
 
-**3** Foi, pois, e chegou, e apanhava espigas no campo após os segadores; e caiu-lhe em sorte uma parte do campo de Boaz, que era da família de Elimeleque. ^v3
+**3** Rute foi e recolheu o que restava nos campos, atrás dos ceifeiros. Ela passou a recolher as partes dos campos de Boaz, que era parente de Elimeleque. ^v3
 
-**4** E eis que Boaz veio de Belém, e disse aos segadores: O Senhor seja convosco. E disseram-lhe eles: O Senhor te abençoe. ^v4
+**4** "Eis que Boaz veio de Belém e disse aos ceifeiros: ""Que Yahweh esteja convosco"". E eles responderam: ""Que Yahweh te abençoe""." ^v4
 
-**5** Depois disse Boaz a seu moço, que estava posto sobre os segadores: De quem é esta moça? ^v5
+**5** "Então, Boaz perguntou ao seu servo encarregado dos ceifeiros: ""A quem esta moça pertence?""." ^v5
 
-**6** E respondeu o moço, que estava posto sobre os segadores, e disse: Esta é a moça moabita que voltou com Noemi dos campos de Moabe. ^v6
+**6** "O servo encarregado dos ceifeiros lhe respondeu: ""Esta é a moça moabita que voltou com Noemi da terra de Moabe." ^v6
 
-**7** Disse-me ela: Deixa-me colher espigas, e ajuntá-las entre as gavelas após os segadores. Assim ela veio, e desde pela manhã está aqui até agora, a não ser um pouco que esteve sentada em casa. ^v7
+**7** "Ela me disse: 'Por favor, deixa-me recolher as espigas, entre os feixes, atrás dos ceifeiros'. Ela veio e está de pé desde cedo; somente agora descansou um pouco no abrigo"". [Algumas versões modernas lê: ""por favor, deixa-me recolher e reunir entre os feixes de grãos após os ceifeiros"".]" ^v7
 
-**8** Então disse Boaz a Rute: Ouve, filha minha; não vás colher em outro campo, nem tampouco passes daqui; porém aqui ficarás com as minhas moças. ^v8
+**8** "Então, Boaz disse a Rute: ""Tu estás me ouvindo, minha filha? Não vás colher em outro campo, não saias daqui. Em vez disso, fica aqui e trabalha com as minhas servas." ^v8
 
-**9** Os teus olhos estarão atentos no campo que segarem, e irás após elas; não dei ordem aos moços, que não te molestem? Tendo tu sede, vai aos vasos, e bebe do que os moços tirarem. ^v9
+**9** "Presta atenção somente no campo onde os homens estão ceifando e vai atrás das outras moças. Não instruí os homens a não te tocarem? E quando estiveres com sede, vai até os potes e bebe a água que os homens tiraram""." ^v9
 
-**10** Então ela caiu sobre o seu rosto, e se inclinou à terra; e disse-lhe: Por que achei graça em teus olhos, para que faças caso de mim, sendo eu uma estrangeira? ^v10
+**10** "Então ela se inclinou diante de Boaz, tocando o rosto no chão, e disse-lhe: ""Por que achei graça a teus olhos, para te preocupares comigo, uma estrangeira?""." ^v10
 
-**11** E respondeu Boaz, e disse-lhe: Bem se me contou quanto fizeste à tua sogra, depois da morte de teu marido; e deixaste a teu pai e a tua mãe, e a terra onde nasceste, e vieste para um povo que antes não conheceste. ^v11
+**11** "Boaz respondeu-lhe: ""Foi relatado a mim tudo o que tens feito desde a morte de teu marido. Como deixaste teu pai, tua mãe e tua terra natal para vir a um povo que não conheces." ^v11
 
-**12** O Senhor retribua o teu feito; e te seja concedido pleno galardão da parte do Senhor Deus de Israel, sob cujas asas te vieste abrigar. ^v12
+**12** "Que Yahweh te recompense por teu feito. Que recebas grande recompensa por parte de Yahweh, o Deus de Israel, sob cujas asas vieste buscar refúgio""." ^v12
 
-**13** E disse ela: Ache eu graça em teus olhos, senhor meu, pois me consolaste, e falaste ao coração da tua serva, não sendo eu ainda como uma das tuas criadas. ^v13
+**13** "Então, ela disse: ""Que eu continue a achar graça aos teus olhos, meu senhor, pois me consolaste e falaste bondosamente comigo, embora eu não seja uma de tuas servas""." ^v13
 
-**14** E, sendo já hora de comer, disse-lhe Boaz: Achega-te aqui, e come do pão, e molha o teu bocado no vinagre. E ela se assentou ao lado dos segadores, e ele lhe deu do trigo tostado, e comeu, e se fartou, e ainda lhe sobejou. ^v14
+**14** "Na hora da refeição, Boaz disse a Rute: ""Vem aqui e come um pouco de pão e mergulha o teu pedaço no vinagre de vinho"". Ela sentou-se ao lado dos ceifeiros, e ele lhe ofereceu alguns grãos torrados. Ela comeu até ficar satisfeita, e ainda sobrou." ^v14
 
-**15** E, levantando-se ela a colher, Boaz deu ordem aos seus moços, dizendo: Até entre as gavelas deixai-a colher, e não a censureis. ^v15
+**15** "Quando Rute se levantou para recolher as espigas, Boaz deu ordem aos seus servos, dizendo: ""Deixai que ela recolha até entre os feixes e não a impeçais." ^v15
 
-**16** E deixai cair alguns punhados, e deixai-os ficar, para que os colha, e não a repreendais. ^v16
+**16** "Certamente deixai cair algumas espigas de vossos feixes, para que ela as recolha e não a repreendeis""." ^v16
 
-**17** E esteve ela apanhando naquele campo até à tarde; e debulhou o que apanhou, e foi quase um efa de cevada. ^v17
+**17** Assim ela recolheu as espigas naquele campo até a tarde. Depois debulhou todas as espigas que havia recolhido e foi quase um efa de cevada. ^v17
 
-**18** E tomou-o, e veio à cidade; e viu sua sogra o que tinha apanhado; também tirou, e deu-lhe o que sobejara depois de fartar-se. ^v18
+**18** Ela carregou-o e foi para a cidade, e sua sogra viu o que ela tinha recolhido. Rute também trouxe os grãos torrados que havia sobrado da refeição e deu a ela. ^v18
 
-**19** Então disse-lhe sua sogra: Onde colheste hoje, e onde trabalhaste? Bendito seja aquele que te reconheceu. E relatou à sua sogra com quem tinha trabalhado, e disse: O nome do homem com quem hoje trabalhei é Boaz. ^v19
+**19** "Sua sogra disse-lhe: ""Onde tu colheste hoje? Onde tu trabalhaste? Que o homem que te ajudou seja abençoado"". Então, Rute contou a sua sogra sobre o dono do campo onde ela tinha trabalhado. Ela disse: ""O nome do homem que é dono do campo onde trabalhei hoje é Boaz""." ^v19
 
-**20** Então Noemi disse à sua nora: Bendito seja ele do Senhor, que ainda não tem deixado a sua beneficência nem para com os vivos nem para com os mortos. Disse-lhe mais Noemi: Este homem é nosso parente chegado, e um dentre os nossos remidores. ^v20
+**20** "Noemi disse a sua nora: ""Que ele seja abençoado por Yahweh, que não deixa de ser leal e bondoso com os vivos e com os mortos"". Noemi disse-lhe mais: ""Aquele homem é nosso parente; é um dos nossos resgatadores""." ^v20
 
-**21** E disse Rute, a moabita: Também ainda me disse: Com os moços que tenho te ajuntarás, até que acabem toda a sega que tenho. ^v21
+**21** "Rute, a moabita, disse: ""De fato, ele me disse: 'Fica com os meus ceifeiros, até que eles terminem toda a minha colheita'""." ^v21
 
-**22** E disse Noemi a sua nora: Melhor é, filha minha, que saias com as suas moças, para que noutro campo não te encontrem. ^v22
+**22** "Noemi disse a Rute, sua nora: ""É bom, minha filha, que saias com as servas dele, para que ninguém te perturbe em outra lavoura""." ^v22
 
-**23** Assim, ajuntou-se com as moças de Boaz, para colher até que a sega das cevadas e dos trigos se acabou; e ficou com a sua sogra. ^v23
+**23** Assim, Rute permaneceu com as servas de Boaz, até o fim da colheita da cevada e da colheita de trigo. E ela morava com a sua sogra. ^v23

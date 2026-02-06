@@ -1,79 +1,78 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Neemias|Neemias]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Neemias|Neemias]]"
+tags: [biblia]
 ---
 
 # Neemias 11
 
-**1** E os líderes do povo habitaram em Jerusalém, porém o restante do povo lançou sortes, para tirar um de dez, que habitasse na santa cidade de Jerusalém, e as nove partes nas outras cidades. ^v1
+**1** Os líderes do povo viviam em Jerusalém, e o restante do povo lançou sorte para trazer uma entre cada dez pessoas para viver em Jerusalém, a cidade santa, e as outras nove restantes permaneceriam em outras cidades. ^v1
 
-**2** E o povo bendisse a todos os homens que voluntariamente se ofereciam para habitar em Jerusalém. ^v2
+**2** E o povo abençoou todos aqueles que se ofereceram de boa vontade para morar em Jerusalém. ^v2
 
-**3** E estes são os chefes da província, que habitaram em Jerusalém; porém nas cidades de Judá habitou cada um na sua possessão, nas suas cidades, Israel, os sacerdotes, os levitas, os servidores do templo, e os filhos dos servos de Salomão. ^v3
+**3** Estes são os oficiais das províncias que viviam em Jerusalém. Entretanto, nas cidades de Judá, cada qual vivia em sua própria terra, incluindo alguns israelitas, sacerdotes, levitas, servos do templo e descendentes dos servos de Salomão. ^v3
 
-**4** Habitaram, pois, em Jerusalém alguns dos filhos de Judá e dos filhos de Benjamim. Dos filhos de Judá, Ataías, filho de Uzias, filho de Zacarias, filho de Amarias, filho de Sefatias, filho de Maalaleel, dos filhos de Perez; ^v4
+**4** Em Jerusalém viviam alguns dos descendentes de Judá e alguns dos descendentes de Benjamim. O povo de Judá incluía: Ataías, filho de Uzias, filho de Zacarias, filho de Amarias, filho de Sefatias, filho de Maalelel, descendente de Perez. ^v4
 
-**5** E Maaséias, filho de Baruque, filho de Col-Hoze, filho de Hazaías, filho de Adaías, filho de Joiaribe, filho de Zacarias, filho de Siloni. ^v5
+**5** E havia Maaseias, filho de Baruque, filho de Col-Hose, filho de Hazaías, filho de Adaías, filho de Joiaribe, filho de Zacarias, filho do silonita. ^v5
 
-**6** Todos os filhos de Perez, que habitaram em Jerusalém, foram quatrocentos e sessenta e oito homens valentes. ^v6
+**6** Todos os filhos de Perez que viviam em Jerusalém eram quatrocentos e sessenta e oito. Eles eram homens valentes. ^v6
 
-**7** E estes são os filhos de Benjamim: Salu, filho de Mesulão, filho de Joede, filho de Pedaías, filho de Colaías, filho de Maaséias, filho de Itiel, filho de Jesaías. ^v7
+**7** Estes são os descendentes de Benjamim: Salu, filho de Mesulão, filho de Joede, filho de Pedaías, filho de Colaías, filho de Maaseias, filho de Itiel, filho de Jesaías. ^v7
 
-**8** E depois dele Gabai e Salai, ao todo novecentos e vinte e oito. ^v8
+**8** E, após ele, Gabai e Salai, um total de novecentos e vinte e oito homens. ^v8
 
-**9** E Joel, filho de Zicri, superintendente sobre eles; e Judá, filho de Senua, o segundo sobre a cidade. ^v9
+**9** Joel, filho de Zicri era superintendente sobre eles, e Judá filho de Senua era o segundo no governo da cidade. ^v9
 
-**10** Dos sacerdotes: Jedaías, filho de Joiaribe, Jaquim, ^v10
+**10** E dos sacerdotes: Jedaías, filho de Joiaribe, Jaquim, ^v10
 
-**11** Seraías, filho de Hilquias, filho de Mesulão, filho de Zadoque, filho de Meraiote, filho de Aitube, líder da casa de Deus, ^v11
+**11** Seraías, filho de Hilquias, filho de Mesulão, filho de Zadoque, filho de Meraiote, filho de Aitube, príncipe da casa de Deus, ^v11
 
-**12** E seus irmãos, que faziam a obra na casa, oitocentos e vinte e dois; e Adaías, filho de Jeroão, filho de Pelalias, filho de Anzi, filho de Zacarias, filho de Pasur, filho de Malquias, ^v12
+**12** e seus companheiros que faziam o trabalho da casa, oitocentos e vinte e dois homens. Seguindo vem Adaías, filho de Jeroão, filho de Pelalias, filho de Anzi, filho de Zacarias, filho de Pasur, filho de Malquias. ^v12
 
-**13** E seus irmãos, chefes dos pais, duzentos e quarenta e dois; e Amassai, filho de Azareel, filho de Azai, filho de Mesilemote, filho de Imer, ^v13
+**13** Seus irmãos, que eram os cabeças das familias, duzentos e quarenta e dois homens, e Amassai, filho de Azarel, filho de Aazai, filho de Mesilemote, filho de Imer, ^v13
 
-**14** E os irmãos deles, homens valentes, cento e vinte e oito, e superintendente sobre eles Zabdiel, filho de Gedolim. ^v14
+**14** e seus irmãos, homens valentes e corajosos, cento e vinte e oito em número, e o superintendente sobre eles era Zabdial, filho de Gedolim. ^v14
 
-**15** E dos levitas: Semaías, filho de Hassube, filho de Azricão, filho de Hasabias, filho de Buni; ^v15
+**15** Dentre os levitas: Semaías, filho de Hassube, filho de Azricão, filho de Hasabias, filho de Buni, ^v15
 
-**16** E Sabetai, e Jozabade, dos chefes dos levitas, presidiam sobre a obra de fora da casa de Deus. ^v16
+**16** e Sabetai e Jozabade, que vinham dos líderes dos levitas e estavam com a responsabilidade do trabalho externo da casa de Deus. ^v16
 
-**17** E Matanias, filho de Mica, filho de Zabdi, filho de Asafe, o chefe, que iniciava as ações de graças na oração, e Bacbuquias, o segundo de seus irmãos; depois Abda, filho de Samua, filho de Galal, filho de Jedutum. ^v17
+**17** E havia Matanias, filho de Mica, filho de Zabdi, filho de Asafe, que era o diretor que liderava os momentos de ações de graças na oração, e Babebuquias, o segundo entre seus irmãos, e Abda, filho de Samua, filho de Galal, filho de Jedutum. ^v17
 
-**18** Todos os levitas na santa cidade, foram duzentos e oitenta e quatro. ^v18
+**18** Todos os levitas na cidade santa eram duzentos e oitenta e quatro. ^v18
 
-**19** E os porteiros, Acube, Talmom, com seus irmãos, os guardas das portas, cento e setenta e dois. ^v19
+**19** Os porteiros eram: Acube, Talmon e seus irmãos que guardavam as portas, cento e setenta e dois homens. ^v19
 
-**20** E o restante de Israel, dos sacerdotes e levitas, habitou em todas as cidades de Judá, cada um na sua herança. ^v20
+**20** E os restantes de Israel e dos sacerdotes e levitas estavam em todas as cidades de Judá. Cada um vivia na propriedade da sua herança. ^v20
 
-**21** E os servidores do templo, habitaram em Ofel; e Zia e Gispa presidiam sobre os servidores do templo. ^v21
+**21** Os trabalhadores do templo moravam em Ofel, e Ziá e Gispa eram os chefes deles. ^v21
 
-**22** E o superintendente dos levitas em Jerusalém foi Uzi, filho de Bani, filho de Hasabias, filho de Matanias, filho de Mica; dos filhos de Asafe, os cantores, ao serviço da casa de Deus. ^v22
+**22** O superintendente dos levitas que serviam em Jerusalém era Uzi, filho de Bani, filho de Hasabias, filho de Matanias, filho de Mica, dos descendentes de Asafe, que eram cantores no serviço da casa de Deus. ^v22
 
-**23** Porque havia um mandado do rei acerca deles, e uma certa regra para os cantores, cada qual no seu dia. ^v23
+**23** Eles estavam debaixo da autoridade do rei. Todos os dias, eram dadas ordens firmes para os cantores, conforme se requeria. ^v23
 
-**24** E Petaías, filho de Mesezabeel, dos filhos de Zerá, filho de Judá, estava à mão do rei, em todos os negócios do povo. ^v24
+**24** E Petaías, filho de Mesezabel, da descendência de Zerá, filho de Judá, estava ao lado do rei em todas as questões referentes ao povo. ^v24
 
-**25** E quanto às aldeias, com as suas terras, alguns dos filhos de Judá habitaram em Quiriate-Arba e nos lugares da sua jurisdição, e em Dibom, e nos lugares da sua jurisdição, e em Jecabzeel e nas suas aldeias, ^v25
+**25** E sobre as vilas e seus campos, alguns do povo de Judá viviam em Quiriate-Arba e suas vilas, em Dibom e suas vilas, e em Jecabzeel e suas vilas. ^v25
 
-**26** E em Jesuá, e em Molada, e em Bete-Pelete, ^v26
+**26** Eles também viviam em Jesua, Molada, em Bete-Palete, ^v26
 
-**27** E em Hazar-Sual, e em Berseba e nos lugares da sua jurisdição, ^v27
+**27** em Hasar-Sual e em Berseba e suas vilas. ^v27
 
-**28** E em Ziclague, em Mecona e nos lugares da sua jurisdição, ^v28
+**28** Alguns do povo de Judá viviam em Ziclague, Mecona e em suas vilas: ^v28
 
-**29** E em En-Rimom, em Zorá e em Jarmute, ^v29
+**29** En-Rimom, Zorá, Jarmute; ^v29
 
-**30** Em Zanoa, Adulão e nas suas aldeias, em Laquis e nas suas terras, em Azaca e nos lugares da sua jurisdição. Acamparam-se desde Berseba até ao vale de Hinom. ^v30
+**30** Zanoa, Adulão e suas vilas, em Laquis e seus campos e Azeca e suas vilas. E assim eles viviam desde Berseba até o vale de Hinom. ^v30
 
-**31** E os filhos de Benjamim habitaram desde Geba, em Micmás, Aia, Betel e nos lugares da sua jurisdição, ^v31
+**31** O povo de Benjamim também vivia em Geba, Micmás, Aia, Betel e suas vilas. ^v31
 
-**32** E em Anatote, em Nobe, em Ananias, ^v32
+**32** Eles também viviam em Anatote, Nobe, Ananias, ^v32
 
-**33** Em Hazor, em Ramá, em Gitaim, ^v33
+**33** Hazor, Ramá, Gitaim, ^v33
 
-**34** Em Hadide, em Zeboim, em Nebalate, ^v34
+**34** Hadide, Zeboim, Nebalate, ^v34
 
-**35** Em Lode e em Ono, no vale dos artífices, ^v35
+**35** Lode e Ono, o vale dos artífices. ^v35
 
-**36** E alguns dos levitas habitaram nas divisões de Judá e de Benjamim. ^v36
+**36** Alguns dos levitas que viviam em Judá estavam distribuídos também entre o povo de Benjamim. ^v36

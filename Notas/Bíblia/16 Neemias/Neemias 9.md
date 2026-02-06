@@ -1,83 +1,82 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Neemias|Neemias]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Neemias|Neemias]]"
+tags: [biblia]
 ---
 
 # Neemias 9
 
-**1** E, no dia vinte e quatro deste mês, ajuntaram-se os filhos de Israel com jejum e com sacos, e traziam terra sobre si. ^v1
+**1** No vigésimo quarto dia do mesmo mês, o povo de Israel se reuniu para um jejum usando roupas de saco e colocando pó sobre as suas cabeças. ^v1
 
-**2** E a descendência de Israel se apartou de todos os estrangeiros, e puseram-se em pé, e fizeram confissão pelos seus pecados e pelas iniqüidades de seus pais. ^v2
+**2** Os descendentes de Israel separam-se de todos os estrangeiros. Eles se levantaram e confessaram os seus próprios pecados e as iniquidades dos seus antepassados. ^v2
 
-**3** E, levantando-se no seu lugar, leram no livro da lei do Senhor seu Deus uma quarta parte do dia; e na outra quarta parte fizeram confissão, e adoraram ao Senhor seu Deus. ^v3
+**3** Eles se levantaram nos seus lugares, e por uma quarta parte do dia, leram o Livro da Lei de Yahweh, seu Deus. Na outra quarta parte do dia, eles ficaram confessando-se e curvando-se perante Yahweh, seu Deus. ^v3
 
-**4** E Jesuá, Bani, Cadmiel, Sebanias, Buni, Serebias, Bani e Quenani se puseram em pé no lugar alto dos levitas, e clamaram em alta voz ao Senhor seu Deus. ^v4
+**4** Os levitas Jesua, Bani, Cadmiel, Sebanias, Buni, Serebias, Bani e Quenani ficaram de pé nas escadas e chamaram em voz alta a Yahweh, seu Deus. ^v4
 
-**5** E os levitas, Jesuá, Cadmiel, Bani, Hasabnéias, Serebias, Hodias, Sebanias e Petaías, disseram: Levantai-vos, bendizei ao Senhor vosso Deus de eternidade em eternidade; e bendigam o teu glorioso nome, que está exaltado sobre toda a bênção e louvor. ^v5
+**5** "Então, os levitas Jesua, Cadmiel, Bani, Hasabneias, Serebias, Hodias, Sebanias e Petaías disseram: ""Levantai-vos e louvai a Yahweh, vosso Deus, para sempre e sempre. Que eles bendigam ao Teu glorioso nome, e que seja exaltado acima de toda benção e louvor." ^v5
 
-**6** Só tu és Senhor; tu fizeste o céu, o céu dos céus, e todo o seu exército, a terra e tudo quanto nela há, os mares e tudo quanto neles há, e tu os guardas com vida a todos; e o exército dos céus te adora. ^v6
+**6** Tu és Yahweh. Somente Tu. Tu fizestes o céu, os mais altos céus, com todos os seus exércitos, e a Terra e tudo o que nela há, e os mares e tudo o que neles há. Tu destes vida a todos, e os exércitos do céu Te adoram. ^v6
 
-**7** Tu és o Senhor, o Deus, que elegeste a Abrão, e o tiraste de Ur dos caldeus, e lhe puseste por nome Abraão. ^v7
+**7** Tu és Yahweh, o Deus que escolheu Abrão e o tirou de Ur dos caldeus e deu-lhe o nome de Abraão. ^v7
 
-**8** E achaste o seu coração fiel perante ti, e fizeste com ele a aliança, de que darias à sua descendência a terra dos cananeus, dos heteus, dos amorreus, dos perizeus, dos jebuseus e dos girgaseus; e confirmaste as tuas palavras, porquanto és justo. ^v8
+**8** Vistes que o coração dele era fiel diante de Ti e fizestes com ele uma aliança pela qual daria aos seus descendentes a terra dos cananeus, dos heteus, dos amorreus, dos perizeus, dos jebuseus e dos girgaseus. Tu cumpriste a Tua promessa porque És justo. ^v8
 
-**9** E viste a aflição de nossos pais no Egito, e ouviste o seu clamor junto ao Mar Vermelho. ^v9
+**9** Tu vistes a aflição de nossos antepassados no Egito e ouvistes o seu clamor junto ao mar Vermelho. ^v9
 
-**10** E mostraste sinais e prodígios a Faraó, e a todos os seus servos, e a todo o povo da sua terra, porque soubeste que soberbamente os trataram; e assim adquiriste para ti nome, como hoje se vê. ^v10
+**10** Fizeste sinais e maravilhas contra o Faraó, todos os seus servos e todo o povo da sua terra, porque sabias que os egípcios agiam com arrogância contra eles. Mas Tu fizeste para Ti mesmo um nome, que permanece até hoje. ^v10
 
-**11** E o mar fendeste perante eles, e passaram pelo meio do mar, em seco; e lançaste os seus perseguidores nas profundezas, como uma pedra nas águas violentas. ^v11
+**11** Tu dividiste o mar diante deles, de modo que passaram pelo meio do mar em terra seca; e lançaste os seus perseguidores nas profundezas, como uma pedra em águas profundas. ^v11
 
-**12** E guiaste-os de dia por uma coluna de nuvem, e de noite por uma coluna de fogo, para lhes iluminar o caminho por onde haviam de ir. ^v12
+**12** Tu os guiaste com uma coluna de nuvem durante o dia, e uma coluna de fogo durante a noite, para iluminar o caminho onde deveriam ir. ^v12
 
-**13** E sobre o monte Sinai desceste, e dos céus falaste com eles, e deste-lhes juízos retos e leis verdadeiras, estatutos e mandamentos bons. ^v13
+**13** No monte Sinai Tu desceste e falaste com eles do céu e deste-lhes decretos justos e leis verdadeiras, bons estatutos e mandamentos. ^v13
 
-**14** E o teu santo sábado lhes fizeste conhecer; e preceitos, estatutos e lei lhes mandaste pelo ministério de Moisés, teu servo. ^v14
+**14** Tu fizeste conhecido a eles o Teu santo sábado e deste-lhes mandamentos, estatutos e leis através de Moisés, Teu servo. ^v14
 
-**15** E pão dos céus lhes deste na sua fome, e água da penha lhes produziste na sua sede; e lhes disseste que entrassem para possuírem a terra pela qual alçaste a tua mão, que lhes havias de dar. ^v15
+**15** Tu deste-lhes pão do céu para sua fome e água da rocha para sua sede, e Tu lhes disseste para irem e tomarem posse da terra que juraste lhes dar. ^v15
 
-**16** Porém eles e nossos pais se houveram soberbamente, e endureceram a sua cerviz, e não deram ouvidos aos teus mandamentos. ^v16
+**16** Mas eles e os nossos antepassados agiram desrespeitosamente, e foram teimosos e não escutaram os Teus mandamentos. ^v16
 
-**17** E recusaram ouvir-te, e não se lembraram das tuas maravilhas, que lhes fizeste, e endureceram a sua cerviz e, na sua rebelião, levantaram um capitão, a fim de voltarem para a sua servidão; porém tu, ó Deus perdoador, clemente e misericordioso, tardio em irar-te, e grande em beneficência, tu não os desamparaste. ^v17
+**17** Eles se recusaram a escutar e não lembraram das maravilhas que fizeste entre eles, mas tornaram-se teimosos, e na sua rebeldia escolheram um líder para retornar à sua escravidão. Mas Tu és um Deus cheio de perdão, graça e compaixão, demoras a ficar irado e és cheio de amor. Tu não os abandonastes. ^v17
 
-**18** Ainda mesmo quando eles fizeram para si um bezerro de fundição, e disseram: Este é o teu Deus, que te tirou do Egito; e cometeram grandes blasfêmias; ^v18
+**18** Mesmo quando eles fundiram um bezerro de metal e disseram: 'Este é vosso Deus que vos tirou do Egito', e cometeram grandes blasfêmias; ^v18
 
-**19** Todavia tu, pela multidão das tuas misericórdias, não os deixaste no deserto. A coluna de nuvem nunca se apartou deles de dia, para os guiar pelo caminho, nem a coluna de fogo de noite, para lhes iluminar; e isto pelo caminho por onde haviam de ir. ^v19
+**19** Tu, na Tua compaixão, não os abandonaste no deserto. A coluna de nuvem para guiá-los no caminho não os deixava durante o dia, e nem a coluna de fogo durante noite para iluminar o caminho em que eles deveriam andar. ^v19
 
-**20** E deste o teu bom espírito, para os ensinar; e o teu maná não retiraste da sua boca; e água lhes deste na sua sede. ^v20
+**20** Tu deste o teu bom Espírito para instruí-los e o Teu maná Tu não negaste à boca deles, e deste água para a sede deles. ^v20
 
-**21** De tal modo os sustentaste quarenta anos no deserto; nada lhes faltou; as suas roupas não se envelheceram, e os seus pés não se incharam. ^v21
+**21** Por quarenta anos Tu proveste para eles no deserto e não lhes faltava nada. As suas roupas não envelheceram e os seus pés não incharam. ^v21
 
-**22** Também lhes deste reinos e povos, e os repartiste em porções; e eles possuíram a terra de Siom, a saber, a terra do rei de Hesbom, e a terra de Ogue, rei de Basã. ^v22
+**22** Tu lhes deste reinos e povos, e distribuiste para eles cada canto da terra. Então, eles tomaram posse da terra de Siom, rei de Hesbom, e a terra do Ogue, rei de Basã. ^v22
 
-**23** E multiplicaste os seus filhos como as estrelas do céu, e trouxeste-os à terra de que tinhas falado a seus pais que nela entrariam para a possuírem. ^v23
+**23** Tu fizestes os seus filhos tão numerosos quantos as estrelas do céu, e os trouxe para a terra que Tu falaste aos seus antepassados para entrar e possuir. ^v23
 
-**24** Assim os filhos entraram e possuíram aquela terra; e abateste perante eles os moradores da terra, os cananeus, e lhos entregaste na mão, como também os reis e os povos da terra, para fazerem deles conforme a sua vontade. ^v24
+**24** Então, o povo entrou e possuiu a terra e Tu subjugaste diante deles os habitantes da terra, os cananeus. Tu os deste nas suas mãos, com os seus reis e os povos da terra, para que Israel pudesse fazer com eles o que bem quisesse. ^v24
 
-**25** E tomaram cidades fortificadas e terra fértil, e possuíram casas cheias de toda a fartura, cisternas cavadas, vinhas e olivais, e árvores frutíferas, em abundância; e comeram e se fartaram e engordaram e viveram em delícias, pela tua grande bondade. ^v25
+**25** Eles capturaram as cidades fortes e uma terra produtiva, e capturaram casas cheias de todo tipo de bens, cisternas já cavadas, vinhas e olivais e árvores frutíferas em abundância. Então, eles comeram e ficaram satisfeitos, e engordaram, e deleitaram-se em Tua grande bondade. ^v25
 
-**26** Porém se obstinaram, e se rebelaram contra ti, e lançaram a tua lei para trás das suas costas, e mataram os teus profetas, que protestavam contra eles, para que voltassem para ti; assim fizeram grandes abominações. ^v26
+**26** Ainda assim, eles se tornaram desobedientes e se rebelaram contra Ti. Lançaram a Tua Lei para trás das costas. Eles assassinaram Teus profetas que os alertaram para voltar-se a Ti, e cometeram grandes blasfêmias. ^v26
 
-**27** Por isso os entregaste na mão dos seus adversários, que os angustiaram; mas no tempo de sua angústia, clamando a ti, desde os céus tu ouviste; e segundo a tua grande misericórdia lhes deste libertadores que os libertaram da mão de seus adversários. ^v27
+**27** Então, Tu os entregaste nas mãos dos seus inimigos, que os fizeram sofrer. E no tempo do seu sofrimento, eles clamaram a Ti, e Tu os ouviste do céu; e, por causa das Tuas grandes misericórdias, Tu enviaste libertadores que os livraram das mãos dos seus inimigos. ^v27
 
-**28** Porém, em tendo repouso, tornavam a fazer o mal diante de ti; e tu os deixavas na mão dos seus inimigos, para que dominassem sobre eles; e convertendo-se eles, e clamando a ti, tu os ouviste desde os céus, e segundo a tua misericórdia os livraste muitas vezes. ^v28
+**28** Mas, depois que eles descansaram, fizeram o mal novamente diante de Ti, e Tu os abandonaste nas mãos dos seus inimigos; então os seus inimigos dominaram sobre eles. No entanto, quando eles retornaram e clamaram a Ti, Tu os ouviste do céu; muitas vezes, por causa da Tua compaixão, Tu os resgataste. ^v28
 
-**29** E testificaste contra eles, para que voltassem para a tua lei; porém eles se houveram soberbamente, e não deram ouvidos aos teus mandamentos, mas pecaram contra os teus juízos, pelos quais o homem que os cumprir viverá; viraram o ombro, endureceram a sua cerviz, e não quiseram ouvir. ^v29
+**29** Tu os alertaste para que voltassem à Tua Lei. Contudo eles agiram arrogantemente e não escutaram os Teus mandamentos. Eles pecaram contra os Teus decretos que dão vida a qualquer um que obedecê-los. Eles viraram as costas obstinadamente e endureceram seus pescoços e se recusaram a ouvir. ^v29
 
-**30** Porém estendeste a tua benignidade sobre eles por muitos anos, e testificaste contra eles pelo teu Espírito, pelo ministério dos teus profetas; porém eles não deram ouvidos; por isso os entregaste nas mãos dos povos das terras. ^v30
+**30** Por muitos anos os suportaste e os advertiste pelo Teu Espírito através dos Teus profetas. Mesmo assim eles não escutaram. Então, Tu os entregaste nas mãos dos povos vizinhos. ^v30
 
-**31** Mas pela tua grande misericórdia os não destruíste nem desamparaste, porque és um Deus clemente e misericordioso. ^v31
+**31** Mas, nas Tuas grandes misericórdias, Tu não os destruíste completamente, nem os abandonaste, pois Tu és um Deus gracioso e misericordioso. ^v31
 
-**32** Agora, pois, nosso Deus, o grande, poderoso e terrível Deus, que guardas a aliança e a beneficência, não tenhas em pouca conta toda a aflição que nos alcançou a nós, aos nossos reis, aos nossos príncipes, aos nossos sacerdotes, aos nossos profetas, aos nossos pais e a todo o teu povo, desde os dias dos reis da Assíria até ao dia de hoje. ^v32
+**32** Agora nosso Deus, o grande, o poderoso e maravilhoso Deus, que mantém a Sua aliança e grande amor, não deixe que pareça pequena para a Ti toda essa dificuldade que veio sobre nós, nossos reis, nossos príncipes, e sobre nossos sacerdotes e nossos profetas e nossos antepassados e todo o povo desde os dias dos reis da Assíria até o dia de hoje. ^v32
 
-**33** Porém tu és justo em tudo quanto tem vindo sobre nós; porque tu tens agido fielmente, e nós temos agido impiamente. ^v33
+**33** Tu és justo em tudo que nos tem acontecido, pois Tu tens agido com fidelidade, mas nós temos agido perversamente. ^v33
 
-**34** E os nossos reis, os nossos príncipes, os nossos sacerdotes, e os nossos pais não guardaram a tua lei, e não deram ouvidos aos teus mandamentos e aos teus testemunhos, que testificaste contra eles. ^v34
+**34** Nossos reis, nossos príncipes, nossos sacerdotes, e nossos antepassados não têm guardado a Tua Lei, nem prestado atenção aos Teus mandamentos ou aos decretos da Tua aliança pela qual Tu os advertiste. ^v34
 
-**35** Porque eles nem no seu reino, nem na muita abundância de bens que lhes deste, nem na terra espaçosa e fértil que puseste diante deles, te serviram, nem se converteram de suas más obras. ^v35
+**35** Mesmo no seu próprio reino, enquanto eles desfrutavam da Tua grande bondade para com eles, na grande e produtiva terra que Tu colocaste diante deles, eles não Te serviram ou deixaram os seus maus caminhos. ^v35
 
-**36** Eis que hoje somos servos; e até na terra que deste a nossos pais, para comerem o seu fruto e o seu bem, eis que somos servos nela. ^v36
+**36** Agora nós somos escravos na terra que deste aos nossos antepassados para desfrutar seus frutos e suas boas dádivas, e eis que nós somos escravos nela! ^v36
 
-**37** E ela multiplica os seus produtos para os reis, que puseste sobre nós, por causa dos nossos pecados; e conforme a sua vontade dominam sobre os nossos corpos e sobre o nosso gado; e estamos numa grande angústia. ^v37
+**37** A rica produção das nossas terras vai para os reis que Tu colocaste sobre nós por causa dos nossos pecados. Eles reinam sobre os nossos corpos e sobre o nossos gados como eles querem. Nós estamos em grande angústia. ^v37
 
-**38** E, todavia fizemos uma firme aliança, e o escrevemos; e selaram-no os nossos príncipes, os nossos levitas e os nossos sacerdotes. ^v38
+**38** "Por causa de tudo isso, nós firmamos uma aliança por escrito. No documento selado estão os nomes dos nossos príncipes, levitas, e sacerdotes""." ^v38

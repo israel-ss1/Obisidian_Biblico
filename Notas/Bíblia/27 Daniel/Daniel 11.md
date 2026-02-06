@@ -1,97 +1,96 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Daniel|Daniel]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Daniel|Daniel]]"
+tags: [biblia]
 ---
 
 # Daniel 11
 
-**1** Eu, pois, no primeiro ano de Dario, o medo, levantei-me para animá-lo e fortalecê-lo. ^v1
+**1** """No primeiro ano de Dario, o medo, Eu mesmo vim apoiar e proteger Miguel." ^v1
 
-**2** E agora te declararei a verdade: Eis que ainda três reis estarão na Pérsia, e o quarto acumulará grandes riquezas, mais do que todos; e, tornando-se forte, por suas riquezas, suscitará a todos contra o reino da Grécia. ^v2
+**2** E agora, revelarei a verdade para ti. Três reis surgirão na Pérsia, e o quarto será muito mais rico que todos os outros. Quando ele ganhar poder através de suas riquezas, ele incitará todos contra o reino da Grécia. ^v2
 
-**3** Depois se levantará um rei valente, que reinará com grande domínio, e fará o que lhe aprouver. ^v3
+**3** Um poderoso rei se levantará e governará um grande reino, e agirá de acordo com os seus desejos. ^v3
 
-**4** Mas, estando ele em pé, o seu reino será quebrado, e será repartido para os quatro ventos do céu; mas não para a sua posteridade, nem tampouco segundo o seu domínio com que reinou, porque o seu reino será arrancado, e passará a outros que não eles. ^v4
+**4** Quando ele se levantar, seu reino será quebrado e dividido para os quatro ventos do céu, e não para seus descendentes, e não terá a autoridade de antes. Pois seu reino será desenraizado e dado a outros que não são seus descendentes. ^v4
 
-**5** E será forte o rei do sul; mas um dos seus príncipes será mais forte do que ele, e reinará poderosamente; seu domínio será grande. ^v5
+**5** O rei do sul se tornará forte, mas um dos seus comandantes será ainda mais forte do que ele, e governará seu reino com grande poder. ^v5
 
-**6** Mas, ao fim de alguns anos, eles se aliarão; e a filha do rei do sul virá ao rei do norte para fazer um tratado; mas ela não reterá a força do seu braço; nem ele persistirá, nem o seu braço, porque ela será entregue, e os que a tiverem trazido, e seu pai, e o que a fortalecia naqueles tempos. ^v6
+**6** Depois de alguns anos, no tempo certo, eles farão uma aliança. A filha do rei do sul virá ao rei do norte para confirmar o acordo. Mas ela não conservará o seu poder, nem manterá o dele. Ela será abandonada; ela e aqueles que a trouxeram, seu pai e aqueles que a apoiaram naqueles tempos. ^v6
 
-**7** Mas de um renovo das raízes dela um se levantará em seu lugar, e virá com o exército, e entrará na fortaleza do rei do norte, e operará contra eles, e prevalecerá. ^v7
+**7** Mas, das suas raízes, um ramo crescerá em seu lugar. Ele atacará o exército e entrará na fortaleza do rei do norte, guerreará contra eles e os conquistará. ^v7
 
-**8** Também os seus deuses com as suas imagens de fundição, com os seus objetos preciosos de prata e ouro, levará cativos para o Egito; e por alguns anos ele persistirá contra o rei do norte. ^v8
+**8** Ele levará seus deuses para o Egito, junto com suas figuras de metal fundido e seus preciosos vasos de prata e de ouro e, por alguns anos, evitará atacar o rei do norte. ^v8
 
-**9** E entrará no reino o rei do sul, e tornará para a sua terra. ^v9
+**9** O rei do norte invadirá a região do reino do sul, mas retornará à sua própria terra. ^v9
 
-**10** Mas seus filhos intervirão e reunirão uma multidão de grandes forças; e virá apressadamente e inundará, e passará adiante; e, voltando levará a guerra até a sua fortaleza. ^v10
+**10** Seus filhos se prepararão e montarão um grande exército, o qual avançará e arrasará tudo. Ele percorrerá todo o caminho até chegar à sua fortaleza. ^v10
 
-**11** Então o rei do sul se exasperará, e sairá, e pelejará contra ele, contra o rei do norte; este porá em campo grande multidão, e aquela multidão será entregue na sua mão. ^v11
+**11** Então, o rei do sul ficará muito irado e lutará contra o rei do norte. E este levantará um grande exército, mas será derrotado. ^v11
 
-**12** A multidão será tirada e o seu coração se elevará; mas ainda que derrubará muitos milhares, contudo não prevalecerá. ^v12
+**12** O exército será arrasado, o coração do rei do sul se exaltará e derrotará dezenas de milhares, mas, mesmo assim, ele não será vitorioso. ^v12
 
-**13** Porque o rei do norte tornará, e porá em campo uma multidão maior do que a primeira, e ao fim dos tempos, isto é, de anos, virá à pressa com grande exército e com muitas riquezas. ^v13
+**13** O rei do norte erguerá um outro exército, maior que o primeiro. Alguns anos depois, o rei do norte, certamente, voltará com um exército maior, com fortes armamentos. ^v13
 
-**14** E, naqueles tempos, muitos se levantarão contra o rei do sul; e os violentos dentre o teu povo se levantarão para cumprir a visão, mas eles cairão. ^v14
+**14** Naqueles tempos, muitos se levantarão contra o rei do sul. Os mais violentos entre o teu povo se juntarão a eles para cumprir a visão, mas eles tropeçarão. ^v14
 
-**15** E o rei do norte virá, e levantará baluartes, e tomará a cidade forte; e os braços do sul não poderão resistir, nem o seu povo escolhido, pois não haverá força para resistir. ^v15
+**15** O rei do norte virá, construirá rampas e conquistará uma cidade fortificada. As forças do sul, nem mesmo os seus melhores soldados, não serão capazes de resistir. ^v15
 
-**16** O que, pois, há de vir contra ele fará segundo a sua vontade, e ninguém poderá resistir diante dele; e estará na terra gloriosa, e por sua mão haverá destruição. ^v16
+**16** O invasor fará tudo o quiser contra ele, e ninguém poderá detê-lo. Ele se estabelecerá na gloriosa terra de Israel e a destruição estará na sua mão. ^v16
 
-**17** E dirigirá o seu rosto, para vir com a potência de todo o seu reino, e com ele os retos, assim ele fará; e lhe dará uma filha das mulheres, para corrompê-la; ela, porém, não subsistirá, nem será para ele. ^v17
+**17** O rei do norte virá com determinação e com a força de todo o seu reino, e fará um acordo com o rei do sul. A este, ele dará a sua filha em casamento para lhe destruir o reino. Porém, o plano não terá sucesso nem o ajudará. ^v17
 
-**18** Depois virará o seu rosto para as ilhas, e tomará muitas; mas um príncipe fará cessar o seu opróbrio contra ele, e ainda fará recair sobre ele o seu opróbrio. ^v18
+**18** Depois disso, o rei do norte atentará às regiões costeiras e dominará muitas delas. Mas um comandante porá fim à sua insolência e, com audácia, lhe retribuirá. ^v18
 
-**19** Virará então o seu rosto para as fortalezas da sua própria terra, mas tropeçará, e cairá, e não será achado. ^v19
+**19** Então, ele atentará às fortalezas da sua própria terra, mas tropeçará e cairá, e não será encontrado. ^v19
 
-**20** E em seu lugar se levantará quem fará passar um arrecadador pela glória do reino; mas em poucos dias será quebrantado, e isto sem ira e sem batalha. ^v20
+**20** Então, alguém se levantará em seu lugar e aumentará os impostos pagos para manter o esplendor do reino. Porém, em pouco dias ele será destruído, sem ira ou batalhas. ^v20
 
-**21** Depois se levantará em seu lugar um homem vil, ao qual não tinham dado a dignidade real; mas ele virá caladamente, e tomará o reino com engano. ^v21
+**21** Em seu lugar, se levantará um desprezado, a quem o povo não deu a honra da realeza; ele virá tranquilamente e tomará o reino, com astúcia. ^v21
 
-**22** E com os braços de uma inundação serão varridos de diante dele; e serão quebrantados, como também o príncipe da aliança. ^v22
+**22** Um exército será varrido, como uma inundação, perante ele. Ambos, exército e líder, estabelecidos pela aliança, serão destruídos. ^v22
 
-**23** E, depois do concerto com ele, usará de engano; e subirá, e se tornará forte com pouca gente. ^v23
+**23** A partir do momento em que for feita a aliança, ele agirá enganosamente; com apenas um pequeno número de pessoas se tornará forte. ^v23
 
-**24** Virá também caladamente aos lugares mais férteis da província, e fará o que nunca fizeram seus pais, nem os pais de seus pais; repartirá entre eles a presa e os despojos, e os bens, e formará os seus projetos contra as fortalezas, mas por certo tempo. ^v24
+**24** Sem aviso, ele virá para a parte mais rica da província e fará o que nem seu pai, nem seu avô fizeram; dividirá, entre seus seguidores, o saque, a pilhagem e a riqueza. Ele tramará a derrubada das fortalezas, mas somente por um tempo. ^v24
 
-**25** E suscitará a sua força e a sua coragem contra o rei do sul com um grande exército; e o rei do sul se envolverá na guerra com um grande e mui poderoso exército; mas não subsistirá, porque maquinarão projetos contra ele. ^v25
+**25** Ele juntará seu poder e sua coragem e reunirá um grande exército contra o rei do sul. O rei do sul travará batalha com um grande e poderoso exército, mas ele não será capaz de resistir por causa dos planos feitos contra ele. ^v25
 
-**26** E os que comerem os seus alimentos o destruirão; e o exército dele será arrasado, e cairão muitos mortos. ^v26
+**26** Mesmo aqueles que comem suas finas comidas tentarão destruí-lo. Seu exército será varrido como uma inundação e muitos deles serão mortos. ^v26
 
-**27** Também estes dois reis terão o coração atento para fazerem o mal, e a uma mesma mesa falarão a mentira; mas isso não prosperará, porque ainda verá o fim no tempo determinado. ^v27
+**27** Com seus corações voltados para o mal, esses reis se sentarão na mesma mesa, mas mentirão um ao outro. Tal diálogo não os ajudará, pois o fim virá no tempo determinado. ^v27
 
-**28** Então tornará para a sua terra com muitos bens, e o seu coração será contra a santa aliança; e fará o que lhe aprouver, e tornará para a sua terra. ^v28
+**28** Então, o rei do norte retornará para sua terra com muitas riquezas; porém, seu coração estará contra a santa aliança. Ele fará o que desejar e retornará para sua terra. ^v28
 
-**29** No tempo determinado tornará a vir em direção do sul; mas não será na última vez como foi na primeira. ^v29
+**29** No tempo determinado, ele voltará e invadirá o sul novamente. Porém, desta vez não será como antes. ^v29
 
-**30** Porque virão contra ele navios de Quitim, que lhe causarão tristeza; e voltará, e se indignará contra a santa aliança, e fará o que lhe aprouver; voltará e atenderá aos que tiverem abandonado a santa aliança. ^v30
+**30** Pois ele terá medo dos navios de Quitim e voltará atrás. Ele se enfurecerá contra a santa aliança e mostrará benevolência para com aqueles que abandonarem a santa aliança. ^v30
 
-**31** E braços serão colocados sobre ele, que profanarão o santuário e a fortaleza, e tirarão o sacrifício contínuo, estabelecendo abominação desoladora. ^v31
+**31** Seus exércitos se levantarão e profanarão o Santuário, isto é, a fortaleza; eles farão cessar os holocaustos contínuos e estabelecerão a abominação, que causará completa desolação. ^v31
 
-**32** E aos violadores da aliança ele com lisonjas perverterá, mas o povo que conhece ao seu Deus se tornará forte e fará proezas. ^v32
+**32** Ele enganará aqueles que tiverem violado a aliança e os seduzirá, mas o povo que conhece o seu Deus será forte e tomará uma atitude. ^v32
 
-**33** E os entendidos entre o povo ensinarão a muitos; todavia cairão pela espada, e pelo fogo, e pelo cativeiro, e pelo roubo, por muitos dias. ^v33
+**33** Os sábios entre o povo instruirão a muitos. Mas tropeçarão pela espada, pelo fogo, pelo cativeiro, e serão roubados de suas posses. ^v33
 
-**34** E, caindo eles, serão ajudados com pequeno socorro; mas muitos se ajuntarão a eles com lisonjas. ^v34
+**34** Ao caírem, receberão uma pequena ajuda, mas muitos se juntarão a eles com falsidade. ^v34
 
-**35** E alguns dos entendidos cairão, para serem provados, purificados, e embranquecidos, até ao fim do tempo, porque será ainda para o tempo determinado. ^v35
+**35** Alguns dos sábios tropeçarão para que sejam refinados, limpos e purificados até o fim do tempo. Pois o tempo determinado ainda virá. ^v35
 
-**36** E este rei fará conforme a sua vontade, e levantar-se-á, e engrandecer-se-á sobre todo deus; e contra o Deus dos deuses falará coisas espantosas, e será próspero, até que a ira se complete; porque aquilo que está determinado será feito. ^v36
+**36** O rei fará o que desejar. Ele exaltará e magnificará a si mesmo acima de todos os deuses, falará coisas surpreendentes contra o Deus dos deuses e prosperará até que a ira esteja completa, pois o que foi decretado se cumprirá. ^v36
 
-**37** E não terá respeito ao Deus de seus pais, nem terá respeito ao amor das mulheres, nem a deus algum, porque sobre tudo se engrandecerá. ^v37
+**37** Ele não mostrará respeito pelo Deus de seus pais, nem pelo deus preferido das mulheres, ou por qualquer outro deus, pois agirá orgulhosamente e se proclamará acima de tudo. ^v37
 
-**38** Mas em seu lugar honrará a um deus das forças; e a um deus a quem seus pais não conheceram honrará com ouro, e com prata, e com pedras preciosas, e com coisas agradáveis. ^v38
+**38** Ao invés deles, ele honrará o deus das fortalezas. Ele honrará com prata e ouro, com pedras preciosas e presentes caros, um deus a quem seus antepassados não conheceram. ^v38
 
-**39** Com o auxílio de um deus estranho agirá contra as poderosas fortalezas; aos que o reconhecerem multiplicará a honra, e os fará reinar sobre muitos, e repartirá a terra por preço. ^v39
+**39** Ele atacará a fortaleza mais forte com a ajuda de um deus estrangeiro. Ele dará muita honra a qualquer um que o reconheça. Ele os fará governar sobre muitos e dividirá a terra como recompensa. ^v39
 
-**40** E, no fim do tempo, o rei do sul lutará com ele, e o rei do norte se levantará contra ele com carros, e com cavaleiros, e com muitos navios; e entrará nas suas terras e as inundará, e passará. ^v40
+**40** No tempo do fim, o rei do sul atacará. O rei do norte virá contra ele como tempestade, com carros e cavaleiros e muitos navios. Ele virá contra as terras, as atravessará e arrasará tudo. ^v40
 
-**41** E entrará na terra gloriosa, e muitos países cairão, mas da sua mão escaparão estes: Edom e Moabe, e os chefes dos filhos de Amom. ^v41
+**41** Ele virá para a terra gloriosa de Israel e dezenas de milhares de israelitas cairão, mas muitos de Edom e Moabe, e os remanescentes do povo de Amom escaparão de suas mãos. ^v41
 
-**42** E estenderá a sua mão contra os países, e a terra do Egito não escapará. ^v42
+**42** Ele estenderá sua mão para as terras; a terra do Egito não escapará. ^v42
 
-**43** E apoderar-se-á dos tesouros de ouro e de prata e de todas as coisas preciosas do Egito; e os líbios e os etíopes o seguirão. ^v43
+**43** Terá autoridade sobre os tesouros de ouro e prata, e sobre todas as riquezas do Egito; os líbios e os etíopes o servirão. ^v43
 
-**44** Mas os rumores do oriente e do norte o espantarão; e sairá com grande furor, para destruir e extirpar a muitos. ^v44
+**44** Porém, notícias do leste e do norte o alarmarão e ele seguirá com grande fúria para destruir e separar muitos para a destruição. ^v44
 
-**45** E armará as tendas do seu palácio entre o mar grande e o monte santo e glorioso; mas chegará ao seu fim, e não haverá quem o socorra. ^v45
+**45** "Ele assentará barracas em seu palácio, entre os mares e o glorioso monte santo. Seu fim virá e não haverá quem o socorra""." ^v45

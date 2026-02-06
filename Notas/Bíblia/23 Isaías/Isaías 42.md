@@ -1,57 +1,56 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Isaías|Isaías]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Isaías|Isaías]]"
+tags: [biblia]
 ---
 
 # Isaías 42
 
-**1** Eis aqui o meu servo, a quem sustenho, o meu eleito, em quem se apraz a minha alma; pus o meu espírito sobre ele; ele trará justiça aos gentios. ^v1
+**1** Eis aqui o Meu Servo, a Quem Eu sustento; o Meu Escolhido, em Quem tenho alegria. Eu pus o Meu Espírito sobre Ele; Ele trará justiça às nações. ^v1
 
-**2** Não clamará, não se exaltará, nem fará ouvir a sua voz na praça. ^v2
+**2** Não clamará, nem gritará; não fará Sua voz ser ouvida nas ruas. ^v2
 
-**3** A cana trilhada não quebrará, nem apagará o pavio que fumega; com verdade trará justiça. ^v3
+**3** A cana esmagada, Ele não a quebrará e o pavio que fumega, Ele não o apagará; Ele estabelecerá a justiça com fidelidade. ^v3
 
-**4** Não faltará, nem será quebrantado, até que ponha na terra a justiça; e as ilhas aguardarão a sua lei. ^v4
+**4** Não Se cansará, nem desanimará, até que tenha estabelecido a justiça na terra; e as terras costeiras esperarão por Sua Lei. ^v4
 
-**5** Assim diz Deus, o Senhor, que criou os céus, e os estendeu, e espraiou a terra, e a tudo quanto produz; que dá a respiração ao povo que nela está, e o espírito aos que andam nela. ^v5
+**5** Assim diz Deus Yahweh — Aquele que criou os céus e os estendeu, que fez a terra e tudo que ela produz, que dá fôlego às pessoas que nela vivem e vida aos que nela habitam: ^v5
 
-**6** Eu, o Senhor, te chamei em justiça, e te tomarei pela mão, e te guardarei, e te darei por aliança do povo, e para luz dos gentios. ^v6
+**6** “Eu, Yahweh,Te chamei em justiça e segurarei a Tua mão. Eu Te guardarei e Te estabelecerei como aliança para o povo, como uma luz para os gentios, ^v6
 
-**7** Para abrir os olhos dos cegos, para tirar da prisão os presos, e do cárcere os que jazem em trevas. ^v7
+**7** para abrires os olhos dos cegos, para libertares os cativos da prisão e, do cárcere, aqueles que estão nas trevas. ^v7
 
-**8** Eu sou o Senhor; este é o meu nome; a minha glória, pois, a outrem não darei, nem o meu louvor às imagens de escultura. ^v8
+**8** Eu sou Yahweh, este é o Meu nome; Minha glória Eu não darei a nenhum outro, nem Meu louvor aos ídolos de escultura. ^v8
 
-**9** Eis que as primeiras coisas já se cumpriram, e as novas eu vos anuncio, e, antes que venham à luz, vo-las faço ouvir. ^v9
+**9** Eis que as primeiras coisas já se passaram; agora, Eu anuncio coisas novas. Antes que aconteçam, Eu vos contarei sobre elas. ^v9
 
-**10** Cantai ao Senhor um cântico novo, e o seu louvor desde a extremidade da terra; vós os que navegais pelo mar, e tudo quanto há nele; vós, ilhas, e seus habitantes. ^v10
+**10** Cantai a Yahweh uma nova canção e Seu louvor desde os confins da terra; vós, os que navegais pelo mar e tudo quanto nele há; vós, terras costeiras, e aqueles que lá vivem. ^v10
 
-**11** Alcem a voz o deserto e as suas cidades, com as aldeias que Quedar habita; exultem os que habitam nas rochas, e clamem do cume dos montes. ^v11
+**11** Que o deserto e as cidades clamem, as aldeias onde Quedar habita gritem de alegria! Que os moradores de Selá cantem; gritem do alto dos montes. ^v11
 
-**12** Dêem a glória ao Senhor, e anunciem o seu louvor nas ilhas. ^v12
+**12** Que eles deem glória a Yahweh e anunciem Seu louvor nas ilhas. ^v12
 
-**13** O Senhor sairá como poderoso, como homem de guerra despertará o zelo; clamará, e fará grande ruído, e prevalecerá contra seus inimigos. ^v13
+**13** Yahweh sairá como um guerreiro; como um homem de guerra, Ele despertará Seu zelo. Gritará, sim, dará Seus gritos de guerra; Ele mostrará Seu poder aos Seus inimigos. ^v13
 
-**14** Por muito tempo me calei; estive em silêncio, e me contive; mas agora darei gritos como a que está de parto, e a todos os assolarei e juntamente devorarei. ^v14
+**14** Eu Me calei por um longo tempo, e tenho ainda Me contido; agora darei gritos como uma mulher que está em trabalho de parto; Eu gemerei e suspirarei ofegantemente. ^v14
 
-**15** Os montes e outeiros tornarei em deserto, e toda a sua erva farei secar, e tornarei os rios em ilhas, e as lagoas secarei. ^v15
+**15** Arrasarei montanhas e colinas e farei secar toda a sua vegetação; transformarei rios em ilhas e secarei os pântanos. ^v15
 
-**16** E guiarei os cegos pelo caminho que nunca conheceram, fá-los-ei caminhar pelas veredas que não conheceram; tornarei as trevas em luz perante eles, e as coisas tortas farei direitas. Estas coisas lhes farei, e nunca os desampararei. ^v16
+**16** Guiarei os cegos por um caminho que eles não conhecem; Eu os conduzirei por veredas que eles não conhecem. Transformarei as trevas em luz diante deles e farei retos os caminhos tortuosos. Essas coisas Eu farei e não os abandonarei. ^v16
 
-**17** Tornarão atrás e confundir-se-ão de vergonha os que confiam em imagens de escultura, e dizem às imagens de fundição: Vós sois nossos deuses. ^v17
+**17** "Mas voltarão, e serão completamente envergonhados, aqueles que confiam em imagens de esculturas, aqueles que dizem às imagens de fundição: ""Vós sois nossos deuses""." ^v17
 
-**18** Surdos, ouvi, e vós, cegos, olhai, para que possais ver. ^v18
+**18** Surdos, ouvi; olhai, vós, cegos, para que vejam. ^v18
 
-**19** Quem é cego, senão o meu servo, ou surdo como o meu mensageiro, a quem envio? E quem é cego como o que é perfeito, e cego como o servo do Senhor? ^v19
+**19** Quem é cego, senão o Meu servo? Ou surdo como o mensageiro que Eu enviei? Quem é tão cego quanto Meu parceiro de aliança, ou cego como o servo de Yahweh? ^v19
 
-**20** Tu vês muitas coisas, mas não as guardas; ainda que tenhas os ouvidos abertos, nada ouves. ^v20
+**20** Tu vês muitas coisas, mas não as compreendes; os ouvidos estão abertos, mas nada ouves. ^v20
 
-**21** O Senhor se agradava dele por amor da sua justiça; engrandeceu-o pela lei, e o fez glorioso. ^v21
+**21** Agradou a Yahweh louvar Sua justiça e fazer Sua Lei gloriosa. ^v21
 
-**22** Mas este é um povo roubado e saqueado; todos estão enlaçados em cavernas, e escondidos em cárceres; são postos por presa, e ninguém há que os livre; por despojo, e ninguém diz: Restitui. ^v22
+**22** "Este é um povo roubado e saqueado; todos eles estão presos em covas, mantidos cativos em prisões; eles se tornaram um despojo sem ninguém para os salvar, e ninguém disse: ""Traze-os de volta!""." ^v22
 
-**23** Quem há entre vós que ouça isto, que atenda e ouça o que há de ser depois? ^v23
+**23** Quem dentre vós ouvirá isso? Quem ouvirá e atenderá no futuro? ^v23
 
-**24** Quem entregou a Jacó por despojo, e a Israel aos roubadores? Porventura não foi o Senhor, aquele contra quem pecamos, e nos caminhos do qual não queriam andar, não dando ouvidos à sua lei? ^v24
+**24** Quem deu Jacó por despojo e Israel aos saqueadores? Não foi Yahweh, contra quem nós temos pecado, em cujos caminhos eles se recusaram a andar e cuja Lei se recusaram a obedecer? ^v24
 
-**25** Por isso derramou sobre eles a indignação da sua ira, e a força da guerra, e lhes pôs labaredas em redor; porém nisso não atentaram; e os queimou, mas não puseram nisso o coração. ^v25
+**25** Portanto, Ele derramou a indignação de Sua ira contra eles, com devastação de guerra, e ardeu em chamas ao redor deles, mas não perceberam isso. Queimou-os, mas eles não colocaram isso no coração. ^v25

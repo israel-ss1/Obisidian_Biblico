@@ -1,59 +1,58 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/João|João]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/João|João]]"
+tags: [biblia]
 ---
 
 # João 17
 
-**1** Jesus falou assim e, levantando seus olhos ao céu, e disse: Pai, é chegada a hora; glorifica a teu Filho, para que também o teu Filho te glorifique a ti; ^v1
+**1** "Depois de dizer essas coisas, Jesus levantou os olhos aos céus e disse: ""Pai, chegou a hora. Glorifica Teu Filho para que o Filho Te glorifique," ^v1
 
-**2** Assim como lhe deste poder sobre toda a carne, para que dê a vida eterna a todos quantos lhe deste. ^v2
+**2** assim como Tu Lhe deste autoridade sobre toda carne, para que também Ele dê vida eterna a todos quanto Lhe deste. ^v2
 
-**3** E a vida eterna é esta: que te conheçam, a ti só, por único Deus verdadeiro, e a Jesus Cristo, a quem enviaste. ^v3
+**3** A vida eterna é esta: que eles conheçam a Ti, o único Deus verdadeiro, e a Jesus Cristo, Aquele que Tu enviaste. ^v3
 
-**4** Eu glorifiquei-te na terra, tendo consumado a obra que me deste a fazer. ^v4
+**4** Eu Te glorifiquei na terra, completando a obra que Me deste para fazer. ^v4
 
-**5** E agora glorifica-me tu, ó Pai, junto de ti mesmo, com aquela glória que tinha contigo antes que o mundo existisse. ^v5
+**5** Agora, Pai, glorifica-Me junto a Ti com a glória que Eu tinha Contigo antes do mundo ser criado. ^v5
 
-**6** Manifestei o teu nome aos homens que do mundo me deste; eram teus, e tu mos deste, e guardaram a tua palavra. ^v6
+**6** Manifestei o Teu Nome aos homens que do mundo Me deste. Eles eram Teus; e Tu os deste a Mim, e eles guardaram a Tua Palavra. ^v6
 
-**7** Agora já têm conhecido que tudo quanto me deste provém de ti; ^v7
+**7** Agora, sabem que todas as coisas que me deste vêm de Ti; ^v7
 
-**8** Porque lhes dei as palavras que tu me deste; e eles as receberam, e têm verdadeiramente conhecido que saí de ti, e creram que me enviaste. ^v8
+**8** porque as palavras que Tu me deste, Eu lhes dei. Eles as receberam e verdadeiramente souberam que vim de Ti, e creram que Tu Me enviaste. ^v8
 
-**9** Eu rogo por eles; não rogo pelo mundo, mas por aqueles que me deste, porque são teus. ^v9
+**9** Eu oro por eles; não oro pelo mundo, mas por aqueles que Tu Me deste, pois eles são Teus. ^v9
 
-**10** E todas as minhas coisas são tuas, e as tuas coisas são minhas; e neles sou glorificado. ^v10
+**10** Tudo que é Meu é Teu, e tudo que é Teu é Meu; e sou glorificado neles. ^v10
 
-**11** E eu já não estou mais no mundo, mas eles estão no mundo, e eu vou para ti. Pai santo, guarda em teu nome aqueles que me deste, para que sejam um, assim como nós. ^v11
+**11** Eu não estou mais no mundo, mas eles estão no mundo, e Eu vou para Ti. Pai Santo, guarda-os no Teu Nome que Tu Me deste, para que eles sejam um, assim como Nós somos Um. ^v11
 
-**12** Estando eu com eles no mundo, guardava-os em teu nome. Tenho guardado aqueles que tu me deste, e nenhum deles se perdeu, senão o filho da perdição, para que a Escritura se cumprisse. ^v12
+**12** Enquanto Eu estava com eles, Eu os guardei em Teu Nome que Me deste; Eu os guardei e nenhum deles se perdeu, exceto o filho da perdição, para que as Escrituras se cumprissem. ^v12
 
-**13** Mas agora vou para ti, e digo isto no mundo, para que tenham a minha alegria completa em si mesmos. ^v13
+**13** Agora, vou para Ti; mas digo essas coisas no mundo, para que tenham minha alegria completa neles mesmos. ^v13
 
-**14** Dei-lhes a tua palavra, e o mundo os odiou, porque não são do mundo, assim como eu não sou do mundo. ^v14
+**14** Eu lhes dei a Minha Palavra; e o mundo os odiou porque eles não são do mundo, assim como Eu não sou do mundo. ^v14
 
-**15** Não peço que os tires do mundo, mas que os livres do mal. ^v15
+**15** Eu não oro para que os tires do mundo, mas para que os guardes do maligno. ^v15
 
-**16** Não são do mundo, como eu do mundo não sou. ^v16
+**16** Eles não são do mundo, assim como Eu não sou do mundo. ^v16
 
-**17** Santifica-os na tua verdade; a tua palavra é a verdade. ^v17
+**17** Santifica-os na verdade; a Tua Palavra é a Verdade. ^v17
 
-**18** Assim como tu me enviaste ao mundo, também eu os enviei ao mundo. ^v18
+**18** Assim como Tu Me enviaste ao mundo, também Eu os enviei ao mundo. ^v18
 
-**19** E por eles me santifico a mim mesmo, para que também eles sejam santificados na verdade. ^v19
+**19** Por causa deles, Eu Me santifico, para que eles mesmos também sejam santificados na Verdade. ^v19
 
-**20** E não rogo somente por estes, mas também por aqueles que pela tua palavra hão de crer em mim; ^v20
+**20** Oro não somente por esses, mas também por aqueles que crerão em Mim por meio da palavra deles, ^v20
 
-**21** Para que todos sejam um, como tu, ó Pai, o és em mim, e eu em ti; que também eles sejam um em nós, para que o mundo creia que tu me enviaste. ^v21
+**21** para que eles sejam um, assim como Tu, Pai, estás em Mim, e Eu em Ti. Eu oro para que eles estejam em Nós, a fim de que o mundo creia que Tu Me enviaste. ^v21
 
-**22** E eu dei-lhes a glória que a mim me deste, para que sejam um, como nós somos um. ^v22
+**22** A glória que Tu Me deste, Eu lhes dei, para que eles sejam um, assim como Nós somos Um; ^v22
 
-**23** Eu neles, e tu em mim, para que eles sejam perfeitos em unidade, e para que o mundo conheça que tu me enviaste a mim, e que os tens amado a eles como me tens amado a mim. ^v23
+**23** Eu neles, e Tu em Mim, para que eles sejam conduzidos à completa unidade; a fim de que o mundo saiba que Tu Me enviaste, e os amaste, assim como amaste a Mim. ^v23
 
-**24** Pai, aqueles que me deste quero que, onde eu estiver, também eles estejam comigo, para que vejam a minha glória que me deste; porque tu me amaste antes da fundação do mundo. ^v24
+**24** Pai, quero que aqueles que Tu Me deste estejam também Comigo onde Eu estiver para que eles vejam a Minha glória, aquela que Tu Me deste, pois Tu Me amaste desde antes da fundação do mundo. ^v24
 
-**25** Pai justo, o mundo não te conheceu; mas eu te conheci, e estes conheceram que tu me enviaste a mim. ^v25
+**25** Pai justo, o mundo não Te conheceu, mas Eu Te conheço; e estes sabem que Tu Me enviaste. ^v25
 
-**26** E eu lhes fiz conhecer o teu nome, e lho farei conhecer mais, para que o amor com que me tens amado esteja neles, e eu neles esteja. ^v26
+**26** "Eu fiz Teu Nome conhecido a eles, e Eu o farei conhecido para que o amor com que Tu Me amaste esteja neles, e Eu neles esteja""." ^v26

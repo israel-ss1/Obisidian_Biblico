@@ -1,29 +1,28 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Isaías|Isaías]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Isaías|Isaías]]"
+tags: [biblia]
 ---
 
 # Isaías 61
 
-**1** O espírito do Senhor DEUS está sobre mim; porque o SENHOR me ungiu, para pregar boas novas aos mansos; enviou-me a restaurar os contritos de coração, a proclamar liberdade aos cativos, e a abertura de prisão aos presos; ^v1
+**1** O Espírito do Senhor Yahweh está sobre Mim, porque Yahweh Me ungiu para pregar as boas novas aos oprimidos; Ele Me enviou para curar os de coração quebrantado, para proclamar liberdade aos cativos e para abrir as cadeias dos que estão presos. ^v1
 
-**2** A apregoar o ano aceitável do Senhor e o dia da vingança do nosso Deus; a consolar todos os tristes; ^v2
+**2** Ele Me enviou para proclamar o ano aceitável de Yahweh, o dia da vingança do nosso Deus, e para consolar todos os que choram. ^v2
 
-**3** A ordenar acerca dos tristes de Sião que se lhes dê glória em vez de cinza, óleo de gozo em vez de tristeza, vestes de louvor em vez de espírito angustiado; a fim de que se chamem árvores de justiça, plantações do Senhor, para que ele seja glorificado. ^v3
+**3** Ele Me enviou para dar a todos os que choram, em Sião, uma coroa ao invés de cinzas, óleo de alegria ao invés de luto, veste de louvor em lugar de um espírito angustiado; a fim de que se chamem carvalhos de justiça, plantados por Yahweh, para a Sua glória. ^v3
 
-**4** E edificarão os lugares antigamente assolados, e restaurarão os anteriormente destruídos, e renovarão as cidades assoladas, destruídas de geração em geração. ^v4
+**4** Eles reconstruirão as antigas ruínas, restaurarão os lugares antes destruídos e reedificarão as cidades assoladas — desolações de muitas gerações anteriores. ^v4
 
-**5** E haverá estrangeiros, que apascentarão os vossos rebanhos; e estranhos serão os vossos lavradores e os vossos vinhateiros. ^v5
+**5** Os estrangeiros ficarão de pé e alimentarão os vossos rebanhos, e os filhos dos estrangeiros trabalharão nos vossos campos e vinhedos. ^v5
 
-**6** Porém vós sereis chamados sacerdotes do Senhor, e vos chamarão ministros de nosso Deus; comereis a riqueza dos gentios, e na sua glória vos gloriareis. ^v6
+**6** Vós sereis chamados sacerdotes de Yahweh e vos chamarão como servos do nosso Deus. Comereis a fartura das nações e vos gloriareis nas riquezas delas. ^v6
 
-**7** Em lugar da vossa vergonha tereis dupla honra; e em lugar da afronta exultareis na vossa parte; por isso na sua terra possuirão o dobro, e terão perpétua alegria. ^v7
+**7** Ao invés de vergonha, tereis dupla honra; em lugar de desonra, exultareis em vossa herança; por isso, na vossa terra possuireis o dobro, e tereis eterna alegria. ^v7
 
-**8** Porque eu, o Senhor, amo o juízo, odeio o que foi roubado oferecido em holocausto; portanto, firmarei em verdade a sua obra; e farei uma aliança eterna com eles. ^v8
+**8** Porque Eu, Yahweh, amo a justiça, odeio o roubo e toda a maldade. Eu, fielmente, lhes retribuirei e farei com eles uma aliança eterna. ^v8
 
-**9** E a sua posteridade será conhecida entre os gentios, e os seus descendentes no meio dos povos; todos quantos os virem os conhecerão, como descendência bendita do Senhor. ^v9
+**9** A sua posteridade será conhecida entre as nações e os seus descendentes, entre os povos; todos quantos os virem os reconhecerão como o povo que Yahweh abençoou. ^v9
 
-**10** Regozijar-me-ei muito no Senhor, a minha alma se alegrará no meu Deus; porque me vestiu de roupas de salvação, cobriu-me com o manto de justiça, como um noivo se adorna com turbante sacerdotal, e como a noiva que se enfeita com as suas jóias. ^v10
+**10** Eu me regozijarei muito em Yahweh; eu me alegrarei muito em meu Deus, porque Ele me vestiu com vestes de salvação e me envolveu com o manto de justiça, como um noivo que se adorna com um turbante e como uma noiva que se adorna com as suas joias. ^v10
 
-**11** Porque, como a terra produz os seus renovos, e como o jardim faz brotar o que nele se semeia, assim o Senhor DEUS fará brotar a justiça e o louvor para todas as nações. ^v11
+**11** Porque assim como a terra produz as plantas que brotam e como o jardim faz crescer o seu plantio, assim o Senhor Yahweh fará brotar a justiça e o louvor perante todas as nações. ^v11

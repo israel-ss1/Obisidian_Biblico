@@ -1,43 +1,42 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Malaquias|Malaquias]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Malaquias|Malaquias]]"
+tags: [biblia]
 ---
 
 # Malaquias 3
 
-**1** Eis que eu envio o meu mensageiro, que preparará o caminho diante de mim; e de repente virá ao seu templo o Senhor, a quem vós buscais; e o mensageiro da aliança, a quem vós desejais, eis que ele vem, diz o SENHOR dos Exércitos. ^v1
+**1** """Vede! Estou para enviar Meu Mensageiro, e Ele preparará o caminho antes de Mim. E o Senhor, a Quem buscais, virá de repente para o Seu templo. O Mensageiro da Aliança, em Quem vos deleitais, virá"", diz Yahweh dos Exércitos." ^v1
 
-**2** Mas quem suportará o dia da sua vinda? E quem subsistirá, quando ele aparecer? Porque ele será como o fogo do ourives e como o sabão dos lavandeiros. ^v2
+**2** Mas quem suportará o dia da Sua vinda? E quem poderá ficar de pé quando Ele aparecer? Porque Ele é como um fogo purificador, e como o sabão que branqueia completamente. ^v2
 
-**3** E assentar-se-á como fundidor e purificador de prata; e purificará os filhos de Levi, e os refinará como ouro e como prata; então ao Senhor trarão oferta em justiça. ^v3
+**3** Ele sentará para julgar como um purificador da prata, e purificará os filhos de Levi. Ele os refinará como o ouro e a prata, e eles trarão as ofertas de justiça para Yahweh. ^v3
 
-**4** E a oferta de Judá e de Jerusalém será agradável ao Senhor, como nos dias antigos, e como nos primeiros anos. ^v4
+**4** Então, as ofertas de Judá e Jerusalém serão agradáveis a Yahweh, como nos dias antigos e como nos anos da antiguidade. ^v4
 
-**5** E chegar-me-ei a vós para juízo; e serei uma testemunha veloz contra os feiticeiros, contra os adúlteros, contra os que juram falsamente, contra os que defraudam o diarista em seu salário, e a viúva, e o órfão, e que pervertem o direito do estrangeiro, e não me temem, diz o Senhor dos Exércitos. ^v5
+**5** """Portanto, Eu Me aproximarei de vós para o julgamento. Rapidamente testemunharei contra os feiticeiros, os adúlteros, as falsas testemunhas e contras aqueles que oprimem os trabalhadores em seus salários, contra aqueles que oprimem a viúva e os órfãos, contra aqueles que não amparam os estrangeiros, e contra aqueles que não Me honram,"" diz Yahweh dos Exércitos." ^v5
 
-**6** Porque eu, o Senhor, não mudo; por isso vós, ó filhos de Jacó, não sois consumidos. ^v6
+**6** Porque Eu, Yahweh, não mudo; por isso, vós, povo de Jacó, não fostes consumidos. ^v6
 
-**7** Desde os dias de vossos pais vos desviastes dos meus estatutos, e não os guardastes; tornai-vos para mim, e eu me tornarei para vós, diz o Senhor dos Exércitos; mas vós dizeis: Em que havemos de tornar? ^v7
+**7** "Desde os dias de vossos pais, deixastes de lado Meus preceitos e não os guardastes. Voltai-vos para Mim, e Eu Me voltarei a vós"", diz Yahweh dos Exércitos. ""Mas vós dizeis: 'Como voltaremos?'" ^v7
 
-**8** Roubará o homem a Deus? Todavia vós me roubais, e dizeis: Em que te roubamos? Nos dízimos e nas ofertas. ^v8
+**8** Roubará o homem a Deus? Mas vós estais Me roubando. Ainda dizeis: 'Como Te roubamos?' Nos dízimos e ofertas. ^v8
 
-**9** Com maldição sois amaldiçoados, porque a mim me roubais, sim, toda esta nação. ^v9
+**9** Vós, toda a nação, estais amaldiçoados porque Me roubais. ^v9
 
-**10** Trazei todos os dízimos à casa do tesouro, para que haja mantimento na minha casa, e depois fazei prova de mim nisto, diz o Senhor dos Exércitos, se eu não vos abrir as janelas do céu, e não derramar sobre vós uma bênção tal até que não haja lugar suficiente para a recolherdes. ^v10
+**10** "Trazei todo o dízimo à casa do tesouro, para que haja comida na Minha casa. E provai-Me agora nisto"", diz Yahweh dos Exércitos, ""se Eu não vos abrir as janelas do céus e derramar, de modo abundante, bênçãos sobre vós." ^v10
 
-**11** E por causa de vós repreenderei o devorador, e ele não destruirá os frutos da vossa terra; e a vossa vide no campo não será estéril, diz o Senhor dos Exércitos. ^v11
+**11** "Eu repreenderei quem destrói vossas plantações, para que não destruam a colheita da vossa terra; vossas vinhas nos campos não perderão seus frutos"", diz Yahweh dos Exércitos." ^v11
 
-**12** E todas as nações vos chamarão bem-aventurados; porque vós sereis uma terra deleitosa, diz o Senhor dos Exércitos. ^v12
+**12** """Todas as nações vos chamarão abençoada, pois sereis uma terra de deleites,"" diz Yahweh dos Exércitos." ^v12
 
-**13** As vossas palavras foram agressivas para mim, diz o Senhor; mas vós dizeis: Que temos falado contra ti? ^v13
+**13** """Vossas palavras contra Mim foram duras"", diz Yahweh. ""Mas vós dizeis: 'O que falamos contra Ti?'" ^v13
 
-**14** Vós tendes dito: Inútil é servir a Deus; que nos aproveita termos cuidado em guardar os seus preceitos, e em andar de luto diante do Senhor dos Exércitos? ^v14
+**14** Vós tendes dito: 'É inútil servir a Deus. Que proveito há em guardarmos Seus mandamentos ou lamentarmos diante de Yahweh dos Exércitos?' ^v14
 
-**15** Ora, pois, nós reputamos por bem-aventurados os soberbos; também os que cometem impiedade são edificados; sim, eles tentam a Deus, e escapam. ^v15
+**15** E, agora, nós chamamos o arrogante de abençoado. Malfeitores não somente prosperam, como também tentam a Deus e escapam. ^v15
 
-**16** Então aqueles que temeram ao Senhor falaram freqüentemente um ao outro; e o Senhor atentou e ouviu; e um memorial foi escrito diante dele, para os que temeram o Senhor, e para os que se lembraram do seu nome. ^v16
+**16** Então, aqueles que temiam a Yahweh falaram uns com os outros. Yahweh prestou atenção e os ouviu, e um livro memorial foi escrito, diante Dele, sobre aqueles que temiam a Yahweh e honravam Seu Nome. ^v16
 
-**17** E eles serão meus, diz o Senhor dos Exércitos; naquele dia serão para mim jóias; poupá-los-ei, como um homem poupa a seu filho, que o serve. ^v17
+**17** """Eles serão Meus"", diz Yahweh dos Exércitos, ""Minha propriedade exclusiva, no dia em que Eu agir. Eu terei compaixão deles, como um homem que tem compaixão de seu próprio filho, que o serve." ^v17
 
-**18** Então voltareis e vereis a diferença entre o justo e o ímpio; entre o que serve a Deus, e o que não o serve. ^v18
+**18** Então, mais uma vez, ficará evidente a vós quem é o justo e quem é o mau, quem adora a Deus e quem não O adora. ^v18

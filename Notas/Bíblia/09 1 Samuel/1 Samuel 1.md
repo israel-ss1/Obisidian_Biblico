@@ -1,63 +1,62 @@
 ---
-Livro: "[[1 Samuel|1 Samuel]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/1 Samuel|1 Samuel]]"
+tags: [biblia]
 ---
 
 # 1 Samuel 1
 
-**1** Houve um homem de Ramataim-Zofim, da montanha de Efraim, cujo nome era Elcana, filho de Jeroão, filho de Eliú, filho de Toú, filho de Zufe, efrateu. ^v1
+**1** Havia um certo homem de Ramataim-Zofim, da região montanhosa de Efraim; seu nome era Elcana, filho de Jeroão, filho de Eliú, filho de Toú, filho de Zufe, um efraimita. ^v1
 
-**2** E este tinha duas mulheres: o nome de uma era Ana, e o da outra Penina. E Penina tinha filhos, porém Ana não os tinha. ^v2
+**2** Ele teve duas esposas: o nome da primeira era Ana, e o nome da segunda, Penina. Penina teve filhos, mas Ana não os teve. ^v2
 
-**3** Subia, pois, este homem, da sua cidade, de ano em ano, a adorar e a sacrificar ao Senhor dos Exércitos em Siló; e estavam ali os sacerdotes do Senhor, Hofni e Finéias, os dois filhos de Eli. ^v3
+**3** Esse homem ia de sua cidade, ano após ano, para adorar e sacrificar a Yahweh dos Exércitos, em Siló. Os dois filhos de Eli, Hofni e Fineias, sacerdotes de Yahweh, estavam lá. ^v3
 
-**4** E sucedeu que no dia em que Elcana sacrificava, dava ele porções a Penina, sua mulher, e a todos os seus filhos, e a todas as suas filhas. ^v4
+**4** Quando o dia do sacrifício anual vinha a Elcana, ele sempre trazia porções de carne para Penina, sua mulher, e para todos os seus filhos e filhas. ^v4
 
-**5** Porém a Ana dava uma parte excelente; porque amava a Ana, embora o Senhor lhe tivesse cerrado a madre. ^v5
+**5** Mas para Ana ele sempre trazia uma porção dobrada, pois a amava, embora Yahweh tivesse fechado o seu útero. ^v5
 
-**6** E a sua rival excessivamente a provocava, para a irritar; porque o Senhor lhe tinha cerrado a madre. ^v6
+**6** Sua rival a provocava severamente a fim de irritá-la, pois Yaweh fechara seu útero. ^v6
 
-**7** E assim fazia ele de ano em ano. Sempre que Ana subia à casa do Senhor, a outra a irritava; por isso chorava, e não comia. ^v7
+**7** Então, ano após ano, quando ela subia à casa de Yahweh com sua família, sua rival sempre a provocava. Assim, ela costumava chorar e não comer nada. ^v7
 
-**8** Então Elcana, seu marido, lhe disse: Ana, por que choras? E por que não comes? E por que está mal o teu coração? Não te sou eu melhor do que dez filhos? ^v8
+**8** "Elcana, seu marido, sempre lhe falava: ""Ana, por que choras? Por que não comes? Por que o seu coração está triste? Não sou eu para ti melhor do que dez filhos?""." ^v8
 
-**9** Então Ana se levantou, depois que comeram e beberam em Siló; e Eli, sacerdote, estava assentado numa cadeira, junto a um pilar do templo do Senhor. ^v9
+**9** Em uma dessas ocasiões, Ana levantou-se quando eles terminaram de comer e beber, em Siló. Eli, o sacerdote, estava sentado em sua cadeira, junto à porta da casa de Yahweh. ^v9
 
-**10** Ela, pois, com amargura de alma, orou ao Senhor, e chorou abundantemente. ^v10
+**10** Profundamente angustiada, Ana orou a Yahweh e chorou amargamente. ^v10
 
-**11** E fez um voto, dizendo: Senhor dos Exércitos! Se benignamente atentares para a aflição da tua serva, e de mim te lembrares, e da tua serva não te esqueceres, mas à tua serva deres um filho homem, ao Senhor o darei todos os dias da sua vida, e sobre a sua cabeça não passará navalha. ^v11
+**11** "Ela fez um voto e disse: ""Yahweh dos Exércitos, se Tu olhares a aflição de Tua serva e Te lembrares de mim, e não esqueceres de Tua serva, mas deres um filho à Tua serva, então o entregarei a Ti todos os dias de sua vida; e navalha alguma tocará sua cabeça""." ^v11
 
-**12** E sucedeu que, perseverando ela em orar perante o Senhor, Eli observou a sua boca. ^v12
+**12** Enquanto ela estava orando a Yahweh, Eli observava sua boca. ^v12
 
-**13** Porquanto Ana no seu coração falava; só se moviam os seus lábios, porém não se ouvia a sua voz; pelo que Eli a teve por embriagada. ^v13
+**13** Ana falava em seu coração. Seus lábios moviam-se, porém, sua voz não era ouvida. Eli pensou que ela estivesse bêbada. ^v13
 
-**14** E disse-lhe Eli: Até quando estarás tu embriagada? Aparta de ti o teu vinho. ^v14
+**14** "Ele falou a ela: ""Por quanto tempo ficarás embriagada? Livra-te de teu vinho!""." ^v14
 
-**15** Porém Ana respondeu: Não, senhor meu, eu sou uma mulher atribulada de espírito; nem vinho nem bebida forte tenho bebido; porém tenho derramado a minha alma perante o SENHOR. ^v15
+**15** "Ana respondeu: ""Não, meu mestre, eu sou uma mulher de espírito abatido. Não bebi vinho nem bebida forte, mas estou derramando minha alma diante de Yahweh." ^v15
 
-**16** Não tenhas, pois, a tua serva por filha de Belial; porque da multidão dos meus cuidados e do meu desgosto tenho falado até agora. ^v16
+**16** "Não considere tua serva como uma mulher sem vergonha; tenho falado da minha grande preocupação e provocação""." ^v16
 
-**17** Então respondeu Eli: Vai em paz; e o Deus de Israel te conceda a petição que lhe fizeste. ^v17
+**17** "Então, Eli respondeu e disse: ""Vá em paz. Que o Deus de Israel conceda o que pediste a Ele""." ^v17
 
-**18** E disse ela: Ache a tua serva graça aos teus olhos. Assim a mulher foi o seu caminho, e comeu, e o seu semblante já não era triste. ^v18
+**18** "Ela disse: ""Que tua serva ache favor à tua vista"". Então, a mulher seguiu no seu caminho e comeu; seu semblante não mais era triste." ^v18
 
-**19** E levantaram-se de madrugada, e adoraram perante o Senhor, e voltaram, e chegaram à sua casa, em Ramá, e Elcana conheceu a Ana sua mulher, e o Senhor se lembrou dela. ^v19
+**19** Eles se levantaram cedo pela manhã e adoraram a Yahweh. E voltaram para sua casa, em Ramá. Elcana dormiu com Ana, sua esposa, e Yahweh lembrou-se dela. ^v19
 
-**20** E sucedeu que, passado algum tempo, Ana concebeu, e deu à luz um filho, ao qual chamou Samuel; porque, dizia ela, o tenho pedido ao Senhor. ^v20
+**20** "Quando veio o tempo, Ana concebeu e deu à luz um filho. Ela o chamou de Samuel, dizendo: ""Porque pedi por ele a Yahweh""." ^v20
 
-**21** E subiu aquele homem Elcana com toda a sua casa, a oferecer ao Senhor o sacrifício anual e a cumprir o seu voto. ^v21
+**21** Uma vez mais, Elcana e toda a sua casa foram oferecer a Yahweh o sacrifício anual e pagar seu voto. ^v21
 
-**22** Porém Ana não subiu; mas disse a seu marido: Quando o menino for desmamado, então o levarei, para que apareça perante o Senhor, e lá fique para sempre. ^v22
+**22** "Mas Ana não foi. Ela havia falado ao seu marido: ""Eu não irei até que a criança desmame; então, eu o levarei para que ele possa aparecer perante Yahweh e viver lá para sempre""." ^v22
 
-**23** E Elcana, seu marido, lhe disse: Faze o que bem te parecer aos teus olhos; fica até que o desmames; então somente confirme o Senhor a sua palavra. Assim ficou a mulher, e deu leite a seu filho, até que o desmamou. ^v23
+**23** "Elcana falou-lhe: ""Faça o que te parecer bem. Espere até desmamá-lo; somente possa Yahweh confirmar Sua palavra"". Então, a mulher ficou e cuidou de seu filho até desmamá-lo." ^v23
 
-**24** E, havendo-o desmamado, tomou-o consigo, com três bezerros, e um efa de farinha, e um odre de vinho, e levou-o à casa do Senhor, em Siló, e era o menino ainda muito criança. ^v24
+**24** Quando ela o desmamou, levou-o com ela, juntamente com um touro de três anos, uma efa de refeição e uma garrafa de vinho, e o levou à casa de Yahweh, em Siló. A criança ainda era nova. ^v24
 
-**25** E degolaram um bezerro, e trouxeram o menino a Eli. ^v25
+**25** Eles mataram o touro, e trouxeram a criança para Eli. ^v25
 
-**26** E disse ela: Ah, meu senhor, viva a tua alma, meu senhor; eu sou aquela mulher que aqui esteve contigo, para orar ao SENHOR. ^v26
+**26** "Ela disse: ""Ó, meu mestre! Assim como vives, meu mestre, eu sou a mulher que esteve aqui, próxima a ti, orando a Yahweh." ^v26
 
-**27** Por este menino orava eu; e o Senhor atendeu à minha petição, que eu lhe tinha feito. ^v27
+**27** Por essa criança eu orei e Yahweh me concedeu a petição que fiz a Ele. ^v27
 
-**28** Por isso também ao Senhor eu o entreguei, por todos os dias que viver, pois ao Senhor foi pedido. E adorou ali ao Senhor. ^v28
+**28** "Eu o entreguei a Yahweh; enquanto ele viver será cedido a Yahweh"". E Elcana e sua família adoraram a Yahweh ali." ^v28

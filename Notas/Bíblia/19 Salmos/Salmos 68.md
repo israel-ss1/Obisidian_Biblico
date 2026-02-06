@@ -1,77 +1,74 @@
 ---
-Livro: "[[Salmos|Salmos]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Salmos|Salmos]]"
+tags: [biblia]
 ---
 
 # Salmos 68
 
-**1** Levante-se Deus, e sejam dissipados os seus inimigos; fugirão de diante dele os que o odeiam. ^v1
+**2** Como a fumaça se dissipa, assim sejam eles dissipados; assim como a cera se derrete no fogo, que os perversos pereçam na presença de Deus. ^v2
 
-**2** Como se impele a fumaça, assim tu os impeles; assim como a cera se derrete diante do fogo, assim pereçam os ímpios diante de Deus. ^v2
+**3** Mas que os justos se alegrem; exultem diante de Deus! Que se regozijem e se alegrem! ^v3
 
-**3** Mas alegrem-se os justos, e se regozijem na presença de Deus, e folguem de alegria. ^v3
+**4** Cantai a Deus, cantai louvores ao Seu nome. Louvai Aquele que cavalga sobre as planícies do vale do rio Jordão. Yahweh é o Seu nome; regozijai-vos diante Dele! ^v4
 
-**4** Cantai a Deus, cantai louvores ao seu nome; louvai aquele que vai montado sobre os céus, pois o seu nome é Senhor, e exultai diante dele. ^v4
+**5** Um pai para os órfãos e juiz para as viúvas é Deus na Sua santa habitação. ^v5
 
-**5** Pai de órfãos e juiz de viúvas é Deus, no seu lugar santo. ^v5
+**6** Deus coloca o solitário em família; Ele liberta os prisioneiros para a prosperidade, mas os rebeldes vivem em uma terra seca. ^v6
 
-**6** Deus faz que o solitário viva em família; liberta aqueles que estão presos em grilhões; mas os rebeldes habitam em terra seca. ^v6
+**7** Deus, quando Tu foste diante do Teu povo, quando marchaste pelo deserto, [Interlúdio] ^v7
 
-**7** Ó Deus, quando saías diante do teu povo, quando caminhavas pelo deserto, (Selá.). ^v7
+**8** a terra estremeceu; os céus derramaram chuva na presença de Deus, o Sinai estremeceu na presença de Deus, o Deus de Israel. ^v8
 
-**8** A terra abalava-se, e os céus destilavam perante a face de Deus; até o próprio Sinai foi comovido na presença de Deus, do Deus de Israel. ^v8
+**9** Tu, ó Deus, enviaste chuva abundante; fortaleceste Tua herança quando estava enfraquecida. ^v9
 
-**9** Tu, ó Deus, mandaste a chuva em abundância, confortaste a tua herança, quando estava cansada. ^v9
+**10** Teu povo habitou nela; Tu, ó Deus, deste da Tua bondade ao pobre. ^v10
 
-**10** Nela habitava o teu rebanho; tu, ó Deus, fizeste provisão da tua bondade para o pobre. ^v10
+**11** Yahweh deu as ordens e um grande exército as anunciou. ^v11
 
-**11** O Senhor deu a palavra; grande era o exército dos que anunciavam as boas novas. ^v11
+**12** Reis de exércitos fogem. Eles fogem e as mulheres que esperam em casa dividem os despojos: pombas cobertas com prata e suas asas, com ouro amarelo. ^v12
 
-**12** Reis de exércitos fugiram à pressa; e aquela que ficava em casa repartia os despojos. ^v12
+**13** Quando alguns de vós ficastes entre os currais, por que fizestes isso? ^v13
 
-**13** Ainda que vos tenhais deitado entre redis, contudo sereis como as asas duma pomba, cobertas de prata, e as suas penas, de ouro amarelo. ^v13
+**14** O Onipotente espalhou reis ali. Foi como neve no monte Zalmom. ^v14
 
-**14** Quando o Onipotente ali espalhou os reis, foi como a neve em Salmon. ^v14
+**15** O monte de Deus é o monte de Basã; alta montanha é o monte de Basã. ^v15
 
-**15** O monte de Deus é como o monte de Basã, um monte elevado como o monte de Basã. ^v15
+**16** Por que olhas com inveja, tu, ó região montanhosa, para o monte em que Deus deseja habitar? Certamente, Yahweh viverá nele para sempre. ^v16
 
-**16** Por que saltais, ó montes elevados? Este é o monte que Deus desejou para a sua habitação, e o Senhor habitará nele eternamente. ^v16
+**17** As carruagens de Deus são incontáveis, milhares de milhares; Yahweh está entre eles no santo lugar, como no Sinai. ^v17
 
-**17** Os carros de Deus são vinte milhares, milhares de milhares. O Senhor está entre eles, como em Sinai, no lugar santo. ^v17
+**18** Tu subiste às alturas; Tu levaste muitos cativos; Tu recebeste presentes dentre os homens, até daqueles que lutavam contra Ti, para habitar ali, ó Yahweh Deus. ^v18
 
-**18** Tu subiste ao alto, levaste cativo o cativeiro, recebeste dons para os homens, e até para os rebeldes, para que o Senhor Deus habitasse entre eles. ^v18
+**19** Bendito seja Yahweh que, diariamente, carrega nossos fardos, o Deus que é a nossa salvação. [Interlúdio] ^v19
 
-**19** Bendito seja o Senhor, que de dia em dia nos carrega de benefícios; o Deus que é a nossa salvação. (Selá.). ^v19
+**20** Nosso Deus é Deus que salva; Yahweh, o Senhor, é o único capaz de nos resgatar da morte. ^v20
 
-**20** O nosso Deus é o Deus da salvação; e a DEUS, o Senhor, pertencem os livramentos da morte. ^v20
+**21** Certamente, Deus esmagará a cabeça de Seus inimigos, o couro cabeludo daqueles que caminham em ofensas contra Ele. ^v21
 
-**21** Mas Deus ferirá gravemente a cabeça de seus inimigos e o crânio cabeludo do que anda em suas culpas. ^v21
+**22** "O Senhor disse: ""Eu trarei de volta Meus inimigos de Basã; Eu os trarei de volta das profundezas dos mares," ^v22
 
-**22** Disse o Senhor: Eu os farei voltar de Basã, farei voltar o meu povo das profundezas do mar; ^v22
+**23** "para que tu os esmagues, mergulhando teus pés no sangue deles, assim como as línguas dos teus cachorros terão sua porção no sangue dos teus inimigos.""" ^v23
 
-**23** Para que o teu pé mergulhe no sangue de teus inimigos, e no mesmo a língua dos teus cães. ^v23
+**24** Eles têm visto suas procissões, ó Deus, as procissões de meu Deus, meu Rei, para o santo lugar. ^v24
 
-**24** Ó Deus, eles têm visto os teus caminhos; os caminhos do meu Deus, meu Rei, no santuário. ^v24
+**25** Os cantores foram à frente, depois os instrumentistas e, no meio, as moças solteiras tocando tamborins. ^v25
 
-**25** Os cantores iam adiante, os tocadores de instrumentos atrás; entre eles as donzelas tocando adufes. ^v25
+**26** Bendizei a Deus nas assembleias; louvai a Yahweh, vós que sois a fonte de Israel. ^v26
 
-**26** Celebrai a Deus nas congregações; ao Senhor, desde a fonte de Israel. ^v26
+**27** Primeiro vem Benjamim, a menor das tribos, então, os líderes de Judá e suas multidões, os líderes de Zebulom e os líderes de Naftali. ^v27
 
-**27** Ali está o pequeno Benjamim, que domina sobre eles, os príncipes de Judá com o seu ajuntamento, os príncipes de Zebulom e os príncipes de Naftali. ^v27
+**28** Teu Deus, Israel, decretou tua força; revela a nós o Teu poder, ó Deus, como revelaste nos tempos passados. ^v28
 
-**28** O teu Deus ordenou a tua força; fortalece, ó Deus, o que já fizeste para nós. ^v28
+**29** Revela-nos o Teu poder do Teu templo, em Jerusalém, onde reis trazem presentes a Ti. ^v29
 
-**29** Por amor do teu templo em Jerusalém, os reis te trarão presentes. ^v29
+**30** Grita na batalha contra as bestas selvagens nos juncos, contra os povos, aquelas multidões de touros e bezerros. Humilha-os e faze-os trazer presentes a Ti; espalha os povos que amam fazer guerra. ^v30
 
-**30** Repreende asperamente as feras dos canaviais, a multidão dos touros, com os novilhos dos povos, até que cada um se submeta com peças de prata; dissipa os povos que desejam a guerra. ^v30
+**31** Príncipes virão do Egito; a Etiópia se apressará para estender suas mãos para Deus. ^v31
 
-**31** Príncipes virão do Egito; a Etiópia cedo estenderá para Deus as suas mãos. ^v31
+**32** Cantai a Deus, vós reinos da terra; [Interlúdio] Cantai louvores a Yahweh! ^v32
 
-**32** Reinos da terra, cantai a Deus, cantai louvores ao Senhor. (Selá.) ^v32
+**33** Àquele que cavalga no céu dos céus, que existe desde os tempos antigos; vede, Ele levanta Sua voz com poder! ^v33
 
-**33** Àquele que vai montado sobre os céus dos céus, que existiam desde a antiguidade; eis que envia a sua voz, dá um brado veemente. ^v33
+**34** Atribuí força a Deus; Sua majestade está sobre Israel e Sua força está nos céus. ^v34
 
-**34** Atribuí a Deus fortaleza; a sua excelência está sobre Israel e a sua fortaleza nas mais altas nuvens. ^v34
-
-**35** Ó Deus, tu és tremendo desde os teus santuários; o Deus de Israel é o que dá força e poder ao seu povo. Bendito seja Deus! ^v35
+**35** Deus, tu és temível em Teu santo lugar; o Deus de Israel, Ele dá força e poder para Seu povo. Bendito seja Deus! ^v35

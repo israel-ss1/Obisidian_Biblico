@@ -1,45 +1,44 @@
 ---
-Livro: "[[2 Crônicas|2 Crônicas]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/2 Crônicas|2 Crônicas]]"
+tags: [biblia]
 ---
 
 # 2 Crônicas 10
 
-**1** E foi Roboão a Siquém, porque todo o Israel se reunira ali, para fazê-lo rei. ^v1
+**1** Roboão foi para Siquém, pois todo o Israel estava indo até lá para fazê-lo rei. ^v1
 
-**2** Sucedeu que, ouvindo-o Jero-boão, filho de Nebate (o qual estava então no Egito para onde fugira da presença do rei Salomão), voltou do Egito, ^v2
+**2** Aconteceu que Jeroboão, filho de Nebate, ouviu sobre isso e voltou do Egito (pois tinha ido para lá, fugindo da presença do rei Salomão). ^v2
 
-**3** Porque enviaram a ele, e o chamaram; e vieram, Jeroboão e todo o Israel, e falaram a Roboão dizendo: ^v3
+**3** Então, eles mandaram chamá-lo. Jeroboão e todo o Israel foram, falaram com Roboão e disseram: ^v3
 
-**4** Teu pai fez duro o nosso jugo; agora, pois, alivia tu a dura servidão de teu pai, e o pesado jugo que nos impôs, e nós te serviremos. ^v4
+**4** """Teu pai fez nosso jugo difícil. Agora, faz com que o trabalho pesado de teu pai seja fácil, alivia o jugo pesado que ele colocou em nós, e nós te serviremos""." ^v4
 
-**5** E ele lhes disse: Daqui a três dias voltai a mim. Então o povo se foi. ^v5
+**5** "Roboão lhes disse: ""Voltai a mim depois de três dias"". Então, o povo saiu." ^v5
 
-**6** E tomou Roboão conselho com os anciãos, que estiveram perante Salomão seu pai, enquanto viveu, dizendo: Como aconselhais vós que se responda a este povo? ^v6
+**6** "O rei Roboão consultou os anciãos que estiveram perante Salomão, seu pai, quando ele ainda vivia. Ele disse: ""Como me aconselharíeis a dar uma resposta a esse povo?""." ^v6
 
-**7** E eles lhe falaram, dizendo: Se te fizeres benigno e afável para com este povo, e lhes falares boas palavras, todos os dias serão teus servos. ^v7
+**7** "Eles lhe disseram: ""Se tu fores bom para com esse povo, o agradares e disseres boas palavras a eles, então eles sempre serão teus servos""." ^v7
 
-**8** Porém ele deixou o conselho que os anciãos lhe deram; e tomou conselho com os jovens, que haviam crescido com ele, e estavam perante ele. ^v8
+**8** Roboão, porém, ignorou o conselho que os anciãos tinham lhe dado e consultou os jovens que cresceram com ele e que estiveram perante ele. ^v8
 
-**9** E disse-lhes: Que aconselhais vós, que respondamos a este povo, que me falou, dizendo: Alivia o jugo que teu pai nos impôs? ^v9
+**9** "Ele lhes disse: ""Que conselho me daríeis para que possamos responder ao povo que falou comigo e me disse: 'Alivia o jugo que teu pai colocou sobre nós'?""." ^v9
 
-**10** E os jovens, que com ele haviam crescido, lhe falaram, dizendo: Assim dirás a este povo, que te falou: Teu pai agravou o nosso jugo, tu porém alivia-nos; assim, pois, lhe falarás: O meu dedo mínimo é mais grosso do que os lombos de meu pai. ^v10
+**10** "Os jovens que cresceram com Roboão disseram: ""Isso falarás ao povo que disse que teu pai, Salomão, fez pesado o jugo sobre eles, mas que tu deverias fazê-lo mais leve. Dize-lhes: 'Meu dedo mínimo é mais grosso que a cintura do meu pai." ^v10
 
-**11** Assim que, se meu pai vos carregou de um jugo pesado, eu ainda aumentarei o vosso jugo; meu pai vos castigou com açoites, porém eu vos castigarei com escorpiões. ^v11
+**11** "Agora, no entanto, se a carga de meu pai foi um jugo pesado, eu irei aumentá-lo. Meu pai vos puniu com açoites, porém eu vos punirei com escorpiões'""." ^v11
 
-**12** Veio, pois, Jeroboão, e todo o povo, ao terceiro dia, a Roboão, como o rei havia ordenado, dizendo: Voltai a mim ao terceiro dia. ^v12
+**12** "Então, Jeroboão e todo o povo vieram a Roboão no terceiro dia, como o rei instruíra, dizendo: ""Voltai a mim no terceiro dia""." ^v12
 
-**13** E o rei lhes respondeu asperamente; porque o rei Roboão deixara o conselho dos anciãos. ^v13
+**13** Roboão lhes respondeu rudemente, ignorando o conselho dos anciãos. ^v13
 
-**14** E falou-lhes conforme o conselho dos jovens, dizendo: Meu pai agravou o vosso jugo, porém eu o aumentarei mais; meu pai vos castigou com açoites, porém eu vos castigarei com escorpiões. ^v14
+**14** "Ele lhes falou, seguindo o conselho dos jovens: ""Meu pai fez pesado o vosso jugo, mas eu irei aumentá-lo. Meu pai vos puniu com açoites, porém eu vos punirei com escorpiões""." ^v14
 
-**15** Assim o rei não deu ouvidos ao povo, porque esta mudança vinha de Deus, para que o Senhor confirmasse a sua palavra, a qual falara pelo ministério de Aías, o silonita, a Jeroboão, filho de Nebate. ^v15
+**15** Assim, o rei não ouviu ao povo; pois essa mudança nos acontecimentos vinha de Deus, a fim de que Yahweh cumprisse a Sua palavra, que Aías, o silonita, falara a Jeroboão, filho de Nebate. ^v15
 
-**16** Vendo, pois, todo o Israel, que o rei não lhe dava ouvidos, tornou-lhe o povo a responder, dizendo: Que parte temos nós com Davi? Já não temos herança no filho de Jessé. Cada um à sua tenda, ó Israel! Olha agora pela tua casa, ó Davi. Assim todo o Israel se foi para as suas tendas. ^v16
+**16** "Quando todo o Israel viu que o rei não os ouvia, o povo lhe respondeu, dizendo: ""Que parte temos nós com Davi? Não temos nós herança com o filho de Jessé! Cada um de vós deve voltar à sua própria tenda, Israel. Agora, vê a tua própria casa, Davi"". Então, todo o Israel retornou para suas tendas." ^v16
 
-**17** Porém, quanto aos filhos de Israel, que habitavam nas cidades de Judá, sobre eles reinou Roboão. ^v17
+**17** Mas, quanto ao povo de Israel que habitava nas cidades de Judá, Roboão reinou sobre eles. ^v17
 
-**18** Então o rei Roboão enviou a Hadorão, que tinha cargo dos tributos; porém os filhos de Israel o apedrejaram, e ele morreu. Então o rei Roboão se esforçou para subir ao seu carro, e fugiu para Jerusalém. ^v18
+**18** Então, o rei Roboão enviou Adorão, que era encarregado dos trabalhos forçados, porém o povo de Israel o apedrejou até a morte. O rei Roboão fugiu rapidamente, em sua carruagem, para Jerusalém. ^v18
 
-**19** Assim se rebelaram os israelitas contra a casa de Davi, até ao dia de hoje. ^v19
+**19** Então, Israel se rebelou contra a casa de Davi até o dia de hoje. ^v19

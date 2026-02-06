@@ -1,61 +1,60 @@
 ---
-Livro: "[[Provérbios|Provérbios]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Provérbios|Provérbios]]"
+tags: [biblia]
 ---
 
 # Provérbios 29
 
-**1** O Homem que muitas vezes repreendido endurece a cerviz, de repente será destruído sem que haja remédio. ^v1
+**1** A pessoa que recebeu muitas repreensões, mas endurece seu pescoço, será quebrada a tal ponto que não poderá ser curada. ^v1
 
-**2** Quando os justos se engrandecem, o povo se alegra, mas quando o ímpio domina, o povo geme. ^v2
+**2** Quando os justos se multiplicam, o povo se alegra, mas quando um ímpio é o governante, o povo suspira. ^v2
 
-**3** O homem que ama a sabedoria alegra a seu pai, mas o companheiro de prostitutas desperdiça os bens. ^v3
+**3** Aquele que ama a sabedoria faz seu pai regozijar-se, mas o que mantém a companhia de prostitutas destrói sua riqueza. ^v3
 
-**4** O rei com juízo sustém a terra, mas o amigo de peitas a transtorna. ^v4
+**4** O rei estabelece a terra pela justiça, mas o que exige subornos a destrói. ^v4
 
-**5** O homem que lisonjeia o seu próximo arma uma rede aos seus passos. ^v5
+**5** O homem que bajula seu vizinho espalha uma rede para seus pés. ^v5
 
-**6** Na transgressão do homem mau há laço, mas o justo jubila e se alegra. ^v6
+**6** No pecado de uma pessoa má, existe uma armadilha, mas o justo canta e regozija-se. ^v6
 
-**7** O justo se informa da causa dos pobres, mas o ímpio nem sequer toma conhecimento. ^v7
+**7** O justo conhece os direitos do pobre; o corrupto não entende tal conhecimento. ^v7
 
-**8** Os homens escarnecedores alvoroçam a cidade, mas os sábios desviam a ira. ^v8
+**8** Os zombadores incendeiam uma cidade, mas os que são sábios afastam a ira. ^v8
 
-**9** O homem sábio que pleiteia com o tolo, quer se zangue, quer se ria, não terá descanso. ^v9
+**9** Quando um sábio tem uma discussão com um tolo, ele ri e se irrita, e não haverá descanso. ^v9
 
-**10** Os homens sanguinários odeiam ao sincero, mas os justos procuram o seu bem. ^v10
+**10** Os sanguinários odeiam o que não tem culpa e buscam a vida dos justos. ^v10
 
-**11** O tolo revela todo o seu pensamento, mas o sábio o guarda até o fim. ^v11
+**11** O tolo revela toda a sua ira, mas o homem sábio a contém e se acalma. ^v11
 
-**12** O governador que dá atenção às palavras mentirosas, achará que todos os seus servos são ímpios. ^v12
+**12** Se um governante presta atenção a mentiras, todos os seus oficiais serão corruptos. ^v12
 
-**13** O pobre e o usurário se encontram; o Senhor ilumina os olhos de ambos. ^v13
+**13** O pobre e o opressor têm algo em comum, pois Yahweh dá luz aos olhos de ambos. ^v13
 
-**14** O rei que julga os pobres conforme a verdade firmará o seu trono para sempre. ^v14
+**14** Se um rei julga os pobres com a verdade, seu trono será estabelecido para sempre. ^v14
 
-**15** A vara e a repreensão dão sabedoria, mas a criança entregue a si mesma, envergonha a sua mãe. ^v15
+**15** A vara e a reprovação dão sabedoria, mas uma criança livre de disciplina envergonha sua mãe. ^v15
 
-**16** Quando os ímpios se multiplicam, multiplicam-se as transgressões, mas os justos verão a sua queda. ^v16
+**16** Quando os corruptos estão no poder, a transgressão aumenta, mas os justos verão a queda desses ímpios. ^v16
 
-**17** Castiga o teu filho, e te dará descanso; e dará delícias à tua alma. ^v17
+**17** Dá disciplina ao teu filho, e ele te dará descanso; ele trará deleite para a tua vida. ^v17
 
-**18** Não havendo profecia, o povo perece; porém o que guarda a lei, esse é bem-aventurado. ^v18
+**18** Onde não há profecia, o povo perde o controle próprio, mas aquele que mantém a lei é abençoado. ^v18
 
-**19** O servo não se emendará com palavras, porque, ainda que entenda, todavia não atenderá. ^v19
+**19** O escravo não será corrigido por palavras, pois, apesar de ele entender, não haverá resposta. ^v19
 
-**20** Tens visto um homem precipitado no falar? Maior esperança há para um tolo do que para ele. ^v20
+**20** Vês um homem precipitado em suas palavras? Há mais esperança para o tolo que para ele. ^v20
 
-**21** Quando alguém cria o seu servo com mimos desde a meninice, por fim ele tornar-se-á seu filho. ^v21
+**21** O que mima seu escravo desde a infância, no final disso, terá problemas. ^v21
 
-**22** O homem irascível levanta contendas; e o furioso multiplica as transgressões. ^v22
+**22** Uma pessoa irada provoca conflito, e o enfurecido comete muitos pecados. ^v22
 
-**23** A soberba do homem o abaterá, mas a honra sustentará o humilde de espírito. ^v23
+**23** O orgulho de uma pessoa a humilha, mas o que tem um espírito humilde receberá honra. ^v23
 
-**24** O que tem parte com o ladrão odeia a sua própria alma; ouve maldições, e não o denuncia. ^v24
+**24** O que é cúmplice de um ladrão odeia sua própria vida; ele ouve a maldição e não diz nada. ^v24
 
-**25** O temor do homem armará laços, mas o que confia no Senhor será posto em alto retiro. ^v25
+**25** O medo do homem monta uma armadilha, mas o que confia em Yahweh será protegido. ^v25
 
-**26** Muitos buscam o favor do poderoso, mas o juízo de cada um vem do Senhor. ^v26
+**26** Muitos são os que buscam a face do governante, mas o homem recebe a justiça que vem de Yahweh. ^v26
 
-**27** Abominação é, para os justos, o homem iníquo; mas abominação é, para o iníquo, o de retos caminhos. ^v27
+**27** O homem injusto é uma abominação para os justos, mas aquele cujo caminho é correto é detestável para o corrupto. ^v27

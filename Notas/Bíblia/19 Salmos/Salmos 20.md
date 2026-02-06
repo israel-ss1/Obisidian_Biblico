@@ -1,25 +1,22 @@
 ---
-Livro: "[[Salmos|Salmos]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Salmos|Salmos]]"
+tags: [biblia]
 ---
 
 # Salmos 20
 
-**1** O SENHOR te ouça no dia da angústia, o nome do Deus de Jacó te proteja. ^v1
+**2** Que, do Seu santuário, te envie socorro e te ampare desde Sião. ^v2
 
-**2** Envie-te socorro desde o seu santuário, e te sustenha desde Sião. ^v2
+**3** Que Ele Se lembre de todas as tuas ofertas e aceite os teus holocaustos. [Interlúdio] ^v3
 
-**3** Lembre-se de todas as tuas ofertas, e aceite os teus holocaustos. (Selá.) ^v3
+**4** Que Ele te conceda o desejo do teu coração e realize todos os teus planos. ^v4
 
-**4** Conceda-te conforme ao teu coração, e cumpra todo o teu plano. ^v4
+**5** Então nos alegraremos em tua vitória e, no nome do nosso Deus, levantaremos bandeiras. Que Yahweh conceda todas as tuas petições. ^v5
 
-**5** Nós nos alegraremos pela tua salvação, e em nome do nosso Deus arvoraremos pendões; cumpra o Senhor todas as tuas petições. ^v5
+**6** Agora sei que Yahweh salva o Seu ungido; Ele responde do Seu santo céu e o resgata com a força da Sua mão direita. ^v6
 
-**6** Agora sei que o Senhor salva o seu ungido; ele o ouvirá desde o seu santo céu, com a força salvadora da sua mão direita. ^v6
+**7** Alguns confiam em carruagens, outros, em cavalos, mas nós invocamos o nome de Yahweh, nosso Deus. ^v7
 
-**7** Uns confiam em carros e outros em cavalos, mas nós faremos menção do nome do Senhor nosso Deus. ^v7
+**8** Eles tropeçam e caem, mas nós nos erguemos e ficamos de pé. ^v8
 
-**8** Uns encurvam-se e caem, mas nós nos levantamos e estamos de pé. ^v8
-
-**9** Salva-nos, Senhor; ouça-nos o rei quando clamarmos. ^v9
+**9** Yahweh, salva o rei; ajuda-nos quando clamarmos. ^v9

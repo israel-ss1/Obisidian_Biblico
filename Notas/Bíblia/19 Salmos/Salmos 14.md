@@ -1,21 +1,18 @@
 ---
-Livro: "[[Salmos|Salmos]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Salmos|Salmos]]"
+tags: [biblia]
 ---
 
 # Salmos 14
 
-**1** Disse o néscio no seu coração: Não há Deus. Têm-se corrompido, fazem-se abomináveis em suas obras, não há ninguém que faça o bem. ^v1
+**2** Yahweh olha do céu para os filhos dos homens para ver se há alguém que entenda, que busque a Deus. ^v2
 
-**2** O Senhor olhou desde os céus para os filhos dos homens, para ver se havia algum que tivesse entendimento e buscasse a Deus. ^v2
+**3** Todos se desviaram, todos se tornaram corruptos; não há um que faça o bem, nenhum sequer! ^v3
 
-**3** Desviaram-se todos e juntamente se fizeram imundos: não há quem faça o bem, não há sequer um. ^v3
+**4** Será que não conhecem nada, esses que cometem iniquidades, que devoram meu povo como quem come pão, e não invocam Yahweh? ^v4
 
-**4** Não terão conhecimento os que praticam a iniqüidade, os quais comem o meu povo, como se comessem pão, e não invocam ao Senhor? ^v4
+**5** Eles tremem de medo, porque Deus está no ajuntamento dos justos! ^v5
 
-**5** Ali se acharam em grande pavor, porque Deus está na geração dos justos. ^v5
+**6** Vós quereis humilhar o pobre. Todavia, Yahweh é o seu refúgio. ^v6
 
-**6** Vós envergonhais o conselho dos pobres, porquanto o Senhor é o seu refúgio. ^v6
-
-**7** Oh, se de Sião tivera já vindo a redenção de Israel! Quando o Senhor fizer voltar os cativos do seu povo, se regozijará Jacó e se alegrará Israel. ^v7
+**7** Ah, se a salvação de Israel viesse de Sião! Quando Yahweh trouxer de volta Seu povo do cativeiro, então, Jacó exultará e Israel se alegrará! ^v7

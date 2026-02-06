@@ -1,49 +1,48 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Isaías|Isaías]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Isaías|Isaías]]"
+tags: [biblia]
 ---
 
 # Isaías 59
 
-**1** Eis que a mão do SENHOR não está encolhida, para que não possa salvar; nem agravado o seu ouvido, para não poder ouvir. ^v1
+**1** Eis que a mão de Yahweh não está tão encolhida, para que não possa salvar, nem tão surdo o Seu ouvido, para que não consiga ouvir. ^v1
 
-**2** Mas as vossas iniqüidades fazem separação entre vós e o vosso Deus; e os vossos pecados encobrem o seu rosto de vós, para que não vos ouça. ^v2
+**2** Contudo, vossas maldades fazem separação entre vós e vosso Deus; por causa dos vossos pecados, Ele escondeu de vós o Seu rosto para não vos ouvir. ^v2
 
-**3** Porque as vossas mãos estão contaminadas de sangue, e os vossos dedos de iniqüidade; os vossos lábios falam falsidade, a vossa língua pronuncia perversidade. ^v3
+**3** Porque as vossas mãos estão contaminadas com sangue e vossos dedos, com pecado. Vossos lábios falam mentiras e vossas línguas falam o que é mau. ^v3
 
-**4** Ninguém há que clame pela justiça, nem ninguém que compareça em juízo pela verdade; confiam na vaidade, e falam mentiras; concebem o mal, e dão à luz a iniqüidade. ^v4
+**4** Não há quem clame com justiça e ninguém apela por seus direitos com verdade; eles confiam em palavras vãs e contam mentiras; concebem maldades e dão à luz o pecado. ^v4
 
-**5** Chocam ovos de basilisco, e tecem teias de aranha; o que comer dos ovos deles, morrerá; e, quebrando-os, sairá uma víbora. ^v5
+**5** Eles chocam ovos de cobras venenosas e tecem teias de aranha; os que comem dos seus ovos morrerão; e, se um ovo é esmagado, sai dele uma cobra venenosa. ^v5
 
-**6** As suas teias não prestam para vestes nem se poderão cobrir com as suas obras; as suas obras são obras de iniqüidade, e obra de violência há nas suas mãos. ^v6
+**6** As suas teias não podem ser usadas como roupa, eles não poderão se vestir com o próprio trabalho; suas obras são pecaminosas e atos de violência estão em suas mãos. ^v6
 
-**7** Os seus pés correm para o mal, e se apressam para derramarem o sangue inocente; os seus pensamentos são pensamentos de iniqüidade; destruição e quebrantamento há nas suas estradas. ^v7
+**7** Seus pés correm para o mal e se apressam em derramar sangue inocente. Seus pensamentos são pensamentos de pecado; violência e destruição são os seus caminhos. ^v7
 
-**8** Não conhecem o caminho da paz, nem há justiça nos seus passos; fizeram para si veredas tortuosas; todo aquele que anda por elas não tem conhecimento da paz. ^v8
+**8** Eles não conhecem o caminho da paz e não há justiça em seus passos. Fizeram para si estradas tortuosas; quem anda por elas não sabe o que é paz. ^v8
 
-**9** Por isso o juízo está longe de nós, e a justiça não nos alcança; esperamos pela luz, e eis que só há trevas; pelo resplendor, mas andamos em escuridão. ^v9
+**9** Por isso, a justiça está longe de nós, e a retidão não nos alcança. Esperamos pela luz, eis que só há trevas; procuramos pelo resplendor, mas andamos na escuridão. ^v9
 
-**10** Apalpamos as paredes como cegos, e como os que não têm olhos andamos apalpando; tropeçamos ao meio-dia como nas trevas, e nos lugares escuros como mortos. ^v10
+**10** Nós tocamos as paredes como os cegos, como aqueles que não conseguem ver. Nós tropeçamos ao meio-dia como se fosse noite; entre os fortes, nós somos como os mortos. ^v10
 
-**11** Todos nós bramamos como ursos, e continuamente gememos como pombas; esperamos pelo juízo, e não o há; pela salvação, e está longe de nós. ^v11
+**11** Rugimos como ursos e gememos como pombos; esperamos por justiça, mas não há nenhuma; por salvação, mas ela está longe de nós. ^v11
 
-**12** Porque as nossas transgressões se multiplicaram perante ti, e os nossos pecados testificam contra nós; porque as nossas transgressões estão conosco, e conhecemos as nossas iniqüidades; ^v12
+**12** Pois as nossas transgressões se multiplicam diante de Ti e os nossos pecados dão testemunho contra nós; pois as nossas transgressões estão conosco e conhecemos os nossos pecados. ^v12
 
-**13** Como o prevaricar, e mentir contra o Senhor, e o desviarmo-nos do nosso Deus, o falar de opressão e rebelião, o conceber e proferir do coração palavras de falsidade. ^v13
+**13** Transgredimos negando a Yahweh e nos desviamos de seguir o nosso Deus. Pregamos a opressão e a rebelião, dando à luz a reclamação do coração e palavras mentirosas. ^v13
 
-**14** Por isso o direito se tornou atrás, e a justiça se pôs de longe; porque a verdade anda tropeçando pelas ruas, e a eqüidade não pode entrar. ^v14
+**14** A justiça retrocedeu e a integridade está longe; pois a verdade tropeça em praças públicas e a retidão não pode vir. ^v14
 
-**15** Sim, a verdade desfalece, e quem se desvia do mal arrisca-se a ser despojado; e o Senhor viu, e pareceu mal aos seus olhos que não houvesse justiça. ^v15
+**15** A verdade desfalece, e aquele que vira as costas para a maldade torna-se uma vítima. Yahweh viu isso e ficou insatisfeito, pois não havia justiça. ^v15
 
-**16** E vendo que ninguém havia, maravilhou-se de que não houvesse um intercessor; por isso o seu próprio braço lhe trouxe a salvação, e a sua própria justiça o susteve. ^v16
+**16** Ele viu que não havia nenhum homem e ficou surpreso por não haver ninguém que intercedesse. Por isso, o Seu próprio braço trouxe a salvação, e a Sua retidão O sustentou. ^v16
 
-**17** Pois vestiu-se de justiça, como de uma couraça, e pôs o capacete da salvação na sua cabeça, e por vestidura pôs sobre si vestes de vingança, e cobriu-se de zelo, como de um manto. ^v17
+**17** Vestiu-Se de justiça como de uma couraça e pôs na cabeça o capacete da salvação; vestiu-Se com roupas de vingança e Se cobriu de zelo, como de um manto. ^v17
 
-**18** Conforme forem as obras deles, assim será a sua retribuição, furor aos seus adversários, e recompensa aos seus inimigos; às ilhas dará ele a sua recompensa. ^v18
+**18** Ele os retribuiu segundo as suas obras; ira aos Seus adversários e vingança aos Seus inimigos; às ilhas, punição como recompensa. ^v18
 
-**19** Então temerão o nome do Senhor desde o poente, e a sua glória desde o nascente do sol; vindo o inimigo como uma corrente de águas, o Espírito do Senhor arvorará contra ele a sua bandeira. ^v19
+**19** Então temerão o nome de Yahweh desde o oeste, e a Sua glória, desde o nascer do sol; porque Ele virá como uma correnteza impetuosa, dirigida pelo Espírito de Yahweh. ^v19
 
-**20** E virá um Redentor a Sião e aos que em Jacó se converterem da transgressão, diz o Senhor. ^v20
+**20** """Um Redentor virá até Sião e virá para aqueles que se desviam dos atos rebeldes de Jacó"". Esta é a declaração de Yahweh." ^v20
 
-**21** Quanto a mim, esta é a minha aliança com eles, diz o Senhor: o meu espírito, que está sobre ti, e as minhas palavras, que pus na tua boca, não se desviarão da tua boca nem da boca da tua descendência, nem da boca da descendência da tua descendência, diz o Senhor, desde agora e para todo o sempre. ^v21
+**21** """E, quanto a Mim, este é a Minha aliança com eles"" — diz Yahweh: ""O Meu Espírito está sobre ti e as Minhas palavras, que coloquei em tua boca, não se apartarão dela, nem da boca de teus filhos, nem da boca dos filhos dos teus filhos, desde agora e para sempre"" — diz Yahweh." ^v21

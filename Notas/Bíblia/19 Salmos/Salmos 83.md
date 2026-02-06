@@ -1,43 +1,40 @@
 ---
-Livro: "[[Salmos|Salmos]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Salmos|Salmos]]"
+tags: [biblia]
 ---
 
 # Salmos 83
 
-**1** Ó Deus, não estejas em silêncio; não te cales, nem te aquietes, ó Deus, ^v1
+**2** Vê, Teus inimigos estão fazendo um tumulto e aqueles que Te odeiam levantaram suas cabeças. ^v2
 
-**2** Porque eis que teus inimigos fazem tumulto, e os que te odeiam levantaram a cabeça. ^v2
+**3** Eles conspiram contra o Teu povo e, juntos, planejam contra os protegidos. ^v3
 
-**3** Tomaram astuto conselho contra o teu povo, e consultaram contra os teus escondidos. ^v3
+**4** "Eles disseram: ""Vinde, vamos destruí-los como nação. Então, o nome de Israel não será mais lembrado""." ^v4
 
-**4** Disseram: Vinde, e desarraiguemo-los para que não sejam nação, nem haja mais memória do nome de Israel. ^v4
+**5** Juntos, eles tramaram uma estratégia e fizeram uma aliança contra Ti. ^v5
 
-**5** Porque consultaram juntos e unânimes; eles se unem contra ti: ^v5
+**6** Isso inclui as tendas de Edom e os ismaelitas, o povo de Moabe e os hagarenos, que tramam juntos a ^v6
 
-**6** As tendas de Edom, e dos ismaelitas, de Moabe, e dos agarenos, ^v6
+**7** Gebal, Amom, Amaleque; isso também inclui a Filístia e os habitantes de Tiro. ^v7
 
-**7** De Gebal, e de Amom, e de Amaleque, a Filístia, com os moradores de Tiro; ^v7
+**8** Assíria também está aliada a eles; estão ajudando os descendentes de Ló. [Interlúdio] ^v8
 
-**8** Também a Assíria se ajuntou com eles; foram ajudar aos filhos de Ló. (Selá.) ^v8
+**9** Faze a eles como fizeste a Midiã; como fizeste a Sísera e a Jabim no rio Quisom. ^v9
 
-**9** Faze-lhes como aos midianitas; como a Sísera, como a Jabim na ribeira de Quisom; ^v9
+**10** Eles pereceram em En-Dor e se tornaram esterco para a terra. ^v10
 
-**10** Os quais pereceram em Endor; tornaram-se como estrume para a terra. ^v10
+**11** Faze a seus nobres como a Orebe e a Zeebe, e a todos os seus príncipes, como a Zebá e a Zalmuna. ^v11
 
-**11** Faze aos seus nobres como a Orebe, e como a Zeebe; e a todos os seus príncipes, como a Zebá e como a Zalmuna, ^v11
+**12** "Eles disseram: ""Deixai-nos tomar as pastagens de Deus.""" ^v12
 
-**12** Que disseram: Tomemos para nós as casas de Deus em possessão. ^v12
+**13** Meu Deus, torna-os como o redemoinho, como palha ante o vento, ^v13
 
-**13** Deus meu, faze-os como um tufão, como a aresta diante do vento. ^v13
+**14** como o fogo que queima a floresta e como a chama que incendeia as montanhas. ^v14
 
-**14** Como o fogo que queima um bosque, e como a chama que incendeia as brenhas, ^v14
+**15** Persegue-os com o Teu vento forte, e apavora-os com a Tua tempestade de vento. ^v15
 
-**15** Assim os persegue com a tua tempestade, e os assombra com o teu torvelinho. ^v15
+**16** Cobre seus rostos com vergonha para que busquem Teu nome, Yahweh. ^v16
 
-**16** Encham-se de vergonha as suas faces, para que busquem o teu nome, Senhor. ^v16
+**17** Que sejam envergonhados e aterrorizados para sempre; que pereçam em desgraça. ^v17
 
-**17** Confundam-se e assombrem-se perpetuamente; envergonhem-se, e pereçam, ^v17
-
-**18** Para que saibam que tu, a quem só pertence o nome de Senhor, és o Altíssimo sobre toda a terra. ^v18
+**18** Então, saberão que somente Tu, Yahweh, és o Altíssimo sobre toda a terra! ^v18

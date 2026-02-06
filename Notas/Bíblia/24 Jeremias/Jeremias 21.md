@@ -1,35 +1,34 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Jeremias|Jeremias]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Jeremias|Jeremias]]"
+tags: [biblia]
 ---
 
 # Jeremias 21
 
-**1** A palavra que veio a Jeremias da parte do Senhor, quando o rei Zedequias lhe enviou a Pasur, filho de Malquias, e a Sofonias, filho de Maaséias, o sacerdote, dizendo: ^v1
+**1** Esta é a palavra que veio de Yahweh para Jeremias, quando o rei Zedequias enviou Pasur, filho de Malquias, e o sacerdote Sofonias, filho de Maaseias, que lhe disseram: ^v1
 
-**2** Pergunta agora por nós ao SENHOR, por que Nabucodonosor, rei de babilônia, guerreia contra nós; bem pode ser que o SENHOR trate conosco segundo todas as suas maravilhas, e o faça retirar-se de nós. ^v2
+**2** """Procura o conselho de Yahweh a nosso favor, pois Nabucodonosor, rei da Babilônia, está levantando guerra contra nós. Talvez Yahweh realize milagres por nós, como no passado, e faça com que ele se afaste de nós""." ^v2
 
-**3** Então Jeremias lhes disse: Assim direis a Zedequias: ^v3
+**3** "Então, Jeremias lhes disse: ""Isto é o que deves dizer a Zedequias:" ^v3
 
-**4** Assim diz o SENHOR Deus de Israel: Eis que virarei contra vós as armas de guerra, que estão nas vossas mãos, com que vós pelejais contra o rei de babilônia, e contra os caldeus, que vos têm cercado de fora dos muros, e ajuntá-los-ei no meio desta cidade. ^v4
+**4** 'Yahweh, Deus de Israel, diz: Vede, estou prestes a voltar contra vós os instrumentos de guerra que estão em vossas mãos, com os quais estais lutando contra o rei da Babilônia e os caldeus que vos estão cercando do outro lado dos muros! Eu os reunirei no meio desta cidade. ^v4
 
-**5** E eu pelejarei contra vós com mão estendida e com braço forte, e com ira, e com indignação e com grande furor. ^v5
+**5** Então, Eu mesmo lutarei contra vós, com a mão erguida e o braço forte e com indignação, fúria e grande ira. ^v5
 
-**6** E ferirei os habitantes desta cidade, assim os homens como os animais; de grande pestilência morrerão. ^v6
+**6** Pois Eu atacarei os habitantes desta cidade, tanto homens como animais, e eles morrerão com uma praga severa. ^v6
 
-**7** E depois disto, diz o SENHOR, entregarei Zedequias, rei de Judá, e seus servos, e o povo, e os que desta cidade restarem da pestilência, e da espada, e da fome, na mão de Nabucodonosor, rei de babilônia, e na mão de seus inimigos, e na mão dos que buscam a sua vida; e feri-los-á ao fio da espada; não os poupará, nem se compadecerá, nem terá misericórdia. ^v7
+**7** Depois disso – esta é a declaração de Yahweh – Zedequias, rei de Judá, seus servos, o povo, e qualquer remanescente nesta cidade depois da praga, da espada e da fome, Eu entregarei todos nas mãos de Nabucodonosor, rei da Babilônia, de seus inimigos e daqueles que buscam tirar-lhes a vida. Então, ele os matará ao fio da espada. Ele não terá piedade, não os poupará ou terá compaixão.' ^v7
 
-**8** E a este povo dirás: Assim diz o Senhor: Eis que ponho diante de vós o caminho da vida e o caminho da morte. ^v8
+**8** Então, para este povo devereis dizer: 'Assim diz Yahweh: Vede, Eu estou prestes a colocar diante de vós o caminho da vida e o caminho da morte. ^v8
 
-**9** O que ficar nesta cidade há de morrer à espada, ou de fome, ou de pestilência; mas o que sair, e se render aos caldeus, que vos têm cercado, viverá, e terá a sua vida por despojo. ^v9
+**9** Qualquer um que permanecer nesta cidade morrerá pela espada, fome e praga; mas, qualquer um que sair e se ajoelhar diante dos babilônios que vos têm cercado, viverá. Este escapará com vida. ^v9
 
-**10** Porque pus o meu rosto contra esta cidade para mal, e não para bem, diz o SENHOR; na mão do rei de babilônia se entregará, e ele queimá-la-á a fogo. ^v10
+**10** Pois eu estabeleci minha face contra esta cidade, em ordenança, para trazer desastre e não trazer o bem –esta é a declaração de Yahweh. Ela está sendo entregue nas mãos do rei da Babilônia, e ele a queimará.' ^v10
 
-**11** E à casa do rei de Judá dirás: Ouvi a palavra do Senhor: ^v11
+**11** Acerca da casa do rei de Judá, escutai a palavra de Yahweh: ^v11
 
-**12** Ó casa de Davi, assim diz o Senhor: Julgai pela manhã justamente, e livrai o espoliado da mão do opressor; para que não saia o meu furor como fogo, e se acenda, sem que haja quem o apague, por causa da maldade de vossas ações. ^v12
+**12** 'Casa de Davi', diz Yahweh, 'executa a justiça pela manhã e resgata os que foram roubados pelas mãos do opressor, ou Minha fúria virá como fogo e te queimará, pois não há ninguém que possa apagá-la, por causa da maldade de tuas práticas. ^v12
 
-**13** Eis que eu sou contra ti, ó moradora do vale, ó rocha da campina, diz o Senhor; contra vós que dizeis: Quem descerá contra nós? Ou quem entrará nas nossas moradas? ^v13
+**13** "Vede, habitantes do vale, planalto rochoso, Eu estou contra vós – esta é a declaração de Yahweh – Eu estou contra qualquer um que está dizendo: ""Quem subirá para nos atacar?"" ou ""Quem entrará em nossas casas?""" ^v13
 
-**14** Eu vos castigarei segundo o fruto das vossas ações, diz o Senhor; e acenderei o fogo no seu bosque, que consumirá a tudo o que está em redor dela. ^v14
+**14** "Eu vos castigarei segundo o fruto de vossas práticas – esta é a declaração de Yahweh – e Eu acenderei nos arvoredos um fogo que consumirá tudo à sua volta.""" ^v14

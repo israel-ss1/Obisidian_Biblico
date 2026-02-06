@@ -1,59 +1,58 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Josué|Josué]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Josué|Josué]]"
+tags: [biblia]
 ---
 
 # Josué 7
 
-**1** E transgrediram os filhos de Israel no anátema; porque Acã filho de Carmi, filho de Zabdi, filho de Zerá, da tribo de Judá, tomou do anátema, e a ira do SENHOR se acendeu contra os filhos de Israel. ^v1
+**1** Mas o povo de Israel foi infiel em relação ao que foi condenado para a destruição. Acã, filho de Carmi, filho de Zabdi, filho de Zerá da tribo de Judá, tomou para si algumas coisas que foram separadas para a destruição. Por isso, a ira de Yahweh acendeu-se contra o povo de Israel. ^v1
 
-**2** Enviando, pois, Josué, de Jericó, alguns homens a Ai, que está junto a Bete-Áven do lado do oriente de Betel, falou-lhes dizendo: Subi, e espiai a terra. Subiram, pois, aqueles homens, e espiaram a Ai. ^v2
+**2** "Naqueles dias, Josué enviou homens para Ai, cidade próxima a Bete-Áven, leste de Betel. Ele lhes disse: ""Subi e espiai a terra"". Então, os homens subiram e espiaram Ai." ^v2
 
-**3** E voltaram a Josué, e disseram-lhe: Não suba todo o povo; subam uns dois mil, ou três mil homens, a ferir a Ai; não fatigueis ali a todo o povo, porque poucos são. ^v3
+**3** "Quando retornaram a Josué, disseram-lhe: ""Nem todo o povo deve subir para Ai. Subam apenas dois ou três mil homens para atacá-la. Não faças todo o povo se cansar em batalha, pois eles são poucos""." ^v3
 
-**4** Assim, subiram lá, do povo, uns três mil homens, os quais fugiram diante dos homens de Ai. ^v4
+**4** Assim, subiram cerca de três mil homens do exército de Israel, mas fugiram diante dos homens de Ai. ^v4
 
-**5** E os homens de Ai feriram deles uns trinta e seis, e os perseguiram desde a porta até Sebarim, e os feriram na descida; e o coração do povo se derreteu e se tornou como água. ^v5
+**5** Os homens de Ai mataram cerca de trinta e seis israelitas enquanto os perseguiam desde o portão da cidade até as pedreiras; eles os mataram quando desciam a colina. E o coração do povo se derreteu de medo e perderam a coragem. ^v5
 
-**6** Então Josué rasgou as suas vestes, e se prostrou em terra sobre o seu rosto perante a arca do Senhor até à tarde, ele e os anciãos de Israel; e deitaram pó sobre as suas cabeças. ^v6
+**6** Então, Josué rasgou suas vestes. Ele e os anciãos de Israel jogaram pó em suas cabeças e se prostraram, com seus rostos em terra, perante a Arca de Yahweh, permanecendo lá até a tarde. ^v6
 
-**7** E disse Josué: Ah! Senhor Deus! Por que, com efeito, fizeste passar a este povo o Jordão, para nos entregares nas mãos dos amorreus para nos fazerem perecer? Antes nos tivéssemos contentado em ficar além do Jordão! ^v7
+**7** "Josué disse: ""Ah! Yahweh Senhor! Por que fizeste este povo atravessar o Jordão para nos entregares nas mãos dos amorreus e estes nos destruírem? Antes nós tivéssemos nos contentado em ficar do outro lado do Jordão!" ^v7
 
-**8** Ah, Senhor! Que direi? Pois Israel virou as costas diante dos inimigos! ^v8
+**8** Senhor, que posso eu dizer, depois que Israel retrocedeu diante dos seus inimigos? ^v8
 
-**9** Ouvindo isto, os cananeus, e todos os moradores da terra, nos cercarão e desarraigarão o nosso nome da terra; e então que farás ao teu grande nome? ^v9
+**9** "Pois os cananeus e todos os habitantes da terra ouvirão isso. Irão nos cercar e fazer com que o povo da terra esqueça o nosso nome. E então, o que farás pelo Teu grande nome?""" ^v9
 
-**10** Então disse o Senhor a Josué: Levanta-te; por que estás prostrado assim sobre o teu rosto? ^v10
+**10** "Yahweh disse a Josué: ""Levanta-te! Por que estás aí prostrado sobre teu rosto?" ^v10
 
-**11** Israel pecou, e transgrediram a minha aliança que lhes tinha ordenado, e tomaram do anátema, e furtaram, e mentiram, e debaixo da sua bagagem o puseram. ^v11
+**11** Israel pecou! Eles violaram Minha aliança que lhes tinha ordenado. Eles roubaram das coisas que foram separadas. Eles roubaram, mentiram e esconderam seu pecado entre seus próprios pertences. ^v11
 
-**12** Por isso os filhos de Israel não puderam subsistir perante os seus inimigos; viraram as costas diante dos seus inimigos; porquanto estão amaldiçoados; não serei mais convosco, se não desarraigardes o anátema do meio de vós. ^v12
+**12** Por isso o povo de Israel não pôde permanecer ante seus inimigos. Eles fugiram dos inimigos porque eles mesmos mereceram sua destruição. Não estarei mais convosco se não destruirdes as coisas que devem ser destruídas, que estão entre vós. ^v12
 
-**13** Levanta-te, santifica o povo, e dize: Santificai-vos para amanhã, porque assim diz o Senhor Deus de Israel: Anátema há no meio de ti, Israel; diante dos teus inimigos não poderás suster-te, até que tireis o anátema do meio de vós. ^v13
+**13** Levanta-te! Consagra-Me o povo e dize-lhes: 'Santificai-vos para amanhã, pois Yahweh, o Deus de Israel, diz: Ainda há coisas separadas para a destruição no meio de vós, Israel. Não podereis resistir aos vossos inimigos até que removais dentre vós todas as coisas que foram separadas para a destruição. ^v13
 
-**14** Amanhã, pois, vos chegareis, segundo as vossas tribos; e será que a tribo que o Senhor tomar se chegará, segundo as famílias; e a família que o Senhor tomar se chegará por casas; e a casa que o Senhor tomar se chegará homem por homem. ^v14
+**14** Pela manhã, tereis de vos apresentar segundo suas tribos. A tribo que Yahweh escolher se aproximará por clãs. O clã que Yahweh escolher deverá se aproximar casa por casa. A casa que Yahweh escolher deverá se aproximar homem por homem. ^v14
 
-**15** E será que aquele que for tomado com o anátema será queimado a fogo, ele e tudo quanto tiver; porquanto transgrediu a aliança do Senhor, e fez uma loucura em Israel. ^v15
+**15** E acontecerá que aquele que for encontrado com as coisas separadas para a destruição será queimado no fogo, ele e tudo o que tem, porque ele quebrou a aliança de Yahweh e porque causou desgraça em Israel”. ^v15
 
-**16** Então Josué se levantou de madrugada, e fez chegar a Israel, segundo as suas tribos; e a tribo de Judá foi tomada; ^v16
+**16** No dia seguinte, Josué acordou de madrugada e fez Israel se aproximar, tribo por tribo, e a tribo de Judá foi escolhida. ^v16
 
-**17** E, fazendo chegar a tribo de Judá, tomou a família dos zeraítas; e fazendo chegar a família dos zeraítas homem por homem, foi tomado Zabdi; ^v17
+**17** Ele aproximou os clãs de Judá, e o clã dos zeraítas foi escolhido. Ele fez o clã dos zeraítas se aproximar, pessoa por pessoa, e Zabdi foi escolhido. ^v17
 
-**18** E, fazendo chegar a sua casa, homem por homem, foi tomado Acã, filho de Carmi, filho de Zabdi, filho de Zerá, da tribo de Judá. ^v18
+**18** Ele fez a família de Zabdi se aproximar, pessoa por pessoa, e Acã, filho de Carmi, filho de Zabdi, filho de Zerá, foi escolhido da tribo de Judá. ^v18
 
-**19** Então disse Josué a Acã: Filho meu, dá, peço-te, glória ao Senhor Deus de Israel, e faze confissão perante ele; e declara-me agora o que fizeste, não mo ocultes. ^v19
+**19** "Então Josué disse a Acã: ""Meu filho, dize a verdade diante de Yahweh, o Deus de Israel, e confessa perante Ele. Dize-me o que tu fizeste, não escondas de mim""." ^v19
 
-**20** E respondeu Acã a Josué, e disse: Verdadeiramente pequei contra o Senhor Deus de Israel, e fiz assim e assim. ^v20
+**20** "Acã respondeu a Josué: ""Verdadeiramente, eu pequei contra Yahweh, o Deus de Israel. Eis o que fiz:" ^v20
 
-**21** Quando vi entre os despojos uma boa capa babilônica, e duzentos siclos de prata, e uma cunha de ouro, do peso de cinqüenta siclos, cobicei-os e tomei-os; e eis que estão escondidos na terra, no meio da minha tenda, e a prata por baixo dela. ^v21
+**21** "quando vi entre os despojos uma bela capa babilônica, duzentos ciclos de prata e uma barra de ouro no peso de cinquenta ciclos, desejei-os e os peguei. Eles estão escondidos no chão, no meio de minha tenda, e a prata está debaixo da capa""." ^v21
 
-**22** Então Josué enviou mensageiros, que foram correndo à tenda; e eis que tudo estava escondido na sua tenda, e a prata por baixo. ^v22
+**22** Josué enviou mensageiros, que correram à tenda e lá estavam as coisas. Quando olharam, encontraram-nas escondidas em sua própria tenda e a prata estava embaixo da capa. ^v22
 
-**23** Tomaram, pois, aquelas coisas do meio da tenda, e as trouxeram a Josué e a todos os filhos de Israel; e as puseram perante o Senhor. ^v23
+**23** Eles pegaram os objetos do meio da tenda e os levaram até Josué e todo o povo de Israel. Eles os puseram diante de Yahweh. ^v23
 
-**24** Então Josué, e todo o Israel com ele, tomaram a Acã filho de Zerá, e a prata, e a capa, e a cunha de ouro, e seus filhos, e suas filhas, e seus bois, e seus jumentos, e suas ovelhas, e sua tenda, e tudo quanto ele tinha; e levaram-nos ao vale de Acor. ^v24
+**24** Depois, Josué e todo o Israel com ele pegaram Acã, filho de Zerá, e a prata, a capa, a barra de ouro, seus filhos e filhas, seus bois, seus jumentos, suas ovelhas, sua tenda e tudo o que ele tinha e os levaram ao vale de Acor. ^v24
 
-**25** E disse Josué: Por que nos perturbaste? O Senhor te perturbará neste dia. E todo o Israel o apedrejou; e os queimaram a fogo depois de apedrejá-los. ^v25
+**25** "Então, Josué disse: ""Por que nos trouxeste esta desgraça? Hoje Yahweh trará desgraça sobre ti"". Todo o Israel apedrejou Acã; e apedrejaram os seus e as demais coisas, e os queimaram no fogo." ^v25
 
-**26** E levantaram sobre ele um grande montão de pedras, até o dia de hoje; assim o Senhor se apartou do ardor da sua ira; pelo que aquele lugar se chama o vale de Acor, até ao dia de hoje. ^v26
+**26** E levantaram sobre ele um grande monte de pedras, que permanece até o dia de hoje. Yahweh afastou Sua ira. Por isso o nome daquele lugar é vale de Acor, até o dia de hoje. ^v26

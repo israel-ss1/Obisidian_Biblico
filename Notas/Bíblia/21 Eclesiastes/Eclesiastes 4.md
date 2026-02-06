@@ -1,39 +1,38 @@
 ---
-Livro: "[[Eclesiastes|Eclesiastes]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Eclesiastes|Eclesiastes]]"
+tags: [biblia]
 ---
 
 # Eclesiastes 4
 
-**1** Depois voltei-me, e atentei para todas as opressões que se fazem debaixo do sol; e eis que vi as lágrimas dos que foram oprimidos e dos que não têm consolador, e a força estava do lado dos seus opressores; mas eles não tinham consolador. ^v1
+**1** Mais uma vez, pensei sobre toda a opressão que ocorre debaixo do sol. Eis as lágrimas das pessoas oprimidas, e elas não tinham ninguém para confortá-las! O poder estava nas mãos de seus opressores, e não havia ninguém para trazer-lhes conforto! ^v1
 
-**2** Por isso eu louvei os que já morreram, mais do que os que vivem ainda. ^v2
+**2** Logo, considero mais afortunadas as pessoas que já morreram do que aquelas que ainda estão vivas. ^v2
 
-**3** E melhor que uns e outros é aquele que ainda não é; que não viu as más obras que se fazem debaixo do sol. ^v3
+**3** No entanto, mais afortunado do que ambas é aquele que ainda não viveu, aquele que não viu quaisquer dos atos malignos que são cometidos debaixo do sol. ^v3
 
-**4** Também vi eu que todo o trabalho, e toda a destreza em obras, traz ao homem a inveja do seu próximo. Também isto é vaidade e aflição de espírito. ^v4
+**4** Então, vi que todo ato de fadiga, e todo trabalho habilidoso tornou-se motivo de inveja para o próximo. Isso também é vaidade e como a tentativa de agarrar o vento. ^v4
 
-**5** O tolo cruza as suas mãos, e come a sua própria carne. ^v5
+**5** O tolo fecha suas mãos e não trabalha; então sua própria carne torna-se sua comida. ^v5
 
-**6** Melhor é a mão cheia com descanso do que ambas as mãos cheias com trabalho, e aflição de espírito. ^v6
+**6** Mas é melhor uma mão cheia de lucro com trabalho tranquilo, do que duas mãos cheias com o trabalho de tentar agarrar o vento. ^v6
 
-**7** Outra vez me voltei, e vi vaidade debaixo do sol. ^v7
+**7** Então refleti novamente sobre mais futilidades e mais vaidades que se dissipam sob o sol. ^v7
 
-**8** Há um que é só, e não tem ninguém, nem tampouco filho nem irmão; e contudo não cessa do seu trabalho, e também seus olhos não se satisfazem com riqueza; nem diz: Para quem trabalho eu, privando a minha alma do bem? Também isto é vaidade e enfadonha ocupação. ^v8
+**8** Há o tipo de homem que é solitário. Ele não tem ninguém, nem filho, nem irmão. Não há fim para todo seu trabalho, e seus olhos não ficam satisfeitos com a riqueza obtida. Então, ele questiona: para quem estou trabalhando duramente e me privando do prazer? Isso também é vaidade, uma má situação. ^v8
 
-**9** Melhor é serem dois do que um, porque têm melhor paga do seu trabalho. ^v9
+**9** Duas pessoas juntas trabalham melhor que uma; juntas, elas podem obter melhor pagamento pelo seu trabalho. ^v9
 
-**10** Porque se um cair, o outro levanta o seu companheiro; mas ai do que estiver só; pois, caindo, não haverá outro que o levante. ^v10
+**10** Pois, se uma cair, a outra pode levantá-la. No entanto, a tristeza segue o que está sozinho; quando ele cai, não há ninguém para levantá-lo. ^v10
 
-**11** Também, se dois dormirem juntos, eles se aquentarão; mas um só, como se aquentará? ^v11
+**11** Se dois se deitarem juntos, eles podem se aquecer, mas como pode um se aquecer sozinho? ^v11
 
-**12** E, se alguém prevalecer contra um, os dois lhe resistirão; e o cordão de três dobras não se quebra tão depressa. ^v12
+**12** Um homem sozinho pode ser dominado, mas dois podem resistir a um ataque. Uma corda tripla não será facilmente quebrada. ^v12
 
-**13** Melhor é a criança pobre e sábia do que o rei velho e insensato, que não se deixa mais admoestar. ^v13
+**13** É melhor ser um jovem pobre, mas sensato, do que um velho rei tolo que não sabe mais ouvir conselhos. ^v13
 
-**14** Porque um sai do cárcere para reinar; enquanto outro, que nasceu em seu reino, torna-se pobre. ^v14
+**14** Isso é verdade, mesmo que o jovem se torne rei depois de sair de uma prisão, ou mesmo que ele tenha nascido pobre no seu reino. ^v14
 
-**15** Vi a todos os viventes andarem debaixo do sol com a criança, a sucessora, que ficará no seu lugar. ^v15
+**15** Contudo eu vi todos os que estavam vivos e caminhando debaixo do sol, submetendo-se a outro jovem que foi levantado como rei. ^v15
 
-**16** Não tem fim todo o povo que foi antes dele; tampouco os que lhe sucederem se alegrarão dele. Na verdade que também isto é vaidade e aflição de espírito. ^v16
+**16** Não tem fim o número de pessoas sobre quem o novo rei governa; mas, depois, muitas delas não o exaltarão mais. Certamente, essa situação é vaidade, e como a tentativa de agarrar o vento. ^v16

@@ -1,59 +1,58 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Ezequiel|Ezequiel]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Ezequiel|Ezequiel]]"
+tags: [biblia]
 ---
 
 # Ezequiel 28
 
-**1** E veio a mim a palavra do SENHOR, dizendo: ^v1
+**1** E veio a mim a palavra de Yahweh, dizendo: ^v1
 
-**2** Filho do homem, dize ao príncipe de Tiro: Assim diz o Senhor DEUS: Porquanto o teu coração se elevou e disseste: Eu sou Deus, sobre a cadeira de Deus me assento no meio dos mares; e não passas de homem, e não és Deus, ainda que estimas o teu coração como se fora o coração de Deus; ^v2
+**2** """Filho do homem, dize ao rei de Tiro, 'assim declara Yahweh Deus: O teu coração é arrogante, pois disseste: 'Eu sou deus! Eu me assentarei no trono dos deuses no meio dos mares!'. Mesmo sendo homem e não deus, em teu coração, consideras a ti como deus." ^v2
 
-**3** Eis que tu és mais sábio que Daniel; e não há segredo algum que se possa esconder de ti. ^v3
+**3** Tu pensas que és mais sábio que Daniel e que não há mistério algum que te supreenda! ^v3
 
-**4** Pela tua sabedoria e pelo teu entendimento alcançaste para ti riquezas, e adquiriste ouro e prata nos teus tesouros. ^v4
+**4** Enriqueceste com sabedoria e habilidade, adquiriste ouro e prata nos teus tesouros! ^v4
 
-**5** Pela extensão da tua sabedoria no teu comércio aumentaste as tuas riquezas; e eleva-se o teu coração por causa das tuas riquezas; ^v5
+**5** Pela grande sabedoria e por teu comércio, multiplicaste as tuas riquezas, por isso o teu coração é arrogante por causa da tua riqueza. ^v5
 
-**6** Portanto, assim diz o Senhor DEUS: Porquanto estimas o teu coração, como se fora o coração de Deus, ^v6
+**6** Portanto, assim declara Yahweh Deus: porque igualaste o teu coração a de um deus, ^v6
 
-**7** Por isso eis que eu trarei sobre ti estrangeiros, os mais terríveis dentre as nações, os quais desembainharão as suas espadas contra a formosura da tua sabedoria, e mancharão o teu resplendor. ^v7
+**7** trarei estrangeiros contra ti, homens terríveis dentre outras nações. Eles trarão as suas espadas contra a beleza da tua sabedoria e zombarão do teu esplendor. ^v7
 
-**8** Eles te farão descer à cova e morrerás da morte dos traspassados no meio dos mares. ^v8
+**8** Eles te farão cair na cova e morrerás como aqueles que morrem no coração do mar. ^v8
 
-**9** Acaso dirás ainda diante daquele que te matar: Eu sou Deus? mas tu és homem, e não Deus, na mão do que te traspassa. ^v9
+**9** Verdadeiramente, dirás: 'Eu sou um deus' para aqueles que te matam? Tu és homem e não Deus e estarás nas mãos daquele que te perfura. ^v9
 
-**10** Da morte dos incircuncisos morrerás, por mão de estrangeiros, porque eu o falei, diz o Senhor DEUS. ^v10
+**10** Morrerás como um incircunciso pelas mãos dos estranhos — pois Eu assim declaro — assim declara Yahweh Deus”. ^v10
 
-**11** Veio a mim a palavra do Senhor, dizendo: ^v11
+**11** Mais uma vez, a palavra de Yahweh veio a mim, dizendo: ^v11
 
-**12** Filho do homem, levanta uma lamentação sobre o rei de Tiro, e dize-lhe: Assim diz o Senhor DEUS: Tu eras o selo da medida, cheio de sabedoria e perfeito em formosura. ^v12
+**12** “Filho do homem, levanta uma lamentação sobre o rei de Tiro e dize para ele: 'Assim declara Yahweh Deus: Tu eras o modelo da perfeição, cheio de sabedoria e perfeito em formosura. ^v12
 
-**13** Estiveste no Éden, jardim de Deus; de toda a pedra preciosa era a tua cobertura: sardônia, topázio, diamante, turquesa, ônix, jaspe, safira, carbúnculo, esmeralda e ouro; em ti se faziam os teus tambores e os teus pífaros; no dia em que foste criado foram preparados. ^v13
+**13** Estavas no Éden, o jardim de Deus. Toda pedra preciosa te cobria: rubi, topázio, esmeralda, crisólito, ônix, jaspe, safira, turquesa e berilo. Suas guarnições e montagens eram feitas de ouro e foram preparados no dia em que foste criado. ^v13
 
-**14** Tu eras o querubim, ungido para cobrir, e te estabeleci; no monte santo de Deus estavas, no meio das pedras afogueadas andavas. ^v14
+**14** Eu te coloquei no monte santo de Deus como querubim ungido para guardar a humanidade. Estavas no meio de pedras brilhantes e nelas andavas. ^v14
 
-**15** Perfeito eras nos teus caminhos, desde o dia em que foste criado, até que se achou iniqüidade em ti. ^v15
+**15** Eras íntegro em teus caminhos, desde o dia em que foste criado até que se achou injustiça em ti. ^v15
 
-**16** Na multiplicação do teu comércio encheram o teu interior de violência, e pecaste; por isso te lancei, profanado, do monte de Deus, e te fiz perecer, ó querubim cobridor, do meio das pedras afogueadas. ^v16
+**16** Por meio da grandeza do teu comércio, tu te encheste de violência e pecaste. Portanto, Eu te expulsei do monte de Deus, como um que se contaminou e te destruí, querubim da guarda, e te expulsei do meio das pedras brilhantes. ^v16
 
-**17** Elevou-se o teu coração por causa da tua formosura, corrompeste a tua sabedoria por causa do teu resplendor; por terra te lancei, diante dos reis te pus, para que olhem para ti. ^v17
+**17** Teu coração foi arrogante por causa da tua formosura; arruinaste a tua sabedoria por causa do teu esplendor. Eu te lancei por terra. Eu te coloquei diante dos reis para que possam te ver. ^v17
 
-**18** Pela multidão das tuas iniqüidades, pela injustiça do teu comércio profanaste os teus santuários; eu, pois, fiz sair do meio de ti um fogo, que te consumiu e te tornei em cinza sobre a terra, aos olhos de todos os que te vêem. ^v18
+**18** Por causa dos teus muitos pecados e desonestidade no comércio, profanaste os teus santuários. Por causa disso, fiz sair fogo de ti; que te consumirá. Eu te tornarei cinza na terra à vista de todos. ^v18
 
-**19** Todos os que te conhecem entre os povos estão espantados de ti; em grande espanto te tornaste, e nunca mais subsistirá. ^v19
+**19** "Todos os que te conhecem se espantarão; ficarão chocados e tu não mais existirás'""." ^v19
 
-**20** E veio a mim a palavra do Senhor, dizendo: ^v20
+**20** Então, veio a mim a palavra de Yahweh, dizendo: ^v20
 
-**21** Filho do homem, dirige o teu rosto contra Sidom, e profetiza contra ela, ^v21
+**21** “Filho do homem, profetiza contra Sidom. ^v21
 
-**22** E dize: Assim diz o Senhor DEUS: Eis-me contra ti, ó Sidom, e serei glorificado no meio de ti; e saberão que eu sou o SENHOR, quando nela executar juízos e nela me santificar. ^v22
+**22** Dize-lhe: 'assim declara Yahweh Deus: Eis que Eu sou contra ti, Sidom! Para que Eu seja glorificado no meio de ti e teu povo saiba que Eu sou Yahweh, quando executar justiça e demonstrar a Minha santidade no meio de ti. ^v22
 
-**23** Porque enviarei contra ela a peste, e o sangue nas suas ruas, e os traspassados cairão no meio dela, estando a espada contra ela por todos os lados; e saberão que eu sou o Senhor. ^v23
+**23** Enviarei sobre ti uma praga, sangue em tuas ruas e os mortos cairão no meio de ti. Quando a espada vier contra ti por todos os lados, saberás que Eu sou Yahweh. ^v23
 
-**24** E a casa de Israel nunca mais terá espinho que a fira, nem espinho que cause dor, entre os que se acham ao redor deles e que os desprezam; e saberão que eu sou o Senhor DEUS. ^v24
+**24** Então, não haverá mais espinhos pontiagudos e abrolhos que causem dor à casa de Israel entre os povos que a rodeiam e a desprezam; e saberão que Eu sou Yahweh Deus!'. ^v24
 
-**25** Assim diz o Senhor DEUS: Quando eu congregar a casa de Israel dentre os povos entre os quais estão espalhados, e eu me santificar entre eles, perante os olhos dos gentios, então habitarão na sua terra que dei a meu servo, a Jacó. ^v25
+**25** Assim declara Yahweh Deus: 'Quando Eu juntar a casa de Israel dentre os povos nos quais foram espalhados e, quando Me santificar no meio deles, diante das nações, eles edificarão as suas casas na terra que darei ao Meu servo Jacó. ^v25
 
-**26** E habitarão nela seguros, e edificarão casas, e plantarão vinhas, e habitarão seguros, quando eu executar juízos contra todos os que estão ao seu redor e que os desprezam; e saberão que eu sou o Senhor seu Deus. ^v26
+**26** "Então, habitarão seguros nela e edificarão casas, plantarão vinhas e viverão seguros quando Eu executar a justiça em todos aqueles ao seu redor que a desprezaram; e eles saberão que Eu sou Yahweh, o seu Deus!'""." ^v26

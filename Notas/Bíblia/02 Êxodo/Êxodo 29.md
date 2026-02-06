@@ -1,99 +1,98 @@
 ---
-Livro: "[[Êxodo|Êxodo]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Êxodo|Êxodo]]"
+tags: [biblia]
 ---
 
 # Êxodo 29
 
-**1** Isto é o que lhes hás de fazer, para os santificar, para que me administrem o sacerdócio: Toma um novilho e dois carneiros sem mácula, ^v1
+**1** Agora isso é o que tu deves fazer para dedicá-los a Mim para que então possam me servir como sacerdotes. Pega um novilho e dois carneiros sem mácula, ^v1
 
-**2** E pão ázimo, e bolos ázimos, amassados com azeite, e coscorões ázimos, untados com azeite; com flor de farinha de trigo os farás, ^v2
+**2** pães e bolos sem levedura misturados com azeite. Também pega bolachas sem levedura mergulhadas no óleo. Faze as bolachas usando uma farinha de trigo fina. ^v2
 
-**3** E os porás num cesto, e os trarás no cesto, com o novilho e os dois carneiros. ^v3
+**3** Deves pô-los em uma única cesta, trazê-los na cesta, e apresentá-los com o novilho e os dois carneiros. ^v3
 
-**4** Então farás chegar a Arão e a seus filhos à porta da tenda da congregação, e os lavarás com água; ^v4
+**4** Deves apresentar Arão e seus filhos na entrada da Tenda do encontro. Deves lavar Arão e seus filhos na água. ^v4
 
-**5** Depois tomarás as vestes, e vestirás a Arão da túnica e do manto do éfode, e do éfode, e do peitoral; e o cingirás com o cinto de obra de artífice do éfode. ^v5
+**5** Deves pegar as roupas e vestir Arão com a túnica, o manto do colete sacerdotal, o colete sacerdotal, e o peitoral, prendendo o tecido fino do colete sacerdotal em volta dele. ^v5
 
-**6** E a mitra porás sobre a sua cabeça; a coroa da santidade porás sobre a mitra. ^v6
+**6** Deves colocar o turbante em sua cabeça e a coroa santa em cima do turbante. ^v6
 
-**7** E tomarás o azeite da unção, e o derramarás sobre a sua cabeça; assim o ungirás. ^v7
+**7** Então pega o óleo da unção e derrama em sua cabeça e, dessa forma, unge-o. ^v7
 
-**8** Depois farás chegar seus filhos, e lhes farás vestir túnicas. ^v8
+**8** Deves trazer seus filhos e pôr capas neles. ^v8
 
-**9** E os cingirás com o cinto, a Arão e a seus filhos, e lhes atarás as tiaras, para que tenham o sacerdócio por estatuto perpétuo, e consagrarás a Arão e a seus filhos; ^v9
+**9** Deves vestir Arão e seus filhos com cintos e pôr turbantes neles. O trabalho do sacerdócio pertencerá a eles por uma lei permanente. Dessa forma, deves consagrar Arão e seus filhos para que eles sirvam a Mim. ^v9
 
-**10** E farás chegar o novilho diante da tenda da congregação, e Arão e seus filhos porão as suas mãos sobre a cabeça do novilho; ^v10
+**10** Vós deveis trazer o novilho à Tenda do encontro e Arão e seus filhos devem repousar suas mãos na cabeça dele. ^v10
 
-**11** E imolarás o novilho perante o Senhor, à porta da tenda da congregação. ^v11
+**11** Tu deves matar o novilho perante Mim, Yahweh, na entrada da Tenda do encontro. ^v11
 
-**12** Depois tomarás do sangue do novilho, e o porás com o teu dedo sobre as pontas do altar, e todo o sangue restante derramarás à base do altar. ^v12
+**12** Deves tomar uma parte do sangue do novilho e pô-lo nas pontas do altar com teu dedo, e deves derramar o sangue remanescente na base do altar. ^v12
 
-**13** Também tomarás toda a gordura que cobre as entranhas, e o redenho de sobre o fígado, e ambos os rins, e a gordura que houver neles, e queimá-los-ás sobre o altar; ^v13
+**13** Deves tomar toda a gordura que cobre as vísceras e também tomarás a gordura que envolve o fígado e os dois rins; queima tudo no altar. ^v13
 
-**14** Mas a carne do novilho, e a sua pele, e o seu esterco queimarás com fogo fora do arraial; é sacrifício pelo pecado. ^v14
+**14** Mas a carne, a pele e o excremento do novilho, tu deves queimá-los fora do campo. Isso será uma oferta pelos pecados. ^v14
 
-**15** Depois tomarás um carneiro, e Arão e seus filhos porão as suas mãos sobre a cabeça do carneiro, ^v15
+**15** Deves tomar o primeiro carneiro, e Arão e seus filhos devem repousar suas mãos na cabeça dele. ^v15
 
-**16** E imolarás o carneiro, e tomarás o seu sangue, e o espalharás sobre o altar ao redor; ^v16
+**16** Tu deves matar o carneiro. Então pega seu sangue e espalha-o em cada lado e dentro do altar. ^v16
 
-**17** E partirás o carneiro por suas partes, e lavarás as suas entranhas e as suas pernas, e as porás sobre as suas partes e sobre a sua cabeça. ^v17
+**17** Tu deves cortar o carneiro em pedaços e lavar suas vísceras e pernas, e deves pôr as vísceras, juntamente com suas partes e sua cabeça, ^v17
 
-**18** Assim queimarás todo o carneiro sobre o altar; é um holocausto para o Senhor, cheiro suave; uma oferta queimada ao Senhor. ^v18
+**18** sobre o altar. Então queima o carneiro inteiro. Será um holocausto para mim, Yahweh. Isso produzirá um aroma agradável para mim; será uma oferta de holocausto feita a Mim. ^v18
 
-**19** Depois tomarás o outro carneiro, e Arão e seus filhos porão as suas mãos sobre a sua cabeça; ^v19
+**19** Deves então pegar o outro carneiro, e Arão e seus filhos devem repousar suas mãos na cabeça dele. ^v19
 
-**20** E imolarás o carneiro e tomarás do seu sangue, e o porás sobre a ponta da orelha direita de Arão, e sobre as pontas das orelhas direitas de seus filhos, como também sobre os dedos polegares das suas mãos direitas, e sobre os dedos polegares dos seus pés direitos; e o restante do sangue espalharás sobre o altar ao redor; ^v20
+**20** Então tu deves matar o carneiro e pegar parte de seu sangue. Coloca-o na ponta da orelha direita, no polegar da mão direita e no polegar do pé direito de Arão e dos seus filhos. Então deves derramar sangue em cada lado do altar. ^v20
 
-**21** Então tomarás do sangue, que estará sobre o altar, e do azeite da unção, e o espargirás sobre Arão e sobre as suas vestes, e sobre seus filhos, e sobre as vestes de seus filhos com ele; para que ele seja santificado, e as suas vestes, também seus filhos, e as vestes de seus filhos com ele. ^v21
+**21** Deves pegar parte do sangue que está no altar e parte do óleo de unção, e derramar em Arão e em suas roupas, e também em seus filhos e suas roupas. Arão será, então, separado para Mim, assim como suas roupas, seus filhos e as roupas dos seus filhos com ele. ^v21
 
-**22** Depois tomarás do carneiro a gordura, e a cauda, e a gordura que cobre as entranhas, e o redenho do fígado, e ambos os rins com a gordura que houver neles, e o ombro direito, porque é carneiro das consagrações; ^v22
+**22** Deves pegar a gordura do carneiro, a gordura da cauda, a gordura que cobre as vísceras, a cobertura do fígado, dos dois rins, a gordura que os envolve, e a coxa direita – porque esse carneiro é para a consagração dos sacerdotes a Mim. ^v22
 
-**23** E um pão, e um bolo de pão azeitado, e um coscorão do cesto dos pães ázimos que estão diante do Senhor. ^v23
+**23** Pega um pão, um bolo feito com azeite, e uma bolacha de dentro da cesta de pães sem levedura que haverá perante Mim, Yahweh. ^v23
 
-**24** E tudo porás nas mãos de Arão, e nas mãos de seus filhos; e com movimento oferecerás perante o Senhor. ^v24
+**24** Tu deves colocá-los nas mãos de Arão e de seus filhos. Eles deverão apresentá-los perante Mim, Yahweh, e mostrá-los como uma oferta a Mim. ^v24
 
-**25** Depois o tomarás das suas mãos e o queimarás no altar sobre o holocausto por cheiro suave perante o Senhor; é oferta queimada ao Senhor. ^v25
+**25** Tu deves, então, pegar o alimento de suas mãos e queimá-lo no altar junto com o holocausto. Isso produzirá um aroma agradável para Mim; será uma oferta de fogo oferecida a Mim. ^v25
 
-**26** E tomarás o peito do carneiro das consagrações, que é de Arão, e com movimento oferecerás perante o Senhor; e isto será a tua porção. ^v26
+**26** Deves pegar o peito do carneiro usado para consagração de Arão e apresentá-lo como uma oferta a Mim, Yahweh. Então esta será sua porção para comer. ^v26
 
-**27** E santificarás o peito da oferta de movimento e o ombro da oferta alçada, que foi movido e alçado do carneiro das consagrações, que for de Arão e de seus filhos. ^v27
+**27** Tu deves dedicar a Mim o peito que ofereceste como oferta e a coxa que fora apresentada – o peito que fora ofertado e a coxa que fora apresentada, ambos vieram do carneiro de consagração de Arão e seus filhos a Mim. ^v27
 
-**28** E será para Arão e para seus filhos por estatuto perpétuo dos filhos de Israel, porque é oferta alçada; e a oferta alçada será dos filhos de Israel, dos seus sacrifícios pacíficos; a sua oferta alçada será para o Senhor. ^v28
+**28** Essas porções de carne, dadas pelos israelitas, devem pertencer para sempre a Arão e a seus descendentes. Pela norma das ofertas pacíficas, estas serão ofertas para os sacerdotes, tiradas das ofertas dos israelistas, apresentadas a Mim, Yahweh. ^v28
 
-**29** E as vestes sagradas, que são de Arão, serão de seus filhos depois dele, para serem ungidos com elas para serem consagrados com elas. ^v29
+**29** As roupas santas de Arão também devem ser reservadas para seus filhos depois dele. Eles serão ungidos nelas e ordenados para Mim nelas. ^v29
 
-**30** Sete dias as vestirá aquele que de seus filhos for sacerdote em seu lugar, quando entrar na tenda da congregação para ministrar no santuário. ^v30
+**30** O sacerdote que sucedê-lo dentre seus filhos, que virá à Tenda do encontro para servir a Mim, no santo lugar, usará essas roupas por sete dias. ^v30
 
-**31** E tomarás o carneiro das consagrações e cozerás a sua carne no lugar santo; ^v31
+**31** Tu deves tomar o carneiro da consagração dos sacerdotes e cozinhar sua carne em um lugar santo. ^v31
 
-**32** E Arão e seus filhos comerão a carne deste carneiro, e o pão que está no cesto, à porta da tenda da congregação. ^v32
+**32** Arão e seus filhos devem comer a carne do carneiro e o pão que está dentro da cesta na entrada da Tenda do encontro. ^v32
 
-**33** E comerão as coisas com que for feita expiação, para consagrá-los, e para santificá-los; mas o estranho delas não comerá, porque são santas. ^v33
+**33** Eles devem comer a carne e o pão que tu sacrificaste para ordenança deles, para ser consagrada a Mim. Ninguém mais pode comer essa comida, porque devem considerá-la consagrada a Mim, reservada para Mim. ^v33
 
-**34** E se sobejar alguma coisa da carne das consagrações ou do pão até pela manhã, o que sobejar queimarás com fogo; não se comerá, porque é santo. ^v34
+**34** E se, na manhã seguinte, houver sobrado algo da carne ou do pão da ordenação, então tu deves queimá-los. Não deverá ser comido porque foram consagrados a Mim. ^v34
 
-**35** Assim, pois, farás a Arão e a seus filhos conforme a tudo o que eu te tenho ordenado; por sete dias os consagrarás. ^v35
+**35** Dessa forma, ao seguir tudo o que Eu comandei para que fizesses, deves fazer com Arão e seus filhos. Tu deves tomar sete dias para consagrá-los a Mim. ^v35
 
-**36** Também cada dia prepararás um novilho por sacrifício pelo pecado para as expiações, e purificarás o altar, fazendo expiação sobre ele; e o ungirás para santificá-lo. ^v36
+**36** Todo dia tu deves oferecer um novilho como oferta de perdão pelos pecados. Tu deves purificar o altar, fazendo expiação por ele, e deves ungi-lo com óleo para consagração a Mim. ^v36
 
-**37** Sete dias farás expiação pelo altar, e o santificarás; e o altar será santíssimo; tudo o que tocar o altar será santo. ^v37
+**37** Por sete dias, tu deves purificar o altar e consagrá-lo a Yahweh. Então o altar será completamente consagrado a Mim. Tudo o que tocar o altar será separado para Yahweh. ^v37
 
-**38** Isto, pois, é o que oferecereis sobre o altar: dois cordeiros de um ano, cada dia, continuamente. ^v38
+**38** Tu deves oferecer, todos os dias, no altar, dois cordeiros de um ano de idade. ^v38
 
-**39** Um cordeiro oferecerás pela manhã, e o outro cordeiro oferecerás à tarde. ^v39
+**39** Um cordeiro tu deves oferecer pela manhã e o outro cordeiro tu deves oferecer perto do anoitecer. ^v39
 
-**40** Com um cordeiro a décima parte de flor de farinha, misturada com a quarta parte de um him de azeite batido, e para libação a quarta parte de um him de vinho, ^v40
+**40** Com o primeiro cordeiro, oferecerás dois quilos de farinha fina misturada com um litro de azeite de oliva e derramarás um litro de vinho como oferta de bebida. ^v40
 
-**41** E o outro cordeiro oferecerás à tarde, e com ele farás como com a oferta da manhã, e conforme à sua libação, por cheiro suave; oferta queimada é ao Senhor. ^v41
+**41** Tu deves oferecer o segundo cordeiro ao pôr do sol. Tu deves ofertar a mesma oferta queimada da manhã e a mesma oferta de bebida. Essas produzirão um aroma agradável para Mim; será uma oferta de fogo feita a Mim. ^v41
 
-**42** Este será o holocausto contínuo por vossas gerações, à porta da tenda da congregação, perante o Senhor, onde vos encontrarei, para falar contigo ali. ^v42
+**42** Isso deve ser uma oferta de fogo regular feita pelo seu povo. Tu deves fazê-lo na entrada da Tenda de encontro perante Mim, Yahweh, onde te encontrarei para falar contigo. ^v42
 
-**43** E ali virei aos filhos de Israel, para que por minha glória sejam santificados. ^v43
+**43** Ali me encontrarei com os israelistas; a tenda ficará separada para Mim pela Minha glória. ^v43
 
-**44** E santificarei a tenda da congregação e o altar; também santificarei a Arão e seus filhos, para que me administrem o sacerdócio. ^v44
+**44** Eu consagrarei a Tenda do encontro e o Altar para aqueles que pertencem somente a Mim. Eu irei também consagrar Arão e seus filhos para servirem a Mim como sacerdotes. ^v44
 
-**45** E habitarei no meio dos filhos de Israel, e lhes serei o seu Deus, ^v45
+**45** Eu viverei entre os israelitas e serei o seu Deus. ^v45
 
-**46** E saberão que eu sou o Senhor seu Deus, que os tenho tirado da terra do Egito, para habitar no meio deles. Eu sou o Senhor seu Deus. ^v46
+**46** Eles saberão que eu sou Yahweh, seu Deus, que os tirou da terra do Egito para que Eu pudesse viver entre eles. Eu sou Yahweh, seu Deus. ^v46

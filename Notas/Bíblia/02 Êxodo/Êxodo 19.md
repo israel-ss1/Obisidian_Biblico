@@ -1,57 +1,56 @@
 ---
-Livro: "[[Êxodo|Êxodo]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Êxodo|Êxodo]]"
+tags: [biblia]
 ---
 
 # Êxodo 19
 
-**1** Ao terceiro mês da saída dos filhos de Israel da terra do Egito, no mesmo dia chegaram ao deserto de Sinai, ^v1
+**1** No terceiro mês depois de o povo israelita ter deixado a terra do Egito, naquele mesmo dia, eles voltaram para o deserto do Sinai. ^v1
 
-**2** Porque partiram de Refidim e entraram no deserto de Sinai, onde se acamparam. Israel, pois, ali se acampou em frente ao monte. ^v2
+**2** Depois de saírem de Refidim, eles acamparam no deserto do Sinai, em frente do monte. ^v2
 
-**3** E subiu Moisés a Deus, e o Senhor o chamou do monte, dizendo: Assim falarás à casa de Jacó, e anunciarás aos filhos de Israel: ^v3
+**3** "Moisés subiu até Deus. Yahweh o chamou para a montanha e disse: ""Vós deveis falar à casa de Jacó, ao povo de Israel:" ^v3
 
-**4** Vós tendes visto o que fiz aos egípcios, como vos levei sobre asas de águias, e vos trouxe a mim; ^v4
+**4** Vós tendes visto o que Eu fiz com os egípcios, como Eu vos carreguei nas asas das águias e vos trouxe para Mim. ^v4
 
-**5** Agora, pois, se diligentemente ouvirdes a minha voz e guardardes a minha aliança, então sereis a minha propriedade peculiar dentre todos os povos, porque toda a terra é minha. ^v5
+**5** Agora, portanto, se ouvirdes atentamente a Minha voz e guardardes a Minha aliança, sereis Minha propriedade exclusiva dentre todos os povos, porque toda a terra é Minha. ^v5
 
-**6** E vós me sereis um reino sacerdotal e o povo santo. Estas são as palavras que falarás aos filhos de Israel. ^v6
+**6** "Vós sereis reino de sacerdotes e a nação santa para Mim. Essas são as palavras que falarás ao povo de Israel""." ^v6
 
-**7** E veio Moisés, e chamou os anciãos do povo, e expôs diante deles todas estas palavras, que o Senhor lhe tinha ordenado. ^v7
+**7** Então Moisés voltou e convocou os anciãos do povo. Ele lhes apresentou todas as palavras que Yahweh havia ordenado. ^v7
 
-**8** Então todo o povo respondeu a uma voz, e disse: Tudo o que o Senhor tem falado, faremos. E relatou Moisés ao Senhor as palavras do povo. ^v8
+**8** "Todo o povo respondeu dizendo: ""Nós faremos tudo o que Yahweh ordenou."" Então, Moisés voltou a comunicar as palavras do povo para Yahweh." ^v8
 
-**9** E disse o Senhor a Moisés: Eis que eu virei a ti numa nuvem espessa, para que o povo ouça, falando eu contigo, e para que também te creiam eternamente. Porque Moisés tinha anunciado as palavras do seu povo ao Senhor. ^v9
+**9** "Yahweh disse a Moisés: ""Virei a ti em uma nuvem espessa para que o povo Me ouça falar contigo e sempre creia em ti"". Então, Moisés falou as palavras do povo a Yahweh." ^v9
 
-**10** Disse também o Senhor a Moisés: Vai ao povo, e santifica-os hoje e amanhã, e lavem eles as suas roupas, ^v10
+**10** "Yahweh disse para Moisés: ""Vá até o povo. Hoje e amanhã santificai-o para Mim, e faça com que lavem as próprias roupas." ^v10
 
-**11** E estejam prontos para o terceiro dia; porquanto no terceiro dia o Senhor descerá diante dos olhos de todo o povo sobre o monte Sinai. ^v11
+**11** Estai prontos para o terceiro dia, porque, no terceiro dia, Eu, Yahweh, voltarei ao monte Sinai. ^v11
 
-**12** E marcarás limites ao povo em redor, dizendo: Guardai-vos, não subais ao monte, nem toqueis o seu termo; todo aquele que tocar o monte, certamente morrerá. ^v12
+**12** Tu definirás todos os limites ao redor do monte para o povo. Dize a eles: 'Cuidado. Vós não podereis subir ao monte ou tocar em sua borda. Qualquer de vós que tocar no monte certamente será condenado à morte'. ^v12
 
-**13** Nenhuma mão tocará nele; porque certamente será apedrejado ou asseteado; quer seja animal, quer seja homem, não viverá; soando a buzina longamente, então subirão ao monte. ^v13
+**13** "Ninguém tocará a mão na pessoa que fizer isso. Em vez disso, ela certamente deverá ser apedrejada ou flechada. Quer seja uma pessoa ou um animal, deverão ser condenados à morte. Quando a trombeta tocar por muito tempo, eles subirão até a base do monte""." ^v13
 
-**14** Então Moisés desceu do monte ao povo, e santificou o povo; e lavaram as suas roupas. ^v14
+**14** Então Moisés desceu do monte para o povo. Ele santificou o povo para Yahweh, e eles lavaram suas roupas. ^v14
 
-**15** E disse ao povo: Estai prontos ao terceiro dia; e não vos chegueis a mulher. ^v15
+**15** "Ele disse para as pessoas: ""Estejam prontos para o terceiro dia; não vos chegareis a vossas esposas""." ^v15
 
-**16** E aconteceu que, ao terceiro dia, ao amanhecer, houve trovões e relâmpagos sobre o monte, e uma espessa nuvem, e um sonido de buzina mui forte, de maneira que estremeceu todo o povo que estava no arraial. ^v16
+**16** No terceiro dia, quando amanheceu, houve trovões e relâmpagos e uma nuvem espessa no monte. E ouviu-se um toque muito alto de trombeta. Todo o povo do acampamento ficou estremecido. ^v16
 
-**17** E Moisés levou o povo fora do arraial ao encontro de Deus; e puseram-se ao pé do monte. ^v17
+**17** Moisés levou o povo para fora do acampamento ao encontro de Deus, e eles permaneceram na base do monte. ^v17
 
-**18** E todo o monte Sinai fumegava, porque o Senhor descera sobre ele em fogo; e a sua fumaça subiu como fumaça de uma fornalha, e todo o monte tremia grandemente. ^v18
+**18** O Monte Sinai foi completamente coberto com fumaça porque Yahweh havia descido sobre ele em fogo e fumaça. A fumaça subia como a de uma fornalha, e todo o monte estremecia violentamente. ^v18
 
-**19** E o sonido da buzina ia crescendo cada vez mais; Moisés falava, e Deus lhe respondia em voz alta. ^v19
+**19** Quando o som da trombeta aumentava cada vez mais, Moisés falava, e Deus lhe respondia. ^v19
 
-**20** E, descendo o Senhor sobre o monte Sinai, sobre o cume do monte, chamou o Senhor a Moisés ao cume do monte; e Moisés subiu. ^v20
+**20** Yahweh desceu sobre o Monte Sinai, para o topo do monte, e chamou Moisés para lá. Então Moisés subiu. ^v20
 
-**21** E disse o Senhor a Moisés: Desce, adverte ao povo que não traspasse o termo para ver o Senhor, para que muitos deles não pereçam. ^v21
+**21** "Yahweh disse a Moisés: ""Desce e adverte o povo para não romper o limite para vir até Mim, ou muitos deles perecerão." ^v21
 
-**22** E também os sacerdotes, que se chegam ao Senhor, se hão de santificar, para que o Senhor não se lance sobre eles. ^v22
+**22** "Os sacerdotes que se aproximam do SENHOR também devem se santificar - para que o SENHOR não se volte contra eles""." ^v22
 
-**23** Então disse Moisés ao Senhor: O povo não poderá subir ao monte Sinai, porque tu nos tens advertido, dizendo: Marca termos ao redor do monte, e santifica-o. ^v23
+**23** "Moisés disse a Yahweh: ""O povo não poderá subir ao monte, porque Tu nos ordenaste: 'Marcai limites ao redor do monte e santificai-vos a Yahweh'""." ^v23
 
-**24** E disse-lhe o Senhor: Vai, desce; depois subirás tu, e Arão contigo; os sacerdotes, porém, e o povo não traspassem o termo para subir ao Senhor, para que não se lance sobre eles. ^v24
+**24** "Yahweh lhe disse: ""Vai, desce o monte e traze Arão contigo, mas os sacerdotes e o povo não poderão subir até Mim, ou Eu os atacarei""." ^v24
 
-**25** Então Moisés desceu ao povo, e disse-lhe isto. ^v25
+**25** Então, Moisés desceu até o povo e falou isso para eles. ^v25

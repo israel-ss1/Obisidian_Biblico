@@ -1,121 +1,120 @@
 ---
-Livro: "[[Levítico|Levítico]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Levítico|Levítico]]"
+tags: [biblia]
 ---
 
 # Levítico 14
 
-**1** Depois falou o SENHOR a Moisés, dizendo: ^v1
+**1** Yahweh falou a Moisés dizendo: ^v1
 
-**2** Esta será a lei do leproso no dia da sua purificação: será levado ao sacerdote, ^v2
+**2** """Esta será a lei para pessoa impura, no dia de sua purificação. Ela deverá apresentar-se ao sacerdote." ^v2
 
-**3** E o sacerdote sairá fora do arraial, e o examinará, e eis que, se a praga da lepra do leproso for sarada, ^v3
+**3** O sacerdote sairá do acampamento para examinar a pessoa e verificar se a infecção da pele está curada. ^v3
 
-**4** Então o sacerdote ordenará que por aquele que se houver de purificar se tomem duas aves vivas e limpas, e pau de cedro, e carmesim, e hissopo. ^v4
+**4** Então o sacerdote ordenará que a pessoa a ser purificada traga duas aves limpas e vivas, madeira de cedro, carmesim e hissopo. ^v4
 
-**5** Mandará também o sacerdote que se degole uma ave num vaso de barro sobre águas vivas, ^v5
+**5** O sacerdote lhe ordenará que mate uma das aves sobre a água fresca que estará num pote de barro. ^v5
 
-**6** E tomará a ave viva, e o pau de cedro, e o carmesim, e o hissopo, e os molhará, com a ave viva, no sangue da ave que foi degolada sobre as águas correntes. ^v6
+**6** O sacerdote trará a ave viva, e a madeira de cedro, e o carmesim, e o hissopo e mergulhará todas essas coisas, incluindo a ave viva, no sangue da ave que foi morta sobre a água fresca. ^v6
 
-**7** E sobre aquele que há de purificar-se da lepra espargirá sete vezes; então o declarará por limpo, e soltará a ave viva sobre a face do campo. ^v7
+**7** Então o sacerdote espargirá essa água sete vezes sobre a pessoa que será limpa da infecção e em seguida o declarará puro. Depois disso, o sacerdote libertará a ave viva no campo aberto. ^v7
 
-**8** E aquele que tem de purificar-se lavará as suas vestes, e rapará todo o seu pêlo, e se lavará com água; assim será limpo; e depois entrará no arraial, porém, ficará fora da sua tenda por sete dias; ^v8
+**8** A pessoa a ser purificada lavará as suas roupas, raspará todo o seu cabelo, lavar-se-á em água e então estará pura. Depois disso, essa pessoa entrará no acampamento, mas viverá fora de sua tenda por sete dias. ^v8
 
-**9** E será que ao sétimo dia rapará todo o seu pêlo, a sua cabeça, e a sua barba, e as sobrancelhas; sim, rapará todo o pêlo, e lavará as suas vestes, e lavará a sua carne com água, e será limpo, ^v9
+**9** No sétimo dia, raspará todo o cabelo de sua cabeça e também deverá raspar sua barba e sobrancelhas. Deverá raspar todo o seu cabelo, lavar suas roupas e lavar-se em água; então estará limpa. ^v9
 
-**10** E ao oitavo dia tomará dois cordeiros sem defeito, e uma cordeira sem defeito, de um ano, e três dízimas de flor de farinha para oferta de alimentos, amassada com azeite, e um logue de azeite; ^v10
+**10** No oitava dia, deverá pegar dois cordeiros sem defeito, uma ovelha de um ano sem defeito, três décimos de efa de fina farinha misturada com óleo como oferta queimada e uma medida de óleo. ^v10
 
-**11** E o sacerdote que faz a purificação apresentará o homem que houver de purificar-se, com aquelas coisas, perante o Senhor, à porta da tenda da congregação. ^v11
+**11** O sacerdote que faz a purificação levantará a pessoa que será purificada, juntamente com todas essas coisas, perante Yahweh, na entrada da tenda do encontro. ^v11
 
-**12** E o sacerdote tomará um dos cordeiros, e o oferecerá por expiação da culpa, e o logue de azeite; e os oferecerá por oferta movida perante o Senhor. ^v12
+**12** O sacerdote pegará um dos cordeiros e o oferecerá como oferta pela culpa, juntamente com uma medida de óleo; ele os levantará como oferta perante Yahweh e os apresentará a Ele. ^v12
 
-**13** Então degolará o cordeiro no lugar em que se degola a oferta da expiação do pecado e o holocausto, no lugar santo; porque quer a oferta da expiação da culpa como a da expiação do pecado é para o sacerdote; coisa santíssima é. ^v13
+**13** Ele deverá matar o cordeiro no lugar onde foram mortas as ofertas pelo pecado e os holocaustos, na área do tabernáculo, pois a oferta pelo pecado pertence ao sacerdote, assim como a oferta pela culpa, pois são santíssimas. ^v13
 
-**14** E o sacerdote tomará do sangue da expiação da culpa, e o porá sobre a ponta da orelha direita daquele que tem de purificar-se e sobre o dedo polegar da sua mão direita, e no dedo polegar do seu pé direito. ^v14
+**14** O sacerdote pegará parte do sangue da oferta de culpa e a colocará na ponta da orelha direita da pessoa que será purificada, no polegar de sua mão direita e no polegar de seu pé direito. ^v14
 
-**15** Também o sacerdote tomará do logue de azeite, e o derramará na palma da sua própria mão esquerda. ^v15
+**15** Então o sacerdote pegará óleo e colocará na palma da sua própria mão esquerda, ^v15
 
-**16** Então o sacerdote molhará o seu dedo direito no azeite que está na sua mão esquerda, e daquele azeite com o seu dedo espargirá sete vezes perante o Senhor; ^v16
+**16** mergulhará seu dedo direito no óleo que está na sua mão esquerda e espargirá o óleo do seu dedo sete vezes perante Yahweh. ^v16
 
-**17** E o restante do azeite, que está na sua mão, o sacerdote porá sobre a ponta da orelha direita daquele que tem de purificar-se, e sobre o dedo polegar da sua mão direita, e sobre o dedo polegar do seu pé direito, em cima do sangue da expiação da culpa; ^v17
+**17** O sacerdote colocará o restante do óleo que está em sua mão na ponta da orelha direita da pessoa que será purificada, no polegar de sua mão direita e no polegar do seu pé direito. Ele deverá colocar o óleo em cima do sangue da oferta de culpa. ^v17
 
-**18** E o restante do azeite que está na mão do sacerdote, o porá sobre a cabeça daquele que tem de purificar-se; assim o sacerdote fará expiação por ele perante o Senhor. ^v18
+**18** E o restante do óleo que estiver na mão do sacerdote ele colocará sobre a cabeça da pessoa que será purificada, e o sacerdote fará expiação por ele perante Yahweh. ^v18
 
-**19** Também o sacerdote fará a expiação do pecado, e fará expiação por aquele que tem de purificar-se da sua imundícia; e depois degolará o holocausto; ^v19
+**19** Depois o sacerdote oferecerá oferta pelo pecado e fará expiação por aquele que será purificado por causa de sua impureza e depois ele oferecerá a oferta queimada. ^v19
 
-**20** E o sacerdote oferecerá o holocausto e a oferta de alimentos sobre o altar; assim o sacerdote fará expiação por ele, e será limpo. ^v20
+**20** Então o sacerdote oferecerá o holocausto e a oferta queimada no altar. O sacerdote fará expiação pela pessoa, e então ela ficará pura. ^v20
 
-**21** Porém se for pobre, e em sua mão não houver recursos para tanto, tomará um cordeiro para expiação da culpa em oferta de movimento, para fazer expiação por ele, e a dízima de flor de farinha, amassada com azeite, para oferta de alimentos, e um logue de azeite, ^v21
+**21** Porém se a pessoa for pobre e não puder pagar por esses sacrificios, então ela pegará um cordeiro como oferta de culpa a ser levantada e apresentada a Yahweh como expiação por ela e um décimo de efa de fina farinha misturada ao óleo como oferta queimada e porção de óleo, ^v21
 
-**22** E duas rolas, ou dois pombinhos, conforme as suas posses, dos quais um será para expiação do pecado, e o outro para holocausto. ^v22
+**22** juntamente com duas rolas e duas pombinhas, tal como for capaz de oferecer; um pássaro será oferta pelo pecado e o outro será holocausto. ^v22
 
-**23** E ao oitavo dia da sua purificação os trará ao sacerdote, à porta da tenda da congregação, perante o Senhor. ^v23
+**23** No oitavo dia, deverá trazê-los ao sacerdote para sua purificação, na entrada da tenda do encontro, perante Yahweh. ^v23
 
-**24** E o sacerdote tomará o cordeiro da expiação da culpa, e o logue de azeite, e os oferecerá por oferta movida perante o Senhor. ^v24
+**24** Então o sacerdote pegará o cordeiro para a oferta de culpa e a porção de óleo e os levantará como oferta a Yahweh e os apresentará a Ele. ^v24
 
-**25** Então degolará o cordeiro da expiação da culpa, e o sacerdote tomará do sangue da expiação da culpa, e o porá sobre a ponta da orelha direita daquele que tem de purificar-se, e sobre o dedo polegar da sua mão direita, e sobre o dedo polegar do seu pé direito. ^v25
+**25** Ele matará o cordeiro para a oferta de culpa e pegará parte do sangue da oferta de culpa e a colocará na ponta da orelha direita daquele que será purificado, no polegar de sua mão direita e no polegar de seu pé direito. ^v25
 
-**26** Também o sacerdote derramará do azeite na palma da sua própria mão esquerda. ^v26
+**26** Então o sacerdote derramará parte do óleo na palma da sua própria mão esquerda ^v26
 
-**27** Depois o sacerdote com o seu dedo direito espargirá do azeite que está na sua mão esquerda, sete vezes perante o Senhor. ^v27
+**27** e espargirá com seu dedo direito parte do óleo que está em sua mão esquerda sete vezes perante Yahweh. ^v27
 
-**28** E o sacerdote porá do azeite que está na sua mão na ponta da orelha direita daquele que tem de purificar-se, e no dedo polegar da sua mão direita, e no dedo polegar do seu pé direito; no lugar do sangue da expiação da culpa. ^v28
+**28** Então, o sacerdote porá parte do óleo que está em sua mão na ponta da orelha direita daquele que será purificado, no dedo polegar da sua mão direita, e no dedo polegar do seu pé direito, os mesmo lugares onde ele colocou o sangue da oferta de culpa. ^v28
 
-**29** E o que sobejar do azeite que está na mão do sacerdote porá sobre a cabeça daquele que tem de purificar-se, para fazer expiação por ele perante o Senhor. ^v29
+**29** Ele colocará o restante do óleo que está em sua mão sobre a cabeça daquele que será purificado, para fazer expiação por ele perante Yahweh. ^v29
 
-**30** Depois oferecerá uma das rolas ou um dos pombinhos, conforme suas posses, ^v30
+**30** Ele deverá oferecer uma das rolas ou pombinhas, conforme a pessoa tiver sido capaz de adquirir -- ^v30
 
-**31** Sim, conforme as suas posses, será um para expiação do pecado e o outro para holocausto com a oferta de alimentos; e assim o sacerdote fará expiação por aquele que tem de purificar-se perante o Senhor. ^v31
+**31** uma como oferta pelo pecado e a outra como holocausto, juntamente com a oferta queimada. Então o sacerdote fará expiação por aquele que será purificado perante Yahweh. ^v31
 
-**32** Esta é a lei daquele em quem estiver a praga da lepra, cujas posses não lhe permitirem o devido para purificação. ^v32
+**32** "Esta é a lei para a pessoa com infecção de pele, que não for capaz de adquirir a oferta para sua purificação""." ^v32
 
-**33** Falou mais o Senhor a Moisés e a Arão, dizendo: ^v33
+**33** Yahweh falou a Moisés e a Arão dizendo: ^v33
 
-**34** Quando tiverdes entrado na terra de Canaã que vos hei de dar por possessão, e eu enviar a praga da lepra em alguma casa da terra da vossa possessão, ^v34
+**34** """Quando tiveres entrado na terra de Canaã, a qual te dei por possessão, e se eu colocar lepra que se espalhe na casa, na terra de sua possessão," ^v34
 
-**35** Então aquele, de quem for a casa, virá e informará ao sacerdote, dizendo: Parece-me que há como que praga em minha casa. ^v35
+**35** então o dono da casa deverá vir e falar ao sacerdote. Ele deverá dizer: 'Parece-me que há algo como lepra em minha casa'. ^v35
 
-**36** E o sacerdote ordenará que desocupem a casa, antes que entre para examinar a praga, para que tudo o que está na casa não seja contaminado; e depois entrará o sacerdote, para examinar a casa; ^v36
+**36** Então o sacerdote ordenará que eles esvaziem a casa antes de entrar e ver a evidencia de lepra, para que nada dentro da casa se torne impuro. Depois disso, o sacerdote deverá entrar para ver a casa. ^v36
 
-**37** E, vendo a praga, e eis que se ela estiver nas paredes da casa em covinhas verdes ou vermelhas, e parecerem mais fundas do que a parede, ^v37
+**37** Ele deverá examinar a lepra e confirmar se ela está nas paredes da casa, e confirmará se sua aparência é esverdeada ou avermelhada nas depressões de superficie das paredes. ^v37
 
-**38** Então o sacerdote sairá da casa para fora da porta, e fechá-la-á por sete dias. ^v38
+**38** Se a casa tiver lepra, então o sacerdote sairá e fechará a porta da casa por sete dias. ^v38
 
-**39** Depois, ao sétimo dia o sacerdote voltará, e examinará; e se vir que a praga nas paredes da casa se tem estendido, ^v39
+**39** Então o sacerdote retornará no sétimo dia e examinará para confirmar se a lepra se espalhou pelas paredes da casa. ^v39
 
-**40** Então o sacerdote ordenará que arranquem as pedras, em que estiver a praga, e que as lancem fora da cidade, num lugar imundo; ^v40
+**40** Se tiver se alastrado, então o sacerdote ordenará que se retirem as pedras onde a lepra tiver sido encontrada e as lançará em um lugar impuro fora da cidade. ^v40
 
-**41** E fará raspar a casa por dentro ao redor, e o pó que houverem raspado lançarão fora da cidade, num lugar imundo; ^v41
+**41** Ele requererá que todas as paredes de dentro da casa sejam raspadas, e eles deverão pegar o material contaminado que foi raspado e lançar fora da cidade, em um lugar impuro. ^v41
 
-**42** Depois tomarão outras pedras, e as porão no lugar das primeiras pedras; e outro barro se tomará, e a casa se rebocará. ^v42
+**42** Eles deverão pegar outras pedras e colocá-las no lugar das pedras removidas e deverão usar um barro novo para rebocar a casa. ^v42
 
-**43** Porém, se a praga tornar a brotar na casa, depois de arrancadas as pedras e raspada a casa, e de novo rebocada, ^v43
+**43** Se a lepra retornar e aparecer na casa da qual as pedras tiverem sido retiradas e as paredes tiverem sido raspadas e rebocadas, ^v43
 
-**44** Então o sacerdote entrará e examinará, se a praga na casa se tem estendido, lepra roedora há na casa; imunda está. ^v44
+**44** então o sacerdote virá e examinará a casa para confirmar se a lepra se espalhou por ela. Se houver, então é lepra nociva, e a casa está impura. ^v44
 
-**45** Portanto se derribará a casa, as suas pedras, e a sua madeira, como também todo o barro da casa; e se levará para fora da cidade a um lugar imundo. ^v45
+**45** A casa deverá ser derrubada. As pedras, madeiras, e todo o reboco da casa deverá se retirado para fora da cidade, para um lugar impuro. ^v45
 
-**46** E o que entrar naquela casa, em qualquer dia em que estiver fechada, será imundo até à tarde. ^v46
+**46** Assim também, qualquer um que entrar na casa durante o período em que estiver fechada estará impuro até o enterdecer. ^v46
 
-**47** Também o que se deitar a dormir em tal casa, lavará as suas roupas; e o que comer em tal casa lavará as suas roupas. ^v47
+**47** Aquele que houver dormido na casa deverá lavar suas roupas, e aquele que houver se alimentado dentro da casa deverá lavar suas roupas. ^v47
 
-**48** Porém, tornando o sacerdote a entrar na casa e examinando-a, se a praga não se tem estendido, depois que a casa foi rebocada, o sacerdote a declarará por limpa, porque a praga está curada. ^v48
+**48** Se o sacerdote entrar na casa para examiná-la e checar se a lepra se espalhou pela casa, depois de ela ter sido rebocada, e então, se a lepra não tiver retornado, ele a declarará como casa limpa. ^v48
 
-**49** Depois tomará, para expiar a casa, duas aves, e pau de cedro, e carmesim e hissopo; ^v49
+**49** Então o sacerdote deverá pegar duas aves para purificar a casa, e madeira de cedro, e carmesim, e hissopo. ^v49
 
-**50** E degolará uma ave num vaso de barro sobre águas correntes; ^v50
+**50** Ele matará uma das aves sobre água fresca em um jarro de barro. ^v50
 
-**51** Então tomará pau de cedro, e o hissopo, e o carmesim, e a ave viva, e os molhará no sangue da ave degolada e nas águas correntes, e espargirá a casa sete vezes; ^v51
+**51** Ele pegará a madeira de cedro, o hissopo, o carmesim e a ave viva e os mergulhará no sangue da ave morta, dentro da água fresca, e espargirá sobre a casa sete vezes. ^v51
 
-**52** Assim expiará aquela casa com o sangue da ave, e com as águas correntes, e com a ave viva, e com o pau de cedro, e com o hissopo, e com o carmesim. ^v52
+**52** Ele limpará a casa com o sangue da ave e com a água fresca, com a ave viva, a madeira de cedro, o hissopo e o carmesim. ^v52
 
-**53** Então soltará a ave viva para fora da cidade, sobre a face do campo; assim fará expiação pela casa, e será limpa. ^v53
+**53** Mas ele libertará a ave viva fora da cidade, nos campos abertos. Assim, ele fará expiação pela casa, e ela estará pura. ^v53
 
-**54** Esta é a lei de toda a praga da lepra, e da tinha, ^v54
+**54** Esta é a lei para todos os tipos de infecção de pele que provoquem infecção e coceira ^v54
 
-**55** E da lepra das roupas, e das casas, ^v55
+**55** e para lepra na roupa e na casa, ^v55
 
-**56** E da inchação, e das pústulas, e das manchas lustrosas; ^v56
+**56** para inchaço, para erupção cutânea e para mancha clara, ^v56
 
-**57** Para ensinar quando alguma coisa será imunda, e quando será limpa. Esta é a lei da lepra. ^v57
+**57** "que determinará quando qualquer desses casos for impuro ou quando for puro. Esta é a lei para infecções de pele e lepra""." ^v57

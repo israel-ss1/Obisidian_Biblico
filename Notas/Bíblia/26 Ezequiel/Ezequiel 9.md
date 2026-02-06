@@ -1,29 +1,28 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Ezequiel|Ezequiel]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Ezequiel|Ezequiel]]"
+tags: [biblia]
 ---
 
 # Ezequiel 9
 
-**1** Então me gritou aos ouvidos com grande voz, dizendo: Fazei chegar os intendentes da cidade, cada um com as suas armas destruidoras na mão. ^v1
+**1** "Então, Ele clamou aos meus ouvidos em alta voz, dizendo: ""Deixa que os guardas subam à cidade, cada um com suas armas de destruição nas mãos""." ^v1
 
-**2** E eis que vinham seis homens a caminho da porta superior, que olha para o norte, e cada um com a sua arma destruidora na mão, e entre eles um homem vestido de linho, com um tinteiro de escrivão à sua cintura; e entraram, e se puseram junto ao altar de bronze. ^v2
+**2** Eis que vinham seis homens do caminho da porta superior do lado norte, cada um trazendo a sua arma destruidora. Havia um homem no meio deles vestido de linho com um estojo de escrivão em sua cintura. Eles entraram e pararam ao lado do altar de bronze. ^v2
 
-**3** E a glória do Deus de Israel se levantou de sobre o querubim, sobre o qual estava, indo até a entrada da casa; e clamou ao homem vestido de linho, que tinha o tinteiro de escrivão à sua cintura. ^v3
+**3** Então, a glória do Deus de Israel se levantou de sobre o querubim, do lugar onde ele estava, e foi para a entrada da casa. Ele chamou o homem vestido de linho, o que tinha um estojo de escrivão na cintura. ^v3
 
-**4** E disse-lhe o Senhor: Passa pelo meio da cidade, pelo meio de Jerusalém, e marca com um sinal as testas dos homens que suspiram e que gemem por causa de todas as abominações que se cometem no meio dela. ^v4
+**4** "E Yahweh disse: ""Passa pelo meio da cidade de Jerusalém e marca com um sinal a testa dos homens que suspiram e gemem por causa de todas as abominações que cometem no meio dela""." ^v4
 
-**5** E aos outros disse ele, ouvindo eu: Passai pela cidade após ele, e feri; não poupe o vosso olho, nem vos compadeçais. ^v5
+**5** "Enquanto eu escutava, Ele falou para os outros: ""Passai no meio da cidade após ele, e matai. Não deixeis que vossos olhos tenham compaixão e não poupeis," ^v5
 
-**6** Matai velhos, jovens, virgens, meninos e mulheres, até exterminá-los; mas a todo o homem que tiver o sinal não vos chegueis; e começai pelo meu santuário. E começaram pelos homens mais velhos que estavam diante da casa. ^v6
+**6** "nem homens idosos, nem jovens, nem virgens, nem crianças ou mulheres. Matai todos! Mas não vos aproximeis de ninguém que tenha o sinal na testa. Começai pelo Meu Santuário!"". Então, eles começaram pelos anciãos que estavam em frente à casa de Deus." ^v6
 
-**7** E disse-lhes: Contaminai a casa e enchei os átrios de mortos; saí. E saíram, e feriram na cidade. ^v7
+**7** "Ele lhes disse: ""Profanai a casa, enchei o pátio com os mortos. Ide!"" Então, eles foram e atacaram a cidade." ^v7
 
-**8** Sucedeu, pois, que, havendo-os ferido, e ficando eu sozinho, caí sobre a minha face, e clamei, e disse: Ah! Senhor DEUS! dar-se-á caso que destruas todo o restante de Israel, derramando a tua indignação sobre Jerusalém? ^v8
+**8** "Assim que eles a atacaram, encontrei-me sozinho, caí com rosto em terra e lamentei dizendo: ""Ah, Senhor Yahweh, Tu destruirás todo o remanescente de Israel no derramamento da Tua ira em Jerusalém?""" ^v8
 
-**9** Então me disse: A maldade da casa de Israel e de Judá é grandíssima, e a terra se encheu de sangue e a cidade se encheu de perversidade; porque dizem: O Senhor abandonou a terra, e o Senhor não vê. ^v9
+**9** "Ele me disse: ""A iniquidade da casa de Israel e Judá é excessivamente grande. A terra está cheia de sangue e a cidade, cheia de perversões; eles dizem: 'Yahweh esqueceu da terra, Yahweh não vê!'" ^v9
 
-**10** Pois, também, quanto a mim, não poupará o meu olho, nem me compadecerei; sobre a cabeça deles farei recair o seu caminho. ^v10
+**10** "Por isso, Meus olhos não verão com compaixão e Eu não lhes pouparei. Pelo contrário, trarei tudo isso sobre a cabeça deles""." ^v10
 
-**11** Eis que o homem que estava vestido de linho, a cuja cintura estava o tinteiro, tornou com a resposta, dizendo: Fiz como me mandaste. ^v11
+**11** "E e eis que o homem, vestido de linho que tinha o estojo de escrivão na cintura, voltou. Ele voltou com a resposta dizendo: ""Eu fiz tudo o que me mandaste""." ^v11

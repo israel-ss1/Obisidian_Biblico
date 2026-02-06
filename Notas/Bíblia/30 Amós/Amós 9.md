@@ -1,37 +1,36 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Amós|Amós]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Amós|Amós]]"
+tags: [biblia]
 ---
 
 # Amós 9
 
-**1** Vi o Senhor, que estava em pé sobre o altar; e me disse: Fere o capitel, e estremeçam os umbrais, e faze tudo em pedaços sobre a cabeça de todos eles; e eu matarei à espada até ao último deles; nenhum deles conseguirá fugir, nenhum deles escapará. ^v1
+**1** "Eu vi o Senhor em pé, junto ao altar, e Ele disse: ""Bate no topo dos pilares, assim as fundações tremerão, de modo que se quebrem em pedaços sobre as cabeças deles. Eu matarei o último deles com a espada. Nenhum deles conseguirá fugir, nenhum deles escapará." ^v1
 
-**2** Ainda que cavem até ao inferno, a minha mão os tirará dali; e, se subirem ao céu, dali os farei descer. ^v2
+**2** Ainda que cavem até o Sheol, lá, Minha mão os tomará. Ainda que subam ao céu, de lá os farei descer. ^v2
 
-**3** E, se se esconderem no cume do Carmelo, buscá-los-ei, e dali os tirarei; e, se dos meus olhos se ocultarem no fundo do mar, ali darei ordem à serpente, e ela os picará. ^v3
+**3** Ainda que se escondam no topo do Carmelo, lá os procurarei e os tomarei. Ainda que se escondam da Minha vista no fundo do mar, lá Eu darei ordem à serpente, e serão picados. ^v3
 
-**4** E, se forem em cativeiro diante de seus inimigos, ali darei ordem à espada que os mate; e eu porei os meus olhos sobre eles para o mal, e não para o bem. ^v4
+**4** "Ainda que vão para o cativeiro, conduzidos por seus inimigos diante deles, lá Eu darei ordens para a espada, e ela os matará. Eu manterei Meus olhos sobre eles, para lhes causar mal, e não o bem""." ^v4
 
-**5** Porque o Senhor DEUS dos Exércitos é o que toca a terra, e ela se derrete, e todos os que habitam nela chorarão; e ela subirá toda como um rio, e abaixará como o rio do Egito. ^v5
+**5** O Senhor Yahweh dos Exércitos toca a terra, e ela se derrete; todos os que vivem nela pranteiam; tudo isso se levantará como rio e diminuirá novamente, como o rio do Egito. ^v5
 
-**6** Ele é o que edifica as suas câmaras superiores no céu, e fundou na terra a sua abóbada, e o que chama as águas do mar, e as derrama sobre a terra; o Senhor é o seu nome. ^v6
+**6** É Ele que constrói sua escada nos céus, e tem estabelecido Seu firmamento sobre a terra. Ele chama as águas do mar e as derrama sobre a face da terra. Yahweh é Seu Nome. ^v6
 
-**7** Não me sois, vós, ó filhos de Israel, como os filhos dos etíopes? diz o Senhor: Não fiz eu subir a Israel da terra do Egito, e aos filisteus de Caftor, e aos sírios de Quir? ^v7
+**7** "Assim diz Yahweh: ""Povo de Israel, não sois para Mim como o povo da Etiópia? Não fiz Eu subir a Israel da terra do Egito; e os filisteus, do Caftor; e os sírios, de Quir?" ^v7
 
-**8** Eis que os olhos do Senhor DEUS estão contra este reino pecador, e eu o destruirei de sobre a face da terra; mas não destruirei de todo a casa de Jacó, diz o SENHOR. ^v8
+**8** "Vede, os olhos do Senhor Yahweh estão sobre o reino pecaminoso, e Eu o destruirei da face da terra, mas não destruirei totalmente a casa de Jacó"". Esta é a declaração de Yahweh." ^v8
 
-**9** Porque eis que darei ordem, e sacudirei a casa de Israel entre todas as nações, assim como se sacode grão no crivo, sem que caia na terra um só grão. ^v9
+**9** """Vede, Eu darei ordens e sacudirei a casa de Israel dentre as nações, como se agitam os grãos numa peneira, de modo que nem a menor pedra cairá no chão." ^v9
 
-**10** Todos os pecadores do meu povo morrerão à espada, os que dizem: Não nos alcançará nem nos encontrará o mal. ^v10
+**10** Todos os pecadores do Meu povo morrerão pela espada, aqueles que dizem: 'Desastre não nos atingirá nem nos encontrará'. ^v10
 
-**11** Naquele dia tornarei a levantar o tabernáculo caído de Davi, e repararei as suas brechas, e tornarei a levantar as suas ruínas, e o edificarei como nos dias da antigüidade; ^v11
+**11** Naquele dia, levantarei a tenda de Davi, que caiu, e fecharei suas brechas. Levantarei suas ruínas e as reconstruirei como nos dias passados. ^v11
 
-**12** Para que possuam o restante de Edom, e todos os gentios que são chamados pelo meu nome, diz o Senhor, que faz essas coisas. ^v12
+**12** "Que eles possuam o remanescente de Edom e todas as nações que são chamadas pelo Meu Nome"". Esta é a declaração de Yahweh, que faz isso." ^v12
 
-**13** Eis que vêm dias, diz o Senhor, em que o que lavra alcançará ao que sega, e o que pisa as uvas ao que lança a semente; e os montes destilarão mosto, e todos os outeiros se derreterão. ^v13
+**13** """Vede, os dias virão"", diz Yahweh, ""em que o lavrador alcançará o que ceifa, e o que pisa as uvas alcançará o que planta as sementes. Então, as montanhas destilarão vinho doce, e todas as colinas derramarão dele." ^v13
 
-**14** E trarei do cativeiro meu povo Israel, e eles reedificarão as cidades assoladas, e nelas habitarão, e plantarão vinhas, e beberão o seu vinho, e farão pomares, e lhes comerão o fruto. ^v14
+**14** Eu trarei de volta do cativeiro Meu povo Israel. Eles construirão as cidades arruinadas e habitarão nelas. Plantarão vinhas e beberão do seu vinho, farão jardins e comerão dos seus frutos. ^v14
 
-**15** E plantá-los-ei na sua terra, e não serão mais arrancados da sua terra que lhes dei, diz o Senhor teu Deus. ^v15
+**15** "Eu os plantarei em suas terras, e eles nunca serão desarraigados da terra que lhes tenho dado"", diz Yahweh, teu Deus." ^v15

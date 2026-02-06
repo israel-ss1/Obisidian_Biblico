@@ -1,47 +1,46 @@
 ---
-Livro: "[[Salmos|Salmos]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Salmos|Salmos]]"
+tags: [biblia]
 ---
 
 # Salmos 49
 
-**1** Ouvi isto, vós todos os povos; inclinai os ouvidos, todos os moradores do mundo, ^v1
+**1** Ouvi isto, vós, todos os povos; dai ouvidos, vós, todos os habitantes do mundo, ^v1
 
-**2** Tanto baixos como altos, tanto ricos como pobres. ^v2
+**2** humildes e nobres, ricos e pobres. ^v2
 
-**3** A minha boca falará de sabedoria, e a meditação do meu coração será de entendimento. ^v3
+**3** Minha boca falará com sabedoria, e a meditação do meu coração será com entendimento. ^v3
 
-**4** Inclinarei os meus ouvidos a uma parábola; declararei o meu enigma na harpa. ^v4
+**4** Inclinarei meus ouvidos a uma parábola, começarei meu enigma com a harpa. ^v4
 
-**5** Por que temerei eu nos dias maus, quando me cercar a iniqüidade dos que me armam ciladas? ^v5
+**5** Por que temerei os dias maus, quando a iniquidade me envolver até os calcanhares? ^v5
 
-**6** Aqueles que confiam na sua fazenda, e se gloriam na multidão das suas riquezas, ^v6
+**6** Por que temerei àqueles que confiam em suas riquezas e se vangloriam com a quantidade de seus bens? ^v6
 
-**7** Nenhum deles de modo algum pode remir a seu irmão, ou dar a Deus o resgate dele. ^v7
+**7** É certo que ninguém pode remir seu irmão ou dar a Deus resgate por ele, ^v7
 
-**8** (Pois a redenção da sua alma é caríssima, e cessará para sempre), ^v8
+**8** pois a redenção de uma vida é custosa e ninguém pode pagar o que devemos. ^v8
 
-**9** Para que viva para sempre, e não veja corrupção. ^v9
+**9** Ninguém pode viver para sempre, de modo que seu corpo não se deteriore, ^v9
 
-**10** Porque ele vê que os sábios morrem; perecem igualmente tanto o louco como o brutal, e deixam a outros os seus bens. ^v10
+**10** pois ele verá deterioração. Homens sábios morrem; o tolo e o estúpido também perecem e deixam suas riquezas para os outros. ^v10
 
-**11** O seu pensamento interior é que as suas casas serão perpétuas e as suas habitações de geração em geração; dão às suas terras os seus próprios nomes. ^v11
+**11** Em seus pensamentos íntimos, suas famílias continuarão para sempre e os lugares onde vivem serão para todas as gerações. Eles dão seus próprios nomes às suas terras. ^v11
 
-**12** Todavia o homem que está em honra não permanece; antes é como os animais, que perecem. ^v12
+**12** Mas, mesmo tendo riquezas, o homem não permanece vivo para sempre; ele é como as feras que perecem. ^v12
 
-**13** Este caminho deles é a sua loucura; contudo a sua posteridade aprova as suas palavras. (Selá.) ^v13
+**13** O caminho deles é sua insensatez; ainda assim, os homens que os seguem aprovam o que eles dizem. [Interlúdio] ^v13
 
-**14** Como ovelhas são postos na sepultura; a morte se alimentará deles e os retos terão domínio sobre eles na manhã, e a sua formosura se consumirá na sepultura, a habitação deles. ^v14
+**14** Como ovelhas, eles são destinados ao Sheol, a morte será o seu pastor; os justos terão poder sobre eles pela manhã, e seus corpos serão consumidos no Sheol, sem lugar para eles morarem. ^v14
 
-**15** Mas Deus remirá a minha alma do poder da sepultura, pois me receberá. (Selá.) ^v15
+**15** Mas Deus redimirá minha vida do poder do Sheol. Ele me acolherá. [Interlúdio] ^v15
 
-**16** Não temas, quando alguém se enriquece, quando a glória da sua casa se engrandece. ^v16
+**16** Não temas quando alguém se tornar rico, quando o poder de sua casa aumentar, ^v16
 
-**17** Porque, quando morrer, nada levará consigo, nem a sua glória o acompanhará. ^v17
+**17** pois, quando morrer, nada levará consigo; sua glória não irá com ele. ^v17
 
-**18** Ainda que na sua vida ele bendisse a sua alma; e os homens te louvarão, quando fizeres bem a ti mesmo, ^v18
+**18** Ele bendisse à sua alma enquanto viveu; e homens te louvam quando vives para ti mesmo; ^v18
 
-**19** Irá para a geração de seus pais; eles nunca verão a luz. ^v19
+**19** ele se juntará à geração de seus pais e nunca mais verão a luz. ^v19
 
-**20** O homem que está em honra, e não tem entendimento, é semelhante aos animais, que perecem. ^v20
+**20** Aquele que tem riqueza, mas não tem entendimento, é como as feras que perecem. ^v20

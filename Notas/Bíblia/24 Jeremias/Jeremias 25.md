@@ -1,83 +1,82 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Jeremias|Jeremias]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Jeremias|Jeremias]]"
+tags: [biblia]
 ---
 
 # Jeremias 25
 
-**1** A palavra que veio a Jeremias acerca de todo o povo de Judá no quarto ano de Jeoiaquim, filho de Josias, rei de Judá (que é o primeiro ano de Nabucodonosor, rei de babilônia), ^v1
+**1** Esta é a palavra que veio a Jeremias sobre todo o povo de Judá. Veio no quarto ano de Jeoaquim, filho de Josias, rei de Judá. Este foi o primeiro ano de Nabucodonosor, rei da Babilônia. ^v1
 
-**2** A qual anunciou o profeta Jeremias a todo o povo de Judá, e a todos os habitantes de Jerusalém, dizendo: ^v2
+**2** Jeremias, o profeta, proclamou isto a todo o povo de Judá e a todos os habitantes de Jerusalém. ^v2
 
-**3** Desde o ano treze de Josias, filho de Amom, rei de Judá, até o dia de hoje, período de vinte e três anos, tem vindo a mim a palavra do Senhor, e vo-la tenho anunciado, madrugando e falando; mas vós não escutastes. ^v3
+**3** "Ele disse: ""Por vinte e três anos, desde o décimo terceiro ano de Josias, filho de Amom, rei de Judá até este dia, as palavras de Yahweh têm vindo a mim, e eu as tenho falado continuamente, mas vós não escutastes." ^v3
 
-**4** Também vos enviou o Senhor todos os seus servos, os profetas, madrugando e enviando-os, mas vós não escutastes, nem inclinastes os vossos ouvidos para ouvir, ^v4
+**4** Yahweh vos enviou todos os Seus servos, os profetas, de novo e de novo, mas vós não ouvistes nem prestastes atenção. ^v4
 
-**5** Quando diziam: Convertei-vos agora cada um do seu mau caminho, e da maldade das suas ações, e habitai na terra que o Senhor vos deu, e a vossos pais, para sempre. ^v5
+**5** Esses profetas disseram: 'Deixai que cada homem volte de seu caminho ímpio e da corrupção de suas práticas e retorne à terra que Yahweh deu, em tempos antigos, a vossos antepassados e a vós, como um presente permanente. ^v5
 
-**6** E não andeis após outros deuses para os servirdes, e para vos inclinardes diante deles, nem me provoqueis à ira com a obra de vossas mãos, para que não vos faça mal. ^v6
+**6** Assim, não andeis após outros deuses para adorá-los ou curvarem-se a eles, e não Me provoqueis com a obra de vossas mãos; deste modo, não vos farei mal algum. ^v6
 
-**7** Porém não me destes ouvidos, diz o Senhor, mas me provocastes à ira com a obra de vossas mãos, para vosso mal. ^v7
+**7** Mas não Me ouvistes e Me provocastes com o trabalho de vossas mãos. Então, Eu os punirei – Esta é a declaração de Yahweh. ^v7
 
-**8** Portanto assim diz o Senhor dos Exércitos: Visto que não escutastes as minhas palavras, ^v8
+**8** Yahweh dos Exércitos diz isto: 'Porque não ouvistes Minhas palavras, ^v8
 
-**9** Eis que eu enviarei, e tomarei a todas as famílias do norte, diz o SENHOR, como também a Nabucodonosor, rei de babilônia, meu servo, e os trarei sobre esta terra, e sobre os seus moradores, e sobre todas estas nações em redor, e os destruirei totalmente, e farei que sejam objeto de espanto, e de assobio, e de perpétuas desolações. ^v9
+**9** vede, estou prestes a enviar uma ordem para mandar buscar todas as pessoas do norte, como também Nabucodonosor, Meu servo, rei da Babilônia, e trazê-los contra esta terra e contra seus habitantes, e contra todas as nações ao redor. Pois vou separá-las para destruição. Eu as transformarei em horror, um objeto de zombaria e interminável desolação – Esta é a declaração de Yahweh. ^v9
 
-**10** E farei desaparecer dentre eles a voz de gozo, e a voz de alegria, a voz do esposo, e a voz da esposa, como também o som das mós, e a luz do candeeiro. ^v10
+**10** Os sons de alegria e celebração, as vozes do noivo e da noiva, o som das pedras de moinho e da luz das lamparinas, Eu farei todas essas coisas desaparecerem. ^v10
 
-**11** E toda esta terra virá a ser um deserto e um espanto; e estas nações servirão ao rei de babilônia setenta anos. ^v11
+**11** Depois, toda esta terra se tornará desolação e horror, e estas nações servirão ao rei da Babilônia por setenta anos. ^v11
 
-**12** Acontecerá, porém, que, quando se cumprirem os setenta anos, visitarei o rei de babilônia, e esta nação, diz o SENHOR, castigando a sua iniqüidade, e a da terra dos caldeus; farei deles ruínas perpétuas. ^v12
+**12** Então, acontecerá que, quando os setenta anos se completarem, Eu punirei o rei da Babilônia e aquela nação, a terra dos babilônios, por sua iniquidade, e farei deles uma eterna desolação – Esta é a declaração de Yahweh. ^v12
 
-**13** E trarei sobre aquela terra todas as minhas palavras, que disse contra ela, a saber, tudo quanto está escrito neste livro, que profetizou Jeremias contra todas estas nações. ^v13
+**13** E executarei contra a terra todas as palavras que falei, tudo o que está escrito neste livro que Jeremias profetizou contra as nações. ^v13
 
-**14** Porque também deles se servirão muitas nações e grandes reis; assim lhes retribuirei segundo os seus feitos, e segundo as obras das suas mãos. ^v14
+**14** "Porque também muitas outras nações e grandes reis farão deles escravos. Eu lhes retribuirei por conta de seus atos e pela obra de suas mãos.""" ^v14
 
-**15** Porque assim me disse o Senhor Deus de Israel: Toma da minha mão este copo do vinho do furor, e darás a beber dele a todas as nações, às quais eu te enviarei. ^v15
+**15** "Pois Yahweh, Deus de Israel, disse a mim: ""Pega esta taça de vinho de fúria de Minhas mãos e faze com que todas as nações às quais estou te mandando bebam-na." ^v15
 
-**16** Para que bebam e tremam, e enlouqueçam, por causa da espada, que eu enviarei entre eles. ^v16
+**16** "Beberão e tropeçarão, reclamando loucamente diante da espada que estou enviando contra eles.""" ^v16
 
-**17** E tomei o copo da mão do Senhor, e dei a beber a todas as nações, às quais o Senhor me enviou; ^v17
+**17** Então, peguei a taça da mão de Yahweh e fiz com que todas as nações, às quais Yahweh mandou-me, bebessem o vinho. ^v17
 
-**18** A Jerusalém, e às cidades de Judá, e aos seus reis, e aos seus príncipes, para fazer deles uma desolação, um espanto, um assobio, e uma maldição, como hoje se vê; ^v18
+**18** Jerusalém, as cidades de Judá e seus reis e oficiais, para transformá-los em ruínas e algo terrível, em objetos de zombaria e maldição, assim como o são nos dias atuais. ^v18
 
-**19** A Faraó, rei do Egito, e a seus servos, e a seus príncipes, e a todo o seu povo; ^v19
+**19** Outras nações também tiveram que beber do vinho: Faraó, rei do Egito, e seus servos; seus oficiais e todo o seu povo; ^v19
 
-**20** E a toda a mistura de povo, e a todos os reis da terra de Uz, e a todos os reis da terra dos filisteus, e a Ascalom, e a Gaza, e a Ecrom, e ao remanescente de Asdode, ^v20
+**20** todo o povo de herança mista e todos os reis da terra de Uz; todos os reis da terra dos filisteus, Asquelom, Gaza, Ecrom e o remanescente de Asdode; ^v20
 
-**21** E a Edom, e a Moabe, e aos filhos de Amom; ^v21
+**21** Edom, Moabe e os amonitas. ^v21
 
-**22** E a todos os reis de Tiro, e a todos os reis de Sidom; e aos reis das ilhas que estão além do mar; ^v22
+**22** Os reis de Tiro e Sidom, os reis das costas do outro lado do mar, ^v22
 
-**23** A Dedã, e a Tema, e a Buz e a todos os que estão nos lugares mais distantes. ^v23
+**23** Dedã, Temá e Buz com todos aqueles que cortam os cabelos nos lados de suas cabeças. ^v23
 
-**24** E a todos os reis da Arábia, e todos os reis do povo misto que habita no deserto; ^v24
+**24** Estes povos também tiveram que beber do vinho: todos os reis da Arábia e todos os reis do povo de herança mista que vivem no deserto; ^v24
 
-**25** E a todos os reis de Zinri, e a todos os reis de Elão, e a todos os reis da Média; ^v25
+**25** todos os reis de Zinri, todos os reis de Elão, e todos os reis da Média; ^v25
 
-**26** E a todos os reis do norte, os de perto, e os de longe, tanto um como o outro, e a todos os reinos do mundo, que estão sobre a face da terra, e o rei de Sesaque beberá depois deles. ^v26
+**26** todos os reis do norte, aqueles que estão perto e os que estão longe, todos com seus irmãos e todos os reinos do mundo que estão na superfície da terra. Finalmente, o rei da Babilônia beberá o vinho, após todos estes. ^v26
 
-**27** Pois lhes dirás: Assim diz o Senhor dos Exércitos, o Deus de Israel: Bebei, e embebedai-vos, e vomitai, e caí, e não torneis a levantar-vos, por causa da espada que eu vos enviarei. ^v27
+**27** "Yahweh disse a mim: ""Agora, tu precisas dizer a eles: 'Yahweh dos Exércitos, Deus de Israel, diz isto: Bebei e embebedai-vos e vomitai, caí e e não torneis a levantar-vos diante da espada que estou enviando contra vós'." ^v27
 
-**28** E será que, se não quiserem tomar o copo da tua mão para beber, então lhes dirás: Assim diz o Senhor dos Exércitos: Certamente bebereis. ^v28
+**28** Então, acontecerá que se eles recusarem-se a pegar a taça de tuas mãos e beberem, tu dirás a eles: 'Yahweh dos Exércitos diz isto: Tu, certamente, deves bebê-lo. ^v28
 
-**29** Porque, eis que na cidade que se chama pelo meu nome começo a castigar; e ficareis vós totalmente impunes? Não ficareis impunes, porque eu chamo a espada sobre todos os moradores da terra, diz o Senhor dos Exércitos. ^v29
+**29** Pois, vede, estou prestes a trazer desastre na cidade que é chamada pelo Meu nome, e vós deveis ficar livres de punição? Vós não sereis livres, pois eu estou enviando uma espada contra todos os habitantes da terra! – Esta é a declaração de Yahweh dos Exércitos.' ^v29
 
-**30** Tu, pois, lhes profetizarás todas estas palavras, e lhes dirás: O Senhor desde o alto bramirá, e fará ouvir a sua voz desde a morada da sua santidade; terrivelmente bramirá contra a sua habitação, com grito de alegria, como dos que pisam as uvas, contra todos os moradores da terra. ^v30
+**30** Tu deves profetizar a eles todas estas palavras e dizer: 'Yahweh rugirá das alturas e gritará com Sua voz da Sua santa morada, e rugirá poderosamente contra o Seu rebanho; e Ele gritará, como os que pisam as uvas, contra todos os que vivem na terra. ^v30
 
-**31** Chegará o estrondo até à extremidade da terra, porque o Senhor tem contenda com as nações, entrará em juízo com toda a carne; os ímpios entregará à espada, diz o Senhor. ^v31
+**31** O barulho da batalha vai ressoar até os confins da terra, pois Yahweh está trazendo acusações contra as nações, e Ele irá trazer juízo à toda carne. Ele entregará os ímpios à espada – Esta é a declaração de Yahweh.' ^v31
 
-**32** Assim diz o Senhor dos Exércitos: Eis que o mal passa de nação para nação, e grande tormenta se levantará dos confins da terra. ^v32
+**32** Yahweh dos Exércitos diz isto: 'Vede! O desastre está indo de nação a nação, e uma grande tempestade se levanta dos confins da terra. ^v32
 
-**33** E serão os mortos do Senhor, naquele dia, desde uma extremidade da terra até à outra; não serão pranteados, nem recolhidos, nem sepultados; mas serão por esterco sobre a face da terra. ^v33
+**33** Então, naquele dia, aqueles que foram mortos por Yahweh se estenderão de uma extremidade da terra à outra; eles não serão pranteados, recolhidos ou enterrados. Eles serão como esterco no chão. ^v33
 
-**34** Uivai, pastores, e clamai, e revolvei-vos na cinza, principais do rebanho, porque já se cumpriram os vossos dias para serdes mortos, e dispersos, e vós então caireis como um vaso precioso. ^v34
+**34** Lamentai, pastores, e gritai por socorro! Rolai na poeira, vós líderes do rebanho, pois o dia de serdes abatidos chegou. Vós sereis dispersos quando cairdes como um vaso precioso. ^v34
 
-**35** E não haverá refúgio para os pastores, nem salvamento para os principais do rebanho. ^v35
+**35** O refúgio para os pastores se foi. Não há escapatória para os líderes do rebanho. ^v35
 
-**36** Voz de grito dos pastores, e uivos dos principais do rebanho; porque o Senhor está destruindo o pasto deles. ^v36
+**36** Ouvi os gritos dos pastores e os lamentos dos líderes do rebanho, porque Yahweh está destruindo os seus pastos. ^v36
 
-**37** Porque as suas malhadas pacíficas serão desarraigadas, por causa do furor da ira do Senhor. ^v37
+**37** Assim, as pastagens pacíficas serão devastadas por causa da ira feroz de Yahweh. ^v37
 
-**38** Deixou a sua tenda, como o filho de leão; porque a sua terra foi posta em desolação, por causa do furor do opressor, e por causa do furor da sua ira. ^v38
+**38** "Como um jovem leão, deixou sua morada, pois a terra deles se tornará um horror por causa da ira do opressor, por causa da ira feroz de Yahweh.""" ^v38

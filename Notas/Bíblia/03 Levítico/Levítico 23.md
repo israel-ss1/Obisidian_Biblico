@@ -1,95 +1,94 @@
 ---
-Livro: "[[Levítico|Levítico]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Levítico|Levítico]]"
+tags: [biblia]
 ---
 
 # Levítico 23
 
-**1** Depois falou o SENHOR a Moisés, dizendo: ^v1
+**1** "Yahweh falou a Moisés: """ ^v1
 
-**2** Fala aos filhos de Israel, e dize-lhes: As solenidades do Senhor, que convocareis, serão santas convocações; estas são as minhas solenidades: ^v2
+**2** Dize ao povo de Israel, e fala a eles: 'Os festivais apontados por Yahweh, que tu deverás proclamar como assembéias santas, são Meus festivais regulares. ^v2
 
-**3** Seis dias trabalho se fará, mas o sétimo dia será o sábado do descanso, santa convocação; nenhum trabalho fareis; sábado do Senhor é em todas as vossas habitações. ^v3
+**3** Trabalhareis por seis dias, mas no sétimo dia é o Sábado de completo descanso, a assembéia santa. Não trabalhareis porque é o Sábado para Yahweh em todos os locais onde viveis. ^v3
 
-**4** Estas são as solenidades do Senhor, as santas convocações, que convocareis ao seu tempo determinado: ^v4
+**4** Estes são os festivais apontados por Yahweh, as assembléias santas que deverás anunciar nos momentos apropriados: ^v4
 
-**5** No mês primeiro, aos catorze do mês, pela tarde, é a páscoa do Senhor. ^v5
+**5** No primeiro mês, do décimo quarto dia ao entardecer, será a páscoa de Yahweh. ^v5
 
-**6** E aos quinze dias deste mês é a festa dos pães ázimos do Senhor; sete dias comereis pães ázimos. ^v6
+**6** No décimo quinto dia do mesmo mês será o Festival dos Pães sem fermento à Yahweh. Por sete dias deverás comer pão sem fermento. ^v6
 
-**7** No primeiro dia tereis santa convocação; nenhum trabalho servil fareis; ^v7
+**7** No primeiro dia vós tereis assembléia dedicada a Yahweh, não deveis trabalhar como de costume. ^v7
 
-**8** Mas sete dias oferecereis oferta queimada ao Senhor; ao sétimo dia haverá santa convocação; nenhum trabalho servil fareis. ^v8
+**8** "Devereis oferecer sacrifícios feitos no fogo durante sete dias para Yahweh. O sétimo dia é assembléia dedicada a Yahweh, no qual, não trabalhareis como de costume'""." ^v8
 
-**9** E falou o Senhor a Moisés, dizendo: ^v9
+**9** Yahweh falou a Moisés, dizendo: ^v9
 
-**10** Fala aos filhos de Israel, e dize-lhes: Quando houverdes entrado na terra, que vos hei de dar, e fizerdes a sua colheita, então trareis um molho das primícias da vossa sega ao sacerdote; ^v10
+**10** """Fale ao povo de Israel e diga a eles, 'Quando vierdes a terra que vos darei, e quando ceifardes a colheita, então deveis trazer as primícias da colheita ao sacerdote." ^v10
 
-**11** E ele moverá o molho perante o Senhor, para que sejais aceitos; no dia seguinte ao sábado o sacerdote o moverá. ^v11
+**11** Ele erguerá as primícias na presença de Yahweh como oferta, para que seja aceita em vosso favor. Será depois do Sábado que o sacerdote erguerá e apresentará a Mim. ^v11
 
-**12** E no dia em que moverdes o molho, preparareis um cordeiro sem defeito, de um ano, em holocausto ao Senhor, ^v12
+**12** No dia em que vós erguerdes as primícias em oferta a Mim, devem ser oferecido um cordeiro macho de um ano e sem defeito como sacrificio queimado a Yahweh. ^v12
 
-**13** E a sua oferta de alimentos, será de duas dízimas de flor de farinha, amassada com azeite, para oferta queimada em cheiro suave ao Senhor, e a sua libação será de vinho, um quarto de him. ^v13
+**13** A oferta de grãos será de dois décimos de efa da melhor farinha misturada ao óleo, uma oferta queimada a Yahweh, a fim de produzir aroma agradável, e juntamente com este uma oferta de libação, um quarto de um him. ^v13
 
-**14** E não comereis pão, nem trigo tostado, nem espigas verdes, até aquele mesmo dia em que trouxerdes a oferta do vosso Deus; estatuto perpétuo é por vossas gerações, em todas as vossas habitações. ^v14
+**14** Não comereis pão, nem grãos torrados ou frescos, até o mesmo dia que trouxerdes essa oferta a Deus. Este será um mandamento permanente por todas as vossas gerações, onde quer que viverdes. ^v14
 
-**15** Depois para vós contareis desde o dia seguinte ao sábado, desde o dia em que trouxerdes o molho da oferta movida; sete semanas inteiras serão. ^v15
+**15** Deverás contar do dia após o Sábado, do dia em que trouxeste a parte colhida para ser erguida em oferta e apresentada, sete semanas completas, sete Sábados, ^v15
 
-**16** Até ao dia seguinte ao sétimo sábado, contareis cinqüenta dias; então oferecereis nova oferta de alimentos ao Senhor. ^v16
+**16** até o dia após o sétimo Sábado. Ou seja, deverás contar cinquenta dias. Então deverás oferecer uma oferta queimada de novos grãos a Yahweh. ^v16
 
-**17** Das vossas habitações trareis dois pães de movimento; de duas dízimas de farinha serão, levedados se cozerão; primícias são ao Senhor. ^v17
+**17** Deverás retirar de suas casas dois pães feitos de dois décimos de um efa. Deverão ser amassados com a melhor farinha e assados com trigo; estes serão uma oferta dos primeiros frutos que serão levantados e apresentados a Yahweh. ^v17
 
-**18** Também com o pão oferecereis sete cordeiros sem defeito, de um ano, e um novilho, e dois carneiros; holocausto serão ao Senhor, com a sua oferta de alimentos, e as suas libações, por oferta queimada de cheiro suave ao Senhor. ^v18
+**18** Apresentarás junto com os pães sete cordeiros de um ano sem defeito, touro jovem, e dois carneiros. Deverás queima-los em oferta a Yahweh, com a oferta de grãos e as ofertas de vinho, uma oferta queimada para produzir aroma agradável a Yahweh. ^v18
 
-**19** Também oferecereis um bode para expiação do pecado, e dois cordeiros de um ano por sacrifício pacífico. ^v19
+**19** Deverás entregar um bode em oferta pelo pecado, e dois cordeiros de um ano para sacrifício, como oferta pacífica. ^v19
 
-**20** Então o sacerdote os moverá com o pão das primícias por oferta movida perante o Senhor, com os dois cordeiros; santos serão ao Senhor para uso do sacerdote. ^v20
+**20** O sacerdote deverá oferecê-los perante Yahweh, juntamente com os pães dos primeiros frutos, e apresenta-los como oferta junto aos dois cordeiros. Serão ofertas sagradas para Yahweh pelo sacerdote. ^v20
 
-**21** E naquele mesmo dia apregoareis que tereis santa convocação; nenhum trabalho servil fareis; estatuto perpétuo é em todas as vossas habitações pelas vossas gerações. ^v21
+**21** Deverás proclamar isto no mesmo dia. Haverá uma assembléia santa, portanto não trabalharás como de costume. Será ordenança perpétua por todas as vossas gerações em todos os lugares que habitardes. ^v21
 
-**22** E, quando fizerdes a colheita da vossa terra, não acabarás de segar os cantos do teu campo, nem colherás as espigas caídas da tua sega; para o pobre e para o estrangeiro as deixarás. Eu sou o Senhor vosso Deus. ^v22
+**22** "Quando ceifardes a colheita de vossa terra, não deverás faze-lo até os limites dos vossos campos e não ajuntarás as espigas que ficarem pelo caminho. Deveis deixá-las para os pobres e estrangeiros. Eu Sou Yahweh seu Deus' ""." ^v22
 
-**23** E falou o Senhor a Moisés, dizendo: ^v23
+**23** Yahweh disse a Moisés, falando: ^v23
 
-**24** Fala aos filhos de Israel, dizendo: No mês sétimo, ao primeiro do mês, tereis descanso, memorial com sonido de trombetas, santa convocação. ^v24
+**24** """Fale ao povo de Israel e diga: 'No sétimo mês, o primeiro dia será de descanso solene para vós, um memorial ao toque de trombetas, e uma santa assembleia." ^v24
 
-**25** Nenhum trabalho servil fareis, mas oferecereis oferta queimada ao Senhor. ^v25
+**25** "Não devais trabalhar como de costume, e devais oferecer sacrificios queimados para Yahweh'""." ^v25
 
-**26** Falou mais o Senhor a Moisés, dizendo: ^v26
+**26** Então Yahweh falou a Moisés, dizendo: ^v26
 
-**27** Mas aos dez dias desse sétimo mês será o dia da expiação; tereis santa convocação, e afligireis as vossas almas; e oferecereis oferta queimada ao Senhor. ^v27
+**27** """Agora o décimo dia deste sétimo mês será o Dia de Expiação. Será uma assembléia dedicada a Yahweh, vós deverdes humilhar-vos e oferecer sacrifícios queimados para Yahweh." ^v27
 
-**28** E naquele mesmo dia nenhum trabalho fareis, porque é o dia da expiação, para fazer expiação por vós perante o Senhor vosso Deus. ^v28
+**28** Não trabalhareis neste dia porque é Dia de Expiação, para expiar-vos diante de Yahweh vosso Deus. ^v28
 
-**29** Porque toda a alma, que naquele mesmo dia se não afligir, será extirpada do seu povo. ^v29
+**29** Qualquer que não se humilhar neste dia deverá ser excluído do vosso povo. ^v29
 
-**30** Também toda a alma, que naquele mesmo dia fizer algum trabalho, eu a destruirei do meio do seu povo. ^v30
+**30** Qualquer um que trabalhar neste dia, Eu, Yahweh, destruí-lo-ei do meio do vosso povo. ^v30
 
-**31** Nenhum trabalho fareis; estatuto perpétuo é pelas vossas gerações em todas as vossas habitações. ^v31
+**31** Vós não trabalhareis de forma alguma neste dia. Este será um mandamento permanente por todas as gerações do vosso povo onde quer que vós viverdes. ^v31
 
-**32** Sábado de descanso vos será; então afligireis as vossas almas; aos nove do mês à tarde, de uma tarde a outra tarde, celebrareis o vosso sábado. ^v32
+**32** "Este dia deverá ser o sábado de descanso solene, e vós vos humilhareis no entardecer do nono dia do mês. De uma tarde a outra tarde, o Sábado deve ser guardado""." ^v32
 
-**33** E falou o Senhor a Moisés, dizendo: ^v33
+**33** Yahweh falou a Moisés, dizendo: ^v33
 
-**34** Fala aos filhos de Israel, dizendo: Aos quinze dias deste mês sétimo será a festa dos tabernáculos ao Senhor por sete dias. ^v34
+**34** """Fale ao povo de Israel, dizendo: 'Durante o décimo quinto dia do sétimo mês celebrareis o Festival dos Tabernáculos em homenagem a Yahweh. Ela terá duração de sete dias." ^v34
 
-**35** Ao primeiro dia haverá santa convocação; nenhum trabalho servil fareis. ^v35
+**35** No primeiro dia haverá santa assembléia. Não devereis fazer trabalho algum. ^v35
 
-**36** Sete dias oferecereis ofertas queimadas ao Senhor; ao oitavo dia tereis santa convocação, e oferecereis ofertas queimadas ao Senhor; dia de proibição é, nenhum trabalho servil fareis. ^v36
+**36** Durante sete dias oferecereis sacrifícios queimados á Yahweh. No oitavo dia haverá santa assembléia, e fareis sacrifício queimado para Yahweh. Esta será uma assembléia solene, portanto não haverá trabalho algum. ^v36
 
-**37** Estas são as solenidades do Senhor, que apregoareis para santas convocações, para oferecer ao Senhor oferta queimada, holocausto e oferta de alimentos, sacrifício e libações, cada qual em seu dia próprio; ^v37
+**37** Estes são os festivais apontados por Yahweh, no qual vós proclamareis como assembléia santa para oferecerdes sacrifícios pelo fogo a Yahweh, oferta queimada e oferta de grãos, sacrifícios e libações, cada qual em seu próprio dia. ^v37
 
-**38** Além dos sábados do Senhor, e além dos vossos dons, e além de todos os vossos votos, e além de todas as vossas ofertas voluntárias, que dareis ao Senhor. ^v38
+**38** Estes festivais vós os adicionareis aos sábados de Yahweh e suas ofertas, todos os vossos votos, e todas as vossas ofertas pacíficas que oferecerdes a Yahweh. ^v38
 
-**39** Porém aos quinze dias do mês sétimo, quando tiverdes recolhido do fruto da terra, celebrareis a festa do Senhor por sete dias; no primeiro dia haverá descanso, e no oitavo dia haverá descanso. ^v39
+**39** Apesar do Festival dos Tabernáculos, no décimo quinto dia do sétimo mês, quando estiverdes reunidos os frutos da vossa terra, o Festival de Yahweh deverá ter duração de sete dias. O primeiro dia será de descanso solene e o oitavo dia também será de descanso solene. ^v39
 
-**40** E no primeiro dia tomareis para vós ramos de formosas árvores, ramos de palmeiras, ramos de árvores frondosas, e salgueiros de ribeiras; e vos alegrareis perante o Senhor vosso Deus por sete dias. ^v40
+**40** No primeiro dia vós deveis retirar o melhor fruto de vossas árvores, galhos de palmeiras, galhos com folhagem das árvores robustas, e salgueiro às margens do ribeiro, regorzijar-se-eis diante de Yahweh, seu Deus, por sete dias. ^v40
 
-**41** E celebrareis esta festa ao Senhor por sete dias cada ano; estatuto perpétuo é pelas vossas gerações; no mês sétimo a celebrareis. ^v41
+**41** Durante sete dias a cada ano, celebrareis este festival a Yahweh. Este será um mandamento perpétuo por todas as gerações do vosso povo onde quer que viverdes. Devereis celebrar este festival no sétimo mês. ^v41
 
-**42** Sete dias habitareis em tendas; todos os naturais em Israel habitarão em tendas; ^v42
+**42** Vós devereis permanecer em pequenas tendas por sete dias. Todos os israelitas natos deverão permanecer em pequenas tendas por sete dias, ^v42
 
-**43** Para que saibam as vossas gerações que eu fiz habitar os filhos de Israel em tendas, quando os tirei da terra do Egito. Eu sou o Senhor vosso Deus. ^v43
+**43** "para que teus descendentes, geração a geração, aprendam como Eu fiz o povo de Israel viver em pequenas tendas quando Eu os tirei da terra do Egito. Eu sou Yahweh, seu Deus'""." ^v43
 
-**44** Assim pronunciou Moisés as solenidades do Senhor aos filhos de Israel. ^v44
+**44** Desta forma, Moisés anunciou para o povo de Israel o festival apontado por Yahweh. ^v44

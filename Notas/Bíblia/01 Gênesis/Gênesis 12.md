@@ -1,47 +1,46 @@
 ---
-Livro: "[[Gênesis|Gênesis]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Gênesis|Gênesis]]"
+tags: [biblia]
 ---
 
 # Gênesis 12
 
-**1** Ora, o SENHOR disse a Abrão: Sai-te da tua terra, da tua parentela e da casa de teu pai, para a terra que eu te mostrarei. ^v1
+**1** "Então Yahweh disse a Abrão: ""Sai da tua terra, e do meio dos teus parentes, e da casa de teu pai, para a terra que Eu te mostrarei." ^v1
 
-**2** E far-te-ei uma grande nação, e abençoar-te-ei e engrandecerei o teu nome; e tu serás uma bênção. ^v2
+**2** E farei de ti uma grande nação, e te abençoarei, e farei teu nome grande, e tu serás uma benção. ^v2
 
-**3** E abençoarei os que te abençoarem, e amaldiçoarei os que te amaldiçoarem; e em ti serão benditas todas as famílias da terra. ^v3
+**3** "Eu abençoarei os que te abençoarem e amaldiçoarei os que te amaldiçoarem. Através de ti, todas as famílias da terra serão abençoadas""." ^v3
 
-**4** Assim partiu Abrão como o Senhor lhe tinha dito, e foi Ló com ele; e era Abrão da idade de setenta e cinco anos quando saiu de Harã. ^v4
+**4** E foi Abrão como Yahweh havia lhe dito que fizesse, e Ló foi com ele. Abrão tinha setenta e cinco anos quando partiu de Harã. ^v4
 
-**5** E tomou Abrão a Sarai, sua mulher, e a Ló, filho de seu irmão, e todos os bens que haviam adquirido, e as almas que lhe acresceram em Harã; e saíram para irem à terra de Canaã; e chegaram à terra de Canaã. ^v5
+**5** Levou consigo Sarai, sua mulher, e Ló, filho de seu irmão, e toda sua riqueza e as pessoas que havia adquirido em Harã. Eles saíram para a terra de Canaã e lá chegaram. ^v5
 
-**6** E passou Abrão por aquela terra até ao lugar de Siquém, até ao carvalho de Moré; e estavam então os cananeus na terra. ^v6
+**6** Abrão atravessou a terra até Siquém para o carvalho de Moré. Naquele tempo, os cananeus habitavam na terra. ^v6
 
-**7** E apareceu o Senhor a Abrão, e disse: À tua descendência darei esta terra. E edificou ali um altar ao Senhor, que lhe aparecera. ^v7
+**7** "Yahweh apareceu para Abrão e disse: ""Eu darei esta terra para os teus descendentes"". Então Abrão edificou um altar para Yahweh, Aquele que lhe havia aparecido." ^v7
 
-**8** E moveu-se dali para a montanha do lado oriental de Betel, e armou a sua tenda, tendo Betel ao ocidente, e Ai ao oriente; e edificou ali um altar ao Senhor, e invocou o nome do Senhor. ^v8
+**8** De lá, ele mudou-se para a montanha ao leste de Betel, onde armou sua tenda; estando Betel ao oeste e Ai, ao leste. Lá ele edificou um altar para Yahweh e invocou pelo Seu nome. ^v8
 
-**9** Depois caminhou Abrão dali, seguindo ainda para o lado do sul. ^v9
+**9** Então Abrão partiu dali em direção ao Neguebe. ^v9
 
-**10** E havia fome naquela terra; e desceu Abrão ao Egito, para peregrinar ali, porquanto a fome era grande na terra. ^v10
+**10** E houve fome na terra. Então, Abrão desceu até o Egito para ali ficar, pois a fome era severa na terra. ^v10
 
-**11** E aconteceu que, chegando ele para entrar no Egito, disse a Sarai, sua mulher: Ora, bem sei que és mulher formosa à vista; ^v11
+**11** "E aconteceu que, quando ele estava se aproximando do Egito, disse para Sarai, sua mulher: ""Vê, eu sei que tu és mulher formosa." ^v11
 
-**12** E será que, quando os egípcios te virem, dirão: Esta é sua mulher. E matar-me-ão a mim, e a ti te guardarão em vida. ^v12
+**12** "Quando os egípcios te virem, dirão: ""Esta é a mulher dele""; irão matar-me e te manterão viva." ^v12
 
-**13** Dize, peço-te, que és minha irmã, para que me vá bem por tua causa, e que viva a minha alma por amor de ti. ^v13
+**13** "Dize, pois, que és minha irmã, e assim estarei bem, graças a ti, e minha vida será poupada por tua causa""." ^v13
 
-**14** E aconteceu que, entrando Abrão no Egito, viram os egípcios a mulher, que era mui formosa. ^v14
+**14** Aconteceu que, quando Abrão entrou no Egito, os egípcios viram que Sarai era mulher muito formosa. ^v14
 
-**15** E viram-na os príncipes de Faraó, e gabaram-na diante de Faraó; e foi a mulher tomada para a casa de Faraó. ^v15
+**15** Os oficiais do Faraó a viram, elogiaram-na diante do Faraó e a mulher foi levada para a casa do Faraó. ^v15
 
-**16** E fez bem a Abrão por amor dela; e ele teve ovelhas, vacas, jumentos, servos e servas, jumentas e camelos. ^v16
+**16** Ele tratou bem a Abrão por causa dela e deu-lhe ovelhas, bois, jumentos, servos e servas, jumentas e camelos. ^v16
 
-**17** Feriu, porém, o Senhor a Faraó e a sua casa, com grandes pragas, por causa de Sarai, mulher de Abrão. ^v17
+**17** Então Yahweh afligiu a Faraó e a sua casa com grandes pragas, por causa de Sarai, mulher de Abrão. ^v17
 
-**18** Então chamou Faraó a Abrão, e disse: Que é isto que me fizeste? Por que não me disseste que ela era tua mulher? ^v18
+**18** "Faraó chamou Abrão e disse: ""O que é isto que fizeste? Por que não me relataste que ela era tua mulher?" ^v18
 
-**19** Por que disseste: É minha irmã? Por isso a tomei por minha mulher; agora, pois, eis aqui tua mulher; toma-a e vai-te. ^v19
+**19** Por que me disseste que ela é tua irmã, de modo que a tomei para ser minha mulher? Agora, pois, aqui está a tua mulher, toma-a e segue teu caminho. ^v19
 
-**20** E Faraó deu ordens aos seus homens a respeito dele; e acompanharam-no, a ele, e a sua mulher, e a tudo o que tinha. ^v20
+**20** "Então Faraó deu ordens a seus homens a respeito dele, e levaram-no embora, junto com sua esposa e com tudo o que possuía""." ^v20

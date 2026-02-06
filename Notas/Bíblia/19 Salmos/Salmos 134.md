@@ -1,13 +1,12 @@
 ---
-Livro: "[[Salmos|Salmos]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Salmos|Salmos]]"
+tags: [biblia]
 ---
 
 # Salmos 134
 
-**1** Eis aqui, bendizei ao SENHOR todos vós, servos do SENHOR, que assistis na casa do SENHOR todas as noites. ^v1
+**1** Bendizei a Yahweh, todos os Seus servos! Todos vós que servis na Casa do Senhor durante a noite. ^v1
 
-**2** Levantai as vossas mãos no santuário, e bendizei ao Senhor. ^v2
+**2** Erguei as mãos para o santo lugar e bendizei a Yahweh. ^v2
 
-**3** O Senhor que fez o céu e a terra te abençoe desde Sião. ^v3
+**3** Yahweh te abençoe de Sião, Ele que fez os céus e a terra. ^v3

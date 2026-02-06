@@ -1,41 +1,38 @@
 ---
-Livro: "[[Salmos|Salmos]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Salmos|Salmos]]"
+tags: [biblia]
 ---
 
 # Salmos 45
 
-**1** O meu coração ferve com palavras boas, falo do que tenho feito no tocante ao Rei. A minha língua é a pena de um destro escritor. ^v1
+**2** Tu és mais justo que os filhos dos homens; graça é derramada em Teus lábios. Por isso, nós sabemos que Deus Te abençoou para sempre. ^v2
 
-**2** Tu és mais formoso do que os filhos dos homens; a graça se derramou em teus lábios; por isso Deus te abençoou para sempre. ^v2
+**3** Coloca Tua espada na Tua coxa, ó Poderoso, em Tua glória e majestade. ^v3
 
-**3** Cinge a tua espada à coxa, ó valente, com a tua glória e a tua majestade. ^v3
+**4** Em Tua majestade, cavalgas triunfantemente, por causa da Tua verdade, mansidão e justiça; Tua mão justa Te ensinará coisas formidáveis. ^v4
 
-**4** E neste teu esplendor cavalga prosperamente, por causa da verdade, da mansidão e da justiça; e a tua destra te ensinará coisas terríveis. ^v4
+**5** Tuas flechas estão afiadas; os povos caem diante de Ti; Tuas flechas estão nos corações dos reis inimigos. ^v5
 
-**5** As tuas flechas são agudas no coração dos inimigos do rei, e por elas os povos caíram debaixo de ti. ^v5
+**6** Teu trono, ó Deus, é para sempre e sempre; um cetro de justiça é o cetro do Teu reino. ^v6
 
-**6** O teu trono, ó Deus, é eterno e perpétuo; o cetro do teu reino é um cetro de eqüidade. ^v6
+**7** Tu amaste a justiça e odiaste a maldade; por isso, Deus, o Teu Deus, Te ungiu com óleo de alegria mais que a Teus companheiros. ^v7
 
-**7** Tu amas a justiça e odeias a impiedade; por isso Deus, o teu Deus, te ungiu com óleo de alegria mais do que a teus companheiros. ^v7
+**8** Todas as Tuas peças de roupa cheiram mirra, aloés e cássia; fora dos palácios de marfim, os instrumentos de cordas têm Te alegrado. ^v8
 
-**8** Todas as tuas vestes cheiram a mirra e aloés e cássia, desde os palácios de marfim de onde te alegram. ^v8
+**9** As filhas dos reis estão entre as Tuas damas de honra; à Tua mão direita está a rainha, vestida em ouro de Ofir. ^v9
 
-**9** As filhas dos reis estavam entre as tuas ilustres mulheres; à tua direita estava a rainha ornada de finíssimo ouro de Ofir. ^v9
+**10** Ouve, filha, considera e inclina teus ouvidos; esquece-te do teu próprio povo e da casa de teu pai. ^v10
 
-**10** Ouve, filha, e olha, e inclina os teus ouvidos; esquece-te do teu povo e da casa do teu pai. ^v10
+**11** Desta maneira o Rei desejará a tua beleza; Ele é o teu Senhor, reverencia-O. ^v11
 
-**11** Então o rei se afeiçoará da tua formosura, pois ele é teu Senhor; adora-o. ^v11
+**12** A filha de Tiro estará lá com um presente; os ricos dentre o povo implorarão Teu favor. ^v12
 
-**12** E a filha de Tiro estará ali com presentes; os ricos do povo suplicarão o teu favor. ^v12
+**13** A filha real no palácio está toda esplendorosa; sua veste é trabalhada em ouro. ^v13
 
-**13** A filha do rei é toda ilustre lá dentro; o seu vestido é entretecido de ouro. ^v13
+**14** Ela será conduzida ao Rei em vestidos bordados; as virgens, suas companheiras, a seguirão; serão trazidas a Ti. ^v14
 
-**14** Levá-la-ão ao rei com vestidos bordados; as virgens que a acompanham a trarão a ti. ^v14
+**15** Elas serão conduzidas em alegria e regozijo, e entrarão no palácio do Rei. ^v15
 
-**15** Com alegria e regozijo as trarão; elas entrarão no palácio do rei. ^v15
+**16** No lugar de Teus pais, estarão Teus filhos, que Tu farás príncipes em toda a terra. ^v16
 
-**16** Em lugar de teus pais estarão teus filhos; deles farás príncipes sobre toda a terra. ^v16
-
-**17** Farei lembrado o teu nome de geração em geração; por isso os povos te louvarão eternamente. ^v17
+**17** Eu farei Teu nome ser lembrado em todas as gerações; por isso, os povos Te darão graças para sempre e sempre. ^v17

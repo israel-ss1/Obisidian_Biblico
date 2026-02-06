@@ -1,71 +1,70 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Ezequiel|Ezequiel]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Ezequiel|Ezequiel]]"
+tags: [biblia]
 ---
 
 # Ezequiel 18
 
-**1** E veio a mim a palavra do SENHOR, dizendo: ^v1
+**1** Veio a mim, mais uma vez, a palavra de Yahweh, dizendo: ^v1
 
-**2** Que pensais, vós, os que usais esta parábola sobre a terra de Israel, dizendo: Os pais comeram uvas verdes, e os dentes dos filhos se embotaram? ^v2
+**2** """Que quereis dizer, vós que usais este provérbio em relação à terra de Israel: 'Os pais comeram uvas verdes e os dentes dos filhos ficaram ásperos'?" ^v2
 
-**3** Vivo eu, diz o Senhor DEUS, que nunca mais direis esta parábola em Israel. ^v3
+**3** Tão certo como eu vivo — esta é uma declaração de Yahweh Deus — não mais haverá ocasião alguma para usardes este provérbio em Israel. ^v3
 
-**4** Eis que todas as almas são minhas; como o é a alma do pai, assim também a alma do filho é minha: a alma que pecar, essa morrerá. ^v4
+**4** Eis que toda a vida pertence a Mim — tanto a vida do pai quanto a vida do filho, ambas pertencem a Mim! A alma que pecar, esta morrerá! ^v4
 
-**5** Sendo, pois, o homem justo, e praticando juízo e justiça, ^v5
+**5** O que pode ser dito de um homem que é reto e pratica a justiça e retidão — ^v5
 
-**6** Não comendo sobre os montes, nem levantando os seus olhos para os ídolos da casa de Israel, nem contaminando a mulher do seu próximo, nem se chegando à mulher na sua separação, ^v6
+**6** se ele não come nos montes, nem ergue os seus olhos aos ídolos da casa de Israel, e não contamina a mulher do seu próximo, muito menos se unir com uma mulher durante a menstruação, ele é um homem correto? ^v6
 
-**7** Não oprimindo a ninguém, tornando ao devedor o seu penhor, não roubando, dando o seu pão ao faminto, e cobrindo ao nu com roupa, ^v7
+**7** Que dizer do homem que a ninguém oprime, que devolve ao devedor o que foi posto como penhor num empréstimo, não rouba, mas dá a sua comida ao faminto e cobre o nu com roupas? ^v7
 
-**8** Não dando o seu dinheiro à usura, e não recebendo demais, desviando a sua mão da injustiça, e fazendo verdadeiro juízo entre homem e homem; ^v8
+**8** Que dizer do homem que não cobra juros altos pelo dinheiro emprestado e não ganha lucros exagerados com o que vende? Diz-se dele que este homem pratica a justiça e estabelece fidelidade entre as pessoas. ^v8
 
-**9** Andando nos meus estatutos, e guardando os meus juízos, e procedendo segundo a verdade, o tal justo certamente viverá, diz o Senhor DEUS. ^v9
+**9** Se tal homem anda em Meus estatutos e guarda os Meus decretos para agir fielmente, então, a promessa para este homem reto é: Ele certamente viverá! — assim declara Yahweh Deus. ^v9
 
-**10** E se ele gerar um filho ladrão, derramador de sangue, que fizer a seu irmão qualquer destas coisas; ^v10
+**10** Porém, imagina que ele tenha um filho violento, que derrama sangue e pratica muitas dessas faltas aqui mencionadas, ^v10
 
-**11** E não cumprir todos aqueles deveres, mas antes comer sobre os montes, e contaminar a mulher de seu próximo, ^v11
+**11** ainda que seu pai não o tenha feito, o filho come nos montes e profana a esposa do seu próximo. ^v11
 
-**12** Oprimir ao pobre e necessitado, praticar roubos, não tornar o penhor, e levantar os seus olhos para os ídolos, e cometer abominação, ^v12
+**12** Este homem oprime o pobre e o necessitado, extorque, rouba, não devolve o penhor, levanta seus olhos aos ídolos e comete abominações, ^v12
 
-**13** E emprestar com usura, e receber demais, porventura viverá? Não viverá. Todas estas abominações ele fez, certamente morrerá; o seu sangue será sobre ele. ^v13
+**13** empresta dinheiro com juros elevadíssimos e ganha lucro exagerado com aquilo que vende. Será que este homem deveria viver? É certo que não! Ele, certamente, morrerá e o seu sangue estará nele porque fez todas estas coisas detestáveis. Será culpado por sua própria morte. ^v13
 
-**14** E eis que também, se ele gerar um filho que veja todos os pecados que seu pai fez e, vendo-os, não cometer coisas semelhantes, ^v14
+**14** Imagina que haja um homem que tenha um filho e o filho vê todos os pecados que o pai cometeu e, embora os veja, ele não os pratica. ^v14
 
-**15** Não comer sobre os montes, e não levantar os seus olhos para os ídolos da casa de Israel, e não contaminar a mulher de seu próximo, ^v15
+**15** Este filho não come nos montes, não ergue seus olhos aos ídolos da casa de Israel e não profana a esposa do seu próximo. ^v15
 
-**16** E não oprimir a ninguém, e não retiver o penhor, e não roubar, der o seu pão ao faminto, e cobrir ao nu com roupa, ^v16
+**16** Este filho não oprime a ninguém, não pega penhor, nem toma coisas roubadas; pelo contrário, dá a sua comida ao faminto e cobre de roupas o nu. ^v16
 
-**17** Desviar do pobre a sua mão, não receber usura e juros, cumprir os meus juízos, e andar nos meus estatutos, o tal não morrerá pela iniqüidade de seu pai; certamente viverá. ^v17
+**17** Não retira do pobre a sua mão, não cobra juros que seja muito elevado, nem ganha muito lucro por um empréstimo, mas guarda os Meus decretos e anda de acordo com os Meus estatutos; este filho não morrerá pelo pecado do seu pai: certamente, viverá! ^v17
 
-**18** Seu pai, porque praticou a extorsão, roubou os bens do irmão, e fez o que não era bom no meio de seu povo, eis que ele morrerá pela sua iniqüidade. ^v18
+**18** Seu pai, uma vez que oprimiu aos outros por extorsão, roubou o seu irmão e fez o que não é reto entre o seu povo — eis que ele morrerá na sua iniquidade. ^v18
 
-**19** Mas dizeis: Por que não levará o filho a iniqüidade do pai? Porque o filho procedeu com retidão e justiça, e guardou todos os meus estatutos, e os praticou, por isso certamente viverá. ^v19
+**19** Todavia, vós dizeis: 'Por que o filho não carrega a iniquidade do seu pai?'. Porque o filho pratica a justiça e a retidão e guarda todos os Meus estatutos; ele os põe em prática. Ele, certamente, viverá! ^v19
 
-**20** A alma que pecar, essa morrerá; o filho não levará a iniqüidade do pai, nem o pai levará a iniqüidade do filho. A justiça do justo ficará sobre ele e a impiedade do ímpio cairá sobre ele. ^v20
+**20** Aquele que pecar é o que morrerá. Um filho não carregará a iniquidade do seu pai e o pai não carregará a iniquidade do seu filho. A retidão de quem age retamente, nele mesmo, estará; e a corrupção do mau estará nele mesmo. ^v20
 
-**21** Mas se o ímpio se converter de todos os pecados que cometeu, e guardar todos os meus estatutos, e proceder com retidão e justiça, certamente viverá; não morrerá. ^v21
+**21** Mas, se o corrupto se desviar de todos os pecados que praticou, guardar todos os Meus estatutos e praticar a justiça e a retidão, ele, certamente, viverá e não morrerá. ^v21
 
-**22** De todas as transgressões que cometeu não haverá lembrança contra ele; pela justiça que praticou viverá. ^v22
+**22** Todas as transgressões que ele cometeu não serão lembradas contra ele. Ele viverá pela retidão que pratica. ^v22
 
-**23** Desejaria eu, de qualquer maneira, a morte do ímpio? diz o Senhor DEUS; Não desejo antes que se converta dos seus caminhos, e viva? ^v23
+**23** Acaso, Eu Me regozijo na morte do corrupto — assim declara Yahweh Deus — e não em que ele se arrependa do seu mau caminho para que possa viver? ^v23
 
-**24** Mas, desviando-se o justo da sua justiça, e cometendo a iniqüidade, fazendo conforme todas as abominações que faz o ímpio, porventura viverá? De todas as justiças que tiver feito não se fará memória; na sua transgressão com que transgrediu, e no seu pecado com que pecou, neles morrerá. ^v24
+**24** Mas, se um homem justo se desviar da sua retidão, cometer iniquidade e praticar abominações, como todas as abominações que um corrupto comete, será que ele viverá? Toda a retidão que ele tiver praticado não será lembrada quando ele Me trair em sua transgressão. Portanto, morrerá nos pecados que ele cometeu. ^v24
 
-**25** Dizeis, porém: O caminho do Senhor não é direito. Ouvi agora, ó casa de Israel: Porventura não é o meu caminho direito? Não são os vossos caminhos tortuosos? ^v25
+**25** Mas vós dizeis: 'O caminho de Yahweh não é justo!'. Ouvi, casa de Israel! Será que os Meus caminhos são injustos? Não serão os vossos caminhos que são injustos? ^v25
 
-**26** Desviando-se o justo da sua justiça, e cometendo iniqüidade, morrerá por ela; na iniqüidade, que cometeu, morrerá. ^v26
+**26** Quando o homem justo desviar-se da sua retidão e cometer iniquidade e morrer por causa dela, então, ele morrerá na iniquidade que ele tiver praticado. ^v26
 
-**27** Mas, convertendo-se o ímpio da impiedade que cometeu, e procedendo com retidão e justiça, conservará este a sua alma em vida. ^v27
+**27** Mas, se um homem perverso se desviar da injustiça que tiver praticado e praticar justiça e retidão, então, preservará a sua vida. ^v27
 
-**28** Pois que reconsidera, e se converte de todas as suas transgressões que cometeu; certamente viverá, não morrerá. ^v28
+**28** Porque ele viu e se desviou de todas as transgressões que fez. Ele, certamente, viverá e não morrerá. ^v28
 
-**29** Contudo, diz a casa de Israel: O caminho do Senhor não é direito. Porventura não são direitos os meus caminhos, ó casa de Israel? E não são tortuosos os vossos caminhos? ^v29
+**29** Mas a casa de Israel diz: 'O caminho de Yahweh não é justo!'. Por que o Meu caminho não é justo, casa de Israel? São os vossos caminhos que não são justos. ^v29
 
-**30** Portanto, eu vos julgarei, cada um conforme os seus caminhos, ó casa de Israel, diz o Senhor DEUS. Tornai-vos, e convertei-vos de todas as vossas transgressões, e a iniqüidade não vos servirá de tropeço. ^v30
+**30** Portanto, julgarei a cada um dentre vós de acordo com os seus caminhos, casa de Israel — assim declara Yahweh Deus. Arrependei-vos e vos desviai de todas as vossas transgressões, para que elas não sejam pedras de tropeço contra vós. ^v30
 
-**31** Lançai de vós todas as vossas transgressões com que transgredistes, e fazei-vos um coração novo e um espírito novo; pois, por que razão morreríeis, ó casa de Israel? ^v31
+**31** Tirai de vós todas as transgressões que cometestes; e tende um novo coração e um novo espírito. Por que devíeis morrer, casa de Israel? ^v31
 
-**32** Porque não tenho prazer na morte do que morre, diz o Senhor DEUS; convertei-vos, pois, e vivei. ^v32
+**32** "Porque não tenho prazer na morte de ninguém — assim declara Yahweh Deus — então, arrependei-vos e vivei!""." ^v32

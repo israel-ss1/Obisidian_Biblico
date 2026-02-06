@@ -1,49 +1,48 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Zacarias|Zacarias]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Zacarias|Zacarias]]"
+tags: [biblia]
 ---
 
 # Zacarias 1
 
-**1** No oitavo mês do segundo ano de Dario veio a palavra do SENHOR ao profeta Zacarias, filho de Baraquias, filho de Ido, dizendo: ^v1
+**1** No oitavo mês do segundo ano do reinado de Dario, a palavra de Yahweh veio a Zacarias, filho de Baraquias, filho de Ido, o profeta. ^v1
 
-**2** O Senhor se irou fortemente contra vossos pais. ^v2
+**2** Yahweh estava extremamente irado com vossos pais! ^v2
 
-**3** Portanto dize-lhes: Assim diz o Senhor dos Exércitos: Tornai-vos para mim, diz o Senhor dos Exércitos, e eu me tornarei para vós, diz o Senhor dos Exércitos. ^v3
+**3** """Dize-lhes: 'Assim diz Yahweh dos Exércitos: Tornai para Mim! — esta é a declaração de Yahweh dos Exércitos. Retornarei para vós — assim diz Yahweh dos Exércitos." ^v3
 
-**4** E não sejais como vossos pais, aos quais clamavam os primeiros profetas, dizendo: Assim diz o Senhor dos Exércitos: Convertei-vos agora dos vossos maus caminhos e das vossas más obras; mas não ouviram, nem me escutaram, diz o Senhor. ^v4
+**4** Não sejais como vossos pais, aos quais outrora os profetas clamaram, dizendo: 'Assim diz Yahweh dos Exércitos: Convertei-vos agora dos vossos maus caminhos e das vossas práticas pecaminosas!'. Mas eles não ouviram e nem prestaram atenção — essa é a declaração de Yahweh. ^v4
 
-**5** Vossos pais, onde estão? E os profetas, viverão eles para sempre? ^v5
+**5** Vossos pais, onde estão eles? Onde estão os vossos profetas? Eles permanecem aqui para sempre? ^v5
 
-**6** Contudo as minhas palavras e os meus estatutos, que eu ordenei aos profetas, meus servos, não alcançaram a vossos pais? E eles voltaram, e disseram: Assim como o Senhor dos Exércitos fez tenção de nos tratar, segundo os nossos caminhos, e segundo as nossas obras, assim ele nos tratou. ^v6
+**6** "Não lhes alcançaram as Minhas palavras e os Meus decretos, que Eu mandei por meio dos Meus servos, os profetas aos vossos pais? Então, arrependeram-se, dizendo: 'O que Yahweh dos Exércitos planejou fazer conosco, segundo o que nossas ações mereciam, assim Ele o fez'""." ^v6
 
-**7** Aos vinte e quatro dias do mês undécimo (que é o mês de Sebate), no segundo ano de Dario, veio a palavra do Senhor ao profeta Zacarias, filho de Baraquias, filho de Ido, dizendo: ^v7
+**7** No vigésimo quarto dia do décimo primeiro mês, que é o mês de Sebate, no segundo ano do reinado de Dario, a palavra de Yahweh veio a Zacarias, filho de Baraquias, filho de Ido, o profeta. ^v7
 
-**8** Olhei de noite, e vi um homem montado num cavalo vermelho; e ele estava parado entre as murtas que estavam na baixada; e atrás dele estavam cavalos vermelhos, malhados e brancos. ^v8
+**8** Eu vi, de noite, um homem, que estava montado num cavalo vermelho; ele estava entre as murteiras do vale e, atrás delas, achavam-se cavalos vermelhos, marrons e brancos. ^v8
 
-**9** E eu disse: Senhor meu, quem são estes? E disse-me o anjo que falava comigo: Eu te mostrarei quem são estes. ^v9
+**9** "Eu disse: ""Senhor, o que são essas coisas?"". Então, o anjo que havia falado comigo me disse: ""Mostrarei a ti o que são essas coisas""." ^v9
 
-**10** Então respondeu o homem que estava entre as murtas, e disse: Estes são os que o Senhor tem enviado para percorrerem a terra. ^v10
+**10** "Então, o homem, que estava de pé no meio das murteiras, me respondeu, dizendo: ""Estes são aqueles que Yahweh têm enviado para percorrer a terra""." ^v10
 
-**11** E eles responderam ao anjo do Senhor, que estava entre as murtas, e disseram: Nós já percorremos a terra, e eis que toda a terra está tranqüila e quieta. ^v11
+**11** "Eles responderam ao anjo de Yahweh que estava entre as murteiras e lhe disseram: ""Estivemos percorrendo a terra; e eis que toda terra ainda está calma, em descanso""." ^v11
 
-**12** Então o anjo do Senhor respondeu, e disse: Ó Senhor dos Exércitos, até quando não terás compaixão de Jerusalém, e das cidades de Judá, contra as quais estiveste irado estes setenta anos? ^v12
+**12** "Então, o anjo de Yahweh respondeu: ""Ó, Yahweh dos Exércitos, até quando não mostrarás compaixão por Jerusalém e pelas cidades de Judá, que têm sofrido indignação nesses setenta anos?""." ^v12
 
-**13** E respondeu o Senhor ao anjo, que falava comigo, com palavras boas, palavras consoladoras. ^v13
+**13** Yahweh respondeu ao anjo que havia falado comigo com palavras bondosas, palavras de conforto. ^v13
 
-**14** E o anjo que falava comigo disse-me: Clama, dizendo: Assim diz o Senhor dos Exércitos: Com grande zelo estou zelando por Jerusalém e por Sião. ^v14
+**14** "Então, o anjo que havia falado comigo me disse: ""Clama e dize: 'Yahweh dos Exércitos diz isto: Tenho sido zeloso por Jerusalém e por Sião com grande compaixão!" ^v14
 
-**15** E com grande indignação estou irado contra os gentios em descanso; porque eu estava pouco indignado, mas eles agravaram o mal. ^v15
+**15** "Estou muito irado com as nações que se sentem seguras. Eu estava apenas um pouco indignado e elas agravaram o mal'""." ^v15
 
-**16** Portanto, assim diz o Senhor: Voltei-me para Jerusalém com misericórdia; nela será edificada a minha casa, diz o Senhor dos Exércitos, e o cordel será estendido sobre Jerusalém: ^v16
+**16** "Portanto, Yahweh dos Exércitos diz: ""Eu Me voltei a Jerusalém com misericórdias. Minha casa será edificada no meio dela — essa é a declaração de Yahweh dos Exércitos — e o cordel de medir será estendido sobre Jerusalém!""." ^v16
 
-**17** Clama outra vez, dizendo: Assim diz o Senhor dos Exércitos: As minhas cidades ainda aumentarão e prosperarão; porque o Senhor ainda consolará a Sião e ainda escolherá a Jerusalém. ^v17
+**17** "Proclama outra vez, dizendo: ""Yahweh dos Exércitos diz isto: 'Minhas cidades novamente transbordarão bens, Yahweh novamente consolará Sião e, novamente, Ele escolherá Jerusalém'""." ^v17
 
-**18** E levantei os meus olhos, e vi, e eis quatro chifres. ^v18
+**18** Então, levantei meus olhos e vi quatro chifres! ^v18
 
-**19** E eu disse ao anjo que falava comigo: Que são estes? E ele me disse: Estes são os chifres que dispersaram a Judá, a Israel e a Jerusalém. ^v19
+**19** "Eu disse ao anjo que falava comigo: ""O que são essas coisas?"". Ele me respondeu: ""São os chifres que dispersaram Judá, Israel e Jerusalém""." ^v19
 
-**20** E o Senhor me mostrou quatro carpinteiros. ^v20
+**20** Então, o Yahweh me mostrou quatro ferreiros. ^v20
 
-**21** Então eu disse: Que vêm estes fazer? E ele falou, dizendo: Estes são os chifres que dispersaram a Judá, de maneira que ninguém pôde levantar a sua cabeça; estes, pois, vieram para os amedrontarem, para derrubarem os chifres dos gentios que levantaram o seu poder contra a terra de Judá, para a espalharem. ^v21
+**21** "Eu Lhe disse: ""O que essas pessoas vieram fazer?"". Ele me respondeu, dizendo: ""Aqueles são os chifres que dispersaram Judá, até que nenhum homem pudesse levantar sua cabeça. Mas essas pessoas estão vindo para expulsá-los e para derrubar os chifres das nações que levantaram qualquer chifre contra a terra de Judá para dispersá-la""." ^v21

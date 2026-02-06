@@ -1,29 +1,26 @@
 ---
-Livro: "[[Salmos|Salmos]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Salmos|Salmos]]"
+tags: [biblia]
 ---
 
 # Salmos 58
 
-**1** Acaso falais vós, deveras, ó congregação, a justiça? Julgais retamente, ó filhos dos homens? ^v1
+**2** Não! Vós cometeis maldade em vossos corações; com as vossas mãos espalhais violência sobre a terra. ^v2
 
-**2** Antes no coração forjais iniqüidades; sobre a terra pesais a violência das vossas mãos. ^v2
+**3** Os ímpios se desviam desde o ventre; eles erram o caminho desde que nasceram, falando mentiras. ^v3
 
-**3** Alienam-se os ímpios desde a madre; andam errados desde que nasceram, falando mentiras. ^v3
+**4** O veneno deles é como o veneno de cobra; eles são como a víbora surda, que tapa seus ouvidos ^v4
 
-**4** O seu veneno é semelhante ao veneno da serpente; são como a víbora surda, que tapa os ouvidos, ^v4
+**5** para não ouvir a voz dos encantadores, não importa o quão habilidosos sejam. ^v5
 
-**5** Para não ouvir a voz dos encantadores, do encantador sábio em encantamentos. ^v5
+**6** Quebra os dentes deles em suas bocas, ó Deus; arranca os caninos dos leões jovens, Yahweh. ^v6
 
-**6** Ó Deus, quebra-lhes os dentes nas suas bocas; arranca, Senhor, os queixais aos filhos dos leões. ^v6
+**7** Que eles escorram como as águas que escorrem continuamente; quando eles armarem suas flechas, que elas fiquem sem pontas. ^v7
 
-**7** Escorram como águas que correm constantemente. Quando ele armar as suas flechas, fiquem feitas em pedaços. ^v7
+**8** Sejam como a lesma que se derrete enquanto vai, como uma criança abortada que nunca viu a luz do sol. ^v8
 
-**8** Como a lesma se derrete, assim se vá cada um deles; como o aborto duma mulher, que nunca viu o sol. ^v8
+**9** Antes que vossas panelas sintam o calor dos espinhos, Ele os arrancará como um redemoinho de vento, tanto os espinhos verdes como os secos. ^v9
 
-**9** Antes que as vossas panelas sintam o calor dos espinhos, como por um redemoinho os arrebatará ele, vivo e em indignação. ^v9
+**10** O justo se alegrará quando vir a vingança de Deus; lavará seus pés no sangue dos maus, ^v10
 
-**10** O justo se alegrará quando vir a vingança; lavará os seus pés no sangue do ímpio. ^v10
-
-**11** Então dirá o homem: Deveras há uma recompensa para o justo; deveras há um Deus que julga na terra. ^v11
+**11** "para que os homens digam: ""Certamente, há uma recompensa para o justo; certamente, há um Deus que julga a terra.""" ^v11

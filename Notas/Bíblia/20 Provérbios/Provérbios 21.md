@@ -1,69 +1,68 @@
 ---
-Livro: "[[Provérbios|Provérbios]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Provérbios|Provérbios]]"
+tags: [biblia]
 ---
 
 # Provérbios 21
 
-**1** Como ribeiros de águas assim é o coração do rei na mão do SENHOR, que o inclina a todo o seu querer. ^v1
+**1** O coração do rei é uma corrente de água na mão de Yahweh; Ele o dirige para onde deseja. ^v1
 
-**2** Todo caminho do homem é reto aos seus olhos, mas o Senhor sonda os corações. ^v2
+**2** O caminho de cada um parece correto aos seus próprios olhos, mas é Yahweh que sonda os corações. ^v2
 
-**3** Fazer justiça e juízo é mais aceitável ao Senhor do que sacrifício. ^v3
+**3** Fazer o que é correto e justo é mais aceitável para Yahweh do que o sacrifício. ^v3
 
-**4** Os olhos altivos, o coração orgulhoso e a lavoura dos ímpios é pecado. ^v4
+**4** Os olhos altivos e o coração orgulhoso — a lâmpada dos corruptos — são pecado. ^v4
 
-**5** Os pensamentos do diligente tendem só para a abundância, porém os de todo apressado, tão-somente para a pobreza. ^v5
+**5** Os planos do diligente, certamente, conduzem à prosperidade, mas quem se apressa excessivamente se dirige à pobreza. ^v5
 
-**6** Trabalhar com língua falsa para ajuntar tesouros é vaidade que conduz aqueles que buscam a morte. ^v6
+**6** Adquirir riquezas por meio da língua mentirosa é neblina passageira e um laço que mata. ^v6
 
-**7** As rapinas dos ímpios os destruirão, porquanto se recusam a fazer justiça. ^v7
+**7** A violência dos maus os varrerá, porque se recusam a fazer o que é justo. ^v7
 
-**8** O caminho do homem é todo perverso e estranho, porém a obra do homem puro é reta. ^v8
+**8** O caminho do culpado é tortuoso, mas aquele que é puro faz o que é correto. ^v8
 
-**9** É melhor morar num canto de telhado do que ter como companheira em casa ampla uma mulher briguenta. ^v9
+**9** É melhor viver num canto do terraço que na casa compartilhada com uma esposa briguenta. ^v9
 
-**10** A alma do ímpio deseja o mal; o seu próximo não agrada aos seus olhos. ^v10
+**10** O coração dos corruptos anseia o mal; seu vizinho não acha favor em seus olhos. ^v10
 
-**11** Quando o escarnecedor é castigado, o simples torna-se sábio; e o sábio quando é instruído recebe o conhecimento. ^v11
+**11** Quando o zombador é punido, o simples se torna sábio, e quando o sábio é instruído, ele recebe o conhecimento. ^v11
 
-**12** O justo considera com prudência a casa do ímpio; mas Deus destrói os ímpios por causa dos seus males. ^v12
+**12** Deus, o Justo, observa a casa do corrupto e leva os maus à ruína. ^v12
 
-**13** O que tapa o seu ouvido ao clamor do pobre, ele mesmo também clamará e não será ouvido. ^v13
+**13** Aquele que tapa os ouvidos ao clamor do pobre também clamará, mas não será ouvido. ^v13
 
-**14** O presente dado em segredo aplaca a ira, e a dádiva no regaço põe fim à maior indignação. ^v14
+**14** Um presente entregue em secreto abranda a ira, um presente às escondidas aplaca o grande furor. ^v14
 
-**15** O fazer justiça é alegria para o justo, mas destruição para os que praticam a iniqüidade. ^v15
+**15** Quando a justiça é feita, ela traz alegria ao justo, mas traz terror para os malfeitores. ^v15
 
-**16** O homem que anda desviado do caminho do entendimento, na congregação dos mortos repousará. ^v16
+**16** Aquele que vagueia afastando-se do caminho do entendimento descansará na assembleia dos mortos. ^v16
 
-**17** O que ama os prazeres padecerá necessidade; o que ama o vinho e o azeite nunca enriquecerá. ^v17
+**17** Quem ama o prazer se tornará pobre; aquele que ama o vinho e o azeite não será rico. ^v17
 
-**18** O resgate do justo é o ímpio; o do honrado é o perverso. ^v18
+**18** O corrupto é a redenção para o justo, e o traiçoeiro é a redenção para os que são corretos. ^v18
 
-**19** É melhor morar numa terra deserta do que com a mulher rixosa e irritadiça. ^v19
+**19** É melhor viver no deserto do que com uma esposa briguenta e raivosa. ^v19
 
-**20** Tesouro desejável e azeite há na casa do sábio, mas o homem insensato os esgota. ^v20
+**20** Há azeite e tesouro precioso na casa do sábio, mas o homem insensato os devora por completo. ^v20
 
-**21** O que segue a justiça e a beneficência achará a vida, a justiça e a honra. ^v21
+**21** Aquele que pratica o que é justo e é benevolente encontra vida, justiça e honra. ^v21
 
-**22** O sábio escala a cidade do poderoso e derruba a força da sua confiança. ^v22
+**22** O homem sábio escala a cidade dos poderosos e derruba a fortaleza em que confiavam. ^v22
 
-**23** O que guarda a sua boca e a sua língua guarda a sua alma das angústias. ^v23
+**23** Quem guarda sua boca e sua língua mantém-se longe de aflições. ^v23
 
-**24** O soberbo e presumido, zombador é o seu nome, trata com indignação e soberba. ^v24
+**24** "O orgulhoso e altivo — cujo nome é ""Zombador"" — atua com orgulho arrogante." ^v24
 
-**25** O desejo do preguiçoso o mata, porque as suas mãos recusam trabalhar. ^v25
+**25** O desejo do preguiçoso o mata, porque as suas mãos se recusam a trabalhar. ^v25
 
-**26** O cobiçoso cobiça o dia todo, mas o justo dá, e nada retém. ^v26
+**26** Todo o dia, ele anseia por mais e mais, mas aquele que é justo dá e não retém para si. ^v26
 
-**27** O sacrifício dos ímpios já é abominação; quanto mais oferecendo-o com má intenção! ^v27
+**27** O sacrifício do corrupto já é detestável; torna-se mais ainda quando é oferecido com intenções malignas. ^v27
 
-**28** A falsa testemunha perecerá, porém o homem que dá ouvidos falará sempre. ^v28
+**28** A falsa testemunha perecerá, mas aquele que escuta falará por todo o tempo. ^v28
 
-**29** O homem ímpio endurece o seu rosto; mas o reto considera o seu caminho. ^v29
+**29** O homem mau se mostra com uma face dura, mas a pessoa correta tem certeza de seus caminhos. ^v29
 
-**30** Não há sabedoria, nem inteligência, nem conselho contra o Senhor. ^v30
+**30** Não há sabedoria, nem entendimento, nem conselho que possa permanecer contra Yahweh. ^v30
 
-**31** Prepara-se o cavalo para o dia da batalha, porém do Senhor vem a vitória. ^v31
+**31** O cavalo é preparado para o dia da batalha, mas a vitória vem de Yahweh. ^v31

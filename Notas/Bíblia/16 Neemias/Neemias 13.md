@@ -1,69 +1,68 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Neemias|Neemias]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Neemias|Neemias]]"
+tags: [biblia]
 ---
 
 # Neemias 13
 
-**1** Naquele dia leu-se no livro de Moisés, aos ouvidos do povo; e achou-se escrito nele que os amonitas e os moabitas não entrassem jamais na congregação de Deus, ^v1
+**1** Naquele dia, eles leram o livro de Moisés diante do povo. Foi encontrado nos escritos que nenhum dos amonitas ou moabitas deveria juntar-se ao povo de Deus, para sempre. ^v1
 
-**2** Porquanto não tinham saído ao encontro dos filhos de Israel com pão e água; antes contra eles assalariaram a Balaão para os amaldiçoar; porém o nosso Deus converteu a maldição em bênção. ^v2
+**2** Isso ocorreu porque eles não vieram até o povo de Israel com pão e com água, mas contrataram Balaão para amaldiçoar Israel. Contudo, nosso Deus transformou a maldição em bênção. ^v2
 
-**3** Sucedeu, pois, que, ouvindo eles esta lei, apartaram de Israel todo o elemento misto. ^v3
+**3** Assim que eles ouviram a Lei, separaram de Israel cada pessoa estrangeira. ^v3
 
-**4** Ora, antes disto, Eliasibe, sacerdote, que presidia sobre a câmara da casa do nosso Deus, se tinha aparentado com Tobias; ^v4
+**4** Antes disso, o sacerdote Eliasibe tinha sido encarregado dos depósitos da casa do nosso Deus. Ele era parente de Tobias. ^v4
 
-**5** E fizera-lhe uma câmara grande, onde dantes se depositavam as ofertas de alimentos, o incenso, os utensílios, os dízimos do grão, do mosto e do azeite, que se ordenaram para os levitas, cantores e porteiros, como também a oferta alçada para os sacerdotes. ^v5
+**5** Eliasibe preparou para Tobias uma sala grande onde, anteriormente, eles guardavam as ofertas de cereais, o incenso, os utensílios, os dízimos dos cereais, vinho novo e o óleo, que foram designados para os levitas, os cantores, os porteiros, e as contribuições para os sacerdotes. ^v5
 
-**6** Mas durante tudo isto não estava eu em Jerusalém, porque no ano trinta e dois de Artaxerxes, rei de babilônia, fui ter com o rei; mas após alguns dias tornei a alcançar licença do rei. ^v6
+**6** Mas, durante todo esse tempo, eu não estava em Jerusalém. No trigésimo segundo ano do reinado de Artaxerxes, rei da Babilônia, fui ao rei. Depois de algum tempo, pedi ao rei permissão para partir, ^v6
 
-**7** E voltando a Jerusalém, compreendi o mal que Eliasibe fizera para Tobias, fazendo-lhe uma câmara nos pátios da casa de Deus. ^v7
+**7** e, então, retornei para Jerusalém. Eu percebi o mal que Eliasibe havia feito, dando a Tobias uma sala no pátio da casa de Deus. ^v7
 
-**8** O que muito me desagradou; de sorte que lancei todos os móveis da casa de Tobias fora da câmara. ^v8
+**8** Eu estava muito irado e lancei todos os artigos domésticos da casa de Tobias para fora da sala. ^v8
 
-**9** E, ordenando-o eu, purificaram as câmaras; e tornei a trazer para ali os utensílios da casa de Deus, com as ofertas de alimentos e o incenso. ^v9
+**9** Ordenei que purificassem as salas e recoloquei nelas os utensílios da casa de Deus, as ofertas de cereais e o incenso. ^v9
 
-**10** Também entendi que os quinhões dos levitas não se lhes davam, de maneira que os levitas e os cantores, que faziam a obra, tinham fugido cada um para a sua terra. ^v10
+**10** Fiquei sabendo que as porções dos levitas não lhes estavam sendo dadas, e que retornaram cada um para o seu campo, os levitas e os cantores que faziam a obra. ^v10
 
-**11** Então contendi com os magistrados, e disse: Por que se desamparou a casa de Deus? Porém eu os ajuntei, e os restaurei no seu posto. ^v11
+**11** "Então, confrontei os oficiais e disse: ""Por que a casa de Deus é negligenciada?"". Juntei-os e os coloquei nos seus postos." ^v11
 
-**12** Então todo o Judá trouxe os dízimos do grão, do mosto e do azeite aos celeiros. ^v12
+**12** Então, todo o Judá trouxe o dízimo dos cereais, o vinho novo e o azeite para os depósitos. ^v12
 
-**13** E por tesoureiros pus sobre os celeiros a Selemias, o sacerdote, e a Zadoque, o escrivão e a Pedaías, dentre os levitas; e com eles Hanã, filho de Zacur, o filho de Matanias; porque foram achados fiéis; e se lhes encarregou a eles a distribuição para seus irmãos. ^v13
+**13** Designei como tesoureiros dos depósitos Selemias, o sacerdote, e Zadoque, o escriba; e dos levitas, Pedaías. Junto a eles estavam Hanã, filho de Zacur, filho de Matanias, pois eram considerados confiáveis. Seus deveres eram distribuir os suprimentos a seus colegas. ^v13
 
-**14** Por isto, Deus meu, lembra-te de mim e não risques as beneficências que eu fiz à casa de meu Deus e às suas observâncias. ^v14
+**14** Lembra-te, meu Deus, a respeito disso e não esqueças as boas obras que fiz para a casa de Deus e seus cultos. ^v14
 
-**15** Naqueles dias vi em Judá os que pisavam lagares ao sábado e traziam feixes que carregavam sobre os jumentos; como também vinho, uvas e figos, e toda a espécie de cargas, que traziam a Jerusalém no dia de sábado; e protestei contra eles no dia em que vendiam mantimentos. ^v15
+**15** Naqueles dias, vi em Judá o povo pisando lagar no sábado, trazendo montões de cereais que eram carregados sobre os jumentos como também vinho, uvas, figos e todo tipo de carga pesada que traziam à Jerusalém no dia de sábado. Eu protestei por estarem vendendo alimento naquele dia. ^v15
 
-**16** Também habitavam em Jerusalém tírios que traziam peixe e toda a mercadoria, que vendiam no sábado aos filhos de Judá, e em Jerusalém. ^v16
+**16** Homens de Tiro que moravam em Jerusalém trouxeram peixes e todo o tipo de mercadorias e as vendiam no sábado para as pessoas de Judá e na cidade! ^v16
 
-**17** E contendi com os nobres de Judá, e lhes disse: Que mal é este que fazeis, profanando o dia de sábado? ^v17
+**17** "Então, confrontei os líderes de Judá: ""Que mal é este que estais fazendo, profanando o dia de sábado?" ^v17
 
-**18** Porventura não fizeram vossos pais assim, e não trouxe o nosso Deus todo este mal sobre nós e sobre esta cidade? E vós ainda mais acrescentais o ardor de sua ira sobre Israel, profanando o sábado. ^v18
+**18** "Acaso vossos pais também não fizeram isso? E nosso Deus não trouxe todo este mal sobre nós e sobre esta cidade? Agora, estais trazendo ira sobre Israel, profanando o sábado""." ^v18
 
-**19** Sucedeu, pois, que, dando já sombra nas portas de Jerusalém antes do sábado, ordenei que as portas fossem fechadas; e mandei que não as abrissem até passado o sábado; e pus às portas alguns de meus servos, para que nenhuma carga entrasse no dia de sábado. ^v19
+**19** Quando escureceu sobre os portões de Jerusalém, antes do sábado, ordenei que as portas fossem fechadas e que não fossem abertas até depois do sábado. Posicionei alguns dos meus servos nos portões, para que nenhuma carga pudesse entrar no dia de sábado. ^v19
 
-**20** Então os negociantes e os vendedores de toda a mercadoria passaram a noite fora de Jerusalém, uma ou duas vezes. ^v20
+**20** Os mercadores e vendedores de todos os tipos de mercadorias acamparam fora de Jerusalém uma ou duas vezes. ^v20
 
-**21** Protestei, pois, contra eles, e lhes disse: Por que passais a noite defronte do muro? Se outra vez o fizerdes, hei de lançar mão de vós. Daquele tempo em diante não vieram no sábado. ^v21
+**21** "Mas eu lhes avisei: ""Por que vós acampastes fora do muro? Se o fizerdes novamente, eu lançarei mão sobre vós!"". Daquele tempo em diante, não tornaram a vir no sábado." ^v21
 
-**22** Também disse aos levitas que se purificassem, e viessem guardar as portas, para santificar o sábado. Nisto também, Deus meu, lembra-te de mim e perdoa-me segundo a abundância da tua benignidade. ^v22
+**22** Então, ordenei aos levitas que se purificassem e viessem guardar as portas, para santificar o dia de sábado. Também nisso, Deus meu, lembra-te de mim; e tem misericórdia de mim, por causa da Aliança de lealdade que tens mostrado a mim. ^v22
 
-**23** Vi também naqueles dias judeus que tinham casado com mulheres asdoditas, amonitas e moabitas. ^v23
+**23** Naqueles dias, também vi Judeus que haviam se casado com mulheres de Asdode, Amom e Moabe. ^v23
 
-**24** E seus filhos falavam meio asdodita, e não podiam falar judaico, senão segundo a língua de cada povo. ^v24
+**24** Metade dos filhos deles falavam a língua de Asdode. Nenhum deles podia falar a língua de Judá, mas somente a língua de um dos outros povos. ^v24
 
-**25** E contendi com eles, e os amaldiçoei e espanquei alguns deles, e lhes arranquei os cabelos, e os fiz jurar por Deus, dizendo: Não dareis mais vossas filhas a seus filhos, e não tomareis mais suas filhas, nem para vossos filhos nem para vós mesmos. ^v25
+**25** "Eu os confrontei e os amaldiçoei, bati em alguns deles e arranquei-lhes os cabelos. Eu os fiz jurar por Deus, dizendo: ""Não deis vossas filhas aos filhos deles, nem tomareis as filhas deles para os vossos filhos." ^v25
 
-**26** Porventura não pecou nisto Salomão, rei de Israel, não havendo entre muitas nações rei semelhante a ele, e sendo ele amado de seu Deus, e pondo-o Deus rei sobre todo o Israel? E contudo as mulheres estrangeiras o fizeram pecar. ^v26
+**26** Salomão, rei de Israel, não pecou por causa dessas mulheres? Entre muitas nações não havia rei como ele, e ele foi amado pelo seu Deus, e Deus o fez rei sobre todo o Israel. No entanto, suas esposas estrangeiras fizeram com que ele pecasse. ^v26
 
-**27** E dar-vos-íamos nós ouvidos, para fazermos todo este grande mal, prevaricando contra o nosso Deus, casando com mulheres estrangeiras? ^v27
+**27** "Deveríamos, então, escutar-vos, fazer todo esse mal e agir de maneira traiçoeira contra nosso Deus, casando-nos com mulheres estrangeiras?""." ^v27
 
-**28** Também um dos filhos de Joiada, filho de Eliasibe, o sumo sacerdote, era genro de Sambalate, o horonita, por isso o afugentei de mim. ^v28
+**28** Um dos filhos de Joiada, filho de Eliasibe, o sumo sacerdote, era genro de Sambalate, o horonita. Por isso fiz com que ele fugisse da minha presença. ^v28
 
-**29** Lembra-te deles, Deus meu, pois contaminaram o sacerdócio, como também a aliança do sacerdócio e dos levitas. ^v29
+**29** Lembra-te deles, meu Deus, porque contaminaram o sacerdócio, a aliança do sacerdócio e os levitas. ^v29
 
-**30** Assim os limpei de todo o estrangeiro, e designei os cargos dos sacerdotes e dos levitas, cada um na sua obra. ^v30
+**30** Assim, eu os purifiquei de todas as coisas estrangeiras e estabeleci deveres para os sacerdotes e os levitas, cada um na sua própria tarefa. ^v30
 
-**31** Como também para com as ofertas de lenha em tempos determinados, e para com as primícias; lembra-te de mim, Deus meu, para bem. ^v31
+**31** Providenciei também deveres para a oferta de madeiras nos tempos designados e para as prímicias. Lembra-te de mim, meu Deus, para meu o bem. ^v31

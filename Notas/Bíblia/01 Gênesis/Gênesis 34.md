@@ -1,69 +1,68 @@
 ---
-Livro: "[[Gênesis|Gênesis]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Gênesis|Gênesis]]"
+tags: [biblia]
 ---
 
 # Gênesis 34
 
-**1** E saiu Diná, filha de Lia, que esta dera a Jacó, para ver as filhas da terra. ^v1
+**1** Então Diná, a filha que Lia teve de Jacó, saiu para conhecer as filhas da terra. ^v1
 
-**2** E Siquém, filho de Hamor, heveu, príncipe daquela terra, viu-a, e tomou-a, e deitou-se com ela, e humilhou-a. ^v2
+**2** Siquém, filho de Hamor, o heveu, príncipe da terra, a viu, a agarrou, a tomou e a violentou. ^v2
 
-**3** E apegou-se a sua alma com Diná, filha de Jacó, e amou a moça e falou afetuosamente à moça. ^v3
+**3** Ele se apaixonou por Diná, a filha de Jacó, e falou ternamente a ela. ^v3
 
-**4** Falou também Siquém a Hamor, seu pai, dizendo: Toma-me esta moça por mulher. ^v4
+**4** "Siquém disse a seu pai Hamor: ""Consegue-me esta mulher para que seja minha esposa""." ^v4
 
-**5** Quando Jacó ouviu que Diná, sua filha, fora violada, estavam os seus filhos no campo com o gado; e calou-se Jacó até que viessem. ^v5
+**5** Jacó ouviu que ele corrompeu a Diná, sua filha. Seus filhos estavam no campo com os rebanhos; Jacó calou-se até eles voltarem. ^v5
 
-**6** E saiu Hamor, pai de Siquém, a Jacó, para falar com ele. ^v6
+**6** Hamor, o pai de Siquém, saiu para falar com Jacó. ^v6
 
-**7** E vieram os filhos de Jacó do campo, ouvindo isso, e entristeceram-se os homens, e iraram-se muito, porquanto Siquém cometera uma insensatez em Israel, deitando-se com a filha de Jacó; o que não se devia fazer assim. ^v7
+**7** Os filhos de Jacó voltaram do campo e ouviram sobre o ocorrido. Eles ficaram furiosos, estavam indignados porque ele havia desgraçado Israel, violentando a filha de Jacó, algo que não deveria ter sido feito. ^v7
 
-**8** Então falou Hamor com eles, dizendo: A alma de Siquém, meu filho, está enamorada da vossa filha; dai-lha, peço-vos, por mulher; ^v8
+**8** "Hamor falou-lhes, dizendo: ""Meu filho Siquém ama vossa filha. Por favor, entreguem-na a ele para que seja sua esposa." ^v8
 
-**9** E aparentai-vos conosco, dai-nos as vossas filhas, e tomai as nossas filhas para vós; ^v9
+**9** Fazei aliança conosco, dai-nos vossas filhas, e tomai nossas filhas para vós. ^v9
 
-**10** E habitareis conosco; e a terra estará diante de vós; habitai e negociai nela, e tomai possessão nela. ^v10
+**10** "Vós vivereis conosco e a terra estará disponível para que vivais, comercializeis e adquirais propriedades""." ^v10
 
-**11** E disse Siquém ao pai dela, e aos irmãos dela: Ache eu graça em vossos olhos, e darei o que me disserdes; ^v11
+**11** "Siquém disse ao pai e aos irmãos de Diná: ""Deixai-me encontrar favor aos vossos olhos e o que me pedirem eu vos darei." ^v11
 
-**12** Aumentai muito sobre mim o dote e a dádiva e darei o que me disserdes; dai-me somente a moça por mulher. ^v12
+**12** Pedi-me o que vós quereis pela noiva e eu vos darei o que me pedirem, mas dai-me a mulher para que seja minha esposa. ^v12
 
-**13** Então responderam os filhos de Jacó a Siquém e a Hamor, seu pai, enganosamente, e falaram, porquanto havia violado a Diná, sua irmã. ^v13
+**13** Os filhos de Jacó responderam a Siquém e Hamor com falsidade por causa do que Siquém havia feito com Diná, irmã deles. ^v13
 
-**14** E disseram-lhe: Não podemos fazer isso, dar a nossa irmã a um homem não circuncidado; porque isso seria uma vergonha para nós; ^v14
+**14** "Eles disseram: ""Nós não podemos fazer isso: dar nossa irmã a qualquer um que esteja incircunciso, isso seria uma desgraça para nós." ^v14
 
-**15** Nisso, porém, consentiremos a vós: se fordes como nós; que se circuncide todo o homem entre vós; ^v15
+**15** A única condição para aceitarmos é que vos circuncideis como nós, e que cada homem do vosso povo seja circuncidado. ^v15
 
-**16** Então dar-vos-emos as nossas filhas, e tomaremos nós as vossas filhas, e habitaremos convosco, e seremos um povo; ^v16
+**16** Então nós vos daremos as nossas filhas e tomaremos as vossas filhas para nós, assim viveremos convosco e nos tornaremos um só povo. ^v16
 
-**17** Mas se não nos ouvirdes, e não vos circuncidardes, tomaremos a nossa filha e ir-nos-emos. ^v17
+**17** "Mas, se vós não nos ouvirdes e não vos circuncidardes, tomaremos de volta nossa irmã e partiremos.""" ^v17
 
-**18** E suas palavras foram boas aos olhos de Hamor, e aos olhos de Siquém, filho de Hamor. ^v18
+**18** Essas palavras agradaram a Hamor e a seu filho Siquém. ^v18
 
-**19** E não tardou o jovem em fazer isto; porque a filha de Jacó lhe contentava; e ele era o mais honrado de toda a casa de seu pai. ^v19
+**19** O jovem não tardou em fazer o que eles disseram porque ele gostava da filha de Jacó e porque ele era a pessoa mais honrada da casa de seu pai. ^v19
 
-**20** Veio, pois, Hamor e Siquém, seu filho, à porta da sua cidade, e falaram aos homens da sua cidade, dizendo: ^v20
+**20** Hamor e o filho Siquém foram ao portão de sua cidade e falaram com todos os homens, dizendo: ^v20
 
-**21** Estes homens são pacíficos conosco; portanto habitarão nesta terra, e negociarão nela; eis que a terra é larga de espaço para eles; tomaremos nós as suas filhas por mulheres, e lhes daremos as nossas filhas. ^v21
+**21** """Estes homens estão em paz conosco, deixai-os viver na terra e deixai-os fazer negócios, a terra é suficientemente grande para eles. Tomemos suas filhas como esposas e entreguemos-lhes as nossas filhas." ^v21
 
-**22** Nisto, porém, consentirão aqueles homens, em habitar conosco, para que sejamos um povo, se todo o homem entre nós se circuncidar, como eles são circuncidados. ^v22
+**22** Esta foi a única condição com a qual os homens concordaram para viverem conosco e nos tornarmos um só povo: Se cada homem entre nós for circuncidado, assim como eles o são. ^v22
 
-**23** E seu gado, as suas possessões, e todos os seus animais não serão nossos? Consintamos somente com eles e habitarão conosco. ^v23
+**23** "Não serão todos os seus rebanhos e suas propriedades também nossos? Vamos entrar em acordo e então eles viverão conosco""." ^v23
 
-**24** E deram ouvidos a Hamor e a Siquém, seu filho, todos os que saíam da porta da cidade; e foi circuncidado todo o homem, de todos os que saíam pela porta da sua cidade. ^v24
+**24** Todos os homens da cidade ouviram Hamor e Siquém, seu filho. E cada homem foi circuncidado. ^v24
 
-**25** E aconteceu que, ao terceiro dia, quando estavam com a mais violenta dor, os dois filhos de Jacó, Simeão e Levi, irmãos de Diná, tomaram cada um a sua espada, e entraram afoitamente na cidade, e mataram todos os homens. ^v25
+**25** No terceiro dia, quando eles estavam ainda com dores, dois filhos de Jacó, Simeão e Levi, irmãos de Diná, tomaram suas espadas, entraram silenciosamente na cidade e mataram todos os homens. ^v25
 
-**26** Mataram também ao fio da espada a Hamor, e a seu filho Siquém; e tomaram a Diná da casa de Siquém, e saíram. ^v26
+**26** Também mataram Hamor e Siquém, seu filho, ao fio da espada e tiraram Diná da casa de Siquém e foram embora. ^v26
 
-**27** Vieram os filhos de Jacó aos mortos e saquearam a cidade; porquanto violaram a sua irmã. ^v27
+**27** Os outros filhos de Jacó foram até onde estavam os corpos e saquearam a cidade porque o povo havia desonrado a irmã deles. ^v27
 
-**28** As suas ovelhas, e as suas vacas, e os seus jumentos, e o que havia na cidade e no campo, tomaram. ^v28
+**28** Eles tomaram seus rebanhos, manadas, jumentos e todas as coisas que havia na cidade e nos campos ao redor, ^v28
 
-**29** E todos os seus bens, e todos os seus meninos, e as suas mulheres, levaram presos, e saquearam tudo o que havia em casa. ^v29
+**29** todas as suas riquezas. Todas as crianças e suas esposas foram capturadas. Eles tomaram  todas as coisas que estavam em suas casas. ^v29
 
-**30** Então disse Jacó a Simeão e a Levi: Tendes-me turbado, fazendo-me cheirar mal entre os moradores desta terra, entre os cananeus e perizeus; tendo eu pouco povo em número, eles ajuntar-se-ão, e serei destruído, eu e minha casa. ^v30
+**30** "Jacó disse a Simeão e a Levi: ""Vós causastes grandes problemas para mim, fazendo com que os habitantes desta terra, cananeus e perizeus, me odeiem. Como somos em pouco número, se eles se juntarem para me atacar, irão destruir a mim e a minha casa""." ^v30
 
-**31** E eles disseram: Devia ele tratar a nossa irmã como a uma prostituta? ^v31
+**31** "Mas Simeão e Levi disseram: ""Deveria Siquém ter tratado nossa irmã como uma prostituta?""" ^v31

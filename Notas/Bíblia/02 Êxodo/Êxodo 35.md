@@ -1,77 +1,76 @@
 ---
-Livro: "[[Êxodo|Êxodo]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Êxodo|Êxodo]]"
+tags: [biblia]
 ---
 
 # Êxodo 35
 
-**1** Então Moisés convocou toda a congregação dos filhos de Israel, e disse-lhes: Estas são as palavras que o SENHOR ordenou que se cumprissem. ^v1
+**1** "Moisés reuniu toda a comunidade dos filhos de Israel e lhes disse: ""Estas são as coisas que Yahweh vos ordenou fazer." ^v1
 
-**2** Seis dias se trabalhará, mas o sétimo dia vos será santo, o sábado do repouso ao Senhor; todo aquele que nele fizer qualquer trabalho morrerá. ^v2
+**2** Em seis dias, qualquer trabalho poderá ser feito, todavia, para vós, o sétimo dia será um dia santificado. O dia de sábado será para descansar; é dia santo para Yahweh. Qualquer um que realizar algum trabalho nesse dia deverá morrer. ^v2
 
-**3** Não acendereis fogo em nenhuma das vossas moradas no dia do sábado. ^v3
+**3** "Vós não podereis nem ao menos acender fogo em vossas casas no dia de sábado""." ^v3
 
-**4** Falou mais Moisés a toda a congregação dos filhos de Israel, dizendo: Esta é a palavra que o Senhor ordenou, dizendo: ^v4
+**4** "Moisé falou a toda comunidade de Israel: ""Isto foi o que Yahweh ordenou:" ^v4
 
-**5** Tomai do que tendes, uma oferta para o Senhor; cada um, cujo coração é voluntariamente disposto, a trará por oferta alçada ao Senhor: ouro, prata e cobre, ^v5
+**5** 'separai uma oferta para Yahweh, todos vós que tendes um coração disposto. Trazei uma oferta para Yahweh — ouro, prata, bronze; ^v5
 
-**6** Como também azul, púrpura, carmesim, linho fino, pêlos de cabras, ^v6
+**6** lã azul, roxa e vermelha e linho fino; pelos de cabra; ^v6
 
-**7** E peles de carneiros, tintas de vermelho, e peles de texugos, madeira de acácia, ^v7
+**7** peles de carneiro tingidas de vermelho e couro fino; madeira de acácia; ^v7
 
-**8** E azeite para a luminária, e especiarias para o azeite da unção, e para o incenso aromático. ^v8
+**8** azeite para as lamparinas do santuário, especiarias para o óleo da unção e fragrância de incenso; ^v8
 
-**9** E pedras de ônix, e pedras de engaste, para o éfode e para o peitoral. ^v9
+**9** pedras de ônix e outras pedras preciosas para serem colocadas no colete e no peitoral da veste sacerdotal. ^v9
 
-**10** E venham todos os sábios de coração entre vós, e façam tudo o que o Senhor tem mandado; ^v10
+**10** Todo homem habilidoso entre vós virá e fará tudo o que Yahweh ordenou — ^v10
 
-**11** O tabernáculo, a sua tenda e a sua coberta, os seus colchetes e as suas tábuas, as suas barras, as suas colunas, e as suas bases; ^v11
+**11** o tabernáculo, com sua tenda, sua cobertura, seus colchetes, suas armações, barras, seus postes e suas bases; ^v11
 
-**12** A arca e os seus varais, o propiciatório e o véu de cobertura, ^v12
+**12** também a arca, com suas varas para transportá-la, a tampa da expiação e a cortina para cobri-la. ^v12
 
-**13** A mesa e os seus varais, e todos os seus pertences; e os pães da proposição, ^v13
+**13** A mesa, com as varas para transporte com todos os seus utensílios e os pães da presença. ^v13
 
-**14** E o candelabro da luminária, e os seus utensílios, e as suas lâmpadas, e o azeite para a luminária, ^v14
+**14** O candelabro das luzes, com seus acessórios, suas lâmpadas e o azeite para as lâmpadas; ^v14
 
-**15** E o altar do incenso e os seus varais, e o azeite da unção, e o incenso aromático, e a cortina da porta para a entrada do tabernáculo, ^v15
+**15** o altar de incenso, com suas varas para transporte, o óleo da unção e as fragrâncias de incensos; a cortina para a entrada do tabernáculo; ^v15
 
-**16** O altar do holocausto, e o crivo de cobre, os seus varais, e todos os seus pertences, a pia e a sua base, ^v16
+**16** o altar para as ofertas queimadas, com suas grelhas de bronze e varas para o seu transporte e todos os utensílios; a grande bacia de bronze, com sua base. ^v16
 
-**17** As cortinas do pátio, as suas colunas e as suas bases, e o reposteiro da porta do pátio, ^v17
+**17** As cortinas externas da entrada do pátio, com suas colunas e bases e a cortina para a entrada do pátio; ^v17
 
-**18** As estacas do tabernáculo, e as estacas do pátio, e as suas cordas, ^v18
+**18** as estacas do tabernáculo e do pátio, junto com suas cordas; ^v18
 
-**19** As vestes do ministério para ministrar no santuário, as vestes santas de Arão o sacerdote, e as vestes de seus filhos, para administrarem o sacerdócio. ^v19
+**19** "as vestes finamente tecidas para servir no lugar santo, as vestes sagradas para Arão, o sacerdote, e seus filhos, para que eles sirvam como sacerdotes""." ^v19
 
-**20** Então toda a congregação dos filhos de Israel saiu da presença de Moisés, ^v20
+**20** Então, todas as tribos de Israel partiram e se afastaram da presença de Moisés. ^v20
 
-**21** E veio todo o homem, a quem o seu coração moveu, e todo aquele cujo espírito voluntariamente o excitou, e trouxeram a oferta alçada ao Senhor para a obra da tenda da congregação, e para todo o seu serviço, e para as vestes santas. ^v21
+**21** Todo aquele cujo coração o instigava e a quem o seu espírito queria, veio e trouxe uma oferta para Yahweh para a construção do tabernáculo, para todos os objetos do serviço e para as vestes sagradas. ^v21
 
-**22** Assim vieram homens e mulheres, todos dispostos de coração; trouxeram fivelas, e pendentes, e anéis, e braceletes, todos os objetos de ouro; e todo o homem fazia oferta de ouro ao Senhor; ^v22
+**22** Então, vieram homens e mulheres, todos que tinham um coração disposto. Eles traziam broches, brincos, anéis e ornamentos, todos os tipos de jóias de ouro. Todos eles ofereceram ofertas de ouro a Yahweh. ^v22
 
-**23** E todo o homem que se achou com azul, e púrpura, e carmesim, e linho fino, e pêlos de cabras, e peles de carneiro tintas de vermelho, e peles de texugos, os trazia; ^v23
+**23** Todos aqueles que tinham lã azul, roxa e vermelha, linho fino, pelos de cabra, peles de ovelhas tingidas de vermelho ou fino couro os trouxeram. ^v23
 
-**24** Todo aquele que fazia oferta alçada de prata ou de metal, a trazia por oferta alçada ao Senhor; e todo aquele que possuía madeira de acácia, a trazia para toda a obra do serviço. ^v24
+**24** Todos os que tinham oferta de prata ou bronze trouxeram para Yahweh e todos que tinham madeira de acácia para ser utilizada as trouxeram para serem usadas na obra. ^v24
 
-**25** E todas as mulheres sábias de coração fiavam com as suas mãos, e traziam o que tinham fiado, o azul e a púrpura, o carmesim e o linho fino. ^v25
+**25** Toda mulher habilidosa tecia lã com suas mãos e trazia o que havia feito — lã azul, roxa ou vermelha, ou linho fino. ^v25
 
-**26** E todas as mulheres, cujo coração as moveu em habilidade fiavam os pêlos das cabras. ^v26
+**26** Todas as mulheres cujos corações estavam dispostos a fiar os pêlos das cabras. ^v26
 
-**27** E os príncipes traziam pedras de ônix e pedras de engastes para o éfode e para o peitoral, ^v27
+**27** Os líderes trouxeram pedras de ônix e outras pedras preciosas para serem fixadas no colete e no peitoral da veste sacerdotal; ^v27
 
-**28** E especiarias, e azeite para a luminária, e para o azeite da unção, e para o incenso aromático. ^v28
+**28** trouxeram especiarias e azeite para as lâmpadas, para o óleo da unção e para o incenso perfumado. ^v28
 
-**29** Todo homem e mulher, cujo coração voluntariamente se moveu a trazer alguma coisa para toda a obra que o Senhor ordenara se fizesse pela mão de Moisés; assim os filhos de Israel trouxeram por oferta voluntária ao Senhor. ^v29
+**29** Os israelitas trouxeram uma oferta voluntária para Yahweh; cada homem e cada muher, cujos corações estavam dispostos, trouxeram materiais para a obra que Yahweh ordenara para Moisés realizar. ^v29
 
-**30** Depois disse Moisés aos filhos de Israel: Eis que o Senhor tem chamado por nome a Bezalel, filho de Uri, filho de Hur, da tribo de Judá. ^v30
+**30** "Moisés disse aos israelitas: ""Vede, Yahweh chamou pelo nome a Bezalel, filho de Uri, filho de Hur, da tribo de Judá." ^v30
 
-**31** E o Espírito de Deus o encheu de sabedoria, entendimento, ciência e em todo o lavor, ^v31
+**31** Ele encheu Bezalel com Seu Espírito, dando-lhe sabedoria, entendimento e conhecimento para todos os tipos de artesanato, ^v31
 
-**32** E para criar invenções, para trabalhar em ouro, e em prata, e em cobre, ^v32
+**32** para fazer desenhos artísticos e trabalhar com ouro, prata e bronze; ^v32
 
-**33** E em lapidar de pedras para engastar, e em entalhar madeira, e para trabalhar em toda a obra esmerada. ^v33
+**33** também para cortar e lapidar pedras e esculpir em madeira — para fazer todos os tipos de artesanato. ^v33
 
-**34** Também lhe dispôs o coração para ensinar a outros; a ele e a Aoliabe, o filho de Aisamaque, da tribo de Dã. ^v34
+**34** Ele colocou isso em seu coração para ensinar, tanto Bezalel quanto Aoliabe, filho de Aisamaque, da tribo de Dã. ^v34
 
-**35** Encheu-os de sabedoria do coração, para fazer toda a obra de mestre, até a mais engenhosa, e a do gravador, em azul, e em púrpura, em carmesim, e em linho fino, e do tecelão; fazendo toda a obra, e criando invenções. ^v35
+**35** Ele os encheu de habilidade para fazer todo o tipo de trabalho, para trabalhar como artesãos, como gravadores, como bordadores em lã azul, roxo e vermelho, linho fino e como tecelões. Eles são artesãos em todos os tipos de trabalho e são desenhistas artísticos. ^v35

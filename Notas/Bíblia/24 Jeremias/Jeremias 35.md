@@ -1,45 +1,44 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Jeremias|Jeremias]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Jeremias|Jeremias]]"
+tags: [biblia]
 ---
 
 # Jeremias 35
 
-**1** A palavra que do SENHOR veio a Jeremias, nos dias de Jeoiaquim, filho de Josias, rei de Judá, dizendo: ^v1
+**1** A palavra veio a Jeremias, da parte de Yahweh, nos dias de Jeoaquim, filho de Josias, rei de Judá, dizendo: ^v1
 
-**2** Vai à casa dos recabitas, e fala com eles, e leva-os à casa do Senhor, a uma das câmaras e dá-lhes vinho a beber. ^v2
+**2** """Vai à família dos recabitas e fala com eles. Então, leva-os à Minha casa, até uma das salas e dá vinho para que bebam.""" ^v2
 
-**3** Então tomei a Jazanias, filho de Jeremias, filho de Habazinias, e a seus irmãos, e a todos os seus filhos, e a toda a casa dos recabitas; ^v3
+**3** Então, eu trouxe Jazanias, filho de Jeremias, filho de Habazinias, e seus irmãos, todos os seus filhos, e toda a família dos recabitas. ^v3
 
-**4** E os levei à casa do Senhor, à câmara dos filhos de Hanã, filho de Jigdalias, homem de Deus, que estava junto à câmara dos príncipes, que ficava sobre a câmara de Maaséias, filho de Salum, guarda do vestíbulo; ^v4
+**4** Eu os levei à Casa de Yahweh, à sala dos filhos de Hanã, filho de Jigdalias, homem de Deus. Essa sala ficava ao lado da sala dos líderes, que ficava acima da sala de Maaseias, filho do porteiro Salum. ^v4
 
-**5** E pus diante dos filhos da casa dos recabitas taças cheias de vinho, e copos, e disse-lhes: Bebei vinho. ^v5
+**5** "Então, eu coloquei jarras e cálices cheios de vinho perante os recabitas e lhes disse: ""Bebam um pouco de vinho.""" ^v5
 
-**6** Porém eles disseram: Não beberemos vinho, porque Jonadabe, filho de Recabe, nosso pai, nos ordenou, dizendo: Nunca jamais bebereis vinho, nem vós nem vossos filhos; ^v6
+**6** "Mas eles disseram: ""Nós não beberemos vinho algum, pois nosso antepassado, Jonadabe, filho de Recabe, nos ordenou: 'Jamais bebereis vinho, nem vós, nem vossos descendentes." ^v6
 
-**7** Não edificareis casa, nem semeareis semente, nem plantareis vinha, nem a possuireis; mas habitareis em tendas todos os vossos dias, para que vivais muitos dias sobre a face da terra, em que vós andais peregrinando. ^v7
+**7** Também não construireis casas, semeareis semente alguma ou plantareis vinhas; isto não é para vós. Pois deveis viver em tendas por todos os vossos dias; assim, vivereis muitos dias na terra onde permanecereis como estrangeiros.' ^v7
 
-**8** Obedecemos, pois, à voz de Jonadabe, filho de Recabe, nosso pai, em tudo quanto nos ordenou; de maneira que não bebemos vinho em todos os nossos dias, nem nós, nem nossas mulheres, nem nossos filhos, nem nossas filhas; ^v8
+**8** Nós obedecemos à voz de Jonadabe, filho de Recabe, nosso antepassado, em tudo o que ele nos ordenou: para não bebermos vinho em todos os nossos dias; nem nós, nem nossas mulheres, nem nossos filhos e nem nossas filhas. ^v8
 
-**9** Nem edificamos casas para nossa habitação; nem temos vinha, nem campo, nem semente. ^v9
+**9** E nós nunca construiremos casas para morar, e nunca haverá vinha, campo ou semente em nossa posse. ^v9
 
-**10** Mas habitamos em tendas, e assim obedecemos e fazemos conforme tudo quanto nos ordenou Jonadabe, nosso pai. ^v10
+**10** Nós temos vivido em tendas, ouvido e feito tudo aquilo que Jonadabe, nosso antepassado, nos ordenou. ^v10
 
-**11** Sucedeu, porém, que, subindo Nabucodonosor, rei de babilônia, a esta terra, dissemos: Vinde, e vamo-nos a Jerusalém, por causa do exército dos caldeus, e por causa do exército dos sírios; e assim ficamos em Jerusalém. ^v11
+**11** "Mas quando Nabucodonosor, rei da Babilônia, atacou a terra, nós dissemos: 'Vinde, vamos a Jerusalém para escaparmos dos exércitos dos babilônios e dos sírios.' Então, estamos vivendo em Jerusalém.""" ^v11
 
-**12** Então veio a palavra do Senhor a Jeremias, dizendo: ^v12
+**12** Então, veio a palavra de Yahweh a Jeremias, dizendo: ^v12
 
-**13** Assim diz o Senhor dos Exércitos, o Deus de Israel: Vai, e dize aos homens de Judá e aos moradores de Jerusalém: Porventura nunca aceitareis instrução, para ouvirdes as minhas palavras? diz o Senhor. ^v13
+**13** """Yahweh dos Exércitos, o Deus de Israel, diz isto: 'Vai, dize aos homens de Judá e aos habitantes de Jerusalém: ""Não recebereis Minha correção e não ouvireis Minhas palavras? – Esta é a declaração de Yahweh." ^v13
 
-**14** As palavras de Jonadabe, filho de Recabe, que ordenou a seus filhos que não bebessem vinho, foram guardadas; pois não beberam até este dia, antes obedeceram o mandamento de seu pai; a mim, porém, que vos tenho falado, madrugando e falando, não me ouvistes. ^v14
+**14** As palavras de Jonadabe, filho de Recabe, que ele deu ordem a seus filhos para não beberem vinho, foram acatadas até os dias de hoje. Eles obedeceram à ordem de seu antepassado. Mas, quanto a Mim, Eu vos tenho falado insistentemente, mas não ouvis. ^v14
 
-**15** E vos tenho enviado todos os meus servos, os profetas, madrugando, e insistindo, e dizendo: Convertei-vos, agora, cada um do seu mau caminho, e fazei boas as vossas ações, e não sigais a outros deuses para servi-los; e assim ficareis na terra que vos dei a vós e a vossos pais; porém não inclinastes o vosso ouvido, nem me obedecestes a mim. ^v15
+**15** Eu vos enviei todos os Meus servos, os profetas. Eu fui persistente ao enviá-los para dizer: 'Cada um se afaste do seu mau caminho e faça boas obras; ninguém mais siga e adore outros deuses. Assim, ficareis na terra que vos dei a vós outros e a vossos antepassados'. Ainda assim, não ouvistes ou prestastes atenção em Mim. ^v15
 
-**16** Visto que os filhos de Jonadabe, filho de Recabe, guardaram o mandamento de seu pai que ele lhes ordenou, mas este povo não me obedeceu, ^v16
+**16** "Porque os descendentes de Jonadabe, filho de Recabe, observaram as ordens que seus antepassados lhes deram, mas este povo se recusa a Me ouvir.""" ^v16
 
-**17** Por isso assim diz o Senhor Deus dos Exércitos, o Deus de Israel: Eis que trarei sobre Judá, e sobre todos os moradores de Jerusalém, todo o mal que falei contra eles; pois lhes tenho falado, e não ouviram; e clamei a eles, e não responderam. ^v17
+**17** "Então, Yahweh, o Deus dos Exércitos e Deus de Israel, diz: 'Olhai, trarei sobre Judá e sobre todos os moradores de Jerusalém todos os desastres que proclamei contra eles; porque lhes falei, mas se recusaram a ouvir. Eu os chamei, mas não responderam.""" ^v17
 
-**18** E à casa dos recabitas disse Jeremias: Assim diz o Senhor dos Exércitos, o Deus de Israel: Pois que obedecestes ao mandamento de Jonadabe, vosso pai, e guardastes todos os seus mandamentos, e fizestes conforme tudo quanto vos ordenou, ^v18
+**18** "Jeremias disse à família dos recabitas: ""Yahweh dos Exércitos, o Deus de Israel, diz isto: Vós ouvistes os mandamentos de Jonadabe, vosso antepassado, e os guardastes; vós obedecestes a tudo o que ele vos ordenou," ^v18
 
-**19** Portanto assim diz o Senhor dos Exércitos, Deus de Israel: Nunca faltará homem a Jonadabe, filho de Recabe, que esteja na minha presença todos os dias. ^v19
+**19** "então, Yahweh dos Exércitos, o Deus de Israel, diz isto: Sempre haverá alguém da linhagem de Jonadabe, filho de Recabe, para Me servir.""" ^v19

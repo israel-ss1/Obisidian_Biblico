@@ -1,55 +1,54 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Jeremias|Jeremias]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Jeremias|Jeremias]]"
+tags: [biblia]
 ---
 
 # Jeremias 26
 
-**1** No princípio do reinado de Jeoiaquim, filho de Josias, rei de Judá, veio esta palavra do SENHOR, dizendo: ^v1
+**1** No começo do reinado de Jeoaquim, filho de Josias, rei de Judá, esta palavra veio de Yahweh. ^v1
 
-**2** Assim diz o Senhor: Põe-te no átrio da casa do Senhor e dize a todas as cidades de Judá, que vêm adorar na casa do Senhor, todas as palavras que te mandei que lhes dissesses; não omitas nenhuma palavra. ^v2
+**2** "Assim diz Yahweh: ""Coloca-te de pé no pátio da Minha casa e dize a todas as cidades de Judá, que vêm adorar em Minha casa. Proclama todas as palavras que te ordenei falar a eles. Não omitas nenhuma palavra!" ^v2
 
-**3** Bem pode ser que ouçam, e se convertam cada um do seu mau caminho, e eu me arrependa do mal que intento fazer-lhes por causa da maldade das suas ações. ^v3
+**3** Pode ser que eles escutem e que cada homem abandone seus caminhos maus; então, Eu me compadecerei com relação ao desastre que estou planejando trazer sobre eles, por causa da maldade das suas práticas. ^v3
 
-**4** Dize-lhes pois: Assim diz o Senhor: Se não me derdes ouvidos para andardes na minha lei, que pus diante de vós, ^v4
+**4** Dirás a eles: 'Assim diz Yahweh: Se não Me ouvirdes para andardes de acordo com a Minha lei, que coloquei diante de vós; ^v4
 
-**5** Para que ouvísseis as palavras dos meus servos, os profetas, que eu vos envio, madrugando e enviando, mas não ouvistes; ^v5
+**5** se não ouvirdes as palavras dos Meus servos, os profetas, que Eu envio persistentemente – mas não ouvistes – ^v5
 
-**6** Então farei que esta casa seja como Siló, e farei desta cidade uma maldição para todas as nações da terra. ^v6
+**6** "então, Eu farei a esta casa igual à Siló; tornarei esta cidade em uma maldição perante todas as nações da terra.""" ^v6
 
-**7** Os sacerdotes, e os profetas, e todo o povo, ouviram a Jeremias, falando estas palavras na casa do Senhor. ^v7
+**7** Os sacerdotes, os profetas e todo o povo ouviu Jeremias anunciando estas palavras na Casa de Yahweh. ^v7
 
-**8** E sucedeu que, acabando Jeremias de dizer tudo quanto o Senhor lhe havia ordenado que dissesse a todo o povo, pegaram nele os sacerdotes, e os profetas, e todo o povo, dizendo: Certamente morrerás, ^v8
+**8** "Então, ocorreu que, quando Jeremias terminou de anunciar tudo o que Yahweh o havia mandado dizer a todo o povo, os sacerdotes, os profetas e todo o povo o agarraram e disseram: ""Certamente morrerás!" ^v8
 
-**9** Por que profetizaste no nome do Senhor, dizendo: Como Siló será esta casa, e esta cidade será assolada, de sorte que não fique nenhum morador nela? E ajuntou-se todo o povo contra Jeremias, na casa do Senhor. ^v9
+**9** "Por que profetizastes em nome de Yahweh e dissestes que esta casa será como Siló, e esta cidade ficará em ruínas e sem habitantes?"" Todo o povo juntou-se contra Jeremias na Casa de Yahweh." ^v9
 
-**10** E, ouvindo os príncipes de Judá estas palavras, subiram da casa do rei à casa do Senhor, e se assentaram à entrada da porta nova do Senhor. ^v10
+**10** Ao ouvirem estas palavras, oficiais de Judá subiram da casa do rei para a Casa de Yahweh, e se assentaram à entrada da Porta Nova da Casa de Yahweh. ^v10
 
-**11** Então falaram os sacerdotes e os profetas aos príncipes e a todo o povo, dizendo: Este homem é réu de morte, porque profetizou contra esta cidade, como ouvistes com os vossos ouvidos. ^v11
+**11** "Os sacerdotes e os profetas falaram aos oficiais e a todo o povo, dizendo: ""É correto que este homem morra, visto que profetizou contra esta cidade, como ouvistes com vossos próprios ouvidos!""" ^v11
 
-**12** E falou Jeremias a todos os príncipes e a todo o povo, dizendo: O Senhor me enviou a profetizar contra esta casa, e contra esta cidade, todas as palavras que ouvistes. ^v12
+**12** "Então, Jeremias falou a todos os oficiais e a todo o povo, dizendo: ""Yahweh me mandou para profetizar contra esta casa e esta cidade, para proferir todas as palavras que ouvistes." ^v12
 
-**13** Agora, pois, melhorai os vossos caminhos e as vossas ações, e ouvi a voz do Senhor vosso Deus, e arrepender-se-á o Senhor do mal que falou contra vós. ^v13
+**13** Portanto, agora, endireitai os vossos caminhos e práticas, e ouvi a voz de Yahweh, vosso Deus, a fim de que Ele se compadeça com relação ao desastre que proclamou contra vós. ^v13
 
-**14** Quanto a mim, eis que estou nas vossas mãos; fazei de mim conforme o que for bom e reto aos vossos olhos. ^v14
+**14** Eu mesmo – olhai para mim! – estou em vossas mãos. Fazei comigo o que é bom e correto aos vossos olhos. ^v14
 
-**15** Sabei, porém, com certeza que, se me matardes, trareis sangue inocente sobre vós, e sobre esta cidade, e sobre os seus habitantes; porque, na verdade, o Senhor me enviou a vós, para dizer aos vossos ouvidos todas estas palavras. ^v15
+**15** "Mas estais plenamente cientes de que se matardes a mim, estareis trazendo sangue inocente sobre vós, esta cidade e seus habitantes, pois, de fato, Yahweh me enviou para proclamar todas estas palavras aos vossos ouvidos.""" ^v15
 
-**16** Então disseram os príncipes, e todo o povo aos sacerdotes e aos profetas: Este homem não é réu de morte, porque em nome do Senhor, nosso Deus, nos falou. ^v16
+**16** "Então, os oficiais e todo o povo falaram aos sacerdotes e profetas: ""Não é correto que este homem morra, pois nos proclamou coisas em nome de Yahweh, nosso Deus""." ^v16
 
-**17** Também se levantaram alguns homens dentre os anciãos da terra, e falaram a toda a congregação do povo, dizendo: ^v17
+**17** Logo, alguns homens dentre os anciãos da terra se levantaram e falaram a toda a assembleia do povo. ^v17
 
-**18** Miquéias, o morastita, profetizou nos dias de Ezequias, rei de Judá, e falou a todo o povo de Judá, dizendo: Assim disse o Senhor dos Exércitos: Sião será lavrada como um campo, e Jerusalém se tornará em montões de pedras, e o monte desta casa como os altos de um bosque. ^v18
+**18** "Eles disseram: ""Miqueias, de Moresete, profetizou nos dias de Ezequias, rei de Judá. Ele falou a todo o povo de Judá, dizendo: 'Assim diz Yahweh dos Exércitos: Sião será lavrada como um campo, Jerusalém se tornará um amontoado de entulho e o monte do templo se tornará uma colina coberta de matagais." ^v18
 
-**19** Mataram-no, porventura, Ezequias, rei de Judá, e todo o Judá? Antes não temeu ao Senhor, e não implorou o favor do Senhor? E o Senhor não se arrependeu do mal que falara contra eles? Nós fazemos um grande mal contra as nossas almas. ^v19
+**19** "Por acaso, Ezequias, rei de Judá, e todo o povo o matou? Por acaso, ele não temia Yahweh e intercedia, clamando que Yahweh tivesse misericórdia? Faremos nós, então, mal maior contra as nossas próprias vidas?""" ^v19
 
-**20** Também houve outro homem que profetizava em nome do Senhor, a saber: Urias, filho de Semaías de Quiriate-Jearim, o qual profetizou contra esta cidade, e contra esta terra, conforme todas as palavras de Jeremias. ^v20
+**20** Enquanto isso, havia outro homem profetizando em nome de Yahweh: Urias, filho de Semaías, de Quiriate-Jearim. Ele também profetizou contra essa cidade e essa terra, em concordância com as palavras de Jeremias. ^v20
 
-**21** E, ouvindo o rei Jeoiaquim, e todos os seus poderosos e todos os príncipes, as suas palavras, procurou o rei matá-lo; mas ouvindo isto, Urias temeu e fugiu, e foi para o Egito; ^v21
+**21** Quando o rei Jeoaquim e todos os seus soldados e oficiais ouviram suas palavras, o rei tentou matá-lo, mas, ouvindo isso, Urias afligiu-se e fugiu para o Egito. ^v21
 
-**22** Mas o rei Jeoiaquim enviou alguns homens ao Egito, a saber: Elnatã, filho de Acbor, e outros homens com ele, ao Egito. ^v22
+**22** O rei Jeoaquim enviou ao Egito Elnatá, filho de Acbor, e alguns outros homens com ele. ^v22
 
-**23** Os quais tiraram a Urias do Egito, e o trouxeram ao rei Jeoiaquim, que o feriu à espada, e lançou o seu cadáver nas sepulturas dos filhos do povo. ^v23
+**23** Eles tiraram Urias do Egito e o levaram ao rei Jeoaquim, que o matou à espada, e lançou seu corpo nas sepulturas das pessoas comuns. ^v23
 
-**24** Porém a mão de Aicão, filho de Safã, foi com Jeremias, para que o não entregassem na mão do povo, para ser morto. ^v24
+**24** Mas Aicã, filho de Safã, protegeu Jeremias, para que não caísse nas mãos do povo e fosse morto. ^v24

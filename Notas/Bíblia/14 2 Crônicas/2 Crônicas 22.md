@@ -1,31 +1,30 @@
 ---
-Livro: "[[2 Crônicas|2 Crônicas]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/2 Crônicas|2 Crônicas]]"
+tags: [biblia]
 ---
 
 # 2 Crônicas 22
 
-**1** E os moradores de Jerusalém, em lugar de Jeorão, fizeram rei a Acazias, seu filho mais moço, porque a tropa, que viera com os árabes ao arraial, tinha matado a todos os mais velhos. Assim reinou Acazias, filho de Jeorão, rei de Judá. ^v1
+**1** Os habitantes de Jerusalém fizeram rei, em lugar de seu pai, a Acazias, seu filho mais novo, pois a tropa de homens que vieram com os árabes ao acampamento tinha matado todos os seus filhos mais velhos. Assim, Acazias, filho de Jeorão, rei de Judá, tornou-se rei. ^v1
 
-**2** Era da idade de quarenta e dois anos, quando começou a reinar, e reinou um ano em Jerusalém; e era o nome de sua mãe Atalia, filha de Onri. ^v2
+**2** Acazias tinha quarenta e dois anos quando começou a reinar; ele reinou por um ano em Jerusalém. O nome de sua mãe era Atalia, filha de Onri. ^v2
 
-**3** Também ele andou nos caminhos da casa de Acabe, porque sua mãe era sua conselheira, para proceder impiamente. ^v3
+**3** Ele também andou nos caminhos da casa de Acabe, pois sua mãe era sua conselheira em fazer coisas más. ^v3
 
-**4** E fez o que era mau aos olhos do Senhor, como a casa de Acabe, porque eles eram seus conselheiros depois da morte de seu pai, para a sua perdição. ^v4
+**4** Acazias fez o que era mau à vista de Yahweh, como os da casa de Acabe estavam fazendo, pois eles eram seus conselheiros depois da morte de seu pai, para sua destruição. ^v4
 
-**5** Também andou nos conselhos deles, e foi com Jorão, filho de Acabe, rei de Israel, à peleja contra Hazael, rei da Síria, junto a Ramote de Gileade; e os sírios feriram a Jorão. ^v5
+**5** Ele também seguiu seus conselhos. Foi com Jorão, filho de Acabe, rei de Israel, para lutar contra Hazael, rei da Síria, em Ramote-Gileade. Os sírios feriram Jorão. ^v5
 
-**6** E voltou para curar-se em Jizreel, das feridas que lhe fizeram em Ramá, pelejando contra Hazael, rei da Síria; e Acazias, filho de Jeorão, rei de Judá, desceu para ver a Jorão, filho de Acabe, em Jizreel, porque estava doente. ^v6
+**6** Jorão voltou para ser curado em Jezreel das feridas que lhe fizeram em Ramá, quando ele lutou contra Hazael, rei da Síria. Assim, Acazias, filho de Jeorão, rei de Judá, desceu até Jezreel para ver Jorão, filho de Acabe, pois Jorão havia sido ferido. ^v6
 
-**7** Foi, pois, da vontade de Deus, que Acazias, para sua ruína, visitasse Jorão; porque chegando ele, saiu com Jorão contra Jeú, filho de Ninsi, a quem o Senhor tinha ungido para desarraigar a casa de Acabe. ^v7
+**7** Ora, a destruição de Acazias foi feita por meio de Deus, pela da visita a Jorão. Quando ele chegou, foi com Jorão para atacar Jeú, filho de Ninsi, a quem Yahweh havia escolhido para destruir a casa de Acabe. ^v7
 
-**8** E sucedeu que, executando Jeú juízo contra a casa de Acabe, achou os príncipes de Judá e os filhos dos irmãos de Acazias, que serviam a Acazias, e os matou. ^v8
+**8** Aconteceu quando Jeú estava executando o julgamento de Deus, na casa de Acabe, que ele encontrou os líderes de Judá e os filhos dos irmãos de Acazias servindo Acazias. Jeú os matou. ^v8
 
-**9** Depois buscou a Acazias (porque se tinha escondido em Samaria), e o alcançaram, e o trouxeram a Jeú, e o mataram, e o sepultaram; porque disseram: Filho é de Jeosafá, que buscou ao Senhor com todo o seu coração. E já não tinha a casa de Acazias ninguém que tivesse força para o reino. ^v9
+**9** "Jeú procurou por Acazias; encontraram-no escondendo-se em Samaria, trouxeram-no para Jeú e o mataram. Então, sepultaram-no, pois disserm: ""Ele é um filho de Josafá, que buscava Yahweh com todo o coração. Assim, a casa de Acazias não tinha mais poder para governar o reino." ^v9
 
-**10** Vendo, pois, Atalia, mãe de Acazias, que seu filho era morto, levantou-se e destruiu toda a descendência real da casa de Judá. ^v10
+**10** Ora, quando Atalia, mãe de Acazias, viu que seu filho estava morto, levantou-se e matou todas as crianças reais na casa de Judá. ^v10
 
-**11** Porém Jeosabeate, filha do rei, tomou a Joás, filho de Acazias, furtando-o dentre os filhos do rei, aos quais matavam, e o pôs com a sua ama na câmara dos leitos; assim Jeosabeate, filha do rei Jeorão, mulher do sacerdote Joiada (porque era irmã de Acazias), o escondeu de Atalia, de modo que ela não o matou. ^v11
+**11** Mas Jeosabeate, uma filha do rei, tomou Joás, filho de Acazias, e o levou do meio dos filhos do rei que foram mortos. Ela o colocou em um quarto com sua ama. Assim, Jeosabeate, uma filha do rei Jeorão, a esposa de Joiada, o sacerdote (pois ela era irmã de Acazias), escondeu-o de Atalia, para que Atalia não o matasse. ^v11
 
-**12** E esteve com eles seis anos escondido na casa de Deus; e Atalia reinou sobre a terra. ^v12
+**12** Joás estava com eles, escondido na Casa de Deus, por seis anos, enquanto Atalia reinava sobre a terra. ^v12

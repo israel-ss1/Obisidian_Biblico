@@ -1,55 +1,54 @@
 ---
-Livro: "[[Gálatas|Gálatas]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Gálatas|Gálatas]]"
+tags: [biblia]
 ---
 
 # Gálatas 1
 
-**1** Paulo, apóstolo (não da parte dos homens, nem por homem algum, mas por Jesus Cristo, e por Deus Pai, que o ressuscitou dentre os mortos), ^v1
+**1** Paulo, um apóstolo — não um apóstolo da parte de homens, nem por homem algum, mas por Jesus Cristo e por Deus, o Pai, que O ressuscitou dos mortos —, ^v1
 
-**2** E todos os irmãos que estão comigo, às igrejas da Galácia: ^v2
+**2** e todos os irmãos comigo, às igrejas da Galácia: ^v2
 
-**3** Graça e paz da parte de Deus Pai e do nosso Senhor Jesus Cristo, ^v3
+**3** Graça e paz a vós, da parte de Deus Pai e do nosso Senhor Jesus Cristo, ^v3
 
-**4** O qual se deu a si mesmo por nossos pecados, para nos livrar do presente século mau, segundo a vontade de Deus nosso Pai, ^v4
+**4** que se entregou por nossos pecados para nos libertar desta presente era maligna, de acordo com a vontade de nosso Deus e Pai. ^v4
 
-**5** Ao qual seja dada glória para todo o sempre. Amém. ^v5
+**5** A Ele seja a glória para sempre e sempre. Amém. ^v5
 
-**6** Maravilho-me de que tão depressa passásseis daquele que vos chamou à graça de Cristo para outro evangelho; ^v6
+**6** Estou surpreso de que vós estejais mudando tão rapidamente para um Evangelho diferente, afastando-vos Daquele que vos chamou pela graça de Cristo. ^v6
 
-**7** O qual não é outro, mas há alguns que vos inquietam e querem transtornar o evangelho de Cristo. ^v7
+**7** Não há outro evangelho, mas existem algumas pessoas que vos causam problemas, e querem distorcer o Evangelho de Cristo. ^v7
 
-**8** Mas, ainda que nós mesmos ou um anjo do céu vos anuncie outro evangelho além do que já vos tenho anunciado, seja anátema. ^v8
+**8** Mas, mesmo se nós, ou um anjo vindo do céu vier a proclamar-vos um evangelho diferente daquele que proclamamos a vós, que seja amaldiçoado. ^v8
 
-**9** Assim, como já vo-lo dissemos, agora de novo também vo-lo digo. Se alguém vos anunciar outro evangelho além do que já recebestes, seja anátema. ^v9
+**9** "Como dissemos antes, agora eu digo novamente: se alguém vos proclama um evangelho diferente daquele que vós aceitastes, que seja amaldiçoado""." ^v9
 
-**10** Porque, persuado eu agora a homens ou a Deus? ou procuro agradar a homens? Se estivesse ainda agradando aos homens, não seria servo de Cristo. ^v10
+**10** Porventura, eu agora quero a aprovação dos homens ou de Deus? Ou estou procurando agradar homens? Se estou tentando ainda agradar aos homens, eu não sou servo de Cristo. ^v10
 
-**11** Mas faço-vos saber, irmãos, que o evangelho que por mim foi anunciado não é segundo os homens. ^v11
+**11** Porque eu desejo que saibais, irmãos, que o Evangelho que proclamei não é de origem humana. ^v11
 
-**12** Porque não o recebi, nem aprendi de homem algum, mas pela revelação de Jesus Cristo. ^v12
+**12** Eu não o recebi de homem, nem me ensinaram, mas, ao invés disto, ele foi-me revelado por meio de Jesus Cristo. ^v12
 
-**13** Porque já ouvistes qual foi antigamente a minha conduta no judaísmo, como sobremaneira perseguia a igreja de Deus e a assolava. ^v13
+**13** Ouvistes falar sobre minha antiga vida no judaísmo, como eu perseguia violentamente a igreja de Deus, e a devastava. ^v13
 
-**14** E na minha nação excedia em judaísmo a muitos da minha idade, sendo extremamente zeloso das tradições de meus pais. ^v14
+**14** Eu progredi no judaísmo mais do que muitos judeus da minha idade, sendo muito mais zeloso na tradição dos meus antepassados. ^v14
 
-**15** Mas, quando aprouve a Deus, que desde o ventre de minha mãe me separou, e me chamou pela sua graça, ^v15
+**15** Mas, quando Deus, que Se agradou em me escolher desde o ventre da minha mãe, me chamou pela Sua graça ^v15
 
-**16** Revelar seu Filho em mim, para que o pregasse entre os gentios, não consultei a carne nem o sangue, ^v16
+**16** para revelar Seu Filho em mim, para proclamá-Lo entre os Gentios, eu não consultei nem carne nem sangue, ^v16
 
-**17** Nem tornei a Jerusalém, a ter com os que já antes de mim eram apóstolos, mas parti para a Arábia, e voltei outra vez a Damasco. ^v17
+**17** nem subi a Jerusalém àqueles que eram apóstolos antes de mim, mas, ao invés disto, fui à Arábia e então retornei a Damasco. ^v17
 
-**18** Depois, passados três anos, fui a Jerusalém para ver a Pedro, e fiquei com ele quinze dias. ^v18
+**18** Então, três anos depois, subi a Jerusalém para visitar Cefas, e fiquei com ele por quinze dias. ^v18
 
-**19** E não vi a nenhum outro dos apóstolos, senão a Tiago, irmão do Senhor. ^v19
+**19** Mas eu não vi nenhum dos outros apóstolos, exceto Tiago, o irmão do Senhor. ^v19
 
-**20** Ora, acerca do que vos escrevo, eis que diante de Deus testifico que não minto. ^v20
+**20** No que vos escrevo, asseguro, diante de Deus, que eu não estou mentindo. ^v20
 
-**21** Depois fui para as partes da Síria e da Cilícia. ^v21
+**21** Depois, eu fui às regiões da Síria e da Cilícia. ^v21
 
-**22** E não era conhecido de vista das igrejas da Judéia, que estavam em Cristo; ^v22
+**22** Eu ainda não era conhecido pessoalmente pelas igrejas da Judeia que estavam em Cristo; ^v22
 
-**23** Mas somente tinham ouvido dizer: Aquele que já nos perseguiu anuncia agora a fé que antes destruía. ^v23
+**23** "mas eles apenas ouviam: ""Aquele que antes nos perseguia agora está proclamando a fé que ele procurava destruir""." ^v23
 
-**24** E glorificavam a Deus a respeito de mim. ^v24
+**24** E eles glorificavam a Deus por minha causa. ^v24

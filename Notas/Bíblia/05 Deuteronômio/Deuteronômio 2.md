@@ -1,81 +1,80 @@
 ---
-Livro: "[[Deuteronômio|Deuteronômio]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Deuteronômio|Deuteronômio]]"
+tags: [biblia]
 ---
 
 # Deuteronômio 2
 
-**1** Depois viramo-nos, e caminhamos ao deserto, caminho do Mar Vermelho, como o SENHOR me tinha dito, e muitos dias rodeamos o monte Seir. ^v1
+**1** Então, retornamos e continuamos nossa jornada deserto adentro, pelo caminho do mar Vermelho, como Yahweh me tinha falado. Rodeamos o monte Seir por vários dias. ^v1
 
-**2** Então o Senhor me falou, dizendo: ^v2
+**2** Yahweh falou a mim, dizendo: ^v2
 
-**3** Tendes rodeado bastante esta montanha; virai-vos para o norte. ^v3
+**3** 'Rodeaste esta montanha tempo suficiente; volta-te para o norte. ^v3
 
-**4** E dá ordem ao povo, dizendo: Passareis pelos termos de vossos irmãos, os filhos de Esaú, que habitam em Seir; e eles terão medo de vós; porém guardai-vos bem. ^v4
+**4** Ordena ao povo, dizendo: 'Passai pela fronteira de vossos irmãos, os descendentes de Esaú, que habitam em Seir. Eles terão medo de vós. Mas tende o cuidado ^v4
 
-**5** Não vos envolvais com eles, porque não vos darei da sua terra nem ainda a pisada da planta de um pé; porquanto a Esaú tenho dado o monte Seir por herança. ^v5
+**5** de não lutardes contra eles, porque não vos darei nada da terra deles, nem sequer o suficiente para a sola de um pé pisar, porque dei o monte Seir a Esaú como herança. ^v5
 
-**6** Comprareis deles, por dinheiro, comida para comerdes; e também água para beber deles comprareis por dinheiro. ^v6
+**6** Comprareis comida deles com dinheiro, para que comais. Comprareis também água deles com dinheiro, para que bebais. ^v6
 
-**7** Pois o Senhor teu Deus te abençoou em toda a obra das tuas mãos; ele sabe que andas por este grande deserto; estes quarenta anos o Senhor teu Deus esteve contigo, coisa nenhuma te faltou. ^v7
+**7** Pois Yahweh, vosso Deus, tem vos abençoado em todo trabalho de vossas mãos e tem conhecido vossa caminhada por este grande deserto. Pois, nestes quarenta anos, Yahweh, vosso Deus, esteve convosco e nada vos faltou'. ^v7
 
-**8** Passando, pois, por nossos irmãos, os filhos de Esaú, que habitavam em Seir, desde o caminho da planície de Elate e de Eziom-Geber, nos viramos e passamos o caminho do deserto de Moabe. ^v8
+**8** Então, passamos à distância de nossos irmãos, os descendentes de Esaú, que habitam em Seir, no caminho de Arabá, de Elate e de Ezion Geber. Voltamos e passamos pelo caminho do deserto de Moabe. ^v8
 
-**9** Então o Senhor me disse: Não molestes aos de Moabe, e não contendas com eles em peleja, porque não te darei herança da sua terra; porquanto tenho dado a Ar por herança aos filhos de Ló. ^v9
+**9** Yahweh me disse: 'Não incomodes Moabe e não lutes contra eles em batalha. Pois dele não te darei terra alguma por tua possessão, porque dei Ar para os descendentes de Ló, como sua possessão'. ^v9
 
-**10** (Os emins dantes habitaram nela; um povo grande e numeroso, e alto como os gigantes. ^v10
+**10** (Habitaram anteriormente lá, os emins, povo numeroso e de grande estatura — tão altos quanto os anaqueus; ^v10
 
-**11** Também estes foram considerados gigantes como os anaquins; e os moabitas os chamavam emins. ^v11
+**11** também considerados refains, como os anaqueus; mas os moabitas os chamavam de emins. ^v11
 
-**12** Outrora os horeus também habitaram em Seir; porém os filhos de Esaú os lançaram fora, e os destruíram de diante de si, e habitaram no seu lugar, assim como Israel fez à terra da sua herança, que o Senhor lhes tinha dado). ^v12
+**12** Os horeus também viveram lá, anteriormente, mas os descendentes de Esaú os expulsaram. Destruíram-nos e habitaram em seu lugar, como Israel fez com a terra de sua possessão que Yahweh lhes deu). ^v12
 
-**13** Levantai-vos agora, e passai o ribeiro de Zerede. Assim passamos o ribeiro de Zerede. ^v13
+**13** 'Agora, levantai-vos e atravessai o ribeiro de Zerede'. Atravessamos o ribeiro de Zerede. ^v13
 
-**14** E os dias que caminhamos, desde Cades-Barnéia até que passamos o ribeiro de Zerede, foram trinta e oito anos, até que toda aquela geração dos homens de guerra se consumiu do meio do arraial, como o Senhor lhes jurara. ^v14
+**14** Os dias, desde que chegamos de Cades-Barneia até atravessarmos o ribeiro de Zerede, foram trinta e oito anos. Isto foi naquele tempo em que toda a geração de homens preparados para a batalha havia desaparecido daquele povo, assim como Yahweh havia prometido. ^v14
 
-**15** Assim também foi contra eles a mão do Senhor, para os destruir do meio do arraial até os haver consumido. ^v15
+**15** Além disso, a mão de Yahweh era contra aquela geração, para destruir o povo até que desaparecesse. ^v15
 
-**16** E sucedeu que, sendo já consumidos todos os homens de guerra, pela morte, do meio do povo, ^v16
+**16** Estas coisas aconteceram quando todo homem de guerra dentre o povo já havia morrido. ^v16
 
-**17** O Senhor me falou, dizendo: ^v17
+**17** Sobre isso, Yahweh me falou, dizendo: ^v17
 
-**18** Hoje passarás a Ar, pelos termos de Moabe; ^v18
+**18** 'Passa hoje por Ar, fronteira de Moabe. ^v18
 
-**19** E chegando até defronte dos filhos de Amom, não os molestes, e com eles não contendas; porque da terra dos filhos de Amom não te darei herança, porquanto aos filhos de Ló a tenho dado por herança. ^v19
+**19** Quando te aproximares dos amonitas, não os incomodes ou lutes com eles, pois não te darei terra alguma dos amonitas como possessão, porque tenho dado aos descendentes de Ló como possessão'. ^v19
 
-**20** (Também essa foi considerada terra de gigantes; antes nela habitavam gigantes, e os amonitas os chamavam zamzumins; ^v20
+**20** (Esta também é considerada terra dos refains. Os refains habitaram lá anteriormente, mas os amonitas os chamavam de zanzumitas, ^v20
 
-**21** Um povo grande, e numeroso, e alto, como os gigantes; e o Senhor os destruiu de diante dos amonitas, e estes os lançaram fora, e habitaram no seu lugar; ^v21
+**21** um povo grande e numeroso, tão alto quanto os anaqueus. Mas Yahweh os destruiu diante dos amonitas e os sucederam e habitaram no seu lugar. ^v21
 
-**22** Assim como fez com os filhos de Esaú, que habitavam em Seir, de diante dos quais destruiu os horeus, e eles os lançaram fora, e habitaram no lugar deles até este dia; ^v22
+**22** Assim também, Yahweh fez ao povo de Esaú, que habita em Seir, quando destruiu os horeus de diante deles e os descendentes de Esaú os sucederam e habitaram em seu lugar até o dia de hoje. ^v22
 
-**23** Também os caftorins, que saíram de Caftor, destruíram os aveus, que habitavam em Cazerim até Gaza, e habitaram no lugar deles). ^v23
+**23** Quanto aos caftoritas, que vieram de Caftor, destruíram os aveus, que habitavam em povoados de Gaza, e habitaram no lugar deles). ^v23
 
-**24** Levantai-vos, parti e passai o ribeiro de Arnom; eis aqui na tua mão tenho dado a Siom, amorreu, rei de Hesbom, e a sua terra; começa a possuí-la, e contende com eles em peleja. ^v24
+**24** 'Agora, levanta-te, vai pelo caminho e atravessa o vale de Arnom; olha, tenho dado, em tuas mãos Siom, o amorreu, rei de Hesbon, e suas terras. Começa a possuí-las e luta contra eles em batalha. ^v24
 
-**25** Neste dia começarei a pôr um terror e um medo de ti diante dos povos que estão debaixo de todo o céu; os que ouvirem a tua fama tremerão diante de ti e se angustiarão. ^v25
+**25** Hoje farei com que comecem a ter medo e terror de ti. Todo o povo, debaixo do céu inteiro, ouvirá notícias sobre ti e tremerá, e se angustiará por tua causa'. ^v25
 
-**26** Então mandei mensageiros desde o deserto de Quedemote a Siom, rei de Hesbom, com palavras de paz, dizendo: ^v26
+**26** Enviei mensageiros do deserto de Quedemote para Siom, rei de Hesbom, com palavras de paz, dizendo: ^v26
 
-**27** Deixa-me passar pela tua terra; somente pela estrada irei; não me desviarei para a direita nem para a esquerda. ^v27
+**27** 'Deixa-me passar por tua terra. Irei somente pela estrada, não irei nem para direita e nem para a esquerda. ^v27
 
-**28** A comida, para que eu coma, vender-me-ás por dinheiro, e dar-me-ás por dinheiro a água para que eu beba; tão-somente deixa-me passar a pé; ^v28
+**28** Tu me venderás comida por dinheiro, para que eu coma e me darás água por dinheiro, para que beba. Apenas deixa-me atravessar a pé, ^v28
 
-**29** Como fizeram comigo os filhos de Esaú, que habitam em Seir, e os moabitas que habitam em Ar; até que eu passe o Jordão, à terra que o Senhor nosso Deus nos há de dar. ^v29
+**29** assim como os descendentes de Esaú, que habitam em Seir, e os moabitas, que habitam em Ar, fizeram por mim, até que eu passe o Jordão para a terra que Yahweh, nosso Deus, nos dá'. ^v29
 
-**30** Mas Siom, rei de Hesbom, não nos quis deixar passar por sua terra, porquanto o Senhor teu Deus endurecera o seu espírito, e fizera obstinado o seu coração para to dar na tua mão, como hoje se vê. ^v30
+**30** Mas Siom, rei de Hesbom, não nos deixou passar por ele, pois Yahweh, nosso Deus, endureceu a sua mente e fez o seu coração ficar obstinado, para que o derrotasse pelo Seu poder, como aconteceu hoje. ^v30
 
-**31** E o Senhor me disse: Eis aqui, tenho começado a dar-te Siom, e a sua terra; começa, pois, a possuí-la para que herdes a sua terra. ^v31
+**31** Yahweh me disse: 'Olha, comecei a dar Siom e sua terra diante de ti, começa a possuí-la a fim de herdares a sua terra'. ^v31
 
-**32** E Siom saiu-nos ao encontro, ele e todo o seu povo, à peleja, em Jaza; ^v32
+**32** Então, Siom veio contra nós, ele e todo o povo para lutar em Jaza. ^v32
 
-**33** E o Senhor nosso Deus no-lo entregou, e o ferimos a ele, e a seus filhos, e a todo o seu povo. ^v33
+**33** Yahweh, nosso Deus, o entregou a nós e o derrotamos, o ferimos de morte, com seus filhos e todo o seu povo. ^v33
 
-**34** E naquele tempo tomamos todas as suas cidades, e cada uma destruímos com os seus homens, mulheres e crianças; não deixamos a ninguém. ^v34
+**34** Tomamos todas as cidades naquele dia e destruímos completamente todos os habitantes, mulheres e crianças, não deixamos nenhum sobrevivente. ^v34
 
-**35** Somente tomamos por presa o gado para nós, e o despojo das cidades que tínhamos tomado. ^v35
+**35** Trouxemos somente o gado como despojo para nós mesmos, assim como os despojos das cidades que tomamos. ^v35
 
-**36** Desde Aroer, que está à margem do ribeiro de Arnom, e a cidade que está junto ao ribeiro, até Gileade, nenhuma cidade houve que de nós escapasse; tudo isto o Senhor nosso Deus nos entregou. ^v36
+**36** Desde Aroer, que esta à beira do vale de Arnom e da cidade que está no vale, todo o caminho até Gileade, não existia cidade alta demais para nós. Yahweh nosso Deus nos deu vitória sobre todos os nossos inimigos diante de nós. ^v36
 
-**37** Somente à terra dos filhos de Amom não chegastes; nem a toda a margem do ribeiro de Jaboque, nem às cidades da montanha, nem a coisa alguma que nos proibira o Senhor nosso Deus. ^v37
+**37** Não fomos à cidade dos descendentes de Amom, assim como à margem do ribeiro de Jaboque nem às cidades das colinas ou a qualquer lugar que Yahweh, nosso Deus, tivesse nos proibido de ir. ^v37

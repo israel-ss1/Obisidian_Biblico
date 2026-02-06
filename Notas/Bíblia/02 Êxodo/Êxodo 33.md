@@ -1,53 +1,52 @@
 ---
-Livro: "[[Êxodo|Êxodo]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Êxodo|Êxodo]]"
+tags: [biblia]
 ---
 
 # Êxodo 33
 
-**1** Disse mais o SENHOR a Moisés: Vai, sobe daqui, tu e o povo que fizeste subir da terra do Egito, à terra que jurei a Abraão, a Isaque, e a Jacó, dizendo: À tua descendência a darei. ^v1
+**1** "Yahweh disse a Moisés: ""Parte daqui, tu e o povo que tiraste da terra do Egito. Vái para a terra a respeito da qual tenho feito um juramento a Abraão, a Isaque e a Jacó, quando Eu disse: 'Eu a darei à tua descendência'." ^v1
 
-**2** E enviarei um anjo adiante de ti, e lançarei fora os cananeus, e os amorreus, e os heteus, e os perizeus, e os heveus, e os jebuseus, ^v2
+**2** Enviarei um anjo à tua frente, e expulsarei os cananeus, os amorreus, os heteus, os perizeus, os heveus e os jebuseus. ^v2
 
-**3** A uma terra que mana leite e mel; porque eu não subirei no meio de ti, porquanto és povo de dura cerviz, para que te não consuma eu no caminho. ^v3
+**3** "Vai para a terra da qual está fluindo leite e mel, porém Eu não irei contigo, porque és um povo muito teimoso. Eu poderei destruir-te no caminho""." ^v3
 
-**4** E, ouvindo o povo esta má notícia, pranteou-se e ninguém pôs sobre si os seus atavios. ^v4
+**4** Quando o povo ouviu essas palavras inquietantes, pranteou, e não se adornou de jóias. ^v4
 
-**5** Porquanto o Senhor tinha dito a Moisés: Dize aos filhos de Israel: És povo de dura cerviz; se por um momento subir no meio de ti, te consumirei; porém agora tira os teus atavios, para que eu saiba o que te hei de fazer. ^v5
+**5** "Yahweh havia dito a Moisés: ""Dize aos israelitas: 'Sois um povo teimoso. Se Eu fosse no meio de vós, ainda que por um momento, vos destruiria. Portanto, tirai os vossos adornos para que Eu decida o que fazer convosco'""." ^v5
 
-**6** Então os filhos de Israel se despojaram dos seus atavios, ao pé do monte Horebe. ^v6
+**6** Então os israelitas não usaram jóias, desde o monte Horebe em diante. ^v6
 
-**7** E tomou Moisés a tenda, e a estendeu para si fora do arraial, desviada longe do arraial, e chamou-lhe a tenda da congregação. E aconteceu que todo aquele que buscava o Senhor saía à tenda da congregação, que estava fora do arraial. ^v7
+**7** Moisés tomou uma tenda, e a armou do lado de fora do acampamento, a uma certa distância. Ele a chamou de Tenda do encontro. Todo aquele que pedia qualquer coisa a Yahweh ia à Tenda do encontro, fora do acampamento. ^v7
 
-**8** E acontecia que, saindo Moisés à tenda, todo o povo se levantava, e cada um ficava em pé à porta da sua tenda; e olhava para Moisés pelas costas, até ele entrar na tenda. ^v8
+**8** Quando Moisés ia à Tenda, todo o povo se levantava e ficava de pé na entrada de sua própria tenda, observando Moisés, até que ele entrasse na Tenda. ^v8
 
-**9** E sucedia que, entrando Moisés na tenda, descia a coluna de nuvem, e punha-se à porta da tenda; e o Senhor falava com Moisés. ^v9
+**9** E quando Moisés entrava na Tenda, a coluna de nuvem descia e ficava à entrada da Tenda, e Yahweh falava com Moisés. ^v9
 
-**10** E, vendo todo o povo a coluna de nuvem que estava à porta da tenda, todo o povo se levantava e cada um, à porta da sua tenda, adorava. ^v10
+**10** Sempre que o povo via a coluna de nuvem parada em frente à entrada da Tenda, todos se levantavam e adoravam, cada um na entrada de sua tenda. ^v10
 
-**11** E falava o Senhor a Moisés face a face, como qualquer fala com o seu amigo; depois tornava-se ao arraial; mas o seu servidor, o jovem Josué, filho de Num, nunca se apartava do meio da tenda. ^v11
+**11** E Yahweh falava com Moisés face a face, como quem fala com seu amigo. Em seguida, Moisés voltava para o acampamento, mas o seu servo, o jovem Josué, filho de Num, permanecia na Tenda. ^v11
 
-**12** E Moisés disse ao Senhor: Eis que tu me dizes: Faze subir a este povo, porém não me fazes saber a quem hás de enviar comigo; e tu disseste: Conheço-te por teu nome, também achaste graça aos meus olhos. ^v12
+**12** "E Moisés disse a Yahweh: ""Tu me dizes: 'Leva este povo em sua jornada', mas não tens me mostrado quem enviarás comigo. Disseste também: 'Conheço-Te por teu nome, e achaste favor aos Meus olhos." ^v12
 
-**13** Agora, pois, se tenho achado graça aos teus olhos, rogo-te que me faças saber o teu caminho, e conhecer-te-ei, para que ache graça aos teus olhos; e considera que esta nação é o teu povo. ^v13
+**13** "Se achei favor aos Teus olhos, rogo-Te que agora me mostres os Teus caminhos, para que eu Te conheça, a fim de que continue a achar favor aos Teus olhos. Lembra-Te de que esta nação é o Teu povo""." ^v13
 
-**14** Disse pois: Irá a minha presença contigo para te fazer descansar. ^v14
+**14** "Yahweh respondeu-lhe: ""Eu mesmo irei contigo, e te darei descanso""." ^v14
 
-**15** Então lhe disse: Se tu mesmo não fores conosco, não nos faças subir daqui. ^v15
+**15** "Então Moisés lhe disse: ""Se Tu mesmo não fores conosco, não nos tires daqui." ^v15
 
-**16** Como, pois, se saberá agora que tenho achado graça aos teus olhos, eu e o teu povo? Acaso não é por andares tu conosco, de modo a sermos separados, eu e o teu povo, de todos os povos que há sobre a face da terra? ^v16
+**16** "Caso contrário, como saber que encontrei favor aos Teus olhos, eu e o Teu povo? Acaso não é somente por andares conosco, que eu e o Teu povo somos diferentes de todos os outros povos da face da terra?""" ^v16
 
-**17** Então disse o Senhor a Moisés: Farei também isto, que tens dito; porquanto achaste graça aos meus olhos, e te conheço por nome. ^v17
+**17** "E Yahweh disse a Moisés: ""Farei também isso que Me pediste, pois achaste favor aos Meus olhos, e te conheço pelo nome""." ^v17
 
-**18** Então ele disse: Rogo-te que me mostres a tua glória. ^v18
+**18** "Disse Moisés: ""Por favor, mostra-me a Tua glória""." ^v18
 
-**19** Porém ele disse: Eu farei passar toda a minha bondade por diante de ti, e proclamarei o nome do Senhor diante de ti; e terei misericórdia de quem eu tiver misericórdia, e me compadecerei de quem eu me compadecer. ^v19
+**19** "Yahweh disse: ""Farei passar toda a minha bondade diante de ti, e diante de ti proclamarei o meu nome, 'Yahweh'. Eu serei gracioso com quem Eu quiser ser gracioso, e mostrarei misericórdia a quem Eu quiser mostrar misericórdia""." ^v19
 
-**20** E disse mais: Não poderás ver a minha face, porquanto homem nenhum verá a minha face, e viverá. ^v20
+**20** "Porém Yahweh disse: ""Não poderás ver a Minha face, porque ninguém pode ver a Minha face e viver""." ^v20
 
-**21** Disse mais o Senhor: Eis aqui um lugar junto a mim; aqui te porás sobre a penha. ^v21
+**21** "Yahweh disse: ""Vê, eis um lugar próximo de Mim; Tu ficarás sobre esta rocha." ^v21
 
-**22** E acontecerá que, quando a minha glória passar, pôr-te-ei numa fenda da penha, e te cobrirei com a minha mão, até que eu haja passado. ^v22
+**22** Enquanto a Minha glória passar, te colocarei numa fenda da rocha, e te cobrirei com Minha mão até Eu passar. ^v22
 
-**23** E, havendo eu tirado a minha mão, me verás pelas costas; mas a minha face não se verá. ^v23
+**23** "Então, tirarei a Minha mão e verás as Minhas costas, mas a Minha face não será vista""." ^v23

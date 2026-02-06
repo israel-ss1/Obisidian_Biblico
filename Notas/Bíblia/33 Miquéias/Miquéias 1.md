@@ -1,39 +1,38 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Miquéias|Miquéias]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Miquéias|Miquéias]]"
+tags: [biblia]
 ---
 
 # Miquéias 1
 
-**1** Palavra do SENHOR, que veio a Miquéias, morastita, nos dias de Jotão, Acaz e Ezequias, reis de Judá, a qual ele viu sobre Samaria e Jerusalém. ^v1
+**1** Esta é a palavra de Yahweh, vinda em visão a Miqueias, o morastita, nos dias de Jotão, Acaz e Ezequias, reis de Judá, a respeito de Samaria e Jerusalém. ^v1
 
-**2** Ouvi, todos os povos, presta atenção, ó terra, e tudo o que nela há; e seja o Senhor DEUS testemunha contra vós, o Senhor, desde o seu santo templo. ^v2
+**2** Ouvi, vós todos os povos. Ouvi, ó terra, e tudo que está em ti. Seja o Senhor Yahweh testemunha contra vós, o Senhor, do Seu santo templo. ^v2
 
-**3** Porque eis que o Senhor está para sair do seu lugar, e descerá, e andará sobre as alturas da terra. ^v3
+**3** Vede! Yahweh sai do Seu lugar; Ele descerá e pisará sobre os lugares altos na terra. ^v3
 
-**4** E os montes debaixo dele se derreterão, e os vales se fenderão, como a cera diante do fogo, como as águas que se precipitam num abismo. ^v4
+**4** As montanhas se derreterão diante Dele; os vales serão derretidos como a cera diante do fogo, como águas que são derramadas de lugares elevados. ^v4
 
-**5** Tudo isto por causa da transgressão de Jacó, e dos pecados da casa de Israel. Qual é a transgressão de Jacó? Não é Samaria? E quais os altos de Judá? Não é Jerusalém? ^v5
+**5** Tudo isso por causa da rebelião de Jacó e por causa dos pecados da casa de Israel. Qual foi o motivo da rebelião de Jacó? Não foi Samaria? E dos lugares altos de Judá? Não foi Jerusalém? ^v5
 
-**6** Por isso farei de Samaria um montão de pedras do campo, uma terra de plantar vinhas, e farei rolar as suas pedras no vale, e descobrirei os seus fundamentos. ^v6
+**6** Farei de Samaria um monte de ruínas no campo, como um lugar para plantar vinhedos. Levarei suas pedras de construção para os vales e deixarei suas fundações expostas. ^v6
 
-**7** E todas as suas imagens de escultura serão despedaçadas, e todas as suas ofertas serão queimadas pelo fogo, e de todos os seus ídolos eu farei uma assolação; porque pela paga de prostituta os ajuntou, e para a paga de prostituta voltarão. ^v7
+**7** Todas as suas imagens esculpidas serão quebradas em pedaços; e todas as ofertas para ela serão queimadas. E de todos os seus ídolos farei uma ruína. Pois ela os ajuntou pelo pagamento de uma prostituta e por pagamento de uma prostituta eles voltarão. ^v7
 
-**8** Por isso lamentarei, e gemerei, andarei despojado e nu; farei lamentação como de chacais, e pranto como de avestruzes. ^v8
+**8** Por essa razão, lamentarei e uivarei; andarei descalço e nu; lamentarei como os chacais e gemerei como a coruja. ^v8
 
-**9** Porque a sua chaga é incurável, porque chegou até Judá; estendeu-se até à porta do meu povo, até Jerusalém. ^v9
+**9** Porque suas feridas são incuravéis, pois chegaram até Judá, e alcançaram o portão do meu povo, até Jerusalém. ^v9
 
-**10** Não o anuncieis em Gate, nem choreis muito; revolve-te no pó, na casa de Afra. ^v10
+**10** Não faleis sobre isso em Gate; nem tampouco choreis. Em Bete-Leafra, eu me revolvo no pó. ^v10
 
-**11** Passa, ó moradora de Safir, em vergonhosa nudez; a moradora de Zaanã não saiu; o pranto de Bete-Ezel tirará de vós a sua posição. ^v11
+**11** Passai, habitantes de Safir, em vergonha e nudez. Não saiais, habitantes de Zaanã. Beth-Ezel, pranteai, porque a vossa proteção foi tirada. ^v11
 
-**12** Porque a moradora de Marote sofre pelo bem; porque desceu do Senhor o mal até à porta de Jerusalém. ^v12
+**12** Porque os habitantes de Marote esperam ansiosamente por boas novas, pois de Yahweh desceu a calamidade até os portões de Jerusalém. ^v12
 
-**13** Ata os animais ligeiros ao carro, ó moradora de Laquis; esta foi o princípio do pecado para a filha de Sião, porque em ti se acharam as transgressões de Israel. ^v13
+**13** Atai os cavalos às carruagens, ó habitantes de Laquis. Tu, Laquis, foste o princípio do pecado para a filha de Sião, porque a transgressão de Israel foi achada em ti. ^v13
 
-**14** Por isso darás presentes a Moresete-Gate; as casas de Aczibe se tornarão em engano para os reis de Israel. ^v14
+**14** Por isso, oferecerás um presente de despedida a Moresete-Gate; a cidade de Acazib enganará os reis de Israel. ^v14
 
-**15** Ainda trarei a ti, ó moradora de Maressa, aquele que te possuirá; chegará até Adulão a glória de Israel. ^v15
+**15** Eu trarei um conquistador para vós, habitantes de Maressa; o esplendor de Israel virá a Adulão. ^v15
 
-**16** Faze-te calva, e tosquia-te, por causa dos filhos das tuas delícias; alarga a tua calva como a águia, porque de ti foram levados cativos. ^v16
+**16** Raspai vossas cabeças e cortai vossos cabelos por causa dos filhos de tuas delícias. Ficai calvos como águias, pois vossos filhos serão levados ao exílio. ^v16

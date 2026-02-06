@@ -1,57 +1,56 @@
 ---
-Livro: "[[Números|Números]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Números|Números]]"
+tags: [biblia]
 ---
 
 # Números 24
 
-**1** Vendo Balaão que bem parecia aos olhos do SENHOR que abençoasse a Israel, não se foi esta vez como antes ao encontro dos encantamentos; mas voltou o seu rosto para o deserto. ^v1
+**1** Quando Balaão viu que agradava a Yahweh em abençoar Israel, ele não fez, como das outras vezes, uso da feitiçaria. Ao invés disso, olhou em direção ao deserto. ^v1
 
-**2** E, levantando Balaão os seus olhos, e vendo a Israel, que estava acampado segundo as suas tribos, veio sobre ele o Espírito de Deus. ^v2
+**2** Levantou seus olhos e viu que Israel estava acampada, cada um em sua própria tribo, e o Espírito de Deus veio sobre ele. ^v2
 
-**3** E proferiu a sua parábola, e disse: Fala, Balaão, filho de Beor, e fala o homem de olhos abertos; ^v3
+**3** "Ele recebeu essa profecia e disse: ""Balaão, filho de Beor, está para falar, o homem cujos olhos estão bem abertos." ^v3
 
-**4** Fala aquele que ouviu as palavras de Deus, o que vê a visão do Todo-Poderoso; que cai, e se lhe abrem os olhos: ^v4
+**4** Ele fala e ouve as palavras de Deus. Ele vê a visão do Todo Poderoso, diante de quem ele se ajoelha de olhos abertos. ^v4
 
-**5** Quão formosas são as tuas tendas, ó Jacó, as tuas moradas, ó Israel! ^v5
+**5** Quão bonitas são suas tendas, Jacó, o lugar em que vives, Israel! ^v5
 
-**6** Como ribeiros se estendem, como jardins à beira dos rios; como árvores de sândalo o Senhor os plantou, como cedros junto às águas; ^v6
+**6** Como vales eles se espalham, como jardins à beira do rio, como aloés plantados por Yahweh, como cedros ao lado das águas. ^v6
 
-**7** De seus baldes manarão águas, e a sua semente estará em muitas águas; e o seu rei se erguerá mais do que Agague, e o seu reino será exaltado. ^v7
+**7** Água flui de seus baldes, e suas sementes são bem regadas. Seu rei se elevará mais do que Agague, e seu reino será honrado. ^v7
 
-**8** Deus o tirou do Egito; as suas forças são como as do boi selvagem; consumirá as nações, seus inimigos, e quebrará seus ossos, e com as suas setas os atravessará. ^v8
+**8** Deus o traz do Egito com a força de um boi selvagem. Devorará as nações que lutam contra ele. Quebrará os seus ossos em pedaços, os atravessar'a com suas flechas. ^v8
 
-**9** Encurvou-se, deitou-se como leão, e como leoa; quem o despertará? benditos os que te abençoarem, e malditos os que te amaldiçoarem. ^v9
+**9** "Ele se agacha como um leão e como uma leoa, quem se atreve a perturbá-lo? Que todos os que o abençoarem sejam abençoados; que todos os que o amaldiçoarem sejam amaldiçoados""." ^v9
 
-**10** Então a ira de Balaque se acendeu contra Balaão, e bateu ele as suas palmas; e Balaque disse a Balaão: Para amaldiçoar os meus inimigos te tenho chamado; porém agora já três vezes os abençoaste inteiramente. ^v10
+**10** "Então, a ira de Balaque se acendeu contra Balaão e ele bateu suas mãos juntas em raiva. Balaque disse a Balaão: ""Eu te chamei para amaldiçoar meus inimigos, mas vê, tu os tens abençoado três vezes." ^v10
 
-**11** Agora, pois, foge para o teu lugar; eu tinha dito que te honraria grandemente; mas eis que o Senhor te privou desta honra. ^v11
+**11** "Então, deixa-me agora e vai para o teu lugar. Disse que te cobriria de honras, mas Yahweh te impediu de obter qualquer recompensa""." ^v11
 
-**12** Então Balaão disse a Balaque: Não falei eu também aos teus mensageiros, que me enviaste, dizendo: ^v12
+**12** "Então, Balaão respondeu a Balaque: ""Eu disse aos mensageiros que tu me enviaste:" ^v12
 
-**13** Ainda que Balaque me desse a sua casa cheia de prata e ouro, não poderia ir além da ordem do Senhor, fazendo bem ou mal de meu próprio coração; o que o Senhor falar, isso falarei eu? ^v13
+**13** 'Ainda que Balaque me desse seu palácio cheio de prata e ouro, não poderia ir além das palavras de Yahweh e fazer por mim mesmo bem ou mal. Direi apenas o que Yahweh me ordenar a dizer'. Não lhes disse isso? ^v13
 
-**14** Agora, pois, eis que me vou ao meu povo; vem, avisar-te-ei do que este povo fará ao teu povo nos últimos dias. ^v14
+**14** "Então, agora, vê, voltarei para meu povo, mas primeiro deixa-me avisar sobre o que estas pessoas farão ao teu povo nos dias à frente""." ^v14
 
-**15** Então proferiu a sua parábola, e disse: Fala Balaão, filho de Beor, e fala o homem de olhos abertos; ^v15
+**15** "Balaão começou a profetizar. Ele disse: ""Balaão, filho de Beor fala, o homem cujos olhos estão bem abertos." ^v15
 
-**16** Fala aquele que ouviu as palavras de Deus, e o que sabe a ciência do Altíssimo; o que viu a visão do Todo-Poderoso, que cai, e se lhe abrem os olhos. ^v16
+**16** Essa é a profecia de alguém que ouve as palavras de Deus, que tem o conhecimento do Altíssimo, que tem visões do Todo Poderoso, diante de Quem ele se ajoelha de olhos abertos. ^v16
 
-**17** Vê-lo-ei, mas não agora, contemplá-lo-ei, mas não de perto; uma estrela procederá de Jacó e um cetro subirá de Israel, que ferirá os termos dos moabitas, e destruirá todos os filhos de Sete. ^v17
+**17** Eu O vejo, mas Ele não está aqui agora. Eu olho para Ele, mas Ele não está perto. Uma estrela virá de Jacó, e um cetro subirá de Israel. Ele quebrará os líderes de Moabe e lhes destruirá a todos os descendentes de Sete. ^v17
 
-**18** E Edom será uma possessão, e Seir, seus inimigos, também será uma possessão; pois Israel fará proezas. ^v18
+**18** Então, Edom se tornará posse de Israel, e Seir também será sua possessão, inimigos de Israel, a quem Israel conquistará com força. ^v18
 
-**19** E dominará um de Jacó, e matará os que restam das cidades. ^v19
+**19** "De Jacó, virá um rei que terá domínio, e destruirá os sobreviventes da cidade""." ^v19
 
-**20** E vendo os amalequitas, proferiu a sua parábola, e disse: Amaleque é a primeira das nações; porém o seu fim será a destruição. ^v20
+**20** "Então, Balaão olhou para Amaleque e começou a profetizar. Disse-lhe: ""Amaleque já foi a maior das nações, mas seu fim será destruição""." ^v20
 
-**21** E vendo os quenitas, proferiu a sua parábola, e disse: Firme está a tua habitação, e puseste o teu ninho na penha. ^v21
+**21** "Então, Balaão olhou em direção aos queneus e começou a profetizar. Disse-lhes: ""O lugar em que viveis é forte, e vossos ninhos estão nas rochas." ^v21
 
-**22** Todavia o quenita será consumido, até que Assur te leve por prisioneiro. ^v22
+**22** "No entanto, o queneu será arruinado quando Assur vos levar cativos""." ^v22
 
-**23** E, proferindo ainda a sua parábola, disse: Ai, quem viverá, quando Deus fizer isto? ^v23
+**23** "Então, Balaão começou sua última profecia. Ele disse: ""Ai! Quem sobreviverá quando Deus fizer isso?" ^v23
 
-**24** E as naus virão das costas de Quitim e afligirão a Assur; também afligirão a Éber; que também será para destruição. ^v24
+**24** "Navios virão da costa de Quitim; eles atacarão Assur e conquistarão Éber, mas eles, também, acabarão em destruição""." ^v24
 
-**25** Então Balaão levantou-se, e se foi, e voltou ao seu lugar, e também Balaque se foi pelo seu caminho. ^v25
+**25** Então, Balaão se levantou e partiu. Retornou para sua casa, e Balaque também partiu. ^v25

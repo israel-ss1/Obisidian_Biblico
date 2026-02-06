@@ -1,75 +1,74 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Mateus|Mateus]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Mateus|Mateus]]"
+tags: [biblia]
 ---
 
 # Mateus 20
 
-**1** Porque o reino dos céus é semelhante a um homem, pai de família, que saiu de madrugada a assalariar trabalhadores para a sua vinha. ^v1
+**1** Pois o Reino dos Céus é como o dono de uma propriedade que saiu cedo, pela manhã, para contratar trabalhadores para a sua vinha. ^v1
 
-**2** E, ajustando com os trabalhadores a um dinheiro por dia, mandou-os para a sua vinha. ^v2
+**2** Após ter combinado com os trabalhadores um denário por dia, ele os enviou para a sua vinha. ^v2
 
-**3** E, saindo perto da hora terceira, viu outros que estavam ociosos na praça, ^v3
+**3** Ele saiu novamente por volta da terceira hora e viu outros trabalhadores ociosos na praça. ^v3
 
-**4** E disse-lhes: Ide vós também para a vinha, e dar-vos-ei o que for justo. E eles foram. ^v4
+**4** E disse-lhes: 'Ide também vós a minha vinha, e eu vos darei o que for justo'. Então eles foram trabalhar. ^v4
 
-**5** Saindo outra vez, perto da hora sexta e nona, fez o mesmo. ^v5
+**5** Outra vez, ele saiu por volta da sexta hora e, de novo, na nona hora, e fez o mesmo. ^v5
 
-**6** E, saindo perto da hora undécima, encontrou outros que estavam ociosos, e perguntou- lhes: Por que estais ociosos todo o dia? ^v6
+**6** Uma vez mais, por volta da décima primeira hora, ele saiu e encontrou outros que estavam ociosos. E perguntou-lhes: 'Por que estais aqui ociosos todo o dia?' ^v6
 
-**7** Disseram-lhe eles: Porque ninguém nos assalariou. Diz-lhes ele: Ide vós também para a vinha, e recebereis o que for justo. ^v7
+**7** Eles lhe responderam: 'Porque ninguém quis nos contratar'. Ele lhes disse: 'Ide também para a minha vinha'. ^v7
 
-**8** E, aproximando-se a noite, diz o senhor da vinha ao seu mordomo: Chama os trabalhadores, e paga-lhes o jornal, começando pelos derradeiros, até aos primeiros. ^v8
+**8** Quando a tarde chegou, o dono da vinha disse ao administrador: 'Chama os trabalhadores e paga-lhes o salário, começando do último até o primeiro'. ^v8
 
-**9** E, chegando os que tinham ido perto da hora undécima, receberam um dinheiro cada um. ^v9
+**9** Quando os trabalhadores que foram contratados na décima primeira hora chegaram, cada um deles recebeu um denário. ^v9
 
-**10** Vindo, porém, os primeiros, cuidaram que haviam de receber mais; mas do mesmo modo receberam um dinheiro cada um. ^v10
+**10** Quando os primeiros trabalhadores chegaram, eles pensaram que poderiam receber mais, contudo cada um deles também recebeu um denário. ^v10
 
-**11** E, recebendo-o, murmuravam contra o pai de família, ^v11
+**11** Quando eles receberam seus pagamentos, queixaram-se do dono da propriedade. ^v11
 
-**12** Dizendo: Estes derradeiros trabalharam só uma hora, e tu os igualaste conosco, que suportamos a fadiga e a calma do dia. ^v12
+**12** Eles disseram: 'Estes últimos trabalharam somente uma hora, mas tu os fizeste igual a nós, que suportamos o fadiga do dia e do intenso calor'. ^v12
 
-**13** Mas ele, respondendo, disse a um deles: Amigo, não te faço agravo; não ajustaste tu comigo um dinheiro? ^v13
+**13** Mas o dono respondeu a um deles, dizendo: 'Amigo, eu não te faço injustiça, não combinaste comigo por um denário? ^v13
 
-**14** Toma o que é teu, e retira-te; eu quero dar a este derradeiro tanto como a ti. ^v14
+**14** Recebe o que te pertence e vai embora; eu decidi dar a esses trabalhadores contratados por último exatamente o mesmo que a ti. ^v14
 
-**15** Ou não me é lícito fazer o que quiser do que é meu? Ou é mau o teu olho porque eu sou bom? ^v15
+**15** Não é meu direito fazer o que eu quiser com as minhas posses? Ou são teus olhos maus porque eu sou generoso?' ^v15
 
-**16** Assim os derradeiros serão primeiros, e os primeiros derradeiros; porque muitos são chamados, mas poucos escolhidos. ^v16
+**16** "Assim os últimos serão os primeiros, e os primeiros os últimos."" [Muitos são chamados, mas poucos são escolhidos. (os manuscritos mais antigos omitem esta parte)]" ^v16
 
-**17** E, subindo Jesus a Jerusalém, chamou à parte os seus doze discípulos, e no caminho disse-lhes: ^v17
+**17** Quando Jesus estava subindo para Jerusalém, chamou à parte os doze discípulos e, no caminho, disse-lhes: ^v17
 
-**18** Eis que vamos para Jerusalém, e o Filho do homem será entregue aos príncipes dos sacerdotes, e aos escribas, e condená-lo-ão à morte. ^v18
+**18** """Vede: Nós estamos subindo para Jerusalém, e o Filho do Homem será entregue aos principais sacerdotes e escribas. Eles O condenarão à morte" ^v18
 
-**19** E o entregarão aos gentios para que dele escarneçam, e o açoitem e crucifiquem, e ao terceiro dia ressuscitará. ^v19
+**19** "e O entregarão aos gentios para que zombem Dele, O açoitem e O crucifiquem. Mas no terceiro dia Ele ressuscitará""." ^v19
 
-**20** Então se aproximou dele a mãe dos filhos de Zebedeu, com seus filhos, adorando-o, e fazendo-lhe um pedido. ^v20
+**20** Então a mãe dos filhos de Zebedeu veio a Jesus com seus filhos. Ela se prostrou diante Dele e fez-Lhe um pedido. ^v20
 
-**21** E ele diz-lhe: Que queres? Ela respondeu: Dize que estes meus dois filhos se assentem, um à tua direita e outro à tua esquerda, no teu reino. ^v21
+**21** "Jesus perguntou-lhe: ""O que queres?"" Ela respondeu: ""Ordena que, no Teu reino, esses meus dois filhos possam sentar, um a Tua direita e outro a Tua esquerda""." ^v21
 
-**22** Jesus, porém, respondendo, disse: Não sabeis o que pedis. Podeis vós beber o cálice que eu hei de beber, e ser batizados com o batismo com que eu sou batizado? Dizem-lhe eles: Podemos. ^v22
+**22** "Mas Jesus respondeu e disse: ""Não sabeis o que estais pedindo. Vós sois capazes de beber o cálice que Eu estou prestes a beber?"" Eles responderam: ""Somos capazes""." ^v22
 
-**23** E diz-lhes ele: Na verdade bebereis o meu cálice e sereis batizados com o batismo com que eu sou batizado, mas o assentar-se à minha direita ou à minha esquerda não me pertence dá-lo, mas é para aqueles para quem meu Pai o tem preparado. ^v23
+**23** "Ele lhes disse: ""Meu cálice de fato vós bebereis. Mas sentar-se a minha direita e sentar-se a minha esquerda não cabe a Mim conceder, mas isso é para aqueles que foram preparados por Meu Pai""." ^v23
 
-**24** E, quando os dez ouviram isto, indignaram-se contra os dois irmãos. ^v24
+**24** Quando os outros dez discípulos ouviram isso, eles ficaram indignados com os dois irmãos. ^v24
 
-**25** Então Jesus, chamando-os para junto de si, disse: Bem sabeis que pelos príncipes dos gentios são estes dominados, e que os grandes exercem autoridade sobre eles. ^v25
+**25** "Mas Jesus chamou-os para Si e disse-lhes: ""Sabeis que os governantes dos gentios os subjulgam, e os homens mais importantes exercem autoridade sobre eles." ^v25
 
-**26** Não será assim entre vós; mas todo aquele que quiser entre vós fazer-se grande seja vosso serviçal; ^v26
+**26** Mas não deve ser dessa forma entre vós. Ao contrário, qualquer que deseja se tornar grande entre vós deve ser o vosso servo; ^v26
 
-**27** E, qualquer que entre vós quiser ser o primeiro, seja vosso servo; ^v27
+**27** e qualquer que deseja ser o primeiro entre vós deve ser o vosso servo; ^v27
 
-**28** Bem como o Filho do homem não veio para ser servido, mas para servir, e para dar a sua vida em resgate de muitos. ^v28
+**28** "assim como o Filho do Homem não veio para ser servido, mas para servir, e para dar sua vida como resgate de muitos""." ^v28
 
-**29** E, saindo eles de Jericó, seguiu-o grande multidão. ^v29
+**29** Quando eles saíram de Jericó, uma grande multidão O seguiu. ^v29
 
-**30** E eis que dois cegos, assentados junto do caminho, ouvindo que Jesus passava, clamaram, dizendo: Senhor, Filho de Davi, tem misericórdia de nós! ^v30
+**30** "E eis que dois homens cegos estavam sentados à beira da estrada; quando eles ouviram que Jesus estava passando perto, gritaram dizendo: ""Senhor, Filho de Davi, tem misericórdia de nós""." ^v30
 
-**31** E a multidão os repreendia, para que se calassem; eles, porém, cada vez clamavam mais, dizendo: Senhor, Filho de Davi, tem misericórdia de nós! ^v31
+**31** "Mas a multidão os repreendeu, dizendo-lhes que ficassem quietos. Contudo eles clamavam mais alto e diziam: ""Senhor, Filho de Davi, tem misericórdia nós""." ^v31
 
-**32** E Jesus, parando, chamou-os, e disse: Que quereis que vos faça? ^v32
+**32** "Então Jesus parou, chamou-os e disse: ""O que querem que Eu vos faça?""" ^v32
 
-**33** Disseram-lhe eles: Senhor, que os nossos olhos sejam abertos. ^v33
+**33** "Eles Lhe disseram: ""Senhor, que nossos olhos sejam abertos""." ^v33
 
-**34** Então Jesus, movido de íntima compaixão, tocou-lhes nos olhos, e logo seus olhos viram; e eles o seguiram. ^v34
+**34** Então Jesus, sendo movido de compaixão, tocou nos olhos deles. Imediatamente eles receberam a visão e o seguiram. ^v34

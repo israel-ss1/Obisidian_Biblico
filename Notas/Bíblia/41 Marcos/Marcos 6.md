@@ -1,119 +1,118 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Marcos|Marcos]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Marcos|Marcos]]"
+tags: [biblia]
 ---
 
 # Marcos 6
 
-**1** E, partindo dali, chegou à sua pátria, e os seus discípulos o seguiram. ^v1
+**1** Jesus saiu dali e veio para sua terra natal, e Seus discípulos O seguiram. ^v1
 
-**2** E, chegando o sábado, começou a ensinar na sinagoga; e muitos, ouvindo-o, se admiravam, dizendo: De onde lhe vêm estas coisas? e que sabedoria é esta que lhe foi dada? e como se fazem tais maravilhas por suas mãos? ^v2
+**2** "Quando chegou o Sabbath, Ele ensinou na sinagoga. Muitos O ouviram e ficaram maravilhados. Eles diziam: ""Onde Ele aprendeu esses ensinamentos?"". ""Que sabedoria é essa que Lhe foi dada?"". ""O que são esses milagres que Ele faz com Suas mãos?""." ^v2
 
-**3** Não é este o carpinteiro, filho de Maria, e irmão de Tiago, e de José, e de Judas e de Simão? e não estão aqui conosco suas irmãs? E escandalizavam-se nele. ^v3
+**3** """Não é Esse o carpinteiro, filho de Maria, e irmão de Tiago, José, Judas e Simão? Não estão Suas irmãs conosco?"". E eles se escandalizaram com Jesus." ^v3
 
-**4** E Jesus lhes dizia: Não há profeta sem honra senão na suapátria, entre os seus parentes, e na sua casa. ^v4
+**4** "E Jesus lhes disse: ""Não há profeta sem honra, a não ser em sua terra natal, e entre seus próprios parentes, e em sua própria casa""." ^v4
 
-**5** E não podia fazer ali nenhuma obra maravilhosa; somente curou alguns poucos enfermos, impondo-lhes as mãos. ^v5
+**5** Ele não podia realizar qualquer milagre ali, exceto a alguns doentes sobre os quais Ele impôs Suas mãos e os curou. ^v5
 
-**6** E estava admirado da incredulidade deles. E percorreu as aldeias vizinhas, ensinando. ^v6
+**6** A falta de fé deles O deixou atônito. E ele saiu pelas vilas ensinando. ^v6
 
-**7** Chamou a si os doze, e começou a enviá-los a dois e dois, e deu-lhes poder sobre os espíritos imundos; ^v7
+**7** Ele chamou os Doze e começou a enviá-los, dois a dois; e deu-lhes autoridade sobre os espíritos imundos, ^v7
 
-**8** E ordenou-lhes que nada tomassem para o caminho, senão somente um bordão; nem alforje, nem pão, nem dinheiro no cinto; ^v8
+**8** e Ele os instruiu que nada levassem pelo caminho, a não ser um cajado: nem pão, nem bolsa, nem dinheiro em seus cintos, ^v8
 
-**9** Mas que calçassem alparcas, e que não vestissem duas túnicas. ^v9
+**9** mas que calçassem sandálias e não vestissem duas túnicas. ^v9
 
-**10** E dizia-lhes: Na casa em que entrardes, ficai nela até partirdes dali. ^v10
+**10** "Disse-lhes ainda: ""Sempre que entrardes em uma casa, ficai nela até que deixeis o lugar." ^v10
 
-**11** E tantos quantos vos não receberem, nem vos ouvirem, saindo dali, sacudi o pó que estiver debaixo dos vossos pés, em testemunho contra eles. Em verdade vos digo que haverá mais tolerância no dia de juízo para Sodoma e Gomorra, do que para os daquela cidade. ^v11
+**11** "E se em algum lugar não vos receberem nem vos ouvirem, quando sairdes dali, sacudi a poeira debaixo de vossos pés, em testemunho contra eles""." ^v11
 
-**12** E, saindo eles, pregavam que se arrependessem. ^v12
+**12** Eles saíram e proclamaram que as pessoas deveriam arrepender-se de seus pecados. ^v12
 
-**13** E expulsavam muitos demônios, e ungiam muitos enfermos com óleo, e os curavam. ^v13
+**13** E expulsavam muitos demônios, ungiam muitos doentes com óleo e os curavam. ^v13
 
-**14** E ouviu isto o rei Herodes (porque o nome de Jesus se tornara notório), e disse: João, o que batizava, ressuscitou dentre os mortos, e por isso estas maravilhas operam nele. ^v14
+**14** "O rei Herodes ouvira isso, pois o nome de Jesus havia se tornado bastante conhecido. Alguns diziam: ""João, o Batista, foi levantado dentre os mortos e devido a isso, esses poderes miraculosos estão agindo Nele""." ^v14
 
-**15** Outros diziam: É Elias. E diziam outros: É um profeta, ou como um dos profetas. ^v15
+**15** "Outros diziam: ""Ele é Elias"". Ainda outros diziam: ""Ele é um profeta, como um dos profetas de antigamente""." ^v15
 
-**16** Herodes, porém, ouvindo isto, disse: Este é João, que mandei degolar; ressuscitou dentre os mortos. ^v16
+**16** "Mas quando Herodes ouviu isso, disse: ""João, o qual eu decapitei, foi ressuscitado""." ^v16
 
-**17** Porquanto o mesmo Herodes mandara prender a João, e encerrá-lo maniatado no cárcere, por causa de Herodias, mulher de Filipe, seu irmão, porquanto tinha casado com ela. ^v17
+**17** Pois o próprio Herodes havia mandado prender João e o colocou na prisão por causa de Herodias (esposa de seu irmão Filipe), pois ele havia se casado com ela. ^v17
 
-**18** Pois João dizia a Herodes: Não te é lícito possuir a mulher de teu irmão. ^v18
+**18** "Porque João dissera a Herodes: ""Não é lícito que possuas a esposa de teu irmão""." ^v18
 
-**19** E Herodias o espiava, e queria matá-lo, mas não podia. ^v19
+**19** No entanto, Herodias guardava rancor contra João e desejava matá-lo, mas não podia, ^v19
 
-**20** Porque Herodes temia a João, sabendo que era homem justo e santo; e guardava-o com segurança, e fazia muitas coisas, atendendo-o, e de boa mente o ouvia. ^v20
+**20** pois Herodes temia João, sabia que ele era um homem justo e santo, e o mantinha em segurança. Ao ouvir João, Herodes sentia-se incomodado, porém ouvia-o de boa vontade. ^v20
 
-**21** E, chegando uma ocasião favorável em que Herodes, no dia dos seus anos, dava uma ceia aos grandes, e tribunos, e príncipes da Galiléia, ^v21
+**21** Então, em um dia oportuno, por conta de seu aniversário, Herodes ofereceu um jantar a seus oficiais, comandantes e líderes da Galileia. ^v21
 
-**22** Entrou a filha da mesma Herodias, e dançou, e agradou a Herodes e aos que estavam com ele à mesa. Disse então o rei à menina: Pede-me o que quiseres, e eu to darei. ^v22
+**22** "A filha da própria Herodias veio e dançou para eles e ela agradou Herodes e seus convidados. O rei disse à menina: ""Pede-me qualquer coisa que desejares e eu te darei""." ^v22
 
-**23** E jurou-lhe, dizendo: Tudo o que me pedires te darei, até metade do meu reino. ^v23
+**23** "Ele jurou-lhe dizendo: ""Qualquer coisa que me pedires eu te darei, até mesmo metade do meu reino""." ^v23
 
-**24** E, saindo ela, perguntou a sua mãe: Que pedirei? E ela disse: A cabeça de João o Batista. ^v24
+**24** "Ela saiu e disse à sua mãe: ""O que devo pedir-lhe?"" Ela respondeu: ""A cabeça de João, o Batista""." ^v24
 
-**25** E, entrando logo, apressadamente, pediu ao rei, dizendo: Quero que imediatamente me dês num prato a cabeça de João o Batista. ^v25
+**25** "Ela imediatamente se apressou de volta ao rei e lhe pediu, dizendo: ""Desejo que me dês, agora mesmo, sobre um prato, a cabeça de João, o Batista""." ^v25
 
-**26** E o rei entristeceu-se muito; todavia, por causa do juramento e dos que estavam com ele à mesa, não lha quis negar. ^v26
+**26** O rei se entristeceu muito, mas por causa de seu juramento e dos convidados, não poderia recusar seu pedido. ^v26
 
-**27** E, enviando logo o rei o executor, mandou que lhe trouxessem ali a cabeça de João. E ele foi, e degolou-o na prisão; ^v27
+**27** Então o rei enviou um soldado de sua guarda e o ordenou a trazer a cabeça de João. O guarda foi e o decapitou na prisão. ^v27
 
-**28** E trouxe a cabeça num prato, e deu-a à menina, e a menina a deu a sua mãe. ^v28
+**28** Ele trouxe sua cabeça num prato e deu-a à menina e ela deu à sua mãe. ^v28
 
-**29** E os seus discípulos, tendo ouvido isto, foram, tomaram o seu corpo, e o puseram num sepulcro. ^v29
+**29** Ao ouvirem isso, seus discípulos vieram e colheram seu cadáver e o colocaram num túmulo. ^v29
 
-**30** E os apóstolos ajuntaram-se a Jesus, e contaram-lhe tudo, tanto o que tinham feito como o que tinham ensinado. ^v30
+**30** Os apóstolos, reunindo-se em volta de Jesus, contaram-Lhe tudo o que eles haviam feito e ensinado. ^v30
 
-**31** E ele disse-lhes: Vinde vós, aqui à parte, a um lugar deserto, e repousai um pouco. Porque havia muitos que iam e vinham, e não tinham tempo para comer. ^v31
+**31** "Ele lhes disse: ""Vinde à parte para um lugar deserto e descansai por um tempo"". Pois muitos estavam indo e vindo e eles não tiveram tempo nem mesmo para comer." ^v31
 
-**32** E foram sós num barco para um lugar deserto. ^v32
+**32** Então foram sós, num barco, para um lugar deserto. ^v32
 
-**33** E a multidão viu-os partir, e muitos o conheceram; e correram para lá, a pé, de todas as cidades, e ali chegaram primeiro do que eles, e aproximavam-se dele. ^v33
+**33** Mas muitos os viram saindo e os reconheceram, e correram juntos, a pé, de todas as cidades, e eles chegaram antes deles. ^v33
 
-**34** E Jesus, saindo, viu uma grande multidão, e teve compaixão deles, porque eram como ovelhas que não têm pastor; e começou a ensinar-lhes muitas coisas. ^v34
+**34** Quando desembarcaram, Jesus viu uma grande multidão e teve compaixão deles, porque eram como ovelhas sem um pastor. E Ele começou a ensiná-los muitas coisas. ^v34
 
-**35** E, como o dia fosse já muito adiantado, os seus discípulos se aproximaram dele, e lhe disseram: O lugar é deserto, e o dia está já muito adiantado. ^v35
+**35** "Quando a hora estava avançada, Seus discípulos vieram a Ele e disseram: ""Este é um lugar deserto e a hora já está avançada." ^v35
 
-**36** Despede-os, para que vão aos lugares e aldeias circunvizinhas, e comprem pão para si; porque não têm que comer. ^v36
+**36** "Despede-os para que possam ir a campos e vilas próximos comprar algo para comer""." ^v36
 
-**37** Ele, porém, respondendo, lhes disse: Dai-lhes vós de comer. E eles disseram-lhe: Iremos nós, e compraremos duzentos dinheiros de pão para lhes darmos de comer? ^v37
+**37** "Mas Jesus, respondendo, disse-lhes: ""Dai-lhes algo para comer"". Eles disseram-Lhe: ""Podemos ir e comprar duzentos denários de pão e dar-lhes para que comam?""." ^v37
 
-**38** E ele disse-lhes: Quantos pães tendes? Ide ver. E, sabendo-o eles, disseram: Cinco pães e dois peixes. ^v38
+**38** "Ele lhes disse: ""Quantos pães tendes vós? Ide e conferi"". Quando eles descobriram, disseram: ""Cinco pães e dois peixes""." ^v38
 
-**39** E ordenou-lhes que fizessem assentar a todos, em ranchos, sobre a erva verde. ^v39
+**39** Ele ordenou que todos sentassem em grupos sobre a grama verde. ^v39
 
-**40** E assentaram-se repartidos de cem em cem, e de cinqüenta em cinqüenta. ^v40
+**40** Eles sentaram em grupos; grupos de cem e de cinquenta. ^v40
 
-**41** E, tomando ele os cinco pães e os dois peixes, levantou os olhos ao céu, abençoou e partiu os pães, e deu-os aos seus discípulos para que os pusessem diante deles. E repartiu os dois peixes por todos. ^v41
+**41** Ele, pegando os cinco pães e dois peixes, olhando para o céu, abençoou e partiu os pães e os deu aos discípulos para que colocassem em frente à multidão. E dividiu os dois peixes entre todos. ^v41
 
-**42** E todos comeram, e ficaram fartos; ^v42
+**42** Todos comeram até se saciarem. ^v42
 
-**43** E levantaram doze alcofas cheias de pedaços de pão e de peixe. ^v43
+**43** Eles coletaram os pedaços de pães partidos, doze cestos cheios, e também pedaços de peixe. ^v43
 
-**44** E os que comeram os pães eram quase cinco mil homens. ^v44
+**44** Eram cinco mil homens os que comeram os pães. ^v44
 
-**45** E logo obrigou os seus discípulos a subir para o barco, e passar adiante, para o outro lado, a Betsaida, enquanto ele despedia a multidão. ^v45
+**45** Imediatamente Ele fez Seus discípulos entrarem no barco e seguirem à Sua frente para o outro lado, para Betsaida, enquanto Jesus dispersava a multidão. ^v45
 
-**46** E, tendo-os despedido, foi ao monte a orar. ^v46
+**46** Quando eles saíram, Ele subiu a montanha para orar. ^v46
 
-**47** E, sobrevindo a tarde, estava o barco no meio do mar e ele, sozinho, em terra. ^v47
+**47** A noite veio, o barco estava agora no meio do mar, e Ele estava sozinho em terra. ^v47
 
-**48** E vendo que se fatigavam a remar, porque o vento lhes era contrário, perto da quarta vigília da noite aproximou-se deles, andando sobre o mar, e queria passar-lhes adiante. ^v48
+**48** Ele viu que eles estavam tendo grande dificuldade ao remar, pois o vento era contrário. Então, por volta da quarta vigília da noite, Ele veio a eles, andando sobre o mar, e queria passar adiante deles. ^v48
 
-**49** Mas, quando eles o viram andar sobre o mar, cuidaram que era um fantasma, e deram grandes gritos. ^v49
+**49** Mas quando O viram andando sobre o mar, pensaram que era um fantasma e gritaram. ^v49
 
-**50** Porque todos o viam, e perturbaram-se; mas logo falou com eles, e disse-lhes: Tende bom ânimo; sou eu, não temais. ^v50
+**50** "Pois O viram e ficaram aterrorizados. Mas imediatamente Ele lhes disse: ""Sede corajosos! Sou Eu! Não temais""." ^v50
 
-**51** E subiu para o barco, para estar com eles, e o vento se aquietou; e entre si ficaram muito assombrados e maravilhados; ^v51
+**51** Ele entrou no barco com eles, e o vento cessou de soprar. Eles estavam completamente maravilhados, ^v51
 
-**52** Pois não tinham compreendido o milagre dos pães; antes o seu coração estava endurecido. ^v52
+**52** pois não entenderam acerca dos pães; em vez disso, seus corações estavam endurecidos. ^v52
 
-**53** E, quando já estavam no outro lado, dirigiram-se à terra de Genesaré, e ali atracaram. ^v53
+**53** Terminada a travessia, eles vieram à terra de Genesaré e ancoraram o barco. ^v53
 
-**54** E, saindo eles do barco, logo o conheceram; ^v54
+**54** Quando saíram do barco, o povo imediatamente reconheceu Jesus. ^v54
 
-**55** E, correndo toda a terra em redor, começaram a trazer em leitos, aonde quer que sabiam que ele estava, os que se achavam enfermos. ^v55
+**55** As pessoas percorreram toda a região e começaram a trazer-Lhe os doentes sobre macas, onde quer que ouviam que Ele estivesse. ^v55
 
-**56** E, onde quer que entrava, ou em cidade, ou aldeias, ou no campo, apresentavam os enfermos nas praças, e rogavam-lhe que os deixasse tocar ao menos na orla da sua roupa; e todos os que lhe tocavam saravam. ^v56
+**56** Onde quer que Ele entrasse nas vilas, cidades ou campos, eles colocavam os doentes nas praças, e rogavam-Lhe que lhes permitisse ao menos tocar na borda de Suas vestes. E todos quantos O tocavam eram curados. ^v56

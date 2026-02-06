@@ -1,77 +1,76 @@
 ---
-Livro: "[[1 Samuel|1 Samuel]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/1 Samuel|1 Samuel]]"
+tags: [biblia]
 ---
 
 # 1 Samuel 15
 
-**1** Então disse Samuel a Saul: Enviou-me o SENHOR a ungir-te rei sobre o seu povo, sobre Israel; ouve, pois, agora a voz das palavras do SENHOR. ^v1
+**1** "Samuel disse a Saul: ""Yahweh me enviou para ungir-te rei sobre Israel. Agora, ouve a palavra de Yahweh." ^v1
 
-**2** Assim diz o Senhor dos Exércitos: Eu me recordei do que fez Amaleque a Israel; como se lhe opôs no caminho, quando subia do Egito. ^v2
+**2** Isto é o que Yahweh dos Exércitos diz: 'Eu tenho visto o que Ameleque fez a Israel e a oposição que fizeram no caminho ao voltarem do Egito. ^v2
 
-**3** Vai, pois, agora e fere a Amaleque; e destrói totalmente a tudo o que tiver, e não lhe perdoes; porém matarás desde o homem até à mulher, desde os meninos até aos de peito, desde os bois até às ovelhas, e desde os camelos até aos jumentos. ^v3
+**3** "Agora, vai e ataca Ameleque e destrói completamente a todos e a tudo que eles têm. Não poupes ninguém, mas mata tanto homens quanto mulheres, crianças e bebês, gado e ovelhas, camelos e jumentos'""." ^v3
 
-**4** O que Saul convocou ao povo, e os contou em Telaim, duzentos mil homens de pé, e dez mil homens de Judá. ^v4
+**4** Saul convocou uma multidão dentre o povo na cidade de Telaim: duzentos mil homens a pé e dez mil homens de Judá. ^v4
 
-**5** Chegando, pois, Saul à cidade de Amaleque, pôs emboscada no vale. ^v5
+**5** Então, Saul veio à cidade de Ameleque e se espreitou no vale. ^v5
 
-**6** E disse Saul aos queneus: Ide-vos, retirai-vos e saí do meio dos amalequitas, para que não vos destrua juntamente com eles, porque vós usastes de misericórdia com todos os filhos de Israel, quando subiram do Egito. Assim os queneus se retiraram do meio dos amalequitas. ^v6
+**6** "Então, Saul disse aos queneus: ""Ide, parti, saí do meio dos amalequitas, e eu não vos destruirei junto com eles. Pois vós mostrastes misericórdia com o povo de Israel, quando ele estava no Egito"". Então, os queneus fugiram do meio dos amalequitas." ^v6
 
-**7** Então feriu Saul aos amalequitas desde Havilá até chegar a Sur, que está defronte do Egito. ^v7
+**7** Saul, então, atacou os amalequitas, desde Havilá até as fronteiras de Sur, que está ao leste do Egito. ^v7
 
-**8** E tomou vivo a Agague, rei dos amalequitas; porém a todo o povo destruiu ao fio da espada. ^v8
+**8** Em seguida, ele capturou vivo Agague, rei dos amalequitas, e destruiu completamente todo o povo ao fio da espada. ^v8
 
-**9** E Saul e o povo pouparam a Agague, e ao melhor das ovelhas e das vacas, e as da segunda ordem, e aos cordeiros e ao melhor que havia, e não os quiseram destruir totalmente; porém a toda a coisa vil e desprezível destruíram totalmente. ^v9
+**9** Mas Saul e os Israelitas pouparam Agague e também o melhor do rebanho de ovelhas, gado, bezerros cevados e cabras. Tudo que estava bom eles não destruiram. Mas, destruíram totalmente qualquer coisa que estava desprezada ou danificada. ^v9
 
-**10** Então veio a palavra do Senhor a Samuel, dizendo: ^v10
+**10** Então, a palavra de Yahweh veio a Samuel, dizendo: ^v10
 
-**11** Arrependo-me de haver posto a Saul como rei; porquanto deixou de me seguir, e não cumpriu as minhas palavras. Então Samuel se contristou, e toda a noite clamou ao Senhor. ^v11
+**11** """Estou angustiado por ter feito Saul rei, porque ele desistiu de Me seguir e não executou Meus mandamentos"". Samuel ficou furioso e clamou ao Senhor a noite inteira." ^v11
 
-**12** E madrugou Samuel para encontrar a Saul pela manhã: e anunciou-se a Samuel, dizendo: Já chegou Saul ao Carmelo, e eis que levantou para si uma coluna. Então voltando, passou e desceu a Gilgal. ^v12
+**12** "Samuel levantou-se cedo para encontrar Saul, pela manhã. Disseram a Samuel: ""Saul veio ao Carmelo e ergueu um monumento a ele mesmo; em seguida, continuou a descer a Gilgal""." ^v12
 
-**13** Veio, pois, Samuel a Saul; e Saul lhe disse: Bendito sejas tu do Senhor; cumpri a palavra do Senhor. ^v13
+**13** "Então, Samuel veio a Saul, e Saul lhe disse: ""Sejas bendito por Yahweh! Eu tenho cumprido o mandamento de Yahweh""." ^v13
 
-**14** Então disse Samuel: Que balido, pois, de ovelhas é este aos meus ouvidos, e o mugido de vacas que ouço? ^v14
+**14** "Samuel disse: ""Então, o que é este balido de ovelha em meus ouvidos e este mugido de bois que tenho ouvido?""." ^v14
 
-**15** E disse Saul: De Amaleque as trouxeram; porque o povo poupou ao melhor das ovelhas, e das vacas, para as oferecer ao Senhor teu Deus; o resto, porém, temos destruído totalmente. ^v15
+**15** "Saul replicou: ""Eles os trouxeram dos amalequitas. Porque o povo preservou o melhor das ovelhas e bois para sacrificar a Yahweh, nosso Deus. O restante, nós destruímos completamente""." ^v15
 
-**16** Então disse Samuel a Saul: Espera, e te declararei o que o Senhor me disse esta noite. E ele disse-lhe: Fala. ^v16
+**16** "Samuel disse a Saul: ""Espera e eu te direi o que Yahweh disse a mim esta noite"". Saul disse a ele: ""Fala""." ^v16
 
-**17** E disse Samuel: Porventura, sendo tu pequeno aos teus olhos, não foste por cabeça das tribos de Israel? E o Senhor te ungiu rei sobre Israel. ^v17
+**17** "Samuel disse: ""Embora sejas pequeno aos teus próprios olhos, tu não fostes chamado para ser um cabeça da tribo em Israel? Yahweh te ungiu rei sobre Israel." ^v17
 
-**18** E enviou-te o Senhor a este caminho, e disse: Vai, e destrói totalmente a estes pecadores, os amalequitas, e peleja contra eles, até que os aniquiles. ^v18
+**18** Yahweh te enviou pelo teu caminho e disse: 'Segue e destrói completamente os pecadores, os amalequitas e luta contra eles até que sejam destruídos'. ^v18
 
-**19** Por que, pois, não deste ouvidos à voz do Senhor, antes te lançaste ao despojo, e fizeste o que parecia mau aos olhos do Senhor? ^v19
+**19** "Por que tu não obedeceste à voz de Yahweh, mas, ao invés disso, preservaste para si os despojos e fizeste o que é mau perante os olhos do Senhor?""." ^v19
 
-**20** Então disse Saul a Samuel: Antes dei ouvidos à voz do Senhor, e caminhei no caminho pelo qual o Senhor me enviou; e trouxe a Agague, rei de Amaleque, e os amalequitas destruí totalmente; ^v20
+**20** "Saul disse a Samuel: ""Decerto, eu tenho obedecido à voz de Yahweh e tenho seguido pelo caminho que Yahweh me enviou. Eu capturei a Agague, rei de Amaleque, e destruí completamente os amalequitas." ^v20
 
-**21** Mas o povo tomou do despojo ovelhas e vacas, o melhor do interdito, para oferecer ao Senhor teu Deus em Gilgal. ^v21
+**21** "Mas o povo reteve parte dos despojos, ovelhas e gado, e as melhores coisas de lá destinadas à destruição, para sacrificar a Yahweh seu Deus em Gilgal""." ^v21
 
-**22** Porém Samuel disse: Tem porventura o Senhor tanto prazer em holocaustos e sacrifícios, como em que se obedeça à palavra do Senhor? Eis que o obedecer é melhor do que o sacrificar; e o atender melhor é do que a gordura de carneiros. ^v22
+**22** "Samuel respondeu: ""Tem Yahweh mais prazer em holocaustos e sacrifícios do que na obediência à Sua voz? Obediência é melhor que sacrifício, e ouvi-Lo é melhor do que a gordura de carneiros." ^v22
 
-**23** Porque a rebelião é como o pecado de feitiçaria, e o porfiar é como iniqüidade e idolatria. Porquanto tu rejeitaste a palavra do Senhor, ele também te rejeitou a ti, para que não sejas rei. ^v23
+**23** Porque a rebelião é como pecado de adivinhação e a teimosia é como maldade e iniquidade. Porque tu tens rejeitado a palavra de Yahweh, Ele também rejeitou a ti como rei. ^v23
 
-**24** Então disse Saul a Samuel: Pequei, porquanto tenho transgredido a ordem do Senhor e as tuas palavras; porque temi ao povo, e dei ouvidos à sua voz. ^v24
+**24** "Então, Saul disse a Samuel: ""Eu pequei, pois eu desobedeci aos mandamentos de Yahweh e às Suas palavras, porque tive medo do povo e obedeci à voz deles." ^v24
 
-**25** Agora, pois, rogo-te perdoa o meu pecado; e volta comigo, para que adore ao Senhor. ^v25
+**25** "Agora, por favor, perdoa meu pecado e volta-te a mim para que eu possa adorar a Yahweh""." ^v25
 
-**26** Porém Samuel disse a Saul: Não voltarei contigo; porquanto rejeitaste a palavra do Senhor, já te rejeitou o Senhor, para que não sejas rei sobre Israel. ^v26
+**26** "Samuel disse a Saul: ""Eu não irei voltar a ti, pois tens rejeitado a palavra de Yahweh, e Yahweh o rejeitou como rei de Israel""." ^v26
 
-**27** E virando-se Samuel para se ir, ele lhe pegou pela orla da capa, e a rasgou. ^v27
+**27** Assim que Samuel se virou para partir, Saul segurou sua veste e a rasgou. ^v27
 
-**28** Então Samuel lhe disse: O Senhor tem rasgado de ti hoje o reino de Israel, e o tem dado ao teu próximo, melhor do que tu. ^v28
+**28** "Samuel disse a ele: ""Yahweh, hoje, tomou de ti o reino de Israel e o deu a um vizinho teu, alguém que é melhor que tu." ^v28
 
-**29** E também aquele que é a Força de Israel não mente nem se arrepende; porquanto não é um homem para que se arrependa. ^v29
+**29** "Também, a Força de Israel não mentirá ou mudará de ideia; porque Ele não é homem, que muda de opinião""." ^v29
 
-**30** Disse ele então: Pequei; honra-me, porém, agora diante dos anciãos do meu povo, e diante de Israel; e volta comigo, para que adore ao Senhor teu Deus. ^v30
+**30** "Então, Saul disse: ""Eu pequei. Mas, por favor, me honra, agora, diante dos anciãos de meu povo e diante de Israel. Volta-te a mim, e eu adorarei a Yahweh nosso Deus""." ^v30
 
-**31** Então, voltando Samuel, seguiu a Saul; e Saul adorou ao Senhor. ^v31
+**31** Então, Samuel voltou-se novamente a favor de Saul e Saul adorou a Yahweh. ^v31
 
-**32** Então disse Samuel: Trazei-me aqui a Agague, rei dos amalequitas. E Agague veio a ele animosamente; e disse Agague: Na verdade já passou a amargura da morte. ^v32
+**32** "Então, Samuel disse: ""Traz Agague, rei dos amalequitas até mim"". Agague veio, acorrentado, até ele e disse: ""Certamente, a amargura da morte passou""." ^v32
 
-**33** Disse, porém, Samuel: Assim como a tua espada desfilhou as mulheres, assim ficará desfilhada a tua mãe entre as mulheres. Então Samuel despedaçou a Agague perante o Senhor em Gilgal. ^v33
+**33** "Samuel respondeu: ""Como tua espada fez mulheres sem filhos, logo, tua mãe, em meio às outras mulheres, ficará sem filhos"". Então, Samuel feriu Agague, esquartejando-o diante de Yahweh." ^v33
 
-**34** Então Samuel se foi a Ramá; e Saul subiu à sua casa, a Gibeá de Saul. ^v34
+**34** Samuel partiu para Ramá, e Saul foi para a casa dele em Gibeá. ^v34
 
-**35** E nunca mais viu Samuel a Saul até ao dia da sua morte; porque Samuel teve dó de Saul. E o Senhor se arrependeu de haver posto a Saul rei sobre Israel. ^v35
+**35** Samuel não viu Saul até o dia de sua morte, e pranteou por Saul. E Yahweh lamentou por ter ungido Saul como rei sobre Israel. ^v35

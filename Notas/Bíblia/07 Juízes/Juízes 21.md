@@ -1,57 +1,56 @@
 ---
-Livro: "[[Juízes|Juízes]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Juízes|Juízes]]"
+tags: [biblia]
 ---
 
 # Juízes 21
 
-**1** Ora, tinham jurado os homens de Israel em Mizpá, dizendo: Nenhum de nós dará sua filha por mulher aos benjamitas. ^v1
+**1** "Ora, os homens de Israel haviam feito uma promessa em Mispá: ""Nenhum de nós dará sua filha para casar-se com um benjamita""." ^v1
 
-**2** Veio, pois, o povo a Betel, e ali ficou até à tarde diante de Deus; e todos levantaram a sua voz, e prantearam com grande pranto, ^v2
+**2** Então, o povo foi para Betel e ficou ali sentado diante de Deus até o anoitecer e, com altas vozes, choraram amargamente. ^v2
 
-**3** E disseram: Ah! Senhor Deus de Israel, por que sucedeu isto, que hoje falte uma tribo em Israel? ^v3
+**3** "Eles clamaram: ""Por que, Yahweh, Deus de Israel, isto aconteceu a Israel, que uma de nossas tribos esteja faltando hoje?""." ^v3
 
-**4** E sucedeu que, no dia seguinte, o povo, pela manhã se levantou, e edificou ali um altar; e ofereceu holocaustos e ofertas pacíficas. ^v4
+**4** No dia seguinte, o povo levantou-se cedo, construiu ali um altar, e ofereceu holocaustos e ofertas pacíficas. ^v4
 
-**5** E disseram os filhos de Israel: Quem de todas as tribos de Israel não subiu à assembléia do Senhor? Porque se tinha feito um grande juramento acerca dos que não fossem ao Senhor em Mizpá, dizendo: Morrerá certamente. ^v5
+**5** "O povo de Israel disse: ""Qual de todas as tribos de Israel não subiu para a assembleia de Yahweh?"". Pois eles haviam feito uma promessa importante a respeito de quem deixasse de se reunir perante Yahweh, em Mispá. Eles haviam dito: ""Ele certamente será condenado à morte""." ^v5
 
-**6** E arrependeram-se os filhos de Israel acerca de Benjamim, seu irmão, e disseram: Cortada é hoje de Israel uma tribo. ^v6
+**6** "O povo de Israel teve compaixão de seu irmão Benjamim. Eles disseram: ""Hoje uma tribo foi cortada de Israel." ^v6
 
-**7** Como havemos de conseguir mulheres para os que restaram deles, pois nós temos jurado pelo Senhor que nenhuma de nossas filhas lhes daríamos por mulher? ^v7
+**7** "Quem dará esposas para aqueles que sobraram, sendo que nós fizemos uma promessa a Yahweh de que não permitiríamos que nenhum deles se casasse com nossas filhas?""." ^v7
 
-**8** E disseram: Há algumas das tribos de Israel que não subiram ao Senhor a Mizpá? E eis que ninguém de Jabes-Gileade viera ao arraial, à assembléia. ^v8
+**8** "E disseram: ""Qual das tribos de Israel não subiu até Yahweh, em Mispá?"". Foi descoberto que ninguém de Jabes-Gileade havia ido para a assembleia." ^v8
 
-**9** Porquanto, quando se contou o povo, eis que nenhum dos moradores de Jabes-Gileade se achou ali. ^v9
+**9** Pois quando o povo foi posto de forma ordenada, viram que nenhum dos habitantes de Jabes-Gileade estava lá. ^v9
 
-**10** Então a assembléia enviou para lá doze mil homens dos mais valentes, e lhes ordenou, dizendo: Ide, e ao fio da espada feri aos moradores de Jabes-Gileade, e às mulheres e aos meninos. ^v10
+**10** A assembleia mandou doze mil dos homens mais valentes com instruções para irem atacar os habitantes de Jabes-Gileade e matá-los, até mesmo as mulheres e as crianças. ^v10
 
-**11** Porém isto é o que haveis de fazer: A todo o homem e a toda a mulher que se houver deitado com um homem totalmente destruireis. ^v11
+**11** "Fazei isto: “Vós matareis todo homem e toda mulher que já dormiu com um homem""." ^v11
 
-**12** E acharam entre os moradores de Jabes-Gileade quatrocentas moças virgens, que não tinham conhecido homem; e as trouxeram ao arraial, a Siló, que está na terra de Canaã. ^v12
+**12** Os homens acharam entre os que moravam em Jabes-Gileade quatrocentas moças que nunca tinham dormido com um homem e as levaram para o acampamento em Siló, em Canaã. ^v12
 
-**13** Então toda a assembléia enviou, e falou aos filhos de Benjamim, que estavam na penha de Rimom, e lhes proclamou a paz. ^v13
+**13** A assembleia inteira enviou uma mensagem ao povo de Benjamim, que estava na rocha de Rimom: que lhes estavam oferecendo paz. ^v13
 
-**14** E ao mesmo tempo voltaram os benjamitas; e deram-lhes as mulheres que haviam guardado com vida, das mulheres de Jabes-Gileade; porém estas ainda não lhes bastaram. ^v14
+**14** Então, os benjamitas retornaram naquela hora e receberam as mulheres de Jabes-Gileade. Mas não havia mulheres suficientes para todos eles. ^v14
 
-**15** Então o povo se arrependeu por causa de Benjamim; porquanto o Senhor tinha feito brecha nas tribos de Israel. ^v15
+**15** O povo teve pena do que havia acontecido com Benjamim, porque Yahweh fez uma divisão entre as tribos de Israel. ^v15
 
-**16** E disseram os anciãos da assembléia: Que faremos acerca de mulheres para os que restaram, pois foram destruídas as mulheres de Benjamim? ^v16
+**16** "Então os líderes da assembleia disseram: ""Como nós arranjaremos esposas para os benjamitas que restaram, já que as mulheres de Benjamim foram mortas?""." ^v16
 
-**17** Disseram mais: Tenha Benjamim uma herança nos que restaram, e não seja destruída nenhuma tribo de Israel. ^v17
+**17** "Disseram: ""Deve haver herdeiros para os sobreviventes de Benjamim, para que uma tribo de Israel não seja destruída." ^v17
 
-**18** Porém nós não lhes poderemos dar mulheres de nossas filhas, porque os filhos de Israel juraram, dizendo: Maldito aquele que der mulher aos benjamitas. ^v18
+**18** Nós não podemos lhes dar nossas filhas como esposas, pois o povo de Israel fez uma promessa: 'Maldito seja qualquer um que der uma esposa a Benjamim”. ^v18
 
-**19** Então disseram: Eis que de ano em ano há solenidade do Senhor em Siló, que se celebra para o norte de Betel do lado do nascente do sol, pelo caminho alto que sobe de Betel a Siquém, e para o sul de Lebona. ^v19
+**19** "Então disseram: ""Vós sabeis que todo ano se realiza uma festa para Yahweh, em Siló (que é ao norte de Betel, a leste da estrada que sobe de Betel para Siquém, ao sul de Lebona)""." ^v19
 
-**20** E mandaram aos filhos de Benjamim, dizendo: Ide, e emboscai-vos nas vinhas. ^v20
+**20** "Eles instruíram os homens de Benjamim, dizendo: ""Ide, escondei-vos e esperai nas vinhas." ^v20
 
-**21** E olhai, e eis aí as filhas de Siló a dançar em rodas, saí vós das vinhas, e arrebatai cada um sua mulher das filhas de Siló, e ide-vos à terra de Benjamim. ^v21
+**21** Prestai atenção para o tempo em que as moças de Siló sairão para dançar. Então, correi para fora das vinhas e cada um de vós devereis tomar uma esposa das moças de Siló. Depois, voltai para a terra de Benjamim”. ^v21
 
-**22** E será que, quando seus pais ou seus irmãos vierem a litigar conosco, nós lhes diremos: Por amor de nós, tende compaixão deles, pois nesta guerra não tomamos mulheres para cada um deles; porque não lhas destes vós, para que agora ficásseis culpados. ^v22
+**22** Quando seus pais ou seus irmãos vierem para protestar a nós, diremos a eles: 'Tende piedade deles por nós! Deixai que elas fiquem, pois não conseguimos esposas para cada um deles durante a guerra. E vós sois inocentes, pois não fostes vós que destes as vossas filhas para eles’”. ^v22
 
-**23** E os filhos de Benjamim o fizeram assim, e levaram mulheres conforme ao número deles, das que arrebataram das rodas que dançavam; e foram-se, e voltaram à sua herança, e reedificaram as cidades, e habitaram nelas. ^v23
+**23** Os benjamitas assim fizeram. Dentre as moças que estavam dançando, eles tomaram o número de mulheres que precisavam e as levaram para serem suas esposas. Eles foram e voltaram para o lugar de sua herança. E reconstruíram as cidades e moraram nelas. ^v23
 
-**24** Também os filhos de Israel partiram dali, cada um para a sua tribo e para a sua família; e saíram dali, cada um para a sua herança. ^v24
+**24** Então, o povo de Israel deixou aquele lugar e foi para casa, cada um para sua tribo e clã, e cada um para sua própria herança. ^v24
 
-**25** Naqueles dias não havia rei em Israel; porém cada um fazia o que parecia reto aos seus olhos. ^v25
+**25** Naqueles dias, não havia rei em Israel. Todos faziam o que achavam certo aos seus próprios olhos. ^v25

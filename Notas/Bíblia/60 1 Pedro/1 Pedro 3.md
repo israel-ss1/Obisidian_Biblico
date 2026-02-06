@@ -1,51 +1,50 @@
 ---
-Livro: "[[1 Pedro|1 Pedro]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/1 Pedro|1 Pedro]]"
+tags: [biblia]
 ---
 
 # 1 Pedro 3
 
-**1** Semelhantemente, vós, mulheres, sede sujeitas aos vossos próprios maridos; para que também, se alguns não obedecem à palavra, pelo porte de suas mulheres sejam ganhos sem palavra; ^v1
+**1** Desta maneira, vós, esposas, deveis ser submissas aos vossos maridos, para que também, se alguns deles são desobedientes à Palavra, sejam alcançados sem palavra, por meio da vossa conduta, ^v1
 
-**2** Considerando a vossa vida casta, em temor. ^v2
+**2** observando o vosso comportamento puro e respeitoso. ^v2
 
-**3** O enfeite delas não seja o exterior, no frisado dos cabelos, no uso de jóias de ouro, na compostura dos vestidos; ^v3
+**3** Que o vosso enfeite não seja o exterior, como cabelos trançados, joias de ouro ou roupas luxuosas; ^v3
 
-**4** Mas o homem encoberto no coração; no incorruptível traje de um espírito manso e quieto, que é precioso diante de Deus. ^v4
+**4** mas, ao invés disso, esteja o interior do vosso coração revestido com um adorno incorruptível, que é um espírito gentil e manso, o qual é precioso diante de Deus. ^v4
 
-**5** Porque assim se adornavam também antigamente as santas mulheres que esperavam em Deus, e estavam sujeitas aos seus próprios maridos; ^v5
+**5** Pois no passado, as santas mulheres enfeitavam-se dessa maneira. Elas tinham confiança em Deus e eram submissas a seus maridos. ^v5
 
-**6** Como Sara obedecia a Abraão, chamando-lhe senhor; da qual vós sois filhas, fazendo o bem, e não temendo nenhum espanto. ^v6
+**6** Do mesmo modo que Sara obedeceu a Abraão e o chamou de senhor, dela vos tornastes filhas, praticando o bem e não temendo perturbação alguma. ^v6
 
-**7** Igualmente vós, maridos, coabitai com elas com entendimento, dando honra à mulher, como vaso mais fraco; como sendo vós os seus co-herdeiros da graça da vida; para que não sejam impedidas as vossas orações. ^v7
+**7** Da mesma maneira, vós, maridos, deveis viver com vossas esposas, entendendo que a mulher é o vaso mais frágil, honrando-as como co-herdeiras do dom da vida, para que não sejam interrompidas vossas orações. ^v7
 
-**8** E, finalmente, sede todos de um mesmo sentimento, compassivos, amando os irmãos, entranhavelmente misericordiosos e afáveis. ^v8
+**8** Finalmente, todos vós, tende a mesma forma de pensar, mostrando compaixão, amor fraternal, sendo misericordiosos e humildes; ^v8
 
-**9** Não tornando mal por mal, ou injúria por injúria; antes, pelo contrário, bendizendo; sabendo que para isto fostes chamados, para que por herança alcanceis a bênção. ^v9
+**9** não pagueis mal por mal ou insulto por insulto; mas, pelo contrário, abençoai, porque para isso fostes chamados, a fim de receberdes a bênção como herança. ^v9
 
-**10** Porque Quem quer amar a vida, E ver os dias bons, Refreie a sua língua do mal, E os seus lábios não falem engano. ^v10
+**10** Aquele que quer amar a vida e ver dias bons deve refrear a sua língua do mal e seus lábios de falar enganosamente. ^v10
 
-**11** Aparte-se do mal, e faça o bem; Busque a paz, e siga-a. ^v11
+**11** Afastai-vos do mal e fazei o bem. Procurai a paz e empenhai-vos por alcançá-la. ^v11
 
-**12** Porque os olhos do Senhor estão sobre os justos, E os seus ouvidos atentos às suas orações; Mas o rosto do Senhor é contra os que fazem o mal. ^v12
+**12** Os olhos do Senhor contemplam os justos e Seus ouvidos ouvem seus pedidos; mas o rosto do Senhor é contra os que fazem o mal. ^v12
 
-**13** E qual é aquele que vos fará mal, se fordes seguidores do bem? ^v13
+**13** Quem vos prejudicará, se fordes zelosos do bem? ^v13
 
-**14** Mas também, se padecerdes por amor da justiça, sois bemaventurados. E não temais com medo deles, nem vos turbeis; ^v14
+**14** Porém, se sofrerdes por causa da justiça, sereis bem-aventurados. Não temais suas ameaças, nem fiqueis alarmados. ^v14
 
-**15** Antes, santificai ao Senhor Deus em vossos corações; e estai sempre preparados para responder com mansidão e temor a qualquer que vos pedir a razão da esperança que há em vós, ^v15
+**15** Antes, santificai a Cristo, como Senhor, em vossos corações, sempre prontos para responder a todos os que vos perguntarem a razão da vossa confiança em Deus. ^v15
 
-**16** Tendo uma boa consciência, para que, naquilo em que falam mal de vós, como de malfeitores, fiquem confundidos os que blasfemam do vosso bom porte em Cristo. ^v16
+**16** Fazei isto com mansidão e respeito, tendo boa consciência, a fim de que as pessoas que caluniam e insultam a vossa boa conduta em Cristo, fiquem envergonhadas; ^v16
 
-**17** Porque melhor é que padeçais fazendo bem (se a vontade de Deus assim o quer), do que fazendo mal. ^v17
+**17** pois é melhor sofrer fazendo o bem, se esta for a vontade de Deus, do que fazendo o mal. ^v17
 
-**18** Porque também Cristo padeceu uma vez pelos pecados, o justo pelos injustos, para levar-nos a Deus; mortificado, na verdade, na carne, mas vivificado pelo Espírito; ^v18
+**18** Porque Cristo também sofreu, pelos pecados, uma única vez. Aquele que é justo sofreu pelos injustos, para vos levar a Deus. Ele foi morto na carne, mas ressuscitou no Espírito. ^v18
 
-**19** No qual também foi, e pregou aos espíritos em prisão; ^v19
+**19** Pelo Espírito foi e proclamou aos espíritos em prisão, ^v19
 
-**20** Os quais noutro tempo foram rebeldes, quando a longanimidade de Deus esperava nos dias de Noé, enquanto se preparava a arca; na qual poucas (isto é, oito) almas se salvaram pela água; ^v20
+**20** que foram desobedientes, quando a longanimidade de Deus aguardava, nos dias de Noé, enquanto se construía a arca, na qual poucas, isto é, oito pessoas foram salvas por meio das águas. ^v20
 
-**21** Que também, como uma verdadeira figura, agora vos salva, o batismo, não do despojamento da imundícia da carne, mas da indagação de uma boa consciência para com Deus, pela ressurreição de Jesus Cristo; ^v21
+**21** Isso, prefigurando o batismo, agora também vos salva, não pela remoção da impureza da carne, mas pela promessa de uma boa consciência para com Deus, pela ressurreição de Jesus Cristo, ^v21
 
-**22** O qual está à destra de Deus, tendo subido ao céu, havendo-se-lhe sujeitado os anjos, e as autoridades, e as potências. ^v22
+**22** que subiu ao céu e está à direita de Deus, a Quem devem se submeter anjos, autoridades e poderes. ^v22

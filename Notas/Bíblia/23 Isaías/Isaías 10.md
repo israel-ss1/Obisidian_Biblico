@@ -1,75 +1,74 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Isaías|Isaías]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Isaías|Isaías]]"
+tags: [biblia]
 ---
 
 # Isaías 10
 
-**1** Ai dos que decretam leis injustas, e dos escrivães que prescrevem opressão. ^v1
+**1** Ai daqueles que promulgam leis injustas e prescrevem decretos desonestos. ^v1
 
-**2** Para desviarem os pobres do seu direito, e para arrebatarem o direito dos aflitos do meu povo; para despojarem as viúvas e roubarem os órfãos! ^v2
+**2** Eles privam de justiça os necessitados, roubam os direitos dos pobres do Meu povo, despojam as viúvas e fazem de presa o órfão! ^v2
 
-**3** Mas que fareis vós no dia da visitação, e na desolação, que há de vir de longe? A quem recorrereis para obter socorro, e onde deixareis a vossa glória, ^v3
+**3** O que vós fareis no dia do julgamento quando a destruição vier de longe? A quem vós correreis em busca de ajuda, e onde deixareis as vossas riquezas? ^v3
 
-**4** Sem que cada um se abata entre os presos, e caia entre mortos? Com tudo isto a sua ira não cessou, mas ainda está estendida a sua mão. ^v4
+**4** Nada restará, e vos humilhareis entre os prisioneiros ou caireis entre os mortos. Com tudo isso, Sua ira não cessará e a Sua mão continuará estendida. ^v4
 
-**5** Ai da Assíria, a vara da minha ira, porque a minha indignação é como bordão nas suas mãos. ^v5
+**5** Ai da Assíria, o cajado da Minha ira, a vara pela qual Eu aplico a Minha fúria! ^v5
 
-**6** Enviá-la-ei contra uma nação hipócrita, e contra o povo do meu furor lhe darei ordem, para que lhe roube a presa, e lhe tome o despojo, e o ponha para ser pisado aos pés, como a lama das ruas. ^v6
+**6** Eu a envio contra uma nação arrogante, contra o povo que fez transbordar a Minha ira. Eu lhe ordenei pegar o espólio, arrebatar a presa e pisá-los como lama nas ruas. ^v6
 
-**7** Ainda que ele não cuide assim, nem o seu coração assim o imagine; antes no seu coração intenta destruir e desarraigar não poucas nações. ^v7
+**7** Mas essa não é a intenção do rei da Assíria, nem é esse o seu pensamento; antes, está em seu coração destruir e eliminar muitas nações. ^v7
 
-**8** Porque diz: Não são meus príncipes todos eles reis? ^v8
+**8** "Pois ele diz: ""Por acaso, todos os meus príncipes não são reis?" ^v8
 
-**9** Não é Calno como Carquemis? Não é Hamate como Arpade? E Samaria como Damasco? ^v9
+**9** Não é Calno como Carquêmis? Não é Hamate como Arpade? Não é Samaria como Damasco? ^v9
 
-**10** Como a minha mão alcançou os reinos dos ídolos, cujas imagens esculpidas eram melhores do que as de Jerusalém e do que as de Samaria, ^v10
+**10** Assim como a minha mão derrotou os reinos idólatras, os quais esculpiram imagens melhores do que as de Jerusalém e Samaria, ^v10
 
-**11** Porventura como fiz a Samaria e aos seus ídolos, não o faria igualmente a Jerusalém e aos seus ídolos? ^v11
+**11** "assim como fiz a Samaria e a seus ídolos sem valor, não irei também fazer o mesmo a Jerusalém e aos seus ídolos?""." ^v11
 
-**12** Por isso acontecerá que, havendo o Senhor acabado toda a sua obra no monte Sião e em Jerusalém, então castigarei o fruto da arrogante grandeza do coração do rei da Assíria e a pompa da altivez dos seus olhos. ^v12
+**12** "Quando o Senhor tiver terminado o Seu trabalho no monte Sião e em Jerusalém, Ele dirá: ""Eu punirei o discurso do coração arrogante do rei da Assíria e seu olhar orgulhoso""." ^v12
 
-**13** Porquanto disse: Com a força da minha mão o fiz, e com a minha sabedoria, porque sou prudente; e removi os limites dos povos, e roubei os seus tesouros, e como valente abati aos habitantes. ^v13
+**13** "Pois ele diz: ""Por meio da minha força e da minha sabedoria, eu agi, pois tenho compreensão; removi as fronteiras dos povos, roubei seus tesouros e, como um homem poderoso, abati seus habitantes." ^v13
 
-**14** E achou a minha mão as riquezas dos povos como a um ninho, e como se ajuntam os ovos abandonados, assim eu ajuntei a toda a terra, e não houve quem movesse a asa, ou abrisse a boca, ou murmurasse. ^v14
+**14** "Minha mão capturou as riquezas das nações, como a um ninho e, como quem junta ovos abandonados, eu juntei toda a terra. E ninguém bateu suas asas, ou abriu sua boca, ou murmurou""." ^v14
 
-**15** Porventura gloriar-se-á o machado contra o que corta com ele, ou presumirá a serra contra o que puxa por ela, como se o bordão movesse aos que o levantam, ou a vara levantasse como não sendo pau? ^v15
+**15** Terá o machado orgulho de si mesmo contra aquele que o manuseia? Aplaudirá o serrote a si mesmo mais do que àquele que o usa? É como se a vara pudesse levantar aquele que a levanta, ou como se um bastão de madeira pudesse levantar uma pessoa. ^v15
 
-**16** Por isso o Senhor, o Senhor dos Exércitos, fará definhar os que entre eles são gordos, e debaixo da sua glória ateará um incêndio, como incêndio de fogo. ^v16
+**16** Por essa razão, o Senhor Yahweh dos Exércitos enviará magreza entre Seus guerreiros de elite; e, debaixo de Sua glória, haverá um incêndio queimando como fogo. ^v16
 
-**17** Porque a Luz de Israel virá a ser como fogo e o seu Santo por labareda, que abrase e consuma os seus espinheiros e as suas sarças num só dia. ^v17
+**17** A luz de Israel se tornará um fogo, e seu Santo, uma chama; queimará e devorará seus espinhos e arbustos em um dia. ^v17
 
-**18** Também consumirá a glória da sua floresta, e do seu campo fértil, desde a alma até à carne, e será como quando desmaia o porta-bandeira. ^v18
+**18** Yahweh consumirá a glória de sua floresta e de sua terra frutífera, a alma e o corpo; será como a vida de um homem doente que se esvai. ^v18
 
-**19** E o resto das árvores da sua floresta será tão pouco em número, que um menino poderá contá-las. ^v19
+**19** O restante das árvores de sua floresta será tão pouco, que uma criança poderá contar. ^v19
 
-**20** E acontecerá naquele dia que os restantes de Israel, e os que tiverem escapado da casa de Jacó, nunca mais se estribarão sobre aquele que os feriu; antes estribar-se-ão verdadeiramente sobre o Senhor, o Santo de Israel. ^v20
+**20** Naquele dia, o restante de Israel, os da família de Jacó que escaparam, não mais confiarão naquele que os derrotou, mas, certamente, dependerão de Yahweh, o Santo de Israel. ^v20
 
-**21** Os restantes se converterão ao Deus forte, sim, os restantes de Jacó. ^v21
+**21** O restante de Jacó retornará ao Deus poderoso. ^v21
 
-**22** Porque ainda que o teu povo, ó Israel, seja como a areia do mar, só um remanescente dele se converterá; uma destruição está determinada, transbordando em justiça. ^v22
+**22** Pois ainda que teu povo, Israel, seja como a areia da praia, somente um remanescente deles retornará. A destruição está decretada, como uma demanda transbordante de justiça. ^v22
 
-**23** Porque determinada já a destruição, o Senhor DEUS dos Exércitos a executará no meio de toda esta terra. ^v23
+**23** Pois o Senhor, Yahweh dos Exércitos, executará a destruição determinada sobre toda esta terra. ^v23
 
-**24** Por isso assim diz o Senhor DEUS dos Exércitos: Povo meu, que habitas em Sião, não temas à Assíria, quando te ferir com a vara, e contra ti levantar o seu bordão à maneira dos egípcios. ^v24
+**24** "Por isso, o Senhor Yahweh dos Exércitos diz: ""Meu povo que vive em Sião, não tenhais medo do assírio. Ele vos golpeará com a vara e elevará seu cajado contra vós, como os egípcios fizeram." ^v24
 
-**25** Porque daqui a bem pouco se cumprirá a minha indignação e a minha ira, para a consumir. ^v25
+**25** "Não tenhais medo dele, pois, em um curto período de tempo, a Minha indignação contra vós acabará e a Minha ira servirá para a destruição dele""." ^v25
 
-**26** Porque o Senhor dos Exércitos suscitará contra ela um flagelo, como na matança de Midiã junto à rocha de Orebe; e a sua vara estará sobre o mar, e ele a levantará como sucedeu aos egípcios. ^v26
+**26** Naquele tempo, Yahweh dos Exércitos usará um chicote contra eles, como quando Ele derrotou Midiã junto à rocha de Orebe. Ele estenderá Seu cajado sobre o mar e o levantará, como fez no Egito. ^v26
 
-**27** E acontecerá, naquele dia, que a sua carga será tirada do teu ombro, e o seu jugo do teu pescoço; e o jugo será despedaçado por causa da unção. ^v27
+**27** "Naquele dia, a carga será tirada do teu ombro e o jugo será destruído do teu pescoço, e o jugo será destruído por causa da gordura. [Nota: A última linha deste verso é difícil porque não parece se encaixar no contexto. Algumas versões modernas deixam de fora ""por causa da gordura"". Outras versões modernas têm ""e o jugo será destruído do teu pescoço. Ele subiu de Rimom"". Aqui, ""Ele"" significa o rei assírio e seu exército.]" ^v27
 
-**28** Já vem chegando a Aiate, já vai passando por Migrom, e em Micmás deixa a sua bagagem. ^v28
+**28** Os inimigos chegaram a Aiate e passaram por Migrom; armazenaram suas provisões em Micmás. ^v28
 
-**29** Já passaram o desfiladeiro, já se alojam em Geba; já Ramá treme, e Gibeá de Saul vai fugindo. ^v29
+**29** Eles atravessaram o desfiladeiro e se alojaram em Geba. Ramá treme e Gibeá de Saul fugiu. ^v29
 
-**30** Clama alto com a tua voz, ó filha de Galim! Ouve, ó Laís! Ó tu pobre Anatote! ^v30
+**30** Chora em alta voz, ó filha de Galim! Dá ouvidos, ó Laís! Pobre de ti, Anatote! ^v30
 
-**31** Madmena já se foi; os moradores de Gebim vão fugindo em bandos. ^v31
+**31** Madmena está fugindo, e os habitantes de Gebim correm em busca de segurança. ^v31
 
-**32** Ainda um dia parará em Nobe; acenará com a sua mão contra o monte da filha de Sião, o outeiro de Jerusalém. ^v32
+**32** Hoje os inimigos pararão em Nobe e agitarão o punho junto à montanha da filha de Sião, o monte de Jerusalém. ^v32
 
-**33** Mas eis que o Senhor, o Senhor dos Exércitos, cortará os ramos com violência, e os de alta estatura serão cortados, e os altivos serão abatidos. ^v33
+**33** Eis que o Senhor, Yahweh dos Exércitos, cortará fora os ramos com um horripilante estrondo; as maiores árvores serão derrubadas e os elevados serão abatidos. ^v33
 
-**34** E cortará com ferro a espessura da floresta, e o Líbano cairá à mão de um poderoso. ^v34
+**34** Ele derrubará o matagal da floresta com um machado, o Líbano cairá pela mão do Poderoso. ^v34

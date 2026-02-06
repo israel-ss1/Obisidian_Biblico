@@ -1,27 +1,26 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Jeremias|Jeremias]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Jeremias|Jeremias]]"
+tags: [biblia]
 ---
 
 # Jeremias 24
 
-**1** Fez-me o SENHOR ver, e eis dois cestos de figos, postos diante do templo do SENHOR, depois que Nabucodonosor, rei de babilônia, levou em cativeiro a Jeconias, filho de Jeoiaquim, rei de Judá, e os príncipes de Judá, e os carpinteiros, e os ferreiros de Jerusalém, e os trouxe a babilônia. ^v1
+**1** Yahweh mostrou-me duas cestas de figos que estavam diante do templo de Yahweh. (Esta visão aconteceu depois que Nabucodonosor, rei da Babilônia, levou para exílio Joaquim, filho de Jeoaquim, rei de Judá, os oficiais de Judá, o artesão e os ferreiros de Jerusalém e os trouxe à Babilônia). ^v1
 
-**2** Um cesto tinha figos muito bons, como os figos temporãos; mas o outro cesto tinha figos muito ruins, que não se podiam comer, de ruins que eram. ^v2
+**2** Uma das cestas de figos era muito boa, como os primeiros figos maduros, mas na outra cesta os figos eram tão ruins que eles não podiam ser comidos. ^v2
 
-**3** E disse-me o Senhor: Que vês tu, Jeremias? E eu disse: Figos: os figos bons, muito bons e os ruins, muito ruins, que não se podem comer, de ruins que são. ^v3
+**3** "Yahweh me disse: ""O que vês, Jeremias?"" Eu respondi: ""Figos. Figos que estão muito bons e figos que estão tão ruins que não podem ser comidos.""" ^v3
 
-**4** Então veio a mim a palavra do Senhor, dizendo: ^v4
+**4** Então a palavra de Yahweh veio a mim, dizendo: ^v4
 
-**5** Assim diz o Senhor, o Deus de Israel: Como a estes bons figos, assim também conhecerei aos de Judá, levados em cativeiro; os quais enviei deste lugar para a terra dos caldeus, para o seu bem. ^v5
+**5** """Yahweh, Deus de Israel, diz isto: Eu olharei para os exilados de Judá, para o benefício deles, justamente como estes bons figos, os exilados que mandei para fora deste lugar, para a terra dos babilônios." ^v5
 
-**6** Porei os meus olhos sobre eles, para o seu bem, e os farei voltar a esta terra, e edificá-los-ei, e não os destruirei; e plantá-los-ei, e não os arrancarei. ^v6
+**6** Eu colocarei neles os Meus olhos para o bem e os restaurarei a esta terra. Eu os edificarei, e não os derrubarei. Eu os plantarei e não os arrancarei. ^v6
 
-**7** E dar-lhes-ei coração para que me conheçam, porque eu sou o Senhor; e ser-me-ão por povo, e eu lhes serei por Deus; porque se converterão a mim de todo o seu coração. ^v7
+**7** Então, Eu lhes darei um coração para Me conhecer, pois Eu sou Yahweh. Eles serão Meu povo e Eu serei seu Deus. Eles se voltarão a Mim com todo o seu coração. ^v7
 
-**8** E como os figos ruins, que se não podem comer, de ruins que são (porque assim diz o Senhor), assim entregarei Zedequias, rei de Judá, e os seus príncipes, e o restante de Jerusalém, que ficou nesta terra, e os que habitam na terra do Egito. ^v8
+**8** Mas como os figos ruins, que estão tão ruins que não podem ser comidos, isso é o que Yahweh diz: 'Eu agirei desta maneira com Zedequias, rei de Judá, com seus oficiais e o resto de Jerusalém que restar nesta terra ou que ficar na terra do Egito. ^v8
 
-**9** E entregá-los-ei para que sejam um prejuízo, uma ofensa para todos os reinos da terra, um opróbrio e um provérbio, e um escárnio, e uma maldição em todos os lugares para onde eu os arrojar. ^v9
+**9** Eu os transformarei em algo assustador, um desastre à vista de todos os reinos da terra, uma desgraça e assunto para provérbios, provocações e maldições em todos os lugares onde Eu os levar. ^v9
 
-**10** E enviarei entre eles a espada, a fome, e a peste, até que se consumam de sobre a terra que lhes dei a eles e a seus pais. ^v10
+**10** "Eu enviarei a espada, a fome e a praga contra eles, até que sejam destruídos da terra que dei a eles e aos seus antepassados.""" ^v10

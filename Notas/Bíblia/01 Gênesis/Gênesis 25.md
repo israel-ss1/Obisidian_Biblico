@@ -1,75 +1,74 @@
 ---
-Livro: "[[Gênesis|Gênesis]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Gênesis|Gênesis]]"
+tags: [biblia]
 ---
 
 # Gênesis 25
 
-**1** E Abraão tomou outra mulher; e o seu nome era Quetura; ^v1
+**1** Abraão tomou outra mulher; seu nome era Quetura. ^v1
 
-**2** E deu-lhe à luz Zinrã, Jocsã, Medã, Midiã, Jisbaque e Suá. ^v2
+**2** Ela deu à luz Zinrã, Jocsã, Medã, Midiã, Isbaque e Suá. ^v2
 
-**3** E Jocsã gerou Seba e Dedã; e os filhos de Dedã foram Assurim, Letusim e Leumim. ^v3
+**3** Jocsã tornou-se pai de Seba e Dedã. Os povos Assurim, Letusim e Leumim eram descendentes de Dedã. ^v3
 
-**4** E os filhos de Midiã foram Efá, Efer, Enoque, Abida e Elda. Estes todos foram filhos de Quetura. ^v4
+**4** Os filhos de Midiã foram Efá, Efer, Hanoque, Abidá e Eldá. Todos esses eram descendentes de Quetura. ^v4
 
-**5** Porém Abraão deu tudo o que tinha a Isaque; ^v5
+**5** Abraão deu tudo o que possuía a Isaque. ^v5
 
-**6** Mas aos filhos das concubinas que Abraão tinha, deu Abraão presentes e, vivendo ele ainda, despediu-os do seu filho Isaque, enviando-os ao oriente, para a terra oriental. ^v6
+**6** No entanto, enquanto era vivo, deu presentes aos filhos de suas concubinas e enviou-lhes para a terra ao leste, distante de Isaque, seu filho. ^v6
 
-**7** Estes, pois, são os dias dos anos da vida de Abraão, que viveu cento e setenta e cinco anos. ^v7
+**7** Estes são os dias dos anos da vida de Abraão: cento e setenta e cinco anos. ^v7
 
-**8** E Abraão expirou, morrendo em boa velhice, velho e farto de dias; e foi congregado ao seu povo; ^v8
+**8** Abraão expirou e morreu em boa velhice, idoso com uma vida plena, e foi reunido ao seu povo. ^v8
 
-**9** E Isaque e Ismael, seus filhos, sepultaram-no na cova de Macpela, no campo de Efrom, filho de Zoar, heteu, que estava em frente de Manre, ^v9
+**9** Isaque e Ismael, seus filhos, enterraram-no na caverna de Macpela, no campo de Efrom, filho de Zoar, o heteu, perto de Manre. ^v9
 
-**10** O campo que Abraão comprara aos filhos de Hete. Ali está sepultado Abraão e Sara, sua mulher. ^v10
+**10** Abraão havia comprado esse campo dos filhos dos heteus. Ele fora enterrado juntamente com Sara, sua esposa. ^v10
 
-**11** E aconteceu depois da morte de Abraão, que Deus abençoou a Isaque seu filho; e habitava Isaque junto ao poço Beer-Laai-Rói. ^v11
+**11** Logo após sua morte, Deus abençoou Isaque, seu filho, e Isaque viveu perto de Beer-Laai-Roi. ^v11
 
-**12** Estas, porém, são as gerações de Ismael filho de Abraão, que a serva de Sara, Agar, egípcia, deu a Abraão. ^v12
+**12** Estes são os descendentes de Ismael, filho de Abraão, o qual Agar, a egípcia, serva de Sara, concedeu a Abraão. ^v12
 
-**13** E estes são os nomes dos filhos de Ismael, pelos seus nomes, segundo as suas gerações: O primogênito de Ismael era Nebaiote, depois Quedar, Adbeel e Mibsão, ^v13
+**13** Estes foram os nomes dos filhos de Ismael, de acordo com a ordem de nascimento: Nebaiote, o primogênito de Ismael, Quedar, Abdeel, Mibsão, ^v13
 
 **14** Misma, Dumá, Massá, ^v14
 
 **15** Hadade, Tema, Jetur, Nafis e Quedemá. ^v15
 
-**16** Estes são os filhos de Ismael, e estes são os seus nomes pelas suas vilas e pelos seus castelos; doze príncipes segundo as suas famílias. ^v16
+**16** Esses foram os filhos de Ismael e seus nomes, dados às suas vilas e aos seus acampamentos; doze chefes conforme suas tribos. ^v16
 
-**17** E estes são os anos da vida de Ismael, cento e trinta e sete anos, e ele expirou e, morrendo, foi congregado ao seu povo. ^v17
+**17** Estes são os anos de vida de Ismael: cento e trinta e sete anos. Ele expirou e morreu, e foi reunido ao seu povo. ^v17
 
-**18** E habitaram desde Havilá até Sur, que está em frente do Egito, como quem vai para a Assíria; e fez o seu assento diante da face de todos os seus irmãos. ^v18
+**18** Eles habitaram desde Havilá até Sur, perto do Egito, como quem vai em direção à Assíria. Eles viviam em hostilidade um com o outro. ^v18
 
-**19** E estas são as gerações de Isaque, filho de Abraão: Abraão gerou a Isaque; ^v19
+**19** Estes são os eventos relacionados a Isaque, filho de Abraão. Abraão tornou-se pai de Isaque, ^v19
 
-**20** E era Isaque da idade de quarenta anos, quando tomou por mulher a Rebeca, filha de Betuel, arameu de Padã-Arã, irmã de Labão, arameu. ^v20
+**20** e este tinha quarenta anos quando tomou por mulher Rebeca, filha de Betuel, o arameu de Padã-arã, e irmã de Labão, o arameu. ^v20
 
-**21** E Isaque orou insistentemente ao Senhor por sua mulher, porquanto era estéril; e o Senhor ouviu as suas orações, e Rebeca sua mulher concebeu. ^v21
+**21** Isaque orou a Yahweh por sua esposa, pois era estéril, e Yahweh ouviu suas orações, e Rebeca, sua esposa, engravidou. ^v21
 
-**22** E os filhos lutavam dentro dela; então disse: Se assim é, por que sou eu assim? E foi perguntar ao Senhor. ^v22
+**22** "Os filhos lutavam dentro dela, e ela disse: ""Por que isso está acontecendo comigo?"" E foi consultar a Yahweh." ^v22
 
-**23** E o Senhor lhe disse: Duas nações há no teu ventre, e dois povos se dividirão das tuas entranhas, e um povo será mais forte do que o outro povo, e o maior servirá ao menor. ^v23
+**23** "Yahweh disse-lhe: ""Há duas nações em teu útero, e dois povos serão separados de teu ventre. Um povo será mais forte que o outro, e o mais velho servirá o mais novo""." ^v23
 
-**24** E cumprindo-se os seus dias para dar à luz, eis gêmeos no seu ventre. ^v24
+**24** Quando chegou o tempo de dar à luz, havia gêmeos em seu ventre. ^v24
 
-**25** E saiu o primeiro ruivo e todo como um vestido de pêlo; por isso chamaram o seu nome Esaú. ^v25
+**25** O primeiro que saiu era todo ruivo e peludo, como uma vestimenta de pelos. E o chamaram de Esaú. ^v25
 
-**26** E depois saiu o seu irmão, agarrada sua mão ao calcanhar de Esaú; por isso se chamou o seu nome Jacó. E era Isaque da idade de sessenta anos quando os gerou. ^v26
+**26** Logo em seguida, veio seu irmão, cuja mão segurava o calcanhar de Esaú. E lhe deram o nome de Jacó. Isaque tinha sessenta anos quando sua esposa os deu à luz. ^v26
 
-**27** E cresceram os meninos, e Esaú foi homem perito na caça, homem do campo; mas Jacó era homem simples, habitando em tendas. ^v27
+**27** Os meninos cresceram, e Esaú tornou-se um caçador habilidoso, um homem do campo; porém Jacó era um homem calmo que passava seu tempo nas tendas. ^v27
 
-**28** E amava Isaque a Esaú, porque a caça era de seu gosto, mas Rebeca amava a Jacó. ^v28
+**28** Isaque amava Esaú, pois ele comia os animais que seu filho caçava, já Rebeca amava Jacó. ^v28
 
-**29** E Jacó cozera um guisado; e veio Esaú do campo, e estava ele cansado; ^v29
+**29** Certa vez, Jacó havia feito um ensopado, quando Esaú chegou do campo, fraco de fome. ^v29
 
-**30** E disse Esaú a Jacó: Deixa-me, peço-te, comer desse guisado vermelho, porque estou cansado. Por isso se chamou Edom. ^v30
+**30** "Então Esaú disse a Jacó: ""Dá-me desse ensopado vermelho, por favor. Estou faminto!"". Por isso, ele foi chamado Edom." ^v30
 
-**31** Então disse Jacó: Vende-me hoje a tua primogenitura. ^v31
+**31** "Jacó disse: ""Primeiro, vende-me o teu direito de primogenitura""." ^v31
 
-**32** E disse Esaú: Eis que estou a ponto de morrer; para que me servirá a primogenitura? ^v32
+**32** "Esaú respondeu: ""Estou prestes a morrer. De que me serviria o direito da primogenitura?""." ^v32
 
-**33** Então disse Jacó: Jura-me hoje. E jurou-lhe e vendeu a sua primogenitura a Jacó. ^v33
+**33** "E Jacó retomou: ""Jura-me primeiro"". Então Esaú fez um juramento e, desse modo, vendeu-lhe seu direito de primogenitura." ^v33
 
-**34** E Jacó deu pão a Esaú e o guisado de lentilhas; e ele comeu, e bebeu, e levantou-se, e saiu. Assim desprezou Esaú a sua primogenitura. ^v34
+**34** Jacó deu pão e o ensopado de lentilhas a seu irmão. Ele comeu e bebeu, então levantou-se e seguiu o seu caminho. Assim, Esaú desprezou o seu direito de primogenitura. ^v34

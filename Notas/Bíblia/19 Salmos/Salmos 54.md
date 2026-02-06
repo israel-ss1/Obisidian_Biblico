@@ -1,21 +1,18 @@
 ---
-Livro: "[[Salmos|Salmos]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Salmos|Salmos]]"
+tags: [biblia]
 ---
 
 # Salmos 54
 
-**1** Salva-me, ó Deus, pelo teu nome, e faze-me justiça pelo teu poder. ^v1
+**2** Ouve minha oração, ó Deus; dá ouvidos às palavras da minha boca. ^v2
 
-**2** Ó Deus, ouve a minha oração, inclina os teus ouvidos às palavras da minha boca. ^v2
+**3** Pois estrangeiros se levantaram contra mim, e homens sem piedade procuram tirar-me a vida. Eles não se importam com Deus. [Interlúdio] ^v3
 
-**3** Porque os estranhos se levantam contra mim, e tiranos procuram a minha vida; não têm posto Deus perante os seus olhos. (Selá.) ^v3
+**4** Eis que Deus é o meu auxílio; Yahweh é quem me sustenta. ^v4
 
-**4** Eis que Deus é o meu ajudador, o Senhor está com aqueles que sustêm a minha alma. ^v4
+**5** Ele retribuirá meus inimigos com o mal; na Tua fidelidade, destrói-os. ^v5
 
-**5** Ele recompensará com o mal os meus inimigos. Destrói-os na tua verdade. ^v5
+**6** A Ti, voluntariamente, oferecerei sacrifícios; darei graças ao Teu nome, Yahweh, porque és bom. ^v6
 
-**6** Eu te oferecerei voluntariamente sacrifícios; louvarei o teu nome, ó Senhor, porque é bom, ^v6
-
-**7** Pois me tem livrado de toda a angústia; e os meus olhos viram o meu desejo sobre os meus inimigos. ^v7
+**7** Pois me resgataste de toda tribulação; meus olhos viram a derrota dos meus inimigos. ^v7

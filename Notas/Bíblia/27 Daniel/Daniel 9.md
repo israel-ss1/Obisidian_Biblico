@@ -1,61 +1,60 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Daniel|Daniel]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Daniel|Daniel]]"
+tags: [biblia]
 ---
 
 # Daniel 9
 
-**1** No ano primeiro de Dario, filho de Assuero, da linhagem dos medos, o qual foi constituído rei sobre o reino dos caldeus, ^v1
+**1** Dario era o filho de Assuero, um descendente dos medos. Foi Assuero que se tornou rei sobre o reino dos babilônios. ^v1
 
-**2** No primeiro ano do seu reinado, eu, Daniel, entendi pelos livros que o número dos anos, de que falara o Senhor ao profeta Jeremias, em que haviam de cumprir-se as desolações de Jerusalém, era de setenta anos. ^v2
+**2** No primeiro ano do reinado de Dario, eu, Daniel, estava estudando os livros que contêm a palavra de Yahweh, a palavra que veio a Jeremias, o profeta. Eu observei que seriam setenta anos até a desolação de Jerusalém acabar. ^v2
 
-**3** E eu dirigi o meu rosto ao Senhor Deus, para o buscar com oração e súplicas, com jejum, e saco e cinza. ^v3
+**3** Voltei meu rosto para o Senhor Deus, para buscá-Lo em oração, com pedidos, em jejum, usando roupas feitas de saco e sentado em cinzas. ^v3
 
-**4** E orei ao Senhor meu Deus, e confessei, e disse: Ah! Senhor! Deus grande e tremendo, que guardas a aliança e a misericórdia para com os que te amam e guardam os teus mandamentos; ^v4
+**4** "Orei para Yahweh, meu Deus, e fiz a confissão dos nossos pecados. Eu disse: ""Senhor, Tu és o grande e maravilhoso Deus que manténs Tua aliança e és fiel com aqueles que Te amam e guardam os Teus mandamentos." ^v4
 
-**5** Pecamos, e cometemos iniqüidades, e procedemos impiamente, e fomos rebeldes, apartando-nos dos teus mandamentos e dos teus juízos; ^v5
+**5** Nós pecamos e fizemos o que é errado. Agimos de forma perversa e nos rebelamos, nos desviando dos Teus mandamentos e decretos. ^v5
 
-**6** E não demos ouvidos aos teus servos, os profetas, que em teu nome falaram aos nossos reis, aos nossos príncipes, e a nossos pais, como também a todo o povo da terra. ^v6
+**6** Não ouvimos os Teus servos, os profetas, que falaram em Teu nome para nossos reis, nossos líderes, nossos antepassados e para todo o povo da terra. ^v6
 
-**7** A ti, ó Senhor, pertence a justiça, mas a nós a confusão de rosto, como hoje se vê; aos homens de Judá, e aos moradores de Jerusalém, e a todo o Israel, aos de perto e aos de longe, em todas as terras por onde os tens lançado, por causa das suas rebeliões que cometeram contra ti. ^v7
+**7** A Ti, Deus, pertence a justiça. A nós, hoje, no entanto, pertence a vergonha, em nossos rostos — ao povo de Judá, àqueles que vivem em Jerusalém e a todos em Israel. Isso inclui aqueles que estão perto e aqueles que estão longe, em todas as terras aonde os espalhaste. Isso é por causa da grande traição que nós cometemos contra Ti. ^v7
 
-**8** Ó Senhor, a nós pertence a confusão de rosto, aos nossos reis, aos nossos príncipes, e a nossos pais, porque pecamos contra ti. ^v8
+**8** A nós, Yahweh, pertence a vergonha em nossos rostos — aos nossos reis, nossos líderes e nossos pais — porque temos pecado contra Ti. ^v8
 
-**9** Ao Senhor, nosso Deus, pertencem a misericórdia, e o perdão; pois nos rebelamos contra ele, ^v9
+**9** Ao Senhor, nosso Deus, pertencem a compaixão e o perdão, pois temos nos rebelado contra Ele. ^v9
 
-**10** E não obedecemos à voz do Senhor, nosso Deus, para andarmos nas suas leis, que nos deu por intermédio de seus servos, os profetas. ^v10
+**10** Nós não obedecemos a voz de Yahweh, nosso Deus, andando em Suas leis, que nos deu, através dos Seus servos, os profetas. ^v10
 
-**11** Sim, todo o Israel transgrediu a tua lei, desviando-se para não obedecer à tua voz; por isso a maldição e o juramento, que estão escritos na lei de Moisés, servo de Deus, se derramaram sobre nós; porque pecamos contra ele. ^v11
+**11** Todo Israel transgediu a Tua Lei e se recusou a obedecer a Tua voz. A maldição e o juramento que estão escritos na Lei de Moisés, o servo de Deus, foram derramados sobre nós, porque nós pecamos contra Ele. ^v11
 
-**12** E ele confirmou a sua palavra, que falou contra nós, e contra os nossos juízes que nos julgavam, trazendo sobre nós um grande mal; porquanto debaixo de todo o céu nunca se fez como se tem feito em Jerusalém. ^v12
+**12** Yahweh confirmou as palavras que Ele falou contra nós e contra nossos governadores, trazendo sobre nós grande desgraça. Pois, debaixo de todo o céu não foi feito nada que se pudesse comparar com o que foi feito a Jerusalém. ^v12
 
-**13** Como está escrito na lei de Moisés, todo este mal nos sobreveio; apesar disso, não suplicamos à face do Senhor nosso Deus, para nos convertermos das nossas iniqüidades, e para nos aplicarmos à tua verdade. ^v13
+**13** Como está escrito na lei de Moisés, todo esse desastre nos sobreveio; contudo, nós não imploramos pela misericórdia de Yahweh, nosso Deus, afastando-nos das nossas iniquidades e prestando atenção à Sua verdade. ^v13
 
-**14** Por isso o Senhor vigiou sobre o mal, e o trouxe sobre nós; porque justo é o Senhor, nosso Deus, em todas as suas obras, que fez, pois não obedecemos à sua voz. ^v14
+**14** Portanto, Yahweh preparou o desastre e o trouxe sobre nós; porque Yahweh, nosso Deus, é justo em todos os atos que faz, ainda que nós não tenhamos obedecido à Sua voz. ^v14
 
-**15** Agora, pois, ó Senhor, nosso Deus, que tiraste o teu povo da terra do Egito com mão poderosa, e ganhaste para ti nome, como hoje se vê; temos pecado, temos procedido impiamente. ^v15
+**15** Agora, Senhor, nosso Deus, Tu tiraste o Teu povo da terra do Egito com mão poderosa e Tu fizeste Teu nome grande como neste dia. Mas, mesmo assim, nós pecamos; nós fizemos coisas perversas. ^v15
 
-**16** Ó Senhor, segundo todas as tuas justiças, aparte-se a tua ira e o teu furor da tua cidade de Jerusalém, do teu santo monte; porque por causa dos nossos pecados, e por causa das iniqüidades de nossos pais, tornou-se Jerusalém e o teu povo um opróbrio para todos os que estão em redor de nós. ^v16
+**16** Senhor, por causa de todas as Tuas obras de justiça, deixa a Tua raiva e a Tua ira se afastarem da Tua cidade, Jerusalém, Teu santo monte. Por causa dos nossos pecados e por causa das iniquidades dos nossos antepassados, Jerusalém e o Teu povo se tornaram um objeto de desprezo para todos ao nosso redor. ^v16
 
-**17** Agora, pois, ó Deus nosso, ouve a oração do teu servo, e as suas súplicas, e sobre o teu santuário assolado faze resplandecer o teu rosto, por amor do Senhor. ^v17
+**17** Agora, nosso Deus, escuta a oração do Teu servo e os seus pedidos por misericórdia; por teu amor, Senhor, faze o Teu rosto brilhar no Teu santuário, que está desolado. ^v17
 
-**18** Inclina, ó Deus meu, os teus ouvidos, e ouve; abre os teus olhos, e olha para a nossa desolação, e para a cidade que é chamada pelo teu nome, porque não lançamos as nossas súplicas perante a tua face fiados em nossas justiças, mas em tuas muitas misericórdias. ^v18
+**18** Meu Deus, abre os Teus ouvidos e ouve; abre os Teus olhos e vê. Nós fomos destruídos; olha para a nossa cidade, que é chamada pelo Teu nome. Nós não pedimos a Ti ajuda por causa da Tua justiça, mas por causa da Tua grande misericórdia. ^v18
 
-**19** Ó Senhor, ouve; ó Senhor, perdoa; ó Senhor, atende-nos e age sem tardar; por amor de ti mesmo, ó Deus meu; porque a tua cidade e o teu povo são chamados pelo teu nome. ^v19
+**19** "Senhor, escuta! Senhor, perdoa! Senhor, presta atenção e age! Por amor a Ti, não demores, meu Deus, pois a Tua cidade e o Teu povo são chamados pelo Teu nome""." ^v19
 
-**20** Estando eu ainda falando e orando, e confessando o meu pecado, e o pecado do meu povo Israel, e lançando a minha súplica perante a face do Senhor, meu Deus, pelo monte santo do meu Deus, ^v20
+**20** Enquanto eu falava, orava e confessava o meu pecado e o pecado do meu povo, Israel, e apresentava os meus pedidos diante de Yahweh, meu Deus, em favor do monte santo do meu Deus; ^v20
 
-**21** Estando eu, digo, ainda falando na oração, o homem Gabriel, que eu tinha visto na minha visão ao princípio, veio, voando rapidamente, e tocou-me, à hora do sacrifício da tarde. ^v21
+**21** enquanto eu orava, Gabriel — o homem que eu já havia visto na minha visão, no princípio — voou em minha direção, rapidamente, no momento do sacrifício da tarde. ^v21
 
-**22** Ele me instruiu, e falou comigo, dizendo: Daniel, agora saí para fazer-te entender o sentido. ^v22
+**22** "Ele me deu entendimento e me disse: ""Daniel, eu vim agora para te dar conhecimento e entendimento." ^v22
 
-**23** No princípio das tuas súplicas, saiu a ordem, e eu vim, para to declarar, porque és mui amado; considera, pois, a palavra, e entende a visão. ^v23
+**23** Quando tu começaste a pedir por misericórdia, a ordem foi dada, e eu vim para te dar a resposta, pois tu és muito amado. Portanto, considera esta palavra e entende a revelação. ^v23
 
-**24** Setenta semanas estão determinadas sobre o teu povo, e sobre a tua santa cidade, para cessar a transgressão, e para dar fim aos pecados, e para expiar a iniqüidade, e trazer a justiça eterna, e selar a visão e a profecia, e para ungir o Santíssimo. ^v24
+**24** Setenta semanas estão decretadas para o teu povo e para a tua santa cidade para acabar com a culpa, pôr um fim ao pecado, expiar a iniquidade, trazer a justiça eterna, encerrar a visão e a profecia e consagrar o Lugar Santíssimo. ^v24
 
-**25** Sabe e entende: desde a saída da ordem para restaurar, e para edificar a Jerusalém, até ao Messias, o Príncipe, haverá sete semanas, e sessenta e duas semanas; as ruas e o muro se reedificarão, mas em tempos angustiosos. ^v25
+**25** Sabe e compreende que, desde a emissão da ordem para restaurar e reconstruir Jerusalém até a vinda do ungido (que será um líder), haverá sete semanas e sessenta e duas semanas. Jerusalém será reconstruída com ruas e um fosso, apesar dos tempos de aflição. ^v25
 
-**26** E depois das sessenta e duas semanas será cortado o Messias, mas não para si mesmo; e o povo do príncipe, que há de vir, destruirá a cidade e o santuário, e o seu fim será com uma inundação; e até ao fim haverá guerra; estão determinadas as assolações. ^v26
+**26** Após as sessenta e duas semanas, o ungido será destruído e não haverá nada. O exército de um governante vindouro destruirá a cidade e o Lugar Santo. O seu fim será com uma inundação e haverá guerra até o fim. Desolações foram decretadas. ^v26
 
-**27** E ele firmará aliança com muitos por uma semana; e na metade da semana fará cessar o sacrifício e a oblação; e sobre a asa das abominações virá o assolador, e isso até à consumação; e o que está determinado será derramado sobre o assolador. ^v27
+**27** "Ele confirmará uma aliança com muitos por uma semana. No meio da semana, ele colocará um fim ao sacrifício e às ofertas. Nas asas das abominações, virá alguém que fará desolações. O fim e a destruição estão decretados para serem derramados sobre aquele que fez a desolação""." ^v27

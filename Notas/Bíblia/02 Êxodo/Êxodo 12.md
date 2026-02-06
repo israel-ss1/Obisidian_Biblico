@@ -1,109 +1,108 @@
 ---
-Livro: "[[Êxodo|Êxodo]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Êxodo|Êxodo]]"
+tags: [biblia]
 ---
 
 # Êxodo 12
 
-**1** E falou o Senhor a Moisés e a Arão na terra do Egito, dizendo: ^v1
+**1** Yahweh falou a Moisés e a Arão na terra do Egito, dizendo: ^v1
 
-**2** Este mesmo mês vos será o princípio dos meses; este vos será o primeiro dos meses do ano. ^v2
+**2** """Para vós, este primeiro mês será o início dos meses, o primeiro mês do ano para vós." ^v2
 
-**3** Falai a toda a congregação de Israel, dizendo: Aos dez deste mês tome cada um para si um cordeiro, segundo as casas dos pais, um cordeiro para cada família. ^v3
+**3** Diz à assembleia de Israel: 'No décimo dia deste mês, cada um de vós deve tomar um cordeiro ou um cabrito; cada família fará isso, um cordeiro para cada família. ^v3
 
-**4** Mas se a família for pequena para um cordeiro, então tome um só com seu vizinho perto de sua casa, conforme o número das almas; cada um conforme ao seu comer, fareis a conta conforme ao cordeiro. ^v4
+**4** Se a família for pequena para um cordeiro, o homem e seu vizinho do lado comerão a carne de um cordeiro ou cabrito que for suficiente, conforme o número de pessoas. Deverá ser suficiente para todos que comerem; assim, eles deverão tomar carne suficiente para alimentar a todos vós. ^v4
 
-**5** O cordeiro, ou cabrito, será sem mácula, um macho de um ano, o qual tomareis das ovelhas ou das cabras. ^v5
+**5** Vosso cordeiro ou cabrito deverá ser sem mácula, um macho de um ano. Tomareis um cordeiro ou cabrito. ^v5
 
-**6** E o guardareis até ao décimo quarto dia deste mês, e todo o ajuntamento da congregação de Israel o sacrificará à tarde. ^v6
+**6** Devereis guardá-lo até o décimo quarto dia do mês. Então, toda a assembleia de Israel deverá matar cada animal ao cair da tarde. ^v6
 
-**7** E tomarão do sangue, e pô-lo-ão em ambas as ombreiras, e na verga da porta, nas casas em que o comerem. ^v7
+**7** Pegareis uma parte do sangue, e a colocareis nos dois umbrais e na parte superior da porta das casas, nas quais irão o animal. ^v7
 
-**8** E naquela noite comerão a carne assada no fogo, com pães ázimos; com ervas amargosas a comerão. ^v8
+**8** Naquela noite, comereis a carne, depois de tê-la, primeiro, assado ao fogo. Comereis com pão feito sem fermento, juntamente com ervas amargas. ^v8
 
-**9** Não comereis dele cru, nem cozido em água, senão assado no fogo, a sua cabeça com os seus pés e com a sua fressura. ^v9
+**9** Não o comereis cru ou cozido em água. Ao invés disso, assá-lo-eis ao fogo, com a cabeça, as pernas e as partes internas. ^v9
 
-**10** E nada dele deixareis até amanhã; mas o que dele ficar até amanhã, queimareis no fogo. ^v10
+**10** Não deixareis sobrar nada para a manhã seguinte. Queimareis tudo quanto sobrar até de manhã. ^v10
 
-**11** Assim pois o comereis: Os vossos lombos cingidos, os vossos sapatos nos pés, e o vosso cajado na mão; e o comereis apressadamente; esta é a páscoa do Senhor. ^v11
+**11** "Assim é como comereis: com o cinto apertado, sapatos nos pés e cajado na mão. Comereis apressadamente. Esta é a Páscoa de Yahweh""." ^v11
 
-**12** E eu passarei pela terra do Egito esta noite, e ferirei todo o primogênito na terra do Egito, desde os homens até aos animais; e em todos os deuses do Egito farei juízos. Eu sou o Senhor. ^v12
+**12** "Yahweh disse: ""Passarei na terra do Egito naquela noite, e ferirei todos os primogênitos dos homens e dos animais na terra do Egito. Punirei todos os deuses do Egito. Eu sou Yahweh." ^v12
 
-**13** E aquele sangue vos será por sinal nas casas em que estiverdes; vendo eu sangue, passarei por cima de vós, e não haverá entre vós praga de mortandade, quando eu ferir a terra do Egito. ^v13
+**13** O sangue será um sinal para Me mostrar as suas casas. Quando Eu vir o sangue, passarei por cima de vós, quando ferir a terra do Egito. Essa praga não virá sobre vós e não vos destruirá. ^v13
 
-**14** E este dia vos será por memória, e celebrá-lo-eis por festa ao Senhor; nas vossas gerações o celebrareis por estatuto perpétuo. ^v14
+**14** Esse dia se tornará um memorial para vós, o qual devereis observar como uma festividade para Yahweh. Será sempre uma lei para vós, através de todas as gerações, devereis observar este dia. ^v14
 
-**15** Sete dias comereis pães ázimos; ao primeiro dia tirareis o fermento das vossas casas; porque qualquer que comer pão levedado, desde o primeiro até ao sétimo dia, aquela alma será cortada de Israel. ^v15
+**15** Comereis pães sem fermento durante sete dias. No primeiro dia, removereis o fermento de vossas casas. Qualquer que comer pão fermentado do primeiro até o sétimo dia deverá ser cortado de Israel. ^v15
 
-**16** E ao primeiro dia haverá santa convocação; também ao sétimo dia tereis santa convocação; nenhuma obra se fará neles, senão o que cada alma houver de comer; isso somente aprontareis para vós. ^v16
+**16** No primeiro dia, haverá uma assembleia que será dedicada ao Meu nome e no sétimo dia haverá outro ajuntamento semelhante. Nenhum trabalho será feito nesses dias, exceto o cozimento, para que todos possam comer. Somente esse trabalho deverá ser feito por vós. ^v16
 
-**17** Guardai pois a festa dos pães ázimos, porque naquele mesmo dia tirei vossos exércitos da terra do Egito; pelo que guardareis a este dia nas vossas gerações por estatuto perpétuo. ^v17
+**17** Observareis essa celebração dos pães sem fermento, porque nesse dia trarei vossos exércitos para fora da terra do Egito. Assim, observareis esse dia por todas as gerações. Será uma lei para vós, para sempre. ^v17
 
-**18** No primeiro mês, aos catorze dias do mês, à tarde, comereis pães ázimos até vinte e um do mês à tarde. ^v18
+**18** Comereis pães sem fermento desde o cair da tarde do décimo quarto dia do primeiro mês do ano até o cair da tarde do vigésimo primeiro dia do mesmo mês. ^v18
 
-**19** Por sete dias não se ache nenhum fermento nas vossas casas; porque qualquer que comer pão levedado, aquela alma será cortada da congregação de Israel, assim o estrangeiro como o natural da terra. ^v19
+**19** Durante esses sete dias, nenhum fermento deverá ser encontrado em vossas casas. Qualquer que comer pão com fermento será cortado da comunidade de Israel, seja essa pessoa um estrangeiro ou alguém nascido em vossa terra. ^v19
 
-**20** Nenhuma coisa levedada comereis; em todas as vossas habitações comereis pães ázimos. ^v20
+**20** "Nada feito com fermento deverá ser comido. Onde quer que viverdes, comereis pão feito sem fermento""." ^v20
 
-**21** Chamou pois Moisés a todos os anciãos de Israel, e disse-lhes: Escolhei e tomai vós cordeiros para vossas famílias, e sacrificai a páscoa. ^v21
+**21** "Então, Moisés convocou todos os anciãos de Israel e disse-lhes: ""Ide e escolhei os cordeiros que sejam suficientes para alimentar vossas famílias, e sacrificai o cordeiro da Páscoa." ^v21
 
-**22** Então tomai um molho de hissopo, e molhai-o no sangue que estiver na bacia, e passai-o na verga da porta, e em ambas as ombreiras, do sangue que estiver na bacia; porém nenhum de vós saia da porta da sua casa até à manhã. ^v22
+**22** Então, tomai um ramo de hissopo e mergulhai-o no sangue que estará numa bacia. Aspergireis o sangue da bacia no topo das portas e nos umbrais. Nenhum de vós sairá da porta da vossa casa até o amanhecer. ^v22
 
-**23** Porque o Senhor passará para ferir aos egípcios, porém quando vir o sangue na verga da porta, e em ambas as ombreiras, o Senhor passará aquela porta, e não deixará o destruidor entrar em vossas casas, para vos ferir. ^v23
+**23** Porque Yahweh passará para ferir os egípcios. Quando Ele vir o sangue no topo das vigas da porta e dos umbrais, passará por cima da vossa porta e não permitará que o destruidor entre nas vossas casas para ferir-vos. ^v23
 
-**24** Portanto guardai isto por estatuto para vós, e para vossos filhos para sempre. ^v24
+**24** Observareis isso para sempre, como uma lei para vós e vossos descendentes. ^v24
 
-**25** E acontecerá que, quando entrardes na terra que o Senhor vos dará, como tem dito, guardareis este culto. ^v25
+**25** Quando entrardes na terra que Yahweh vos dará, como Ele prometeu fazer, observareis esse ato de adoração. ^v25
 
-**26** E acontecerá que, quando vossos filhos vos disserem: Que culto é este? ^v26
+**26** Quando vossos filhos vos perguntarem: 'O que significa este ato de adoração?'. ^v26
 
-**27** Então direis: Este é o sacrifício da páscoa ao Senhor, que passou as casas dos filhos de Israel no Egito, quando feriu aos egípcios, e livrou as nossas casas. Então o povo inclinou-se, e adorou. ^v27
+**27** "Então direis: 'Este é o sacrifício da Páscoa de Yahweh, porque Yahweh passou por cima das casas dos israelitas no Egito, quando feriu de morte os egípcios. Ele libertou nossas famílias'"". Então, o povo prostou-se e adorou a Yahweh." ^v27
 
-**28** E foram os filhos de Israel, e fizeram isso como o Senhor ordenara a Moisés e a Arão, assim fizeram. ^v28
+**28** Os israelitas foram e fizeram exatamente conforme Yahweh tinha ordenado a Moisés e Arão. ^v28
 
-**29** E aconteceu, à meia-noite, que o Senhor feriu a todos os primogênitos na terra do Egito, desde o primogênito de Faraó, que se sentava em seu trono, até ao primogênito do cativo que estava no cárcere, e todos os primogênitos dos animais. ^v29
+**29** Aconteceu que, à meia noite, Yahweh feriu de morte todos os primogênitos na terra do Egito, desde o primogênito do Faraó, o qual se assentava em seu trono, como também o primogênito do prisioneiro e todos os primogênitos dos rebanhos. ^v29
 
-**30** E Faraó levantou-se de noite, ele e todos os seus servos, e todos os egípcios; e havia grande clamor no Egito, porque não havia casa em que não houvesse um morto. ^v30
+**30** Faraó levantou-se à noite — ele, todos os seus servos e todos os egípcios. Houve grande lamento no Egito, pois não havia casa alguma onde não houvesse alguém morto. ^v30
 
-**31** Então chamou a Moisés e a Arão de noite, e disse: Levantai-vos, saí do meio do meu povo, tanto vós como os filhos de Israel; e ide, servi ao Senhor, como tendes dito. ^v31
+**31** "À noite, o Faraó convocou Moisés e Arão, e disse: ""Levantai-vos, saí do meio do meu povo, vós e os israelitas. Ide, adorai a Yahweh, conforme pedistes e queríeis fazer." ^v31
 
-**32** Levai também convosco vossas ovelhas e vossas vacas, como tendes dito; e ide, e abençoai-me também a mim. ^v32
+**32** "Levai vossos rebanhos e gados, como dissestes, ide e também abençoai-me.""" ^v32
 
-**33** E os egípcios apertavam ao povo, apressando-se para lançá-los da terra; porque diziam: Todos seremos mortos. ^v33
+**33** "Os egípcios estavam com grande pressa para expulsá-los da terra, pois diziam: ""Vamos todos morrer""." ^v33
 
-**34** E o povo tomou a sua massa, antes que levedasse, e as suas amassadeiras atadas em suas roupas sobre seus ombros. ^v34
+**34** Então o povo tomou suas massas sem nenhum fermento adicionado. Suas amassadeiras já estavam amarradas a suas roupas e em seus ombros. ^v34
 
-**35** Fizeram, pois, os filhos de Israel conforme à palavra de Moisés, e pediram aos egípcios jóias de prata, e jóias de ouro, e roupas. ^v35
+**35** O povo de Israel fez conforme Moisés tinha dito. Foram pedidos aos egípcios os objetos de prata e ouro, como também roupas. ^v35
 
-**36** E o Senhor deu ao povo graça aos olhos dos egípcios, e estes lhe davam o que pediam; e despojaram aos egípcios. ^v36
+**36** Yahweh fez com que os egípcios desejassem agradar aos israelitas. Então, os egípcios deram qualquer coisa que fosse pedida por eles. Dessa forma, os israelitas despojaram os egípcios. ^v36
 
-**37** Assim partiram os filhos de Israel de Ramessés para Sucote, cerca de seiscentos mil a pé, somente de homens, sem contar os meninos. ^v37
+**37** Os israelitas viajaram de Ramessés a Sucote. Eram cerca de seiscentos mil homens a pé, sem contar as crianças. ^v37
 
-**38** E subiu também com eles muita mistura de gente, e ovelhas, e bois, uma grande quantidade de gado. ^v38
+**38** Uma multidão misturada de estrangeiros também foi com eles, junto com seus rebanhos e gados, um número muito grande. ^v38
 
-**39** E cozeram bolos ázimos da massa que levaram do Egito, porque não se tinha levedado, porquanto foram lançados do Egito; e não se puderam deter, nem prepararam comida. ^v39
+**39** Assaram pães sem fermento com a massa que eles trouxeram do Egito. Os pães estavam sem fermento porque tinham saído do Egito e não podiam se atrasar com o preparo da comida. ^v39
 
-**40** O tempo que os filhos de Israel habitaram no Egito foi de quatrocentos e trinta anos. ^v40
+**40** Os israelitas tinham habitado no Egito por quatrocentos e trinta anos. ^v40
 
-**41** E aconteceu que, passados os quatrocentos e trinta anos, naquele mesmo dia, todos os exércitos do Senhor saíram da terra do Egito. ^v41
+**41** No final dos quatrocentos e trinta anos, naquele mesmo dia, todos os exércitos de Yahweh saíram da terra do Egito. ^v41
 
-**42** Esta noite se guardará ao Senhor, porque nela os tirou da terra do Egito; esta é a noite do Senhor, que devem guardar todos os filhos de Israel nas suas gerações. ^v42
+**42** Essa foi uma noite para ficar acordado, pois Yahweh os tirou da terra do Egito. Essa foi a noite de Yahweh, para ser observada por todos os israelitas através de todas as suas gerações. ^v42
 
-**43** Disse mais o Senhor a Moisés e a Arão: Esta é a ordenança da páscoa: nenhum filho do estrangeiro comerá dela. ^v43
+**43** "Yahweh disse a Moisés e Arão: ""Aqui está a regra para a Páscoa: nenhum estrangeiro comerá dela." ^v43
 
-**44** Porém todo o servo comprado por dinheiro, depois que o houveres circuncidado, então comerá dela. ^v44
+**44** No entanto, todo escravo israelita comprado por dinheiro poderá comer após ter sido circuncidado. ^v44
 
-**45** O estrangeiro e o assalariado não comerão dela. ^v45
+**45** Estrangeiros e servos assalariados não deverão comer nada dessa comida. ^v45
 
-**46** Numa casa se comerá; não levarás daquela carne fora da casa, nem dela quebrareis osso. ^v46
+**46** A refeição deverá ser comida na sua própria casa. Não levareis nenhuma carne para fora da casa, e não quebrareis osso algum. ^v46
 
-**47** Toda a congregação de Israel o fará. ^v47
+**47** Toda a comunidade de Israel deverá observar a celebração. ^v47
 
-**48** Porém se algum estrangeiro se hospedar contigo e quiser celebrar a páscoa ao Senhor, seja-lhe circuncidado todo o homem, e então chegará a celebrá-la, e será como o natural da terra; mas nenhum incircunciso comerá dela. ^v48
+**48** Se um estrangeiro viver entre vós e quiser participar da Páscoa para Yahweh, todos os seus parentes homens deverão ser circuncidados. Então ele poderá celebrá-la. Ele se tornará como uma pessoa nativa. Contudo, nenhum incircunciso poderá comer dela. ^v48
 
-**49** Uma mesma lei haja para o natural e para o estrangeiro que peregrinar entre vós. ^v49
+**49** "Essa mesma lei será aplicada tanto para o nativo quanto para o estrangeiro que vive entre vós""." ^v49
 
-**50** E todos os filhos de Israel o fizeram; como o Senhor ordenara a Moisés e a Arão, assim fizeram. ^v50
+**50** Assim, todos os israelitas fizeram exatamente como Yahweh tinha ordenado a Moisés e Arão. ^v50
 
-**51** E aconteceu naquele mesmo dia que o Senhor tirou os filhos de Israel da terra do Egito, segundo os seus exércitos. ^v51
+**51** Isso aconteceu no mesmo dia em que Yahweh tirou Israel da terra do Egito, conforme seus exércitos. ^v51

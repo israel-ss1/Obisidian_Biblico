@@ -1,19 +1,16 @@
 ---
-Livro: "[[Salmos|Salmos]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Salmos|Salmos]]"
+tags: [biblia]
 ---
 
 # Salmos 23
 
-**1** O SENHOR é o meu pastor, nada me faltará. ^v1
+**2** Ele me faz deitar em verdes pastos e me guia às águas tranquilas. ^v2
 
-**2** Deitar-me faz em verdes pastos, guia-me mansamente a águas tranqüilas. ^v2
+**3** Ele restaura a minha vida; Ele me guia pelos caminhos justos por amor ao Seu nome. ^v3
 
-**3** Refrigera a minha alma; guia-me pelas veredas da justiça, por amor do seu nome. ^v3
+**4** Mesmo se eu andar por um vale da mais escura sombra, não temerei mal algum, pois Tu estás comigo; Tua vara e Teu cajado me consolam. ^v4
 
-**4** Ainda que eu andasse pelo vale da sombra da morte, não temeria mal algum, porque tu estás comigo; a tua vara e o teu cajado me consolam. ^v4
+**5** Preparas um banquete para mim, na presença dos meus inimigos. Unges a minha cabeça com óleo, o meu cálice transborda. ^v5
 
-**5** Preparas uma mesa perante mim na presença dos meus inimigos, unges a minha cabeça com óleo, o meu cálice transborda. ^v5
-
-**6** Certamente que a bondade e a misericórdia me seguirão todos os dias da minha vida; e habitarei na casa do Senhor por longos dias. ^v6
+**6** Certamente, Tua bondade e amor leal me acompanharão todos os dias da minha vida; e morarei na casa de Yahweh para sempre! ^v6

@@ -1,35 +1,34 @@
 ---
-Livro: "[[Apocalipse|Apocalipse]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Apocalipse|Apocalipse]]"
+tags: [biblia]
 ---
 
 # Apocalipse 5
 
-**1** E vi na destra do que estava assentado sobre o trono um livro escrito por dentro e por fora, selado com sete selos. ^v1
+**1** Então vi, na mão direita Daquele que estava sentado no trono, um rolo escrito por dentro e por fora. Este estava selado com sete selos. ^v1
 
-**2** E vi um anjo forte, bradando com grande voz: Quem é digno de abrir o livro e de desatar os seus selos? ^v2
+**2** "Vi um anjo poderoso proclamando em alta voz: ""Quem é digno de abrir o rolo e de romper os seus selos?""" ^v2
 
-**3** E ninguém no céu, nem na terra, nem debaixo da terra, podia abrir o livro, nem olhar para ele. ^v3
+**3** Ninguém no céu, nem na terra, nem debaixo da terra, estava apto para abrir ou ler o rolo. ^v3
 
-**4** E eu chorava muito, porque ninguém fora achado digno de abrir o livro, nem de o ler, nem de olhar para ele. ^v4
+**4** Eu chorava amargamente porque ninguém foi encontrado digno de abrir nem de ler o rolo. ^v4
 
-**5** E disse-me um dos anciãos: Não chores; eis aqui o Leão da tribo de Judá, a raiz de Davi, que venceu, para abrir o livro e desatar os seus sete selos. ^v5
+**5** "Mas um dos anciãos me disse: ""Não chores. Eis que o Leão da Tribo de Judá, a Raiz de Davi, venceu para abrir o rolo e seus sete selos""." ^v5
 
-**6** E olhei, e eis que estava no meio do trono e dos quatro animais viventes e entre os anciãos um Cordeiro, como havendo sido morto, e tinha sete pontas e sete olhos, que são os sete espíritos de Deus enviados a toda a terra. ^v6
+**6** Vi um Cordeiro em pé, entre o trono e os quatro seres viventes e entre os anciãos. O Cordeiro parecia ter sido morto. Ele tinha sete chifres e sete olhos. Estes são os espíritos de Deus enviados sobre toda a terra. ^v6
 
-**7** E veio, e tomou o livro da destra do que estava assentado no trono. ^v7
+**7** Ele veio e tomou o rolo da mão direita Daquele que estava sentado no trono. ^v7
 
-**8** E, havendo tomado o livro, os quatro animais e os vinte e quatro anciãos prostraram-se diante do Cordeiro, tendo todos eles harpas e salvas de ouro cheias de incenso, que são as orações dos santos. ^v8
+**8** Quando o Cordeiro tomou o rolo, os quatro seres viventes e os vinte e quatro anciãos prostraram-se diante Dele. Cada um deles tinha uma harpa e uma taça de ouro cheia de incenso, que são as orações dos santos. ^v8
 
-**9** E cantavam um novo cântico, dizendo: Digno és de tomar o livro, e de abrir os seus selos; porque foste morto, e com o teu sangue nos compraste para Deus de toda a tribo, e língua, e povo, e nação; ^v9
+**9** "Eles cantavam uma nova canção: ""Tu és digno de tomar o rolo e de abrir os seus selos, porque foste morto e, com o Teu sangue, compraste para Deus pessoas de toda tribo, língua, povo e nação." ^v9
 
-**10** E para o nosso Deus nos fizeste reis e sacerdotes; e reinaremos sobre a terra. ^v10
+**10** "Tu os constituíste reino e sacerdotes para servirem o nosso Deus, e eles reinarão sobre a terra""." ^v10
 
-**11** E olhei, e ouvi a voz de muitos anjos ao redor do trono, e dos animais, e dos anciãos; e era o número deles milhões de milhões, e milhares de milhares, ^v11
+**11** Então olhei e ouvi o som de muitos anjos, ao redor do trono, dos seres viventes e dos anciãos, cujo número total era de milhares de milhares e de milhões de milhões. ^v11
 
-**12** Que com grande voz diziam: Digno é o Cordeiro, que foi morto, de receber o poder, e riquezas, e sabedoria, e força, e honra, e glória, e ações de graças. ^v12
+**12** "Eles falavam em alta voz: ""Digno é o Cordeiro que foi morto de receber poder, riqueza, sabedoria, força, honra, glória e louvor""." ^v12
 
-**13** E ouvi a toda a criatura que está no céu, e na terra, e debaixo da terra, e que estão no mar, e a todas as coisas que neles há, dizer: Ao que está assentado sobre o trono, e ao Cordeiro, sejam dadas ações de graças, e honra, e glória, e poder para todo o sempre. ^v13
+**13** "Ouvi toda criatura que estava no céu, na terra, debaixo da terra e no mar - tudo o que neles há - dizendo: ""Àquele que está sentado no trono e ao Cordeiro seja o louvor, a honra, a glória e o poder para reinar para sempre""." ^v13
 
-**14** E os quatro animais diziam: Amém. E os vinte e quatro anciãos prostraram-se, e adoraram ao que vive para todo o sempre. ^v14
+**14** "Os quatro seres viventes disseram: ""Amém!"" E os anciãos prostraram-se e O adoraram." ^v14

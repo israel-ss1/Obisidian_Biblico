@@ -1,63 +1,62 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Ezequiel|Ezequiel]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Ezequiel|Ezequiel]]"
+tags: [biblia]
 ---
 
 # Ezequiel 12
 
-**1** E veio a mim a palavra do SENHOR, dizendo: ^v1
+**1** Veio a mim a palavra de Yahweh, dizendo: ^v1
 
-**2** Filho do homem, tu habitas no meio da casa rebelde, que tem olhos para ver e não vê, e tem ouvidos para ouvir e não ouve; porque eles são casa rebelde. ^v2
+**2** """Filho do homem, tu vives no meio da casa rebelde, que tem olhos para ver mas não vêem, e ouvidos para ouvir mas não ouvem, porque é casa rebelde." ^v2
 
-**3** Tu, pois, ó filho do homem, prepara mobílias para mudares, e de dia muda aos olhos deles; e do teu lugar mudarás para outro lugar aos olhos deles; bem pode ser que reparem nisso, ainda que eles são casa rebelde. ^v3
+**3** Quanto a ti, filho do homem, prepara as tuas coisas para o exílio, e prepara para sair de dia, à vista deles, porque Eu te enviarei ao exílio à vista deles, do lugar que vives para um outro lugar. Talvez eles comecem a perceber, embora sejam casa rebelde. ^v3
 
-**4** Aos olhos deles, pois, tirarás para fora, de dia, as tuas mobílias, como quem vai mudar; então tu sairás de tarde aos olhos deles, como quem sai mudando para o cativeiro. ^v4
+**4** Tu tirarás tuas coisas para o exílio de dia à vista deles; sairás de tarde à vista deles, como alguém que vai para o exílio. ^v4
 
-**5** Faze para ti, à vista deles, uma abertura na parede, e tira-as para fora, por ali. ^v5
+**5** Faze um buraco na parede, à vista deles, e sai através dele. ^v5
 
-**6** Aos olhos deles, nos seus ombros, às escuras as tirarás, e cobrirás o teu rosto, para que não vejas a terra; porque te dei por sinal à casa de Israel. ^v6
+**6** "Levarás os teus pertences em teus ombros, à vista deles; às escuras os transportarás. Cobre a tua face, para que não vejas a terra, porque Eu te coloquei como sinal para a casa de Israel""." ^v6
 
-**7** E fiz assim, como se me deu ordem; as minhas mobílias tirei para fora de dia, como mobílias do cativeiro; então à tarde fiz, com a mão, uma abertura na parede; às escuras as tirei para fora, e nos meus ombros as levei, aos olhos deles. ^v7
+**7** E eu fiz como fui ordenado. Durante o dia eu tirei os meus pertences, como se fosse para o exílio, e de tarde fiz um buraco na parede com as mãos. Tirei meus pertences na escuridão, e levantei-os e coloquei nos ombros à vista deles. ^v7
 
-**8** E, pela manhã, veio a mim a palavra do Senhor, dizendo: ^v8
+**8** Então, veio a mim a palavra de Yahweh pela manhã, dizendo: ^v8
 
-**9** Filho do homem, porventura não te disse a casa de Israel, aquela casa rebelde: Que fazes tu? ^v9
+**9** """Filho do homem, não te perguntou a casa de Israel, esta casa rebelde: 'O que estás fazendo?'" ^v9
 
-**10** Dize-lhes: Assim diz o Senhor DEUS: Esta carga refere-se ao príncipe em Jerusalém, e a toda a casa de Israel, que está no meio dela. ^v10
+**10** Dize-lhes: 'Assim diz Yahweh Deus: Esta ação profética se refere aos príncipes em Jerusalém, e a toda casa de Israel que está no meio deles'. ^v10
 
-**11** Dize: Eu sou o vosso sinal. Assim como eu fiz, assim se lhes fará a eles; irão para o exílio em cativeiro. ^v11
+**11** Dize: 'Eu sou um sinal para vós. Assim como fiz, será feito a eles; eles irão para o exílio e para o cativeiro. ^v11
 
-**12** E o príncipe que está no meio deles levará aos ombros as mobílias, e às escuras sairá; farão uma abertura na parede para as tirarem por ela; o seu rosto cobrirá, para que com os seus olhos não veja a terra. ^v12
+**12** O príncipe que está no meio deles levantará seus pertences nos ombros, na escuridão, e sairá pela parede. Eles escavarão a parede e tirarão as suas coisas. Ele cobrirá a sua face, e não verá a terra com seus olhos. ^v12
 
-**13** Também estenderei a minha rede sobre ele, e será apanhado no meu laço; e o levarei à babilônia, à terra dos caldeus, e contudo não a verá, ainda que ali morrerá. ^v13
+**13** Também estenderei a minha rede sobre ele e será apanhado em minha armadilha; e então, o levarei para Babilônia, a terra dos Caldeus, mas ele não a verá, ele morrerá ali. ^v13
 
-**14** E a todos os ventos espalharei os que estiverem ao redor dele para seu socorro, e a todas as suas tropas; e desembainharei a espada atrás deles. ^v14
+**14** Espalharei também, em toda direção, todos os que estiverem ao redor dele para seu socorro, bem como todo seu exército, e enviarei a espada atrás deles. ^v14
 
-**15** Assim saberão que eu sou o Senhor, quando eu os dispersar entre as nações e os espalhar pelas terras. ^v15
+**15** Então, eles saberão que Eu sou Yahweh, quando lhes espalhar no meio das nações e os dispersar por toda parte da terra. ^v15
 
-**16** Mas deles deixarei ficar alguns poucos, escapos da espada, da fome, e da peste, para que contem todas as suas abominações entre as nações para onde forem; e saberão que eu sou o Senhor. ^v16
+**16** "Mas pouparei alguns homens no meio deles, da espada e da praga, para que contem todas as suas abominações entre as nações para onde forem, e saberão que Eu sou Yahweh'""." ^v16
 
-**17** Então veio a mim a palavra do Senhor, dizendo: ^v17
+**17** Veio a mim a palavra de Yahweh, dizendo: ^v17
 
-**18** Filho do homem, o teu pão comerás com tremor, e a tua água beberás com estremecimento e com receio. ^v18
+**18** """Filho do homem, come o teu pão com tremor, e bebe a tua água com estremecimento e com receio." ^v18
 
-**19** E dirás ao povo da terra: Assim diz o Senhor DEUS acerca dos habitantes de Jerusalém, na terra de Israel: O seu pão comerão com receio, e a sua água beberão com susto, pois a sua terra será despojada de sua abundância, por causa da violência de todos os que nela habitam. ^v19
+**19** "Então, dize ao povo da terra: ""Assim diz Yahweh Deus acerca dos habitantes de Jerusalém e da terra de Israel: Eles comerão o seu pão com tremor e beberão a sua água estremecendo, pois a terra será despojada da sua abundância, por causa da violência daqueles que vivem nela." ^v19
 
-**20** E as cidades habitadas serão devastadas, e a terra se tornará em desolação; e sabereis que eu sou o Senhor. ^v20
+**20** "E as cidades onde habitam serão desoladas; a terra será improdutiva; e sabereis que Eu sou Yahweh""." ^v20
 
-**21** E veio ainda a mim a palavra do Senhor, dizendo: ^v21
+**21** Veio outra vez a palavra do Senhor a mim dizendo: ^v21
 
-**22** Filho do homem, que provérbio é este que vós tendes na terra de Israel, dizendo: Prolongar-se-ão os dias, e perecerá toda a visão? ^v22
+**22** """Filho do homem, que provérbio é este que vós tendes na terra de Israel que diz: 'Os dias estão prolongados e toda visão falhou'?" ^v22
 
-**23** Portanto, dize-lhes: Assim diz o Senhor DEUS: Farei cessar este provérbio, e já não se servirão mais dele em Israel; mas dize-lhes: Os dias estão próximos e o cumprimento de toda a visão. ^v23
+**23** Portanto, dize-lhes: 'Assim diz Yahweh Deus: Eu porei fim neste provérbio e o povo de Israel não o usará mais'. Fala para eles: 'Os dias estão próximos, quando toda visão será cumprida'. ^v23
 
-**24** Porque não haverá mais alguma visão vã, nem adivinhação lisonjeira, no meio da casa de Israel. ^v24
+**24** Porque não haverá mais falsas visões ou adivinhações no meio da casa de Israel. ^v24
 
-**25** Porque eu, o SENHOR, falarei, e a palavra que eu falar se cumprirá; não será mais adiada; porque em vossos dias, ó casa rebelde, falarei uma palavra e a cumprirei, diz o Senhor DEUS. ^v25
+**25** "Porque Eu, Yahweh, falo e realizo as palavras que digo. Não será mais adiada. Pois Eu falarei essa palavra em vossos dias, casa rebelde, e cumprirei! Esta é a declaração de Yahweh'""." ^v25
 
-**26** Veio mais a mim a palavra do Senhor, dizendo: ^v26
+**26** E veio, de novo, a palavra de Yahweh a mim, dizendo: ^v26
 
-**27** Filho do homem, eis que os da casa de Israel dizem: A visão que este tem é para muitos dias, e ele profetiza de tempos que estão longe. ^v27
+**27** """Filho do homem! Vê, a casa de Israel tem dito: 'A visão que ele vê é para muitos dias no futuro e ele profetiza sobre os tempos que estão longe'." ^v27
 
-**28** Portanto dize-lhes: Assim diz o Senhor DEUS: Não será mais adiada nenhuma das minhas palavras; e a palavra que falei se cumprirá, diz o Senhor DEUS. ^v28
+**28** "Portanto, dize-lhes: 'Assim diz Yahweh Deus: As Minhas palavras não serão mais adiadas; a palavra que Eu falei se cumprirá — essa é a declaração de Yahweh Deus'""." ^v28

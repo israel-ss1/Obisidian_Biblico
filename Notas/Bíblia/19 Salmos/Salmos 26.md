@@ -1,31 +1,28 @@
 ---
-Livro: "[[Salmos|Salmos]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Salmos|Salmos]]"
+tags: [biblia]
 ---
 
 # Salmos 26
 
-**1** Julga-me, SENHOR, pois tenho andado em minha sinceridade; tenho confiado também no SENHOR; não vacilarei. ^v1
+**2** Examina-me, Yahweh, e prova-me; prova a pureza da minha mente e do meu coração! ^v2
 
-**2** Examina-me, Senhor, e prova-me; esquadrinha os meus rins e o meu coração. ^v2
+**3** Pois Tua fidelidade à aliança está sempre diante dos meus olhos e tenho caminhado em Tua verdade. ^v3
 
-**3** Porque a tua benignidade está diante dos meus olhos; e tenho andado na tua verdade. ^v3
+**4** Eu não me associo com pessoas fraudulentas, nem me misturo com pessoas desonestas. ^v4
 
-**4** Não me tenho assentado com homens vãos, nem converso com os homens dissimulados. ^v4
+**5** Odeio a reunião dos malfeitores, e não vivo com os maus. ^v5
 
-**5** Tenho odiado a congregação de malfeitores; nem me ajunto com os ímpios. ^v5
+**6** Eu lavo minhas mãos na inocência, e vou para o Teu altar, Yahweh, ^v6
 
-**6** Lavo as minhas mãos na inocência; e assim andarei, Senhor, ao redor do teu altar. ^v6
+**7** cantando uma canção de louvor e relatando todas as Tuas maravilhas. ^v7
 
-**7** Para publicar com voz de louvor, e contar todas as tuas maravilhas. ^v7
+**8** Yahweh, eu amo a casa onde Tu moras, o lugar onde a Tua glória habita! ^v8
 
-**8** Senhor, eu tenho amado a habitação da tua casa e o lugar onde permanece a tua glória. ^v8
+**9** Não me removas com os pecadores, nem minha vida com os homens sanguinários, ^v9
 
-**9** Não apanhes a minha alma com os pecadores, nem a minha vida com os homens sanguinolentos, ^v9
+**10** cujas mãos executam conspirações, cuja mão direita pratica subornos. ^v10
 
-**10** Em cujas mãos há malefício, e cuja mão direita está cheia de subornos. ^v10
+**11** Mas, quanto a mim, andarei em integridade. Resgata-me e tem misericórdia de mim. ^v11
 
-**11** Mas eu ando na minha sinceridade; livra-me e tem piedade de mim. ^v11
-
-**12** O meu pé está posto em caminho plano; nas congregações louvarei ao Senhor. ^v12
+**12** Meus pés estão firmes em um terreno plano; nas assembleias, eu louvarei a Yahweh! ^v12

@@ -1,17 +1,16 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Jeremias|Jeremias]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Jeremias|Jeremias]]"
+tags: [biblia]
 ---
 
 # Jeremias 45
 
-**1** A palavra que Jeremias, o profeta, falou a Baruque, filho de Nerias, quando este escrevia, num livro, estas palavras, da boca de Jeremias, no ano quarto de Jeoiaquim, filho de Josias, rei de Judá, dizendo: ^v1
+**1** Esta é a palavra que Jeremias, o profeta, disse a Baruque, filho de Nerias, quando este escreveu no rolo as palavras de Jeremias — isto foi no quarto ano de Jeoaquim, filho de Josias, rei de Judá – ele disse: ^v1
 
-**2** Assim diz o Senhor, Deus de Israel, acerca de ti, ó Baruque: ^v2
+**2** """Yahweh, Deus de Israel, diz isto para ti, Baruque:" ^v2
 
-**3** Disseste: Ai de mim agora, porque me acrescentou o Senhor tristeza sobre minha dor! Estou cansado do meu gemido, e não acho descanso. ^v3
+**3** Tu dissestes: 'Ai de mim, pois Yahweh acrescentou agonia à minha dor. Meu gemido me cansou; eu não encontro descanso.' ^v3
 
-**4** Assim lhe dirás: Isto diz o Senhor: Eis que o que edifiquei eu derrubo, e o que plantei eu arranco, e isso em toda esta terra. ^v4
+**4** Isso é o que deves dizer: Yahweh diz isto: Vê, o que Eu construí, agora destruo. O que Eu plantei, agora arranco. Farei isto em toda a terra. ^v4
 
-**5** E procuras tu grandezas para ti mesmo? Não as procures; porque eis que trarei mal sobre toda a carne, diz o SENHOR; porém te darei a tua alma por despojo, em todos os lugares para onde fores. ^v5
+**5** "Mas esperas grandes coisas para ti mesmo? Não esperes por isso, pois vem desastre sobre toda a humanidade — esta é a declaração de Yahweh — mas Eu te dou a tua vida como teu despojo por onde quer que fores.""" ^v5

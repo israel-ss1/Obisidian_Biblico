@@ -1,99 +1,98 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Mateus|Mateus]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Mateus|Mateus]]"
+tags: [biblia]
 ---
 
 # Mateus 22
 
-**1** Então Jesus, tomando a palavra, tornou a falar-lhes em parábolas, dizendo: ^v1
+**1** E respondeu-lhe Jesus novamente em parábolas, dizendo: ^v1
 
-**2** O reino dos céus é semelhante a um certo rei que celebrou as bodas de seu filho; ^v2
+**2** """O Reino dos Céus é semelhante a um rei que fez uma festa de casamento para seu filho." ^v2
 
-**3** E enviou os seus servos a chamar os convidados para as bodas, e estes não quiseram vir. ^v3
+**3** Ele enviou seus servos para chamar aqueles que haviam sido convidados para a festa de casamento, mas eles não quiseram vir. ^v3
 
-**4** Depois, enviou outros servos, dizendo: Dizei aos convidados: Eis que tenho o meu jantar preparado, os meus bois e cevados já mortos, e tudo já pronto; vinde às bodas. ^v4
+**4** "Novamente, o rei enviou outros servos, dizendo: ""Dizei àqueles que são convidados: 'Vede, eu preparei um jantar; meus bois e animais cevados foram mortos, e tudo está pronto. Vinde para a festa de casamento'""." ^v4
 
-**5** Eles, porém, não fazendo caso, foram, um para o seu campo, outro para o seu negócio; ^v5
+**5** Mas eles não deram atenção e partiram: um para o seu campo, outro para os seus negócios. ^v5
 
-**6** E os outros, apoderando-se dos servos, os ultrajaram e mataram. ^v6
+**6** E os outros agarraram os servos do rei, trataram-nos vergonhosamente e os mataram. ^v6
 
-**7** E o rei, tendo notícia disto, encolerizou-se e, enviando os seus exércitos, destruiu aqueles homicidas, e incendiou a sua cidade. ^v7
+**7** O rei ficou furioso e, tendo enviado seus soldados, mataram aqueles assassinos e incendiaram a cidade deles. ^v7
 
-**8** Então diz aos servos: As bodas, na verdade, estão preparadas, mas os convidados não eram dignos. ^v8
+**8** Então disse aos seus servos: 'A festa de casamento está pronta, mas aqueles que foram convidados não eram dignos. ^v8
 
-**9** Ide, pois, às saídas dos caminhos, e convidai para as bodas a todos os que encontrardes. ^v9
+**9** Portanto ide pelas encruzilhadas dos caminhos e a quantos encontrardes convidai-os para a festa de casamento '. ^v9
 
-**10** E os servos, saindo pelos caminhos, ajuntaram todos quantos encontraram, tanto maus como bons; e a festa nupcial foi cheia de convidados. ^v10
+**10** Os servos saíram pelos caminhos e reuniram todos os que encontraram, tanto maus como bons. Então, o salão ficou cheio de convidados. ^v10
 
-**11** E o rei, entrando para ver os convidados, viu ali um homem que não estava trajado com veste de núpcias. ^v11
+**11** Mas, quando o rei entrou para ver os convidados, viu um homem que não estava com trajes de casamento ^v11
 
-**12** E disse-lhe: Amigo, como entraste aqui, não tendo veste nupcial? E ele emudeceu. ^v12
+**12** e disse-lhe: “Amigo, como entraste aqui sem trajes de casamento?” E o homem se calou. ^v12
 
-**13** Disse, então, o rei aos servos: Amarrai-o de pés e mãos, levai-o, e lançai-o nas trevas exteriores; ali haverá pranto e ranger de dentes. ^v13
+**13** Então o rei disse aos servos: 'Amarrai as mãos e os pés desse homem e atirai-o nas trevas exteriores, onde haverá choro e ranger de dentes'. ^v13
 
-**14** Porque muitos são chamados, mas poucos escolhidos. ^v14
+**14** Porque muitos são chamados, porém poucos são escolhidos. ^v14
 
-**15** Então, retirando-se os fariseus, consultaram entre si como o surpreenderiam nalguma palavra; ^v15
+**15** Então os fariseus foram e planejaram como poderiam pegar Jesus em sua própria fala. ^v15
 
-**16** E enviaram-lhe os seus discípulos, com os herodianos, dizendo: Mestre, bem sabemos que és verdadeiro, e ensinas o caminho de Deus segundo a verdade, e de ninguém se te dá, porque não olhas a aparência dos homens. ^v16
+**16** E enviaram-lhe os seus discípulos junto com os herodianos. Eles disseram a Jesus: 'Mestre, nós sabemos que és verdadeiro e ensinas o caminho de Deus em verdade e não te importas com a opinião de ninguém e não faz diferença entre as pessoas. ^v16
 
-**17** Dize-nos, pois, que te parece? É lícito pagar o tributo a César, ou não? ^v17
+**17** Então diga-nos o que achas? É lícito pagar impostos a César ou não? ^v17
 
-**18** Jesus, porém, conhecendo a sua malícia, disse: Por que me experimentais, hipócritas? ^v18
+**18** "Tendo percebido a maldade deles, Jesus lhes disse: ""Por que estão me testando, seus hipócritas?" ^v18
 
-**19** Mostrai-me a moeda do tributo. E eles lhe apresentaram um dinheiro. ^v19
+**19** "Mostrai-me a moeda do imposto"". Então trouxeram-Lhe um denário." ^v19
 
-**20** E ele diz-lhes: De quem é esta efígie e esta inscrição? ^v20
+**20** "Jesus disse-lhes: ""De quem é esta imagem e este nome?""" ^v20
 
-**21** Dizem-lhe eles: De César. Então ele lhes disse: Dai pois a César o que é de César, e a Deus o que é de Deus. ^v21
+**21** "Eles lhe disseram: ""De César"". Então disse-lhes Jesus: ""Dai a César o que é de César, e a Deus o que é de Deus""." ^v21
 
-**22** E eles, ouvindo isto, maravilharam-se, e, deixando-o, se retiraram. ^v22
+**22** Quando ouviram isso, maravilharam-se, deixaram-No e foram embora. ^v22
 
-**23** No mesmo dia chegaram junto dele os saduceus, que dizem não haver ressurreição, e o interrogaram, ^v23
+**23** Naquele dia, foram ter com Ele saduceus, dizendo não haver ressurreição, e interrogaram-No, ^v23
 
-**24** Dizendo: Mestre, Moisés disse: Se morrer alguém, não tendo filhos, casará o seu irmão com a mulher dele, e suscitará descendência a seu irmão. ^v24
+**24** "dizendo: ""Mestre, Moisés disse: 'Se um homem morre, não tendo filhos, seu irmão deve casar-se com a esposa dele e ter um filho para seu irmão'""." ^v24
 
-**25** Ora, houve entre nós sete irmãos; e o primeiro, tendo casado, morreu e, não tendo descendência, deixou sua mulher a seu irmão. ^v25
+**25** Havia sete irmãos. O primeiro casou-se e então morreu. Não tendo filhos, deixou sua esposa para seu irmão. ^v25
 
-**26** Da mesma sorte o segundo, e o terceiro, até ao sétimo; ^v26
+**26** Da mesma forma, o segundo, o terceiro e até o sétimo. ^v26
 
-**27** Por fim, depois de todos, morreu também a mulher. ^v27
+**27** Depois de todos eles, a mulher morreu. ^v27
 
-**28** Portanto, na ressurreição, de qual dos sete será a mulher, visto que todos a possuíram? ^v28
+**28** Agora na ressurreição, de qual dos sete irmãos ela será esposa? Pois todos a tiveram. ^v28
 
-**29** Jesus, porém, respondendo, disse-lhes: Errais, não conhecendo as Escrituras, nem o poder de Deus. ^v29
+**29** Jesus, porém, lhes respondeu: “Vós estais errados, porque não conheceis as Escrituras nem o poder de Deus. ^v29
 
-**30** Porque na ressurreição nem casam nem são dados em casamento; mas serão como os anjos de Deus no céu. ^v30
+**30** Pois na ressurreição eles não se casam e nem se dão em casamento. Em vez disso, são como anjos no céu. ^v30
 
-**31** E, acerca da ressurreição dos mortos, não tendes lido o que Deus vos declarou, dizendo: ^v31
+**31** Mas, a respeito da ressurreição dos mortos, não lestes o que foi dito por Deus: ^v31
 
-**32** Eu sou o Deus de Abraão, o Deus de Isaque, e o Deus de Jacó? Ora, Deus não é Deus dos mortos, mas dos vivos. ^v32
+**32** "'Eu sou o Deus de Abraão, o Deus de Isaque, e o Deus de Jacó?' Deus não é o Deus dos mortos, mas dos vivos""." ^v32
 
-**33** E, as turbas, ouvindo isto, ficaram maravilhadas da sua doutrina. ^v33
+**33** Quando as multidões ouviram isso, se maravilharam com o Seu ensino. ^v33
 
-**34** E os fariseus, ouvindo que ele fizera emudecer os saduceus, reuniram-se no mesmo lugar. ^v34
+**34** Mas, quando os fariseus ouviram que Jesus tinha calado os saduceus, eles se reuniram. ^v34
 
-**35** E um deles, doutor da lei, interrogou-o para o experimentar, dizendo: ^v35
+**35** Um deles, um doutor da Lei, questionou-O, testando-O: ^v35
 
-**36** Mestre, qual é o grande mandamento na lei? ^v36
+**36** """Mestre, qual é o maior mandamento da Lei?""" ^v36
 
-**37** E Jesus disse-lhe: Amarás o Senhor teu Deus de todo o teu coração, e de toda a tua alma, e de todo o teu pensamento. ^v37
+**37** Jesus lhes disse: ”’Ame ao Senhor teu Deus com todo o teu coração, com toda a tua alma e com toda a tua mente'. ^v37
 
-**38** Este é o primeiro e grande mandamento. ^v38
+**38** Esse é o maior e primeiro mandamento. ^v38
 
-**39** E o segundo, semelhante a este, é: Amarás o teu próximo como a ti mesmo. ^v39
+**39** E o segundo mandamento é semelhante a esse: 'Amarás o teu próximo como a ti mesmo'. ^v39
 
-**40** Destes dois mandamentos dependem toda a lei e os profetas. ^v40
+**40** "Desses dois mandamentos depende toda a Lei e os profetas""." ^v40
 
-**41** E, estando reunidos os fariseus, interrogou-os Jesus, ^v41
+**41** Enquanto os fariseus ainda estavam reunidos, Jesus lhes perguntou, dizendo: ^v41
 
-**42** Dizendo: Que pensais vós do Cristo? De quem é filho? Eles disseram-lhe: De Davi. ^v42
+**42** """O que pensais sobre o Cristo? De quem ele é filho?"" Eles lhe disseram: ""O filho de Davi""." ^v42
 
-**43** Disse-lhes ele: Como é então que Davi, em espírito, lhe chama Senhor, dizendo: ^v43
+**43** "Disse-lhes Jesus: ""Como então Davi, no Espírito, o chama Senhor, dizendo:" ^v43
 
-**44** Disse o Senhor ao meu Senhor:Assenta-te à minha direita,Até que eu ponha os teus inimigos por escabelo de teus pés? ^v44
+**44** """O Senhor disse ao meu Senhor: 'Assenta-te à minha direita, até que eu ponha os teus inimigos por debaixo de teus pés?'""" ^v44
 
-**45** Se Davi, pois, lhe chama Senhor, como é seu filho? ^v45
+**45** "Se Davi, pois, chama a Cristo ""Senhor"", como é que Ele é filho de Davi?" ^v45
 
-**46** E ninguém podia responder-lhe uma palavra; nem desde aquele dia ousou mais alguém interrogá-lo. ^v46
+**46** Ninguém podia responder-Lhe uma palavra sequer, e nenhum homem se atrevia questioná-Lo daquele dia em diante. ^v46

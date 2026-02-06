@@ -1,83 +1,82 @@
 ---
-Livro: "[[Gênesis|Gênesis]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Gênesis|Gênesis]]"
+tags: [biblia]
 ---
 
 # Gênesis 19
 
-**1** E vieram os dois anjos a Sodoma à tarde, e estava Ló assentado à porta de Sodoma; e vendo-os Ló, levantou-se ao seu encontro e inclinou-se com o rosto à terra; ^v1
+**1** Os dois anjos vieram para Sodoma à noite, enquanto Ló estava sentado no portão de Sodoma. Ló os viu, levantou-se, foi ao encontro deles e prostrou-se com seu rosto voltado para o chão. ^v1
 
-**2** E disse: Eis agora, meus senhores, entrai, peço-vos, em casa de vosso servo, e passai nela a noite, e lavai os vossos pés; e de madrugada vos levantareis e ireis vosso caminho. E eles disseram: Não, antes na rua passaremos a noite. ^v2
+**2** "Ele disse: ""Por favor, meus senhores, eu insisto que entreis na casa do vosso servo, para passar a noite e lavar vossos pés. Então podereis levantar cedo e seguir o vosso caminho"". E eles disseram: ""Não, nós passaremos a noite na praça da cidade.""" ^v2
 
-**3** E porfiou com eles muito, e vieram com ele, e entraram em sua casa; e fez-lhes banquete, e cozeu bolos sem levedura, e comeram. ^v3
+**3** Mas ele insistiu com eles fortemente, então eles foram com ele e entraram em sua casa. Ele preparou a comida e assou pães sem fermento, e eles comeram. ^v3
 
-**4** E antes que se deitassem, cercaram a casa, os homens daquela cidade, os homens de Sodoma, desde o moço até ao velho; todo o povo de todos os bairros. ^v4
+**4** Mas, antes que eles se deitassem, todos os homens de Sodoma cercaram a casa, desde os jovens até os velhos, toda a população, até o último. ^v4
 
-**5** E chamaram a Ló, e disseram-lhe: Onde estão os homens que a ti vieram nesta noite? Traze-os fora a nós, para que os conheçamos. ^v5
+**5** "Eles chamaram Ló e disseram-lhe: ""Onde estão os homens que vieram a ti esta noite? Trazei-os até nós para que possamos dormir com eles""." ^v5
 
-**6** Então saiu Ló a eles à porta, e fechou a porta atrás de si, ^v6
+**6** Então Ló saiu e fechou a porta atrás de si. ^v6
 
-**7** E disse: Meus irmãos, rogo-vos que não façais mal; ^v7
+**7** "Ele disse: ""Eu imploro, meus irmãos, que não vos porteis de maneira tão perversa." ^v7
 
-**8** Eis aqui, duas filhas tenho, que ainda não conheceram homens; fora vo-las trarei, e fareis delas como bom for aos vossos olhos; somente nada façais a estes homens, porque por isso vieram à sombra do meu telhado. ^v8
+**8** "Vede, eu tenho duas filhas que nunca dormiram com homem algum. Eu as trarei para fora e vós fareis com elas o que bem quiserdes. Mas a esses homens nada façais porque eles estão sob a sombra da minha casa.""" ^v8
 
-**9** Eles, porém, disseram: Sai daí. Disseram mais: Como estrangeiro este indivíduo veio aqui habitar, e quereria ser juiz em tudo? Agora te faremos mais mal a ti do que a eles. E arremessaram-se sobre o homem, sobre Ló, e aproximaram-se para arrombar a porta. ^v9
+**9** "Eles disseram: ""Sai daí!"". Disseram também: ""Este veio para viver aqui como estrangeiro e agora tornou-se nosso juiz! Agora nós iremos fazer mais mal a ti do que a eles!"". Eles pressionaram fortemente contra o homem, contra Ló, e se aproximaram para derrubar a porta." ^v9
 
-**10** Aqueles homens porém estenderam as suas mãos e fizeram entrar a Ló consigo na casa, e fecharam a porta; ^v10
+**10** Mas os visitantes estenderam as mãos, alcançaram Ló e trouxeram-no para dentro da casa e fecharam a porta. ^v10
 
-**11** E feriram de cegueira os homens que estavam à porta da casa, desde o menor até ao maior, de maneira que se cansaram para achar a porta. ^v11
+**11** Quanto aos homens que estavam do lado de fora da casa, os hóspedes de Ló os atacaram deixando-os cegos, do menor ao maior, de modo que eles ficaram exaustos de tanto procurar a entrada da casa. ^v11
 
-**12** Então disseram aqueles homens a Ló: Tens alguém mais aqui? Teu genro, e teus filhos, e tuas filhas, e todos quantos tens nesta cidade, tira-os fora deste lugar; ^v12
+**12** "Então os dois homens disseram a Ló: ""Há mais alguém aqui? Genros, filhos, filhas e qualquer um que tu conheças aqui na cidade, tire-os daqui." ^v12
 
-**13** Porque nós vamos destruir este lugar, porque o seu clamor tem aumentado diante da face do Senhor, e o Senhor nos enviou a destruí-lo. ^v13
+**13** "Porque vamos destruir este lugar, pois as acusações contra este lugar têm chegado como um grito diante de Yahweh e Ele nos enviou para destruí-lo""." ^v13
 
-**14** Então saiu Ló, e falou a seus genros, aos que haviam de tomar as suas filhas, e disse: Levantai-vos, saí deste lugar, porque o Senhor há de destruir a cidade. Foi tido porém por zombador aos olhos de seus genros. ^v14
+**14** "Ló saiu e falou com os seus genros, os homens que tinham prometido casar com as suas filhas e lhes disse: ""Rápido, saí desse lugar pois Yahweh está prestes a destruir a cidade"". Mas, para os seus genros, ele parecia estar brincando." ^v14
 
-**15** E ao amanhecer os anjos apertaram com Ló, dizendo: Levanta-te, toma tua mulher e tuas duas filhas que aqui estão, para que não pereças na injustiça desta cidade. ^v15
+**15** "Ao amanhecer, os anjos apressaram Ló dizendo: ""Vai, toma a tua mulher e as tuas filhas que estão aqui para que não pereças no castigo da cidade""." ^v15
 
-**16** Ele, porém, demorava-se, e aqueles homens lhe pegaram pela mão, e pela mão de sua mulher e de suas duas filhas, sendo-lhe o Senhor misericordioso, e tiraram-no, e puseram-no fora da cidade. ^v16
+**16** Porém, como ele se demorava, os homens o pegaram pela mão, bem como sua mulher e suas filhas, porque Yahweh foi misericordioso para com ele. Eles os trouxeram para fora e os colocaram fora da cidade. ^v16
 
-**17** E aconteceu que, tirando-os fora, disse: Escapa-te por tua vida; não olhes para trás de ti, e não pares em toda esta campina; escapa lá para o monte, para que não pereças. ^v17
+**17** "E aconteceu que, enquanto eles os trouxeram para fora, um dos homens disse: ""Foge pela tua vida! Não olhes para trás, nem te detenhas em qualquer lugar na planície. Foge para as montanhas, para que não pereças." ^v17
 
-**18** E Ló disse-lhe: Ora, não, meu Senhor! ^v18
+**18** "Ló disse-lhe: ""Não, por favor, meus senhores!" ^v18
 
-**19** Eis que agora o teu servo tem achado graça aos teus olhos, e engrandeceste a tua misericórdia que a mim me fizeste, para guardar a minha alma em vida; mas eu não posso escapar no monte, para que porventura não me apanhe este mal, e eu morra. ^v19
+**19** Eis que teu servo tem achado graça aos vossos olhos e vós tendes me mostrado grande misericórdia ao salvar a minha vida, mas eu não posso escapar para as montanhas porque a destruição vai me alcançar e eu morrerei. ^v19
 
-**20** Eis que agora aquela cidade está perto, para fugir para lá, e é pequena; ora, deixe-me escapar para lá (não é pequena? ), para que minha alma viva. ^v20
+**20** "Eis que a cidade ali é perto o suficiente e é pequena. Por favor, permite que eu fuja para lá, (Ela não é pequena?) e minha vida estará a salvo""." ^v20
 
-**21** E disse-lhe: Eis aqui, tenho-te aceitado também neste negócio, para não destruir aquela cidade, de que falaste; ^v21
+**21** "Ele lhe disse: ""Certo, eu estou concedendo esse pedido também, que eu não destruirei a cidade que tu mencionaste." ^v21
 
-**22** Apressa-te, escapa-te para ali; porque nada poderei fazer, enquanto não tiveres ali chegado. Por isso se chamou o nome da cidade Zoar. ^v22
+**22** "Apressa-te! Foge para lá, porque não posso fazer nada até que chegues lá"". Portanto a cidade foi chamada Zoar." ^v22
 
-**23** Saiu o sol sobre a terra, quando Ló entrou em Zoar. ^v23
+**23** O sol já havia nascido sobre a terra quando Ló alcançou Zoar. ^v23
 
-**24** Então o Senhor fez chover enxofre e fogo, do Senhor desde os céus, sobre Sodoma e Gomorra; ^v24
+**24** Então Yahweh fez chover do céu enxofre e fogo sobre Sodoma e Gomorra. ^v24
 
-**25** E destruiu aquelas cidades e toda aquela campina, e todos os moradores daquelas cidades, e o que nascia da terra. ^v25
+**25** Yahweh destruiu aquelas cidades, toda a planície, todos os habitantes das cidades e as plantas que cresciam no solo. ^v25
 
-**26** E a mulher de Ló olhou para trás e ficou convertida numa estátua de sal. ^v26
+**26** Mas a mulher de Ló, que estava atrás dele, olhou para trás e transformou-se em uma estátua de sal. ^v26
 
-**27** E Abraão levantou-se aquela mesma manhã, de madrugada, e foi para aquele lugar onde estivera diante da face do Senhor; ^v27
+**27** Abraão levantou-se cedo pela manhã e foi ao lugar onde havia estado antes com Yahweh. ^v27
 
-**28** E olhou para Sodoma e Gomorra e para toda a terra da campina; e viu, que a fumaça da terra subia, como a de uma fornalha. ^v28
+**28** Ele olhou para Sodoma e Gomorra e para toda a terra da planície. Olhou e contemplou e viu uma fumaça subindo da terra como uma fumaça de uma fornalha. ^v28
 
-**29** E aconteceu que, destruindo Deus as cidades da campina, lembrou-se Deus de Abraão, e tirou a Ló do meio da destruição, derrubando aquelas cidades em que Ló habitara. ^v29
+**29** Então, quando Deus destruiu as cidades de toda a planície, lembrou-se de Abraão e tirou Ló do meio da destruição, quando destruiu as cidades em que Ló havia habitado. ^v29
 
-**30** E subiu Ló de Zoar, e habitou no monte, e as suas duas filhas com ele; porque temia habitar em Zoar; e habitou numa caverna, ele e as suas duas filhas. ^v30
+**30** Mas Ló subiu de Zoar, para viver nas montanhas com suas filhas, porque estava com medo de viver em Zoar. Então viveu em uma caverna, ele e as suas filhas. ^v30
 
-**31** Então a primogênita disse à menor: Nosso pai já é velho, e não há homem na terra que entre a nós, segundo o costume de toda a terra; ^v31
+**31** "A primogênita disse para a mais nova: ""Nosso pai está velho e não há nenhum homem por perto para dormir conosco de acordo como o costume de toda a terra." ^v31
 
-**32** Vem, demos de beber vinho a nosso pai, e deitemo-nos com ele, para que em vida conservemos a descendência de nosso pai. ^v32
+**32** "Vem, deixa-me fazer nosso pai beber vinho e assim dormiremos com ele para que possamos conservar a sua descendência""." ^v32
 
-**33** E deram de beber vinho a seu pai naquela noite; e veio a primogênita e deitou-se com seu pai, e não sentiu ele quando ela se deitou, nem quando se levantou. ^v33
+**33** Elas deram vinho para o pai naquela noite. Então a primogênita foi e dormiu com o pai; ele não sabia quando ela havia deitado nem levantado. ^v33
 
-**34** E sucedeu, no outro dia, que a primogênita disse à menor: Vês aqui, eu já ontem à noite me deitei com meu pai; demos-lhe de beber vinho também esta noite, e então entra tu, deita-te com ele, para que em vida conservemos a descendência de nosso pai. ^v34
+**34** "No dia seguinte, a primogênita disse à irmã mais nova: ""Eis que, na noite passada, eu dormi com o meu pai. Vamos dar-lhe vinho esta noite também, e tu vai e deita-te com ele, para que possamos conservar a sua descendência""." ^v34
 
-**35** E deram de beber vinho a seu pai também naquela noite; e levantou-se a menor, e deitou-se com ele; e não sentiu ele quando ela se deitou, nem quando se levantou. ^v35
+**35** Então elas deram vinho para o pai naquele noite e a filha mais nova foi e deitou-se com ele. Ele não soube quando ela se deitou, nem quando se levantou. ^v35
 
-**36** E conceberam as duas filhas de Ló de seu pai. ^v36
+**36** Então as duas filhas de Ló ficaram grávidas do seu pai. ^v36
 
-**37** E a primogênita deu à luz um filho, e chamou-lhe Moabe; este é o pai dos moabitas até ao dia de hoje. ^v37
+**37** A primogênita deu à luz um menino, a quem chamou Moabe. Ele tornou-se o ancestral dos moabitas de hoje. ^v37
 
-**38** E a menor também deu à luz um filho, e chamou-lhe Ben-Ami; este é o pai dos filhos de Amom até o dia de hoje. ^v38
+**38** A mais nova também deu à luz um menino, a quem chamou Ben-Ami. Ele tornou-se o ancestral dos amonitas de hoje. ^v38

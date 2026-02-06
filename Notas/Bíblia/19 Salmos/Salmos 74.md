@@ -1,53 +1,50 @@
 ---
-Livro: "[[Salmos|Salmos]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Salmos|Salmos]]"
+tags: [biblia]
 ---
 
 # Salmos 74
 
-**1** Ó Deus, por que nos rejeitaste para sempre? Por que se acende a tua ira contra as ovelhas do teu pasto? ^v1
+**2** Traz à lembrança o Teu povo, aquele que redimiste nos tempos antigos, aquele que adquiriste para ser Tua própria herança, e o monte Sião, onde Tu habitas. ^v2
 
-**2** Lembra-te da tua congregação, que compraste desde a antiguidade; da vara da tua herança, que remiste; deste monte Sião, em que habitaste. ^v2
+**3** Vem ver as ruínas completas, todo o dano que o inimigo fez no lugar santo. ^v3
 
-**3** Levanta os teus pés para as perpétuas assolações, para tudo o que o inimigo tem feito de mal no santuário. ^v3
+**4** Teus adversários rugiram no meio do lugar que Tu designaste; eles hastearam suas bandeiras de batalha. ^v4
 
-**4** Os teus inimigos bramam no meio dos teus lugares santos; põem neles as suas insígnias por sinais. ^v4
+**5** Eles o destruíram com machados, como se fosse uma densa floresta. ^v5
 
-**5** Um homem se tornava famoso, conforme houvesse levantado machados, contra a espessura do arvoredo. ^v5
+**6** Eles esmagaram e quebraram todos os entalhes de madeira; eles os quebraram com machados e martelos. ^v6
 
-**6** Mas agora toda obra entalhada de uma vez quebram com machados e martelos. ^v6
+**7** E atearam fogo em Teu santuário; eles profanaram o local onde vives, lançando-o ao chão. ^v7
 
-**7** Lançaram fogo no teu santuário; profanaram, derrubando-a até ao chão, a morada do teu nome. ^v7
+**8** "Disseram em seus corações: ""Nós destruiremos todos eles"". E queimaram todos os Teus santuários no país." ^v8
 
-**8** Disseram nos seus corações: Despojemo-los duma vez. Queimaram todos os lugares santos de Deus na terra. ^v8
+**9** Nós não vemos mais nenhum sinal milagroso de Deus; não há mais profetas, e ninguém dentre nós sabe quanto tempo isso vai durar. ^v9
 
-**9** Já não vemos os nossos sinais, já não há profeta, nem há entre nós alguém que saiba até quando isto durará. ^v9
+**10** Até quando, ó Deus, o inimigo continuará a insultar-Te? O inimigo blasfemará o Teu nome para sempre? ^v10
 
-**10** Até quando, ó Deus, nos afrontará o adversário? Blasfemará o inimigo o teu nome para sempre? ^v10
+**11** Por que reténs a Tua mão, a Tua mão direita? Tira a Tua mão direita das Tuas vestes e os destrói. ^v11
 
-**11** Porque retiras a tua mão, a saber, a tua destra? Tira-a de dentro do teu seio. ^v11
+**12** Mas Deus tem sido meu Rei desde os tempos antigos, trazendo salvação à terra. ^v12
 
-**12** Todavia Deus é o meu Rei desde a antiguidade, operando a salvação no meio da terra. ^v12
+**13** Tu dividiste o mar pela Tua força; esmagaste as cabeças dos monstros marinhos nas águas. ^v13
 
-**13** Tu dividiste o mar pela tua força; quebrantaste as cabeças das baleias nas águas. ^v13
+**14** Tu esmagaste a cabeça do Leviatã e o deste como alimento para aqueles que vivem no deserto. ^v14
 
-**14** Fizeste em pedaços as cabeças do leviatã, e o deste por mantimento aos habitantes do deserto. ^v14
+**15** Abriste fontes e córregos; secaste rios perenes. ^v15
 
-**15** Fendeste a fonte e o ribeiro; secaste os rios impetuosos. ^v15
+**16** O dia é Teu, e a noite é Tua também; colocaste o sol e a lua em seu lugar. ^v16
 
-**16** Teu é o dia e tua é a noite; preparaste a luz e o sol. ^v16
+**17** Estabeleceste todos os limites da terra; Tu fizeste o verão e o inverno. ^v17
 
-**17** Estabeleceste todos os limites da terra; verão e inverno tu os formaste. ^v17
+**18** Relembra-Te como o inimigo diz insultos contra Ti, Yahweh, como aquele povo tolo que blasfemou Teu nome. ^v18
 
-**18** Lembra-te disto: que o inimigo afrontou ao Senhor e que um povo louco blasfemou o teu nome. ^v18
+**19** Não entregues a vida de Tua pomba a um animal selvagem. Não Te esqueças para sempre da vida do Teu povo oprimido. ^v19
 
-**19** Não entregues às feras a alma da tua rola; não te esqueças para sempre da vida dos teus aflitos. ^v19
+**20** Traz à mente Tua aliança, pois as regiões escuras da terra estão cheias de violência. ^v20
 
-**20** Atende a tua aliança; pois os lugares tenebrosos da terra estão cheios de moradas de crueldade. ^v20
+**21** Não deixes que o oprimido retorne envergonhado. Que o pobre e o oprimido louvem o Teu nome. ^v21
 
-**21** Oh, não volte envergonhado o oprimido; louvem o teu nome o aflito e o necessitado. ^v21
+**22** Levanta-Te, Deus; defende Tua própria honra; lembra-Te como os tolos Te insultam o dia todo. ^v22
 
-**22** Levanta-te, ó Deus, pleiteia a tua própria causa; lembra-te da afronta que o louco te faz cada dia. ^v22
-
-**23** Não te esqueças dos gritos dos teus inimigos; o tumulto daqueles que se levantam contra ti aumenta continuamente. ^v23
+**23** Não Te esqueças da voz de Teu adversário ou do alvoroço dos que continuam a desafiar-Te. ^v23

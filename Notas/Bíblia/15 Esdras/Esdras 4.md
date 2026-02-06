@@ -1,55 +1,54 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Esdras|Esdras]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Esdras|Esdras]]"
+tags: [biblia]
 ---
 
 # Esdras 4
 
-**1** Ouvindo, pois, os adversários de Judá e Benjamim que os que voltaram do cativeiro edificavam o templo ao SENHOR Deus de Israel, ^v1
+**1** Quando os adversários de Judá e de Benjamim ouviram que o povo que havia voltado do exílio estava construindo o templo para Yahweh, o Deus de Israel, ^v1
 
-**2** Chegaram-se a Zorobabel e aos chefes dos pais, e disseram-lhes: Deixai-nos edificar convosco, porque, como vós, buscaremos a vosso Deus; como também já lhe sacrificamos desde os dias de Esar-Hadom, rei da Assíria, que nos fez subir aqui. ^v2
+**2** "foram falar com Zorobabel e os chefes de famílias de seus antepassados, e disseram: ""Permiti que possamos ajudar a construir o templo, pois, como vós, buscamos a vosso Deus e temos oferecido sacrifícios a Ele desde os dias em que Esar-Hadom, rei da Assíria, nos trouxe para este lugar""." ^v2
 
-**3** Porém Zorobabel, e Jesuá, e os outros chefes dos pais de Israel lhes disseram: Não convém que nós e vós edifiquemos casa a nosso Deus; mas nós sozinhos a edificaremos ao Senhor Deus de Israel, como nos ordenou o rei Ciro, rei da Pérsia. ^v3
+**3** "Porém Zorobabel, Jesua e outros chefes de famílias de Israel lhes responderam: ""Não sois vós, mas nós que devemos construir o templo do nosso Deus. Nós mesmos, sozinhos, o construiremos para Yahweh, o Deus de Israel, assim como Ciro, o rei da Pérsia, nos ordenou""." ^v3
 
-**4** Todavia o povo da terra debilitava as mãos do povo de Judá, e inquietava-os no edificar. ^v4
+**4** Então o povo da terra passou a desanimar o povo de Judá e fez com que os judeus ficassem com medo de construir. ^v4
 
-**5** E alugaram contra eles conselheiros, para frustrarem o seu plano, todos os dias de Ciro, rei da Pérsia, até ao reinado de Dario, rei da Pérsia. ^v5
+**5** Eles também subornaram os conselheiros para frustrar seus planos. Fizeram isso durante todo o reinado de Ciro até os dias do reinado de Dario, rei da Pérsia. ^v5
 
-**6** No reinado de Assuero, no princípio do seu reinado, escreveram uma acusação contra os habitantes de Judá e de Jerusalém. ^v6
+**6** Assim, no princípio do reinado de Xerxes, eles escreveram uma acusação contra os habitantes de Judá e Jerusalém. ^v6
 
-**7** E nos dias de Artaxerxes escreveram Bislão, Mitredate, Tabeel, e os outros seus companheiros, a Artaxerxes, rei da Pérsia; e a carta estava escrita em caracteres siríacos, e na língua siríaca. ^v7
+**7** Foi durante o reinado de Artaxerxes que Bislão, Mitredate, Tabeel e seus companheiros lhe escreveram. A carta foi escrita em aramaico, com tradução. ^v7
 
-**8** Escreveram, pois, Reum, o chanceler, e Sinsai, o escrivão, uma carta contra Jerusalém, ao rei Artaxerxes, do teor seguinte: ^v8
+**8** Assim Reum, o comandante, e Sinsai, o escriba, escreveram a Artaxerxes sobre Jerusalém. ^v8
 
-**9** Então escreveu Reum, o chanceler, e Sinsai, o escrivão, e os outros seus companheiros, os dinaítas, afarsaquitas, tarpelitas, afarsitas, arquevitas, babilônios, susanquitas, deavitas, elamitas, ^v9
+**9** Então Reum, Sinsai e seus companheiros, que eram juízes, além de outros oficiais no governo persa, de Ereque, da Babilônia e de Susã, em Elam, escreveram uma carta; ^v9
 
-**10** E os outros povos, que o grande e afamado Asnapar transportou, e que fez habitar na cidade de Samaria, e nas demais províncias dalém do rio, em tal tempo. ^v10
+**10** e a eles se juntaram pessoas que o grande e nobre Assurbanípal forçou a se estabelecerem junto com os outros que estavam na província deste lado do rio Eufrates. ^v10
 
-**11** Este, pois, é o teor da carta que mandaram ao rei Artaxerxes: Teus servos, os homens dalém do rio, em tal tempo. ^v11
+**11** "Esta é uma cópia da carta que eles enviaram a Artaxerxes: ""Teus servos, homens da província deste lado do rio Eufrates, escrevem isto:" ^v11
 
-**12** Saiba o rei que os judeus, que subiram de ti, vieram a nós em Jerusalém, e reedificam aquela rebelde e malvada cidade, e vão restaurando os seus muros, e reparando os seus fundamentos. ^v12
+**12** 'Saiba o rei que os judeus que da tua parte vieram a nós foram a Jerusalém e estão reconstruindo aquela cidade rebelde e má. Eles estão restaurando os muros e reparando os seus fundamentos. ^v12
 
-**13** Agora saiba o rei que, se aquela cidade se reedificar, e os muros se restaurarem, eles não pagarão os direitos, os tributos e os pedágios; e assim se danificará a fazenda dos reis. ^v13
+**13** Que o rei saiba que, se esta cidade for construída e os muros finalizados, eles não pagarão os direitos, os impostos e os pedágios, e assim trarão prejuízo ao rei. ^v13
 
-**14** Agora, pois, porquanto somos assalariados do palácio, e não nos convém ver a desonra do rei, por isso mandamos avisar ao rei, ^v14
+**14** Agora, visto que temos vivido às custas do palácio, não é apropriado vermos qualquer desonra acontecer ao rei. Por isso é que estamos recomendando ao rei ^v14
 
-**15** Para que se busque no livro das crônicas de teus pais. E acharás no livro das crônicas, e saberás que aquela foi uma cidade rebelde, e danosa aos reis e províncias, e que nela houve rebelião em tempos antigos; por isso foi aquela cidade destruída. ^v15
+**15** que busque no livro das crônicas de teus pais, e saberás que esta é uma cidade rebelde, que tem causado muitos problemas aos reis e às províncias; ela tem sido um centro de rebelião há muito tempo. Foi por essa razão que a cidade foi destruída. ^v15
 
-**16** Nós, pois, fazemos notório ao rei que, se aquela cidade se reedificar, e os seus muros se restaurarem, sucederá que não terás porção alguma deste lado do rio. ^v16
+**16** "Estamos informando ao rei que, se esta cidade e seus muros forem reconstruídos, não restará nada para ti na província deste lado do rio Eufrates'""." ^v16
 
-**17** E o rei enviou esta resposta a Reum, o chanceler, e a Sinsai, o escrivão, e aos demais seus companheiros, que habitavam em Samaria; como também aos demais que estavam dalém do rio: Paz! em tal tempo. ^v17
+**17** "Então o rei mandou a seguinte resposta a Reum, a Sinsai e a seus companheiros que moravam em Samaria e na província além do rio Eufrates: ""Que a paz seja convosco." ^v17
 
-**18** A carta que nos enviastes foi explicitamente lida diante de mim. ^v18
+**18** A carta que me enviastes foi traduzida e lida na minha presença. ^v18
 
-**19** E, ordenando-o eu, buscaram e acharam, que de tempos antigos aquela cidade se levantou contra os reis, e nela se têm feito rebelião e sedição. ^v19
+**19** Ordenei uma investigação e descobri que, desde tempos antigos, essa cidade tem se rebelado e se revoltado contra reis. ^v19
 
-**20** Também houve reis poderosos sobre Jerusalém que dalém do rio dominaram em todo o lugar, e se lhes pagaram direitos, tributos e pedágios. ^v20
+**20** Jerusalém tem sido governada por grandes reis que tiveram poder sobre toda a província além do rio Eufrates, e a eles se pagavam os direitos, os impostos e os pedágios. ^v20
 
-**21** Agora, pois, dai ordem para impedirdes aqueles homens, a fim de que não se edifique aquela cidade, até que eu dê uma ordem. ^v21
+**21** Agora, ordenai a esses homens que parem de construir essa cidade até que eu faça um decreto. ^v21
 
-**22** E guardai-vos de serdes remissos nisto; por que cresceria o dano para prejuízo dos reis? ^v22
+**22** "Tomai cuidado para não negligenciar isto. Por que permitir que essa ameaça cresça e prejudique os interesses da realeza?""." ^v22
 
-**23** Então, depois que a cópia da carta do rei Artaxerxes foi lida perante Reum, e Sinsai, o escrivão, e seus companheiros, apressadamente foram eles a Jerusalém, aos judeus, e os impediram à força e com violência. ^v23
+**23** Quando o decreto do rei Artaxerxes foi lido perante Reum, Sinsai e seus companheiros, eles foram rapidamente a Jerusalém e forçaram os judeus a pararem a construção. ^v23
 
-**24** Então cessou a obra da casa de Deus, que estava em Jerusalém; e cessou até ao ano segundo do reinado de Dario, rei da Pérsia. ^v24
+**24** Assim, a obra no templo de Deus em Jerusalém parou até o segundo ano do reinado de Dario, rei da Pérsia. ^v24

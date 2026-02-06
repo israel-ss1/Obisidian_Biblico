@@ -1,33 +1,32 @@
 ---
-Livro: "[[2 João|2 João]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/2 João|2 João]]"
+tags: [biblia]
 ---
 
 # 2 João 1
 
-**1** O ancião à senhora eleita, e a seus filhos, aos quais amo na verdade, e não somente eu, mas também todos os que têm conhecido a verdade, ^v1
+**1** O presbítero à senhora eleita e a seus filhos, a quem amo na verdade, e não somente eu, mas também todos aqueles que conhecem a verdade, ^v1
 
-**2** Por amor da verdade que está em nós, e para sempre estará conosco: ^v2
+**2** por causa da verdade que permanece em nós e que estará conosco eternamente. ^v2
 
-**3** Graça, misericórdia e paz, da parte de Deus Pai e da do Senhor Jesus Cristo, o Filho do Pai, seja convosco na verdade e amor. ^v3
+**3** Graça, misericórdia e paz da parte de Deus Pai e de Jesus Cristo, o Filho de Deus, serão conosco em verdade e amor. ^v3
 
-**4** Muito me alegro por achar que alguns de teus filhos andam na verdade, assim como temos recebido o mandamento do Pai. ^v4
+**4** Eu tenho grande alegria por ter encontrado alguns dos teus filhos andando na verdade, assim como nós recebemos este mandamento do Pai. ^v4
 
-**5** E agora, senhora, rogo-te, não como escrevendo-te um novo mandamento, mas aquele mesmo que desde o princípio tivemos: que nos amemos uns aos outros. ^v5
+**5** E agora peço-te, senhora, não como se eu escrevesse um novo mandamento, mas o mesmo que tivemos desde o início: que nos amássemos uns aos outros. ^v5
 
-**6** E o amor é este: que andemos segundo os seus mandamentos. Este é o mandamento, como já desde o princípio ouvistes, que andeis nele. ^v6
+**6** E isto é o amor: que nós vivamos de acordo com Seus mandamentos. Este é o mandamento, como vós ouvistes desde o princípio, e vós deveis andar nele. ^v6
 
-**7** Porque já muitos enganadores entraram no mundo, os quais não confessam que Jesus Cristo veio em carne. Este tal é o enganador e o anticristo. ^v7
+**7** Pois muitos enganadores saíram pelo mundo e estes não confessam que Jesus Cristo veio em carne. Este é o enganador e o anticristo. ^v7
 
-**8** Olhai por vós mesmos, para que não percamos o que temos ganho, antes recebamos o inteiro galardão. ^v8
+**8** Acautelai-vos para não perderdes as coisas pelas quais todos nós trabalhamos, mas para que possais receber a recompensa completa. ^v8
 
-**9** Todo aquele que prevarica, e não persevera na doutrina de Cristo, não tem a Deus. Quem persevera na doutrina de Cristo, esse tem tanto ao Pai como ao Filho. ^v9
+**9** Qualquer um que avança e não permanece no ensino de Cristo, não tem Deus. Aquele que permanece no ensino, tem os dois: o Pai e o Filho. ^v9
 
-**10** Se alguém vem ter convosco, e não traz esta doutrina, não o recebais em casa, nem tampouco o saudeis. ^v10
+**10** Se alguém vem a vós e não traz este ensino, não o recebais em vossa casa e nem o cumprimenteis. ^v10
 
-**11** Porque quem o saúda tem parte nas suas más obras. ^v11
+**11** Pois aquele que o cumprimenta participa de suas obras más. ^v11
 
-**12** Tendo muito que escrever-vos, não quis fazê-lo com papel e tinta; mas espero ir ter convosco e falar face a face, para que o nosso gozo seja cumprido. ^v12
+**12** Tenho muitas coisas para vos escrever, porém não desejei fazê-lo com papel e tinta. Mas tenho esperança de ir a vós e falar-vos face a face, para que a nossa alegria seja completa. ^v12
 
-**13** Saúdam-te os filhos de tua irmã, a eleita. Amém. ^v13
+**13** Os filhos de tua irmã eleita enviam saudações. ^v13

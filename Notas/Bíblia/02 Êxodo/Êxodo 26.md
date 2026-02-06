@@ -1,81 +1,80 @@
 ---
-Livro: "[[Êxodo|Êxodo]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Êxodo|Êxodo]]"
+tags: [biblia]
 ---
 
 # Êxodo 26
 
-**1** E o tabernáculo farás de dez cortinas de linho fino torcido, e azul, púrpura, e carmesim; com querubins as farás de obra esmerada. ^v1
+**1** Deves fazer o tabernáculo com dez cortinas de linho fino, e azul, e roxo e vermelho, com querubins bordados nelas. Trabalho este feito por habilidosos artesãos. ^v1
 
-**2** O comprimento de uma cortina será de vinte e oito côvados, e a largura de uma cortina de quatro côvados; todas estas cortinas serão de uma medida. ^v2
+**2** O comprimento de cada cortina deve ser de vinte e oito côvados, a largura de quatro côvados. Todas as cortinas deverão ser do mesmo tamanho. ^v2
 
-**3** Cinco cortinas se enlaçarão uma à outra; e as outras cinco cortinas se enlaçarão uma com a outra. ^v3
+**3** Cinco cortinas deverão ser ajuntadas umas às outras, e as outras cinco cortinas também ajuntadas umas às outras. ^v3
 
-**4** E farás laçadas de azul na orla de uma cortina, na extremidade, e na juntura; assim também farás na orla da extremidade da outra cortina, na segunda juntura. ^v4
+**4** Deves fazer laços de azul na borda da última cortina do primeiro agrupamento. Do mesmo jeito, deves fazer os mesmos laços na extremidade final da última cortina do segundo agrupamento. ^v4
 
-**5** Cinqüenta laçadas farás numa cortina, e outras cinqüenta laçadas farás na extremidade da cortina que está na segunda juntura; as laçadas estarão presas uma com a outra. ^v5
+**5** Deves fazer cinquenta laçadas na primeira cortina, e deves fazer cinquenta laçadas na última cortina do segundo grupamento. Faças isso para que as laçadas estejam opostas umas às outras. ^v5
 
-**6** Farás também cinqüenta colchetes de ouro, e ajuntarás com estes colchetes as cortinas, uma com a outra, e será um tabernáculo. ^v6
+**6** Deves fazer cinquenta fechos de ouro e juntar as cortinas com eles para que o tabernáculo seja unido. ^v6
 
-**7** Farás também cortinas de pêlos de cabras para servirem de tenda sobre o tabernáculo; onze cortinas farás. ^v7
+**7** Deves fazer cortinas de pelos de cabra para que sirva de cobertura sobre o tabernáculo. Deves fazer onze dessas cortinas. ^v7
 
-**8** O comprimento de uma cortina será de trinta côvados, e a largura da mesma cortina de quatro côvados; estas onze cortinas serão da mesma medida. ^v8
+**8** O comprimento de cada cortina deverá ser de trinta côvados, e a largura de cada uma, quatro côvados. Cada uma das onze cortinas deverá ser do mesmo tamanho. ^v8
 
-**9** E juntarás cinco destas cortinas à parte, e as outras seis cortinas também à parte; e dobrarás a sexta cortina à frente da tenda. ^v9
+**9** Deves juntar cinco cortinas entre si e as outras seis cortinas entre si. Deves dobrar a sexta cortina na frente da Tenda. ^v9
 
-**10** E farás cinqüenta laçadas na borda de uma cortina, na extremidade, na juntura, e outras cinqüenta laçadas na borda da outra cortina, na segunda juntura. ^v10
+**10** Deves fazer cinquenta laçadas na borda da última cortina do primeiro grupamento, e cinquenta laçadas na borda da última cortina que compõe o segundo grupamento. ^v10
 
-**11** Farás também cinqüenta colchetes de cobre, e colocarás os colchetes nas laçadas, e assim ajuntarás a tenda, para que seja uma. ^v11
+**11** Farás cinquenta fechos de bronze e os colocarás nos laços. Então deves unir as cortinas para que sejam como uma só peça. ^v11
 
-**12** E a parte que sobejar das cortinas da tenda, a saber, a metade da cortina que sobejar, penderá de sobra às costas do tabernáculo. ^v12
+**12** A metade restante da cortina, que é a parte que sobra da cortina da tenda, deve cobrir o fundo do tabernáculo. ^v12
 
-**13** E um côvado de um lado, e outro côvado do outro, que sobejará no comprimento das cortinas da tenda, penderá de sobra aos lados do tabernáculo de um e de outro lado, para cobri-lo. ^v13
+**13** Deve haver um côvado de cortina de um lado, e um côvado de cortina do outro lado - a parte que está sobrando em comprimento deve cobrir os lados do tabernáculo de um lado e do outro, deve cobri-los. ^v13
 
-**14** Farás também à tenda uma coberta de peles de carneiro, tintas de vermelho, e outra coberta de peles de texugo em cima. ^v14
+**14** Deves fazer, para o tabernáculo, uma cobertura feita de pele de carneiro tingida de vermelho, e uma outra cobertura de couro para ir sobre a primeira. ^v14
 
-**15** Farás também as tábuas para o tabernáculo de madeira de acácia, que serão postas verticalmente. ^v15
+**15** Deves fazer tábuas de madeira de acácia, na vertical, para o tabernáculo. ^v15
 
-**16** O comprimento de uma tábua será de dez côvados, e a largura de cada tábua será de um côvado e meio. ^v16
+**16** O comprimento de cada tábua deverá ser de dez côvados, e sua largura, de um côvado e meio. ^v16
 
-**17** Dois encaixes terá cada tábua, travados um com o outro; assim farás com todas as tábuas do tabernáculo. ^v17
+**17** Deve haver dois encaixes, um em cada tábua, para que elas possam se encaixar uma na outra. Farás todas as tábuas do tabernáculo desta maneira. ^v17
 
-**18** E farás as tábuas para o tabernáculo assim: vinte tábuas para o lado meridional. ^v18
+**18** Quando fizeres as tábuas para o tabernáculo, deves fazer vinte tábuas para o lado sul. ^v18
 
-**19** Farás também quarenta bases de prata debaixo das vinte tábuas; duas bases debaixo de uma tábua para os seus dois encaixes e duas bases debaixo de outra tábua para os seus dois encaixes. ^v19
+**19** Farás quarenta bases de prata para que vá abaixo das vinte tábuas. Deve haver duas bases debaixo da primeira tábua para que sejam seus pedestais , também deve haver duas bases debaixo das outras tábuas para que sejam seus pedestais. ^v19
 
-**20** Também haverá vinte tábuas ao outro lado do tabernáculo, para o lado norte, ^v20
+**20** Para o segundo lado do tabernáculo, no lado norte, deves fazer vinte tábuas ^v20
 
-**21** Com as suas quarenta bases de prata; duas bases debaixo de uma tábua, e duas bases debaixo de outra tábua, ^v21
+**21** e suas quarenta bases de prata. Deve haver duas bases debaixo da primeira tábua, duas bases debaixo da segunda tábua, e assim por diante. ^v21
 
-**22** E ao lado do tabernáculo para o ocidente farás seis tábuas. ^v22
+**22** Para o fundo do tabernáculo, no lado oeste, deves fazer seis tábuas. ^v22
 
-**23** Farás também duas tábuas para os cantos do tabernáculo, de ambos os lados. ^v23
+**23** Farás duas tábuas para os cantos do fundo do tabernáculo. ^v23
 
-**24** E por baixo se ajuntarão, e também em cima dele se ajuntarão numa argola. Assim se fará com as duas tábuas; ambas serão por tábuas para os dois cantos. ^v24
+**24** Essas tábuas devem possuir suas bases separadas, porém juntas pelo mesmo anel, em sua extremidade superior. Deve ser dessa maneira para ambos os cantos do fundo. ^v24
 
-**25** Assim serão as oito tábuas com as suas bases de prata, dezesseis bases; duas bases debaixo de uma tábua, e duas bases debaixo da outra tábua. ^v25
+**25** Devem ter oito tábuas juntamente com suas bases. Deve haver dezesseis bases para todas, duas bases debaixo da primeira, duas debaixo da seguinte, e assim por diante. ^v25
 
-**26** Farás também cinco travessas de madeira de acácia, para as tábuas de um lado do tabernáculo, ^v26
+**26** Deves fazer travessões de madeira de acácia - cinco para as tábuas de um lado do tabernáculo, ^v26
 
-**27** E cinco travessas para as tábuas do outro lado do tabernáculo; como também cinco travessas para as tábuas do outro lado do tabernáculo, de ambos os lados, para o ocidente. ^v27
+**27** cinco travessões para as tábuas no outro lado do tabernáculo, e cinco travessões para o lado do fundo do tabernáculo para o oeste. ^v27
 
-**28** E a travessa central estará no meio das tábuas, passando de uma extremidade até à outra. ^v28
+**28** O travessão no centro das tábuas, que as conectará, se estenderá de uma extremidade à outra. ^v28
 
-**29** E cobrirás de ouro as tábuas, e farás de ouro as suas argolas, para passar por elas as travessas; também as travessas as cobrirás de ouro. ^v29
+**29** Banharás as tábuas com ouro. Deves também fazer as argolas de ouro, para que sirvam de suportes para os travessões, e deves banhar as tábuas com ouro. ^v29
 
-**30** Então levantarás o tabernáculo conforme ao modelo que te foi mostrado no monte. ^v30
+**30** Deves montar o tabernáculo de acordo com o plano que te foi mostrado no monte. ^v30
 
-**31** Depois farás um véu de azul, e púrpura, e carmesim, e de linho fino torcido; com querubins de obra prima se fará. ^v31
+**31** Deves fazer também um véu de azul, roxo e vermelho, e de linho fino, com bordados de querubins, trabalho de um habilidoso artesão. ^v31
 
-**32** E colocá-lo-ás sobre quatro colunas de madeira de acácia, cobertas de ouro; seus colchetes serão de ouro, sobre quatro bases de prata. ^v32
+**32** Deves pendurá-lo em quatro colunas de madeira de acácia banhadas em ouro. Essas colunas devem possuir ganchos de ouro e estarem sobre quatro bases de prata. ^v32
 
-**33** Pendurarás o véu debaixo dos colchetes, e porás a arca do testemunho ali dentro do véu; e este véu vos fará separação entre o santuário e o lugar santíssimo, ^v33
+**33** Deves prender as cortinas debaixo dos fechos , e deverás trazer a Arca da aliança para dentro do véu. O véu é para fazer separação entre o lugar santo e o lugar santíssimo. ^v33
 
-**34** E porás a coberta do propiciatório sobre a arca do testemunho no lugar santíssimo, ^v34
+**34** Colocarás o propiciatório sobre a Arca do testemunho, que está no lugar santíssimo. ^v34
 
-**35** E a mesa porás fora do véu, e o candelabro defronte da mesa, ao lado do tabernáculo, para o sul; mas a mesa porás ao lado do norte. ^v35
+**35** Deverás colocar a mesa do lado de fora do véu. O candelabro deve ser posicionado em frente à mesa, no lado sul do tabernáculo. A mesa deve estar no lado norte do tabernáculo. ^v35
 
-**36** Farás também para a porta da tenda, uma cortina de azul, e púrpura, e carmesim, e de linho fino torcido, de obra de bordador. ^v36
+**36** Deves fazer uma cortina para a entrada da tenda. Farás a cortina de azul, púrpura, e carmesim, de linho fino torcido, trabalho de um bordador. ^v36
 
-**37** E farás para esta cortina cinco colunas de madeira de acácia, e as cobrirás de ouro; seus colchetes serão de ouro, e far-lhe-ás de fundição cinco bases de cobre. ^v37
+**37** Para as cortinas, deves fazer cinco pilares de madeira de acácia banhados com ouro. Seus ganchos devem ser de ouro, e fundirás cinco bases de bronze para os pilares. ^v37

@@ -1,63 +1,62 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Esdras|Esdras]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Esdras|Esdras]]"
+tags: [biblia]
 ---
 
 # Esdras 7
 
-**1** E passadas estas coisas no reinado de Artaxerxes, rei da Pérsia, Esdras, filho de Seraías, filho de Azarias, filho de Hilquias, ^v1
+**1** Depois destas coisas, durante o reinado de Artaxerxes, rei da Pérsia, Esdras veio da Babilônia. Esdras era filho de Seraías, filho de Azarias, filho de Hilquias, ^v1
 
-**2** Filho de Salum, filho de Zadoque, filho de Aitube, ^v2
+**2** filho de Salum, filho de Zadoque, filho de Aitube, ^v2
 
-**3** Filho de Amarias, filho de Azarias, filho de Meraiote, ^v3
+**3** filho de Amarias, filho de Azarias, filho de Meraiote, ^v3
 
-**4** Filho de Zeraquias, filho de Uzi, filho de Buqui, ^v4
+**4** filho de Zeraías, filho de Uzi, filho de Buqui, ^v4
 
-**5** Filho de Abisua, filho de Finéias, filho de Eleazar, filho de Arão, o sumo sacerdote; ^v5
+**5** filho de Abisua, filho de Fineias, filho de Eleazar, filho de Arão, o sumo sacerdote. ^v5
 
-**6** Este Esdras subiu de babilônia; e era escriba hábil na lei de Moisés, que o SENHOR Deus de Israel tinha dado; e, segundo a mão do SENHOR seu Deus, que estava sobre ele, o rei lhe deu tudo quanto lhe pedira. ^v6
+**6** Esdras veio da Babilônia e ele era um hábil escriba na Lei de Moisés que Yahweh, o Deus de Israel, havia dado. O rei lhe concedeu tudo o que ele pediu, pois a mão de Yahweh era sobre ele. ^v6
 
-**7** Também subiram a Jerusalém alguns dos filhos de Israel, dos sacerdotes, dos levitas, dos cantores, dos porteiros e dos servidores do templo, no sétimo ano do rei Artaxerxes. ^v7
+**7** Alguns dos descendentes de Israel e os sacerdotes, levitas, cantores do templo, porteiros e aqueles que foram designados para servirem no templo também subiram até Jerusalém no sétimo ano do rei Artaxerxes. ^v7
 
-**8** E no quinto mês chegou a Jerusalém, no sétimo ano deste rei. ^v8
+**8** Esdras chegou a Jerusalém no quinto mês daquele mesmo ano. ^v8
 
-**9** Pois no primeiro dia do primeiro mês foi o princípio da partida de babilônia; e no primeiro dia do quinto mês chegou a Jerusalém, segundo a boa mão do seu Deus sobre ele. ^v9
+**9** Ele saiu da Babilônia no primeiro dia do primeiro mês. Foi no primeiro dia do quinto mês que ele chegou em Jerusalém, porque a boa mão de Deus era sobre ele. ^v9
 
-**10** Porque Esdras tinha preparado o seu coração para buscar a lei do Senhor e para cumpri-la e para ensinar em Israel os seus estatutos e os seus juízos. ^v10
+**10** Esdras tinha determinado em seu coração estudar, seguir e ensinar os estatutos e juízos da Lei de Yahweh. ^v10
 
-**11** Esta é, pois, a cópia da carta que o rei Artaxerxes deu ao sacerdote Esdras, o escriba das palavras dos mandamentos do Senhor, e dos seus estatutos sobre Israel: ^v11
+**11** Esta é a cópia da carta que o rei Artaxerxes deu a Esdras, o sacerdote e escriba que estudava os mandamentos e estatutos de Yahweh e os ensinava ao povo de Israel: ^v11
 
-**12** Artaxerxes, rei dos reis, ao sacerdote Esdras, escriba da lei do Deus do céu, paz perfeita, em tal tempo. ^v12
+**12** """O rei dos reis Artaxerxes ao sacerdote Esdras, escriba da Lei do Deus dos céus:" ^v12
 
-**13** Por mim se decreta que no meu reino todo aquele do povo de Israel, e dos seus sacerdotes e levitas, que quiser ir contigo a Jerusalém, vá. ^v13
+**13** Estou ordenando que qualquer pessoa de Israel que vive no meu reino, juntamente com os seus sacerdotes e levitas, que desejar ir a Jerusalém, poderá ir contigo. ^v13
 
-**14** Porquanto és enviado da parte do rei e dos seus sete conselheiros para fazeres inquirição a respeito de Judá e de Jerusalém, conforme à lei do teu Deus, que está na tua mão; ^v14
+**14** Eu, o rei, e meus sete conselheiros, envio a todos vós, para investigardes em Judá e em Jerusalém a respeito da Lei de Deus, que está em vossas mãos. ^v14
 
-**15** E para levares a prata e o ouro que o rei e os seus conselheiros voluntariamente deram ao Deus de Israel, cuja habitação está em Jerusalém; ^v15
+**15** Tu deves levar a prata e o ouro que o rei e os seus conselheiros voluntariamente ofereceram ao Deus de Israel, cuja habitação está em Jerusalém. ^v15
 
-**16** E toda a prata e o ouro que achares em toda a província de babilônia, com as ofertas voluntárias do povo e dos sacerdotes, que voluntariamente oferecerem, para a casa de seu Deus, que está em Jerusalém. ^v16
+**16** Além de toda a prata e ouro que receberes na província da Babilônia, bem como as ofertas voluntárias do povo e dos sacerdotes para o templo de Deus, em Jerusalém. ^v16
 
-**17** Portanto diligentemente comprarás com este dinheiro novilhos, carneiros, cordeiros, com as suas ofertas de alimentos, e as suas libações, e as oferecerás sobre o altar da casa de vosso Deus, que está em Jerusalém. ^v17
+**17** Com este recurso, terás o cuidado de comprar bois, cordeiros, ovelhas e as ofertas de cereais e de bebida. Oferecei-os no altar que está no templo de vosso Deus, em Jerusalém. ^v17
 
-**18** Também o que a ti e a teus irmãos bem parecer fazerdes do restante da prata e do ouro, o fareis conforme a vontade do vosso Deus. ^v18
+**18** Faze com o resto da prata e do ouro o que parecer melhor a ti e a teus irmãos, de acordo com a vontade do vosso Deus. ^v18
 
-**19** E os utensílios que te foram dados para o serviço da casa de teu Deus, restitui-os perante o Deus de Jerusalém. ^v19
+**19** Entregai, diante do Deus Jerusalém, os objetos que vos foram dados para o serviço do templo do vosso Deus. ^v19
 
-**20** E tudo mais que for necessário para a casa de teu Deus, que te convenha dar, dá-lo-ás da casa dos tesouros do rei. ^v20
+**20** Qualquer outra coisa que for necessária para o templo do vosso Deus, o que vós quiserdes, será pago pelo tesouro real. ^v20
 
-**21** E por mim mesmo, o rei Artaxerxes, se decreta a todos os tesoureiros que estão dalém do rio que tudo quanto vos pedir o sacerdote Esdras, escriba da lei do Deus dos céus, prontamente se faça. ^v21
+**21** Eu, o rei Artaxerxes, faço um decreto a todos os tesoureiros na província dalém do rio Eufrates, que qualquer coisa que Esdras vos solicitar lhe seja concedido prontamente, ^v21
 
-**22** Até cem talentos de prata, e até cem coros de trigo, e até cem batos de vinho, e até cem batos de azeite; e sal à vontade. ^v22
+**22** até cem talentos de prata, cem coros de cereais, cem batos de vinho e cem batos de azeite, e sal à vontade. ^v22
 
-**23** Tudo quanto se ordenar, segundo o mandado do Deus do céu, prontamente se faça para a casa do Deus dos céus; pois, para que haveria grande ira sobre o reino do rei e de seus filhos? ^v23
+**23** Tudo que for ordenado pelo Deus dos céus, que seja feito com zelo para Seu templo. Por que deveria cair Sua ira sobre o meu reino e meus filhos? ^v23
 
-**24** Também vos fazemos saber acerca de todos os sacerdotes e levitas, cantores, porteiros, servidores do templo e ministros desta casa de Deus, que não será lícito impor-lhes, nem tributo, nem contribuição, nem renda. ^v24
+**24** Estamos informando a eles acerca de vós para que não imponham qualquer tributo ou imposto a nenhum dos sacerdotes, levitas, músicos, porteiros ou sobre as pessoas que foram designadas para o serviço do templo e aos servos do templo. ^v24
 
-**25** E tu, Esdras, conforme a sabedoria do teu Deus, que possues, nomeia magistrados e juízes, que julguem a todo o povo que está dalém do rio, a todos os que sabem as leis do teu Deus; e ao que não as sabe, lhe ensinarás. ^v25
+**25** Esdras, com a sabedoria que Deus tem te concedido, nomeie magistrados e juízes para servirem a todas as pessoas dalém do rio Eufrates, isto é, todos os que conhecem as leis do vosso Deus. E ensina-as aos que não as conhecem. ^v25
 
-**26** E todo aquele que não observar a lei do teu Deus e a lei do rei, seja julgado prontamente; quer seja morte, quer desterro, quer multa sobre os seus bens, quer prisão. ^v26
+**26** "Todo aquele que não obedecer plenamente à lei do vosso Deus e à lei do rei seja punido ou com a morte, ou com o exílio, ou com o confisco dos seus bens, ou com a prisão""." ^v26
 
-**27** Bendito seja o Senhor Deus de nossos pais, que tal inspirou ao coração do rei, para ornar a casa do Senhor, que está em Jerusalém. ^v27
+**27** "Esdras orou dizendo: ""Bendito seja Yahweh, o Deus de nossos antepassados, que pôs no coração do rei este propósito de glorificar o templo de Yahweh, em Jerusalém," ^v27
 
-**28** E que estendeu para mim a sua benignidade perante o rei e os seus conselheiros e todos os príncipes poderosos do rei. Assim me animei, segundo a mão do Senhor meu Deus sobre mim, e ajuntei dentre Israel alguns chefes para subirem comigo. ^v28
+**28** "e que estendeu a mim a fidelidade da Sua aliança, diante do rei, dos seus conselheiros e de todos os seus príncipes poderosos. Tenho sido fortalecido pela mão de Yahweh, meu Deus, e reuni líderes de Israel para voltarem comigo""." ^v28

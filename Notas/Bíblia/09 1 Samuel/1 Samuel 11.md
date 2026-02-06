@@ -1,37 +1,36 @@
 ---
-Livro: "[[1 Samuel|1 Samuel]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/1 Samuel|1 Samuel]]"
+tags: [biblia]
 ---
 
 # 1 Samuel 11
 
-**1** Então subiu Naás, amonita, e sitiou a Jabes-Gileade; e disseram todos os homens de Jabes a Naás: Faze aliança conosco, e te serviremos. ^v1
+**1** "Então Naás, o amonita, saiu e sitiou Jabes Gileade. Todos os homens de Jabes disseram para Naás: ""Faça um pacto conosco e nós te serviremos""." ^v1
 
-**2** Porém Naás, amonita, lhes disse: Com esta condição farei aliança convosco: que a todos vos arranque o olho direito, e assim ponha esta afronta sobre todo o Israel. ^v2
+**2** "Naás, o amonita, replicou: ""Eu farei um acordo convosco, sob a condição de eu extrair o olho direito de todos vós, pois, desta maneira, trarei desgraça sobre todo o Israel""." ^v2
 
-**3** Então os anciãos de Jabes lhe disseram: Deixa-nos por sete dias, para que enviemos mensageiros por todos os termos de Israel, e, não havendo ninguém que nos livre, então viremos a ti. ^v3
+**3** "Os anciãos de Jabes lhe responderam: ""Deixa-nos a sós por sete dias, e enviaremos mensageiros para todo o território de Israel. Então, se não houver alguém que nos ajude, nós nos renderemos a ti""." ^v3
 
-**4** E, vindo os mensageiros a Gibeá de Saul, falaram estas palavras aos ouvidos do povo. Então todo o povo levantou a sua voz, e chorou. ^v4
+**4** Os mensageiros vieram para Gibeá, onde Saul morava, e falaram ao povo o que havia acontecido. Todo o povo chorou em alta voz. ^v4
 
-**5** E eis que Saul vinha do campo, atrás dos bois; e disse Saul: Que tem o povo, que chora? E contaram-lhe as palavras dos homens de Jabes. ^v5
+**5** "Eis que Saul vinha do campo acompanhando os bois. Saul disse: ""O que há de errado com as pessoas, pois estão chorando?"". Eles contaram a Saul o que os homens de Jabes haviam dito." ^v5
 
-**6** Então o Espírito de Deus se apoderou de Saul, ouvindo estas palavras; e acendeu-se em grande maneira a sua ira. ^v6
+**6** Quando Saul ouviu o que eles disseram, o Espírito de Deus veio sobre ele, e ele ficou muito irado. ^v6
 
-**7** E tomou uma junta de bois, e cortou-os em pedaços, e os enviou a todos os termos de Israel pelas mãos dos mensageiros, dizendo: Qualquer que não seguir a Saul e a Samuel, assim se fará aos seus bois. Então caiu o temor do Senhor sobre o povo, e saíram como um só homem. ^v7
+**7** "Tomou uma junta de bois, cortou-os em pedaços, e enviou as partes por todo o território de Israel, pelos mensageiros. Ele disse: ""Isto é o que acontecerá aos bois de qualquer de vós que não sair após Saul e após Samuel"". Logo, o temor de Yahweh caiu sobre o povo, e eles saíram juntos, como um só homem." ^v7
 
-**8** E contou-os em Bezeque; e houve dos filhos de Israel trezentos mil, e dos homens de Judá trinta mil. ^v8
+**8** Quando ele os reuniu em Beseque, todo o povo de Israel era trezentos mil, e os homens de Judá, trinta mil. ^v8
 
-**9** Então disseram aos mensageiros que vieram: Assim direis aos homens de Jabes-Gileade: Amanhã, em aquecendo o sol, vos virá livramento. Vindo, pois, os mensageiros, e anunciando-o aos homens de Jabes, se alegraram. ^v9
+**9** "Eles disseram aos mensageiros: ""Vós direis aos homens de Jabes Gileade: 'Amanhã, quando o sol estiver quente, vós sereis resgatados'"". Então, os mensageiros saíram e falaram aos homens de Jabes, e eles se alegraram." ^v9
 
-**10** E os homens de Jabes disseram aos amonitas: Amanhã sairemos a vós; então nos fareis conforme a tudo o que parecer bem aos vossos olhos. ^v10
+**10** "Então, os homens de Jabes disseram a Naás: ""Amanhã nós nos renderemos a ti, e tu farás conosco o que bem te parecer""." ^v10
 
-**11** E sucedeu que ao outro dia Saul pôs o povo em três companhias, e vieram ao meio do arraial pela vigília da manhã, e feriram aos amonitas até que o dia aqueceu; e sucedeu que os restantes se espalharam, de modo que não ficaram dois deles juntos. ^v11
+**11** No dia seguinte, Saul pôs o povo em três grupos. Eles vieram para o meio do acampamento durante a guarda matinal. Então, atacaram e derrotaram os amonitas até o calor do dia. Aqueles que sobreviveram foram dispersos, de maneira que não deixaram dois deles juntos. ^v11
 
-**12** Então disse o povo a Samuel: Quem é aquele que dizia que Saul não reinaria sobre nós? Dai-nos aqueles homens, e os mataremos. ^v12
+**12** "E o povo disse a Samuel: ""Quem foi aquele que falou: 'Reinará Saul sobre nós?'. Trazei os homens! Assim, serão postos para morrer""." ^v12
 
-**13** Porém Saul disse: Hoje não morrerá nenhum, pois hoje tem feito o Senhor um livramento em Israel. ^v13
+**13** "Mas Saul falou: ""Ninguém será morto neste dia, porque hoje Yahweh livrou Israel""." ^v13
 
-**14** E disse Samuel ao povo: Vinde, vamos nós a Gilgal, e renovemos ali o reino. ^v14
+**14** "Então, Samuel falou ao povo: ""Vinde, vamos a Gilgal e renovemos ali a monarquia""." ^v14
 
-**15** E todo o povo partiu para Gilgal, onde proclamaram a Saul por rei perante o Senhor, e ofereceram ali ofertas pacíficas perante o Senhor; e Saul se alegrou muito ali com todos os homens de Israel. ^v15
+**15** E o povo foi para Gilgal e fez Saul rei diante de Yahweh, em Gilgal. Lá, eles sacrificaram ofertas pacíficas diante de Yahweh. Saul, com todos os homens de Israel, regozijaram-se grandemente. ^v15

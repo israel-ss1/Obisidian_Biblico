@@ -1,45 +1,44 @@
 ---
-Livro: "[[Deuteronômio|Deuteronômio]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Deuteronômio|Deuteronômio]]"
+tags: [biblia]
 ---
 
 # Deuteronômio 26
 
-**1** E será que, quando entrares na terra que o SENHOR teu Deus te der por herança, e a possuíres, e nela habitares, ^v1
+**1** Quando entrares na terra que Yahweh, teu Deus, te dará como herança, e, quando tomares posse dela e habitares nela, ^v1
 
-**2** Então tomarás das primícias de todos os frutos do solo, que recolheres da terra, que te dá o Senhor teu Deus, e as porás num cesto, e irás ao lugar que escolher o Senhor teu Deus, para ali fazer habitar o seu nome. ^v2
+**2** então, pegarás uma parte das primícias de toda a colheita da terra que Yahweh, teu Deus, te dá, a colocarás em um cesto e irás ao lugar que Yahweh, teu Deus, escolherá como Seu Santuário. ^v2
 
-**3** E irás ao sacerdote, que houver naqueles dias, e dir-lhe-ás: Hoje declaro perante o Senhor teu Deus que entrei na terra que o Senhor jurou a nossos pais dar-nos. ^v3
+**3** Irás ao sacerdote que estiver servindo nesses dias e dirás a ele: 'Eu reconheço hoje, perante Yahweh, teu Deus, que eu cheguei à terra que Yahweh jurou aos nossos antepassados que nos daria'. ^v3
 
-**4** E o sacerdote tomará o cesto da tua mão, e o porá diante do altar do Senhor teu Deus. ^v4
+**4** O sacerdote tomará o cesto da tua mão e o depositará diante do altar de Yahweh, teu Deus. ^v4
 
-**5** Então testificarás perante o Senhor teu Deus, e dirás: Arameu, prestes a perecer, foi meu pai, e desceu ao Egito, e ali peregrinou com pouca gente, porém ali cresceu até vir a ser nação grande, poderosa, e numerosa. ^v5
+**5** E, diante de Yahweh, teu Deus, dirás: 'Meu antepassado era um arameu errante. Desceu ao Egito e permaneceu lá, e seu povo era pequeno em número. Lá, ele se tornou uma nação grande, poderosa, e populosa. ^v5
 
-**6** Mas os egípcios nos maltrataram e nos afligiram, e sobre nós impuseram uma dura servidão. ^v6
+**6** Os egípcios nos trataram mal e nos afligiram. Eles nos fizeram trabalhar como escravos. ^v6
 
-**7** Então clamamos ao Senhor Deus de nossos pais; e o Senhor ouviu a nossa voz, e atentou para a nossa miséria, e para o nosso trabalho, e para a nossa opressão. ^v7
+**7** Nós clamamos a Yahweh, o Deus de nossos pais. Ele ouviu a nossa voz e viu nossa aflição, nosso trabalho exaustivo e a nossa opressão. ^v7
 
-**8** E o Senhor nos tirou do Egito com mão forte, e com braço estendido, e com grande espanto, e com sinais, e com milagres; ^v8
+**8** Yahweh nos tirou do Egito com mão poderosa, braço estendido, grande temor, sinais e maravilhas; ^v8
 
-**9** E nos trouxe a este lugar, e nos deu esta terra, terra que mana leite e mel. ^v9
+**9** e Ele nos trouxe a este lugar e nos deu esta terra; terra da qual mana leite e mel. ^v9
 
-**10** E eis que agora eu trouxe as primícias dos frutos da terra que tu, ó Senhor, me deste. Então as porás perante o Senhor teu Deus, e te inclinarás perante o Senhor teu Deus, ^v10
+**10** Eis que agora trago as primícias da colheita da terra que Yahweh me deu'. Tu as colocarás diante de Yahweh, teu Deus, e O adorarás. ^v10
 
-**11** E te alegrarás por todo o bem que o Senhor teu Deus te tem dado a ti e à tua casa, tu e o levita, e o estrangeiro que está no meio de ti. ^v11
+**11** Regozijarão em todo o bem que Yahweh, teu Deus, tem feito por ti, por tua casa, pelo levita e o estrangeiro em teu meio. ^v11
 
-**12** Quando acabares de separar todos os dízimos da tua colheita no ano terceiro, que é o ano dos dízimos, então os darás ao levita, ao estrangeiro, ao órfão e à viúva, para que comam dentro das tuas portas, e se fartem; ^v12
+**12** Quando terminares de entregar todo o dízimo da tua colheita no terceiro ano, ou seja, o ano de dizimar, então, darás ao levita, ao estrangeiro, ao órfão e à viúva, para que comam dentro dos portões da cidade e se fartem. ^v12
 
-**13** E dirás perante o Senhor teu Deus: Tirei da minha casa as coisas consagradas e as dei também ao levita, e ao estrangeiro, e ao órfão e à viúva, conforme a todos os teus mandamentos que me tens ordenado; não transgredi os teus mandamentos, nem deles me esqueci; ^v13
+**13** Dirás, diante de Yahweh, teu Deus: 'Trouxe da minha casa as coisas que pertecem a Yahweh, e as dei ao levita, ao estrangeiro, ao órfão e à viúva, de acordo com todos os mandamentos que Tu me destes. Não transgredi nenhum dos Teus mandamentos, nem me esqueci deles. ^v13
 
-**14** Delas não comi no meu luto, nem delas nada tirei quando imundo, nem delas dei para os mortos; obedeci à voz do Senhor meu Deus; conforme a tudo o que me ordenaste, tenho feito. ^v14
+**14** Dos dízimos, eu não comi no meu luto, e nem tirei quando eu estava impuro, nem dei nenhuma parte em honra aos mortos. Ouvi a voz de Yahweh, meu Deus; e obedeci a tudo que Tu me ordenaste. ^v14
 
-**15** Olha desde a tua santa habitação, desde o céu, e abençoa o teu povo, a Israel, e a terra que nos deste, como juraste a nossos pais, terra que mana leite e mel. ^v15
+**15** Olha para cá do Lugar Santo em que vives, desde o céu, e abençoa o Teu povo, Israel, e a terra que nos deste; terra de que mana leite e mel, como juraste aos nossos pais'. ^v15
 
-**16** Neste dia, o Senhor teu Deus te manda cumprir estes estatutos e juízos; guarda-os pois, e cumpre-os com todo o teu coração e com toda a tua alma. ^v16
+**16** Hoje Yahweh, teu Deus, está te ordenando que obedeças a esses estatutos e decretos; guardando-os e cumprindo-os com todo o teu coração e com toda a tua alma. ^v16
 
-**17** Hoje declaraste ao Senhor que ele te será por Deus, e que andarás nos seus caminhos, e guardarás os seus estatutos, e os seus mandamentos, e os seus juízos, e darás ouvidos à sua voz. ^v17
+**17** Reconheceste, hoje, que Yahweh é o teu Deus, e que andarás nos Seus caminhos e guardarás Seus estatutos, Seus mandamentos, e Seus decretos, e que ouvirás a Sua voz. ^v17
 
-**18** E o Senhor hoje te declarou que tu lhe serás por seu próprio povo, como te tem dito, e que guardarás todos os seus mandamentos. ^v18
+**18** E, hoje, Yahweh declarou que és o povo de Sua possessão, e que guardarás todos os Seus mandamentos. ^v18
 
-**19** Para assim te exaltar sobre todas as nações que criou, para louvor, e para fama, e para glória, e para que sejas um povo santo ao Senhor teu Deus, como tem falado. ^v19
+**19** "Yahweh, hoje, reconheceu que Ele te elevará sobre todas as outras nações, em louvor, reputação, e honra. Tu serás um povo separado para Yahweh, teu Deus, assim como Ele disse""." ^v19

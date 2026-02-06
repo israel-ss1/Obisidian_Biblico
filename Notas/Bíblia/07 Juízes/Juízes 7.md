@@ -1,57 +1,56 @@
 ---
-Livro: "[[Juízes|Juízes]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Juízes|Juízes]]"
+tags: [biblia]
 ---
 
 # Juízes 7
 
-**1** Então Jerubaal (que é Gideão) se levantou de madrugada, e todo o povo que com ele havia, e se acamparam junto à fonte de Harode, de maneira que tinha o arraial dos midianitas para o norte, no vale, perto do outeiro de Moré. ^v1
+**1** Então, Jerubaal (que é Gideão), levantou-se cedo, assim como todo o povo que estava com ele, e acamparam ao lado da fonte de Harode. O acampamento dos midianitas estava ao norte, no vale, próximo da colina de Moré. ^v1
 
-**2** E disse o Senhor a Gideão: Muito é o povo que está contigo, para eu dar aos midianitas em sua mão; a fim de que Israel não se glorie contra mim, dizendo: A minha mão me livrou. ^v2
+**2** "Yahweh disse a Gideão: ""Há soldados demais para que Eu te dê a vitória sobre os midianitas; para que Israel não se glorie contra Mim, dizendo: 'Nosso próprio poder nos salvou'." ^v2
 
-**3** Agora, pois, apregoa aos ouvidos do povo, dizendo: Quem for medroso e tímido, volte, e retire-se apressadamente das montanhas de Gileade. Então voltaram do povo vinte e dois mil, e dez mil ficaram. ^v3
+**3** "Agora, portanto, proclama aos ouvidos do povo e dize: 'Qualquer um que esteja com medo, qualquer um que trema, volte e saia do monte Gileade'"". Então, vinte e duas mil pessoas se foram, e dez mil permaneceram." ^v3
 
-**4** E disse o Senhor a Gideão: Ainda há muito povo; faze-os descer às águas, e ali os provarei; e será que, daquele de que eu te disser: Este irá contigo, esse contigo irá; porém de todo aquele, de que eu te disser: Este não irá contigo, esse não irá. ^v4
+**4** "Yahweh disse a Gideão: ""Ainda há pessoas demais. Faze-os descer às águas, e ali Eu diminuirei o número para ti. Se Eu te disser: 'Este irá contigo', ele irá contigo; mas se Eu disser: 'Este não irá contigo', ele não irá""." ^v4
 
-**5** E fez descer o povo às águas. Então o Senhor disse a Gideão: Qualquer que lamber as águas com a sua língua, como as lambe o cão, esse porás à parte; como também a todo aquele que se abaixar de joelhos a beber. ^v5
+**5** "Então, Gideão fez o povo descer às águas, e Yahweh lhe disse: ""Separa todos aqueles que lamberem a água, como um cachorro lambe, daqueles que se ajoelharem para beber”." ^v5
 
-**6** E foi o número dos que lamberam, levando a mão à boca, trezentos homens; e todo o restante do povo se abaixou de joelhos a beber as águas. ^v6
+**6** Trezentos homens lamberam, levando a mão à boca. O resto dos homens se ajoelhou para beber a água. ^v6
 
-**7** E disse o Senhor a Gideão: Com estes trezentos homens que lamberam as águas vos livrarei, e darei os midianitas na tua mão; portanto, todos os demais se retirem, cada um ao seu lugar. ^v7
+**7** "Yahweh disse a Gideão: ""Com os trezentos homens que lamberam a água, Eu vos resgatarei e vos darei a vitória sobre os midianitas. Todos os outros voltem cada um para o seu lugar""." ^v7
 
-**8** E o povo tomou na sua mão a provisão e as suas buzinas, e enviou a todos os outros homens de Israel cada um à sua tenda, porém os trezentos homens reteve; e estava o arraial dos midianitas embaixo, no vale. ^v8
+**8** Então, esses que foram escolhidos pegaram suas provisões e suas trombetas. Gideão despediu os demais homens de Israel, cada um para sua tenda, mas manteve os trezentos. Ora, o acampamento dos midianitas estava abaixo dele, no vale. ^v8
 
-**9** E sucedeu que, naquela mesma noite, o Senhor lhe disse: Levanta-te, e desce ao arraial, porque o tenho dado na tua mão. ^v9
+**9** "Na mesma noite, Yahweh lhe disse: ""Levanta-te! Ataca o acampamento, porque Eu te darei vitória sobre ele." ^v9
 
-**10** E, se ainda temes descer, desce tu e teu moço Purá, ao arraial; ^v10
+**10** Mas se estiveres com medo de descer, desce ao acampamento acompanhado de Purá, o teu servo, ^v10
 
-**11** E ouvirás o que dizem, e então, fortalecidas as tuas mãos descerás ao arraial. Então desceu ele com o seu moço Purá até ao extremo das sentinelas que estavam no arraial. ^v11
+**11** "e escuta o que dizem; e a tua coragem se fortalecerá para atacar o acampamento"". Então, Gideão desceu com o seu servo Purá até os postos dos vigias do acampamento." ^v11
 
-**12** E os midianitas, os amalequitas, e todos os filhos do oriente jaziam no vale como gafanhotos em multidão; e eram inumeráveis os seus camelos, como a areia que há na praia do mar. ^v12
+**12** Os midianitas, os amalequitas, e todo o povo do leste estavam situados ao longo do vale, tão numerosos como uma nuvem de gafanhotos. Seus camelos eram mais do que se podia contar; em número maior do que os grãos de areia da praia. ^v12
 
-**13** Chegando, pois, Gideão, eis que estava contando um homem ao seu companheiro um sonho, e dizia: Eis que tive um sonho, eis que um pão de cevada torrado rodava pelo arraial dos midianitas, e chegava até à tenda, e a feriu, e caiu, e a transtornou de cima para baixo; e ficou caída. ^v13
+**13** "Quando Gideão chegou ali, um homem estava contando seu sonho ao seu companheiro. O homem disse: ""Olha! Eu tive um sonho, e vi um pão de cevada rolando pelo acampamento dos midianitas. Veio sobre a tenda e bateu nela com tanta força que ela caiu e virou de cima para baixo, de maneira que ficou estendida na terra""." ^v13
 
-**14** E respondeu o seu companheiro, e disse: Não é isto outra coisa, senão a espada de Gideão, filho de Joás, varão israelita. Deus tem dado na sua mão aos midianitas, e todo este arraial. ^v14
+**14** "O outro homem disse: ""Isto não é outra coisa senão a espada de Gideão, filho de Joás, o israelita. Deus lhe entregou a vitória sobre os midianitas e sobre todo o seu exército""." ^v14
 
-**15** E sucedeu que, ouvindo Gideão a narração deste sonho, e a sua explicação, adorou; e voltou ao arraial de Israel, e disse: Levantai-vos, porque o Senhor tem dado o arraial dos midianitas nas nossas mãos. ^v15
+**15** "Quando Gideão ouviu a narração do sonho e sua interpretação, inclinou-se em adoração. Ele voltou ao acampamento de Israel e disse: ""Levantai-vos! Yahweh vos deu vitória sobre o exército dos midianitas""." ^v15
 
-**16** Então dividiu os trezentos homens em três companhias; e deu-lhes a cada um, nas suas mãos, buzinas, e cântaros vazios, com tochas neles acesas. ^v16
+**16** Ele dividiu os trezentos homens em três grupos, e deu a todos trombetas e jarras vazias, com tochas dentro de cada jarra. ^v16
 
-**17** E disse-lhes: Olhai para mim, e fazei como eu fizer; e eis que, chegando eu à extremidade do arraial, será que, como eu fizer, assim fareis vós. ^v17
+**17** "E lhes disse: ""Olhai para mim e fazei o que eu fizer. Observai! Quando eu chegar ao limite do acampamento, fazei o que eu fizer." ^v17
 
-**18** Tocando eu a buzina, eu e todos os que comigo estiverem, então também vós tocareis a buzina ao redor de todo o arraial, e direis: Espada do Senhor, e de Gideão. ^v18
+**18** "Quando eu tocar a trombeta, tanto a minha como a de todos os que estiverem comigo, tocai as vossas trombetas também, em todos os lados do acampamento, e gritai: 'Por Yahweh e por Gideão!'""." ^v18
 
-**19** Chegou, pois, Gideão, e os cem homens que com ele iam, ao extremo do arraial, ao princípio da vigília da meia-noite, havendo sido de pouco trocadas as guardas; então tocaram as buzinas, e quebraram os cântaros, que tinham nas mãos. ^v19
+**19** Então, Gideão e os cem homens que estavam com ele chegaram ao limite do acampamento, no princípio da vigília da meia-noite. No momento em que os midianitas estavam trocando de guarda, eles tocaram as trombetas e quebraram os jarros que estavam em suas mãos. ^v19
 
-**20** Assim tocaram as três companhias as buzinas, e quebraram os cântaros; e tinham nas suas mãos esquerdas as tochas acesas, e nas suas mãos direitas as buzinas, para tocarem, e clamaram: Espada do Senhor, e de Gideão. ^v20
+**20** "As três companhias tocaram as trombetas e quebraram os jarros. Elas seguravam suas tochas na mão esquerda e as trombetas na mão direita para as tocarem. E bradaram: ""À espada de Yahweh e de Gideão""." ^v20
 
-**21** E conservou-se cada um no seu lugar ao redor do arraial; então todo o exército pôs-se a correr e, gritando, fugiu. ^v21
+**21** Todos ficaram em seus lugares ao redor do acampamento e todo o exército midianita correu. Eles gritavam e fugiam. ^v21
 
-**22** Tocando, pois, os trezentos as buzinas, o Senhor tornou a espada de um contra o outro, e isto em todo o arraial, que fugiu para Zererá, até Bete-Sita, até aos limites de Abel-Meolá, acima de Tabate. ^v22
+**22** Quando tocaram as trezentas trombetas, Yahweh pôs a espada de cada homem midianita contra os seus companheiros e contra todo o seu próprio exército. O exército fugiu até Bete-Sita, em direção a Zererá, até os limites de Abel-Meolá, perto de Tabate. ^v22
 
-**23** Então os homens de Israel, de Naftali, de Aser e de todo o Manassés foram convocados, e perseguiram aos midianitas. ^v23
+**23** Os homens de Israel, de Naftali, de Aser e de todo o Manassés foram convocados e perseguiram os midianitas. ^v23
 
-**24** Também Gideão enviou mensageiros a todas as montanhas de Efraim, dizendo: Descei ao encontro dos midianitas, e tomai-lhes as águas até Bete-Bara, e também o Jordão. Convocados, pois, todos os homens de Efraim, tomaram-lhes as águas até Bete-Bara e o Jordão. ^v24
+**24** "Gideão enviou mensageiros por toda a região montanhosa de Efraim, dizendo: ""Descei contra os midianitas e tomai o controle do rio Jordão, até Bete-Bara, para detê-los"". Então, todos os homens de Efraim se juntaram e tomaram controle das águas até Bete-Bara, e do rio Jordão." ^v24
 
-**25** E prenderam a dois príncipes dos midianitas, a Orebe e a Zeebe; e mataram a Orebe na penha de Orebe, e a Zeebe mataram no lagar de Zeebe, e perseguiram aos midianitas; e trouxeram as cabeças de Orebe e de Zeebe a Gideão, além do Jordão. ^v25
+**25** Eles capturaram os dois príncipes de Midiã, Orebe e Zeebe. Mataram Orebe na rocha de Orebe, e mataram Zeebe no tanque de espremer uvas de Zeebe. Eles perseguiram os midianitas, e trouxeram as cabeças de Orebe e de Zeebe para Gideão, que estava do outro lado do Jordão. ^v25

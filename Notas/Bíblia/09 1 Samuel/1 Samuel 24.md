@@ -1,51 +1,50 @@
 ---
-Livro: "[[1 Samuel|1 Samuel]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/1 Samuel|1 Samuel]]"
+tags: [biblia]
 ---
 
 # 1 Samuel 24
 
-**1** E sucedeu que, voltando Saul de perseguir os filisteus, anunciaram-lhe, dizendo: Eis que Davi está no deserto de En-Gedi. ^v1
+**1** "Quando Saul retornou da caçada aos filisteus, foi dito a ele: ""Davi está no deserto de En-Gedi""." ^v1
 
-**2** Então tomou Saul três mil homens, escolhidos dentre todo o Israel, e foi em busca de Davi e dos seus homens, até sobre os cumes das penhas das cabras montesas. ^v2
+**2** Então, Saul pegou três mil homens, escolhidos de todo o Israel, e foi em busca de Davi e seus homens, nas rochas das cabras selvagens. ^v2
 
-**3** E chegou a uns currais de ovelhas no caminho, onde estava uma caverna; e entrou nela Saul, a cobrir seus pés; e Davi e os seus homens estavam nos fundos da caverna. ^v3
+**3** No caminho, ele veio para o cercado das ovelhas, onde havia uma caverna. Saul foi à parte interna para se aliviar. Davi e seus homens estavam assentados no interior da caverna. ^v3
 
-**4** Então os homens de Davi lhe disseram: Eis aqui o dia, do qual o Senhor te diz: Eis que te dou o teu inimigo nas tuas mãos, e far-lhe-ás como te parecer bem aos teus olhos. E levantou-se Davi, e mansamente cortou a orla do manto de Saul. ^v4
+**4** "Os homens de Davi disseram a ele: ""Este é o dia sobre o qual Yahweh falou quando te disse: 'Entregarei teu inimigo nas tuas mãos, farás com ele o que quiseres"". Então, Davi se levantou e, silenciosamente, avançou e cortou a ponta do manto de Saul." ^v4
 
-**5** Sucedeu, porém, que depois o coração doeu a Davi, por ter cortado a orla do manto de Saul. ^v5
+**5** Logo após isso, o coração de Davi ficou aflito, porque ele cortou a ponta do manto de Saul. ^v5
 
-**6** E disse aos seus homens: O SENHOR me guarde de que eu faça tal coisa ao meu senhor, ao ungido do SENHOR, estendendo eu a minha mão contra ele; pois é o ungido do SENHOR. ^v6
+**6** "Ele disse aos seus homens: ""Que Yahweh me impeça de fazer alguma coisa ao meu mestre, ungido de Yahweh, para estender a minha mão contra ele, sabendo que ele é o ungido de Yahweh""." ^v6
 
-**7** E com estas palavras Davi conteve os seus homens, e não lhes permitiu que se levantassem contra Saul; e Saul se levantou da caverna, e prosseguiu o seu caminho. ^v7
+**7** Assim, Davi repreendeu seus homens com estas palavras e não permitiu que eles atacassem Saul. Este se levantou, saiu da caverna e seguiu seu caminho. ^v7
 
-**8** Depois também Davi se levantou, e saiu da caverna, e gritou por detrás de Saul, dizendo: Rei, meu senhor! E, olhando Saul para trás, Davi se inclinou com o rosto em terra, e se prostrou. ^v8
+**8** "Mais tarde, Davi também se levantou, saiu da caverna e gritou por Saul: ""Meu senhor, o rei"". Quando Saul olhou para trás, Davi se inclinou com o rosto na terra e demonstrou respeito." ^v8
 
-**9** E disse Davi a Saul: Por que dás tu ouvidos às palavras dos homens que dizem: Eis que Davi procura o teu mal? ^v9
+**9** "Davi disse a Saul: ""Por que tens escutado teus homens que dizem: 'Vê, Davi está procurando fazer-te mal?'." ^v9
 
-**10** Eis que este dia os teus olhos viram, que o SENHOR hoje te pôs em minhas mãos nesta caverna, e alguns disseram que te matasse; porém a minha mão te poupou; porque disse: Não estenderei a minha mão contra o meu senhor, pois é o ungido do SENHOR. ^v10
+**10** Hoje, teus olhos estão vendo como Yahweh te colocou em minhas mãos, quando estávamos na caverna. Alguns me disseram para matar-te, mas te poupei. Eu disse: 'Não usarei minhas mãos contra meu senhor, pois ele é ungido de Yahweh'. ^v10
 
-**11** Olha, pois, meu pai, vê aqui a orla do teu manto na minha mão; porque cortando-te eu a orla do manto, não te matei. Sabe, pois, e vê que não há na minha mão nem mal nem rebeldia alguma, e não pequei contra ti; porém tu andas à caça da minha vida, para ma tirares. ^v11
+**11** Observa, meu pai! Vê a ponta do teu manto em minhas mãos. É verdade que cortei a ponta do teu manto e não te matei. Podes ver e saber que não há mal ou transgressão em minhas mãos; não cometi pecado contra ti, ainda que procuraste tirar a minha vida. ^v11
 
-**12** Julgue o Senhor entre mim e ti, e vingue-me o Senhor de ti; porém a minha mão não será contra ti. ^v12
+**12** Que Yahweh julgue entre mim e ti, e Yahweh me vingue contra ti; porém, minhas mãos não deverão ser contra ti. ^v12
 
-**13** Como diz o provérbio dos antigos: Dos ímpios procede a impiedade; porém a minha mão não será contra ti. ^v13
+**13** Conforme o provérbio dos antigos, que diz: 'Do mal, vem a maldade'. Mas minha mão não será contra ti. ^v13
 
-**14** Após quem saiu o rei de Israel? A quem persegues? A um cão morto? A uma pulga? ^v14
+**14** À procura de quem o rei de Israel tem estado? Quem tu persegues? Um cachorro morto! Uma pulga! ^v14
 
-**15** O Senhor, porém, será juiz, e julgará entre mim e ti, e verá, e advogará a minha causa, e me defenderá da tua mão. ^v15
+**15** "Que Yahweh seja o juiz e julgue entre mim e ti, examine esta questão, defenda a minha causa e me permita escapar da tua mão""." ^v15
 
-**16** E sucedeu que, acabando Davi de falar a Saul todas estas palavras, disse Saul: É esta a tua voz, meu filho Davi? Então Saul levantou a sua voz e chorou. ^v16
+**16** "Quando Davi terminou de falar essas palavras, Saul disse: ""Esta é a tua voz, meu filho Davi?"". Saul levantou a voz e chorou." ^v16
 
-**17** E disse a Davi: Mais justo és do que eu; pois tu me recompensaste com bem, e eu te recompensei com mal. ^v17
+**17** "Ele disse a Davi: ""Tu és mais justo que eu, pois tens me retribuído com o bem pelo mal que te tenho feito." ^v17
 
-**18** E tu mostraste hoje que procedeste bem para comigo, pois o Senhor me tinha posto em tuas mãos, e tu não me mataste. ^v18
+**18** Declarastes hoje como tens sido bom para mim, pois não me mataste quando Yahweh colocou-me em tuas mãos. ^v18
 
-**19** Porque, quem há que, encontrando o seu inimigo, o deixaria ir por bom caminho? O Senhor, pois, te pague com bem, por isso que hoje me fizeste. ^v19
+**19** Que homem encontra seu inimigo e o deixa ir em segurança? Que Yahweh te recompense com a bondade que tivestes comigo hoje. ^v19
 
-**20** Agora, pois, eis que bem sei que certamente hás de reinar, e que o reino de Israel há de ser firme na tua mão. ^v20
+**20** Agora sei que, certamente, serás rei e que o reino de Israel será estabelecido em tuas mãos. ^v20
 
-**21** Portanto agora jura-me pelo Senhor que não desarraigarás a minha descendência depois de mim, nem desfarás o meu nome da casa de meu pai. ^v21
+**21** "Jura-me por Yahweh que não eliminarás meus descedentes depois de mim, e que não destruirás meu nome da casa do meu pai""." ^v21
 
-**22** Então jurou Davi a Saul. E foi Saul para a sua casa; porém Davi e os seus homens subiram ao lugar forte. ^v22
+**22** Então, Davi fez uma promessa a Saul. Em seguida, Saul foi para casa, mas Davi e seus homens seguiram para o lugar seguro. ^v22

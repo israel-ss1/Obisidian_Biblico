@@ -1,47 +1,46 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Tiago|Tiago]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Tiago|Tiago]]"
+tags: [biblia]
 ---
 
 # Tiago 5
 
-**1** Eia, pois, agora vós, ricos, chorai e pranteai, por vossas misérias, que sobre vós hão de vir. ^v1
+**1** Vinde agora, vós que sois ricos, chorai e lamentai por causa das misérias que virão sobre vós. ^v1
 
-**2** As vossas riquezas estão apodrecidas, e as vossas vestes estão comidas de traça. ^v2
+**2** Vossas riquezas apodreceram e vossas roupas foram comidas pela traça. ^v2
 
-**3** O vosso ouro e a vossa prata se enferrujaram; e a sua ferrugem dará testemunho contra vós, e comerá como fogo a vossa carne. Entesourastes para os últimos dias. ^v3
+**3** Vosso ouro e vossa prata se corroeram, e essa corrosão será testemunha contra vós. Ela devorará vossa carne como fogo. Guardastes o vosso tesouro para os últimos dias. ^v3
 
-**4** Eis que o jornal dos trabalhadores que ceifaram as vossas terras, e que por vós foi diminuído, clama; e os clamores dos que ceifaram entraram nos ouvidos do Senhor dos exércitos. ^v4
+**4** Vede, o pagamento dos trabalhadores está clamando, o pagamento que retivestes daqueles que colheram em vossos campos. Os clamores dos ceifeiros chegaram aos ouvidos do Senhor dos Exércitos. ^v4
 
-**5** Deliciosamente vivestes sobre a terra, e vos deleitastes; cevastes os vossos corações, como num dia de matança. ^v5
+**5** Vivestes luxuosamente sobre a terra, satisfazendo os vossos prazeres. Engordastes os vossos corações para o dia da matança. ^v5
 
 **6** Condenastes e matastes o justo; ele não vos resistiu. ^v6
 
-**7** Sede pois, irmãos, pacientes até à vinda do Senhor. Eis que o lavrador espera o precioso fruto da terra, aguardando-o com paciência, até que receba a chuva temporã e serôdia. ^v7
+**7** Portanto sede pacientes, irmãos, até a vinda do Senhor. Vede, o agricultor espera a valiosa colheita da terra. Ele espera pacientemente por isso, até que a terra receba as primeiras e as últimas chuvas. ^v7
 
-**8** Sede vós também pacientes, fortalecei os vossos corações; porque já a vinda do Senhor está próxima. ^v8
+**8** Sede também pacientes. Fortalecei os vossos corações, porque a vinda do Senhor está próxima. ^v8
 
-**9** Irmãos, não vos queixeis uns contra os outros, para que não sejais condenados. Eis que o juiz está à porta. ^v9
+**9** Não vos queixeis uns contra os outros, irmãos, para que não sejais julgados. Vede, o juiz está à porta. ^v9
 
-**10** Meus irmãos, tomai por exemplo de aflição e paciência os profetas que falaram em nome do Senhor. ^v10
+**10** Tomai como exemplo, irmãos, o sofrimento e a paciência dos profetas, os quais falaram no nome do Senhor. ^v10
 
-**11** Eis que temos por bem-aventurados os que sofreram. Ouvistes qual foi a paciência de Jó, e vistes o fim que o Senhor lhe deu; porque o Senhor é muito misericordioso e piedoso. ^v11
+**11** Vede, consideramos felizes aqueles que perseveram. Ouvistes da perseverança de Jó, e conheceis o propósito do Senhor, quão compassivo e misericordioso Ele é. ^v11
 
-**12** Mas, sobretudo, meus irmãos, não jureis, nem pelo céu, nem pela terra, nem façais qualquer outro juramento; mas que a vossa palavra seja sim, sim, e não, não; para que não caiais em condenação. ^v12
+**12** "Sobretudo, meus irmãos, não jureis, nem pelo céu nem pela terra, nem por qualquer outro voto. Em vez disso, que o vosso ""Sim"" signifique ""Sim"", e que o vosso ""Não"" signifique ""Não"", assim não caireis em juízo." ^v12
 
-**13** Está alguém entre vós aflito? Ore. Está alguém contente? Cante louvores. ^v13
+**13** Está alguém entre vós sofrendo? Que ore. Está alguém alegre? Que cante louvores. ^v13
 
-**14** Está alguém entre vós doente? Chame os presbíteros da igreja, e orem sobre ele, ungindo-o com azeite em nome do Senhor; ^v14
+**14** Está alguém entre vós doente? Que chame os presbíteros da igreja, e que orem sobre ele, ungindo-o com óleo em nome do Senhor. ^v14
 
-**15** E a oração da fé salvará o doente, e o Senhor o levantará; e, se houver cometido pecados, ser-lhe-ão perdoados. ^v15
+**15** E a oração da fé vai curar o doente, e o Senhor o levantará. Se ele cometeu pecados, Deus o perdoará. ^v15
 
-**16** Confessai as vossas culpas uns aos outros, e orai uns pelos outros, para que sareis. A oração feita por um justo pode muito em seus efeitos. ^v16
+**16** Portanto confessai vossos pecados uns aos outros e orai uns pelos outros para serdes curados. A oração do justo é poderosa e eficaz. ^v16
 
-**17** Elias era homem sujeito às mesmas paixões que nós e, orando, pediu que não chovesse e, por três anos e seis meses, não choveu sobre a terra. ^v17
+**17** Elias foi um homem assim como nós. Ele orou fervorosamente para que não chovesse, e não choveu sobre a terra por três anos e seis meses. ^v17
 
-**18** E orou outra vez, e o céu deu chuva, e a terra produziu o seu fruto. ^v18
+**18** E novamente Elias orou, e o céu deu chuva, e a terra produziu o seu fruto. ^v18
 
-**19** Irmãos, se algum dentre vós se tem desviado da verdade, e alguém o converter, ^v19
+**19** Meus irmãos, se algum de vós se desvia da verdade, e alguém o traz de volta, ^v19
 
-**20** Saiba que aquele que fizer converter do erro do seu caminho um pecador, salvará da morte uma alma, e cobrirá uma multidão de pecados. ^v20
+**20** sabei que a pessoa que resgata um pecador do seu caminho errado o salvará da morte, e cobrirá multidão de pecados. ^v20

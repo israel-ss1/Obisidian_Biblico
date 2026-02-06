@@ -1,71 +1,70 @@
 ---
-Livro: "[[2 Samuel|2 Samuel]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/2 Samuel|2 Samuel]]"
+tags: [biblia]
 ---
 
 # 2 Samuel 2
 
-**1** E sucedeu depois disto que Davi consultou ao SENHOR, dizendo: Subirei a alguma das cidades de Judá? E disse-lhe o SENHOR: Sobe. E falou Davi: Para onde subirei? E disse: Para Hebrom. ^v1
+**1** "Depois disto, Davi perguntou a Yahweh e disse: ""Devo eu subir a uma das cidades de Judá?"". Yahweh o respondeu: ""Sobe”. Davi disse: ""Para qual cidade devo ir?"". Yahweh respondeu: ""Para Hebrom""." ^v1
 
-**2** E subiu Davi para lá, e também as suas duas mulheres, Ainoã, a jizreelita, e Abigail, a mulher de Nabal, o carmelita. ^v2
+**2** Então, Davi subiu com suas duas esposas, Ainoã de Jezreel, e Abigail a viúva de Nabal, o carmelita. ^v2
 
-**3** Fez também Davi subir os homens que estavam com ele, cada um com a sua família; e habitaram nas cidades de Hebrom. ^v3
+**3** Davi trouxe os homens que estavam com ele; cada um trouxe sua família, para as cidades de Hebrom, onde começaram a morar. ^v3
 
-**4** Então vieram os homens de Judá, e ungiram ali a Davi rei sobre a casa de Judá. E deram avisos a Davi, dizendo: Os homens de Jabes-Gileade foram os que sepultaram a Saul. ^v4
+**4** "Então, homens de Judá vieram e ungiram Davi rei sobre a casa de Judá. Eles falaram a Davi: ""Os homens de Jabes-Gileade enterraram Saul""." ^v4
 
-**5** Então enviou Davi mensageiros aos homens de Jabes-Gileade, para dizer-lhes: Benditos sejais vós do SENHOR, que fizestes tal beneficência a vosso senhor, a Saul, e o sepultastes! ^v5
+**5** "Então, Davi enviou mensageiros aos homens de Jabes-Gileade e disse a eles: ""Vós sois abençoados por Yahweh, já que mostrastes esta lealdade ao vosso senhor Saul, e o enterrastes." ^v5
 
-**6** Agora, pois, o Senhor use convosco de beneficência e fidelidade; e também eu vos farei este bem, porquanto fizestes isto. ^v6
+**6** Agora, que Yahweh vos mostre Seu amor leal e Sua fidelidade. Eu também vos mostrarei esta bondade porque fizestes essa boa obra. ^v6
 
-**7** Esforcem-se, pois, agora as vossas mãos, e sede homens valentes, pois Saul, vosso senhor, é morto, mas também os da casa de Judá já me ungiram a mim por seu rei. ^v7
+**7** "Agora, então, que vossas mãos sejam fortes; sede corajosos, pois Saul, vosso senhor, está morto, e a casa de Judá me ungiu rei sobre eles""." ^v7
 
-**8** Porém Abner, filho de Ner, capitão do exército de Saul, tomou a Is-Bosete, filho de Saul, e o fez passar a Maanaim, ^v8
+**8** Mas Abner, filho de Ner, comandante do exército de Saul, tomou Isbosete, filho de Saul, e o trouxe para Maanaim; ^v8
 
-**9** E o constituiu rei sobre Gileade, e sobre os assuritas, e sobre Jizreel, e sobre Efraim, e sobre Benjamim, e sobre todo o Israel. ^v9
+**9** ele constituiu Isbosete rei sobre Gileade, Aser, Jezreel, Efraim, Benjamim e sobre todo o Israel. ^v9
 
-**10** Da idade de quarenta anos era Is-Bosete, filho de Saul, quando começou a reinar sobre Israel, e reinou dois anos; mas os da casa de Judá seguiam a Davi. ^v10
+**10** Isbosete, filho de Saul, tinha quarenta anos de idade quando começou a reinar sobre Israel, e reinou por dois anos. Todavia, a casa de Judá seguiu Davi. ^v10
 
-**11** E foi o número dos dias que Davi reinou em Hebrom, sobre a casa de Judá, sete anos e seis meses. ^v11
+**11** O tempo em que Davi foi rei em Hebrom sobre a casa de Judá foi de sete anos e seis meses. ^v11
 
-**12** Então saiu Abner, filho de Ner, com os servos de Is-Bosete, filho de Saul, de Maanaim a Gibeom. ^v12
+**12** Abner, filho de Ner, e os servos de Isbosete, filho de Saul, saíram de Maanaim para Gibeão. ^v12
 
-**13** Saíram também Joabe, filho de Zeruia, e os servos de Davi, e se encontraram uns com os outros perto do tanque de Gibeom; e pararam estes deste lado do tanque, e os outros do outro lado do tanque. ^v13
+**13** Joabe, filho de Zeruia, e os servos de Davi saíram e se encontraram perto do tanque de Gibeão. Ali, eles sentaram-se ao lado do tanque, um grupo de cada lado. ^v13
 
-**14** E disse Abner a Joabe: Deixa levantar os moços, e joguem diante de nós. E disse Joabe: Levantem-se. ^v14
+**14** "Abner disse a Joabe: ""Deixa os jovens se levantarem e competirem diante de nós"". Então, Joabe disse: ""Que se levantem""." ^v14
 
-**15** Então se levantaram, e passaram, em número de doze de Benjamim, da parte de Is-Bosete, filho de Saul, e doze dos servos de Davi. ^v15
+**15** Então, os jovens levantaram-se e se reuniram: doze para Benjamim e Isbosete, filho de Saul, e doze dos servos de Davi. ^v15
 
-**16** E cada um lançou mão da cabeça do outro, cravou-lhe a espada no lado, e caíram juntos, por isso se chamou àquele lugar Helcate-Hazurim, que está junto a Gibeom. ^v16
+**16** "Cada homem agarrou seu oponente pela cabeça e enfiou sua espada no lado do seu oponente, e eles caíram juntos. Assim, aquele lugar foi chamado, em hebraico, de ""Helcate-Hazurim"" ou ""Campo das Espadas"", que está em Gibeão." ^v16
 
-**17** E seguiu-se naquele dia uma crua peleja; porém Abner e os homens de Israel foram feridos diante dos servos de Davi. ^v17
+**17** A batalha foi muito severa naquele dia e Abner e os homens de Israel foram derrotados diante dos servos de Davi. ^v17
 
-**18** E estavam ali os três filhos de Zeruia, Joabe, Abisai, e Asael; e Asael era ligeiro de pés, como as gazelas do campo. ^v18
+**18** Os três filhos de Zeruia estavam ali: Joabe, Abisai, e Asael. Asael era rápido nos pés, como uma gazela selvagem. ^v18
 
-**19** E Asael perseguiu a Abner; e não se desviou de detrás de Abner, nem para a direita nem para a esquerda. ^v19
+**19** Asael perseguiu de perto Abner e o seguiu sem se desviar nem para a direita e nem para a esquerda. ^v19
 
-**20** E Abner, olhando para trás, perguntou: És tu Asael? E ele falou: Eu sou. ^v20
+**20** "Abner olhou para trás e disse: ""És tu, Asael?"". Ele respondeu: ""Sou eu""." ^v20
 
-**21** Então lhe disse Abner: Desvia-te para a direita, ou para a esquerda, e lança mão de um dos moços, e toma os seus despojos. Porém Asael não quis desviar-se de detrás dele. ^v21
+**21** "Abner disse para ele: ""Desvia-te para tua direita ou para esquerda, e agarra um dos jovens e pega sua armadura"". Mas Asael não mudou de direção." ^v21
 
-**22** Então Abner tornou a dizer a Asael: Desvia-te de detrás de mim; por que hei de eu ferir-te e dar contigo em terra? E como levantaria eu o meu rosto diante de Joabe, teu irmão? ^v22
+**22** "Então, Abner disse novamente a Asael: ""Para de me perseguir. Por que eu deveria te derrubar ao chão? Como eu me apresentaria diante de Joabe, teu irmão?""." ^v22
 
-**23** Porém, não querendo ele se desviar, Abner o feriu com a ponta da lança pela quinta costela, e a lança lhe saiu por detrás, e caiu ali, e morreu naquele mesmo lugar; e sucedeu que, todos os que chegavam ao lugar onde Asael caiu e morreu, paravam. ^v23
+**23** Mas, Asael recusou-se a desviar e, então, Abner o apunhalou com a sua lança e ela atravessou-lhe o estômago. Asael caiu e ali morreu. E aconteceu que todos que chegavam ao lugar em que Asael caíra morto, ficavam parados. ^v23
 
-**24** Porém Joabe e Abisai perseguiram a Abner; e pôs-se o sol, chegando eles ao outeiro de Amá, que está diante de Gia, junto ao caminho do deserto de Gibeão. ^v24
+**24** Mas Joabe e Abisai perseguiram Abner. Quando o sol estava se pondo, eles vieram para a colina de Amá, que é perto de Giá, próximo à estrada para o deserto de Gibeão. ^v24
 
-**25** E os filhos de Benjamim se ajuntaram atrás de Abner, e fizeram um batalhão, e puseram-se no cume de um outeiro. ^v25
+**25** Os homens de Benjamim reuniram-se atrás de Abner e ficaram no topo da colina. ^v25
 
-**26** Então Abner gritou a Joabe, e disse: Consumirá a espada para sempre? Não sabes tu que por fim haverá amargura? E até quando não hás de dizer ao povo que deixe de perseguir a seus irmãos? ^v26
+**26** "Então, Abner chamou Joabe e disse: ""Será que a espada deve devorar para sempre? Tu não sabes que isto será amargo no final? Quanto tempo isto levará até que tu digas para teus homens pararem de perseguir seus irmãos?""." ^v26
 
-**27** E disse Joabe: Vive Deus, que, se não tivesses falado, só pela manhã o povo teria cessado, cada um, de perseguir a seu irmão. ^v27
+**27** "Joabe respondeu: ""Assim como Deus vive, se tu não tivesses dito isso, meus soldados teriam perseguido seus irmãos até pela manhã!""." ^v27
 
-**28** Então Joabe tocou a buzina, e todo o povo parou, e não perseguiram mais a Israel; e tampouco pelejaram mais. ^v28
+**28** Então, Joabe tocou a trombeta, e todos os seus homens pararam e não mais perseguiram Israel, nem lutaram mais. ^v28
 
-**29** E caminharam Abner e os seus homens toda aquela noite pela planície; e, passando o Jordão, caminharam por todo o Bitrom, e chegaram a Maanaim. ^v29
+**29** Abner e seus homens viajaram toda aquela noite, por Arabá; eles cruzaram o Jordão, marcharam durante toda a manhã seguinte e, então, alcançaram Maanaim. ^v29
 
-**30** Também Joabe voltou de perseguir a Abner, e ajuntou todo o povo; e dos servos de Davi faltaram dezenove homens, e Asael. ^v30
+**30** Joabe retornou da perseguição a Abner. Ele reuniu todos os seus homens, dos quais estavam faltando Asael e dezenove dos soldados de Davi. ^v30
 
-**31** Porém os servos de Davi feriram dentre os de Benjamim, e dentre os homens de Abner, a trezentos e sessenta homens, que ali ficaram mortos. ^v31
+**31** Todavia, os homens de Davi mataram trezentos e sessenta homens de Benjamim, dentre os homens de Abner. ^v31
 
-**32** E levantaram a Asael, e sepultaram-no na sepultura de seu pai, que estava em Belém; e Joabe e seus homens caminharam toda aquela noite, e amanheceu-lhes o dia em Hebrom. ^v32
+**32** Então, eles pegaram Asael e o enterraram no túmulo de seu pai, que era em Belém. Joabe e seus homens viajaram toda a noite, e amanheceu-lhes o dia em Hebrom. ^v32

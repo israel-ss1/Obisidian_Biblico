@@ -1,101 +1,100 @@
 ---
-Livro: "[[Levítico|Levítico]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Levítico|Levítico]]"
+tags: [biblia]
 ---
 
 # Levítico 11
 
-**1** E falou o SENHOR a Moisés e a Arão, dizendo-lhes: ^v1
+**1** Yahweh falou a Moisés e a Arão, dizendo: ^v1
 
-**2** Fala aos filhos de Israel, dizendo: Estes são os animais, que comereis dentre todos os animais que há sobre a terra; ^v2
+**2** """Falai ao povo de Israel, dizendo: 'Estas são as coisas vivas que vós podereis comer entre todos os animais que estão sobre a terra." ^v2
 
-**3** Dentre os animais, todo o que tem unhas fendidas, e a fenda das unhas se divide em duas, e rumina, deles comereis. ^v3
+**3** Vós podereis comer quaisquer animais que possuem casco fendido e também os que ruminam. ^v3
 
-**4** Destes, porém, não comereis; dos que ruminam ou dos que têm unhas fendidas; o camelo, que rumina, mas não tem unhas fendidas; esse vos será imundo; ^v4
+**4** Todavia, alguns animais que ruminam ou possuem casco fendido, vós não devais comer deles. Animais tais como o camelo, porque ele rumina, mas não possui casco fendido. Portanto, o camelo será impuro para vós. ^v4
 
-**5** E o coelho, porque rumina, mas não tem as unhas fendidas; esse vos será imundo; ^v5
+**5** Também o texugo da rocha, porque rumina e não possui casco fendido, será impuro para vós. ^v5
 
-**6** E a lebre, porque rumina, mas não tem as unhas fendidas; essa vos será imunda. ^v6
+**6** E o coelho, porque rumina, mas não possui casco fendido, será impuro para vós. ^v6
 
-**7** Também o porco, porque tem unhas fendidas, e a fenda das unhas se divide em duas, mas não rumina; este vos será imundo. ^v7
+**7** E o porco, que, embora possua casco fendido, não rumina, então será impuro para vós. ^v7
 
-**8** Das suas carnes não comereis, nem tocareis nos seus cadáveres; estes vos serão imundos. ^v8
+**8** Vós não devereis comer nenhuma das suas carnes, nem tocar suas carcaças. Elas serão impuras para vós. ^v8
 
-**9** De todos os animais que há nas águas, comereis os seguintes: todo o que tem barbatanas e escamas, nas águas, nos mares e nos rios, esses comereis. ^v9
+**9** Os animais que vivem na água que podereis comer são todos aqueles que possuem barbatanas e escamas, seja no oceano ou nos rios. ^v9
 
-**10** Mas todo o que não tem barbatanas, nem escamas, nos mares e nos rios, todo o réptil das águas, e todo o ser vivente que há nas águas, estes serão para vós abominação. ^v10
+**10** Mas todas as criaturas vivas que não possuem barbatanas e escamas, nos oceanos ou nos rios, incluindo todas as que se movem nas águas e todas as que vivem na água, deverão ser detestadas por vós. ^v10
 
-**11** Ser-vos-ão, pois, por abominação; da sua carne não comereis, e abominareis o seu cadáver. ^v11
+**11** Visto que elas deverão ser detestadas, vós não devereis comer suas carnes; também suas carcaças deverão ser detestadas. ^v11
 
-**12** Todo o que não tem barbatanas ou escamas, nas águas, será para vós abominação. ^v12
+**12** Tudo o que não possui barbatanas ou escamas nas águas deverá ser detestado por vós. ^v12
 
-**13** Das aves, estas abominareis; não se comerão, serão abominação: a águia, e o quebrantosso, e o xofrango, ^v13
+**13** As aves que devereis detestar e que não devereis comer são estas: a águia, o abutre, ^v13
 
-**14** E o milhano, e o abutre segundo a sua espécie. ^v14
+**14** a águia marinha, qualquer tipo de falcão, ^v14
 
-**15** Todo o corvo segundo a sua espécie, ^v15
+**15** todo tipo de corvo, ^v15
 
-**16** E o avestruz, e o mocho, e a gaivota, e o gavião segundo a sua espécie. ^v16
+**16** a coruja de chifre e a coruja das torres, a gaivota e qualquer tipo de gavião. ^v16
 
-**17** E o bufo, e o corvo marinho, e a coruja, ^v17
+**17** Vós devereis também detestar a coruja pequena e a coruja grande, o cormorão, ^v17
 
-**18** E a gralha, e o cisne, e o pelicano, ^v18
+**18** a coruja branca a coruja de celeiro, a águia-pescadora, ^v18
 
-**19** E a cegonha, a garça segundo a sua espécie, e a poupa, e o morcego. ^v19
+**19** a cegonha, qualquer tipo de garça, a poupa e também o morcego. ^v19
 
-**20** Todo o inseto que voa, que anda sobre quatro pés, será para vós uma abominação. ^v20
+**20** Todos os insetos alados que andam sobre quatro patas deverão ser detestados por vós. ^v20
 
-**21** Mas isto comereis de todo o inseto que voa, que anda sobre quatro pés: o que tiver pernas sobre os seus pés, para saltar com elas sobre a terra. ^v21
+**21** Todavia, vós podereis comer qualquer inseto voador que também andar sobre patas, se ele possuir pernas articuladas para pular sobre o chão. ^v21
 
-**22** Deles comereis estes: a locusta segundo a sua espécie, o gafanhoto devorador segundo a sua espécie, o grilo segundo a sua espécie, e o gafanhoto segundo a sua espécie. ^v22
+**22** E vós também podereis comer qualquer tipo de locusta, esperança, grilo ou gafanhoto. ^v22
 
-**23** E todos os outros insetos que voam, que têm quatro pés, serão para vós uma abominação. ^v23
+**23** Mas todos os insetos voadores que possuem quatro patas deverão ser detestados por vós. ^v23
 
-**24** E por estes sereis imundos: qualquer que tocar os seus cadáveres, imundo será até à tarde. ^v24
+**24** Vós vos tornareis impuros, até o anoitecer, por estes animais, se tocardes a carcaça de algum deles. ^v24
 
-**25** Qualquer que levar os seus cadáveres lavará as suas vestes, e será imundo até à tarde. ^v25
+**25** E quem pegar uma de suas carcaças deverá lavar suas roupas e permanecerá impuro até o anoitecer. ^v25
 
-**26** Todo o animal que tem unha fendida, mas a fenda não se divide em duas, e todo o que não rumina, vos será por imundo; qualquer que tocar neles será imundo. ^v26
+**26** Todo animal que possui casco fendido que não é completamente dividido ou aquele que não rumina será impuro para vós. Todo aquele que os tocar ficará impuro. ^v26
 
-**27** E todo o animal que anda sobre as suas patas, todo o animal que anda a quatro pés, vos será por imundo; qualquer que tocar nos seus cadáveres será imundo até à tarde. ^v27
+**27** Todo o que anda sobre suas patas entre todos os animais que andam sobre as quatro pernas, eles serão impuros para vós. Qualquer que tocar tais carcaças ficará impuro até o anoitecer. ^v27
 
-**28** E o que levar os seus cadáveres lavará as suas vestes, e será imundo até à tarde; eles vos serão por imundos. ^v28
+**28** E qualquer um que pegar tais carcaças deverá lavar suas roupas e ficará impuro até o anoitecer. Estes animais serão impuros para vós. ^v28
 
-**29** Estes também vos serão por imundos entre os répteis que se arrastam sobre a terra; a doninha, e o rato, e a tartaruga segundo a sua espécie, ^v29
+**29** Dos animais que rastejam pelo chão, estes são os animais que serão impuros para vós: a doninha, o rato, todo tipo de lagarto grande, ^v29
 
-**30** E o ouriço cacheiro, e o lagarto, e a lagartixa, e a lesma e a toupeira. ^v30
+**30** a lagartixa, o lagarto monitor, o lagarto, o lagarto da areia e o camaleão. ^v30
 
-**31** Estes vos serão por imundos dentre todos os répteis; qualquer que os tocar, estando eles mortos, será imundo até à tarde. ^v31
+**31** Dentre todos os animais que rastejam, esses são os que serão impuros para vós. Qualquer um que tocá-los, quando estiverem mortos, ficará impuro até o anoitecer. ^v31
 
-**32** E tudo aquilo sobre o que cair alguma coisa deles estando eles mortos será imundo; seja vaso de madeira, ou veste, ou pele, ou saco, qualquer instrumento, com que se faz alguma obra, será posto na água, e será imundo até à tarde; depois será limpo. ^v32
+**32** E, se algum deles morrer e cair sobre alguma coisa, aquela coisa ficará impura; seja feita de madeira, tecido, couro, ou pano de saco. Não importa o que for ou para o que seja usado, deverá ser posto dentro d'água e ficará impuro até o anoitecer. Então, ficará puro. ^v32
 
-**33** E todo o vaso de barro, em que cair alguma coisa deles, tudo o que houver nele será imundo, e o vaso quebrareis. ^v33
+**33** Para todos os potes de barro, dentro ou sobre os quais algum animal impuro cair, tudo o que estiver dentro do pote ficará impuro e vós devereis destruir esse pote. ^v33
 
-**34** Todo o alimento que se come, sobre o qual cair água de tais vasos, será imundo; e toda a bebida que se bebe, depositada nesses vasos, será imunda. ^v34
+**34** Todo alimento puro, que se permite comer, mas sobre o qual a água de um pote impuro caiu, ficará impuro. E qualquer bebida de tais potes ficará impura. ^v34
 
-**35** E aquilo sobre o que cair alguma parte de seu corpo morto, será imundo; o forno e o vaso de barro serão quebrados; imundos são: portanto vos serão por imundos. ^v35
+**35** Tudo em que alguma parte de carcaça de um animal impuro cair, ficará impuro, seja um forno ou pote de cozinhar. Deverão ser quebrados em pedaços. Isso é impuro e deverá ser impuro para vós. ^v35
 
-**36** Porém a fonte ou cisterna, em que se recolhem águas, será limpa, mas quem tocar no seu cadáver será imundo. ^v36
+**36** Uma fonte ou cisterna onde a água para beber é coletada permanecerá pura se tais criaturas caírem dentro delas; mas se alguém tocar a carcaça de um animal impuro na água, ficará impuro. ^v36
 
-**37** E, se dos seus cadáveres cair alguma coisa sobre alguma semente que se vai semear, será limpa; ^v37
+**37** Se alguma parte de uma carcaça impura cair sobre alguma semente para a plantação, esta semente continuará pura. ^v37
 
-**38** Mas se for deitada água sobre a semente, e se dos seus cadáveres cair alguma coisa sobre ela, vos será por imunda. ^v38
+**38** Mas, se a água for colocada sobre a semente e alguma parte de uma carcaça impura cair sobre ela, então ficará impura para vós. ^v38
 
-**39** E se morrer algum dos animais, que vos servem de mantimento, quem tocar no seu cadáver será imundo até à tarde; ^v39
+**39** Se algum animal dos quais vós podeis comer vier a morrer, então, aquele que tocar sua carcaça ficará impuro até o anoitecer. ^v39
 
-**40** E quem comer do seu cadáver lavará as suas vestes, e será imundo até à tarde; e quem levar o seu corpo morto lavará as suas vestes, e será imundo até à tarde. ^v40
+**40** E qualquer que comer algo daquela carcaça deverá lavar as suas roupas e ficará impuro até o anoitecer. E aquele que carregar a carcaça deverá lavar suas roupas e ficará impuro até o anoitecer. ^v40
 
-**41** Também todo o réptil, que se arrasta sobre a terra, será abominação; não se comerá. ^v41
+**41** Todo animal que rasteja sobre o solo deve ser detestado; não deverá ser comido. ^v41
 
-**42** Tudo o que anda sobre o ventre, e tudo o que anda sobre quatro pés, ou que tem muitos pés, entre todo o réptil que se arrasta sobre a terra, não comereis, porquanto são uma abominação. ^v42
+**42** Tudo que rasteja sobre o ventre, e tudo que anda sobre as quatro patas, ou tudo que possui muitas patas — todos os animais que rastejam sobre o solo — vós não devereis comer, pois eles deverão ser detestados. ^v42
 
-**43** Não vos façais abomináveis, por nenhum réptil que se arrasta, nem neles vos contamineis, para não serdes imundos por eles; ^v43
+**43** Vós não devereis tornar-vos impuros com nenhuma criatura viva que rasteja. Vós não devereis tornar-vos impuros com elas, pois elas podem tornar-vos impuros. ^v43
 
-**44** Porque eu sou o Senhor vosso Deus; portanto vós vos santificareis, e sereis santos, porque eu sou santo; e não vos contaminareis com nenhum réptil que se arrasta sobre a terra; ^v44
+**44** Pois Eu sou Yahweh, vosso Deus. Vós deveis vos manter santos. Portanto, sede santos porque Eu sou Santo. Vós não devereis vos contaminar com nenhum tipo de animal que se move sobre o solo. ^v44
 
-**45** Porque eu sou o Senhor, que vos fiz subir da terra do Egito, para que eu seja vosso Deus, e para que sejais santos; porque eu sou santo. ^v45
+**45** Pois Eu sou Yahweh, que vos tirou da terra do Egito, para ser vosso Deus. Portanto, vós devereis ser santos, pois Eu sou Santo. ^v45
 
-**46** Esta é a lei dos animais, e das aves, e de toda criatura vivente que se move nas águas, e de toda criatura que se arrasta sobre a terra; ^v46
+**46** Esta é a lei a respeito dos animais, das aves e de toda criatura viva que se move nas águas e toda criatura que rasteja sobre o solo, ^v46
 
-**47** Para fazer diferença entre o imundo e o limpo; e entre animais que se podem comer e os animais que não se podem comer. ^v47
+**47** para as quais uma distinção é feita entre pura e impura. E entre os seres vivos que podem ser comidos e os seres vivos que não podem ser comidos. ^v47

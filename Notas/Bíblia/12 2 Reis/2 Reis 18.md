@@ -1,81 +1,80 @@
 ---
-Livro: "[[2 Reis|2 Reis]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/2 Reis|2 Reis]]"
+tags: [biblia]
 ---
 
 # 2 Reis 18
 
-**1** E sucedeu que, no terceiro ano de Oséias, filho de Elá, rei de Israel, começou a reinar Ezequias, filho de Acaz, rei de Judá. ^v1
+**1** No terceiro ano de Oseias, filho de Elá, rei de Israel, Ezequias, filho de Acaz, rei de Judá começou a reinar. ^v1
 
-**2** Tinha vinte e cinco anos de idade quando começou a reinar, e vinte e nove anos reinou em Jerusalém; e era o nome de sua mãe Abi, filha de Zacarias. ^v2
+**2** Tinha vinte e cinco anos quando começou a reinar; reinou vinte e nove anos em Jerusalém. O nome de sua mãe era Abi; ela era filha de Zacarias. ^v2
 
-**3** E fez o que era reto aos olhos do Senhor, conforme tudo o que fizera Davi, seu pai. ^v3
+**3** Ele fez o que era certo aos olhos de Yahweh, seguindo o exemplo de tudo que Davi, seu antepassado, havia feito. ^v3
 
-**4** Ele tirou os altos, quebrou as estátuas, deitou abaixo os bosques, e fez em pedaços a serpente de metal que Moisés fizera; porquanto até àquele dia os filhos de Israel lhe queimavam incenso, e lhe chamaram Neustã. ^v4
+**4** "Ele removeu os santuários, destruiu os pilares sagrados de pedra e derrubou as imagens de Aserá. Quebrou em pedaços a serpente de pedra que Moisés havia feito, porque naqueles dias o povo de Israel queimava incenso a ela; era chamada de ""Neustã""." ^v4
 
-**5** No Senhor Deus de Israel confiou, de maneira que depois dele não houve quem lhe fosse semelhante entre todos os reis de Judá, nem entre os que foram antes dele. ^v5
+**5** Ezequias confiava em Yahweh, o Deus de Israel, de maneira que, depois dele, não houve ninguém parecido dentre todos os reis de Judá, tampouco dentre os reis que reinaram antes dele. ^v5
 
-**6** Porque se chegou ao Senhor, não se apartou dele, e guardou os mandamentos que o Senhor tinha dado a Moisés. ^v6
+**6** Ele se manteve fiel a Yahweh. Não parou de segui-Lo, mas guardou Seus mandamentos, os quais Yahweh ordenou a Moisés. ^v6
 
-**7** Assim foi o Senhor com ele; para onde quer que saía se conduzia com prudência; e se rebelou contra o rei da Assíria, e não o serviu. ^v7
+**7** Assim, Yahweh estava com Ezequias e, por onde ele foi, prosperou. Ele se rebelou contra o rei da Assíria e não o serviu. ^v7
 
-**8** Ele feriu os filisteus até Gaza, como também os seus termos, desde a torre dos atalaias até à cidade fortificada. ^v8
+**8** Atacou os filisteus até Gaza e suas fronteiras, desde a torre de vigia até a cidade fortificada. ^v8
 
-**9** E sucedeu, no quarto ano do rei Ezequias (que era o sétimo ano de Oséias, filho de Elá, rei de Israel), que Salmaneser, rei da Assíria, subiu contra Samaria, e a cercou. ^v9
+**9** No quarto ano do reinado do rei Ezequias, que era o sétimo de Oseias, filho de Elá, rei de Israel, Salmanasar, rei da Assíria, atacou Samaria e a cercou. ^v9
 
-**10** E a tomaram ao fim de três anos, no ano sexto de Ezequias, que era o ano nono de Oséias, rei de Israel, quando tomaram Samaria. ^v10
+**10** No fim de três anos, eles a tomaram, no sexto ano de Ezequias, que era o nono de Oseias, rei de Israel; dessa forma, Samaria foi capturada. ^v10
 
-**11** E o rei da Assíria transportou a Israel para a Assíria; e os fez levar a Hala e a Habor, junto ao rio de Gozã, e às cidades dos medos; ^v11
+**11** Assim, o rei da Assíria levou Israel cativo para Assíria e o colocou em Hala, junto a Habor, rio de Gozã, e nas cidades dos medos. ^v11
 
-**12** Porquanto não obedeceram à voz do Senhor seu Deus, antes transgrediram a sua aliança; e tudo quanto Moisés, servo do Senhor, tinha ordenado, nem o ouviram nem o fizeram. ^v12
+**12** Ele assim o fez porque eles não obedeceram à voz de Yahweh, seu Deus, mas transgrediram Sua aliança, tudo o que Moisés, servo de Yahweh, havia ordenado. Eles se recusaram a ouvir ou fazer. ^v12
 
-**13** Porém no ano décimo quarto do rei Ezequias subiu Senaqueribe, rei da Assíria, contra todas as cidades fortificadas de Judá, e as tomou. ^v13
+**13** No décimo quarto ano do rei Ezequias, Senaqueribe, rei da Assíria, atacou todas as cidades fortificadas de Judá e as tomou. ^v13
 
-**14** Então Ezequias, rei de Judá, enviou ao rei da Assíria, a Laquis, dizendo: Pequei; retira-te de mim; tudo o que me impuseres suportarei. Então o rei da Assíria impôs a Ezequias, rei de Judá, trezentos talentos de prata e trinta talentos de ouro. ^v14
+**14** "Então, Ezequias, rei de Judá, enviou uma mensagem ao rei da Assíria, que estava em Laquis, dizendo: ""Eu te ofendi. Retira-te de mim. Tudo o que me impuseres eu suportarei"". O rei da Assíria impôs a Ezequias, rei de Judá, o pagamento de trezentos talentos de prata e trinta talentos de ouro." ^v14
 
-**15** Assim deu Ezequias toda a prata que se achou na casa do Senhor e nos tesouros da casa do rei. ^v15
+**15** Então, Ezequias deu-lhe toda a prata que encontrou na casa de Yahweh e nos tesouros do palácio do rei. ^v15
 
-**16** Naquele tempo cortou Ezequias o ouro das portas do templo do Senhor, e das ombreiras, de que ele, rei de Judá, as cobrira, e o deu ao rei da Assíria. ^v16
+**16** Depois, Ezequias retirou todo o ouro das portas do templo de Yahweh e dos pilares que ele havia revestido; ele deu o ouro ao rei da Assíria. ^v16
 
-**17** Contudo enviou o rei da Assíria a Tartã, e a Rabe-Saris, e a Rabsaqué, de Laquis, com grande exército ao rei Ezequias, a Jerusalém; subiram, e vieram a Jerusalém. E, subindo e vindo eles, pararam ao pé do aqueduto da piscina superior, que está junto ao caminho do campo do lavandeiro. ^v17
+**17** Mas o rei da Assíria mobilizou seu grande exército, enviando Tartã, Rabsaris e o comandante chefe de Laquis ao rei Ezequias em Jerusalém. Eles viajaram pelas estradas e chegaram a Jerusalém, aproximando-se do aqueduto do açude superior, na estrada que dava no campo dos lavandeiros e permaneceram ali. ^v17
 
-**18** E chamaram o rei; e saíram a eles Eliaquim, filho de Hilquias, o mordomo, e Sebna, o escrivão, e Joá, filho de Asafe, o cronista. ^v18
+**18** Tendo eles chamado pelo rei Ezequias, vieram Eliaquim, filho de Hilquias, que era encarregado de cuidar da casa; Sebna, o escriba; e Joá, filho de Asafe, o cronista, ao encontro deles. ^v18
 
-**19** E Rabsaqué lhes disse: Ora, dizei a Ezequias: Assim diz o grande rei, o rei da Assíria: Que confiança é esta em que te estribas? ^v19
+**19** "Então, o comandante chefe disse-lhes: ""falai a Ezequias que o grande rei, o rei da Assíria, disse: 'Qual é a fonte da tua confiança?" ^v19
 
-**20** Dizes tu (porém são palavras só de lábios): Há conselho e poder para a guerra. Em quem, pois, agora confias, que contra mim te rebelas? ^v20
+**20** Tu falas apenas palavras inúteis, dizendo que tens aliados e força para a guerra. Em quem estás confiando? Quem te deu coragem para se rebelar contra mim? ^v20
 
-**21** Eis que agora tu confias naquele bordão de cana quebrada, no Egito, no qual, se alguém se encostar, entrar-lhe-á pela mão e a furará; assim é Faraó, rei do Egito, para com todos os que nele confiam. ^v21
+**21** Eis, que tu confias neste caniço quebrado que é o Egito, o qual, se alguém nele se apoiar, atravessará sua mão e o perfurará. Isso é o que o Faraó, rei do Egito, é para qualquer um que confiar nele. ^v21
 
-**22** Se, porém, me disserdes: No Senhor nosso Deus confiamos; porventura não é esse aquele cujos altos e cujos altares Ezequias tirou, dizendo a Judá e a Jerusalém: Perante este altar vos inclinareis em Jerusalém? ^v22
+**22** Se, porém, me dissesses: 'Nós confiamos em Yahweh, nosso Deus', não é Ele cujos altares e santuários Ezequias retirou e disse a Judá e a Jerusalém: 'Devei adorar perante esse altar em Jerusalém'? ^v22
 
-**23** Ora, pois, dá agora reféns ao meu senhor, o rei da Assíria, e dar-te-ei dois mil cavalos, se tu puderes dar cavaleiros para eles. ^v23
+**23** Agora, pois, eu quero fazer uma boa oferta do meu senhor, o rei da Assíria. Eu te darei dois mil cavalos, se fores capaz de encontrar cavaleiros para eles. ^v23
 
-**24** Como, pois, farias virar o rosto de um só capitão dos menores servos de meu senhor, quando tu confias no Egito, por causa dos carros e cavaleiros? ^v24
+**24** Como poderias resistir a um só capitão dos menores dos servos de meu senhor? Tu colocaste tua confiança no Egito por causa de carros e cavaleiros! ^v24
 
-**25** Agora, pois, subi eu porventura sem o Senhor contra este lugar, para o destruir? O Senhor me disse: Sobe contra esta terra, e destrói-a. ^v25
+**25** "Porventura, viajei até aqui, sem Yahweh, para atacar este lugar e o destruir? Assim disse Yahweh: 'Ataca esta terra e a destrua'""." ^v25
 
-**26** Então disse Eliaquim, filho de Hilquias, e Sebna e Joá, a Rabsaqué: Rogamos-te que fales aos teus servos em siríaco; porque bem o entendemos; e não nos fales em judaico, aos ouvidos do povo que está em cima do muro. ^v26
+**26** "Então, Eliaquim, filho de Hilquias, Sebna e Joá disseram ao comandante chefe: ""Por favor, fala com teus servos em aramaico, para que possamos compreender. Não fales conosco na língua de Judá, aos ouvidos do povo que está em cima do muro""." ^v26
 
-**27** Porém Rabsaqué lhes disse: Porventura mandou-me meu senhor somente a teu senhor e a ti, para falar estas palavras e não antes aos homens, que estão sentados em cima do muro, para que juntamente convosco comam o seu excremento e bebam a sua urina? ^v27
+**27** "Mas o comandante chefe lhes disse: ""Por acaso, meu senhor me enviou para falar essas palavras a vosso senhor e a vós? Não me enviou ele para os homens que se assentam sobre a muralha, que juntamente convosco terão que comer seus próprios excrementos e beber sua própria urina?""." ^v27
 
-**28** Rabsaqué, pois, se pôs em pé, e clamou em alta voz em judaico, e respondeu, dizendo: Ouvi a palavra do grande rei, do rei da Assíria. ^v28
+**28** "Assim, o comandante chefe permaneceu e bradou em alta voz na língua dos judeus, dizendo: ""Escutai a palavra do grande rei, o rei de Assíria." ^v28
 
-**29** Assim diz o rei: Não vos engane Ezequias; porque não vos poderá livrar da sua mão; ^v29
+**29** O rei diz: 'Não deixeis que Ezequias vos engane, pois ele não é capaz de vos resgatar do meu poder. ^v29
 
-**30** Nem tampouco vos faça Ezequias confiar no Senhor, dizendo: Certamente nos livrará o Senhor, e esta cidade não será entregue na mão do rei da Assíria. ^v30
+**30** "Não deixeis que Ezequias vos faça confiar em Yahweh, dizendo: 'Yahweh certamente nos resgatará; esta cidade não será entregue as mãos do rei da Assíria'""." ^v30
 
-**31** Não deis ouvidos a Ezequias; porque assim diz o rei da Assíria: Contratai comigo por presentes, e saí a mim, e coma cada um da sua vide e da sua figueira, e beba cada um a água da sua cisterna; ^v31
+**31** Não escuteis a Ezequias, pois isto é o que o rei da Assíria diz: 'Fazei paz comigo e vinde até mim. Então, todos dentre vós comerão de sua própria vide e de sua própria figueira e beberão água de sua própria cisterna. ^v31
 
-**32** Até que eu venha, e vos leve para uma terra como a vossa, terra de trigo e de mosto, terra de pão e de vinhas, terra de oliveiras, de azeite e de mel; e assim vivereis, e não morrereis; e não deis ouvidos a Ezequias; porque vos incita, dizendo: O Senhor nos livrará. ^v32
+**32** Assim, fareis até que eu venha e vos leve embora para uma terra semelhante à vossa, uma terra de grãos e vinho novo, uma terra de pão e vinhas, uma terra de oliveiras e mel, de forma que vivais e não morrais'. Não deis ouvidos a Ezequias quando ele vos tentar persuadir, dizendo: 'Yahweh nos resgatará'. ^v32
 
-**33** Porventura os deuses das nações puderam livrar, cada um a sua terra, das mãos do rei da Assíria? ^v33
+**33** Por acaso algum dos deuses dos povos os resgatou do poder do rei da Assíria? Onde estão os deuses de Hamate e de Arpade? ^v33
 
-**34** Que é feito dos deuses de Hamate e de Arpade? Que é feito dos deuses de Sefarvaim, Hena e Iva? Porventura livraram a Samaria da minha mão? ^v34
+**34** Onde estão os deuses de Sefarvaim, de Hena e de Iva? Algum desses resgatou Samaria de minha mão? ^v34
 
-**35** Quais são eles, dentre todos os deuses das terras, que livraram a sua terra da minha mão, para que o Senhor livrasse a Jerusalém da minha mão? ^v35
+**35** "Dentre todos os deuses das terras, há algum deus que resgatou sua terra do meu poder? Como poderia Yahweh salvar Jerusalém do meu domínio?'""." ^v35
 
-**36** Porém calou-se o povo, e não lhe respondeu uma só palavra; porque mandado do rei havia, dizendo: Não lhe respondereis. ^v36
+**36** "Mas o povo permaneceu em silêncio e não respondeu, porque o rei ordenara: ""Não lhe respondais""." ^v36
 
-**37** Então Eliaquim, filho de Hilquias, o mordomo, e Sebna, o escrivão, e Joá, filho de Asafe, o cronista, vieram a Ezequias com as vestes rasgadas, e lhe fizeram saber as palavras de Rabsaqué. ^v37
+**37** Então, Eliaquim, filho de Hilquias, que era encarregado de cuidar da casa; Sebna, o escriba; e Joá, filho de Asafe, o cronista, foram a Ezequias com suas vestes rasgadas e reportaram a ele as palavras do comandante chefe. ^v37

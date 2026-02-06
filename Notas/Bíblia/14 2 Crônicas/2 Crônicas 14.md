@@ -1,37 +1,36 @@
 ---
-Livro: "[[2 Crônicas|2 Crônicas]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/2 Crônicas|2 Crônicas]]"
+tags: [biblia]
 ---
 
 # 2 Crônicas 14
 
-**1** E Abias dormiu com seus pais, e o sepultaram na cidade de Davi, e Asa, seu filho, reinou em seu lugar; nos seus dias esteve a terra em paz dez anos. ^v1
+**1** Abias descansou com seus antepassados, e eles o enterraram na cidade de Davi. Asa, seu filho, se tornou rei em seu lugar. Em seus dias a terra esteve em paz por dez anos. ^v1
 
-**2** E Asa fez o que era bom e reto aos olhos do Senhor seu Deus. ^v2
+**2** Asa fez o que era bom e certo aos olhos de Yahweh, seu Deus, ^v2
 
-**3** Porque tirou os altares dos deuses estranhos, e os altos; e quebrou as imagens, e cortou os bosques. ^v3
+**3** pois ele removeu os altares estrangeiros e os lugares altos; ele derrubou as colunas de pedra e cortou os postes de Aserá. ^v3
 
-**4** E mandou a Judá que buscasse ao Senhor Deus de seus pais, e que observasse a lei e o mandamento. ^v4
+**4** Ele ordenou Judá a buscar Yahweh, o Deus de seus antepassados, e a obedecer as leis e os mandamentos. ^v4
 
-**5** Também tirou de todas as cidades de Judá os altos e as imagens; e sob ele o reino esteve em paz. ^v5
+**5** Ele também removeu de todas as cidades de Judá os lugares altos e altares de incenso. O reino estava em paz sob seu governo. ^v5
 
-**6** E edificou cidades fortificadas em Judá; porque a terra estava quieta, e não havia guerra contra ele naqueles anos; porquanto o Senhor lhe dera repouso. ^v6
+**6** Ele construiu cidades fortificadas em Judá, pois a terra estava em paz, e ele não teve guerra naqueles anos, pois Yahweh deu-lhe paz. ^v6
 
-**7** Disse, pois, a Judá: Edifiquemos estas cidades, e cerquemo-las de muros e torres, portas e ferrolhos, enquanto a terra ainda é nossa, pois buscamos ao Senhor nosso Deus; buscamo-lo, e deu-nos repouso de todos os lados. Edificaram, pois, e prosperaram. ^v7
+**7** "Asa disse a Judá: ""Vamos construir estas cidades e fazer muros ao redor delas, torres, portões e trancas; a terra ainda é nossa, pois nós buscamos Yahweh, nosso Deus. Nós O buscamos, e Ele nos deu paz de todos os lados"". Então eles construíram e tiveram êxito." ^v7
 
-**8** Tinha Asa um exército de trezentos mil de Judá, que traziam pavês e lança; e duzentos e oitenta mil de Benjamim, que traziam escudo e atiravam com arco; todos estes eram homens valentes. ^v8
+**8** Asa tinha um exército que carregava escudos e lanças; de Judá ele tinha trezentos mil homens, e de Benjamim, duzentos e oitenta mil homens que carregavam escudos e atiravam com arcos. Todos esses eram homens corajosos e fortes. ^v8
 
-**9** E Zerá, o etíope, saiu contra eles, com um exército de um milhão e com trezentos carros, e chegou até Maressa. ^v9
+**9** Zerá, o etíope, veio contra eles com um exército de um milhão de soldados e trezentas carruagens, e chegou a Maressa. ^v9
 
-**10** Então Asa saiu contra ele; e ordenaram a batalha no vale de Zefatá, junto a Maressa. ^v10
+**10** Então, Asa foi ao encontro dele, e eles estabeleceram as linhas de batalha no vale de Zefatá em Maressa. ^v10
 
-**11** E Asa clamou ao Senhor seu Deus, e disse: Senhor, nada para ti é ajudar, quer o poderoso quer o de nenhuma força; ajuda-nos, pois, Senhor nosso Deus, porque em ti confiamos, e no teu nome viemos contra esta multidão. Senhor, tu és nosso Deus, não prevaleça contra ti o homem. ^v11
+**11** "Asa clamou a Yahweh, seu Deus, e disse: ""Yahweh, não existe ninguém como Tu para socorrer os que não tem força, quando este está diante de muitos. Ajuda-nos, Yahweh, nosso Deus, pois confiamos em Ti, e em Teu nome viemos contra esse imenso número. Yahweh, Tu és nosso Deus; não deixa nenhum homem derrotar-Te""." ^v11
 
-**12** E o Senhor feriu os etíopes diante de Asa e diante de Judá; e os etíopes fugiram. ^v12
+**12** Então, Yahweh derrotou os etíopes diante de Asa e Judá; e os etíopes fugiram. ^v12
 
-**13** E Asa, e o povo que estava com ele os perseguiram até Gerar, e caíram tantos dos etíopes, que já não havia neles resistência alguma; porque foram destruídos diante do Senhor, e diante do seu exército; e levaram dali mui grande despojo. ^v13
+**13** Asa, e os seus soldados, os perseguiram até Gerar. Caíram tantos etíopes que eles não puderam se recuperar, pois eles foram completamente destruídos diante de Yahweh e de Seu exército. O exército recolheu muito despojo. ^v13
 
-**14** E feriram todas as cidades nos arredores de Gerar, porque o terror do Senhor veio sobre elas; e saquearam todas as cidades, porque havia nelas muita presa. ^v14
+**14** O exército destruiu todas as vilas ao redor de Gerar, pois o terror de Yahweh veio sobre os habitantes. Também saqueou todas as vilas, pois havia muito despojo nelas. ^v14
 
-**15** Também feriram as malhadas do gado; e levaram ovelhas em abundância, e camelos, e voltaram para Jerusalém. ^v15
+**15** O exército também destruiu as tendas nômades; eles levaram ovelhas em abundância, assim como camelos, e, então, eles retornaram a Jerusalém. ^v15

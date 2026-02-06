@@ -1,41 +1,38 @@
 ---
-Livro: "[[Salmos|Salmos]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Salmos|Salmos]]"
+tags: [biblia]
 ---
 
 # Salmos 86
 
-**1** Inclina, SENHOR, os teus ouvidos, e ouve-me, porque estou necessitado e aflito. ^v1
+**2** Proteja-me, pois eu sou fiel; meu Deus, salva Teu servo que confia em Ti. ^v2
 
-**2** Guarda a minha alma, pois sou santo: ó Deus meu, salva o teu servo, que em ti confia. ^v2
+**3** Seja misericordioso comigo, Senhor, pois a Ti eu clamo o dia todo. ^v3
 
-**3** Tem misericórdia de mim, ó Senhor, pois a ti clamo todo o dia. ^v3
+**4** Alegra o teu servo, pois a Ti, Senhor, eu oro. ^v4
 
-**4** Alegra a alma do teu servo, pois a ti, Senhor, levanto a minha alma. ^v4
+**5** Senhor, Tu és bom. Pronto a perdoar, mostras grande benignidade para com todos os que Te invocam. ^v5
 
-**5** Pois tu, Senhor, és bom, e pronto a perdoar, e abundante em benignidade para todos os que te invocam. ^v5
+**6** Yahweh, escuta minha oração e atende à voz das minhas súplicas. ^v6
 
-**6** Dá ouvidos, Senhor, à minha oração e atende à voz das minhas súplicas. ^v6
+**7** No dia da minha angústia, eu clamarei a Ti e Tu me responderás. ^v7
 
-**7** No dia da minha angústia clamo a ti, porquanto me respondes. ^v7
+**8** Não há ninguém entre os deuses que se compare a Ti, Senhor; Não há obras como as Tuas. ^v8
 
-**8** Entre os deuses não há semelhante a ti, Senhor, nem há obras como as tuas. ^v8
+**9** Todas as nações que criastes virão e se prostrarão diante de Ti, Senhor, e honrarão o Teu nome. ^v9
 
-**9** Todas as nações que fizeste virão e se prostrarão perante a tua face, Senhor, e glorificarão o teu nome. ^v9
+**10** Pois Tu és grande e Teus feitos são maravilhosos; somente Tu és Deus! ^v10
 
-**10** Porque tu és grande e fazes maravilhas; só tu és Deus. ^v10
+**11** Ensina-me, Yahweh, os Teus caminhos e, então, eu andarei na Tua verdade. Prepara meu coração para temer o Teu nome. ^v11
 
-**11** Ensina-me, Senhor, o teu caminho, e andarei na tua verdade; une o meu coração ao temor do teu nome. ^v11
+**12** Senhor, meu Deus, eu Te louvarei com todo o meu coração e glorificarei Teu nome para sempre. ^v12
 
-**12** Louvar-te-ei, Senhor Deus meu, com todo o meu coração, e glorificarei o teu nome para sempre. ^v12
+**13** Pois grande é a Tua fidelidade para comigo; Tu resgataste minha vida das profundezas do Sheol. ^v13
 
-**13** Pois grande é a tua misericórdia para comigo; e livraste a minha alma do inferno mais profundo. ^v13
+**14** Deus, o arrogante se levantou contra mim. Muitos homens violentos atentam contra a minha vida. Eles não respeitam a Ti. ^v14
 
-**14** Ó Deus, os soberbos se levantaram contra mim, e as assembléias dos tiranos procuraram a minha alma, e não te puseram perante os seus olhos. ^v14
+**15** Mas Tu, Senhor, és um Deus misericordioso e gracioso, tardio para irar-Te e abundante em fidelidade e verdade. ^v15
 
-**15** Porém tu, Senhor, és um Deus cheio de compaixão, e piedoso, sofredor, e grande em benignidade e em verdade. ^v15
+**16** Volta-Te para mim e tenha misericórdia de mim; dá forças ao Teu servo; salva o filho de Tua serva. ^v16
 
-**16** Volta-te para mim, e tem misericórdia de mim; dá a tua fortaleza ao teu servo, e salva ao filho da tua serva. ^v16
-
-**17** Mostra-me um sinal para bem, para que o vejam aqueles que me odeiam, e se confundam; porque tu, Senhor, me ajudaste e me consolaste. ^v17
+**17** Mostra-me um sinal do Teu favor. Então, aqueles que me odeiam verão e se envergonharão, pois Tu, Yahweh, tens me ajudado e me confortado. ^v17

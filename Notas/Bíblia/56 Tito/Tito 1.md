@@ -1,39 +1,38 @@
 ---
-Livro: "[[Tito|Tito]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Tito|Tito]]"
+tags: [biblia]
 ---
 
 # Tito 1
 
-**1** Paulo, servo de Deus, e apóstolo de Jesus Cristo, segundo a fé dos eleitos de Deus, e o conhecimento da verdade, que é segundo a piedade, ^v1
+**1** Paulo, servo de Deus e apóstolo de Jesus Cristo, segundo a fé dos eleitos de Deus e o conhecimento da verdade segundo a piedade, ^v1
 
-**2** Em esperança da vida eterna, a qual Deus, que não pode mentir, prometeu antes dos tempos dos séculos; ^v2
+**2** na confiança da vida eterna que o Deus, que não mente, prometeu antes dos tempos eternos. ^v2
 
-**3** Mas a seu tempo manifestou a sua palavra pela pregação que me foi confiada segundo o mandamento de Deus, nosso Salvador; ^v3
+**3** E, em tempos devidos, Ele revelou a Sua Palavra, por meio da proclamação da mensagem, da qual fui incumbido, conforme a ordem de Deus, nosso Salvador, ^v3
 
-**4** A Tito, meu verdadeiro filho, segundo a fé comum: Graça, misericórdia, e paz da parte de Deus Pai, e da do Senhor Jesus Cristo, nosso Salvador. ^v4
+**4** a Tito, um verdadeiro filho segundo nossa fé em comum. Graça e paz de Deus Pai, e Cristo Jesus nosso Salvador. ^v4
 
-**5** Por esta causa te deixei em Creta, para que pusesses em boa ordem as coisas que ainda restam, e de cidade em cidade estabelecesses presbíteros, como já te mandei: ^v5
+**5** Deixei-te com um propósito em Creta, para que pusesses em ordem as coisas pendentes, e constituísses presbíteros em cada cidade, assim como te ordenei. ^v5
 
-**6** Aquele que for irrepreensível, marido de uma mulher, que tenha filhos fiéis, que não possam ser acusados de dissolução nem são desobedientes. ^v6
+**6** O presbítero precisa ser irrepreensível, marido de uma só mulher, com filhos crentes, que não sejam acusados de ser perversos nem insubordinados. ^v6
 
-**7** Porque convém que o bispo seja irrepreensível, como despenseiro da casa de Deus, não soberbo, nem iracundo, nem dado ao vinho, nem espancador, nem cobiçoso de torpe ganância; ^v7
+**7** É necessário que o bispo, como administrador de Deus, seja irrepreensível. Ele não deve ser arrogante, nem se irar facilmente, nem beber muito vinho, nem ser violento, e nem ser ganancioso. ^v7
 
-**8** Mas dado à hospitalidade, amigo do bem, moderado, justo, santo, temperante; ^v8
+**8** Em vez disso, ele deve ser disposto a hospedar pessoas, ser bondoso, ser prudente, justo e santo, e que tenha domínio próprio. ^v8
 
-**9** Retendo firme a fiel palavra, que é conforme a doutrina, para que seja poderoso, tanto para admoestar com a sã doutrina, como para convencer os contradizentes. ^v9
+**9** Ele deve ser apegado ao ensino da Palavra, para que seja apto para encorajar fielmente na doutrina autêntica e também para refutar aqueles que a contradizem. ^v9
 
-**10** Porque há muitos desordenados, faladores, vãos e enganadores, principalmente os da circuncisão, ^v10
+**10** Pois existem muitos insubordinados, especialmente os da circuncisão, que enganam e guiam as pessoas na direção errada, cujas palavras são inúteis; ^v10
 
-**11** Aos quais convém tapar a boca; homens que transtornam casas inteiras ensinando o que não convém, por torpe ganância. ^v11
+**11** Os quais é necessário silenciar. Eles ensinam aquilo que não deveriam ensinar, para obter benefício desonroso, destruindo famílias inteiras. ^v11
 
-**12** Um deles, seu próprio profeta, disse: Os cretenses são sempre mentirosos, bestas ruins, ventres preguiçosos. ^v12
+**12** "Disse um profeta dentre eles: ""Cretenses são sempre mentirosos, animais ruins e perigosos, ventres preguiçosos""." ^v12
 
-**13** Este testemunho é verdadeiro. Portanto, repreende-os severamente, para que sejam sãos na fé. ^v13
+**13** Esta afirmação é verdadeira, por isso corrija-os severamente para que eles possam ser sadios na fé. ^v13
 
-**14** Não dando ouvidos às fábulas judaicas, nem aos mandamentos de homens que se desviam da verdade. ^v14
+**14** Não dê atenção aos mitos judaicos, nem aos mandamentos de homens que se afastam da verdade. ^v14
 
-**15** Todas as coisas são puras para os puros, mas nada é puro para os contaminados e infiéis; antes o seu entendimento e consciência estão contaminados. ^v15
+**15** Para aqueles que são puros, tudo é puro, mas para aqueles que são impuros e descrentes, nada é puro, porque até a mente e a consciência deles estão contaminadas. ^v15
 
-**16** Confessam que conhecem a Deus, mas negam-no com as obras, sendo abomináveis, e desobedientes, e reprovados para toda a boa obra. ^v16
+**16** Eles professam conhecer a Deus, mas O negam com suas ações. Eles são detestáveis e desobedientes e provam ser desqualificados para qualquer boa obra. ^v16

@@ -1,55 +1,54 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Isaías|Isaías]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Isaías|Isaías]]"
+tags: [biblia]
 ---
 
 # Isaías 66
 
-**1** Assim diz o SENHOR: O céu é o meu trono, e a terra o escabelo dos meus pés; que casa me edificaríeis vós? E qual seria o lugar do meu descanso? ^v1
+**1** "Isto é o que Yahweh diz: ""O céu é o Meu trono e a terra é o estrado dos Meus pés. Então, onde está a casa que construireis para Mim? Onde é o lugar para o Meu descanso?" ^v1
 
-**2** Porque a minha mão fez todas estas coisas, e assim todas elas foram feitas, diz o Senhor; mas para esse olharei, para o pobre e abatido de espírito, e que treme da minha palavra. ^v2
+**2** Minha mão fez todas essas coisas e, assim, elas vieram a existir — esta é uma declaração de Yahweh. Este é o homem que Eu aprovo: o quebrantado e contrito de espírito e que treme com a Minha palavra. ^v2
 
-**3** Quem mata um boi é como o que tira a vida a um homem; quem sacrifica um cordeiro é como o que degola um cão; quem oferece uma oblação é como o que oferece sangue de porco; quem queima incenso em memorial é como o que bendiz a um ídolo; também estes escolhem os seus próprios caminhos, e a sua alma se deleita nas suas abominações. ^v3
+**3** Aquele que mata um boi também mata um homem; aquele que sacrifica um cordeiro também quebra o pescoço de um cachorro; aquele que oferece uma oferta de cereais também oferece o sangue de porco; aquele que oferece um memorial de incenso também bendiz a idolatria. Eles escolheram seus próprios caminhos e se agradaram em suas abominações. ^v3
 
-**4** Também eu escolherei as suas calamidades, farei vir sobre eles os seus temores; porquanto clamei e ninguém respondeu, falei e não escutaram; mas fizeram o que era mau aos meus olhos, e escolheram aquilo em que eu não tinha prazer. ^v4
+**4** "Da mesma forma, Eu escolhi puni-los. Eu trarei o que eles temem porque, quando Eu os chamei, eles não responderam; quando Eu falei, eles não escutaram. Eles fizeram o que era mau aos Meus olhos e escolheram fazer aquilo que Me desagrada""." ^v4
 
-**5** Ouvi a palavra do Senhor, os que tremeis da sua palavra. Vossos irmãos, que vos odeiam e que para longe vos lançam por amor do meu nome, dizem: Seja glorificado o Senhor, para que vejamos a vossa alegria; mas eles serão confundidos. ^v5
+**5** "Ouvi a palavra de Yahweh, vós que tremeis com a Sua palavra: ""Vossos irmãos que vos odeiam e vos excluem por causa do Meu nome disseram: 'Que Yahweh seja glorificado. Então, veremos a vossa alegria', mas eles serão envergonhados." ^v5
 
-**6** Uma voz de grande rumor virá da cidade, uma voz do templo, a voz do Senhor, que dá o pago aos seus inimigos. ^v6
+**6** Um som de grande tumulto vem da cidade, um som do templo, o som de Yahweh retribuindo aos Seus inimigos. ^v6
 
-**7** Antes que estivesse de parto, deu à luz; antes que lhe viessem as dores, deu à luz um menino. ^v7
+**7** Antes que entrasse em trabalho de parto, ela deu à luz; antes que viessem as dores, ela deu à luz um filho. ^v7
 
-**8** Quem jamais ouviu tal coisa? Quem viu coisas semelhantes? Poder-se-ia fazer nascer uma terra num só dia? Nasceria uma nação de uma só vez? Mas Sião esteve de parto e já deu à luz seus filhos. ^v8
+**8** Quem ouviu tal coisa? Quem viu tais coisas? Nascerá uma povo em um dia? Poderá uma nação ser estabelecida em um momento? Todavia, assim que Sião entrar em trabalho de parto, dará à luz aos seus filhos. ^v8
 
-**9** Abriria eu a madre, e não geraria? diz o Senhor; geraria eu, e fecharia a madre? diz o teu Deus. ^v9
+**9** Eu geraria e não permitiria que o bebê nascesse?” — pergunta Yahweh; ou “Eu traria uma criança para o momento do parto e a deteria?” — pergunta o teu Deus. ^v9
 
-**10** Regozijai-vos com Jerusalém, e alegrai-vos por ela, vós todos os que a amais; enchei-vos por ela de alegria, todos os que por ela pranteastes; ^v10
+**10** Alegrai-vos com Jerusalém e ficai felizes por ela, todos vós que a amam; alegrai-vos com ela, todos vós que por ela lamentaram! ^v10
 
-**11** Para que mameis, e vos farteis dos peitos das suas consolações; para que sugueis, e vos deleiteis com a abundância da sua glória. ^v11
+**11** Pois ireis mamar e ficareis satisfeitos; nos seus seios, vós sereis confortados, pois bebereis até que vos farteis e tereis prazer na abundância da sua glória. ^v11
 
-**12** Porque assim diz o Senhor: Eis que estenderei sobre ela a paz como um rio, e a glória dos gentios como um ribeiro que transborda; então mamareis, ao colo vos trarão, e sobre os joelhos vos afagarão. ^v12
+**12** "Isto é o que Yahweh diz: ""Eu estou prestes a derramar prosperidade sobre ela como um rio, e as riquezas das nações, como uma inundação. Vós mamareis nela, sereis levados em seus braços e sereis afagados em seus joelhos." ^v12
 
-**13** Como alguém a quem consola sua mãe, assim eu vos consolarei; e em Jerusalém vós sereis consolados. ^v13
+**13** "Como uma mãe conforta seu filho, Eu vos confortarei; em Jerusalém, sereis confortados""." ^v13
 
-**14** E vós vereis e alegrar-se-á o vosso coração, e os vossos ossos reverdecerão como a erva tenra; então a mão do Senhor será notória aos seus servos, e ele se indignará contra os seus inimigos. ^v14
+**14** Vós vereis isso e o vosso coração se alegrará; vossos ossos brotarão como a tenra grama. A mão de Yahweh será revelada aos Seus servos, mas Ele mostrará Sua ira contra os Seus inimigos. ^v14
 
-**15** Porque, eis que o Senhor virá com fogo; e os seus carros como um torvelinho; para tornar a sua ira em furor, e a sua repreensão em chamas de fogo. ^v15
+**15** Eis que Yahweh virá com fogo, e Suas carruagens são como vendaval trazendo o calor da Sua ira, e Sua repreensão com chamas de fogo. ^v15
 
-**16** Porque com fogo e com a sua espada entrará o Senhor em juízo com toda a carne; e os mortos do Senhor serão multiplicados. ^v16
+**16** Pois Yahweh executa o juízo sobre o homem com fogo e com Sua espada. Os mortos por Yahweh serão muitos. ^v16
 
-**17** Os que se santificam, e se purificam, nos jardins uns após outros; os que comem carne de porco, e a abominação, e o rato, juntamente serão consumidos, diz o Senhor. ^v17
+**17** "Eles se dedicam a Yahweh e se fazem puros para entrarem nos jardins, seguindo aqueles que comem carne de porco e outras coisas abomináveis, como ratos. ""Todos eles perecerão” — esta é a declaração de Yahweh." ^v17
 
-**18** Porque conheço as suas obras e os seus pensamentos; vem o dia em que ajuntarei todas as nações e línguas; e virão e verão a minha glória. ^v18
+**18** “Pois Eu conheço seus feitos e seus pensamentos. Chegará o tempo em que Eu juntarei todas as nações e línguas; elas virão e verão a Minha glória. ^v18
 
-**19** E porei entre eles um sinal, e os que deles escaparem enviarei às nações, a Társis, Pul, e Lude, flecheiros, a Tubal e Javã, até às ilhas de mais longe, que não ouviram a minha fama, nem viram a minha glória; e anunciarão a minha glória entre os gentios. ^v19
+**19** Eu porei um poderoso sinal no meio delas. Então, Eu enviarei os sobreviventes para as nações: para Társis, Pul e Lude (de grandes arqueiros), para Tubal, Javã e para o litoral distante, onde eles não ouviram sobre mim nem viram Minha glória. Eles proclamarão Minha glória entre as nações. ^v19
 
-**20** E trarão a todos os vossos irmãos, dentre todas as nações, por oferta ao Senhor, sobre cavalos, e em carros, e em liteiras, e sobre mulas, e sobre dromedários, trarão ao meu santo monte, a Jerusalém, diz o Senhor; como quando os filhos de Israel trazem as suas ofertas em vasos limpos à casa do Senhor. ^v20
+**20** Eles trarão de volta todos os vossos irmãos, de todas as nações, como uma oferta a Yahweh. Eles virão em cavalos e em carruagens, em charretes, sobre mulas e camelos, para Jerusalém, o Meu monte santo” — diz Yahweh. “Pois o povo de Israel trará uma oferta de cereais, em um vaso puro, à casa de Yahweh. ^v20
 
-**21** E também deles tomarei a alguns para sacerdotes e para levitas, diz o Senhor. ^v21
+**21** Eu escolherei alguns deles como sacerdotes e levitas” — diz Yahweh. ^v21
 
-**22** Porque, como os novos céus, e a nova terra, que hei de fazer, estarão diante da minha face, diz o Senhor, assim também há de estar a vossa posteridade e o vosso nome. ^v22
+**22** “Assim como os novos céus e a nova terra, que Eu vou criar, permanecerão diante de Mim” — esta é a declaração de Yahweh — “assim sua descendência e seu nome permanecerão. ^v22
 
-**23** E será que desde uma lua nova até à outra, e desde um sábado até ao outro, virá toda a carne a adorar perante mim, diz o Senhor. ^v23
+**23** De um mês para o outro, e de um sábado para o próximo, todas as pessoas virão e se curvarão diante de Mim” — diz Yahweh. ^v23
 
-**24** E sairão, e verão os cadáveres dos homens que prevaricaram contra mim; porque o seu verme nunca morrerá, nem o seu fogo se apagará; e serão um horror a toda a carne. ^v24
+**24** "“Eles sairão e verão os corpos mortos dos homens que se rebelaram contra Mim, pois o verme que os comem não morrerá, e o fogo que os consome não se extinguirá; e isso será abominação para toda a carne""." ^v24

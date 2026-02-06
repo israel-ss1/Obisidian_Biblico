@@ -1,57 +1,56 @@
 ---
-Livro: "[[2 Reis|2 Reis]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/2 Reis|2 Reis]]"
+tags: [biblia]
 ---
 
 # 2 Reis 2
 
-**1** Sucedeu que, quando o SENHOR estava para elevar a Elias num redemoinho ao céu, Elias partiu de Gilgal com Eliseu. ^v1
+**1** Quando Yahweh estava para tomar Elias aos céus, por meio de um redemoinho de vento, aconteceu que Elias saiu de Gilgal com Eliseu. ^v1
 
-**2** E disse Elias a Eliseu: Fica-te aqui, porque o Senhor me enviou a Betel. Porém Eliseu disse: Vive o Senhor, e vive a tua alma, que não te deixarei. E assim foram a Betel. ^v2
+**2** "Elias disse a Eliseu: ""Por favor, fica aqui, porque Yahweh me enviou para Betel"". Eliseu respondeu: ""Assim como vive Yahweh e tu vives também, eu não te abandonarei"". Então, eles desceram para Betel." ^v2
 
-**3** Então os filhos dos profetas que estavam em Betel saíram ao encontro de Eliseu, e lhe disseram: Sabes que o SENHOR hoje tomará o teu senhor por sobre a tua cabeça? E ele disse: Também eu bem o sei; calai-vos. ^v3
+**3** "Os filhos dos profetas que estavam em Betel vieram até Eliseu e lhe disseram: ""Tu sabes que hoje Yahweh tirará teu senhor de ti?"". Eliseu respondeu: ""Sim, eu sei, porém não faleis nisso""." ^v3
 
-**4** E Elias lhe disse: Eliseu, fica-te aqui, porque o Senhor me enviou a Jericó. Porém ele disse: Vive o Senhor, e vive a tua alma, que não te deixarei. E assim foram a Jericó. ^v4
+**4** "Elias lhe disse: ""Por favor, Eliseu, espera aqui, pois Yahweh me enviou a Jericó"". E Eliseu respondeu: ""Assim como vive Yahweh e assim como tu também vives, eu não te deixarei"". Então, eles foram para Jericó." ^v4
 
-**5** Então os filhos dos profetas que estavam em Jericó se chegaram a Eliseu, e lhe disseram: Sabes que o SENHOR hoje tomará o teu senhor por sobre a tua cabeça? E ele disse: Também eu bem o sei; calai-vos. ^v5
+**5** "Então, os filhos dos profetas que estavam em Jericó vieram até Eliseu e lhe disseram: ""Tu sabes que Yahweh tirará hoje teu senhor de ti?"". Eliseu respondeu: ""Sim, eu sei, mas não faleis sobre isso""." ^v5
 
-**6** E Elias disse: Fica-te aqui, porque o Senhor me enviou ao Jordão. Mas ele disse: Vive o Senhor, e vive a tua alma, que não te deixarei. E assim ambos foram juntos. ^v6
+**6** "Então, Elias lhe disse: ""Por favor, fica aqui, pois Yahweh me enviou ao Jordão"". Eliseu respondeu: ""Assim como vive Yahweh e assim como tu também vives, eu não te deixarei"". Então, eles partiram." ^v6
 
-**7** E foram cinqüenta homens dos filhos dos profetas, e pararam defronte deles, de longe: e assim ambos pararam junto ao Jordão. ^v7
+**7** Depois, cinquenta dos filhos dos profetas ficaram em pé, de frente para eles, a uma certa distância, enquanto eles dois permaneceram em pé, diante do Jordão. ^v7
 
-**8** Então Elias tomou a sua capa e a dobrou, e feriu as águas, as quais se dividiram para os dois lados; e passaram ambos em seco. ^v8
+**8** Elias pegou seu manto, enrolou e tocou a água com ele. O rio se dividiu em ambos os lados, de forma que eles dois o atravessaram em terra seca. ^v8
 
-**9** Sucedeu que, havendo eles passado, Elias disse a Eliseu: Pede-me o que queres que te faça, antes que seja tomado de ti. E disse Eliseu: Peço-te que haja porção dobrada de teu espírito sobre mim. ^v9
+**9** "Depois de terem atravessado, Elias disse a Eliseu: ""Pergunta-me o que devo fazer por ti antes que eu seja de ti tomado"". Eliseu respondeu: ""Por favor, peço-te que haja porção dobrada de teu espírito sobre mim""." ^v9
 
-**10** E disse: Coisa difícil pediste; se me vires quando for tomado de ti, assim se te fará, porém, se não, não se fará. ^v10
+**10** "Elias respondeu: ""Coisa difícil me pediste. Apesar disso, se tu me vires quando eu for tomado de ti, isso te acontecerá; caso contrário, isso não te acontecerá""." ^v10
 
-**11** E sucedeu que, indo eles andando e falando, eis que um carro de fogo, com cavalos de fogo, os separou um do outro; e Elias subiu ao céu num redemoinho. ^v11
+**11** Enquanto eles ainda desciam e conversavam, viram aparecer uma carruagem de fogo com cavalos de fogo que os separou um do outro e Elias subiu em um redemoinho de vento até os céus. ^v11
 
-**12** O que vendo Eliseu, clamou: Meu pai, meu pai, carros de Israel, e seus cavaleiros! E nunca mais o viu; e, pegando as suas vestes, rasgou-as em duas partes. ^v12
+**12** "Eliseu viu isso e clamou: ""Meu pai, meu pai, as carruagens de Israel e seus cavaleiros!"". Ele não o viu mais, pegou para si as roupas de Elias e rasgou-as em duas peças." ^v12
 
-**13** Também levantou a capa de Elias, que dele caíra; e, voltando-se, parou à margem do Jordão. ^v13
+**13** Ele pegou a capa que Elias deixara cair e foi de volta para a beira do Jordão. ^v13
 
-**14** E tomou a capa de Elias, que dele caíra, e feriu as águas, e disse: Onde está o Senhor Deus de Elias? Quando feriu as águas elas se dividiram de um ao outro lado; e Eliseu passou. ^v14
+**14** "Tocou a água com a capa de Elias e disse: ""Onde está Yahweh, o Deus de Elias?"". Quando ele tocou as águas, estas se dividiram em ambos os lados e Eliseu atravessou." ^v14
 
-**15** Vendo-o, pois, os filhos dos profetas que estavam defronte em Jericó, disseram: O espírito de Elias repousa sobre Eliseu. E vieram-lhe ao encontro, e se prostraram diante dele em terra. ^v15
+**15** "Quando os filhos dos profetas que eram de Jericó viram-no atravessar, disseram: ""O espírito de Elias repousa sobre Eliseu!"". Então, vieram ao seu encontro e prostraram-se diante dele." ^v15
 
-**16** E disseram-lhe: Eis que agora entre os teus servos há cinqüenta homens valentes; ora deixa-os ir para buscar a teu senhor; pode ser que o elevasse o Espírito do SENHOR e o lançasse em algum dos montes, ou em algum dos vales. Porém ele disse: Não os envieis. ^v16
+**16** "E disseram: ""Eis que há entre teus servos cinquenta homens fortes. Pedimos-te que os deixes ir em busca de teu senhor, pode ser que o Espírito de Yahweh o tenha tomado e o tenha deixado em alguma montanha ou em algum vale"". Eliseu respondeu: ""Não, não os envieis""." ^v16
 
-**17** Mas eles insistiram com ele, até que, constrangido, disse-lhes: Enviai. E enviaram cinqüenta homens, que o buscaram três dias, porém não o acharam. ^v17
+**17** "Mas insistiram com Eliseu e o constrangeram até ficar envergonhado, então lhes disse: ""Enviai-os"". Assim, eles enviaram cinquenta homens e, por três dias, procuraram, mas não o encontraram." ^v17
 
-**18** Então voltaram para ele, pois ficara em Jericó; e disse-lhes: Eu não vos disse que não fôsseis? ^v18
+**18** "Voltaram a Eliseu, enquanto ele estava em Jericó, e ele lhes disse: ""Não falei eu para vós, 'Não vades'?""." ^v18
 
-**19** E os homens da cidade disseram a Eliseu: Eis que é boa a situação desta cidade, como o meu senhor vê; porém as águas são más, e a terra é estéril. ^v19
+**19** "Os homens da cidade disseram a Eliseu: ""Vê, nós imploramos, a situação desta cidade é favorável, como meu senhor pode ver, mas as águas são ruins, e a terra não é fértil""." ^v19
 
-**20** E ele disse: Trazei-me um prato novo, e ponde nele sal. E lho trouxeram. ^v20
+**20** "Eliseu respondeu: ""Trazei-me uma tigela nova e ponde sal nela"". Então, eles lhe trouxeram." ^v20
 
-**21** Então saiu ele ao manancial das águas, e deitou sal nele; e disse: Assim diz o Senhor: Sararei a estas águas; e não haverá mais nelas morte nem esterilidade. ^v21
+**21** "Eliseu foi até a nascente de água e pôs o sal nela; então, ele disse: ""Assim diz Yahweh: 'Eu sarei estas águas. De agora em diante, não haverá mais morte ou terra infrutífera'""." ^v21
 
-**22** Ficaram, pois, sãs aquelas águas, até ao dia de hoje, conforme a palavra que Eliseu tinha falado. ^v22
+**22** Assim, as águas foram saradas até o dia de hoje, segundo a palavra de Eliseu. ^v22
 
-**23** Então subiu dali a Betel; e, subindo ele pelo caminho, uns meninos saíram da cidade, e zombavam dele, e diziam-lhe: Sobe, calvo; sobe, calvo! ^v23
+**23** "Então, Eliseu subiu dali a Betel. E, subindo ele pelo caminho, alguns jovens saíram da cidade zombaram dele, dizendo: ""Sobe, careca! Sobe, careca!""." ^v23
 
-**24** E, virando-se ele para trás, os viu, e os amaldiçoou no nome do Senhor; então duas ursas saíram do bosque, e despedaçaram quarenta e dois daqueles meninos. ^v24
+**24** Virando-se ele para trás, viu-os e os amaldiçoou em nome de Yahweh. Então, duas ursas saíram da floresta e feriram quarenta e dois dos garotos. ^v24
 
-**25** E dali foi para o monte Carmelo de onde voltou para Samaria. ^v25
+**25** E dali foi para o monte Carmelo e de lá retornou para Samaria. ^v25

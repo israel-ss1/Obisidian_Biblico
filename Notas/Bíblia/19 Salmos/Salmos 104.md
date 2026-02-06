@@ -1,77 +1,76 @@
 ---
-Livro: "[[Salmos|Salmos]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Salmos|Salmos]]"
+tags: [biblia]
 ---
 
 # Salmos 104
 
-**1** Bendize, ó minha alma, ao SENHOR! SENHOR Deus meu, tu és magnificentíssimo; estás vestido de glória e de majestade. ^v1
+**1** Eu Te louvarei, Yahweh, com toda a minha vida! Yahweh meu Deus, Tu és magnífico; Tu estás vestido de esplendor e majestade. ^v1
 
-**2** Ele se cobre de luz como de um vestido, estende os céus como uma cortina. ^v2
+**2** Estás coberto de luz como de um manto; Tu estendes os céus como uma tenda. ^v2
 
-**3** Põe nas águas as vigas das suas câmaras; faz das nuvens o seu carro, anda sobre as asas do vento. ^v3
+**3** Tu colocas nas nuvens as vigas da Tua morada; Tu fazes das nuvens Tua carruagem; Tu andas sobre as asas do vento. ^v3
 
-**4** Faz dos seus anjos espíritos, dos seus ministros um fogo abrasador. ^v4
+**4** Tu fazes dos ventos Teus mensageiros, e de Teus servos, chamas de fogo. ^v4
 
-**5** Lançou os fundamentos da terra; ela não vacilará em tempo algum. ^v5
+**5** Tu lançaste os fundamentos da terra, e ela jamais será abalada. ^v5
 
-**6** Tu a cobriste com o abismo, como com um vestido; as águas estavam sobre os montes. ^v6
+**6** Tu cobriste a terra com água como um vestido; as águas cobriram as montanhas. ^v6
 
-**7** À tua repreensão fugiram; à voz do teu trovão se apressaram. ^v7
+**7** À Tua reprovação, as águas retrocederam; ao som trovejante da Tua voz, elas fugiram. ^v7
 
-**8** Subiram aos montes, desceram aos vales, até ao lugar que para elas fundaste. ^v8
+**8** As montanhas subiram, e os vales se expandiram em direção aos lugares que Tu determinaste para eles. ^v8
 
-**9** Termo lhes puseste, que não ultrapassarão, para que não tornem mais a cobrir a terra. ^v9
+**9** Estabeleceste um limite que não podem ultrapassar, para que jamais cubram a terra novamente. ^v9
 
-**10** Tu, que fazes sair as fontes nos vales, as quais correm entre os montes. ^v10
+**10** Fazes brotar as fontes nos vales que correm entre as montanhas. ^v10
 
-**11** Dão de beber a todo o animal do campo; os jumentos monteses matam a sua sede. ^v11
+**11** Elas saciam todos os animais do campo; os jumentos selvagens matam a sede. ^v11
 
-**12** Junto delas as aves do céu terão a sua habitação, cantando entre os ramos. ^v12
+**12** Junto às suas margens, as aves do céu fazem seus ninhos e, entre os galhos, põem-se a cantar. ^v12
 
-**13** Ele rega os montes desde as suas câmaras; a terra farta-se do fruto das suas obras. ^v13
+**13** Tu regas os montes desde a Tua morada no céu. A terra se enche com o fruto do Teu trabalho. ^v13
 
-**14** Faz crescer a erva para o gado, e a verdura para o serviço do homem, para fazer sair da terra o pão, ^v14
+**14** Tu fazes crescer o pasto para o gado e plantas para o cultivo do homen, que tira da terra o seu alimento: ^v14
 
-**15** E o vinho que alegra o coração do homem, e o azeite que faz reluzir o seu rosto, e o pão que fortalece o coração do homem. ^v15
+**15** vinho que faz o homen alegre, óleo que faz sua face brilhar e alimento para sustentar sua vida. ^v15
 
-**16** As árvores do Senhor fartam-se de seiva, os cedros do Líbano que ele plantou, ^v16
+**16** As árvores de Yahweh são bem regadas; Ele plantou os cedros do Líbano; ^v16
 
-**17** Onde as aves se aninham; quanto à cegonha, a sua casa é nas faias. ^v17
+**17** ali, os pássaros fazem seus ninhos. As cegonhas fazem seu lar nos pinheiros. ^v17
 
-**18** Os altos montes são para as cabras monteses, e os rochedos são refúgio para os coelhos. ^v18
+**18** As cabras selvagens vivem no alto das montanhas; os penhascos dão abrigo aos animais roedores. ^v18
 
-**19** Designou a lua para as estações; o sol conhece o seu ocaso. ^v19
+**19** Determinaste a lua para marcar as estações; o sol sabe quando deve se pôr. ^v19
 
-**20** Ordenas a escuridão, e faz-se noite, na qual saem todos os animais da selva. ^v20
+**20** Trazes a escuridão da noite, quando todas as bestas das florestas saem. ^v20
 
-**21** Os leõezinhos bramam pela presa, e de Deus buscam o seu sustento. ^v21
+**21** Os leões novos rugem por sua presa e buscam em Deus seu alimento. ^v21
 
-**22** Nasce o sol e logo se acolhem, e se deitam nos seus covis. ^v22
+**22** Quando o sol sobe, eles se retiram e dormem em suas cavernas. ^v22
 
-**23** Então sai o homem à sua obra e ao seu trabalho, até à tarde. ^v23
+**23** O homem sai para o seu trabalho e labuta até a noite. ^v23
 
-**24** Ó Senhor, quão variadas são as tuas obras! Todas as coisas fizeste com sabedoria; cheia está a terra das tuas riquezas. ^v24
+**24** Yahweh, quão numerosas são as Tuas obras! Com sabedoria fizeste todas elas; a terra está cheia das Tuas riquezas. ^v24
 
-**25** Assim é este mar grande e muito espaçoso, onde há seres sem número, animais pequenos e grandes. ^v25
+**25** Eis o mar, grande e extenso, repleto de inúmeras criaturas, grandes e pequenas. ^v25
 
-**26** Ali andam os navios; e o leviatã que formaste para nele folgar. ^v26
+**26** Ali passam os navios e o Leviatã, que Tu formaste para nele brincar. ^v26
 
-**27** Todos esperam de ti, que lhes dês o seu sustento em tempo oportuno. ^v27
+**27** Todos eles esperam em Ti para que lhes dês o alimento na hora certa. ^v27
 
-**28** Dando-lho tu, eles o recolhem; abres a tua mão, e se enchem de bens. ^v28
+**28** Se Tu lhes dás, eles o recolhem; se abres a Tua mão, eles ficam satisfeitos. ^v28
 
-**29** Escondes o teu rosto, e ficam perturbados; se lhes tiras o fôlego, morrem, e voltam para o seu pó. ^v29
+**29** Quando escondes Tua face, eles ficam perturbados; quando retira-lhes o fôlego, eles morrem e retornam ao pó. ^v29
 
-**30** Envias o teu Espírito, e são criados, e assim renovas a face da terra. ^v30
+**30** Quando envias o Teu Espírito, eles são criados, e renovas a face da terra. ^v30
 
-**31** A glória do Senhor durará para sempre; o Senhor se alegrará nas suas obras. ^v31
+**31** A glória de Yahweh durará para sempre; Yahweh se alegrará em Suas obras. ^v31
 
-**32** Olhando ele para a terra, ela treme; tocando nos montes, logo fumegam. ^v32
+**32** Ele olha para a terra e ela treme; toca as montanhas e elas fumegam. ^v32
 
-**33** Cantarei ao Senhor enquanto eu viver; cantarei louvores ao meu Deus, enquanto eu tiver existência. ^v33
+**33** Cantarei a Yahweh por toda a minha vida; eu cantarei louvores ao meu Deus enquanto eu viver. ^v33
 
-**34** A minha meditação acerca dele será suave; eu me alegrarei no Senhor. ^v34
+**34** Que meus pensamentos sejam agradáveis a Ti; eu me alegrarei em Yahweh. ^v34
 
-**35** Desapareçam da terra os pecadores, e os ímpios não sejam mais. Bendize, ó minha alma, ao Senhor. Louvai ao Senhor. ^v35
+**35** Que sejam eliminados os pecadores da face da terra e que os ímpios não existam mais. Eu louvorei a Yahweh com toda a minha vida. Louvai a Yahweh! ^v35

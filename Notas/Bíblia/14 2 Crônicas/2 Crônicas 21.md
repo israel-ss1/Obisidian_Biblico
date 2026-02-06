@@ -1,47 +1,46 @@
 ---
-Livro: "[[2 Crônicas|2 Crônicas]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/2 Crônicas|2 Crônicas]]"
+tags: [biblia]
 ---
 
 # 2 Crônicas 21
 
-**1** Depois Jeosafá dormiu com seus pais, e foi sepultado junto a eles na cidade de Davi; e Jeorão, seu filho, reinou em seu lugar. ^v1
+**1** Josafá dormiu com seus ancestrais e foi sepultado com eles, na cidade de Davi; Jeorão, seu filho, tornou-se rei em seu lugar. ^v1
 
-**2** E teve irmãos, filhos de Jeosafá: Azarias, Jeiel, Zacarias, Asarias, Micael e Sefatias; todos estes foram filhos de Jeosafá, rei de Israel. ^v2
+**2** Jeorão tinha irmãos, filhos de Josafá: Azarias, Jeiel, Zacarias, Azarias, Micael e Sefatias. Todos eram filhos de Josafá, rei de Israel. ^v2
 
-**3** E seu pai lhes deu muitos presentes de prata, de ouro e de coisas preciosíssimas, juntamente com cidades fortificadas em Judá; porém, o reino, deu a Jeorão, porquanto era o primogênito. ^v3
+**3** Seu pai tinha lhes dado grandes presentes de prata, ouro, outras coisas preciosas e também as cidades fortificadas de Judá; mas ele deu o trono a Jeorão porque ele era seu primogênito. ^v3
 
-**4** E, subindo Jeorão ao reino de seu pai, e havendo-se fortificado, matou a todos os seus irmãos à espada, como também a alguns dos príncipes de Israel. ^v4
+**4** Quando Jeorão assumiu o reino de seu pai e se estabeleceu firmemente como rei, matou todos os seus irmãos com a espada e também vários outros líderes de Israel. ^v4
 
-**5** Da idade de trinta e dois anos era Jeorão, quando começou a reinar; e reinou oito anos em Jerusalém. ^v5
+**5** Jeorão tinha trinta e dois anos quando começou a reinar e reinou por oito anos em Jerusalém. ^v5
 
-**6** E andou no caminho dos reis de Israel, como fazia a casa de Acabe; porque tinha a filha de Acabe por mulher; e fazia o que era mau aos olhos do Senhor. ^v6
+**6** Ele andou pelos caminhos dos reis de Israel, como a casa de Acabe estava fazendo, pois havia tomado a filha de Acabe como sua esposa, ele fez o que era mau à vista de Yahweh. ^v6
 
-**7** Porém o Senhor não quis destruir a casa de Davi, em atenção à aliança que tinha feito com Davi; e porque também tinha falado que lhe daria por todos os dias uma lâmpada, a ele e a seus filhos. ^v7
+**7** No entanto, Yahweh não quis destruir a casa de Davi, por causa da aliança que tinha feito com Davi; pois Ele havia prometido que sempre lhe daria vida e aos seus descendentes. ^v7
 
-**8** Nos seus dias se revoltaram os edomitas contra o mando de Judá, e constituíram para si um rei. ^v8
+**8** Nos dias de Jeorão, Edom se revoltou do controle de Judá e instituiu um rei. ^v8
 
-**9** Por isso Jeorão passou adiante com os seus príncipes, e todos os carros com ele; levantou-se de noite, e feriu aos edomeus, que o tinham cercado, como também aos capitães dos carros. ^v9
+**9** Então, Jeorão atravessou com o seus comandantes e todas as suas carruagens. Isso aconteceu quando se levantou à noite e lutou contra os edomitas, os quais tinham cercado a ele e aos comandantes de suas carruagens. ^v9
 
-**10** Todavia os edomitas se revoltaram contra o mando de Judá até ao dia de hoje; então no mesmo tempo Libna se revoltou contra o seu mando; porque deixara ao Senhor Deus de seus pais. ^v10
+**10** Assim, Edom tinha estado em rebelião do poder de Judá até este presente dia. Libna também se revoltou ao mesmo tempo do seu controle, porque Jeorão tinha deixado Yahweh, o Deus de seus antepassados. ^v10
 
-**11** Ele também fez altos nos montes de Judá; e fez com que se corrompessem os moradores de Jerusalém, e até a Judá impeliu a isso. ^v11
+**11** Além disso, Jeorão tinha construído lugares altos nas montanhas de Judá e fez os habitantes de Jerusalém viverem como prostitutas. Ele levou Judá à perdição. ^v11
 
-**12** Então lhe veio um escrito da parte de Elias, o profeta, que dizia: Assim diz o Senhor Deus de Davi teu pai: Porquanto não andaste nos caminhos de Jeosafá, teu pai, e nos caminhos de Asa, rei de Judá, ^v12
+**12** "Então veio a Jeorão a carta do profeta Elias. Ela dizia: ""Isto é o que Yahweh, o Deus de Davi, teu ancestral, diz: Porque não andaste nos caminhos de Josafá, teu pai, nem nos caminhos de Asa, rei de Judá," ^v12
 
-**13** Mas andaste no caminho dos reis de Israel, e fizeste prostituir a Judá e aos moradores de Jerusalém, segundo a prostituição da casa de Acabe, e também mataste a teus irmãos da casa de teu pai, melhores do que tu; ^v13
+**13** mas tens andado nos caminhos dos reis de Israel e fizeste Judá e seus habitantes de Jerusalém agirem como uma prostituta, como a casa de Acabe fez, e porque mataste com a espada teus irmãos na família de teu pai, homens que eram melhores que tu, ^v13
 
-**14** Eis que o Senhor ferirá com um grande flagelo ao teu povo, aos teus filhos, às tuas mulheres e a todas as tuas fazendas. ^v14
+**14** vê, Yahweh atacará com uma grande praga o teu povo, tuas crianças, tuas mulheres e todos os teus bens. ^v14
 
-**15** Tu também terás grande enfermidade por causa de uma doença em tuas entranhas, até que elas saiam, de dia em dia, por causa do mal. ^v15
+**15** "Tu mesmo ficarás muito enfermo por causa de uma doença em teus intestinos, até teus intestinos cairão fora por causa da doença, dia após dia'""." ^v15
 
-**16** Despertou, pois, o Senhor, contra Jeorão o espírito dos filisteus e dos árabes, que estavam do lado dos etíopes. ^v16
+**16** Yahweh despertou contra Jeorão os espíritos dos filisteus e dos árabes que estavam perto dos etíopes. ^v16
 
-**17** Estes subiram a Judá, e deram sobre ela, e levaram todos os bens que se achou na casa do rei, como também a seus filhos e a suas mulheres; de modo que não lhe deixaram filho algum, senão a Jeoacaz, o mais moço de seus filhos. ^v17
+**17** Eles atacaram Judá, invadiram seu território e levaram todos os bens que foram encontrados na casa do rei. Eles também carregaram seus filhos e suas mulheres. Nenhum filho foi deixado a ele, exceto Jeoacaz, o mais novo. ^v17
 
-**18** E depois de tudo isto o Senhor o feriu nas suas entranhas com uma enfermidade incurável. ^v18
+**18** Depois de tudo disso, Yahweh o feriu com uma doença incurável no intestino. ^v18
 
-**19** E sucedeu que, depois de muito tempo, ao fim de dois anos, saíram-lhe as entranhas por causa da doença; e morreu daquela grave enfermidade; e o seu povo não lhe queimou aroma como queimara a seus pais. ^v19
+**19** Aconteceu, no devido tempo, no final de dois anos, que seus intestinos caíram fora por conta da sua doença, e ele morreu dessa doença severa. Seu povo não fez fogo em sua honra como tinha feito para os seus antepassados. ^v19
 
-**20** Era da idade de trinta e dois anos quando começou a reinar, e reinou oito anos em Jerusalém; e foi sem deixar de si saudades; e sepultaram-no na cidade de Davi, porém não nos sepulcros dos reis. ^v20
+**20** Ele começou a reinar quando tinha trinta e dois anos, reinou em Jerusalém por oito anos e morreu sem lamentação. Foi sepultado na cidade de Davi, mas não nos túmulos reais. ^v20

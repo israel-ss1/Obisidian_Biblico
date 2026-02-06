@@ -1,71 +1,70 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Jeremias|Jeremias]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Jeremias|Jeremias]]"
+tags: [biblia]
 ---
 
 # Jeremias 36
 
-**1** Sucedeu, pois, no ano quarto de Jeoiaquim, filho de Josias, rei de Judá, que veio esta palavra do SENHOR a Jeremias, dizendo: ^v1
+**1** No quarto ano de Jeoaquim, filho de Josias, rei de Judá, veio esta palavra de Yahweh a Jeremias: ^v1
 
-**2** Toma o rolo de um livro, e escreve nele todas as palavras que te tenho falado de Israel, e de Judá, e de todas as nações, desde o dia em que eu te falei, desde os dias de Josias até ao dia de hoje. ^v2
+**2** """Pegue um rolo para ti e escrevas nele todas as palavras que Eu te falei sobre Israel e Judá, e sobre todas as nações. Tudo o que Eu tenho dito, desde os dias de Josias até o dia de hoje." ^v2
 
-**3** Porventura ouvirão os da casa de Judá todo o mal que eu intento fazer-lhes; para que cada qual se converta do seu mau caminho, e eu perdoe a sua maldade e o seu pecado. ^v3
+**3** "Talvez, quando o povo de Judá ouvir sobre todos os desastres que pretendo trazer sobre eles, cada um se desvie do mau caminho, e assim Eu possa perdoar a sua iniquidade e seu pecado.""" ^v3
 
-**4** Então Jeremias chamou a Baruque, filho de Nerias; e escreveu Baruque da boca de Jeremias no rolo de um livro todas as palavras do Senhor, que ele lhe tinha falado. ^v4
+**4** Então, Jeremias chamou Baruque, filho de Nerias; e Baruque escreveu no rolo, todas as palavras ditadas por Jeremias, que Yahweh lhe havia falado. ^v4
 
-**5** E Jeremias deu ordem a Baruque, dizendo: Eu estou encarcerado; não posso entrar na casa do Senhor. ^v5
+**5** "Em seguida, Jeremias ordenou a Baruque dizendo: ""Estou proibido de ir à Casa de Yahweh." ^v5
 
-**6** Entra, pois, tu, e pelo rolo que escreveste da minha boca, lê as palavras do Senhor aos ouvidos do povo, na casa do Senhor, no dia de jejum; e também, aos ouvidos de todos os de Judá, que vêm das suas cidades, as lerás. ^v6
+**6** Assim, tu deves ir e ler o rolo que escreveste pela minha ordem. No dia do jejum, tu deverás ler as palavras de Yahweh perante o povo, na Casa de Yahweh, e também as lerás perante todos de Judá, que vêm das suas cidades. Proclame essas palavras para eles. ^v6
 
-**7** Pode ser que caia a sua súplica diante do Senhor, e se converta cada um do seu mau caminho; porque grande é a ira e o furor que o Senhor tem expressado contra este povo. ^v7
+**7** "Talvez seus pedidos de misericórdia cheguem perante Yahweh, e cada pessoa se desvie do seu mau caminho, uma vez que a ira que Yahweh proclamou contra este povo é severa.""" ^v7
 
-**8** E fez Baruque, filho de Nerias, conforme tudo quanto lhe havia ordenado Jeremias, o profeta, lendo naquele livro as palavras do Senhor, na casa do Senhor. ^v8
+**8** Assim, Baruque, filho de Nerias, fez tudo o que o profeta Jeremias havia ordenado. Ele leu em voz alta as palavras de Yahweh na Casa de Yahweh. ^v8
 
-**9** E aconteceu, no quinto ano de Jeoiaquim, filho de Josias, rei de Judá, no mês nono, que apregoaram jejum diante do Senhor a todo o povo em Jerusalém, como também a todo o povo que vinha das cidades de Judá a Jerusalém. ^v9
+**9** Sucedeu que, no quinto ano, no nono mês, de Jeoaquim, filho de Josias, rei de Judá, todas as pessoas em Jerusalém e as pessoas que vieram para Jerusalém das cidades de Judá, proclamaram um jejum em honra a Yahweh. ^v9
 
-**10** Leu, pois, Baruque naquele livro as palavras de Jeremias, na casa do Senhor, na câmara de Gemarias, filho de Safã, o escriba, no átrio superior, à entrada da porta nova da casa do Senhor, aos ouvidos de todo o povo. ^v10
+**10** Baruque leu em voz alta as palavras de Jeremias na Casa de Yahweh, na sala de Gemarias, filho de Safã, o escriba, no pátio superior, junto ao portão de entrada da Casa de Yahweh. ^v10
 
-**11** E, ouvindo Micaías, filho de Gemarias, filho de Safã, todas as palavras do Senhor, daquele livro, ^v11
+**11** Quando Micaías, filho de Gemarias, filho de Safã, ouviu todas as palavras de Yahweh que estavam no rolo, ^v11
 
-**12** Desceu à casa do rei, à câmara do escriba. E eis que todos os príncipes estavam ali assentados, a saber: Elisama, o escriba, e Delaías, filho de Semaías, e Elnatã, filho de Acbor, e Gemarias, filho de Safã, e Zedequias, filho de Hananias, e todos os outros príncipes. ^v12
+**12** desceu para a casa do rei, para a sala do escriba. Eis que, todos os oficiais estavam sentados ali: Elisama, o escriba, Delaías, filho de Semaías, Elnatã, filho de Acbor, Gemarias, filho de Safã, Zedequias, filho de Hananias, e todos os oficiais. ^v12
 
-**13** E Micaías anunciou-lhes todas as palavras que ouvira, quando Baruque leu o livro, aos ouvidos do povo. ^v13
+**13** Então, Micaías relatou a eles todas as palavras que ouvira quando Baruque leu em voz alta para o povo. ^v13
 
-**14** Então todos os príncipes mandaram Jeudi, filho de Netanias, filho de Selemias, filho de Cusi, a Baruque, para lhe dizer: O rolo que leste aos ouvidos do povo, toma-o na tua mão, e vem. E Baruque, filho de Nerias, tomou o rolo na sua mão, e foi ter com eles. ^v14
+**14** "Assim, todos os oficiais enviaram Jeúdi, filho de Netanias, filho de Selemias, filho de Cuxe, à Baruque. Jeúdi disse a Baruque: ""Pegue o rolo em tuas mãos, o rolo que tu estavas lendo ao povo e venha."" Então, Baruque, filho de Nerias, pegou o rolo em suas mãos e foi até os oficiais." ^v14
 
-**15** E disseram-lhe: Assenta-te agora, e lê-o aos nossos ouvidos. E leu Baruque aos ouvidos deles. ^v15
+**15** "E eles disseram: ""Senta-te e lê o rolo para nós."" Então, Baruque leu o rolo." ^v15
 
-**16** E sucedeu que, ouvindo eles todas aquelas palavras, voltaram-se temerosos uns para os outros, e disseram a Baruque: Sem dúvida alguma anunciaremos ao rei todas estas palavras. ^v16
+**16** "Aconteceu que, quando eles ouviram todas aquelas palavras, entreolharam-se com medo e disseram para Baruque: ""Nós, certamente, precisamos relatar todas essas palavras ao rei.""" ^v16
 
-**17** E perguntaram a Baruque, dizendo: Declara-nos agora como escreveste da sua boca todas estas palavras. ^v17
+**17** "Eles perguntaram a Baruque: ""Diga-nos, como escreveste todas essas palavras, Jeremias as ditou?""" ^v17
 
-**18** E disse-lhes Baruque: Da sua boca ele me ditava todas estas palavras, e eu com tinta as escrevia no livro. ^v18
+**18** "Baruque disse: ""Ele ditou todas estas palavras para mim, e eu as escrevi com tinta neste rol.""." ^v18
 
-**19** Então disseram os príncipes a Baruque: Vai, esconde-te, tu e Jeremias, e ninguém saiba onde estais. ^v19
+**19** "Então, os oficiais disseram a Baruque: ""Vai, esconde-te, e Jeremias também. Não deixeis ninguém saber onde estais.""" ^v19
 
-**20** E foram ter com o rei ao átrio: mas depositaram o rolo na câmara de Elisama, o escriba, e anunciaram aos ouvidos do rei todas aquelas palavras. ^v20
+**20** Colocaram o rolo na sala de Elisama, o escriba. Depois, foram para ao pátio do palácio, e relataram tudo ao rei. ^v20
 
-**21** Então enviou o rei a Jeudi, para que tomasse o rolo; e Jeudi tomou-o da câmara de Elisama, o escriba, e leu-o aos ouvidos do rei e aos ouvidos de todos os príncipes que estavam em torno do rei. ^v21
+**21** Então, o rei enviou Jeúdi para buscar o rolo. Jeúdi o trouxe da sala de Elisama, o escriba, e o leu em voz alta para o rei e para todos os oficiais que estavam em pé ao lado dele. ^v21
 
-**22** Ora, o rei estava assentado na casa de inverno, pelo nono mês; e diante dele estava um braseiro aceso. ^v22
+**22** Naquele momento, o rei estava em sua casa de inverno, pois era mês nono, e um braseiro estava queimando diante dele. ^v22
 
-**23** E sucedeu que, tendo Jeudi lido três ou quatro folhas, cortou-as com um canivete de escrivão, e lançou-as no fogo que havia no braseiro, até que todo o rolo se consumiu no fogo que estava sobre o braseiro. ^v23
+**23** Aconteceu que, conforme Jeúdi lia três ou quatro colunas, o rei as cortava com uma faca e as atirava dentro do fogo no braseiro, até que todo o rolo foi destruído. ^v23
 
-**24** E não temeram, nem rasgaram as suas vestes, nem o rei, nem nenhum dos seus servos que ouviram todas aquelas palavras. ^v24
+**24** Porém, nem o rei e nenhum dos seus servos que ouviram todas aquelas palavras ficaram assustados, nem rasgaram suas roupas. ^v24
 
-**25** E, posto que Elnatã, e Delaías, e Gemarias tivessem rogado ao rei que não queimasse o rolo, ele não lhes deu ouvidos. ^v25
+**25** Ainda que Elnatã, Delaías e Gemanias tivessem pedido ao rei que não queimasse o rolo, ele não os ouviu. ^v25
 
-**26** Antes deu ordem o rei a Jerameel, filho de Hamaleque, e a Seraías, filho de Azriel, e a Selemias, filho de Abdeel, que prendessem a Baruque, o escrivão, e a Jeremias, o profeta; mas o Senhor os escondera. ^v26
+**26** O rei ordenou a Jerameel, seu filho, Seraías, filho de Azriel, e a Selemias, filho de Abdeel, que prendessem Baruque, o escriba, e Jeremias, o profeta, mas Yahweh os havia escondido. ^v26
 
-**27** Então veio a Jeremias a palavra do Senhor, depois que o rei queimara o rolo, com as palavras que Baruque escrevera da boca de Jeremias, dizendo: ^v27
+**27** Então, a palavra de Yahweh veio a Jeremias, depois que o rei queimara o rolo e as palavras que Baruque escrevera, ditadas por Jeremias, dizendo: ^v27
 
-**28** Toma ainda outro rolo, e escreve nele todas aquelas palavras que estavam no primeiro rolo, que queimou Jeoiaquim, rei de Judá. ^v28
+**28** """Volta, pega outro rolo para ti, e escreve nele todas as palavras que estavam no rolo original que Jeoaquim, rei de Judá, queimou." ^v28
 
-**29** E a Jeoiaquim, rei de Judá, dirás: Assim diz o SENHOR: Tu queimaste este rolo, dizendo: Por que escreveste nele, dizendo: Certamente virá o rei de babilônia, e destruirá esta terra e fará cessar nela homens e animais? ^v29
+**29** "Dirás isto para Jeoaquim, rei de Judá: 'Tu queimaste aquele rolo e disseste: Por que tens escrito que o rei da Babilônia, certamente, virá e destruirá esta terra? Por que ele acabará com os homem e os animais dela?""" ^v29
 
-**30** Portanto assim diz o Senhor, acerca de Jeoiaquim, rei de Judá: Não terá quem se assente sobre o trono de Davi, e será lançado o seu cadáver ao calor do dia, e à geada da noite. ^v30
+**30** "Portanto, Yahweh diz isto em relação a ti, Jeoaquim, rei de Judá: ""Nenhum descendente teu sentará no trono de Davi. Quanto a ti, teu cadáver será jogado fora no calor do dia e na geada da noite." ^v30
 
-**31** E castigarei a sua iniqüidade nele, e na sua descendência, e nos seus servos; e trarei sobre ele e sobre os moradores de Jerusalém, e sobre os homens de Judá, todo aquele mal que lhes tenho falado, e não ouviram. ^v31
+**31** "Punirei a ti, teus descendentes e teus servos, por causa da maldade de todos vós. Trarei sobre vós, sobre todos os habitantes de Jerusalém, e sobre todos os habitantes de Judá os desastres que tenho falado e não ouviram.""" ^v31
 
-**32** Tomou, pois, Jeremias outro rolo, e deu-o a Baruque, filho de Nerias, o escrivão, o qual escreveu nele, da boca de Jeremias, todas as palavras do livro que Jeoiaquim, rei de Judá, tinha queimado no fogo; e ainda se lhes acrescentaram muitas palavras semelhantes. ^v32
+**32** Assim, Jeremias pegou outro rolo e deu a Baruque, filho de Nerias, o escriba. E Baruque escreveu nele todas as palavras ditadas por Jeremias que estavam no rolo queimado por Jeoaquim, rei de Judá. Além disso, muitas outras palavras semelhantes foram acrescentadas a este rolo. ^v32

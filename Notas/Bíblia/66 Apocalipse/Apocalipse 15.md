@@ -1,23 +1,22 @@
 ---
-Livro: "[[Apocalipse|Apocalipse]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Apocalipse|Apocalipse]]"
+tags: [biblia]
 ---
 
 # Apocalipse 15
 
-**1** E vi outro grande e admirável sinal no céu: sete anjos, que tinham as sete últimas pragas; porque nelas é consumada a ira de Deus. ^v1
+**1** Então vi no ceu outro sinal grande e maravilhoso. Havia sete anjos com sete pragas, que são as últimas, pois com elas a ira de Deus estará consumada. ^v1
 
-**2** E vi um como mar de vidro misturado com fogo; e também os que saíram vitoriosos da besta, e da sua imagem, e do seu sinal, e do número do seu nome, que estavam junto ao mar de vidro, e tinham as harpas de Deus. ^v2
+**2** Vi algo como um mar de vidro misturado com fogo. Em pé, junto ao mar, estavam aqueles que venceram a besta e a sua imagem, e o número do seu nome. Eles seguravam harpas que lhes foram dadas por Deus. ^v2
 
-**3** E cantavam o cântico de Moisés, servo de Deus, e o cântico do Cordeiro, dizendo: Grandes e maravilhosas são as tuas obras, Senhor Deus Todo-Poderoso! Justos e verdadeiros são os teus caminhos, ó Rei dos santos. ^v3
+**3** "Eles cantavam o cântico de Moisés, o servo de Deus, e o cântico do Cordeiro: ""Grandes e maravilhosas são as Tuas obras, Senhor Deus, Todo Poderoso. Justos e verdadeiros são os Teus caminhos, Rei das nações." ^v3
 
-**4** Quem te não temerá, ó Senhor, e não magnificará o teu nome? Porque só tu és santo; por isso todas as nações virão, e se prostrarão diante de ti, porque os teus juízos são manifestos. ^v4
+**4** "Quem não Te temerá, Senhor, e quem não glorificará o Teu nome? Pois somente Tu és santo. Todas as nações virão e adorarão diante de Ti, pois os Teus atos de justiça foram revelados""." ^v4
 
-**5** E depois disto olhei, e eis que o templo do tabernáculo do testemunho se abriu no céu. ^v5
+**5** Depois dessas coisas olhei, e abriu-se no céu o templo da tenda do testemunho. ^v5
 
-**6** E os sete anjos que tinham as sete pragas saíram do templo, vestidos de linho puro e resplandecente, e cingidos com cintos de ouro pelos peitos. ^v6
+**6** Saíram do santo lugar sete anjos com as setes pragas, vestidos com linho puro e brilhante e com faixas douradas ao redor do peito. ^v6
 
-**7** E um dos quatro animais deu aos sete anjos sete taças de ouro, cheias da ira de Deus, que vive para todo o sempre. ^v7
+**7** Um dos quatro seres viventes deu aos sete anjos sete taças douradas cheias da ira de Deus, que vive para sempre. ^v7
 
-**8** E o templo encheu-se com a fumaça da glória de Deus e do seu poder; e ninguém podia entrar no templo, até que se consumassem as sete pragas dos sete anjos. ^v8
+**8** E o templo se encheu da fumaça da glória de Deus e do Seu poder. Ninguém podia entrar nele até que as sete pragas dos sete anjos fossem consumadas. ^v8

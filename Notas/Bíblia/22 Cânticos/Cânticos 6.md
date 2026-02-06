@@ -1,33 +1,32 @@
 ---
-Livro: "[[Cânticos|Cânticos]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Cânticos|Cânticos]]"
+tags: [biblia]
 ---
 
 # Cânticos 6
 
-**1** Para onde foi o teu amado, ó mais formosa entre as mulheres? Para onde se retirou o teu amado, para que o busquemos contigo? ^v1
+**1** Para onde foi o teu amado, ó mais bela entre as mulheres? Em que direção foi o teu amado, para que nós possamos procurá-lo convosco? A jovem mulher falando para si mesma: ^v1
 
-**2** O meu amado desceu ao seu jardim, aos canteiros de bálsamo, para apascentar nos jardins e para colher os lírios. ^v2
+**2** Meu amado desceu para o seu jardim, aos canteiros de especiarias, para pastar no jardim e para ajuntar lírios. ^v2
 
-**3** Eu sou do meu amado, e o meu amado é meu;ele apascenta entre os lírios. ^v3
+**3** Eu sou do meu amado, e meu amado é meu; ele pastoreia em meio aos lírios com prazer. O amado da mulher falando a ela: ^v3
 
-**4** Formosa és, meu amor, como Tirza, aprazível como Jerusalém, terrível como um exército com bandeiras. ^v4
+**4** Tu és tão linda quanto Tirza, meu amor, tão amável quanto Jerusalém, tão inspiradora quanto um exército com suas bandeiras. ^v4
 
-**5** Desvia de mim os teus olhos, porque eles me dominam. O teu cabelo é como o rebanho das cabras que aparecem em Gileade. ^v5
+**5** Vire os teus olhos para longe de mim, pois eles me perturbam. Teus cabelos são como um rebanho de cabras descendo das encostas do Monte Gileade. ^v5
 
-**6** Os teus dentes são como o rebanho de ovelhas que sobem do lavadouro, e das quais todas produzem gêmeos, e não há estéril entre elas. ^v6
+**6** Teus dentes são como um rebanho de ovelhas subindo do lavadouro. Cada uma tem um filhote gêmeo, e nenhuma delas está sem cria. ^v6
 
-**7** Como um pedaço de romã, assim são as tuas faces entre os teus cabelos. ^v7
+**7** Tuas bochechas são como metades de uma romã atrás do seu véu. O amado da mulher falando a ele mesmo: ^v7
 
-**8** Sessenta são as rainhas, e oitenta as concubinas, e as virgens sem número. ^v8
+**8** Existem sessenta rainhas, oitenta concubinas e incontáveis mulheres jovens. ^v8
 
-**9** Porém uma é a minha pomba, a minha imaculada, a única de sua mãe, e a mais querida daquela que a deu à luz; viram-na as filhas e chamaram-na bem-aventurada, as rainhas e as concubinas louvaram-na. ^v9
+**9** Mas minha pomba, minha imaculada, é única; ela é a filha especial de sua mãe; ela é a predileta de quem a gerou. As filhas dos meus camponeses a viram e a chamaram abençoada; as rainhas e as concubinas também a viram, e a elogiaram. O que as rainhas e as concubinas disseram: ^v9
 
-**10** Quem é esta que aparece como a alva do dia, formosa como a lua, brilhante como o sol, terrível como um exército com bandeiras? ^v10
+**10** """Quem é esta que aparece como o amanhecer, tão bela como a lua, tão brilhante quanto o sol, tão inspiradora quanto um exército com suas bandeiras?"". O amado da mulher falando a ele mesmo:" ^v10
 
-**11** Desci ao jardim das nogueiras, para ver os frutos do vale, a ver se floresciam as vides e brotavam as romãzeiras. ^v11
+**11** Eu desci ao bosque de nogueiras para examinar os brotos no vale, para ver se as videiras haviam brotado, e se as romãs estavam em flor. ^v11
 
-**12** Antes de eu o sentir, me pôs a minha alma nos carros do meu nobre povo. ^v12
+**12** Eu estava tão feliz que senti como se estivesse andando na carruagem de um príncipe. O amado da mulher falando a ela: ^v12
 
-**13** Volta, volta, ó Sulamita, volta, volta, para que nós te vejamos. Por que olhais para a Sulamita como para as fileiras de dois exércitos? ^v13
+**13** Volte, volte, mulher perfeita. Volte, volte para que eu possa te contemplar. A jovem mulher falando para seu amado: Por quê tu olhas para mim, a mulher perfeita, como se eu estivesse dançando entre duas filas de dançarinas? ^v13

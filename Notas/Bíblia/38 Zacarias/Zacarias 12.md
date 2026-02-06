@@ -1,35 +1,34 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Zacarias|Zacarias]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Zacarias|Zacarias]]"
+tags: [biblia]
 ---
 
 # Zacarias 12
 
-**1** Peso da palavra do SENHOR sobre Israel: Fala o SENHOR, o que estende o céu, e que funda a terra, e que forma o espírito do homem dentro dele. ^v1
+**1** Esta é uma declaração da palavra de Yahweh a respeito de Israel — uma declaração de Yahweh, que estendeu os céus e colocou os fundamentos da terra, que forma o espírito do homem dentro dele: ^v1
 
-**2** Eis que eu farei de Jerusalém um copo de tremor para todos os povos em redor, e também para Judá, durante o cerco contra Jerusalém. ^v2
+**2** """Vê! Estou a ponto de fazer de Jerusalém um cálice de tontear, levando todos os povos que a cercam a cambalear ao seu redor. Também será assim para Judá durante o cerco a Jerusalém." ^v2
 
-**3** E acontecerá naquele dia que farei de Jerusalém uma pedra pesada para todos os povos; todos os que a carregarem certamente serão despedaçados; e ajuntar-se-á contra ela todo o povo da terra. ^v3
+**3** Naquele dia, farei de Jerusalém uma pedra pesada para todos os povos. Quem tentar levantar essa pedra se machucará muito, e todas as nações da terra se ajuntarão contra aquela cidade. ^v3
 
-**4** Naquele dia, diz o Senhor, ferirei de espanto a todos os cavalos, e de loucura os que montam neles; mas sobre a casa de Judá abrirei os meus olhos, e ferirei de cegueira a todos os cavalos dos povos. ^v4
+**4** Naquele dia — esta é a declaração de Yahweh —, Eu golpearei todos os cavalos com terror e cada cavaleiro com fúria. Eu olharei com graça para a casa de Judá; golpearei todos os cavalos do exército com cegueira. ^v4
 
-**5** Então os governadores de Judá dirão no seu coração: Os habitantes de Jerusalém são a minha força no Senhor dos Exércitos, seu Deus. ^v5
+**5** Então, os líderes de Judá dirão em seus corações: 'Os habitantes de Jerusalém são a nossa força por causa de Yahweh dos Exércitos, o Deus deles'. ^v5
 
-**6** Naquele dia porei os governadores de Judá como um braseiro ardente no meio da lenha, e como um facho de fogo entre gavelas; e à direita e à esquerda consumirão a todos os povos em redor, e Jerusalém será habitada outra vez no seu lugar, em Jerusalém; ^v6
+**6** "Naquele dia, farei com que os líderes de Judá sejam como braseiros no meio da madeira e como tocha flamejante entre os grãos, porque consumirão todos os povos vizinhos à sua direita e à sua esquerda. Jerusalém voltará a viver em seu próprio lugar""." ^v6
 
-**7** E o Senhor salvará primeiramente as tendas de Judá, para que a glória da casa de Davi e a glória dos habitantes de Jerusalém não seja exaltada sobre Judá. ^v7
+**7** Yahweh salvará primeiro as tendas de Judá, para que a honra da casa de Davi e a honra dos que vivem em Jerusalém não sejam maiores do que a do restante de Judá. ^v7
 
-**8** Naquele dia o Senhor protegerá os habitantes de Jerusalém; e o mais fraco dentre eles naquele dia será como Davi, e a casa de Davi será como Deus, como o anjo do Senhor diante deles. ^v8
+**8** Naquele dia, Yahweh será o defensor dos habitantes de Jerusalém, e naquele dia os que forem fracos entre eles serão como Davi, enquanto que a casa de Davi será como Deus, como o Anjo de Yahweh diante deles. ^v8
 
-**9** E acontecerá naquele dia, que procurarei destruir todas as nações que vierem contra Jerusalém; ^v9
+**9** """Naquele dia, começarei a destruir todas as nações que vierem contra Jerusalém;" ^v9
 
-**10** Mas sobre a casa de Davi, e sobre os habitantes de Jerusalém, derramarei o Espírito de graça e de súplicas; e olharão para mim, a quem traspassaram; e prantearão sobre ele, como quem pranteia pelo filho unigênito; e chorarão amargamente por ele, como se chora amargamente pelo primogênito. ^v10
+**10** mas derramarei um espírito de compaixão e súplicas na casa de Davi e nos habitantes de Jerusalém, para que olhem para Mim, Aquele que eles feriram. Eles vão chorar por Mim, como se chora por um filho único; lamentarão amargamente por ele como os que lamentam a morte de um filho primogênito. ^v10
 
-**11** Naquele dia será grande o pranto em Jerusalém, como o pranto de Hadade-Rimom no vale de Megido. ^v11
+**11** Naquele dia, os lamentos em Jerusalém serão tão grandes como os lamentos em Hadade-Rimon na planície de Megido. ^v11
 
-**12** E a terra pranteará, cada família à parte: a família da casa de Davi à parte, e suas mulheres à parte; e a família da casa de Natã à parte, e suas mulheres à parte; ^v12
+**12** A terra chorará, os clãs à parte uns dos outros. O clã da casa de Davi à parte e suas esposas estarão separadas dos homens. O clã da casa de Natã à parte e suas esposas estarão separadas dos homens. ^v12
 
-**13** A família da casa de Levi à parte, e suas mulheres à parte; a família de Simei à parte, e suas mulheres à parte. ^v13
+**13** O clã da casa de Levi à parte e suas esposas estarão separadas dos homens. O clã dos simeítas à parte e suas esposas estarão separadas dos homens. ^v13
 
-**14** Todas as mais famílias remanescentes, cada família à parte, e suas mulheres à parte. ^v14
+**14** "Cada clã dos clãs restantes, cada clã à parte e as esposas estarão separadas dos homens""." ^v14

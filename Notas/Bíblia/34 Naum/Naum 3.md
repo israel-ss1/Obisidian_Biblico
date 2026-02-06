@@ -1,45 +1,44 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Naum|Naum]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Naum|Naum]]"
+tags: [biblia]
 ---
 
 # Naum 3
 
-**1** Ai da cidade ensangüentada! Ela está toda cheia de mentiras e de rapina; não se aparta dela o roubo. ^v1
+**1** Ai da cidade sanguinária! Ela está toda cheia de mentiras e de propriedades roubadas. Sempre fazendo suas vítimas. ^v1
 
-**2** Estrépito de açoite há, e o barulho do ruído das rodas; e os cavalos atropelam, e carros vão saltando. ^v2
+**2** Mas agora há ruído de chicotes e barulhos das batidas das rodas, o galopar dos cavalos e carruagens que saltam. ^v2
 
-**3** O cavaleiro levanta a espada flamejante, como a lança relampejante, e ali haverá uma multidão de mortos, e abundância de cadáveres, e não terão fim os defuntos; tropeçarão nos seus corpos; ^v3
+**3** Há cavaleiros que atacam, espadas reluzentes, lanças brilhantes, amontoados de cadáveres, grandes pilhas de corpos. Não há fim para os corpos. Os que os atacaram tropeçam sobre eles. ^v3
 
-**4** Por causa da multidão dos pecados da meretriz mui graciosa, da mestra das feitiçarias, que vendeu as nações com as suas fornicações, e as famílias pelas suas feitiçarias. ^v4
+**4** Isso está acontecendo devido às ações lascivas da bela prostituta, mestra em feitiçarias, que vende nações, por meio da sua prostituição, e famílias por meio de suas feitiçarias. ^v4
 
-**5** Eis que eu estou contra ti, diz o Senhor dos Exércitos; e levantarei a tua saia sobre a tua face, e às nações mostrarei a tua nudez, e aos reinos a tua vergonha. ^v5
+**5** """Vê, Eu estou contra ti"" — esta é a declaração de Yahweh dos Exércitos — ""Eu levantarei a tua saia sobre o teu rosto e mostrarei a tua nudez às nações, a tua vergonha aos reinos." ^v5
 
-**6** E lançarei sobre ti coisas abomináveis, e envergonhar-te-ei, e pôr-te-ei como espetáculo. ^v6
+**6** Lançarei imundícias sobre ti e te tratarei com desprezo; farei de ti alguém a quem todos olharão. ^v6
 
-**7** E há de ser que, todos os que te virem, fugirão de ti, e dirão: Nínive está destruída, quem terá compaixão dela? Donde te buscarei consoladores? ^v7
+**7** "E acontecerá que todo aquele que te olhar fugirá de ti e dirá: 'Nínive está destruída. Quem chorará por ela?' Onde posso encontrar alguém para te confortar?""" ^v7
 
-**8** És tu melhor do que Nô-Amom, que está assentada entre os canais do Nilo, cercada de águas, tendo por esplanada o mar, e ainda o mar por muralha? ^v8
+**8** Nínive, por acaso tu és melhor do que Tebas, aquela que foi construída junto ao rio Nilo, a que tinha água a sua volta, que tinha o oceano como defesa e o mar como muros? ^v8
 
-**9** Etiópia e Egito eram a sua força, e não tinha fim; Pute e Líbia foram o seu socorro. ^v9
+**9** Etiópia e Egito eram a sua força, uma força sem limites; Pute e Líbia, seus aliados. ^v9
 
-**10** Todavia foi levada cativa para o desterro; também os seus filhos foram despedaçados nas entradas de todas as ruas, e sobre os seus nobres lançaram sortes, e todos os seus grandes foram presos com grilhões. ^v10
+**10** Mesmo assim, Tebas foi levada; ela foi em cativeiro, suas criancinhas foram despedaçadas nas entradas de toda rua; suas inimigas lançaram sortes pelos seus homens nobres, e todos os seus grandes homens foram acorrentados. ^v10
 
-**11** Tu também serás embriagada, e te esconderás; também buscarás força por causa do inimigo. ^v11
+**11** Tu também ficarás embriagada. Tentarás te esconder e buscarás refúgio contra os teus inimigos. ^v11
 
-**12** Todas as tuas fortalezas serão como figueiras com figos temporãos; se os sacodem, caem na boca do que os há de comer. ^v12
+**12** Todas as tuas fortalezas serão como figueiras com figos novos: se forem sacudidos, cairão na boca de quem os come. ^v12
 
-**13** Eis que o teu povo no meio de ti são como mulheres; as portas da tua terra estarão de todo abertas aos teus inimigos; o fogo consumirá os teus ferrolhos. ^v13
+**13** Vê, as pessoas no meio de ti são mulheres; os portões da tua terra foram escancarados aos teus inimigos; o fogo devorou os teus ferrolhos. ^v13
 
-**14** Tira águas para o cerco, reforça as tuas fortalezas; entra no lodo, e pisa o barro, pega a forma para os tijolos. ^v14
+**14** Vai tirar água e guardar para quando vier o cerco; reforça as tuas fortalezas; entra no barro e pisa a argamassa; prepara as formas para fazer os tijolos. ^v14
 
-**15** O fogo ali te consumirá, a espada te exterminará; consumir-te-á, como a locusta. Multiplica-te como a locusta, multiplica-te como os gafanhotos. ^v15
+**15** O fogo te devorará ali e a espada te destruirá. Ele te devorará como os gafanhotos jovens devoram tudo. Multiplica-te como muitos gafanhotos jovens, como muitos gafanhotos adultos. ^v15
 
-**16** Multiplicaste os teus negociantes mais do que as estrelas do céu; a locusta se espalhará e voará. ^v16
+**16** Tu multiplicaste os teus comerciantes mais do que as estrelas dos céus; mas eles parecem gafanhotos jovens: eles pilham a terra e depois voam para longe. ^v16
 
-**17** Os teus príncipes são como os gafanhotos, e os teus capitàes como os gafanhotos grandes, que se acampam nas sebes nos dias de frio; em subindo o sol voam, de sorte que não se sabe mais o lugar onde estão. ^v17
+**17** Os teus príncipes são tantos quanto gafanhotos adultos e os teus generais são como nuvens de gafanhotos, que se acampam nas paredes, num dia frio. Mas, quando o sol se levanta, esses fogem e ninguém sabe para onde foram. ^v17
 
-**18** Os teus pastores dormirão, ó rei da Assíria, os teus ilustres repousarão, o teu povo se espalhará pelos montes, sem que haja quem o ajunte. ^v18
+**18** Rei da Assíria, os teus pastores estão adormecidos, os teus governadores estão descansando. Teu povo está espalhado pelos montes e não há ninguém para o reunir. ^v18
 
-**19** Não há cura para a tua ferida, a tua chaga é dolorosa. Todos os que ouvirem a tua fama baterão as palmas sobre ti; porque, sobre quem não passou continuamente a tua malícia? ^v19
+**19** Não há cura possível para as tuas feridas. Tuas feridas são graves. Todos os que ouvirem as notícias acerca de ti baterão palmas por tua causa. Quem já escapou da tua maldade constante? ^v19

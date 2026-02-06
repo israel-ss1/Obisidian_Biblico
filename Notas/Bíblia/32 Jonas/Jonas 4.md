@@ -1,29 +1,28 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Jonas|Jonas]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Jonas|Jonas]]"
+tags: [biblia]
 ---
 
 # Jonas 4
 
-**1** Mas isso desagradou extremamente a Jonas, e ele ficou irado. ^v1
+**1** Mas isso desagradou a Jonas, e ele ficou muito irado. ^v1
 
-**2** E orou ao Senhor, e disse: Ah! Senhor! Não foi esta minha palavra, estando ainda na minha terra? Por isso é que me preveni, fugindo para Társis, pois sabia que és Deus compassivo e misericordioso, longânimo e grande em benignidade, e que te arrependes do mal. ^v2
+**2** "Então Jonas orou a Yahweh e disse: ""Ó, Yahweh, não foi isso o que eu disse quando estava no meu próprio país? Por isso eu fugi apressadamente para Társis, porque eu sabia que Tu és um Deus gracioso, compassivo, longânimo, abundante em fidelidade, e que mudas de ideia quanto ao mal que anunciaste." ^v2
 
-**3** Peço-te, pois, ó Senhor, tira-me a vida, porque melhor me é morrer do que viver. ^v3
+**3** "Por isso, Yahweh, agora eu peço, tira-me a vida, porque para mim é melhor morrer do que viver.'""" ^v3
 
-**4** E disse o Senhor: Fazes bem que assim te ires? ^v4
+**4** "Yahweh disse: ""É razoável essa tua ira?""" ^v4
 
-**5** Então Jonas saiu da cidade, e sentou-se ao oriente dela; e ali fez uma cabana, e sentou-se debaixo dela, à sombra, até ver o que aconteceria à cidade. ^v5
+**5** Então Jonas saiu da cidade e sentou-se ao oriente dela. Ali fez para si um abrigo e sentou-se debaixo dele, à sombra, a fim de ver o que aconteceria à cidade. ^v5
 
-**6** E fez o Senhor Deus nascer uma aboboreira, e ela subiu por cima de Jonas, para que fizesse sombra sobre a sua cabeça, a fim de o livrar do seu enfado; e Jonas se alegrou em extremo por causa da aboboreira. ^v6
+**6** Yahweh fez crescer uma planta por cima de Jonas para que lhe fizesse sombra sobre a cabeça, a fim de o livrar de sua aflição. Jonas se alegrou muito por causa da planta. ^v6
 
-**7** Mas Deus enviou um verme, no dia seguinte ao subir da alva, o qual feriu a aboboreira, e esta se secou. ^v7
+**7** Mas Deus, no dia seguinte, ao nascer do sol, enviou um verme, que atacou a planta e ela secou. ^v7
 
-**8** E aconteceu que, aparecendo o sol, Deus mandou um vento calmoso oriental, e o sol feriu a cabeça de Jonas; e ele desmaiou, e desejou com toda a sua alma morrer, dizendo: Melhor me é morrer do que viver. ^v8
+**8** "Aconteceu que, quando o sol nasceu na manhã seguinte, Deus enviou um vento oriental muito quente. Então o sol bateu na cabeça de Jonas e ele desmaiou. Então Jonas desejou morrer. Ele disse a si mesmo: ""Melhor para mim é morrer do que viver.""" ^v8
 
-**9** Então disse Deus a Jonas: Fazes bem que assim te ires por causa da aboboreira? E ele disse: Faço bem que me revolte até à morte. ^v9
+**9** "Então Deus disse a Jonas: ""É razoável essa tua ira por causa da planta?"" Então Jonas disse: ""É justo que eu esteja irado, até a morte.""" ^v9
 
-**10** E disse o Senhor: Tiveste tu compaixão da aboboreira, na qual não trabalhaste, nem a fizeste crescer, que numa noite nasceu, e numa noite pereceu; ^v10
+**10** "Yahweh disse: ""Tu te compadeceste da planta, pela qual não tiveste que trabalhar, nem a fizeste crescer. Ela cresceu numa noite e numa noite morreu." ^v10
 
-**11** E não hei de eu ter compaixão da grande cidade de Nínive, em que estão mais de cento e vinte mil homens que não sabem discernir entre a sua mão direita e a sua mão esquerda, e também muitos animais? ^v11
+**11** "Então não deveria Eu ter compaixão da grande cidade de Nínive, na qual há mais de cento e vinte mil pessoas que não sabem a diferença entre sua mão direita e sua mão esquerda, além de muitos animais?""" ^v11

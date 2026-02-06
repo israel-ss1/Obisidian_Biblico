@@ -1,97 +1,96 @@
 ---
-Livro: "[[Salmos|Salmos]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Salmos|Salmos]]"
+tags: [biblia]
 ---
 
 # Salmos 105
 
-**1** Louvai ao SENHOR, e invocai o seu nome; fazei conhecidas as suas obras entre os povos. ^v1
+**1** Louvai a Yahweh, invocai o Seu nome, fazei Suas obras conhecidas entre as nações. ^v1
 
-**2** Cantai-lhe, cantai-lhe salmos; falai de todas as suas maravilhas. ^v2
+**2** Cantai-lhe, cantai-lhe louvores; fazei conhecidas todas as Suas maravilhosas obras. ^v2
 
-**3** Gloriai-vos no seu santo nome; alegre-se o coração daqueles que buscam ao Senhor. ^v3
+**3** Gloriai-vos no Seu santo nome, alegre-se o coração daqueles que buscam a Yahweh. ^v3
 
-**4** Buscai ao Senhor e a sua força; buscai a sua face continuamente. ^v4
+**4** Buscai Yahweh e Sua força; buscai Sua presença continuamente. ^v4
 
-**5** Lembrai-vos das maravilhas que fez, dos seus prodígios e dos juízos da sua boca; ^v5
+**5** Lembrai-vos das coisas maravilhosas que Ele fez, de Seus milagres e os decretos de Sua boca, ^v5
 
-**6** Vós, semente de Abraão, seu servo, vós, filhos de Jacó, seus escolhidos. ^v6
+**6** vós descendentes de Abraão, Seu servo, vós povo de Jacó, Seus escolhidos. ^v6
 
-**7** Ele é o Senhor nosso Deus; os seus juízos estão em toda a terra. ^v7
+**7** Ele é Yahweh, nosso Deus. Seus decretos estão por toda a terra. ^v7
 
-**8** Lembrou-se da sua aliança para sempre, da palavra que mandou a milhares de gerações. ^v8
+**8** Ele se lembra para sempre da Sua aliança, da palavra que Ele ordenou para mil gerações. ^v8
 
-**9** A qual aliança fez com Abraão, e o seu juramento a Isaque. ^v9
+**9** Ele traz à memória a aliança que fez com Abraão, e seu juramento à Isaque. ^v9
 
-**10** E confirmou o mesmo a Jacó por lei, e a Israel por aliança eterna, ^v10
+**10** Isto é o que Ele confirmou a Jacó como estatuto, e a Israel como uma aliança eterna. ^v10
 
-**11** Dizendo: A ti darei a terra de Canaã, a região da vossa herança. ^v11
+**11** "Ele disse: ""Eu vos darei a terra de Canaã como porção de vossa herança.""" ^v11
 
-**12** Quando eram poucos homens em número, sim, mui poucos, e estrangeiros nela; ^v12
+**12** Ele lhes disse isso quando eram poucos em número; pouquíssimos e estrangeiros na terra. ^v12
 
-**13** Quando andavam de nação em nação e dum reino para outro povo; ^v13
+**13** Eles saíram de nação em nação e de um reino a outro. ^v13
 
-**14** Não permitiu a ninguém que os oprimisse, e por amor deles repreendeu a reis, dizendo: ^v14
+**14** Ele não permitiu que ninguém os oprimissem; e repreendeu reis por causa deles. ^v14
 
-**15** Não toqueis os meus ungidos, e não maltrateis os meus profetas. ^v15
+**15** "Ele disse: ""Não toqueis nos meus ungidos e não façais mal aos meus profetas.""" ^v15
 
-**16** Chamou a fome sobre a terra, quebrantou todo o sustento do pão. ^v16
+**16** Chamou a fome sobre a terra, cortou todo o suprimento de pão. ^v16
 
-**17** Mandou perante eles um homem, José, que foi vendido por escravo; ^v17
+**17** Ele enviou um homem à frente deles; José foi vendido como servo. ^v17
 
-**18** Cujos pés apertaram com grilhões; foi posto em ferros; ^v18
+**18** Seus pés foram presos por correntes, correntes de ferro foram colocadas nele, ^v18
 
-**19** Até ao tempo em que chegou a sua palavra; a palavra do Senhor o provou. ^v19
+**19** até o tempo em que sua predição se cumpriu. A palavra de Yahweh o colocou à prova. ^v19
 
-**20** Mandou o rei, e o fez soltar; o governador dos povos, e o soltou. ^v20
+**20** O rei enviou servos para soltá-lo, o governador do povo o libertou. ^v20
 
-**21** Fê-lo senhor da sua casa, e governador de toda a sua fazenda; ^v21
+**21** Ele o pôs encarregado de sua casa como governador de todas as suas posses, ^v21
 
-**22** Para sujeitar os seus príncipes a seu gosto, e instruir os seus anciãos. ^v22
+**22** para instruir seus príncipes conforme quisesse e para ensinar a sabedoria a seus anciãos. ^v22
 
-**23** Então Israel entrou no Egito, e Jacó peregrinou na terra de Cão. ^v23
+**23** Então, Israel entrou no Egito e Jacó morou por um tempo na terra de Cam. ^v23
 
-**24** E aumentou o seu povo em grande maneira, e o fez mais poderoso do que os seus inimigos. ^v24
+**24** Deus aumentou Seu povo grandemente e o fez mais numeroso do que seus adversários. ^v24
 
-**25** Virou o coração deles para que odiassem o seu povo, para que tratassem astutamente aos seus servos. ^v25
+**25** Ele fez com que seus inimigos odiassem Seu povo, maltratassem Seus servos. ^v25
 
-**26** Enviou Moisés, seu servo, e Arão, a quem escolhera. ^v26
+**26** Ele enviou Moisés, Seu servo, e Arão, a quem havia escolhido. ^v26
 
-**27** Mostraram entre eles os seus sinais e prodígios, na terra de Cão. ^v27
+**27** Eles executaram Seus sinais entre os egípcios, Suas maravilhas na terra de Cam. ^v27
 
-**28** Mandou trevas, e a fez escurecer; e não foram rebeldes à sua palavra. ^v28
+**28** Ele enviou trevas e escureceu aquela terra, mas seu povo não obedeceu aos Seus mandamentos. ^v28
 
-**29** Converteu as suas águas em sangue, e matou os seus peixes. ^v29
+**29** Ele transformou as águas em sangue e matou seus peixes. ^v29
 
-**30** A sua terra produziu rãs em abundância, até nas câmaras dos seus reis. ^v30
+**30** Suas terras se encheram de sapos, até mesmo nos quartos dos governadores. ^v30
 
-**31** Falou ele, e vieram enxames de moscas e piolhos em todo o seu termo. ^v31
+**31** Ele falou e enxames de moscas e mosquitos cobriram seu território. ^v31
 
-**32** Converteu as suas chuvas em saraiva, e fogo abrasador na sua terra. ^v32
+**32** Ele enviou granizo e chuva, com raios e trovões para suas terras. ^v32
 
-**33** Feriu as suas vinhas e os seus figueirais, e quebrou as árvores dos seus termos. ^v33
+**33** Ele destruiu suas vinhas e suas figueiras, quebrou as árvores de seus territórios. ^v33
 
-**34** Falou ele e vieram gafanhotos e pulgão sem número. ^v34
+**34** Ele falou e vieram os gafanhotos, muitos gafanhotos ^v34
 
-**35** E comeram toda a erva da sua terra, e devoraram o fruto dos seus campos. ^v35
+**35** que comeram toda a vegetação do país, toda a colheita da terra. ^v35
 
-**36** Feriu também a todos os primogênitos da sua terra, as primícias de todas as suas forças. ^v36
+**36** Ele matou todos os primogênitos em suas terras, as primícias de toda a força deles. ^v36
 
-**37** E tirou-os para fora com prata e ouro, e entre as suas tribos não houve um só fraco. ^v37
+**37** Retirou os israelitas, que saíram com prata e ouro; e nenhuma de suas tribos tropeçou no caminho. ^v37
 
-**38** O Egito se alegrou quando eles saíram, porque o seu temor caíra sobre eles. ^v38
+**38** O Egito se alegrou quando eles saíram, pois os egípcios estavam com medo deles. ^v38
 
-**39** Estendeu uma nuvem por coberta, e um fogo para iluminar de noite. ^v39
+**39** Yahweh estendeu uma nuvem para cobri-los e fogo para iluminá-los de noite. ^v39
 
-**40** Oraram, e ele fez vir codornizes, e os fartou de pão do céu. ^v40
+**40** Os israelitas pediram por comida e Ele trouxe codornizes e os saciou com pão do céu. ^v40
 
-**41** Abriu a penha, e dela correram águas; correram pelos lugares secos, como um rio. ^v41
+**41** Dividiu a rocha e águas jorraram dela, fluíram no deserto como um rio. ^v41
 
-**42** Porque se lembrou da sua santa palavra, e de Abraão, seu servo. ^v42
+**42** Pois Ele trouxe à mente Sua santa promessa que fez a Abraão, Seu servo. ^v42
 
-**43** E tirou dali o seu povo com alegria, e os seus escolhidos com regozijo. ^v43
+**43** Ele liderou Seu povo com alegria, Seu escolhido com gritos de triunfo. ^v43
 
-**44** E deu-lhes as terras dos gentios; e herdaram o trabalho dos povos; ^v44
+**44** Deu-lhes as terras das nações, tomaram posse das riquezas dos povos ^v44
 
-**45** Para que guardassem os seus preceitos, e observassem as suas leis. Louvai ao Senhor. ^v45
+**45** para que guardassem Seus estatutos e obedecessem às Suas leis. Louvado seja Yahweh! ^v45

@@ -1,43 +1,42 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Josué|Josué]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Josué|Josué]]"
+tags: [biblia]
 ---
 
 # Josué 1
 
-**1** E sucedeu depois da morte de Moisés, servo do SENHOR, que o SENHOR falou a Josué, filho de Num, servo de Moisés, dizendo: ^v1
+**1** Aconteceu que, após a morte de Moisés, servo de Yahweh, Yahweh falou a Josué, filho de Num, auxiliar de Moisés, dizendo: ^v1
 
-**2** Moisés, meu servo, é morto; levanta-te, pois, agora, passa este Jordão, tu e todo este povo, à terra que eu dou aos filhos de Israel. ^v2
+**2** """Moisés, meu servo, está morto. Prepara-te agora, levanta-te, atravessa esse Jordão, tu e todo esse povo, para a terra que estou dando ao povo de Israel." ^v2
 
-**3** Todo o lugar que pisar a planta do vosso pé, vo-lo tenho dado, como eu disse a Moisés. ^v3
+**3** Todo o lugar onde pisar a planta dos vossos pés, Eu vos darei, como prometi a Moisés. ^v3
 
-**4** Desde o deserto e do Líbano, até ao grande rio, o rio Eufrates, toda a terra dos heteus, e até o grande mar para o poente do sol, será o vosso termo. ^v4
+**4** Desde o deserto e Líbano até o grande rio, o Eufrates, todas as terras dos heteus até o mar Grande, onde o sol se põe, pertencerão a vós. ^v4
 
-**5** Ninguém te poderá resistir, todos os dias da tua vida; como fui com Moisés, assim serei contigo; não te deixarei nem te desampararei. ^v5
+**5** Ninguém será capaz de ir contra ti todos os dias de tua vida. Estarei contigo como estive com Moisés. Não te abandonarei e nem te deixarei. ^v5
 
-**6** Esforça-te, e tem bom ânimo; porque tu farás a este povo herdar a terra que jurei a seus pais lhes daria. ^v6
+**6** Sê forte e corajoso. Porque tu farás este povo herdar a terra que prometi dar a teus antepassados. ^v6
 
-**7** Tão-somente esforça-te e tem mui bom ânimo, para teres o cuidado de fazer conforme a toda a lei que meu servo Moisés te ordenou; dela não te desvies, nem para a direita nem para a esquerda, para que prudentemente te conduzas por onde quer que andares. ^v7
+**7** Sê forte e muito corajoso. Sê cuidadoso para obedecer à lei que meu servo Moisés te ordenou. Não te desvies dela, nem para a direita nem para a esquerda. Assim, serás bem sucedido aonde quer que fores. ^v7
 
-**8** Não se aparte da tua boca o livro desta lei; antes medita nele dia e noite, para que tenhas cuidado de fazer conforme a tudo quanto nele está escrito; porque então farás prosperar o teu caminho, e serás bem sucedido. ^v8
+**8** Tu sempre falarás sobre este livro da lei. Meditarás nele dia e noite, para que possas obedecer, por completo, o que nele está escrito. Então, tu serás próspero e bem sucedido. ^v8
 
-**9** Não to mandei eu? Esforça-te, e tem bom ânimo; não temas, nem te espantes; porque o Senhor teu Deus é contigo, por onde quer que andares. ^v9
+**9** "Não te ordenei Eu? Sê forte e corajoso! Não tenhas medo. Não percas a coragem. Yahweh, teu Deus, é contigo aonde quer que andares""." ^v9
 
-**10** Então Josué deu ordem aos príncipes do povo, dizendo: ^v10
+**10** Então, Josué ordenou aos líderes do povo: ^v10
 
-**11** Passai pelo meio do arraial e ordenai ao povo, dizendo: Provede-vos de comida, porque dentro de três dias passareis este Jordão, para que entreis a possuir a terra que vos dá o Senhor vosso Deus, para a possuirdes. ^v11
+**11** """Ide através do acampamento e ordenai às pessoas: 'Preparai provisões para vós mesmos. Em três dias, vós atravessareis o Jordão e possuireis a terra que Yahweh, nosso Deus, está dando para nós""." ^v11
 
-**12** E falou Josué aos rubenitas, e aos gaditas, e à meia tribo de Manassés, dizendo: ^v12
+**12** Aos rubenitas, aos gaditas e à metade da tribo de Manassés, Josué disse: ^v12
 
-**13** Lembrai-vos da palavra que vos mandou Moisés, o servo do Senhor, dizendo: O Senhor vosso Deus vos dá descanso, e vos dá esta terra. ^v13
+**13** """Lembrai-vos da palavra que Moisés, o servo de Yahweh, ordenou-vos quando disse: 'Yahweh, vosso Deus, está vos dando descanso e esta terra'." ^v13
 
-**14** Vossas mulheres, vossos meninos e vosso gado fiquem na terra que Moisés vos deu deste lado do Jordão; porém vós passareis armados na frente de vossos irmãos, todos os valentes e valorosos, e ajudá-los-eis. ^v14
+**14** Vossas esposas, crianças e vossos animais domésticos ficarão na terra que Moisés vos deu além do Jordão. Mas vossos guerreiros irão convosco e com vossos irmãos e os ajudarão ^v14
 
-**15** Até que o Senhor dê descanso a vossos irmãos, como a vós, e eles também possuam a terra que o Senhor vosso Deus lhes dá; então tornareis à terra da vossa herança, e possuireis a que vos deu Moisés, o servo do Senhor, deste lado do Jordão, para o nascente do sol. ^v15
+**15** "até que Yahweh tenha dado descanso a vossos irmãos, assim como deu a vós. Eles também tomarão posse da terra que Yahweh, vosso Deus, lhes dará. Depois, voltareis para a vossa própria terra e a possuireis, a terra que Moisés, servo de Yahweh, vos deu além do Jordão, onde nasce o sol""." ^v15
 
-**16** Então responderam a Josué, dizendo: Tudo quanto nos ordenaste faremos, e onde quer que nos enviares iremos. ^v16
+**16** "E eles responderam a Josué, dizendo: ""Tudo o que tu nos ordenaste, nós o faremos e iremos para onde quer que tu nos enviares." ^v16
 
-**17** Como em tudo ouvimos a Moisés, assim te ouviremos a ti, tão-somente que o Senhor teu Deus seja contigo, como foi com Moisés. ^v17
+**17** Obedeceremos a ti assim como obedecemos a Moisés. Que somente Yahweh, teu Deus, esteja contigo, assim como esteve com Moisés. ^v17
 
-**18** Todo o homem, que for rebelde às tuas ordens, e não ouvir as tuas palavras em tudo quanto lhe mandares, morrerá. Tão-somente esforça-te, e tem bom ânimo. ^v18
+**18** "Quem se rebelar contra teus comandos e desobedecer às tuas palavras, será morto. Apenas sê forte e corajoso""." ^v18

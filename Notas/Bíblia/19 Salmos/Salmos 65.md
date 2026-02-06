@@ -1,33 +1,30 @@
 ---
-Livro: "[[Salmos|Salmos]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Salmos|Salmos]]"
+tags: [biblia]
 ---
 
 # Salmos 65
 
-**1** A ti, ó Deus, espera o louvor em Sião, e a ti se pagará o voto. ^v1
+**2** Tu que ouves a oração, a Ti todos os homens virão. ^v2
 
-**2** Ó tu que ouves as orações, a ti virá toda a carne. ^v2
+**3** As iniquidades prevalecem contra nós; quanto às nossas transgressões, Tu as perdoarás. ^v3
 
-**3** Prevalecem as iniqüidades contra mim; porém tu limpas as nossas transgressões. ^v3
+**4** Feliz é o homem a quem Tu escolhes para trazê-lo para perto de Ti, para que viva em Teus átrios. Nós ficaremos satisfeitos com a bondade da Tua casa, Teu santo templo. ^v4
 
-**4** Bem-aventurado aquele a quem tu escolhes, e fazes chegar a ti, para que habite em teus átrios; nós seremos fartos da bondade da tua casa e do teu santo templo. ^v4
+**5** Em retidão, Tu nos responderás realizando coisas maravilhosas, Deus da nossa salvação; Tu és a esperança de todas as extremidades da terra, dos que estão distantes, do outro lado do mar. ^v5
 
-**5** Com coisas tremendas em justiça nos responderás, ó Deus da nossa salvação; tu és a esperança de todas as extremidades da terra, e daqueles que estão longe sobre o mar. ^v5
+**6** Tu firmaste as montanhas; Tu que estás cingido de força. ^v6
 
-**6** O que pela sua força consolida os montes, cingido de fortaleza; ^v6
+**7** Tu que acalmas o rugido dos mares, o rugido das ondas e a comoção dos povos. ^v7
 
-**7** O que aplaca o ruído dos mares, o ruído das suas ondas, e o tumulto dos povos. ^v7
+**8** Aqueles que vivem nas extremidades da terra estão amedrontados com as evidências das Tuas obras; Tu trazes alegria desde o nascer do sol até o seu poente. ^v8
 
-**8** E os que habitam nos fins da terra temem os teus sinais; tu fazes alegres as saídas da manhã e da tarde. ^v8
+**9** Tu socorres a terra regando-a e enriquecendo-a abundantemente. As correntes de Deus estão cheias de água para prover de grãos as pessoas, pois assim ordenaste. ^v9
 
-**9** Tu visitas a terra, e a refrescas; tu a enriqueces grandemente com o rio de Deus, que está cheio de água; tu lhe preparas o trigo, quando assim a tens preparada. ^v9
+**10** Tu molhas os seus sulcos abundantemente; Tu reestabeleces as valas; Tu amoleces a terra com chuva e abençoas os frutos no meio dela. ^v10
 
-**10** Enches de água os seus sulcos; tu lhe aplanas as leivas; tu a amoleces com a muita chuva; abençoas as suas novidades. ^v10
+**11** Tu coroas o ano com a Tua bondade. Os Teus caminhos transbordam de fartura. ^v11
 
-**11** Coroas o ano com a tua bondade, e as tuas veredas destilam gordura. ^v11
+**12** As pastagens do deserto gotejam como o orvalho, e as colinas cingem-se de alegria. ^v12
 
-**12** Destilam sobre os pastos do deserto, e os outeiros os cingem de alegria. ^v12
-
-**13** Os campos se vestem de rebanhos, e os vales se cobrem de trigo; eles se regozijam e cantam. ^v13
+**13** As pastagens estão cobertas de rebanhos, e os vales, cobertos de grãos; eles gritam e cantam de alegria. ^v13

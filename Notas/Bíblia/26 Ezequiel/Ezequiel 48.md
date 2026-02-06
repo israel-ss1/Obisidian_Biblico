@@ -1,77 +1,76 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Ezequiel|Ezequiel]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Ezequiel|Ezequiel]]"
+tags: [biblia]
 ---
 
 # Ezequiel 48
 
-**1** E estes são os nomes das tribos: desde o extremo norte, ao longo do caminho de Hetlom, indo para Hamate, até Hazar-Enom, termo de Damasco para o norte, ao pé de Hamate, terá Dã uma parte, desde o lado oriental até o ocidental. ^v1
+**1** Estes são os nomes das tribos: a tribo de Dã receberá uma porção da terra; sua fronteira vai ao longo do norte da fronteira de Israel pelo caminho de Hetlom e Lebo-Hamate. Sua fronteira vai desde Hazar-Enom, ao longo do limite com Damasco ao norte e até Hamate. A fronteira de Dã será desde o lado leste a todo caminho do Grande Mar. ^v1
 
-**2** E junto ao termo de Dã, desde o lado oriental até o ocidental, Aser terá uma porção. ^v2
+**2** E, junto ao limite de Dã, desde o leste até ao lado oeste, Aser terá uma porção. ^v2
 
-**3** E junto ao termo de Aser, desde o lado oriental até o ocidental, Naftali, uma porção. ^v3
+**3** E, junto ao limite de Aser, desde o lado leste para o lado oeste, Naftali terá uma porção. ^v3
 
-**4** E junto ao termo de Naftali, desde o lado oriental até o lado ocidental, Manassés, uma porção. ^v4
+**4** E, junto ao limite de Naftali desde o leste para o lado oeste, Manassés terá um porção. ^v4
 
-**5** E junto ao termo de Manassés, desde o lado oriental até o lado ocidental, Efraim, uma porção. ^v5
+**5** E, junto ao limite de Manassés desde o lado leste para o oeste, Efraim terá uma porção. ^v5
 
-**6** E junto ao termo de Efraim, desde o lado oriental até o lado ocidental, Rúben, uma porção. ^v6
+**6** E, junto ao limite de Efraim desde o lado leste para o o este, Rúben terá uma porção. ^v6
 
-**7** E junto ao termo de Rúben, desde o lado oriental até o lado ocidental, Judá, uma porção. ^v7
+**7** E, junto do limite de Rúben desde o lado leste para o oeste, Judá terá uma porção. ^v7
 
-**8** E junto ao termo de Judá, desde o lado oriental até o lado ocidental, será a oferta que haveis de fazer de vinte e cinco mil canas de largura, e de comprimento de cada uma das porções, desde o lado oriental até o lado ocidental; e o santuário estará no meio dela. ^v8
+**8** A oferta da terra que fizeres será ao longo do limite com Judá, que se estende do lado leste para o oeste; e será de vinte e cinco mil côvados de largura. Seu comprimento corresponde a uma porção de tribo, desde o lado leste até o lado oeste, e o templo estará no meio dela. ^v8
 
-**9** A oferta que haveis de oferecer ao Senhor será do comprimento de vinte e cinco mil canas, e da largura de dez mil. ^v9
+**9** Esta é terra que oferecerás a Yahweh; será de vinte e cinco mil côvados de comprimento e dez mil côvados de largura. ^v9
 
-**10** E ali será a oferta santa para os sacerdotes, medindo para o norte vinte e cinco mil canas de comprimento, e para o ocidente dez mil de largura, e para o oriente dez mil de largura, e para o sul vinte e cinco mil de comprimento; e o santuário do Senhor estará no meio dela. ^v10
+**10** Estas serão as tarefas das atribuições da porção santa da terra: os sacerdotes terão terras separadas para eles, medindo vinte e cinco mil côvados de comprimento para o lado do norte; dez mil côvados de largura para o lado oeste; dez mil côvados de largura para o lado leste; vinte e cinco mil côvados de comprimento para o lado sul, com o lugar santo de Yahweh no meio dela. ^v10
 
-**11** E será para os sacerdotes santificados dentre os filhos de Zadoque, que guardaram a minha ordenança, que não se desviaram, quando os filhos de Israel se extraviaram, como se extraviaram os outros levitas. ^v11
+**11** Isto será para a consagração dos sacerdotes da linhagem de Zadoque, que têm Me servido fielmente e não se desviaram quando o povo de Israel se desviou, como os levitas também fizeram. ^v11
 
-**12** E eles terão uma oferta, da oferta da terra, lugar santíssimo, junto ao limite dos levitas. ^v12
+**12** A oferta para eles será a porção desta santíssima terra, estendendo-se ao limite dos levitas. ^v12
 
-**13** E os levitas terão, consoante ao termo dos sacerdotes, vinte e cinco mil canas de comprimento, e de largura dez mil; todo o comprimento será vinte e cinco mil, e a largura dez mil. ^v13
+**13** A terra dos levitas, ao longo do limite da terra, dos sacerdotes será de vinte e cinco mil côvados de comprimento e dez mil côvados de largura. Todo o comprimento das duas extensões de terra será de vinte e cinco mil côvados de comprimento e vinte mil côvados de largura. ^v13
 
-**14** E não venderão disto, nem trocarão, nem transferirão as primícias da terra, porque é santidade ao Senhor. ^v14
+**14** E eles não a venderão nem a trocarão; nenhuma destas primícias da terra de Israel podem ser transferidas a outros, pois tudo isto é santidade a Yahweh. ^v14
 
-**15** Mas as cinco mil canas, as que restaram da largura, diante das vinte e cinco mil, ficarão para uso comum, para a cidade, para habitação e para arrabaldes; e a cidade estará no meio delas. ^v15
+**15** A terra restante, cinco mil côvados de largura e vinte e cinco mil côvados de comprimento, será para o uso comum da cidade, das casas e das pastagens; a cidade estará no meio dela. ^v15
 
-**16** E estas serão as suas medidas: o lado do norte de quatro mil e quinhentas canas, o lado do sul de quatro mil e quinhentas, o lado oriental de quatro mil e quinhentas e o lado ocidental de quatro mil e quinhentas. ^v16
+**16** Estas serão as medidas da cidade: o lado do norte terá quatro mil e quinhentos côvados de comprimento; o lado do sul terá quatro mil e quinhentos côvados de comprimento; o lado do leste terá quatro mil e quinhentos côvados de comprimento; e o lado do oeste terá quatro mil e quinhentos côvados de comprimento. ^v16
 
-**17** E os arrabaldes da cidade serão para o norte de duzentas e cinqüenta canas, para o sul de duzentas e cinqüenta, para o oriente de duzentas e cinqüenta e para o ocidente de duzentas e cinqüenta. ^v17
+**17** Haverá pastagem para a cidade, duzentos e cinquenta côvados em direção ao norte, duzentos e cinquenta côvados em direção ao sul, duzentos e cinquenta côvados em direção ao leste e duzentos e cinquenta côvados em direção ao oeste. ^v17
 
-**18** E, quanto ao que restou do comprimento, consoante com a santa oferta, será dez mil para o oriente, e dez mil para o ocidente; e corresponderá à santa oferta; e a sua novidade será para sustento daqueles que servem a cidade. ^v18
+**18** E, quanto à área restante da oferta santa, ela terá dez mil côvados para o leste e dez mil côvados para o oeste. Ela se estenderá ao longo do limite da santa oferta e esta produzirá alimentos para todos que trabalham na cidade. ^v18
 
-**19** E os que servem à cidade, servi-la-ão dentre todas as tribos de Israel. ^v19
+**19** O povo que serve na cidade, dentre todas as tribos de Israel, cultivará aquela terra. ^v19
 
-**20** Toda a oferta será de vinte e cinco mil canas com mais vinte e cinco mil; em quadrado oferecereis a oferta santa, com a possessão da cidade. ^v20
+**20** Todas as terras oferecidas medirão vinte e cinco mil côvados por vinte e cinco mil côvados. Desse modo, farás uma oferta santa da terra, juntamente com a terra da cidade. ^v20
 
-**21** E o que restou será para o príncipe; deste e do outro lado da oferta santa, e da possessão da cidade, diante das vinte e cinco mil canas da oferta, até ao termo do oriente e do ocidente, diante das vinte e cinco mil, até ao termo do ocidente, correspondente às porções, será para o príncipe; e a santa oferta e o santuário da casa estarão no meio dela. ^v21
+**21** O resto da terra, em cada lado da oferta santa e da área da cidade, será para o príncipe. O trecho da terra do príncipe do lado leste terá vinte e cinco mil côvados, desde do limite da oferta santa para o leste e o trecho do oeste será de vinte e cinco mil côvados para o limite do oeste. A oferta santa e o santuário do templo estarão no meio dele. ^v21
 
-**22** E desde a possessão dos levitas, e desde a possessão da cidade, no meio do que pertencer ao príncipe, entre o termo de Judá, e o termo de Benjamim, será isso para o príncipe. ^v22
+**22** A terra que se estende da propriedade dos levitas e a área do meio da cidade será para o príncipe; estará entre o limite de Judá e o limite de Benjamim, essa terra será para o príncipe. ^v22
 
-**23** E, quanto ao restante das tribos, desde o lado oriental até o lado ocidental, Benjamim terá uma porção. ^v23
+**23** E, quanto ao resto das tribos, as suas porções tambem irão do lado do leste para o lado oeste. Benjamim receberá uma porção. ^v23
 
-**24** E junto ao termo de Benjamim, desde o lado oriental até o lado ocidental, Simeão terá uma porção. ^v24
+**24** E, junto do limite de Benjamim desde o lado leste para o oeste, Simeão terá uma porção. ^v24
 
-**25** E junto ao termo de Simeão, desde o lado oriental até o lado ocidental, Issacar terá uma porção. ^v25
+**25** Junto do limite de Simeão desde o lado leste para o oeste, Issacar terá uma porção. ^v25
 
-**26** E junto ao termo de Issacar, desde o lado oriental até o lado ocidental, Zebulom terá uma porção. ^v26
+**26** E, junto do limite de Issacar desde o lado leste para o lado oeste, Zebulom terá uma porção. ^v26
 
-**27** E junto ao termo de Zebulom, desde o lado oriental até o lado ocidental, Gade terá uma porção. ^v27
+**27** Ao sul do limite de Zebulom, do lado leste para o lado oeste, a tribo de Gade terá uma porção. ^v27
 
-**28** E junto ao termo de Gade, ao sul, do lado sul, será o termo desde Tamar até às águas da contenda de Cades, junto ao rio até ao mar grande. ^v28
+**28** O limite sul de Gade se estenderá desde Tamar até as águas de Meribá de Cades, para ao lado do ribeiro de Egito e até ao mar Grande. ^v28
 
-**29** Esta é a terra que sorteareis em herança às tribos de Israel; e estas são as suas porções, diz o Senhor DEUS. ^v29
+**29** Essa é a terra a qual lançareis sortes e será a herança das tribos de Israel. Estas serão as suas porções. Esta é a declaração de Yahweh. ^v29
 
-**30** E estas são as saídas da cidade, desde o lado norte: quatro mil e quinhentas canas por medida. ^v30
+**30** E estas são as saídas da cidade: do lado norte a medida terá quatro mil e quinhentos côvados de comprimento, ^v30
 
-**31** E as portas da cidade serão conforme os nomes das tribos de Israel; três portas para o norte: a porta de Rúben uma, a porta de Judá outra, a porta de Levi outra. ^v31
+**31** serão três portas com os nomes das tribos de Israel: uma porta de Rúben, uma porta de Judá, uma porta de Levi. ^v31
 
-**32** E do lado oriental quatro mil e quinhentas canas, e três portas, a saber: a porta de José uma, a porta de Benjamim outra, a porta de Dã outra. ^v32
+**32** Do lado leste, a medida terá quatro mil e quinhentos côvados de comprimento, serão três portas: uma porta de José, uma porta de Benjamim e uma porta de Dã. ^v32
 
-**33** E do lado sul quatro mil e quinhentas canas por medida, e três portas: a porta de Simeão uma, a porta de Issacar outra, a porta de Zebulom outra. ^v33
+**33** No lado leste, a medida será de quatro mil e quinhentos côvados de comprimento e serão três portas: uma porta de Simeão, uma porta de Issacar e uma porta de Zebulom. ^v33
 
-**34** Do lado ocidental quatro mil e quinhentas canas, e as suas três portas: a porta de Gade uma, a porta de Aser outra, a porta de Naftali outra. ^v34
+**34** Do lado oeste, a medida será de quatro mil e quinhento côvados e serão três portas: uma porta de Gade, uma porta de Aser e uma porta de Naftali. ^v34
 
-**35** Dezoito mil canas por medida terá ao redor; e o nome da cidade desde aquele dia será: o Senhor está ali. ^v35
+**35** "A distância ao redor da cidade será de dezoito mil côvados; desde aquele dia, o nome da cidade será chamado ""Yahweh está ali""." ^v35

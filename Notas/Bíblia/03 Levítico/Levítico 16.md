@@ -1,75 +1,74 @@
 ---
-Livro: "[[Levítico|Levítico]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Levítico|Levítico]]"
+tags: [biblia]
 ---
 
 # Levítico 16
 
-**1** E falou o SENHOR a Moisés, depois da morte dos dois filhos de Arão, que morreram quando se chegaram diante do SENHOR. ^v1
+**1** Yahweh falou com Moisés, isto depois da morte dos dois filhos de Arão, quando eles se aproximaram de Yahweh e morreram. ^v1
 
-**2** Disse, pois, o Senhor a Moisés: Dize a Arão, teu irmão, que não entre no santuário em todo o tempo, para dentro do véu, diante do propiciatório que está sobre a arca, para que não morra; porque eu aparecerei na nuvem sobre o propiciatório. ^v2
+**2** "Yahweh disse a Moisés: ""Dize a Arão, teu irmão, que não entre a qualquer momento no santíssimo lugar além do véu, diante do propiciatório que está sobre a arca. Se ele entrar, ele morrerá, porque Eu apareceço na nuvem sobre o propiciatório." ^v2
 
-**3** Com isto Arão entrará no santuário: com um novilho, para expiação do pecado, e um carneiro para holocausto. ^v3
+**3** Então será assim que Arão deverá entrar no lugar santíssimo: com um novilho, como oferta pelo pecado, e um carneiro, como holocausto. ^v3
 
-**4** Vestirá ele a túnica santa de linho, e terá ceroulas de linho sobre a sua carne, e cingir-se-á com um cinto de linho, e se cobrirá com uma mitra de linho; estas são vestes santas; por isso banhará a sua carne na água, e as vestirá. ^v4
+**4** Deverá vestir-se com a túnica de linho sagrada e com as roupas de baixo que são calções de linho, deverá usar cinto de linho e turbante de linho sobre a cabeça. Estas são as vestes sagradas. Ele deverá banhar-se em água e vestir-se com essas roupas. ^v4
 
-**5** E da congregação dos filhos de Israel tomará dois bodes para expiação do pecado e um carneiro para holocausto. ^v5
+**5** Tomará da congregação de Israel dois bodes, como oferta pelo pecado, e um carneiro para holocausto. ^v5
 
-**6** Depois Arão oferecerá o novilho da expiação, que será para ele; e fará expiação por si e pela sua casa. ^v6
+**6** Então Arão deverá apresentar o novilho como sua oferta pelo pecado, para fazer expiação por si mesmo e por sua família. ^v6
 
-**7** Também tomará ambos os bodes, e os porá perante o Senhor, à porta da tenda da congregação. ^v7
+**7** Então ele deverá tomar dois bodes e apresentá-los perante Yahweh na entrada da tenda do encontro. ^v7
 
-**8** E Arão lançará sortes sobre os dois bodes; uma pelo Senhor, e a outra pelo bode emissário. ^v8
+**8** Então Arão deverá lançar sorte sobre os dois bodes, uma por Yahweh e outra pelo bode expiatório. ^v8
 
-**9** Então Arão fará chegar o bode, sobre o qual cair a sorte pelo Senhor, e o oferecerá para expiação do pecado. ^v9
+**9** Arão deverá apresentar o bode sobre o qual cair a sorte para Yahweh e sacrificá-lo como oferta pelo pecado. ^v9
 
-**10** Mas o bode, sobre que cair a sorte para ser bode emissário, apresentar-se-á vivo perante o Senhor, para fazer expiação com ele, a fim de enviá-lo ao deserto como bode emissário. ^v10
+**10** Mas o bode sobre o qual a sorte cair como bode expiatório deverá ser levado vivo diante de Yahweh, para fazer a expiação enviando-o como o bode expiatório para o deserto. ^v10
 
-**11** E Arão fará chegar o novilho da expiação, que será por ele, e fará expiação por si e pela sua casa; e degolará o novilho da sua expiação. ^v11
+**11** Então Arão deverá apresentar o novilho como sua oferta pelo pecado. Ele deve fazer expiação por si mesmo e por sua família, então matará o novilho como sua oferta pelo pecado. ^v11
 
-**12** Tomará também o incensário cheio de brasas de fogo do altar, de diante do Senhor, e os seus punhos cheios de incenso aromático moído, e o levará para dentro do véu. ^v12
+**12** Arão tomará um incensário cheio de brasas de fogo tiradas do altar diante de Yahweh, com suas mãos cheias de incenso agradável bem moído, e trará para além do véu. ^v12
 
-**13** E porá o incenso sobre o fogo perante o Senhor, e a nuvem do incenso cobrirá o propiciatório, que está sobre o testemunho, para que não morra. ^v13
+**13** Ali ele colocará o incenso no fogo diante de Yahweh, para que a nuvem do incenso cubra o propiciatório sobre a arca do Testemunho, a fim de que não morra. ^v13
 
-**14** E tomará do sangue do novilho, e com o seu dedo espargirá sobre a face do propiciatório, para o lado oriental; e perante o propiciatório espargirá sete vezes do sangue com o seu dedo. ^v14
+**14** Então ele pegará um pouco de sangue do novilho e aspergirá com o seu dedo sobre a frente do propiciatório. Ele aspergirá um pouco de sangue com o seu dedo sete vezes diante do propiciatório. ^v14
 
-**15** Depois degolará o bode, da expiação, que será pelo povo, e trará o seu sangue para dentro do véu; e fará com o seu sangue como fez com o sangue do novilho, e o espargirá sobre o propiciatório, e perante a face do propiciatório. ^v15
+**15** Então ele matará o bode que for oferecido pelo pecado do povo e trará para além do véu. Ali ele fará com o sangue como fez com o sangue do novilho: aspergirá sobre o propiciatório na parte da frente. ^v15
 
-**16** Assim fará expiação pelo santuário por causa das imundícias dos filhos de Israel e das suas transgressões, e de todos os seus pecados; e assim fará para a tenda da congregação que reside com eles no meio das suas imundícias. ^v16
+**16** Ele fará expiação pelo santo lugar por causa das ações impuras do povo de Israel, pela sua rebelião e todos os seus pecados. Ele também fará isso pela tenda do encontro, onde Yahweh habita entre eles, na presença de suas ações impuras. ^v16
 
-**17** E nenhum homem estará na tenda da congregação quando ele entrar para fazer expiação no santuário, até que ele saia, depois de feita expiação por si mesmo, e pela sua casa, e por toda a congregação de Israel. ^v17
+**17** Ninguém mais deverá estar na tenda do encontro quando Arão entrar para fazer a expiação no santíssimo lugar, e até ele sair e tiver terminado de fazer a expiação por si mesmo, por sua família e por toda a congregação de Israel. ^v17
 
-**18** Então sairá ao altar, que está perante o Senhor, e fará expiação por ele; e tomará do sangue do novilho, e do sangue do bode, e o porá sobre as pontas do altar ao redor. ^v18
+**18** Ele sairá ao altar que está diante de Yahweh e fará expiação pelo altar e deverá pegar um pouco de sangue do novilho, e um pouco do sangue de bode, e colocará sobre chifres em volta do altar. ^v18
 
-**19** E daquele sangue espargirá sobre o altar, com o seu dedo, sete vezes, e o purificará das imundícias dos filhos de Israel, e o santificará. ^v19
+**19** Com o seu dedo aspergirá um pouco de sangue sete vezes sobre o altar, para purificá-lo das ações impuras do povo de Israel. ^v19
 
-**20** Havendo, pois, acabado de fazer expiação pelo santuário, e pela tenda da congregação, e pelo altar, então fará chegar o bode vivo. ^v20
+**20** Quando tiver terminado a expiação pelo santíssimo lugar, pela tenda do encontro e pelo altar, ele deverá apresentar o bode vivo. ^v20
 
-**21** E Arão porá ambas as suas mãos sobre a cabeça do bode vivo, e sobre ele confessará todas as iniqüidades dos filhos de Israel, e todas as suas transgressões, e todos os seus pecados; e os porá sobre a cabeça do bode, e enviá-lo-á ao deserto, pela mão de um homem designado para isso. ^v21
+**21** Arão colocará as duas mãos sobre a cabeça do bode vivo e confessará sobre ele todas as fraquezas do povo de Israel, sua rebelião e todos os seus pecados. Então ele colocará sobre a cabeça do bode todos os pecados e mandará o bode embora aos cuidados de um homem que estiver pronto para conduzir o bode para o deserto. ^v21
 
-**22** Assim aquele bode levará sobre si todas as iniqüidades deles à terra solitária; e deixará o bode no deserto. ^v22
+**22** O bode levará sobre si todas as fraquezas do povo para um lugar solitário. Lá no deserto, o homem deixará o bode ir livremente. ^v22
 
-**23** Depois Arão virá à tenda da congregação, e despirá as vestes de linho, que havia vestido quando entrara no santuário, e ali as deixará. ^v23
+**23** Então Arão voltará à tenda do encontro, tirará as vestes de linho que ele havia colocado antes de entrar no santíssimo lugar e as deixará ali. ^v23
 
-**24** E banhará a sua carne em água no lugar santo, e vestirá as suas vestes; então sairá e preparará o seu holocausto, e o holocausto do povo, e fará expiação por si e pelo povo. ^v24
+**24** Ele deverá banhar-se em água em um lugar sagrado e colocar suas próprias roupas; então ele deverá sair e oferecer seu holocausto e o holocausto pelo povo, e desta maneira, fazer expiação por si mesmo e pelo povo. ^v24
 
-**25** Também queimará a gordura da expiação do pecado sobre o altar. ^v25
+**25** Ele deverá queimar no altar a gordura da oferta pelo pecado. ^v25
 
-**26** E aquele que tiver levado o bode emissário lavará as suas vestes, e banhará a sua carne em água; e depois entrará no arraial. ^v26
+**26** O homem que soltar o bode expiatório deverá lavar suas roupas e banhar-se em água; depois disso, poderá voltar ao acampamento. ^v26
 
-**27** Mas o novilho da expiação, e o bode da expiação do pecado, cujo sangue foi trazido para fazer expiação no santuário, serão levados fora do arraial; porém as suas peles, a sua carne, e o seu esterco queimarão com fogo. ^v27
+**27** O novilho e o bode da oferta pelo pecado, cujo sangue foi trazido para fazer a expiação no santo lugar, irão ser levados para fora do acampamento. Serão queimados o couro, a carne e o excremento. ^v27
 
-**28** E aquele que os queimar lavará as suas vestes, e banhará a sua carne em água; e depois entrará no arraial. ^v28
+**28** O homem que queimar essas partes deverá lavar as suas roupas e banhar-se em água; depois disso, ele poderá voltar ao acampamento. ^v28
 
-**29** E isto vos será por estatuto perpétuo: no sétimo mês, aos dez do mês, afligireis as vossas almas, e nenhum trabalho fareis nem o natural nem o estrangeiro que peregrina entre vós. ^v29
+**29** Isto será um estatuto perpétuo para vós: no sétimo mês, no décimo dia do mês, devereis humilhar-vos e não trabalhareis, tanto o nativo quanto o estrangeiro que vive entre vós. ^v29
 
-**30** Porque naquele dia se fará expiação por vós, para purificar-vos; e sereis purificados de todos os vossos pecados perante o Senhor. ^v30
+**30** Porque nesse dia a expiação será feita por vós, para vos purificar de todo pecado, então vós sereis limpos diante de Yahweh. Esse será um Sábado solene de descanso para vós, e devereis humilhar-vos e não trabalhareis. ^v30
 
-**31** É um sábado de descanso para vós, e afligireis as vossas almas; isto é estatuto perpétuo. ^v31
+**31** Este será um estatuto para sempre entre vós. ^v31
 
-**32** E o sacerdote, que for ungido, e que for sagrado, para administrar o sacerdócio, no lugar de seu pai, fará a expiação, havendo vestido as vestes de linho, as vestes santas; ^v32
+**32** O sumo sacerdote que for ungido e ordenado para ser o sumo sacerdote no lugar de seu pai, fará expiação e colocará as vestes de linho, que são vestes santas. ^v32
 
-**33** Assim fará expiação pelo santo santuário; também fará expiação pela tenda da congregação e pelo altar; semelhantemente fará expiação pelos sacerdotes e por todo o povo da congregação. ^v33
+**33** Ele fará a expiação para o santíssimo lugar, para a tenda do encontro e para o altar, e fará expiação pelo sacerdote e por toda a congregação. ^v33
 
-**34** E isto vos será por estatuto perpétuo, para fazer expiação pelos filhos de Israel de todos os seus pecados, uma vez no ano. E fez Arão como o Senhor ordenara a Moisés. ^v34
+**34** "Isto será um estatuto perpétuo para vós: para fazer expiação uma vez por ano pelo povo de Israel, por causa de todos os seus pecados."" E isso foi feito como Yahweh ordenou a Moisés." ^v34

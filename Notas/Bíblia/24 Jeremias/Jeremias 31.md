@@ -1,87 +1,86 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Jeremias|Jeremias]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Jeremias|Jeremias]]"
+tags: [biblia]
 ---
 
 # Jeremias 31
 
-**1** Naquele tempo, diz o SENHOR, serei o Deus de todas as famílias de Israel, e elas serão o meu povo. ^v1
+**1** "Esta é a declaração de Yahweh: ""Naquele tempo, Eu serei o Deus de todas as famílias de Israel e eles serão Meu povo.""" ^v1
 
-**2** Assim diz o Senhor: O povo dos que escaparam da espada achou graça no deserto. Israel mesmo, quando eu o fizer descansar. ^v2
+**2** "Assim diz Yahweh: ""O povo que sobreviveu à espada, achou favor no deserto; Eu darei descanso a Israel.""" ^v2
 
-**3** Há muito que o Senhor me apareceu, dizendo: Porquanto com amor eterno te amei, por isso com benignidade te atraí. ^v3
+**3** "Yahweh me apareceu no passado e disse: ""Eu te amei, Israel, com amor eterno. Por isso te atraí a Mim com amor leal." ^v3
 
-**4** Ainda te edificarei, e serás edificada, ó virgem de Israel! Ainda serás adornada com os teus tamboris, e sairás nas danças dos que se alegram. ^v4
+**4** Edificarei novamente a ti e serás edificada, ó virgem Israel! Ainda pegarás teus tamborins e sairás com danças alegres. ^v4
 
-**5** Ainda plantarás vinhas nos montes de Samaria; os plantadores as plantarão e comerão como coisas comuns. ^v5
+**5** Plantarás vinhas novamente nas montanhas de Samaria; os agricultores plantarão e colherão os frutos. ^v5
 
-**6** Porque haverá um dia em que gritarão os vigias sobre o monte de Efraim: Levantai-vos, e subamos a Sião, ao Senhor nosso Deus. ^v6
+**6** "Porque virá o dia em que as sentinelas, nas montanhas de Efraim, proclamarão: 'Levantai-vos, subamos à Sião para Yahweh, nosso Deus.""" ^v6
 
-**7** Porque assim diz o Senhor: Cantai sobre Jacó com alegria, e exultai por causa do chefe das nações; proclamai, cantai louvores, e dizei: Salva, Senhor, ao teu povo, o restante de Israel. ^v7
+**7** "Pois, Yahweh diz isto: ""Exultai de alegria por Jacó! Exultai por causa da cabeça das nações! Que seja ouvido o louvor! Dizei: 'Yahweh tem salvado Seu povo, o remanescente de Israel.'" ^v7
 
-**8** Eis que os trarei da terra do norte, e os congregarei das extremidades da terra; entre os quais haverá cegos e aleijados, grávidas e as de parto juntamente; em grande congregação voltarão para aqui. ^v8
+**8** Vede, estou prestes a trazê-los das terras do norte. Eu os ajuntarei das partes mais distantes da Terra. Os cegos e os aleijados estarão entre eles; mulheres grávidas e as que estão prestes a dar à luz também. Uma grande multidão retornará aqui. ^v8
 
-**9** Virão com choro, e com súplicas os levarei; guiá-los-ei aos ribeiros de águas, por caminho direito, no qual não tropeçarão, porque sou um pai para Israel, e Efraim é o meu primogênito. ^v9
+**9** "Eles virão chorando, e os conduzirei enquanto fazem suas súplicas. Eu vou guiá-los aos ribeiros de águas, por um caminho reto em que não tropeçarão, pois serei um pai para Israel, e Efraim será meu primogênito.""" ^v9
 
-**10** Ouvi a palavra do Senhor, ó nações, e anunciai-a nas ilhas longínquas, e dizei: Aquele que espalhou a Israel o congregará e o guardará, como o pastor ao seu rebanho. ^v10
+**10** """Escutai, nações, a palavra de Yahweh! E anunciai nas ilhas distantes. Vós, nações, deveis dizer: 'Aquele que espalhou Israel o reunirá e o guardará, como um pastor que guarda suas ovelhas.""" ^v10
 
-**11** Porque o Senhor resgatou a Jacó, e o livrou da mão do que era mais forte do que ele. ^v11
+**11** Porque Yahweh resgatou Jacó e o livrou da mão do que era mais forte do que ele. ^v11
 
-**12** Assim que virão, e exultarão no alto de Sião, e correrão aos bens do Senhor, ao trigo, e ao mosto, e ao azeite, e aos cordeiros e bezerros; e a sua alma será como um jardim regado, e nunca mais andarão tristes. ^v12
+**12** Então, eles virão e se regozijarão nas alturas de Sião. Seus rostos brilharão por causa da bondade de Yahweh; por causa do trigo e do vinho novo, do óleo e da cria de cordeiros e bezerros. Pois suas vidas se tornarão como um jardim regado, e eles nunca mais sentirão tristeza. ^v12
 
-**13** Então a virgem se alegrará na dança, como também os jovens e os velhos juntamente; e tornarei o seu pranto em alegria, e os consolarei, e lhes darei alegria em lugar de tristeza. ^v13
+**13** Então, as virgens se alegrarão com danças e os jovens e velhos ficarão juntos, porque tornarei o luto deles em celebração. Terei compaixão deles e os farei regozijarem-se, ao invés de se lamentarem. ^v13
 
-**14** E saciarei a alma dos sacerdotes com gordura, e o meu povo se fartará dos meus bens, diz o Senhor. ^v14
+**14** "Então, saciarei a vida dos sacerdotes com fartura. Meu povo se satisfará com a Minha bondade – esta é a declaração de Yahweh.""" ^v14
 
-**15** Assim diz o Senhor: Uma voz se ouviu em Ramá, lamentação, choro amargo; Raquel chora seus filhos; não quer ser consolada quanto a seus filhos, porque já não existem. ^v15
+**15** "Assim diz Yahweh: ""Uma voz é ouvida em Ramá, lamento e choro amargo: Raquel está chorando por seus filhos e se recusa a ser consolada sobre eles, pois não vivem mais.""" ^v15
 
-**16** Assim diz o Senhor: Reprime a tua voz de choro, e as lágrimas de teus olhos; porque há galardão para o teu trabalho, diz o Senhor, pois eles voltarão da terra do inimigo. ^v16
+**16** "Assim diz Yahweh: ""Reprime tua voz de choro e teus olhos das lágrimas, porque há uma recompensa para o teu sofrimento— esta é a declaração de Yahweh— teus filhos retornarão da terra do inimigo." ^v16
 
-**17** E há esperança quanto ao teu futuro, diz o Senhor, porque teus filhos voltarão para os seus termos. ^v17
+**17** "Há esperança para o teu futuro— esta é a declaração de Yahweh— teus filhos retornarão para os seus territórios.""" ^v17
 
-**18** Bem ouvi eu que Efraim se queixava, dizendo: Castigaste-me e fui castigado, como novilho ainda não domado; converte-me, e converter-me-ei, porque tu és o Senhor meu Deus. ^v18
+**18** """Eu, certamente, ouvi Efraim lamentando: 'Tu me castigaste e fui punido. Traze-me de volta como um novilho não domado e voltarei, pois Tu és Yahweh, meu Deus." ^v18
 
-**19** Na verdade que, depois que me converti, tive arrependimento; e depois que fui instruído, bati na minha coxa; fiquei confuso, e também me envergonhei; porque suportei o opróbrio da minha mocidade. ^v19
+**19** Porque, depois que me voltei para Ti, me arrependi; depois de ser domado, bati em minha coxa com pesar. Eu estava envergonhado e humilhado por carregar a culpa da minha juventude.' ^v19
 
-**20** Não é Efraim para mim um filho precioso, criança das minhas delícias? Porque depois que falo contra ele, ainda me lembro dele solicitamente; por isso se comovem por ele as minhas entranhas; deveras me compadecerei dele, diz o Senhor. ^v20
+**20** "Não é Efraim Meu filho precioso? Não é ele Meu filho querido e agradável? Pois quando falo contra ele, certamente, ainda Me lembro com amor. Assim, Meu coração lhe deseja. Eu, certamente, terei compaixão dele — esta é a declaração de Yahweh.""" ^v20
 
-**21** Levanta para ti sinais, faze para ti altos marcos, aplica o teu coração à vereda, ao caminho por onde andaste; volta, pois, ó virgem de Israel, regressa a estas tuas cidades. ^v21
+**21** Coloca marcos e põe sinais que te guiem; coloca a tua mente no caminho pelo qual andaste. Volta, virgem de Israel! Volta para as tuas cidades! ^v21
 
-**22** Até quando andarás errante, ó filha rebelde? Porque o Senhor criou uma coisa nova sobre a terra; uma mulher cercará a um homem. ^v22
+**22** Por quanto tempo continuarás a fraquejar, filha rebelde? Pois, Yahweh criou algo novo na terra: uma mulher cercará um homem. ^v22
 
-**23** Assim diz o Senhor dos Exércitos, o Deus de Israel: Ainda dirão esta palavra na terra de Judá, e nas suas cidades, quando eu vos restaurar do seu cativeiro: O Senhor te abençoe, ó morada de justiça, ó monte de santidade! ^v23
+**23** "Yahweh dos Exércitos, o Deus de Israel, diz: ""Quando Eu trouxer de volta o povo para sua terra, dirão isto na terra de Judá e nas suas cidades: 'Que Yahweh te abençoe, ó morada da justiça, ó monte santo!'" ^v23
 
-**24** E nela habitarão Judá, e todas as suas cidades juntamente; como também os lavradores e os que pastoreiam o rebanho. ^v24
+**24** Pois Judá e todas as suas cidades viverão juntas ali, assim como os lavradores e pastores com seus rebanhos. ^v24
 
-**25** Porque satisfiz a alma cansada, e toda a alma entristecida saciei. ^v25
+**25** "Pois, Eu darei aos cansados água para beber, e vou saciar todos os que sofrem de sede.""" ^v25
 
-**26** Nisto despertei, e olhei, e o meu sono foi doce para mim. ^v26
+**26** Depois disto, acordei e percebi que meu sono havia sido agradável. ^v26
 
-**27** Eis que dias vêm, diz o Senhor, em que semearei a casa de Israel, e a casa de Judá, com a semente de homens, e com a semente de animais. ^v27
+**27** Eis que, dias virão – esta é a declaração de Yahweh – quando Eu semearei as casas de Israel e de Judá, com semente de homens e de animais. ^v27
 
-**28** E será que, como velei sobre eles, para arrancar, e para derrubar, e para transtornar, e para destruir, e para afligir, assim velarei sobre eles, para edificar e para plantar, diz o Senhor. ^v28
+**28** No passado, Eu os mantive sob vigilância, a fim de arrancá-los, derrubá-los, demoli-los, destruí-los e prejudicá-los. Mas nos dias que virão, Eu os vigiarei, a fim de edificá-los e plantá-los – esta é a declaração de Yahweh. ^v28
 
-**29** Naqueles dias nunca mais dirão: Os pais comeram uvas verdes, e os dentes dos filhos se embotaram. ^v29
+**29** Naqueles dias ninguém mais dirá: 'Os pais comeram uvas verdes e os dentes dos filhos ficaram opacos.' ^v29
 
-**30** Mas cada um morrerá pela sua iniqüidade; de todo o homem que comer as uvas verdes os dentes se embotarão. ^v30
+**30** Pois, cada homem morrerá em sua própria iniquidade; todos os que comerem uvas verdes, terão seus dentes opacos. ^v30
 
-**31** Eis que dias vêm, diz o Senhor, em que farei uma aliança nova com a casa de Israel e com a casa de Judá. ^v31
+**31** Eis que virão dias – esta é a declaração de Yahweh – quando estabelecerei uma nova aliança com a casa de Israel e com a casa de Judá. ^v31
 
-**32** Não conforme a aliança que fiz com seus pais, no dia em que os tomei pela mão, para os tirar da terra do Egito; porque eles invalidaram a minha aliança apesar de eu os haver desposado, diz o Senhor. ^v32
+**32** Não será como a aliança que Eu estabeleci com seus pais, nos dias em que os tomei pela mão, para trazê-los para fora da terra do Egito. Aqueles foram dias em que quebraram minha aliança; embora Eu fosse o Senhor deles — esta é a declaração de Yahweh. ^v32
 
-**33** Mas esta é a aliança que farei com a casa de Israel depois daqueles dias, diz o Senhor: Porei a minha lei no seu interior, e a escreverei no seu coração; e eu serei o seu Deus e eles serão o meu povo. ^v33
+**33** Mas esta é a aliança que estabelecerei com a casa de Israel depois desses dias, esta é a declaração de Yahweh: 'Eu colocarei a Minha lei no meio deles e a escreverei em seus corações, pois Eu serei o seu Deus e eles serão o Meu povo. ^v33
 
-**34** E não ensinará mais cada um a seu próximo, nem cada um a seu irmão, dizendo: Conhecei ao Senhor; porque todos me conhecerão, desde o menor até ao maior deles, diz o Senhor; porque lhes perdoarei a sua maldade, e nunca mais me lembrarei dos seus pecados. ^v34
+**34** "Então, cada homem não ensinará mais ao seu próximo, nem cada um ao seu irmão, dizendo: 'Conhece a Yahweh!' Pois todos eles, do menor até o maior, conhecerão quem Eu sou – esta é a declaração de Yahweh – pois Eu perdoarei a sua iniquidade e não Me lembrarei mais dos seus pecados.""" ^v34
 
-**35** Assim diz o Senhor, que dá o sol para luz do dia, e as ordenanças da lua e das estrelas para luz da noite, que agita o mar, bramando as suas ondas; o Senhor dos Exércitos é o seu nome. ^v35
+**35** Yahweh diz isto – Yahweh, Aquele que faz o sol brilhar durante o dia, e organiza a lua e as estrelas para brilharem à noite. Ele é quem coloca o mar em movimento para que suas ondas rujam. Yahweh dos Exércitos é o Seu nome. Ele diz : ^v35
 
-**36** Se falharem estas ordenanças de diante de mim, diz o Senhor, deixará também a descendência de Israel de ser uma nação diante de mim para sempre. ^v36
+**36** """Somente se estas coisas permanentes desaparecerem da minha vista – esta é a declaração de Yahweh – os descendentes de Israel deixarão de ser, para sempre, uma nação perante Mim.""" ^v36
 
-**37** Assim disse o Senhor: Se puderem ser medidos os céus lá em cima, e sondados os fundamentos da terra cá em baixo, também eu rejeitarei toda a descendência de Israel, por tudo quanto fizeram, diz o Senhor. ^v37
+**37** "Assim diz Yahweh: ""Somente se os mais altos céus puderem ser medidos, e a fundação da Terra puder ser descoberta, rejeitarei todos os descendentes de Israel, por causa de tudo o que eles fizeram – esta é a declaração de Yahweh.""" ^v37
 
-**38** Eis que vêm dias, diz o Senhor, em que esta cidade será reedificada para o Senhor, desde a torre de Hananeel até à porta da esquina. ^v38
+**38** """Eis que dias virão – esta é a declaração de Yahweh – quando a cidade será reconstruída para Mim, da torre de Hananel até o portão da Esquina." ^v38
 
-**39** E a linha de medir estender-se-á para diante dela, até ao outeiro de Garebe, e virar-se-á para Goa. ^v39
+**39** Então, a corda de medir será estendida até a colina de Garebe, e contornará Goa. ^v39
 
-**40** E todo o vale dos cadáveres e da cinza, e todos os campos até ao ribeiro de Cedrom, até à esquina da porta dos cavalos para o oriente, serão consagrados ao Senhor; não se arrancará nem se derrubará mais eternamente. ^v40
+**40** "Todo o vale de cadáveres e de cinzas, todos os campos, passando pelo vale de Cedrom até a esquina do portão dos Cavalos, no oriente, serão consagrados a Mim, Yahweh. A cidade nunca mais será arrancada ou destruída novamente.""" ^v40

@@ -1,49 +1,48 @@
 ---
-Livro: "[[Êxodo|Êxodo]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Êxodo|Êxodo]]"
+tags: [biblia]
 ---
 
 # Êxodo 27
 
-**1** Farás também o altar de madeira de acácia; cinco côvados será o comprimento, e cinco côvados a largura (será quadrado o altar), e três côvados a sua altura. ^v1
+**1** Tu deves fazer o altar de madeira de acácia, cinco côvados de comprimento e cinco côvados de largura. O altar deve ser quadrado e com três côvados de altura. ^v1
 
-**2** E farás as suas pontas nos seus quatro cantos; as suas pontas serão do mesmo, e o cobrirás de cobre. ^v2
+**2** Tu deves fazer extensões de seus quatro cantos no formato de chifres de boi. Os chifres serão feitos como uma só peça com o altar, e deves cobri-los com bronze. ^v2
 
-**3** Far-lhe-ás também os seus recipientes, para recolher a sua cinza, e as suas pás, e as suas bacias, e os seus garfos e os seus braseiros; todos os seus utensílios farás de cobre. ^v3
+**3** Tu deves fazer utensílios para o altar: potes para cinzas, e também pás, bacias, garfos e braseiros. Deves fazer todos esses utensílios com bronze. ^v3
 
-**4** Far-lhe-ás também um crivo de cobre em forma de rede, e farás a esta rede quatro argolas de metal nos seus quatro cantos. ^v4
+**4** Deves fazer uma grelha para o altar, na forma de uma rede de bronze. Faça um anel de bronze para cada um dos quatro cantos da grelha. ^v4
 
-**5** E as porás dentro da borda do altar para baixo, de maneira que a rede chegue até ao meio do altar. ^v5
+**5** Tu deves colocar a grelha sob a borda do altar, de maneira que chegue até o meio do altar. ^v5
 
-**6** Farás também varais para o altar, varais de madeira de acácia, e os cobrirás de cobre. ^v6
+**6** Deves fazer varas para carregar o altar, varas de madeira de acácia, e deves cobri-las com bronze. ^v6
 
-**7** E os varais serão postos nas argolas, de maneira que os varais estejam de ambos os lados do altar, quando for levado. ^v7
+**7** As varas devem passar por dentro das argolas, e elas devem estar nos dois lados do altar para ser carregado. ^v7
 
-**8** Oco e de tábuas o farás; como se te mostrou no monte, assim o farão. ^v8
+**8** Tu deves fazer o altar oco, de tábuas. Deves fazê-lo como te foi mostrado no monte. ^v8
 
-**9** Farás também o pátio do tabernáculo, ao lado meridional que dá para o sul; o pátio terá cortinas de linho fino torcido; o comprimento de cada lado será de cem côvados. ^v9
+**9** Tu deves fazer um átrio para o tabernáculo. No lado sul do átrio, deve haver cortinas de linho fino torcido de cem côvados de comprimento. ^v9
 
-**10** Também as suas vinte colunas e as suas vinte bases serão de cobre; os colchetes das colunas e as suas faixas serão de prata. ^v10
+**10** As cortinas serão sustentadas por vinte colunas, cujas bases serão de bronze. Deve haver ganchos ligados às colunas, e hastes de prata para as cortinas. ^v10
 
-**11** Assim também para o lado norte as cortinas, no comprimento, serão de cem côvados; e as suas vinte colunas e as suas vinte bases serão de cobre; os colchetes das colunas e as suas faixas serão de prata, ^v11
+**11** Da mesma forma, no lado norte, deve haver cortinas de cem côvados de comprimento, com vinte postes, vinte bases de bronze, ganchos ligados às colunas e hastes de prata. ^v11
 
-**12** E na largura do pátio para o lado do ocidente haverá cortinas de cinqüenta côvados; as suas colunas dez, e as suas bases dez. ^v12
+**12** Na largura do átrio, no lado oeste, deve haver uma cortina de cinqüenta côvados de comprimento. Deve haver dez postes e dez bases. ^v12
 
-**13** Semelhantemente a largura do pátio do lado oriental para o levante será de cinqüenta côvados. ^v13
+**13** O átrio deve também ter cinquenta côvados de comprimento no lado leste. ^v13
 
-**14** De maneira que haja quinze côvados de cortinas de um lado; suas colunas três, e as suas bases três. ^v14
+**14** As cortinas para um lado da entrada devem ser de quinze côvados de comprimento. Elas devem ter três colunas com três bases. ^v14
 
-**15** E quinze côvados das cortinas do outro lado; as suas colunas três, e as suas bases três. ^v15
+**15** O outro lado também deve ter cortinas de quinze côvados de comprimento. Elas devem ter suas três colunas e três bases. ^v15
 
-**16** E à porta do pátio haverá uma cortina de vinte côvados, de azul, e púrpura, e carmesim, e de linho fino torcido, de obra de bordador; as suas colunas quatro, e as suas bases quatro. ^v16
+**16** O portão do átrio deve ser uma cortina de vinte côvados de comprimento. A cortina deve ser feita de azul, roxo, e vermelho, linho fino torcido, obra de bordador. Ela deve ter quatro colunas com quatro bases. ^v16
 
-**17** Todas as colunas do pátio ao redor serão cingidas de faixas de prata; os seus colchetes serão de prata, mas as suas bases de cobre. ^v17
+**17** Todas as colunas do átrio devem ter hastes de prata, ganchos de prata, e bases de bronze. ^v17
 
-**18** O comprimento do pátio será de cem côvados, e a largura de cada lado de cinqüenta, e a altura de cinco côvados, as cortinas serão de linho fino torcido; mas as suas bases serão de cobre. ^v18
+**18** O comprimento do pátio deverá ser de cem côvados, a largura de cinqüenta côvados, e a altura de cinco côvados, com finas cortinas de linho fino torcido em toda a extensão, e as bases de bronze. ^v18
 
-**19** No tocante a todos os vasos do tabernáculo em todo o seu serviço, até todos os seus pregos, e todos os pregos do pátio, serão de cobre. ^v19
+**19** Todos os utensílios a serem utilizados na tenda, e todas as estacas para o tabernáculo e para o pátio devem ser feitas de bronze. ^v19
 
-**20** Tu pois ordenarás aos filhos de Israel que te tragam azeite puro de oliveiras, batido, para o candeeiro, para fazer arder as lâmpadas continuamente. ^v20
+**20** Tu deves ordenar os israelitas para trazerem azeite puro de azeitonas prensadas para as lâmpadas, de modo que elas possam queimar continuamente. ^v20
 
-**21** Na tenda da congregação, fora do véu que está diante do testemunho, Arão e seus filhos as porão em ordem, desde a tarde até a manhã, perante o Senhor; isto será um estatuto perpétuo para os filhos de Israel, pelas suas gerações. ^v21
+**21** Na Tenda do encontro, do lado de fora do véu que está diante da Arca da aliança, Arão e seus filhos deverão manter as lâmpadas acesas de tarde até a manhã, perante Yahweh. Essa ordenança será um estatuto perpétuo ao longo das gerações da nação israelita. ^v21

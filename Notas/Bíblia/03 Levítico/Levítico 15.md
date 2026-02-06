@@ -1,73 +1,72 @@
 ---
-Livro: "[[Levítico|Levítico]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Levítico|Levítico]]"
+tags: [biblia]
 ---
 
 # Levítico 15
 
-**1** Falou mais o SENHOR a Moisés e a Arão dizendo: ^v1
+**1** Yahweh falou a Moisés e a Arão, dizendo: ^v1
 
-**2** Falai aos filhos de Israel, e dizei-lhes: Qualquer homem que tiver fluxo da sua carne, será imundo por causa do seu fluxo. ^v2
+**2** """Falai ao povo de Israel, dizei a eles: 'Quando algum homem tiver um fluxo imundo que saia do seu corpo, tornar-se-á impuro." ^v2
 
-**3** Esta, pois, será a sua imundícia, por causa do seu fluxo; se a sua carne vasa o seu fluxo ou se a sua carne estanca o seu fluxo, esta é a sua imundícia. ^v3
+**3** Sua impureza é devida ao fluxo imundo. Se seu corpo flui ou para de fluir, está imundo. ^v3
 
-**4** Toda a cama, em que se deitar o que tiver fluxo, será imunda; e toda a coisa, sobre o que se assentar, será imunda. ^v4
+**4** Toda cama na qual ele deitar ficará impura, tudo no qual ele sentar ficará impuro. ^v4
 
-**5** E qualquer que tocar a sua cama, lavará as suas roupas, e se banhará em água, e será imundo até à tarde. ^v5
+**5** Qualquer um que tocar na sua cama deverá lavar suas roupas e banhar-se na água e ficará impuro até o entardecer. ^v5
 
-**6** E aquele que se assentar sobre aquilo em que se assentou o que tem o fluxo, lavará as suas roupas, e se banhará em água, e será imundo até à tarde. ^v6
+**6** Alguém que sentar em algum lugar no qual o homem com fluxo imundo sentou, aquela pessoa deverá lavar suas roupas e banhar-se na água, ele ficará impuro até o entardecer. ^v6
 
-**7** E aquele que tocar a carne do que tem o fluxo, lavará as suas roupas, e se banhará em água, e será imundo até à tarde. ^v7
+**7** E qualquer que tocar o corpo de alguém que tem um fluido de fluxo imundo deverá lavar suas roupas e banhar-se na água, e ficará impuro até o entardecer. ^v7
 
-**8** Quando também o que tem o fluxo cuspir sobre um limpo, então lavará este as suas roupas, e se banhará em água, e será imundo até à tarde. ^v8
+**8** Se a pessoa que tem tal fluxo imundo cuspir em alguém que está limpo, então aquela pessoa deverá lavar suas roupas e banhar-se na água, e ficará impura até o entardecer. ^v8
 
-**9** Também toda a sela, em que cavalgar o que tem o fluxo, será imunda. ^v9
+**9** Qualquer que sentar onde aquele que tem fluxo cavalgar ficará impuro. ^v9
 
-**10** E qualquer que tocar em alguma coisa que esteve debaixo dele, será imundo até à tarde; e aquele que a levar, lavará as suas roupas, e se banhará em água, e será imundo até à tarde. ^v10
+**10** Quem tocar em qualquer coisa que estiver embaixo daquela pessoa ficará impuro até o entardecer, e alguém que carregar aquelas coisas deverá lavar suas roupas e banhar-se na água; ele ficará impuro até o entardecer. ^v10
 
-**11** Também todo aquele em quem tocar o que tem o fluxo, sem haver lavado as suas mãos com água, lavará as suas roupas, e se banhará em água, e será imundo até à tarde. ^v11
+**11** Toda pessoa em quem aquele que tiver tal fluxo tocar, sem ter antes lavado suas mãos na água, deverá lavar suas roupas e banhar-se na água e ficará impura até o entardecer. ^v11
 
-**12** E o vaso de barro, que tocar o que tem o fluxo, será quebrado; porém, todo o vaso de madeira será lavado com água. ^v12
+**12** Qualquer vaso de barro que alguém com tal fluxo imundo tocar deverá ser quebrado, e todo contêiner de madeira deverá ser lavado na água. ^v12
 
-**13** Quando, pois, o que tem o fluxo, estiver limpo do seu fluxo, contar-se-ão sete dias para a sua purificação, e lavará as suas roupas, e banhará a sua carne em águas correntes; e será limpo. ^v13
+**13** Quando aquele que tiver um fluxo for limpo do seu próprio fluxo, então ele deverá contar sete dias para a sua purificação; então ele deverá lavar suas roupas e banhar seu corpo em água corrente. Então ficará limpo. ^v13
 
-**14** E ao oitavo dia tomará duas rolas ou dois pombinhos, e virá perante o Senhor, à porta da tenda da congregação e os dará ao sacerdote; ^v14
+**14** No oitavo dia ele deverá tomar duas pombas ou duas rolinhas e virá diante de Yahweh na entrada da tenda do encontro; nesse lugar ele deverá dar os pássaros ao sacerdote. ^v14
 
-**15** E o sacerdote oferecerá um para expiação do pecado, e o outro para holocausto; e assim o sacerdote fará por ele expiação do seu fluxo perante o Senhor. ^v15
+**15** O sacerdote deverá oferecê-los, um como oferta pelo pecado e o outro como um holocausto, e o sacerdote deverá fazer expiação por ele diante de Yahweh por seu fluxo. ^v15
 
-**16** Também o homem, quando sair dele o sêmen da cópula, toda a sua carne banhará com água, e será imundo até à tarde. ^v16
+**16** Se qualquer sêmen de homem sair de si espontaneamente, então ele deverá banhar todo seu corpo em água; ele ficará impuro até o entardecer. ^v16
 
-**17** Também toda a roupa, e toda a pele em que houver sêmen da cópula se lavará com água, e será imundo até à tarde. ^v17
+**17** Toda peça de roupa ou de couro na qual houver sêmen deverá ser lavada com água; ficará impura até o entardecer. ^v17
 
-**18** E também se um homem se deitar com a mulher e tiver emissão de sêmen, ambos se banharão com água, e serão imundos até à tarde. ^v18
+**18** E se uma mulher e um homem dormirem juntos e houver uma transferência de sêmen para ela, ambos deverão banhar-se na água; ficarão impuros até o entardecer. ^v18
 
-**19** Mas a mulher, quando tiver fluxo, e o seu fluxo de sangue estiver na sua carne, estará sete dias na sua separação, e qualquer que a tocar, será imundo até à tarde. ^v19
+**19** Quando uma mulher menstruar, sua impureza será contínua por sete dias, e qualquer que tocar nela ficará impuro até o entardecer. ^v19
 
-**20** E tudo aquilo sobre o que ela se deitar durante a sua separação, será imundo; e tudo sobre o que se assentar, será imundo. ^v20
+**20** Todo lugar em que ela se deitar durante seu período menstrual ficará imundo; todo lugar em que ela se sentar ficará também imundo. ^v20
 
-**21** E qualquer que tocar na sua cama, lavará as suas vestes, e se banhará com água, e será imundo até à tarde. ^v21
+**21** Qualquer que tocar na cama dela deverá lavar suas roupas e banhar-se na água; aquela pessoa ficará impura até o entardecer. ^v21
 
-**22** E qualquer que tocar alguma coisa, sobre o que ela se tiver assentado, lavará as suas vestes, e se banhará com água, e será imundo até à tarde. ^v22
+**22** Quem tocar em quaquer lugar em que ela sentar deverá lavar suas roupas e banhar-se na água; aquela pessoa ficará impura até o entardecer. ^v22
 
-**23** Se também tocar alguma coisa que estiver sobre a cama ou sobre aquilo em que ela se assentou, será imundo até à tarde. ^v23
+**23** Na cama ou em algum lugar no qual ela sentar, se alguém tocar, aquela pessoa ficará impura até o entardecer. ^v23
 
-**24** E se, com efeito, qualquer homem se deitar com ela, e a sua imundícia estiver sobre ele, imundo será por sete dias; também toda a cama, sobre que se deitar, será imunda. ^v24
+**24** Se algum homem dormir com ela e se o fluxo impuro dela tocar nele, ele ficará impuro por sete dias. Toda cama na qual ele deitar ficará impura. ^v24
 
-**25** Também a mulher, quando tiver o fluxo do seu sangue, por muitos dias fora do tempo da sua separação, ou quando tiver fluxo de sangue por mais tempo do que a sua separação, todos os dias do fluxo da sua imundícia será imunda, como nos dias da sua separação. ^v25
+**25** Se uma mulher tiver um fluxo de sangue por muitos dias e aquele não for o tempo da sua menstruação ou se ela tiver um fluxo além do tempo da sua menstruação, durante todos os dias do fluxo de sua impureza, ela ficará como se estivesse nos dias do seu período. Está imunda. ^v25
 
-**26** Toda a cama, sobre que se deitar todos os dias do seu fluxo, ser-lhe-á como a cama da sua separação; e toda a coisa, sobre que se assentar, será imunda, conforme a imundícia da sua separação. ^v26
+**26** Toda cama na qual ela deitar durante o seu fluxo de sangue será para ela assim como a cama na qual ela deitar durante sua menstruação, e todo lugar no qual ela sentar ficará impuro, assim como a impureza da sua menstruação. ^v26
 
-**27** E qualquer que a tocar será imundo; portanto lavará as suas vestes, e se banhará com água, e será imundo até à tarde. ^v27
+**27** E quem tocar em alguma daquelas coisas ficará impuro; deverá lavar suas roupas e banhar-se na água, contudo ficará impuro até o entardecer. ^v27
 
-**28** Porém quando for limpa do seu fluxo, então se contarão sete dias, e depois será limpa. ^v28
+**28** Mas se ela estiver limpa do seu fluxo de sangue, então ela contará por si mesma sete dias e depois ela ficará limpa. ^v28
 
-**29** E ao oitavo dia tomará duas rolas, ou dois pombinhos, e os trará ao sacerdote, à porta da tenda da congregação. ^v29
+**29** No oitavo dia ela tomará para si duas pombas ou duas rolinhas e as levará ao sacerdote na entrada da tenda do encontro. ^v29
 
-**30** Então o sacerdote oferecerá um para expiação do pecado, e o outro para holocausto; e o sacerdote fará por ela expiação do fluxo da sua imundícia perante o Senhor. ^v30
+**30** O sacerdote oferecerá um pássaro como uma oferta pelo pecado e o outro em holocausto e fará expiação por ela diante de Yahweh para que fique limpa do fluxo de sangue. ^v30
 
-**31** Assim separareis os filhos de Israel das suas imundícias, para que não morram nas suas imundícias, contaminando o meu tabernáculo, que está no meio deles. ^v31
+**31** Assim é que devereis separar o povo de Israel de suas impurezas, então eles não morrerão devido às suas impurezas, por contaminarem Meu tabernáculo, onde Eu vivo entre eles. ^v31
 
-**32** Esta é a lei daquele que tem o fluxo, e daquele de quem sai o sêmen da cópula, e que fica por eles imundo; ^v32
+**32** Esses são os regulamentos para todos que tiverem fluxo imundo, para qualquer homem de quem o sêmen for expelido e o fizer imundo. ^v32
 
-**33** Como também da mulher enferma na sua separação, e daquele que padece do seu fluxo, seja homem ou mulher, e do homem que se deita com mulher imunda. ^v33
+**33** "Para qualquer mulher que tiver um período menstrual, para qualquer pessoa com fluxo imundo, seja homem ou mulher, e por qualquer homem que dormir com uma mulher impura'""." ^v33

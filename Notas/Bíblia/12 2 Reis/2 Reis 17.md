@@ -1,89 +1,88 @@
 ---
-Livro: "[[2 Reis|2 Reis]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/2 Reis|2 Reis]]"
+tags: [biblia]
 ---
 
 # 2 Reis 17
 
-**1** No ano duodécimo de Acaz, rei de Judá, começou a reinar Oséias, filho de Elá, e reinou sobre Israel, em Samaria, nove anos. ^v1
+**1** No décimo segundo ano de Acaz, rei de Judá, Oseias, filho de Elá, começou a reinar. Ele governou em Samaria sobre Israel por nove anos. ^v1
 
-**2** E fez o que era mau aos olhos do Senhor, contudo não como os reis de Israel que foram antes dele. ^v2
+**2** Ele fez o que era mau aos olhos de Yahweh, contudo, não como os reis de Israel que foram antes dele. ^v2
 
-**3** Contra ele subiu Salmaneser, rei da Assíria; e Oséias ficou sendo servo dele, e pagava-lhe tributos. ^v3
+**3** Salmanasar, rei da Assíria, o atacou, e Oseias ficou sendo servo dele e lhe pagava tributos. ^v3
 
-**4** Porém o rei da Assíria achou em Oséias conspiração; porque enviara mensageiros a Sô, rei do Egito, e não pagava tributos ao rei da Assíria cada ano, como dantes; então o rei da Assíria o encerrou e aprisionou na casa do cárcere. ^v4
+**4** Então, o rei da Assíria percebeu que Oseias estava conspirando contra ele, porque Oseias havia enviado mensageiros a Sô, rei do Egito; além disso, ele não pagava tributos ao rei da Assíria, a cada ano como fazia antes. ^v4
 
-**5** Porque o rei da Assíria subiu por toda a terra, e veio até Samaria, e a cercou três anos. ^v5
+**5** Então, o rei da Assíria o amarrou e o encarcerou na prisão. Depois disso, o rei da Assíria subiu por toda a terra, atacou Samaria e a sitiou por três anos. ^v5
 
-**6** No ano nono de Oséias, o rei da Assíria tomou a Samaria, e levou Israel cativo para a Assíria; e fê-los habitar em Hala e em Habor junto ao rio de Gozã, e nas cidades dos medos, ^v6
+**6** No nono ano de Oseias, o rei da Assíria tomou Samaria e levou Israel cativo para a Assíria. Ele os colocou em Hala, próximo a Habor, rio de Gozã, e nas cidades dos medos. ^v6
 
-**7** Porque sucedeu que os filhos de Israel pecaram contra o Senhor seu Deus, que os fizera subir da terra do Egito, de debaixo da mão de Faraó, rei do Egito; e temeram a outros deuses. ^v7
+**7** Esse cativeiro aconteceu porque o povo de Israel havia pecado contra Yahweh, o seu Deus, que os fez subir da terra do Egito, de debaixo do poder de Faraó, rei do Egito. O povo estava adorando outros deuses ^v7
 
-**8** E andaram nos estatutos das nações que o Senhor lançara fora de diante dos filhos de Israel, e nos dos reis de Israel, que eles fizeram. ^v8
+**8** e andaram nas práticas das nações que Yahweh havia expulsado de diante do povo de Israel e em outras práticas que os reis de Israel introduziram. ^v8
 
-**9** E os filhos de Israel fizeram secretamente coisas que não eram retas, contra o Senhor seu Deus; e edificaram altos em todas as suas cidades, desde a torre dos atalaias até à cidade fortificada. ^v9
+**9** O povo de Israel fez secretamente coisas que não eram retas contra Yahweh, seu Deus. Eles edificaram santuários em todas as suas cidades, desde a torre dos vigias até a cidade fortificada. ^v9
 
-**10** E levantaram, para si, estátuas e imagens do bosque, em todos os altos outeiros, e debaixo de todas as árvores verdes. ^v10
+**10** Eles também criaram pilares sagrados de pedra e postes a Asera em todo outeiro alto e debaixo de todas as árvores verdes. ^v10
 
-**11** E queimaram ali incenso em todos os altos, como as nações, que o Senhor expulsara de diante deles; e fizeram coisas ruins, para provocarem à ira o Senhor. ^v11
+**11** Eles queimaram incenso em todos os santuários, como as nações fizeram, aquelas que Yahweh expulsou de diante deles. Os israelitas fizeram coisas más para provocarem a ira de Yahweh; ^v11
 
-**12** E serviram os ídolos, dos quais o Senhor lhes dissera: Não fareis estas coisas. ^v12
+**12** "eles adoraram ídolos, sobre os quais Yahweh lhes dissera: ""Não façais isso""." ^v12
 
-**13** E o Senhor advertiu a Israel e a Judá, pelo ministério de todos os profetas e de todos os videntes, dizendo: Convertei-vos de vossos maus caminhos, e guardai os meus mandamentos e os meus estatutos, conforme toda a lei que ordenei a vossos pais e que eu vos enviei pelo ministério de meus servos, os profetas. ^v13
+**13** "Ainda assim, Yahweh advertiu a Israel e a Judá por intermédio de todos os profetas e de todos os videntes, dizendo: ""Convertei-vos de vossos maus caminhos, guardai Meus estatutos e mandamentos, tende cuidado para guardar toda a Lei que ordenei a vossos pais e que Eu vos enviei por intermédio dos Meus servos, os profetas""." ^v13
 
-**14** Porém não deram ouvidos; antes endureceram a sua cerviz, como a cerviz de seus pais, que não creram no Senhor seu Deus. ^v14
+**14** Mas eles não quiseram ouvir; ao invés disso, eles foram muito teimosos como seus pais, que não confiaram em Yahweh, seu Deus. ^v14
 
-**15** E rejeitaram os seus estatutos, e a sua aliança que fizera com seus pais, como também as suas advertências, com que protestara contra eles; e seguiram a vaidade, e tornaram-se vãos; como também seguiram as nações, que estavam ao redor deles, das quais o Senhor lhes tinha ordenado que não as imitassem. ^v15
+**15** Eles rejeitaram os Seus estatutos, a aliança que havia feito com os seus antepassados e os decretos da aliança que Ele lhes havia dado. Eles seguiram práticas inúteis, tornando-se inúteis. Eles seguiram as nações pagãs que estavam ao redor deles, aquelas às quais Yahweh lhes havia ordenado não imitar. ^v15
 
-**16** E deixaram todos os mandamentos do Senhor seu Deus, e fizeram imagens de fundição, dois bezerros; e fizeram um ídolo do bosque, e adoraram perante todo o exército do céu, e serviram a Baal. ^v16
+**16** Eles ignoraram todos os mandamentos de Yahweh, seu Deus. Fizeram imagens de metal fundido de dois bezerros para cultuar. Fizeram um poste a Aserá e adoraram todas as estrelas dos céus e a Baal. ^v16
 
-**17** Também fizeram passar pelo fogo a seus filhos e suas filhas, e deram-se a adivinhações, e criam em agouros; e venderam-se para fazer o que era mau aos olhos do Senhor, para o provocarem à ira. ^v17
+**17** Eles sacrificaram seus filhos e suas filhas no fogo em holocaustos, usaram adivinhação e encantamentos, venderam-se para fazer o que era mau aos olhos de Yahweh, provocando-Lhe à ira. ^v17
 
-**18** Portanto o Senhor muito se indignou contra Israel, e os tirou de diante da sua face; nada mais ficou, senão somente a tribo de Judá. ^v18
+**18** Portanto, Yahweh ficou muito indignado com Israel e os tirou diante da Sua face. Não ficou mais ninguém, além da tribo de Judá. ^v18
 
-**19** Até Judá não guardou os mandamentos do Senhor seu Deus; antes andaram nos estatutos de Israel, que eles fizeram. ^v19
+**19** Nem mesmo Judá guardou os mandamentos de Yahweh, seu Deus, mas, em vez disso, seguiu as mesmas práticas pagãs que Israel estava seguindo. ^v19
 
-**20** Por isso o Senhor rejeitou a toda a descendência de Israel, e os oprimiu, e os deu nas mãos dos despojadores, até que os expulsou da sua presença. ^v20
+**20** Assim, Yahweh rejeitou todos os descendentes de Israel; Ele os afligiu e os entregou nas mãos daqueles que tomariam posse do despojo, até que os expulsou da Sua presença. ^v20
 
-**21** Porque rasgou a Israel da casa de Davi; e eles fizeram rei a Jeroboão, filho de Nebate. E Jeroboão apartou a Israel de seguir ao Senhor, e os fez cometer um grande pecado. ^v21
+**21** Yahweh rasgou Israel da linhagem real de Davi; e eles fizeram rei a Jeroboão, filho de Nebate. Jeroboão afastou Israel de seguir Yahweh e os fez cometer um grande pecado. ^v21
 
-**22** Assim andaram os filhos de Israel em todos os pecados que Jeroboão tinha feito; nunca se apartaram deles; ^v22
+**22** O povo de Israel seguiu todos os pecados de Jeroboão e eles não se afastaram deles, ^v22
 
-**23** Até que o Senhor tirou a Israel de diante da sua presença, como falara pelo ministério de todos os seus servos, os profetas; assim foi Israel expulso da sua terra à Assíria até ao dia de hoje. ^v23
+**23** assim, Yahweh, tirou Israel da Sua presença, como Ele havia dito por meio de todos os Seus servos, os profetas, que Ele faria. Por isso, Israel foi transportado da sua própria terra para a Assíria, e assim é até o dia de hoje. ^v23
 
-**24** E o rei da Assíria trouxe gente de Babilônia, de Cuta, de Ava, de Hamate e Sefarvaim, e a fez habitar nas cidades de Samaria, em lugar dos filhos de Israel; e eles tomaram a Samaria em herança, e habitaram nas suas cidades. ^v24
+**24** O rei da Assíria trouxe gente da Babilônia, de Cuta, de Ava, de Hamate e de Sefarvaim, e os colocou nas cidades de Samaria, em lugar do povo de Israel. Eles ocuparam Samaria e viveram em suas cidades. ^v24
 
-**25** E sucedeu que, no princípio da sua habitação ali, não temeram ao Senhor; e o Senhor mandou entre eles, leões, que mataram a alguns deles. ^v25
+**25** Aconteceu que, quando começaram a morar ali, não honraram a Yahweh. Então, Yahweh enviou leões que mataram alguns deles. ^v25
 
-**26** Por isso falaram ao rei da Assíria, dizendo: A gente que transportaste e fizeste habitar nas cidades de Samaria, não sabe o costume do Deus da terra; assim mandou leões entre ela, e eis que a matam, porquanto não sabe o culto do Deus da terra. ^v26
+**26** "Por isso, falaram ao rei da Assíria, dizendo: ""As nações que tens levado e colocado nas cidades de Samaria não conhecem as práticas exigidas pelo Deus da terra. Assim, ele enviou leões entre eles e, eis que, os leões estão matando pessoas lá porque eles não conhecem as práticas exigidas pelo Deus da terra""." ^v26
 
-**27** Então o rei da Assíria mandou dizer: Levai ali um dos sacerdotes que transportastes de lá; e vá e habite lá, e ele lhes ensine o costume do Deus da terra. ^v27
+**27** "Então, o rei da Assíria ordenou, dizendo: ""Levai para lá um dos sacerdotes que trouxestes, e deixai-o ir e viver lá, deixai-o ensinar as práticas exigidas pelo Deus da terra""." ^v27
 
-**28** Veio, pois, um dos sacerdotes que transportaram de Samaria, e habitou em Betel, e lhes ensinou como deviam temer ao Senhor. ^v28
+**28** Desse modo, um dos sacerdotes que eles haviam transportado de Samaria veio e habitou em Betel; ele os ensinou como deveriam temer Yahweh. ^v28
 
-**29** Porém cada nação fez os seus deuses, e os puseram nas casas dos altos que os samaritanos fizeram, cada nação nas cidades, em que habitava. ^v29
+**29** Cada povo fez seus próprios deuses, e os colocaram nos santuários que os samaritanos tinham feito—todos os povos das cidades onde viviam. ^v29
 
-**30** E os de babilônia fizeram Sucote-Benote; e os de Cuta fizeram Nergal; e os de Hamate fizeram Asima. ^v30
+**30** O povo da Babilônia fez Sucote-Benote; o povo de Cuta fez Nergal; o povo de Hamate fez Asima; ^v30
 
-**31** E os aveus fizeram Nibaz e Tartaque; e os sefarvitas queimavam seus filhos no fogo a Adrameleque, e a Anameleque, deuses de Sefarvaim. ^v31
+**31** os aveus fizeram Nibaz e Tartaque; e os sefarvitas queimavam seus filhos em holocausto a Adrameleque e Anameleque, deuses de Sefarvaim. ^v31
 
-**32** Também temiam ao Senhor; e dos mais baixos do povo fizeram sacerdotes dos lugares altos, os quais lhes faziam o ministério nas casas dos lugares altos. ^v32
+**32** Eles também temiam a Yahweh, e nomearam entre si sacerdotes para os lugares altos, os quais sacrificavam em favor deles, nos santuários dos templos. ^v32
 
-**33** Assim temiam ao Senhor, mas também serviam a seus deuses, segundo o costume das nações dentre as quais tinham sido transportados. ^v33
+**33** Temiam a Yahweh e também adoravam os seus próprios deuses, segundo os costumes das nações do meio das quais haviam sido retirados. ^v33
 
-**34** Até ao dia de hoje fazem segundo os primeiros costumes; não temem ao Senhor, nem fazem segundo os seus estatutos, segundo as suas ordenanças, segundo a lei e segundo o mandamento que o Senhor ordenou aos filhos de Jacó, a quem deu o nome de Israel. ^v34
+**34** Até hoje, eles persistem em seus antigos costumes. Eles nem temem a Yahweh, nem seguem os estatutos, os decretos, a Lei ou os mandamentos que Yahweh deu ao Seu povo Jacó—a quem Ele deu o nome de Israel— ^v34
 
-**35** Contudo o Senhor tinha feito uma aliança com eles, e lhes ordenara, dizendo: Não temereis a outros deuses, nem vos inclinareis diante deles, nem os servireis, nem lhes sacrificareis. ^v35
+**35** "e com quem Yahweh havia feito uma aliança e Lhes ordenara: ""Não temais outros deuses, nem vos inclineis diante deles, nem os adoreis, nem sacrifiqueis a eles." ^v35
 
-**36** Mas o Senhor, que vos fez subir da terra do Egito com grande força e com braço estendido, a este temereis, e a ele vos inclinareis e a ele sacrificareis. ^v36
+**36** Mas Yahweh, que vos fez subir da terra do Egito com grande poder e braço estendido, é a Quem vós deveis honrar; é perante Ele que vos prostrareis, e é a Ele que sacrificareis. ^v36
 
-**37** E os estatutos, as ordenanças, a lei e o mandamento, que vos escreveu, tereis cuidado de fazer todos os dias; e não temereis a outros deuses. ^v37
+**37** Os estatutos e decretos, a Lei e os mandamentos que Ele vos escreveu, os guardareis para sempre. E não devais temer outros deuses, ^v37
 
-**38** E da aliança que fiz convosco não vos esquecereis; e não temereis a outros deuses. ^v38
+**38** e a aliança que fiz convosco, não esquecereis; nem temereis outros deuses. ^v38
 
-**39** Mas ao Senhor vosso Deus temereis, e ele vos livrará das mãos de todos os vossos inimigos. ^v39
+**39** "Mas a Yahweh, vosso Deus, é a Quem temereis. E Ele vos livrará das mãos de todos os vossos inimigos""." ^v39
 
-**40** Porém eles não ouviram; antes fizeram segundo o seu primeiro costume. ^v40
+**40** Contudo, eles não ouviram, pois continuaram a fazer o que haviam feito no passado. ^v40
 
-**41** Assim estas nações temiam ao Senhor e serviam as suas imagens de escultura; também seus filhos, e os filhos de seus filhos, como fizeram seus pais, assim fazem eles até ao dia de hoje. ^v41
+**41** Dessa forma, essas nações temiam a Yahweh e também adoravam as suas imagens esculpidas, e seus filhos fizeram o mesmo—como fizeram os filhos de seus filhos. Eles continuaram a fazer o que seus antepassados fizeram, até o dia de hoje. ^v41

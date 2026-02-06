@@ -1,45 +1,44 @@
 ---
-Livro: "[[Deuteronômio|Deuteronômio]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Deuteronômio|Deuteronômio]]"
+tags: [biblia]
 ---
 
 # Deuteronômio 25
 
-**1** Quando houver contenda entre alguns, e vierem a juízo, para que os julguem, ao justo justificarão, e ao injusto condenarão. ^v1
+**1** Se houver uma disputa entre homens e eles forem para a corte, e os juízes os julgarem, então, eles absolvirão o justo e condenarão o mau. ^v1
 
-**2** E será que, se o injusto merecer açoites, o juiz o fará deitar-se, para que seja açoitado diante de si; segundo a sua culpa, será o número de açoites. ^v2
+**2** Se o homem culpado merecer ser espancado, então, o juiz o fará deitar e ser espancado em sua presença com um número ordenado de golpes, de acordo com o seu crime. ^v2
 
-**3** Quarenta açoites lhe fará dar, não mais; para que, porventura, se lhe fizer dar mais açoites do que estes, teu irmão não fique envilecido aos teus olhos. ^v3
+**3** O juiz poderá lhe dar quarenta golpes, mas ele não poderá exceder esse número; pois, se ele exceder esse número e lhe der mais golpes, então, teu companheiro israelita será humilhado aos teus olhos. ^v3
 
-**4** Não atarás a boca ao boi, quando trilhar. ^v4
+**4** Não amordaces o boi quando ele estiver debulhando o cereal. ^v4
 
-**5** Quando irmãos morarem juntos, e um deles morrer, e não tiver filho, então a mulher do falecido não se casará com homem estranho, de fora; seu cunhado estará com ela, e a receberá por mulher, e fará a obrigação de cunhado para com ela. ^v5
+**5** Se irmãos morarem juntos, e um deles morrer sem ter nenhum filho, então, a esposa do homem morto não poderá se casar com nenhum outro fora da família. Em vez disso, o irmão de seu marido dormirá com ela e a terá pra si como esposa, e fará cumprir seu dever de irmão do marido para com ela. ^v5
 
-**6** E o primogênito que ela lhe der será sucessor do nome do seu irmão falecido, para que o seu nome não se apague em Israel. ^v6
+**6** Isso é para que o primogênito que ela der à luz suceda em nome do irmão morto, para que seu nome não pereça de Israel. ^v6
 
-**7** Porém, se o homem não quiser tomar sua cunhada, esta subirá à porta dos anciãos, e dirá: Meu cunhado recusa suscitar a seu irmão nome em Israel; não quer cumprir para comigo o dever de cunhado. ^v7
+**7** "Mas, se o homem não desejar ter a esposa do seu irmão para si, então, ela irá ao portão, aos anciãos, e dirá: ""O irmão de meu marido se recusa a preservar o nome do seu irmão em Israel; ele não quer desempenhar a obrigação de irmão do marido para comigo""." ^v7
 
-**8** Então os anciãos da sua cidade o chamarão, e com ele falarão; e, se ele persistir, e disser: Não quero tomá-la; ^v8
+**8** "Então, os anciãos de sua cidade o chamarão e falarão com ele. Porém, se ele insistir e disser: ""Eu não desejo tomá-la""," ^v8
 
-**9** Então sua cunhada se chegará a ele na presença dos anciãos, e lhe descalçará o sapato do pé, e lhe cuspirá no rosto, e protestará, e dirá: Assim se fará ao homem que não edificar a casa de seu irmão; ^v9
+**9** "então, a esposa de seu irmão irá até ele na presença dos anciãos, tirará as suas sandálias dos pés, e cuspirá em sua face. Ela o responderá e dirá: ""Isso é o que se faz com quem não constrói a casa de seu irmão""." ^v9
 
-**10** E o seu nome se chamará em Israel: A casa do descalçado. ^v10
+**10** "Seu nome será chamado em Israel, ""A casa de quem teve sua sandália tirada""." ^v10
 
-**11** Quando pelejarem dois homens, um contra o outro, e a mulher de um chegar para livrar a seu marido da mão do que o fere, e ela estender a sua mão, e lhe pegar pelas suas vergonhas, ^v11
+**11** Se homens brigarem um com o outro, e a esposa de um deles vier para livrar seu marido da mão de quem o agride, e, se ela estender sua mão e pegá-lo nas partes íntimas, ^v11
 
-**12** Então cortar-lhe-ás a mão; não a poupará o teu olho. ^v12
+**12** então, cortarás a mão dela fora; que o teu olho não tenha piedade. ^v12
 
-**13** Na tua bolsa não terás pesos diversos, um grande e um pequeno. ^v13
+**13** Não terás, em tua bolsa, pesos diferentes, um grande e um pequeno. ^v13
 
-**14** Na tua casa não terás dois tipos de efa, um grande e um pequeno. ^v14
+**14** Não terás, em tua casa, diferentes medidas, uma grande e uma pequena. ^v14
 
-**15** Peso inteiro e justo terás; efa inteiro e justo terás; para que se prolonguem os teus dias na terra que te dará o Senhor teu Deus. ^v15
+**15** Terás um peso perfeito e justo; terás uma medida perfeita e justa, para que teus dias sejam longos na terra que Yahweh, teu Deus, te dá. ^v15
 
-**16** Porque abominação é ao Senhor teu Deus todo aquele que faz isto, todo aquele que fizer injustiça. ^v16
+**16** Pois todos os que praticam tais coisas, todos os que agem injustamente, são abomináveis para Yahweh, teu Deus. ^v16
 
-**17** Lembra-te do que te fez Amaleque no caminho, quando saías do Egito; ^v17
+**17** Lembra-te do que Amaleque te fez na estrada enquanto saías do Egito, ^v17
 
-**18** Como te saiu ao encontro no caminho, e feriu na tua retaguarda todos os fracos que iam atrás de ti, estando tu cansado e afadigado; e não temeu a Deus. ^v18
+**18** como ele te encontrou na estrada e te atacou por trás, todos os que estavam fracos na parte de trás, quando tu estavas debilitado e exausto. Ele não honrou a Deus. ^v18
 
-**19** Será, pois, que, quando o Senhor teu Deus te tiver dado repouso de todos os teus inimigos em redor, na terra que o Senhor teu Deus te dá por herança, para possuí-la, então apagarás a memória de Amaleque de debaixo do céu; não te esqueças. ^v19
+**19** Portanto, quando Yahweh, teu Deus, te der descanso de todos teus inimigos em redor, na terra que Yahweh, teu Deus, te dá para possuir como herança, não te esqueças de apagar a lembrança de Amaleque de debaixo do céu. ^v19

@@ -1,35 +1,34 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Amós|Amós]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Amós|Amós]]"
+tags: [biblia]
 ---
 
 # Amós 8
 
-**1** O SENHOR DEUS assim me fez ver: E eis aqui um cesto de frutos do verão. ^v1
+**1** Isto é o que o Senhor Yahweh me mostrou. Vê, um cesto de frutas de verão! ^v1
 
-**2** E disse: Que vês, Amós? E eu disse: Um cesto de frutos do verão. Então o Senhor me disse: Chegou o fim sobre o meu povo Israel; nunca mais passarei por ele. ^v2
+**2** "Ele disse: ""O que vês, Amós?"". Eu disse: ""Um cesto de frutas de verão"". Então, Yahweh me disse: ""O fim chegou para Meu povo, Israel; não terei mais misericórdia para com eles." ^v2
 
-**3** Mas os cânticos do templo naquele dia serão gemidos, diz o Senhor DEUS; multiplicar-se-ão os cadáveres; em todos os lugares serão lançados fora em silêncio. ^v3
+**3** "Os cânticos do templo se tornarão em lamentos. Naquele dia"", assim diz o Senhor Yahweh, ""os cadáveres serão muitos; em todos os lugares, serão lançados para fora, em silêncio!""." ^v3
 
-**4** Ouvi isto, vós que anelais o abatimento do necessitado; e destruís os miseráveis da terra, ^v4
+**4** Ouvi isto, vós que atropelais os necessitados e destruís os pobres da terra. ^v4
 
-**5** Dizendo: Quando passará a lua nova, para vendermos o grão, e o sábado, para abrirmos os celeiros de trigo, diminuindo o efa, e aumentando o siclo, e procedendo dolosamente com balanças enganosas, ^v5
+**5** "Eles dizem: ""Quando passará a lua nova, para que possamos vender grãos de novo? E o sábado, quando passará, para que possamos vender o trigo? Vamos fazer a medida pequena e aumentar o preço, para trapacear com balanças enganadoras." ^v5
 
-**6** Para comprarmos os pobres por dinheiro, e os necessitados por um par de sapatos, e para vendermos o refugo do trigo? ^v6
+**6** "Isto é, que possamos vender trigo ruim, comprar o pobre por prata e o necessitado por um par de sandálias""." ^v6
 
-**7** Jurou o Senhor pela glória de Jacó: Eu não me esquecerei de todas as suas obras para sempre. ^v7
+**7** "Yahweh jurou pelo orgulho de Jacó: ""Certamente Eu jamais vou esquecer qualquer de tuas ações.""" ^v7
 
-**8** Por causa disto não estremecerá a terra, e não chorará todo aquele que nela habita? Certamente levantar-se-á toda ela como o grande rio, e será agitada, e baixará como o rio do Egito. ^v8
+**8** Não tremerão por isso a terra e cada um que vive nela a chorar? Tudo isso encherá como o rio Nilo; subirá e baixará como o rio do Egito. ^v8
 
-**9** E sucederá que, naquele dia, diz o Senhor Deus, farei que o sol se ponha ao meio-dia, e a terra se entenebreça no dia claro. ^v9
+**9** """Isso virá naquele dia"", diz o Senhor Yahweh, ""que Eu vou fazer o sol se pôr ao meio dia e vou escurecer a terra em plena luz do dia." ^v9
 
-**10** E tornarei as vossas festas em luto, e todos os vossos cânticos em lamentações; e porei pano de saco sobre todos os lombos, e calva sobre toda cabeça; e farei que isso seja como luto por um filho único, e o seu fim como dia de amarguras. ^v10
+**10** Transformarei as vossas festas em velório, e todas as vossas canções em lamentações. Eu farei todos vós vestirdes roupas de saco e tereis as cabeças rapadas. Vou fazer isto como velório por um filho único, e o seu fim como um dia amargo. ^v10
 
-**11** Eis que vêm dias, diz o Senhor DEUS, em que enviarei fome sobre a terra; não fome de pão, nem sede de água, mas de ouvir as palavras do SENHOR. ^v11
+**11** "Vede, os dias estão vindo"", assim diz o Senhor Yahweh, ""quando Eu enviar a fome na terra — não fome de pão nem sede de água, mas de ouvir as palavras de Yahweh." ^v11
 
-**12** E irão errantes de um mar até outro mar, e do norte até ao oriente; correrão por toda a parte, buscando a palavra do Senhor, mas não a acharão. ^v12
+**12** Eles irão cambaleando de mar em mar; correrão do norte para o leste, para procurar a palavra de Yahweh, mas não a encontrarão. ^v12
 
-**13** Naquele dia as virgens formosas e os jovens desmaiarão de sede. ^v13
+**13** Naquele dia as belas virgens e os jovens vão desfalecer de sede. ^v13
 
-**14** Os que juram pela culpa de Samaria, dizendo: Vive o teu deus, ó Dã; e vive o caminho de Berseba; esses mesmos cairão, e não se levantarão jamais. ^v14
+**14** "Aqueles que juram pelos pecados de Samaria, esses cairão e nunca se levantarão de novo""." ^v14

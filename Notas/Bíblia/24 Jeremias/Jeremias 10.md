@@ -1,57 +1,56 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Jeremias|Jeremias]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Jeremias|Jeremias]]"
+tags: [biblia]
 ---
 
 # Jeremias 10
 
-**1** Ouvi a palavra que o SENHOR vos fala a vós, ó casa de Israel. ^v1
+**1** Escuta a palavra que Yahweh está anunciando para ti, ó casa de Israel. ^v1
 
-**2** Assim diz o Senhor: Não aprendais o caminho dos gentios, nem vos espanteis dos sinais dos céus; porque com eles se atemorizam as nações. ^v2
+**2** "Yahweh diz isto: ""Não aprendais os caminhos das outras nações, e não fiqueis desanimados com os sinais nos céus, pois as nações estão atemorizadas com isso." ^v2
 
-**3** Porque os costumes dos povos são vaidade; pois corta-se do bosque um madeiro, obra das mãos do artífice, feita com machado; ^v3
+**3** Porque os costumes religiosos desses povos são inúteis. Eles cortam uma árvore em uma floresta; obra das mãos do artífice, feita com machado. ^v3
 
-**4** Com prata e com ouro o enfeitam, com pregos e com martelos o firmam, para que não se mova. ^v4
+**4** Então, eles a decoram com prata e ouro. Eles a reforçam com martelo e pregos, para que ela não caia. ^v4
 
-**5** São como a palmeira, obra torneada, porém não podem falar; certamente são levados, porquanto não podem andar. Não tenhais receio deles, pois não podem fazer mal, nem tampouco têm poder de fazer bem. ^v5
+**5** "Esses ídolos são como espantalhos em um pepinal, pois eles também não podem dizer nada. Eles precisam ser carregados porque não podem andar. Não tenhais medo deles, pois eles não podem vos trazer o mal, nem são capazes de fazer qualquer coisa boa.""" ^v5
 
-**6** Ninguém há semelhante a ti, ó Senhor; tu és grande, e grande o teu nome em poder. ^v6
+**6** Não existe ninguém igual a Ti, Yahweh. Tu és grande, e Teu nome é grande em poder! ^v6
 
-**7** Quem não te temeria a ti, ó Rei das nações? Pois isto só a ti pertence; porquanto entre todos os sábios das nações, e em todo o seu reino, ninguém há semelhante a ti. ^v7
+**7** Quem não Te teme, Rei da nações? Pois isso é o que Tu mereces! Não há nenhum igual a Ti, dentre todos os sábios das nações, ou em todo o reino deles. ^v7
 
-**8** Mas eles todos se embruteceram e tornaram-se loucos; ensino de vaidade é o madeiro. ^v8
+**8** Eles são todos brutos e estúpidos, discípulos de ídolos, que não são nada além de um pedaço de madeira. ^v8
 
-**9** Trazem prata batida de Társis e ouro de Ufaz, trabalho do artífice, e das mãos do fundidor; fazem suas roupas de azul e púrpura; obra de peritos são todos eles. ^v9
+**9** Eles trazem prata batida de Társis, e ouro de Ufaz; são feitos por artífices, pelas mãos dos fundidores. Suas roupas são azuis e púrpuras. Seus homens hábeis fizeram todas essa coisas. ^v9
 
-**10** Mas o Senhor Deus é a verdade; ele mesmo é o Deus vivo e o Rei eterno; ao seu furor treme a terra, e as nações não podem suportar a sua indignação. ^v10
+**10** Mas Yahweh é o verdadeiro Deus. Ele é o Deus vivo e o eterno Rei. A terra treme com Sua ira, e as nações não podem suportar o Seu furor. ^v10
 
-**11** Assim lhes direis: Os deuses que não fizeram os céus e a terra desaparecerão da terra e de debaixo deste céu. ^v11
+**11** Assim direis a eles: 'Os deuses que não fizeram o céu e a terra iráo desaparecer da terra e debaixo dos céus.' ^v11
 
-**12** Ele fez a terra com o seu poder; ele estabeleceu o mundo com a sua sabedoria, e com a sua inteligência estendeu os céus. ^v12
+**12** Mas foi Ele quem fez a terra pelo Seu poder, e Ele estabeleceu o mundo pela Sua sabedoria, e pelo Seu entendimento estendeu os céus. ^v12
 
-**13** Fazendo ele soar a sua voz, logo há rumor de águas no céu, e faz subir os vapores da extremidade da terra; faz os relâmpagos para a chuva, e dos seus tesouros faz sair o vento. ^v13
+**13** Ao som da voz do Seu trovão, as águas no céu rugem, e Ele traz as névoas dos fins da Terra. Ele faz os relâmpagos para a chuva e manda os ventos do Seu depósito. ^v13
 
-**14** Todo o homem é embrutecido no seu conhecimento; envergonha-se todo o fundidor da sua imagem de escultura; porque sua imagem fundida é mentira, e nelas não há espírito. ^v14
+**14** Todo homem se tornou ignorante, sem conhecimento. Todo artesão é envergonhado por seus ídolos. Porque a imagem que eles fizeram são fraudes; não há vida nelas. ^v14
 
-**15** Vaidade são, obra de enganos: no tempo da sua visitação virão a perecer. ^v15
+**15** Elas são inúteis, o trabalho de escarnecedores; eles irão perecer no tempo de sua punição. ^v15
 
-**16** Não é semelhante a estes aquele que é a porção de Jacó; porque ele é o que formou tudo, e Israel é a vara da sua herança: Senhor dos Exércitos é o seu nome. ^v16
+**16** Mas Deus, a porção de Jacó, não é assim, pois Ele é o moldador de todas as coisas. Israel é a tribo de Sua herança. Yahweh dos Exércitos é Seu nome. ^v16
 
-**17** Ajunta da terra a tua mercadoria, ó tu que habitas em lugar sitiado. ^v17
+**17** Recolhe o teu pacote e deixa a tua terra, tu, povo que estás vivendo num lugar sitiado. ^v17
 
-**18** Porque assim diz o Senhor: Eis que desta vez arrojarei como se fora com uma funda aos moradores da terra, e os angustiarei, para que venham a achá-lo, dizendo: ^v18
+**18** "Pois Yahweh diz isso: ""Vê! Eu estou prestes a lançar fora os habitantes dessa terra. Eu lhes causarei aflição, e eles se encontrarão assim.""" ^v18
 
-**19** Ai de mim por causa do meu quebrantamento! A minha chaga me causa grande dor; e eu havia dito: Certamente isto é enfermidade que eu poderei suportar. ^v19
+**19** "Ai de mim! Por causa dos meus ossos quebrados, minha ferida está infectada. Então, eu disse: ""Certamente isso é agonia, mas eu devo suportá-la""." ^v19
 
-**20** A minha tenda está destruída, e todas as minhas cordas se romperam; os meus filhos foram-se de mim, e não existem; ninguém há mais que estenda a minha tenda, nem que levante as minhas cortinas, ^v20
+**20** Minha tenda está devastada, e todas as cordas da minha tenda foram cortadas. Eles tiraram meus filhos para longe de mim; então, eles já não existem mais. Não existe mais ninguém para levantar minha tenda e levantar minhas lonas. ^v20
 
-**21** Porque os pastores se embruteceram, e não buscaram ao Senhor; por isso não prosperaram, e todos os seus rebanhos se espalharam. ^v21
+**21** Pois os pastores se tornaram estúpidos. Eles não buscam Yahweh; então, eles não têm sucesso e todos os seus rebanhos foram espalhados. ^v21
 
-**22** Eis que vem uma voz de rumor, grande tremor da terra do norte, para fazer das cidades de Judá uma assolação, uma morada de chacais. ^v22
+**22** "Vêm rumores: ""Vede! Está chegando! Um grande terremoto vindo da terra do norte para tornar a cidade de Judá em ruínas, esconderijo de chacais""." ^v22
 
-**23** Eu sei, ó Senhor, que não é do homem o seu caminho; nem do homem que caminha o dirigir os seus passos. ^v23
+**23** Eu sei, Yahweh, que o caminho do homem não vem dele mesmo. Nenhuma pessoa que caminha dirige seus próprios passos. ^v23
 
-**24** Castiga-me, ó Senhor, porém com juízo, não na tua ira, para que não me reduzas a nada. ^v24
+**24** Disciplina-me, Yahweh, com justiça, mas não com a Tua ira, para não me destruires. ^v24
 
-**25** Derrama a tua indignação sobre os gentios que não te conhecem, e sobre as gerações que não invocam o teu nome; porque devoraram a Jacó, e devoraram-no e consumiram-no, e assolaram a sua morada. ^v25
+**25** Derrama a Tua indignação sobre as nações que não Te conhecem, e sobre as famílias que não chamam pelo Teu nome. Pois eles devoraram Jacó; eles o consumiram e destruíram completamente a sua habitação. ^v25

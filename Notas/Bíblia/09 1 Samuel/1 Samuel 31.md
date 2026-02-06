@@ -1,33 +1,32 @@
 ---
-Livro: "[[1 Samuel|1 Samuel]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/1 Samuel|1 Samuel]]"
+tags: [biblia]
 ---
 
 # 1 Samuel 31
 
-**1** Os filisteus, pois, pelejaram contra Israel; e os homens de Israel fugiram de diante dos filisteus, e caíram mortos na montanha de Gilboa. ^v1
+**1** Ora, os filisteus lutaram contra Israel. Os homens de Israel fugiram de diante dos filisteus e caíram mortos no monte Gilboa. ^v1
 
-**2** E os filisteus perseguiram a Saul e a seus filhos; e mataram a Jônatas, e a Abinadabe, e a Malquisua, filhos de Saul. ^v2
+**2** Os filisteus perseguiram, de perto, Saul e seus filhos. Eles mataram Jônatas, Abinadabe e Malquisua, filhos de Saul. ^v2
 
-**3** E a peleja se agravou contra Saul, e os flecheiros o alcançaram; e muito temeu por causa dos flecheiros. ^v3
+**3** A batalha contra Saul foi severa, e os arqueiros o acertaram. Ele estava com fortes dores por causa deles. ^v3
 
-**4** Então disse Saul ao seu pajem de armas: Arranca a tua espada, e atravessa-me com ela, para que porventura não venham estes incircuncisos, e me atravessem e escarneçam de mim. Porém o seu pajem de armas não quis, porque temia muito; então Saul tomou a espada, e se lançou sobre ela. ^v4
+**4** "Então, Saul disse ao seu escudeiro: ""Tira tua espada e golpeia-me com ela. Caso contrário, estes incircuncisos virão e abusarão de mim"". Mas seu escudeiro não o fez, pois ele estava com muito medo. Então, Saul pegou sua própria espada e se jogou em cima dela." ^v4
 
-**5** Vendo, pois, o seu pajem de armas que Saul já era morto, também ele se lançou sobre a sua espada, e morreu com ele. ^v5
+**5** Quando seu escudeiro viu que Saul estava morto, ele também se jogou sobre sua espada e morreu com ele. ^v5
 
-**6** Assim faleceu Saul, e seus três filhos, e o seu pajem de armas, e também todos os seus homens morreram juntamente naquele dia. ^v6
+**6** Assim, morreram Saul, seus três filhos e seu escudeiro — todos estes homens morreram juntos no mesmo dia. ^v6
 
-**7** E, vendo os homens de Israel, que estavam deste lado do vale e deste lado do Jordão, que os homens de Israel fugiram, e que Saul e seus filhos estavam mortos, abandonaram as cidades, e fugiram; e vieram os filisteus, e habitaram nelas. ^v7
+**7** Quando os homens de Israel, que estavam do outro lado do vale e do outro lado do Jordão, viram que os homens de Israel haviam fugido, e que Saul e seus filhos estavam mortos, eles abandonaram suas cidades e fugiram, e os filisteus vieram e habitaram nelas. ^v7
 
-**8** Sucedeu, pois, que, vindo os filisteus no outro dia para despojar os mortos, acharam a Saul e a seus três filhos estirados na montanha de Gilboa. ^v8
+**8** No dia seguinte, aconteceu que, quando os filisteus se aproximaram para despojar os mortos, estes encontraram Saul e seus três filhos caídos no monte Gilboa. ^v8
 
-**9** E cortaram-lhe a cabeça, e o despojaram das suas armas, e enviaram pela terra dos filisteus, em redor, a anunciá-lo no templo dos seus ídolos e entre o povo. ^v9
+**9** Eles cortaram fora sua cabeça, despojaram sua armadura, e mandaram mensageiros por toda a terra dos filisteus para levar as notícias aos templos dos seus ídolos e para o povo. ^v9
 
-**10** E puseram as suas armas no templo de Astarote, e o seu corpo o afixaram no muro de Bete-Sã. ^v10
+**10** Eles colocaram a armadura dele no templo de Astarote e fixaram seu corpo na muralha da cidade de Bete-Seã. ^v10
 
-**11** Ouvindo então os moradores de Jabes-Gileade, o que os filisteus fizeram a Saul, ^v11
+**11** Quando os habitantes de Jabes-Gileade ouviram sobre o que os filisteus haviam feito com Saul, ^v11
 
-**12** Todo o homem valoroso se levantou, e caminharam toda a noite, e tiraram o corpo de Saul e os corpos de seus filhos do muro, de Bete-Sã, e, vindo a Jabes, os queimaram. ^v12
+**12** todos os homens de combate caminharam, por toda a noite, e pegaram o corpo de Saul e os corpos dos seus filhos da muralha de Bete-Seã. Eles voltaram para Jabes e, lá, os queimaram. ^v12
 
-**13** E tomaram os seus ossos, e os sepultaram debaixo de um arvoredo, em Jabes, e jejuaram sete dias. ^v13
+**13** Então, eles pegaram seus ossos, os enterraram debaixo de uma tamareira, e jejuaram por sete dias. ^v13

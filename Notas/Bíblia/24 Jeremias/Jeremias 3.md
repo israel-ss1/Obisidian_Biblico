@@ -1,57 +1,56 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Jeremias|Jeremias]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Jeremias|Jeremias]]"
+tags: [biblia]
 ---
 
 # Jeremias 3
 
-**1** Eles dizem: Se um homem despedir sua mulher, e ela o deixar, e se ajuntar a outro homem, porventura tornará ele outra vez para ela? Não se poluirá de todo aquela terra? Ora, tu te prostituíste com muitos amantes; mas ainda assim, torna para mim, diz o SENHOR. ^v1
+**1** """Se um homem divorciar-se de sua esposa, e ela se separar dele e tornar-se esposa de outro homem, por acaso ele voltará a ela novamente? Não já estaria aquela terra completamente contaminada? Tu viveste como prostituta com muitos amantes, e queres voltar para Mim? — Esta é a declaração de Yahweh." ^v1
 
-**2** Levanta os teus olhos aos altos, e vê: onde não te prostituíste? Nos caminhos te assentavas para eles, como o árabe no deserto; assim poluíste a terra com as tuas fornicações e com a tua malícia. ^v2
+**2** Levanta teus olhos para os lugares altos e estéreis e vê! Existe algum lugar onde não praticaste ato sexual ilícito? Na beira das estradas te sentas e esperas por teus amantes, como um nômade no deserto. Tu tens contaminado a terra com a tua prostituição e maldade. ^v2
 
-**3** Por isso foram retiradas as chuvas, e não houve chuva serôdia; mas tu tens a fronte de uma prostituta, e não queres ter vergonha. ^v3
+**3** Então as chuvas da primavera foram retidas, e as chuvas tardias não chegaram. Mas a tua face é arrogante, como a face de uma mulher promíscua. Tu te recusas a sentir vergonha. ^v3
 
-**4** Ao menos desde agora não chamarás por mim, dizendo: Pai meu, tu és o guia da minha mocidade? ^v4
+**4** Por acaso agora mesmo não me chamaste: 'Meu pai, meu mais próximo amigo de minha juventude, ^v4
 
-**5** Conservará ele para sempre a sua ira? Ou a guardará continuamente? Eis que tens falado e feito quantas maldades pudeste. ^v5
+**5** "ficará irritado para sempre? Ele guardará Sua raiva até o fim?' Vê! Isso é o que disseste, mas tu cometes todo o mal possível!""" ^v5
 
-**6** Disse mais o Senhor nos dias do rei Josias: Viste o que fez a rebelde Israel? Ela foi a todo o monte alto, e debaixo de toda a árvore verde, e ali andou prostituindo-se. ^v6
+**6** "Então, Yahweh me disse nos dias do rei Josias: ""Tu vês o que a infiel Israel tem feito? Ela sobe para toda montanha alta e debaixo de toda árvore frondosa, e ali ela age como uma prostituta." ^v6
 
-**7** E eu disse: Depois que fizer tudo isto, voltará para mim; mas não voltou; e viu isto a sua aleivosa irmã Judá. ^v7
+**7** Eu disse: 'Depois dela fazer todas essas coisas, ela voltará para mim', mas ela não voltou. Então Judá, sua irmã infiel, viu isso. ^v7
 
-**8** E vi que, por causa de tudo isto, por ter cometido adultério a rebelde Israel, a despedi, e lhe dei a sua carta de divórcio, que a aleivosa Judá, sua irmã, não temeu; mas se foi e também ela mesma se prostituiu. ^v8
+**8** Eu vi que, apesar de a infiel Israel haver cometido adultério, e Eu haver lhe dado uma certidão de divórcio, mesmo assim, Judá, a sua irmã infiel, não teve medo e também foi para fora e agiu como uma prostituta. ^v8
 
-**9** E sucedeu que pela fama da sua prostituição, contaminou a terra; porque adulterou com a pedra e com a madeira. ^v9
+**9** Ela não se importava em nada com a sua prostituição; ela contaminou a terra, cometeu adultério com pedras e árvores, adorando-as. ^v9
 
-**10** E, contudo, apesar de tudo isso a sua aleivosa irmã Judá não voltou para mim de todo o seu coração, mas falsamente, diz o Senhor. ^v10
+**10** "E, depois de tudo isso, Judá, a sua irmã infiel, voltou para Mim; porém, não com todo o seu coração, mas com uma mentira — esta é a declaração de Yahweh""." ^v10
 
-**11** E o Senhor me disse: Já a rebelde Israel mostrou-se mais justa do que a aleivosa Judá. ^v11
+**11** "Então, Yahweh me disse: ""A infiel Israel tem sido mais justa que a infiel Judá!" ^v11
 
-**12** Vai, pois, e apregoa estas palavras para o lado norte, e dize: Volta, ó rebelde Israel, diz o Senhor, e não farei cair a minha ira sobre ti; porque misericordioso sou, diz o Senhor, e não conservarei para sempre a minha ira. ^v12
+**12** Vai e proclama essas palavras para o norte. Dize: 'Volta, infiel Israel! —Esta é a declaração de Yahweh — Eu não estarei irado contigo para sempre, porque sou fiel — esta é a declaração de Yahweh — Eu não ficarei irado para sempre. ^v12
 
-**13** Somente reconhece a tua iniqüidade, que transgrediste contra o Senhor teu Deus; e estendeste os teus caminhos aos estranhos, debaixo de toda a árvore verde, e não deste ouvidos à minha voz, diz o Senhor. ^v13
+**13** Reconhece a tua iniquidade, porque tu tens transgredido contra Yahweh, teu Deus; tens compartilhado teus caminhos com estranhos embaixo de toda árvore frondosa! Pois não tens escutado Minha voz! — Esta é a declaração de Yahweh. ^v13
 
-**14** Convertei-vos, ó filhos rebeldes, diz o Senhor; pois eu vos desposei; e vos tomarei, a um de uma cidade, e a dois de uma família; e vos levarei a Sião. ^v14
+**14** Volta, povo infiel! — Esta é a declaração de Yahweh — Porque Eu sou teu marido. Eu vos trarei, um de uma cidade e dois de um clã, e vos trarei a Sião. ^v14
 
-**15** E dar-vos-ei pastores segundo o meu coração, os quais vos apascentarão com ciência e com inteligência. ^v15
+**15** Eu vos darei pastores segundo o Meu coração, e eles vos apascentarão com conhecimento e percepção. ^v15
 
-**16** E sucederá que, quando vos multiplicardes e frutificardes na terra, naqueles dias, diz o Senhor, nunca mais se dirá: A arca da aliança do Senhor, nem lhes virá ao coração; nem dela se lembrarão, nem a visitarão; nem se fará outra. ^v16
+**16** "Então, acontecerá que, naqueles dias, aumentareis e dareis fruto na terra — esta é a declaração de Yahweh — Não mais se dirá: ""A arca da aliança de Yahweh!"" Esse assunto não mais surgirá em vosso coração, nem será lembrado; ela não fará falta, e não será feita uma outra'." ^v16
 
-**17** Naquele tempo chamarão a Jerusalém o trono do Senhor, e todas as nações se ajuntarão a ela, em nome do Senhor, em Jerusalém; e nunca mais andarão segundo o propósito do seu coração maligno. ^v17
+**17** Naquele tempo, proclamarão a respeito de Jerusalém: 'Este é o trono de Yahweh', e todas as outras nações se reunirão em Jerusalém, em nome de Yahweh. Elas não mais andarão na teimosia de seus perversos corações. ^v17
 
-**18** Naqueles dias andará a casa de Judá com a casa de Israel; e virão juntas da terra do norte, para a terra que dei em herança a vossos pais. ^v18
+**18** Nesses dias, a casa de Judá andará com a casa de Israel. Elas virão juntas da terra do norte para a terra que Eu dei como herança aos vossos ancestrais. ^v18
 
-**19** Mas eu dizia: Como te porei entre os filhos, e te darei a terra desejável, a excelente herança dos exércitos das nações? Mas eu disse: Tu me chamarás meu pai, e de mim não te desviarás. ^v19
+**19** Eu disse a Mim mesmo: 'Como Eu quero te honrar como Meu filho e te dar uma terra agradável, a herança mais bonita do que há em qualquer outra nação!' Eu teria dito: 'Tu me chamarás de meu Pai'. Teria dito que tu não te desviarias de Me seguir. ^v19
 
-**20** Deveras, como a mulher se aparta aleivosamente do seu marido, assim aleivosamente te houveste comigo, ó casa de Israel, diz o Senhor. ^v20
+**20** "Porém, como uma mulher infiel ao seu marido, tu Me traíste, casa de Israel — esta é a declaração de Yahweh""." ^v20
 
-**21** Nos lugares altos se ouviu uma voz, pranto e súplicas dos filhos de Israel; porquanto perverteram o seu caminho, e se esqueceram do Senhor seu Deus. ^v21
+**21** Ouve-se uma voz nos lugares altos e estéreis, o choro e a súplica de Israel! Porque eles mudaram seus caminhos, eles se esqueceram de Yahweh, seu Deus. ^v21
 
-**22** Voltai, ó filhos rebeldes, eu curarei as vossas rebeliões. Eis-nos aqui, vimos a ti; porque tu és o Senhor nosso Deus. ^v22
+**22** """Voltai, povo infiel! Eu vos curarei da infidelidade!"" ""Eis que nós viremos para Ti, porque Tu és Yahweh, nosso Deus!" ^v22
 
-**23** Certamente em vão se confia nos outeiros e na multidão das montanhas; deveras no Senhor nosso Deus está a salvação de Israel. ^v23
+**23** Certamente, as mentiras vêm das colinas, um ruído de confusão das montanhas. Certamente, Yahweh, nosso Deus, é a salvação de Israel. ^v23
 
-**24** Porque a confusão devorou o trabalho de nossos pais desde a nossa mocidade; as suas ovelhas e o seu gado, os seus filhos e as suas filhas. ^v24
+**24** Mas os ídolos vergonhosos consumiram aquilo pelo qual nossos ancestrais trabalharam: seus rebanhos e gado, seus filhos e filhas! ^v24
 
-**25** Deitemo-nos em nossa vergonha; e cubra-nos a nossa confusão, porque pecamos contra o Senhor nosso Deus, nós e nossos pais, desde a nossa mocidade até o dia de hoje; e não demos ouvidos à voz do Senhor nosso Deus. ^v25
+**25** "Deitemo-nos em vergonha. Que a vergonha nos cubra porque pecamos contra Yahweh, nosso Deus! Nós mesmos e nossos ancestrais, desde a nossa juventude até hoje, não escutamos a voz de Yahweh, nosso Deus!""" ^v25

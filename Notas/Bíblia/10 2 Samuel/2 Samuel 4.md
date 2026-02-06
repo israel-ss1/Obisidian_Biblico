@@ -1,31 +1,30 @@
 ---
-Livro: "[[2 Samuel|2 Samuel]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/2 Samuel|2 Samuel]]"
+tags: [biblia]
 ---
 
 # 2 Samuel 4
 
-**1** Ouvindo, pois, o filho de Saul, que Abner morrera em Hebrom, as mãos se lhe afrouxaram; e todo o Israel pasmou. ^v1
+**1** Quando Isbosete, filho de Saul, ouviu que Abner havia morrido em Hebrom, suas mãos se enfraqueceram, e todo o Israel ficou preocupado. ^v1
 
-**2** E tinha o filho de Saul dois homens capitães de tropas; e era o nome de um Baaná, e o nome do outro Recabe, filhos de Rimom, o beerotita, dos filhos de Benjamim, porque também Beerote se reputava de Benjamim. ^v2
+**2** Ora, os filhos de Saul tinham dois homens que eram capitães de grupos de soldados. O nome de um deles era Baaná, e o outro, Recabe, filhos de Rimom, o beerotita, do povo de Benjamim. Beerote também é considerada parte de Benjamim, ^v2
 
-**3** E tinham fugido os beerotitas para Gitaim, e ali têm peregrinado até ao dia de hoje. ^v3
+**3** e os beerotitas fugiram para Gitaim e vivem lá até hoje. ^v3
 
-**4** E Jônatas, filho de Saul, tinha um filho aleijado de ambos os pés; era da idade de cinco anos quando as novas de Saul e Jônatas vieram de Jizreel, e sua ama o tomou, e fugiu; e sucedeu que, apressando-se ela a fugir, ele caiu, e ficou coxo; e o seu nome era Mefibosete. ^v4
+**4** Jônatas, filho de Saul, tinha um filho que era aleijado dos pés. Ele tinha cinco anos de idade quando as notícias sobre Saul e Jônatas chegaram de Jezreel. Sua ama o pegou e fugiu, mas, enquanto ela estava correndo, o filho de Jônathas caiu, e se tornou aleijado. Seu nome era Mefibosete. ^v4
 
-**5** E foram os filhos de Rimom, o beerotita, Recabe e Baaná, e entraram em casa de Is-Bosete no maior calor do dia, estando ele deitado a dormir, ao meio-dia. ^v5
+**5** Recabe e Baaná, os filhos de Rimom, o beerotita, viajaram durante o calor do dia para a casa de Isbosete, enquanto ele descansava na hora mais quente do dia. ^v5
 
-**6** E ali entraram até ao meio da casa, como que vindo buscar trigo, e o feriram na quinta costela; e Recabe e Baaná, seu irmão, escaparam. ^v6
+**6** A mulher que vigiava a porta adormeceu, enquanto descansava, e, Recabe e Baaná entraram silenciosamente, e passaram por ela. ^v6
 
-**7** Porque entraram na sua casa, estando ele na cama deitado, no seu quarto, e o feriram, e o mataram, e lhe cortaram a cabeça; e, tomando a sua cabeça, andaram toda a noite caminhando pela planície. ^v7
+**7** Logo após entrarem na casa, eles o atacaram e o mataram, enquanto ele estava deitado em sua cama, em seu quarto. Então, eles cortaram sua cabeça e a carregaram, viajando, por toda a noite, até Arabá. ^v7
 
-**8** E trouxeram a cabeça de Is-Bosete a Davi, a Hebrom, e disseram ao rei: Eis aqui a cabeça de Is-Bosete, filho de Saul, teu inimigo, que procurava a tua morte; assim o SENHOR vingou hoje ao rei meu senhor, de Saul e da sua descendência. ^v8
+**8** "Eles trouxeram a cabeça de Isbosete até Davi, em Hebrom, e disseram ao rei: ""Olha, essa é a cabeça de Isbosete, filho de Saul, seu inimigo, o qual atentava por tua vida. Hoje Yahweh vingou o rei, nosso senhor, contra Saul e seus descendentes""." ^v8
 
-**9** Porém Davi, respondendo a Recabe e a Baaná, seu irmão, filhos de Rimom, o beerotita, disse-lhes: Vive o Senhor, que remiu a minha alma de toda a angústia, ^v9
+**9** "Davi respondeu a Recabe e Baaná; ele lhes disse: ""Assim como Yahweh vive, Aquele que livrou minha vida de toda angústia," ^v9
 
-**10** Se aquele que me trouxe novas, dizendo: Eis que Saul é morto, parecendo-lhe, porém, aos olhos que era como quem trazia boas novas, eu logo lancei mão dele, e o matei em Ziclague, cuidando ele que eu por isso lhe desse recompensa. ^v10
+**10** quando alguém me contou: 'Olhe, Saul está morto', pensando que estava trazendo boas notícias, eu o capturei e o matei em Ziclague. Aquela foi a recompensa que dei a ele por sua notícia. ^v10
 
-**11** Quanto mais a ímpios homens, que mataram um homem justo em sua casa, sobre a sua cama; agora, pois, não requereria eu o seu sangue de vossas mãos, e não vos exterminaria da terra? ^v11
+**11** "Quantos outros mais — quando homens perversos que mataram uma pessoa inocente na sua cama, em sua própria casa — não deveria eu requerer o sangue de suas mãos, e removê-los da terra?""." ^v11
 
-**12** E deu Davi ordem aos seus moços que os matassem; e cortaram-lhes os pés e as mãos, e os penduraram sobre o tanque de Hebrom; tomaram, porém, a cabeça de Is-Bosete, e a sepultaram na sepultura de Abner, em Hebrom. ^v12
+**12** Então, Davi deu ordens aos seus moços, e eles os mataram, cortaram fora suas mãos e pés e os penduraram ao lado do tanque, em Hebrom. Todavia, tomaram a cabeça de Isbosete e a enterraram no sepulcro de Abner, em Hebrom. ^v12

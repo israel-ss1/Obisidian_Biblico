@@ -1,23 +1,20 @@
 ---
-Livro: "[[Salmos|Salmos]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Salmos|Salmos]]"
+tags: [biblia]
 ---
 
 # Salmos 124
 
-**1** Se não fora o Senhor, que esteve ao nosso lado, ora diga Israel; ^v1
+**2** se Yahweh não estivesse ao nosso lado quando os homens se levantaram contra nós, ^v2
 
-**2** Se não fora o Senhor, que esteve ao nosso lado, quando os homens se levantaram contra nós, ^v2
+**3** então, eles nos teriam engolido vivos, quando se enfureceram contra nós. ^v3
 
-**3** Eles então nos teriam engolido vivos, quando a sua ira se acendeu contra nós. ^v3
+**4** A água nos teria arrastado para longe; a torrente teria passado sobre nós. ^v4
 
-**4** Então as águas teriam transbordado sobre nós, e a corrente teria passado sobre a nossa alma; ^v4
+**5** Então, as águas abundantes teriam nos afogado. ^v5
 
-**5** Então as águas altivas teriam passado sobre a nossa alma; ^v5
+**6** Bendito seja Yahweh, que não nos deu por presas aos dentes deles. ^v6
 
-**6** Bendito seja o Senhor, que não nos deu por presa aos seus dentes. ^v6
+**7** Escapamos como pássaros do laço dos caçadores; o laço foi rompido, e nós escapamos. ^v7
 
-**7** A nossa alma escapou, como um pássaro do laço dos passarinheiros; o laço quebrou-se, e nós escapamos. ^v7
-
-**8** O nosso socorro está no nome do Senhor, que fez o céu e a terra. ^v8
+**8** Nosso socorro está em Yahweh, que fez o céu e a terra. ^v8

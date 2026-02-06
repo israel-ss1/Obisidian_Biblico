@@ -1,61 +1,60 @@
 ---
-Livro: "[[Provérbios|Provérbios]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Provérbios|Provérbios]]"
+tags: [biblia]
 ---
 
 # Provérbios 27
 
-**1** Não presumas do dia de amanhã, porque não sabes o que ele trará. ^v1
+**1** Não te gabes sobre o amanhã, pois não sabes o que o dia poderá trazer. ^v1
 
-**2** Que um outro te louve, e não a tua própria boca; o estranho, e não os teus lábios. ^v2
+**2** Que outros te elogiem, não a tua própria boca, um estranho, e não teus próprios lábios. ^v2
 
-**3** A pedra é pesada, e a areia é espessa; porém a ira do insensato é mais pesada que ambas. ^v3
+**3** Considera o peso de uma pedra e o peso da areia; a provocação do tolo é mais pesada que ambas. ^v3
 
-**4** O furor é cruel e a ira impetuosa, mas quem poderá enfrentar a inveja? ^v4
+**4** Existe a crueldade da raiva e o transbordar da ira, mas quem é capaz de suportar o ciúme? ^v4
 
-**5** Melhor é a repreensão franca do que o amor encoberto. ^v5
+**5** É melhor a repreensão aberta que o amor escondido. ^v5
 
-**6** Leais são as feridas feitas pelo amigo, mas os beijos do inimigo são enganosos. ^v6
+**6** Fiéis são as feridas causadas por um amigo, mas um inimigo pode beijar-te abundantemente. ^v6
 
-**7** A alma farta pisa o favo de mel, mas para a alma faminta todo amargo é doce. ^v7
+**7** Uma pessoa que está saciada rejeita até mesmo o favo de mel, mas, para o faminto, todo amargo é doce. ^v7
 
-**8** Qual a ave que vagueia longe do seu ninho, tal é o homem que anda vagueando longe da sua morada. ^v8
+**8** Como um pássaro que vai sem rumo, longe de seu ninho, assim é o homem que se afasta de onde vive. ^v8
 
-**9** O óleo e o perfume alegram o coração; assim o faz a doçura do amigo pelo conselho cordial. ^v9
+**9** Perfume e incenso fazem o coração alegrar-se, mas a doçura de um amigo vem de seu conselho sincero. ^v9
 
-**10** Não deixes o teu amigo, nem o amigo de teu pai; nem entres na casa de teu irmão no dia da tua adversidade; melhor é o vizinho perto do que o irmão longe. ^v10
+**10** Não abandones teu amigo e o amigo de teu pai, e não vás à casa de teu irmão no dia da tua calamidade. Melhor é um vizinho que está próximo que um irmão que está longe. ^v10
 
-**11** Sê sábio, filho meu, e alegra o meu coração, para que tenha alguma coisa que responder àquele que me desprezar. ^v11
+**11** Sê sábio, meu filho, e faz meu coração alegrar-se; então, eu responderei àquele que zomba de mim. ^v11
 
-**12** O avisado vê o mal e esconde-se; mas os simples passam e sofrem a pena. ^v12
+**12** O homem prudente vê a adversidade e se esconde, mas os ingênuos seguem adiante e sofrem por causa disso. ^v12
 
-**13** Quando alguém fica por fiador do estranho, toma-lhe até a sua roupa, e por penhor àquele que se obriga pela mulher estranha. ^v13
+**13** Toma a veste daquele que se pôs por fiador de um estranho; e toma-a em penhor quando ele se tornar fiador de uma mulher imoral. ^v13
 
-**14** O que, pela manhã de madrugada, abençoa o seu amigo em alta voz, lho será imputado por maldição. ^v14
+**14** Aquele que bendisser seu vizinho em alta voz pela manhã, essa bênção será considerada uma maldição! ^v14
 
-**15** O gotejar contínuo em dia de grande chuva, e a mulher contenciosa, uma e outra são semelhantes; ^v15
+**15** Uma esposa briguenta é como uma goteira constante em dia de chuva; ^v15
 
-**16** Tentar moderá-la será como deter o vento, ou como conter o óleo dentro da sua mão direita. ^v16
+**16** impedi-la é como tentar impedir o vento, ou tentar pegar óleo com a mão direita. ^v16
 
-**17** Como o ferro com ferro se aguça, assim o homem afia o rosto do seu amigo. ^v17
+**17** Ferro afia ferro; do mesmo modo, o homem afia seu amigo. ^v17
 
-**18** O que cuida da figueira comerá do seu fruto; e o que atenta para o seu senhor será honrado. ^v18
+**18** O que cuida da figueira comerá seu fruto, e o que protege seu senhor será honrado. ^v18
 
-**19** Como na água o rosto corresponde ao rosto, assim o coração do homem ao homem. ^v19
+**19** Como a água reflete a face de uma pessoa, assim o coração da pessoa reflete o que ela é. ^v19
 
-**20** Como o inferno e a perdição nunca se fartam, assim os olhos do homem nunca se satisfazem. ^v20
+**20** Como o Sheol e Abaddon nunca estão satisfeitos, assim os olhos do homem nunca se satisfazem. ^v20
 
-**21** Como o crisol é para a prata, e o forno para o ouro, assim o homem é provado pelos louvores. ^v21
+**21** O crisol é para a prata e o forno é para o ouro; e uma pessoa é testada quando é elogiada. ^v21
 
-**22** Ainda que repreendas o tolo como quem bate o trigo com a mão de gral entre grãos pilados, não se apartará dele a sua estultícia. ^v22
+**22** Mesmo que tritures o tolo com o pilão, junto com o grão, ainda assim, a insensatez não o deixará. ^v22
 
-**23** Procura conhecer o estado das tuas ovelhas; põe o teu coração sobre os teus rebanhos, ^v23
+**23** Certifica-te de conheceres a condição de teus rebanhos, e preocupa-te com tuas manadas, ^v23
 
-**24** Porque o tesouro não dura para sempre; e durará a coroa de geração em geração? ^v24
+**24** pois a riqueza não é para sempre. Por acaso uma coroa dura por todas as gerações? ^v24
 
-**25** Quando brotar a erva, e aparecerem os renovos, e se juntarem as ervas dos montes, ^v25
+**25** Tu deves saber quando o feno é removido e os novos brotos aparecem, e o tempo em que a grama das montanhas é colhida. ^v25
 
-**26** Então os cordeiros serão para te vestires, e os bodes para o preço do campo; ^v26
+**26** Aqueles cordeiros fornecerão tuas roupas, e os bodes fornecerão o preço do campo. ^v26
 
-**27** E a abastança do leite das cabras para o teu sustento, para sustento da tua casa e para sustento das tuas servas. ^v27
+**27** Haverá leite das cabras para tua alimentação — o alimento de tua casa — e nutrição para tuas servas. ^v27

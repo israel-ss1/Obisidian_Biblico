@@ -1,45 +1,44 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Habacuque|Habacuque]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Habacuque|Habacuque]]"
+tags: [biblia]
 ---
 
 # Habacuque 3
 
-**1** Oração do profeta Habacuque sobre Sigionote. ^v1
+**1** "A oração do profeta Habacuque: [O texto hebraico acrescenta a expressão ""al shigionoth"", que pode se referir a um direcionamento musical aos cantores.]" ^v1
 
-**2** Ouvi, Senhor, a tua palavra, e temi; aviva, ó Senhor, a tua obra no meio dos anos, no meio dos anos faze-a conhecida; na tua ira lembra-te da misericórdia. ^v2
+**2** """Yahweh, ouvi Tua palavra e temi! Yahweh, reaviva o Teu trabalho durante estes tempos; e, ao longo destes tempos, faze-o conhecido; lembra-Te de ter compaixão, na Tua ira""." ^v2
 
-**3** Deus veio de Temã, e do monte de Parã o Santo (Selá). A sua glória cobriu os céus, e a terra encheu-se do seu louvor. ^v3
+**3** Deus veio de Temã e o Santo veio do monte Parã. Selá. A Sua glória cobriu os céus e a terra ficou cheia do Seu louvor. ^v3
 
-**4** E o resplendor se fez como a luz, raios brilhantes saíam da sua mão, e ali estava o esconderijo da sua força. ^v4
+**4** Os dois raios de Sua mão brilharam como a luz, e ali Ele escondeu o Seu poder. ^v4
 
-**5** Adiante dele ia a peste, e brasas ardentes saíam dos seus passos. ^v5
+**5** Doenças mortais foram diante Dele e a praga perseguiu Seus pés. ^v5
 
-**6** Parou, e mediu a terra; olhou, e separou as nações; e os montes perpétuos foram esmiuçados; os outeiros eternos se abateram, porque os caminhos eternos lhe pertencem. ^v6
+**6** Ele ficou parado e mediu a Terra; Ele olhou e sacudiu as nações. Até as montanhas indestrutíveis foram despedaçadas e as colinas intermináveis se prostraram. Seu caminho é eterno. ^v6
 
-**7** Vi as tendas de Cusã em aflição; tremiam as cortinas da terra de Midiã. ^v7
+**7** Vi as tendas de Cusan tremendo, os tecidos das tendas na terra de Midiã. ^v7
 
-**8** Acaso é contra os rios, Senhor, que estás irado? É contra os ribeiros a tua ira, ou contra o mar o teu furor, visto que andas montado sobre os teus cavalos, e nos teus carros de salvação? ^v8
+**8** Estava Yahweh irado com os rios? Era a Tua ira contra os rios, ou a Tua fúria contra o mar, quando montaste os Teus cavalos e Tuas carruagens vitoriosas? ^v8
 
-**9** Descoberto se movimentou o teu arco; os juramentos feitos às tribos foram uma palavra segura. (Selá. ) Tu fendeste a terra com rios. ^v9
+**9** Tu revelaste o Teu arco; Tu colocaste flechas no Teu arco! Selá. Tu dividiste a terra com os rios. ^v9
 
-**10** Os montes te viram, e tremeram; a inundação das águas passou; o abismo deu a sua voz, levantou ao alto as suas mãos. ^v10
+**10** As montanhas Te viram e se contorceram de dor. Correntes de águas passaram sobre elas; o mar profundo deu um grito e levantou suas ondas. ^v10
 
-**11** O sol e a lua pararam nas suas moradas; andaram à luz das tuas flechas, ao resplendor do relâmpago da tua lança. ^v11
+**11** O sol e a lua ficaram parados em seus lugares altos diante do clarão de Tuas flechas que voaram, diante do relâmpago de Tua lança reluzente. ^v11
 
-**12** Com indignação marchaste pela terra, com ira trilhaste os gentios. ^v12
+**12** Tu marchaste sobre a terra com indignação. Em ira, Tu castigaste as nações. ^v12
 
-**13** Tu saíste para salvação do teu povo, para salvação do teu ungido; tu feriste a cabeça da casa do ímpio, descobrindo o alicerce até ao pescoço. (Selá.) ^v13
+**13** Tu saíste para a salvação do Teu povo, para a salvação do Teu ungido. Tu destróis a liderança da casa do ímpio, para o expor desde a sua base até o pescoço. Selah. ^v13
 
-**14** Tu traspassaste com as suas próprias lanças a cabeça das suas vilas; eles me acometeram tempestuosos para me espalharem; alegravam-se, como se estivessem para devorar o pobre em segredo. ^v14
+**14** Tu trespassaste a cabeça dos seus guerreiros com as suas próprias flechas, porque eles vieram como uma tempestade para nos espalhar; seu regozijo era como o de quem devora o pobre em um lugar escondido. ^v14
 
-**15** Tu com os teus cavalos marchaste pelo mar, pela massa de grandes águas. ^v15
+**15** Tu viajaste sobre o mar com Teus cavalos, através das ondas, das grandes águas. ^v15
 
-**16** Ouvindo-o eu, o meu ventre se comoveu, à sua voz tremeram os meus lábios; entrou a podridão nos meus ossos, e estremeci dentro de mim; no dia da angústia descansarei, quando subir contra o povo que invadirá com suas tropas. ^v16
+**16** Eu ouvi e tremi em meu interior! Meus lábios estremeceram com o som. A podridão entra nos meus ossos e eu tremo por dentro enquanto espero silenciosamente pelo dia em que a angústia virá sobre o povo que nos invade. ^v16
 
-**17** Porque ainda que a figueira não floresça, nem haja fruto na vide; ainda que decepcione o produto da oliveira, e os campos não produzam mantimento; ainda que as ovelhas da malhada sejam arrebatadas, e nos currais não haja gado; ^v17
+**17** Ainda que a figueira não floresça e não haja nenhum fruto nas videiras; e ainda que o produto da oliveira falte e os campos não produzam alimento; e ainda que o rebanho seja exterminado dos currais e não haja nenhum gado nos estábulos, ^v17
 
-**18** Todavia eu me alegrarei no Senhor; exultarei no Deus da minha salvação. ^v18
+**18** ainda assim, eu me regozijarei em Yahweh. Eu me alegrarei pelo Deus da minha salvação. ^v18
 
-**19** O Senhor Deus é a minha força, e fará os meus pés como os das cervas, e me fará andar sobre as minhas alturas. (Para o cantor-mor sobre os meus instrumentos de corda). ^v19
+**19** O Senhor Yahweh é a minha força e Ele faz meus pés como os do cervo. Ele me faz ir adiante nos meus lugares altos. — Para o diretor da música, em meus instrumentos de cordas. ^v19

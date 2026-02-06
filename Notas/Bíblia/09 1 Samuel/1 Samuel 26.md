@@ -1,57 +1,56 @@
 ---
-Livro: "[[1 Samuel|1 Samuel]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/1 Samuel|1 Samuel]]"
+tags: [biblia]
 ---
 
 # 1 Samuel 26
 
-**1** E vieram os zifeus a Saul, a Gibeá, dizendo: Não está Davi escondido no outeiro de Haquilá, defronte de Jesimom? ^v1
+**1** "Os zifeus vieram a Saul, em Gibeá, dizendo: ""Não está Davi se escondendo no monte Haquila, que está diante de Jesimon?" ^v1
 
-**2** Então Saul se levantou e desceu ao deserto de Zife, e com ele três mil homens escolhidos de Israel, a buscar a Davi no deserto de Zife. ^v2
+**2** Então, Saul levantou-se e foi para o deserto de Zife; havia com ele três mil homens, escolhidos de Israel, para procurar por Davi, no deserto de Zife. ^v2
 
-**3** E acampou-se Saul no outeiro de Haquilá, que está defronte de Jesimom, junto ao caminho; porém Davi ficou no deserto, e viu que Saul vinha seguindo-o no deserto. ^v3
+**3** Saul acampou no monte Haquila, que está diante de Jesimon, à beira da estrada. Porém, Davi estava no deserto, e viu que Saul vinha após ele pelo deserto. ^v3
 
-**4** Pois Davi enviou espias, e soube que Saul tinha vindo. ^v4
+**4** Davi enviou espias ao deserto e compreendeu que, de fato,Saul vinha. ^v4
 
-**5** E Davi se levantou, e foi ao lugar onde Saul se tinha acampado; viu Davi o lugar onde se tinha deitado Saul, e Abner, filho de Ner, capitão do seu exército; e Saul estava deitado dentro do lugar dos carros, e o povo estava acampado ao redor dele. ^v5
+**5** Davi levantou-se e foi para o local onde Saul estava acampado; ele viu onde estavam deitados Saul e Abner, filho de Ner, o general de seu exército; Saul estava deitado, e o povo estava acampado ao seu redor; todos estavam adormecidos. ^v5
 
-**6** E dirigindo-se Davi a Aimeleque, o heteu, e a Abisai, filho de Zeruia, irmão de Joabe, disse: Quem descerá comigo a Saul ao arraial? E respondeu Abisai: Eu descerei contigo. ^v6
+**6** "Então, Davi disse a Aimeleque, o heteu, e a Abisai, filho de Zeruia, irmão de Joabe: ""Quem descerá comigo ao acampamento de Saul?"". Abisai respondeu: ""Eu descerei contigo""." ^v6
 
-**7** Foram, pois, Davi e Abisai de noite ao povo, e eis que Saul estava deitado dormindo dentro do lugar dos carros, e a sua lança estava fincada na terra à sua cabeceira; e Abner e o povo deitavam-se ao redor dele. ^v7
+**7** Davi e Abisai desceram, à noite, ao acampamento: e lá estava Saul, dormindo, sua lança cravada no chão ao lado de sua cabeça. Abner e seus soldados estavam deitados ao seu redor. ^v7
 
-**8** Então disse Abisai a Davi: Deus te entregou hoje nas mãos o teu inimigo; deixa-me, pois, agora encravá-lo com a lança de uma vez na terra, e não o ferirei segunda vez. ^v8
+**8** "Então, Abisai disse a Davi: ""Hoje, Deus colocou teu inimigo em tuas mãos. Agora, por favor, me permita encravá-lo ao chão com minha lança, com apenas um golpe. Não será necessário um segundo golpe""." ^v8
 
-**9** E disse Davi a Abisai: Nenhum dano lhe faças; porque quem estendeu a sua mão contra o ungido do Senhor, e ficou inocente? ^v9
+**9** "Davi disse a Abisai: ""Não o destruas, pois quem pode estender a sua mão contra o ungido de Yahweh e ficar inocente?""." ^v9
 
-**10** Disse mais Davi: Vive o Senhor que o Senhor o ferirá, ou o seu dia chegará em que morra, ou descerá para a batalha e perecerá. ^v10
+**10** "Davi continuou: ""Assim como Yahweh vive, Yahweh o matará; ou chegará o dia de sua morte, ou ele irá a batalha e perecerá." ^v10
 
-**11** O Senhor me guarde, de que eu estenda a mão contra o ungido do Senhor; agora, porém, toma a lança que está à sua cabeceira e a bilha de água, e vamo-nos. ^v11
+**11** "Que Yahweh não me permita estender minha mão contra o Seu ungido; mas, agora, eu te rogo: peguemos a lança que está ao lado de sua cabeça e a jarra de água, e saiamos""." ^v11
 
-**12** Tomou, pois, Davi a lança e a bilha de água, da cabeceira de Saul, e foram-se; e ninguém houve que o visse, nem que o advertisse, nem que acordasse; porque todos estavam dormindo, porque da parte do Senhor havia caído sobre eles um profundo sono. ^v12
+**12** E Davi pegou a lança e o jarro de água que estavam ao lado da cabeça de Saul, e saíram. Ninguém os viu ou soube que estiveram ali. Todos estavam adormecidos porque um profundo sono, da parte de Yahweh, viera sobre eles. ^v12
 
-**13** E Davi, passando ao outro lado, pôs-se no cume do monte ao longe, de maneira que entre eles havia grande distância. ^v13
+**13** Então, Davi foi para o outro lado do acampamento e ficou de pé no topo de uma montanha, ao longe; havia uma grande distância entre eles. ^v13
 
-**14** E Davi bradou ao povo, e a Abner, filho de Ner, dizendo: Não responderás, Abner? Então Abner respondeu e disse: Quem és tu, que bradas ao rei? ^v14
+**14** "Davi gritou para o povo e para Abner, filho de Ner, dizendo: ""Não responderás, Abner?"" Então Abner respondeu dizendo: ""Quem és tu, que gritas ao rei?""." ^v14
 
-**15** Então disse Davi a Abner: Porventura não és homem? E quem há em Israel como tu? Por que, pois, não guardaste o rei, teu senhor? Porque um do povo veio para destruir o rei, teu senhor. ^v15
+**15** "Davi disse a Abner: ""Não és tu um homem corajoso? Quem é semelhante a ti em Israel? Por que, então, não vigiaste teu mestre, o rei? Pois alguém veio para matar o rei, teu mestre." ^v15
 
-**16** Não é bom isso, que fizeste; vive o SENHOR, que sois dignos de morte, vós que não guardastes a vosso senhor, o ungido do SENHOR; vede, pois, agora onde está a lança do rei, e a bilha de água, que tinha à sua cabeceira. ^v16
+**16** "Não é bom o que fizeste. Como vive Yahweh, tu mereces morrer, por não protegeres o teu mestre, o ungido de Yahweh. Agora, vê onde está a lança do rei, e a jarra de água que estavam ao lado de sua cabeça""." ^v16
 
-**17** Então conheceu Saul a voz de Davi, e disse: Não é esta a tua voz, meu filho Davi? E disse Davi: É minha voz, ó rei meu senhor. ^v17
+**17** "Saul reconheceu a voz de Davi e disse: ""Esta é sua voz, meu filho Davi?"". Davi respondeu: ""Esta é a minha voz, meu mestre, rei""." ^v17
 
-**18** Disse mais: Por que persegue o meu senhor tanto o seu servo? Que fiz eu? E que maldade se acha nas minhas mãos? ^v18
+**18** "Ele disse: ""Por que meu mestre persegue seu servo? O que tenho feito? Que maldade há em minhas mãos?" ^v18
 
-**19** Ouve, pois, agora, te rogo, rei meu senhor, as palavras de teu servo: Se o SENHOR te incita contra mim, receba ele a oferta de alimentos; se, porém, são os filhos dos homens, malditos sejam perante o SENHOR; pois eles me têm expulsado hoje para que eu não tenha parte na herança do SENHOR, dizendo: Vai, serve a outros deuses. ^v19
+**19** Agora, pois, eu rogo que meu mestre ouça as palavras de seu servo. Se foi Yahweh que o enviou contra mim, que Ele aceite uma oferta; mas se foram homens, que eles sejam amaldiçoados em sinal de Yahweh, pois eles têm me lançado fora, para que eu não suba à herança de Yahweh, como que dizendo: ''Vai e adora outros deuses'. ^v19
 
-**20** Agora, pois, não se derrame o meu sangue na terra diante do Senhor; pois saiu o rei de Israel em busca de uma pulga, como quem persegue uma perdiz nos montes. ^v20
+**20** "Agora, pois, não permitas que meu sangue se derrame pela terra, longe da presença de Yahweh; pois o rei de Israel tem saído em busca de uma pulga, como um caçador procura uma perdiz nas montanhas""." ^v20
 
-**21** Então disse Saul: Pequei; volta, meu filho Davi, porque não tornarei a fazer-te mal; porque foi hoje preciosa a minha vida aos teus olhos; eis que procedi loucamente, e errei grandissimamente. ^v21
+**21** "Então Saul disse: ""Tenho pecado. Volta, meu filho Davi, pois não te farei mais mal, porque hoje tu preservaste minha vida. Vê, tenho agido como um tolo e cometido grande e terrível erro""." ^v21
 
-**22** Davi então respondeu, e disse: Eis aqui a lança do rei; venha cá um dos moços, e leve-a. ^v22
+**22** "Davi respondeu: ""Vê, tua lança está aqui, rei! Envia um dos jovens para buscá-la e te entregar." ^v22
 
-**23** O Senhor, porém, pague a cada um a sua justiça e a sua lealdade; pois o Senhor te entregou hoje na minha mão, porém não quis estender a minha mão contra o ungido do Senhor. ^v23
+**23** Que Yahweh pague a cada homem por sua justiça e fidelidade; porque Ele te colocou hoje em minhas mãos, mas eu não feriria o Seu ungido. ^v23
 
-**24** E eis que, assim como foi a tua vida hoje de tanta estima aos meus olhos, assim seja a minha vida de muita estima aos olhos do Senhor, e ele me livre de toda a tribulação. ^v24
+**24** "E vê, assim como tua vida foi preciosa aos meus olhos hoje, assim também tem a minha vida mais valor aos olhos de Yahweh, e que Ele me livre de todos os problemas""." ^v24
 
-**25** Então Saul disse a Davi: Bendito sejas tu, meu filho Davi; pois grandes coisas farás e também prevalecerás. Então Davi se foi pelo seu caminho e Saul voltou para o seu lugar. ^v25
+**25** "Então Saul disse a Davi: ""Sejas abençoado, Davi, meu filho, para que faças grandes coisas, e que tenhas sucesso"". Então, Davi seguiu seu caminho, e Saul retornou para o seu lugar." ^v25

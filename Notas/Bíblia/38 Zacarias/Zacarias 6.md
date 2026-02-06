@@ -1,37 +1,36 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Zacarias|Zacarias]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Zacarias|Zacarias]]"
+tags: [biblia]
 ---
 
 # Zacarias 6
 
-**1** E outra vez levantei os meus olhos, e vi, e eis que quatro carros saiam dentre dois montes, e estes montes eram montes de bronze. ^v1
+**1** Então, voltei, levantei meus olhos e vi quatro carruagens saindo dentre dois montes e os dois montes eram feitos de bronze. ^v1
 
-**2** No primeiro carro eram cavalos vermelhos, e no segundo carro, cavalos pretos, ^v2
+**2** A primeira carruagem era de cavalos vermelhos, a segunda carruagem de cavalos pretos, ^v2
 
-**3** E no terceiro carro, cavalos brancos, e no quarto carro, cavalos malhados, todos eram fortes. ^v3
+**3** a terceira carruagem de cavalos brancos e a quarta carruagem de cavalos com pintas acinzentadas. ^v3
 
-**4** E respondi, dizendo ao anjo que falava comigo: Que é isto, senhor meu? ^v4
+**4** "Então, perguntei ao anjo que falava comigo: ""O que é isto meu senhor?""." ^v4
 
-**5** E o anjo respondeu, dizendo-me: Estes são os quatro espíritos dos céus, saindo donde estavam perante o Senhor de toda a terra. ^v5
+**5** "E o anjo me respondeu, dizendo: ""Estes são os quatro ventos do céu, que saem de onde estavam, diante do Senhor de toda a terra." ^v5
 
-**6** O carro em que estão os cavalos pretos, sai para a terra do norte, e os brancos saem atrás deles, e os malhados saem para a terra do sul. ^v6
+**6** Aquele que está com os cavalos pretos vai para as terras do norte, os cavalos brancos vão para as terras do oeste; e os cavalos com pintas acinzentadas vão para as terras do sul. ^v6
 
-**7** E os cavalos fortes saíam, e procuravam ir por diante, para percorrerem a terra. E ele disse: Ide, percorrei a terra. E percorreram a terra. ^v7
+**7** """Esses cavalos fortes saíram a percorrer toda terra; então, o anjo disse: 'Ide e percorrei toda a terra!'. E partiram por toda terra." ^v7
 
-**8** E chamou-me, e falou-me, dizendo: Eis que aqueles que saíram para a terra do norte fizeram repousar o meu Espírito na terra do norte. ^v8
+**8** "Ele me chamou e disse: 'Eis que os que vão para as terras do norte apaziguarão o meu espírito a respeito das terras do norte'""." ^v8
 
-**9** E a palavra do Senhor veio a mim, dizendo: ^v9
+**9** Então, veio a mim a palavra de Yahweh, dizendo: ^v9
 
-**10** Toma dos que foram levados cativos, a saber, de Heldai, de Tobias e de Jedaías, os quais vieram de babilônia, e vem tu no mesmo dia, e entra na casa de Josias, filho de Sofonias. ^v10
+**10** """Toma as ofertas dos exilados — de Heldai, de Tobias e de Jedaías — vai, neste mesmo dia, e leva à casa de Josias, filho de Sofonias, que veio da Babilônia." ^v10
 
-**11** Toma, digo, prata e ouro, e faze coroas, e põe-nas na cabeça do sumo sacerdote Josué, filho de Jozadaque. ^v11
+**11** Toma a prata e o ouro, faze uma coroa e coloca sobre a cabeça de Josué, filho de Jeozadaque, o sumo sacerdote. ^v11
 
-**12** E fala-lhe, dizendo: Assim diz o SENHOR dos Exércitos: Eis aqui o homem cujo nome é RENOVO; ele brotará do seu lugar, e edificará o templo do SENHOR. ^v12
+**12** "Fala a ele: ""Assim diz Yahweh dos Exércitos: 'este homem, cujo o nome é Renovo, crescerá onde está e edificará o templo de Yahweh!" ^v12
 
-**13** Ele mesmo edificará o templo do Senhor, e ele levará a glória; assentar-se-á no seu trono e dominará, e será sacerdote no seu trono, e conselho de paz haverá entre ambos os ofícios. ^v13
+**13** Ele edificará o templo de Yahweh e aumentará o seu esplendor; então, irá se assentar e reinará no seu trono. Ele será sacerdote sobre o seu trono e haverá entendimento de paz entre ambos'. ^v13
 
-**14** E estas coroas serão para Helém, e para Tobias, e para Jedaías, e para Hem, filho de Sofonias, como um memorial no templo do Senhor. ^v14
+**14** Uma coroa será colocada no templo de Yahweh para honrar Heldai, Tobias e Jedaías, assim como memorial da bondade de Hem, filho de Sofonias. ^v14
 
-**15** E aqueles que estão longe virão, e edificarão no templo do Senhor, e vós sabereis que o Senhor dos Exércitos me tem enviado a vós; e isto sucederá assim, se diligentemente ouvirdes a voz do Senhor vosso Deus. ^v15
+**15** "Portanto, aqueles que estão longe virão e construirão o templo de Yahweh e tu saberás que Yahweh dos Exércitos me enviou a vós; isto somente acontecerá, se ouvirdes a voz de Yahweh vosso Deus!""." ^v15

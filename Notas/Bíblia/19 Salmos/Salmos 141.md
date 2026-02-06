@@ -1,27 +1,24 @@
 ---
-Livro: "[[Salmos|Salmos]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Salmos|Salmos]]"
+tags: [biblia]
 ---
 
 # Salmos 141
 
-**1** SENHOR, a ti clamo, escuta-me; inclina os teus ouvidos à minha voz, quando a ti clamar. ^v1
+**2** Que minha oração seja como incenso perante Ti; que minhas mãos levantadas sejam como o sacrifício da tarde. ^v2
 
-**2** Suba a minha oração perante a tua face como incenso, e as minhas mãos levantadas sejam como o sacrifício da tarde. ^v2
+**3** Yahweh, coloca guarda sobre a minha boca; guarda a porta dos meus lábios. ^v3
 
-**3** Põe, ó Senhor, uma guarda à minha boca; guarda a porta dos meus lábios. ^v3
+**4** Não deixes que meu coração deseje nenhum mal, ou participe de atos pecaminosos junto aos ímpios. Não me deixes comer nenhuma das suas iguarias. ^v4
 
-**4** Não inclines o meu coração a coisas más, a praticar obras más, com aqueles que praticam a iniqüidade; e não coma das suas delícias. ^v4
+**5** Deixa que o homem justo me bata; será uma bondade para mim. Deixa que ele me corrija; será como um óleo sobre minha cabeça; que minha mente não se recuse em aceitar, pois minha oração é sempre contra as práticas perversas. ^v5
 
-**5** Fira-me o justo, será isso uma benignidade; e repreenda-me, será um excelente óleo, que não me quebrará a cabeça; pois a minha oração também ainda continuará nas suas próprias calamidades. ^v5
+**6** Seus líderes serão lançados do topo dos penhascos; eles ouvirão as minhas palavras, que são agradáveis. ^v6
 
-**6** Quando os seus juízes forem derrubados pelos lados da rocha, ouvirão as minhas palavras, pois são agradáveis. ^v6
+**7** "Eles dirão: ""Como alguém que ara e lavra a terra, assim nossos ossos foram espalhados à boca do Sheol.""" ^v7
 
-**7** Os nossos ossos são espalhados à boca da sepultura como se alguém fendera e partira lenha na terra. ^v7
+**8** Certamente, meus olhos Te contemplam, Yahweh, Senhor Deus; em Ti me refugio; não deixes minha alma indefesa. ^v8
 
-**8** Mas os meus olhos te contemplam, ó DEUS o Senhor; em ti confio; não desnudes a minha alma. ^v8
+**9** Protege-me das ciladas que armaram para mim, armadilhas dos malfeitores. ^v9
 
-**9** Guarda-me dos laços que me armaram; e dos laços corrediços dos que praticam a iniqüidade. ^v9
-
-**10** Caiam os ímpios nas suas próprias redes, até que eu tenha escapado inteiramente. ^v10
+**10** Deixa os ímpios caírem nas suas próprias redes, enquanto eu escapo. ^v10

@@ -1,47 +1,44 @@
 ---
-Livro: "[[Salmos|Salmos]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Salmos|Salmos]]"
+tags: [biblia]
 ---
 
 # Salmos 72
 
-**1** Ó Deus, dá ao rei os teus juízos, e a tua justiça ao filho do rei. ^v1
+**2** Que ele julgue o Teu povo com retidão e os Teus pobres com justiça. ^v2
 
-**2** Ele julgará ao teu povo com justiça, e aos teus pobres com juízo. ^v2
+**3** Que as montanhas produzam paz para o povo, e as colinas produzam retidão. ^v3
 
-**3** Os montes trarão paz ao povo, e os outeiros, justiça. ^v3
+**4** Que ele julgue os pobres do povo, salve os filhos dos necessitados e esmague o opressor. ^v4
 
-**4** Julgará os aflitos do povo, salvará os filhos do necessitado, e quebrantará o opressor. ^v4
+**5** Que eles Te honrem enquanto durar o sol e enquanto houver a lua, por todas as gerações. ^v5
 
-**5** Temer-te-ão enquanto durarem o sol e a lua, de geração em geração. ^v5
+**6** Que ele desça como a chuva sobre a erva ceifada, como o aguaceiro que rega a terra. ^v6
 
-**6** Ele descerá como chuva sobre a erva ceifada, como os chuveiros que umedecem a terra. ^v6
+**7** Que os justos floresçam nos seus dias, e haja uma abundância de paz até que não mais exista a lua. ^v7
 
-**7** Nos seus dias florescerá o justo, e abundância de paz haverá enquanto durar a lua. ^v7
+**8** Que ele tenha domínio de um mar a outro, do rio até as extremidades da terra. ^v8
 
-**8** Dominará de mar a mar, e desde o rio até às extremidades da terra. ^v8
+**9** Que aqueles que vivem no deserto se inclinem diante dele, e seus inimigos lambam o pó. ^v9
 
-**9** Aqueles que habitam no deserto se inclinarão ante ele, e os seus inimigos lamberão o pó. ^v9
+**10** Que os reis de Társis e das ilhas paguem-lhe tributos, e os reis de Sabá e de Seba ofereçam-lhe presentes. ^v10
 
-**10** Os reis de Társis e das ilhas trarão presentes; os reis de Sabá e de Seba oferecerão dons. ^v10
+**11** Que todos os reis se prostrem diante dele, que todas as nações o sirvam. ^v11
 
-**11** E todos os reis se prostrarão perante ele; todas as nações o servirão. ^v11
+**12** Pois ele ajuda o necessitado, que clama, e o aflito, pois não têm quem os socorra. ^v12
 
-**12** Porque ele livrará ao necessitado quando clamar, como também ao aflito e ao que não tem quem o ajude. ^v12
+**13** Ele se compadece do pobre e do necessitado, e salva a vida dos que estão em necessidade. ^v13
 
-**13** Compadecer-se-á do pobre e do aflito, e salvará as almas dos necessitados. ^v13
+**14** Ele resgata as suas vidas da opressão e da violência, o sangue deles é precioso aos seus olhos. ^v14
 
-**14** Libertará as suas almas do engano e da violência, e precioso será o seu sangue aos olhos dele. ^v14
+**15** Que viva o rei! Que o ouro de Sabá lhe seja dado. Que as pessoas sempre orem por ele, e Deus o abençoe em todo o dia. ^v15
 
-**15** E viverá, e se lhe dará do ouro de Sabá; e continuamente se fará por ele oração; e todos os dias o bendirão. ^v15
+**16** Haja abundância de grãos na terra, no topo das montanhas, suas plantações se ondulem; que o seu fruto seja como o do Líbano, e que os habitantes das cidades floresçam como a relva no campo. ^v16
 
-**16** Haverá um punhado de trigo na terra sobre as cabeças dos montes; o seu fruto se moverá como o Líbano, e os da cidade florescerão como a erva da terra. ^v16
+**17** Que o seu nome permaneça para sempre, que seu nome continue assim como o sol; que as pessoas o abençoem e todas as nações o chamem de abençoado. ^v17
 
-**17** O seu nome permanecerá eternamente; o seu nome se irá propagando de pais a filhos enquanto o sol durar, e os homens serão abençoados nele; todas as nações lhe chamarão bem-aventurado. ^v17
+**18** Bendito seja Yahweh Deus, o Deus de Israel, o único que faz maravilhas. ^v18
 
-**18** Bendito seja o Senhor Deus, o Deus de Israel, que só ele faz maravilhas. ^v18
+**19** Que Seu glorioso nome seja exaltado para sempre, e toda a terra se encha com a Sua glória! Amém e amém! ^v19
 
-**19** E bendito seja para sempre o seu nome glorioso; e encha-se toda a terra da sua glória. Amém e Amém. ^v19
-
-**20** Aqui acabam as orações de Davi, filho de Jessé. ^v20
+**20** As orações de Davi, filho de Jessé, terminam aqui. ^v20

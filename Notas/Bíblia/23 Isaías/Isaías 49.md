@@ -1,59 +1,58 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Isaías|Isaías]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Isaías|Isaías]]"
+tags: [biblia]
 ---
 
 # Isaías 49
 
-**1** Ouvi-me, ilhas, e escutai vós, povos de longe: O SENHOR me chamou desde o ventre, desde as entranhas de minha mãe fez menção do meu nome. ^v1
+**1** Ouvi-me, vós, moradores do litoral! Prestai atenção, vós, povos distantes. Yahweh me chamou pelo nome antes do nascimento, desde o ventre da minha mãe. ^v1
 
-**2** E fez a minha boca como uma espada aguda, com a sombra da sua mão me cobriu; e me pôs como uma flecha limpa, e me escondeu na sua aljava; ^v2
+**2** Ele tornou minha boca como espada afiada; escondeu-me na sombra da Sua mão; Ele me fez como uma flecha polida, e, na Sua aljava, escondeu-me. ^v2
 
-**3** E me disse: Tu és meu servo; és Israel, aquele por quem hei de ser glorificado. ^v3
+**3** "Ele me disse: ""Tu és Meu servo, Israel, por meio de quem Eu mostro Minha glória""." ^v3
 
-**4** Porém eu disse: Debalde tenho trabalhado, inútil e vãmente gastei as minhas forças; todavia o meu direito está perante o Senhor, e o meu galardão perante o meu Deus. ^v4
+**4** "Mas eu respondi: ""Ainda que eu acredite que tenha trabalhado em vão, que tenha gastado inutilmente minha energia, contudo, minha justiça vem de Yahweh, e minha recompensa repousa com meu Deus""." ^v4
 
-**5** E agora diz o Senhor, que me formou desde o ventre para ser seu servo, para que torne a trazer Jacó; porém Israel não se deixará ajuntar; contudo aos olhos do Senhor serei glorificado, e o meu Deus será a minha força. ^v5
+**5** Agora, diz Yahweh, Aquele que me formou desde o nascimento para ser Seu servo, a fim de restaurar Jacó novamente para Si, para juntar Israel a Ele. Sou honrado aos olhos de Yahweh e o meu Deus Se tornou minha força. ^v5
 
-**6** Disse mais: Pouco é que sejas o meu servo, para restaurares as tribos de Jacó, e tornares a trazer os preservados de Israel; também te dei para luz dos gentios, para seres a minha salvação até à extremidade da terra. ^v6
+**6** "Ele diz: ""É muito pouco para ti ser Meu servo para restabelecer as tribos de Jacó e restaurar os sobreviventes de Israel. Eu te tornarei luz aos gentios, para que sejas Minha salvação até os confins da terra""." ^v6
 
-**7** Assim diz o Senhor, o Redentor de Israel, o seu Santo, à alma desprezada, ao que a nação abomina, ao servo dos que dominam: Os reis o verão, e se levantarão, como também os príncipes, e eles diante de ti se inclinarão, por amor do Senhor, que é fiel, e do Santo de Israel, que te escolheu. ^v7
+**7** "Isto é o que Yahweh diz, o Redentor de Israel, o seu Santo, àquele que é desprezado, odiado pelas nações e escravo dos governadores: ""Reis te verão e se levantarão, príncipes te contemplarão e te reverenciarão por causa de Yahweh, que é fiel, o Santo de Israel, que te escolheu""." ^v7
 
-**8** Assim diz o Senhor: No tempo aceitável te ouvi e no dia da salvação te ajudei, e te guardarei, e te darei por aliança do povo, para restaurares a terra, e dar-lhes em herança as herdades assoladas; ^v8
+**8** "Isto é o que Yahweh diz: ""No momento em que Eu decidir te mostrar Meu favor, te responderei, e, no dia da salvação, te ajudarei; protegerei a ti e te farei mediador de uma aliança, para reconstruir a terra e transferir ao povo a herança desolada." ^v8
 
-**9** Para dizeres aos presos: Saí; e aos que estão em trevas: Aparecei. Eles pastarão nos caminhos, e em todos os lugares altos haverá o seu pasto. ^v9
+**9** Dirás aos prisioneiros: 'Saí'; àqueles que estão nos calabouços: 'Mostrai-vos'. Eles pastarão ao longo das estradas e todas as encostas descobertas serão suas pastagens. ^v9
 
-**10** Nunca terão fome, nem sede, nem o calor, nem o sol os afligirá; porque o que se compadece deles os guiará e os levará mansamente aos mananciais das águas. ^v10
+**10** Eles não sentirão fome ou sede; tampouco serão assolados pelo calor do sol, porque Quem deles tem compaixão os conduzirá; Ele os guiará para as fontes de água. ^v10
 
-**11** E farei de todos os meus montes um caminho; e as minhas estradas serão levantadas. ^v11
+**11** "E transformarei num caminho plano todas as Minhas montanhas; Eu nivelarei Minhas estradas""." ^v11
 
-**12** Eis que estes virão de longe, e eis que aqueles do norte, e do ocidente, e aqueles outros da terra de Sinim. ^v12
+**12** Vê, estes virão de uma terra distante; alguns virão do norte e do oeste, enquanto outros virão da terra de Sinim. ^v12
 
-**13** Exultai, ó céus, e alegra-te, ó terra, e vós, montes, estalai com júbilo, porque o Senhor consolou o seu povo, e dos seus aflitos se compadecerá. ^v13
+**13** Louvai, céus, e regozija-te, terra; cantai, ó montanhas! Porque Yahweh consola o Seu povo e terá compaixão dos Seus aflitos. ^v13
 
-**14** Porém Sião diz: Já me desamparou o Senhor, e o meu Senhor se esqueceu de mim. ^v14
+**14** "Porém, Sião disse: ""Yahweh me abandonou e o Senhor Se esqueceu de mim""." ^v14
 
-**15** Porventura pode uma mulher esquecer-se tanto de seu filho que cria, que não se compadeça dele, do filho do seu ventre? Mas ainda que esta se esquecesse dele, contudo eu não me esquecerei de ti. ^v15
+**15** Por acaso, pode uma mulher esquecer-se de seu bebê, que ainda é amamentado, de forma que ela não tenha compaixão do filho a quem deu à luz? Mas, mesmo que ela se esqueça, Eu jamais Me esquecerei de vós. ^v15
 
-**16** Eis que nas palmas das minhas mãos eu te gravei; os teus muros estão continuamente diante de mim. ^v16
+**16** Escrevi o vosso nome nas palmas das Minhas mãos e vossos muros estão continuamente diante de Mim. ^v16
 
-**17** Os teus filhos pressurosamente virão, mas os teus destruidores e os teus assoladores sairão do meio de ti. ^v17
+**17** Vossos filhos virão depressa, enquanto aqueles que vos destruíram estão indo embora. ^v17
 
-**18** Levanta os teus olhos ao redor, e olha; todos estes que se ajuntam vêm a ti; vivo eu, diz o Senhor, que de todos estes te vestirás, como de um ornamento, e te cingirás deles como noiva. ^v18
+**18** Olhai ao redor e vede, todos eles estão se ajuntando e vindo até vós. Tão certo como Eu vivo — isto é o que Yahweh declara — vós, certamente, os usareis como joias e, como uma noiva, vos adornareis com eles. ^v18
 
-**19** Porque nos teus desertos, e nos teus lugares solitários, e na tua terra destruída, agora te verás apertada de moradores, e os que te devoravam se afastarão para longe de ti. ^v19
+**19** Embora tu foste um deserto desolado, uma terra em ruínas, agora, serás demasiadamente pequena para os habitantes, e os que te devoraram estarão longe de ti. ^v19
 
-**20** E até mesmo os filhos da tua orfandade dirão aos teus ouvidos: Muito estreito é para mim este lugar; aparta-te de mim, para que possa habitar nele. ^v20
+**20** Os filhos que nasceram de ti, durante o teu tempo de lamento, dirão aos teus ouvidos: 'Este lugar é muito apertado para nós; dá-nos um espaço maior para morar'. ^v20
 
-**21** E dirás no teu coração: Quem me gerou estes? Pois eu estava desfilhada e solitária; entrara em cativeiro, e me retirara; quem, pois, me criou estes? Eis que eu fui deixada sozinha; e estes onde estavam? ^v21
+**21** "Então, vós fareis esta pergunta: ""Quem deu à luz estes filhos para mim? Era estéril e desolada, exilada e abandonada. Quem criou estes filhos? Olhai, fui deixada sozinha; de onde vieram estes?""." ^v21
 
-**22** Assim diz o Senhor DEUS: Eis que levantarei a minha mão para os gentios, e ante os povos arvorarei a minha bandeira; então trarão os teus filhos nos braços, e as tuas filhas serão levadas sobre os ombros. ^v22
+**22** "Eis o que diz Yahweh: ""Vede, erguerei Minha mão às nações; levantarei Minha bandeira de alerta aos povos. Eles trarão vossos filhos em seus braços e carregarão vossas filhas em seus ombros." ^v22
 
-**23** E os reis serão os teus aios, e as suas rainhas as tuas amas; diante de ti se inclinarão com o rosto em terra, e lamberão o pó dos teus pés; e saberás que eu sou o Senhor, que os que confiam em mim não serão confundidos. ^v23
+**23** "Reis serão vossos pais adotivos e as rainhas deles serão vossas amas; eles vos reverenciarão com o rosto no chão e lamberão a poeira dos vossos pés; e vós sabereis que Eu sou Yahweh; os que esperam por Mim não serão envergonhados""." ^v23
 
-**24** Porventura tirar-se-ia a presa ao poderoso, ou escapariam os legalmente presos? ^v24
+**24** Podem os despojos serem subtraídos do guerreiro, ou os cativos serem libertos de um tirano? ^v24
 
-**25** Mas assim diz o Senhor: Por certo que os presos se tirarão ao poderoso, e a presa do tirano escapará; porque eu contenderei com os que contendem contigo, e os teus filhos eu remirei. ^v25
+**25** "Mas isto é o que diz Yahweh: ""Sim, os cativos serão tomados do guerreiro e os despojos serão resgatados, porque estarei em oposição a vossos adversários e salvarei vossos filhos." ^v25
 
-**26** E sustentarei os teus opressores com a sua própria carne, e com o seu próprio sangue se embriagarão, como com mosto; e toda a carne saberá que eu sou o Senhor, o teu Salvador, e o teu Redentor, o Forte de Jacó. ^v26
+**26** "Alimentarei vossos opressores com sua própria carne; eles se embriagarão com o próprio sangue, como se fosse vinho. E todos saberão que Eu, Yahweh, sou vosso Salvador e Redentor, o Todo-Poderoso de Jacó""." ^v26

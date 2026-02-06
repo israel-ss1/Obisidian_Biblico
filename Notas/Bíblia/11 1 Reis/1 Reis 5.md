@@ -1,43 +1,42 @@
 ---
-Livro: "[[1 Reis|1 Reis]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/1 Reis|1 Reis]]"
+tags: [biblia]
 ---
 
 # 1 Reis 5
 
-**1** E enviou Hirão, rei de Tiro, os seus servos a Salomão (porque ouvira que ungiram a Salomão rei em lugar de seu pai), porquanto Hirão sempre tinha amado a Davi. ^v1
+**1** Hirão, rei de Tiro, enviou seus servos até Salomão, quando escutou que o haviam ungido rei no lugar de seu pai, porque Hirão sempre amou a Davi. ^v1
 
-**2** Então Salomão mandou dizer a Hirão: ^v2
+**2** Salomão mandou uma mensagem a Hirão, dizendo: ^v2
 
-**3** Bem sabes tu que Davi, meu pai, não pôde edificar uma casa ao nome do Senhor seu Deus, por causa da guerra com que o cercaram, até que o Senhor pôs seus inimigos debaixo das plantas dos seus pés. ^v3
+**3** """Tu sabes que Davi, meu pai, não pôde construir uma casa para o nome de Yahweh, seu Deus, por causa das guerras que o cercavam, até que, durante sua vida, Yahweh pôs seus inimigos debaixo de seus pés." ^v3
 
-**4** Porém agora o Senhor meu Deus me tem dado descanso de todos os lados; adversário não há, nem algum mau encontro. ^v4
+**4** Mas agora, Yahweh, meu Deus, tem me dado descanso por todos os lados. Não há nem adversários, nem desastres. ^v4
 
-**5** E eis que eu intento edificar uma casa ao nome do Senhor meu Deus, como falou o Senhor a Davi, meu pai, dizendo: Teu filho, que porei em teu lugar no teu trono, ele edificará uma casa ao meu nome. ^v5
+**5** Então eu pretendo construir um templo ao nome de Yahweh meu Deus, como Yahweh falou para Davi, meu pai, dizendo: 'Teu filho, que colocarei no teu trono em teu lugar, construirá o templo ao Meu nome'. ^v5
 
-**6** Dá ordem, pois, agora, que do Líbano me cortem cedros, e os meus servos estarão com os teus servos, e eu te darei o salário dos teus servos, conforme a tudo o que disseres; porque bem sabes tu que entre nós ninguém há que saiba cortar a madeira como os sidônios. ^v6
+**6** "Portanto ordena que cortem cedros do Líbano para mim. E meus servos se juntarão aos teus servos, e eu pagarei de forma justa para os teus servos conforme tudo o que concordares. Porque tu sabes que não há ninguém entre nós que saiba cortar madeira como os sidônios""." ^v6
 
-**7** E aconteceu que, ouvindo Hirão as palavras de Salomão, muito se alegrou, e disse: Bendito seja hoje o Senhor, que deu a Davi um filho sábio sobre este tão grande povo. ^v7
+**7** "Quando Hirão ouviu estas palavras de Salomão, regozijou-se grandemente e disse: ""Bendito seja hoje Yahweh, que deu a Davi um filho sábio sobre este tão grande povo""." ^v7
 
-**8** E enviou Hirão a Salomão, dizendo: Ouvi o que me mandaste dizer. Eu farei toda a tua vontade acerca das madeiras de cedro e de cipreste. ^v8
+**8** "Hirão enviou esta palavra a Salomão, dizendo: ""Ouvi a mensagem que me enviaste. Providenciarei tudo que desejares a respeito da madeira de cedro e de cipreste." ^v8
 
-**9** Os meus servos as levarão desde o Líbano até ao mar, e eu as farei conduzir em jangadas pelo mar até ao lugar que me designares, e ali as desamarrarei; e tu as tomarás; tu também farás a minha vontade, dando sustento à minha casa. ^v9
+**9** "Meus servos levarão as árvores do Líbano até o mar, e as farei como jangadas para ir pelo mar até o lugar que me designares. Chegando lá, eu as desamarrarei e tu as tirarás. Tu realizarás meu desejo, dando sustento para minha casa""." ^v9
 
-**10** Assim deu Hirão a Salomão madeira de cedro e madeira de cipreste, conforme a toda a sua vontade. ^v10
+**10** Então Hirão deu a Salomão toda a madeira de cedro e cipreste que desejara. ^v10
 
-**11** E Salomão deu a Hirão vinte mil coros de trigo, para sustento da sua casa, e vinte coros de azeite batido; isto dava Salomão a Hirão anualmente. ^v11
+**11** Salomão deu a Hirão vinte mil medidas de trigo para sustento de sua casa e vinte medidas de óleo puro. Salomão deu isto para Hirão ano após ano. ^v11
 
-**12** Deu, pois, o Senhor a Salomão sabedoria, como lhe tinha falado; e houve paz entre Hirão e Salomão, e ambos fizeram acordo. ^v12
+**12** Yahweh deu sabedoria a Salomão, como lhe prometera. Havia paz entre Hirão e Salomão, e os dois fizeram uma aliança. ^v12
 
-**13** E o rei Salomão fez subir uma leva de gente dentre todo o Israel, e foi a leva de gente trinta mil homens; ^v13
+**13** O rei Salomão recrutou trabalhadores de todo o Israel. Os trabalhadores forçados foram trinta mil homens. ^v13
 
-**14** E os enviava ao Líbano, cada mês, dez mil por turno; um mês estavam no Líbano, e dois meses cada um em sua casa; e Adonirão estava sobre a leva de gente. ^v14
+**14** Ele enviou ao Líbano dez mil por mês em turnos. Um mês eles estavam no Líbano e dois meses em casa. E Adonirão era o encarregado sobre os trabalhadores forçados. ^v14
 
-**15** Tinha também Salomão setenta mil que levavam as cargas, e oitenta mil que talhavam pedras nas montanhas, ^v15
+**15** Salomão teve setenta mil que carregaram cargas e oitenta mil que cortavam as rochas nas montanhas. ^v15
 
-**16** Afora os chefes dos oficiais de Salomão, que estavam sobre aquela obra, três mil e trezentos, os quais davam as ordens ao povo que fazia aquela obra. ^v16
+**16** Além de três mil e trezentos chefes-oficiais de Salomão, que estavam encarregados da obra e supervisionavam os trabalhadores. ^v16
 
-**17** E mandou o rei que trouxessem pedras grandes, e pedras valiosas, pedras lavradas, para fundarem a casa. ^v17
+**17** E o rei mandou que eles extraíssem grandes pedras de alta qualidade com as quais fariam a fundação do templo. ^v17
 
-**18** E as lavraram os edificadores de Hirão, e os giblitas; e preparavam a madeira e as pedras para edificar a casa. ^v18
+**18** Então os edificadores de Salomão, os de Hirão e os gebalitas cortaram e prepararam as madeiras e as pedras para construir o templo. ^v18

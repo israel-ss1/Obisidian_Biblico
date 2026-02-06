@@ -1,19 +1,18 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Isaías|Isaías]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Isaías|Isaías]]"
+tags: [biblia]
 ---
 
 # Isaías 4
 
-**1** E sete mulheres naquele dia lançarão mão de um homem, dizendo: Nós comeremos do nosso pão, e nos vestiremos do que é nosso; tão-somente queremos ser chamadas pelo teu nome; tira o nosso opróbrio. ^v1
+**1** "Naquele dia, sete mulheres tomarão um só homem, e dirão: ""Comeremos nosso próprio alimento, vestiremos nossa própria roupa, mas permita que tomemos teu nome para remover nossa vergonha""." ^v1
 
-**2** Naquele dia o renovo do Senhor será cheio de beleza e de glória; e o fruto da terra excelente e formoso para os que escaparem de Israel. ^v2
+**2** Naquele dia, o renovo de Yahweh será lindo e glorioso e o fruto da terra será saboroso e agradável para os sobreviventes em Israel. ^v2
 
-**3** E será que aquele que for deixado em Sião, e ficar em Jerusalém, será chamado santo; todo aquele que estiver inscrito entre os viventes em Jerusalém; ^v3
+**3** Então, o que ficar em Sião e o que permanecer em Jerusalém será chamado santo, isto é, todo aquele que for registrado entre os vivos em Jerusalém, ^v3
 
-**4** Quando o Senhor lavar a imundícia das filhas de Sião, e limpar o sangue de Jerusalém, do meio dela, com o espírito de justiça, e com o espírito de ardor. ^v4
+**4** quando o Senhor tiver lavado a imundice das filhas de Sião e limpado as manchas de sangue do meio de Jerusalém, pelo espírito de justiça e pelo espírito de fogo ardente. ^v4
 
-**5** E criará o Senhor sobre todo o lugar do monte de Sião, e sobre as suas assembléias, uma nuvem de dia e uma fumaça, e um resplendor de fogo flamejante de noite; porque sobre toda a glória haverá proteção. ^v5
+**5** Então, sobre todo o monte Sião e sobre suas assembleias, Yahweh criará nuvem e fumaça de dia, e o brilho de uma chama de fogo à noite. Isto será uma cobertura sobre toda a glória; ^v5
 
-**6** E haverá um tabernáculo para sombra contra o calor do dia; e para refúgio e esconderijo contra a tempestade e a chuva. ^v6
+**6** será um abrigo contra o sol durante o calor do dia; um refúgio e uma cobertura contra a tempestade e a chuva. ^v6

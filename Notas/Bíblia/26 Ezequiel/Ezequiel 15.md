@@ -1,23 +1,22 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Ezequiel|Ezequiel]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Ezequiel|Ezequiel]]"
+tags: [biblia]
 ---
 
 # Ezequiel 15
 
-**1** E veio a mim a palavra do SENHOR, dizendo: ^v1
+**1** Então, a palavra de Yahweh veio a mim, dizendo: ^v1
 
-**2** Filho do homem, que mais é a árvore da videira do que qualquer outra árvore, ou do que o sarmento que está entre as árvores do bosque? ^v2
+**2** """Filho do homem, como pode a videira ser melhor que qualquer árvore com galhos que está entre as árvores da floresta?" ^v2
 
-**3** Toma-se dela madeira para fazer alguma obra? Ou toma-se dela alguma estaca, para que se lhe pendure um vaso? ^v3
+**3** O povo tira madeira da videira para fazer alguma coisa? Ou fazem eles uma estaca para pendurar alguma coisa? ^v3
 
-**4** Eis que é lançado no fogo, para ser consumido; ambas as suas extremidades consome o fogo, e o meio dela fica também queimado; serviria porventura para alguma obra? ^v4
+**4** Olha! Se ela é jogada no fogo como combustível, e, se o fogo queima tanto o meio como o fim dela, seria útil para alguma coisa? ^v4
 
-**5** Ora, se estando inteiro, não servia para obra alguma, quanto menos sendo consumido pelo fogo, e, sendo queimado, se faria ainda obra dele? ^v5
+**5** Vê! Quando estava inteira, não servia para nada; quando o fogo queimar, aí é que não servirá para nada. ^v5
 
-**6** Portanto, assim diz o Senhor DEUS: Como a árvore da videira entre as árvores do bosque, que tenho entregue ao fogo para que seja consumido, assim entregarei os habitantes de Jerusalém. ^v6
+**6** Portanto, Yahweh Deus diz: Ao invés de entregar as árvores do bosque, entreguei a videira como combustível para ser queimada; do mesmo jeito farei com os habitantes de Jerusalém. ^v6
 
-**7** E porei a minha face contra eles; do fogo sairão, mas o fogo os consumirá; e sabereis que eu sou o Senhor, quando tiver posto a minha face contra eles. ^v7
+**7** Voltarei a Minha face contra eles. Mesmo que tenham saído do fogo, ainda assim, o fogo os consumirá; então, tu saberás que Eu sou Yahweh, quando Eu virar a Minha face contra eles. ^v7
 
-**8** E tornarei a terra em desolação, porquanto grandemente transgrediram, diz o Senhor DEUS. ^v8
+**8** "Então, Eu farei com que a terra fique abandonada e sem serventia, porque eles têm cometido pecado — esta é a declaração de Yahweh Deus""." ^v8

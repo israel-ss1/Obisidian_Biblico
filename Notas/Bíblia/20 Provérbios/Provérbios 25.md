@@ -1,63 +1,62 @@
 ---
-Livro: "[[Provérbios|Provérbios]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Provérbios|Provérbios]]"
+tags: [biblia]
 ---
 
 # Provérbios 25
 
-**1** Também estes são provérbios de Salomão, os quais transcreveram os homens de Ezequias, rei de Judá. ^v1
+**1** Estes também são provérbios de Salomão, copiados pelos homens de Ezequias, rei de Judá. ^v1
 
-**2** A glória de Deus está nas coisas encobertas; mas a honra dos reis, está em descobri-las. ^v2
+**2** A glória de Deus é encobrir as coisas, mas a glória dos reis é investigá-las. ^v2
 
-**3** Os céus, pela altura, e a terra, pela profundidade, assim o coração dos reis é insondável. ^v3
+**3** Como os céus estão em altura e a terra em profundidade, assim o coração dos reis é indecifrável. ^v3
 
-**4** Tira da prata as escórias, e sairá vaso para o fundidor; ^v4
+**4** Remove a escória da prata e o fundidor poderá usar prata em sua obra. ^v4
 
-**5** Tira o ímpio da presença do rei, e o seu trono se firmará na justiça. ^v5
+**5** Assim também, remove os ímpios da presença do rei e seu trono será estabelecido fazendo o que é justo. ^v5
 
-**6** Não te glories na presença do rei, nem te ponhas no lugar dos grandes; ^v6
+**6** Não honres a ti mesmo na presença do rei e não te coloques num lugar designado para os grandes. ^v6
 
-**7** Porque melhor é que te digam: Sobe aqui; do que seres humilhado diante do príncipe que os teus olhos já viram. ^v7
+**7** "É melhor que ele te diga: ""Sobe aqui"", do que tu seres humilhado por ele na presença de um nobre. O que tu testemunhaste" ^v7
 
-**8** Não te precipites em litigar, para que depois, ao fim, fiques sem ação, quando teu próximo te puser em apuros. ^v8
+**8** não tragas, apressadamente, diante do tribunal. O que tu farás no final, quando o teu próximo te envergonhar? ^v8
 
-**9** Pleiteia a tua causa com o teu próximo, e não reveles o segredo a outrem, ^v9
+**9** Discute o teu caso entre ti e teu próximo e não reveles o segredo de outrem, ^v9
 
-**10** Para que não te desonre o que o ouvir, e a tua infâmia não se aparte de ti. ^v10
+**10** ou aquele que te ouve trará vergonha sobre ti e a má fama a teu respeito não poderá ser silenciada. ^v10
 
-**11** Como maçãs de ouro em salvas de prata, assim é a palavra dita a seu tempo. ^v11
+**11** Como maçãs de ouro em engastes de prata, assim é a palavra falada no tempo certo. ^v11
 
-**12** Como pendentes de ouro e gargantilhas de ouro fino, assim é o sábio repreensor para o ouvido atento. ^v12
+**12** Como um brinco de ouro ou uma joia feita de ouro fino, assim é a repreensão sábia para um ouvido atento. ^v12
 
-**13** Como o frio da neve no tempo da sega, assim é o mensageiro fiel para com os que o enviam; porque refresca a alma dos seus senhores. ^v13
+**13** Como o frio da neve no tempo da colheita, assim é o mensageiro fiel para aqueles que o enviam, ele restaura a vida dos seus senhores. ^v13
 
-**14** Como nuvens e ventos que não trazem chuva, assim é o homem que se gaba falsamente de dádivas. ^v14
+**14** Como nuvens e vento sem chuva, assim é aquele que se gaba de um presente que ele não deu. ^v14
 
-**15** Pela longanimidade se persuade o príncipe, e a língua branda amolece até os ossos. ^v15
+**15** Com paciência, um comandante pode ser persuadido, e uma língua suave pode quebrar um osso. ^v15
 
-**16** Achaste mel? come só o que te basta; para que porventura não te fartes dele, e o venhas a vomitar. ^v16
+**16** Se tu encontrares mel, come só o suficiente, senão, terás demais e vomitarás. ^v16
 
-**17** Não ponhas muito os pés na casa do teu próximo; para que se não enfade de ti, e passe a te odiar. ^v17
+**17** Não ponhas o teu pé com muita frequência na casa do teu próximo, ele poderá se cansar de ti e te odiar. ^v17
 
-**18** Martelo, espada e flecha aguda é o homem que profere falso testemunho contra o seu próximo. ^v18
+**18** O homem que levanta falso testemunho contra o seu próximo é como um bastão usado na guerra, ou uma espada, ou uma flecha afiada. ^v18
 
-**19** Como dente quebrado, e pé desconjuntado, é a confiança no desleal, no tempo da angústia. ^v19
+**19** Um homem infiel no qual tu confias no tempo de dificuldades é como um dente quebrado ou um pé que escorrega. ^v19
 
-**20** O que canta canções para o coração aflito é como aquele que despe a roupa num dia de frio, ou como o vinagre sobre salitre. ^v20
+**20** Como a pessoa que tira a roupa no tempo frio, ou como vinagre derramado sobre a soda, assim é aquele que canta canções para um coração pesado. ^v20
 
-**21** Se o teu inimigo tiver fome, dá-lhe pão para comer; e se tiver sede, dá-lhe água para beber; ^v21
+**21** Se o teu inimigo está faminto, dá-lhe alimento para comer e, se ele está com sede, dá-lhe água para beber, ^v21
 
-**22** Porque assim lhe amontoarás brasas sobre a cabeça; e o Senhor to retribuirá. ^v22
+**22** porque tu colocarás brasas ardentes sobre a sua cabeça e Yahweh te recompensará. ^v22
 
-**23** O vento norte afugenta a chuva, e a face irada, a língua fingida. ^v23
+**23** Tão certo como o vento norte traz a chuva, assim a língua que conta segredos produz rostos enraivecidos. ^v23
 
-**24** Melhor é morar só num canto de telhado do que com a mulher briguenta numa casa ampla. ^v24
+**24** É melhor viver no canto do terraço que compartilhar a casa com uma mulher briguenta. ^v24
 
-**25** Como água fresca para a alma cansada, tais são as boas novas vindas da terra distante. ^v25
+**25** Como água fria para o que está com sede, assim são as boas notícias de um país distante. ^v25
 
-**26** Como fonte turvada, e manancial poluído, assim é o justo que cede diante do ímpio. ^v26
+**26** Como a nascente suja ou a fonte arruinada, assim é o justo que cambaleia diante dos ímpios. ^v26
 
-**27** Comer mel demais não é bom; assim, a busca da própria glória não é glória. ^v27
+**27** Não é bom comer muito mel, assim como buscar honra sobre honra. ^v27
 
-**28** Como a cidade derrubada, sem muro, assim é o homem que não pode conter o seu espírito. ^v28
+**28** A pessoa sem domínio próprio é como uma cidade com brechas ou sem muros. ^v28

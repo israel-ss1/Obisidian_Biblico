@@ -1,69 +1,68 @@
 ---
-Livro: "[[1 Coríntios|1 Coríntios]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/1 Coríntios|1 Coríntios]]"
+tags: [biblia]
 ---
 
 # 1 Coríntios 12
 
-**1** Acerca dos dons espirituais, não quero, irmãos, que sejais ignorantes. ^v1
+**1** Sobre os dons espirituais, irmãos, eu não quero que sejais desinformados. ^v1
 
-**2** Vós bem sabeis que éreis gentios, levados aos ídolos mudos, conforme éreis guiados. ^v2
+**2** Vós sabeis que quando éreis pagãos, éreis levados por ídolos mudos. ^v2
 
-**3** Portanto, vos quero fazer compreender que ninguém que fala pelo Espírito de Deus diz: Jesus é anátema, e ninguém pode dizer que Jesus é o Senhor, senão pelo Espírito Santo. ^v3
+**3** "Portanto quero que saibais que ninguém que fala pelo Espírito de Deus pode dizer: ""Jesus é maldito"". E ninguém pode dizer: ""Jesus é Senhor"", senão pelo Espírito Santo." ^v3
 
-**4** Ora, há diversidade de dons, mas o Espírito é o mesmo. ^v4
+**4** Agora, há diferentes tipos de dons, mas o mesmo Espírito. ^v4
 
-**5** E há diversidade de ministérios, mas o Senhor é o mesmo. ^v5
+**5** E há diferentes tipos de ministérios, mas o mesmo Senhor. ^v5
 
-**6** E há diversidade de operações, mas é o mesmo Deus que opera tudo em todos. ^v6
+**6** E há diferentes tipos de trabalhos, mas é o mesmo Deus quem os faz possível em todos. ^v6
 
-**7** Mas a manifestação do Espírito é dada a cada um, para o que for útil. ^v7
+**7** A cada um é dada uma manifestação visível do Espírito para o benefício de todos. ^v7
 
-**8** Porque a um pelo Espírito é dada a palavra da sabedoria; e a outro, pelo mesmo Espírito, a palavra da ciência; ^v8
+**8** Pois a um é dada pelo Espírito a palavra de sabedoria, e a outro a palavra de conhecimento pelo mesmo Espírito. ^v8
 
-**9** E a outro, pelo mesmo Espírito, a fé; e a outro, pelo mesmo Espírito, os dons de curar; ^v9
+**9** A outro é dado fé pelo mesmo Espírito, e a outro, dons de cura pelo mesmo Espírito, ^v9
 
-**10** E a outro a operação de maravilhas; e a outro a profecia; e a outro o dom de discernir os espíritos; e a outro a variedade de línguas; e a outro a interpretação das línguas. ^v10
+**10** e a outro, dons de poder, e a outro, profecia, a outro, a habilidade de discernir espíritos, e a outro, vários tipos de línguas, e a outro, a interpretação de línguas. ^v10
 
-**11** Mas um só e o mesmo Espírito opera todas estas coisas, repartindo particularmente a cada um como quer. ^v11
+**11** Mas o mesmo Espírito trabalha em todos, dando os dons a cada um individualmente, como Ele quiser. ^v11
 
-**12** Porque, assim como o corpo é um, e tem muitos membros, e todos os membros, sendo muitos, são um só corpo, assim é Cristo também. ^v12
+**12** Pois, como o corpo é um e tem muitos membros e todos são membros do mesmo corpo, assim é com Cristo. ^v12
 
-**13** Pois todos nós fomos batizados em um Espírito, formando um corpo, quer judeus, quer gregos, quer servos, quer livres, e todos temos bebido de um Espírito. ^v13
+**13** Pois, em um só Espírito, todos fomos batizados em um só corpo: sejam judeus, sejam gregos; sejam presos, sejam livres; e todos foram feitos para beber de um único Espírito. ^v13
 
-**14** Porque também o corpo não é um só membro, mas muitos. ^v14
+**14** Porque o corpo não é um único membro, mas muitos. ^v14
 
-**15** Se o pé disser: Porque não sou mão, não sou do corpo; não será por isso do corpo? ^v15
+**15** "Se os pés dizem: ""Como eu não sou mão, eu não sou parte do corpo"", eles não deixam de ser parte do corpo." ^v15
 
-**16** E se a orelha disser: Porque não sou olho não sou do corpo; não será por isso do corpo? ^v16
+**16** "E se o ouvido disser: ""Porque eu não sou olho, eu não sou parte do corpo"", ele não deixa de ser parte do corpo." ^v16
 
-**17** Se todo o corpo fosse olho, onde estaria o ouvido? Se todo fosse ouvido, onde estaria o olfato? ^v17
+**17** Se todo o corpo fosse olho, onde estaria a audição? Se todo o corpo fosse ouvido, onde estaria o olfato? ^v17
 
-**18** Mas agora Deus colocou os membros no corpo, cada um deles como quis. ^v18
+**18** Mas Deus arranjou cada parte do corpo como Ele designou. ^v18
 
-**19** E, se todos fossem um só membro, onde estaria o corpo? ^v19
+**19** E, se eles fossem todos o mesmo membro, onde estaria o corpo? ^v19
 
-**20** Assim, pois, há muitos membros, mas um corpo. ^v20
+**20** Portanto há muitos membros, mas só um corpo. ^v20
 
-**21** E o olho não pode dizer à mão: Não tenho necessidade de ti; nem ainda a cabeça aos pés: Não tenho necessidade de vós. ^v21
+**21** "O olho não pode dizer à mão: ""eu não preciso de ti"", nem a cabeça aos pés: ""eu não preciso de vós""." ^v21
 
-**22** Antes, os membros do corpo que parecem ser os mais fracos são necessários; ^v22
+**22** Mas os membros do corpo que parecem ser mais fracos são essenciais. ^v22
 
-**23** E os que reputamos serem menos honrosos no corpo, a esses honramos muito mais; e aos que em nós são menos decorosos damos muito mais honra. ^v23
+**23** E as partes do corpo que nós pensamos ser menos honrosas, nós damos a elas maior honra, e os nossos membros indecorosos ganham mais dignidade. ^v23
 
-**24** Porque os que em nós são mais nobres não têm necessidade disso, mas Deus assim formou o corpo, dando muito mais honra ao que tinha falta dela; ^v24
+**24** Agora nossos membros apresentáveis não têm necessidade de serem tratados com dignidade, pois eles já têm isso. Porém Deus coordenou todos os membros juntos, e Ele deu mais honra àqueles que têm falta dela. ^v24
 
-**25** Para que não haja divisão no corpo, mas antes tenham os membros igual cuidado uns dos outros. ^v25
+**25** Ele fez isso assim para que não haja divisão no corpo, mas para que os membros cuidem uns dos outros com a mesma afeição. ^v25
 
-**26** De maneira que, se um membro padece, todos os membros padecem com ele; e, se um membro é honrado, todos os membros se regozijam com ele. ^v26
+**26** E, quando um membro sofre, todos os membros sofrem juntamente. Ou, quando um membro é honrado, todos os membros alegram-se juntamente. ^v26
 
-**27** Ora, vós sois o corpo de Cristo, e seus membros em particular. ^v27
+**27** Portanto vós sois parte do corpo de Cristo e individualmente membros Dele. ^v27
 
-**28** E a uns pôs Deus na igreja, primeiramente apóstolos, em segundo lugar profetas, em terceiro doutores, depois milagres, depois dons de curar, socorros, governos, variedades de línguas. ^v28
+**28** E Deus designou à igreja primeiro apóstolos, em segundo profetas, em terceiro mestres, depois operadores de milagres, depois dons de cura, aqueles que proveem socorros, aqueles que fazem trabalhos administrativos, e aqueles que têm vários dons de línguas. ^v28
 
-**29** Porventura são todos apóstolos? são todos profetas? são todos doutores? são todos operadores de milagres? ^v29
+**29** Somos todos apóstolos? Somos todos profetas? Somos todos mestres? Todos operamos milagres? ^v29
 
-**30** Têm todos o dom de curar? falam todos diversas línguas? interpretam todos? ^v30
+**30** Todos têm dons de cura? Todos falam em línguas? Todos interpretam línguas? ^v30
 
-**31** Portanto, procurai com zelo os melhores dons; e eu vos mostrarei um caminho mais excelente. ^v31
+**31** Procurai zelosamente os melhores dons. E eu vos mostrarei um caminho mais excelente. ^v31

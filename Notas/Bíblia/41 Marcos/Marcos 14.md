@@ -1,151 +1,150 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Marcos|Marcos]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Marcos|Marcos]]"
+tags: [biblia]
 ---
 
 # Marcos 14
 
-**1** E dali a dois dias era a páscoa, e a festa dos pães ázimos; e os principais dos sacerdotes e os escribas buscavam como o prenderiam com dolo, e o matariam. ^v1
+**1** Em dois dias seria a Páscoa e a Festa dos Pães sem Fermento. E os principais sacerdotes e os escribas andavam procurando um modo para prendê-lo em segredo e matá-lo. ^v1
 
-**2** Mas eles diziam: Não na festa, para que porventura não se faça alvoroço entre o povo. ^v2
+**2** "Pois diziam: ""Não durante a Páscoa, para que um tumulto não surja entre o povo""." ^v2
 
-**3** E, estando ele em betânia, assentado à mesa, em casa de Simão, o leproso, veio uma mulher, que trazia um vaso de alabastro, com ungüento de nardo puro, de muito preço, e quebrando o vaso, lho derramou sobre a cabeça. ^v3
+**3** Estava Jesus em Betânia na casa de Simão, o leproso, e enquanto ele se reclinava à mesa, aproximou-se uma mulher com um vaso de alabastro que continha um líquido muito precioso, nardo puro. Ela quebrou o vaso e derramou sobre a cabeça de Jesus, ^v3
 
-**4** E alguns houve que em si mesmos se indignaram, e disseram: Para que se fez este desperdício de ungüento? ^v4
+**4** "mas alguns se indignaram. Eles diziam entre si: ""Por que esse desperdício de perfume?" ^v4
 
-**5** Porque podia vender-se por mais de trezentos dinheiros, e dá-lo aos pobres. E bramavam contra ela. ^v5
+**5** Esse perfume poderia ser vendido por mais de trezentos denários e assim ser dado aos pobres”. E a repreendiam. ^v5
 
-**6** Jesus, porém, disse: Deixai-a, por que a molestais? Ela fez-me boa obra. ^v6
+**6** "Mas Jesus disse: ""Deixai-a em paz. Por que a perturbais? Ela fez uma bela coisa por Mim." ^v6
 
-**7** Porque sempre tendes os pobres convosco, e podeis fazer-lhes bem, quando quiserdes; mas a mim nem sempre me tendes. ^v7
+**7** No meio de vós sempre haverá pobres e sempre que quiserdes podeis fazer o bem a eles, porém, não Me tereis sempre. ^v7
 
-**8** Esta fez o que podia; antecipou-se a ungir o meu corpo para a sepultura. ^v8
+**8** Ela fez o que podia, ungiu o Meu corpo antecipadamente para o sepultamento. ^v8
 
-**9** Em verdade vos digo que, em todas as partes do mundo onde este evangelho for pregado, também o que ela fez será contado para sua memória. ^v9
+**9** "Verdadeiramente vos digo, onde quer que o Evangelho for pregado no mundo todo, o que essa mulher fez será contado, em memória dela""." ^v9
 
-**10** E Judas Iscariotes, um dos doze, foi ter com os principais dos sacerdotes para lho entregar. ^v10
+**10** Então Judas Iscariotes, um dos Doze, foi até os principais sacerdotes para entregar Jesus a eles. ^v10
 
-**11** E eles, ouvindo-o, folgaram, e prometeram dar-lhe dinheiro; e buscava como o entregaria em ocasião oportuna. ^v11
+**11** Quando os sacerdotes ouviram isso, alegraram-se e prometeram dar-lhe dinheiro. E ele começou a procurar uma oportunidade de entregar-lhes Jesus. ^v11
 
-**12** E, no primeiro dia dos pães ázimos, quando sacrificavam a páscoa, disseram-lhe os discípulos: Aonde queres que vamos fazer os preparativos para comer a páscoa? ^v12
+**12** "No primeiro dia da Festa dos Pães sem Fermento, quando eles sacrificavam o cordeiro da Páscoa, Seus discípulos disseram-lhe: ""Onde desejas que preparemos a refeição da Páscoa?""." ^v12
 
-**13** E enviou dois dos seus discípulos, e disse-lhes: Ide à cidade, e um homem, que leva um cântaro de água, vos encontrará; segui-o. ^v13
+**13** "Ele enviou dois dos Seus discípulos e disse-lhes: ""Ide para a cidade e um homem carregando uma jarra de água vos encontrará. Segui-o." ^v13
 
-**14** E, onde quer que entrar, dizei ao senhor da casa: O Mestre diz: Onde está o aposento em que hei de comer a páscoa com os meus discípulos? ^v14
+**14** E onde quer que ele entrar, segui-o e dizei ao dono da casa: 'O Mestre diz: Onde fica a sala em que comerei a refeição da Páscoa com Meus discípulos?'. ^v14
 
-**15** E ele vos mostrará um grande cenáculo mobilado e preparado; preparai-a ali. ^v15
+**15** E ele vos mostrará uma grande sala mobiliada no andar superior que está pronta. Fazei lá nossos preparativos. ^v15
 
-**16** E, saindo os seus discípulos, foram à cidade, e acharam como lhes tinha dito, e prepararam a páscoa. ^v16
+**16** Os discípulos saíram e foram até a cidade; encontraram tudo como Ele havia lhes dito e prepararam a refeição da Páscoa. ^v16
 
-**17** E, chegada a tarde, foi com os doze. ^v17
+**17** Quando já era noite, Ele veio com os doze. ^v17
 
-**18** E, quando estavam assentados a comer, disse Jesus: Em verdade vos digo que um de vós, que comigo come, há de trair-me. ^v18
+**18** "Enquanto estavam reclinados à mesa e comendo, Jesus disse: ""Verdadeiramente Eu vos digo, um de vós, que está comendo Comigo, irá Me trair""." ^v18
 
-**19** E eles começaram a entristecer-se e a dizer-lhe um após outro: Sou eu? E outro disse: Sou eu? ^v19
+**19** "Todos se entristeceram e um a um disseram-Lhe: ""Acaso sou eu?""" ^v19
 
-**20** Mas ele, respondendo, disse-lhes: É um dos doze, que põe comigo a mão no prato. ^v20
+**20** "Jesus, respondendo, disse-lhes: ""É um dos doze, aquele que agora mergulha o pão Comigo na tigela." ^v20
 
-**21** Na verdade o Filho do homem vai, como dele está escrito, mas ai daquele homem por quem o Filho do homem é traído! Bom seria para o tal homem não haver nascido. ^v21
+**21** "Porque o Filho do homem vai conforme as escrituras dizem sobre Ele; mas ai daquele que O trair!. Melhor seria para ele se não tivesse nascido""." ^v21
 
-**22** E, comendo eles, tomou Jesus pão e, abençoando-o, o partiu e deu-lho, e disse: Tomai, comei, isto é o meu corpo. ^v22
+**22** "Enquanto comiam, Jesus pegou o pão, abençoou-o, repartiu-o e lhes deu. Então disse: ""Tomai, este é o Meu corpo""." ^v22
 
-**23** E, tomando o cálice, e dando graças, deu-lho; e todos beberam dele. ^v23
+**23** Ele pegou um cálice, agradeceu, deu-lhes e todos beberam dele. ^v23
 
-**24** E disse-lhes: Isto é o meu sangue, o sangue do novo testamento, que por muitos é derramado. ^v24
+**24** "Então disse-lhes: ""Este é o Meu sangue da aliança, o sangue que é derramado em favor de muitos." ^v24
 
-**25** Em verdade vos digo que não beberei mais do fruto da vide, até àquele dia em que o beber, novo, no reino de Deus. ^v25
+**25** "Em verdade vos digo, Eu não beberei novamente do fruto da vinha até o dia em que Eu beber o vinho novo no Reino de Deus""." ^v25
 
-**26** E, tendo cantado o hino, saíram para o Monte das Oliveiras. ^v26
+**26** Após cantarem um hino, foram para o Monte das Oliveiras. ^v26
 
-**27** E disse-lhes Jesus: Todos vós esta noite vos escandalizareis em mim; porque está escrito: Ferirei o pastor, e as ovelhas se dispersarão. ^v27
+**27** "Jesus lhes disse: ""Vós todos Me abandonareis, porque está escrito: 'Ferirei o Pastor e todas as ovelhas se espalharão'." ^v27
 
-**28** Mas, depois que eu houver ressuscitado, irei adiante de vós para a Galiléia. ^v28
+**28** "Mas depois da Minha ressurreição, Eu irei à vossa frente para a Galileia""." ^v28
 
-**29** E disse-lhe Pedro: Ainda que todos se escandalizem, nunca, porém, eu. ^v29
+**29** "Pedro lhe disse: ""Mesmo que todos Te abandonem, eu não Te abandonarei""." ^v29
 
-**30** E disse-lhe Jesus: Em verdade te digo que hoje, nesta noite, antes que o galo cante duas vezes, três vezes me negarás. ^v30
+**30** "Jesus disse a ele: ""Verdadeiramente Eu digo que, esta noite, antes que o galo cante duas vezes, você Me negará três vezes""." ^v30
 
-**31** Mas ele disse com mais veemência: Ainda que me seja necessário morrer contigo, de modo nenhum te negarei. E da mesma maneira diziam todos também. ^v31
+**31** "Mas Pedro disse: ""Mesmo que eu morra Contigo, não Te negarei"". Todos eles fizeram a mesma promessa." ^v31
 
-**32** E foram a um lugar chamado Getsêmani, e disse aos seus discípulos: Assentai-vos aqui, enquanto eu oro. ^v32
+**32** "Eles foram para um lugar chamado Getsêmani, e Jesus disse aos Seus discípulos: ""Sentai aqui enquanto Eu oro""." ^v32
 
-**33** E tomou consigo a Pedro, e a Tiago, e a João, e começou a ter pavor, e a angustiar-se. ^v33
+**33** Ele tomou Pedro, Tiago e João, então começou a ficar angustiado e em extrema aflição. ^v33
 
-**34** E disse-lhes: A minha alma está profundamente triste até a morte; ficai aqui, e vigiai. ^v34
+**34** "Jesus disse-lhes: ""Minha alma está profundamente triste, a ponto de morrer. Permanecei aqui e vigiai""." ^v34
 
-**35** E, tendo ido um pouco mais adiante, prostrou-se em terra; e orou para que, se fosse possível, passasse dele aquela hora. ^v35
+**35** Jesus foi um pouco mais longe, caiu em terra, e orava, para que, se fosse possível, essa hora passasse Dele. ^v35
 
-**36** E disse: Aba, Pai, todas as coisas te são possíveis; afasta de mim este cálice; não seja, porém, o que eu quero, mas o que tu queres. ^v36
+**36** "Ele disse: ""Aba, Pai, todas as coisas são possíveis para Ti, tira este cálice de Mim. Porém, que não seja a Minha vontade, mas a Tua""." ^v36
 
-**37** E, chegando, achou-os dormindo; e disse a Pedro: Simão, dormes? não podes vigiar uma hora? ^v37
+**37** "Ele retornou, encontrou-os dormindo, e disse a Pedro: ""Simão, tu estás dormindo? Não podes vigiar nem por uma hora?" ^v37
 
-**38** Vigiai e orai, para que não entreis em tentação; o espírito, na verdade, está pronto, mas a carne é fraca. ^v38
+**38** "Vigiai e orai para que não entreis em tentação. O espírito está preparado, mas a carne é fraca""." ^v38
 
-**39** E foi outra vez e orou, dizendo as mesmas palavras. ^v39
+**39** Novamente Ele Se distanciou e orou, e usou as mesmas palavras. ^v39
 
-**40** E, voltando, achou-os outra vez dormindo, porque os seus olhos estavam pesados, e não sabiam o que responder-lhe. ^v40
+**40** Outra vez Se aproximou Jesus dos discípulos e os encontrou dormindo; seus olhos estavam muito pesados e eles não sabiam o que Lhe dizer. ^v40
 
-**41** E voltou terceira vez, e disse-lhes: Dormi agora, e descansai. Basta; é chegada a hora.  Eis que o Filho do homem vai ser entregue nas mãos dos pecadores. ^v41
+**41** "Ele veio pela terceira vez e disse-lhes: ""Ainda estais dormindo e descansando? Basta! A hora chegou. Eis que o Filho do Homem está sendo entregue às mãos dos pecadores." ^v41
 
-**42** Levantai-vos, vamos; eis que está perto o que me trai. ^v42
+**42** "Levantai-vos, vamos! Eis que aquele que está Me traindo está próximo""." ^v42
 
-**43** E logo, falando ele ainda, veio Judas, que era um dos doze, da parte dos principais dos sacerdotes, e dos escribas e dos anciãos, e com ele uma grande multidão com espadas e varapaus. ^v43
+**43** Imediatamente, enquanto Ele ainda falava, Judas, um dos doze, chegou, e uma grande multidão estava com ele; armada de espadas e pedaços de pau, da parte do principais sacerdotes, escribas e anciãos. ^v43
 
-**44** Ora, o que o traía, tinha-lhes dado um sinal, dizendo: Aquele que eu beijar, esse é; prendei-o, e levai-o com segurança. ^v44
+**44** "O traidor deu-lhes um sinal, dizendo: ""É Aquele que eu beijar"". Prendei-O e levai-O sob guarda""." ^v44
 
-**45** E, logo que chegou, aproximou-se dele, e disse-lhe: Rabi, Rabi. E beijou-o. ^v45
+**45** "Quando Judas chegou, imediatamente veio até Jesus e Lhe disse: ""Rabi!"" e ele O beijou." ^v45
 
-**46** E lançaram-lhe as mãos, e o prenderam. ^v46
+**46** Então eles O pegaram e prenderam-No. ^v46
 
-**47** E um dos que ali estavam presentes, puxando da espada, feriu o servo do sumo sacerdote, e cortou-lhe uma orelha. ^v47
+**47** Mas um dos que ali estavam puxou sua espada, feriu o servo do sumo sacerdote e cortou fora sua orelha. ^v47
 
-**48** E, respondendo Jesus, disse-lhes: Saístes com espadas e varapaus a prender-me, como a um salteador? ^v48
+**48** "Jesus lhes disse: ""Saístes para Me prender como contra um ladrão, com espadas e pedaços de pau?" ^v48
 
-**49** Todos os dias estava convosco ensinando no templo, e não me prendestes; mas isto é para que as Escrituras se cumpram. ^v49
+**49** "Quando Eu estava convosco e ensinava diariamente no templo, não Me prendestes. Mas isso foi feito para que as Escrituras fossem cumpridas""." ^v49
 
-**50** Então, deixando-o, todos fugiram. ^v50
+**50** E todos os que estavam com Jesus O deixaram e fugiram. ^v50
 
-**51** E um certo jovem o seguia, envolto em um lençol sobre o corpo nu. E lançaram-lhe a mão. ^v51
+**51** Um jovem O seguia, o qual estava vestindo apenas um lençol de linho que estava envolto nele; eles o agarraram, mas ^v51
 
-**52** Mas ele, largando o lençol, fugiu nu. Jesus perante o Sinédrio. Negação de Pedro ^v52
+**52** o jovem deixou para trás o lençol e fugiu deles nu. ^v52
 
-**53** E levaram Jesus ao sumo sacerdote, e ajuntaram-se todos os principais dos sacerdotes, e os anciãos e os escribas. ^v53
+**53** Levaram Jesus ao sumo sacerdote. Reuniram-se todos os principais sacerdotes, anciãos e escribas. ^v53
 
-**54** E Pedro o seguiu de longe até dentro do pátio do sumo sacerdote, e estava assentado com os servidores, aquentando-se ao lume. ^v54
+**54** Nessa hora, Pedro acompanhava tudo a distância, até o interior do pátio do sumo sacerdote. Ele se sentou entre os guardas, que estavam próximos ao fogo, para se manter aquecido. ^v54
 
-**55** E os principais dos sacerdotes e todo o concílio buscavam algum testemunho contra Jesus, para o matar, e não o achavam. ^v55
+**55** Os principais sacerdotes e todo o Sinédrio procuravam testemunhos contra Jesus, para que pudessem matá-Lo. Mas eles não encontraram, ^v55
 
-**56** Porque muitos testificavam falsamente contra ele, mas os testemunhos não eram coerentes. ^v56
+**56** pois muitos trouxeram falsos testemunhos contra Ele, mas mesmo esses testemunhos eram divergentes. ^v56
 
-**57** E, levantando-se alguns, testificaram falsamente contra ele, dizendo: ^v57
+**57** Alguns se levantaram e trouxeram falso testemunho contra Ele; eles diziam: ^v57
 
-**58** Nós ouvimos-lhe dizer: Eu derrubarei este templo, construído por mãos de homens, e em três dias edificarei outro, não feito por mãos de homens. ^v58
+**58** """Nós O ouvimos dizer: 'Eu destruirei esse templo feito por mãos humanas e em três dias eu construirei outro, não feito por mãos humanas'""." ^v58
 
-**59** E nem assim o seu testemunho era coerente. ^v59
+**59** Ainda assim seus testemunhos divergiam. ^v59
 
-**60** E, levantando-se o sumo sacerdote no Sinédrio, perguntou a Jesus, dizendo: Nada respondes? Que testificam estes contra ti? ^v60
+**60** "Então, o sumo sacerdote se levantou no meio deles e perguntou a Jesus: ""Tu não respondes nada? O que esses homens depõem contra Ti?""" ^v60
 
-**61** Mas ele calou-se, e nada respondeu. O sumo sacerdote lhe tornou a perguntar, e disse-lhe: És tu o Cristo, Filho do Deus Bendito? ^v61
+**61** "Mas Ele estava em silêncio e não respondia. Outra vez o sumo sacerdote perguntou: ""Tu és o Cristo, o Filho do Deus Bendito?""" ^v61
 
-**62** E Jesus disse-lhe: Eu o sou, e vereis o Filho do homem assentado à direita do poder de Deus, e vindo sobre as nuvens do céu. ^v62
+**62** "Jesus disse: ""Eu sou. E vereis O Filho do Homem sentado à direita do Poderoso e vindo com as nuvens do céu""." ^v62
 
-**63** E o sumo sacerdote, rasgando as suas vestes, disse: Para que necessitamos de mais testemunhas? ^v63
+**63** "Diante disso, o sumo sacerdote rasgou suas roupas e disse: ""Ainda precisamos de testemunhas?" ^v63
 
-**64** Vós ouvistes a blasfêmia; que vos parece? E todos o consideraram culpado de morte. ^v64
+**64** "Vós ouvistes a blasfêmia. Qual é a vossa decisão?"". E todos condenaram a Jesus como merecedor de morte." ^v64
 
-**65** E alguns começaram a cuspir nele, e a cobrir-lhe o rosto, e a dar-lhe punhadas, e a dizer-lhe: Profetiza. E os servidores davam-lhe bofetadas. ^v65
+**65** "Alguns começaram a cuspir Nele e cobrir o Seu rosto, bater Nele e dizer: ""Profetiza!"" Os guardas O levaram e bateram Nele." ^v65
 
-**66** E, estando Pedro embaixo, noátrio, chegou uma das criadas do sumo sacerdote; ^v66
+**66** Estando Pedro na parte de baixo, no pátio, uma das servas do sumo sacerdote veio até ele. ^v66
 
-**67** E, vendo a Pedro, que se estava aquentando, olhou para ele, e disse: Tu também estavas com Jesus, o Nazareno. ^v67
+**67** "Ela, vendo Pedro próximo ao fogo, para se manter aquecido, olhou bem para ele e disse: ""Tu também estavas com o Nazareno, Jesus""." ^v67
 
-**68** Mas ele negou-o, dizendo: Não o conheço, nem sei o que dizes. E saiu fora ao alpendre, e o galo cantou. ^v68
+**68** "Mas ele negou, dizendo: ""Eu nem sei nem entendo o que tu estás falando"". Então ele saiu para o pátio." ^v68
 
-**69** E a criada, vendo-o outra vez, começou a dizer aos que ali estavam: Este é um dos tais. ^v69
+**69** "Mas lá, a criada o viu e começou a dizer de novo aos que ali estavam: ""Esse homem é um deles!""" ^v69
 
-**70** Mas ele o negou outra vez. E pouco depois os que ali estavam disseram outra vez a Pedro: Verdadeiramente tu és um deles, porque és também galileu, e tua fala é semelhante. ^v70
+**70** "Mas ele negou isso novamente. Logo, os que lá se encontravam diziam a Pedro: ""Com certeza és um deles, pois também és um galileu""." ^v70
 
-**71** E ele começou a praguejar, e a jurar: Não conheço esse homem de quem falais. ^v71
+**71** "Mas ele começou a amaldiçoar e a jurar: ""Eu não conheço esse Homem de quem falais""." ^v71
 
-**72** E o galo cantou segunda vez. E Pedro lembrou-se da palavra que Jesus lhe tinha dito: Antes que o galo cante duas vezes, três vezes me negarás.  E, retirando-se dali, chorou. ^v72
+**72** "Então, imediatamente, o galo cantou pela segunda vez. Pedro então se lembrou das palavras que Jesus havia lhe dito: ""Antes que o galo cante duas vezes, três vezes Me negarás"". Ele se irrompeu em tristeza e começou a chorar." ^v72

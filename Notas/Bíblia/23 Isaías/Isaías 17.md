@@ -1,35 +1,34 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Isaías|Isaías]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Isaías|Isaías]]"
+tags: [biblia]
 ---
 
 # Isaías 17
 
-**1** Peso de Damasco. Eis que Damasco será tirada, e já não será cidade, antes será um montão de ruínas. ^v1
+**1** Uma declaração acerca de Damasco. Eis que Damasco deixará de ser cidade e se tornará um montão de ruínas. ^v1
 
-**2** As cidades de Aroer serão abandonadas; hão de ser para os rebanhos que se deitarão sem que alguém os espante. ^v2
+**2** As cidades de Aroer serão abandonadas. Serão lugares para os rebanhos se deitarem e ninguém os assustará. ^v2
 
-**3** E a fortaleza de Efraim cessará, como também o reino de Damasco e o restante da Síria; serão como a glória dos filhos de Israel, diz o Senhor dos Exércitos. ^v3
+**3** Fortalezas desaparecerão de Efraim, do reino de Damasco e do remanescente da Síria; eles serão como a glória do povo de Israel. Esta é a declaração de Yahweh dos Exércitos. ^v3
 
-**4** E naquele dia será diminuída a glória de Jacó, e a gordura da sua carne ficará emagrecida. ^v4
+**4** Naquele dia, a glória de Jacó definhará e a gordura da sua carne se tornará magra. ^v4
 
-**5** Porque será como o segador que colhe a cana do trigo e com o seu braço sega as espigas; e será também como o que colhe espigas no vale de Refaim. ^v5
+**5** Será como quando o ceifeiro ajunta os grãos e colhe espigas com seu braço. Será como alguém que colhe espigas no vale de Refaim. ^v5
 
-**6** Porém ainda ficarão nele alguns rabiscos, como no sacudir da oliveira: duas ou três azeitonas na mais alta ponta dos ramos, e quatro ou cinco nos seus ramos mais frutíferos, diz o Senhor Deus de Israel. ^v6
+**6** No entanto, algumas espigas serão deixadas, como acontece quando a oliveira é sacudida: duas ou três azeitonas na ponta do galho mais alto, quatro ou cinco nos ramos mais altos de uma árvore frutífera — esta é a declaração de Yahweh, o Deus de Israel. ^v6
 
-**7** Naquele dia atentará o homem para o seu Criador, e os seus olhos olharão para o Santo de Israel. ^v7
+**7** Naquele dia, os homens atentarão para o seu Criador e seus olhos olharão para o Santo de Israel. ^v7
 
-**8** E não atentará para os altares, obra das suas mãos, nem olhará para o que fizeram seus dedos, nem para os bosques, nem para as imagens. ^v8
+**8** Eles não olharão para os altares, o trabalho de suas mãos, nem olharão para o que seus dedos fizeram, os postes-ídolos ou imagens do sol. ^v8
 
-**9** Naquele dia as suas cidades fortificadas serão como lugares abandonados, no bosque ou sobre o cume das montanhas, os quais foram abandonados ante os filhos de Israel; e haverá assolação. ^v9
+**9** Naquele dia, as suas fortalezas serão abandonadas como os matagais das encostas, que foram abandonados por causa dos filhos de Israel. Elas se tornarão uma desolação. ^v9
 
-**10** Porque te esqueceste do Deus da tua salvação, e não te lembraste da rocha da tua fortaleza, portanto farás plantações formosas, e assentarás nelas sarmentos estranhos. ^v10
+**10** Pois esqueceste o Deus da tua salvação e ignoraste a rocha Daquele que é a tua fortaleza. Então, mesmo que tu semeies lindas lavouras e cultives nelas videiras importadas, ^v10
 
-**11** E no dia em que as plantares as farás crescer, e pela manhã farás que a tua semente brote; mas a colheita voará no dia da angústia e das dores insofríveis. ^v11
+**11** quando as plantares, protegeres e delas cuidares, logo tua semente crescerá, mas não haverá colheita no dia da dor e do desespero. ^v11
 
-**12** Ai do bramido dos grandes povos que bramam como bramam os mares, e do rugido das nações que rugem como rugem as impetuosas águas. ^v12
+**12** Ouvi! Este é o alvoroço de muitos povos, que rugem como o bramido dos mares, e o estrondo das nações, que rugem como o bramido das águas impetuosas! ^v12
 
-**13** Rugirão as nações, como rugem as muitas águas, mas Deus as repreenderá e elas fugirão para longe; e serão afugentadas como a pragana dos montes diante do vento, e como o que rola levado pelo tufão. ^v13
+**13** As nações rugirão como o bramido de muitas águas. Porém, Deus as repreenderá e elas fugirão para longe; serão dispersadas pelo vento como palhas nas montanhas, como a vegetação seca perante uma tempestade. ^v13
 
-**14** Ao anoitecer eis que há pavor, mas antes que amanheça já não existe; esta é a parte daqueles que nos despojam, e a sorte daqueles que nos saqueiam. ^v14
+**14** Ao anoitecer, o terror virá! Antes do amanhecer, terão ido embora. Essa é a porção daqueles que nos saqueiam, o fim de quem nos rouba. ^v14

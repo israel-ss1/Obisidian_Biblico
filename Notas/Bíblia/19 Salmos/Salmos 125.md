@@ -1,17 +1,14 @@
 ---
-Livro: "[[Salmos|Salmos]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Salmos|Salmos]]"
+tags: [biblia]
 ---
 
 # Salmos 125
 
-**1** Os que confiam no SENHOR serão como o monte de Sião, que não se abala, mas permanece para sempre. ^v1
+**2** Como as montanhas cercam Jerusalém, assim Yahweh cerca o Seu povo, agora e para sempre. ^v2
 
-**2** Assim como estão os montes à roda de Jerusalém, assim o Senhor está em volta do seu povo desde agora e para sempre. ^v2
+**3** O cetro da impiedade não governará na terra dos justos. Caso contrário, os justos poderiam se corromper. ^v3
 
-**3** Porque o cetro da impiedade não permanecerá sobre a sorte dos justos, para que o justo não estenda as suas mãos para a iniqüidade. ^v3
+**4** Faz o bem, Yahweh, para aqueles que são bons e para aqueles que têm um coração justo; ^v4
 
-**4** Faze bem, ó Senhor, aos bons e aos que são retos de coração. ^v4
-
-**5** Quanto àqueles que se desviam para os seus caminhos tortuosos, levá-los-á o SENHOR com os que praticam a maldade; paz haverá sobre Israel. ^v5
+**5** mas, aqueles que seguem caminhos tortuosos, Yahweh os levará com os malfeitores. Que a paz esteja sobre Israel. ^v5

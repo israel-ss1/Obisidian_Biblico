@@ -1,33 +1,30 @@
 ---
-Livro: "[[Salmos|Salmos]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Salmos|Salmos]]"
+tags: [biblia]
 ---
 
 # Salmos 21
 
-**1** O rei se alegra em tua força, SENHOR; e na tua salvação grandemente se regozija. ^v1
+**2** Tu lhe concedeste o desejo de seu coração e não lhe negaste a petição dos lábios. [Interlúdio]. ^v2
 
-**2** Cumpriste-lhe o desejo do seu coração, e não negaste as súplicas dos seus lábios. (Selá.) ^v2
+**3** Pois Tu lhe trouxeste ricas bênçãos; puseste em sua cabeça uma coroa do mais puro ouro. ^v3
 
-**3** Pois vais ao seu encontro com as bênçãos de bondade; pões na sua cabeça uma coroa de ouro fino. ^v3
+**4** Ele Te pediu vida e Tu lhe deste; concedeste-lhe longos dias para sempre e sempre. ^v4
 
-**4** Vida te pediu, e lha deste, mesmo longura de dias para sempre e eternamente. ^v4
+**5** A glória dele é grande por causa da Tua vitória; Tu lhe conferiste esplendor e majestade. ^v5
 
-**5** Grande é a sua glória pela tua salvação; glória e majestade puseste sobre ele. ^v5
+**6** A ele deste infinitas bênçãos e a alegria da Tua presença. ^v6
 
-**6** Pois o abençoaste para sempre; tu o enches de gozo com a tua face. ^v6
+**7** Pois o rei confia em Yahweh; por causa do amor leal do Altíssimo ele não será abalado. ^v7
 
-**7** Porque o rei confia no Senhor, e pela misericórdia do Altíssimo nunca vacilará. ^v7
+**8** Tua mão alcançará Teus inimigos; Tua mão direita alcançará todos aqueles que Te odeiam. ^v8
 
-**8** A tua mão alcançará todos os teus inimigos, a tua mão direita alcançará aqueles que te odeiam. ^v8
+**9** No tempo da Tua ira, Tu os queimarás como em uma fornalha ardente. Yahweh os consumirá na Sua ira, e o fogo os devorará. ^v9
 
-**9** Tu os farás como um forno de fogo no tempo da tua ira; o Senhor os devorará na sua indignação, e o fogo os consumirá. ^v9
+**10** Tu eliminarás seus filhos da terra; eles não terão descendentes entre a raça humana. ^v10
 
-**10** Seu fruto destruirás da terra, e a sua semente dentre os filhos dos homens. ^v10
+**11** Se eles tramarem o mal contra Ti, não serão bem sucedidos, ^v11
 
-**11** Porque intentaram o mal contra ti; maquinaram um ardil, mas não prevalecerão. ^v11
+**12** pois Tu lhes farás correr de volta; Tu apontarás o Teu arco para eles. ^v12
 
-**12** Assim que tu lhes farás voltar as costas; e com tuas flechas postas nas cordas lhes apontarás ao rosto. ^v12
-
-**13** Exalta-te, Senhor, na tua força; então cantaremos e louvaremos o teu poder. ^v13
+**13** Sê exaltado, Yahweh, na Tua força! Nós cantaremos e louvaremos o Teu poder. ^v13

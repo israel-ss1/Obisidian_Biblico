@@ -1,33 +1,32 @@
 ---
-Livro: "[[1 Coríntios|1 Coríntios]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/1 Coríntios|1 Coríntios]]"
+tags: [biblia]
 ---
 
 # 1 Coríntios 8
 
-**1** Ora, no tocante às coisas sacrificadas aos ídolos, sabemos que todos temos ciência. A ciência incha, mas o amor edifica. ^v1
+**1** "Agora, sobre comida sacrificada aos ídolos, sabemos que ""todos temos conhecimento"". O conhecimento ensoberbece, mas o amor edifica." ^v1
 
-**2** E, se alguém cuida saber alguma coisa, ainda não sabe como convém saber. ^v2
+**2** Se alguém pensa que sabe algo, essa pessoa ainda não sabe como deveria saber. ^v2
 
-**3** Mas, se alguém ama a Deus, esse é conhecido dele. ^v3
+**3** Mas se alguém ama a Deus, essa pessoa é conhecida por Ele. ^v3
 
-**4** Assim que, quanto ao comer das coisas sacrificadas aos ídolos, sabemos que o ídolo nada é no mundo, e que não há outro Deus, senão um só. ^v4
+**4** "Então, sobre comida sacrificada aos ídolos, sabemos que ""um ídolo neste mundo não é nada"", e ""que não existe Deus a não ser o Deus único""." ^v4
 
-**5** Porque, ainda que haja também alguns que se chamem deuses, quer no céu quer na terra (como há muitos deuses e muitos senhores), ^v5
+**5** "Pois existem os chamados deuses, seja no céu ou na terra, assim como há vários ""deuses"" e muitos ""senhores""." ^v5
 
-**6** Todavia para nós há um só Deus, o Pai, de quem é tudo e para quem nós vivemos; e um só Senhor, Jesus Cristo, pelo qual são todas as coisas, e nós por ele. ^v6
+**6** "Para nós, contudo, ""existe apenas um Deus, o Pai, de quem são todas as coisas, e para quem vivemos, e um Senhor Jesus Cristo, por meio de quem todas as coisas existem, e por meio do qual existimos""." ^v6
 
-**7** Mas nem em todos há conhecimento; porque alguns até agora comem, com consciência do ídolo, coisas sacrificadas ao ídolo; e a sua consciência, sendo fraca, fica contaminada. ^v7
+**7** Contudo nem todos possuem esse conhecimento. Ao contrário, alguns anteriormente praticaram adoração a ídolos, e eles comem esse alimento como sendo algo sacrificado a um ídolo. Assim, a consciência deles está corrompida porque ela é fraca. ^v7
 
-**8** Ora a comida não nos faz agradáveis a Deus, porque, se comemos, nada temos de mais e, se não comemos, nada nos falta. ^v8
+**8** Mas não é a comida que nos apresentará diante de Deus. Nós não somos piores se não comemos, nem melhores se comemos. ^v8
 
-**9** Mas vede que essa liberdade não seja de alguma maneira escândalo para os fracos. ^v9
+**9** Mas cuidai para que a vossa liberdade não se torne um motivo para fazer tropeçar quem seja fraco na fé. ^v9
 
-**10** Porque, se alguém te vir a ti, que tens ciência, sentado à mesa no templo dos ídolos, não será a consciência do que é fraco induzida a comer das coisas sacrificadas aos ídolos? ^v10
+**10** Se alguém vir a vós, que tendes conhecimento, comendo uma refeição em um templo de ídolos, não estará sua fraca consciência encorajada a comer o que é oferecido a ídolos? ^v10
 
-**11** E pela tua ciência perecerá o irmão fraco, pelo qual Cristo morreu. ^v11
+**11** Então, por causa do vosso entendimento sobre a verdadeira natureza dos ídolos, o mais fraco, o irmão pelo qual Cristo morreu, é destruído. ^v11
 
-**12** Ora, pecando assim contra os irmãos, e ferindo a sua fraca consciência, pecais contra Cristo. ^v12
+**12** Desse modo, quando pecais contra vossos irmãos, ferindo-lhes a fraca consciência, pecais contra Cristo. ^v12
 
-**13** Por isso, se a comida escandalizar a meu irmão, nunca mais comerei carne, para que meu irmão não se escandalize. ^v13
+**13** Portanto, se o alimento faz meu irmão tropeçar, eu não comerei carne novamente, para não fazer meu irmão cair. ^v13

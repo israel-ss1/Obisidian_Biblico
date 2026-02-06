@@ -1,65 +1,64 @@
 ---
-Livro: "[[2 Reis|2 Reis]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/2 Reis|2 Reis]]"
+tags: [biblia]
 ---
 
 # 2 Reis 14
 
-**1** No segundo ano de Jeoás, filho de Jeoacaz, rei de Israel, começou a reinar Amazias, filho de Joás, rei de Judá. ^v1
+**1** No segundo ano de Jeoás filho de Jeoacaz, rei de Israel, Amazias filho de Joás, começou a reinar. ^v1
 
-**2** Tinha vinte e cinco anos quando começou a reinar, e vinte e nove anos reinou em Jerusalém. E era o nome de sua mãe Joadã, de Jerusalém. ^v2
+**2** Ele tinha vinte e cinco anos quando começou a reinar; reinou durante vinte e nove anos em Jerusalém. Sua mãe se chamava Jeodã de Jerusalém. ^v2
 
-**3** E fez o que era reto aos olhos do Senhor, ainda que não como seu pai Davi; fez, porém, conforme tudo o que fizera Joás seu pai. ^v3
+**3** Ele fez o que era certo aos olhos de Yahweh, embora, não como Davi, seu antepassado. Ele fez tudo o que seu pai, Joás, havia feito. ^v3
 
-**4** Tão-somente os altos não foram tirados; porque o povo ainda sacrificava e queimava incenso nos altos. ^v4
+**4** Porém os altares não foram destruídos. O povo continuava a sacrificar e queimar incenso neles. ^v4
 
-**5** Sucedeu que, sendo já o reino confirmado na sua mão, matou os servos que tinham matado o rei, seu pai. ^v5
+**5** Aconteceu que, logo que seu governo foi estabelecido, ele matou os servos que assassinaram seu pai, o rei. ^v5
 
-**6** Porém os filhos dos assassinos não matou, como está escrito no livro da lei de Moisés, no qual o Senhor deu ordem, dizendo: Não matarão os pais por causa dos filhos, e os filhos não matarão por causa dos pais; mas cada um será morto pelo seu pecado. ^v6
+**6** "Contudo, não matou os filhos dos assassinos, pelo contrário, agiu em obediência ao que está escrito na Lei de Moisés, segundo a ordem de Yahweh: ""Os pais não serão mortos em lugar de seus filhos, nem os filhos serão mortos por causa dos pais. Entretanto, cada um será morto por seu próprio pecado""." ^v6
 
-**7** Este feriu a dez mil edomitas no vale do Sal, e tomou a Sela na guerra; e chamou-a Jocteel, até ao dia de hoje. ^v7
+**7** Ele mandou matar dez mil soldados de Edom no vale do Sal, também conquistou Selá em batalha e a chamou de Jocteel, como ainda é chamada nos dias de hoje. ^v7
 
-**8** Então Amazias enviou mensageiros a Jeoás, filho de Jeoacaz, filho de Jeú, rei de Israel, dizendo: Vem, vejamo-nos face a face. ^v8
+**8** "Então, Amazias enviou mensageiros a Jeoás, filho de Jeoacaz, filho de Jeú, rei de Israel dizendo: ""Vem, vamos nos enfrentar face a face na batalha""." ^v8
 
-**9** Porém Jeoás, rei de Israel, enviou a Amazias, rei de Judá, dizendo: O cardo que estava no Líbano mandou dizer ao cedro que estava no Líbano: Dá tua filha por mulher a meu filho; mas os animais do campo, que estavam no Líbano, passaram e pisaram o cardo. ^v9
+**9** "Mas Jeoás, o rei de Israel, enviou mensageiros a Amazias, rei de Judá, dizendo: ""O espinheiro do Líbano mandou dizer ao cedro do Líbano: 'Dá tua filha como esposa para meu filho', mas uma fera selvagem pisoteou o espinheiro." ^v9
 
-**10** Na verdade feriste os moabitas, e o teu coração se ensoberbeceu; gloria-te disso, e fica em tua casa; e por que te entremeterias no mal, para caíres tu, e Judá contigo? ^v10
+**10** De fato, atacaste Edom e teu coração se encheu de orgulho. Orgulha-te em tua vitória, porém fica em casa. Por que te causarías problemas para caírdes tu e Judá contigo? ^v10
 
-**11** Mas Amazias não o ouviu. E subiu Jeoás, rei de Israel, e Amazias, rei de Judá, e viram-se face a face, em Bete-Semes, que está em Judá. ^v11
+**11** Amazias, porém, não lhe deu atenção. Então, Jeoás, rei de Israel, atacou; ele e Amazias se enfrentaram face a face em Bete-Semes, no território de Judá. ^v11
 
-**12** E Judá foi ferido diante de Israel, e fugiu cada um para a sua tenda. ^v12
+**12** Judá foi derrotado por Israel e todos os homens fugiram para casa. ^v12
 
-**13** E Jeoás, rei de Israel, tomou a Amazias, rei de Judá, filho de Joás, filho de Acazias, em Bete-Semes; e veio a Jerusalém, e rompeu o muro de Jerusalém, desde a porta de Efraim até a porta da esquina, quatrocentos côvados. ^v13
+**13** Jeoás, rei de Israel, prendeu Amazias, rei de Judá, filho de Joás, filho de Acazias em Bete-Semes. Ele foi a Jerusalém e derrubou o muro de Jerusalém desde o portão de Efraim até a porta da esquina, destruiu quatrocentos côvados de seu muro. ^v13
 
-**14** E tomou todo o ouro e a prata, e todos os vasos que se acharam na casa do Senhor e nos tesouros da casa do rei, como também os reféns e voltou para Samaria. ^v14
+**14** Ele tomou todo ouro e toda prata, todos os objetos encontrados no templo de Yahweh e os utensílios de valor do palácio do rei, como também os reféns, e voltou para Samaria. ^v14
 
-**15** Ora, o mais dos atos de Jeoás, o que fez e o seu poder, e como pelejou contra Amazias, rei de Judá, porventura não está escrito no livro das crônicas dos reis de Israel? ^v15
+**15** Os demais atos de Jeoás, tudo o que fez, seu poder e como lutou com Amazias, rei de Judá, não estão escritos no livro de Crônicas dos reis de Israel? ^v15
 
-**16** E dormiu Jeoás com seus pais, e foi sepultado em Samaria, junto aos reis de Israel; e Jeroboão, seu filho, reinou em seu lugar. ^v16
+**16** Então, Jeoás descansou com seus antepassados e foi sepultado juntamente com os reis de Israel, e Jeroboão, seu filho, reinou em seu lugar. ^v16
 
-**17** E viveu Amazias, filho de Joás, rei de Judá, depois da morte de Jeoás, filho de Jeoacaz, rei de Israel, quinze anos. ^v17
+**17** Amazias, filho de Joás, rei de Judá, viveu mais quinze anos depois da morte de Jeoás, filho de Jeocaz, rei de Israel. ^v17
 
-**18** Ora, o mais dos atos de Amazias, porventura não está escrito no livro das crônicas dos reis de Judá? ^v18
+**18** Os outros atos de Amazias não estão escritos no livro de Crônicas dos reis de Judá? ^v18
 
-**19** E conspiraram contra ele em Jerusalém, e fugiu para Laquis; porém enviaram após ele até Laquis, e o mataram ali. ^v19
+**19** Eles conspiraram contra Amazias em Jerusalém, e ele fugiu para Laquis. Ele fugiu para Laquis, mas mandaram persegui-lo em Laquis, onde o mataram. ^v19
 
-**20** E o trouxeram em cima de cavalos; e o sepultaram em Jerusalém, junto a seus pais, na cidade de Davi. ^v20
+**20** Eles o trouxeram sobre cavalos, e ele foi sepultado com seus antepassados na cidade de Davi. ^v20
 
-**21** E todo o povo de Judá tomou a Azarias, que já era de dezesseis anos, e o fizeram rei em lugar de Amazias, seu pai. ^v21
+**21** Todo o povo de Judá tomou Azarias, que estava com dezesseis anos, e o fizeram rei em lugar de seu pai Amazias. ^v21
 
-**22** Este edificou a Elate, e a restituiu a Judá, depois que o rei dormiu com seus pais. ^v22
+**22** Foi Azarias que reconstruiu Elate e a restaurou para Judá, depois que o rei Amazias descansou com seus antepassados. ^v22
 
-**23** No décimo quinto ano de Amazias, filho de Joás, rei de Judá, começou a reinar em Samaria, Jeroboão, filho de Jeoás, rei de Israel, e reinou quarenta e um anos. ^v23
+**23** No décimo quinto ano de Amazias, filho de Joás, rei de Judá, Jeroboão, filho de Jeoás, rei de Israel, começou a reinar em Samaria; ele reinou por quarenta e um anos. ^v23
 
-**24** E fez o que era mau aos olhos do Senhor; nunca se apartou de nenhum dos pecados de Jeroboão, filho de Nebate, com que fez pecar a Israel. ^v24
+**24** Fez o que era mau aos olhos de Yahweh. Ele não se apartou de nenhum dos pecados de Jeroboão, filho de Nebate, com os quais fez Israel pecar. ^v24
 
-**25** Também este restituiu os termos de Israel, desde a entrada de Hamate, até ao mar da planície; conforme a palavra do Senhor Deus de Israel, a qual falara pelo ministério de seu servo Jonas, filho do profeta Amitai, o qual era de Gate-Hefer. ^v25
+**25** Ele restaurou a fronteira de Israel desde Lebo-Hamate até o mar de Arabá, seguindo os comandos da palavra de Yahweh, o Deus de Israel, que falou por meio de seu servo Jonas, filho de Amitai, o profeta, que era de Gate-Héfer. ^v25
 
-**26** Porque viu o Senhor que a miséria de Israel era muito amarga, e que nem havia escravo, nem absolvido, nem quem ajudasse a Israel. ^v26
+**26** Pois Yahweh viu como era imenso o sofrimento de Israel para todos, tanto para escravos como para livres, e que não havia quem resgatasse Israel. ^v26
 
-**27** E ainda não falara o Senhor em apagar o nome de Israel de debaixo do céu; porém os livrou por meio de Jeroboão, filho de Jeoás. ^v27
+**27** Então, Yahweh disse que Ele não iria apagar o nome de Israel debaixo do céu; em vez disso, Ele os salvou pelas mãos de Jeroboão, filho de Jeoás. ^v27
 
-**28** Ora, o mais dos atos de Jeroboão, tudo quanto fez, e seu poder, como pelejou, e como restituiu a Damasco e a Hamate, pertencentes a Judá, sendo rei em Israel, porventura não está escrito no livro das crônicas de Israel? ^v28
+**28** Quanto às outras questões relativas a Jeroboão, tudo o que ele fez, seu poder, como ele travou guerra e recuperou Damasco e Hamate, as quais estavam pertencendo a Judá, para Israel, não estão escritas no livro de Crônicas dos reis de Israel? ^v28
 
-**29** E Jeroboão dormiu com seus pais, com os reis de Israel; e Zacarias, seu filho, reinou em seu lugar. ^v29
+**29** Jeroboão descansou com seus antepassados, com os reis de Israel, e Zacarias, seu filho, se tornou rei em seu lugar. ^v29

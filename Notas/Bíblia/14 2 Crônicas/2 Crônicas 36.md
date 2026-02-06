@@ -1,53 +1,52 @@
 ---
-Livro: "[[2 Crônicas|2 Crônicas]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/2 Crônicas|2 Crônicas]]"
+tags: [biblia]
 ---
 
 # 2 Crônicas 36
 
-**1** Então o povo da terra tomou a Jeoacaz, filho de Josias, e o fez rei em lugar de seu pai, em Jerusalém. ^v1
+**1** O povo da terra tomou Jeoacaz, filho de Josias, e o fez rei em Jerusalém, no lugar de seu pai. ^v1
 
-**2** Tinha Jeoacaz a idade de vinte e três anos, quando começou a reinar; e três meses reinou em Jerusalém, ^v2
+**2** Jeoacaz começou a reinar em Jerusalém quando tinha vinte três anos de idade. Reinou apenas três meses, ^v2
 
-**3** Porque o rei do Egito o depôs em Jerusalém, e condenou a terra à contribuição de cem talentos de prata e um talento de ouro. ^v3
+**3** porque o rei do Egito o removeu de Jerusalém e impôs ao povo um tributo de cem talentos de prata e um talento de ouro. ^v3
 
-**4** E o rei do Egito pôs a Eliaquim, irmão de Jeoacaz, rei sobre Judá e Jerusalém, e mudou-lhe o nome em Jeoiaquim; mas a seu irmão Jeoacaz tomou Neco, e levou-o para o Egito. ^v4
+**4** E o rei do Egito deu a Eliaquim, irmão de Jeoacaz, o reinado sobre Judá e Jerusalém além de mudar seu nome para Jeoaquim. Quanto a Jeoacaz, Neco o prendeu e o levou para o Egito. ^v4
 
-**5** Tinha Jeoiaquim vinte e cinco anos de idade, quando começou a reinar, e reinou onze anos em Jerusalém; e fez o que era mau aos olhos do Senhor seu Deus. ^v5
+**5** Jeoaquim começou a reinar quando tinha vinte e cinco anos e reinou durante onze anos em Jerusalém. Ele praticou o que era mau aos olhos de Yahweh, seu Deus. ^v5
 
-**6** Subiu, pois, contra ele Nabucodonosor, rei de babilônia, e o amarrou com cadeias, para o levar a babilônia. ^v6
+**6** Então, Nabucodonosor, rei da Babilônia, o atacou e o prendeu em correntes, a fim de levá-lo para a Babilônia. ^v6
 
-**7** Também alguns dos vasos da casa do SENHOR levou Nabucodonosor a babilônia, e pô-los no seu templo em babilônia. ^v7
+**7** Nabucodonosor também carregou alguns objetos do templo de Yahweh para a Babilônia e os colocou em seu palácio. ^v7
 
-**8** Quanto ao mais dos atos de Jeoiaquim, e as abominações que fez, e o mais que se achou nele, eis que estão escritos no livro dos reis de Israel e de Judá; e Joaquim, seu filho, reinou em seu lugar. ^v8
+**8** Os demais assuntos relacionados a Jeoaquim, as coisas abomináveis que ele praticou e o que mais lhe aconteceu estão escritos no livro dos reis de Israel e Judá. Então, Joaquim, seu filho, reinou em seu lugar. ^v8
 
-**9** Tinha Joaquim a idade de oito anos, quando começou a reinar; e reinou três meses e dez dias em Jerusalém; e fez o que era mau aos olhos do Senhor. ^v9
+**9** Joaquim, quando começou a reinar, tinha oito anos de idade; reinou durante três meses e dez dias em Jerusalém. Ele praticou o que era mau aos olhos de Yahweh. ^v9
 
-**10** E no decurso de um ano enviou o rei Nabucodonosor, e mandou trazê-lo a babilônia, com os mais preciosos vasos da casa do SENHOR; e pôs a Zedequias, seu irmão, rei sobre Judá e Jerusalém. ^v10
+**10** Na primavera, o rei Nabucodonosor enviou homens e o trouxe para Babilônia, com os utensílios valiosos do templo de Yahweh; o rei da Babilônia constituiu Zedequias para substituir seu irmão Joaquim como rei sobre Judá e Jerusalém. ^v10
 
-**11** Tinha Zedequias a idade de vinte e um anos anos, quando começou a reinar; e onze anos reinou em Jerusalém. ^v11
+**11** Zedequias, quando começou a reinar, tinha vinte e um anos de idade. Reinou por onze anos em Jerusalém. ^v11
 
-**12** E fez o que era mau aos olhos do Senhor seu Deus; nem se humilhou perante o profeta Jeremias, que falava da parte do Senhor. ^v12
+**12** Ele praticou o que era mau aos olhos de Yahweh, seu Deus. Não se humilhou diante de Jeremias, o profeta, que falou palavras enviadas pela boca de Yahweh. ^v12
 
-**13** Além disto, também se rebelou contra o rei Nabucodonosor, que o tinha ajuramentado por Deus. Mas endureceu a sua cerviz, e tanto se obstinou no seu coração, que não se converteu ao Senhor Deus de Israel. ^v13
+**13** Zedequias também rebelou-se contra Nabucodonosor, que o tinha feito jurar lealdade perante Deus. Com o coração obstinado e endurecido, Zedequias não se converteu a Yahweh, o Deus de Israel. ^v13
 
-**14** Também todos os chefes dos sacerdotes e o povo aumentavam de mais em mais as transgressões, segundo todas as abominações dos gentios; e contaminaram a casa do Senhor, que ele tinha santificado em Jerusalém. ^v14
+**14** Além disso, as transgressões de todos os líderes dos sacerdotes e do povo aumentavam mais e mais, pois imitavam as práticas repugnantes das nações pagãs. Eles contaminaram o templo de Yahweh, que Ele tinha santificado para Si, em Jerusalém. ^v14
 
-**15** E o Senhor Deus de seus pais, falou-lhes constantemente por intermédio dos mensageiros, porque se compadeceu do seu povo e da sua habitação. ^v15
+**15** Yahweh, o Deus de seus pais, falou-lhes repetidas vezes, insistindo em adverti-los por meio de Seus mensageiros, porque Ele tinha compaixão do Seu povo e do lugar da Sua habitação. ^v15
 
-**16** Eles, porém, zombaram dos mensageiros de Deus, e desprezaram as suas palavras, e mofaram dos seus profetas; até que o furor do Senhor tanto subiu contra o seu povo, que mais nenhum remédio houve. ^v16
+**16** Porém, eles zombaram dos mensageiros de Deus, desprezaram Suas palavras e ridicularizavam Seus profetas, provocando a ira de Yahweh, que se inflamou contra Seu povo, até que não houvesse mais remédio. ^v16
 
-**17** Porque fez subir contra eles o rei dos caldeus, o qual matou os seus jovens à espada, na casa do seu santuário, e não teve piedade nem dos jovens, nem das donzelas, nem dos velhos, nem dos decrépitos; a todos entregou na sua mão. ^v17
+**17** Por isso, Deus trouxe sobre eles o rei dos caldeus, que matou os seus jovens à espada no santuário e não poupou jovens, nem virgens, nem homens velhos, nem homens com cabelos grisalhos. Deus os entregou a todos nas mãos dele. ^v17
 
-**18** E todos os vasos da casa de Deus, grandes e pequenos, os tesouros da casa do SENHOR, e os tesouros do rei e dos seus príncipes, tudo levou para babilônia. ^v18
+**18** Ele levou para a Babilônia todos os utensílios grandes e pequenos do templo de Deus, os tesouros da habitação de Yahweh e os tesouros do rei e seus oficiais. ^v18
 
-**19** E queimaram a casa de Deus, e derrubaram os muros de Jerusalém, e todos os seus palácios queimaram a fogo, destruindo também todos os seus preciosos vasos. ^v19
+**19** Eles incendiaram o templo de Deus, destruíram os muros de Jerusalém, queimaram todos os palácios e destruíram todas as coisas belas que havia ali. ^v19
 
-**20** E os que escaparam da espada levou para babilônia; e fizeram-se servos dele e de seus filhos, até ao tempo do reino da Pérsia. ^v20
+**20** O rei levou para a Babilônia todos aqueles que escaparam da espada. Foram feitos escravos do rei e de seus filhos até o tempo do reino da Pérsia. ^v20
 
-**21** Para que se cumprisse a palavra do Senhor, pela boca de Jeremias, até que a terra se agradasse dos seus sábados; todos os dias da assolação repousou, até que os setenta anos se cumpriram. ^v21
+**21** "Isso aconteceu para que se cumprisse a palavra de Yahweh pela boca de Jeremias: ""até que a terra receba compensação por seus sábados, durante todo o tempo em que ela repousar, até que se cumpram os setenta anos""." ^v21
 
-**22** Porém, no primeiro ano de Ciro, rei da Pérsia (para que se cumprisse a palavra do Senhor pela boca de Jeremias), despertou o Senhor o espírito de Ciro, rei da Pérsia, o qual fez passar pregão por todo o seu reino, como também por escrito, dizendo: ^v22
+**22** No primeiro ano de Ciro, o rei da Pérsia, cumpriu-se a palavra de Yahweh dita pela boca de Jeremias. Yahweh despertou o espírito de Ciro, o rei da Pérsia, e este mandou proclamar por todo o seu reino — e o fez também por escrito — o seguinte decreto: ^v22
 
-**23** Assim diz Ciro, rei da Pérsia: O Senhor Deus dos céus me deu todos os reinos da terra, e me encarregou de lhe edificar uma casa em Jerusalém, que está em Judá. Quem há entre vós, de todo o seu povo, o Senhor seu Deus seja com ele, e suba. ^v23
+**23** """Isto é o que Ciro, o rei da Pérsia, diz: 'Yahweh, o rei dos céus, entregou-me todos os reinos da terra. Ele me encarregou de construir uma templo para Si em Jerusalém, que fica em Judá. Quem dentre vós pertence ao Seu povo fique livre para ir, e que Yahweh, vosso Deus, esteja convosco'""." ^v23

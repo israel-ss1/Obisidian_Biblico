@@ -1,69 +1,68 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Lucas|Lucas]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Lucas|Lucas]]"
+tags: [biblia]
 ---
 
 # Lucas 16
 
-**1** E dizia também aos seus discípulos: Havia um certo homem rico, o qual tinha um mordomo; e este foi acusado perante ele de dissipar os seus bens. ^v1
+**1** "Jesus também disse aos seus discípulos: ""Havia um certo homem rico o qual tinha um administrador, esse foi denunciado de desperdiçar os bens dele." ^v1
 
-**2** E ele, chamando-o, disse-lhe: Que é isto que ouço de ti? Dá contas da tua mordomia, porque já não poderás ser mais meu mordomo. ^v2
+**2** Então o homem rico o chamou e disse: 'O que é isso que ouço falar a teu respeito? Presta contas da tua administração, pois tu não podes ser mais administrador'. ^v2
 
-**3** E o mordomo disse consigo: Que farei, pois que o meu senhor me tira a mordomia? Cavar, não posso; de mendigar, tenho vergonha. ^v3
+**3** O administrador disse consigo mesmo: 'O que farei, já que o meu senhor está me tirando do trabalho de administrador? Eu não tenho forças para cavar e tenho vergonha de pedir. ^v3
 
-**4** Eu sei o que hei de fazer, para que, quando for desapossado da mordomia, me recebam em suas casas. ^v4
+**4** Sei o que farei para que, quando eu for removido da administração, as pessoas venham me receber em suas casas'. ^v4
 
-**5** E, chamando a si cada um dos devedores do seu senhor, disse ao primeiro: Quanto deves ao meu senhor? ^v5
+**5** Então o administrador chamou cada um dos devedores do seu senhor e perguntou ao primeiro: 'Quanto deves ao meu senhor?'. ^v5
 
-**6** E ele respondeu: Cem medidas de azeite. E disse-lhe: Toma a tua obrigação, e assentando-te já, escreve cinqüenta. ^v6
+**6** Ele disse: 'Cem batos de óleo de oliva'. E o administrador lhe disse: 'Toma a tua conta, senta-te depressa e escreve que deves cinquenta'. ^v6
 
-**7** Disse depois a outro: E tu, quanto deves? E ele respondeu: Cem alqueires de trigo. E disse-lhe: Toma a tua obrigação, e escreve oitenta. ^v7
+**7** Então o administrador disse ao outro: 'E tu quanto deves?'. E este lhe respondeu: 'Cem coros de trigo'. Ele lhe disse: 'Toma a tua conta e escreve oitenta'. ^v7
 
-**8** E louvou aquele senhor o injusto mordomo por haver procedido prudentemente, porque os filhos deste mundo são mais prudentes na sua geração do que os filhos da luz. ^v8
+**8** O senhor elogiou o administrador corrupto, porque ele agiu com astúcia. Pois os filhos deste mundo são mais astutos para com seu próprio povo do que os filhos da luz. ^v8
 
-**9** E eu vos digo: Granjeai amigos com as riquezas da injustiça; para que, quando estas vos faltarem, vos recebam eles nos tabernáculos eternos. ^v9
+**9** Eu vos digo: 'Fazei amigos para si mesmos por meio de riquezas injustas, para que quando elas acabarem, eles vos recebam nas moradas eternas'. ^v9
 
-**10** Quem é fiel no mínimo, também é fiel no muito; quem é injusto no mínimo, também é injusto no muito. ^v10
+**10** Quem é fiel no pouco também é fiel no muito, e quem é injusto no pouco também é injusto no muito. ^v10
 
-**11** Pois, se nas riquezas injustas não fostes fiéis, quem vos confiará as verdadeiras? ^v11
+**11** Sendo assim, se não fostes fiel usando as riquezas desse mundo, quem irá confiar a ti as verdadeiras riquezas? ^v11
 
-**12** E, se no alheio não fostes fiéis, quem vos dará o que é vosso? ^v12
+**12** Se não fostes fiel com o dinheiro de outras pessoas, quem vos dará o vosso? ^v12
 
-**13** Nenhum servo pode servir dois senhores; porque, ou há de odiar um e amar o outro, ou se há de chegar a um e desprezar o outro. Não podeis servir a Deus e a Mamom. ^v13
+**13** "Nenhum servo pode servir a dois senhores, ou ele odiará um e amará o outro, ou ele se apegará a um e desprezará o outro. Não podeis servir a Deus e as riquezas""." ^v13
 
-**14** E os fariseus, que eram avarentos, ouviam todas estas coisas, e zombavam dele. ^v14
+**14** Quando os fariseus, que eram amantes do dinheiro, ouviam essas coisas, ridicularizavam-no. ^v14
 
-**15** E disse-lhes: Vós sois os que vos justificais a vós mesmos diante dos homens, mas Deus conhece os vossos corações, porque o que entre os homens é elevado, perante Deus é abominação. ^v15
+**15** Mas Ele disse: “Vós vos justificais uns perante os outros, mas Deus conhece vossos corações. O que é exaltado entre os homens é detestável diante de Deus. ^v15
 
-**16** A lei e os profetas duraram até João; desde então é anunciado o reino de Deus, e todo o homem emprega força para entrar nele. ^v16
+**16** A Lei e os profetas vigoraram até a chegada de João. Desde então, o evangelho do Reino de Deus é pregado, e todos se esforçam para entrar nele. ^v16
 
-**17** E é mais fácil passar o céu e a terra do que cair um til da lei. ^v17
+**17** Porém é mais fácil passar o céu e a terra do que um só acento de uma letra da Lei ser invalidada. ^v17
 
-**18** Qualquer que deixa sua mulher, e casa com outra, adultera; e aquele que casa com a repudiada pelo marido, adultera também. ^v18
+**18** Aquele que repudiar sua mulher e casar-se com outra comete adultério, e quem se casa com a repudiada comete adultério. ^v18
 
-**19** Ora, havia um homem rico, e vestia-se de púrpura e de linho finíssimo, e vivia todos os dias regalada e esplendidamente. ^v19
+**19** E havia um homem rico, que se vestia de púrpura e linho fino e desfrutava diariamente de sua grande riqueza. ^v19
 
-**20** Havia também um certo mendigo, chamado Lázaro, que jazia cheio de chagas à porta daquele; ^v20
+**20** Um pobre chamado Lázaro, estava jogado à sua porta, cheio de feridas. ^v20
 
-**21** E desejava alimentar-se com as migalhas que caíam da mesa do rico; e os próprios cães vinham lamber-lhe as chagas. ^v21
+**21** Ele desejava comer do que caía da mesa do homem rico e até os cães vinham lamber suas feridas. ^v21
 
-**22** E aconteceu que o mendigo morreu, e foi levado pelos anjos para o seio de Abraão; e morreu também o rico, e foi sepultado. ^v22
+**22** Aconteceu que o pobre morreu e foi levado pelos anjos para o seio de Abraão. O rico também morreu, foi sepultado ^v22
 
-**23** E no inferno, ergueu os olhos, estando em tormentos, e viu ao longe Abraão, e Lázaro no seu seio. ^v23
+**23** e no Hades, sendo atormentado, ele ergueu os olhos e de longe viu Abraão e Lázaro reclinado no seio dele. ^v23
 
-**24** E, clamando, disse: Pai Abraão, tem misericórdia de mim, e manda a Lázaro, que molhe na água a ponta do seu dedo e me refresque a língua, porque estou atormentado nesta chama. ^v24
+**24** Então ele clamou, dizendo: 'Pai Abraão, tem compaixão de mim, manda Lázaro molhar a ponta de seu dedo e com água resfrescar minha língua, porque estou aflito nesta chama'. ^v24
 
-**25** Disse, porém, Abraão: Filho, lembra-te de que recebeste os teus bens em tua vida, e Lázaro somente males; e agora este é consolado e tu atormentado. ^v25
+**25** Porém Abraão disse: 'Filho, lembra-te que, enquanto estavas vivo, tu recebestes as coisas boas, por outro lado Lázaro recebeu as coisas más. Mas agora Lázaro está consolado aqui, enquanto tu estás em agonia. ^v25
 
-**26** E, além disso, está posto um grande abismo entre nós e vós, de sorte que os que quisessem passar daqui para vós não poderiam, nem tampouco os de lá passar para cá. ^v26
+**26** Além do mais, um grande abismo foi colocado, para que aqueles que queiram cruzar daqui para o teu lado não consigam, e ninguém será capaz de cruzar daí para o nosso lado'. ^v26
 
-**27** E disse ele: Rogo-te, pois, ó pai, que o mandes à casa de meu pai, ^v27
+**27** O homem rico disse: 'Eu te imploro pai Abraão, que o senhor o envie à casa de meu pai, ^v27
 
-**28** Pois tenho cinco irmãos; para que lhes dê testemunho, a fim de que não venham também para este lugar de tormento. ^v28
+**28** pois eu tenho cinco irmãos e quero que eles sejam avisados sobre este lugar de tormento, pois eu temo que eles terminem aqui'. ^v28
 
-**29** Disse-lhe Abraão: Têm Moisés e os profetas; ouçam-nos. ^v29
+**29** Mas Abraão disse: 'Eles tem Moisés e os Profetas, deixa que eles os ouçam'. ^v29
 
-**30** E disse ele: Não, pai Abraão; mas, se algum dentre os mortos fosse ter com eles, arrepender-se-iam. ^v30
+**30** E o homem rico respondeu: 'Não pai Abraão, mas se alguém dentre os mortos for até eles, arrepender-se-ão'. ^v30
 
-**31** Porém, Abraão lhe disse: Se não ouvem a Moisés e aos profetas, tampouco acreditarão, ainda que algum dos mortos ressuscite. ^v31
+**31** "Disse Abraão: 'Se eles não ouvem a Moisés e aos Profetas, tão pouco serão persuadidos por alguém que ressuscite dos mortos'""." ^v31

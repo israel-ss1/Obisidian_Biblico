@@ -1,65 +1,64 @@
 ---
-Livro: "[[1 João|1 João]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/1 João|1 João]]"
+tags: [biblia]
 ---
 
 # 1 João 2
 
-**1** Meus filhinhos, estas coisas vos escrevo, para que não pequeis; e, se alguém pecar, temos um Advogado para com o Pai, Jesus Cristo, o justo. ^v1
+**1** Meus filhinhos, eu vos escrevo estas coisas para que não pequeis. Mas, se alguém pecar, temos um Advogado junto ao Pai, Jesus Cristo, o Justo. ^v1
 
-**2** E ele é a propiciação pelos nossos pecados, e não somente pelos nossos, mas também pelos de todo o mundo. ^v2
+**2** Ele é a propiciação pelos nossos pecados, e não apenas pelos nossos, mas também pelos de todo o mundo. ^v2
 
-**3** E nisto sabemos que o conhecemos: se guardarmos os seus mandamentos. ^v3
+**3** Nós sabemos que O conhecemos, se guardarmos Seus mandamentos. ^v3
 
-**4** Aquele que diz: Eu conheço-o, e não guarda os seus mandamentos, é mentiroso, e nele não está a verdade. ^v4
+**4** "Aquele que diz: ""Eu conheço a Deus"", mas não guarda Seus mandamentos, é um mentiroso, e a verdade não está nele." ^v4
 
-**5** Mas qualquer que guarda a sua palavra, o amor de Deus está nele verdadeiramente aperfeiçoado; nisto conhecemos que estamos nele. ^v5
+**5** Mas o que guarda Sua Palavra, verdadeiramente o amor de Deus tem sido aperfeiçoado nessa pessoa. Por meio disso, sabemos que estamos Nele. ^v5
 
-**6** Aquele que diz que está nele, também deve andar como ele andou. ^v6
+**6** Aquele que diz que permanece em Deus, deve também andar como Jesus Cristo andou. ^v6
 
-**7** Irmãos, não vos escrevo mandamento novo, mas o mandamento antigo, que desde o princípio tivestes. Este mandamento antigo é a palavra que desde o princípio ouvistes. ^v7
+**7** Amados, não vos escrevo um novo mandamento, mas um mandamento antigo que tivestes desde o início. O mandamento antigo é a Palavra que ouvistes. ^v7
 
-**8** Outra vez vos escrevo um mandamento novo, que é verdadeiro nele e em vós; porque vão passando as trevas, e já a verdadeira luz ilumina. ^v8
+**8** No entanto, vos escrevo um novo mandamento, que é verdadeiro em Cristo e em vós, porque a escuridão está passando, e a verdadeira luz já está brilhando. ^v8
 
-**9** Aquele que diz que está na luz, e odeia a seu irmão, até agora está em trevas. ^v9
+**9** Aquele que diz que está na luz e odeia seu irmão, ainda está na escuridão. ^v9
 
-**10** Aquele que ama a seu irmão está na luz, e nele não há escândalo. ^v10
+**10** Aquele que ama seu irmão permanece na luz, e nele não há ocasião para tropeço. ^v10
 
-**11** Mas aquele que odeia a seu irmão está em trevas, e anda em trevas, e não sabe para onde deva ir; porque as trevas lhe cegaram os olhos. ^v11
+**11** Mas aquele que odeia seu irmão está na escuridão e nela anda; ele não sabe para onde está indo, porque a escuridão cegou seus olhos. ^v11
 
-**12** Filhinhos, escrevo-vos, porque pelo seu nome vos são perdoados os pecados. ^v12
+**12** Filhinhos, eu vos escrevo porque vossos pecados são perdoados por causa do Seu nome. ^v12
 
-**13** Pais, escrevo-vos, porque conhecestes aquele que é desde o princípio. Jovens, escrevo-vos, porque vencestes o maligno. Eu vos escrevo, filhos, porque conhecestes o Pai. ^v13
+**13** Pais, eu vos escrevo porque tendes conhecido Aquele que é desde o princípio. Jovens, eu vos escrevo porque tendes vencido o maligno. Filhinhos, eu vos escrevi porque tendes conhecido o Pai. ^v13
 
-**14** Eu vos escrevi, pais, porque já conhecestes aquele que é desde o princípio. Eu vos escrevi, jovens, porque sois fortes, e a palavra de Deus está em vós, e já vencestes o maligno. ^v14
+**14** Pais, eu vos escrevi porque tendes conhecido Aquele que é desde o princípio. Jovens, eu vos escrevi porque sois fortes, e a palavra de Deus permanece em vós, e tendes vencido o maligno. ^v14
 
-**15** Não ameis o mundo, nem o que no mundo há. Se alguém ama o mundo, o amor do Pai não está nele. ^v15
+**15** Não ameis o mundo, nem as coisas que nele estão. Se alguém ama o mundo, o amor do Pai não está nele. ^v15
 
-**16** Porque tudo o que há no mundo, a concupiscência da carne, a concupiscência dos olhos e a soberba da vida, não é do Pai, mas do mundo. ^v16
+**16** Porque tudo que está no mundo, o desejo da carne, o desejo dos olhos, e a soberba da vida, não é do Pai mas é do mundo. ^v16
 
-**17** E o mundo passa, e a sua concupiscência; mas aquele que faz a vontade de Deus permanece para sempre. ^v17
+**17** O mundo e seus desejos passam. Mas aquele que faz a vontade de Deus permanece para sempre. ^v17
 
-**18** Filhinhos, é já a última hora; e, como ouvistes que vem o anticristo, também agora muitos se têm feito anticristos, por onde conhecemos que é já a última hora. ^v18
+**18** Filhinhos, esta é a última hora. Como ouvistes que o anticristo vem, agora mesmo muitos anticristos têm surgido, pelo que sabemos que esta é a última hora. ^v18
 
-**19** Saíram de nós, mas não eram de nós; porque, se fossem de nós, ficariam conosco; mas isto é para que se manifestasse que não são todos de nós. ^v19
+**19** Eles saíram de nosso meio, mas não eram dos nossos. Porque, se fossem dos nossos, teriam continuado conosco, mas eles saíram, o que mostra não serem dos nossos. ^v19
 
-**20** E vós tendes a unção do Santo, e sabeis todas as coisas. ^v20
+**20** Mas tendes unção que vem do Santo, e todos sabeis a verdade. ^v20
 
-**21** Não vos escrevi porque não soubésseis a verdade, mas porque a sabeis, e porque nenhuma mentira vem da verdade. ^v21
+**21** Vos escrevi não porque ignorais a verdade, mas porque a conheceis e porque nenhuma mentira procede da verdade. ^v21
 
-**22** Quem é o mentiroso, senão aquele que nega que Jesus é o Cristo? É o anticristo esse mesmo que nega o Pai e o Filho. ^v22
+**22** Quem é o mentiroso senão aquele que nega que Jesus é o Cristo? Eis o anticristo, o que nega o Pai e o Filho. ^v22
 
-**23** Qualquer que nega o Filho, também não tem o Pai; mas aquele que confessa o Filho, tem também o Pai. ^v23
+**23** Todo aquele que nega o Filho, não tem o Pai. Aquele que reconhece o Filho tem também o Pai. ^v23
 
-**24** Portanto, o que desde o princípio ouvistes permaneça em vós. Se em vós permanecer o que desde o princípio ouvistes, também permanecereis no Filho e no Pai. ^v24
+**24** Quanto a vós, cuidai para que permaneça em vós o que ouvistes desde o princípio. Se permanecer em vós aquilo que ouvistes desde o princípio, também permanecereis no Filho e no Pai. ^v24
 
-**25** E esta é a promessa que ele nos fez: a vida eterna. ^v25
+**25** E esta é a promessa que Ele nos fez: a vida eterna. ^v25
 
-**26** Estas coisas vos escrevi acerca dos que vos enganam. ^v26
+**26** Essas coisas vos escrevi a respeito daqueles que vos querem desviar da verdade. ^v26
 
-**27** E a unção que vós recebestes dele, fica em vós, e não tendes necessidade de que alguém vos ensine; mas, como a sua unção vos ensina todas as coisas, e é verdadeira, e não é mentira, como ela vos ensinou, assim nele permanecereis. ^v27
+**27** E, quanto a vós, a unção que Dele recebestes permanece em vós, e não tendes necessidade de que alguém vos ensine. Mas, como Sua unção vos ensina a respeito de todas as coisas, e é verdade e não é uma mentira, assim como ela vos ensinou, permanecei Nele. ^v27
 
-**28** E agora, filhinhos, permanecei nele; para que, quando ele se manifestar, tenhamos confiança, e não sejamos confundidos por ele na sua vinda. ^v28
+**28** E agora, filhinhos, permanecei Nele para que, quando Ele se manifestar, tenhamos plena confiança e não sejamos envergonhados perante Ele em Sua vinda. ^v28
 
-**29** Se sabeis que ele é justo, sabeis que todo aquele que pratica a justiça é nascido dele. ^v29
+**29** Se sabeis que Ele é Justo, sabeis que todo aquele que pratica a justiça é nascido Dele. ^v29

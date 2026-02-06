@@ -1,81 +1,80 @@
 ---
-Livro: "[[Levítico|Levítico]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Levítico|Levítico]]"
+tags: [biblia]
 ---
 
 # Levítico 19
 
-**1** Falou mais o SENHOR a Moisés, dizendo: ^v1
+**1** Yahweh falou a Moisés, dizendo: ^v1
 
-**2** Fala a toda a congregação dos filhos de Israel, e dize-lhes: Santos sereis, porque eu, o Senhor vosso Deus, sou santo. ^v2
+**2** """Fale a toda a assembléia do povo de Israel e dize-lhes: 'Devei ser santo, porque Eu, Yahweh, sou Deus santo." ^v2
 
-**3** Cada um temerá a sua mãe e a seu pai, e guardará os meus sábados. Eu sou o Senhor vosso Deus. ^v3
+**3** Todos vós deveis honrar a vossa mãe e vosso pai, e guardar os Meus Sábados. Eu sou Yahweh, vosso Deus. ^v3
 
-**4** Não vos virareis para os ídolos nem vos fareis deuses de fundição. Eu sou o Senhor vosso Deus. ^v4
+**4** Não vos volteis para os ídolos inúteis, não façais deuses de metal para vós. Eu sou Yahweh, vosso Deus. ^v4
 
-**5** E, quando oferecerdes sacrifício pacífico ao Senhor, da vossa própria vontade o oferecereis. ^v5
+**5** Quando oferecerdes ofertas pacíficas a Yahweh, vós deveis oferecer de modo que seja aceitável. ^v5
 
-**6** No dia em que o sacrificardes, e no dia seguinte, se comerá; mas o que sobejar ao terceiro dia, será queimado com fogo. ^v6
+**6** Deve ser comida no mesmo dia em que oferecerdes, ou, no dia seguinte. Se alguma coisa restar para o terceiro dia, deveis queimar. ^v6
 
-**7** E se alguma coisa dele for comida ao terceiro dia, coisa abominável é; não será aceita. ^v7
+**7** Se for comida no terceiro dia, ela está contaminada. Ela não será aceita. ^v7
 
-**8** E qualquer que o comer levará a sua iniqüidade, porquanto profanou a santidade do Senhor; por isso tal alma será extirpada do seu povo. ^v8
+**8** Todavia, todo aquele que comê-la deverá carregar sua própria culpa, porque ele tem poluído o que foi dedicado a Yahweh. Esta pessoa deverá ser excluída do seu povo. ^v8
 
-**9** Quando também fizerdes a colheita da vossa terra, o canto do teu campo não segarás totalmente, nem as espigas caídas colherás da tua sega. ^v9
+**9** Quando tu colheres com tuas mãos, tu não deves colher completamente nas extremidades do campo, nem ajuntes toda a produção da sua colheita. ^v9
 
-**10** Semelhantemente não rabiscarás a tua vinha, nem colherás os bagos caídos da tua vinha; deixá-los-ás ao pobre e ao estrangeiro. Eu sou o Senhor vosso Deus. ^v10
+**10** Não deves ajuntar toda a vinha do seu vinhedo, nem tampouco as uvas caídas no terreno do seu vinhedo. Tu deverás deixar para o pobre e para o estrangeiro. Eu sou Yahweh vosso Deus. ^v10
 
-**11** Não furtareis, nem mentireis, nem usareis de falsidade cada um com o seu próximo; ^v11
+**11** Não furteis. Não mintais. Nem enganeis uns aos outros. ^v11
 
-**12** Nem jurareis falso pelo meu nome, pois profanarás o nome do teu Deus. Eu sou o Senhor. ^v12
+**12** Não jureis em meu nome falsamente, nem profaneis o nome do vosso Deus. Eu sou Yahweh. ^v12
 
-**13** Não oprimirás o teu próximo, nem o roubarás; a paga do diarista não ficará contigo até pela manhã. ^v13
+**13** Não oprimais o vosso próximo, nem o roubeis. O pagamento do empregado não ficará convosco toda a noite até pela manhã. ^v13
 
-**14** Não amaldiçoarás ao surdo, nem porás tropeço diante do cego; mas temerás o teu Deus. Eu sou o Senhor. ^v14
+**14** Não amaldiçoes o surdo, nem sejas pedra de tropeço ao cego. Ao invés disto, deveis temer o vosso Deus. Eu sou Yahweh. ^v14
 
-**15** Não farás injustiça no juízo; não respeitarás o pobre, nem honrarás o poderoso; com justiça julgarás o teu próximo. ^v15
+**15** Não crieis falsos julgamentos. Não devais favorecer alguém por ele ser pobre, ou por ser importante. Ao invés disto, julgai vosso próximo de forma justa. ^v15
 
-**16** Não andarás como mexeriqueiro entre o teu povo; não te porás contra o sangue do teu próximo. Eu sou o Senhor. ^v16
+**16** Não propagueis calúnia entre as pessoas, procurai defender a vida do vosso próximo. Eu sou Yahweh. ^v16
 
-**17** Não odiarás a teu irmão no teu coração; não deixarás de repreender o teu próximo, e por causa dele não sofrerás pecado. ^v17
+**17** Não odieis o vosso irmão em vossos corações. Devei honestamente repreender o vosso próximo, para que não compartilheis do pecado dele. ^v17
 
-**18** Não te vingarás nem guardarás ira contra os filhos do teu povo; mas amarás o teu próximo como a ti mesmo. Eu sou o Senhor. ^v18
+**18** Não vingueis vós, nem guardeis nenhum rancor contra o vosso próximo, ao invés disto, amai vosso próximo como a vós mesmos. Eu sou Yahweh. ^v18
 
-**19** Guardarás os meus estatutos; não permitirás que se ajuntem misturadamente os teus animais de diferentes espécies; no teu campo não semearás sementes diversas, e não vestirás roupa de diversos estofos misturados. ^v19
+**19** Vós deveis guardar os meus mandamentos. Não permitais que vossos animais procriem com diferentes outros tipos de animais. Não mistureis dois diferentes tipos de sementes, quando plantardes em vosso campo. Nem vistais roupa de dois tipos diferentes de materiais. ^v19
 
-**20** E, quando um homem se deitar com uma mulher que for serva desposada com outro homem, e não for resgatada nem se lhe houver dado liberdade, então serão açoitados; não morrerão, pois ela não foi libertada. ^v20
+**20** Qualquer que dorme com uma mulher escrava comprometida com outro homem, mas que ainda não é resgatada nem liberta, eles deverão ser punidos. Não serão mortos, pois ela não era livre. ^v20
 
-**21** E, por expiação da sua culpa, trará ao Senhor, à porta da tenda da congregação, um carneiro da expiação, ^v21
+**21** O homem deve oferecer uma oferta para Yahweh, à entrada da tenda do encontro, um cordeiro oferecei como oferta. ^v21
 
-**22** E, com o carneiro da expiação da culpa, o sacerdote fará propiciação por ele perante o Senhor, pelo pecado que cometeu; e este lhe será perdoado. ^v22
+**22** Para que o sacerdote faça expiação por ele diante de Yahweh, um cordeiro pela oferta do pecado cometido por ele. Então o pecado cometido por ele será perdoado. ^v22
 
-**23** E, quando tiverdes entrado na terra, e plantardes toda a árvore de comer, ser-vos-á incircunciso o seu fruto; três anos vos será incircunciso; dele não se comerá. ^v23
+**23** Quando tiverdes entrado na terra e tiverdes plantado todos os tipos de árvores para alimento. Então vós devereis proibir de serem comidos todos os frutos, por três anos. Eles não devem ser comidos. ^v23
 
-**24** Porém no quarto ano todo o seu fruto será santo para dar louvores ao Senhor. ^v24
+**24** Contudo, no quarto ano, todo o fruto será consagrado, como oferta de louvor á Yahweh. ^v24
 
-**25** E no quinto ano comereis o seu fruto, para que vos faça aumentar a sua produção. Eu sou o Senhor vosso Deus. ^v25
+**25** No quinto ano, vós podereis comer do fruto, para que as árvores produzam mais. Eu sou Yahweh, vosso Deus. ^v25
 
-**26** Não comereis coisa alguma com o sangue; não agourareis nem adivinhareis. ^v26
+**26** Não comais nenhuma carne com sangue. Não consulteis espíritos sobre o futuro, nem busqueis poderes sobrenaturais. ^v26
 
-**27** Não cortareis o cabelo, arredondando os cantos da vossa cabeça, nem danificareis as extremidades da tua barba. ^v27
+**27** Não sigais os hábitos pagãos, tais como aparar os lados do seu cabelo ou cortando as bordas de sua barba. ^v27
 
-**28** Pelos mortos não dareis golpes na vossa carne; nem fareis marca alguma sobre vós. Eu sou o Senhor. ^v28
+**28** Não corteis o corpo por causa dos mortos, nem coloqueis marca alguma em vosso corpo. Eu sou Yahweh. ^v28
 
-**29** Não contaminarás a tua filha, fazendo-a prostituir-se; para que a terra não se prostitua, nem se encha de maldade. ^v29
+**29** Não desonreis vossa filha fazendo ela se prostituir, para que a nação não se prostitua, nem a terra se encha de maldade. ^v29
 
-**30** Guardareis os meus sábados, e o meu santuário reverenciareis. Eu sou o Senhor. ^v30
+**30** Vós deveis guardar os Meus Sábados e honrar o santuário do Meu tabernáculo. Eu sou Yahweh. ^v30
 
-**31** Não vos virareis para os adivinhadores e encantadores; não os busqueis, contaminando-vos com eles. Eu sou o Senhor vosso Deus. ^v31
+**31** Não procureis os que procuram os mortos, nem espíritos. Não procureis, para que não sejais desonrados. Eu sou Yahweh, vosso Deus. ^v31
 
-**32** Diante das cãs te levantarás, e honrarás a face do ancião; e temerás o teu Deus. Eu sou o Senhor. ^v32
+**32** Vós deveis vos levantar diante de uma pessoa idosa e honrar a presença de uma pessoa mais velha. Vós deveis temer o vosso Deus. Eu sou Yahweh. ^v32
 
-**33** E quando o estrangeiro peregrinar convosco na vossa terra, não o oprimireis. ^v33
+**33** Se um estrangeiro viver por um tempo em sua terra, vós não deveis maltratá-lo. ^v33
 
-**34** Como um natural entre vós será o estrangeiro que peregrina convosco; amá-lo-ás como a ti mesmo, pois estrangeiros fostes na terra do Egito. Eu sou o Senhor vosso Deus. ^v34
+**34** O estrangeiro que viver convosco, vós o deveis amar como a vós mesmos, pois fostes estrangeiros na terra do Egito. Eu sou Yahweh, vosso Deus. ^v34
 
-**35** Não cometereis injustiça no juízo, nem na vara, nem no peso, nem na medida. ^v35
+**35** Não useis medidas falsas quando medirdes do cumprimento, de peso ou de capacidade. ^v35
 
-**36** Balanças justas, pesos justos, efa justo, e justo him tereis. Eu sou o Senhor vosso Deus, que vos tirei da terra do Egito. ^v36
+**36** Vós deveis usar balanças justas, pesos justos, efa justo, e him justo. Eu sou Yahweh, seu Deus, que vos tirei da terra do Egito. ^v36
 
-**37** Por isso guardareis todos os meus estatutos, e todos os meus juízos, e os cumprireis. Eu sou o Senhor. ^v37
+**37** "Vós deveis obedecerdes a todos os Meus mandamentos e todas as Minhas leis e os cumprirei. Eu sou Yahweh'""." ^v37

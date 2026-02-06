@@ -1,39 +1,38 @@
 ---
-Livro: "[[2 Coríntios|2 Coríntios]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/2 Coríntios|2 Coríntios]]"
+tags: [biblia]
 ---
 
 # 2 Coríntios 7
 
-**1** Ora, amados, pois que temos tais promessas, purifiquemo-nos de toda a imundícia da carne e do espírito, aperfeiçoando a santificação no temor de Deus. ^v1
+**1** Amados, já que temos essas promessas, purifiquemo-nos de tudo o que nos faz impuros em nosso corpo e espírito. Busquemos a santidade no temor de Deus. ^v1
 
-**2** Recebei-nos em vossos corações; a ninguém agravamos, a ninguém corrompemos, de ninguém buscamos o nosso proveito. ^v2
+**2** Acolhei-nos em vosso coração. Nós não fizemos mal ou causamos danos a ninguém e não tiramos vantagem de ninguém. ^v2
 
-**3** Não digo isto para vossa condenação; pois já antes tinha dito que estais em nossos corações para juntamente morrer e viver. ^v3
+**3** Não digo isso para vos condenar, porque eu já disse que estais em nossos corações, para juntos morrermos e juntos vivermos. ^v3
 
-**4** Grande é a ousadia da minha fala para convosco, e grande a minha jactância a respeito de vós; estou cheio de consolação; transbordo de gozo em todas as nossas tribulações. ^v4
+**4** Tenho grande confiança em vós, e estou orgulhoso de vós. Estou repleto de consolação e transbordo de alegria, mesmo em toda a nossa aflição. ^v4
 
-**5** Porque, mesmo quando chegamos à macedônia, a nossa carne não teve repouso algum; antes em tudo fomos atribulados: por fora combates, temores por dentro. ^v5
+**5** Quando viemos à Macedônia, nossos corpos não tiveram descanso; em vez disso, fomos atribulados de todos os modos: conflitos no exterior e temores no interior. ^v5
 
-**6** Mas Deus, que consola os abatidos, nos consolou com a vinda de Tito. ^v6
+**6** Mas Deus, que conforta o desanimado, confortou-nos com a chegada de Tito. ^v6
 
-**7** E não somente com a sua vinda, mas também pela consolação com que foi consolado por vós, contando-nos as vossas saudades, o vosso choro, o vosso zelo por mim, de maneira que muito me regozijei. ^v7
+**7** E não só por sua chegada que Deus nos confortou, mas também pelo conforto que ele recebeu de vós. Ele nos contou da vossa grande afeição, vosso pesar e vossa profunda preocupação por mim; por isso me alegrei ainda mais. ^v7
 
-**8** Porquanto, ainda que vos contristei com a minha carta, não me arrependo, embora já me tivesse arrependido por ver que aquela carta vos contristou, ainda que por pouco tempo. ^v8
+**8** Mesmo que minha carta tenha vos entristecido, não me arrependo dela, embora eu tenha me arrependido quando eu vi que ela vos deixou tristes, ainda que só por um momento. ^v8
 
-**9** Agora folgo, não porque fostes contristados, mas porque fostes contristados para arrependimento; pois fostes contristados segundo Deus; de maneira que por nós não padecestes dano em coisa alguma. ^v9
+**9** Agora eu me alegro, não porque tenhais sofrido, mas porque vossa tristeza vos levou ao arrependimento. Vós experimentastes uma tristeza segundo Deus, então não sofrestes perda nenhuma por nossa causa. ^v9
 
-**10** Porque a tristeza segundo Deus opera arrependimento para a salvação, da qual ninguém se arrepende; mas a tristeza do mundo opera a morte. ^v10
+**10** Porque a tristeza divina traz arrependimento que alcança salvação sem remorso; a tristeza do mundo, entretanto, traz morte. ^v10
 
-**11** Porque, quanto cuidado não produziu isto mesmo em vós que, segundo Deus, fostes contristados! que apologia, que indignação, que temor, que saudades, que zelo, que vingança! Em tudo mostrastes estar puros neste negócio. ^v11
+**11** Vede quão grande determinação essa tristeza segundo Deus produziu em vós. Quão grande era a vossa determinação para provar vossa inocência. Quão grande era vossa indignação, temor, vontade, zelo, e desejo de ver a justiça sendo feita! Em tudo provastes ser inocentes nesse assunto. ^v11
 
-**12** Portanto, ainda que vos escrevi, não foi por causa do que fez o agravo, nem por causa do que sofreu o agravo, mas para que o vosso grande cuidado por nós fosse manifesto diante de Deus. ^v12
+**12** Embora eu tenha vos escrito, não escrevi por causa do malfeitor, nem por quem sofreu o mal, mas para que a vossa sinceridade para conosco fosse conhecida por vós perante Deus. ^v12
 
-**13** Por isso fomos consolados pela vossa consolação, e muito mais nos alegramos pela alegria de Tito, porque o seu espírito foi recreado por vós todos. ^v13
+**13** Por causa disso, somos encorajados. Além do nosso próprio conforto, nós nos alegramos ainda mais pela alegria de Tito, porque seu espírito foi renovado por todos vós. ^v13
 
-**14** Porque, se nalguma coisa me gloriei de vós para com ele, não fiquei envergonhado; mas, como vos dissemos tudo com verdade, também a nossa glória para com Tito se achou verdadeira. ^v14
+**14** Pois me orgulhei de vós diante dele e não fui envergonhado; pelo contrário, assim como tudo o que vos dissemos era verdade, nosso orgulho de vós diante de Tito provou-se verdadeiro. ^v14
 
-**15** E o seu entranhável afeto para convosco é mais abundante, lembrando-se da obediência de vós todos, e de como o recebestes com temor e tremor. ^v15
+**15** A afeição dele por vós é ainda maior, à medida que ele se lembra da obediência de todos vós e de como o recebestes com temor e tremor. ^v15
 
-**16** Regozijo-me de em tudo poder confiar em vós. ^v16
+**16** Eu me alegro porque tenho completa confiança em vós. ^v16

@@ -1,39 +1,38 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Jeremias|Jeremias]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Jeremias|Jeremias]]"
+tags: [biblia]
 ---
 
 # Jeremias 40
 
-**1** A palavra que veio a Jeremias da parte do SENHOR, depois que Nebuzaradã, capitão da guarda, o deixara ir de Ramá, quando o tomou, estando ele atado com cadeias no meio de todos os do cativeiro de Jerusalém e de Judá, que foram levados cativos para babilônia. ^v1
+**1** Esta foi a palavra de Yahweh, que veio a Jeremias, depois que Nebuzaradã, o capitão da guarda do rei, o libertou em Ramá. Ele o encontrara acorrentado no meio dos exilados de Jerusalém e de Judá, que estavam sendo conduzidos para o exílio na Babilônia. ^v1
 
-**2** Tomou o capitão da guarda a Jeremias, e disse-lhe: O Senhor teu Deus pronunciou este mal, contra este lugar. ^v2
+**2** "O chefe da guarda levou Jeremias e lhe disse: ""Yahweh, teu Deus, decretou este desastre contra este lugar." ^v2
 
-**3** E o Senhor o trouxe, e fez como havia falado; porque pecastes contra o Senhor, e não obedecestes à sua voz, portanto vos sucedeu isto. ^v3
+**3** Agora, Yahweh o trouxe, e fez como havia decretado. Portanto, tudo isso vos aconteceu porque pecastes contra Ele e não obedecestes à Sua voz. Esse é o motivo pelo qual essas coisas têm acontecido convosco. ^v3
 
-**4** Agora, pois, eis que te soltei hoje das cadeias que estavam sobre as tuas mãos. Se te apraz vir comigo para babilônia, vem, e eu cuidarei de ti, mas se não te apraz vir comigo para babilônia, deixa de vir. Olha, toda a terra está diante de ti; para onde parecer bom e reto aos teus olhos ir, para ali vai. ^v4
+**4** "Mas, agora vê! Eu te liberto hoje das correntes que estão em tuas mãos. Se for bom aos teus olhos que venhas comigo até a Babilônia, vem, e cuidarei de ti. Mas se não for bom aos teus olhos que venhas comigo para a Babilônia, então não venhas. Olha, toda a terra está diante de ti. Vá para onde for bom e direito aos teus olhos.""" ^v4
 
-**5** Mas, como ele ainda não tinha voltado, disse-lhe: Volta a Gedalias, filho de Aicão, filho de Safã, a quem o rei de babilônia pôs sobre as cidades de Judá, e habita com ele no meio do povo; ou se para qualquer outra parte te aprouver ir, vai. E deu-lhe o capitão da guarda sustento para o caminho, e um presente, e o deixou ir. ^v5
+**5** "Mas, visto que Jeremias demorava a se decidir, Nebuzaradã lhe disse: ""Volta a Gedalias, filho de Aicam, filho de Safã, a quem o rei da Babilônia nomeou governador das cidades de Judá. Habita com ele entre o povo, ou vai para onde for bom aos teus olhos."" O comandante da guarda do rei deu a ele comida e um presente, e o deixou ir." ^v5
 
-**6** Assim veio Jeremias a Gedalias, filho de Aicão, a Mizpá; e habitou com ele no meio do povo que havia ficado na terra. ^v6
+**6** Então, Jeremias foi a Gedalias, filho de Aicam, em Mispá. Ele ficou com Gedalias entre o povo que foi deixado para trás na terra. ^v6
 
-**7** Ouvindo, pois, todos os capitães dos exércitos, que estavam no campo, eles e os seus homens, que o rei de babilônia tinha nomeado a Gedalias, filho de Aicão, governador da terra, e que lhe havia confiado os homens, e as mulheres, e os meninos, e os mais pobres da terra, que não foram levados cativos a babilônia, ^v7
+**7** Quando alguns comandantes dos soldados de Judá que ainda estavam no campo, e seus homens, ouviram que o rei da Babilônia havia feito de Gedalias, filho de Aicam, governador da terra, e que lhe havia confiado homens, mulheres e crianças que eram os mais pobres da terra, que não haviam sido exilados na Babilônia, ^v7
 
-**8** Vieram ter com Gedalias, a Mizpá; a saber: Ismael, filho de Netanias, e Joanã e Jônatas, filhos de Careá, e Seraías, filho de Tanumete, e os filhos de Efai, o netofatita, e Jezanias, filho de um maacatita, eles e os seus homens. ^v8
+**8** foram até ele em Mispá. Eram eles: Ismael, filho de Netanias; Joanã e Jônatas, filhos de Careá; Seraías, filho de Tanumete; os filhos de Efai, o netofatita; e Jazanias, filho do Maacatita, todos eles e seus homens. ^v8
 
-**9** E jurou Gedalias, filho de Aicão, filho de Safã, a eles e aos seus homens, dizendo: Não temais servir aos caldeus; ficai na terra, e servi o rei de babilônia, e bem vos irá. ^v9
+**9** "Gedalias, filho de Aicam, filho de Safã, jurou a eles e seus homens: ""Não tenhais medo de servir os oficiais babilônios. Vivei na terra e servi o rei da Babilônia, e isso será bom para vós." ^v9
 
-**10** Quanto a mim, eis que habito em Mizpá, para estar às ordens dos caldeus que vierem a nós; e vós recolhei o vinho, e as frutas de verão, e o azeite, e colocai-os nos vossos vasos, e habitai nas vossas cidades, que tomastes. ^v10
+**10** "E, vede, eu continuarei morando em Mispá para me encontrar com os babilônios que vierem a nós. Então, colhei as uvas para fazer vinho, frutas de verão e azeite, e armazenem em vossas vasilhas. Vivei nas cidades que vós tendes ocupado.""" ^v10
 
-**11** Do mesmo modo todos os judeus que estavam em Moabe, e entre os filhos de Amom, e em Edom, e os que havia em todas aquelas terras, ouviram que o rei de babilônia havia deixado alguns em Judá, e que havia posto sobre eles a Gedalias, filho de Aicão, filho de Safã, ^v11
+**11** Todos os judeus em Moabe, entre os amonitas, e em Edom, e em toda terra, ouviram que o rei da Babilônia havia deixado um remanescente em Judá e que ele havia nomeado Gedalias, filho de Aicam, filho de Safã, como governador sobre eles. ^v11
 
-**12** Então voltaram todos os judeus de todos os lugares, para onde foram lançados, e vieram à terra de Judá, a Gedalias, a Mizpá; e recolheram vinho e frutas do verão com muita abundância. ^v12
+**12** Então, todos os judeus retornaram dos lugares para onde eles haviam se dispersado. Voltaram à terra de Judá, para Gedalias, em Mispá, e colheram uvas para o vinho e frutas de verão em grande quantidade. ^v12
 
-**13** Joanã, filho de Careá, e todos os capitães dos exércitos, que estavam no campo, vieram a Gedalias, a Mizpá. ^v13
+**13** Joanã, filho de Careá, e todos os comandantes dos exércitos no campo, vieram a Gedalias, em Mispá. ^v13
 
-**14** E disseram-lhe: Bem sabes que Baalis, rei dos filhos de Amom, enviou a Ismael, filho de Netanias, para tirar-te a vida. Mas, Gedalias, filho de Aicão, não lhes deu crédito. ^v14
+**14** "Eles disseram-lhe: ""Tu percebes que Baalis, rei dos amonitas, enviou Ismael, filho de Netanias para assassinar-te?"" Mas Gedalias, filho de Aicam, não acreditou neles." ^v14
 
-**15** Todavia Joanã, filho de Careá, falou a Gedalias em segredo, em Mizpá, dizendo: Irei agora, e ferirei a Ismael, filho de Netanias, sem que ninguém o saiba; por que razão te tiraria ele a vida, de modo que todos os judeus, que se têm congregado a ti, fossem dispersos, e perecesse o restante de Judá? ^v15
+**15** "Então, Joanã, filho de Careá, falou em segredo a Gedalias, em Mispá, e disse: ""Permita que eu vá matar Ismael, filho de Netanias. Ninguém suspeitará de mim. Por que deveria ele matar-te? Por que permitir que todos de Judá que têm estado junto a ti sejam dispersados e os remanescentes de Judá sejam destruídos?""" ^v15
 
-**16** Mas disse Gedalias, filho de Aicão, a Joanã, filho de Careá: Não faças tal coisa; porque falas falsamente contra Ismael. ^v16
+**16** "Mas Gedalias, filho de Acaim, disse a Joanã, filho de Careá: ""Não faças isso, pois tu estás dizendo mentiras a respeito de Ismael.""" ^v16

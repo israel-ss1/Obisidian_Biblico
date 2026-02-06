@@ -1,31 +1,28 @@
 ---
-Livro: "[[Salmos|Salmos]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Salmos|Salmos]]"
+tags: [biblia]
 ---
 
 # Salmos 60
 
-**1** Ó Deus, tu nos rejeitaste, tu nos espalhaste, tu te indignaste; oh, volta-te para nós. ^v1
+**2** Fizeste a terra tremer e abriste-lhe fendas; repara suas brechas, pois ela está estremecendo. ^v2
 
-**2** Abalaste a terra, e a fendeste; sara as suas fendas, pois ela treme. ^v2
+**3** Tu mostraste coisas severas a Teu povo; fizeste-nos beber o vinho cambaleante. ^v3
 
-**3** Fizeste ver ao teu povo coisas árduas; fizeste-nos beber o vinho do atordoamento. ^v3
+**4** Tu deste uma bandeira para aqueles que Te honram, para ser exibida por causa da verdade. [Interlúdio] ^v4
 
-**4** Deste um estandarte aos que te temem, para o arvorarem no alto, por causa da verdade. (Selá.) ^v4
+**5** Para que aqueles que Tu amas sejam libertos, resgata-nos com a Tua mão direita e responde-me. ^v5
 
-**5** Para que os teus amados sejam livres, salva-nos com a tua destra, e ouve-nos; ^v5
+**6** "Deus falou em Sua santidade: ""Eu Me alegrarei; dividirei Siquém e repartirei o vale de Sucote." ^v6
 
-**6** Deus falou na sua santidade; eu me regozijarei, repartirei a Siquém e medirei o vale de Sucote. ^v6
+**7** Gileade é Meu, Manassés é Meu também; Efraim é Meu capacete, e Judá é o Meu cetro. ^v7
 
-**7** Meu é Gileade, e meu é Manassés; Efraim é a força da minha cabeça; Judá é o meu legislador. ^v7
+**8** "Moabe é Minha bacia de lavar; sobre Edom atirarei minha sandália; darei Meu grito de vitória sobre a Filístia.""" ^v8
 
-**8** Moabe é a minha bacia de lavar; sobre Edom lançarei o meu sapato; alegra-te, ó Filístia, por minha causa. ^v8
+**9** Quem me levará à cidade fortificada? Quem me guiará a Edom? ^v9
 
-**9** Quem me conduzirá à cidade forte? Quem me guiará até Edom?. ^v9
+**10** Não foste Tu, ó Deus, que nos rejeitaste? Tu não tens ido com nosso exército para a batalha. ^v10
 
-**10** Não serás tu, ó Deus, que nos tinhas rejeitado? tu, ó Deus, que não saíste com os nossos exércitos? ^v10
+**11** Ajuda-nos contra o inimigo, pois o socorro do homem é inútil. ^v11
 
-**11** Dá-nos auxílio na angústia, porque vão é o socorro do homem. ^v11
-
-**12** Em Deus faremos proezas; porque ele é que pisará os nossos inimigos. ^v12
+**12** Nós triunfaremos com a ajuda de Deus; Ele pisoteará nossos inimigos. ^v12

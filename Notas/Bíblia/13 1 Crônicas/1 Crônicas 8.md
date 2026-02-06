@@ -1,87 +1,72 @@
 ---
-Livro: "[[1 Crônicas|1 Crônicas]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/1 Crônicas|1 Crônicas]]"
+tags: [biblia]
 ---
 
 # 1 Crônicas 8
 
-**1** E Benjamim gerou a Belá, seu primogênito, a Asbel o segundo, e a Aará o terceiro, ^v1
+**1** Os cinco filhos de Benjamin foram Belá seu primogênito, Asbel, Aará, ^v1
 
-**2** A Noá o quarto, e a Rafa o quinto. ^v2
+**2** Noá e Rafa. ^v2
 
-**3** E Belá teve estes filhos: Adar, Gera, Abiúde, ^v3
+**3** Os filhos de Belá foram Adar, Gera, Abiúde, ^v3
 
 **4** Abisua, Naamã, Aoá, ^v4
 
-**5** Gera, Sefufá e Hurão. ^v5
+**5** Gera, Sefufã, e Hurão. ^v5
 
-**6** E estes foram os filhos de Eúde; que foram chefes dos pais dos moradores de Geba, e os levaram cativos a Manaate; ^v6
+**6** Estes foram os descendentes de Eúde, que foram cabeças dos clãs dos habitantes de Geba, os quais foram forçados a ir para Manaate: ^v6
 
-**7** E Naamã, e Aías e Gera; este os transportou, e gerou a Uzá e a Aiúde. ^v7
+**7** Naamã, Aías e Gera. O último, Gera, os conduziu na sua mudança. Ele foi o pai de Uzá e Aiúde. ^v7
 
-**8** E Saaraim (depois de os enviar), na terra de Moabe, gerou filhos de Husim e Baara, suas mulheres. ^v8
+**8** Saaraim se tornou pai de filhos na terra de Moabe, depois que ele se divorciou de suas esposas Husim e Baara. ^v8
 
-**9** E de Hodes, sua mulher, gerou a Jobabe, a Zíbia, a Mesa, a Malcã, ^v9
+**9** De sua esposa Hodes, Saaraim gerou Jobabe, Zíbia, Messa, Malcã, ^v9
 
-**10** A Jeuz, a Saquias e a Mirma; estes foram seus filhos, chefes dos pais. ^v10
+**10** Jeuz, Saquias, e Mirma. Estes foram seus filhos, líderes nos seus clãs. ^v10
 
-**11** E de Husim gerou a Abitube e a Elpaal. ^v11
+**11** Ele já era o pai de Abitube e Elpaal, filhos de Husim. ^v11
 
-**12** E foram os filhos de Elpaal: Éber, Misã e Semede; este edificou a Ono e a Lode e os lugares da sua jurisdição. ^v12
+**12** Os filhos de Elpaal eram Héber, Misã e Semede (que construiu Ono e Lode com seus povoados vizinhos). Havia também Berias e Sema. ^v12
 
-**13** E Berias e Sema foram cabeças dos pais dos moradores de Aijalom; estes afugentaram os moradores de Gate. ^v13
+**13** Eles foram cabeças dos clãs que viveram em Aijalom, os quais expulsaram os habitantes de Gate. ^v13
 
-**14** E Aiô, Sasaque, Jerimote, ^v14
+**14** Berias teve estes filhos: Aiô, Sasaque, Jerimote, ^v14
 
 **15** Zebadias, Arade, Eder, ^v15
 
-**16** Micael, Ispa e Joa foram filhos de Berias. ^v16
+**16** Micael, Ispá, e Joá. ^v16
 
-**17** Zebadias, Mesulão, Hizque, Héber, ^v17
+**18** Elpaal teve estes filhos: Zebadias, Mesulão, Hizqui, Héber, Ismerai, Izlias, e Jobabe. ^v18
 
-**18** Ismerai, Izlias e Jobabe, filhos de Elpaal. ^v18
+**21** Simei teve estes filhos: Jaquim, Zicri, Zabdi, Elienai, Ziletai, Eliel, Adaías, Beraías, e Sinrate. ^v21
 
-**19** Jaquim, Zicri, Zabdi, ^v19
+**25** Sasaque teve estes filhos: Ispã, Éber, Eliel, Abdom, Zicri, Hanã, Hananias, Elão, Antotias, Ifdeias, e Penuel. ^v25
 
-**20** Elienai, Ziletai, Eliel, ^v20
+**27** Jeroão teve estes filhos: Sanserai, Searias, Atalias, Jaaresias, Elias, e Zicri. ^v27
 
-**21** Adaías, Beraías e Sinrate, filhos de Simei. ^v21
+**28** Estes foram os cabeças dos clãs e líderes que viveram em Jerusalém. ^v28
 
-**22** E Ispã, Éber, Eliel, ^v22
+**29** O pai de Gibeão, Jeiel, cuja esposa se chamava Maacá, viveu em Gibeão. ^v29
 
-**23** Abdom, Zicri, Hanã, ^v23
+**30** Seu primogênito foi Abdom, seguido de Zur, Quiz, Baal, Nadabe, ^v30
 
-**24** Hananias, Elão, Antotias, ^v24
+**31** Gedor, Aiô, e Zequer. ^v31
 
-**25** E Ifdéias, e Penuel, filhos de Sasaque; ^v25
+**32** O outro filho de Jeiel era Miclote, que gerou Simeia. Eles também habitaram perto de seus parentes em Jerusalém. ^v32
 
-**26** E Sanserai, e Searias, e Atalias, ^v26
+**33** Ner foi o pai de Quis. Quis foi o pai de Saul. Saul foi o pai de Jônatas, Malquisua, Abinadabe, e Es-Baal. ^v33
 
-**27** E Jaaresias, e Elias e Zicri, filhos de Jeroão. ^v27
+**34** O filho de Jônatas foi Meribe-Baal. Meribe-Baal foi o pai de Mica. ^v34
 
-**28** Estes foram cabeças dos pais, segundo as suas gerações, chefes, e habitaram em Jerusalém. ^v28
+**35** Os filhos de Mica foram Pitom, Meleque, Tareá, e Acaz. ^v35
 
-**29** E em Gibeão habitou o pai de Gibeão; e era o nome de sua mulher Maaca; ^v29
+**36** Acaz gerou Jeoada. Jeoada foi o pai de Alemete, Azmavete, e Zinri. Zinri foi o pai de Moza. ^v36
 
-**30** E seu filho primogênito, Abdom; depois Zur, e Quis, Baal, e Nadabe, ^v30
+**37** Moza foi o pai de Bineá. Bineá foi o pai de Rafa. Rafa foi o pai de Eleasá. Eleasá foi o pai de Azel. ^v37
 
-**31** E Gedor, Aiô, e Zequer, ^v31
+**38** Azel teve seis filhos: Azricão, Bocru, Ismael, Searias, Obadias, e Hanã. Todos esses eram filhos de Azel. ^v38
 
-**32** E Miclote gerou a Siméia; e também estes, defronte de seus irmãos, habitaram em Jerusalém com eles. ^v32
+**39** Os filhos de Eseque, seu irmão, foram Ulão seu primogênito, Jeús o segundo, e Elifelete o terceiro. ^v39
 
-**33** E Ner gerou a Quis, e Quis gerou a Saul; e Saul gerou a Jônatas, a Malquisua, a Abinadabe, e a Esbaal. ^v33
-
-**34** E o filho de Jônatas foi Meribe-Baal; e Meribe-Baal gerou a Mica. ^v34
-
-**35** E os filhos de Mica foram: Pitom, Meleque, Tareá, e Acaz. ^v35
-
-**36** E Acaz gerou a Jeoada; e Jeoada gerou a Alemete, e a Azmavete, e a Zinri; e Zinri gerou a Moza, ^v36
-
-**37** E Moza gerou a Bineá, cujo filho foi Rafa, de quem foi filho Eleasá, cujo filho foi Azel. ^v37
-
-**38** E teve Azel seis filhos, e estes foram os seus nomes: Azricão, Bocru, Ismael, Searias, Obadias, e Hanã; todos estes foram filhos de Azel. ^v38
-
-**39** E os filhos de Ezeque, seu irmão: Ulão, seu primogênito, Jeús o segundo e Elifelete o terceiro. ^v39
-
-**40** E foram os filhos de Ulão homens heróis, valentes, e flecheiros destros; e tiveram muitos filhos, e filhos de filhos, cento e cinqüenta; todos estes foram dos filhos de Benjamim. ^v40
+**40** Os filhos de Ulão foram lutadores e arqueiros. Eles tiveram muitos filhos e netos, no total de cento e cinquenta. Todos estes foram descendentes de Benjamim. ^v40

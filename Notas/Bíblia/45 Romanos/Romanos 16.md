@@ -1,61 +1,60 @@
 ---
-Livro: "[[Romanos|Romanos]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Romanos|Romanos]]"
+tags: [biblia]
 ---
 
 # Romanos 16
 
-**1** Recomendo-vos, pois, Febe, nossa irmã, a qual serve na igreja que está em Cencréia, ^v1
+**1** Eu vos recomendo nossa irmã Febe, serva da igreja que está em Cencreia, ^v1
 
-**2** Para que a recebais no Senhor, como convém aos santos, e a ajudeis em qualquer coisa que de vós necessitar; porque tem hospedado a muitos, como também a mim mesmo. ^v2
+**2** para que possais recebê-la no Senhor, de uma maneira digna dos santos, e que a ajudeis em qualquer coisa que ela possa precisar de vós. Pois ela mesma tornou-se uma ajudante de muitos, inclusive de mim. ^v2
 
-**3** Saudai a Priscila e a Áqüila, meus cooperadores em Cristo Jesus, ^v3
+**3** Cumprimentai Priscila e Áquila, meus companheiros de trabalho em Jesus Cristo, ^v3
 
-**4** Os quais pela minha vida expuseram as suas cabeças; o que não só eu lhes agradeço, mas também todas as igrejas dos gentios. ^v4
+**4** que por minha vida arriscaram suas próprias vidas. Eu os agradeço, e não apenas eu, mas também todas as igrejas dos gentios. ^v4
 
-**5** Saudai também a igreja que está em sua casa. Saudai a Epêneto, meu amado, que é as primícias da Acáia em Cristo. ^v5
+**5** Cumprimentai a igreja que está na casa deles. Cumprimentai meu amado Epêneto, o primeiro fruto da Ásia para Cristo. ^v5
 
-**6** Saudai a Maria, que trabalhou muito por nós. ^v6
+**6** Cumprimentai Maria, que trabalhou arduamente por vós. ^v6
 
-**7** Saudai a Andrônico e a Júnias, meus parentes e meus companheiros na prisão, os quais se distinguiram entre os apóstolos e que foram antes de mim em Cristo. ^v7
+**7** Cumprimentai Andrônico e Júnias, meus parentes e companheiros de prisão, que são proeminentes entre os apóstolos, que também estavam em Cristo antes de mim. ^v7
 
-**8** Saudai a Amplias, meu amado no Senhor. ^v8
+**8** Cumprimentai Amplíato, meu amado no Senhor. ^v8
 
-**9** Saudai a Urbano, nosso cooperador em Cristo, e a Estáquis, meu amado. ^v9
+**9** Cumprimentai Urbano, nosso companheiro de trabalho em Cristo, e meu amado Estáquis. ^v9
 
-**10** Saudai a Apeles, aprovado em Cristo. Saudai aos da família de Aristóbulo. ^v10
+**10** Cumprimentai Apeles, o aprovado em Cristo. Cumprimentai aqueles que são da família de Aristóbulo. ^v10
 
-**11** Saudai a Herodião, meu parente. Saudai aos da família de Narciso, os que estão no Senhor. ^v11
+**11** Cumprimentai meu parente Herodião. Cumprimentai aqueles da família de Narciso, que estão no Senhor. ^v11
 
-**12** Saudai a Trifena e a Trifosa, as quais trabalham no Senhor. Saudai à amada Pérside, a qual muito trabalhou no Senhor. ^v12
+**12** Cumprimentai Trifena e Trifosa, que trabalham arduamente no Senhor. Cumprimentai a amada Pérside, que trabalhou muito no Senhor. ^v12
 
-**13** Saudai a Rufo, eleito no Senhor, e a sua mãe e minha. ^v13
+**13** Cumprimentai Rufo, escolhido pelo Senhor, e a mãe dele e minha. ^v13
 
-**14** Saudai a Asíncrito, a Flegonte, a Hermes, a Pátrobas, a Hermas, e aos irmãos que estão com eles. ^v14
+**14** Cumprimentai Asíncrito, Flegonte, Hermes, Pátrobas, Hermas e os irmãos que estão com eles. ^v14
 
-**15** Saudai a Filólogo e a Júlia, a Nereu e a sua irmã, e a Olimpas, e a todos os santos que com eles estão. ^v15
+**15** Cumprimentai Filólogo e Júlia, Nereu e sua irmã, Olimpas e todos os santos que estão com eles. ^v15
 
-**16** Saudai-vos uns aos outros com santo ósculo. As igrejas de Cristo vos saúdam. ^v16
+**16** Cumprimentai-vos uns aos outros com um beijo santo. Todas as igrejas de Cristo vos cumprimentam. ^v16
 
-**17** E rogo-vos, irmãos, que noteis os que promovem dissensões e escândalos contra a doutrina que aprendestes; desviai-vos deles. ^v17
+**17** Agora, insisto convosco, irmãos, que penseis sobre aqueles que estão causando divisões e tropeços, que vão além do ensinamento que aprendestes. Afastai-vos deles. ^v17
 
-**18** Porque os tais não servem a nosso Senhor Jesus Cristo, mas ao seu ventre; e com suaves palavras e lisonjas enganam os corações dos simples. ^v18
+**18** Pois pessoas como essas não servem ao nosso Senhor Jesus Cristo, mas a seus próprios ventres. Com suas palavras doces e bajulantes, eles enganam os corações dos inocentes. ^v18
 
-**19** Quanto à vossa obediência, é ela conhecida de todos. Comprazo-me, pois, em vós; e quero que sejais sábios no bem, mas simples no mal. ^v19
+**19** Pois vosso exemplo de obediência alcança a todos. Eu me alegro, portanto, em vós, mas quero que sejais sábios em relação ao bem, e puros em relação ao mal. ^v19
 
-**20** E o Deus de paz esmagará em breve Satanás debaixo dos vossos pés. A graça de nosso Senhor Jesus Cristo seja convosco. Amém. ^v20
+**20** O Deus da paz em breve esmagará Satanás debaixo dos vossos pés. Que a graça de nosso Senhor Jesus Cristo esteja convosco. ^v20
 
-**21** Saúdam-vos Timóteo, meu cooperador, e Lúcio, Jasom e Sosípatro, meus parentes. ^v21
+**21** Timóteo, meu companheiro de trabalho, cumprimenta-vos; bem como meus parentes Lúcio, Jasão e Sosípatro. ^v21
 
-**22** Eu, Tércio, que esta carta escrevi, vos saúdo no Senhor. ^v22
+**22** Eu, Tércio, que escrevo esta carta, cumprimento-vos no Senhor. ^v22
 
-**23** Saúda-vos Gaio, meu hospedeiro, e de toda a igreja. Saúda-vos Erasto, procurador da cidade, e também o irmão Quarto. ^v23
+**23** Gaio, hospedeiro para mim e para toda igreja, vos cumprimenta. Erasto, o tesoureiro da cidade, e também o irmão Quarto, cumprimentam-vos. ^v23
 
-**24** A graça de nosso Senhor Jesus Cristo seja com todos vós. Amém. ^v24
+**24** "[""Que a graça de nosso Senhor Jesus Cristo esteja com todos vós. Amém."" (As melhores cópias antigas omitem este verso)]" ^v24
 
-**25** Ora, àquele que é poderoso para vos confirmar segundo o meu evangelho e a pregação de Jesus Cristo, conforme a revelação do mistério que desde tempos eternos esteve oculto, ^v25
+**25** Agora, Àquele que é capaz de fazer-vos ficar de pé, de acordo com o meu Evangelho e com a pregação de Jesus Cristo, segundo a revelação do mistério guardado em segredo desde há muito tempo atrás, ^v25
 
-**26** Mas que se manifestou agora, e se notificou pelas Escrituras dos profetas, segundo o mandamento do Deus eterno, a todas as nações para obediência da fé; ^v26
+**26** mas que agora foi revelado, e tornou-se conhecido a todas as nações pelas Escrituras proféticas, segundo o mandamento do Deus eterno, para a obediência da fé. ^v26
 
-**27** Ao único Deus, sábio, seja dada glória por Jesus Cristo para todo o sempre. Amém. ^v27
+**27** Ao único e sábio Deus, por meio de Jesus Cristo, seja glória para sempre. Amém. ^v27

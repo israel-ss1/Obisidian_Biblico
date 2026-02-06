@@ -1,43 +1,42 @@
 ---
-Livro: "[[2 Crônicas|2 Crônicas]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/2 Crônicas|2 Crônicas]]"
+tags: [biblia]
 ---
 
 # 2 Crônicas 8
 
-**1** E sucedeu, ao fim de vinte anos, nos quais Salomão edificou a casa do SENHOR, e a sua própria casa, ^v1
+**1** Aconteceu que, ao final de vinte anos, durante os quais Salomão construiu a casa de Yahweh e sua própria casa, ^v1
 
-**2** Que Salomão edificou as cidades que Hirão lhe tinha dado; e fez habitar nelas os filhos de Israel. ^v2
+**2** Salomão reconstruiu as cidades que Hirão deu a ele, e fez o povo de Israel viver ali. ^v2
 
-**3** Depois foi Salomão a Hamate-Zobá, e a tomou. ^v3
+**3** Salomão atacou Hama-Zobá e a derrotou. ^v3
 
-**4** Também edificou a Tadmor no deserto, e todas as cidades de provisões, que edificou em Hamate. ^v4
+**4** Ele construiu Tadmor no deserto, e todas as cidades armazéns em Hamate. ^v4
 
-**5** Edificou também a alta Bete-Horom, e a baixa Bete-Horom; cidades fortes, com muros, portas e ferrolhos; ^v5
+**5** Também construiu Bete-Horom, a alta, e Bete-Horom, a baixa, cidades fortificadas com muros, portões e ferrolhos. ^v5
 
-**6** Como também a Baalate, e todas as cidades de provisões, que Salomão tinha, e todas as cidades dos carros e as cidades dos cavaleiros; e tudo quanto, conforme ao seu desejo, Salomão quis edificar em Jerusalém, e no Líbano, e em toda a terra do seu domínio. ^v6
+**6** Ele construiu Baalate e todas as cidades armazéns que possuía, e todas as cidades para seus carros e as cidades para seus cavaleiros, e tudo que quis construir para seu prazer em Jerusalém, no Líbano e em todas as terras sob seu domínio. ^v6
 
-**7** Quanto a todo o povo, que tinha ficado dos heteus, amorreus, perizeus, heveus e jebuseus, que não eram de Israel, ^v7
+**7** Quanto a todas as pessoas que sobraram dos heteus, dos amorreus, dos perizeus, dos heveus e dos jebuseus, que não pertenciam a Israel, ^v7
 
-**8** Dos seus filhos, que ficaram depois deles na terra, os quais os filhos de Israel não destruíram, Salomão os fez tributários, até ao dia de hoje. ^v8
+**8** seus descendentes que haviam ficado na terra depois deles, que o povo de Israel não destruiu, Salomão fez deles trabalhadores forçados, o que são até hoje. ^v8
 
-**9** Porém, dos filhos de Israel, Salomão não fez servos para sua obra (mas eram homens de guerra, chefes dos seus capitàes, e capitàes dos seus carros e cavaleiros), ^v9
+**9** Entretanto, Salomão não fez do povo de Israel trabalhadores forçados; ao invés disso, eles se tornaram seus soldados, seus comandantes, seus oficiais e comandantes da cavalaria e seus cavaleiros. ^v9
 
-**10** Destes, pois, eram os chefes dos oficiais que o rei Salomão tinha, duzentos e cinqüenta, que presidiam sobre o povo. ^v10
+**10** Esses foram também os oficiais comandantes que dirigiam os encarregados do rei Salomão — duzentos e cinquenta deles —, que supervisionavam o povo que fazia o trabalho. ^v10
 
-**11** E Salomão fez subir a filha de Faraó da cidade de Davi para a casa que lhe tinha edificado; porque disse: Minha mulher não morará na casa de Davi, rei de Israel, porquanto santos são os lugares nos quais entrou a arca do Senhor. ^v11
+**11** "Salomão tirou a filha do Faraó da cidade de Davi, e levou para a casa que ele havia construído para ela, pois disse: ""Minha esposa não deve viver na casa de Davi, rei de Israel, porque onde quer que a arca de Yahweh esteve é santo""." ^v11
 
-**12** Então Salomão ofereceu holocaustos ao Senhor, sobre o altar do Senhor, que tinha edificado diante do pórtico, ^v12
+**12** Então, Salomão ofereceu holocaustos a Yahweh em Seu altar, que ele construiu em frente ao pórtico. ^v12
 
-**13** E isto segundo a ordem de cada dia, fazendo ofertas conforme o mandamento de Moisés, nos sábados e nas luas novas, e nas solenidades, três vezes no ano; na festa dos pães ázimos, na festa das semanas, e na festa das tendas. ^v13
+**13** Ele ofereceu sacrifícios de acordo com a programação diária requerida; ele os ofereceu segundo as orientações encontradas nos mandamentos de Moisés sobre o Sábado, as luas novas e as festas fixas, três vezes a cada ano: a festa dos Pães Sem Fermento, a festa das Semanas e a festa dos Cabanas. ^v13
 
-**14** Também, conforme à ordem de Davi seu pai, designou as turmas dos sacerdotes para seus ministérios, como também as dos levitas acerca dos seus cargos, para louvarem e ministrarem diante dos sacerdotes, segundo o que estava ordenado para cada dia, e os porteiros pelas suas turmas a cada porta; porque assim tinha mandado Davi, o homem de Deus. ^v14
+**14** Seguindo os decretos de Davi, seu pai, Salomão designou as divisões dos trabalhos dos sacerdotes, e as posições dos levitas para louvar a Deus e para servir diante dos sacerdotes, de acordo com a programação diária requerida. Ele também designou os porteiros de acordo com suas divisões em cada portão, pois Davi, o homem de Deus, também havia ordenado isso. ^v14
 
-**15** E não se desviaram do mandado do rei aos sacerdotes e levitas, em negócio nenhum, nem acerca dos tesouros. ^v15
+**15** Essas pessoas não se desviaram das ordens do rei aos sacerdotes e levitas, em relação a qualquer coisa, ou concernente aos armazéns. ^v15
 
-**16** Assim se preparou toda a obra de Salomão, desde o dia da fundação da casa do Senhor, até se acabar; e assim se concluiu a casa do Senhor. ^v16
+**16** Todo o trabalho ordenado por Salomão foi realizado, do dia da fundação da casa de Yahweh até a sua conclusão — a casa de Yahweh foi concluída. ^v16
 
-**17** Então foi Salomão a Eziom-Geber, e a Elote, à praia do mar, na terra de Edom. ^v17
+**17** Então, Salomão foi a Eziom-Geber e a Elate, na costa da terra do Edom. ^v17
 
-**18** E enviou-lhe Hirão, por meio de seus servos, navios, e servos práticos do mar, e foram com os servos de Salomão a Ofir, e tomaram de lá quatrocentos e cinqüenta talentos de ouro; e os trouxeram ao rei Salomão. ^v18
+**18** Hirão lhe mandou navios comandados por oficiais que entendiam do mar; eles foram para Ofir, com os servos de Salomão; de lá eles trouxeram quatrocentos e cinquenta talentos de ouro para o rei Salomão. ^v18

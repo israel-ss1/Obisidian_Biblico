@@ -1,31 +1,30 @@
 ---
-Livro: "[[Eclesiastes|Eclesiastes]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Eclesiastes|Eclesiastes]]"
+tags: [biblia]
 ---
 
 # Eclesiastes 6
 
-**1** Há um mal que tenho visto debaixo do sol, e é mui freqüente entre os homens: ^v1
+**1** Há uma maldade que tenho visto debaixo do sol, e isso é difícil para os homens. ^v1
 
-**2** Um homem a quem Deus deu riquezas, bens e honra, e nada lhe falta de tudo quanto a sua alma deseja, e Deus não lhe dá poder para daí comer, antes o estranho lho come; também isto é vaidade e má enfermidade. ^v2
+**2** Deus pode dar bens, riqueza e honra para um homem, de forma que não lhe falte nada que deseje para si; mas, ao mesmo tempo, Deus não lhe dá habilidade para aproveitá-los. Em vez disso, outra pessoa usa suas coisas. Isso é vaidade, uma aflição cruel. ^v2
 
-**3** Se o homem gerar cem filhos, e viver muitos anos, e os dias dos seus anos forem muitos, e se a sua alma não se fartar do bem, e além disso não tiver sepultura, digo que um aborto é melhor do que ele. ^v3
+**3** Se um homem tem cem filhos e vive muitos anos, ainda que seu tempo de vida seja longo, mas, se seu coração não fica satisfeito com as boas coisas, e ele não é sepultado com honra, então digo que um bebê nascido morto está em melhor situação que ele. ^v3
 
-**4** Porquanto debalde veio, e em trevas se vai, e de trevas se cobre o seu nome. ^v4
+**4** Mesmo tal bebê nasceu em vão, e vai embora na escuridão, e seu nome permanece oculto. ^v4
 
-**5** E ainda que nunca viu o sol, nem conheceu nada, mais descanso tem este do que aquele. ^v5
+**5** Apesar de essa criança não ver o sol ou nada conhecer, ela descansa, enquanto aquele homem não. ^v5
 
-**6** E, ainda que vivesse duas vezes mil anos e não gozasse o bem, não vão todos para um mesmo lugar? ^v6
+**6** Mesmo que um homem viva por dois mil anos, mas, se não aprender a desfrutar das coisas boas, ele vai para o mesmo lugar que todo mundo. ^v6
 
-**7** Todo o trabalho do homem é para a sua boca, e contudo nunca se satisfaz o seu apetite. ^v7
+**7** Embora todo o trabalho de um homem seja encher seu estômago, seu apetite ainda não fica satisfeito. ^v7
 
-**8** Porque, que mais tem o sábio do que o tolo? E que mais tem o pobre que sabe andar perante os vivos? ^v8
+**8** De fato, que vantagem tem a pessoa sábia em relação à tola? Que vantagem tem o homem pobre, mesmo que saiba como agir diante de outras pessoas? ^v8
 
-**9** Melhor é a vista dos olhos do que o vaguear da cobiça; também isto é vaidade e aflição de espírito. ^v9
+**9** É melhor ficar satisfeito com o que os olhos podem ver do que desejar o que queira um apetite delirante, o que também é inútil e é como tentar agarrar o vento. ^v9
 
-**10** Seja qualquer o que for, já o seu nome foi nomeado, e sabe-se que é homem, e que não pode contender com o que é mais forte do que ele. ^v10
+**10** O que quer que tenha existido já recebeu o seu nome, e o que a humanidade é já foi conhecido. Assim, tornou-se inútil disputar com Aquele que é o poderoso juiz de tudo. ^v10
 
-**11** Na verdade que há muitas coisas que multiplicam a vaidade; que mais tem o homem de melhor? ^v11
+**11** Quanto mais palavras são faladas, mais a futilidade aumenta; então, qual a vantagem disso para um homem? ^v11
 
-**12** Pois, quem sabe o que é bom nesta vida para o homem, por todos os dias da sua vida de vaidade, os quais gasta como sombra? Quem declarará ao homem o que será depois dele debaixo do sol? ^v12
+**12** Pois quem sabe o que é bom para o homem em sua vida durante seus fúteis e numerosos dias, pelos quais ele passa como uma sombra? Quem pode dizer a um homem o que virá debaixo do sol, depois que ele se for? ^v12

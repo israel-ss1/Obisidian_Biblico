@@ -1,67 +1,66 @@
 ---
-Livro: "[[Juízes|Juízes]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Juízes|Juízes]]"
+tags: [biblia]
 ---
 
 # Juízes 19
 
-**1** Aconteceu também naqueles dias, em que não havia rei em Israel, que houve um homem levita, que, peregrinando aos lados da montanha de Efraim, tomou para si uma concubina, de Belém de Judá. ^v1
+**1** Naqueles dias, quando não havia rei em Israel, havia um homem, um levita, que morava na área mais remota da região montanhosa de Efraim. Ele tomou para si uma mulher, uma concubina, de Belém de Judá. ^v1
 
-**2** Porém a sua concubina adulterou contra ele, e deixando-o, foi para a casa de seu pai, em Belém de Judá, e esteve ali alguns dias, a saber, quatro meses. ^v2
+**2** Mas sua concubina foi infiel a ele. Ela o deixou e voltou para a casa do seu pai, em Belém de Judá. E lá permaneceu por quatro meses. ^v2
 
-**3** E seu marido se levantou, e foi atrás dela, para lhe falar conforme ao seu coração, e para tornar a trazê-la; e o seu moço e um par de jumentos iam com ele; e ela o levou à casa de seu pai, e, vendo-o o pai da moça, alegrou-se ao encontrar-se com ele. ^v3
+**3** Então, seu marido levantou-se e foi atrás dela, a fim de convencê-la a voltar. Seu servo o acompanhou com um par de jumentos. Quando seu marido chegou, ela o trouxe até seu pai, que ficou feliz quando o viu. ^v3
 
-**4** E seu sogro, o pai da moça, o deteve, e ficou com ele três dias; e comeram e beberam, e passaram ali a noite. ^v4
+**4** Seu sogro o convenceu a permanecer ali por três dias. Comeram, beberam e dormiram. ^v4
 
-**5** E sucedeu que ao quarto dia pela manhã, de madrugada, ele levantou-se para partir; então o pai da moça disse a seu genro: Fortalece o teu coração com um bocado de pão, e depois partireis. ^v5
+**5** "No quarto dia, ele se levantou cedo e se preparou para partir, mas o pai da mulher disse: ""Fortalece-te com um pedaço de pão, depois, poderás ir""." ^v5
 
-**6** Assentaram-se, pois, e comeram ambos juntos, e beberam; e disse o pai da moça ao homem: Peço-te que ainda esta noite queiras passá-la aqui, e alegre-se o teu coração. ^v6
+**6** "Então, os dois sentaram-se para comer e beber juntos. O pai da moça disse ao genro: ""Por favor, fica esta noite para te divertires”." ^v6
 
-**7** Porém o homem levantou-se para partir; mas seu sogro o constrangeu a tornar a passar ali a noite. ^v7
+**7** Quando o levita preparou-se para sair, o pai da jovem insistiu que ficasse. Então, ele mudou seu plano e passou a noite ali novamente. ^v7
 
-**8** E, madrugando ao quinto dia pela manhã para partir, disse o pai da moça: Ora, conforta o teu coração. E detiveram-se até já declinar o dia; e ambos juntos comeram. ^v8
+**8** "No quinto dia, ele acordou cedo para sair, mas o pai da moça disse: ""Fortalece-te, e espera até a tarde"". Então, os dois fizeram uma refeição." ^v8
 
-**9** Então o homem levantou-se para partir, ele, e a sua concubina, e o seu moço; e disse-lhe seu sogro, o pai da moça: Eis que já o dia declina e a tarde já vem chegando; peço-te que aqui passes a noite; eis que o dia já vai acabando, passa aqui a noite, e que o teu coração se alegre; e amanhã de madrugada levanta-te a caminhar, e irás para a tua tenda. ^v9
+**9** "Quando o levita, sua concubina e seu servo levantaram-se para partir, o seu sogro, o pai da moça, disse-lhe: ""Olha, agora o dia está avançando para a noite. Por favor, fica outra noite e alegra-te. Poderás levantar-te cedo amanhã e voltar para casa""." ^v9
 
-**10** Porém o homem não quis ali passar a noite, mas levantou-se, e partiu, e chegou até defronte de Jebus (que é Jerusalém), e com ele o par de jumentos albardados, como também a sua concubina. ^v10
+**10** Mas o levita não estava disposto a ficar naquela noite. Ele levantou-se e saiu. Partiu em direção a Jebus (que é Jerusalém). Ele tinha um par de jumentos com selas, e sua concubina estava com ele. ^v10
 
-**11** Estando, pois, já perto de Jebus, e tendo-se já declinado muito o dia, disse o moço a seu senhor: Vamos agora, e retiremo-nos a esta cidade dos jebuseus, e passemos ali a noite. ^v11
+**11** "Quando aproximaram-se de Jebus, já era quase o fim do dia, e o servo disse ao seu mestre: ""Desviemos o nosso percurso para a cidade dos jebuseus, e passemos a noite ali""." ^v11
 
-**12** Porém disse-lhe seu senhor: Não nos retiraremos a nenhuma cidade estranha, que não seja dos filhos de Israel; mas iremos até Gibeá. ^v12
+**12** "Seu mestre lhe disse: ""Não nos desviaremos para nenhuma cidade de estrangeiros que não pertença ao povo de Israel. Iremos até Gibeá""." ^v12
 
-**13** Disse mais a seu moço: Vamos, e cheguemos a um daqueles lugares, e passemos a noite em Gibeá ou em Ramá. ^v13
+**13** "O levita disse ainda ao seu jovem: ""Vamos a um desses outros lugares e passaremos a noite em Gibeá ou Ramá""." ^v13
 
-**14** Passaram, pois, adiante, e caminharam, e o sol se lhes pôs junto a Gibeá, que é cidade de Benjamim. ^v14
+**14** Assim prosseguiram, e o sol se pôs quando se aproximavam de Gibeá, no território de Benjamim. ^v14
 
-**15** E retiraram-se para lá, para passarem a noite em Gibeá; e, entrando ele, assentou-se na praça da cidade, porque não houve quem os recolhesse em casa para ali passarem a noite. ^v15
+**15** Eles se desviaram para lá a fim de passarem a noite em Gibeá. Eles entraram e se sentaram na praça da cidade, pois ninguém os recebeu em sua casa. ^v15
 
-**16** E eis que um velho homem vinha à tarde do seu trabalho do campo; e era este homem da montanha de Efraim, mas peregrinava em Gibeá; eram porém os homens deste lugar filhos de Benjamim. ^v16
+**16** Então, ao anoitecer, um homem idoso estava vindo do seu trabalho. Ele era da região montanhosa de Efraim, mas estava morando por um tempo em Gibeá. Porém, os homens que moravam naquele lugar eram benjamitas. ^v16
 
-**17** Levantando ele, pois, os olhos, viu a este viajante na praça da cidade, e disse o ancião: Para onde vais, e donde vens? ^v17
+**17** "Ele levantou seus olhos e, vendo o viajante na praça da cidade, disse: ""Para onde vais? E de onde vens?""." ^v17
 
-**18** E ele lhe disse: Viajamos de Belém de Judá até aos lados da montanha de Efraim, de onde sou; porquanto fui a Belém de Judá, porém agora vou à casa do Senhor; e ninguém há que me recolha em casa, ^v18
+**18** "O levita respondeu-lhe: ""Estamos viajando de Belém de Judá para a parte mais remota da região montanhosa de Efraim, que é de onde eu sou. Fui a Belém de Judá e estou indo para a casa de Yahweh, mas não há ninguém que me receba em sua casa." ^v18
 
-**19** Todavia temos palha e pasto para os nossos jumentos, e também pão e vinho há para mim, e para a tua serva, e para o moço que vem com os teus servos; de coisa nenhuma há falta. ^v19
+**19** "Temos palha e forragem para os nossos jumentos, e há pão e vinho para mim e para a tua serva que aqui está e para este jovem que acompanha os teus servos. Não nos falta nada""." ^v19
 
-**20** Então disse o ancião: Paz seja contigo; tudo quanto te faltar fique ao meu cargo; tão-somente não passes a noite na praça. ^v20
+**20** "O idoso os cumprimentou, dizendo: ""Que a paz esteja convosco! Cuidarei de todas as vossas necessidades, só não passeis a noite na praça""." ^v20
 
-**21** E levou-o à sua casa, e deu pasto aos jumentos; e, lavando-se os pés, comeram e beberam. ^v21
+**21** Então, o homem trouxe o levita para a sua casa e deu forragem aos seus jumentos. Lavaram seus pés, comeram e beberam. ^v21
 
-**22** Estando eles alegrando o seu coração, eis que os homens daquela cidade (homens que eram filhos de Belial) cercaram a casa, batendo à porta; e falaram ao ancião, senhor da casa, dizendo: Tira para fora o homem que entrou em tua casa, para que o conheçamos. ^v22
+**22** "Enquanto se divertiam, alguns homens da cidade, homens imprestáveis, rodearam a casa, batendo à porta. Falaram ao homem idoso, o senhor da casa: ""Traze para fora o homem que trouxeste para a tua casa, para que tenhamos relações sexuais com ele""." ^v22
 
-**23** E o homem, dono da casa, saiu a eles e disse-lhes: Não, irmãos meus, ora não façais semelhante mal; já que este homem entrou em minha casa, não façais tal loucura. ^v23
+**23** "O homem, o senhor da casa, foi até eles e disse-lhes: ""Não, meus irmãos, por favor, não façais esse mal! Porque este homem é um hóspede na minha casa, não façais essa coisa maldosa!" ^v23
 
-**24** Eis que a minha filha virgem e a concubina dele vo-las tirarei fora; humilhai-as a elas, e fazei delas o que parecer bem aos vossos olhos; porém a este homem não façais essa loucura. ^v24
+**24** "Vede, minha filha virgem e a concubina dele estão aqui. Deixai-me trazê-las para fora agora. Violentai-as, fazei o que quiserdes com elas, mas não façais essa coisa maldosa com este homem!""." ^v24
 
-**25** Porém aqueles homens não o quiseram ouvir; então aquele homem pegou da sua concubina, e lha tirou para fora; e eles a conheceram e abusaram dela toda a noite até pela manhã, e, subindo a alva, a deixaram. ^v25
+**25** Porém, os homens não lhe deram ouvidos. Então, o homem tomou a sua concubina e a trouxe para fora para eles. Eles a tomaram, estupraram-na e abusaram dela durante a noite e, ao amanhecer, a deixaram ir. ^v25
 
-**26** E ao romper da manhã veio a mulher, e caiu à porta da casa daquele homem, onde estava seu senhor, e ficou ali até que se fez claro. ^v26
+**26** Ao amanhecer, a mulher veio e caiu à porta da casa do homem, onde o senhor dela estava, e permaneceu deitada ali até o dia clarear. ^v26
 
-**27** E, levantando-se seu senhor pela manhã, e abrindo as portas da casa, e saindo a seguir o seu caminho, eis que a mulher, sua concubina, jazia à porta da casa, com as mãos sobre o limiar. ^v27
+**27** Seu senhor levantou-se pela manhã, abriu as portas da casa e saiu para seguir a viagem. Ele viu a sua concubina deitada ali no chão com as suas mãos na soleira da porta. ^v27
 
-**28** E ele lhe disse: Levanta-te, e vamo-nos, porém ela não respondeu; então, levantando-se o homem a pôs sobre o jumento, e foi para o seu lugar. ^v28
+**28** "O levita disse a ela: ""Levanta-te. Vamos"", mas não houve resposta. Ele a colocou sobre o jumento, e o homem partiu para casa." ^v28
 
-**29** Chegando, pois, à sua casa, tomou um cutelo, e pegou na sua concubina, e a despedaçou com os seus ossos em doze partes; e enviou-as por todos os termos de Israel. ^v29
+**29** Quando o levita chegou à sua casa, pegou uma faca, tomou a sua concubina e a cortou, membro por membro, em doze pedaços, e enviou os pedaços por todo o Israel. ^v29
 
-**30** E sucedeu que cada um que via aquilo dizia: Nunca tal se fez, nem se viu desde o dia em que os filhos de Israel subiram da terra do Egito, até ao dia de hoje; ponderai isto, considerai, e falai. ^v30
+**30** "Todos os que viram disseram: ""Nunca se fez ou se viu tal coisa em todo o Israel, desde o dia em que o povo de Israel subiu da terra do Egito até hoje. Pensai nisto! Dai-nos conselho! Contai-nos o que se deve fazer!""." ^v30

@@ -1,33 +1,32 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Isaías|Isaías]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Isaías|Isaías]]"
+tags: [biblia]
 ---
 
 # Isaías 55
 
-**1** Ó VÓS, todos os que tendes sede, vinde às águas, e os que não tendes dinheiro, vinde, comprai, e comei; sim, vinde, comprai, sem dinheiro e sem preço, vinho e leite. ^v1
+**1** """Vinde, todos vós que estais com sede, vinde às águas! E vós que não tendes dinheiro, vinde, comprai e comei; sim, vinde e comprai vinho e leite, sem dinheiro e sem custo." ^v1
 
-**2** Por que gastais o dinheiro naquilo que não é pão? E o produto do vosso trabalho naquilo que não pode satisfazer? Ouvi-me atentamente, e comei o que é bom, e a vossa alma se deleite com a gordura. ^v2
+**2** Por que gastais dinheiro com aquilo que não é pão e trabalhais por aquilo que não satisfaz? Ouvi-Me, atentamente, comei o que é bom, desfrutai da fartura. ^v2
 
-**3** Inclinai os vossos ouvidos, e vinde a mim; ouvi, e a vossa alma viverá; porque convosco farei uma aliança perpétua, dando-vos as firmes beneficências de Davi. ^v3
+**3** Inclinai vossos ouvidos e vinde a Mim! Ouvi, para que possais viver! Eu farei uma aliança eterna convosco: Minha fidelidade prometida a Davi. ^v3
 
-**4** Eis que eu o dei por testemunha aos povos, como líder e governador dos povos. ^v4
+**4** Vede, Eu o pus como uma testemunha às nações, como um líder e comandante para os povos. ^v4
 
-**5** Eis que chamarás a uma nação que não conheces, e uma nação que nunca te conheceu correrá para ti, por amor do Senhor teu Deus, e do Santo de Israel; porque ele te glorificou. ^v5
+**5** "Vede, chamareis uma nação que não conheceis; e uma nação que não vos conhecia correrá para vós, por causa de Yahweh, vosso Deus, O Santo de Israel, que vos glorificou""." ^v5
 
-**6** Buscai ao Senhor enquanto se pode achar, invocai-o enquanto está perto. ^v6
+**6** Buscai a Yahweh enquanto Ele pode ser encontrado; invocai-O enquanto Ele está perto. ^v6
 
-**7** Deixe o ímpio o seu caminho, e o homem maligno os seus pensamentos, e se converta ao Senhor, que se compadecerá dele; torne para o nosso Deus, porque grandioso é em perdoar. ^v7
+**7** Que o ímpio deixe seu caminho e o homem mau, os seus pensamentos. Que ele se volte para Yahweh, que Se compadecerá dele; o nosso Deus é Quem o perdoará abundantemente. ^v7
 
-**8** Porque os meus pensamentos não são os vossos pensamentos, nem os vossos caminhos os meus caminhos, diz o Senhor. ^v8
+**8** """Pois os Meus pensamentos não são os vossos pensamentos, nem os vossos caminhos, Meus caminhos"" — diz Yahweh." ^v8
 
-**9** Porque assim como os céus são mais altos do que a terra, assim são os meus caminhos mais altos do que os vossos caminhos, e os meus pensamentos mais altos do que os vossos pensamentos. ^v9
+**9** """Porque, assim como os céus são mais altos que a terra, os Meus caminhos são mais altos que os vossos caminhos e os Meus pensamentos são mais altos que os vossos pensamentos." ^v9
 
-**10** Porque, assim como desce a chuva e a neve dos céus, e para lá não tornam, mas regam a terra, e a fazem produzir, e brotar, e dar semente ao semeador, e pão ao que come, ^v10
+**10** Assim como a chuva e a neve caem do céu e não retornam para lá sem que reguem a terra, fazendo-a germinar e dar semente ao semeador e pão ao que come, ^v10
 
-**11** Assim será a minha palavra, que sair da minha boca; ela não voltará para mim vazia, antes fará o que me apraz, e prosperará naquilo para que a enviei. ^v11
+**11** assim também será a palavra que sair da Minha boca: não voltará a Mim sem efeito, mas cumprirá aquilo que desejo e terá êxito no propósito para o qual Eu a enviei. ^v11
 
-**12** Porque com alegria saireis, e em paz sereis guiados; os montes e os outeiros romperão em cântico diante de vós, e todas as árvores do campo baterão palmas. ^v12
+**12** Saireis com alegria e sereis conduzidos pacificamente; montanhas e vales romperão em cânticos diante de vós e todas as árvores dos campos baterão palmas. ^v12
 
-**13** Em lugar do espinheiro crescerá a faia, e em lugar da sarça crescerá a murta; o que será para o Senhor por nome, e por sinal eterno, que nunca se apagará. ^v13
+**13** "No lugar dos espinheiros, crescerão pastagens e, no lugar da urtiga, a murta crescerá; e serão, pelo nome de Yahweh, um sinal eterno que jamais será cortado""." ^v13

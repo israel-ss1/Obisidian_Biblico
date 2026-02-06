@@ -1,51 +1,50 @@
 ---
-Livro: "[[Provérbios|Provérbios]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Provérbios|Provérbios]]"
+tags: [biblia]
 ---
 
 # Provérbios 2
 
-**1** Filho meu, se aceitares as minhas palavras, e esconderes contigo os meus mandamentos, ^v1
+**1** Filho meu, se tu receberes minhas palavras e entesourares meus mandamentos contigo, ^v1
 
-**2** Para fazeres o teu ouvido atento à sabedoria; e inclinares o teu coração ao entendimento; ^v2
+**2** conserva teus ouvidos atentos à sabedoria e inclina teu coração ao entendimento. ^v2
 
-**3** Se clamares por conhecimento, e por inteligência alçares a tua voz, ^v3
+**3** Se clamares por entendimento e elevares tua voz por isso, ^v3
 
-**4** Se como a prata a buscares e como a tesouros escondidos a procurares, ^v4
+**4** se buscares isso como quem busca prata e, procurares entendimento como quem procura tesouros escondidos, ^v4
 
-**5** Então entenderás o temor do Senhor, e acharás o conhecimento de Deus. ^v5
+**5** então, tu entenderás o temor de Yahweh e encontrarás o conhecimento de Deus. ^v5
 
-**6** Porque o Senhor dá a sabedoria; da sua boca é que vem o conhecimento e o entendimento. ^v6
+**6** Pois Yahweh dá sabedoria; de Sua boca, vêm conhecimento e entendimento. ^v6
 
-**7** Ele reserva a verdadeira sabedoria para os retos. Escudo é para os que caminham na sinceridade, ^v7
+**7** Ele reserva a verdadeira sabedoria para aqueles que Lhe agradam; Ele é um escudo para os que andam em integridade. ^v7
 
-**8** Para que guardem as veredas do juízo. Ele preservará o caminho dos seus santos. ^v8
+**8** Ele guarda as veredas da justiça e preservará o caminho dos que são fiéis a Ele. ^v8
 
-**9** Então entenderás a justiça, o juízo, a eqüidade e todas as boas veredas. ^v9
+**9** Então, tu entenderás a retidão, a justiça, a equidade e todo bom caminho. ^v9
 
-**10** Pois quando a sabedoria entrar no teu coração, e o conhecimento for agradável à tua alma, ^v10
+**10** Pois a sabedoria entrará no teu coração, e o conhecimento será agradável à tua alma. ^v10
 
-**11** O bom siso te guardará e a inteligência te conservará; ^v11
+**11** O discernimento te vigiará, o entendimento te guardará. ^v11
 
-**12** Para te afastar do mau caminho, e do homem que fala coisas perversas; ^v12
+**12** Eles te resgatarão do caminho do mal, daqueles que falam coisas perversas, ^v12
 
-**13** Dos que deixam as veredas da retidão, para andarem pelos caminhos escusos; ^v13
+**13** daqueles que abandonam os caminhos justos e andam nos caminhos da escuridão. ^v13
 
-**14** Que se alegram de fazer mal, e folgam com as perversidades dos maus, ^v14
+**14** Esses se alegram em fazer o mal e deleitam-se nas perversidades da maldade. ^v14
 
-**15** Cujas veredas são tortuosas e que se desviam nos seus caminhos; ^v15
+**15** Eles seguem caminhos tortuosos e, usando o engano, escondem seus percursos. ^v15
 
-**16** Para te afastar da mulher estranha, sim da estranha que lisonjeia com suas palavras; ^v16
+**16** A sabedoria e a discrição te salvarão da mulher adúltera, da mulher imoral e de suas palavras sedutoras. ^v16
 
-**17** Que deixa o guia da sua mocidade e se esquece da aliança do seu Deus; ^v17
+**17** Ela abandona o companheiro de sua mocidade e se esquece da aliança de seu Deus. ^v17
 
-**18** Porque a sua casa se inclina para a morte, e as suas veredas para os mortos. ^v18
+**18** Pois a sua casa se inclina para a morte e as suas trilhas, para a sepultura. ^v18
 
-**19** Todos os que se dirigem a ela não voltarão e não atinarão com as veredas da vida. ^v19
+**19** Todos os que se dirigirem a ela não retornarão, nem encontrarão os caminhos da vida. ^v19
 
-**20** Para andares pelos caminhos dos bons, e te conservares nas veredas dos justos. ^v20
+**20** Porém, tu andarás no caminho dos bons e seguirás as veredas dos justos. ^v20
 
-**21** Porque os retos habitarão a terra, e os íntegros permanecerão nela. ^v21
+**21** Pois os que agem corretamente habitarão na terra e os íntegros nela permanecerão. ^v21
 
-**22** Mas os ímpios serão arrancados da terra, e os aleivosos serão dela exterminados. ^v22
+**22** Mas os perversos serão eliminados da terra, e dela os infiéis serão arrancados. ^v22

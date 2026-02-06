@@ -1,51 +1,50 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Isaías|Isaías]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Isaías|Isaías]]"
+tags: [biblia]
 ---
 
 # Isaías 13
 
-**1** Peso de babilônia, que viu Isaías, filho de Amós. ^v1
+**1** Uma advertência para a Babilônia, que Isaías, filho de Amoz, recebeu. ^v1
 
-**2** Alçai uma bandeira sobre o monte elevado, levantai a voz para eles; acenai-lhes com a mão, para que entrem pelas portas dos nobres. ^v2
+**2** Levantai uma bandeira em sinal na montanha árida; clamai, em voz alta, para eles; acenai com as mãos para que entrem nas portas dos nobres. ^v2
 
-**3** Eu dei ordens aos meus santificados; sim, já chamei os meus poderosos para executarem a minha ira, os que exultam com a minha majestade. ^v3
+**3** Eu dei ordens aos Meus consagrados, sim, Eu chamei Meus poderosos homens para executar a Minha ira, os que se alegram em Me exaltar. ^v3
 
-**4** Já se ouve a gritaria da multidão sobre os montes, como a de muito povo; o som do rebuliço de reinos e de nações congregados. O Senhor dos Exércitos passa em revista o exército de guerra. ^v4
+**4** Ouve-se o barulho da multidão nas montanhas, como de muitas pessoas; o som de um tumulto dos reinos, como muitas nações reunidas! Yahweh dos Exércitos está convocando as tropas para a batalha. ^v4
 
-**5** Já vem de uma terra remota, desde a extremidade do céu, o Senhor, e os instrumentos da sua indignação, para destruir toda aquela terra. ^v5
+**5** Eles vêm de um país distante, de além da extremidade do horizonte. Yahweh está com as armas de Sua indignação para destruir toda a terra. ^v5
 
-**6** Clamai, pois, o dia do Senhor está perto; vem do Todo-Poderoso como assolação. ^v6
+**6** Uivai, pois o dia de Yahweh está próximo; do Todo-Poderoso, virá a destruição. ^v6
 
-**7** Portanto, todas as mãos se debilitarão, e o coração de todos os homens se desanimará. ^v7
+**7** Portanto, todas as mãos ficarão frouxas e todo coração se derreterá. ^v7
 
-**8** E assombrar-se-ão, e apoderar-se-ão deles dores e ais, e se angustiarão, como a mulher com dores de parto; cada um se espantará do seu próximo; os seus rostos serão rostos flamejantes. ^v8
+**8** Ficarão assombrados; dores e aflições os tomarão, como as dores de uma mulher no parto. Olharão atônitos uns para os outros e os seus rostos estarão ardentes como fogo. ^v8
 
-**9** Eis que vem o dia do Senhor, horrendo, com furor e ira ardente, para pôr a terra em assolação, e dela destruir os pecadores. ^v9
+**9** O dia de Yahweh vem com furor cruel, transbordando de ira ardente, para pôr a terra em assolação e para destruir os pecadores que nela estão. ^v9
 
-**10** Porque as estrelas dos céus e as suas constelações não darão a sua luz; o sol se escurecerá ao nascer, e a lua não resplandecerá com a sua luz. ^v10
+**10** As estrelas do céu e suas constelações não darão sua luz. O sol será escurecido desde a aurora, e a lua não resplandecerá. ^v10
 
-**11** E visitarei sobre o mundo a maldade, e sobre os ímpios a sua iniqüidade; e farei cessar a arrogância dos atrevidos, e abaterei a soberba dos tiranos. ^v11
+**11** Eu castigarei o mundo por sua maldade e os corruptos por sua iniquidade. Colocarei fim à arrogância dos orgulhosos e abaterei a arrogância dos perversos. ^v11
 
-**12** Farei que o homem seja mais precioso do que o ouro puro, e mais raro do que o ouro fino de Ofir. ^v12
+**12** Farei os homens serem mais escassos que ouro puro, e a humanidade mais difícil de achar que o ouro fino de Ofir. ^v12
 
-**13** Por isso farei estremecer os céus; e a terra se moverá do seu lugar, por causa do furor do Senhor dos Exércitos, e por causa do dia da sua ardente ira. ^v13
+**13** Portanto, farei os céus tremerem, e a terra será sacudida do seu lugar, pelo furor de Yahweh dos Exércitos, no dia da fúria de Sua ira. ^v13
 
-**14** E cada um será como a corça que foge, e como a ovelha que ninguém recolhe; cada um voltará para o seu povo, e cada um fugirá para a sua terra. ^v14
+**14** Como uma corça perseguida ou como uma ovelha sem pastor, assim todo homem voltará em direção ao seu próprio povo e fugirá para a sua terra. ^v14
 
-**15** Todo o que for achado será transpassado; e todo o que se unir a ele cairá à espada. ^v15
+**15** Todo aquele que for achado será morto, e todo aquele que for capturado morrerá pela espada. ^v15
 
-**16** E suas crianças serão despedaçadas perante os seus olhos; as suas casas serão saqueadas, e as suas mulheres violadas. ^v16
+**16** Suas crianças serão despedaçadas diante de seus olhos; suas casas serão saqueadas e suas esposas, violentadas. ^v16
 
-**17** Eis que eu despertarei contra eles os medos, que não farão caso da prata, nem tampouco desejarão ouro. ^v17
+**17** Eis que estou prestes a incitar os guerreiros da Média para atacá-los, os quais não terão interesse na prata nem se deleitarão com ouro. ^v17
 
-**18** E os seus arcos despedaçarão os jovens, e não se compadecerão do fruto do ventre; os seus olhos não pouparão aos filhos. ^v18
+**18** Seus arcos despedaçarão os jovens. Não terão pena dos bebês e não pouparão as crianças. ^v18
 
-**19** E babilônia, o ornamento dos reinos, a glória e a soberba dos caldeus, será como Sodoma e Gomorra, quando Deus as transtornou. ^v19
+**19** Então, a Babilônia, a mais admirada dos reinos, o esplendor do orgulho dos caldeus, será devastada por Deus, como Sodoma e Gomorra. ^v19
 
-**20** Nunca mais será habitada, nem nela morará alguém de geração em geração; nem o árabe armará ali a sua tenda, nem tampouco os pastores ali farão deitar os seus rebanhos. ^v20
+**20** Não será povoada nem habitada, geração após geração. O árabe não armará ali a sua tenda, nem os pastores farão descansar os seus rebanhos nela. ^v20
 
-**21** Mas as feras do deserto repousarão ali, e as suas casas se encherão de horríveis animais; e ali habitarão os avestruzes, e os sátiros pularão ali. ^v21
+**21** Mas os animais selvagens do deserto repousarão ali. Suas casas se encherão de corujas; avestruzes e cabras selvagens pularão ali. ^v21
 
-**22** E os animais selvagens das ilhas uivarão em suas casas vazias, como também os chacais nos seus palácios de prazer; pois bem perto já vem chegando o seu tempo, e os seus dias não se prolongarão. ^v22
+**22** As hienas uivarão nos seus castelos, e os chacais, nos seus lindos palácios. Bem perto está o tempo dela; os seus dias não tardarão. ^v22

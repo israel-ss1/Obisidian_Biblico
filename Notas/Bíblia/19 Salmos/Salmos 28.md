@@ -1,25 +1,22 @@
 ---
-Livro: "[[Salmos|Salmos]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Salmos|Salmos]]"
+tags: [biblia]
 ---
 
 # Salmos 28
 
-**1** A ti clamarei, ó Senhor, Rocha minha; não emudeças para comigo; não aconteça, cal ando-te tu para comigo, que eu fique semelhante aos que descem ao abismo. ^v1
+**2** Ouve a voz da minha súplica quando eu clamo a Ti por socorro, quando eu levanto as minhas mãos em direção ao Teu santuário! ^v2
 
-**2** Ouve a voz das minhas súplicas, quando a ti clamar, quando levantar as minhas mãos para o teu santo oráculo. ^v2
+**3** Não me arrastes com os ímpios, aqueles que praticam a iniquidade, que falam de paz com o seu próximo, mas têm ódio no coração. ^v3
 
-**3** Não me arrastes com os ímpios e com os que praticam a iniqüidade; que falam de paz ao seu próximo, mas têm mal nos seus corações. ^v3
+**4** Dá-lhes o que, por suas obras, merecem, e retribui-lhes pelos seus atos de maldade; retribui-lhes, dando a eles o que lhes é devido. ^v4
 
-**4** Dá-lhes segundo as suas obras e segundo a malícia dos seus esforços; dá-lhes conforme a obra das suas mãos; torna-lhes a sua recompensa. ^v4
+**5** Porque eles não entendem os feitos de Yahweh, nem as obras de Suas mãos, Ele os derrubará e nunca mais os reerguerá. ^v5
 
-**5** Porquanto não atentam às obras do Senhor, nem à obra das suas mãos; pois que ele os derrubará e não os reedificará. ^v5
+**6** Bendito seja Yahweh porque ouviu a voz da minha súplica! ^v6
 
-**6** Bendito seja o Senhor, porque ouviu a voz das minhas súplicas. ^v6
+**7** Yahweh é a minha força e o meu escudo. Nele confia o meu coração e sou socorrido. Por isso, meu coração se regozija grandemente, e eu O louvarei com cânticos. ^v7
 
-**7** O Senhor é a minha força e o meu escudo; nele confiou o meu coração, e fui socorrido; assim o meu coração salta de prazer, e com o meu canto o louvarei. ^v7
+**8** Yahweh é a força do Seu povo; Ele é o refúgio de salvação do Seu ungido. ^v8
 
-**8** O Senhor é a força do seu povo; também é a força salvadora do seu ungido. ^v8
-
-**9** Salva o teu povo, e abençoa a tua herança; e apascenta-os e exalta-os para sempre. ^v9
+**9** Salva o Teu povo e abençoa a Tua herança; sê Tu o pastor deles e conduze-os para sempre. ^v9

@@ -1,57 +1,56 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Isaías|Isaías]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Isaías|Isaías]]"
+tags: [biblia]
 ---
 
 # Isaías 65
 
-**1** Fui buscado dos que não perguntavam por mim, fui achado daqueles que não me buscavam; a uma nação que não se chamava do meu nome eu disse: Eis-me aqui. Eis-me aqui. ^v1
+**1** """Eu estava pronto a ser procurado por aqueles que não perguntavam por Mim, a ser achado por aqueles que não Me procuravam. Eu disse: 'Eu estou aqui! Eu estou aqui!' para uma nação que não chamava pelo Meu nome." ^v1
 
-**2** Estendi as minhas mãos o dia todo a um povo rebelde, que anda por caminho, que não é bom, após os seus pensamentos; ^v2
+**2** Estendi as Minhas mãos o dia todo a um povo teimoso, que anda em um caminho que não é bom, que tem andado segundo os seus próprios pensamentos e planos! ^v2
 
-**3** Povo que de contínuo me irrita diante da minha face, sacrificando em jardins e queimando incenso sobre altares de tijolos; ^v3
+**3** Eles são um povo que Me ofende continuamente, oferecendo sacrifícios em jardins e queimando incenso sobre tijolos. ^v3
 
-**4** Que habita entre as sepulturas, e passa as noites junto aos lugares secretos; come carne de porco e tem caldo de coisas abomináveis nos seus vasos; ^v4
+**4** Eles se sentam entre as sepulturas e passam a noite toda comendo carne de porco com o caldo de carne impura em seus pratos. ^v4
 
-**5** Que dizem: Fica onde estás, e não te chegues a mim, porque sou mais santo do que tu. Estes são fumaça no meu nariz, um fogo que arde todo o dia. ^v5
+**5** Eles dizem: 'Afasta-Te, não chega perto de mim, porque sou mais santo do que Tu'. Essas coisas são como fumaça no Meu nariz, um fogo que arde durante todo o dia. ^v5
 
-**6** Eis que está escrito diante de mim: não me calarei; mas eu pagarei, sim, pagarei no seu seio, ^v6
+**6** Eis que está escrito diante de Mim: Eu não me calarei, vou pagar-lhes de volta; Eu lhes darei a recompensa ^v6
 
-**7** As vossas iniqüidades, e juntamente as iniqüidades de vossos pais, diz o Senhor, que queimaram incenso nos montes, e me afrontaram nos outeiros; assim lhes tornarei a medir as suas obras antigas no seu seio. ^v7
+**7** "por seus pecados e pelos pecados de seus pais"", diz Yahweh. ""Eu vou pagar-lhes por queimarem incenso nos montes e zombarem de Mim nas colinas. Portanto, retribuirei completamente as suas obras passadas""." ^v7
 
-**8** Assim diz o Senhor: Como quando se acha mosto num cacho de uvas, dizem: Não o desperdices, pois há bênção nele, assim farei por amor de meus servos, que não os destrua a todos, ^v8
+**8** "Assim diz Yahweh: ""Como quando o suco é encontrado em um cacho de uvas e se diz: 'Não o danifiques, pois há algo bom nele', isto é o que Eu farei por amor de Meus servos: não destruirei todos eles." ^v8
 
-**9** E produzirei descendência a Jacó, e a Judá um herdeiro que possua os meus montes; e os meus eleitos herdarão a terra e os meus servos habitarão ali. ^v9
+**9** Trarei descendentes de Jacó e de Judá, que possuirão as Minhas montanhas. Meus escolhidos herdarão a terra e os Meus servos viverão lá. ^v9
 
-**10** E Sarom servirá de curral de rebanhos, e o vale de Acor lugar de repouso de gados, para o meu povo, que me buscou. ^v10
+**10** Sarom se tornará um pasto para as ovelhas e o vale de Acor, um lugar de descanso para os rebanhos, para o Meu povo que Me procura. ^v10
 
-**11** Mas a vós, os que vos apartais do Senhor, os que vos esqueceis do meu santo monte, os que preparais uma mesa para a Fortuna, e que misturais a bebida para o Destino. ^v11
+**11** Mas vós que abandonais Yahweh, que vos esqueceis do Meu santo monte, que preparais uma mesa para a deusa Sorte e encheis copos de vinho misturado para o deus chamado Destino, ^v11
 
-**12** Também vos destinareis à espada, e todos vos encurvareis à matança; porquanto chamei, e não respondestes; falei, e não ouvistes; mas fizestes o que era mau aos meus olhos, e escolhestes aquilo em que não tinha prazer. ^v12
+**12** "vou destinar-vos para a espada. E todos vós se curvarão ao matadouro porque, quando chamei, vós não respondestes; quando falei, não Me ouvistes; em vez disso, fizestes o que era mau perante Mim e escolhestes fazer aquilo em que Eu não tenho prazer""." ^v12
 
-**13** Portanto assim diz o Senhor DEUS: Eis que os meus servos comerão, mas vós padecereis fome; eis que os meus servos beberão, porém vós tereis sede; eis que os meus servos se alegrarão, mas vós vos envergonhareis; ^v13
+**13** "Assim diz o Senhor Yahweh: ""Eis que os Meus servos comerão, mas vós passareis fome; os Meus servos beberão, mas vós ficareis sedentos; Meus servos se alegrarão, mas vós sereis envergonhados." ^v13
 
-**14** Eis que os meus servos exultarão pela alegria de coração, mas vós gritareis pela tristeza de coração; e uivareis pelo quebrantamento de espírito. ^v14
+**14** Os Meus servos gritarão felizes por terem um coração alegre, mas vós chorareis pela dor do vosso coração e vos lamentareis por terem um espírito angustiado. ^v14
 
-**15** E deixareis o vosso nome aos meus eleitos por maldição; e o Senhor DEUS vos matará; e a seus servos chamará por outro nome. ^v15
+**15** Vós deixareis para trás o vosso nome como uma maldição para Meus escolhidos falarem; Eu, o Senhor Yahweh, vos matarei; Eu chamarei Meus servos por outro nome. ^v15
 
-**16** Assim que aquele que se bendisser na terra, se bendirá no Deus da verdade; e aquele que jurar na terra, jurará pelo Deus da verdade; porque já estão esquecidas as angústias passadas, e estão escondidas dos meus olhos. ^v16
+**16** Aquele que pronunciar uma bênção sobre a terra será abençoado por Mim, o Deus da verdade. Aquele que fizer um juramento sobre a terra jurará por Mim, o Deus da verdade, porque os problemas passados serão esquecidos, pois estarão escondidos de Meus olhos. ^v16
 
-**17** Porque, eis que eu crio novos céus e nova terra; e não haverá mais lembrança das coisas passadas, nem mais se recordarão. ^v17
+**17** Eis que Eu estou prestes a criar novos céus e uma nova terra; e as primeiras coisas não serão lembradas nem trazidas à memória. ^v17
 
-**18** Mas vós folgareis e exultareis perpetuamente no que eu crio; porque eis que crio para Jerusalém uma alegria, e para o seu povo gozo. ^v18
+**18** Mas vós sereis felizes e vos regozijareis sempre no que Eu estou prestes a criar. Eis que Eu estou prestes a criar alegria para Jerusalém e, para o seu povo, contentamento. ^v18
 
-**19** E exultarei em Jerusalém, e me alegrarei no meu povo; e nunca mais se ouvirá nela voz de choro nem voz de clamor. ^v19
+**19** Eu Me regozijarei em Jerusalém e serei feliz com o Meu povo; choro e gritos de desespero não mais serão ouvidos nela. ^v19
 
-**20** Não haverá mais nela criança de poucos dias, nem velho que não cumpra os seus dias; porque o menino morrerá de cem anos; porém o pecador de cem anos será amaldiçoado. ^v20
+**20** Nunca mais uma criança viverá lá apenas por alguns dias; nem um idoso morrerá antes de seu tempo. Aquele que morrer aos cem anos de idade será considerado ainda jovem. Quem não atingir a idade de cem anos será considerado amaldiçoado. ^v20
 
-**21** E edificarão casas, e as habitarão; e plantarão vinhas, e comerão o seu fruto. ^v21
+**21** Eles construirão casas e nelas habitarão; plantarão vinhas e comerão dos seus frutos. ^v21
 
-**22** Não edificarão para que outros habitem; não plantarão para que outros comam; porque os dias do meu povo serão como os dias da árvore, e os meus eleitos gozarão das obras das suas mãos. ^v22
+**22** Eles não mais construirão uma casa e outra pessoa viverá nela; não plantarão e outros comerão. Como o tempo de vida das árvores, serão os dias do Meu povo. Os Meus escolhidos desfrutarão plenamente do trabalho de suas mãos. ^v22
 
-**23** Não trabalharão debalde, nem terão filhos para a perturbação; porque são a posteridade bendita do Senhor, e os seus descendentes estarão com eles. ^v23
+**23** Eles não trabalharão em vão, nem darão à luz filhos para a ruína. Pois eles são os filhos dos abençoados por Yahweh, e os seus descendentes estarão com eles. ^v23
 
-**24** E será que antes que clamem eu responderei; estando eles ainda falando, eu os ouvirei. ^v24
+**24** Antes de eles clamarem, Eu responderei; e enquanto eles estiverem ainda falando, Eu os ouvirei. ^v24
 
-**25** O lobo e o cordeiro se apascentarão juntos, e o leão comerá palha como o boi; e pó será a comida da serpente. Não farão mal nem dano algum em todo o meu santo monte, diz o Senhor. ^v25
+**25** "O lobo e o cordeiro pastarão juntos e o leão comerá palha como o boi, mas o pó será a comida da serpente. Não mais farão o mal, nem dano algum, em todo o Meu santo monte"", diz Yahweh." ^v25

@@ -1,61 +1,60 @@
 ---
-Livro: "[[2 Samuel|2 Samuel]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/2 Samuel|2 Samuel]]"
+tags: [biblia]
 ---
 
 # 2 Samuel 1
 
-**1** E sucedeu que, depois da morte de Saul, voltando Davi da derrota dos amalequitas, ficou dois dias em Ziclague; ^v1
+**1** Depois da morte de Saul, Davi retornou do ataque aos amalequitas e permaneceu em Ziclague por dois dias. ^v1
 
-**2** Ao terceiro dia um homem veio do arraial de Saul, com as vestes rotas e com terra sobre a cabeça; e, chegando ele a Davi, se lançou no chão, e se inclinou. ^v2
+**2** No terceiro dia, um homem veio do acampamento de Saul com suas roupas rasgadas e com pó sobre sua cabeça. Quando ele chegou até Davi, prostou-se com o rosto no chão. ^v2
 
-**3** E Davi lhe disse: Donde vens? E ele lhe disse: Escapei do arraial de Israel. ^v3
+**3** "Davi disse-lhe: ""De onde vens?"". Ele respondeu: ""Eu escapei do acampamento de Israel""." ^v3
 
-**4** E disse-lhe Davi: Como foi lá isso? peço-te, dize-mo. E ele lhe respondeu: O povo fugiu da batalha, e muitos do povo caíram, e morreram; assim como também Saul e Jônatas, seu filho, foram mortos. ^v4
+**4** "Disse-lhe Davi: ""Por favor, dize-me o que ocorreu"". Ele respondeu: ""O povo fugiu da batalha. Muitos caíram e muitos estão mortos. Saul e Jônatas, seu filho, também estão mortos""." ^v4
 
-**5** E disse Davi ao moço que lhe trazia as novas: Como sabes tu que Saul e Jônatas, seu filho, foram mortos? ^v5
+**5** "Davi disse ao jovem: ""Como sabes que Saul e Jônatas, seu filho, estão mortos?""." ^v5
 
-**6** Então disse o moço que lhe dava a notícia: Cheguei por acaso à montanha de Gilboa, e eis que Saul estava encostado sobre a sua lança, e eis que os carros e a cavalaria apertavam-no. ^v6
+**6** "O jovem respondeu: ""Por coincidência, eu estava no Monte Gilboa, e lá Saul estava se apoiando sobre sua lança; carruagens e cavaleiros estavam quase o alcançando." ^v6
 
-**7** E, olhando ele para trás de si, viu-me, e chamou-me; e eu disse: Eis-me aqui. ^v7
+**7** Saul virou-se, viu-me e chamou-me. Eu respondi: 'Eis me aqui'. ^v7
 
-**8** E ele me disse: Quem és tu? E eu lhe disse: Sou amalequita. ^v8
+**8** Ele me disse: 'Quem és tu?'. Eu lhe respondi: 'Sou um amalequita'. ^v8
 
-**9** Então ele me disse: Peço-te, arremessa-te sobre mim, e mata-me, porque angústias me têm cercado, pois toda a minha vida está ainda em mim. ^v9
+**9** Ele me disse: 'Por favor, aproxima-te e mata-me, pois estou em grande sofrimento, porém continuo vivo'. ^v9
 
-**10** Arremessei-me, pois, sobre ele, e o matei, porque bem sabia eu que não viveria depois da sua queda, e tomei a coroa que tinha na cabeça, e o bracelete que trazia no braço, e os trouxe aqui a meu senhor. ^v10
+**10** "Então, aproximei-me dele e o matei, pois eu sabia que ele não viveria depois de ter caído. Então, eu peguei a coroa que estava em sua cabeça e a faixa que estava em seu braço e as trouxe aqui para ti, meu mestre""." ^v10
 
-**11** Então apanhou Davi as suas vestes, e as rasgou; assim fizeram todos os homens que estavam com ele. ^v11
+**11** Então, Davi rasgou suas roupas, e todos os homens que estavam com ele fizeram o mesmo. ^v11
 
-**12** E prantearam, e choraram, e jejuaram até à tarde por Saul, e por Jônatas, seu filho, e pelo povo do Senhor, e pela casa de Israel, porque tinham caído à espada. ^v12
+**12** Eles prantearam, choraram e jejuaram até o entardecer por Saul, por Jônatas filho de Saul, pelo povo de Yahweh e pela casa de Israel, por terem caído pela espada. ^v12
 
-**13** Disse então Davi ao moço que lhe trouxera a nova: Donde és tu? E disse ele: Sou filho de um estrangeiro, amalequita. ^v13
+**13** "Davi disse ao jovem: ""De onde és?"". Ele respondeu: ""Sou filho de um estrangeiro amalequita""." ^v13
 
-**14** E Davi lhe disse: Como não temeste tu estender a mão para matares ao ungido do Senhor? ^v14
+**14** "Davi lhe disse: ""Por que não temeste matar o rei ungido de Yahweh com sua própria mão?""." ^v14
 
-**15** Então chamou Davi a um dos moços, e disse: Chega, e lança-te sobre ele. E ele o feriu, e morreu. ^v15
+**15** "Davi chamou um dos jovens e disse: ""Vai e mata-o"". Então, aquele homem foi e o atingiu, e o amalequita morreu." ^v15
 
-**16** Pois Davi lhe dissera: O teu sangue seja sobre a tua cabeça, porque a tua própria boca testificou contra ti, dizendo: Eu matei o ungido do Senhor. ^v16
+**16** "Davi disse ao amalequita morto: ""Teu sangue está sobre tua cabeça, pois tua própria boca testificou contra ti e disse: 'Eu matei o rei ungido de Yahweh'""." ^v16
 
-**17** E lamentou Davi a Saul e a Jônatas, seu filho, com esta lamentação ^v17
+**17** Então, Davi cantou esta música fúnebre a respeito de Saul e Jônatas, filho de Saul. ^v17
 
-**18** (Dizendo ele que ensinassem aos filhos de Judá o uso do arco. Eis que está escrito no livro de Jasher): ^v18
+**18** Ele ordenou que o povo ensinasse esta Canção do Arco aos filhos de Judá, a qual foi escrita no Livro de Jasar. ^v18
 
-**19** Ah, ornamento de Israel! Nos teus altos foi ferido, como caíram os poderosos! ^v19
+**19** """Tua glória, Israel, está morta, assassinada em lugares altos! Como os poderosos caíram!" ^v19
 
-**20** Não o noticieis em Gate, não o publiqueis nas ruas de Ascalom, para que não se alegrem as filhas dos filisteus, para que não saltem de contentamento as filhas dos incircuncisos. ^v20
+**20** Não conteis isso em Gate, não o proclameis nas ruas de Asquelom, para que não regozijem as filhas dos filisteus, e as filhas dos incircuncisos não celebrem. ^v20
 
-**21** Vós, montes de Gilboa, nem orvalho, nem chuva caia sobre vós, nem haja campos de ofertas alçadas, pois aí desprezivelmente foi arrojado o escudo dos poderosos, o escudo de Saul, como se não fora ungido com óleo. ^v21
+**21** Montanhas de Gilboa, que não haja orvalho nem chuva sobre vós, nem campos que deem grãos para ofertas, pois lá o escudo do poderoso foi profanado. O escudo de Saul não mais será ungido com óleo. ^v21
 
-**22** Do sangue dos feridos, da gordura dos valentes, nunca se retirou para trás o arco de Jônatas, nem voltou vazia a espada de Saul. ^v22
+**22** Do sangue daqueles que foram mortos, dos corpos dos poderosos, o arco de Jônatas não recuou, e a espada de Saul não retornou vazia. ^v22
 
-**23** Saul e Jônatas, tão amados e queridos na sua vida, também na sua morte não se separaram; eram mais ligeiros do que as águias, mais fortes do que os leões. ^v23
+**23** Saul e Jônatas foram amados e graciosos em vida, e, em sua morte, não foram separados. Eles eram mais ágeis que águias, eram mais fortes que leões. ^v23
 
-**24** Vós, filhas de Israel, chorai por Saul, que vos vestia de escarlata em delícias, que vos fazia trazer ornamentos de ouro sobre as vossas vestes. ^v24
+**24** Vós, filhas de Israel, chorai por Saul, que vos vestiu de luxuosas roupas escarlates, que colocou ornamentos de ouro em vossas vestes. ^v24
 
-**25** Como caíram os poderosos, no meio da peleja! Jônatas nos teus altos foi morto. ^v25
+**25** Como os poderosos caíram no meio da batalha! Jônatas foi morto nos lugares altos. ^v25
 
-**26** Angustiado estou por ti, meu irmão Jônatas; quão amabilíssimo me eras! Mais maravilhoso me era o teu amor do que o amor das mulheres. ^v26
+**26** Estou angustiado por ti, meu irmão Jônatas. Tu eras muito querido por mim. Teu amor era maravilhoso para mim, excedendo o amor de mulheres. ^v26
 
-**27** Como caíram os poderosos, e pereceram as armas de guerra! ^v27
+**27** "Como os poderosos caíram, e as armas de guerra pereceram!""." ^v27

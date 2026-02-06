@@ -1,31 +1,30 @@
 ---
-Livro: "[[Salmos|Salmos]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Salmos|Salmos]]"
+tags: [biblia]
 ---
 
 # Salmos 2
 
-**1** Por que se amotinam os gentios, e os povos imaginam coisas vàs? ^v1
+**1** Por que as nações estão em rebelião e os povos conspiram em vão? ^v1
 
-**2** Os reis da terra se levantam e os governos consultam juntamente contra o Senhor e contra o seu ungido, dizendo: ^v2
+**2** Os reis da terra juntos se levantam, e os governadores se unem e conspiram contra Yahweh e contra o Seu Messias, dizendo: ^v2
 
-**3** Rompamos as suas ataduras, e sacudamos de nós as suas cordas. ^v3
+**3** """Vamos quebrar as algemas que eles nos colocaram e arrancar suas correntes""." ^v3
 
-**4** Aquele que habita nos céus se rirá; o Senhor zombará deles. ^v4
+**4** Aquele que se assenta nos céus ri deles. Yahweh zomba deles. ^v4
 
-**5** Então lhes falará na sua ira, e no seu furor os turbará. ^v5
+**5** Então, na Sua ira, Ele lhes falará e, com Sua fúria, os aterrorizará, dizendo: ^v5
 
-**6** Eu, porém, ungi o meu Rei sobre o meu santo monte de Sião. ^v6
+**6** """Eu mesmo ungi Meu rei em Sião, Meu santo monte""." ^v6
 
-**7** Proclamarei o decreto: o Senhor me disse: Tu és meu Filho, eu hoje te gerei. ^v7
+**7** "Eu anunciarei o decreto de Yahweh. Ele me disse: ""Tu és Meu Filho! Neste dia Eu Te gerei." ^v7
 
-**8** Pede-me, e eu te darei os gentios por herança, e os fins da terra por tua possessão. ^v8
+**8** Pede-Me e Eu Te darei as nações por herança e as regiões mais distantes da terra por Tua posse. ^v8
 
-**9** Tu os esmigalharás com uma vara de ferro; tu os despedaçarás como a um vaso de oleiro. ^v9
+**9** "Tu as quebrarás com o cetro de ferro. Tu as esmagarás como um pote de barro.""" ^v9
 
-**10** Agora, pois, ó reis, sede prudentes; deixai-vos instruir, juízes da terra. ^v10
+**10** Agora, ó reis, estais avisados; sede corrigidos vós, governadores da terra. ^v10
 
-**11** Servi ao Senhor com temor, e alegrai-vos com tremor. ^v11
+**11** Adorai a Yahweh com temor e regozijai-vos com tremor. ^v11
 
-**12** Beijai o Filho, para que se não ire, e pereçais no caminho, quando em breve se acender a sua ira; bem-aventurados todos aqueles que nele confiam. ^v12
+**12** Beijai o Filho para que Ele não Se ire convosco, e não sejais mortos quando Sua ira rapidamente se acender. Abençoados são todos aqueles que se refugiam Nele. ^v12

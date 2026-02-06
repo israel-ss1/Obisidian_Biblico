@@ -1,51 +1,50 @@
 ---
-Livro: "[[Ester|Ester]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Ester|Ester]]"
+tags: [biblia]
 ---
 
 # Ester 1
 
-**1** E sucedeu nos dias de Assuero, o Assuero que reinou desde a India até a Etiópia, sobre cento e vinte e sete províncias, ^v1
+**1** Isto aconteceu nos dias de Xerxes (este é o Assuero que reinou da Índia até a Etiópia, sobre mais de cento e vinte e sete províncias). ^v1
 
-**2** Que, naqueles dias, assentando-se o rei Assuero no trono do seu reino, que estava na fortaleza de Susã, ^v2
+**2** Naqueles dias, o rei Xerxes reinava em seu trono real na cidadela de Susã. ^v2
 
-**3** No terceiro ano do seu reinado, fez um banquete a todos os seus príncipes e seus servos, estando assim perante ele o poder da Pérsia e Média e os nobres e príncipes das províncias, ^v3
+**3** No terceiro ano de seu reinado, ele deu um banquete para todos os seus oficiais e seus servos. O exército da Pérsia e da Média, os nobres e os governadores das províncias estavam em sua presença. ^v3
 
-**4** Para mostrar as riquezas da glória do seu reino, e o esplendor da sua excelente grandeza, por muitos dias, a saber: cento e oitenta dias. ^v4
+**4** Ele mostrou a riqueza do esplendor de seu reino e a honra gloriosa de sua majestade, por muitos dias, por cento e oitenta dias. ^v4
 
-**5** E, acabados aqueles dias, fez o rei um banquete a todo o povo que se achava na fortaleza de Susã, desde o maior até ao menor, por sete dias, no pátio do jardim do palácio real. ^v5
+**5** Quando se completaram esses dias, o rei deu um banquete com duração de sete dias. O banquete foi para todo o povo na fortaleza de Susã, do maior ao menor. Foi feito nos pátios do jardim do palácio do rei. ^v5
 
-**6** As tapeçarias eram de pano branco, verde, e azul celeste, pendentes de cordões de linho fino e púrpura, e argolas de prata, e colunas de mármore; os leitos de ouro e de prata, sobre um pavimento de mármore vermelho, e azul, e branco, e preto. ^v6
+**6** O pátio do jardim foi decorado com cortinas de algodão branco e violeta, com cordões de linho fino e púrpura, argolas de prata pendentes nos pilares de mármore. Havia assentos de ouro e prata em um pavimento mosaico de granito, mármore, madrepérola e pedras preciosas. ^v6
 
-**7** E dava-se de beber em copos de ouro, e os copos eram diferentes uns dos outros; e havia muito vinho real, segundo a generosidade do rei. ^v7
+**7** Bebidas eram servidas em taças de ouro e cada taça era única; havia muito vinho real por causa da generosidade do rei. ^v7
 
-**8** E o beber era por lei, sem constrangimento; porque assim tinha ordenado o rei expressamente a todos os oficiais da sua casa, que fizessem conforme a vontade de cada um. ^v8
+**8** "E bebiam conforme foi decretado: ""Não deverá haver limite"". O rei deu ordens a todos os mordomos do palácio que servissem o que cada convidado desejasse." ^v8
 
-**9** Também a rainha Vasti deu um banquete às mulheres, na casa real do rei Assuero. ^v9
+**9** A rainha Vasti também deu um banquete para as mulheres no palácio real do rei Xerxes. ^v9
 
-**10** E ao sétimo dia, estando já o coração do rei alegre do vinho, mandou a Meumã, Bizta, Harbona, Bigtá, Abagta, Zetar e Carcas, os sete camareiros que serviam na presença do rei Assuero, ^v10
+**10** No sétimo dia, quando o coração do rei se sentia feliz por causa do vinho, ordenou que Meumã, Bitza, Harbona, Bigtá, Abagta, Zetar e Carcas, os sete oficais que serviam ao rei, ^v10
 
-**11** Que introduzissem na presença do rei a rainha Vasti, com a coroa real, para mostrar aos povos e aos príncipes a sua beleza, porque era formosa à vista. ^v11
+**11** que trouxessem a rainha Vasti diante dele com sua coroa real. Ele queria mostrar, ao povo e aos oficiais, sua beleza, pois ela era muita bonita. ^v11
 
-**12** Porém a rainha Vasti recusou vir conforme a palavra do rei, por meio dos camareiros; assim o rei muito se enfureceu, e acendeu nele a sua ira. ^v12
+**12** Porém, a rainha Vasti recusou-se a atender a palavra do rei, trazida a ela por seus oficiais. O rei ficou muito irado; sua raiva ardia dentro dele. ^v12
 
-**13** Então perguntou o rei aos sábios que entendiam dos tempos (porque assim se tratavam os negócios do rei na presença de todos os que sabiam a lei e o direito; ^v13
+**13** Então, o rei consultou os homens que eram conhecidos por serem sábios, que entendiam os tempos (este era o procedimento do rei com todos aqueles que entendiam das leis e dos costumes dos persas). ^v13
 
-**14** E os mais chegados a ele eram: Carsena, Setar, Admata, Társis, Meres, Marsena, e Memucã, os sete príncipes dos persas e dos medos, que viam a face do rei, e se assentavam como principais no reino), ^v14
+**14** E os mais próximos a ele eram Carsena, Setar, Admata, Társis, Meres, Marsena e Memucã, os sete príncipes da Pérsia e Média. Eles tinham acesso ao rei, e ocupavam os cargos mais importante do reino. ^v14
 
-**15** O que, segundo a lei, se devia fazer à rainha Vasti, por não ter obedecido ao mandado do rei Assuero, por meio dos camareiros. ^v15
+**15** """De acordo com a lei, o que deve ser feito à rainha Vasti por não obedecer a ordem do rei Xerxes, dada a ela pelos oficiais?""." ^v15
 
-**16** Então disse Memucã na presença do rei e dos príncipes: Não somente contra o rei pecou a rainha Vasti, porém também contra todos os príncipes, e contra todos os povos que há em todas as províncias do rei Assuero. ^v16
+**16** "Memucã disse na presença do rei e dos oficiais: ""A rainha não errou somente contra o rei, mas também contra todos os oficiais e todo o povo nas províncias do rei Xerxes." ^v16
 
-**17** Porque a notícia do que fez a rainha chegará a todas as mulheres, de modo que aos seus olhos desprezarão a seus maridos quando ouvirem dizer: Mandou o rei Assuero que introduzissem à sua presença a rainha Vasti, porém ela não veio. ^v17
+**17** Pois, o que a rainha fez chegará ao conhecimento de todas as mulheres. Isso fará com que elas tratem os seus maridos com desprezo. Elas dirão: 'o rei Xerxes ordenou que a rainha Vasti fosse trazida à sua presença, mas ela se recusou'. ^v17
 
-**18** E neste mesmo dia as senhoras da Pérsia e da Média, ouvindo o que fez a rainha, dirão o mesmo a todos os príncipes do rei; e assim haverá muito desprezo e indignação. ^v18
+**18** Antes do fim deste dia, as mulheres nobres da Pérsia e Média que ouvirem o que a rainha fez dirão o mesmo a todos os oficiais do rei. Haverá muito desprezo e ira. ^v18
 
-**19** Se bem parecer ao rei, saia da sua parte um edito real, e escreva-se nas leis dos persas e dos medos, e não se revogue, a saber: que Vasti não entre mais na presença do rei Assuero, e o rei dê o reino dela a outra que seja melhor do que ela. ^v19
+**19** Se for do agrado do rei, faça um decreto real, que seja escrito conforme as leis dos medos e persas, que não pode ser revogada, que Vasti não mais venha à presença do rei. Que o rei dê sua posição à outra que seja melhor que ela. ^v19
 
-**20** E, ouvindo-se o mandado, que o rei decretará em todo o seu reino (porque é grande), todas as mulheres darão honra a seus maridos, desde a maior até à menor. ^v20
+**20** "Quando o decreto do rei for proclamado através de todo o seu grande reino, todas as esposas honrarão seus maridos, dos mais ricos aos mais pobres""." ^v20
 
-**21** E pareceram bem estas palavras aos olhos do rei e dos príncipes; e fez o rei conforme a palavra de Memucã. ^v21
+**21** O rei e seus nobres agradaram-se deste conselho e o rei fez o que Memucã propôs. ^v21
 
-**22** Então enviou cartas a todas as províncias do rei, a cada província segundo a sua escrita, e a cada povo segundo a sua língua; que cada homem fosse senhor em sua casa, e que se falasse conforme a língua do seu povo. ^v22
+**22** Ele enviou cartas a todas as províncias em suas próprias línguas. Ordenou que todo homem deveria ser senhor de sua própria família. Este decreto foi dado na língua de cada povo no império. ^v22

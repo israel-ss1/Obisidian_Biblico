@@ -1,43 +1,42 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Neemias|Neemias]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Neemias|Neemias]]"
+tags: [biblia]
 ---
 
 # Neemias 8
 
-**1** E chegado o sétimo mês, e estando os filhos de Israel nas suas cidades, todo o povo se ajuntou como um só homem, na praça, diante da porta das águas; e disseram a Esdras, o escriba, que trouxesse o livro da lei de Moisés, que o SENHOR tinha ordenado a Israel. ^v1
+**1** Todo o povo se reuniu como um só homem na praça em frente à Porta das Águas. Eles pediram que Esdras, o escriba, trouxesse o livro da Lei de Moisés, o qual Yahweh ordenou a Israel. ^v1
 
-**2** E Esdras, o sacerdote, trouxe a lei perante a congregação, tanto de homens como de mulheres, e todos os que podiam ouvir com entendimento, no primeiro dia do sétimo mês. ^v2
+**2** No primeiro dia do sétimo mês, Esdras, o sacerdote, trouxe a Lei perante a assembleia, homens e mulheres, e todos os que podiam ouvir e entender. ^v2
 
-**3** E leu no livro diante da praça, que está diante da porta das águas, desde a alva até ao meio-dia, perante homens e mulheres, e os que podiam entender; e os ouvidos de todo o povo estavam atentos ao livro da lei. ^v3
+**3** Ele se pôs diante da praça em frente à Porta das Águas, e leu desde manhã cedo até o meio dia, na presença de homens e mulheres, e de todo aquele que podia entendê-la. E todo o povo ouviu atentamente o Livro da Lei. ^v3
 
-**4** E Esdras, o escriba, estava sobre um púlpito de madeira, que fizeram para aquele fim; e estava em pé junto a ele, à sua mão direita, Matitias, Sema, Anaías, Urias, Hilquias e Maaséias; e à sua mão esquerda, Pedaías, Misael, Melquias, Hasum, Hasbadana, Zacarias e Mesulão. ^v4
+**4** Então, Esdras, o escriba, subiu num palco de madeira que o povo havia feito para aquele propósito. Estando de pé ao seu lado direito, Matitias, Sema, Anaías, Urias, Hilquias e Maaseias, e estando de pé ao seu lado esquerdo, Pedaías, Misael, Malquias, Hasum, Hasbadana, Zacarias e Mesulão. ^v4
 
-**5** E Esdras abriu o livro perante à vista de todo o povo; porque estava acima de todo o povo; e, abrindo-o ele, todo o povo se pôs em pé. ^v5
+**5** Esdras abriu o livro à vista de todo o povo, pois ele estava elevado acima do povo, e, quando ele o abriu, todo o povo levantou-se. ^v5
 
-**6** E Esdras louvou ao Senhor, o grande Deus; e todo o povo respondeu: Amém, Amém! levantando as suas mãos; e inclinaram suas cabeças, e adoraram ao Senhor, com os rostos em terra. ^v6
+**6** "Esdras agradeceu a Yahweh, o grandioso Deus, e todo o povo levantou as mãos, e respondeu: ""Amém! Amém!"". Então, eles inclinaram suas cabeças e adoraram Yahweh com o rosto voltado para o chão." ^v6
 
-**7** E Jesuá, Bani, Serebias, Jamim, Acube, Sabetai, Hodias, Maaséias, Quelita, Azarias, Jozabade, Hanã, Pelaías, e os levitas ensinavam o povo na lei; e o povo estava no seu lugar. ^v7
+**7** Também Jesua, Bani, Serebias, Jamim, Acube, Sabetai, Hodias, Maaseias, Quelita, Azarias, Jozabade, Hanã, Pelaías —os levitas— ajudaram o povo a entender a Lei, enquanto o povo permanecia no seu lugar. ^v7
 
-**8** E leram no livro, na lei de Deus; e declarando, e explicando o sentido, faziam que, lendo, se entendesse. ^v8
+**8** Eles leram no livro, a Lei de Deus, tornando-a clara com a interpretação, e fornecendo o sentido para que eles entendessem a leitura. ^v8
 
-**9** E Neemias, que era o governador, e o sacerdote Esdras, o escriba, e os levitas que ensinavam ao povo, disseram a todo o povo: Este dia é consagrado ao Senhor vosso Deus, então não vos lamenteis, nem choreis. Porque todo o povo chorava, ouvindo as palavras da lei. ^v9
+**9** "Neemias, o governador, e Esdras, o sacerdote e escriba, e os levitas que interpretavam disseram para o povo: ""Este dia é santo para Yahweh, vosso Deus. Não lamenteis, nem choreis"". Pois, todo o povo chorava enquanto ouvia as palavras da Lei." ^v9
 
-**10** Disse-lhes mais: Ide, comei as gorduras, e bebei as doçuras, e enviai porções aos que não têm nada preparado para si; porque este dia é consagrado ao nosso Senhor; portanto não vos entristeçais; porque a alegria do Senhor é a vossa força. ^v10
+**10** "Então, Neemias disse-lhes: ""Ide, comei carnes gordas e bebei bebidas doces, e enviai porções para quem não tiver nada preparado, pois este dia é santo ao nosso Senhor. Não vos entristeçais, pois a alegria de Yahweh é a vossa força""." ^v10
 
-**11** E os levitas fizeram calar a todo o povo, dizendo: Calai-vos; porque este dia é santo; por isso não vos entristeçais. ^v11
+**11** "Então, os levitas fizeram o povo se aquietar, dizendo: ""Aquientem-se! Pois este dia é santo. Não vos entristeçais""." ^v11
 
-**12** Então todo o povo se foi a comer, a beber, a enviar porções e a fazer grande regozijo; porque entenderam as palavras que lhes fizeram saber. ^v12
+**12** Então, todo o povo foi comer, beber, repartir a comida e celebrar com grande alegria, porque eles entenderam as palavras que lhes foram explicadas. ^v12
 
-**13** E no dia seguinte ajuntaram-se os chefes dos pais de todo o povo, os sacerdotes e os levitas, a Esdras, o escriba; e isto para atentarem nas palavras da lei. ^v13
+**13** No segundo dia, os líderes das famílias dos antepassados de todo o povo, os sacerdotes e os levitas, vieram juntos a Esdras, o escriba, para aprenderem sobre as palavras da Lei. ^v13
 
-**14** E acharam escrito na lei que o Senhor ordenara, pelo ministério de Moisés, que os filhos de Israel habitassem em cabanas, na solenidade da festa, no sétimo mês. ^v14
+**14** E eles encontraram escrito na Lei como Yahweh tinha ordenado através de Moisés, que o povo de Israel deveria habitar em tendas durante a festa do sétimo mês. ^v14
 
-**15** Assim publicaram, e fizeram passar pregão por todas as suas cidades, e em Jerusalém, dizendo: Saí ao monte, e trazei ramos de oliveiras, e ramos de zambujeiros, e ramos de murtas, e ramos de palmeiras, e ramos de árvores espessas, para fazer cabanas, como está escrito. ^v15
+**15** "Eles deveriam proclamar em todas as suas cidades e em Jerusalém, dizendo: ""Ide às montanhas, e trazei ramos de oliveira cultivadas, e de oliveiras silvestres, e de murtas, e folhas de palmeira e de árvores frondosas, para fazerem tendas, como está escrito""." ^v15
 
-**16** Saiu, pois, o povo, e os trouxeram, e fizeram para si cabanas, cada um no seu terraço, nos seus pátios, e nos átrios da casa de Deus, na praça da porta das águas, e na praça da porta de Efraim. ^v16
+**16** Então, as pessoas saíram e trouxeram os ramos; e fizeram para si tendas, cada um em seu próprio terraço, em seus pátios, e nos átrios da casa de Deus, e na praça da Porta das Águas, e na praça do Porta de Efraim. ^v16
 
-**17** E toda a congregação dos que voltaram do cativeiro fizeram cabanas, e habitaram nas cabanas, porque nunca fizeram assim os filhos de Israel, desde os dias de Jesua, filho de Num, até àquele dia; e houve mui grande alegria. ^v17
+**17** E a assembleia dos que tinham retornado do cativeiro fez tendas e habitou nelas. Pois, desde os dias de Josué, filho de Num, até aquele dia, o povo de Israel não havia celebrado essa festa. Por isso a alegria do povo foi muito grande. ^v17
 
-**18** E, de dia em dia, Esdras leu no livro da lei de Deus, desde o primeiro dia até ao derradeiro; e celebraram a solenidade da festa sete dias, e no oitavo dia, houve uma assembléia solene, segundo o rito. ^v18
+**18** E dia após dia, desde o primeiro dia até o último, Esdras leu do livro da Lei de Deus. Eles celebraram a festa por sete dias, e no oitavo dia houve uma assembleia solene em obediência ao decreto. ^v18

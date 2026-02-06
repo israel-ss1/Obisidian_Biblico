@@ -1,53 +1,52 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Ageu|Ageu]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Ageu|Ageu]]"
+tags: [biblia]
 ---
 
 # Ageu 2
 
-**1** No sétimo mês, ao vigésimo primeiro dia do mês, veio a palavra do SENHOR por intermédio do profeta Ageu, dizendo: ^v1
+**1** No sétimo mês, no vigésimo primeiro dia do mês, a palavra de Yahweh veio pelo profeta Ageu, e disse: ^v1
 
-**2** Fala agora a Zorobabel, filho de Sealtiel, governador de Judá, e a Josué, filho de Jozadaque, sumo sacerdote, e ao restante do povo, dizendo: ^v2
+**2** """Fala ao governador de Judá, Zorobabel, filho de Sealtiel, e ao sumo sacerdote Josué, filho de Jozadaque; e ao remanescente do povo. Diz:" ^v2
 
-**3** Quem há entre vós que, tendo ficado, viu esta casa na sua primeira glória? E como a vedes agora? Não é esta como nada diante dos vossos olhos, comparada com aquela? ^v3
+**3** 'Dos que restaram entre vós, quem viu esta casa na sua glória anterior? E como vós a vedes agora? Não é esta como nada aos vossos olhos? ^v3
 
-**4** Ora, pois, esforça-te, Zorobabel, diz o Senhor, e esforça-te, Josué, filho de Jozadaque, sumo sacerdote, e esforça-te, todo o povo da terra, diz o Senhor, e trabalhai; porque eu sou convosco, diz o Senhor dos Exércitos. ^v4
+**4** Agora, pois, sê forte, Zorobabel!' Esta é a declaração de Yahweh. 'E sê forte, sumo sacerdote Josué, filho de Jozadaque; e sede fortes, todas as pessoas da terra!' Esta é a declaração de Yahweh: 'E trabalhem, pois Eu estou convosco!' Esta é a declaração de Yahweh dos Exércitos. ^v4
 
-**5** Segundo a palavra da aliança que fiz convosco, quando saístes do Egito, o meu Espírito permanece no meio de vós; não temais. ^v5
+**5** 'Pelas promessas contidas na aliança que Eu estabeleci convosco quando saístes do Egito, e o Meu Espírito habitava entre vós, não temais!' ^v5
 
-**6** Porque assim diz o Senhor dos Exércitos: Ainda uma vez, daqui a pouco, farei tremer os céus e a terra, o mar e a terra seca; ^v6
+**6** Pois assim diz Yahweh dos Exércitos: 'Em pouco tempo, Eu mais uma vez estremecerei os céus e a terra, o mar e a terra seca! ^v6
 
-**7** E farei tremer todas as nações, e virão coisas preciosas de todas as nações, e encherei esta casa de glória, diz o Senhor dos Exércitos. ^v7
+**7** E Eu estremecerei cada nação, e cada nação Me trará suas coisas preciosas, e encherei esta casa de glória!', diz Yahweh dos Exércitos. ^v7
 
-**8** Minha é a prata, e meu é o ouro, disse o Senhor dos Exércitos. ^v8
+**8** 'A prata e o ouro são Meus!' Esta é a declaração de Yahweh dos Exércitos. ^v8
 
-**9** A glória desta última casa será maior do que a da primeira, diz o Senhor dos Exércitos, e neste lugar darei a paz, diz o Senhor dos Exércitos. ^v9
+**9** 'A glória desta casa será maior no futuro do que no seu começo,' declara Yahweh dos Exércitos, 'e darei paz a este lugar!' Declara Yahweh dos Exércitos. ^v9
 
-**10** Ao vigésimo quarto dia do mês nono, no segundo ano de Dario, veio a palavra do Senhor por intermédio do profeta Ageu, dizendo: ^v10
+**10** Ao vigésimo quarto dia do nono mês, no segundo ano de Dario, a palavra de Yahweh veio pelo profeta Ageu, e disse: ^v10
 
-**11** Assim diz o Senhor dos Exércitos: Pergunta agora aos sacerdotes, acerca da lei, dizendo: ^v11
+**11** """Assim diz Yahweh dos Exércitos: Pergunta aos sacerdotes acerca da Lei, e diz:" ^v11
 
-**12** Se alguém leva carne santa na orla das suas vestes, e com ela tocar no pão, ou no guisado, ou no vinho, ou no azeite, ou em outro qualquer mantimento, porventura ficará isto santificado? E os sacerdotes responderam: Não. ^v12
+**12** "Se um homem carregar a carne dedicada a Yahweh na aba do seu vestido e, se tocar a aba no pão ou guisado, vinho ou óleo, ou qualquer outro tipo de comida, essa comida se tornará santa?"" Os sacerdotes responderam dizendo: ""Não""." ^v12
 
-**13** E disse Ageu: Se alguém que for contaminado pelo contato com o corpo morto, tocar nalguma destas coisas, ficará ela imunda? E os sacerdotes responderam, dizendo: Ficará imunda. ^v13
+**13** "Então, Ageu disse: ""Se alguém impuro, por causa da morte, tocar qualquer uma dessas coisas, ficarão elas impuras?"" Os sacerdotes responderam dizendo: ""Sim, elas se tornarão impuras""." ^v13
 
-**14** Então respondeu Ageu, dizendo: Assim é este povo, e assim é esta nação diante de mim, diz o Senhor; e assim é toda a obra das suas mãos; e tudo o que ali oferecem imundo é. ^v14
+**14** "Portanto, Ageu respondeu e disse: ""'Assim são essas pessoas e esta nação diante de Mim!', declara Yahweh. 'E assim é com tudo o que é feito por suas mãos: o que eles me oferecem é impuro." ^v14
 
-**15** Agora, pois, eu vos rogo, considerai isto, desde este dia em diante, antes que se lançasse pedra sobre pedra no templo do Senhor, ^v15
+**15** Portanto, a partir deste dia em diante, antes que qualquer pedra seja colocada sobre outra pedra, no templo de Yahweh, considerai: ^v15
 
-**16** Antes que sucedessem estas coisas, vinha alguém a um montão de grão, de vinte medidas, e havia somente dez; quando vinha ao lagar para tirar cinqüenta, havia somente vinte. ^v16
+**16** Sempre que alguém vinha ao lagar, para tirar vinte medidas de grãos, havia somente dez; sempre que alguem vinha ao tonel, para tirar cinquenta medidas de vinho, havia somente vinte. ^v16
 
-**17** Feri-vos com queimadura, e com ferrugem, e com saraiva, em toda a obra das vossas mãos, e não houve entre vós quem voltasse para mim, diz o Senhor. ^v17
+**17** Eu vos afligi em todo o trabalho das vossas mãos com ferrugem e mofo, mas vós ainda não retornastes para mim', declara Yahweh. ^v17
 
-**18** Considerai, pois, vos rogo, desde este dia em diante; desde o vigésimo quarto dia do mês nono, desde o dia em que se fundou o templo do Senhor, considerai essas coisas. ^v18
+**18** Considerai a partir deste dia em diante, desde o vigésimo quarto dia do nono mês, desde o dia em que a fundação do templo de Yahweh foi colocada. Considerai isto! ^v18
 
-**19** Porventura há ainda semente no celeiro? Além disso a videira, a figueira, a romeira, a oliveira, não têm dado os seus frutos; mas desde este dia vos abençoarei. ^v19
+**19** "Ainda há semente no celeiro? A videira, a figueira, a romeira e a oliveira não produziram! Mas, a partir deste dia, Eu vos abençoarei!""" ^v19
 
-**20** E veio a palavra do Senhor segunda vez a Ageu, aos vinte e quatro dias do mês, dizendo: ^v20
+**20** Então, a palavra de Yahweh veio, pela segunda vez, a Ageu no vigésimo quarto dia do mês e disse: ^v20
 
-**21** Fala a Zorobabel, governador de Judá, dizendo: Farei tremer os céus e a terra; ^v21
+**21** """Fala ao governador de Judá, Zorobabel, e diz: 'Estremecerei os céus e a terra." ^v21
 
-**22** E transtornarei o trono dos reinos, e destruirei a força dos reinos dos gentios; e transtornarei os carros e os que neles andam; e os cavalos e os seus cavaleiros cairão, cada um pela espada do seu irmão. ^v22
+**22** Pois derrubarei o trono dos reinos e destruirei as forças dos reinos das nações! Derrubarei as carruagens e seus cavaleiros; os cavalos e seus cavaleiros cairão, cada um por causa da espada do seu irmão'. ^v22
 
-**23** Naquele dia, diz o Senhor dos Exércitos, tomar-te-ei, ó Zorobabel, servo meu, filho de Sealtiel, diz o Senhor, e far-te-ei como um anel de selar; porque te escolhi, diz o Senhor dos Exércitos. ^v23
+**23** "'Naquele dia', declara Yahweh dos Exércitos, 'Eu te levarei, Zorobabel, filho de Sealtiel, como meu servo', declara Yahweh. 'Eu te colocarei como o selo do Meu anel, pois foi a ti que escolhi!', declara Yahweh dos Exércitos!""." ^v23

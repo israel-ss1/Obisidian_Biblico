@@ -1,39 +1,38 @@
 ---
-Livro: "[[Números|Números]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Números|Números]]"
+tags: [biblia]
 ---
 
 # Números 12
 
-**1** E falaram Miriã e Arão contra Moisés, por causa da mulher cusita, com quem casara; porquanto tinha casado com uma mulher cusita. ^v1
+**1** Miriã e Arão falaram contra Moisés, por causa de mulher etíope com quem ele se casou. ^v1
 
-**2** E disseram: Porventura falou o Senhor somente por Moisés? Não falou também por nós? E o Senhor o ouviu. ^v2
+**2** "E disseram: ""Yahweh falou somente com Moisés? Ele não falou conosco também?"". Então, Yahweh ouviu o que disseram." ^v2
 
-**3** E era o homem Moisés mui manso, mais do que todos os homens que havia sobre a terra. ^v3
+**3** Moisés era um homem humilde, o mais humilde de toda a terra. ^v3
 
-**4** E logo o Senhor disse a Moisés, a Arão e a Miriã: Vós três saí à tenda da congregação. E saíram eles três. ^v4
+**4** "Imediatamente, Yahweh falou a Moisés, Arão e Miriã: ""Saí os três para a Tenda do Encontro"". Então, os três saíram." ^v4
 
-**5** Então o Senhor desceu na coluna de nuvem, e se pôs à porta da tenda; depois chamou a Arão e a Miriã e ambos saíram. ^v5
+**5** Depois, Yahweh desceu em uma coluna de nuvem. Colocando-Se na entrada da Tenda, chamou Arão e Miriã e ambos vieram à frente. ^v5
 
-**6** E disse: Ouvi agora as minhas palavras; se entre vós houver profeta, eu, o Senhor, em visão a ele me farei conhecer, ou em sonhos falarei com ele. ^v6
+**6** "Yahweh disse: ""Agora, ouvi as Minhas palavras. Quando um profeta Meu estiver entre vós, Eu revelarei a Mim mesmo a ele em visões e falarei com ele em sonhos." ^v6
 
-**7** Não é assim com o meu servo Moisés que é fiel em toda a minha casa. ^v7
+**7** Meu servo Moisés não é como esses. Ele é fiel a toda a Minha casa. ^v7
 
-**8** Boca a boca falo com ele, claramente e não por enigmas; pois ele vê a semelhança do Senhor; por que, pois, não tivestes temor de falar contra o meu servo, contra Moisés? ^v8
+**8** "Eu falo diretamente com Moisés, não por visões ou enigmas. Ele vê a Minha forma. Então, por que não temestes falar contra Meu servo, contra Moisés?""." ^v8
 
-**9** Assim a ira do Senhor contra eles se acendeu; e retirou-se. ^v9
+**9** A ira de Yahweh se acendeu contra eles e, então, Ele os deixou. ^v9
 
-**10** E a nuvem se retirou de sobre a tenda; e eis que Miriã ficou leprosa como a neve; e olhou Arão para Miriã, e eis que estava leprosa. ^v10
+**10** A nuvem deixou a Tenda, e, subitamente, Miriã ficou com lepra — branca como a neve. Quando Arão se virou para Miriã, viu que ela estava com lepra. ^v10
 
-**11** Por isso Arão disse a Moisés: Ai, senhor meu, não ponhas sobre nós este pecado, pois agimos loucamente, e temos pecado. ^v11
+**11** "Arão disse a Moisés: ""Ah, meu mestre, rogo-te, não nos imputes este pecado. Nós falamos tolices e pecamos." ^v11
 
-**12** Ora, não seja ela como um morto, que saindo do ventre de sua mãe, a metade da sua carne já esteja consumida. ^v12
+**12** "Por favor, não a deixes parecida com um recém-nascido morto, cuja carne está consumida pela metade quando sai do ventre de sua mãe""." ^v12
 
-**13** Clamou, pois, Moisés ao Senhor, dizendo: Ó Deus, rogo-te que a cures. ^v13
+**13** "Então, Moisés clamou a Yahweh. Disse ele: ""Por favor, Deus, cura Miriã, por favor!""." ^v13
 
-**14** E disse o Senhor a Moisés: Se seu pai cuspira em seu rosto, não seria envergonhada sete dias? Esteja fechada sete dias fora do arraial, e depois a recolham. ^v14
+**14** "Yahweh disse a Moisés: ""Se o seu pai cuspisse na face dela, ela seria desonrada por sete dias. Deixa sua irmã fora do acampamento por sete dias. Depois, traz Miriã de volta""." ^v14
 
-**15** Assim Miriã esteve fechada fora do arraial sete dias, e o povo não partiu, até que recolheram a Miriã. ^v15
+**15** Então, Miriã foi retirada do acampamento por sete dias. O povo não partiu até que ela retornou ao acampamento. ^v15
 
-**16** Porém, depois o povo partiu de Hazerote; e acampou-se no deserto de Parã. ^v16
+**16** Depois disso, o povo seguiu sua jornada para Hazerote e acampou no deserto de Parã. ^v16

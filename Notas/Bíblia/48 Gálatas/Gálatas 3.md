@@ -1,65 +1,64 @@
 ---
-Livro: "[[Gálatas|Gálatas]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Gálatas|Gálatas]]"
+tags: [biblia]
 ---
 
 # Gálatas 3
 
-**1** Ó insensatos gálatas! quem vos fascinou para não obedecerdes à verdade, a vós, perante os olhos de quem Jesus Cristo foi evidenciado, crucificado, entre vós? ^v1
+**1** Gálatas insensatos, quem foi que vos enfeitiçou? Não foi a crucificação de Jesus Cristo vividamente representada diante de vossos olhos? ^v1
 
-**2** Só quisera saber isto de vós: recebestes o Espírito pelas obras da lei ou pela pregação da fé? ^v2
+**2** Eu só quero saber isto de vós: recebestes o Espírito pelas obras da lei ou por acreditardes no que ouvistes? ^v2
 
-**3** Sois vós tão insensatos que, tendo começado pelo Espírito, acabeis agora pela carne? ^v3
+**3** Sois vós assim tão tolos? Começastes no Espírito para agora simplesmente terminardes na carne? ^v3
 
-**4** Será em vão que tenhais padecido tanto? Se é que isso também foi em vão. ^v4
+**4** Sofrestes tantas coisas por nada? Seria de fato isso em vão? ^v4
 
-**5** Aquele, pois, que vos dá o Espírito, e que opera maravilhas entre vós, o faz pelas obras da lei, ou pela pregação da fé? ^v5
+**5** Aquele que dá o Espírito a vós, e opera poderosas obras entre vós, faz isso pelas obras da Lei ou pelo ouvir com fé? ^v5
 
-**6** Assim como Abraão creu em Deus, e isso lhe foi imputado como justiça. ^v6
+**6** "Como Abraão ""creu em Deus e isto lhe foi creditado como justiça""," ^v6
 
-**7** Sabei, pois, que os que são da fé são filhos de Abraão. ^v7
+**7** sabei, da mesma forma, que aqueles que acreditam são filhos de Abraão. ^v7
 
-**8** Ora, tendo a Escritura previsto que Deus havia de justificar pela fé os gentios, anunciou primeiro o evangelho a Abraão, dizendo: Todas as nações serão benditas em ti. ^v8
+**8** "A Escritura, prevendo que Deus justificaria os gentios pela fé, de antemão proclamou esta boa nova para Abraão, dizendo: ""Em ti, todas as nações serão abençoadas""." ^v8
 
-**9** De sorte que os que são da fé são benditos com o crente Abraão. ^v9
+**9** Assim, os que são da fé são abençoados juntamente com Abraão, o homem de fé. ^v9
 
-**10** Todos aqueles, pois, que são das obras da lei estão debaixo da maldição; porque está escrito: Maldito todo aquele que não permanecer em todas as coisas que estão escritas no livro da lei, para fazê-las. ^v10
+**10** "Pois todos os que confiam nas obras da Lei estão debaixo de uma maldição, pois está escrito: ""Maldito é todo o que não permanece na prática de todas as coisas escritas no livro da Lei""." ^v10
 
-**11** E é evidente que pela lei ninguém será justificado diante de Deus, porque o justo viverá pela fé. ^v11
+**11** "Agora está claro que Deus não justifica ninguém pela Lei, pois ""O justo viverá pela fé""." ^v11
 
-**12** Ora, a lei não é da fé; mas o homem, que fizer estas coisas, por elas viverá. ^v12
+**12** "A Lei não é de fé, mas, em vez disso, ""Aquele que faz as obras da Lei viverá por elas""." ^v12
 
-**13** Cristo nos resgatou da maldição da lei, fazendo-se maldição por nós; porque está escrito: Maldito todo aquele que for pendurado no madeiro; ^v13
+**13** "Cristo nos redimiu da maldição da Lei, tornando-se maldição por nós, pois está escrito: ""Maldito é todo aquele que é pendurado no madeiro""." ^v13
 
-**14** Para que a bênção de Abraão chegasse aos gentios por Jesus Cristo, e para que pela fé nós recebamos a promessa do Espírito. ^v14
+**14** A fim de que a bênção de Abraão possa vir aos gentios em Cristo Jesus, de forma que, pela fé possamos receber a promessa do Espírito. ^v14
 
-**15** Irmãos, como homem falo; se a aliança de um homem for confirmada, ninguém a anula nem a acrescenta. ^v15
+**15** Irmãos, falarei como homem. Mesmo em um testamento humano, ninguém o anula nem lhe acrescenta algo, uma vez que é estabelecido pela lei. ^v15
 
-**16** Ora, as promessas foram feitas a Abraão e à sua descendência. Não diz: E às descendências, como falando de muitas, mas como de uma só: E à tua descendência, que é Cristo. ^v16
+**16** "Agora, as promessas foram ditas a Abraão e ao seu descendente. Não é dito ""aos descendentes"", referindo-se a muitos; mas, em vez disso, a apenas um, ""ao seu descendente"", que é Cristo." ^v16
 
-**17** Mas digo isto: Que tendo sido a aliança anteriormente confirmada por Deus em Cristo, a lei, que veio quatrocentos e trinta anos depois, não a invalida, de forma a abolir a promessa. ^v17
+**17** Agora, o que digo é isto: a Lei, vinda quatrocentos e trinta anos depois, não deixa de lado o Testamento previamente estabelecido por Deus. ^v17
 
-**18** Porque, se a herança provém da lei, já não provém da promessa; mas Deus pela promessa a deu gratuitamente a Abraão. ^v18
+**18** Pois se a herança vem pela Lei, então não vem mais pela promessa. Todavia, Deus deu a herança a Abraão por uma promessa. ^v18
 
-**19** Logo, para que é a lei? Foi ordenada por causa das transgressões, até que viesse a posteridade a quem a promessa tinha sido feita; e foi posta pelos anjos na mão de um medianeiro. ^v19
+**19** Qual é, então, o propósito da Lei? Ela foi acrescentada por causa das transgressões, até que o descendente de Abraão viesse àqueles para quem a promessa tinha sido feita. A Lei foi promulgada por meio de anjos por um mediador. ^v19
 
-**20** Ora, o medianeiro não o é de um só, mas Deus é um. ^v20
+**20** Mas, um mediador implica em mais de uma pessoa; porém, Deus é um. ^v20
 
-**21** Logo, a lei é contra as promessas de Deus? De nenhuma sorte; porque, se fosse dada uma lei que pudesse vivificar, a justiça, na verdade, teria sido pela lei. ^v21
+**21** Então, é a Lei contra as promessas de Deus? De jeito nenhum! Pois se tivesse sido dada uma lei capaz de dar vida, a justiça certamente teria vindo pela Lei. ^v21
 
-**22** Mas a Escritura encerrou tudo debaixo do pecado, para que a promessa pela fé em Jesus Cristo fosse dada aos crentes. ^v22
+**22** Mas a Escritura aprisionou todas as coisas debaixo do pecado. Deus assim o fez a fim de que a promessa da salvação pela fé em Jesus Cristo fosse dada aos que creem. ^v22
 
-**23** Mas, antes que a fé viesse, estávamos guardados debaixo da lei, e encerrados para aquela fé que se havia de manifestar. ^v23
+**23** Mas, antes que a fé em Cristo viesse, nós estávamos aprisionados e confinados debaixo da Lei, até a revelação da fé. ^v23
 
-**24** De maneira que a lei nos serviu de aio, para nos conduzir a Cristo, para que pela fé fôssemos justificados. ^v24
+**24** Então a Lei se tornou nossa tutora, até que Cristo viesse, para que pudéssemos ser justificados pela fé. ^v24
 
-**25** Mas, depois que veio a fé, já não estamos debaixo de aio. ^v25
+**25** Agora que a fé veio, nós não mais estamos sob um tutor. ^v25
 
-**26** Porque todos sois filhos de Deus pela fé em Cristo Jesus. ^v26
+**26** Pois vós sois todos filhos de Deus, pela fé em Cristo Jesus. ^v26
 
-**27** Porque todos quantos fostes batizados em Cristo já vos revestistes de Cristo. ^v27
+**27** Todos vós que fostes batizados em Cristo vos revestistes de Cristo. ^v27
 
-**28** Nisto não há judeu nem grego; não há servo nem livre; não há macho nem fêmea; porque todos vós sois um em Cristo Jesus. ^v28
+**28** Não há judeu nem grego, nem escravo nem livre, nem homem nem mulher; pois vós sois todos um em Cristo Jesus. ^v28
 
-**29** E, se sois de Cristo, então sois descendência de Abraão, e herdeiros conforme a promessa. ^v29
+**29** Se vós sois de Cristo, então, sois descendentes de Abraão, herdeiros de acordo com a promessa. ^v29

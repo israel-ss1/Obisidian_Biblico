@@ -1,135 +1,134 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Jeremias|Jeremias]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Jeremias|Jeremias]]"
+tags: [biblia]
 ---
 
 # Jeremias 51
 
-**1** Assim diz o SENHOR: Eis que levantarei um vento destruidor contra babilônia, e contra os que habitam no meio dos que se levantam contra mim. ^v1
+**1** "Yahweh diz: ""Vede, estou prestes a despertar um vento de destruição sobre a Babilônia e sobre aqueles que vivem nela." ^v1
 
-**2** E enviarei padejadores contra babilônia, que a padejarão, e despejarão a sua terra; porque virão contra ela em redor no dia da calamidade. ^v2
+**2** Eu enviarei estrangeiros à Babilônia. Eles irão espalhar e devastar a terra, pois virão sobre ela de todos os lados, no dia do desastre. ^v2
 
-**3** O flecheiro arme o seu arco contra o que arma o seu arco, e contra o que se exalta na sua couraça; e não perdoeis aos seus jovens; destruí a todo o seu exército. ^v3
+**3** Não deixeis que os arqueiros dobrem seus arcos; não deixeis que eles coloquem armadura. Não poupeis os jovens; destruí todo o seu exército, ^v3
 
-**4** E os mortos cairão na terra dos caldeus, e atravessados nas suas ruas. ^v4
+**4** Pois os feridos cairão na terra dos caldeus; aqueles que morrerem cairão em suas ruas. ^v4
 
-**5** Porque Israel e Judá não foram abandonados do seu Deus, do Senhor dos Exércitos, ainda que a sua terra esteja cheia de culpas contra o Santo de Israel. ^v5
+**5** Porque Israel e Judá não foram abandonados pelo seu Deus, por Yahweh dos Exércitos, ainda que a terra deles esteja cheia de ofensas cometidas contra o Santo de Israel. ^v5
 
-**6** Fugi do meio de babilônia, e livrai cada um a sua alma, e não vos destruais na sua maldade; porque este é o tempo da vingança do SENHOR; que lhe dará a sua recompensa. ^v6
+**6** Fugi do meio da Babilônia; deixai que cada homem salve a si mesmo. Não pereçais na iniquidade dela, pois este é o tempo da vingança de Yahweh. Ele lhe dará a sua paga. ^v6
 
-**7** babilônia era um copo de ouro na mão do SENHOR, o qual embriagava a toda a terra; do seu vinho beberam as nações; por isso as nações enlouqueceram. ^v7
+**7** A Babilônia era uma taça de ouro na mão de Yahweh, que fez toda a terra embriagada; nações beberam seu vinho e se tornaram insanas. ^v7
 
-**8** Num momento caiu babilônia, e ficou arruinada; lamentai por ela, tomai bálsamo para a sua dor, porventura sarará. ^v8
+**8** A Babilônia cairá de repente, e será destruída. Lamentai por ela! Dai a ela remédios para sua dor; talvez ela possa ser curada. ^v8
 
-**9** Queríamos curar babilônia, porém ela não sarou; deixai-a, e vamo-nos cada um para a sua terra; porque o seu juízo chegou até ao céu, e se elevou até às mais altas nuvens. ^v9
+**9** 'Nós desejávamos curar a Babilônia, porém ela não foi curada. Deixai-a e vamo-nos para nossa própria terra. Pois sua culpa alcança os céus; está acumulada até as nuvens. ^v9
 
-**10** O Senhor trouxe a nossa justiça à luz; vinde e contemos em Sião a obra do Senhor, nosso Deus. ^v10
+**10** Yahweh declarou nossa inocência. Vinde, contemos em Sião os atos de Yahweh nosso Deus.' ^v10
 
-**11** Aguçai as flechas, preparai os escudos; o SENHOR despertou o espírito dos reis da Média; porque o seu intento é contra babilônia para a destruir; porque esta é a vingança do SENHOR, a vingança do seu templo. ^v11
+**11** Afiai as flechas e pegai os escudos. Yahweh está agitando o espírito do rei da Média em um plano para destruir a Babilônia. Isto é por causa da vingança de Yahweh, vingança pela destruição de Seu Templo. ^v11
 
-**12** Arvorai um estandarte sobre os muros de babilônia, reforçai a guarda, colocai sentinelas, preparai as ciladas; porque como o SENHOR intentou, assim fez o que tinha falado contra os moradores de babilônia. ^v12
+**12** Levantai a bandeira sobre os muros da Babilônia; colocai os guardas; posicionai as sentinelas; preparai as emboscadas, pois Yahweh fará o que planejou. Ele fará o que tem anunciado contra os habitantes da Babilônia. ^v12
 
-**13** Ó tu, que habitas sobre muitas águas, rica de tesouros, é chegado o teu fim, a medida da tua avareza. ^v13
+**13** Tu, povo que vive próximo a muitas correntes de água, povo que és rico com tesouros; teu fim chegou. O fio de tua vida é, agora, encurtado. ^v13
 
-**14** Jurou o Senhor dos Exércitos por si mesmo, dizendo: Ainda que te enchi de homens, como de lagarta, contudo levantarão gritaria contra ti. ^v14
+**14** Yahweh dos Exércitos jurou por Sua própria vida: 'Eu vos encherei de inimigos, como uma praga de gafanhotos; eles levantarão um grito de guerra contra vós.' ^v14
 
-**15** Ele fez a terra com o seu poder, e ordenou o mundo com a sua sabedoria, e estendeu os céus com o seu entendimento. ^v15
+**15** Ele fez a terra por Seu poder; Ele colocou o mundo no lugar por Sua sabedoria. Por Seu entendimento, estendeu os céus. ^v15
 
-**16** Fazendo ele ouvir a sua voz, grande estrondo de águas há nos céus, e faz subir os vapores desde o fim da terra; faz os relâmpagos com a chuva, e tira o vento dos seus tesouros, ^v16
+**16** Quando Ele brada como trovão, há o rugido das águas nos céus, pois Ele traz as nuvens dos confins da terra. Ele faz os relâmpagos para a chuva e envia o vento de Seus tesouros. ^v16
 
-**17** Embrutecido é todo o homem, no seu conhecimento; envergonha-se todo o artífice da imagem de escultura; porque a sua imagem de fundição é mentira, e nelas não há espírito. ^v17
+**17** Todo homem torna-se como um animal absolutamente ignorante; todo ferreiro é envergonhado por seus ídolos. Seus ídolos fundidos e derramados são fraudes; não há vida neles. ^v17
 
-**18** Vaidade são, obra de enganos; no tempo da sua visitação perecerão. ^v18
+**18** Eles são inúteis, trabalho dos zombadores; eles perecerão no tempo de sua punição. ^v18
 
-**19** Não é semelhante a estes a porção de Jacó; porque ele é o que formou tudo; e Israel é a tribo da sua herança; o Senhor dos Exércitos é o seu nome. ^v19
+**19** Mas Deus, a porção de Jacó, não é como eles, pois Ele é quem molda todas as coisas. Israel é a tribo de Sua herança; Yahweh dos Exércitos é o Seu nome . ^v19
 
-**20** Tu és meu machado de batalha e minhas armas de guerra, e por meio de ti despedaçarei as nações e por ti destruirei os reis; ^v20
+**20** Tu, Babilônia, és Meu martelo de guerra, Minha arma para a batalha. Contigo esmagarei nações e destruirei reinos. ^v20
 
-**21** E por meio de ti despedaçarei o cavalo e o seu cavaleiro; e por meio de ti despedaçarei o carro e o que nele vai; ^v21
+**21** Contigo esmagarei cavalos e seus cavaleiros; contigo esmagarei carruagens e seus condutores. ^v21
 
-**22** E por meio de ti despedaçarei o homem e a mulher, e por meio de ti despedaçarei o velho e o moço, e por meio de ti despedaçarei o jovem e a virgem; ^v22
+**22** Contigo esmagarei cada homem e mulher; contigo esmagarei os velhos e os novos. Contigo esmagarei os jovens e as virgens. ^v22
 
-**23** E por meio de ti despedaçarei o pastor e o seu rebanho, e por meio de ti despedaçarei o lavrador e a sua junta de bois, e por meio de ti despedaçarei os capitães e os magistrados. ^v23
+**23** Contigo esmagarei os pastores e seus rebanhos; contigo esmagarei o lavrador e sua junta de bois. Contigo esmagarei os governadores e oficiais. ^v23
 
-**24** E pagarei a babilônia, e a todos os moradores da Caldéia, toda a maldade que fizeram em Sião, aos vossos olhos, diz o SENHOR. ^v24
+**24** À sua vista, Eu pagarei à Babilônia e a todos os seus habitantes por todo o mal que fizeram em Sião. Esta é a declaração de Yahweh. ^v24
 
-**25** Eis-me aqui contra ti, ó monte destruidor, diz o Senhor, que destróis toda a terra; e estenderei a minha mão contra ti, e te revolverei das rochas, e farei de ti um monte de queima. ^v25
+**25** Vede, Eu sou contra ti, montanha de destruição; tu que destróis toda a terra – esta é a declaração de Yahweh. Eu a atingirei com Minha mão e a rolarei para baixo dos penhascos. Depois, farei de ti uma montanha completamente queimada. ^v25
 
-**26** E não tomarão de ti pedra para esquina, nem pedra para fundamentos, porque te tornarás em assolação perpétua, diz o Senhor. ^v26
+**26** Eles não tirarão de ti qualquer pedra para a construção, nem pedra angular nem alicerce, pois tu te tornarás uma eterna devastação – esta é a declaração de Yahweh. ^v26
 
-**27** Arvorai um estandarte na terra, tocai a buzina entre as nações, preparai as nações contra ela, convocai contra ela os reinos de Ararate, Mini, e Asquenaz; ordenai contra ela um capitão, fazei subir cavalos, como lagartas eriçadas. ^v27
+**27** Levantai um estandarte sobre a terra. Tocai a trombeta sobre as nações. Chamai as nações para atacá-la. Convocai contra ela os reinos de Ararate, Mini e Asquenaz; indicai um comandante para atacá-la; trazei cavalos como enxame de gafanhotos. ^v27
 
-**28** Preparai contra ela as nações, os reis da Média, os seus capitães, e todos os seus magistrados, e toda a terra do seu domínio. ^v28
+**28** Preparai as nações para atacá-la: os reis dos medos e seus governantes, todos os seus oficiais e todas as terras sob seu comando. ^v28
 
-**29** Então tremerá a terra, e doer-se-á, porque cada um dos desígnios do SENHOR está firme contra babilônia, para fazer da terra de babilônia uma desolação, sem habitantes. ^v29
+**29** Porque a terra tremerá e se angustiará, visto que os planos de Yahweh continuam contra a Babilônia, para fazer da terra da Babilônia uma terra devastada, onde não há morador. ^v29
 
-**30** Os poderosos de babilônia cessaram de pelejar, ficaram nas fortalezas, desfaleceu a sua força, tornaram-se como mulheres; incendiaram as suas moradas, quebrados foram os seus ferrolhos. ^v30
+**30** Os soldados da Babilônia pararam de guerrear; eles ficaram nas fortalezas. Suas forças falharam; eles se tornaram como mulheres; suas casas estão em chamas; as barras de seus portões estão quebradas. ^v30
 
-**31** Um correio correrá ao encontro de outro correio, e um mensageiro ao encontro de outro mensageiro, para anunciar ao rei de babilônia que a sua cidade está tomada de todos os lados. ^v31
+**31** Um emissário corre para proclamar a outro emissário, e um mensageiro conta a outro mensageiro, para reportar ao rei da Babilônia que sua cidade foi tomada de ponta a ponta. ^v31
 
-**32** E os vaus estão ocupados, e os canaviais queimados a fogo; e os homens de guerra ficaram assombrados. ^v32
+**32** Assim, as travessias sobre o rio estão dominadas; o inimigo queima os pântanos de junco, e os guerreiros da Babilônia ficam amedrontados. ^v32
 
-**33** Porque assim diz o SENHOR dos Exércitos, o Deus de Israel: A filha de babilônia é como uma eira, no tempo da debulha; ainda um pouco, e o tempo da sega lhe virá. ^v33
+**33** Pois Yahweh dos Exércitos, Deus de Israel, diz: A filha da Babilônia é como eira no tempo da debulha. É o tempo de pisá-la. Em breve, o tempo da colheita virá para ela. ^v33
 
-**34** Nabucodonosor, rei de babilônia, devorou-me, colocou-me de lado, fez de mim um vaso vazio, como chacal me tragou, encheu o seu ventre das minhas delicadezas; lançou-me fora. ^v34
+**34** 'Nabucodonosor, rei da Babilônia, me devorou, me drenou, me secou e me transformou em um vaso vazio. Ele me engoliu como um monstro marinho. Ele encheu seu estômago com minhas comidas finas e me vomitou.' ^v34
 
-**35** A violência que se fez a mim e à minha carne venha sobre babilônia, dirá a moradora de Sião; e o meu sangue caia sobre os moradores da Caldéia, dirá Jerusalém. ^v35
+**35** Os habitantes de Sião dirão: 'Que a violência feita a mim e à minha família seja contra a Babilônia', Jerusalém dirá: 'Que o meu sangue seja contra os habitantes da Babilônia.' ^v35
 
-**36** Portanto, assim diz o Senhor: Eis que pleitearei a tua causa, e tomarei vingança por ti; e secarei o seu mar, e farei que se esgote o seu manancial. ^v36
+**36** "Portanto Yahweh diz: ""Vede, estou prestes a defender teu caso e trazer vingança para ti, pois secarei as águas da Babilônia e farei com que suas nascentes sequem." ^v36
 
-**37** E babilônia se tornará em montões, morada de chacais, espanto e assobio, sem que haja quem nela habite. ^v37
+**37** A Babilônia se tornará uma pilha de entulho, uma morada de chacais, um horror, objeto de zombaria, onde não há habitantes. ^v37
 
-**38** Juntamente rugirão como filhos dos leões; bramarão como filhotes de leões. ^v38
+**38** Os babilônios rugirão juntos como leões jovens . Eles rosnarão como filhotes de leão. ^v38
 
-**39** Estando eles excitados, lhes darei a sua bebida, e os embriagarei, para que andem saltando; porém dormirão um perpétuo sono, e não acordarão, diz o Senhor. ^v39
+**39** Quando eles estiverem excitados com a ganância, Eu farei para eles um banquete; Eu os farei embriagarem-se para que fiquem felizes e, depois, durmam um sono interminável e não acordem – esta é a declaração de Yahweh. ^v39
 
-**40** Fá-los-ei descer como cordeiros à matança, como carneiros e bodes. ^v40
+**40** Eu os farei descer como cordeiros ao matadouro, como carneiros e bodes. ^v40
 
-**41** Como foi tomada Sesaque, e apanhada de surpresa a glória de toda a terra! Como se tornou babilônia objeto de espanto entre as nações! ^v41
+**41** Como a Babilônia foi capturada, então, o louvor de toda a terra foi confiscado. Como a Babilônia se tornou um lugar de ruínas entre as nações. ^v41
 
-**42** O mar subiu sobre babilônia; com a multidão das suas ondas se cobriu. ^v42
+**42** O mar veio sobre a Babilônia! Ela está coberta com o tumulto das suas ondas. ^v42
 
-**43** Tornaram-se as suas cidades em desolação, terra seca e deserta, terra em que ninguém habita, nem passa por ela filho de homem. ^v43
+**43** Suas cidades tornaram-se desolações, uma terra seca e um deserto, uma terra que ninguém habita, e nenhum ser humano passa através dela. ^v43
 
-**44** E castigarei a Bel em babilônia, e tirarei da sua boca o que tragou, e nunca mais concorrerão a ele as nações; também o muro de babilônia caiu. ^v44
+**44** Então, eu punirei Bel na Babilônia; Eu trarei para fora de sua boca o que ele engoliu, e as nações deixarão de ir até ele com suas ofertas. Os muros da Babilônia cairão. ^v44
 
-**45** Saí do meio dela, ó povo meu, e livrai cada um a sua alma do ardor da ira do Senhor. ^v45
+**45** Saí do meio dela, Meu povo. Deixai que cada um salve sua própria vida do furor de Minha ira. ^v45
 
-**46** E para que porventura não se enterneça o vosso coração, e não temais pelo rumor que se ouvir na terra; porque virá num ano um rumor, e depois noutro ano outro rumor; e haverá violência na terra, dominador contra dominador. ^v46
+**46** Não deixeis que vossos corações fiquem tímidos ou temerosos das notícias que são ouvidas na terra, pois as notícias virão em um ano. Após isso, no próximo ano, haverá novidades, e a violência estará na terra. Dominador contra dominador. ^v46
 
-**47** Portanto, eis que vêm dias, em que farei juízo sobre as imagens de escultura de babilônia, e toda a sua terra será envergonhada, e todos os seus mortos cairão no meio dela. ^v47
+**47** Portanto, vede, vêm os dias quando punirei os ídolos esculpidos da Babilônia. Toda sua terra será envergonhada, e todos os seus abatidos cairão em seu meio. ^v47
 
-**48** E os céus e a terra, com tudo quanto neles há, jubilarão sobre babilônia; porque do norte lhe virão os destruidores, diz o SENHOR. ^v48
+**48** Depois, os céus e a terra e tudo neles se regozijarão sobre a Babilônia. Pois os destruidores virão por ela do norte – esta é a declaração de Yahweh. ^v48
 
-**49** Como babilônia fez cair mortos os de Israel, assim em babilônia cairão os mortos de toda a terra. ^v49
+**49** Assim como a Babilônia fez os mortos de Israel caírem, os mortos de sua terra cairão na Babilônia. ^v49
 
-**50** Vós, que escapastes da espada, ide-vos, não pareis; de longe lembrai-vos do Senhor, e suba Jerusalém a vossa mente. ^v50
+**50** Sobreviventes da espada, ide! Não permaneçais. Lembrai-vos de Yahweh de longe; deixai Jerusalém vir à vossa mente. ^v50
 
-**51** Direis: Envergonhados estamos, porque ouvimos opróbrio; vergonha cobriu o nosso rosto, porquanto vieram estrangeiros contra os santuários da casa do Senhor. ^v51
+**51** Nós estamos envergonhados, pois ouvimos insultos; a repreensão cobriu nossas faces, pois os estrangeiros entraram nos lugares sagrados da Casa de Yahweh. ^v51
 
-**52** Portanto, eis que vêm dias, diz o Senhor, em que farei juízo sobre as suas imagens de escultura; e gemerão os feridos em toda a sua terra. ^v52
+**52** Portanto, vede, dias virão quando eu punirei seus ídolos esculpidos. Os feridos irão gemer em toda a sua terra – esta é a declaração de Yahweh. ^v52
 
-**53** Ainda que babilônia subisse aos céus, e ainda que fortificasse a altura da sua fortaleza, todavia de mim virão destruidores sobre ela, diz o SENHOR. ^v53
+**53** Porque, mesmo que a Babilônia suba aos céus ou fortifique suas fortalezas mais altas, os destruidores virão por Mim contra ela – esta é a declaração de Yahweh. ^v53
 
-**54** De babilônia se ouve clamor de grande destruição da terra dos caldeus; ^v54
+**54** Um grito de socorro veio da Babilônia, uma grande ruína da terra dos caldeus. ^v54
 
-**55** Porque o SENHOR tem destruído babilônia, e tem feito perecer nela a sua grande voz; quando as suas ondas bramam como muitas águas, é emitido o ruído da sua voz. ^v55
+**55** Porque Yahweh destrói a Babilônia e faz a sua grande voz perecer. Seus inimigos rugem como as ondas de muitas águas; seu barulho torna-se muito forte. ^v55
 
-**56** Porque o destruidor vem sobre ela, sobre babilônia, e os seus poderosos serão presos, já estão quebrados os seus arcos; porque o SENHOR, Deus das recompensas, certamente lhe retribuirá. ^v56
+**56** Porque os destruidores vieram contra ela, contra a Babilônia; e seus guerreiros foram capturados. Seus arcos estão quebrados, pois Yahweh é o Deus da vingança. Ele, certamente, realizará essa retribuição. ^v56
 
-**57** E embriagarei os seus príncipes, e os seus sábios e os seus capitães, e os seus magistrados, e os seus poderosos; e dormirão um sono eterno, e não acordarão, diz o Rei, cujo nome é o Senhor dos Exércitos. ^v57
+**57** Pois eu farei seus príncipes, seus sábios, seus oficiais e seus soldados embriagarem-se, e eles dormirão um interminável sono e nunca acordarão. Esta é a declaração do Rei! Yahweh dos Exércitos é o seu nome. ^v57
 
-**58** Assim diz o SENHOR dos Exércitos: Os largos muros de babilônia serão totalmente derrubados, e as suas altas portas serão abrasadas pelo fogo; e trabalharão os povos em vão, e as nações no fogo, e eles se cansarão. ^v58
+**58** "Yahweh dos Exércitos diz: Os largos muros da Babilônia serão completamente demolidos, e seus altos portões serão queimados. Então, os povos que vierem em sua ajuda farão o seu trabalho em vão; tudo o que as nações tentarem fazer por ela, será queimado.""" ^v58
 
-**59** A palavra que Jeremias, o profeta, mandou a Seraías, filho de Nerias, filho de Maaséias, indo ele com Zedequias, rei de Judá, a babilônia, no quarto ano do seu reinado. E Seraías era o camareiro-mor. ^v59
+**59** Esta é a palavra que Jeremias, o profeta, ordenou a Seraías, filho de Nerias, filho de Maseias quando ele foi com Zedequias, rei de Judá, à Babilônia, no quarto ano de seu reinado. Seraías era o chefe dos oficiais. ^v59
 
-**60** Escreveu, pois, Jeremias num livro todo o mal que havia de vir sobre babilônia, a saber, todas estas palavras que estavam escritas contra babilônia. ^v60
+**60** Porque Jeremias escreveu em um livro sobre todo o desastre que estava por vir sobre a Babilônia; todas estas palavras estão escritas a respeito da Babilônia. ^v60
 
-**61** E disse Jeremias a Seraías: Quando chegares a babilônia, verás e lerás todas estas palavras. ^v61
+**61** "Jeremias disse a Seraías: ""Quandos fores à Babilônia, verás e lerás essas palavras em voz alta." ^v61
 
-**62** E dirás: Senhor, tu falaste contra este lugar, que o havias de desarraigar, até não ficar nele morador algum, nem homem nem animal, e que se tornaria em perpétua desolação. ^v62
+**62** E dirás: 'Yahweh, Tu mesmo declaraste que destruirias este lugar. Não haverá habitantes, nem pessoas, nem animais. Será, permanentemente, desolada.' ^v62
 
-**63** E será que, acabando tu de ler este livro, atar-lhe-ás uma pedra e lançá-lo-ás no meio do Eufrates. ^v63
+**63** Então, quando terminares de ler este livro, amarra uma pedra nele e o joga no meio do Eufrates. ^v63
 
-**64** E dirás: Assim será afundada babilônia, e não se levantará, por causa do mal que eu hei de trazer sobre ela; e eles se cansarão. Até aqui são as palavras de Jeremias. ^v64
+**64** "Dize: 'A Babilônia afundará como isto. E não surgirá por causa do desastre que estou enviando contra ela, e eles cairão."" As palavras de Jeremias terminam aqui." ^v64

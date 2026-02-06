@@ -1,53 +1,52 @@
 ---
-Livro: "[[1 Samuel|1 Samuel]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/1 Samuel|1 Samuel]]"
+tags: [biblia]
 ---
 
 # 1 Samuel 16
 
-**1** Então disse o SENHOR a Samuel: Até quando terás dó de Saul, havendo-o eu rejeitado, para que não reine sobre Israel? Enche um chifre de azeite, e vem, enviar-te-ei a Jessé o belemita; porque dentre os seus filhos me tenho provido de um rei. ^v1
+**1** "Yahweh disse a Samuel: ""Por quanto tempo te lamenterás por Saul, sendo que o rejeitei para ser rei sobre Israel? Encha teu vaso de azeite e vai. Eu te enviarei a Jessé de Belém, pois Eu escolhi para Mim um rei entre seus filhos""." ^v1
 
-**2** Porém disse Samuel: Como irei eu? pois, ouvindo-o Saul, me matará. Então disse o Senhor: Toma uma bezerra das vacas em tuas mãos, e dize: Vim para sacrificar ao Senhor. ^v2
+**2** "Samuel disse: ""Como eu posso ir? Se Saul ouvir sobre isso, ele me matará"". Yahweh disse: ""Leve um bezerro contigo e diz: 'Eu vim para sacrificar a Yahweh'." ^v2
 
-**3** E convidarás a Jessé ao sacrifício; e eu te farei saber o que hás de fazer, e ungir-me-ás a quem eu te disser. ^v3
+**3** "Chame Jessé para o sacrifício, e Eu lhe mostrarei o que deves fazer. Tu ungirás para Mim aquele que Eu lhe disser""." ^v3
 
-**4** Fez, pois, Samuel o que dissera o Senhor, e veio a Belém; então os anciãos da cidade saíram ao encontro, tremendo, e disseram: De paz é a tua vinda? ^v4
+**4** "Samuel fez como Yahweh disse e foi a Belém. Os anciãos da cidade estavam tremendo enquanto vinham para encontrá-lo e disseram: ""Tu estás vindo em paz?""" ^v4
 
-**5** E disse ele: É de paz, vim sacrificar ao Senhor; santificai-vos, e vinde comigo ao sacrifício. E santificou ele a Jessé e a seus filhos, e os convidou ao sacrifício. ^v5
+**5** "Ele disse: ""Em paz. Eu vim para sacrificar a Yahweh. Santificai-vos para o sacrifício a Yahweh e vinde comigo"". E ele consagrou Jessé e seus filhos a Yahweh. Depois, ele os chamou para o sacrifício." ^v5
 
-**6** E sucedeu que, entrando eles, viu a Eliabe, e disse: Certamente está perante o Senhor o seu ungido. ^v6
+**6** Quando eles vieram, ele olhou para Eliabe e disse a si mesmo que o ungido de Yahweh certamente estava diante dele. ^v6
 
-**7** Porém o Senhor disse a Samuel: Não atentes para a sua aparência, nem para a grandeza da sua estatura, porque o tenho rejeitado; porque o Senhor não vê como vê o homem, pois o homem vê o que está diante dos olhos, porém o Senhor olha para o coração. ^v7
+**7** "Mas Yahweh disse a Samuel: ""Não olhe para a sua aparência externa, ou para a sua estatura, porque Eu o rejeitei. Pois Yahweh não vê como o homem vê; o homem olha para a aparência externa, mas Yahweh olha dentro do coração""." ^v7
 
-**8** Então chamou Jessé a Abinadabe, e o fez passar diante de Samuel, o qual disse: Nem a este tem escolhido o Senhor. ^v8
+**8** "Então, Jessé chamou Abinadabe e o fez passar diante de Samuel. E Samuel disse: ""Nem a este Yahweh escolheu""." ^v8
 
-**9** Então Jessé fez passar a Sama; porém disse: Tampouco a este tem escolhido o Senhor. ^v9
+**9** "Jessé fez passar Samá. E Samuel disse: ""Nem a este Yahweh escolheu""." ^v9
 
-**10** Assim fez passar Jessé a seus sete filhos diante de Samuel; porém Samuel disse a Jessé: O Senhor não tem escolhido a estes. ^v10
+**10** "Jessé fez sete de seus filhos passarem diante de Samuel. E Samuel disse a Jessé: ""Yahweh não escolheu nenhum destes""." ^v10
 
-**11** Disse mais Samuel a Jessé: Acabaram-se os moços? E disse: Ainda falta o menor, que está apascentando as ovelhas. Disse, pois, Samuel a Jessé: Manda chamá-lo, porquanto não nos assentaremos até que ele venha aqui. ^v11
+**11** "Então Samuel disse a Jessé: ""Estão todos os teus filhos aqui?"". Ele respondeu: ""Ainda falta o mais novo, mas ele está cuidando das ovelhas"". Samuel disse a Jessé: ""Mande que o busquem, pois nós não nos sentaremos até que ele venha aqui""." ^v11
 
-**12** Então mandou chamá-lo e fê-lo entrar (e era ruivo e formoso de semblante e de boa presença); e disse o Senhor: Levanta-te, e unge-o, porque é este mesmo. ^v12
+**12** "Jessé mandou que o trouxessem. Esse filho era ruivo e tinha olhos bonitos e uma bonita aparência. Yahweh disse: ""Levanta-te e unge-o, pois ele é o escolhido""." ^v12
 
-**13** Então Samuel tomou o chifre do azeite, e ungiu-o no meio de seus irmãos; e desde aquele dia em diante o Espírito do Senhor se apoderou de Davi; então Samuel se levantou, e voltou a Ramá. ^v13
+**13** Então, Samuel pegou o vaso de azeite e ungiu-o no meio de seus irmãos. O Espírito de Yahweh esteve em Davi daquele dia em diante. Então, Samuel se levantou e foi para Ramá. ^v13
 
-**14** E o Espírito do Senhor se retirou de Saul, e atormentava-o um espírito mau da parte do Senhor. ^v14
+**14** O Espírito de Yahweh deixou Saul, e um espírito maligno vindo de Yahweh o perturbava. ^v14
 
-**15** Então os criados de Saul lhe disseram: Eis que agora o espírito mau da parte de Deus te atormenta; ^v15
+**15** "Os servos de Saul lhe disseram: ""Vê, um espírito maligno vindo de Yahweh te perturba." ^v15
 
-**16** Diga, pois, nosso senhor a seus servos, que estão na tua presença, que busquem um homem que saiba tocar harpa, e será que, quando o espírito mau da parte de Deus vier sobre ti, então ele tocará com a sua mão, e te acharás melhor. ^v16
+**16** "Nosso mestre, manda agora teus servos que estão diante de ti procurarem por um homem que seja um exímio tocador de harpa. Então, quando o espírito maligno, vindo de Deus, estiver em ti, ele a tocará e tu ficarás bem""." ^v16
 
-**17** Então disse Saul aos seus servos: Buscai-me, pois, um homem que toque bem, e trazei-mo. ^v17
+**17** "Saul disse a seus servos: ""Encontrai para mim um homem que saiba tocar bem e trazei-o a mim""." ^v17
 
-**18** Então respondeu um dos moços, e disse: Eis que tenho visto a um filho de Jessé, o belemita, que sabe tocar e é valente e vigoroso, e homem de guerra, e prudente em palavras, e de gentil presença; o Senhor é com ele. ^v18
+**18** "Então, um dos jovens respondeu, dizendo: ""Eu vi um filho de Jessé, o belemita, que tem o dom de tocar. Um homem forte e corajoso, um homem de guerra, de discurso prudente, um homem de boa aparência; e Yahweh é com ele""." ^v18
 
-**19** E Saul enviou mensageiros a Jessé, dizendo: Envia-me Davi, teu filho, o que está com as ovelhas. ^v19
+**19** "Então, Saul mandou os mensageiros a Jessé, e disse: ""Envia a mim teu filho Davi, que é pastor de ovelhas""." ^v19
 
-**20** Então tomou Jessé um jumento carregado de pão, e um odre de vinho, e um cabrito, e enviou-os a Saul pela mão de Davi, seu filho. ^v20
+**20** Jessé pegou um jumento carregado com pão, um recipiente com vinho, e um novilho, e os mandou a Saul, juntamente com seu filho Davi. ^v20
 
-**21** Assim Davi veio a Saul, e esteve perante ele, e o amou muito, e foi seu pajem de armas. ^v21
+**21** E Davi veio para Saul e entrou a seu serviço. Saul o amou grandemente, e ele se tornou seu escudeiro. ^v21
 
-**22** Então Saul mandou dizer a Jessé: Deixa estar a Davi perante mim, pois achou graça em meus olhos. ^v22
+**22** "Saul enviou um mensageiro a Jessé, dizendo: ""Deixa que Davi esteja diante de mim, pois ele achou favor aos meus olhos""." ^v22
 
-**23** E sucedia que, quando o espírito mau da parte de Deus vinha sobre Saul, Davi tomava a harpa, e a tocava com a sua mão; então Saul sentia alívio, e se achava melhor, e o espírito mau se retirava dele. ^v23
+**23** Sempre que o espírito maligno vindo de Deus estava sobre Saul, Davi pegava a harpa e a tocava. Assim, Saul se acalmava e ficava bem, pois o espírito maligno se afastava dele. ^v23

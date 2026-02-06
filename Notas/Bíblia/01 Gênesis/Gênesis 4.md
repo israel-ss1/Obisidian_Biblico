@@ -1,59 +1,58 @@
 ---
-Livro: "[[Gênesis|Gênesis]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Gênesis|Gênesis]]"
+tags: [biblia]
 ---
 
 # Gênesis 4
 
-**1** E conheceu Adão a Eva, sua mulher, e ela concebeu e deu à luz a Caim, e disse: Alcancei do SENHOR um homem. ^v1
+**1** "Adão conheceu Eva, sua mulher. Ela concebeu e deu à luz Caim. Ela disse: ""Eu tive um filho homem com ajuda de Deus Yahweh""." ^v1
 
-**2** E deu à luz mais a seu irmão Abel; e Abel foi pastor de ovelhas, e Caim foi lavrador da terra. ^v2
+**2** Então ela deu à luz seu irmão Abel. Agora, Abel tornou-se um pastor de ovelhas, mas Caim lavrava a terra. ^v2
 
-**3** E aconteceu ao cabo de dias que Caim trouxe do fruto da terra uma oferta ao Senhor. ^v3
+**3** Passado algum tempo, Caim trouxe alguns frutos da terra e os ofereceu a Deus Yahweh. ^v3
 
-**4** E Abel também trouxe dos primogênitos das suas ovelhas, e da sua gordura; e atentou o Senhor para Abel e para a sua oferta. ^v4
+**4** E Abel trouxe as primícias e gorduras do seu rebanho. Yahweh agradou-se de Abel e de sua oferta, ^v4
 
-**5** Mas para Caim e para a sua oferta não atentou. E irou-se Caim fortemente, e descaiu-lhe o semblante. ^v5
+**5** mas Ele não se agradou de Caim e da sua oferta. Assim Caim ficou muito furioso e com o semblante caído. ^v5
 
-**6** E o Senhor disse a Caim: Por que te iraste? E por que descaiu o teu semblante? ^v6
+**6** "Yahweh disse para Caim: ""Por que tu estás furioso e por que teu semblante está caído?" ^v6
 
-**7** Se bem fizeres, não é certo que serás aceito? E se não fizeres bem, o pecado jaz à porta, e sobre ti será o seu desejo, mas sobre ele deves dominar. ^v7
+**7** "Mas, se tu procederes como é correto, não serás aceito? Porém, se tu não procederes como é correto, o pecado espreita à porta e deseja te controlar, mas tu podes dominá-lo""." ^v7
 
-**8** E falou Caim com o seu irmão Abel; e sucedeu que, estando eles no campo, se levantou Caim contra o seu irmão Abel, e o matou. ^v8
+**8** "Caim falou para Abel, seu irmão: ""Vamos ao campo"". Enquanto eles estavam no campo, Caim levantou-se contra Abel, seu irmão, e o matou." ^v8
 
-**9** E disse o Senhor a Caim: Onde está Abel, teu irmão? E ele disse: Não sei; sou eu guardador do meu irmão? ^v9
+**9** "Então Yahweh disse para Caim: ""Onde está Abel, teu irmão?"" Ele disse: ""Eu não sei. Sou eu o guardador do meu irmão?""." ^v9
 
-**10** E disse Deus: Que fizeste? A voz do sangue do teu irmão clama a mim desde a terra. ^v10
+**10** "Yahweh disse: ""O que fizeste? A voz do sangue do teu irmão está clamando a Mim, desde o solo." ^v10
 
-**11** E agora maldito és tu desde a terra, que abriu a sua boca para receber da tua mão o sangue do teu irmão. ^v11
+**11** Agora és maldito pelo solo que escancarou a sua boca para receber o sangue do teu irmão que está em tuas mãos. ^v11
 
-**12** Quando lavrares a terra, não te dará mais a sua força; fugitivo e vagabundo serás na terra. ^v12
+**12** "Quando tu trabalhares, o solo não vai produzir. Serás um fugitivo e errante pela terra""." ^v12
 
-**13** Então disse Caim ao Senhor: É maior a minha maldade que a que possa ser perdoada. ^v13
+**13** "Caim disse a Yahweh: ""Minha punição é maior do que eu possa suportar." ^v13
 
-**14** Eis que hoje me lanças da face da terra, e da tua face me esconderei; e serei fugitivo e vagabundo na terra, e será que todo aquele que me achar, me matará. ^v14
+**14** De fato, hoje Tu tens me expulsado deste solo, e eu ficarei afastado da Tua presença. Eu serei um fugitivo e errante pela terra; e quem comigo encontrar, poderá matar-me. ^v14
 
-**15** O Senhor, porém, disse-lhe: Portanto qualquer que matar a Caim, sete vezes será castigado. E pôs o Senhor um sinal em Caim, para que o não ferisse qualquer que o achasse. ^v15
+**15** "E disse-lhe Yahweh: ""Qualquer que matar Caim será vingado sete vezes"". Então Yahweh colocou um sinal sobre Caim, para que não fosse morto por quem o encontrasse." ^v15
 
-**16** E saiu Caim de diante da face do Senhor, e habitou na terra de Node, do lado oriental do Éden. ^v16
+**16** Retirou-se Caim da presença de Yahweh e viveu na terra de Node, a leste do Éden. ^v16
 
-**17** E conheceu Caim a sua mulher, e ela concebeu, e deu à luz a Enoque; e ele edificou uma cidade, e chamou o nome da cidade conforme o nome de seu filho Enoque; ^v17
+**17** Caim conheceu sua mulher, que concebeu e deu à luz Enoque. Caim edificou uma cidade e pôs o nome de seu filho Enoque. ^v17
 
-**18** E a Enoque nasceu Irade, e Irade gerou a Meujael, e Meujael gerou a Metusael e Metusael gerou a Lameque. ^v18
+**18** De Enoque nasceu Irade. Irade gerou a Meujael. Meujael gerou a Metusael. Metusael gerou a Lameque. ^v18
 
-**19** E tomou Lameque para si duas mulheres; o nome de uma era Ada, e o nome da outra, Zilá. ^v19
+**19** Lameque tomou para si duas esposas: o nome de uma era Ada, e o nome da outra era Zila. ^v19
 
-**20** E Ada deu à luz a Jabal; este foi o pai dos que habitam em tendas e têm gado. ^v20
+**20** Ada deu à luz Jabal. Ele foi o pai daqueles que habitam em tendas e possuem gado. ^v20
 
-**21** E o nome do seu irmão era Jubal; este foi o pai de todos os que tocam harpa e órgão. ^v21
+**21** Seu irmão chamava-se Jubal. Ele foi o pai daqueles que tocam harpa e flauta. ^v21
 
-**22** E Zilá também deu à luz a Tubalcaim, mestre de toda a obra de cobre e ferro; e a irmã de Tubalcaim foi Noema. ^v22
+**22** Zila também teve um filho, Tubal-Caim, fabricante de ferramentas de bronze e ferro. A irmã de Tubal-Caim era Naamá. ^v22
 
-**23** E disse Lameque a suas mulheres Ada e Zilá: Ouvi a minha voz; vós, mulheres de Lameque, escutai as minhas palavras; porque eu matei um homem por me ferir, e um jovem por me pisar. ^v23
+**23** "Lameque disse para suas esposas: ""Ada e Zila,  escutai a minha voz, mulheres de Lameque; ouvi as minhas palavras, pois eu matei um homem por ferir-me, um jovem rapaz por pisar-me." ^v23
 
-**24** Porque sete vezes Caim será castigado; mas Lameque setenta vezes sete. ^v24
+**24** "Se Caim é vingado sete vezes , Lameque será vingado setenta e sete vezes""." ^v24
 
-**25** E tornou Adão a conhecer a sua mulher; e ela deu à luz um filho, e chamou o seu nome Sete; porque, disse ela, Deus me deu outro filho em lugar de Abel; porquanto Caim o matou. ^v25
+**25** "Tornou Adão a conhecer sua mulher e ela gerou outro filho, a quem pôs o nome de Sete; e ela disse: ""Deus me deu outro filho no lugar de Abel, pois Caim o matou""." ^v25
 
-**26** E a Sete também nasceu um filho; e chamou o seu nome Enos; então se começou a invocar o nome do Senhor. ^v26
+**26** A Sete também nasceu um filho e ele deu-lhe o nome de Enos. Foi nesse tempo que as pessoas começaram a invocar o nome de Yahweh. ^v26

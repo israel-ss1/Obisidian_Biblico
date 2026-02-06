@@ -1,69 +1,68 @@
 ---
-Livro: "[[Juízes|Juízes]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Juízes|Juízes]]"
+tags: [biblia]
 ---
 
 # Juízes 3
 
-**1** Estas, pois, são as nações que o SENHOR deixou ficar, para por elas provar a Israel, a saber, a todos os que não sabiam de todas as guerras de Canaã. ^v1
+**1** Ora, Yahweh deixou estas nações para pôr Israel à prova, isto é, todos em Israel que não haviam lutado nas guerras em Canaã ^v1
 
-**2** Tão-somente para que as gerações dos filhos de Israel delas soubessem (para lhes ensinar a guerra), pelo menos os que dantes não sabiam delas. ^v2
+**2** (Ele fez isto para que a nova geração de israelitas, que não tinha experiência, aprendesse a guerrear): ^v2
 
-**3** Cinco príncipes dos filisteus, e todos os cananeus, e sidônios, e heveus que habitavam nas montanhas do Líbano desde o monte de Baal-Hermom, até à entrada de Hamate. ^v3
+**3** cinco reis dos filisteus, todos os cananeus, os sidônios e os heveus que habitavam nos montes do Líbano, desde o monte Baal-Hermom até Lebo-Hamate. ^v3
 
-**4** Estes, pois, ficaram, para por eles provar a Israel, para saber se dariam ouvido aos mandamentos do Senhor, que ele tinha ordenado a seus pais, pelo ministério de Moisés. ^v4
+**4** Estas nações foram deixadas por Yahweh para provar Israel, a fim de averiguar se obedeceriam aos mandamentos que Ele dera aos seus antepassados, por intermédio de Moisés. ^v4
 
-**5** Habitando, pois, os filhos de Israel no meio dos cananeus, dos heteus, e amorreus, e perizeus, e heveus, e jebuseus, ^v5
+**5** Assim, o povo de Israel viveu entre os cananeus, os heteus, os amorreus, os perizeus, os heveus e os jebuseus. ^v5
 
-**6** Tomaram de suas filhas para si por mulheres, e deram as suas filhas aos filhos deles; e serviram aos seus deuses. ^v6
+**6** Casaram-se com as filhas destes, assim como deram suas próprias filhas, em casamento, aos filhos deles. E adoraram os seus deuses. ^v6
 
-**7** E os filhos de Israel fizeram o que era mau aos olhos do Senhor, e se esqueceram do Senhor seu Deus; e serviram aos baalins e a Astarote. ^v7
+**7** O povo de Israel fez o que era mau aos olhos de Yahweh e se esqueceu de Yahweh, o seu Deus. Eles adoraram os baalins e Aserá. ^v7
 
-**8** Então a ira do SENHOR se acendeu contra Israel, e ele os vendeu na mão de Cusã-Risataim, rei da mesopotâmia; e os filhos de Israel serviram a Cusã-Risataim oito anos. ^v8
+**8** Por isso, a ira de Yahweh se acendeu contra Israel, e Ele os entregou nas mãos de Cuchã-Risataim, rei da Mesopotâmia. Eles serviram a Cuchã-Risataim por oito anos. ^v8
 
-**9** E os filhos de Israel clamaram ao Senhor, e o Senhor levantou-lhes um libertador, que os libertou: Otniel, filho de Quenaz, irmão de Calebe, mais novo do que ele. ^v9
+**9** Quando o povo de Israel clamou a Yahweh, Yahweh levantou um libertador que viesse socorrê-los, o qual os libertaria: Otoniel, filho de Quenaz, irmão mais novo de Calebe. ^v9
 
-**10** E veio sobre ele o Espírito do Senhor, e julgou a Israel, e saiu à peleja; e o Senhor entregou na sua mão a Cusã-Risataim, rei da Síria; contra o qual prevaleceu a sua mão. ^v10
+**10** O Espírito de Yahweh o capacitou, e ele julgou Israel e saiu para a guerra. Yahweh deu-lhe vitória sobre Cuchã-Risataim, rei da Mesopotâmia. A mão de Otoniel derrotou Cuchã-Risataim. ^v10
 
-**11** Então a terra sossegou quarenta anos; e Otniel, filho de Quenaz, faleceu. ^v11
+**11** A terra teve paz por quarenta anos. Então, Otoniel, filho de Quenaz, morreu. ^v11
 
-**12** Porém os filhos de Israel tornaram a fazer o que era mau aos olhos do Senhor; então o Senhor fortaleceu a Eglom, rei dos moabitas, contra Israel; porquanto fizeram o que era mau aos olhos do Senhor. ^v12
+**12** Depois disso, os israelitas fizeram, novamente, o que era mau aos olhos de Yahweh. Então, Yahweh deu forças a Eglom, rei de Moabe, para se apoderar dos israelitas, porque haviam feito o que era mau aos olhos de Yahweh. ^v12
 
-**13** E reuniu consigo os filhos de Amom e os amalequitas, e foi, e feriu a Israel, e tomaram a cidade das palmeiras. ^v13
+**13** Eglom se uniu aos amonitas e aos amalequitas e, juntos, derrotaram Israel e tomaram a posse da cidade das Palmeiras. ^v13
 
-**14** E os filhos de Israel serviram a Eglom, rei dos moabitas, dezoito anos. ^v14
+**14** Os israelitas serviram a Eglom, rei de Moabe, por dezoito anos. ^v14
 
-**15** Então os filhos de Israel clamaram ao Senhor, e o Senhor lhes levantou um libertador, a Eúde, filho de Gera, filho de Jemim, homem canhoto. E os filhos de Israel enviaram pela sua mão um presente a Eglom, rei dos moabitas. ^v15
+**15** Quando o povo de Israel clamou a Yahweh, Yahweh levantou um libertador que os socorreria: Eúde, filho de Gera, um benjamita, homem canhoto. O povo de Israel o enviou, junto com os tributos, a Eglom, rei de Moabe. ^v15
 
-**16** E Eúde fez para si uma espada de dois fios, do comprimento de um côvado; e cingiu-a por baixo das suas vestes, à sua coxa direita. ^v16
+**16** Eúde fez para si uma espada de dois gumes, com um côvado de comprimento. Ele amarrou-a, por baixo da roupa, na sua coxa direita. ^v16
 
-**17** E levou aquele presente a Eglom, rei dos moabitas; e era Eglom homem muito gordo. ^v17
+**17** Ele entregou os tributos ao rei Eglom, de Moabe. Ora, Eglom era um homem muito gordo. ^v17
 
-**18** E sucedeu que, acabando de entregar o presente, despediu a gente que o trouxera. ^v18
+**18** Após Eúde ter deixado ali os tributos, ele saiu com os homens que haviam ajudado a carregá-los. ^v18
 
-**19** Porém ele mesmo voltou das imagens de escultura que estavam ao pé de Gilgal, e disse: Tenho uma palavra secreta para ti, ó rei. O qual disse: Cala-te. E todos os que lhe assistiam saíram de diante dele. ^v19
+**19** "Todavia, o próprio Eúde, quando chegou ao lugar onde havia imagens esculpidas perto de Gilgal, voltou e disse: ""Tenho uma mensagem secreta para ti, meu rei"". Eglom disse: ""Silêncio!"". Então, todos que o serviam deixaram a sala." ^v19
 
-**20** E Eúde entrou numa sala de verão, que o rei tinha só para si, onde estava sentado, e disse: Tenho, para dizer-te, uma palavra de Deus. E levantou-se da cadeira. ^v20
+**20** "Eúde veio até ele. O rei se encontrava sentado sozinho num quarto superior de verão. Eúde disse: ""Tenho uma mensagem de Deus para ti"". O rei levantou-se da sua cadeira." ^v20
 
-**21** Então Eúde estendeu a sua mão esquerda, e tirou a espada de sobre sua coxa direita, e lha cravou no ventre, ^v21
+**21** Eúde estendeu a mão esquerda e tirou a espada que estava amarrada na sua coxa direita, e a cravou no corpo do rei. ^v21
 
-**22** De tal maneira que entrou até o cabo após a lâmina, e a gordura encerrou a lâmina (porque não tirou a espada do ventre); e saiu-lhe o excremento. ^v22
+**22** O cabo da espada também entrou nele com a lâmina. A ponta da espada saiu pelas suas costas e a gordura se fechou sobre ela, pois Eúde não tirou a espada da barriga do rei. ^v22
 
-**23** Então Eúde saiu ao pátio, e fechou as portas da sala e as trancou. ^v23
+**23** Então, Eúde saiu para o pórtico, fechou e trancou as portas do quarto superior atrás de si. ^v23
 
-**24** E, saindo ele, vieram os servos do rei, e viram, e eis que as portas da sala estavam fechadas; e disseram: Sem dúvida está cobrindo seus pés na recâmara da sala de verão. ^v24
+**24** "Após sua saída, os servos do rei vieram e, vendo que as portas da sala superior estavam trancadas, pensaram: ""Certamente ele está fazendo as necessidades no quarto de verão""." ^v24
 
-**25** E, esperando até se alarmarem, eis que ele não abria as portas da sala; então tomaram a chave, e abriram, e eis ali seu senhor estendido morto em terra. ^v25
+**25** Mas eles foram ficando cada vez mais preocupados até sentirem que estavam negligenciando seus deveres, pois o rei ainda não havia aberto as portas do quarto superior. Então, tomaram a chave e abriram-nas, e ali estava o seu senhor, caído no chão, morto. ^v25
 
-**26** E Eúde escapou, enquanto eles se demoravam; porque ele passou pelas imagens de escultura, e escapou para Seirá. ^v26
+**26** Enquanto seus servos estavam esperando, imaginando o que deveriam fazer, Eúde escapou, passando pelo lugar onde havia as imagens esculpidas de ídolos e, dali, fugiu para Seirá. ^v26
 
-**27** E sucedeu que, chegando ele, tocou a buzina nas montanhas de Efraim, e os filhos de Israel desceram com ele das montanhas, e ele adiante deles. ^v27
+**27** Quando ele chegou, soou a trombeta na região montanhosa de Efraim. Então, o povo de Israel desceu das colinas, e Eúde os liderava. ^v27
 
-**28** E disse-lhes: Segui-me, porque o Senhor vos tem entregue vossos inimigos, os moabitas, nas vossas mãos; e desceram após ele, e tomaram os vaus do Jordão contra Moabe, e a ninguém deixaram passar. ^v28
+**28** "Ele lhes disse: ""Segui-me, pois Yahweh derrotará os vossos inimigos, os moabitas"". Eles o seguiram, tomaram as passagens do Jordão dos moabitas e não permitiram que ninguém atravessasse o rio." ^v28
 
-**29** E naquele tempo feriram dos moabitas uns dez mil homens, todos corpulentos, e todos homens valorosos; e não escapou nenhum. ^v29
+**29** Naquele tempo, mataram cerca de dez mil homens de Moabe.Todos fortes e hábeis, porém, nenhum deles escapou. ^v29
 
-**30** Assim foi subjugado Moabe naquele dia debaixo da mão de Israel; e a terra sossegou oitenta anos. ^v30
+**30** Foi assim que, naquele dia, Moabe foi subjugado pela força de Israel. E a terra teve descanso por oitenta anos. ^v30
 
-**31** Depois dele foi Sangar, filho de Anate, que feriu a seiscentos homens dos filisteus com uma aguilhada de bois; e também ele libertou a Israel. ^v31
+**31** Depois de Eúde, o juiz seguinte foi Sangar, filho de Anate, que matou seiscentos filisteus com uma vara utilizada para conduzir bois. Ele também libertou Israel do perigo. ^v31

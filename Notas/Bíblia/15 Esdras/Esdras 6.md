@@ -1,51 +1,50 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Esdras|Esdras]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Esdras|Esdras]]"
+tags: [biblia]
 ---
 
 # Esdras 6
 
-**1** Então o rei Dario deu ordem, e buscaram nos arquivos, onde se guardavam os tesouros em babilônia. ^v1
+**1** Então o rei Dario ordenou que se fizesse uma busca na casa dos arquivos da Babilônia. ^v1
 
-**2** E em Acmeta, no palácio, que está na província de Média, se achou um rolo, e nele estava escrito um memorial que dizia assim: ^v2
+**2** Na cidade fortificada de Ecbatana, na província da Média, um pergaminho foi encontrado, e este era o seu registro: ^v2
 
-**3** No primeiro ano do rei Ciro, este baixou o seguinte decreto: A casa de Deus, em Jerusalém, se reedificará para lugar em que se ofereçam sacrifícios, e seus fundamentos serão firmes; a sua altura de sessenta côvados, e a sua largura de sessenta côvados; ^v3
+**3** """No primeiro ano do rei Ciro, o rei emitiu um decreto sobre o Templo de Deus em Jerusalém: 'Que o templo seja reconstruído como um local para oferecer sacrifícios, que seus fundamentos sejam lançados; a sua altura seja sessenta côvados, e a sua largura, sessenta côvados," ^v3
 
-**4** Com três carreiras de grandes pedras, e uma carreira de madeira nova; e a despesa se fará da casa do rei. ^v4
+**4** com três fileiras de pedras grandes e uma fileira de madeira nova, e que os custos sejam pagos pela casa do rei. ^v4
 
-**5** Além disso, os utensílios de ouro e de prata da casa de Deus, que Nabucodonosor transportou do templo que estava em Jerusalém, e levou para babilônia, serão restituídos, para que voltem ao seu lugar, ao templo que está em Jerusalém, e serão postos na casa de Deus. ^v5
+**5** Agora, trazei de volta os utensílios de ouro e de prata que pertencem ao templo de Deus, os quais Nabucodonosor levou do templo em Jerusalém para o templo na Babilônia. Enviai-os de volta para o templo em Jerusalém e depositai-os dentro do templo de Deus.' ^v5
 
-**6** Agora, pois, Tatenai, governador dalém do rio, Setar-Bozenai, e os seus companheiros, os afarsaquitas, que habitais dalém do rio, apartai-vos dali. ^v6
+**6** Agora, pois, Tatenai, governador da província dalém do rio, Setar-Bozenai e vossos companheiros que estais na província dalém do rio Eufrates, afastai-vos desse lugar! ^v6
 
-**7** Deixai que se faça a obra desta casa de Deus; que o governador dos judeus e os seus anciãos reedifiquem esta casa de Deus no seu lugar. ^v7
+**7** Que ninguém interfira na obra do templo de Deus, para que o governador dos judeus e os seus anciãos construam esse templo de Deus no seu lugar . ^v7
 
-**8** Também por mim se decreta o que haveis de fazer com os anciãos dos judeus, para a reedificação desta casa de Deus, a saber: que da fazenda do rei, dos tributos dalém do rio se pague prontamente a despesa a estes homens, para que não interrompam a obra. ^v8
+**8** Eu estou ordenando o que deveis fazer para com esses anciãos judeus que estão na construção do templo de Deus: dos fundos reais dos tributos recebidos da província dalém do rio Eufrates, paguem todas as despesas a estes homens, para que a obra não seja interrompida. ^v8
 
-**9** E o que for necessário, como bezerros, carneiros, e cordeiros, para holocaustos ao Deus dos céus, trigo, sal, vinho e azeite, segundo o rito dos sacerdotes que estão em Jerusalém, dê-se-lhes, de dia em dia, para que não haja falta. ^v9
+**9** Tudo quanto for necessário: novilhos, carneiros, ou cordeiros para os holocaustos para o Deus dos céus; grãos, sal, vinho ou azeite, de acordo com a palavra dos sacerdotes em Jerusalém, dai a eles, todos os dias, sem falta. ^v9
 
-**10** Para que ofereçam sacrifícios de cheiro suave ao Deus dos céus, e orem pela vida do rei e de seus filhos. ^v10
+**10** Fazei isso para que levem a oferta de aroma agradável ao Deus dos céus e orai por mim, o rei, e por meus filhos. ^v10
 
-**11** Também por mim se decreta que todo o homem que mudar este decreto, se arrancará um madeiro da sua casa, e, levantado, o pendurarão nele, e da sua casa se fará por isso um monturo. ^v11
+**11** Eu ordeno que, se qualquer um violar este decreto, uma viga seja arrancada de sua casa e ele seja empalado nela. Sua casa será transformada em um amontoado de entulho por causa disso. ^v11
 
-**12** O Deus, pois, que fez habitar ali o seu nome derrube a todos os reis e povos que estenderem a sua mão para mudar o decreto e para destruir esta casa de Deus, que está em Jerusalém. Eu, Dario, baixei o decreto; com diligência se faça. ^v12
+**12** "Que Deus, que fez habitar lá o Seu nome, derrube qualquer rei ou povo que levantar a mão para mudar este decreto ou para destruir o templo de Deus em Jerusalém. Eu, Dario, promulguei este decreto. Que seja executado com diligência!""" ^v12
 
-**13** Então Tatenai, o governador dalém do rio, Setar-Bozenai e os seus companheiros, assim fizeram diligentemente, conforme ao que decretara o rei Dario. ^v13
+**13** Então, depois do decreto enviado pelo rei Dario, Tatenai, o governador da província deste lado do rio Eufrates, Setar-Bozenai e seus companheiros fizeram tudo que o rei Dario ordenara. ^v13
 
-**14** E os anciãos dos judeus iam edificando e prosperando pela profecia do profeta Ageu, e de Zacarias, filho de Ido. E edificaram e terminaram a obra conforme ao mandado do Deus de Israel, e conforme ao decreto de Ciro e Dario, e de Artaxerxes, rei da Pérsia. ^v14
+**14** Assim, os anciãos dos judeus construíram do modo como Ageu e Zacarias instruíram por profecia. Eles construíram de acordo com a ordem do Deus de Israel e os decretos de Ciro, de Dario e de Artaxerxes, reis da Pérsia. ^v14
 
-**15** E acabou-se esta casa no terceiro dia do mês de Adar, no sexto ano do reinado do rei Dario. ^v15
+**15** O templo foi concluído no terceiro dia do mês de Adar, no sexto ano do reinado do rei Dario. ^v15
 
-**16** E os filhos de Israel, os sacerdotes, os levitas, e o restante dos filhos do cativeiro, fizeram a dedicação desta casa de Deus com alegria. ^v16
+**16** O povo israelita, sacerdotes, levitas e o restante dos cativos celebraram com alegria a dedicação do templo de Deus. ^v16
 
-**17** E ofereceram para a dedicação desta casa de Deus cem novilhos, duzentos carneiros, quatrocentos cordeiros, e doze cabritos por expiação do pecado de todo o Israel; segundo o número das tribos de Israel. ^v17
+**17** Eles ofereceram cem touros, duzentos carneiros e quatrocentos cordeiros para a dedicação do templo de Deus. Doze bodes também foram oferecidos como oferta pelo pecado por todo o Israel, um para cada tribo em Israel. ^v17
 
-**18** E puseram os sacerdotes nas suas turmas e os levitas nas suas divisões, para o ministério de Deus, em Jerusalém, conforme ao que está escrito no livro de Moisés. ^v18
+**18** Eles também nomearam os sacerdotes em suas divisões e levitas em suas classes para o serviço de Deus em Jerusalém, como estava escrito no livro de Moisés. ^v18
 
-**19** E os filhos do cativeiro celebraram a páscoa no dia catorze do primeiro mês. ^v19
+**19** Então aqueles que estavam no exílio celebraram a Páscoa no décimo quarto dia do primeiro mês. ^v19
 
-**20** Porque os sacerdotes e levitas se purificaram como se fossem um só homem, todos estavam limpos; e mataram o cordeiro da páscoa para todos os filhos do cativeiro, e para seus irmãos, os sacerdotes, e para si mesmos. ^v20
+**20** Os sacerdotes e levitas se purificaram e fizeram os sacrifícios da Páscoa por todos aqueles que estavam no exílio, incluindo eles mesmos. ^v20
 
-**21** Assim comeram a páscoa os filhos de Israel que tinham voltado do cativeiro, com todos os que com eles se apartaram da imundícia dos gentios da terra, para buscarem o Senhor Deus de Israel; ^v21
+**21** Os israelitas que comeram o cordeiro pascoal foram aqueles que retornaram do exílio, que se separaram da impureza dos povos da terra e procuraram Yahweh, o Deus de Israel. ^v21
 
-**22** E celebraram a festa dos pães ázimos por sete dias com alegria; porque o Senhor os tinha alegrado, e tinha mudado o coração do rei da Assíria a favor deles, para lhes fortalecer as mãos na obra da casa de Deus, o Deus de Israel. ^v22
+**22** Eles celebraram alegremente a Festa dos Pães sem Fermento, por sete dias, pois Yahweh trouxe-lhes alegria e mudou o coração do rei da Assíria a favor deles, para lhes fortalecer as mãos na obra de Seu templo, o templo do Deus de Israel. ^v22

@@ -1,17 +1,16 @@
 ---
-Livro: "[[Salmos|Salmos]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Salmos|Salmos]]"
+tags: [biblia]
 ---
 
 # Salmos 93
 
-**1** O SENHOR reina; está vestido de majestade. O SENHOR se revestiu e cingiu de poder; o mundo também está firmado, e não poderá vacilar. ^v1
+**1** Yahweh reina; Ele está vestido de majestade. Yahweh está vestido de força; Ele está cingido de poder. O mundo está firmemente estabelecido; não pode ser abalado. ^v1
 
-**2** O teu trono está firme desde então; tu és desde a eternidade. ^v2
+**2** Teu trono está estabelecido desde tempos antigos; Tu és desde a eternidade. ^v2
 
-**3** Os rios levantam, ó Senhor, os rios levantam o seu ruído, os rios levantam as suas ondas. ^v3
+**3** Os oceanos se levantam, Yahweh; eles levantaram sua voz; suas ondas batem e rugem. ^v3
 
-**4** Mas o Senhor nas alturas é mais poderoso do que o ruído das grandes águas e do que as grandes ondas do mar. ^v4
+**4** Acima do ruído de muitas ondas, mais poderoso que as rebentações do mar, mais poderoso é Yahweh nas alturas. ^v4
 
-**5** Mui fiéis são os teus testemunhos; a santidade convém à tua casa, Senhor, para sempre. ^v5
+**5** Teus solenes comandos são extremamente fiéis; a santidade ornamenta Tua Casa, Yahweh, para sempre. ^v5

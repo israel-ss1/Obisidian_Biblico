@@ -1,97 +1,96 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Josué|Josué]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Josué|Josué]]"
+tags: [biblia]
 ---
 
 # Josué 21
 
-**1** Então os cabeças dos pais dos levitas se achegaram a Eleazar, o sacerdote, e a Josué, filho de Num, e aos cabeças dos pais das tribos dos filhos de Israel; ^v1
+**1** Então, os líderes tribais dos levitas foram até Eleazar, o sacerdote, e a Josué, filho de Num, e até os líderes das famílias de seus antepassados dentro do povo de Israel. ^v1
 
-**2** E falaram-lhes em Siló, na terra de Canaã, dizendo: O Senhor ordenou, pelo ministério de Moisés, que se nos dessem cidades para habitar, e os seus arrabaldes para os nossos animais. ^v2
+**2** "E disseram-lhes em Siló, na terra de Canaã: ""Yahweh vos ordenou, pela mão de Moisés, que nos désseis cidades para nela habitar, e pastagens para o nosso gado""." ^v2
 
-**3** Por isso os filhos de Israel deram aos levitas da sua herança, conforme a ordem do Senhor, as seguintes cidades e os seus arrabaldes. ^v3
+**3** Então, pela ordem de Yahweh, o povo de Israel deu de suas heranças aos levitas as seguintes cidades e seus pastos: ^v3
 
-**4** E saiu a sorte para as famílias dos coatitas; e aos filhos de Arão, o sacerdote, que eram dos levitas, tiveram por sorte da tribo de Judá, e da tribo de Simeão, e da tribo de Benjamim, treze cidades; ^v4
+**4** O clã dos coatitas foi sorteado. Assim, os sacerdotes, os descendentes de Arão, que eram dos levitas, receberam treze cidades da tribo de Judá, da tribo de Simeão, e da tribo de Benjamim. ^v4
 
-**5** E aos outros filhos de Coate couberam por sorte, das famílias da tribo de Efraim, e da tribo de Dã, e da meia tribo de Manassés, dez cidades; ^v5
+**5** As outras famílias do clã coatita receberam, por meio de sorteio, dez cidades dos clãs das tribos de Efraim, Dã e da metade da tribo de Manassés. ^v5
 
-**6** E aos filhos de Gérson couberam por sorte, das famílias da tribo de Issacar, e da tribo de Aser, e da tribo de Naftali, e da meia tribo de Manassés, em Basã, treze cidades; ^v6
+**6** E os descendentes de Gérson, por sorteio, receberam treze cidades dos clãs das tribos de Issacar, Aser, Naftali e da metade da tribo de Manassés em Basã. ^v6
 
-**7** Aos filhos de Merari, segundo as suas famílias, da tribo de Rúben, e da tribo de Gade, e da tribo de Zebulom, doze cidades; ^v7
+**7** O povo que era descendente de Merari, clã por clã, recebeu doze cidades das tribos de Rúben, Gade e Zebulom. ^v7
 
-**8** E deram os filhos de Israel aos levitas estas cidades e os seus arrabaldes por sorte, como o Senhor ordenara pelo ministério de Moisés. ^v8
+**8** Assim, o povo de Israel deu essas cidades, incluindo os seus pastos, para os levitas, através de sorteio, como Yahweh os havia ordenado pela mão de Moisés. ^v8
 
-**9** Deram mais, da tribo dos filhos de Judá e da tribo dos filhos de Simeão, estas cidades, que por nome foram mencionadas, ^v9
+**9** Das tribos de Judá e Simeão, eles designaram mais algumas cidades da terra, aqui listadas por nome. ^v9
 
-**10** Para que fossem dos filhos de Arão, das famílias dos coatitas dos filhos de Levi; porquanto a primeira sorte foi sua. ^v10
+**10** Elas foram dadas aos descendentes de Arão, que estavam entre os clãs dos coatitas, que eram da tribo de Levi. Porque eles foram os primeiros a serem sorteados. ^v10
 
-**11** Assim lhes deram a cidade de Arba, do pai de Anaque (esta é Hebrom), no monte de Judá, e os seus arrabaldes ao redor. ^v11
+**11** Os israelitas lhes deram Quiriate-Arba (Arba era o pai de Anaque), que é mesmo lugar que Hebrom, na região montanhosa de Judá, com as pastagens ao seu redor. ^v11
 
-**12** Porém o campo da cidade, e as suas aldeias, deram a Calebe, filho de Jefoné, por sua possessão. ^v12
+**12** Mas os campos da cidade e os seus vilarejos já haviam sido dados a Calebe, filho de Jefoné, como sua propriedade. ^v12
 
-**13** Assim aos filhos de Arão, o sacerdote, deram Hebrom, cidade do refúgio do homicida, e os seus arrabaldes, Libna e os seus arrabaldes; ^v13
+**13** Para os descendentes de Arão, o sacerdote, deram Hebrom com suas pastagens, que era uma cidade de refúgio para quem matasse outro sem intenção, e Libna com suas pastagens, ^v13
 
-**14** Jatir e os seus arrabaldes, e Estemoa e os seus arrabaldes; ^v14
+**14** Jatir com as suas pastagens e Estemoa com suas pastagens. ^v14
 
-**15** E Holom e os seus arrabaldes, e Debir e os seus arrabaldes; ^v15
+**15** Também deram Holom com suas pastagens, Debir com suas pastagens, ^v15
 
-**16** E Aim e os seus arrabaldes, e Jutá e os seus arrabaldes, e Bete-Semes e os seus arrabaldes; nove cidades destas duas tribos. ^v16
+**16** Aim com suas pastagens, Jutá com os suas pastagens, Bete-Semes com suas pastagens. Foram dadas nove cidades dessas duas tribos. ^v16
 
-**17** E da tribo de Benjamim, Gibeão e os seus arrabaldes, Geba e os seus arrabaldes; ^v17
+**17** Da tribo de Benjamim, foram dadas Gibeão com suas pastagens, Geba com suas pastagens, ^v17
 
-**18** Anatote e os seus arrabaldes, e Almom e os seus arrabaldes; quatro cidades. ^v18
+**18** Anatote com suas pastagens, e Almom com suas pastagens, quatro cidades. ^v18
 
-**19** Todas as cidades dos sacerdotes, filhos de Arão, foram treze cidades e os seus arrabaldes. ^v19
+**19** As cidades que foram dadas aos sacerdotes, os descendentes de Arão, foram treze cidades ao todo, incluindo suas pastagens. ^v19
 
-**20** E as famílias dos filhos de Coate, levitas, que ficaram dos filhos de Coate, tiveram as cidades da sua sorte, da tribo de Efraim. ^v20
+**20** Quanto ao restante das famílias dos filhos de Coate, levitas que pertencem aos clãs dos coatitas, receberam, por sorteio, estas cidades da tribo de Efraim: ^v20
 
-**21** E deram-lhes Siquém, cidade de refúgio do homicida, e os seus arrabaldes, no monte de Efraim, e Gezer e os seus arrabaldes; ^v21
+**21** Foram-lhes dadas Siquém com suas pastagens na região montanhosa de Efraim, cidade de refúgio para qualquer que matar alguém sem intenção, Gezer com suas pastagens, ^v21
 
-**22** E Quibzaim e os seus arrabaldes, e Bete-Horom e os seus arrabaldes; quatro cidades. ^v22
+**22** Quibzaim com os suas pastagens e Bete-Horom com suas pastagens. Quatro cidades ao todo. ^v22
 
-**23** E da tribo de Dã, Elteque e os seus arrabaldes, Gibetom e os seus arrabaldes; ^v23
+**23** Da tribo de Dã, foram dadas ao clã de Coate: Elteque com suas pastagens, Gibetom com suas pastagens, ^v23
 
-**24** Aijalom e os seus arrabaldes, Gate-Rimom e os seus arrabaldes; quatro cidades. ^v24
+**24** Aijalom com suas pastagens e Gate-Rimon com suas pastagens. Quatro cidades ao todo. ^v24
 
-**25** E da meia tribo de Manassés, Taanaque e os seus arrabaldes, e Gate-Rimom e os seus arrabaldes; duas cidades. ^v25
+**25** Da meia tribo de Manassés, duas cidades foram dadas ao clã de Coate: Taanaque com suas pastagens e Gate-Rimon com suas pastagens. ^v25
 
-**26** As cidades para as famílias dos demais filhos de Coate, foram dez e os seus arrabaldes. ^v26
+**26** Houve dez cidades ao todo para os demais dos clãs coatitas, incluindo suas pastagens. ^v26
 
-**27** E aos filhos de Gérson, das famílias dos levitas, deram da meia tribo de Manassés, Golã, cidade de refúgio do homicida, em Basã, e os seus arrabaldes, e Beesterá e os seus arrabaldes; duas cidades. ^v27
+**27** Da meia tribo de Manassés, duas cidades foram dadas aos clãs de Gérson (que eram outros clãs de levitas): Golã, em Basã, com suas pastagens, uma cidade de refúgio para qualquer que matar alguém sem intenção, juntamente com Beesterá e suas pastagens. ^v27
 
-**28** E da tribo de Issacar, Quisiom e os seus arrabaldes, Daberate e os seus arrabaldes, ^v28
+**28** Para os clãs de Gérson também deram Quisiom, da tribo de Issacar, com suas pastagens, Daberate com suas pastagens, ^v28
 
-**29** Jarmute e os seus arrabaldes, En-Ganim e os seus arrabaldes; quatro cidades. ^v29
+**29** Jarmute com suas pastagens, e En-Ganim com suas pastagens. Quatro cidades ao todo. ^v29
 
-**30** E da tribo de Aser, Misal e os seus arrabaldes, Abdom e os seus arrabaldes, ^v30
+**30** Da tribo de Aser, deram Misal com suas pastagens, Abdom com suas pastagens, ^v30
 
-**31** Helcate e os seus arrabaldes, e Reobe e os seus arrabaldes; ^v31
+**31** Helcate com suas pastagens, e Reobe com suas pastagens. Quatro cidades ao todo. ^v31
 
-**32** E da tribo de Naftali, Quedes, cidade de refúgio do homicida, na Galiléia, e os seus arrabaldes, e Hamote-Dor e os seus arrabaldes, e Cartã e os seus arrabaldes; três cidades. ^v32
+**32** Da tribo de Naftali, foram dadas aos clãs de Gerson: Quedes com suas pastagens, na Galileia, cidade de refúgio para qualquer que matar alguém sem intenção; Hamote-Dor com suas pastagens, Cartã com os suas pastagens. Três cidades ao todo. ^v32
 
-**33** Todas as cidades dos gersonitas, segundo as suas famílias, foram treze cidades e os seus arrabaldes. ^v33
+**33** Houve treze cidades ao todo, dos clãs de Gérson, incluindo suas pastagens. ^v33
 
-**34** E às famílias dos filhos de Merari, aos demais levitas, foram dadas, da tribo de Zebulom, Jocneão e os seus arrabaldes, Cartã e os seus arrabaldes, ^v34
+**34** Para os demais levitas, os clãs de Merari, foram-lhes dadas da tribo de Zebulom: Jocneão com suas pastagens, Cartá com suas pastagens, ^v34
 
-**35** Dimna e os seus arrabaldes, Naalal e os seus arrabaldes; quatro cidades. ^v35
+**35** Dimna com suas pastagens, e Naalal com suas pastagens. Quatro cidades ao todo. ^v35
 
-**36** E da tribo de Rúben, Bezer e os seus arrabaldes, e Jaza e os seus arrabaldes, ^v36
+**36** Para os clãs de Merari, quatro cidades foram dadas da tribo de Rúben: Bezer com suas pastagens, Jaza com suas pastagens, ^v36
 
-**37** Quedemote e os seus arrabaldes, e Mefaate e os seus arrabaldes; quatro cidades. ^v37
+**37** Quedemote com suas pastagens, Mefaate com suas pastagens. ^v37
 
-**38** E da tribo de Gade, Ramote, cidade de refúgio do homicida, em Gileade, e os seus arrabaldes, e Maanaim e os seus arrabaldes, ^v38
+**38** E, da tribo de Gade, foram-lhes dadas Ramote com suas pastagens, que fica em Gileade, cidade de refúgio para qualquer que matar alguém sem intenção, e Maanaim com suas pastagens. ^v38
 
-**39** Hesbom e os seus arrabaldes, Jazer e os seus arrabaldes; ao todo, quatro cidades. ^v39
+**39** Aos clãs de Merari também foram dadas Hesbom com suas pastagens, e Jazer com suas pastagens. ^v39
 
-**40** Todas estas cidades foram dos filhos de Merari, segundo as suas famílias, que ainda restavam das famílias dos dos levitas; e foi a sua sorte doze cidades. ^v40
+**40** Todas essas cidades foram dadas aos vários clãs de Merari, que eram da tribo de Levi. Doze cidades ao todo lhes foram dadas por meio de sorteio. ^v40
 
-**41** Todas as cidades dos levitas, no meio da herança dos filhos de Israel, foram quarenta e oito cidades e os seus arrabaldes. ^v41
+**41** As cidades dos levitas, localizadas no meio da terra que estava sob posse do povo de Israel, foram quarenta e oito cidades, incluindo suas pastagens. ^v41
 
-**42** Estavam estas cidades, cada uma com os seus arrabaldes em redor delas; assim estavam todas estas cidades. ^v42
+**42** Cada uma dessas cidades tinha suas pastagens ao redor. Assim foi com todas elas. ^v42
 
-**43** Desta maneira deu o Senhor a Israel toda a terra que jurara dar a seus pais; e a possuíram e habitaram nela. ^v43
+**43** Dessa maneira Yahweh deu a Israel toda a terra que Ele havia prometido dar aos seus antepassados. Os israelitas a possuíram e nela habitaram. ^v43
 
-**44** E o Senhor lhes deu repouso de todos os lados, conforme a tudo quanto jurara a seus pais; e nenhum de todos os seus inimigos pôde resisti-los; todos os seus inimigos o Senhor entregou-lhes nas mãos. ^v44
+**44** Assim, Yahweh lhes deu descanso de todos os lados, conforme havia prometido aos seus antepassados. Nenhum de seus inimigos lhes pôde resistir. Yahweh entregou todos os seus inimigos nas suas mãos. ^v44
 
-**45** Palavra alguma falhou de todas as boas coisas que o Senhor falou à casa de Israel; tudo se cumpriu. ^v45
+**45** Nenhuma das boas promessas que Yahweh falou para a casa de Israel falhou. Todas elas se cumpriram. ^v45

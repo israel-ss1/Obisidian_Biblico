@@ -1,69 +1,68 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Daniel|Daniel]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Daniel|Daniel]]"
+tags: [biblia]
 ---
 
 # Daniel 5
 
-**1** O rei Belsazar deu um grande banquete a mil dos seus senhores, e bebeu vinho na presença dos mil. ^v1
+**1** Belsazar, o rei, fez um grande banquete para mil de seus nobres e bebeu vinho em frente de todos os mil homens. ^v1
 
-**2** Havendo Belsazar provado o vinho, mandou trazer os vasos de ouro e de prata, que Nabucodonosor, seu pai, tinha tirado do templo que estava em Jerusalém, para que bebessem neles o rei, os seus príncipes, as suas mulheres e concubinas. ^v2
+**2** Enquanto Belsazar provava o vinho, deu ordens para que trouxessem as taças feitas de ouro e prata que Nabucodonosor, seu pai, havia tirado do templo em Jerusalém, para que ele, seus nobres, suas esposas e concubinas pudessem beber. ^v2
 
-**3** Então trouxeram os vasos de ouro, que foram tirados do templo da casa de Deus, que estava em Jerusalém, e beberam neles o rei, os seus príncipes, as suas mulheres e concubinas. ^v3
+**3** Os servos trouxeram as taças de ouro que haviam sido tiradas do templo de Israel, a casa de Deus, em Jerusalém. O rei, seus nobres, suas esposas e suas concubinas beberam nelas. ^v3
 
-**4** Beberam o vinho, e deram louvores aos deuses de ouro, de prata, de bronze, de ferro, de madeira, e de pedra. ^v4
+**4** Eles beberam o vinho e louvaram seus ídolos feitos de ouro, prata, bronze, ferro, madeira e pedra. ^v4
 
-**5** Na mesma hora apareceram uns dedos de mão de homem, e escreviam, defronte do castiçal, na caiadura da parede do palácio real; e o rei via a parte da mão que estava escrevendo. ^v5
+**5** Naquele momento, os dedos de uma mão humana apareceram diante do castiçal, e escreveram no reboco da parede do palácio do rei. O rei podia ver parte da mão enquanto escrevia. ^v5
 
-**6** Mudou-se então o semblante do rei, e os seus pensamentos o turbaram; as juntas dos seus lombos se relaxaram, e os seus joelhos batiam um no outro. ^v6
+**6** Então, a fisionomia do rei mudou e seus pensamentos o perturbaram; suas pernas não o puderam suportar, e seus joelhos ficaram batendo um no outro. ^v6
 
-**7** E gritou o rei com força, que se introduzissem os astrólogos, os caldeus e os adivinhadores; e falou o rei, dizendo aos sábios de babilônia: Qualquer que ler este escrito, e me declarar a sua interpretação, será vestido de púrpura, e trará uma cadeia de ouro ao pescoço e, no reino, será o terceiro governante. ^v7
+**7** "O rei gritou, ordenando que trouxessem os adivinhos, sábios e astrólogos. O rei disse aos sábios da Babilônia: ""Aquele que explicar esta inscrição e a interpretar, será vestido de púrpura e terá uma corrente de ouro no pescoço. Ele terá a autoridade como do terceiro governante do reino""." ^v7
 
-**8** Então entraram todos os sábios do rei; mas não puderam ler o escrito, nem fazer saber ao rei a sua interpretação. ^v8
+**8** Então, todos os homens do rei, que eram conhecidos por sua sabedoria vieram, mas não puderam ler a escrita ou explicar o significado ao rei. ^v8
 
-**9** Então o rei Belsazar perturbou-se muito, e mudou-se-lhe o semblante; e os seus senhores estavam sobressaltados. ^v9
+**9** Então, o rei Belsazar ficou muito alarmado e sua fisionomia mudou. Seus nobres estavam perplexos. ^v9
 
-**10** A rainha, por causa das palavras do rei e dos seus senhores, entrou na casa do banquete, e respondeu, dizendo: Ó rei, vive para sempre! Não te perturbem os teus pensamentos, nem se mude o teu semblante. ^v10
+**10** "Ao saber o que o rei e seus nobres estavam falando, a rainha entrou no salão do banquete e disse: ""Rei, vive para sempre! Não deixes que teus pensamentos te perturbem. Não deixes que tua fisionomia mude." ^v10
 
-**11** Há no teu reino um homem, no qual há o espírito dos deuses santos; e nos dias de teu pai se achou nele luz, e inteligência, e sabedoria, como a sabedoria dos deuses; e teu pai, o rei Nabucodonosor, sim, teu pai, o rei, o constituiu mestre dos magos, dos astrólogos, dos caldeus e dos adivinhadores; ^v11
+**11** Há um homem em teu reino que tem o espírito dos santos deuses. Nos dias de teu pai, foram encontrados nele luz, entendimento e sabedoria como a sabedoria dos deuses. O rei Nabucodonosor, teu pai, fez dele chefe dos magos, assim como chefe dos adivinhos, dos sábios e dos astrólogos. ^v11
 
-**12** Porquanto se achou neste Daniel um espírito excelente, e conhecimento, e entendimento, interpretando sonhos e explicando enigmas, e resolvendo dúvidas, ao qual o rei pôs o nome de Beltessazar. Chame-se, pois, agora Daniel, e ele dará a interpretação. ^v12
+**12** "Neste Daniel, ao qual o rei pôs o nome de Beltessazar, foram encontrados um espírito excelente, conhecimento, entendimento para interpretar sonhos, explicar enigmas e resolver problemas. Agora, chama Daniel e ele te dirá o significado do que está escrito""." ^v12
 
-**13** Então Daniel foi introduzido à presença do rei. Falou o rei, dizendo a Daniel: És tu aquele Daniel, um dos filhos dos cativos de Judá, que o rei, meu pai, trouxe de Judá? ^v13
+**13** "Então, Daniel foi trazido diante do rei. O rei lhe disse: ""Tu és Daniel, um dos exilados de Judá, ao qual meu pai, o rei, tirou de Judá." ^v13
 
-**14** Tenho ouvido dizer a teu respeito que o espírito dos deuses está em ti, e que em ti se acham a luz, e o entendimento e a excelente sabedoria. ^v14
+**14** Eu ouvi sobre ti, que o espírito dos deuses está em ti e que a luz, o entendimento e a excelente sabedoria foram achados em ti. ^v14
 
-**15** Agora mesmo foram introduzidos à minha presença os sábios e os astrólogos, para lerem este escrito, e me fazerem saber a sua interpretação; mas não puderam dar a interpretação destas palavras. ^v15
+**15** Os sábios e os adivinhos acabaram de ser trazidos à minha presença para ler a escrita e saber interpretar para mim, mas eles não puderam fazer conhecida a interpretação disso. ^v15
 
-**16** Eu, porém, tenho ouvido dizer de ti que podes dar interpretação e resolver dúvidas. Agora, se puderes ler este escrito, e fazer-me saber a sua interpretação, serás vestido de púrpura, e terás cadeia de ouro ao pescoço e no reino serás o terceiro governante. ^v16
+**16** "Eu ouvi que tu podes dar interpretações e resolver problemas. Agora, se tu puderes ler a escrita e me dizer seu significado, serás vestido de púrpura e terás uma corrente de ouro no pescoço, e terás a autoridade como do terceiro governante do reino""." ^v16
 
-**17** Então respondeu Daniel, e disse na presença do rei: As tuas dádivas fiquem contigo, e dá os teus prêmios a outro; contudo lerei ao rei o escrito, e far-lhe-ei saber a interpretação. ^v17
+**17** "Então, Daniel respondeu diante do rei: ""Que os teus presentes fiquem contigo e dá tuas recompensas para outra pessoa. Entretanto, eu lerei a escrita para ti, rei, e direi o significado." ^v17
 
-**18** Ó rei! Deus, o Altíssimo, deu a Nabucodonosor, teu pai, o reino, e a grandeza, e a glória, e a majestade. ^v18
+**18** Quanto a ti, ó rei, o Deus Altíssimo deu a Nabucodonosor, teu pai, o reino, a grandeza, a glória e a majestade. ^v18
 
-**19** E por causa da grandeza, que lhe deu, todos os povos, nações e línguas tremiam e temiam diante dele; a quem queria matava, e a quem queria conservava em vida; e a quem queria engrandecia, e a quem queria abatia. ^v19
+**19** Por causa da grandeza que Deus deu a ele, todos os povos, todas as nações e línguas tremiam e temiam diante dele. Ele matava aqueles que desejava que morressem e mantinha vivos aqueles que ele desejava que vivessem. Ele exaltava e abatia a quem queria. ^v19
 
-**20** Mas quando o seu coração se exaltou, e o seu espírito se endureceu em soberba, foi derrubado do seu trono real, e passou dele a sua glória. ^v20
+**20** Mas, quando o seu coração foi arrogante e seu espírito se endureceu para agir presunçosamente, ele foi derrubado de seu trono real e sua majestade lhe foi tirada. ^v20
 
-**21** E foi tirado dentre os filhos dos homens, e o seu coração foi feito semelhante ao dos animais, e a sua morada foi com os jumentos monteses; fizeram-no comer a erva como os bois, e do orvalho do céu foi molhado o seu corpo, até que conheceu que Deus, o Altíssimo, tem domínio sobre o reino dos homens, e a quem quer constitui sobre ele. ^v21
+**21** Ele foi expulso do meio dos homens, teve a mente semelhante a de um animal e viveu com os jumentos selvagens. Ele comeu grama como os bois e seu corpo foi molhado com orvalho do céu, até que aprendeu que o Deus Altíssimo governa sobre os reinos do povo e constitui sobre eles a quem deseja. ^v21
 
-**22** E tu, Belsazar, que és seu filho, não humilhaste o teu coração, ainda que soubeste tudo isto. ^v22
+**22** Mas tu, seu filho, Belsazar, não humilhaste o teu coração, mesmo que soubesses de tudo isso. ^v22
 
-**23** E te levantaste contra o Senhor do céu, pois foram trazidos à tua presença os vasos da casa dele, e tu, os teus senhores, as tuas mulheres e as tuas concubinas, bebestes vinho neles; além disso, deste louvores aos deuses de prata, de ouro, de bronze, de ferro, de madeira e de pedra, que não vêem, não ouvem, nem sabem; mas a Deus, em cuja mão está a tua vida, e de quem são todos os teus caminhos, a ele não glorificaste. ^v23
+**23** Tu te elevaste contra o Senhor do céu. Da sua Casa foram trazidas as taças que tu, teus nobres, suas esposas e suas concubinas beberam vinho, e tu deste louvores aos ídolos feitos de prata, ouro, bronze, ferro, madeira e pedra — ídolos que não veem, não ouvem nem sabem de nada. Tu não honraste o Deus que segura a tua respiração em Sua mão e que conhece todos os teus caminhos. ^v23
 
-**24** Então dele foi enviada aquela parte da mão, que escreveu este escrito. ^v24
+**24** Então, Deus enviou uma mão de Sua presença e fez a inscrição. ^v24
 
-**25** Este, pois, é o escrito que se escreveu: MENE, MENE, TEQUEL, UFARSIM. ^v25
+**25** Esta é a escrita que foi feita: Mene, Mene, Tequel e Parsim. ^v25
 
-**26** Esta é a interpretação daquilo: MENE: Contou Deus o teu reino, e o acabou. ^v26
+**26** Este é o significado: Mene: Deus enumerou teu reino e trouxe fim a ele. ^v26
 
-**27** TEQUEL: Pesado foste na balança, e foste achado em falta. ^v27
+**27** Tequel: foste pesado na balança e encontrado em falta. ^v27
 
-**28** PERES: Dividido foi o teu reino, e dado aos medos e aos persas. ^v28
+**28** "Peres: teu reino será dividido e entregue aos medos e persas""." ^v28
 
-**29** Então mandou Belsazar que vestissem a Daniel de púrpura, e que lhe pusessem uma cadeia de ouro ao pescoço, e proclamassem a respeito dele que havia de ser o terceiro no governo do seu reino. ^v29
+**29** Então, Belsazar deu uma ordem e eles vestiram Daniel com púrpura. Uma corrente de ouro foi colocada em seu pescoço e o rei fez uma proclamação sobre ele, de que teria a autoridade como o terceiro maior governante do reino. ^v29
 
-**30** Naquela noite foi morto Belsazar, rei dos caldeus. ^v30
+**30** Aquela noite, Belsazar, o rei da Babilônia, foi morto, ^v30
 
-**31** E Dario, o medo, ocupou o reino, sendo da idade de sessenta e dois anos. ^v31
+**31** e Dario, o medo, recebeu o reino, quando tinha cerca de sessenta e dois anos de idade. ^v31

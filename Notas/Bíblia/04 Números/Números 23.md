@@ -1,67 +1,66 @@
 ---
-Livro: "[[Números|Números]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Números|Números]]"
+tags: [biblia]
 ---
 
 # Números 23
 
-**1** Então Balaão disse a Balaque: Edifica-me aqui sete altares, e prepara-me aqui sete novilhos e sete carneiros. ^v1
+**1** "Balaão disse para Balaque: ""Edifica-me sete altares aqui e prepara sete novilhos e sete carneiros""." ^v1
 
-**2** Fez, pois, Balaque como Balaão dissera: e Balaque e Balaão ofereceram um novilho e um carneiro sobre cada altar. ^v2
+**2** Assim, Balaque fez como Balaão pediu. Então Balaque e Balaão ofereceram um novilho e um carneiro sobre cada altar. ^v2
 
-**3** Então Balaão disse a Balaque: Fica-te junto do teu holocausto, e eu irei; porventura o Senhor me sairá ao encontro, e o que me mostrar te notificarei. Então foi a um lugar alto. ^v3
+**3** "Então, Balaão disse para Balaque: ""Fica junto à tua oferta queimada e eu me afastarei. Talvez Yahweh venha e me encontre. Tudo o que Ele me mostrar eu te direi"". Então ele se foi para o topo de uma montanha sem árvores." ^v3
 
-**4** E encontrando-se Deus com Balaão, este lhe disse: Preparei sete altares, e ofereci um novilho e um carneiro sobre cada altar. ^v4
+**4** "Deus o encontrou, e Balaão lhe disse: ""Eu preparei sete altares, e ofereci um novilho e um carneiro sobre cada um""." ^v4
 
-**5** Então o Senhor pôs a palavra na boca de Balaão, e disse: Torna-te para Balaque, e assim falarás. ^v5
+**5** "Yahweh colocou uma mensagem na boca de Balaão e disse: ""Retorna a Balaque e fala para ele""." ^v5
 
-**6** E tornando para ele, eis que estava junto do seu holocausto, ele e todos os príncipes dos moabitas. ^v6
+**6** Assim, Balaão retornou a Balaque, que estava em pé junto à sua oferta queimada, e todos os lideres de Moabe estavam com ele. ^v6
 
-**7** Então proferiu a sua parábola, e disse: De Arã, me mandou trazer Balaque, rei dos moabitas, das montanhas do oriente, dizendo: Vem, amaldiçoa-me a Jacó; e vem, denuncia a Israel. ^v7
+**7** "Então Balaão começou a falar a sua profecia e disse: ""Balaque trouxe-me de Arã. O rei de Moabe das montanhas do oriente. 'Vem, amaldiçoa Jacó para mim', ele disse: 'Vem, sentencia Israel'." ^v7
 
-**8** Como amaldiçoarei o que Deus não amaldiçoa? E como denunciarei, quando o Senhor não denuncia? ^v8
+**8** Como poderei amaldiçoar aqueles a quem Deus não amaldiçoou? Como poderei me opor àqueles a quem Yahweh não se opõe? ^v8
 
-**9** Porque do cume das penhas o vejo, e dos outeiros o contemplo; eis que este povo habitará só, e entre as nações não será contado. ^v9
+**9** Pois do topo dos rochedos eu o vejo; das colinas eu o contemplo. Vede, existe um povo que vive sozinho e não se considera apenas uma nação comum. ^v9
 
-**10** Quem contará o pó de Jacó e o número da quarta parte de Israel? Que a minha alma morra da morte dos justos, e seja o meu fim como o seu. ^v10
+**10** "Quem pode contar o pó de Jacó ou até mesmo o número da quarta parte de Israel? Que eu morra a morte dos justos, e que a minha vida termine como a dele!""" ^v10
 
-**11** Então disse Balaque a Balaão: Que me fizeste? Chamei-te para amaldiçoar os meus inimigos, mas eis que inteiramente os abençoaste. ^v11
+**11** "Balaque disse para Balaão: ""Que me fizeste? Eu te trouxe para amaldiçoar os meus inimigos, porém tu os abençoastes""." ^v11
 
-**12** E ele respondeu, e disse: Porventura não terei cuidado de falar o que o Senhor pôs na minha boca? ^v12
+**12** "Balaão respondeu e disse: ""Não deveria eu ser cuidadoso de dizer apenas o que Yahweh coloca na minha boca?""" ^v12
 
-**13** Então Balaque lhe disse: Rogo-te que venhas comigo a outro lugar, de onde o verás; verás somente a última parte dele, mas a todo ele não verás; e amaldiçoa-mo dali. ^v13
+**13** "Assim, Balaque lhe disse: ""Por favor, vem comigo para outro lugar onde tu os podes ver. Verás deles somente os mais próximos, não todos eles. Dali, tu os amaldiçoarás para mim""." ^v13
 
-**14** Assim o levou consigo ao campo de Zofim, ao cume de Pisga; e edificou sete altares, e ofereceu um novilho e um carneiro sobre cada altar. ^v14
+**14** Assim, ele levou Balaão para o campo de Zofim, ao cume do Monte Pisga, e edificou mais sete altares. Ele ofereceu um novilho e um carneiro sobre cada altar. ^v14
 
-**15** Então disse a Balaque: Fica aqui junto do teu holocausto, e eu irei ali ao encontro do Senhor. ^v15
+**15** "Então Balaão disse para Balaque: ""Fica aqui junto à tua oferta queimada, enquanto eu me encontro com Yahweh ali""." ^v15
 
-**16** E, encontrando-se o Senhor com Balaão, pôs uma palavra na sua boca, e disse: Torna para Balaque, e assim falarás. ^v16
+**16** "Assim, Yahweh encontrou a Balaão e colocou uma mensagem em sua boca. Ele disse: ""Retorna a Balaque e lhe dá minha mensagem""." ^v16
 
-**17** E, vindo a ele, eis que estava junto do holocausto, e os príncipes dos moabitas com ele; disse-lhe pois Balaque: Que coisa falou o Senhor? ^v17
+**17** "Balaão retornou a ele, e eis que ele estava em pé junto à sua oferta queimada, e os líderes de Moabe estavam com ele. Então Balaque lhe disse: ""O que Yahweh disse?""" ^v17
 
-**18** Então proferiu a sua parábola, e disse: Levanta-te, Balaque, e ouve; inclina os teus ouvidos a mim, filho de Zipor. ^v18
+**18** "Balaão começou a sua profecia. Ele disse: "" Levanta-te, Balaque, e escuta. Ouve-me, filho de Zipor." ^v18
 
-**19** Deus não é homem, para que minta; nem filho do homem, para que se arrependa; porventura diria ele, e não o faria? Ou falaria, e não o confirmaria? ^v19
+**19** Deus não é homem, para que minta, nem ser humano, para que mude sua mente. Ele teria prometido alguma coisa sem cumpri-la? Ele teria dito que faria alguma coisa sem realizá-la? ^v19
 
-**20** Eis que recebi mandado de abençoar; pois ele tem abençoado, e eu não o posso revogar. ^v20
+**20** Olha, recebi uma ordem para abençoar. Deus deu uma benção, e eu não posso revertê-la. ^v20
 
-**21** Não viu iniqüidade em Israel, nem contemplou maldade em Jacó; o Senhor seu Deus é com ele, e no meio dele se ouve a aclamação de um rei. ^v21
+**21** Ele não enxergou dureza em Jacó nem problema em Israel. Yahweh, o seu Deus, está com eles, e no meio deles há aclamações ao seu rei. ^v21
 
-**22** Deus os tirou do Egito; as suas forças são como as do boi selvagem. ^v22
+**22** Deus os tirou do Egito com a força de um boi selvagem. ^v22
 
-**23** Pois contra Jacó não vale encantamento, nem adivinhação contra Israel; neste tempo se dirá de Jacó e de Israel: Que coisas Deus tem realizado! ^v23
+**23** Não há encantamento que funcione contra Jacó, nem adivinhação que cause dano a Israel. Em vez disso, se dirá de Jacó e Israel: 'Vede o que Deus fez!' ^v23
 
-**24** Eis que o povo se levantará como leoa, e se erguerá como leão; não se deitará até que coma a presa, e beba o sangue dos mortos. ^v24
+**24** "Vê, o povo se levanta como uma leoa, como um leão que sobe e ataca. Ele não se deitará até que coma a sua vítima e beba o sangue dos que ele matar""." ^v24
 
-**25** Então Balaque disse a Balaão: Nem o amaldiçoarás, nem o abençoarás. ^v25
+**25** "Então Balaque disse para Balaão: ""Se não os amaldiçoares, também não os abençoes""." ^v25
 
-**26** Porém Balaão respondeu, e disse a Balaque: Não te falei eu, dizendo: Tudo o que o Senhor falar isso farei? ^v26
+**26** "Porém Balaão, respondendo, disse para Balaque: ""Eu não te falei que tenho de dizer tudo o que Yahweh me falou para dizer?""" ^v26
 
-**27** Disse mais Balaque a Balaão: Ora vem, e te levarei a outro lugar; porventura bem parecerá aos olhos de Deus que dali mo amaldiçoes. ^v27
+**27** "Assim Balaque respondeu para Balaão: ""Vem agora, eu te levarei a outro lugar. Talvez dali Deus Se agrade que os amaldiçoes para mim""." ^v27
 
-**28** Então Balaque levou Balaão consigo ao cume de Peor, que dá para o lado do deserto. ^v28
+**28** Assim, Balaque levou Balaão para o cume do Monte Peor, com vista para o deserto. ^v28
 
-**29** Balaão disse a Balaque: Edifica-me aqui sete altares, e prepara-me aqui sete novilhos e sete carneiros. ^v29
+**29** "Balaão disse para Balaque: ""Edifica-me sete altares aqui e prepara-me sete novilhos e sete carneiros""." ^v29
 
-**30** Balaque, pois, fez como dissera Balaão: e ofereceu um novilho e um carneiro sobre cada altar. ^v30
+**30** Assim, Balaque fez como Balaão lhe havia dito; ele ofereceu um novilho e um carneiro sobre cada altar. ^v30

@@ -1,69 +1,68 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/João|João]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/João|João]]"
+tags: [biblia]
 ---
 
 # João 20
 
-**1** E no primeiro dia da semana, Maria Madalena foi ao sepulcro de madrugada, sendo ainda escuro, e viu a pedra tirada do sepulcro. ^v1
+**1** No primeiro dia da semana, enquanto ainda era escuro, Maria Madalena foi ao sepulcro e viu que a pedra havia sido removida. ^v1
 
-**2** Correu, pois, e foi a Simão Pedro, e ao outro discípulo, a quem Jesus amava, e disse-lhes: Levaram o Senhor do sepulcro, e não sabemos onde o puseram. ^v2
+**2** "Então, ela correu ao encontro de Simão Pedro e do outro discípulo, a quem Jesus amava, e disse-lhes: ""Retiraram o Senhor do sepulcro, e nós não sabemos onde O puseram""." ^v2
 
-**3** Então Pedro saiu com o outro discípulo, e foram ao sepulcro. ^v3
+**3** Então Pedro e o outro discípulo saíram e foram ao sepulcro. ^v3
 
-**4** E os dois corriam juntos, mas o outro discípulo correu mais apressadamente do que Pedro, e chegou primeiro ao sepulcro. ^v4
+**4** Os dois corriam juntos; e o outro discípulo correu mais do que Pedro, e chegou ao sepulcro primeiro. ^v4
 
-**5** E, abaixando-se, viu no chão os lençóis; todavia não entrou. ^v5
+**5** Abaixando-se, viu as roupas de linho deixadas lá, mas não entrou. ^v5
 
-**6** Chegou, pois, Simão Pedro, que o seguia, e entrou no sepulcro, e viu no chão os lençóis, ^v6
+**6** Então, chegou Simão Pedro depois dele, e foi para dentro do sepulcro, e viu os lençóis de linho deixados ali, ^v6
 
-**7** E que o lenço, que tinha estado sobre a sua cabeça, não estava com os lençóis, mas enrolado num lugar à parte. ^v7
+**7** e o lenço que estava em Sua cabeça, o qual não foi deixado com os lençóis de linho, mas enrolado em um lugar à parte. ^v7
 
-**8** Então entrou também o outro discípulo, que chegara primeiro ao sepulcro, e viu, e creu. ^v8
+**8** Então, o outro discípulo, o que chegou primeiro, também entrou no sepulcro; ele viu e creu. ^v8
 
-**9** Porque ainda não sabiam a Escritura, que era necessário que ressuscitasse dentre os mortos. ^v9
+**9** Pois, até aquele momento, eles não compreendiam o que a Escritura dizia, que Jesus devia ressuscitar dentre os mortos. ^v9
 
-**10** Tornaram, pois, os discípulos para casa. ^v10
+**10** Então, os discípulos voltaram novamente para casa. ^v10
 
-**11** E Maria estava chorando fora, junto ao sepulcro. Estando ela, pois, chorando, abaixou-se para o sepulcro. ^v11
+**11** Contudo, Maria permaneceu fora do sepulcro chorando. Enquanto chorava, parou e olhou dentro do sepulcro, ^v11
 
-**12** E viu dois anjos vestidos de branco, assentados onde jazera o corpo de Jesus, um à cabeceira e outro aos pés. ^v12
+**12** e viu dois anjos de branco sentados, onde o corpo de Jesus repousara, um à cabeça e outro aos pés. ^v12
 
-**13** E disseram-lhe eles: Mulher, por que choras? Ela lhes disse: Porque levaram o meu Senhor, e não sei onde o puseram. ^v13
+**13** "Eles lhe falaram: ""Mulher, por que choras?"". Ela lhes respondeu: ""Porque levaram meu Senhor, e eu não sei onde O puseram""." ^v13
 
-**14** E, tendo dito isto, voltou-se para trás, e viu Jesus em pé, mas não sabia que era Jesus. ^v14
+**14** Quando ela falou isso, olhou em volta e viu Jesus parado ali; mas ela não sabia que Ele era Jesus. ^v14
 
-**15** Disse-lhe Jesus: Mulher, por que choras? Quem buscas? Ela, cuidando que era o hortelão, disse-lhe: Senhor, se tu o levaste, dize-me onde o puseste, e eu o levarei. ^v15
+**15** "Jesus lhe disse: ""Mulher, por que choras? A quem procuras?"". Ela pensou que Ele era o jardineiro, então ela Lhe falou: ""Senhor, se Tu O tiraste daqui, fala-me onde O colocaste, e eu O levarei""." ^v15
 
-**16** Disse-lhe Jesus: Maria! Ela, voltando-se, disse-lhe: Raboni, que quer dizer: Mestre. ^v16
+**16** "Jesus lhe disse: ""Maria!"". Ela, virando-se, disse para Ele em aramaico: ""Raboni!"" (que quer dizer: ""Mestre"")." ^v16
 
-**17** Disse-lhe Jesus: Não me detenhas, porque ainda não subi para meu Pai, mas vai para meus irmãos, e dize-lhes que eu subo para meu Pai e vosso Pai, meu Deus e vosso Deus. ^v17
+**17** "Jesus lhe disse: ""Não me segures, porque eu ainda não subi para o Pai. Mas vá para meus irmãos, e diga-lhes que Eu subirei para Meu Pai e vosso Pai, e Meu Deus e vosso Deus""." ^v17
 
-**18** Maria Madalena foi e anunciou aos discípulos que vira o Senhor, e que ele lhe dissera isto. ^v18
+**18** "Maria Madalena foi, e disse aos discípulos: ""Vi o Senhor!"", e contou as coisas que Ele lhe dissera." ^v18
 
-**19** Chegada, pois, a tarde daquele dia, o primeiro da semana, e cerradas as portas onde os discípulos, com medo dos judeus, se tinham ajuntado, chegou Jesus, e pôs-se no meio, e disse-lhes: Paz seja convosco. ^v19
+**19** "Sendo, pois, tarde, naquele primeiro dia da semana, estando os discípulos reunidos com as portas trancadas, por medo dos judeus, Jesus veio e colocou-Se no meio deles, e disse-lhes: ""Paz seja convosco""." ^v19
 
-**20** E, dizendo isto, mostrou-lhes as suas mãos e o lado. De sorte que os discípulos se alegraram, vendo o Senhor. ^v20
+**20** Depois de dizer isso, mostrou-lhes as mãos e o lado. E quando os discípulos viram o Senhor, alegraram-se. ^v20
 
-**21** Disse-lhes, pois, Jesus outra vez: Paz seja convosco; assim como o Pai me enviou, também eu vos envio a vós. ^v21
+**21** "Em seguida, Jesus lhes disse outra vez: ""Paz seja convosco. Como o Pai Me enviou, Eu também vos envio""." ^v21
 
-**22** E, havendo dito isto, assoprou sobre eles e disse-lhes: Recebei o Espírito Santo. ^v22
+**22** "Quando Jesus disse isso, soprou neles e disse-lhes: ""Recebei o Espírito Santo." ^v22
 
-**23** «queles a quem perdoardes os pecados lhes são perdoados; e àqueles a quem os retiverdes lhes são retidos. ^v23
+**23** "Se perdoardes os pecados de alguém, serão perdoados; se os retiverdes, serão retidos""." ^v23
 
-**24** Ora, Tomé, um dos doze, chamado Dídimo, não estava com eles quando veio Jesus. ^v24
+**24** Tomé, um dos doze, chamado Dídimo, não estava com eles quando Jesus veio. ^v24
 
-**25** Disseram-lhe, pois, os outros discípulos: Vimos o Senhor. Mas ele disse-lhes: Se eu não vir o sinal dos cravos em suas mãos, e não puser o meu dedo no lugar dos cravos, e não puser a minha mão no seu lado, de maneira nenhuma o crerei. ^v25
+**25** "Os outros discípulos depois disseram-lhe: ""Vimos o Senhor"". Ele lhes disse: ""Se eu não vir em Suas mãos as marcas dos pregos, e colocar meu dedo dentro das marcas dos pregos, e minha mão no Seu lado, eu não crerei""." ^v25
 
-**26** E oito dias depois estavam outra vez os seus discípulos dentro, e com eles Tomé. Chegou Jesus, estando as portas fechadas, e apresentou-se no meio, e disse: Paz seja convosco. ^v26
+**26** "Oito dias depois, os discípulos estavam outra vez ali reunidos, e Tomé estava com eles. Estando as portas trancadas, Jesus colocou-Se no meio deles, e disse-lhes: ""Paz seja convosco""." ^v26
 
-**27** Depois disse a Tomé: Põe aqui o teu dedo, e vê as minhas mãos; e chega a tua mão, e põe-na no meu lado; e não sejas incrédulo, mas crente. ^v27
+**27** "Então, Ele disse para Tomé: ""Põe aqui os teus dedos, e vê as Minhas mãos; estende aqui a tua mão, e a coloca no Meu lado; não sejas incrédulo, mas crê""." ^v27
 
-**28** E Tomé respondeu, e disse-lhe: Senhor meu, e Deus meu! ^v28
+**28** "Tomé respondeu e disse-Lhe: ""Meu Senhor e meu Deus!""." ^v28
 
-**29** Disse-lhe Jesus: Porque me viste, Tomé, creste; bem-aventurados os que não viram e creram. ^v29
+**29** "Jesus disse-lhe: ""Porque Me viste, tu creste? Benditos são aqueles que não viram e creram""." ^v29
 
-**30** Jesus, pois, operou também em presença de seus discípulos muitos outros sinais, que não estão escritos neste livro. ^v30
+**30** Na verdade, Jesus realizou, na presença de Seus discípulos, muitos outros sinais, os quais não foram escritos neste livro. ^v30
 
-**31** Estes, porém, foram escritos para que creiais que Jesus é o Cristo, o Filho de Deus, e para que, crendo, tenhais vida em seu nome. ^v31
+**31** Estes, porém, foram escritos para que creiais que Jesus é o Cristo, o Filho de Deus, e para que, crendo, tenhais vida em Seu nome. ^v31

@@ -1,43 +1,42 @@
 ---
-Livro: "[[2 Coríntios|2 Coríntios]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/2 Coríntios|2 Coríntios]]"
+tags: [biblia]
 ---
 
 # 2 Coríntios 4
 
-**1** Por isso, tendo este ministério, segundo a misericórdia que nos foi feita, não desfalecemos; ^v1
+**1** Dessa forma, por termos este ministério, e conforme a misericórdia que recebemos, não nos desanimamos. ^v1
 
-**2** Antes, rejeitamos as coisas que por vergonha se ocultam, não andando com astúcia nem falsificando a palavra de Deus; e assim nos recomendamos à consciência de todo o homem, na presença de Deus, pela manifestação da verdade. ^v2
+**2** Pelo contrário, renunciamos aos caminhos vergonhosos e ocultos. Não vivemos pela astúcia, e não falsificamos a Palavra de Deus. Ao apresentar a verdade, nos recomendamos à consciência de todo homem, à vista de Deus. ^v2
 
-**3** Mas, se ainda o nosso evangelho está encoberto, para os que se perdem está encoberto. ^v3
+**3** Mas, se o nosso Evangelho está encoberto, está encoberto apenas para aqueles que estão perecendo. ^v3
 
-**4** Nos quais o deus deste século cegou os entendimentos dos incrédulos, para que lhes não resplandeça a luz do evangelho da glória de Cristo, que é a imagem de Deus. ^v4
+**4** No caso deles, o deus deste mundo cegou suas mentes incrédulas, e, por isso, não conseguem ver a luz do Evangelho da glória de Cristo, que é a imagem de Deus. ^v4
 
-**5** Porque não nos pregamos a nós mesmos, mas a Cristo Jesus, o Senhor; e nós mesmos somos vossos servos por amor de Jesus. ^v5
+**5** Pois não anunciamos a nós mesmos, mas a Cristo Jesus como Senhor, e a nós mesmos como vossos servos, por causa de Jesus. ^v5
 
-**6** Porque Deus, que disse que das trevas resplandecesse a luz, é quem resplandeceu em nossos corações, para iluminação do conhecimento da glória de Deus, na face de Jesus Cristo. ^v6
+**6** "Porque foi Deus quem disse: ""A luz brilhará das trevas"". Ele brilhou em nossos corações para iluminar o conhecimento da glória de Deus na face de Jesus Cristo." ^v6
 
-**7** Temos, porém, este tesouro em vasos de barro, para que a excelência do poder seja de Deus, e não de nós. ^v7
+**7** Porém, temos este tesouro em vasos de barro, para que fique claro que o supremo poder pertence a Deus, e não a nós. ^v7
 
-**8** Em tudo somos atribulados, mas não angustiados; perplexos, mas não desanimados. ^v8
+**8** Somos afligidos de todas as maneiras, mas não derrotados; perplexos, mas não desesperados; ^v8
 
-**9** Perseguidos, mas não desamparados; abatidos, mas não destruídos; ^v9
+**9** perseguidos, mas não abandonados; abatidos, mas não destruídos. ^v9
 
-**10** Trazendo sempre por toda a parte a mortificação do Senhor Jesus no nosso corpo, para que a vida de Jesus se manifeste também nos nossos corpos; ^v10
+**10** Carregamos sempre no corpo a morte de Jesus, para que a Sua vida também seja mostrada em nosso corpo. ^v10
 
-**11** E assim nós, que vivemos, estamos sempre entregues à morte por amor de Jesus, para que a vida de Jesus se manifeste também na nossa carne mortal. ^v11
+**11** Nós, que vivemos, somos sempre entregues à morte por causa de Jesus, para que a vida de Jesus seja mostrada em nosso corpo humano. ^v11
 
-**12** De maneira que em nós opera a morte, mas em vós a vida. ^v12
+**12** De modo que a morte opera em nós, mas a vida em vós. ^v12
 
-**13** E temos portanto o mesmo espírito de fé, como está escrito: Cri, por isso falei; nós cremos também, por isso também falamos. ^v13
+**13** "Mas nós temos o mesmo espírito de fé, de acordo com o que está escrito: ""Eu cri e, por isso, falei."" Nós também cremos e, por isso, também falamos." ^v13
 
-**14** Sabendo que o que ressuscitou o Senhor Jesus nos ressuscitará também por Jesus, e nos apresentará convosco. ^v14
+**14** Sabemos que Aquele que ressuscitou o Senhor Jesus também nos ressuscitará com Jesus, e nos trará convosco à Sua presença. ^v14
 
-**15** Porque tudo isto é por amor de vós, para que a graça, multiplicada por meio de muitos, faça abundar a ação de graças para glória de Deus. ^v15
+**15** Todas as coisas são por vossa causa, para que, mediante a graça abundante a muitos, as ações de graças excedam para a glória de Deus. ^v15
 
-**16** Por isso não desfalecemos; mas, ainda que o nosso homem exterior se corrompa, o interior, contudo, se renova de dia em dia. ^v16
+**16** Então, não nos desanimamos. Mesmo que externamente sejamos consumidos, internamente somos renovados dia a dia. ^v16
 
-**17** Porque a nossa leve e momentânea tribulação produz para nós um peso eterno de glória mui excelente; ^v17
+**17** Pois esta leve e momentânea aflição nos prepara para um eterno peso de glória que excede toda medida. ^v17
 
-**18** Não atentando nós nas coisas que se vêem, mas nas que se não vêem; porque as que se vêem são temporais, e as que se não vêem são eternas. ^v18
+**18** Não nos atentamos às coisas que se veem, mas às coisas que não se veem. As coisas que podemos ver são temporárias, mas as coisas que não podemos ver são eternas. ^v18

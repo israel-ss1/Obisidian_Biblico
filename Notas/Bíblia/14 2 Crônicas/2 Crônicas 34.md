@@ -1,73 +1,72 @@
 ---
-Livro: "[[2 Crônicas|2 Crônicas]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/2 Crônicas|2 Crônicas]]"
+tags: [biblia]
 ---
 
 # 2 Crônicas 34
 
-**1** Tinha Josias oito anos quando começou a reinar, e trinta e um anos reinou em Jerusalém. ^v1
+**1** Josias tinha oito anos quando começou a reinar e reinou por trinta e um anos em Jerusalém. ^v1
 
-**2** E fez o que era reto aos olhos do Senhor; e andou nos caminhos de Davi, seu pai, sem se desviar deles nem para a direita nem para a esquerda. ^v2
+**2** Fez o que era reto aos olhos de Yahweh e andou nos caminhos de Davi, seu ancestral; não se desviou nem para a direita nem para a esquerda. ^v2
 
-**3** Porque no oitavo ano do seu reinado, sendo ainda moço, começou a buscar o Deus de Davi, seu pai; e no duodécimo ano começou a purificar a Judá e a Jerusalém, dos altos, e dos bosques, e das imagens de escultura e de fundição. ^v3
+**3** No oitavo ano de seu reinado, quando ainda era jovem, começou a buscar o Deus de Davi, seu ancestral. No duodécimo ano, começou a purificar Judá e Jerusalém dos altares, dos postes-ídolos, das imagens de escultura e de metal fundido. ^v3
 
-**4** E derrubaram perante ele os altares de Baalins; e despedaçou as imagens, que estavam acima deles; e os bosques, e as imagens de escultura e de fundição quebrou e reduziu a pó, e o espargiu sobre as sepulturas dos que lhes tinham sacrificado. ^v4
+**4** O povo quebrou os altares dos baalins na presença dele; despedaçou os altares de incenso que estavam sobre ele. Quebrou os postes-ídolos e as imagens de escultura e lançou fora as figuras de metal em pedaços, até ficarem como pó. Espalhou o pó sobre as sepulturas dos que lhes haviam sacrifícado. ^v4
 
-**5** E os ossos dos sacerdotes queimou sobre os seus altares; e purificou a Judá e a Jerusalém. ^v5
+**5** Queimou os ossos dos sacerdotes sobre os seus altares. Dessa forma, ele purificou Judá e Jerusalém. ^v5
 
-**6** O mesmo fez nas cidades de Manassés, e de Efraim, e de Simeão, e ainda até Naftali, em seus lugares assolados ao redor. ^v6
+**6** Ele fez o mesmo nas cidades de Manassés, Efraim e Simeão, em todo o caminho até Naftali e nas ruínas que as cercavam. ^v6
 
-**7** E, tendo derrubado os altares, e os bosques, e as imagens de escultura, até reduzi-los a pó, e tendo despedaçado todas as imagens do sol em toda a terra de Israel, então voltou para Jerusalém. ^v7
+**7** Quebrou os altares, derrubou os postes-ídolos e as imagens de escultura em pó e cortou em partes os altares de incensos em toda a terra de Israel. Depois, voltou a Jerusalém. ^v7
 
-**8** E no ano décimo oitavo do seu reinado, havendo já purificado a terra e a casa, enviou a Safã, filho de Azalias, e a Maaséias, governador da cidade, e a Joá, filho de Joacaz, cronista, para repararem a casa do Senhor seu Deus. ^v8
+**8** Aconteceu que, no décimo oitavo ano de reinado, depois de Josias haver purificado a terra e o templo, ele enviou Safã, filho de Azalias, Maaseias, o governador da cidade, e Joá, filho de Joacaz, o secretário; para reparar a casa de Yahweh, seu Deus. ^v8
 
-**9** E foram a Hilquias, sumo sacerdote, e deram o dinheiro que se tinha trazido à casa de Deus, e que os levitas, que guardavam a entrada tinham recebido da mão de Manassés, e de Efraim, e de todo o restante de Israel, como também de todo o Judá e Benjamim, e dos habitantes de Jerusalém. ^v9
+**9** Estes foram a Hilquias, sumo sacerdote, e lhe confiaram o dinheiro que haviam trazido para a casa de Deus, que os levitas, os guardas dos portas, haviam recebido de Manassés, de Efraim, de todos os remanescentes de Israel, de toda a Judá, de Benjamim e dos habitantes de Jerusalém. ^v9
 
-**10** E eles o entregaram aos que tinham o encargo da obra, e superintendiam a casa do Senhor; e estes o deram aos que faziam a obra, e trabalhavam na casa do Senhor, para consertarem e repararem a casa. ^v10
+**10** Eles confiaram o dinheiro aos homens que supervisionavam o trabalho do templo de Yahweh. Esses homens pagaram aos trabalhadores que reconstruíam e restauravam o templo. ^v10
 
-**11** E deram-no aos carpinteiros e aos edificadores, para comprarem pedras lavradas, e madeiras para as junturas e para servirem de vigas para as casas que os reis de Judá tinham destruído. ^v11
+**11** Deram-no aos carpinteiros e construtores, para comprarem pedras cortadas, madeiras para juntas e vigas para a estrutura, que era a mesma que o rei de Judá tinha separado. ^v11
 
-**12** E estes homens trabalhavam fielmente na obra; e os superintendentes sobre eles eram: Jaate e Obadias, levitas, dos filhos de Merari, como também Zacarias e Mesulão, dos filhos dos coatitas, para adiantarem a obra; e todos os levitas que eram entendidos em instrumentos de música. ^v12
+**12** Os homens faziam o trabalho fielmente. Os supervisores eram Jaate e Obadias, os levitas, filhos de Merari; e Zacarias e Mesulão, filhos de Coate. Outros levitas, todos os que eram muito bons músicos, de perto dirigiam os trabalhadores. ^v12
 
-**13** Estavam também sobre os carregadores e dirigiam todos os que trabalhavam em alguma obra; e dentre os levitas havia escrivães, oficiais e porteiros. ^v13
+**13** Esses levitas estavam encarregados dos que carregavam o material de construção e de todo e qualquer trabalho. Lá também havia levitas que eram secretários, administradores e guardas dos portões. ^v13
 
-**14** E, tirando eles o dinheiro que se tinha trazido à casa do Senhor, Hilquias, o sacerdote, achou o livro da lei do Senhor, dada pela mão de Moisés. ^v14
+**14** Quando eles tiraram o dinheiro que tinham levado à casa de Yahweh, Hilquias, o sacerdote, achou o livro da Lei de Yahweh, que tinha sido dado por meio de Moisés. ^v14
 
-**15** E Hilquias disse a Safã, o escrivão: Achei o livro da lei na casa do Senhor. E Hilquias deu o livro a Safã. ^v15
+**15** "Hilquias disse a Safã, o escriba: ""Achei o livro da lei da casa de Yahweh"". Hilquias trouxe o livro a Safã." ^v15
 
-**16** E Safã levou o livro ao rei, e deu-lhe conta, dizendo: Teus servos fazem tudo quanto se lhes encomendou. ^v16
+**16** "Safã levou o livro ao rei e também lhe disse: ""Teus servos estão fazendo tudo o que lhes foi confiado." ^v16
 
-**17** E ajuntaram o dinheiro que se achou na casa do Senhor, e o deram na mão dos superintendentes e na mão dos que faziam a obra. ^v17
+**17** "Ajuntaram o dinheiro que se achou na casa de Yahweh e o entregaram nas mãos dos supervisores e trabalhadores""." ^v17
 
-**18** Além disto, Safã, o escrivão, fez saber ao rei, dizendo: O sacerdote Hilquias entregou-me um livro. E Safã leu nele perante o rei. ^v18
+**18** "Safã, o escriba, disse ao rei: ""Hilquias, o sacerdote, deu-me um livro"". Safã, então, leu-o para o rei." ^v18
 
-**19** Sucedeu que, ouvindo o rei as palavras da lei, rasgou as suas vestes. ^v19
+**19** Aconteceu que, ouvindo o rei as palavras da Lei, rasgou suas vestes. ^v19
 
-**20** E o rei ordenou a Hilquias, e a Aicão, filho de Safã, e a Abdom, filho de Mica, e a Safã, o escrivão, e a Asaías, servo do rei, dizendo: ^v20
+**20** O rei ordenou a Hilquias, Aicam, filho de Safã, Abdom, filho de Mica, Safã, o escriba, e Asaías, o servo dele, dizendo: ^v20
 
-**21** Ide, consultai ao Senhor por mim, e pelos que restam em Israel e em Judá, sobre as palavras deste livro que se achou; porque grande é o furor do Senhor, que se derramou sobre nós; porquanto nossos pais não guardaram a palavra do Senhor, para fazerem conforme a tudo quanto está escrito neste livro. ^v21
+**21** """Ide e perguntai a Yahweh por mim e por aqueles que deixaram Israel e Judá, por causa das palavras do livro que foi encontrado. Grande é a ira que Yahweh tem derramado sobre nós. Grande ela é, porque nossos antepassados não ouviram as palavras do livro, para obedecer tudo que foi escrito ali""." ^v21
 
-**22** Então Hilquias, e os enviados do rei, foram ter com a profetisa Hulda, mulher de Salum, filho de Tocate, filho de Harás, guarda das vestimentas (e habitava ela em Jerusalém na segunda parte); e falaram-lhe a esse respeito. ^v22
+**22** Então, Hilquias e aqueles a quem o rei havia ordenado foram a Hulda, a profetisa, mulher de Salum, filho de Tocate, encarregado das vestes (ela vivia em Jerusalém no Segundo Distrito), e falaram com ela dessa maneira. ^v22
 
-**23** E ela lhes disse: Assim diz o Senhor Deus de Israel: Dizei ao homem que vos enviou a mim: ^v23
+**23** "Ela lhes disse: ""Isto é o que Yahweh, o Deus de Israel diz: 'Dizei ao homem que vos mandou a Mim," ^v23
 
-**24** Assim diz o Senhor: Eis que trarei mal sobre este lugar, e sobre os seus habitantes, a saber, todas as maldições que estão escritas no livro que se leu perante o rei de Judá. ^v24
+**24** isto é o que Yahweh diz: Vê, estou a ponto de destruir este lugar e trazer aos seus habitantes todas as maldições que foram escritas no livro e que foram lidas perante o rei de Judá. ^v24
 
-**25** Porque me deixaram, e queimaram incenso perante outros deuses, para me provocarem à ira com todas as obras das suas mãos; portanto o meu furor se derramou sobre este lugar, e não se apagará. ^v25
+**25** "Porque Me abandonaram e queimaram incenso a outros deuses, provocaram-Me à ira, com todos os atos que cometeram, derramarei Meu furor sobre este lugar, e não se apagará. [Ao invés de ""será derramado neste lugar"", algumas versões têm, ""será acesa contra este lugar"".]" ^v25
 
-**26** Porém ao rei de Judá, que vos enviou a consultar ao Senhor, assim lhe direis: Assim diz o Senhor Deus de Israel, quanto às palavras que ouviste: ^v26
+**26** Porém, ao rei de Judá, que vos enviou a perguntar a Yahweh o que ele deveria fazer, isto deveis dizer a ele: Yahweh, o Deus de Israel, assim diz: Sobre as palavras que tu ouviste, ^v26
 
-**27** Porquanto o teu coração se enterneceu, e te humilhaste perante Deus, ouvindo as suas palavras contra este lugar, e contra os seus habitantes, e te humilhaste perante mim, e rasgaste as tuas vestes, e choraste perante mim, também eu te ouvi, diz o Senhor. ^v27
+**27** porque teu coração é terno e te humilhaste diante de Deus, quando ouviste as palavras Dele contra este lugar e seus habitantes, porque te humilhaste perante a Mim e rasgaste as vestes e choraste diante de Mim, Eu também te ouvi. Esta é a declaração de Yahweh. ^v27
 
-**28** Eis que te reunirei a teus pais, e tu serás recolhido ao teu sepulcro em paz, e os teus olhos não verão todo o mal que hei de trazer sobre este lugar e sobre os seus habitantes. E tornaram com esta resposta ao rei. ^v28
+**28** "Vê, Eu vou te reunir aos teus antepassados; tu serás recolhido em tua sepultura em paz, e teus olhos não verão nenhum dos desastres que irei trazer sobre este lugar e seus habitantes'"". Os homens trouxeram essa mensagem ao rei." ^v28
 
-**29** Então o rei mandou reunir todos os anciãos de Judá e Jerusalém. ^v29
+**29** O rei enviou os mensageiros e os colocou juntos com todos anciãos de Judá e Jerusalém. ^v29
 
-**30** E o rei subiu à casa do Senhor, com todos os homens de Judá, e os habitantes de Jerusalém, e os sacerdotes, e os levitas, e todo o povo, desde o maior até ao menor; e ele leu aos ouvidos deles todas as palavras do livro da aliança que fora achado na casa do Senhor. ^v30
+**30** Então, o rei foi à casa de Yahweh, assim como todos os homens de Judá e os habitantes de Jerusalém, sacerdotes, levitas e todo o povo, do grande ao pequeno. Então, ele leu aos ouvidos de todos as palavras do Livro da Aliança, que tinha sido encontrado na casa de Yahweh. ^v30
 
-**31** E pôs-se o rei em pé em seu lugar, e fez aliança perante o Senhor, para seguirem ao Senhor, e para guardar os seus mandamentos, e os seus testemunhos, e os seus estatutos, com todo o seu coração, e com toda a sua alma, cumprindo as palavras da aliança, que estão escritas naquele livro. ^v31
+**31** O rei permaneceu em seu lugar e fez uma aliança perante Yahweh, de andar segundo Yahweh e guardar Seus mandamentos, os decretos da Sua aliança e Seus estatutos, com todo o coração e toda a sua alma, de obedecer à palavra de aliança que fora escrita no Livro. ^v31
 
-**32** E fez com que todos quantos se achavam em Jerusalém e em Benjamim o firmassem; e os habitantes de Jerusalém fizeram conforme a aliança de Deus, o Deus de seus pais. ^v32
+**32** Ele fez com que todo aquele que fosse achado em Jerusalém e em Benjamim permanecesse na aliança. Os habitantes de Jerusalém agiram em obediência para com a aliança de Deus, do Deus de seus antepassados. ^v32
 
-**33** E Josias tirou todas as abominações de todas as terras que eram dos filhos de Israel; e a todos quantos se achavam em Israel obrigou a que servissem ao Senhor seu Deus. Enquanto ele viveu não se desviaram de seguir o Senhor, o Deus de seus pais. ^v33
+**33** Josias retirou todas as coisas repugnantes das terras que pertenciam ao povo de Israel. Ele fez todos em Israel adorarem Yahweh, o Deus deles. Enquanto ele viveu, eles não deixaram de seguir Yahweh, o Deus de seus ancestrais. ^v33

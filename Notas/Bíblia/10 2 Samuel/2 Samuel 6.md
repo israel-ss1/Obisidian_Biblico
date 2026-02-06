@@ -1,53 +1,52 @@
 ---
-Livro: "[[2 Samuel|2 Samuel]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/2 Samuel|2 Samuel]]"
+tags: [biblia]
 ---
 
 # 2 Samuel 6
 
-**1** E tornou Davi a ajuntar todos os escolhidos de Israel, em número de trinta mil. ^v1
+**1** Então, Davi reuniu novamente todos os homens escolhidos de Israel, trinta mil homens ao todo. ^v1
 
-**2** E levantou-se Davi, e partiu, com todo o povo que tinha consigo, para Baalim de Judá, para levarem dali para cima a arca de Deus, sobre a qual se invoca o nome, o nome do Senhor dos Exércitos, que se assenta entre os querubins. ^v2
+**2** Davi levantou-se e foi com todos os homens que estavam com ele, de Baalá de Judá, para de lá trazer a Arca de Deus, que é chamado pelo nome de Yahweh dos Exércitos, que se assenta entronizado sobre os querubins. ^v2
 
-**3** E puseram a arca de Deus em um carro novo, e a levaram da casa de Abinadabe, que está em Gibeá; e Uzá e Aiô, filhos de Abinadabe, guiavam o carro novo. ^v3
+**3** Eles puseram a Arca de Deus sobre um carro novo e a levaram da casa de Abinadabe, que está sobre uma colina. Uzá e Aiô, seus filhos, conduziam o carro novo. ^v3
 
-**4** E levando-o da casa de Abinadabe, que está em Gibeá, com a arca de Deus, Aiô ia adiante da arca. ^v4
+**4** Eles trouxeram o carro da casa de Abinadabe, da colina, com a Arca de Deus sobre ele. Aiô andava à frente da arca. ^v4
 
-**5** E Davi, e toda a casa de Israel, festejavam perante o Senhor, com toda a sorte de instrumentos de pau de faia, como também com harpas, e com saltérios, e com tamboris, e com pandeiros, e com címbalos. ^v5
+**5** Então, Davi e toda a casa de Israel começaram a tocar diante de Yahweh, celebrando com instrumentos feitos de madeira de pinho, harpas, liras, tamborins, pandeiros e címbalos. ^v5
 
-**6** E, chegando à eira de Nacom, estendeu Uzá a mão à arca de Deus, e pegou nela; porque os bois a deixavam pender. ^v6
+**6** Quando eles chegaram à eira de Nacom, os bois tropeçaram. Uzá estendeu a mão, pegou a Arca de Deus e a segurou. ^v6
 
-**7** Então a ira do Senhor se acendeu contra Uzá, e Deus o feriu ali por esta imprudência; e morreu ali junto à arca de Deus. ^v7
+**7** Então, a ira de Yahweh se acendeu contra Uzá. Deus o atacou ali, por causa do seu pecado. Uzá morreu ali, ao lado da Arca de Deus. ^v7
 
-**8** E Davi se contristou, porque o Senhor abrira rotura em Uzá; e chamou àquele lugar Perez-Uzá, até ao dia de hoje. ^v8
+**8** Davi ficou zangado porque Yahweh havia atacado Uzá, e ele chamou aquele lugar pelo nome de Perez-Uzá. Aquele lugar é chamado de Perez-Uzá até o dia de hoje. ^v8
 
-**9** E temeu Davi ao Senhor naquele dia; e disse: Como virá a mim a arca do Senhor? ^v9
+**9** "Davi temeu a Yahweh naquele dia. Ele disse: ""Como a Arca de Deus pode vir até mim?""." ^v9
 
-**10** E não quis Davi retirar para junto de si a arca do Senhor, à cidade de Davi; mas Davi a fez levar à casa de Obede-Edom, o giteu. ^v10
+**10** Assim, Davi não estava desejoso de levar a Arca de Yahweh com ele para a cidade de Davi; em vez disso, ele a deixou na casa de Obede-Edom, o geteu. ^v10
 
-**11** E ficou a arca do Senhor em casa de Obede-Edom, o giteu, três meses; e abençoou o Senhor a Obede-Edom, e a toda a sua casa. ^v11
+**11** A Arca de Yahweh permaneceu na casa de Obede-Edom, o geteu, por três meses. Então, Yahweh o abençoou e a toda a sua casa. ^v11
 
-**12** Então avisaram a Davi, dizendo: Abençoou o Senhor a casa de Obede-Edom, e tudo quanto tem, por causa da arca de Deus; foi pois Davi, e trouxe a arca de Deus para cima, da casa de Obede-Edom, à cidade de Davi, com alegria. ^v12
+**12** "Disseram ao rei Davi: ""Yahweh tem abençoado a casa de Obede-Edom e tudo que pertence a ele por causa da Arca de Deus"". Então, Davi foi e trouxe a Arca de Deus da casa de Obede-Edom para a cidade de Davi, com alegria." ^v12
 
-**13** E sucedeu que, quando os que levavam a arca do Senhor tinham dado seis passos, sacrificava bois e carneiros cevados. ^v13
+**13** Quando aqueles que estavam carregando a Arca de Yahweh davam seis passos, ele sacrificava um boi e um novilho gordo. ^v13
 
-**14** E Davi saltava com todas as suas forças diante do Senhor; e estava Davi cingido de um éfode de linho. ^v14
+**14** Davi dançou perante Yahweh, com todas as suas forças; ele estava vestindo somente um colete de linho. ^v14
 
-**15** Assim subindo, levavam Davi e todo o Israel a arca do Senhor, com júbilo, e ao som das trombetas. ^v15
+**15** Então, Davi e toda a casa de Israel trouxeram a Arca de Yahweh com gritos e ao som de trombetas. ^v15
 
-**16** E sucedeu que, entrando a arca do Senhor na cidade de Davi, Mical, a filha de Saul, estava olhando pela janela; e, vendo ao rei Davi, que ia bailando e saltando diante do Senhor, o desprezou no seu coração. ^v16
+**16** Nesse momento, quando a Arca de Yahweh chegou à cidade de Davi, Mical, filha de Saul, olhou pela janela. Ela viu o rei Davi saltando e dançando diante de Yahweh, então, ela o desprezou em seu coração. ^v16
 
-**17** E introduzindo a arca do Senhor, a puseram no seu lugar, na tenda que Davi lhe armara; e ofereceu Davi holocaustos e ofertas pacíficas perante o Senhor. ^v17
+**17** Eles trouxeram a Arca de Yahweh e a colocaram no seu lugar, no meio da tenda que Davi havia preparado para ela. E Davi ofereceu holocaustos e ofertas pacíficas diante de Yahweh. ^v17
 
-**18** E acabando Davi de oferecer os holocaustos e ofertas pacíficas, abençoou o povo em nome do Senhor dos Exércitos. ^v18
+**18** Quando Davi terminou de oferecer os holocaustos e as ofertas pacíficas, abençoou o povo no nome de Yahweh dos Exércitos. ^v18
 
-**19** E repartiu a todo o povo, e a toda a multidão de Israel, desde os homens até às mulheres, a cada um, um bolo de pão, e um bom pedaço de carne, e um frasco de vinho; então retirou-se todo o povo, cada um para sua casa, ^v19
+**19** Então, distribuiu entre todo o povo, toda a multidão de Israel, tanto para homens quanto para mulheres, um pão, uma porção de carne e um bolo de passas: então, todo o povo saiu; cada um retornou à sua própria casa. ^v19
 
-**20** E, voltando Davi para abençoar a sua casa, Mical, a filha de Saul, saiu a encontrar-se com Davi, e disse: Quão honrado foi o rei de Israel, descobrindo-se hoje aos olhos das servas de seus servos, como sem pejo se descobre qualquer dos vadios. ^v20
+**20** "Depois, Davi retornou para abençoar sua família. Mical, a filha de Saul, veio para encontrar Davi e disse: ""Quão honrado foi o rei de Israel hoje, despindo-se diante dos olhos das escravas, entre seus servos, como um sujeito qualquer que vergonhosamente se despe!""." ^v20
 
-**21** Disse, porém, Davi a Mical: Perante o Senhor, que me escolheu preferindo-me a teu pai, e a toda a sua casa, mandando-me que fosse soberano sobre o povo do Senhor, sobre Israel, perante o Senhor tenho me alegrado. ^v21
+**21** "Davi respondeu a Mical: ""Eu fiz isso diante de Yahweh, que me escolheu no lugar do teu pai e no lugar de toda a sua família, que me designou como líder sobre o povo de Yahweh, sobre Israel. Diante de Yahweh eu me alegrarei!" ^v21
 
-**22** E ainda mais do que isto me envilecerei, e me humilharei aos meus olhos; mas das servas, de quem falaste, delas serei honrado. ^v22
+**22** "Eu serei ainda mais indigno que isso. Eu me humilharei aos meus próprios olhos, mas, aos olhos das escravas que tu mencionaste, eu serei honrado""." ^v22
 
-**23** E Mical, a filha de Saul, não teve filhos, até o dia da sua morte. ^v23
+**23** Então, Mical, a filha de Saul, não teve filhos até o dia da sua morte. ^v23

@@ -1,41 +1,40 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Habacuque|Habacuque]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Habacuque|Habacuque]]"
+tags: [biblia]
 ---
 
 # Habacuque 1
 
-**1** O peso que viu o profeta Habacuque. ^v1
+**1** A mensagem que o profeta Habacuque recebeu: ^v1
 
-**2** Até quando, Senhor, clamarei eu, e tu não me escutarás? Gritar-te-ei: Violência! e não salvarás? ^v2
+**2** """Yahweh, até quando devo clamar por ajuda, e Tu não ouvirás? Tenho gritado a Ti: 'Violência!', mas Tu não me salvas." ^v2
 
-**3** Por que razão me mostras a iniqüidade, e me fazes ver a opressão? Pois que a destruição e a violência estão diante de mim, havendo também quem suscite a contenda e o litígio. ^v3
+**3** Por que Tu me fazes ver a iniquidade e contemplar a transgressão? Destruição e violência estão diante de mim; há dissenção e se levantam contendas! ^v3
 
-**4** Por esta causa a lei se afrouxa, e a justiça nunca se manifesta; porque o ímpio cerca o justo, e a justiça se manifesta distorcida. ^v4
+**4** "Por isso, a Lei é enfraquecida e a justiça não dura tempo algum. Pois os maus cercam os justos; por isso, a falsa justiça sobressai"". Yahweh responde a Habacuque:" ^v4
 
-**5** Vede entre os gentios e olhai, e maravilhai-vos, e admirai-vos; porque realizarei em vossos dias uma obra que vós não crereis, quando for contada. ^v5
+**5** """Olha as nações e as examina; deslumbra-te e maravilha-te! Pois certamente farei algo em teus dias que não acreditarás quando te for anunciado a ti." ^v5
 
-**6** Porque eis que suscito os caldeus, nação amarga e impetuosa, que marcha sobre a largura da terra, para apoderar-se de moradas que não são suas. ^v6
+**6** Pois, vê! Estou prestes a levantar os caldeus, aquela nação feroz e impetuosa, que está marchando por toda a largura da Terra, para se apoderarem de casas que não lhes pertencem. ^v6
 
-**7** Horrível e terrível é; dela mesma sairá o seu juízo e a sua dignidade. ^v7
+**7** São aterrorizantes e amedrontadores; deles mesmos procedem seu julgamento e esplendor. ^v7
 
-**8** E os seus cavalos são mais ligeiros do que os leopardos, e mais espertos do que os lobos à tarde; os seus cavaleiros espalham-se por toda parte; os seus cavaleiros virão de longe; voarão como águias que se apressam a devorar. ^v8
+**8** Seus cavalos também são mais velozes que leopardos, mais rápidos que lobos ao entardecer. Assim, seus cavalos trotam e seus cavaleiros vêm de grande distância; eles voam como uma águia que se apressa para comer. ^v8
 
-**9** Eles todos virão para fazer violência; os seus rostos buscarão o vento oriental, e reunirão os cativos como areia. ^v9
+**9** "Todos eles vêm para trazer violência, suas multidões vão como o vento do deserto e eles juntam os cativos como areia. [O texto hebraico aqui traduzido como ""suas multidões vão como o vento do deserto"" é muito difícil; muitas versões modernas têm outras interpretações.]" ^v9
 
-**10** E escarnecerão dos reis, e dos príncipes farão zombaria; eles se rirão de todas as fortalezas, porque amontoarão terra, e as tomarão. ^v10
+**10** Então, eles zombam dos reis, e os governantes são apenas objeto de escárnio para eles. Eles riem a cada fortaleza, porque amontoam terras e as tomam. ^v10
 
-**11** Então muda a sua mente, e seguirá, e se fará culpado, atribuindo este seu poder ao seu deus. ^v11
+**11** "Então, o vento se moverá velozmente e passará — eles são homens culpados, cujo deus é sua força"". Habacuque faz outra pergunta a Yahweh:" ^v11
 
-**12** Não és tu desde a eternidade, ó Senhor meu Deus, meu Santo? Nós não morreremos. Ó Senhor, para juízo o puseste, e tu, ó Rocha, o fundaste para castigar. ^v12
+**12** """Tu não vens de tempos antigos, Yahweh, meu Deus, meu Santo? Nós não morreremos. Yahweh os destinou para julgamento, e Tu, Rocha, os estabeleceste para correção." ^v12
 
-**13** Tu és tão puro de olhos, que não podes ver o mal, e a opressão não podes contemplar. Por que olhas para os que procedem aleivosamente, e te calas quando o ímpio devora aquele que é mais justo do que ele? ^v13
+**13** Teus olhos são puros demais para contemplar o mal, e Tu não és capaz de olhar para a transgressão com favor. Por que, então, Tu tens olhado favoravelmente àqueles que traem? Por que estás calado, enquanto os maus engolem os que são mais justos que eles? ^v13
 
-**14** E por que farias os homens como os peixes do mar, como os répteis, que não têm quem os governe? ^v14
+**14** Tu fazes homens como peixes no mar, como répteis que não têm quem os governe. ^v14
 
-**15** Ele a todos levantará com o anzol, apanhá-los-á com a sua rede, e os ajuntará na sua rede varredoura; por isso ele se alegrará e se regozijará. ^v15
+**15** Eles levantam a todos com anzol; arrastam homens com suas redes de pesca e os juntam em suas redes de arrasto. Por isso, eles se regozijam e se alegram. ^v15
 
-**16** Por isso sacrificará à sua rede, e queimará incenso à sua varredoura; porque com elas engordou a sua porção, e engrossou a sua comida. ^v16
+**16** Por isso, eles sacrificam a suas redes de pesca e queimam incenso a suas redes de arrasto, porque é por suas redes que vivem no luxo, e sua comida é da melhor espécie! ^v16
 
-**17** Porventura por isso esvaziará a sua rede e não terá piedade de matar as nações continuamente? ^v17
+**17** "Por acaso, continuarão a esvaziar suas redes e continuarão a massacrar as nações, sem sentirem compaixão?""." ^v17

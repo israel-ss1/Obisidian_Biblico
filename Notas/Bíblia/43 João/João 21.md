@@ -1,57 +1,56 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/João|João]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/João|João]]"
+tags: [biblia]
 ---
 
 # João 21
 
-**1** Depois disto manifestou-se Jesus outra vez aos discípulos junto do mar de Tiberíades; e manifestou-se assim: ^v1
+**1** Depois dessas coisas, Jesus apareceu novamente aos discípulos no mar de Tiberíades. Assim foi que Ele apareceu: ^v1
 
-**2** Estavam juntos Simão Pedro, e Tomé, chamado Dídimo, e Natanael, que era de Caná da Galiléia, os filhos de Zebedeu, e outros dois dos seus discípulos. ^v2
+**2** Simão Pedro estava junto com Tomé, chamado Dídimo, Natanael de Caná da Galileia, os filhos de Zebedeu, e outros dois discípulos de Jesus. ^v2
 
-**3** Disse-lhes Simão Pedro: Vou pescar. Dizem-lhe eles: Também nós vamos contigo. Foram, e subiram logo para o barco, e naquela noite nada apanharam. ^v3
+**3** "Simão Pedro lhes disse: ""Vou pescar"". E lhe disseram: ""Nós também iremos contigo"". Eles foram e entraram no barco; mas naquela noite nada apanharam." ^v3
 
-**4** E, sendo já manhã, Jesus se apresentou na praia, mas os discípulos não conheceram que era Jesus. ^v4
+**4** Ao amanhecer, Jesus estava na praia, mas os discípulos não sabiam que era Jesus. ^v4
 
-**5** Disse-lhes, pois, Jesus: Filhos, tendes alguma coisa de comer? Responderam-lhe: Não. ^v5
+**5** "Então, Jesus lhes disse: ""Jovens, tendes algo para comer?"". Eles Lhe responderam: ""Não""." ^v5
 
-**6** E ele lhes disse: Lançai a rede para o lado direito do barco, e achareis. Lançaram-na, pois, e já não a podiam tirar, pela multidão dos peixes. ^v6
+**6** "E disse-lhes: ""Lançai vossa rede do lado direito do barco, e achareis"". E eles lançaram a rede, quase não conseguiam puxá-la por causa da quantidade de peixes." ^v6
 
-**7** Então aquele discípulo, a quem Jesus amava, disse a Pedro: É o Senhor. E, quando Simão Pedro ouviu que era o Senhor, cingiu-se com a túnica (porque estava nu) e lançou-se ao mar. ^v7
+**7** "Então, o discípulo que Jesus amava disse a Pedro: ""É o Senhor!"". Quando Simão Pedro ouviu que era o Senhor, vestiu sua roupa, pois estava nu, e lançou-se ao mar." ^v7
 
-**8** E os outros discípulos foram com o barco (porque não estavam distantes da terra senão quase duzentos côvados), levando a rede cheia de peixes. ^v8
+**8** E os outros discípulos vieram no barco (pois não estavam longe da terra, nem duzentos côvados de distância), puxando a rede cheia de peixes. ^v8
 
-**9** Logo que desceram para terra, viram ali brasas, e um peixe posto em cima, e pão. ^v9
+**9** Quando desembarcaram, viram ali pão e peixe sobre brasas. ^v9
 
-**10** Disse-lhes Jesus: Trazei dos peixes que agora apanhastes. ^v10
+**10** "Disse-lhes Jesus: ""Trazei alguns dos peixes que acabastes de pegar""." ^v10
 
-**11** Simão Pedro subiu e puxou a rede para terra, cheia de cento e cinqüenta e três grandes peixes e, sendo tantos, não se rompeu a rede. ^v11
+**11** Simão Pedro subiu ao barco e puxou a rede, cheia de cento e cinquenta e três grandes peixes; apesar de serem muitos, a rede não se rompeu. ^v11
 
-**12** Disse-lhes Jesus: Vinde, comei. E nenhum dos discípulos ousava perguntar-lhe: Quem és tu? sabendo que era o Senhor. ^v12
+**12** "Disse-lhes Jesus: ""Vinde e comei"". Nenhum dos discípulos ousou perguntar-Lhe: ""Quem és Tu?"", sabendo que Ele era o Senhor." ^v12
 
-**13** Chegou, pois, Jesus, e tomou o pão, e deu-lhes e, semelhantemente o peixe. ^v13
+**13** Jesus aproximou-Se, pegou o pão e lhes deu; e fez da mesma maneira com o peixe. ^v13
 
-**14** E já era a terceira vez que Jesus se manifestava aos seus discípulos, depois de ter ressuscitado dentre os mortos. ^v14
+**14** Esta foi a terceira vez que Jesus apareceu aos discípulos depois de ter ressuscitado dos mortos. ^v14
 
-**15** E, depois de terem jantado, disse Jesus a Simão Pedro: Simão, filho de Jonas, amas-me mais do que estes? E ele respondeu: Sim, Senhor, tu sabes que te amo. Disse-lhe: Apascenta os meus cordeiros. ^v15
+**15** "Depois de terem comido, Jesus disse a Simão Pedro: ""Simão, filho de João, tu Me amas mais que estes?"". Pedro respondeu-Lhe: ""Sim, Senhor; Tu sabes que eu Te amo"". Jesus disse-lhe: ""Apascenta Meus cordeiros""." ^v15
 
-**16** Tornou a dizer-lhe segunda vez: Simão, filho de Jonas, amas-me? Disse-lhe: Sim, Senhor, tu sabes que te amo. Disse-lhe: Apascenta as minhas ovelhas. ^v16
+**16** "Tornou a perguntar-lhe pela segunda vez: ""Simão, filho de João, tu Me amas?"". Pedro respondeu-Lhe: ""Sim, Senhor; Tu sabes que eu Te amo"". Jesus disse para ele: ""Pastoreia Minhas ovelhas""." ^v16
 
-**17** Disse-lhe terceira vez: Simão, filho de Jonas, amas-me? Simão entristeceu-se por lhe ter dito terceira vez: Amas-me? E disse-lhe: Senhor, tu sabes tudo; tu sabes que eu te amo. Jesus disse-lhe: Apascenta as minhas ovelhas. ^v17
+**17** "Ele lhe disse uma terceira vez: ""Simão, filho de João, tu Me amas?"". Pedro entristeceu-se porque Jesus lhe havia perguntado pela terceira vez: ""Tu Me amas?"". Ele disse-Lhe: ""Senhor, Tu sabes todas as coisas; Tu sabes que Te amo"". Jesus disse-lhe: ""Alimenta Minhas ovelhas." ^v17
 
-**18** Na verdade, na verdade te digo que, quando eras mais moço, te cingias a ti mesmo, e andavas por onde querias; mas, quando já fores velho, estenderás as tuas mãos, e outro te cingirá, e te levará para onde tu não queiras. ^v18
+**18** "Em verdade, em verdade, te digo que quando eras jovem, tu te vestias e andavas como desejavas; mas quando envelheceres, estenderás tuas mãos e outro te vestirá, e te levará onde tu não desejas ir""." ^v18
 
-**19** E disse isto, significando com que morte havia ele de glorificar a Deus. E, dito isto, disse-lhe: Segue-me. ^v19
+**19** "Jesus disse isso para indicar com que tipo de morte Pedro glorificaria a Deus. Depois de falar isso, Ele disse a Pedro: ""Segue-Me""." ^v19
 
-**20** E Pedro, voltando-se, viu que o seguia aquele discípulo a quem Jesus amava, e que na ceia se recostara também sobre o seu peito, e que dissera: Senhor, quem é que te há de trair? ^v20
+**20** "Pedro virou-se e viu o discípulo a quem Jesus amava acompanhando-lhes, aquele que também havia-se reclinado sobre o peito de Jesus na ceia e perguntado: ""Senhor, quem é aquele que Te trairá?""." ^v20
 
-**21** Vendo Pedro a este, disse a Jesus: Senhor, e deste que será? ^v21
+**21** "Pedro, ao vê-lo, disse a Jesus: ""Senhor, e quanto a este?""." ^v21
 
-**22** Disse-lhe Jesus: Se eu quero que ele fique até que eu venha, que te importa a ti? Segue-me tu. ^v22
+**22** "Jesus lhe respondeu: ""Se Eu quiser que ele permaneça até Eu voltar, que te importa? Quanto a ti, Segue-Me""." ^v22
 
-**23** Divulgou-se, pois, entre os irmãos este dito, que aquele discípulo não havia de morrer. Jesus, porém, não lhe disse que não morreria, mas: Se eu quero que ele fique até que eu venha, que te importa a ti? ^v23
+**23** "Então, espalhou-se esta notícia entre os irmãos, de que aquele discípulo não morreria. Todavia, Jesus não disse a Pedro que o outro discípulo não morreria, mas afirmou: ""Se Eu quiser que ele permaneça até Eu voltar, que te importa?""." ^v23
 
-**24** Este é o discípulo que testifica destas coisas e as escreveu; e sabemos que o seu testemunho é verdadeiro. ^v24
+**24** Este é o discípulo que dá testemunho sobre essas coisas, e que as escreveu, e nós sabemos que seu testemunho é verdadeiro. ^v24
 
-**25** Há, porém, ainda muitas outras coisas que Jesus fez; e se cada uma das quais fosse escrita, cuido que nem ainda o mundo todo poderia conter os livros que se escrevessem. Amém. ^v25
+**25** Existem também muitas outras coisas que Jesus fez. Se cada uma delas fosse escrita, suponho que nem mesmo o mundo poderia conter os livros que seriam escritos. ^v25

@@ -1,109 +1,108 @@
 ---
-Livro: "[[Números|Números]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Números|Números]]"
+tags: [biblia]
 ---
 
 # Números 3
 
-**1** E estas são as gerações de Arão e de Moisés, no dia em que o SENHOR falou com Moisés, no monte Sinai. ^v1
+**1** Essa é a história dos descendentes de Arão e Moisés, quando Yahweh falou com Moisés no Monte Sinai. ^v1
 
-**2** E estes são os nomes dos filhos de Arão: o primogênito Nadabe; depois Abiú, Eleazar e Itamar. ^v2
+**2** Os nomes dos filhos de Arão eram Nadabe, o primogênito, e Abiú, Eleazar e Itamar. ^v2
 
-**3** Estes são os nomes dos filhos de Arão, dos sacerdotes ungidos, cujas mãos foram consagradas para administrar o sacerdócio. ^v3
+**3** Estes são os nomes dos filhos de Arão, que foram ungidos e ordenados a servir como sacerdotes. ^v3
 
-**4** Mas Nadabe e Abiú morreram perante o Senhor, quando ofereceram fogo estranho perante o Senhor no deserto de Sinai, e não tiveram filhos; porém Eleazar e Itamar administraram o sacerdócio diante de Arão, seu pai. ^v4
+**4** Mas, Nadabe e Abiú caíram mortos diante de Yahweh, quando ofereceram fogo estranho no deserto do Sinai. Nadabe e Abiú não tinham filhos, portanto, somente Eleazar e Itamar serviram como sacerdotes com Arão, pai deles. ^v4
 
-**5** E falou o Senhor a Moisés, dizendo: ^v5
+**5** Yahweh falou a Moisés e disse-lhe: ^v5
 
-**6** Faze chegar a tribo de Levi, e põe-na diante de Arão, o sacerdote, para que o sirvam, ^v6
+**6** """Traz a tribo de Levi e os apresentem a Arão, o sacerdote, para que eles o ajudem." ^v6
 
-**7** E tenham cuidado da sua guarda, e da guarda de toda a congregação, diante da tenda da congregação, para administrar o ministério do tabernáculo. ^v7
+**7** Eles cumprirão suas obrigações em nome de Arão e de toda a comunidade, diante da Tenda do Encontro. ^v7
 
-**8** E tenham cuidado de todos os utensílios da tenda da congregação, e da guarda dos filhos de Israel, para administrar o ministério do tabernáculo. ^v8
+**8** Eles servirão no Tabernáculo. Eles cuidarão de todas as mobílias da Tenda do Encontro, e ajudarão as tribos de Israel, nos ofícios do Tabernáculo. ^v8
 
-**9** Darás, pois, os levitas a Arão e a seus filhos; dentre os filhos de Israel lhes são dados em dádiva. ^v9
+**9** Tu dedicarás os levitas a Arão e seus filhos. Eles serão inteiramente separados para ajudá-los a servir o povo de Israel. ^v9
 
-**10** Mas a Arão e a seus filhos ordenarás que guardem o seu sacerdócio, e o estranho que se chegar morrerá. ^v10
+**10** "Tu escolherás, Arão e seus filhos como sacerdotes, mas qualquer estrangeiro que se aproximar, será morto""." ^v10
 
-**11** E falou o Senhor a Moisés, dizendo: ^v11
+**11** Yahweh falou a Moisés. Disse-lhe: ^v11
 
-**12** E eu, eis que tenho tomado os levitas do meio dos filhos de Israel, em lugar de todo o primogênito, que abre a madre, entre os filhos de Israel; e os levitas serão meus. ^v12
+**12** """Eu escolhi os levitas do meio do povo de Israel. Eu fiz assim, ao invés de escolher cada primogênito masculino nascido no meio dos israelitas. Os levitas pertencem a Mim." ^v12
 
-**13** Porque todo o primogênito é meu; desde o dia em que tenho ferido a todo o primogênito na terra do Egito, santifiquei para mim todo o primogênito em Israel, desde o homem até ao animal: meus serão; Eu sou o Senhor. ^v13
+**13** "Todos os primogênitos pertencem a Mim. No dia em que matei todos os primogênitos na terra do Egito, Eu separei todos os primogênitos de Israel para Mim, tanto homens quanto animais. Eles pertencem a Mim. Eu sou Yahweh""." ^v13
 
-**14** E falou o Senhor a Moisés no deserto de Sinai, dizendo: ^v14
+**14** Yahweh falou a Moisés no deserto de Sinai. Disse-lhe: ^v14
 
-**15** Conta os filhos de Levi, segundo a casa de seus pais, pelas suas famílias; contarás a todo o homem da idade de um mês para cima. ^v15
+**15** """Conta os descendentes de Levi em cada família, nas casas de seus antepassados. Conta todos os homens que têm um mês de idade até o mais velho""." ^v15
 
-**16** E Moisés os contou conforme ao mandado do Senhor, como lhe foi ordenado. ^v16
+**16** Moisés os contou, seguindo as direções dadas a ele pelas palavras de Yahweh, como Ele, o Senhor, lhe ordenara. ^v16
 
-**17** Estes, pois, foram os filhos de Levi pelos seus nomes: Gérson, e Coate e Merari. ^v17
+**17** Os nomes dos filhos de Levi eram: Gérson, Coate e Merari. ^v17
 
-**18** E estes são os nomes dos filhos de Gérson pelas suas famílias: Libni e Simei. ^v18
+**18** Os clãs que vieram dos filhos de Gérson, foram Líbni e Simei. ^v18
 
-**19** E os filhos de Coate pelas suas famílias: Amrão, e Izar, Hebrom e Uziel. ^v19
+**19** Os clãs que vieram dos filhos de Coate, foram Anrão, Izar, Hebrom e Uziel. ^v19
 
-**20** E os filhos de Merari pelas suas famílias: Mali e Musi; estas são as famílias dos levitas, segundo a casa de seus pais. ^v20
+**20** Os clãs que vieram dos filhos de Merari foram Mali e Musi. Esses eram os clãs dos levitas, listados clã por clã. ^v20
 
-**21** De Gérson é a família dos libnitas e a família dos simeítas; estas são as famílias dos gersonitas. ^v21
+**21** Os clãs dos Libnitas, a geraçâo dos Simeítas, vieram de Gérson. Esses são os clãs dos Gersonitas. ^v21
 
-**22** Os que deles foram contados pelo número de todo o homem da idade de um mês para cima, sim, os que deles foram contados eram sete mil e quinhentos. ^v22
+**22** Todos os homens de um mês de idade até o mais velho foram contados, totalizando sete mil e quinhentos. ^v22
 
-**23** As famílias dos gersonitas armarão as suas tendas atrás do tabernáculo, ao ocidente. ^v23
+**23** Os clãs dos Gersonitas devem acampar, do lado oeste do Tabernáculo. ^v23
 
-**24** E o príncipe da casa paterna dos gersonitas será Eliasafe, filho de Lael. ^v24
+**24** Eliasafe, filho de Lael liderará os clãs dos descendentes dos gersonitas. ^v24
 
-**25** E os filhos de Gérson terão a seu cargo, na tenda da congregação, o tabernáculo, a tenda, a sua coberta, e o véu da porta da tenda da congregação. ^v25
+**25** A família de Gérson cuidará da Tenda do Encontro, incluindo o Tabernáculo. Eles cuidarão da Tenda, da sua cobertura e da cortina da entrada da Tenda da Congregação. ^v25
 
-**26** E as cortinas do pátio, e o pavilhão da porta do pátio, que estão junto ao tabernáculo e junto ao altar, em redor; como também as suas cordas para todo o seu serviço. ^v26
+**26** Eles devem cuidar das tapeçarias do pátio, das cortinas da entrada do pátio, do pátio ao redor do santuário e do altar. Eles cuidarão das cordas da Tenda do Encontro e de todo seu conteúdo. ^v26
 
-**27** E de Coate é a família dos amramitas, e a família dos jizaritas, e a família dos hebronitas, e a família dos uzielitas; estas são as famílias dos coatitas. ^v27
+**27** Estes são os clãs vindos de Coate: o clã dos Anramitas, o clã dos Izaritas, o clã dos Hebronitas, o clã dos Uzielitas. Estes clãs pertencem aos Coatitas. ^v27
 
-**28** Pelo número contado de todo o homem da idade de um mês para cima, eram oito mil e seiscentos, que tinham cuidado da guarda do santuário. ^v28
+**28** Oito mil e seiscentos homens foram contados de um mês de idade até o mais velho, para cuidarem das coisas que pertenciam a Yahweh. ^v28
 
-**29** As famílias dos filhos de Coate armarão as suas tendas ao lado do tabernáculo, do lado do sul. ^v29
+**29** As famílias dos descendentes de Coate devem acampar no lado sul do Tabernáculo. ^v29
 
-**30** E o príncipe da casa paterna das famílias dos coatitas será Elisafã, filho de Uziel. ^v30
+**30** Elizafã, filho de Uziel liderará os clãs dos coatitas. ^v30
 
-**31** E a sua guarda será a arca, e a mesa, e o candelabro, e os altares, e os utensílios do santuário com que ministram, e o véu com todo o seu serviço. ^v31
+**31** Eles cuidarão da arca, da mesa, do candelabro, dos altares, dos utensílios sagrados usados nos cultos, da cortina e de tudo que envolva esse trabalho. ^v31
 
-**32** E o príncipe dos príncipes de Levi será Eleazar, filho de Arão, o sacerdote; terá a superintendência sobre os que têm cuidado da guarda do santuário. ^v32
+**32** Eleazar, filho de Arão, o sacerdote, será o homem que liderará os levitas. Ele supervisionará o homem responsável pelo lugar santo. ^v32
 
-**33** De Merari é a família dos malitas e a família dos musitas; estas são as famílias de Merari. ^v33
+**33** Dois clãs vieram de Merari: o clã dos Malitas e o clã dos Musitas. Estes clãs vieram de Merari. ^v33
 
-**34** E os que deles foram contados pelo número de todo o homem de um mês para cima, foram seis mil e duzentos. ^v34
+**34** Seis mil e duzentos homens foram contados de um mês de idade até o mais velho. ^v34
 
-**35** E o príncipe da casa paterna das famílias de Merari será Zuriel, filho de Abiail; armarão as suas tendas ao lado do tabernáculo, do lado do norte. ^v35
+**35** Zuriel, filho de Abiail, deverá liderar os clãs de Merari. Eles devem acampar no lado norte do Tabernáculo. ^v35
 
-**36** E os filhos de Merari terão a seu cargo as tábuas do tabernáculo, os seus varais, as suas colunas, as suas bases, e todos os seus utensílios, com todo o seu serviço. ^v36
+**36** Os descendentes de Merari cuidarão do conjunto de estruturas do Tabernáculo, das barras transversais, colunas, bases, e tudo que está relacionado a isso, incluindo ^v36
 
-**37** E as colunas do pátio em redor, e as suas bases, as suas estacas e as suas cordas. ^v37
+**37** os pilares e colunas que estão nos arredores do Tabernáculo, com suas bases, estacas e cordas. ^v37
 
-**38** E os que armarão as suas tendas diante do tabernáculo, ao oriente, diante da tenda da congregação, para o nascente, serão Moisés e Arão, com seus filhos, tendo o cuidado da guarda do santuário, pela guarda dos filhos de Israel; e o estranho que se chegar morrerá. ^v38
+**38** Moisés, Arão e seus filhos devem acampar do lado leste do Tabernáculo, perante a Tenda do Encontro, voltados para o nascer do sol. Eles serão os responsáveis pelo cumprimento dos deveres do lugar santo, em prol do povo de Israel. Qualquer estrangeiro que se aproximar do lugar santo deverá ser morto. ^v38
 
-**39** Todos os que foram contados dos levitas, que contaram Moisés e Arão por mandado do Senhor, segundo as suas famílias, todo o homem de um mês para cima, foram vinte e dois mil. ^v39
+**39** Moisés e Arão contaram todos os homens do clã de Levi que eram da idade de um mês até o mais velho, como Yahweh os ordenou. Eles contaram vinte e dois mil homens. ^v39
 
-**40** E disse o Senhor a Moisés: Conta todo o primogênito homem dos filhos de Israel, da idade de um mês para cima, e toma o número dos seus nomes, ^v40
+**40** "Yahweh disse a Moisés: ""Conta todos os primogênitos do povo de Israel que são das idades de um mês até o mais velho. Lista-os por nome." ^v40
 
-**41** E para mim tomarás os levitas (eu sou o Senhor), em lugar de todo o primogênito dos filhos de Israel, e os animais dos levitas, em lugar de todo o primogênito entre os animais dos filhos de Israel. ^v41
+**41** Tu dedicarás os levitas para Mim, ao invés de todos os primogênitos do povo de Israel. Eu sou Yahweh. E tu dedicarás o gado dos levitas, ao invés dos primogênitos dos animais dos descendentes de Israel. ^v41
 
-**42** E contou Moisés, como o Senhor lhe ordenara, todo o primogênito entre os filhos de Israel. ^v42
+**42** Moisés contou todos os primogênitos do povo de Israel, como Yahweh lhe ordenara. ^v42
 
-**43** E todos os primogênitos homens, pelo número dos nomes dos da idade de um mês para cima, segundo os que eram contados deles, foram vinte e dois mil e duzentos e setenta e três. ^v43
+**43** Ele contou todos os primogênitos masculinos por nome, de um mês de idade até o mais velho, totalizando vinte e dois mil, duzentos e setenta e três homens. ^v43
 
-**44** E falou o Senhor a Moisés, dizendo: ^v44
+**44** Novamente, Yahweh falou a Moisés. Ele disse: ^v44
 
-**45** Toma os levitas em lugar de todo o primogênito entre os filhos de Israel, e os animais dos levitas em lugar dos seus animais; porquanto os levitas serão meus: Eu sou o Senhor. ^v45
+**45** """Separa para Mim os levitas, ao invés de todos os primogênitos do meio do povo de Israel e separa para Mim os animais dos levitas, ao invés dos animais do povo. Os levitas pertencem a Mim. Eu sou Yahweh." ^v45
 
-**46** Quanto aos duzentos e setenta e três, que se houverem de resgatar dos primogênitos dos filhos de Israel, que excedem ao número dos levitas, ^v46
+**46** Tu coletará cinco siclos pela redenção de cada um dos duzentos e setenta e três primogênitos de Israel, que excederam o número dos levitas. ^v46
 
-**47** Tomarás, por cabeça, cinco siclos; conforme ao siclo do santuário os tomarás, a vinte geras o siclo. ^v47
+**47** Tu usará os siclos do santuário como um padrão de peso. O siclo equivale a vinte geras. ^v47
 
-**48** E a Arão e a seus filhos darás o dinheiro dos resgatados, dos que sobram entre eles. ^v48
+**48** "Tu dará o preço da redenção que tu pagastes a Arão e a seus filhos""." ^v48
 
-**49** Então Moisés tomou o dinheiro do resgate dos que excederam sobre os resgatados pelos levitas. ^v49
+**49** Então Moisés coletou o pagamento de redenção do povo, que excedia o número de resgatados pelos levitas. ^v49
 
-**50** Dos primogênitos dos filhos de Israel recebeu o dinheiro, mil e trezentos e sessenta e cinco siclos, segundo o siclo do santuário. ^v50
+**50** Moisés coletou o dinheiro dos primogênitos do povo de Israel. Ele coletou mil trezentos e sessenta e cinco siclos, segundo o siclo do santuário. ^v50
 
-**51** E Moisés deu o dinheiro dos resgatados a Arão e a seus filhos, segundo o mandado do Senhor, como o Senhor ordenara a Moisés. ^v51
+**51** Moisés deu a Arão e seus filhos o dinheiro recebido. Moisés fez tudo o que lhe foi dito para fazer, pela palavra de Yahweh, assim como Ele ordenara. ^v51

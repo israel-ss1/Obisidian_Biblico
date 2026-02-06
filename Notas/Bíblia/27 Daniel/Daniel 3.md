@@ -1,67 +1,66 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Daniel|Daniel]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Daniel|Daniel]]"
+tags: [biblia]
 ---
 
 # Daniel 3
 
-**1** O rei Nabucodonosor fez uma estátua de ouro, cuja altura era de sessenta côvados, e a sua largura de seis côvados; levantou-a no campo de Dura, na província de babilônia. ^v1
+**1** O rei Nabucodonosor fez uma estátua de ouro que media sessenta côvados de altura e seis côvados de largura. Ele a levantou na planície de Dura, na província da Babilônia. ^v1
 
-**2** Então o rei Nabucodonosor mandou reunir os príncipes, os prefeitos, os governadores, os conselheiros, os tesoureiros, os juízes, os capitàes, e todos os oficiais das províncias, para que viessem à consagração da estátua que o rei Nabucodonosor tinha levantado. ^v2
+**2** Então, Nabucodonosor enviou mensagens aos sátrapas, prefeitos, governadores, conselheiros, tesoureiros, juízes, magistrados e a todos os oficiais das províncias, para que viessem à dedicação da estátua que ele havia levantado. ^v2
 
-**3** Então se reuniram os príncipes, os prefeitos e governadores, os capitàes, os juízes, os tesoureiros, os conselheiros, e todos os oficiais das províncias, à consagração da estátua que o rei Nabucodonosor tinha levantado; e estavam em pé diante da imagem que Nabucodonosor tinha levantado. ^v3
+**3** Então, os sátrapas, prefeitos, governadores, conselheiros, tesoureiros, juízes, magistrados e todos os oficiais das províncias se juntaram para a dedicação da estátua que o rei Nabucodonosor erguera. Todos estavam de pé diante da estátua. ^v3
 
-**4** E o arauto apregoava em alta voz: Ordena-se a vós, ó povos, nações e línguas: ^v4
+**4** "Então, o arauto clamou em alta voz: ""Ordena-se a todos os povos, nações e línguas," ^v4
 
-**5** Quando ouvirdes o som da buzina, da flauta, da harpa, da sambuca, do saltério, da gaita de foles, e de toda a espécie de música, prostrar-vos-eis, e adorareis a estátua de ouro que o rei Nabucodonosor tem levantado. ^v5
+**5** que, ao ouvirem o som da trombeta, da flauta, da harpa, da cítara, do saltério, da gaita de foles e de todo tipo de música, se prostrem e adorem a estátua de ouro que o rei Nabucodonosor ergueu. ^v5
 
-**6** E qualquer que não se prostrar e não a adorar, será na mesma hora lançado dentro da fornalha de fogo ardente. ^v6
+**6** "Qualquer um que não se prostrar e não a adorar, será lançado na mesma hora numa fornalha de fogo ardente""." ^v6
 
-**7** Portanto, no mesmo instante em que todos os povos ouviram o som da buzina, da flauta, da harpa, da sambuca, do saltério e de toda a espécie de música, prostraram-se todos os povos, nações e línguas, e adoraram a estátua de ouro que o rei Nabucodonosor tinha levantado. ^v7
+**7** Então, quando todos os povos ouviram os sons da trombeta, da flauta, da harpa, da cítara, do saltério, da gaita de foles e de todo tipo de música, todos os povos, nações e línguas se prostraram e adoraram a estátua de ouro que o rei Nabucodonosor levantara. ^v7
 
-**8** Por isso, no mesmo instante chegaram perto alguns caldeus, e acusaram os judeus. ^v8
+**8** Nessa hora, alguns caldeus vieram e fizeram acusações contra os judeus. ^v8
 
-**9** E responderam, dizendo ao rei Nabucodonosor: Ó rei, vive eternamente! ^v9
+**9** "Eles disseram ao rei Nabucodonosor: ""Ó rei, vive para sempre!""." ^v9
 
-**10** Tu, ó rei, fizeste um decreto, pelo qual todo homem que ouvisse o som da buzina, da flauta, da harpa, da sambuca, do saltério, e da gaita de foles, e de toda a espécie de música, se prostrasse e adorasse a estátua de ouro; ^v10
+**10** O rei fez um decreto que toda pessoa que ouvisse os sons da trombeta, da flauta, da harpa, da cítara, do saltério, da gaita de fole e de todo tipo de música deveria prostrar-se e adorar a estátua de ouro. ^v10
 
-**11** E, qualquer que não se prostrasse e adorasse, seria lançado dentro da fornalha de fogo ardente. ^v11
+**11** Quem não se prostrasse e adorasse deveria ser lançado numa fornalha de fogo ardente. ^v11
 
-**12** Há uns homens judeus, os quais constituíste sobre os negócios da província de babilônia: Sadraque, Mesaque e Abednego; estes homens, ó rei, não fizeram caso de ti; a teus deuses não servem, nem adoram a estátua de ouro que levantaste. ^v12
+**12** "Há alguns judeus que designaste para os negócios da província da Babilônia — seus nomes são Sadraque, Mesaque e Abednego. Esses homens, ó rei, não fazem caso de ti, pois não adoram nem servem aos teus deuses, nem se prostram diante da estátua de ouro que ergueste""." ^v12
 
-**13** Então Nabucodonosor, com ira e furor, mandou trazer a Sadraque, Mesaque e Abednego. E trouxeram a estes homens perante o rei. ^v13
+**13** Então, Nabucodonosor, cheio de ira, ordenou que Sadraque, Mesaque e Abednego fossem trazidos a ele. Assim, esses homens foram trazidos diante do rei. ^v13
 
-**14** Falou Nabucodonosor, e lhes disse: É de propósito, ó Sadraque, Mesaque e Abednego, que vós não servis a meus deuses nem adorais a estátua de ouro que levantei? ^v14
+**14** "Nabucodonosor lhes perguntou: ""Vós decidistes, Sadraque, Mesaque e Abednego, não adorar aos meus deuses, nem se prostrar diante da estátua de ouro que levantei?" ^v14
 
-**15** Agora, pois, se estais prontos, quando ouvirdes o som da buzina, da flauta, da harpa, da sambuca, do saltério, da gaita de foles, e de toda a espécie de música, para vos prostrardes e adorardes a estátua que fiz, bom é; mas, se não a adorardes, sereis lançados, na mesma hora, dentro da fornalha de fogo ardente. E quem é o Deus que vos poderá livrar das minhas mãos? ^v15
+**15** "Agora, se estais prontos, quando ouvirdes os sons da trombeta, da flauta, da harpa, da cítara, do saltério, da gaita de fole e de todo tipo de música, vos prostrareis e adorareis a estátua que fiz, e tudo ficará bem. Mas, se não adorardes, sereis imediatamente lançados em uma fornalha de fogo ardente. E quem é o deus que será capaz de vos salvar das minhas mãos?""." ^v15
 
-**16** Responderam Sadraque, Mesaque e Abednego, e disseram ao rei Nabucodonosor: Não necessitamos de te responder sobre este negócio. ^v16
+**16** "Sadraque, Mesaque e Abednego responderam ao rei: ""Ó Nabucodonosor, não temos necessidade de te responder sobre esse assunto." ^v16
 
-**17** Eis que o nosso Deus, a quem nós servimos, é que nos pode livrar; ele nos livrará da fornalha de fogo ardente, e da tua mão, ó rei. ^v17
+**17** Se há uma resposta, é que o nosso Deus, a Quem servimos, é capaz de nos livrar da fornalha de fogo ardente, e Ele nos livrará da tua mão, ó rei. ^v17
 
-**18** E, se não, fica sabendo ó rei, que não serviremos a teus deuses nem adoraremos a estátua de ouro que levantaste. ^v18
+**18** "Mas, se não, fica sabendo, ó rei, que não adoraremos os vossos deuses e não nos prostraremos diante da estátua de ouro que levantaste""." ^v18
 
-**19** Então Nabucodonosor se encheu de furor, e mudou-se o aspecto do seu semblante contra Sadraque, Mesaque e Abednego; falou, e ordenou que a fornalha se aquecesse sete vezes mais do que se costumava aquecer. ^v19
+**19** Então, Nabucodonosor se encheu de ira e seu rosto mudou contra Sadraque, Mesaque e Abednego. Ele ordenou que a fornalha fosse aquecida sete vezes mais do que normalmente se aquecia. ^v19
 
-**20** E ordenou aos homens mais poderosos, que estavam no seu exército, que atassem a Sadraque, Mesaque e Abednego, para lançá-los na fornalha de fogo ardente. ^v20
+**20** Então, ordenou a alguns homens fortes do seu exército que amarrassem Sadraque, Mesaque e Abednego e os jogassem na fornalha de fogo ardente. ^v20
 
-**21** Então estes homens foram atados, vestidos com as suas capas, suas túnicas, e seus chapéus, e demais roupas, e foram lançados dentro da fornalha de fogo ardente. ^v21
+**21** Eles foram amarrados ainda vestindo suas vestes — túnicas, turbantes e outras roupas —, e jogados na fornalha de fogo ardente. ^v21
 
-**22** E, porque a palavra do rei era urgente, e a fornalha estava sobremaneira quente, a chama do fogo matou aqueles homens que carregaram a Sadraque, Mesaque, e Abednego. ^v22
+**22** A ordem do rei foi estritamente seguida, e a fornalha estava tão quente que as chamas mataram os homens que carregaram Sadraque, Mesaque e Abednego. ^v22
 
-**23** E estes três homens, Sadraque, Mesaque e Abednego, caíram atados dentro da fornalha de fogo ardente. ^v23
+**23** Estes três homens, Sadraque, Mesaque e Abednego, caíram amarrados dentro da fornalha de fogo ardente. ^v23
 
-**24** Então o rei Nabucodonosor se espantou, e se levantou depressa; falou, dizendo aos seus conselheiros: Não lançamos nós, dentro do fogo, três homens atados? Responderam e disseram ao rei: É verdade, ó rei. ^v24
+**24** "Então, o rei Nabucodonosor se espantou e se levantou rapidamente. Ele perguntou a seus conselheiros: ""Não jogamos três homens amarrados no fogo?"". Eles responderam ao rei: ""Certamente, rei""." ^v24
 
-**25** Respondeu, dizendo: Eu, porém, vejo quatro homens soltos, que andam passeando dentro do fogo, sem sofrer nenhum dano; e o aspecto do quarto é semelhante ao Filho de Deus. ^v25
+**25** "Ele disse: ""Mas vejo quatro homens que não estão amarrados andando no fogo, e eles não estão feridos. O brilho do quarto é como de um filho dos deuses""." ^v25
 
-**26** Então chegando-se Nabucodonosor à porta da fornalha de fogo ardente, falou, dizendo: Sadraque, Mesaque e Abednego, servos do Deus Altíssimo, saí e vinde! Então Sadraque, Mesaque e Abednego saíram do meio do fogo. ^v26
+**26** "Então, Nabucodonosor chegou perto da porta da fornalha de fogo ardente e gritou: ""Sadraque, Mesaque e Abednego, servos do Deus Altíssimo, saí! Vinde para cá!"". Sadraque, Mesaque e Abednego saíram do fogo." ^v26
 
-**27** E reuniram-se os príncipes, os capitàes, os governadores e os conselheiros do rei e, contemplando estes homens, viram que o fogo não tinha tido poder algum sobre os seus corpos; nem um só cabelo da sua cabeça se tinha queimado, nem as suas capas se mudaram, nem cheiro de fogo tinha passado sobre eles. ^v27
+**27** Os sátrapas, prefeitos, governadores e conselheiros do rei que estavam ali reunidos viram esses homens. O fogo não feriu seus corpos; os cabelos de suas cabeças não estavam chamuscados; suas vestes não foram prejudicadas e não havia cheiro de fumaça neles. ^v27
 
-**28** Falou Nabucodonosor, dizendo: Bendito seja o Deus de Sadraque, Mesaque e Abednego, que enviou o seu anjo, e livrou os seus servos, que confiaram nele, pois violaram a palavra do rei, preferindo entregar os seus corpos, para que não servissem nem adorassem algum outro deus, senão o seu Deus. ^v28
+**28** "Nabucodonosor disse: ""Louvemos o Deus de Sadraque, Mesaque e Abednego, que enviou o Seu anjo e livrou os Seus servos. Eles confiaram Nele quando deixaram de lado a minha ordem, e entregaram os seus corpos em vez de adorar ou se prostrar a qualquer deus, exceto seu Deus." ^v28
 
-**29** Por mim, pois, é feito um decreto, pelo qual todo o povo, e nação e língua que disser blasfêmia contra o Deus de Sadraque, Mesaque e Abednego, seja despedaçado, e as suas casas sejam feitas um monturo; porquanto não há outro Deus que possa livrar como este. ^v29
+**29** "Portanto, eu decreto que qualquer povo, nação ou língua que fale alguma coisa contra o Deus de Sadraque, Mesaque e Abednego seja dilacerado, e que suas casas sejam transformadas em monturos, porque não há outro deus que seja capaz de salvar como Este""." ^v29
 
-**30** Então o rei fez prosperar a Sadraque, Mesaque e Abednego, na província de babilônia. ^v30
+**30** Então, o rei fez prosperar a Sadraque, Mesaque e Abednego na província de Babilônia. ^v30

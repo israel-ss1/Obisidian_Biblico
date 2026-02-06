@@ -1,51 +1,50 @@
 ---
-Livro: "[[2 Samuel|2 Samuel]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/2 Samuel|2 Samuel]]"
+tags: [biblia]
 ---
 
 # 2 Samuel 21
 
-**1** E houve nos dias de Davi uma fome de três anos consecutivos; e Davi consultou ao SENHOR, e o SENHOR lhe disse: É por causa de Saul e da sua casa sanguinária, porque matou os gibeonitas. ^v1
+**1** "No tempo do reinado de Davi, houve fome por três anos consecutivos, e Davi buscou a face de Yahweh. Então, Yahweh disse: ""Essa fome está sobre vós por causa de Saul e sua família assassina, que matou os gibeonitas""." ^v1
 
-**2** Então chamou o rei aos gibeonitas, e lhes falou (ora os gibeonitas não eram dos filhos de Israel, mas do restante dos amorreus, e os filhos de Israel lhes tinham jurado, porém Saul, no seu zelo à causa dos filhos de Israel e de Judá, procurou feri-los). ^v2
+**2** Os gibeonitas não pertenciam ao povo de Israel, eles eram remanescentes dos amorreus. O povo de Israel jurou não matá-los, mas, mesmo assim, Saul, em seu zelo pelo povo de Israel e Judá, tentou matar todos. ^v2
 
-**3** Disse, pois, Davi aos gibeonitas: Que quereis que eu vos faça? E que satisfação vos darei, para que abençoeis a herança do Senhor? ^v3
+**3** "Então, o rei Davi reuniu os gibeonitas e disse-lhes: ""O que eu posso fazer por vós? Como posso fazer expiação, para que abençoeis o povo de Yahweh, que herda Sua bondade e promessas?""." ^v3
 
-**4** Então os gibeonitas lhe disseram: Não é por prata nem ouro que temos questão com Saul e com sua casa; nem tampouco pretendemos matar pessoa alguma em Israel. E disse ele: Que é, pois, que quereis que vos faça? ^v4
+**4** "Os gibeonitas responderam: ""Não se trata de prata ou ouro entre nós e Saul ou sua família. E não compete a nós matar ninguém em Israel"". Davi respondeu: ""O que quereis que vos faça?""." ^v4
 
-**5** E disseram ao rei: O homem que nos destruiu, e intentou contra nós de modo que fôssemos assolados, sem que pudéssemos subsistir em termo algum de Israel, ^v5
+**5** "Eles responderam ao rei: ""O homem que tentou nos matar, que planejou contra nós para que fôssemos destruídos e ficássemos sem lugar dentro das fronteiras de Israel," ^v5
 
-**6** De seus filhos se nos dêem sete homens, para que os enforquemos ao Senhor em Gibeá de Saul, o eleito do Senhor. E disse o rei: Eu os darei. ^v6
+**6** "deixa que sete homens de seus descendentes nos sejam entregues, e os enforcaremos diante de Yahweh, em Gibeá de Saul, o escolhido de Yahweh"". Então, o rei disse: ""Eu os entregarei a vós""." ^v6
 
-**7** Porém o rei poupou a Mefibosete, filho de Jônatas, filho de Saul, por causa do juramento do Senhor, que entre eles houvera, entre Davi e Jônatas, filho de Saul. ^v7
+**7** Mas o rei poupou Mefibosete, filho de Jônatas, filho de Saul, por causa do juramento, feito perante Yahweh, entre Davi e Jônatas, filho de Saul. ^v7
 
-**8** Mas tomou o rei os dois filhos de Rispa, filha da Aiá, que tinha tido de Saul, a Armoni e a Mefibosete; como também os cinco filhos da irmã de Mical, filha de Saul, que tivera de Adriel, filho de Barzilai, meolatita, ^v8
+**8** Assim, o rei tomou os dois filhos de Rispa, filha de Aías, filhos que ela concebeu de Saul — os nomes dos dois filhos eram Armoni e Mefibosete; e Davi também pegou os cinco filhos de Mical, filha de Saul, que ela tivera com Adriel, filho de Barzilai, o meolatita. ^v8
 
-**9** E os entregou na mão dos gibeonitas, os quais os enforcaram no monte, perante o Senhor; e caíram estes sete juntamente; e foram mortos nos dias da sega, nos dias primeiros, no princípio da sega das cevadas. ^v9
+**9** O rei os entregou nas mãos dos gibeonitas e eles os enforcaram no monte, diante de Yahweh, e todos os sete morreram juntos. Eles foram mortos durante a época da colheita, nos primeiros dias do início da colheita da cevada. ^v9
 
-**10** Então Rispa, filha de Aiá, tomou um pano de cilício, e estendeu-lho sobre uma penha, desde o princípio da sega até que a água do céu caiu sobre eles; e não deixou as aves do céu pousar sobre eles de dia, nem os animais do campo de noite. ^v10
+**10** Então, Rispa, filha de Aías, pegou um pano de saco e o estendeu para si sobre o monte ao lado dos corpos, desde o início da colheita, até que a chuva caiu sobre os corpos. Ela não permitiu que as aves do céu se aproximassem dos corpos durante o dia, nem animais selvagens à noite. ^v10
 
-**11** E foi contado a Davi o que fizera Rispa, filha de Aiá, concubina de Saul. ^v11
+**11** Foi dito a Davi o que Rispa, filha de Aías, a esposa escrava de Saul, havia feito. ^v11
 
-**12** Então foi Davi, e tomou os ossos de Saul, e os ossos de Jônatas seu filho, dos moradores de Jabes-Gileade, os quais os furtaram da rua de Bete-Sã, onde os filisteus os tinham pendurado, quando feriram a Saul em Gilboa. ^v12
+**12** Então, Davi tomou os ossos de Saul e os de seu filho Jônatas. Davi os tomou dos homens de Jabes Gileade que os havia furtado da praça de Bete-Seã, onde os filisteus haviam pendurado seus corpos, após os filisteus terem matado Saul, em Gilboa. ^v12
 
-**13** E fez subir dali os ossos de Saul, e os ossos de Jônatas seu filho; e ajuntaram também os ossos dos enforcados. ^v13
+**13** Davi levou dali os ossos de Saul e os ossos de seu filho Jônatas, e também juntaram os ossos dos sete homens que foram enforcados. ^v13
 
-**14** Enterraram os ossos de Saul, e de Jônatas seu filho na terra de Benjamim, em Zela, na sepultura de seu pai Quis, e fizeram tudo o que o rei ordenara; e depois disto Deus se aplacou com a terra. ^v14
+**14** Eles enterraram os ossos de Saul e de seu filho Jônatas na terra de Benjamim, em Zela, na sepultura de Quis, seu pai. Eles fizeram tudo que o rei ordenou. Depois disso, Deus respondeu suas orações em favor da terra. ^v14
 
-**15** Tiveram mais os filisteus uma peleja contra Israel; e desceu Davi, e com ele os seus servos; e tanto pelejaram contra os filisteus, que Davi se cansou. ^v15
+**15** Os filisteus foram à guerra outra vez contra Israel. Davi foi com o seu exército e lutou contra os filisteus. Davi ficou cansado pela fadiga da batalha. ^v15
 
-**16** E Isbi-Benobe, que era dos filhos do gigante, cuja lança pesava trezentos siclos de cobre, e que cingia uma espada nova, intentou ferir a Davi. ^v16
+**16** Isbi-Benobe, um descendente de gigantes, tinha uma lança que pesava trezentos ciclos de bronze; ele estava armado com uma espada nova e tentou matar Davi. ^v16
 
-**17** Porém, Abisai, filho de Zeruia, o socorreu, e feriu o filisteu, e o matou. Então os homens de Davi lhe juraram, dizendo: Nunca mais sairás conosco à peleja, para que não apagues a lâmpada de Israel. ^v17
+**17** "Mas Abisai, filho de Zeruia, socorreu Davi, atacou o filisteu e o matou. Então, os homens de Davi juraram para ele, dizendo: ""Nunca mais sairás à batalha conosco, para que tu não apagues a lâmpada de Israel""." ^v17
 
-**18** E aconteceu depois disto que houve em Gobe ainda outra peleja contra os filisteus; então Sibecai, o husatita, feriu a Safe, que era dos filhos do gigante. ^v18
+**18** Depois disso, houve outra batalha contra os filisteus, em Gobe, quando Sibecai, o husatita, matou Safe, que era um dos descendentes de Refaim. ^v18
 
-**19** Houve mais outra peleja contra os filisteus em Gobe; e El-Hanã, filho de Jaaré-Oregim, o belemita, feriu Golias, o giteu, de cuja lança era a haste como órgão de tecelão. ^v19
+**19** Numa outra batalha contra os filisteus, em Gobe, Elanã, filho de Jaaré-Oregim, o belemita, matou Golias, o geteu, cuja lança parecia com uma lançadeira de tecelão. ^v19
 
-**20** Houve ainda também outra peleja em Gate, onde estava um homem de alta estatura, que tinha em cada mão seis dedos, e em cada pé outros seis, vinte e quatro ao todo, e também este nascera do gigante. ^v20
+**20** Houve mais outra batalha em Gate, onde estava um homem de grande estatura que tinha seis dedos em cada mão e seis dedos em cada pé: vinte e quatro ao todo. Ele também era descendente de Refaim. ^v20
 
-**21** E injuriava a Israel; porém Jônatas, filho de Simei, irmão de Davi, o feriu. ^v21
+**21** Quando ele desafiou Israel, Jônatas, filho de Simei, irmão de Davi, o matou. ^v21
 
-**22** Estes quatro nasceram ao gigante em Gate; e caíram pela mão de Davi e pela mão de seus servos. ^v22
+**22** Esses eram descendentes de Refaim, de Gate, e eles foram mortos pelas mãos de Davi e pelas mãos de seus soldados. ^v22

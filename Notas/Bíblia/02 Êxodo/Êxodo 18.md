@@ -1,61 +1,60 @@
 ---
-Livro: "[[Êxodo|Êxodo]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Êxodo|Êxodo]]"
+tags: [biblia]
 ---
 
 # Êxodo 18
 
-**1** Ora Jetro, sacerdote de Midiã, sogro de Moisés, ouviu todas as coisas que Deus tinha feito a Moisés e a Israel seu povo, como o SENHOR tinha tirado a Israel do Egito. ^v1
+**1** Jetro, o sacerdote de Midiã, sogro de Moisés, ouviu tudo o que Deus tinha feito a Moisés e ao seu povo Israel. Ele ouviu que Yahweh tirou Israel do Egito. ^v1
 
-**2** E Jetro, sogro de Moisés, tomou a Zípora, a mulher de Moisés, depois que ele lha enviara, ^v2
+**2** Jetro, sogro de Moisés, levou Zípora, esposa de Moisés, depois que ele a tinha enviado a sua casa, ^v2
 
-**3** Com seus dois filhos, dos quais um se chamava Gérson; porque disse: Eu fui peregrino em terra estranha; ^v3
+**3** "e os seus dois filhos; o nome de um de seus filhos foi Gérson, pois Moisés disse: ""Eu fui peregrino em terra estranha""." ^v3
 
-**4** E o outro se chamava Eliézer; porque disse: O Deus de meu pai foi por minha ajuda, e me livrou da espada de Faraó. ^v4
+**4** "O nome do outro foi Eliézer, pois Moisés disse: ""O Deus dos meus antepassados foi a minha ajuda. Ele me resgatou da espada de Faraó""." ^v4
 
-**5** Vindo, pois, Jetro, o sogro de Moisés, com seus filhos e com sua mulher, a Moisés no deserto, ao monte de Deus, onde se tinha acampado, ^v5
+**5** Jetro, sogro de Moisés, foi com os filhos de Moisés e a sua mulher para o deserto onde ele estava acampado no monte de Deus. ^v5
 
-**6** Disse a Moisés: Eu, teu sogro Jetro, venho a ti, com tua mulher e seus dois filhos com ela. ^v6
+**6** "Ele disse para Moisés, "" Eu, teu sogro Jetro, estou indo ao teu encontro com a tua mulher e os teus dois filhos." ^v6
 
-**7** Então saiu Moisés ao encontro de seu sogro, e inclinou-se, e beijou-o, e perguntaram um ao outro como estavam, e entraram na tenda. ^v7
+**7** Moisés saiu para encontrar o seu sogro, inclinou, e o beijou. Eles perguntaram um ao outro como estavam e, em seguida, foram à tenda. ^v7
 
-**8** E Moisés contou a seu sogro todas as coisas que o Senhor tinha feito a Faraó e aos egípcios por amor de Israel, e todo o trabalho que passaram no caminho, e como o Senhor os livrara. ^v8
+**8** Moisés disse ao seu sogro tudo o que Yahweh havia feito ao faraó e aos egípcios por amor a Israel, acerca de todas as dificuldades enfrentadas no caminho e de como Yahweh os livrou. ^v8
 
-**9** E alegrou-se Jetro de todo o bem que o Senhor tinha feito a Israel, livrando-o da mão dos egípcios. ^v9
+**9** Jetro alegrou-se com todas as coisas que Yahweh fez para o povo de Israel, e que Ele os resgatou das mãos dos egípcios. ^v9
 
-**10** E Jetro disse: Bendito seja o Senhor, que vos livrou das mãos dos egípcios e da mão de Faraó; que livrou a este povo de debaixo da mão dos egípcios. ^v10
+**10** "Jetro disse: ""Louvado seja Yahweh que vos livrou dos egípcios e das mãos de Faraó, e vos deixou livre de seu controle." ^v10
 
-**11** Agora sei que o Senhor é maior que todos os deuses; porque na coisa em que se ensoberbeceram, os sobrepujou. ^v11
+**11** Agora, sei que Deus é maior do que todos os deuses, porque, quando os egípcios trataram arrogantemente os Iraelitas, Deus os resgatou. ^v11
 
-**12** Então Jetro, o sogro de Moisés, tomou holocausto e sacrifícios para Deus; e veio Arão, e todos os anciãos de Israel, para comerem pão com o sogro de Moisés diante de deus. ^v12
+**12** Jetro, sogro de Moisés, apresentou a Deus sacrifícios e holocautos. Arão e todos os anciãos de Israel vieram comer com o sogro de Moisés na presença de Deus. ^v12
 
-**13** E aconteceu que, no outro dia, Moisés assentou-se para julgar o povo; e o povo estava em pé diante de Moisés desde a manhã até à tarde. ^v13
+**13** No dia seguinte, Moisés sentou-se para julgar o povo. O povo ficou à volta dele desde a manhã até à noite. ^v13
 
-**14** Vendo, pois, o sogro de Moisés tudo o que ele fazia ao povo, disse: Que é isto, que tu fazes ao povo? Por que te assentas só, e todo o povo está em pé diante de ti, desde a manhã até à tarde? ^v14
+**14** "Quando o sogro de Moisés viu tudo o que ele fez para o povo, disse, ""O que é isso que estás fazendo com o povo? Por que estás sentado sozinho e o povo fica em tua volta desde a manhã até à noite""?" ^v14
 
-**15** Então disse Moisés a seu sogro: É porque este povo vem a mim, para consultar a Deus; ^v15
+**15** "Moisés disse ao seu sogro: ""As pessoas vêm até a mim para perguntar a direção de Deus." ^v15
 
-**16** Quando tem algum negócio vem a mim, para que eu julgue entre um e outro e lhes declare os estatutos de Deus e as suas leis. ^v16
+**16** "Quando elas têm uma discussão, vêm a mim. Eu decido entre uma pessoa e outra, e lhes ensino os estatutos e as leis de Deus""." ^v16
 
-**17** O sogro de Moisés, porém, lhe disse: Não é bom o que fazes. ^v17
+**17** "O sogro de Moisés disse a ele: ""O que tu estás fazendo não é muito bom." ^v17
 
-**18** Totalmente desfalecerás, assim tu como este povo que está contigo; porque este negócio é mui difícil para ti; tu só não o podes fazer. ^v18
+**18** Certamente, desfalecerás tu e o teu povo que está contigo, porque o fardo é pesado demais para ti. Não podes fazer sozinho. ^v18
 
-**19** Ouve agora minha voz, eu te aconselharei, e Deus será contigo. Sê tu pelo povo diante de Deus, e leva tu as causas a Deus; ^v19
+**19** Ouve-me. Vou dar-te um conselho, e Deus será contigo, porque tu és para Deus o representante do povo, e levas as discussões deles a Ele. ^v19
 
-**20** E declara-lhes os estatutos e as leis, e faze-lhes saber o caminho em que devem andar, e a obra que devem fazer. ^v20
+**20** Deves ensinar-lhes os estatutos Dele e as leis. Deves lhes mostrar o jeito de andar e o trabalho para fazer. ^v20
 
-**21** E tu dentre todo o povo procura homens capazes, tementes a Deus, homens de verdade, que odeiem a avareza; e põe-nos sobre eles por maiorais de mil, maiorais de cem, maiorais de cinqüenta, e maiorais de dez; ^v21
+**21** Além disso, deves escolher homens, que honram a Deus, homens de confiança que odeiam o lucro injusto. Deves colocá-los acima das pessoas, para serem líderes de mil, cem, cinquenta e chefe de dez. ^v21
 
-**22** Para que julguem este povo em todo o tempo; e seja que todo o negócio grave tragam a ti, mas todo o negócio pequeno eles o julguem; assim a ti mesmo te aliviarás da carga, e eles a levarão contigo. ^v22
+**22** Eles julgarão as pessoas em todos os casos, mas os casos difíceis eles trarão a ti. E todos os pequenos casos, eles podem julgá-los. Desse jeito, será fácil para ti, e eles carregarão o fardo contigo. ^v22
 
-**23** Se isto fizeres, e Deus to mandar, poderás então subsistir; assim também todo este povo em paz irá ao seu lugar. ^v23
+**23** Se fizeres isso, e se também Deus guiar-te, então estarás capacitado para suportar, e o povo estará pronto para irem para casa satisfeito. ^v23
 
-**24** E Moisés deu ouvidos à voz de seu sogro, e fez tudo quanto tinha dito; ^v24
+**24** Então, Moisés ouviu as palavras de seu sogro e fez tudo que ele tinha dito. ^v24
 
-**25** E escolheu Moisés homens capazes, de todo o Israel, e os pôs por cabeças sobre o povo; maiorais de mil, maiorais de cem, maiorais de cinqüenta e maiorais de dez. ^v25
+**25** Moisés escolheu homens capazes de todo Israel e os colocou como cabeças sobre o povo, líderes responsáveis de mil, cem, cinquenta e líderes de dez. ^v25
 
-**26** E eles julgaram o povo em todo o tempo; o negócio árduo trouxeram a Moisés, e todo o negócio pequeno julgaram eles. ^v26
+**26** Eles julgaram o povo em circunstâncias normais. Os casos difíceis eles levaram para Moisés, mas eles mesmo julgaram os pequenos casos. ^v26
 
-**27** Então despediu Moisés o seu sogro, o qual se foi à sua terra. ^v27
+**27** Então, Moisés deixou o seu sogro, e Jetro voltou para sua própria terra. ^v27

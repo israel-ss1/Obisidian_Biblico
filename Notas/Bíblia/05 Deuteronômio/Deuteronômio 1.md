@@ -1,99 +1,98 @@
 ---
-Livro: "[[Deuteronômio|Deuteronômio]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Deuteronômio|Deuteronômio]]"
+tags: [biblia]
 ---
 
 # Deuteronômio 1
 
-**1** Estas são as palavras que Moisés falou a todo o Israel além do Jordão, no deserto, na planície defronte do Mar Vermelho, entre Parã e Tôfel, e Labã, e Hazerote, e Di-Zaabe. ^v1
+**1** Estas são as palavras que Moisés disse a todo Israel, além do Jordão, no deserto, na planície do vale do rio Jordão, defronte de Sufe, entre Parã, Tofel, Labã, Hazerote e Di-Zaabe. ^v1
 
-**2** Onze jornadas há desde Horebe, caminho do monte Seir, até Cades-Barnéia. ^v2
+**2** São onze dias de viagem desde Horebe, pelo caminho do monte Seir para Cades-Barneia. ^v2
 
-**3** E sucedeu que, no ano quadragésimo, no mês undécimo, no primeiro dia do mês, Moisés falou aos filhos de Israel, conforme a tudo o que o Senhor lhe mandara acerca deles. ^v3
+**3** Aconteceu que, no quadragésimo ano, no primeiro dia do décimo primeiro mês, Moisés falou ao povo de Israel, dizendo-lhes tudo que Yahweh havia ordenado com relação a eles. ^v3
 
-**4** Depois que feriu a Siom, rei dos amorreus, que habitava em Hesbom, e a Ogue, rei de Basã, que habitava em Astarote, em Edrei. ^v4
+**4** Isso foi depois que Yahweh atacou Siom, rei dos amorreus, que habitava em Hesbom, e Ogue, o rei de Basã, que habitava em Astarote, em Edrei. ^v4
 
-**5** Além do Jordão, na terra de Moabe, começou Moisés a declarar esta lei, dizendo: ^v5
+**5** Além do Jordão, na terra de Moabe, Moisés começou a anunciar estas instruções, dizendo: ^v5
 
-**6** O Senhor nosso Deus nos falou em Horebe, dizendo: Assaz vos haveis demorado neste monte. ^v6
+**6** """Yahweh, nosso Deus, falou conosco em Horebe, dizendo: 'Vós habitastes tempo suficiente nesta colina." ^v6
 
-**7** Voltai-vos, e parti, e ide à montanha dos amorreus, e a todos os seus vizinhos, à planície, e à montanha, e ao vale, e ao sul, e à margem do mar; à terra dos cananeus, e ao Líbano, até ao grande rio, o rio Eufrates. ^v7
+**7** Levantai-vos e continuai a vossa jornada, e ide para a colina dos amorreus e a todos os lugares próximos na planície do vale do rio Jordão, nas colinas, na baixada, no Neguebe e na costa, na terra dos cananeus, e no Líbano, até o grande rio, o Eufrates. ^v7
 
-**8** Eis que tenho posto esta terra diante de vós; entrai e possuí a terra que o Senhor jurou a vossos pais, Abraão, Isaque e Jacó, que a daria a eles e à sua descendência depois deles. ^v8
+**8** Vede, eu coloquei esta terra diante de vós. Ide e tomai posse da terra que Yahweh jurou a vossos pais — a Abraão, Isaque e Jacó — para dar a eles e à sua descendência'. ^v8
 
-**9** E no mesmo tempo eu vos falei, dizendo: Eu sozinho não poderei levar-vos. ^v9
+**9** Eu vos falei naquele tempo, dizendo: 'Eu mesmo não sou capaz de conduzir-vos sozinho. ^v9
 
-**10** O Senhor vosso Deus já vos tem multiplicado; e eis que em multidão sois hoje como as estrelas do céu. ^v10
+**10** Yahweh, vosso Deus, multiplicou-vos, e, vede, sois hoje como as estrelas do céu. ^v10
 
-**11** O Senhor Deus de vossos pais vos aumente, ainda mil vezes mais do que sois; e vos abençoe, como vos tem falado. ^v11
+**11** Que Yahweh, o Deus de vossos pais, vos faça mil vezes mais numerosos do que sois, e vos abençoe, como Ele prometeu! ^v11
 
-**12** Como suportaria eu sozinho os vossos fardos, e as vossas cargas, e as vossas contendas? ^v12
+**12** Mas como posso eu, sozinho, carregar vossas cargas, vossos fardos e vossas disputas? ^v12
 
-**13** Tomai-vos homens sábios e entendidos, experimentados entre as vossas tribos, para que os ponha por chefes sobre vós. ^v13
+**13** Escolhei homens sábios, homens de entedimento e de boa reputação, tribo por tribo, e eu os farei líderes sobre vós'. ^v13
 
-**14** Então vós me respondestes, e dissestes: Bom é fazer o que tens falado. ^v14
+**14** Vós me respondestes, dizendo: 'Aquilo que disseste é bom para nós!'. ^v14
 
-**15** Tomei, pois, os chefes de vossas tribos, homens sábios e experimentados, e os tenho posto por cabeças sobre vós, por capitães de milhares, e por capitães de cem, e por capitães de cinqüenta, e por capitães de dez, e por governadores das vossas tribos. ^v15
+**15** Então, eu tomei os líderes de vossas tribos, homens sábios e de boa reputação, e os fiz líderes sobre vós, capitães de mil, capitães de cem, capitães de cinquenta, capitães de dez, e oficiais, tribo por tribo. ^v15
 
-**16** E no mesmo tempo mandei a vossos juízes, dizendo: Ouvi a causa entre vossos irmãos, e julgai justamente entre o homem e seu irmão, e entre o estrangeiro que está com ele. ^v16
+**16** Eu ordenei vossos juízes naquele tempo, dizendo: 'Ouvi as disputas entre vossos irmãos, e julgai retamente entre um homem e seu irmão, e também o estrangeiro que está com ele. ^v16
 
-**17** Não discriminareis as pessoas em juízo; ouvireis assim o pequeno como o grande; não temereis a face de ninguém, porque o juízo é de Deus; porém a causa que vos for difícil fareis vir a mim, e eu a ouvirei. ^v17
+**17** Vós não demonstrareis parcialidade para com ninguém em uma disputa; ouvireis o pequeno e o grande do mesmo modo. Não tereis medo de confrontar o homem, pois o julgamento é de Deus. A disputa que for muito difícil para vós, trareis a mim, e eu a ouvirei'. ^v17
 
-**18** Assim naquele tempo vos ordenei todas as coisas que havíeis de fazer. ^v18
+**18** Eu vos ordenei, naquele tempo, todas as coisas que deveríeis fazer. ^v18
 
-**19** Então partimos de Horebe, e caminhamos por todo aquele grande e tremendo deserto que vistes, pelo caminho das montanhas dos amorreus, como o Senhor nosso Deus nos ordenara; e chegamos a Cades-Barnéia. ^v19
+**19** Partimos de Horebe e passamos por todo aquele grande e terrível deserto que vistes, em nosso caminho pelas colinas dos amorreus, como Yahweh, nosso Deus, nos havia ordenado; e chegamos a Cades-Barneia. ^v19
 
-**20** Então eu vos disse: Chegados sois às montanhas dos amorreus, que o Senhor nosso Deus nos dá. ^v20
+**20** Eu vos disse: 'Viestes às colinas dos amorreus, as quais Yahweh, nosso Deus, nos deu. ^v20
 
-**21** Eis aqui o Senhor teu Deus tem posto esta terra diante de ti; sobe, toma posse dela, como te falou o Senhor Deus de teus pais; não temas, e não te assustes. ^v21
+**21** Yahweh, vosso Deus, colocou a terra diante de vós; subi, tomai posse, como vos disse Yahweh, Deus de vossos pais; não temais, nem fiqueis desencorajados'. ^v21
 
-**22** Então todos vós chegastes a mim, e dissestes: Mandemos homens adiante de nós, para que nos espiem a terra e, de volta, nos ensinem o caminho pelo qual devemos subir, e as cidades a que devemos ir. ^v22
+**22** Todos vós viestes até mim e dissestes: 'Enviemos alguns homens adiante de nós, para que observem a terra, e tragam-nos informações sobre a maneira como devemos atacar, e sobre as cidades que devemos atravessar'. ^v22
 
-**23** Isto me pareceu bem; de modo que de vós tomei doze homens, de cada tribo um homem. ^v23
+**23** A ideia agradou-me; escolhi doze homens dentre vós, um de cada tribo. ^v23
 
-**24** E foram-se, e subiram à montanha, e chegaram até ao vale de Escol, e o espiaram. ^v24
+**24** E eles foram subindo em direção às colinas, chegaram ao vale de Escol, e sondaram a terra. ^v24
 
-**25** E tomaram do fruto da terra nas suas mãos, e no-lo trouxeram e nos informaram, dizendo: Boa é a terra que nos dá o Senhor nosso Deus. ^v25
+**25** Tomaram alguns dos frutos da terra em suas mãos e os trouxeram até nós. Disseram: 'A terra que Yahweh, nosso Deus, nos dá, é boa'. ^v25
 
-**26** Porém vós não quisestes subir; mas fostes rebeldes ao mandado do Senhor nosso Deus. ^v26
+**26** Apesar disso, recusastes a subir, rebelando-vos contra a ordem de Yahweh, vosso Deus. ^v26
 
-**27** E murmurastes nas vossas tendas, e dissestes: Porquanto o Senhor nos odeia, nos tirou da terra do Egito para nos entregar nas mãos dos amorreus, para destruir-nos. ^v27
+**27** Vós murmurastes em vossas tendas, e dissestes: 'É porque Yahweh nos odeia, que nos trouxe da terra do Egito, para nos entregar nas mãos dos amorreus e nos destruir. ^v27
 
-**28** Para onde subiremos? Nossos irmãos fizeram com que se derretesse o nosso coração, dizendo: Maior e mais alto é este povo do que nós, as cidades são grandes e fortificadas até aos céus; e também vimos ali filhos dos gigantes. ^v28
+**28** Para onde iremos agora? Nossos irmãos nos fizeram perder a coragem, dizendo: 'Aquele povo é maior e mais alto do que nós; suas cidades são grandes e fortificadas até os céus; mais ainda, vimos lá os filhos dos anaqueus'. ^v28
 
-**29** Então eu vos disse: Não vos espanteis, nem os temais. ^v29
+**29** Então, eu vos disse: 'Não vos atemorizeis, nem tenhais medo deles. ^v29
 
-**30** O Senhor vosso Deus que vai adiante de vós, ele pelejará por vós, conforme a tudo o que fez convosco, diante de vossos olhos, no Egito; ^v30
+**30** Yahweh, vosso Deus, que vai adiante de vós, lutará por vós, assim como fez no Egito, diante de vossos olhos, ^v30
 
-**31** Como também no deserto, onde vistes que o Senhor vosso Deus nele vos levou, como um homem leva seu filho, por todo o caminho que andastes, até chegardes a este lugar. ^v31
+**31** e também no deserto, onde vistes como Yahweh, vosso Deus, cuidou de vós, como um homem cuida de seu filho, até chegardes a este lugar'. ^v31
 
-**32** Mas nem por isso crestes no Senhor vosso Deus. ^v32
+**32** Mesmo assim, não acreditastes em Yahweh, vosso Deus, ^v32
 
-**33** Que foi adiante de vós por todo o caminho, para vos achar o lugar onde vós deveríeis acampar; de noite no fogo, para vos mostrar o caminho por onde havíeis de andar, e de dia na nuvem. ^v33
+**33** que foi à vossa frente no caminho, pela noite como fogo, e como nuvem durante o dia, para achar-vos lugar para armardes a vossa tenda. ^v33
 
-**34** Ouvindo, pois, o Senhor a voz das vossas palavras, indignou-se, e jurou, dizendo: ^v34
+**34** Yahweh ouviu vossas palavras, indignou-se e jurou, dizendo: ^v34
 
-**35** Nenhum dos homens desta maligna geração verá esta boa terra que jurei dar a vossos pais. ^v35
+**35** 'Certamente, nenhum dos homens desta geração perversa verá a boa terra que Eu jurei dar a seus antepassados, ^v35
 
-**36** Salvo Calebe, filho de Jefoné; ele a verá, e a terra que pisou darei a ele e a seus filhos; porquanto perseverou em seguir ao Senhor. ^v36
+**36** exceto Calebe, filho de Jefoné; Ele a verá, e a terra que pisou, darei a ele e a seus filhos, pois ele perseverou em seguir a Yahweh'. ^v36
 
-**37** Também o Senhor se indignou contra mim por causa de vós, dizendo: Também tu lá não entrarás. ^v37
+**37** Yahweh também indignou-se comigo por vossa causa, dizendo: 'Tu também não entrarás ali. ^v37
 
-**38** Josué, filho de Num, que está diante de ti, ele ali entrará; fortalece-o, porque ele a fará herdar a Israel. ^v38
+**38** Josué, filho de Num, que está diante de ti como teu servo, ele ali entrará. Encoraja-o para que ele lidere Israel, a fim de tomar sua herança'. ^v38
 
-**39** E vossos meninos, de quem dissestes: Por presa serão; e vossos filhos, que hoje não conhecem nem o bem nem o mal, eles ali entrarão, e a eles a darei, e eles a possuirão. ^v39
+**39** Vossas pequenas crianças, que vós dissestes que seriam vítimas, que hoje não possuem conhecimento do bem ou do mal, elas entrarão. Para elas, Eu a darei, e elas tomarão posse. ^v39
 
-**40** Porém vós virai-vos, e parti para o deserto, pelo caminho do Mar Vermelho. ^v40
+**40** Mas quanto a vós, dai meia volta, e levai vossa jornada ao deserto, pelo caminho para o mar Vermelho'. ^v40
 
-**41** Então respondestes, e me dissestes: Pecamos contra o Senhor; nós subiremos e pelejaremos, conforme a tudo o que nos ordenou o Senhor nosso Deus. E armastes-vos, cada um de vós, dos seus instrumentos de guerra, e estivestes prestes para subir à montanha. ^v41
+**41** Então, respondestes e me dissestes: 'Nós pecamos contra Yahweh; nós subiremos e lutaremos, e seguiremos tudo que Yahweh, nosso Deus, nos ordenou que fizéssemos'. Todos os homens no vosso meio tomaram vossas armas de guerra, e estáveis prontos para subir a montanha. ^v41
 
-**42** E disse-me o Senhor: Dize-lhes: Não subais nem pelejeis, pois não estou no meio de vós; para que não sejais feridos diante de vossos inimigos. ^v42
+**42** Yahweh disse a mim: 'Dize-lhes: 'Não os ataqueis e não luteis, pois não estarei convosco, e vós sereis feridos por vossos inimigos'. ^v42
 
-**43** Porém, falando-vos eu, não ouvistes; antes fostes rebeldes ao mandado do Senhor, e vos ensoberbecestes, e subistes à montanha. ^v43
+**43** Eu falei convosco desta maneira, mas não me ouvistes. Vós vos rebelastes contra a ordem de Yahweh; fostes arrogantes e subistes a montanha. ^v43
 
-**44** E os amorreus, que habitavam naquela montanha, vos saíram ao encontro; e perseguiram-vos como fazem as abelhas e vos derrotaram desde Seir até Hormá. ^v44
+**44** Mas os amorreus, que viviam naquela montanha, vieram contra vós, e vos perseguiram como fazem as abelhas, e vos atacaram de Seir até Hormá. ^v44
 
-**45** Tornando, pois, vós, e chorando perante o Senhor, o Senhor não ouviu a vossa voz, nem vos escutou. ^v45
+**45** Voltastes e lamentastes diante de Yahweh; mas Yahweh não deu ouvido ao vosso clamor, e não vos deu atenção. ^v45
 
-**46** Assim permanecestes muitos dias em Cades, pois ali vos demorastes muito. ^v46
+**46** Assim, ficastes em Cades muitos dias, ficando ali muito tempo. ^v46

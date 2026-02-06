@@ -1,49 +1,48 @@
 ---
-Livro: "[[2 Crônicas|2 Crônicas]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/2 Crônicas|2 Crônicas]]"
+tags: [biblia]
 ---
 
 # 2 Crônicas 31
 
-**1** E acabando tudo isto, todos os israelitas que ali se achavam saíram às cidades de Judá e quebraram as estátuas, cortaram os bosques, e derrubaram os altos e altares por toda Judá e Benjamim, como também em Efraim e Manassés, até que tudo destruíram; então tornaram todos os filhos de Israel, cada um para sua possessão, para as cidades deles. ^v1
+**1** Assim, quando tudo terminou, todo o povo de Israel que estava presente foi para as cidades de Judá, e eles quebraram em pedaços os pilares de pedra, destruíram os postes ídolos, derrubaram os lugares altos e os altares em toda a Judá e Benjamim. Eles também fizeram isso em Efraim e Manassés, até que destruíram a todos. Então, todo o povo de Israel retornou, cada um para a sua própria terra e para sua própria cidade. ^v1
 
-**2** E estabeleceu Ezequias as turmas dos sacerdotes e levitas, segundo as suas turmas, a cada um segundo o seu ministério; aos sacerdotes e levitas para o holocausto e para as ofertas pacíficas, para ministrarem, louvarem, e cantarem, às portas dos arraiais do Senhor. ^v2
+**2** Ezequias estabeleceu as divisões dos sacerdotes e dos levitas organizados por suas divisões, cada homem designado ao seu trabalho, tanto sacerdotes quanto levitas. Ele os designou para fazer holocaustos e ofertas pacíficas, para servir, para agradecer, e para louvar nos portões do Templo de Yahweh. ^v2
 
-**3** Também estabeleceu a parte da fazenda do rei para os holocaustos; para os holocaustos da manhã e da tarde, e para os holocaustos dos sábados, e das luas novas, e das solenidades; como está escrito na lei do Senhor. ^v3
+**3** Ele também designou a porção do rei para os holocaustos das suas próprias posses, isto é, para os holocaustos da manhã e da tarde e os holocaustos para os dias de sábado, das luas novas e dos festivais fixos, como estava escrito na lei de Yahweh. ^v3
 
-**4** E ordenou ao povo, que morava em Jerusalém, que desse a parte dos sacerdotes e levitas, para que eles pudessem se dedicar à lei do Senhor. ^v4
+**4** Além disso, ele ordenou ao povo que vivia em Jerusalém que desse a porção para os sacerdotes e os levitas, para que eles se concentrassem em obedecer a lei de Yahweh. ^v4
 
-**5** E, depois que se divulgou esta ordem, os filhos de Israel trouxeram muitas primícias de trigo, mosto, azeite, mel, e de todo o produto do campo; também os dízimos de tudo trouxeram em abundância. ^v5
+**5** Assim que a ordem saiu, o povo de Israel deu em abundância a primícia dos cereais, do vinho novo, do óleo, do mel e de toda sua colheita do campo. Eles trouxeram em grande quantidade o dízimo de tudo . ^v5
 
-**6** E os filhos de Israel e de Judá, que habitavam nas cidades de Judá, também trouxeram dízimos dos bois e das ovelhas, e dízimos das coisas dedicadas que foram consagradas ao Senhor seu Deus; e fizeram muitos montões. ^v6
+**6** O povo de Israel e Judá que vivia nas cidades de Judá também trouxe o dízimo dos bois, das ovelhas, das coisas santas dedicadas a Yahweh, o seu Deus, e as ajuntaram em pilhas. ^v6
 
-**7** No terceiro mês começaram a fazer os primeiros montões; e no sétimo mês acabaram. ^v7
+**7** No terceiro mês, eles começaram a ajuntar sua contribuição em pilhas e terminaram no sétimo mês. ^v7
 
-**8** Vindo, pois, Ezequias e os príncipes, e vendo aqueles montões, bendisseram ao Senhor e ao seu povo Israel. ^v8
+**8** Quando Ezequias e os líderes vieram e viram as pilhas, eles bendisseram Yahweh e Seu povo Israel. ^v8
 
-**9** E perguntou Ezequias aos sacerdotes e aos levitas acerca daqueles montões. ^v9
+**9** Então, Ezequias questionou os sacerdotes e os levitas sobre as pilhas. ^v9
 
-**10** E Azarias, o sumo sacerdote da casa de Zadoque, lhe respondeu, dizendo: Desde que se começou a trazer estas ofertas à casa do Senhor, temos comido e temos fartado, e ainda sobejou em abundância; porque o Senhor abençoou ao seu povo, e sobejou esta abastança. ^v10
+**10** "Azarias, o sacerdote chefe, da casa de Zadoque, respondeu-lhe e disse: ""Desde que o povo começou a trazer as ofertas para a casa de Yahweh, temos comido e tem sido o suficiente, e tem sobrado bastante, pois Yahweh tem abençoado Seu povo. O que sobrou foi essa grande quantidade aqui""." ^v10
 
-**11** Então ordenou Ezequias que se preparassem câmaras na casa do Senhor, e as prepararam. ^v11
+**11** Assim, Ezequias ordenou que fossem preparados depósitos na casa de Yahweh, e eles os prepararam. ^v11
 
-**12** Ali recolheram fielmente as ofertas, e os dízimos, e as coisas consagradas; e tinham cargo disto Conanias, o levita principal, e Simei, seu irmão, o segundo. ^v12
+**12** Então, eles fielmente trouxeram as ofertas, os dízimos e as coisas que pertenciam a Yahweh. Conanias, o levita, era o encarregado geral; e Simei, seu irmão, era o auxiliar. ^v12
 
-**13** E Jeiel, Azarias, Naate, Asael, Jerimote, Jozabade, Eliel, Ismaquias, Maate, e Benaia, eram superintendentes sob a direção de Conanias e Simei, seu irmão, por mandado do rei Ezequias, e de Azarias, líder da casa de Deus. ^v13
+**13** Jeiel, Azazias, Naate, Asael, Jerimote, Jozabade, Eliel, Ismaquias, Maate e Benaia eram encarregados sob a direção de Conanias e Simei, seu irmão, por determinação de Ezequias, o rei, e Azarias, o oficial sobre a casa de Deus. ^v13
 
-**14** E Coré, filho de Imna, o levita, porteiro do lado do oriente, estava encarregado das ofertas voluntárias que se faziam a Deus, para distribuir as ofertas alçadas do Senhor e as coisas santíssimas. ^v14
+**14** Coré, filho de Imná, o levita, o guarda do portão oriental, estava encarregado das ofertas voluntárias de Deus, responsável por distribuir as ofertas a Yahweh e as ofertas santíssimas. ^v14
 
-**15** E debaixo das suas ordens estavam Éden, Miniamim, Jesua, Semaías, Amarias e Secanias, nas cidades dos sacerdotes, para distribuírem com fidelidade a seus irmãos, segundo as suas turmas, tanto aos pequenos como aos grandes; ^v15
+**15** Debaixo dele, estavam Éden, Miniamim, Jesuá, Semaías, Amarias e Secanias, nas cidades dos sacerdotes. Eles ocuparam posições de confiança; para que pudessem dar essas ofertas para seus irmãos, divisão por divisão, tanto para os importantes quanto não importantes. ^v15
 
-**16** Exceto os que estavam contados pelas genealogias dos homens, da idade de três anos para cima, a todos os que entravam na casa do Senhor, para a obra de cada dia no seu dia, pelo seu ministério nas suas guardas, segundo as suas turmas. ^v16
+**16** Eles também deram para os homens de três anos para cima, que eram listados nas genealogias de seus antepassados que entravam na casa de Yahweh, como requerido na escala diária, para fazer seus trabalhos segundo suas divisões. ^v16
 
-**17** Quanto ao registro dos sacerdotes foi ele feito segundo as suas famílias, e o dos levitas, da idade de vinte anos para cima, foi feito segundo as suas guardas nas suas turmas; ^v17
+**17** Eles distribuíram aos sacerdotes de acordo com a genealogia de seus antepassados; e fizeram o mesmo para os levitas de vinte anos para cima, de acordo com seus cargos e suas divisões. ^v17
 
-**18** Como também conforme às genealogias, com todas as suas crianças, suas mulheres, e seus filhos, e suas filhas, por toda a congregação. Porque com fidelidade estes se santificavam nas coisas consagradas. ^v18
+**18** Incluíram todos os seus pequeninos, suas esposas, seus filhos e suas filhas, por toda a comunidade, pois eles foram fiéis em se santificarem. ^v18
 
-**19** Também dentre os filhos de Arão, os sacerdotes, que estavam nos campos dos arrabaldes das suas cidades, em cada cidade, havia homens que foram designados pelos seus nomes para distribuírem as porções a todo o homem entre os sacerdotes e a todos os que estavam contados entre os levitas. ^v19
+**19** Para os sacerdotes, os descendentes de Arão, que estavam nos campos dos povoados pertencentes às suas cidades, ou em toda cidade, homens foram designados por nome, para dar porções a todo varão entre os sacerdotes e para todos os registrados na genealogia dos seus antepassados entre os levitas. ^v19
 
-**20** E assim fez Ezequias em todo o Judá; e fez o que era bom, e reto, e verdadeiro, perante o Senhor seu Deus. ^v20
+**20** Ezequias fez isso por todo o Judá e fez o que era bom, certo e fiel diante de Yahweh, seu Deus. ^v20
 
-**21** E toda a obra que começou no serviço da casa de Deus, e na lei, e nos mandamentos, para buscar a seu Deus, ele a fez de todo o seu coração, e prosperou. ^v21
+**21** Em todo projeto que ele começou no serviço da casa de Deus, a lei e os mandamentos para buscar seu Deus, ele trabalhou com todo o seu coração e foi bem-sucedido. ^v21

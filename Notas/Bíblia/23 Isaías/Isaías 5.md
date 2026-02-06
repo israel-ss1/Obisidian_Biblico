@@ -1,67 +1,66 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Isaías|Isaías]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Isaías|Isaías]]"
+tags: [biblia]
 ---
 
 # Isaías 5
 
-**1** Agora cantarei ao meu amado o cântico do meu querido a respeito da sua vinha. O meu amado tem uma vinha num outeiro fértil. ^v1
+**1** Cantarei ao meu amado uma canção de amor sobre a Sua vinha. Meu amado possuía uma vinha em uma colina fértil. ^v1
 
-**2** E cercou-a, e limpando-a das pedras, plantou-a de excelentes vides; e edificou no meio dela uma torre, e também construiu nela um lagar; e esperava que desse uvas boas, porém deu uvas bravas. ^v2
+**2** Ele a cavou, removeu as pedras e a plantou com uma videira da melhor qualidade. Construiu uma torre no meio dela e edificou também um lagar. Ele esperava que ela produzisse uvas boas, porém, produziu uvas selvagens. ^v2
 
-**3** Agora, pois, ó moradores de Jerusalém, e homens de Judá, julgai, vos peço, entre mim e a minha vinha. ^v3
+**3** E agora, habitantes de Jerusalém e homens de Judá, julgai entre Mim e a Minha vinha. ^v3
 
-**4** Que mais se podia fazer à minha vinha, que eu lhe não tenha feito? Por que, esperando eu que desse uvas boas, veio a dar uvas bravas? ^v4
+**4** O que mais poderia ser feito à Minha vinha que Eu já não tenha feito? Quando Eu esperava boas uvas, por que produziu uvas selvagens? ^v4
 
-**5** Agora, pois, vos farei saber o que eu hei de fazer à minha vinha: tirarei a sua sebe, para que sirva de pasto; derrubarei a sua parede, para que seja pisada; ^v5
+**5** Agora Eu vos direi o que farei com a Minha vinha: removerei a cerca e será transformada num pasto; derrubarei o seu muro e ela será pisada. ^v5
 
-**6** E a tornarei em deserto; não será podada nem cavada; porém crescerão nela sarças e espinheiros; e às nuvens darei ordem que não derramem chuva sobre ela. ^v6
+**6** Eu a devastarei, e ela não será podada nem capinada; mas sarças e espinhos brotarão nela, e ordenarei às nuvens que não derramem chuva sobre ela. ^v6
 
-**7** Porque a vinha do Senhor dos Exércitos é a casa de Israel, e os homens de Judá são a planta das suas delícias; e esperou que exercesse juízo, e eis aqui opressão; justiça, e eis aqui clamor. ^v7
+**7** Pois a videira de Yahweh dos Exércitos é a casa de Israel, e os homens de Judá são Sua agradável plantação. Ele esperou por justiça, mas, em vez disso, houve matança; esperou por retidão, mas houve clamor por socorro. ^v7
 
-**8** Ai dos que ajuntam casa a casa, reúnem campo a campo, até que não haja mais lugar, e fiquem como únicos moradores no meio da terra! ^v8
+**8** Ai daqueles que juntam casa a casa, campo a campo, até que não haja mais nenhum lugar, e se tornam os únicos donos da terra! ^v8
 
-**9** A meus ouvidos disse o Senhor dos Exércitos: Em verdade que muitas casas ficarão desertas, e até as grandes e excelentes sem moradores. ^v9
+**9** Yahweh dos Exércitos me disse que muitas casas ficarão vazias, até mesmo as grandiosas e impressionantes ficarão sem moradores. ^v9
 
-**10** E dez jeiras de vinha não darão mais do que um bato; e um ômer de semente não dará mais do que um efa. ^v10
+**10** Pois uma vinha de dez jeiras dará apenas um bato, e um ômer de semente dará apenas um efa. ^v10
 
-**11** Ai dos que se levantam pela manhã, e seguem a bebedice; e continuam até à noite, até que o vinho os esquente! ^v11
+**11** Ai daqueles que se levantam de manhã cedo para buscar bebida forte, aqueles que se demoram noite adentro até que o vinho os inflame! ^v11
 
-**12** E harpas e alaúdes, tamboris e gaitas, e vinho há nos seus banquetes; e não olham para a obra do Senhor, nem consideram as obras das suas mãos. ^v12
+**12** Eles fazem banquetes com harpas, liras, tamborins, flautas e vinho; mas não reconhecem o trabalho de Yahweh, nem consideram os feitos de Suas mãos. ^v12
 
-**13** Portanto o meu povo será levado cativo, por falta de entendimento; e os seus nobres terão fome, e a sua multidão se secará de sede. ^v13
+**13** Portanto, o Meu povo foi levado ao cativeiro por falta de entendimento; seus nobres estão com fome, e o povo comum não tem nada para beber. ^v13
 
-**14** Portanto o inferno grandemente se alargou, e se abriu a sua boca desmesuradamente; e para lá descerão o seu esplendor, e a sua multidão, e a sua pompa, e os que entre eles se alegram. ^v14
+**14** Por isso, o Sheol aumentou o seu apetite e abriu grandemente a sua boca; seus nobres, o povo, seus líderes e os foliões, e os que estão felizes entre eles descem para o Sheol. ^v14
 
-**15** Então o plebeu se abaterá, e o nobre se humilhará; e os olhos dos altivos se humilharão. ^v15
+**15** O homem se curvará e a humanidade será humilhada; os olhos dos altivos serão rebaixados. ^v15
 
-**16** Porém o Senhor dos Exércitos será exaltado em juízo; e Deus, o Santo, será santificado em justiça. ^v16
+**16** Yahweh dos Exércitos será exaltado em Sua justiça, e Deus, o Santo, Se mostrará santo por meio de Sua justiça. ^v16
 
-**17** Então os cordeiros pastarão como de costume, e os estranhos comerão dos lugares devastados pelos gordos. ^v17
+**17** "Então as ovelhas pastarão como em seu próprio pasto, e os cordeiros pastarão nas ruínas como estrangeiros. [Nota: algumas versões modernas trazem ""e, nas ruínas dos ricos, os cordeiros pastarão"".]" ^v17
 
-**18** Ai dos que puxam a iniqüidade com cordas de vaidade, e o pecado com tirantes de carro! ^v18
+**18** Ai daqueles que puxam a iniquidade com cordas de futilidade, e puxam o pecado com corda de carroça! ^v18
 
-**19** E dizem: Avie-se, e acabe a sua obra, para que a vejamos; e aproxime-se e venha o conselho do Santo de Israel, para que o conheçamos. ^v19
+**19** "Ai daqueles que dizem: ""Que Deus Se apresse, que Ele aja com rapidez para que vejamos isso acontecer; e que os planos do Santo de Israel se aproximem e cheguem, para que os conheçamos!""." ^v19
 
-**20** Ai dos que ao mal chamam bem, e ao bem mal; que fazem das trevas luz, e da luz trevas; e fazem do amargo doce, e do doce amargo! ^v20
+**20** Ai daqueles que chamam o mal de bem e o bem de mal; que representam a escuridão como luz e a luz como escuridão; que representam o amargo como doce e o doce como amargo! ^v20
 
-**21** Ai dos que são sábios a seus próprios olhos, e prudentes diante de si mesmos! ^v21
+**21** Ai daqueles que são sábios aos seus próprios olhos e prudentes em seu próprio entendimento! ^v21
 
-**22** Ai dos que são poderosos para beber vinho, e homens de poder para misturar bebida forte; ^v22
+**22** Ai daqueles que são campeões em beber vinho e mestres em misturar bebidas fortes; ^v22
 
-**23** Dos que justificam ao ímpio por suborno, e aos justos negam a justiça! ^v23
+**23** daqueles que absolvem o culpado em troca de dinheiro, e privam o inocente de seus direitos! ^v23
 
-**24** Por isso, como a língua de fogo consome a palha, e o restolho se desfaz pela chama, assim será a sua raiz como podridão, e a sua flor se esvaecerá como pó; porquanto rejeitaram a lei do Senhor dos Exércitos, e desprezaram a palavra do Santo de Israel. ^v24
+**24** Portanto, assim como a língua de fogo devora o restolho, e como a palha se queima, assim suas raízes apodrecerão e sua flor será levada como a poeira. Pois eles rejeitaram a lei de Yahweh dos Exércitos e desprezaram a palavra do Santo de Israel. ^v24
 
-**25** Por isso se acendeu a ira do Senhor contra o seu povo, e estendeu a sua mão contra ele, e o feriu, de modo que as montanhas tremeram, e os seus cadáveres se fizeram como lixo no meio das ruas; com tudo isto não tornou atrás a sua ira, mas a sua mão ainda está estendida. ^v25
+**25** Por isso, a ira de Yahweh está acesa contra o Seu povo, e Ele levantou Sua mão contra eles e os puniu; as montanhas tremem, e seus cadáveres são como lixo nas ruas. Apesar de tudo isso, Sua ira não retrocede, e Sua mão continua estendida. ^v25
 
-**26** E ele arvorará o estandarte para as nações de longe, e lhes assobiará para que venham desde a extremidade da terra; e eis que virão apressurada e ligeiramente. ^v26
+**26** Ele levantará uma bandeira para as nações distantes e assobiará aos que estão nos confins da terra. Olhai, eles virão rápida e prontamente. ^v26
 
-**27** Não haverá entre eles cansado, nem quem tropece; ninguém tosquenejará nem dormirá; não se lhe desatará o cinto dos seus lombos, nem se lhe quebrará a correia dos seus sapatos. ^v27
+**27** Não há entre eles cansados ou quem tropece; ninguém sente sono ou dorme; nem seus cintos se afrouxam, nem suas sandálias se arrebentam; ^v27
 
-**28** As suas flechas serão agudas, e todos os seus arcos retesados; os cascos dos seus cavalos são reputados como pederneiras, e as rodas dos seus carros como redemoinho. ^v28
+**28** suas flechas são afiadas e seus arcos estão curvados; os cascos de seus cavalos são como pederneiras e suas carruagens correm como redemoinho. ^v28
 
-**29** O seu rugido será como o do leão; rugirão como filhos de leão; sim, rugirão e arrebatarão a presa, e a levarão, e não haverá quem a livre. ^v29
+**29** Seu rugido será como de leão. Eles rugirão como leões jovens; rugirão e agarrarão suas presas, e as levarão para longe, sem ninguém para resgatá-las . ^v29
 
-**30** E bramarão contra eles naquele dia, como o bramido do mar; então olharão para a terra, e eis que só verão trevas e ânsia, e a luz se escurecerá nos céus. ^v30
+**30** Naquele dia, eles rugirão contra a presa, como o rugido do mar. Se alguém olhar para a terra, verá escuridão e aflição, pois até a luz será escurecida pelas nuvens. ^v30

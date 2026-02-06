@@ -1,35 +1,34 @@
 ---
-Livro: "[[Ester|Ester]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Ester|Ester]]"
+tags: [biblia]
 ---
 
 # Ester 5
 
-**1** Sucedeu, pois, que ao terceiro dia Ester se vestiu com trajes reais, e se pôs no pátio interior da casa do rei, defronte do aposento do rei; e o rei estava assentado sobre o seu trono real, na casa real, defronte da porta do aposento. ^v1
+**1** Depois de três dias, Ester colocou os trajes reais e foi ao jardim interno do palácio do rei, na frente da casa do rei. O rei estava sentado em seu trono real, na casa real, diante da entrada da casa. ^v1
 
-**2** E sucedeu que, vendo o rei a rainha Ester, que estava no pátio, ela alcançou graça aos seus olhos; e o rei estendeu para Ester o cetro de ouro, que tinha na sua mão, e Ester chegou, e tocou a ponta do cetro. ^v2
+**2** Quando o rei viu Ester, a rainha, em pé, no pátio, ela alcançou graça aos seus olhos. Ele estendeu para ela o cetro de ouro na sua mão. Então, Ester se aproximou e tocou a ponta do cetro. ^v2
 
-**3** Então o rei lhe disse: Que é que queres, rainha Ester, ou qual é a tua petição? Até metade do reino se te dará. ^v3
+**3** "Então o rei disse a ela: ""O que queres, rainha Ester? Qual é teu pedido? Até a metade do meu reino te será dada""." ^v3
 
-**4** E disse Ester: Se parecer bem ao rei, venha hoje com Hamã ao banquete que lhe tenho preparado. ^v4
+**4** "Ester disse: ""Se for do agrado do rei, que o rei e Hamã venham ao banquete que lhes preparei""." ^v4
 
-**5** Então disse o rei: Fazei apressar a Hamã, para que se atenda ao desejo de Ester. Vindo, pois, o rei e Hamã ao banquete, que Ester tinha preparado, ^v5
+**5** "Então o rei disse: ""Trazei Hamã depressa, para que façamos o que Ester disse"". O rei e Hamã foram ao banquete que Ester havia preparado." ^v5
 
-**6** Disse o rei a Ester, no banquete do vinho: Qual é a tua petição? E ser-te-á concedida, e qual é o teu desejo? E se fará, ainda até metade do reino. ^v6
+**6** "Quando o vinho estava sendo servido no banquete, o rei disse a Ester: ""Qual é tua petição? Será garantida a ti. Qual é a tua solicitação? Até metade do reino te será garantida""." ^v6
 
-**7** Então respondeu Ester, e disse: Minha petição e desejo é: ^v7
+**7** "Ester respondeu: ""Minha petição e minha solicitação são estas:" ^v7
 
-**8** Se achei graça aos olhos do rei, e se bem parecer ao rei conceder-me a minha petição, e cumprir o meu desejo, venha o rei com Hamã ao banquete que lhes hei de preparar, e amanhã farei conforme a palavra do rei. ^v8
+**8** "se encontrei graça aos olhos do rei e se agrada ao rei garantir minha petição e honrar meu pedido, que o rei e Hamã venham ao banquete que também prepararei para vós amanhã, e eu responderei à pergunta do rei""." ^v8
 
-**9** Então saiu Hamã naquele dia alegre e de bom ânimo; porém, vendo Mardoqueu à porta do rei, e que ele não se levantara nem se movera diante dele, então Hamã se encheu de furor contra Mardoqueu. ^v9
+**9** Hamã saiu dali com o coração alegre e satisfeito. Mas, quando Hamã viu Mardoqueu no portão do rei e que Mardoqueu não se levantou ou mostrou algum temor a ele, ficou furioso contra Mardoqueu. ^v9
 
-**10** Hamã, porém, se refreou, e foi para sua casa; e enviou, e mandou vir os seus amigos, e Zeres, sua mulher. ^v10
+**10** Entretanto, Hamã controlou-se e foi para casa. Ele mandou buscar seus amigos e os reuniu, juntamente com sua esposa Zeres. ^v10
 
-**11** E contou-lhes Hamã a glória das suas riquezas, a multidão de seus filhos, e tudo em que o rei o tinha engrandecido, e como o tinha exaltado sobre os príncipes e servos do rei. ^v11
+**11** Hamã se vangloriou do esplendor de suas riquezas, de seus muitos filhos, de todas as promoções pelas quais o rei o homenageara, e de como ele se havia elevado acima de todos os oficiais e servos do rei. ^v11
 
-**12** Disse mais Hamã: Tampouco a rainha Ester a ninguém fez vir com o rei ao banquete que tinha preparado, senão a mim; e também para amanhã estou convidado por ela juntamente com o rei. ^v12
+**12** "Hamã disse: ""Até mesmo a rainha Ester não convidou a ninguém além de mim para ir com o rei ao banquete que ela havia preparado. E amanhã estou novamente convidado por ela para estar junto com o rei." ^v12
 
-**13** Porém tudo isto não me satisfaz, enquanto eu vir o judeu Mardoqueu assentado à porta do rei. ^v13
+**13** "Mas tudo o que estou falando não me satisfaz, enquanto eu vir Mardoqueu, o judeu, sentado à porta do palácio real""." ^v13
 
-**14** Então lhe disseram Zeres, sua mulher, e todos os seus amigos: Faça-se uma forca de cinqüenta côvados de altura, e amanhã dize ao rei que nela seja enforcado Mardoqueu; e então entra alegre com o rei ao banquete. E este conselho bem pareceu a Hamã, que mandou fazer a forca. ^v14
+**14** "Então, Zeres, sua mulher, disse para Hamã e todos os seus amigos: ""Mandes fazer uma forca de cinquenta côvados de altura. De manhã, falas com o rei para que Mardoqueu seja enforcado nela. Depois alegra-te com o rei no banquete"". Isso agradou Hamã, e ele mandou construir a forca." ^v14

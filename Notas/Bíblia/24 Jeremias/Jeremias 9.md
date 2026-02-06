@@ -1,59 +1,58 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Jeremias|Jeremias]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Jeremias|Jeremias]]"
+tags: [biblia]
 ---
 
 # Jeremias 9
 
-**1** Oh! se a minha cabeça se tornasse em águas, e os meus olhos numa fonte de lágrimas! Então choraria de dia e de noite os mortos da filha do meu povo. ^v1
+**1** Se, ao menos, eu chorasse sem parar, e meus olhos fossem uma fonte de lágrimas! Pois choraria de dia e de noite pelos mortos da filha do meu povo. ^v1
 
-**2** Oh! se tivesse no deserto uma estalagem de caminhantes! Então deixaria o meu povo, e me apartaria dele, porque todos eles são adúlteros, um bando de aleivosos. ^v2
+**2** Se, ao menos, alguém me desse um lugar para os viajantes no deserto ficarem, onde eu pudesse ir e abandonar o meu povo. Se, ao menos, eu pudesse largá-los, já que todos são adúlteros, um bando de traidores! ^v2
 
-**3** E encurvam a língua como se fosse o seu arco, para a mentira; fortalecem-se na terra, mas não para a verdade; porque avançam de malícia em malícia, e a mim não me conhecem, diz o Senhor. ^v3
+**3** "Yahweh declara: ""Eles dizem coisas falsas com suas línguas, que são seus arcos fraudulentos, mas não é por causa de nenhuma fidelidade deles que se tornam fortes na terra. Eles vão de um ato perverso para outro. Eles não Me conhecem." ^v3
 
-**4** Guardai-vos cada um do seu próximo, e de irmão nenhum vos fieis; porque todo o irmão não faz mais do que enganar, e todo o próximo anda caluniando. ^v4
+**4** Ficai atentos, cada um de vós, contra vosso companheiro, e não confieis em qualquer irmão, pois todos os irmãos são enganadores, e cada companheiro anda caluniando. ^v4
 
-**5** E zombará cada um do seu próximo, e não falam a verdade; ensinam a sua língua a falar a mentira, andam-se cansando em proceder perversamente. ^v5
+**5** Cada homem zomba do seu companheiro, e não fala a verdade. Suas línguas ensinam coisas fraudulentas; eles estão exaustos de cometer iniquidades. ^v5
 
-**6** A tua habitação está no meio do engano; pelo engano recusam conhecer-me, diz o Senhor. ^v6
+**6** "Vossa habitação está no meio do engano; pelo engano, recusam a conhecer-Me – esta é a declaração de Yahweh""." ^v6
 
-**7** Portanto assim diz o Senhor dos Exércitos: Eis que eu os fundirei e os provarei; pois, de que outra maneira procederia com a filha do meu povo? ^v7
+**7** "Yahweh dos Exércitos diz: ""Vede! Estou prestes a refinar-vos e a vos testar, pois o que mais Eu posso fazer por causa do que Meu povo fez?" ^v7
 
-**8** Uma flecha mortífera é a língua deles; fala engano; com a sua boca fala cada um de paz com o seu próximo mas no seu coração arma-lhe ciladas. ^v8
+**8** Suas línguas são flechas afiadas, eles falam coisas infiéis. Com suas bocas, proclamam paz a seus vizinhos, mas com seus corações armam ciladas para eles. ^v8
 
-**9** Porventura por estas coisas não os castigaria? diz o Senhor; ou não se vingaria a minha alma de nação tal como esta? ^v9
+**9** Eu não deveria puni-los por causa dessas coisas? – Esta é a declaração de Yahweh – Eu não deveria Me vingar de uma nação como esta? ^v9
 
-**10** Pelos montes levantarei choro e pranto, e pelas pastagens do deserto lamentação; porque já estão queimadas, e ninguém passa por elas; nem se ouve mugido de gado; desde as aves dos céus, até os animais, andaram vagueando, e fugiram. ^v10
+**10** Eu cantarei uma canção de luto e lamentação às montanhas, e uma canção fúnebre será cantada aos pastos. Pois estão queimados para que ninguém possa passar por eles. Já não se ouvirá o som de nenhum gado. Os pássaros dos céus e todos os animais fugiram. ^v10
 
-**11** E farei de Jerusalém montões de pedras, morada de chacais, e das cidades de Judá farei assolação, de sorte que não haja habitante. ^v11
+**11** "Pois Eu transformarei Jerusalém em pilhas de ruínas, um esconderijo de chacais. Eu farei das cidades de Judá lugares de ruínas, sem habitantes""." ^v11
 
-**12** Quem é o homem sábio, que entenda isto? e a quem falou a boca do Senhor, para que o possa anunciar? Por que razão pereceu a terra, e se queimou como deserto, sem que ninguém passa por ela? ^v12
+**12** Que homem é sábio o suficiente para entender isso? O que a boca de Yahweh proclama para ele, e ele a declarará? Por que a terra pereceu, e está destruída como o deserto, por onde ninguém pode passar? ^v12
 
-**13** E disse o Senhor: Porque deixaram a minha lei, que pus perante eles, e não deram ouvidos à minha voz, nem andaram nela, ^v13
+**13** "Yahweh diz: ""É porque eles abandonaram Minha lei, que Eu coloquei diante deles, porque eles não ouvem a Minha voz e não caminham de acordo com ela." ^v13
 
-**14** Antes andaram após o propósito do seu próprio coração, e após os baalins, como lhes ensinaram os seus pais. ^v14
+**14** É porque eles caminham de acordo com seus corações teimosos e seguem baalins, como seus pais lhes ensinaram a fazer. ^v14
 
-**15** Portanto assim diz o Senhor dos Exércitos, Deus de Israel: Eis que darei de comer losna a este povo, e lhe darei a beber água de fel. ^v15
+**15** Por essa razão, Yahweh dos Exércitos, o Deus de Israel, diz isto: 'Vede! Eu estou prestes a fazer este povo comer algo amargo e beber água envenenada. ^v15
 
-**16** E os espalharei entre gentios, que não conheceram, nem eles nem seus pais, e mandarei a espada após eles, até que venha a consumi-los. ^v16
+**16** "Então, Eu os dispersarei entre as nações que eles não conhecem, nem eles e nem seus ancestrais. Eu enviarei uma espada atrás deles até que Eu os tenha destruído completamente""." ^v16
 
-**17** Assim diz o Senhor dos Exércitos: Considerai, e chamai carpideiras que venham; e mandai procurar mulheres hábeis, para que venham. ^v17
+**17** "Yahweh dos Exércitos diz: ""Pensai nisto: chamai as cantoras de funerais; deixai que elas venham. Mandai procurar as mulheres habilidosas em lamentar." ^v17
 
-**18** E se apressem, e levantem o seu lamento sobre nós; e desfaçam-se em lágrimas os nossos olhos, e as nossas pálpebras destilem águas. ^v18
+**18** Que elas se apressem e cantem uma canção de lamento sobre nós; assim, nossos olhos se encherão de lágrimas e nossas pálpebras fluirão com água. ^v18
 
-**19** Porque uma voz de pranto se ouviu de Sião: Como estamos arruinados! Estamos mui envergonhados, porque deixamos a terra, e por terem eles lançado fora as nossas moradas. ^v19
+**19** Porque o som do lamento é ouvido em Sião: 'Como estamos devastados! Estamos grandemente envergonhados porque abandonamos a terra, uma vez que derrubaram nossas casas'. ^v19
 
-**20** Ouvi, pois, vós, mulheres, a palavra do Senhor, e os vossos ouvidos recebam a palavra da sua boca; e ensinai o pranto a vossas filhas, e cada uma à sua vizinha a lamentação; ^v20
+**20** Então vós, mulheres, escutai a palavra de Yahweh; prestai atenção às mensagens que vêm da Sua boca. Então, ensinai vossas filhas uma canção de lamentação, e a cada companheira, uma canção fúnebre. ^v20
 
-**21** Porque a morte subiu pelas nossas janelas, e entrou em nossos palácios, para exterminar as crianças das ruas e os jovens das praças. ^v21
+**21** A morte veio por nossas janelas; ela entra nos nossos palácios. Ela destrói crianças de fora, e jovens nas praças da cidade. ^v21
 
-**22** Fala: Assim diz o Senhor: Até os cadáveres dos homens jazerão como esterco sobre a face do campo, e como gavela atrás do segador, e não há quem a recolha. ^v22
+**22** "Declara isto: 'Os cadáveres dos homens cairão como esterco nos campos, e como talos de grãos após os ceifeiros, e não haverá ninguém para recolhê-los' – esta é a declaração de Yahweh""." ^v22
 
-**23** Assim diz o Senhor: Não se glorie o sábio na sua sabedoria, nem se glorie o forte na sua força; não se glorie o rico nas suas riquezas, ^v23
+**23** "Yahweh diz isto: ""Que o sábio não se orgulhe de sua sabedoria, ou o guerreiro de sua força; que o rico não se orgulhe da sua riqueza." ^v23
 
-**24** Mas o que se gloriar, glorie-se nisto: em me entender e me conhecer, que eu sou o Senhor, que faço beneficência, juízo e justiça na terra; porque destas coisas me agrado, diz o Senhor. ^v24
+**24** Pois, se um homem se orgulhar de alguma coisa, que seja disto: de Me conhecer e saber que Eu sou Yahweh, que ajo com amor leal, justiça e retidão na terra. Pois é nisto que Eu tenho prazer – esta é a declaração de Yahweh. ^v24
 
-**25** Eis que vêm dias, diz o Senhor, em que castigarei a todo o circuncidado com o incircunciso. ^v25
+**25** Eis que vêm dias, quando Eu punirei todos os que são apenas circuncidados em seu corpo. ^v25
 
-**26** Ao Egito, e a Judá, e a Edom, e aos filhos de Amom, e a Moabe, e a todos os que cortam os cantos do seu cabelo, que habitam no deserto; porque todas as nações são incircuncisas, e toda a casa de Israel é incircuncisa de coração. ^v26
+**26** "Eu punirei o Egito e Judá, Edom, amonitas e moabitas, todas as pessoas que cortam seus cabelos, que habitam no deserto. Pois todas as nações são incircuncisas e toda a casa de Israel tem um coração incircunciso""." ^v26

@@ -1,69 +1,68 @@
 ---
-Livro: "[[Êxodo|Êxodo]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Êxodo|Êxodo]]"
+tags: [biblia]
 ---
 
 # Êxodo 4
 
-**1** Então respondeu Moisés, e disse: Mas eis que não me crerão, nem ouvirão a minha voz, porque dirão: O SENHOR não te apareceu. ^v1
+**1** "Moisés disse: ""E, se eles não acreditarem em mim, ou não me derem ouvidos e, além disso, disserem: 'Yahweh não te apareceu'?""" ^v1
 
-**2** E o Senhor disse-lhe: Que é isso na tua mão? E ele disse: Uma vara. ^v2
+**2** "Deus lhe disse: ""O que é isso na tua mão?"". Moisés respondeu: ""Uma vara""." ^v2
 
-**3** E ele disse: Lança-a na terra. Ele a lançou na terra, e tornou-se em cobra; e Moisés fugia dela. ^v3
+**3** "Yahweh disse: ""Joga-a no chão"". Moisés a jogou no chão, e a vara se tornou uma cobra. Moisés fugiu dela." ^v3
 
-**4** Então disse o Senhor a Moisés: Estende a tua mão e pega-lhe pela cauda. E estendeu sua mão, e pegou-lhe pela cauda, e tornou-se em vara na sua mão; ^v4
+**4** "Yahweh disse a Moisés: ""Estende a tua mão e pega-a pela cauda"". Então, ele estendeu a mão e pegou a cobra. E se tornou uma vara em suas mãos novamente." ^v4
 
-**5** Para que creiam que te apareceu o Senhor Deus de seus pais, o Deus de Abraão, o Deus de Isaque e o Deus de Jacó. ^v5
+**5** """Isso é para que eles creiam que Yahweh, o Deus de vossos ancestrais, o Deus de Abraão, o Deus de Isaque, e o Deus de Jacó, te apareceu""." ^v5
 
-**6** E disse-lhe mais o Senhor: Põe agora a tua mão no teu seio. E, tirando-a, eis que a sua mão estava leprosa, branca como a neve. ^v6
+**6** "Yahweh também disse a ele: ""Agora, coloca tua mão dentro do teu manto"". Então, Moisés colocou a mão dentro do manto. Quando ele a tirou, sua mão estava leprosa, tão branca quanto a neve." ^v6
 
-**7** E disse: Torna a por a tua mão no teu seio. E tornou a colocar sua mão no seu seio; depois tirou-a do seu seio, e eis que se tornara como a sua carne. ^v7
+**7** "Yahweh disse: ""Coloca tua mão dentro do manto novamente"". Então, Moisés assim o fez e, quando a tirou, ela havia se tornado saudável de novo, como o resto de sua carne." ^v7
 
-**8** E acontecerá que, se eles não te crerem, nem ouvirem a voz do primeiro sinal, crerão à voz do derradeiro sinal; ^v8
+**8** "Yahweh disse: ""Se eles não acreditarem em ti, se eles não prestarem atenção ao primeiro sinal do Meu poder ou não acreditarem, então, eles crerão por causa do segundo sinal." ^v8
 
-**9** E se acontecer que ainda não creiam a estes dois sinais, nem ouvirem a tua voz, tomarás das águas do rio, e as derramarás na terra seca; e as águas, que tomarás do rio, tornar-se-ão em sangue sobre a terra seca. ^v9
+**9** "E, se eles não acreditarem nem mesmo nesses dois sinais do Meu poder, ou não te derem ouvidos, então, pega um pouco de água do rio e derrama na terra seca. A água que tu pegares se tornará sangue na terra seca""." ^v9
 
-**10** Então disse Moisés ao Senhor: Ah, meu Senhor! eu não sou homem eloqüente, nem de ontem nem de anteontem, nem ainda desde que tens falado ao teu servo; porque sou pesado de boca e pesado de língua. ^v10
+**10** "Então, Moisés disse a Yahweh: ""Senhor, eu nunca fui eloquente, nem no passado, nem desde que falaste ao teu servo. Eu sou hesitante para falar e lento de língua""." ^v10
 
-**11** E disse-lhe o Senhor: Quem fez a boca do homem? ou quem fez o mudo, ou o surdo, ou o que vê, ou o cego? Não sou eu, o Senhor? ^v11
+**11** "Yahweh disse a ele: ""Quem é Este que fez a boca do homem? Quem faz um homem mudo ou surdo, ou o que vê, ou o cego? Não sou eu, Yahweh?""." ^v11
 
-**12** Vai, pois, agora, e eu serei com a tua boca e te ensinarei o que hás de falar. ^v12
+**12** "Então, agora, vai. Eu serei a tua boca e te ensinarei o que dizer""." ^v12
 
-**13** Ele, porém, disse: Ah, meu Senhor! Envia pela mão daquele a quem tu hás de enviar. ^v13
+**13** "Mas Moisés clamou: ""Senhor, por favor, manda outra pessoa, qualquer um que desejares enviar""." ^v13
 
-**14** Então se acendeu a ira do Senhor contra Moisés, e disse: Não é Arão, o levita, teu irmão? Eu sei que ele falará muito bem; e eis que ele também sai ao teu encontro; e, vendo-te, se alegrará em seu coração. ^v14
+**14** "Então, Yahweh ficou irado com Moisés. Ele disse: ""E Arão, teu irmão, o levita? Eu sei que ele pode falar bem. Além disso, ele está vindo te encontrar, e, ao ver-te, ficará alegre em seu coração." ^v14
 
-**15** E tu lhe falarás, e porás as palavras na sua boca; e eu serei com a tua boca, e com a dele, ensinando-vos o que haveis de fazer. ^v15
+**15** Tu falarás a ele e colocarás as palavras em sua boca. Eu serei com a tua boca e com a boca de Arão. E eu mostrarei a ambos o que fazer. ^v15
 
-**16** E ele falará por ti ao povo; e acontecerá que ele te será por boca, e tu lhe serás por Deus. ^v16
+**16** Ele falará ao povo por ti. Ele será a tua boca, e tu serás para ele como Eu sou para ti. ^v16
 
-**17** Toma, pois, esta vara na tua mão, com que farás os sinais. ^v17
+**17** "Tu tomarás em tuas mãos esta vara. Com ela, farás os sinais""." ^v17
 
-**18** Então foi Moisés, e voltou para Jetro, seu sogro, e disse-lhe: Eu irei agora, e tornarei a meus irmãos, que estão no Egito, para ver se ainda vivem. Disse, pois, Jetro a Moisés: Vai em paz. ^v18
+**18** "Então, Moisés voltou a Jetro, seu sogro, e disse-lhe: ""Deixa-me ir e retornar aos meus parentes que estão no Egito e ver se eles ainda estão vivos"". Jetro disse a Moisés: ""Vai em paz""." ^v18
 
-**19** Disse também o Senhor a Moisés em Midiã: Vai, volta para o Egito; porque todos os que buscavam a tua alma morreram. ^v19
+**19** "Yahweh falou a Moisés em Midiã: ""Vai, retorna ao Egito, pois todos os homens que estavam tentando tirar tua vida estão mortos""." ^v19
 
-**20** Tomou, pois, Moisés sua mulher e seus filhos, e os levou sobre um jumento, e tornou à terra do Egito; e Moisés tomou a vara de Deus na sua mão. ^v20
+**20** Moisés tomou sua esposa e seus filhos e colocou-os em um jumento. Ele retornou para a terra do Egito. E ele pegou a vara de Deus em suas mãos. ^v20
 
-**21** E disse o Senhor a Moisés: Quando voltares ao Egito, atenta que faças diante de Faraó todas as maravilhas que tenho posto na tua mão; mas eu lhe endurecerei o coração, para que não deixe ir o povo. ^v21
+**21** "Yahweh disse a Moisés: ""Quando voltares ao Egito, cuida para que faças diante de Faraó todas as maravilhas que Eu coloquei em teu poder. Mas Eu vou endurecer o coração dele, e ele não deixará o povo ir." ^v21
 
-**22** Então dirás a Faraó: Assim diz o Senhor: Israel é meu filho, meu primogênito. ^v22
+**22** Tu dirás a Faraó: 'Isto é o que Yahweh diz: Israel é meu filho, meu primogênito, ^v22
 
-**23** E eu te tenho dito: Deixa ir o meu filho, para que me sirva; mas tu recusaste deixá-lo ir; eis que eu matarei a teu filho, o teu primogênito. ^v23
+**23** "e Eu te digo: ""Deixa Meu filho ir, para que Me adore"". Mas, se tu recusares a deixá-lo ir, Eu certamente matarei teu filho, teu primogênito""." ^v23
 
-**24** E aconteceu no caminho, numa estalagem, que o Senhor o encontrou, e o quis matar. ^v24
+**24** A caminho do Egito, quando eles pararam para descansar à noite, Yahweh encontrou Moisés e tentou matá-lo. ^v24
 
-**25** Então Zípora tomou uma pedra aguda, e circuncidou o prepúcio de seu filho, e lançou-o a seus pés, e disse: Certamente me és um esposo sanguinário. ^v25
+**25** "Então, Zípora pegou uma faca de pedra e cortou fora o prepúcio de seu filho, e colocou aos pés de Moisés, dizendo: ""Certamente, tu és um marido sanguinário." ^v25
 
-**26** E desviou-se dele. Então ela disse: Esposo sanguinário, por causa da circuncisão. ^v26
+**26** "Então, Yahweh o deixou. Ela disse: ""Certamente, tu és um marido sanguinário"" por causa da circuncisão." ^v26
 
-**27** Disse o Senhor a Arão: Vai ao deserto, ao encontro de Moisés. E ele foi, e encontrou-o no monte de Deus, e beijou-o. ^v27
+**27** "Yahweh disse a Arão: ""Vai ao deserto para encontrar Moisés"". Arão foi, encontrou-o na montanha de Deus, e o beijou." ^v27
 
-**28** E relatou Moisés a Arão todas as palavras do Senhor, com que o enviara, e todos os sinais que lhe mandara. ^v28
+**28** Moisés contou a Arão todas as palavras que Yahweh lhe enviara para dizer e sobre todos os sinais do poder de Yahweh, que Ele lhe ordenara fazer. ^v28
 
-**29** Então foram Moisés e Arão, e ajuntaram todos os anciãos dos filhos de Israel. ^v29
+**29** Então, Moisés e Arão foram e ajuntaram os anciãos dos israelitas. ^v29
 
-**30** E Arão falou todas as palavras que o Senhor falara a Moisés e fez os sinais perante os olhos do povo. ^v30
+**30** Arão falou todas as palavras que Yahweh dissera a Moisés. Este expôs os sinais do poder de Yahweh diante do povo. ^v30
 
-**31** E o povo creu; e quando ouviram que o Senhor visitava aos filhos de Israel, e que via a sua aflição, inclinaram-se, e adoraram. ^v31
+**31** O povo acreditou. Quando eles ouviram que Yahweh observava os israelitas e que Ele havia visto sua opressão, então eles prostraram suas cabeças e O adoraram. ^v31

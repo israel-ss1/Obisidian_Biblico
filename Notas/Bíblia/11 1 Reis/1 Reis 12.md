@@ -1,73 +1,72 @@
 ---
-Livro: "[[1 Reis|1 Reis]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/1 Reis|1 Reis]]"
+tags: [biblia]
 ---
 
 # 1 Reis 12
 
-**1** E foi Roboão para Siquém; porque todo o Israel se reuniu em Siquém, para o fazerem rei. ^v1
+**1** Roboão foi para Siquém, pois todo Israel estava vindo pra Siquém para torná-lo rei. ^v1
 
-**2** Sucedeu que, Jeroboão, filho de Nebate, achando-se ainda no Egito, para onde fugira de diante do rei Salomão, voltou do Egito, ^v2
+**2** E aconteceu que Jeroboão, filho de Nebate, ouviu isto (pois ele continuava no Egito, para onde ele havia fugido da presença do rei Salomão) e voltou do Egito. ^v2
 
-**3** Porque mandaram chamá-lo; veio, pois, Jeroboão e toda a congregação de Israel, e falaram a Roboão, dizendo: ^v3
+**3** Então eles foram e o chamaram, e Jeroboão e toda a assembleia de Israel veio e disse a Roboão: ^v3
 
-**4** Teu pai agravou o nosso jugo; agora, pois, alivia tu a dura servidão de teu pai, e o pesado jugo que nos impôs, e nós te serviremos. ^v4
+**4** """O teu pai fez o nosso jugo pesado. Agora, torna o trabalho duro de teu pai mais fácil a nós, e alivia o jugo pesado que ele colocou sobre nós, e nós te serviremos""." ^v4
 
-**5** E ele lhes disse: Ide-vos até ao terceiro dia, e então voltai a mim. E o povo se foi. ^v5
+**5** "Roboão disse a eles: ""Ide embora por três dias; depois voltai a mim"". Então o povo se foi." ^v5
 
-**6** E teve o rei Roboão conselho com os anciãos que estiveram na presença de Salomão, seu pai, quando este ainda vivia, dizendo: Como aconselhais vós que se responda a este povo? ^v6
+**6** "O rei Roboão consultou os anciãos que aconselhavam Salomão, seu pai, enquanto ele estava vivo, e disse: ""Como vós me aconselhariam para que eu dê uma resposta a esse povo?""" ^v6
 
-**7** E eles lhe falaram, dizendo: Se hoje fores servo deste povo, e o servires, e respondendo-lhe, lhe falares boas palavras, todos os dias serão teus servos. ^v7
+**7** "Eles falaram com ele e disseram: ""Se te tornares servo deste povo hoje e os servires, e os responderes dizendo palavras boas para eles, então eles sempre serão teus servos""." ^v7
 
-**8** Porém ele deixou o conselho que os anciãos lhe tinham dado, e teve conselho com os jovens que haviam crescido com ele, que estavam diante dele. ^v8
+**8** Mas Roboão ignorou o conselho que os anciãos deram a ele e foi consultar os jovens que cresceram com ele e estavam com ele. ^v8
 
-**9** E disse-lhes: Que aconselhais vós que respondamos a este povo, que me falou, dizendo: Alivia o jugo que teu pai nos impôs? ^v9
+**9** "Roboão disse a eles: ""Qual conselho me daríeis, para que possamos responder às pessoas que falaram comigo e disseram: 'Alivia o jugo que teu pai colocou sobre nós?'""" ^v9
 
-**10** E os jovens que haviam crescido com ele lhe falaram: Assim dirás a este povo que te falou: Teu pai fez pesadíssimo o nosso jugo, mas tu o alivia de sobre nós; assim lhe falarás: Meu dedo mínimo é mais grosso do que os lombos de meu pai. ^v10
+**10** "Os jovens que cresceram com Roboão falaram a ele, dizendo: ""Fala a este povo que disse que teu pai, Salomão, fez seu jugo pesado, mas que deve torná-lo mais leve, deve dizer a eles: 'Meu dedo mínimo é maior que a cintura do meu pai." ^v10
 
-**11** Assim que, se meu pai vos carregou de um jugo pesado, ainda eu aumentarei o vosso jugo; meu pai vos castigou com açoites, porém eu vos castigarei com escorpiões. ^v11
+**11** "Então, embora meu pai vos tenha sobrecarregado com um jugo pesado, eu aumentarei o vosso jugo. O meu pai vos castigou com chicotes, mas eu vos castigarei com escorpiões'""." ^v11
 
-**12** Veio, pois, Jeroboão e todo o povo, ao terceiro dia, a Roboão, como o rei havia ordenado, dizendo: Voltai a mim ao terceiro dia. ^v12
+**12** "Então, Jeroboão e todo o povo vieram a Roboão no terceiro dia, como o rei os tinha instruido dizendo: ""Voltai a mim no terceiro dia""." ^v12
 
-**13** E o rei respondeu ao povo duramente; porque deixara o conselho que os anciãos lhe haviam dado. ^v13
+**13** O rei respondeu ao povo rudemente e ignorou o conselho que os anciãos deram a ele. ^v13
 
-**14** E lhe falou conforme ao conselho dos jovens, dizendo: Meu pai agravou o vosso jugo, porém eu ainda aumentarei o vosso jugo; meu pai vos castigou com açoites, porém eu vos castigarei com escorpiões. ^v14
+**14** "Ele lhes falou seguindo o conselho dos jovens, e disse: ""O meu pai vos sobrecarregou com jugo pesado, mas eu aumentarei o vosso jugo. O meu pai vos castigou com chicotes, mas eu vos castigarei com escorpiões""." ^v14
 
-**15** O rei, pois, não deu ouvidos ao povo; porque esta revolta vinha do Senhor, para confirmar a palavra que o Senhor tinha falado pelo ministério de Aías, o silonita, a Jeroboão, filho de Nebate. ^v15
+**15** Então o rei não ouviu ao povo, pois isso foi um evento causado por Yahweh, para que se cumprisse a palavra que Ele falou através de Aías, o silonita, para Jeroboão, filho de Nebate. ^v15
 
-**16** Vendo, pois, todo o Israel que o rei não lhe dava ouvidos, tornou-lhe o povo a responder, dizendo: Que parte temos nós com Davi? Não há para nós herança no filho de Jessé. Às tuas tendas, ó Israel! Provê agora a tua casa, ó Davi. Então Israel se foi às suas tendas. ^v16
+**16** "Quando todo o Israel viu que o rei não os ouvia, o povo respondeu a ele dizendo: ""Que parte temos em Davi? Nós não temos herança com o filho de Jessé! Volta as tuas tendas, Israel. Olha pela tua própria casa, Davi"". Então, Israel voltou às suas tendas." ^v16
 
-**17** No tocante, porém, aos filhos de Israel que habitavam nas cidades de Judá, também sobre eles reinou Roboão. ^v17
+**17** Mas, quanto ao povo de Israel que vivia nas cidades de Judá, Roboão tornou-se rei sobre ele. ^v17
 
-**18** Então o rei Roboão enviou a Adorão, que estava sobre os tributos; e todo o Israel o apedrejou, e ele morreu; mas o rei Roboão se animou a subir ao carro para fugir para Jerusalém. ^v18
+**18** Então o rei Roboão enviou Adorão, encarregado dos trabalhadores forçados, mas todo Israel o apedrejou até a morte. O rei Roboão fugiu rapidamente em sua carruagem para Jerusalém. ^v18
 
-**19** Assim se rebelaram os israelitas contra a casa de Davi, até ao dia de hoje. ^v19
+**19** Israel se rebelou contra a casa de Davi até os dias de hoje. ^v19
 
-**20** E sucedeu que, ouvindo todo o Israel que Jeroboão tinha voltado, enviaram, e o chamaram para a congregação, e o fizeram rei sobre todo o Israel; e ninguém seguiu a casa de Davi senão somente a tribo de Judá. ^v20
+**20** Quando todo Israel ouviu que Jeroboão havia voltado, eles mandaram chamá-lo para sua assembleia e fizeram-no rei sobre todo o Israel. Não houve ninguém que seguiu a família de Davi, exceto a tribo de Judá. ^v20
 
-**21** Vindo, pois, Roboão a Jerusalém, reuniu toda a casa de Judá e a tribo de Benjamim, cento e oitenta mil escolhidos, destros para a guerra, para pelejar contra a casa de Israel, para restituir o reino a Roboão, filho de Salomão. ^v21
+**21** Quando Roboão chegou a Jerusalém, ele convocou toda a casa de Judá e a tribo de Benjamim; estavam ali cento e oitenta mil homens escolhidos que eram soldados, prontos para lutar contra a casa de Israel, a fim de restaurar o reino a Roboão, filho de Salomão. ^v21
 
-**22** Porém veio a palavra de Deus a Semaías, homem de Deus, dizendo: ^v22
+**22** Mas a palavra de Deus veio a Semaías, o homem de Deus, dizendo: ^v22
 
-**23** Fala a Roboão, filho de Salomão, rei de Judá, e a toda a casa de Judá, e a Benjamim, e ao restante do povo, dizendo: ^v23
+**23** """Fala a Roboão, filho de Salomão, rei de Judá, para toda a casa de Judá e Benjamim, e ao resto do povo:" ^v23
 
-**24** Assim diz o Senhor: Não subireis nem pelejareis contra vossos irmãos, os filhos de Israel; volte cada um para a sua casa, porque eu é que fiz esta obra. E ouviram a palavra do Senhor, e voltaram segundo a palavra do Senhor. ^v24
+**24** "'Assim diz Yahweh: Não atacareis nem lutareis contra vossos irmãos o povo de Israel. Cada homem retornará a sua casa, pois Eu mesmo fiz isto acontecer'"". Então eles ouviram a palavra de Yahweh, voltaram e seguiram o seu caminho, e obedeceram a Sua palavra." ^v24
 
-**25** E Jeroboão edificou a Siquém, no monte de Efraim, e habitou ali; e saiu dali, e edificou a Penuel. ^v25
+**25** Então Jeroboão construiu Siquém, na região montanhosa de Efraim, e morou ali. Saindo dali, foi e construiu Peniel. ^v25
 
-**26** E disse Jeroboão no seu coração: Agora tornará o reino à casa de Davi. ^v26
+**26** "Jeroboão pensou: ""Agora o reino voltará para a casa de Davi." ^v26
 
-**27** Se este povo subir para fazer sacrifícios na casa do SENHOR, em Jerusalém, o coração deste povo se tornará a seu senhor, a Roboão, rei de Judá; e me matarão, e tornarão a Roboão, rei de Judá. ^v27
+**27** "Se este povo subir para oferecer sacrifícios no templo de Yahweh, em Jerusalém, então o coração deles se voltará outra vez ao seu senhor, para Roboão, rei de Judá. Eles me matarão e retornarão a Roboão, rei de Judá""." ^v27
 
-**28** Assim o rei tomou conselho, e fez dois bezerros de ouro; e lhes disse: Muito trabalho vos será o subir a Jerusalém; vês aqui teus deuses, ó Israel, que te fizeram subir da terra do Egito. ^v28
+**28** "Então o rei Joroboão buscou conselhos e fez dois bezerros de ouro, e disse para o povo: ""É demasiado que vós vades e subais a Jerusalém. Vede, estes são os vossos deuses, Israel, que vos tiraram da terra do Egito""." ^v28
 
-**29** E pôs um em Betel, e colocou o outro em Dã. ^v29
+**29** Ele colocou um em Betel e outro em Dã. ^v29
 
-**30** E este feito se tornou em pecado; pois que o povo ia até Dã para adorar o bezerro. ^v30
+**30** Assim, este ato se tornou um pecado. O povo foi para um ou outro até Dã. ^v30
 
-**31** Também fez casa nos altos; e constituiu sacerdotes dos mais baixos do povo, que não eram dos filhos de Levi. ^v31
+**31** Jeroboão fez santuários idólatras nos lugares altos; ele também constituiu sacerdotes dentre todo o povo, que não eram filhos de Levi. ^v31
 
-**32** E fez Jeroboão uma festa no oitavo mês, no dia décimo quinto do mês, como a festa que se fazia em Judá, e sacrificou no altar; semelhantemente fez em Betel, sacrificando aos bezerros que fizera; também em Betel estabeleceu sacerdotes dos altos que fizera. ^v32
+**32** Jeroboão ordenou uma festa no oitavo mês, no décimo quinto dia do mês, como a festa que há em Judá, e ele foi ao altar. Ele fez em Betel, sacrificando aos bezerros que fizera, e colocou em Betel os sacerdotes dos lugares altos que ele instituiu. ^v32
 
-**33** E sacrificou no altar que fizera em Betel, no dia décimo quinto do oitavo mês, que ele tinha imaginado no seu coração; assim fez a festa aos filhos de Israel, e sacrificou no altar, queimando incenso. ^v33
+**33** Jeroboão subiu ao altar que ele fez em Betel no décimo quinto dia do oitavo mês, no mês em que ele planejou na sua própria mente; ele ordenou uma festa para o povo de Israel e subiu até o altar para queimar incenso. ^v33

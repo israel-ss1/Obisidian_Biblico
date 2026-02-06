@@ -1,51 +1,50 @@
 ---
-Livro: "[[Êxodo|Êxodo]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Êxodo|Êxodo]]"
+tags: [biblia]
 ---
 
 # Êxodo 13
 
-**1** Então falou o SENHOR a Moisés, dizendo: ^v1
+**1** Yahweh falou para Moisés e disse: ^v1
 
-**2** Santifica-me todo o primogênito, o que abrir toda a madre entre os filhos de Israel, de homens e de animais; porque meu é. ^v2
+**2** """Dedica para Mim todo o primogênito, todo macho entre os israelitas, tanto homens, como animais. O primogênito Me pertencerá""." ^v2
 
-**3** E Moisés disse ao povo: Lembrai-vos deste mesmo dia, em que saístes do Egito, da casa da servidão; pois com mão forte o Senhor vos tirou daqui; portanto não comereis pão levedado. ^v3
+**3** "Moisés disse ao povo: ""Trazei à memória este dia, o dia em que saístes do Egito - da casa da escravidão - pela mão poderosa de Yahweh, que vos tirou desse lugar. Não podereis comer pão fermentado." ^v3
 
-**4** Hoje, no mês de Abibe, vós saís. ^v4
+**4** Vós saireis do Egito neste dia, no mês de Abibe. ^v4
 
-**5** E acontecerá que, quando o Senhor te houver introduzido na terra dos cananeus, e dos heteus, e dos amorreus, e dos heveus, e dos jebuseus, a qual jurou a teus pais que te daria, terra que mana leite e mel, guardarás este culto neste mês. ^v5
+**5** Quando Yahweh vos trouxer para a terra dos cananeus, heteus, amorreus, heveus e jebuseus, a terra que Ele jurou aos vossos ancestrais que vos daria, uma terra que mana leite e mel — então devereis observar este ato de adoração neste mês. ^v5
 
-**6** Sete dias comerás pães ázimos, e ao sétimo dia haverá festa ao Senhor. ^v6
+**6** Por sete dias, devereis comer pão sem fermento; ao sétimo dia, harevá uma festa em honra a Yahweh. ^v6
 
-**7** Sete dias se comerá pães ázimos, e o levedado não se verá contigo, nem ainda fermento será visto em todos os teus termos. ^v7
+**7** Pão sem fermento deverá ser consumido durante os sete dias; nenhum pão com fermento deverá ser visto entre vós. Nenhum fermento deverá ser encontrado entre vós, dentro de vossas fronteiras. ^v7
 
-**8** E naquele mesmo dia farás saber a teu filho, dizendo: Isto é pelo que o Senhor me tem feito, quando eu saí do Egito. ^v8
+**8** Naqueles dias, direis aos vossos filhos: 'Isto é pelo que Yahweh fez por mim quando saí do Egito'. ^v8
 
-**9** E te será por sinal sobre tua mão e por lembrança entre teus olhos, para que a lei do Senhor esteja em tua boca; porquanto com mão forte o Senhor te tirou do Egito. ^v9
+**9** Isso será como lembrete na vossa mão e como lembrete na vossa fronte. Por isso a lei de Yahweh deverá estar em vossa boca, pois, com forte mão, vos trouxe do Egito. ^v9
 
-**10** Portanto tu guardarás este estatuto a seu tempo, de ano em ano. ^v10
+**10** Portanto devereis guardar essas leis ano após ano. ^v10
 
-**11** Também acontecerá que, quando o Senhor te houver introduzido na terra dos cananeus, como jurou a ti e a teus pais, quando ta houver dado, ^v11
+**11** Quando Yahweh vos trouxer para terra dos cananitas, como Ele jurou a vós e a vossos ancestrais que iria fazer, e quando Ele vos der a terra, ^v11
 
-**12** Separarás para o Senhor tudo o que abrir a madre e todo o primogênito dos animais que tiveres; os machos serão do Senhor. ^v12
+**12** devereis separar para Ele todo primogênito, tanto dos homens quanto dos animais. Os machos serão para Yahweh. ^v12
 
-**13** Porém, todo o primogênito da jumenta resgatarás com um cordeiro; e se o não resgatares, cortar-lhe-ás a cabeça; mas todo o primogênito do homem, entre teus filhos, resgatarás. ^v13
+**13** Cada primogênito de jumento vós devereis comprar novamente com um cordeiro. Se não o comprardes novamente, então devereis lhe quebrar o pescoço. Porém, cada um dos vossos primogênitos machos entre todos os vossos filhos — devereis comprá-los novamente. ^v13
 
-**14** E quando teu filho te perguntar no futuro, dizendo: Que é isto? Dir-lhe-ás: O Senhor nos tirou com mão forte do Egito, da casa da servidão. ^v14
+**14** Quando vosso filho vos perguntar mais tarde, 'O que isso significa?' então lhe direis: 'Foi pela Sua forte mão que Yahweh nos tirou do Egito, da casa da escravidão. ^v14
 
-**15** Porque sucedeu que, endurecendo-se Faraó, para não nos deixar ir, o Senhor matou todos os primogênitos na terra do Egito, desde o primogênito do homem até o primogênito dos animais; por isso eu sacrifico ao Senhor todos os primogênitos, sendo machos; porém a todo o primogênito de meus filhos eu resgato. ^v15
+**15** Quando Faraó, obstinadamente, recusou-se a nos deixar sair, Yahweh matou todos os primogênitos na terra do Egito, tanto os primogênitos de pessoas e como os primogênitos dos animais. Por isso, eu sacrifico a Yahweh todo primogênito macho de todo animal, e por isso eu compro novamente os primogênitos entre meus filhos'. ^v15
 
-**16** E será isso por sinal sobre tua mão, e por frontais entre os teus olhos; porque o Senhor, com mão forte, nos tirou do Egito. ^v16
+**16** Isso será um lembrete em suas mãos, e um lembrete em sua testa, pois foi com forte mão que Yahweh nos tirou do Egito. ^v16
 
-**17** E aconteceu que, quando Faraó deixou ir o povo, Deus não os levou pelo caminho da terra dos filisteus, que estava mais perto; porque Deus disse: Para que porventura o povo não se arrependa, vendo a guerra, e volte ao Egito. ^v17
+**17** "Quando Faraó deixou o povo ir, Deus não os guiou pela terra dos filisteus, ainda que fosse o caminho mais próximo. Pois Deus disse: ""Talvez o povo mude de ideia quando vivenciar a guerra, e então retornará para o Egito""." ^v17
 
-**18** Mas Deus fez o povo rodear pelo caminho do deserto do Mar Vermelho; e armados, os filhos de Israel subiram da terra do Egito. ^v18
+**18** Então, Deus guiou o povo ao redor do deserto para o Mar Vermelho. Os israelitas subiram para fora do Egito armados para a batalha. ^v18
 
-**19** E Moisés levou consigo os ossos de José, porquanto havia este solenemente ajuramentado os filhos de Israel, dizendo: Certamente Deus vos visitará; fazei, pois, subir daqui os meus ossos convosco. ^v19
+**19** "Moisés levou os ossos de José consigo, pois José fez os israelitas jurarem solenemente e dizer: ""Deus certamente vos resgatará, e vós devereis levar meus ossos consvosco.""" ^v19
 
-**20** Assim partiram de Sucote, e acamparam-se em Etã, à entrada do deserto. ^v20
+**20** Os isrelitas viajaram de Sucote e acamparam em Etã, às margens do deserto. ^v20
 
-**21** E o Senhor ia adiante deles, de dia numa coluna de nuvem para os guiar pelo caminho, e de noite numa coluna de fogo para os iluminar, para que caminhassem de dia e de noite. ^v21
+**21** Yahweh ia diante deles durante o dia, em uma coluna de nuvem para guiá-los pelo caminho. Pela noite, Ele ia como coluna de fogo para dar a eles a luz. Assim, eles puderam viajar durante o dia e durante a noite. ^v21
 
-**22** Nunca tirou de diante do povo a coluna de nuvem, de dia, nem a coluna de fogo, de noite. ^v22
+**22** Yahweh não retirou de diante do povo a coluna de nuvem para o dia, nem a coluna de fogo para a noite. ^v22

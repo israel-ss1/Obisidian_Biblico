@@ -1,41 +1,40 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Ezequiel|Ezequiel]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Ezequiel|Ezequiel]]"
+tags: [biblia]
 ---
 
 # Ezequiel 25
 
-**1** E veio a mim a palavra do SENHOR, dizendo: ^v1
+**1** Então, a palavra de Yahweh veio a mim, dizendo: ^v1
 
-**2** Filho do homem, dirige o teu rosto contra os filhos de Amom, e profetiza contra eles. ^v2
+**2** """Filho do homem, vira teu rosto contra o povo de Amom e profetiza contra eles." ^v2
 
-**3** E dize aos filhos de Amom: Ouvi a palavra do Senhor DEUS: Assim diz o Senhor DEUS: Porquanto tu disseste: Ah! contra o meu santuário, quando foi profanado; e contra a terra de Israel, quando foi assolada; e contra a casa de Judá, quando foi ao cativeiro; ^v3
+**3** Dize ao povo de Amom: 'Amonitas, ouvi a palavra de Yahweh Deus. Isto é o que Yahweh Deus diz: Porque dissestes, 'Bem feito!' contra o Meu santuário, quando foi profanado, contra a terra de Israel quando foi desolada e contra a casa de Judá quando foi ao exílio; ^v3
 
-**4** Portanto, eis que te entregarei em possessão aos do oriente, e em ti estabelecerão os seus acampamentos, e porão em ti as suas moradas; eles comerão os teus frutos, e eles beberão o teu leite. ^v4
+**4** por isso, entregar-vos-ei como propriedade ao povo do oriente. Eles se estabelecerão em vossos acampamentos, morarão no meio de vós, comerão vossos frutos e beberão vosso leite. ^v4
 
-**5** E farei de Rabá uma estrebaria de camelos, e dos filhos de Amom um curral de ovelhas; e sabereis que eu sou o Senhor. ^v5
+**5** Farei de Rabá pasto para camelos e, dos amonitas, campos para rebanhos. Então, sabereis que Eu sou Yahweh. ^v5
 
-**6** Porque assim diz o Senhor DEUS: Porquanto bateste com as mãos, e pateaste com os pés, e com todo o desprezo do teu coração te alegraste contra a terra de Israel, ^v6
+**6** Assim declara Yahweh Deus: Tu bateste palmas, sapateaste os teus pés e alegraste de contentamento no teu íntimo contra a terra de Israel. ^v6
 
-**7** Portanto, eis que eu tenho estendido a minha mão sobre ti, e te darei por despojo aos gentios, e te arrancarei dentre os povos, e te destruirei dentre as terras, e acabarei de todo contigo; e saberás que eu sou o Senhor. ^v7
+**7** Por isso, eis que te derrubarei com Minha mão, Eu te darei por despojo às nações. Cortarei a ti dentre os povos e te farei perecer em meio dos países. Destruirei a ti e tu saberás que sou Yahweh'. ^v7
 
-**8** Assim diz o Senhor DEUS: Porquanto dizem Moabe e Seir: Eis que a casa de Judá é como todos os gentios; ^v8
+**8** Assim declara Yahweh Deus: 'Porque Moabe e Seir dizem: 'Eis que a casa de Judá é como qualquer outra nação'. ^v8
 
-**9** Portanto, eis que eu abrirei o lado de Moabe desde as cidades, desde as suas cidades da fronteira, a glória da terra, Bete-Jesimote, Baal-Meom, e Quiriataim. ^v9
+**9** Por isso, eis que abrirei a encosta de Moabe, começando nas fonteiras de suas cidades, desde a glória da terra de Bete-Jesimote, Baal-Meom e Quiriataim. ^v9
 
-**10** E aos do oriente, contra os filhos de Amom, o entregarei em possessão, para que não haja memória dos filhos de Amom entre as nações. ^v10
+**10** Ao povo do oriente que estava contra o povo de Amom, Eu vos darei como propriedade, de modo que os amonitas não serão lembrados entre as nações. ^v10
 
-**11** Também executarei juízos sobre Moabe, e saberão que eu sou o Senhor. ^v11
+**11** Então, Eu executarei juízos contra Moabe e saberão que Eu Sou Yahweh'. ^v11
 
-**12** Assim diz o Senhor DEUS: Porquanto Edom se houve vingativamente para com a casa de Judá, e se fez culpadíssimo, quando se vingou deles; ^v12
+**12** Assim declara Yahweh Deus: 'Edom se vingou da casa de Judá e cometeu erro fazendo isto. ^v12
 
-**13** Portanto assim diz o Senhor DEUS: Também estenderei a minha mão sobre Edom, e arrancarei dela homens e animais; e a tornarei em deserto, e desde Temã até Dedã cairão à espada. ^v13
+**13** Por isso, assim declara Yahweh Deus: Destruirei Edom com Minha mão e destruirei todas pessoas e animais de lá. Farei deles uma ruína, lugar abandonado, desde Temã até Dedã cairão pela espada. ^v13
 
-**14** E exercerei a minha vingança sobre Edom, pela mão do meu povo de Israel; e farão em Edom segundo a minha ira e segundo o meu furor; e conhecerão a minha vingança, diz o Senhor DEUS. ^v14
+**14** Exercerei a Minha vingança em Edom, pela mão do Meu povo Israel e eles farão com Edom de acordo com Minha ira e fúria; conhecerão a Minha vingança — assim declara Yahweh Deus'. ^v14
 
-**15** Assim diz o Senhor DEUS: Porquanto os filisteus se houveram vingativamente, e executaram vingança com desprezo de coração, para destruírem com perpétua inimizade, ^v15
+**15** Assim declara Yahweh Deus: 'Os filisteus tomaram vingança com despeito e, em seu íntimo, tentaram destruir Judá de novo e de novo. ^v15
 
-**16** Portanto assim diz o Senhor DEUS: Eis que eu estendo a minha mão sobre os filisteus, e arrancarei os quereteus, e destruirei o restante da costa do mar. ^v16
+**16** Então, isto é o que diz Yahweh Deus: Eis que estenderei a Minha mão contra os filisteus, eliminarei os quereteus e destruirei todo o restante deles que está no litoral. ^v16
 
-**17** E executarei sobre eles grandes vinganças, com furiosos castigos, e saberão que eu sou o Senhor, quando eu tiver exercido a minha vingança sobre eles. ^v17
+**17** "Porque tomarei grande vingança contra eles com fúria de destruição. Então, saberão que Eu Sou Yahweh, quando Me vingar deles'""." ^v17

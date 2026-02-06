@@ -1,101 +1,100 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Lucas|Lucas]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Lucas|Lucas]]"
+tags: [biblia]
 ---
 
 # Lucas 20
 
-**1** E aconteceu num daqueles dias que, estando ele ensinando o povo no templo, e anunciando o evangelho, sobrevieram os principais dos sacerdotes e os escribas com os anciãos, ^v1
+**1** Aconteceu que, certo dia, Jesus ensinava o povo no templo e pregava o evangelho; chegaram os chefes dos sacerdotes e os escribas, juntamente com os anciãos ^v1
 
-**2** E falaram-lhe, dizendo: Dize-nos, com que autoridade fazes estas coisas? Ou, quem é que te deu esta autoridade? ^v2
+**2** e Lhe perguntaram: “Dize-nos, com que autoridade Tu fazes estas coisas? E quem Te deu esta autoridade?”. ^v2
 
-**3** E, respondendo ele, disse-lhes: Também eu vos farei uma pergunta: Dizei-me pois: ^v3
+**3** "Ele lhes respondeu: ""Eu também vos farei uma pergunta: Dizei-Me" ^v3
 
-**4** O batismo de João era do céu ou dos homens? ^v4
+**4** "o batismo de João era do céu ou dos homens?""." ^v4
 
-**5** E eles arrazoavam entre si, dizendo: Se dissermos: Do céu, ele nos dirá: Então por que o não crestes? ^v5
+**5** "Eles discutiam entre si, dizendo: ""Se respondermos: 'do céu,' Ele dirá: 'por que vós não crestes nele?'" ^v5
 
-**6** E se dissermos: Dos homens; todo o povo nos apedrejará, pois têm por certo que João era profeta. ^v6
+**6** "Mas se dissermos: 'dos homens,' todo o povo nos apedrejará, pois está convencido de que João Batista era profeta""." ^v6
 
-**7** E responderam que não sabiam de onde era. ^v7
+**7** Então eles responderam que não sabiam de onde era. ^v7
 
-**8** E Jesus lhes disse: Tampouco vos direi com que autoridade faço isto. ^v8
+**8** "E Jesus lhes disse: ""Nem eu vos direi com que autoridade faço estas coisas""." ^v8
 
-**9** E começou a dizer ao povo esta parábola: Certo homem plantou uma vinha, e arrendou-a a uns lavradores, e partiu para fora da terra por muito tempo; ^v9
+**9** Jesus começou a contar ao povo esta parábola: “certo homem plantou uma vinha, arrendou-a a uns vinicultores e ausentou-se do país por muito tempo. ^v9
 
-**10** E no tempo próprio mandou um servo aos lavradores, para que lhe dessem dos frutos da vinha; mas os lavradores, espancando-o, mandaram-no vazio. ^v10
+**10** No devido tempo, ele enviou um servo aos vinicultores, para que lhe dessem do fruto da vinha. Mas eles o espancaram e o mandaram de volta de mãos vazias. ^v10
 
-**11** E tornou ainda a mandar outro servo; mas eles, espancando também a este, e afrontando-o, mandaram-no vazio. ^v11
+**11** Então enviou outro servo e a esse também espancaram, humilharam e o mandaram de volta de mãos vazias. ^v11
 
-**12** E tornou ainda a mandar um terceiro; mas eles, ferindo também a este, o expulsaram. ^v12
+**12** Ele ainda enviou um terceiro, mas eles também o machucaram e o expulsaram. ^v12
 
-**13** E disse o senhor da vinha: Que farei? Mandarei o meu filho amado; talvez que, vendo, o respeitem. ^v13
+**13** Então o dono da vinha disse: 'Que farei? Enviarei meu filho amado. Talvez a ele respeitarão'. ^v13
 
-**14** Mas, vendo-o os lavradores, arrazoaram entre si, dizendo: Este é o herdeiro; vinde, matemo-lo, para que a herança seja nossa. ^v14
+**14** Mas quando os vinicultores o viram, discutiram entre si, dizendo: 'Este é o herdeiro. Vamos matá-lo, para que a herança seja nossa'. ^v14
 
-**15** E, lançando-o fora da vinha, o mataram. Que lhes fará, pois, o senhor da vinha? ^v15
+**15** Eles o expulsaram da vinha e o mataram. Que lhes fará, então, o dono da vinha? ^v15
 
-**16** Irá, e destruirá estes lavradores, e dará a outros a vinha. E, ouvindo eles isto, disseram: Não seja assim! ^v16
+**16** "Ele virá e destruirá esses vinicultores e dará a vinha a outros”. Quando ouviram isso, disseram: ""Que isso não aconteça!""" ^v16
 
-**17** Mas ele, olhando para eles, disse: Que é isto, pois, que está escrito? A pedra, que os edificadores reprovaram, Essa foi feita cabeça da esquina. ^v17
+**17** Mas Jesus fitando-os, disse: “O que quer dizer isto que está escrito: 'A pedra que os construtores rejeitaram tornou-se a pedra angular'? ^v17
 
-**18** Qualquer que cair sobre aquela pedra ficará em pedaços, e aquele sobre quem ela cair será feito em pó. ^v18
+**18** Todo aquele que cair sobre esta pedra ficará em pedaços; aquele sobre quem ela cair será reduzido a pó”. ^v18
 
-**19** E os principais dos sacerdotes e os escribas procuravam lançar mão dele naquela mesma hora; mas temeram o povo; porque entenderam que contra eles dissera esta parábola. ^v19
+**19** Naquela mesma hora, os escribas e os principais sacerdotes procuravam uma maneira de prendê-Lo, pois perceberam que a parábola que Ele havia contado era contra eles. Mas temiam o povo. ^v19
 
-**20** E, observando-o, mandaram espias, que se fingissem justos, para o apanharem nalguma palavra, e o entregarem à jurisdição e poder do presidente. ^v20
+**20** E observando-O cuidadosamente, enviaram espiões, que se fingiam de justos, para ver se o apanhavam em alguma de Suas palavras, e assim entregá-Lo à jurisdição e à autoridade do governador. ^v20
 
-**21** E perguntaram-lhe, dizendo: Mestre, nós sabemos que falas e ensinas bem e retamente, e que não consideras a aparência da pessoa, mas ensinas com verdade o caminho de Deus. ^v21
+**21** Então eles O interrogaram, dizendo: “Mestre, sabemos que falas e ensinas corretamente, e não És influenciado pela aparência da pessoa, mas ensinas o caminho de Deus segundo a verdade. ^v21
 
-**22** É-nos lícito dar tributo a César ou não? ^v22
+**22** "Nos é lícito pagar impostos a César ou não?""" ^v22
 
-**23** E, entendendo ele a sua astúcia, disse-lhes: Por que me tentais? ^v23
+**23** Mas Jesus compreendeu a astúcia deles e disse: ^v23
 
-**24** Mostrai-me uma moeda. De quem tem a imagem e a inscrição? E, respondendo eles, disseram: De César. ^v24
+**24** """Mostrai-me um denário. De quem é esta imagem e inscrição nele?” E eles responderam: ""De César""." ^v24
 
-**25** Disse-lhes então: Dai, pois, a César o que é de César, e a Deus o que é de Deus. ^v25
+**25** Disse-lhes Jesus: “Então dai a César o que é de César e a Deus o que é de Deus”. ^v25
 
-**26** E não puderam apanhá-lo em palavra alguma diante do povo; e, maravilhados da sua resposta, calaram-se. ^v26
+**26** E não puderam apanhá-Lo em palavra alguma diante do povo, mas admirados com Sua resposta, calaram-se. ^v26
 
-**27** E, chegando-se alguns dos saduceus, que dizem não haver ressurreição, perguntaram-lhe, ^v27
+**27** Aproximando-se alguns dos saduceus, que dizem que não há ressurreição, ^v27
 
-**28** Dizendo: Mestre, Moisés nos deixou escrito que, se o irmão de algum falecer, tendo mulher, e não deixar filhos, o irmão dele tome a mulher, e suscite posteridade a seu irmão. ^v28
+**28** perguntaram-Lhe dizendo: “Mestre, Moisés nos deixou escrito que, se o irmão de alguém morrer, sendo casado e não tendo filhos, ele deve tomar por esposa a viúva e suscitar descendência ao seu irmão. ^v28
 
-**29** Houve, pois, sete irmãos, e o primeiro tomou mulher, e morreu sem filhos; ^v29
+**29** Havia sete irmãos. O primeiro casou-se e morreu sem filhos; ^v29
 
-**30** E tomou-a o segundo por mulher, e ele morreu sem filhos. ^v30
+**30** o segundo também ^v30
 
-**31** E tomou-a o terceiro, e igualmente também os sete; e morreram, e nào deixaram filhos. ^v31
+**31** e depois o terceiro se casou com a viúva, e todos os sete, e também não deixaram filhos, e morreram. ^v31
 
-**32** E por último, depois de todos, morreu também a mulher. ^v32
+**32** Por fim, a mulher também morreu. ^v32
 
-**33** Portanto, na ressurreição, de qual deles será a mulher, pois que os sete por mulher a tiveram? ^v33
+**33** Então, na ressurreição, de qual deles ela será esposa? Pois todos os sete a tiveram por esposa”. ^v33
 
-**34** E, respondendo Jesus, disse-lhes: Os filhos deste mundo casam-se, e dão-se em casamento; ^v34
+**34** E disse-lhes Jesus: “Os filhos deste mundo se casam e se dão em casamento. ^v34
 
-**35** Mas os que forem havidos por dignos de alcançar o mundo vindouro, e a ressurreição dentre os mortos, nem hão de casar, nem ser dados em casamento; ^v35
+**35** Mas os que são julgados dignos de alcançar aquela era e obter a ressurreição dentre os mortos não se casarão e nem se darão em casamento. ^v35
 
-**36** Porque já não podem mais morrer; pois são iguais aos anjos, e são filhos de Deus, sendo filhos da ressurreição. ^v36
+**36** Eles nem podem morrer mais, pois são iguais aos anjos e são filhos de Deus, sendo filhos da ressurreição. ^v36
 
-**37** E que os mortos hão de ressuscitar também o mostrou Moisés junto da sarça, quando chama ao Senhor Deus de Abraão, e Deus de Isaque, e Deus de Jacó. ^v37
+**37** Pois os mortos ressuscitarão, como também Moisés revelou no local da sarça ardente, onde ele chama o Senhor Deus de Abraão, o Deus de Isaque e o Deus de Jacó. ^v37
 
-**38** Ora, Deus não é Deus de mortos, mas de vivos; porque para ele vivem todos. ^v38
+**38** Deus não é Deus de mortos, mas de vivos, pois para Ele todos vivem”. ^v38
 
-**39** E, respondendo alguns dos escribas, disseram: Mestre, disseste bem. ^v39
+**39** Alguns dos escribas disseram: “Mestre, respondeste bem”. ^v39
 
-**40** E não ousavam perguntar-lhe mais coisa alguma. ^v40
+**40** Já não ousavam fazer-Lhe mais perguntas. ^v40
 
-**41** E ele lhes disse: Como dizem que o Cristo é filho de Davi? ^v41
+**41** Mas perguntou-lhes Jesus: “Como podem dizer que o Cristo é filho de Davi? ^v41
 
-**42** Visto como o mesmo Davi diz no livro dos Salmos: Disse o SENHOR ao meu Senhor: Assenta-te à minha direita, ^v42
+**42** Pois o próprio Davi diz no livro de Salmos: 'O Senhor disse ao meu Senhor: Assenta-te à minha direita, ^v42
 
-**43** Até que eu ponha os teus inimigos por escabelo de teus pés. ^v43
+**43** até que eu ponha teus inimigos por estrado dos teus pés'. ^v43
 
-**44** Se Davi lhe chama Senhor, como é ele seu filho? ^v44
+**44** Se Davi chama Cristo de 'Senhor', como é que Ele pode ser seu filho?”. ^v44
 
-**45** E, ouvindo-o todo o povo, disse Jesus aos seus discípulos: ^v45
+**45** E como todo o povo o ouvia, Ele disse aos Seus discípulos: ^v45
 
-**46** Guardai-vos dos escribas, que querem andar com vestes compridas; e amam as saudações nas praças, e as principais cadeiras nas sinagogas, e os primeiros lugares nos banquetes; ^v46
+**46** “Cuidado com os escribas, que gostam de andar com túnicas, amam as saudações nas praças, os principais assentos nas sinagogas e os primeiros lugares nos banquetes, ^v46
 
-**47** Que devoram as casas das viúvas, fazendo, por pretexto, largas orações. Estes receberão maior condenação. ^v47
+**47** "que devoram as casas das viúvas, com pretexto de longas orações. Esses receberão uma condenação mais severa""." ^v47

@@ -1,23 +1,20 @@
 ---
-Livro: "[[Salmos|Salmos]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Salmos|Salmos]]"
+tags: [biblia]
 ---
 
 # Salmos 138
 
-**1** Eu te louvarei, de todo o meu coração; na presença dos deuses a ti cantarei louvores. ^v1
+**2** Eu me prostrarei em direção ao Teu santo templo e darei graças ao Teu nome, por causa do Teu amor leal e da Tua verdade, pois magnificaste, acima de tudo, a Tua palavra e o Teu nome. ^v2
 
-**2** Inclinar-me-ei para o teu santo templo, e louvarei o teu nome pela tua benignidade, e pela tua verdade; pois engrandeceste a tua palavra acima de todo o teu nome. ^v2
+**3** No dia em que eu clamei a Ti, Tu me respondeste; Tu me encorajaste e fortificaste a minha alma. ^v3
 
-**3** No dia em que eu clamei, me escutaste; e alentaste com força a minha alma. ^v3
+**4** Todos os reis da terra darão graças a Ti, Yahweh, porque eles ouvirão as palavras da Tua boca. ^v4
 
-**4** Todos os reis da terra te louvarão, ó Senhor, quando ouvirem as palavras da tua boca; ^v4
+**5** De fato, eles celebrarão os caminhos de Yahweh, porque grande é a glória de Yahweh. ^v5
 
-**5** E cantarão os caminhos do Senhor; pois grande é a glória do Senhor. ^v5
+**6** Yahweh é supremo e, ainda assim, preocupa-Se com o humilde; mas o soberbo, Ele o conhece de longe. ^v6
 
-**6** Ainda que o Senhor é excelso, atenta todavia para o humilde; mas ao soberbo conhece-o de longe. ^v6
+**7** Ainda que eu ande no meio ao perigo, Tu preservarás a minha vida; Tu estendes a Tua mão contra a raiva dos meus inimigos, e a Tua mão direita me salvará. ^v7
 
-**7** Andando eu no meio da angústia, tu me reviverás; estenderás a tua mão contra a ira dos meus inimigos, e a tua destra me salvará. ^v7
-
-**8** O Senhor aperfeiçoará o que me toca; a tua benignidade, ó Senhor, dura para sempre; não desampares as obras das tuas mãos. ^v8
+**8** Yahweh estará comigo até o fim; Teu amor leal, Yahweh, dura para sempre. Não abandones o que as Tuas mãos fizeram. ^v8

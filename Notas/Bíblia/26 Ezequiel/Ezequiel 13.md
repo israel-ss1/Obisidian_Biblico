@@ -1,53 +1,52 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Ezequiel|Ezequiel]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Ezequiel|Ezequiel]]"
+tags: [biblia]
 ---
 
 # Ezequiel 13
 
-**1** E veio a mim a palavra do SENHOR, dizendo: ^v1
+**1** Outra vez, a palavra de Yahweh veio a mim, dizendo: ^v1
 
-**2** Filho do homem, profetiza contra os profetas de Israel que profetizam, e dize aos que só profetizam de seu coração: Ouvi a palavra do Senhor; ^v2
+**2** """Filho do homem, profetiza contra os profetas que estão profetizando em Israel e dize-lhes que estão profetizando a partir das suas próprias imaginações. 'Ouvi a palavra de Yahweh." ^v2
 
-**3** Assim diz o Senhor DEUS: Ai dos profetas loucos, que seguem o seu próprio espírito e que nada viram! ^v3
+**3** Yahweh Deus diz isto: Ai dos falsos profetas que segue seu próprio espírito, mas não veem nada! ^v3
 
-**4** Os teus profetas, ó Israel, são como raposas nos desertos. ^v4
+**4** Ó, Israel, os seus profetas têm sido como raposas numa terra inóspita. ^v4
 
-**5** Não subistes às brechas, nem reparastes o muro para a casa de Israel, para estardes firmes na peleja no dia do Senhor. ^v5
+**5** Tu não subiste às brechas do muro ao redor da casa de Israel para repará-la, para que ela resista à batalha no dia de Yahweh. ^v5
 
-**6** Viram vaidade e adivinhação mentirosa os que dizem: O Senhor disse; quando o Senhor não os enviou; e fazem que se espere o cumprimento da palavra. ^v6
+**6** O povo tem falsas visões e faz falsas previsões; e aqueles que dizem: 'Esta é a declaração de Yahweh'. Yahweh não os enviou; eles, todavia, têm trazido mensagens mentirosas ao povo. ^v6
 
-**7** Porventura não tivestes visão de vaidade, e não falastes adivinhação mentirosa, quando dissestes: O Senhor diz, sendo que eu tal não falei? ^v7
+**7** Acaso não tivestes falsas visões e falsas previsões, quando dissestes: 'Tal é a declaração de Yahweh', quando Eu não falei isso?'. ^v7
 
-**8** Portanto assim diz o Senhor DEUS: Como tendes falado vaidade, e visto a mentira, portanto eis que eu sou contra vós, diz o Senhor DEUS. ^v8
+**8** Portanto, assim diz Yahweh Deus: 'Porque tendes tido falsas visões e tendes mentido, esta é a declaração de Yahweh Deus contra vós: ^v8
 
-**9** E a minha mão será contra os profetas que vêem vaidade e que adivinham mentira; não estarão na congregação do meu povo, nem nos registros da casa de Israel se escreverão, nem entrarão na terra de Israel; e sabereis que eu sou o Senhor DEUS. ^v9
+**9** Minha mão será contra os profetas com visões falsas e aqueles com falsas previsões. Eles não estarão na assembleia do Meu povo ou inscritos no registro da casa de Israel; não irão para terra de Israel. Pois sabereis que Eu sou Yahweh Deus! ^v9
 
-**10** Porquanto, sim, porquanto andam enganando o meu povo, dizendo: Paz, não havendo paz; e quando um edifica uma parede, eis que outros a cobrem com argamassa não temperada; ^v10
+**10** Por isso, porque eles levam Meu povo a se desviar, dizendo: 'Paz!' quando não há paz, eles constroem uma parede e a rebocam com cal'. ^v10
 
-**11** Dize aos que a cobrem com argamassa não temperada que ela cairá. Haverá uma grande pancada de chuva, e vós, ó pedras grandes de saraiva, caireis, e um vento tempestuoso a fenderá. ^v11
+**11** Dize àqueles que estão rebocando a parede com cal: 'Esta vai cair; virá uma pancada de chuva e enviarei granizo para derrubá-la e um vento tempestuoso a rachará. ^v11
 
-**12** Ora, eis que, caindo a parede, não vos dirão: Onde está a argamassa com que a cobristes? ^v12
+**12** Vede, o muro vai cair. Os outros não vos disseram: 'Onde está o cal que foi colocado nele?'. ^v12
 
-**13** Portanto assim diz o Senhor DEUS: Fendê-la-ei no meu furor com vento tempestuoso, e chuva de inundar haverá na minha ira, e grandes pedras de saraiva na minha indignação, para a consumir. ^v13
+**13** Portanto, assim diz Yahweh Deus: Trarei uma tempestade em Meu furor, e, na Minha ira, haverá inundação de chuva! No Meu furor, a chuva de granizo o destruirá completamente. ^v13
 
-**14** E derrubarei a parede que cobristes com argamassa não temperada, e darei com ela por terra, e o seu fundamento se descobrirá; assim cairá, e perecereis no meio dela, e sabereis que eu sou o Senhor. ^v14
+**14** Eu derrubarei a parede coberta com cal e a demolirei, para que seja descoberta a sua fundação. Assim, cairá e vós perecereis no meio dela. E sabereis que Eu sou Yahweh. ^v14
 
-**15** Assim cumprirei o meu furor contra a parede, e contra os que a cobriram com argamassa não temperada; e vos direi: Já não há parede, nem existem os que a cobriram; ^v15
+**15** Assim, cumprirei o Meu furor contra a parede e contra aqueles que colocaram cal nela. Eu direi a vós: 'A parede não existe mais e nem o povo que a cobriu com cal, ^v15
 
-**16** Os profetas de Israel, que profetizam acerca de Jerusalém, e vêem para ela visão de paz, não havendo paz, diz o Senhor DEUS. ^v16
+**16** "os profetas de Israel que profetizaram acerca de Jerusalém e que tiveram visões de paz para ela. Mas não há paz! — esta é a declaração de Yahweh Deus""." ^v16
 
-**17** E tu, ó filho do homem, dirige o teu rosto contra as filhas do teu povo, que profetizam de seu coração, e profetiza contra elas, ^v17
+**17** Então, tu, filho do homem, põe o teu rosto contra as filhas do teu povo, que profetizam de seu próprio entendimento, e profetiza contra elas. ^v17
 
-**18** E dize: Assim diz o Senhor DEUS: Ai das que cosem almofadas para todas as axilas, e que fazem véus para as cabeças de pessoas de toda a estatura, para caçarem as almas! Porventura caçareis as almas do meu povo, e as almas guardareis em vida para vós? ^v18
+**18** E dize: 'Assim diz Yahweh Deus: Ai das mulheres que costuram pulseiras mágicas para todas as juntas das mãos e que fazem véus da medida de suas cabeças, usadas para caçarem o povo. Caçarás o Meu povo, mas salvarás as tuas próprias vidas? ^v18
 
-**19** E vós me profanastes entre o meu povo, por punhados de cevada, e por pedaços de pão, para matardes as almas que não haviam de morrer, e para guardardes em vida as almas que não haviam de viver, mentindo assim ao meu povo que escuta a mentira? ^v19
+**19** Vós Me profanastes no meio do Meu povo por punhados de cevada e migalhas de pão, para matar o povo que não deveria morrer e para manter vivos os que não deveriam viver, por causa das vossas mentiras para o Meu povo que vos escutava. ^v19
 
-**20** Portanto assim diz o Senhor DEUS: Eis aí vou eu contra as vossas almofadas, com que vós ali caçais as almas fazendo-as voar, e as arrancarei de vossos braços, e soltarei as almas, sim, as almas que vós caçais fazendo-as voar. ^v20
+**20** Portanto, assim diz Yahweh Deus: Estou contra as vossas pulseiras mágicas que são usadas para caçar vidas, como se fossem pássaros. Certamente, Eu as rasgarei de vossos braços; e o povo, a quem caçastes como pássaros, Eu os livrarei. ^v20
 
-**21** E rasgarei os vossos véus, e livrarei o meu povo das vossas mãos, e nunca mais estará em vossas mãos para ser caçado; e sabereis que eu sou o Senhor. ^v21
+**21** Eu também rasgarei vossos véus e salvarei Meu povo das vossas mãos; e eles nunca mais serão presas em vossas mãos. E vós sabereis que Eu sou Yahweh. ^v21
 
-**22** Visto que entristecestes o coração do justo com falsidade, não o havendo eu entristecido; e fortalecestes as mãos do ímpio, para que não se desviasse do seu mau caminho, para conservá-lo em vida. ^v22
+**22** Visto que entristecestes o coração das pessoas justas com mentiras, mesmo Eu não desejando isso, e fortalecestes os perversos para não deixarem o seu caminho e salvarem sua vida — ^v22
 
-**23** Portanto não vereis mais vaidade, nem mais fareis adivinhações; mas livrarei o meu povo da vossa mão, e sabereis que eu sou o Senhor. ^v23
+**23** "portanto, não tereis mais visões falsas nem continuareis a fazer previsões, pois Eu resgatarei o Meu povo das vossas mãos. E sabereis que Eu sou Yahweh'""." ^v23

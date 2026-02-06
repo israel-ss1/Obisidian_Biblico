@@ -1,35 +1,34 @@
 ---
-Livro: "[[Salmos|Salmos]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Salmos|Salmos]]"
+tags: [biblia]
 ---
 
 # Salmos 148
 
-**1** Louvai ao SENHOR. Louvai ao SENHOR desde os céus, louvai-o nas alturas. ^v1
+**1** Aleluia! Louvai a Yahweh do alto dos céus; louvai-O nas alturas. ^v1
 
-**2** Louvai-o, todos os seus anjos; louvai-o, todos os seus exércitos. ^v2
+**2** Louvai-O, todos os Seus anjos, louvai-O, todos os Seus exércitos. ^v2
 
-**3** Louvai-o, sol e lua; louvai-o, todas as estrelas luzentes. ^v3
+**3** Louvai-O, sol e lua; louvai-O, todas as estrelas reluzentes. ^v3
 
-**4** Louvai-o, céus dos céus, e as águas que estão sobre os céus. ^v4
+**4** Louvai-O, altos céus; e vós, águas que estão acima dos céus. ^v4
 
-**5** Louvem o nome do Senhor, pois mandou, e logo foram criados. ^v5
+**5** Louvai o nome de Yahweh, pois Ele ordenou, e foram criados. ^v5
 
-**6** E os confirmou eternamente para sempre, e lhes deu um decreto que não ultrapassarão. ^v6
+**6** Ele também os estabeleceu para todo o sempre; Ele estabeleceu um decreto que nunca mudará. ^v6
 
-**7** Louvai ao Senhor desde a terra: vós, baleias, e todos os abismos; ^v7
+**7** Louvai a Yahweh, toda a terra, monstros marinhos e todas as profundezas do oceano, ^v7
 
-**8** Fogo e saraiva, neve e vapores, e vento tempestuoso que executa a sua palavra; ^v8
+**8** fogo e granizo, neve e nuvens, ventos tempestuosos que obedecem à Sua palavra, ^v8
 
-**9** Montes e todos os outeiros, árvores frutíferas e todos os cedros; ^v9
+**9** montanhas e todas as colinas, árvores frutíferas e todos os cedros, ^v9
 
-**10** As feras e todos os gados, répteis e aves voadoras; ^v10
+**10** animais selvagens e domésticos, criaturas que rastejam e pássaros, ^v10
 
-**11** Reis da terra e todos os povos, príncipes e todos os juízes da terra; ^v11
+**11** reis da terra e todas as nações, príncipes e todos os que governam sobre a terra, ^v11
 
-**12** Moços e moças, velhos e crianças. ^v12
+**12** moços e moças, anciãos e crianças. ^v12
 
-**13** Louvem o nome do Senhor, pois só o seu nome é exaltado; a sua glória está sobre a terra e o céu. ^v13
+**13** Todos vós, louvai o nome de Yahweh, pois somente o Seu nome é exaltado e a Sua glória se estende sobre a terra e os céus. ^v13
 
-**14** Ele também exalta o poder do seu povo, o louvor de todos os seus santos, dos filhos de Israel, um povo que lhe é chegado. Louvai ao Senhor. ^v14
+**14** Ele reforça o vigor do Seu povo, para o louvor dos Seus santos, os israelitas, povo que Lhe é íntimo. Louvai a Yahweh! ^v14

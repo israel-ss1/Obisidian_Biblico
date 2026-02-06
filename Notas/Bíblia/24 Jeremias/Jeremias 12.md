@@ -1,41 +1,40 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Jeremias|Jeremias]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Jeremias|Jeremias]]"
+tags: [biblia]
 ---
 
 # Jeremias 12
 
-**1** Justo serias, ó SENHOR, ainda que eu entrasse contigo num pleito; contudo falarei contigo dos teus juízos. Por que prospera o caminho dos ímpios, e vivem em paz todos os que procedem aleivosamente? ^v1
+**1** Tu és justo, Yahweh, sempre que eu trago contendas a Ti. Devo, certamente, contar a Ti minha razão de reclamar: Por que o caminho dos pecadores tem sucesso? Todas as pessoas sem fé são bem sucedidas. ^v1
 
-**2** Plantaste-os, e eles se arraigaram; crescem, dão também fruto; chegado estás à sua boca, porém longe dos seus rins. ^v2
+**2** Tu os plantaste e eles criaram raízes. Eles continuam a produzir frutos. Tu estás perto da boca deles, mas bem longe de seus corações. ^v2
 
-**3** Mas tu, ó Senhor, me conheces, tu me vês, e provas o meu coração para contigo; arranca-os como as ovelhas para o matadouro, e dedica-os para o dia da matança. ^v3
+**3** No entanto, Tu me conheces, Yahweh. Tu tens me visto e examinaste o meu coração para Contigo. Leva-os embora como ovelhas para o abate, e os separa para o dia do abate! ^v3
 
-**4** Até quando lamentará a terra, e se secará a erva de todo o campo? Pela maldade dos que habitam nela, perecem os animais e as aves; porquanto dizem: Ele não verá o nosso fim. ^v4
+**4** "Por quanto tempo a terra continuará secando e as plantas de todos os campos murchando? Por causa da maldade de seus habitantes, animais selvagens e pássaros desapareceram. De fato, as pessoas falam: ""Deus não sabe o que irá acontecer conosco""." ^v4
 
-**5** Se te fatigas correndo com homens que vão a pé, como poderás competir com os cavalos? Se tão-somente numa terra de paz estás confiado, como farás na enchente do Jordão? ^v5
+**5** "Yahweh disse: ""De fato, se tu, Jeremias, te cansaste correndo com os homens, como poderás competir com os cavalos? Se tu caíste no campo seguro, como farás na floresta ao longo do Jordão?" ^v5
 
-**6** Porque até os teus irmãos, e a casa de teu pai, eles próprios procedem deslealmente contigo; eles mesmos clamam após ti em altas vozes: Não te fies neles, ainda que te digam coisas boas. ^v6
+**6** Porque até teus irmãos e a família do teu pai têm te traído e te denunciado em voz alta. Não confies neles, mesmo que te digam coisas boas. ^v6
 
-**7** Desamparei a minha casa, abandonei a minha herança; entreguei a amada da minha alma na mão de seus inimigos. ^v7
+**7** Eu abandonei a Minha casa; eu rejeitei a Minha herança. Eu dei Meu próprio povo amado nas mãos dos seus inimigos. ^v7
 
-**8** Tornou-se a minha herança para mim como leão numa floresta; levantou a sua voz contra mim, por isso eu a odiei. ^v8
+**8** Minha herança se tornou para Mim como leão na floresta; ela levantou sua voz contra Mim, então, Eu a odeio. ^v8
 
-**9** A minha herança é para mim ave de rapina de várias cores. Andam as aves de rapina contra ela em redor. Vinde, pois, ajuntai todos os animais do campo, trazei-os para a devorarem. ^v9
+**9** Não se tornou o Meu bem precioso como uma ave de rapina colorida, atrás da qual outras aves, abutres, perseguem por toda parte? Vai e traze todos os animais selvagens para devorá-la. ^v9
 
-**10** Muitos pastores destruíram a minha vinha, pisaram o meu campo; tornaram em desolado deserto o meu campo desejado. ^v10
+**10** Muitos pastores têm destruído Meu vinhedo. Eles têm destruído Minha porção de terra; eles tornaram Minha agradável porção em um deserto, uma desolação. ^v10
 
-**11** Em desolação a puseram, e clama a mim na sua desolação; e toda a terra está desolada, porquanto não há ninguém que tome isso a sério. ^v11
+**11** Eles fizeram dela uma desolação. Eu lamento por ela, pois está devastada. Toda a terra se tornou desolada, pois não há quem se importe. ^v11
 
-**12** Sobre todos os lugares altos do deserto vieram destruidores; porque a espada do Senhor devora desde um extremo da terra até o outro; não há paz para nenhuma carne. ^v12
+**12** Destruidores vieram contra todos os lugares do deserto, porque a espada de Yahweh devora de uma ponta à outra da terra. Não há nenhuma segurança na terra para qualquer criatura viva. ^v12
 
-**13** Semearam trigo, e segaram espinhos; cansaram-se, mas de nada se aproveitaram; envergonhados sereis das vossas colheitas, e por causa do ardor da ira do Senhor. ^v13
+**13** "Eles semearam trigo, mas colheram arbustos espinhosos. Eles estão cansados de trabalhar e não ganhar nada. Então, humilhados sejam vossos ganhos, por causa da ira de Yahweh""." ^v13
 
-**14** Assim diz o Senhor, acerca de todos os meus maus vizinhos, que tocam a minha herança, que fiz herdar ao meu povo Israel: Eis que os arrancarei da sua terra, e a casa de Judá arrancarei do meio deles. ^v14
+**14** "Yahweh diz isso contra todos os Meus vizinhos, os iníquos que atacam a posse que Eu fiz Meu povo Israel herdar: ""Vede, Eu sou aquele que vos arranca da própria terra, e irá arrancar a casa de Judá dentre eles." ^v14
 
-**15** E será que, depois de os haver arrancado, tornarei, e me compadecerei deles, e os farei voltar cada um à sua herança, e cada um à sua terra. ^v15
+**15** Então, depois de arrancar aquelas nações, irá acontecer que Eu terei compaixão deles e irei trazê-los de volta, cada um à sua herança e à sua terra. ^v15
 
-**16** E será que, se diligentemente aprenderem os caminhos do meu povo, jurando pelo meu nome: Vive o Senhor, como ensinaram o meu povo a jurar por Baal; então edificar-se-ão no meio do meu povo. ^v16
+**16** Acontecerá que, se essas nações, cuidadosamente, aprenderem o caminho do Meu povo, para jurar sobre Meu nome: 'Yahweh vive', assim como eles têm ensinado o Meu povo a jurar por Baal, então, serão estabelecidos no meio do Meu povo. ^v16
 
-**17** Mas se não quiserem ouvir, totalmente arrancarei a tal nação, e a farei perecer, diz o Senhor. ^v17
+**17** "Mas se alguém não ouvir, irei arrancar aquela nação. Certamente, será arrancada e destruída"" — essa é a declaração de Yahweh." ^v17

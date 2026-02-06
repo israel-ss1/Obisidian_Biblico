@@ -1,21 +1,18 @@
 ---
-Livro: "[[Salmos|Salmos]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Salmos|Salmos]]"
+tags: [biblia]
 ---
 
 # Salmos 11
 
-**1** No SENHOR confio; como dizeis à minha alma: Fugi para a vossa montanha como pássaro? ^v1
+**2** Vede! Os corruptos preparam seus arcos. Eles colocam suas flechas nas cordas para, da escuridão, atirarem nos retos de coração. ^v2
 
-**2** Pois eis que os ímpios armam o arco, põem as flechas na corda, para com elas atirarem, às escuras, aos retos de coração. ^v2
+**3** Pois, se os alicerces estiverem destruídos, o que pode o justo fazer? ^v3
 
-**3** Se forem destruídos os fundamentos, que poderá fazer o justo? ^v3
+**4** Yahweh está em Seu santo templo. O trono de Yahweh está nos céus. Seus olhos veem, Seus olhos examinam os filhos dos homens. ^v4
 
-**4** O Senhor está no seu santo templo, o trono do Senhor está nos céus; os seus olhos estão atentos, e as suas pálpebras provam os filhos dos homens. ^v4
+**5** Yahweh examina ambos, os justos e os maus, porém odeia aqueles que amam praticar a violência. ^v5
 
-**5** O Senhor prova o justo; porém ao ímpio e ao que ama a violência odeia a sua alma. ^v5
+**6** Sobre os ímpios, Ele fará chover brasas vivas e enxofre; um vento escaldante será para eles a porção do Seu cálice! ^v6
 
-**6** Sobre os ímpios fará chover laços, fogo, enxofre e vento tempestuoso; isto será a porção do seu copo. ^v6
-
-**7** Porque o Senhor é justo, e ama a justiça; o seu rosto olha para os retos. ^v7
+**7** Porque Yahweh é justo e ama a justiça; os justos verão a Sua face. ^v7

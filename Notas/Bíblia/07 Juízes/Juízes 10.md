@@ -1,43 +1,42 @@
 ---
-Livro: "[[Juízes|Juízes]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Juízes|Juízes]]"
+tags: [biblia]
 ---
 
 # Juízes 10
 
-**1** E depois de Abimeleque, se levantou, para livrar a Israel, Tola, filho de Puá, filho de Dodo, homem de Issacar; e habitava em Samir, na montanha de Efraim. ^v1
+**1** Após Abimeleque, Tolá, filho de Puá, filho de Dodô, um homem de Issacar, que habitava em Samir, na região montanhosa de Efraim, levantou-se para libertar Israel. ^v1
 
-**2** E julgou a Israel vinte e três anos; e morreu, e foi sepultado em Samir. ^v2
+**2** Julgou Israel durante vinte e três anos, morreu e foi sepultado em Samir. ^v2
 
-**3** E depois dele se levantou Jair, gileadita, e julgou a Israel vinte e dois anos. ^v3
+**3** Ele foi sucedido por Jair, o gileadita, que julgou Israel durante vinte e dois anos. ^v3
 
-**4** E tinha este trinta filhos, que cavalgavam sobre trinta jumentos; e tinham trinta cidades, a que chamaram Havote-Jair, até ao dia de hoje; as quais estão na terra de Gileade. ^v4
+**4** Este tinha trinta filhos, que cavalgavam em trinta jumentos, e possuíam trinta cidades na terra de Gileade, as quais até hoje são chamadas cidades de Jair. ^v4
 
-**5** E morreu Jair, e foi sepultado em Camom. ^v5
+**5** Jair morreu e foi enterrado em Camom. ^v5
 
-**6** Então tornaram os filhos de Israel a fazer o que era mau aos olhos do Senhor, e serviram aos baalins, e a Astarote, e aos deuses da Síria, e aos deuses de Sidom, e aos deuses de Moabe, e aos deuses dos filhos de Amom, e aos deuses dos filisteus; e deixaram ao Senhor, e não o serviram. ^v6
+**6** Mais uma vez, os israelitas fizeram o que era mau aos olhos de Yahweh, e adoraram os baalins, Astarote, os deuses da Síria, os deuses de Sidom, os deuses de Moabe, os deuses do povo de Amom e os deuses dos filisteus. Abandonaram Yahweh e não mais O adoraram. ^v6
 
-**7** E a ira do Senhor se acendeu contra Israel; e vendeu-os nas mãos dos filisteus, e nas mãos dos filhos de Amom. ^v7
+**7** A ira de Yahweh se acendeu contra Israel, e Ele os entregou nas mãos dos filisteus e dos amonitas. ^v7
 
-**8** E naquele mesmo ano oprimiram e vexaram aos filhos de Israel; dezoito anos oprimiram a todos os filhos de Israel que estavam além do Jordão, na terra dos amorreus, que está em Gileade. ^v8
+**8** Eles arrasaram e oprimiram o povo de Israel naquele ano. Durante dezoito anos, oprimiram todo o povo de Israel que estava além do Jordão, na terra dos amorreus, em Gileade. ^v8
 
-**9** Até os filhos de Amom passaram o Jordão, para pelejar também contra Judá, e contra Benjamim, e contra a casa de Efraim; de modo que Israel ficou muito angustiado. ^v9
+**9** Os amonitas atravessaram o Jordão para lutar contra Judá, contra Benjamim e contra a casa de Efraim, de maneira que Israel estava em grande desolação. ^v9
 
-**10** Então os filhos de Israel clamaram ao Senhor, dizendo: Contra ti havemos pecado, visto que deixamos a nosso Deus, e servimos aos baalins. ^v10
+**10** "Então, o povo de Israel clamou a Yahweh, dizendo: ""Pecamos contra Ti, pois abandonamos o nosso Deus e adoramos os baalins""." ^v10
 
-**11** Porém o Senhor disse aos filhos de Israel: Porventura dos egípcios, e dos amorreus, e dos filhos de Amom, e dos filisteus, ^v11
+**11** "Yahweh disse ao povo de Israel: ""Não vos livrei dos egípcios, dos amorreus, dos amonitas, dos filisteus," ^v11
 
-**12** E dos sidônios, e dos amalequitas, e dos maonitas, que vos oprimiam, quando a mim clamastes, não vos livrei das suas mãos? ^v12
+**12** e também dos sidônios? Quando os amalequitas e os maonitas vos oprimiram, clamastes a Mim, e vos livrei do poder deles. ^v12
 
-**13** Contudo vós me deixastes a mim, e servistes a outros deuses; pelo que não vos livrarei mais. ^v13
+**13** Porém, novamente Me abandonastes e adorastes outros deuses. Portanto, não vos livrarei mais. ^v13
 
-**14** Ide, e clamai aos deuses que escolhestes; que eles vos livrem no tempo do vosso aperto. ^v14
+**14** "Ide e clamai aos deuses que tendes adorado. Que eles vos salvem quando estiverdes em perigo""." ^v14
 
-**15** Mas os filhos de Israel disseram ao Senhor: Pecamos; faze-nos conforme a tudo quanto te parecer bem aos teus olhos; tão-somente te rogamos que nos livres nesta vez. ^v15
+**15** "Os israelitas disseram a Yahweh: ""Nós pecamos. Faze o que Te parecer melhor. Somente suplicamos que nos resgates hoje""." ^v15
 
-**16** E tiraram os deuses alheios do meio de si, e serviram ao Senhor; então se angustiou a sua alma por causa da desgraça de Israel. ^v16
+**16** Eles se livraram dos deuses estrangeiros que possuíam e adoraram a Yahweh, e Ele não mais suportou a miséria de Israel. ^v16
 
-**17** E os filhos de Amom se reuniram e se acamparam em Gileade; e também os de Israel se congregaram, e se acamparam em Mizpá. ^v17
+**17** Então, os amonitas reuniram-se e acamparam em Gileade. Os israelitas ajuntaram-se e acamparam em Mispá. ^v17
 
-**18** Então o povo e os príncipes de Gileade disseram uns aos outros: Quem será o homem que começará a pelejar contra os filhos de Amom? Ele será por cabeça de todos os moradores de Gileade. ^v18
+**18** "Os líderes do povo de Gileade disseram uns aos outros: ""Quem será o homem que começará a lutar contra os amonitas? Ele se tornará o líder sobre todos os que vivem em Gileade""." ^v18

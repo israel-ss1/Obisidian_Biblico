@@ -1,167 +1,166 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Lucas|Lucas]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Lucas|Lucas]]"
+tags: [biblia]
 ---
 
 # Lucas 1
 
-**1** Tendo, pois, muitos empreendido pôr em ordem a narração dos fatos que entre nós se cumpriram, ^v1
+**1** Uma vez que muitos tentaram colocar em ordem uma narrativa sobre os acontecimentos que se realizaram entre nós - ^v1
 
-**2** Segundo nos transmitiram os mesmos que os presenciaram desde oprincípio, e foram ministros da palavra, ^v2
+**2** conforme nos foi transmitido pelos que desde o começo foram testemunhas oculares e servos da mensagem -, ^v2
 
-**3** Pareceu-me também a mim conveniente descrevê-los a ti, ó excelente Teófilo, por sua ordem, havendo-me já informado minuciosamente de tudo desde o princípio; ^v3
+**3** então pareceu-me bom também, investigando cuidadosamente o curso de todas essas coisas desde o começo, escrevê-las em sua ordem correta, excelentíssimo Teófilo, ^v3
 
-**4** Para que conheças a certeza das coisas de que já estás informado. ^v4
+**4** para que conheças plenamente a verdade sobre as coisas que te foram ensinadas. ^v4
 
-**5** Existiu, no tempo de Herodes, rei da Judéia, um sacerdote chamado Zacarias, da ordem de Abias, e cuja mulher era das filhas de Arão; e o seu nome era Isabel. ^v5
+**5** Nos dias de Herodes, rei da Judeia, havia um certo sacerdote, chamado Zacarias, da ordem de Abias. Sua mulher era da linhagem de Arão e chamava-se Isabel. ^v5
 
-**6** E eram ambos justos perante Deus, andando sem repreensão em todos os mandamentos e preceitos do Senhor. ^v6
+**6** Ambos eram justos diante de Deus, andando de modo irrepreensível em todos os mandamentos e exigências do Senhor. ^v6
 
-**7** E não tinham filhos, porque Isabel era estéril, e ambos eram avançados em idade. ^v7
+**7** Mas eles não tinham filhos, porque Isabel era estéril, e também eram ambos muito velhos nesse tempo. ^v7
 
-**8** E aconteceu que, exercendo ele o sacerdócio diante de Deus, na ordem da sua turma, ^v8
+**8** Aconteceu que Zacarias estava na presença de Deus, cumprindo os seus deveres sacerdotais, conforme a sua linhagem; ^v8
 
-**9** Segundo o costume sacerdotal, coube-lhe em sorte entrar no templo do Senhor para oferecer o incenso. ^v9
+**9** então ele foi escolhido por sorteio, segundo o costume do ofício sacerdotal, para entrar no templo do Senhor e queimar incenso. ^v9
 
-**10** E toda a multidão do povo estava fora, orando, à hora do incenso. ^v10
+**10** Toda a multidão estava orando do lado de fora no momento em que o incenso estava sendo queimado. ^v10
 
-**11** E um anjo do Senhor lhe apareceu, posto em pé, à direita do altar do incenso. ^v11
+**11** Então um anjo do Senhor apareceu a ele, de pé, à direita do altar do incenso. ^v11
 
-**12** E Zacarias, vendo-o, turbou-se, e caiu temor sobre ele. ^v12
+**12** Quando Zacarias o viu, ficou perturbado e o medo veio sobre ele. ^v12
 
-**13** Mas o anjo lhe disse: Zacarias, não temas, porque a tua oração foi ouvida, e Isabel, tua mulher, dará à luz um filho, e lhe porás o nome de João. ^v13
+**13** Mas o anjo disse-lhe: “Não temas, Zacarias, porque a tua oração foi ouvida. Tua esposa, Isabel, dará à luz um filho, e tu o chamarás João. ^v13
 
-**14** E terás prazer e alegria, e muitos se alegrarão no seu nascimento, ^v14
+**14** Tu terás alegria e satisfação, e muitas pessoas se regozijarão com o seu nascimento. ^v14
 
-**15** Porque será grande diante do Senhor, e não beberá vinho, nem bebida forte, e será cheio do Espírito Santo, já desde o ventre de sua mãe. ^v15
+**15** Pois ele será grande aos olhos do Senhor; não beberá vinho, nem bebida forte; e, ainda no ventre de sua mãe, ele será cheio do Espírito Santo, ^v15
 
-**16** E converterá muitos dos filhos de Israel ao Senhor seu Deus, ^v16
+**16** e muitos dentre o povo de Israel se voltarão ao Senhor, seu Deus. ^v16
 
-**17** E irá adiante dele no espírito e virtude de Elias, para converter os corações dos pais aos filhos, e os rebeldes à prudência dos justos, com o fim de preparar ao Senhor um povo bem disposto. ^v17
+**17** Ele irá à frente do Senhor no espírito e poder de Elias, para voltar o coração dos pais aos seus filhos, e levar os desobedientes a andarem de acordo com a sabedoria dos justos. Ele fará isso a fim de formar um povo preparado para o Senhor”. ^v17
 
-**18** Disse então Zacarias ao anjo: Como saberei isto? pois eu já sou velho, e minha mulher avançada em idade. ^v18
+**18** Zacarias disse ao anjo: “Como posso ter certeza disso? Pois eu sou um homem velho e minha esposa é de idade avançada”. ^v18
 
-**19** E, respondendo o anjo, disse-lhe: Eu sou Gabriel, que assisto diante de Deus, e fui enviado a falar-te e dar-te estas alegres novas. ^v19
+**19** O anjo respondeu: “Eu sou Gabriel, permaneço na presença de Deus e fui enviado para falar contigo e trazer-lhe essas boas novas. ^v19
 
-**20** E eis que ficarás mudo, e não poderás falar até ao dia em que estas coisas aconteçam; porquanto não creste nas minhas palavras, que a seu tempo se hão de cumprir. ^v20
+**20** E eis que ficarás mudo e não poderás falar até o dia em que isso suceder, porque não acreditaste em minhas palavras, que se cumprirão no momento certo”. ^v20
 
-**21** E o povo estava esperando a Zacarias, e maravilhava-se de que tanto se demorasse no templo. ^v21
+**21** Enquanto as pessoas esperavam por Zacarias, elas se perguntavam por que ele estava há tanto tempo no templo. ^v21
 
-**22** E, saindo ele, não lhes podia falar; e entenderam que tinha tido uma visão no templo. E falava por acenos, e ficou mudo. ^v22
+**22** Quando ele saiu, ele não podia falar com eles, por isso fez movimentos com as mãos para tentar explicar o que aconteceu. Então perceberam que ele teve uma visão enquanto estava lá dentro. ^v22
 
-**23** E sucedeu que, terminados os dias de seu ministério, voltou para sua casa. ^v23
+**23** Aconteceu que, quando os dias de seu serviço terminaram, ele voltou para sua casa. ^v23
 
-**24** E, depois daqueles dias, Isabel, sua mulher, concebeu, e por cinco meses se ocultou, dizendo: ^v24
+**24** Depois desses dias, sua esposa Isabel ficou grávida e se escondeu por cinco meses, dizendo: ^v24
 
-**25** Assim me fez o Senhor, nos dias em que atentou em mim, para destruir o meu opróbrio entre os homens. ^v25
+**25** """Isso foi o que o Senhor fez por mim quando Ele me olhou com favor para tirar a minha vergonha diante das pessoas”." ^v25
 
-**26** E, no sexto mês, foi o anjo Gabriel enviado por Deus a uma cidade da Galiléia, chamada Nazaré, ^v26
+**26** No sexto mês de gestação, o anjo Gabriel foi enviado por Deus para uma cidade da Galileia, chamada Nazaré, ^v26
 
-**27** A uma virgem desposada com um homem, cujo nome era José, da casa de Davi; e o nome da virgem era Maria. ^v27
+**27** a uma virgem que estava noiva de um homem chamado José. José era descendente de Davi, e o nome da virgem era Maria. ^v27
 
-**28** E, entrando o anjo aonde ela estava, disse: Salve, agraciada; o Senhor é contigo; bendita és tu entre as mulheres. ^v28
+**28** O anjo apareceu a ela e disse: “Saudações, tu que és grandemente favorecida! O Senhor é contigo!”. ^v28
 
-**29** E, vendo-o ela, turbou-se muito com aquelas palavras, e considerava que saudação seria esta. ^v29
+**29** Mas ela ficou muito perturbada com essas palavras e se perguntou que tipo de saudação seria essa. ^v29
 
-**30** Disse-lhe, então, o anjo: Maria, não temas, porque achaste graça diante de Deus. ^v30
+**30** E o anjo falou para ela: “Não temas, Maria, pois foste agraciada por Deus. ^v30
 
-**31** E eis que em teu ventre conceberás e darás à luz um filho, e pôr-lhe-ás o nome de Jesus. ^v31
+**31** Eis que conceberás em teu ventre e darás à luz um filho. Tu lhe porás o nome de Jesus. ^v31
 
-**32** Este será grande, e será chamado filho do Altíssimo; e o Senhor Deus lhe dará o trono de Davi, seu pai; ^v32
+**32** Ele será grande, será chamado Filho do Altíssimo. O Senhor Deus Lhe dará o trono de Seu pai, Davi. ^v32
 
-**33** E reinará eternamente na casa de Jacó, e o seu reino não terá fim. ^v33
+**33** Ele reinará sobre a casa de Jacó para sempre, e Seu reinado jamais terá fim”. ^v33
 
-**34** E disse Maria ao anjo: Como se fará isto, visto que não conheço homem algum? ^v34
+**34** Maria disse ao anjo: “Como isso acontecerá, visto que sou virgem?” ^v34
 
-**35** E, respondendo o anjo, disse-lhe: Descerá sobre ti o Espírito Santo, e a virtude do Altíssimo te cobrirá com a sua sombra; por isso também o Santo, que de ti há de nascer, será chamado Filho de Deus. ^v35
+**35** O anjo respondeu e disse-lhe: “O Espírito Santo virá sobre ti, e o poder do Altíssimo te envolverá. Por isso, aquele que é Santo nascerá e será chamado O Filho de Deus. ^v35
 
-**36** E eis que também Isabel, tua prima, concebeu um filho em sua velhice; e é este o sexto mês para aquela que era chamada estéril; ^v36
+**36** Eis que Isabel, tua parente, também concebeu um filho na sua velhice. Ela que era chamada estéril está em seu sexto mês de gestação. ^v36
 
-**37** Porque para Deus nada é impossível. ^v37
+**37** Pois nada será impossível para Deus”. ^v37
 
-**38** Disse então Maria: Eis aqui a serva do Senhor; cumpra-se em mim segundo a tua palavra. E o anjo ausentou-se dela. ^v38
+**38** "Maria disse: ""Eis aqui a serva do Senhor. Que isso seja feito em mim de acordo com a Sua palavra"". E o anjo a deixou." ^v38
 
-**39** E, naqueles dias, levantando-se Maria, foi apressada às montanhas, a uma cidade de Judá, ^v39
+**39** Naqueles dias, Maria partiu às pressas para uma região montanhosa, para uma cidade da Judeia. ^v39
 
-**40** E entrou em casa de Zacarias, e saudou a Isabel. ^v40
+**40** E ela entrou na casa de Zacarias e saudou Isabel. ^v40
 
-**41** E aconteceu que, ao ouvir Isabel a saudação de Maria, a criancinha saltou no seu ventre; e Isabel foi cheia do Espírito Santo. ^v41
+**41** Quando isso aconteceu, ouvindo Isabel a saudação de Maria, o bebê em seu ventre saltou, e Isabel ficou cheia do Espírito Santo. ^v41
 
-**42** E exclamou com grande voz, e disse: Bendita és tu entre as mulheres, e bendito o fruto do teu ventre. ^v42
+**42** Ela exclamou em alta voz e disse: “Tu és bendita entre todas as mulheres, e abençoado é o fruto do teu ventre. ^v42
 
-**43** E de onde me provém isto a mim, que venha visitar-me a mãe do meu Senhor? ^v43
+**43** Como é possível que a mãe do meu Senhor venha me visitar? ^v43
 
-**44** Pois eis que, ao chegar aos meus ouvidos a voz da tua saudação, a criancinha saltou de alegria no meu ventre. ^v44
+**44** Assim que ouvi sua saudação, o bebê que carrego em meu ventre saltou de alegria. ^v44
 
-**45** Bem-aventurada a que creu, pois hão de cumprir-se as coisas que da parte do Senhor lhe foram ditas. ^v45
+**45** "E bem-aventurada aquela que creu porque se cumprirão todas as coisas que lhe foram ditas pelo Senhor""." ^v45
 
-**46** Disse então Maria: A minha alma engrandece ao Senhor, ^v46
+**46** Maria disse: “Minha alma exalta ao Senhor, ^v46
 
-**47** E o meu espírito se alegra em Deus meu Salvador; ^v47
+**47** e o meu espírito muito se alegrou em Deus, meu Salvador. ^v47
 
-**48** Porque atentou na baixeza de sua serva; Pois eis que desde agora todas as gerações me chamarão bem-aventurada, ^v48
+**48** Pois Ele olhou para minha humilde condição de serva. A partir de agora, todas as gerações me chamarão bem-aventurada, ^v48
 
-**49** Porque me fez grandes coisas o Poderoso; E santo é seu nome. ^v49
+**49** porque o Poderoso fez grandes coisas por mim, e Seu nome é Santo. ^v49
 
-**50** E a sua misericórdia é de geração em geração Sobre os que o temem. ^v50
+**50** Sua misericórdia estende-se de geração em geração sobre aqueles que O temem. ^v50
 
-**51** Com o seu braço agiu valorosamente; Dissipou os soberbos no pensamento de seus corações. ^v51
+**51** Ele demonstrou força com seu braço, dispersou aqueles que eram orgulhosos nos pensamentos dos seus corações. ^v51
 
-**52** Depôs dos tronos os poderosos, E elevou os humildes. ^v52
+**52** Derrubou os príncipes dos seus tronos e exaltou as pessoas humildes. ^v52
 
-**53** Encheu de bens os famintos, E despediu vazios os ricos. ^v53
+**53** Encheu de bens os famintos e despediu os ricos sem dar nada a eles. ^v53
 
-**54** Auxiliou a Israel seu servo, Recordando-se da sua misericórdia; ^v54
+**54** Ajudou a Israel, seu servo, em lembrança da Sua misericórdia ^v54
 
-**55** Como falou a nossos pais, Para com Abraão e a sua posteridade, para sempre. ^v55
+**55** - como Ele disse aos nossos pais - em favor de Abraão e sua descendência para sempre!”. ^v55
 
-**56** E Maria ficou com ela quase três meses, e depois voltou para sua casa. ^v56
+**56** Maria permaneceu com Isabel cerca de três meses e depois voltou para sua casa. ^v56
 
-**57** E completou-se para Isabel o tempo de dar à luz, e teve um filho. ^v57
+**57** Quando chegou a hora de Isabel dar à luz seu bebê, ela teve um menino. ^v57
 
-**58** E os seus vizinhos e parentes ouviram que tinha Deus usado para com ela de grande misericórdia, e alegraram-se com ela. ^v58
+**58** Seus vizinhos e parentes ouviram que o Senhor multiplicou Sua misericórdia para com ela e se alegraram com ela. ^v58
 
-**59** E aconteceu que, ao oitavo dia, vieram circuncidar o menino, e lhe chamavam Zacarias, o nome de seu pai. ^v59
+**59** Então, aconteceu que, no oitavo dia, eles vieram para circuncidar o bebê. Eles queriam chamá-lo de Zacarias, como seu pai. ^v59
 
-**60** E, respondendo sua mãe, disse: Não, porém será chamado João. ^v60
+**60** Mas sua mãe tomou a palavra e disse: “Não, ele se chamará João”. ^v60
 
-**61** E disseram-lhe: Ninguém há na tua parentela que se chame por este nome. ^v61
+**61** Disseram a ela: “Não há ninguém entre vossos parentes que é chamado por esse nome”. ^v61
 
-**62** E perguntaram por acenos ao pai como queria que lhe chamassem. ^v62
+**62** Eles gesticularam ao pai para descobrir como queria que ele fosse chamado. ^v62
 
-**63** E, pedindo ele uma tabuinha de escrever, escreveu, dizendo: O seu nome é João. E todos se maravilharam. ^v63
+**63** Seu pai pediu uma pequena tábua e escreveu: “Seu nome é João”. Todos ficaram admirados com isso. ^v63
 
-**64** E logo a boca se lhe abriu, e a língua se lhe soltou; e falava, louvando a Deus. ^v64
+**64** Imediatamente, sua boca se abriu, sua língua se soltou, e ele começou a falar, louvando a Deus. ^v64
 
-**65** E veio temor sobre todos os seus vizinhos, e em todas as montanhas da Judéia foram divulgadas todas estas coisas. ^v65
+**65** Então veio temor sobre todos os que viviam ao seu redor, e tudo o que aconteceu espalhou-se por toda a área das colinas da Judeia. ^v65
 
-**66** E todos os que as ouviam as conservavam em seus corações, dizendo: Quem será, pois, este menino? E a mão do Senhor estava com ele. ^v66
+**66** Todos aqueles que ouviram isso, ficaram pasmos em seus corações, dizendo: “O que virá a ser esse menino?”. Pois a mão do Senhor estava sobre ele. ^v66
 
-**67** E Zacarias, seu pai, foi cheio do Espírito Santo, e profetizou, dizendo: ^v67
+**67** Seu pai, Zacarias, estava cheio do Espírito Santo e profetizou, dizendo: ^v67
 
-**68** Bendito o Senhor Deus de Israel, Porque visitou e remiu o seu povo, ^v68
+**68** “Bendito seja o Senhor, o Deus de Israel, porque visitou e libertou o Seu povo. ^v68
 
-**69** E nos levantou uma salvação poderosa Na casa de Davi seu servo. ^v69
+**69** Ele levantou para nós um chifre de salvação na casa de Davi, seu servo, ^v69
 
-**70** Como falou pela boca dos seus santos profetas, desde o princípio do mundo; ^v70
+**70** como prometera há muito tempo, através de Seus santos profetas. ^v70
 
-**71** Para nos livrar dos nossos inimigos e da mão de todos os que nos odeiam; ^v71
+**71** Ele nos trará salvação de nossos inimigos e da mão de todos os que nos odeiam. ^v71
 
-**72** Para manifestar misericórdia a nossos pais, E lembrar-se da sua santa aliança, ^v72
+**72** Ele fará isso para mostrar a Sua misericórdia para com os nossos pais e lembrar-Se da Sua santa aliança. ^v72
 
-**73** E do juramento que jurou a Abraão nosso pai, ^v73
+**73** Essa aliança é o juramento que Ele fez a Abraão, nosso pai, ^v73
 
-**74** De conceder-nos que, Libertados da mão de nossos inimigos, o serviríamos sem temor, ^v74
+**74** para nos libertar das mãos dos nossos inimigos e para que possamos servi-Lo sem medo, ^v74
 
-**75** Em santidade e justiça perante ele, todos os dias da nossa vida. ^v75
+**75** em santidade e justiça, perante Ele, todos os nossos dias. ^v75
 
-**76** E tu, ó menino, serás chamado profeta do Altíssimo, Porque hás de ir ante a face do Senhor, a preparar os seus caminhos; ^v76
+**76** Sim, e tu, menino, serás chamado profeta do Altíssimo, porque tu irás à frente do Senhor, para preparar as pessoas para a Sua vinda, ^v76
 
-**77** Para dar ao seu povo conhecimento da salvação, Na remissão dos seus pecados; ^v77
+**77** e fazer conhecida a salvação ao Seu povo através do perdão dos seus pecados. ^v77
 
-**78** Pelas entranhas da misericórdia do nosso Deus, Com que o oriente do alto nos visitou; ^v78
+**78** Isso acontecerá por causa da terna misericórdia do nosso Deus, por meio da qual a Aurora do alto virá até nós, ^v78
 
-**79** Para iluminar aos que estão assentados em trevas e na sombra da morte; A fim de dirigir os nossos pés pelo caminho da paz. ^v79
+**79** para brilhar sobre aqueles que estão em trevas e na sombra da morte; Ele fará isso para guiar nossos passos no caminho da paz”. ^v79
 
-**80** E o menino crescia, e se robustecia em espírito. E esteve nos desertos até ao dia em que havia de mostrar-se a Israel. ^v80
+**80** Então o menino cresceu e se fortaleceu em espírito. Ele viveu no deserto, até que apareceu publicamente ao povo de Israel. ^v80

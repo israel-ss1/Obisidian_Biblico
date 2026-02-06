@@ -1,83 +1,82 @@
 ---
-Livro: "[[1 Reis|1 Reis]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/1 Reis|1 Reis]]"
+tags: [biblia]
 ---
 
 # 1 Reis 6
 
-**1** E sucedeu que no ano de quatrocentos e oitenta, depois de saírem os filhos de Israel do Egito, no ano quarto do reinado de Salomão sobre Israel, no mês de Zive (este é o mês segundo), começou a edificar a casa do SENHOR. ^v1
+**1** Então, Salomão começou a construir o templo de Yahweh. Isso aconteceu quatrocentos e oitenta anos após o povo de Israel ter deixado a terra do Egito, no quadragésimo ano do reinado de Salomão sobre Israel, no mês de Zive, que é o segundo mês. ^v1
 
-**2** E a casa que o rei Salomão edificou ao Senhor era de sessenta côvados de comprimento, e de vinte côvados de largura, e de trinta côvados de altura. ^v2
+**2** O templo que o rei Salomão construiu para Yahweh era de sessenta côvados de comprimento, vinte côvados de largura e trinta côvados de altura. ^v2
 
-**3** E o pórtico diante do templo da casa era de vinte côvados de comprimento, segundo a largura da casa, e de dez côvados de largura diante da casa. ^v3
+**3** O pórtico em frente ao salão principal do templo era de vinte côvados de comprimento, igual à largura do templo, e dez côvados de profundidade em frente ao templo. ^v3
 
-**4** E fez para a casa janelas de gelósias fixas. ^v4
+**4** Para a casa, ele fez janelas com molduras. ^v4
 
-**5** E edificou câmaras junto ao muro da casa, contra as paredes da casa, em redor, tanto do templo como do oráculo; e assim lhe fez câmaras laterais em redor. ^v5
+**5** Junto aos muros da câmara principal, ele construiu salas, ao redor da sala externa e da sala interna. Ele construiu salas ao redor das paredes. ^v5
 
-**6** A câmara de baixo era de cinco côvados de largura, e a do meio de seis côvados de largura, e a terceira de sete côvados de largura; porque pela parte de fora da casa, em redor, fizera encostos, para que as vigas não se apoiassem nas paredes da casa. ^v6
+**6** A sala do térreo tinha cinco côvados de largura, a central tinha seis côvados de largura, e a terceira era de sete côvados de largura. Na parte de fora, ele fez pilastras para reforço das paredes, para que as vigas não fossem inseridas nas paredes da casa. ^v6
 
-**7** E edificava-se a casa com pedras preparadas, como as traziam se edificava; de maneira que nem martelo, nem machado, nem nenhum outro instrumento de ferro se ouviu na casa quando a edificavam. ^v7
+**7** O templo foi construído com pedras preparadas na pedreira. Nenhum martelo, machado, ou nenhuma ferramenta de ferro foi ouvida enquanto ele estava sendo construído. ^v7
 
-**8** A porta da câmara do meio estava ao lado direito da casa, e por caracóis se subia à do meio, e da do meio à terceira. ^v8
+**8** No lado sul do templo, havia uma entrada na parte térrea, então subia-se pelas escadas até a parte central, e da parte central até o terceiro nível. ^v8
 
-**9** Assim, pois, edificou a casa, e a acabou; e cobriu a casa com pranchões e tabuados de cedro. ^v9
+**9** Assim, Salomão construiu o templo e o terminou; ele o cobriu com vigas e tábuas de cedro. ^v9
 
-**10** Também edificou as câmaras em volta de toda a casa, de cinco côvados de altura, e as ligou à casa com madeira de cedro. ^v10
+**10** Ele construiu salas ao redor de todo o templo, cada lado com cinco côvados de altura; elas estavam ligadas ao templo com madeiras de cedro. ^v10
 
-**11** Então veio a palavra do Senhor a Salomão, dizendo: ^v11
+**11** A palavra de Yahweh veio a Salomão, dizendo: ^v11
 
-**12** Quanto a esta casa que tu edificas, se andares nos meus estatutos, e fizeres os meus juízos, e guardares todos os meus mandamentos, andando neles, confirmarei para contigo a minha palavra, a qual falei a Davi, teu pai; ^v12
+**12** """No que concerne a este templo que estás construindo, se andares nos Meus estatutos e praticares a justiça, guardares todos os Meus mandamentos e andares neles, então Eu confirmarei a Minha promessa que fiz a Davi, teu pai." ^v12
 
-**13** E habitarei no meio dos filhos de Israel, e não desampararei o meu povo de Israel. ^v13
+**13** "Habitarei no meio do povo de Israel e não os abandonarei""." ^v13
 
-**14** Assim edificou Salomão aquela casa, e a acabou. ^v14
+**14** Então, Salomão construiu o templo e o terminou. ^v14
 
-**15** Também cobriu as paredes da casa por dentro com tábuas de cedro; desde o soalho da casa até ao teto tudo cobriu com madeira por dentro; e cobriu o soalho da casa com tábuas de cipreste. ^v15
+**15** Ele construiu as paredes do interior com tábuas de cedro. Desde o piso até o teto, ele as cobriu por dentro com madeira; e o piso, cobriu com tábuas de cipreste. ^v15
 
-**16** Edificou mais vinte côvados de tábuas de cedro nos lados da casa, desde o soalho até às paredes; e por dentro lhas edificou para o oráculo, para o Santo dos Santos. ^v16
+**16** Ele construiu vinte côvados na parte de trás do templo com tábuas de cedro desde o piso até o teto. Ele construiu essa sala para que fosse uma sala interna, o Santíssimo Lugar. ^v16
 
-**17** A casa, isto é, o templo anterior tinha quarenta côvados. ^v17
+**17** O salão principal, que é o Santo Lugar, que estava em frente ao Santíssimo Lugar, era de quarenta côvados de comprimento. ^v17
 
-**18** E o cedro da casa por dentro era lavrado de botões e flores abertas; tudo era cedro, pedra nenhuma se via. ^v18
+**18** Havia cedro dentro do templo, esculpido em forma de frutos e flores da cabaça. Por dentro, tudo era de cedro. Nenhum trabalho de pedra era visto no seu interior. ^v18
 
-**19** E por dentro da casa, na parte mais interior, preparou o oráculo, para pôr ali a arca da aliança do Senhor. ^v19
+**19** Salomão preparou a sala interior do templo para que ali fosse colocada a Arca da Aliança de Yahweh. ^v19
 
-**20** E o oráculo no interior era de vinte côvados de comprimento, e de vinte côvados de largura, e de vinte côvados de altura; e o revestiu de ouro puro; também revestiu de cedro o altar. ^v20
+**20** A sala interior era de vinte côvados de comprimento, e vinte côvados de largura e vinte de altura. Salomão revestiu as paredes com ouro puro e cobriu o altar com madeira de cedro. ^v20
 
-**21** E revestiu Salomão a casa por dentro de ouro puro; e com cadeias de ouro pôs uma cortina diante do oráculo, e o revestiu com ouro. ^v21
+**21** Salomão revestiu o interior do templo com ouro puro, e colocou correntes de ouro na frente da sala interior, e revestiu-a com ouro. ^v21
 
-**22** Assim cobriu de ouro toda a casa, inteiramente; também cobriu de ouro todo o altar que estava diante do oráculo. ^v22
+**22** Ele revestiu todo o interior com ouro, até que todo o templo foi terminado. Ele também revestiu com ouro todo o altar que pertencia à sala interior. ^v22
 
-**23** E no oráculo fez dois querubins de madeira de oliveira, cada um da altura de dez côvados. ^v23
+**23** Salomão fez dois querubins de madeira de oliveira, cada um deles com dez côvados de altura, para a sala interior. ^v23
 
-**24** E uma asa de um querubim era de cinco côvados, e a outra asa do querubim de outros cinco côvados; dez côvados havia desde a extremidade de uma das suas asas até à extremidade da outra das suas asas. ^v24
+**24** Uma das asas do primeiro querubim era de cinco côvados de comprimento, e outra asa dele tinha também cinco côvados de comprimento. Então, da ponta de uma asa até a ponta da outra, havia a distância de dez côvados. ^v24
 
-**25** Assim era também de dez côvados o outro querubim; ambos os querubins eram de uma mesma medida e de um mesmo talhe. ^v25
+**25** O outro querubim também tinha asas de dez côvados. Os dois querubins tinham as mesmas dimensões e formas. ^v25
 
-**26** A altura de um querubim era de dez côvados, e assim a do outro querubim. ^v26
+**26** A altura de um querubim era de dez côvados, e o outro tinha a mesma altura. ^v26
 
-**27** E pôs a estes querubins no meio da casa de dentro; e os querubins estendiam as asas, de maneira que a asa de um tocava na parede, e a asa do outro querubim tocava na outra parede; e as suas asas no meio da casa tocavam uma na outra. ^v27
+**27** Salomão colocou o querubim na sala mais interior. As asas dos querubins eram estendidas, de forma que a asa de um tocava uma parede, e a asa de outro querubim tocava a outra parede. Suas asas tocavam uma na outra no meio do Santíssimo Lugar. ^v27
 
-**28** E revestiu de ouro os querubins. ^v28
+**28** Salomão revestiu os querubins com ouro. ^v28
 
-**29** E todas as paredes da casa, em redor, lavrou de esculturas e entalhes de querubins, e de palmas, e de flores abertas, por dentro e por fora. ^v29
+**29** Ele entalhou todas as paredes da casa com figuras de querubim, palmeiras e flores abertas, na sala interior e exterior. ^v29
 
-**30** Também revestiu de ouro o soalho da casa, por dentro e por fora. ^v30
+**30** Salomão revestiu o piso da casa com ouro, em ambas as salas, interior e exterior. ^v30
 
-**31** E à entrada do oráculo fez portas de madeira de oliveira; o umbral de cima com as ombreiras faziam a quinta parte da parede. ^v31
+**31** Salomão fez portas de madeira de oliveira para entrada da sala interior. As vigas e batentes tinham cinco seções recuadas. ^v31
 
-**32** Também as duas portas eram de madeira de oliveira; e lavrou nelas entalhes de querubins, e de palmas, e de flores abertas, os quais revestiu de ouro; também estendeu ouro sobre os querubins e sobre as palmas. ^v32
+**32** Então ele fez duas portas de madeira de oliveira, e fez nelas esculturas de querubim, palmeiras, e flores abertas. Ele revestiu-as com ouro, e espalhou o ouro no querubim e nas palmeiras. ^v32
 
-**33** E assim fez à porta do templo ombreiras de madeira de oliveira, da quarta parte da parede. ^v33
+**33** Dessa forma, Salomão também fez, para entrada do templo, batentes de madeira de oliveira de quadro seções recuadas, ^v33
 
-**34** E eram as duas portas de madeira de cipreste; e as duas folhas de uma porta eram dobradiças, assim como eram também dobradiças as duas folhas entalhadas das outras portas. ^v34
+**34** e duas portas de madeira de cipreste. As duas folhas de uma das portas moviam-se por dobradiça, como também as duas folhas da outra porta. ^v34
 
-**35** E as lavrou de querubins e de palmas, e de flores abertas, e as revestiu de ouro acomodado ao lavor. ^v35
+**35** Ele esculpiu nelas querubim, palmeiras e folhas abertas, e, uniformemente, as revestiu com ouro na escultura. ^v35
 
-**36** Também edificou o pátio interior de três ordens de pedras lavradas e de uma ordem de vigas de cedro. ^v36
+**36** Ele construiu o pátio interior com três fileiras de pedra cortada e um fileira de vigas de cedro. ^v36
 
-**37** No ano quarto se pôs o fundamento da casa do Senhor, no mês de Zive. ^v37
+**37** A fundação do templo de Yahweh foi lançada no quadragésimo ano, no mês de Zive. ^v37
 
-**38** E no ano undécimo, no mês de Bul, que é o mês oitavo, se acabou esta casa com todas as suas coisas, e com tudo o que lhe convinha; e a edificou em sete anos. ^v38
+**38** No décimo primeiro ano, no mês de Bul, que é o oitavo mês, o templo foi concluído em todas as suas partes de acordo com todas as suas especificações. Salomão levou sete anos para construir o templo. ^v38

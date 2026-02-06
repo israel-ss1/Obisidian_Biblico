@@ -1,49 +1,48 @@
 ---
-Livro: "[[1 Samuel|1 Samuel]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/1 Samuel|1 Samuel]]"
+tags: [biblia]
 ---
 
 # 1 Samuel 3
 
-**1** E o jovem Samuel servia ao SENHOR perante Eli; e a palavra do SENHOR era de muita valia naqueles dias; não havia visão manifesta. ^v1
+**1** O menino Samuel servia Yahweh sob a supervisão de Eli. A mensagem de Yahweh era rara naqueles dias; não havia frequente visão profética. ^v1
 
-**2** E sucedeu, naquele dia, que, estando Eli deitado no seu lugar (e os seus olhos começavam a escurecer, pois não podia ver), ^v2
+**2** Eli, cuja vista começava a ficar ruim, de modo que ele não podia ver bem, estava dormindo em sua cama. ^v2
 
-**3** E estando também Samuel já deitado, antes que a lâmpada de Deus se apagasse no templo do Senhor, onde estava a arca de Deus, ^v3
+**3** A lâmpada de Deus ainda não havia se apagado e Samuel estava deitado para dormir na casa de Yahweh, onde estava a Arca de Deus. ^v3
 
-**4** O Senhor chamou a Samuel, e disse ele: Eis-me aqui. ^v4
+**4** "Então, Yahweh chamou Samuel, que disse: ""Aqui estou""." ^v4
 
-**5** E correu a Eli, e disse: Eis-me aqui, porque tu me chamaste. Mas ele disse: Não te chamei eu, torna a deitar-te. E foi e se deitou. ^v5
+**5** "Samuel correu até Eli e disse: ""Aqui estou, pois me chamaste"". Eli disse: ""Não te chamei; deita-te novamente"". Então, Samuel voltou e deitou-se." ^v5
 
-**6** E o Senhor tornou a chamar outra vez a Samuel, e Samuel se levantou, e foi a Eli, e disse: Eis-me aqui, porque tu me chamaste. Mas ele disse: Não te chamei eu, filho meu, torna a deitar-te. ^v6
+**6** "Yahweh o chamou novamente: ""Samuel"". De novo, Samuel levantou-se e foi até Eli e disse: ""Aqui estou, pois me chamaste"". Eli respondeu: ""Não te chamei, meu filho; deita-te novamente""." ^v6
 
-**7** Porém Samuel ainda não conhecia ao Senhor, e ainda não lhe tinha sido manifestada a palavra do Senhor. ^v7
+**7** Samuel ainda não tivera nenhuma experiência com Yahweh; nenhuma mensagem de Yahweh havia sido revelada a ele. ^v7
 
-**8** O Senhor, pois, tornou a chamar a Samuel terceira vez, e ele se levantou, e foi a Eli, e disse: Eis-me aqui, porque tu me chamaste. Então entendeu Eli que o Senhor chamava o jovem. ^v8
+**8** "Yahweh o chamou pela terceira vez. De novo, Samuel levantou-se, foi até Eli e disse: ""Aqui estou, pois me chamaste"". Então Eli percebeu que Yahweh havia chamado o menino." ^v8
 
-**9** Por isso Eli disse a Samuel: Vai deitar-te e há de ser que, se te chamar, dirás: Fala, Senhor, porque o teu servo ouve. Então Samuel foi e se deitou no seu lugar. ^v9
+**9** "Eli disse a Samuel: ""Vai e deita-te novamente; se Ele te chamar de novo, deves dizer: 'Fala, Yahweh, pois o Teu servo está ouvindo'"". Samuel voltou e deitou-se mais uma vez." ^v9
 
-**10** Então veio o Senhor, e pôs-se ali, e chamou como das outras vezes: Samuel, Samuel. E disse Samuel: Fala, porque o teu servo ouve. ^v10
+**10** "Yahweh veio e permaneceu; Ele o chamou como nas outras vezes: ""Samuel, Samuel"". Então Samuel disse: ""Fala, pois o Teu servo está ouvindo""." ^v10
 
-**11** E disse o Senhor a Samuel: Eis que vou fazer uma coisa em Israel, a qual todo o que ouvir lhe tinirão ambos os ouvidos. ^v11
+**11** "Yahweh disse a Samuel: ""Vê, vou fazer algo em Israel que tinirá nos ouvidos de todos os que ouvirem a respeito." ^v11
 
-**12** Naquele mesmo dia suscitarei contra Eli tudo quanto tenho falado contra a sua casa, começarei e acabarei. ^v12
+**12** Naquele dia, cumprirei contra Eli tudo o que Eu disse a ele sobre sua casa, do começo ao fim. ^v12
 
-**13** Porque eu já lhe fiz saber que julgarei a sua casa para sempre, pela iniqüidade que ele bem conhecia, porque, fazendo-se os seus filhos execráveis, não os repreendeu. ^v13
+**13** Eu lhe disse que estava prestes a julgar sua casa, de uma vez por todas, pelos crimes que ele conhece; porque seus filhos trouxeram uma maldição sobre eles mesmos e Eli não os impediu. ^v13
 
-**14** Portanto, jurei à casa de Eli que nunca jamais será expiada a sua iniqüidade, nem com sacrifício, nem com oferta de alimentos. ^v14
+**14** "Por causa disso, Eu jurei à casa de Eli que os pecados de sua casa jamais serão perdoados, nem por sacrifício, nem por oferta.""" ^v14
 
-**15** E Samuel ficou deitado até pela manhã, e então abriu as portas da casa do Senhor; porém temia Samuel relatar esta visão a Eli. ^v15
+**15** Samuel deitou-se até o amanhecer; depois, abriu as portas da casa de Yahweh. Mas Samuel estava com medo de contar a Eli sobre a visão. ^v15
 
-**16** Então chamou Eli a Samuel, e disse: Samuel, meu filho. E disse ele: Eis-me aqui. ^v16
+**16** "Então, Eli o chamou e disse: ""Samuel, meu filho"". Samuel respondeu: ""Aqui estou""." ^v16
 
-**17** E ele disse: Qual é a palavra que te falou? Peço-te que não ma encubras; assim Deus te faça, e outro tanto, se me encobrires alguma palavra de todas as que te falou. ^v17
+**17** "Eli perguntou: ""Qual foi a palavra que Ele falou contigo? Por favor, não me escondas. Que Deus te castigue ainda mais, se tu esconderes alguma coisa de mim das palavras que Ele falou a ti""." ^v17
 
-**18** Então Samuel lhe contou todas aquelas palavras, e nada lhe encobriu. E disse ele: Ele é o Senhor; faça o que bem parecer aos seus olhos. ^v18
+**18** "Samuel contou-lhe tudo; não escondeu nada dele. Eli disse: ""Ele é Yahweh. Que Ele faça o que Lhe parecer bom""." ^v18
 
-**19** E crescia Samuel, e o Senhor era com ele, e nenhuma de todas as suas palavras deixou cair em terra. ^v19
+**19** Samuel crescia. Yahweh estava com ele e não permitiu que nenhuma de Suas palavras proféticas deixassem de acontecer. ^v19
 
-**20** E todo o Israel, desde Dã até Berseba, conheceu que Samuel estava confirmado por profeta do Senhor. ^v20
+**20** Todo o Israel, desde Dã até Berseba, soube que Samuel foi escolhido para ser um profeta de Yahweh. ^v20
 
-**21** E continuou o Senhor a aparecer em Siló; porquanto o Senhor se manifestava a Samuel em Siló pela palavra do Senhor. ^v21
+**21** Yahweh apareceu novamente, em Siló, pois ele Se revelou a Samuel em Siló pela Sua palavra. ^v21

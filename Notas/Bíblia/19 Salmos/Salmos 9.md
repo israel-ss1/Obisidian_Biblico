@@ -1,47 +1,44 @@
 ---
-Livro: "[[Salmos|Salmos]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Salmos|Salmos]]"
+tags: [biblia]
 ---
 
 # Salmos 9
 
-**1** Eu te louvarei, Senhor, com todo o meu coração; contarei todas as tuas maravilhas. ^v1
+**2** Eu estarei alegre, regozijarei em Ti; cantarei louvores ao Teu nome, ó Altíssimo! ^v2
 
-**2** Em ti me alegrarei e saltarei de prazer; cantarei louvores ao teu nome, ó Altíssimo. ^v2
+**3** Quando meus inimigos retrocedem, eles caem e perecem diante de Ti. ^v3
 
-**3** Porquanto os meus inimigos retornaram, caíram e pereceram diante da tua face. ^v3
+**4** Pois tu tens defendido minha justa causa; Tu sentas no Teu trono, ó justo juiz! ^v4
 
-**4** Pois tu tens sustentado o meu direito e a minha causa; tu te assentaste no tribunal, julgando justamente;. ^v4
+**5** Tu aterrorizaste as nações com o Teu grito de guerra; Tu destruíste os ímpios e apagaste suas memórias para sempre. ^v5
 
-**5** Repreendeste as nações, destruíste os ímpios; apagaste o seu nome para sempre e eternamente. ^v5
+**6** Os inimigos caíram como ruínas, quando Tu derrubaste suas cidades. Todas as suas lembranças pereceram. ^v6
 
-**6** Oh! inimigo! acabaram-se para sempre as assolações; e tu arrasaste as cidades, e a sua memória pereceu com elas. ^v6
+**7** Mas Yahweh permanece para sempre; Ele estabelece o Seu trono para julgar. ^v7
 
-**7** Mas o Senhor está assentado perpetuamente; já preparou o seu tribunal para julgar. ^v7
+**8** Ele julga o mundo de forma justa. Ele faz decisões justas para as nações. ^v8
 
-**8** Ele mesmo julgará o mundo com justiça; exercerá juízo sobre povos com retidão. ^v8
+**9** Yahweh também será uma fortaleza para os oprimidos, uma fortaleza em tempos difíceis. ^v9
 
-**9** O Senhor será também um alto refúgio para o oprimido; um alto refúgio em tempos de angústia. ^v9
+**10** Aqueles que conhecem o Seu nome confiam em Ti, pois Tu, Yahweh, não abandonas aqueles que Te procuram. ^v10
 
-**10** Em ti confiarão os que conhecem o teu nome; porque tu, Senhor, nunca desamparaste os que te buscam. ^v10
+**11** Adorai a Yahweh, que reina em Sião; anunciai às nações o que Ele tem feito. ^v11
 
-**11** Cantai louvores ao Senhor, que habita em Sião; anunciai entre os povos os seus feitos. ^v11
+**12** Pois Deus, que vinga o sangue derramado, lembra-Se deles e não Se esquece do choro dos oprimidos. ^v12
 
-**12** Pois quando inquire do derramamento de sangue, lembra-se deles: não se esquece do clamor dos aflitos. ^v12
+**13** Tem misericórdia de mim, Yahweh; vê como sou oprimido por aqueles que me odeiam, Tu, que podes me levantar dos portões da morte. ^v13
 
-**13** Tem misericórdia de mim, Senhor, olha para a minha aflição, causada por aqueles que me odeiam; tu que me levantas das portas da morte;. ^v13
+**14** Ó, que eu possa proclamar todo o Seu louvor! Nos portões da filha de Sião, eu me regozijarei em Tua salvação! ^v14
 
-**14** Para que eu conte todos os teus louvores nas portas da filha de Sião, e me alegre na tua salvação. ^v14
+**15** As nações afundaram na cova que elas mesmas criaram; seus pés estão presos nas armadilhas que elas esconderam. ^v15
 
-**15** Os gentios enterraram-se na cova que fizeram; na rede que ocultaram ficou preso o seu pé. ^v15
+**16** Yahweh fez-Se conhecido; Ele executa os Seus julgamentos; os maus caem nas armadilhas de suas próprias ações. [Interlúdio] ^v16
 
-**16** O Senhor é conhecido pelo juízo que fez; enlaçado foi o ímpio nas obras de suas mãos. (Higaiom; Selá.). ^v16
+**17** Os corruptos voltam para trás, são mandados ao Sheol; este é o destino de todas as nações que se esquecem de Deus. ^v17
 
-**17** Os ímpios serão lançados no inferno, e todas as nações que se esquecem de Deus. ^v17
+**18** Mas os necessitados nem sempre serão esquecidos, nem a esperança dos oprimidos será frustrada. ^v18
 
-**18** Porque o necessitado não será esquecido para sempre, nem a expectação dos pobres perecerá perpetuamente. ^v18
+**19** Levanta-te, Yahweh; não deixes o homem nos vencer; que as nações sejam julgadas na Tua presença. ^v19
 
-**19** Levanta-te, Senhor; não prevaleça o homem; sejam julgados os gentios diante da tua face. ^v19
-
-**20** Põe-os em medo, Senhor, para que saibam as nações que são formadas por meros homens. (Selá.). ^v20
+**20** Apavora-os, Yahweh; que as nações saibam que são meramente mortais. [Interlúdio] ^v20

@@ -1,53 +1,52 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Jeremias|Jeremias]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Jeremias|Jeremias]]"
+tags: [biblia]
 ---
 
 # Jeremias 18
 
-**1** A palavra do SENHOR, que veio a Jeremias, dizendo: ^v1
+**1** Esta é a palavra de Yahweh que veio a Jeremias, dizendo: ^v1
 
-**2** Levanta-te, e desce à casa do oleiro, e lá te farei ouvir as minhas palavras. ^v2
+**2** "“Levanta-te e vai à casa do oleiro, pois lá te farei ouvir Minha palavra""." ^v2
 
-**3** E desci à casa do oleiro, e eis que ele estava fazendo a sua obra sobre as rodas, ^v3
+**3** Então, fui para a casa do oleiro e eis que ele estava trabalhando em sua roda. ^v3
 
-**4** Como o vaso, que ele fazia de barro, quebrou-se na mão do oleiro, tornou a fazer dele outro vaso, conforme o que pareceu bem aos olhos do oleiro fazer. ^v4
+**4** Mas o vaso de barro que ele estava moldando se estragou em suas mãos; então, ele mudou de ideia e fez outro vaso, que pareceu bom aos seus olhos. ^v4
 
-**5** Então veio a mim a palavra do Senhor, dizendo: ^v5
+**5** E a palavra de Yahweh veio a mim, dizendo: ^v5
 
-**6** Não poderei eu fazer de vós como fez este oleiro, ó casa de Israel? diz o Senhor. Eis que, como o barro na mão do oleiro, assim sois vós na minha mão, ó casa de Israel. ^v6
+**6** """Não poderia Eu agir contigo, ó casa de Israel, da mesma maneira que o oleiro? – Esta é a declaração de Yahweh. Vede! Como o barro na mão do oleiro, assim sois vós na Minha mão, ó casa de Israel." ^v6
 
-**7** No momento em que falar contra uma nação, e contra um reino para arrancar, e para derrubar, e para destruir, ^v7
+**7** Em um momento, Eu posso proclamar algo sobre uma nação ou reino que irei arrancar, derrubar ou destruir. ^v7
 
-**8** Se a tal nação, porém, contra a qual falar se converter da sua maldade, também eu me arrependerei do mal que pensava fazer-lhe. ^v8
+**8** Mas se a nação sobre a qual Eu fizer essa proclamação se converter de seu mal, então, Eu Me arrependerei da calamidade que planejava trazer sobre ela. ^v8
 
-**9** No momento em que falar de uma nação e de um reino, para edificar e para plantar, ^v9
+**9** Em outro momento, Eu posso proclamar algo sobre uma nação ou reino que irei edificar ou plantar. ^v9
 
-**10** Se fizer o mal diante dos meus olhos, não dando ouvidos à minha voz, então me arrependerei do bem que tinha falado que lhe faria. ^v10
+**10** Mas, se eles fizerem mal diante dos Meus olhos, por não ouvirem a Minha voz, então, Eu não mais farei o bem que havia dito que lhes faria. ^v10
 
-**11** Ora, pois, fala agora aos homens de Judá, e aos moradores de Jerusalém, dizendo: Assim diz o Senhor: Eis que estou forjando mal contra vós; e projeto um plano contra vós; convertei-vos, pois, agora cada um do seu mau caminho, e melhorai os vossos caminhos e as vossas ações. ^v11
+**11** Então, agora, fala aos homens de Judá e aos moradores de Jerusalém dizendo: 'Assim diz Yahweh: Vede, Eu estou planejando uma calamidade contra vós. Arrependei-vos, cada um, do seu mau caminho, para que vossos caminhos e práticas vos tragam coisas boas'. ^v11
 
-**12** Mas eles dizem: Não há esperança, porque andaremos segundo as nossas imaginações; e cada um fará segundo o propósito do seu mau coração. ^v12
+**12** Mas eles dirão: 'Não há esperança. Agiremos de acordo com os nossos próprios planos, de acordo com o que deseja cada coração perverso e teimoso'. ^v12
 
-**13** Portanto, assim diz o Senhor: Perguntai agora entre os gentios quem ouviu tal coisa? Coisa mui horrenda fez a virgem de Israel. ^v13
+**13** Portanto, assim diz Yahweh: 'Perguntai às nações: quem, alguma vez, ouviu tal coisa? A virgem de Israel cometeu um ato terrível. ^v13
 
-**14** Porventura a neve do Líbano deixará a rocha do campo ou esgotar-se-ão as águas frias que correm de terras estranhas? ^v14
+**14** Por acaso, a neve do Líbano desaparece nas encostas dos montes rochosos? Por acaso, os riachos das montanhas, que vêm de longe, perdem suas águas frias? ^v14
 
-**15** Contudo o meu povo se tem esquecido de mim, queimando incenso à vaidade, que os fez tropeçar nos seus caminhos, e nas veredas antigas, para que andassem por veredas afastadas, não aplainadas; ^v15
+**15** Contudo, Meu povo se esqueceu de Mim. Eles têm dado ofertas a ídolos falsos, que os fizeram tropeçar em seus caminhos; eles deixaram os caminhos antigos para andar em atalhos não aplainados. ^v15
 
-**16** Para fazerem da sua terra objeto de espanto e de perpétuos assobios; todo aquele que passar por ela se espantará, e meneará a sua cabeça; ^v16
+**16** Suas terras se tornarão um terror, um objeto de eterno desprezo. Todos os que passarem por ela irão estremecer e balançar suas cabeças. ^v16
 
-**17** Com vento oriental os espalharei diante do inimigo; mostrar-lhes-ei as costas e não o rosto, no dia da sua perdição. ^v17
+**17** "Eu os dispersarei diante de seus inimigos como o vento oriental. Eu lhes mostrarei minhas costas e não minha face, no dia da sua calamidade.""" ^v17
 
-**18** Então disseram: Vinde, e maquinemos projetos contra Jeremias; porque não perecerá a lei do sacerdote, nem o conselho do sábio, nem a palavra do profeta; vinde e firamo-lo com a língua, e não atendamos a nenhuma das suas palavras. ^v18
+**18** "Então, o povo disse: ""Vinde e façamos planos contra Jeremias, uma vez que a lei dos sacerdotes, ou o conselho dos sábios, ou as palavras dos profetas, nunca se acabarão. Vinde e o ataquemos com nossas palavras e não prestemos atenção em nada do que ele proclamar""." ^v18
 
-**19** Olha para mim, Senhor, e ouve a voz dos que contendem comigo. ^v19
+**19** Atenta para mim, Yahweh, e escuta a voz de meus inimigos. ^v19
 
-**20** Porventura pagar-se-á mal por bem? Pois cavaram uma cova para a minha alma. Lembra-te de que eu compareci à tua presença, para falar a favor deles, e para desviar deles a tua indignação; ^v20
+**20** Será que a sua calamidade, realmente, será minha recompensa por ser bondoso para com eles? Pois eles cavaram uma cova para mim. Lembra-Te como me levantei diante de Ti para falar em favor deles e fazer Tua fúria se desviar deles. ^v20
 
-**21** Portanto entrega seus filhos à fome, e entrega-os ao poder da espada, e sejam suas mulheres roubadas dos filhos, e fiquem viúvas; e seus maridos sejam feridos de morte, e os seus jovens sejam feridos à espada na peleja. ^v21
+**21** Portanto, entrega seus filhos à fome e lhes entrega ao poder da espada. Que suas mulheres fiquem sem os filhos e se tornem viúvas; que seus homens e seus jovens sejam mortos pela espada na batalha; ^v21
 
-**22** Ouça-se o clamor de suas casas, quando de repente trouxeres uma tropa sobre eles. Porquanto cavaram uma cova para prender-me e armaram laços aos meus pés. ^v22
+**22** que um grito de angústia seja ouvido de suas casas, quando, de repente, trouxeres invasores contra eles. Pois cavaram uma cova para me capturar e esconderam armadilhas para meus pés. ^v22
 
-**23** Mas tu, ó Senhor, sabes todo o seu conselho contra mim para matar-me; não perdoes a sua maldade, nem apagues o seu pecado de diante da tua face; mas tropecem diante de ti; trata-os assim no tempo da tua ira. ^v23
+**23** Mas Tu, Yahweh, conheces todos os seus planos para me matar. Não perdoes suas iniquidades e pecados; não apagues seus pecados diante de Ti. Em vez disso, que eles sejam derrotados diante de Ti. Age contra eles no tempo da Tua ira. ^v23

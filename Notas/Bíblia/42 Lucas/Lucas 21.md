@@ -1,83 +1,82 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Lucas|Lucas]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Lucas|Lucas]]"
+tags: [biblia]
 ---
 
 # Lucas 21
 
-**1** E, olhando ele, viu os ricos lançarem as suas ofertas na arca do tesouro; ^v1
+**1** Jesus levantou os olhos e viu os ricos que lançavam suas ofertas no gazofilácio. ^v1
 
-**2** E viu também uma pobre viúva lançar ali duas pequenas moedas; ^v2
+**2** E viu certa viúva pobre lançando ali duas pequenas moedas. ^v2
 
-**3** E disse: Em verdade vos digo que lançou mais do que todos, esta pobre viúva; ^v3
+**3** Então, disse: “Em verdade vos digo que esta viúva pobre deu mais do que todos eles. ^v3
 
-**4** Porque todos aqueles deitaram para as ofertas de Deus do que lhes sobeja; mas esta, da sua pobreza, deitou todo o sustento que tinha. ^v4
+**4** Pois todos eles deram ofertas do que lhes sobrava. Mas esta viúva, da sua pobreza, deu tudo o que tinha para viver”. ^v4
 
-**5** E, dizendo alguns a respeito do templo, que estava ornado de formosas pedras e dádivas, disse: ^v5
+**5** E alguns falavam acerca do templo, como ele era adornado com lindas pedras e de ofertas provenientes de votos. ^v5
 
-**6** Quanto a estas coisas que vedes, dias virão em que não se deixará pedra sobre pedra, que não seja derrubada. ^v6
+**6** Então Jesus disse: “Quanto a estas coisas que vedes, dias virão em que não ficará pedra sobre pedra que não seja derrubada”. ^v6
 
-**7** E perguntaram-lhe, dizendo: Mestre, quando serão, pois, estas coisas? E que sinal haverá quando isto estiver para acontecer? ^v7
+**7** "Eles então Lhe perguntaram: ""Mestre, quando acontecerão essas coisas? E qual será o sinal quando essas coisas estiverem para acontecer?”" ^v7
 
-**8** Disse então ele: Vede não vos enganem, porque virão muitos em meu nome, dizendo: Sou eu, e o tempo está próximo. Não vades, portanto, após eles. ^v8
+**8** "Jesus respondeu: ""Tende cuidado para não serdes enganados, pois muitos virão em Meu nome, dizendo: 'Eu sou ele' e 'O tempo está próximo'. Não os sigais." ^v8
 
-**9** E, quando ouvirdes de guerras e sedições, não vos assusteis. Porque é necessário que isto aconteça primeiro, mas o fim não será logo. ^v9
+**9** Quando ouvirdes de guerras e revoluções, não vos assusteis, pois é necessário que primeiro aconteçam essas coisas, mas o fim não virá imediatamente”. ^v9
 
-**10** Então lhes disse: Levantar-se-á nação contra nação, e reino contra reino; ^v10
+**10** "Então Ele disse: ""Nação se levantará contra nação, reino contra reino." ^v10
 
-**11** E haverá em vários lugares grandes terremotos, e fomes e pestilências; haverá também coisas espantosas, e grandes sinais do céu. ^v11
+**11** Ocorrerão grandes terremotos e, em vários lugares, fomes e pestes. Ocorrerão eventos terríveis e grandes sinais vindos do céu. ^v11
 
-**12** Mas antes de todas estas coisas lançarão mão de vós, e vos perseguirão, entregando-vos às sinagogas e às prisões, e conduzindo-vos à presença de reis e presidentes, por amor do meu nome. ^v12
+**12** Mas, antes de tudo isso, lançarão as mãos sobre vós e vos perseguirão, e sereis entregues às sinagogas e prisões e também sereis conduzidos à presença de reis e governadores por causa do Meu nome. ^v12
 
-**13** E vos acontecerá isto para testemunho. ^v13
+**13** Isso resultará em oportunidades para vosso testemunho. ^v13
 
-**14** Proponde, pois, em vossos corações não premeditar como haveis de responder; ^v14
+**14** Portanto resolvei em vossos corações de não preparardes antecipadamente vossa defesa, ^v14
 
-**15** Porque eu vos darei boca e sabedoria a que não poderão resistir nem contradizer todos quantos se vos opuserem. ^v15
+**15** pois Eu vos darei as palavras e a sabedoria, às quais nenhum dos vossos adversários poderá resistir ou contradizer. ^v15
 
-**16** E até pelos pais, e irmãos, e parentes, e amigos sereis entregues; e matarão alguns de vós. ^v16
+**16** E sereis entregues também por pais, irmãos, parentes e amigos, e eles matarão alguns de vós. ^v16
 
-**17** E de todos sereis odiados por causa do meu nome. ^v17
+**17** E sereis odiados por todos por causa de Meu nome. ^v17
 
-**18** Mas não perecerá um único cabelo da vossa cabeça. ^v18
+**18** Mas nem um só fio de cabelo da vossa cabeça perecerá. ^v18
 
-**19** Na vossa paciência possuí as vossas almas. ^v19
+**19** Na vossa perseverança, ganhareis as vossas almas. ^v19
 
-**20** Mas, quando virdes Jerusalém cercada de exércitos, sabei então que é chegada a sua desolação. ^v20
+**20** Quando virdes os exércitos cercarem Jerusalém, então sabei que sua desolação se aproxima. ^v20
 
-**21** Então, os que estiverem na Judéia, fujam para os montes; os que estiverem no meio da cidade, saiam; e os que nos campos não entrem nela. ^v21
+**21** Então os que estiverem na Judéia fujam para os montes, e os que estiverem no meio da cidade saiam, e os que estiverem nos campos não entrem nela. ^v21
 
-**22** Porque dias de vingança são estes, para que se cumpram todas as coisas que estão escritas. ^v22
+**22** Porque estes são dias de vingança, em cumprimento de tudo que foi escrito. ^v22
 
-**23** Mas ai das grávidas, e das que criarem naqueles dias! porque haverá grande aperto na terra, e ira sobre este povo. ^v23
+**23** Ai daquelas que estiverem grávidas e das que estiverem amamentando naqueles dias! Pois haverá grande aflição sobre a terra e ira contra este povo. ^v23
 
-**24** E cairão ao fio da espada, e para todas as nações serão levados cativos; e Jerusalém será pisada pelos gentios, até que os tempos dos gentios se completem. ^v24
+**24** E morrerão a fio de espada e serão levados cativos para todas as nações, e Jerusalém será pisada pelos gentios, até que os tempos deles sejam cumpridos. ^v24
 
-**25** E haverá sinais no sol e na lua e nas estrelas; e na terra angústia das nações, em perplexidade pelo bramido do mar e das ondas. ^v25
+**25** E haverá sinais no sol, na lua e nas estrelas. Sobre a terra, haverá angústia entre as nações, desesperadas pelo bramido e a agitação do mar e das ondas. ^v25
 
-**26** Homens desmaiando de terror, na expectação das coisas que sobrevirão ao mundo; porquanto as virtudes do céu serão abaladas. ^v26
+**26** Haverá homens desmaiando de medo, na expectativa das coisas que sobrevirão ao mundo. Pois os poderes dos céus serão abalados. ^v26
 
-**27** E então verão vir o Filho do homem numa nuvem, com poder e grande glória. ^v27
+**27** Então eles verão o Filho do Homem vir numa nuvem, com poder e grande glória. ^v27
 
-**28** Ora, quando estas coisas começarem a acontecer, olhai para cima e levantai as vossas cabeças, porque a vossa redenção está próxima. ^v28
+**28** Mas, quando essas coisas começarem a acontecer, levantai e erguei as vossas cabeças, porque vossa redenção se aproxima”. ^v28
 
-**29** E disse-lhes uma parábola: Olhai para a figueira, e para todas as árvores; ^v29
+**29** E Jesus contou-lhes uma parábola: “Vede a figueira e as demais árvores. ^v29
 
-**30** Quando já têm rebentado, vós sabeis por vós mesmos, vendo-as, que perto está já o verão. ^v30
+**30** Quando elas dão brotos, por vós mesmos, sabeis que o verão já se aproxima. ^v30
 
-**31** Assim também vós, quando virdes acontecer estas coisas, sabei que o reino de Deus está perto. ^v31
+**31** Assim também vós, quando virdes essas coisas acontecendo, sabei que o reino de Deus está próximo. ^v31
 
-**32** Em verdade vos digo que não passará esta geração até que tudo aconteça. ^v32
+**32** Verdadeiramente eu vos digo, não passará esta geração até que todas essas coisas aconteçam. ^v32
 
-**33** Passará o céu e a terra, mas as minhas palavras não hão de passar. ^v33
+**33** O céu e a terra passarão, mas as Minhas palavras jamais passarão. ^v33
 
-**34** E olhai por vós, não aconteça que os vossos corações se carreguem de glutonaria, de embriaguez, e dos cuidados da vida, e venha sobre vós de improviso aquele dia. ^v34
+**34** E tende cuidado de vós mesmos, para que vossos corações não estejam sobrecarregados com as consequências das orgias, da embriaguez e das preocupações da vida. Para que aquele dia não venha sobre vós repentinamente, como armadilha. ^v34
 
-**35** Porque virá como um laço sobre todos os que habitam na face de toda a terra. ^v35
+**35** Pois ele virá sobre todo ser vivente sobre a face da terra. ^v35
 
-**36** Vigiai, pois, em todo o tempo, orando, para que sejais havidos por dignos de evitar todas estas coisas que hão de acontecer, e de estar em pé diante do Filho do homem. ^v36
+**36** "Mas estai em alerta por todo o tempo, orando para terdes a força suficiente para escapar de todas essas coisas que acontecerão, e permanecerdes na presença do Filho do Homem""." ^v36
 
-**37** E de dia ensinava no templo, e à noite, saindo, ficava no monte chamado das Oliveiras. ^v37
+**37** E, durante os dias, Ele estava ensinando no templo e à noite saía e pernoitava no monte que é chamado 'das Oliveiras'. ^v37
 
-**38** E todo o povo ia ter com ele ao templo, de manhã cedo, para o ouvir. ^v38
+**38** Todas as pessoas vinham de manhã cedo ao templo para ouvi-Lo. ^v38

@@ -1,79 +1,78 @@
 ---
-Livro: "[[Romanos|Romanos]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Romanos|Romanos]]"
+tags: [biblia]
 ---
 
 # Romanos 11
 
-**1** Digo, pois: Porventura rejeitou Deus o seu povo? De modo nenhum; porque também eu sou israelita, da descendência de Abraão, da tribo de Benjamim. ^v1
+**1** Eu pergunto então: Deus rejeitou Seu povo? De modo algum. Pois eu também sou um israelita, um descendente de Abraão, da tribo de Benjamim. ^v1
 
-**2** Deus não rejeitou o seu povo, que antes conheceu. Ou não sabeis o que a Escritura diz de Elias, como fala a Deus contra Israel, dizendo: ^v2
+**2** Deus não rejeitou Seu povo, a quem de antemão conheceu. Não sabeis o que a Escritura diz sobre Elias, como ele suplicou ao Senhor contra Israel? ^v2
 
-**3** Senhor, mataram os teus profetas, e derribaram os teus altares; e só eu fiquei, e buscam a minha alma? ^v3
+**3** """Senhor, eles mataram Teus profetas, quebraram Teus altares, e só eu fiquei, e eles buscam tirar minha vida""." ^v3
 
-**4** Mas que lhe diz a resposta divina? Reservei para mim sete mil homens, que não dobraram os joelhos a Baal. ^v4
+**4** "Mas, o que Deus lhe respondeu? ""Eu reservei para Mim mesmo sete mil homens que não dobraram os joelhos a Baal""." ^v4
 
-**5** Assim, pois, também agora neste tempo ficou um remanescente, segundo a eleição da graça. ^v5
+**5** Assim também, neste tempo presente, há um remanescente, por causa da eleição da graça. ^v5
 
-**6** Mas se é por graça, já não é pelas obras; de outra maneira, a graça já não é graça. Se, porém, é pelas obras, já não é mais graça; de outra maneira a obra já não é obra. ^v6
+**6** "Mas, se é pela graça, já não é mais pelas obras. Caso contrário, a graça não seria graça. [(Algumas cópias antigas traduzem:) ""Todavia, se é por obras, então não é mais pela graça; de outra maneira, obras não seriam obras"".]" ^v6
 
-**7** Pois quê? O que Israel buscava não o alcançou; mas os eleitos o alcançaram, e os outros foram endurecidos. ^v7
+**7** E então? As coisas que Israel procura, isso não alcançou, mas os eleitos as alcançaram, e os demais foram endurecidos. ^v7
 
-**8** Como está escrito: Deus lhes deu espírito de profundo sono, olhos para não verem, e ouvidos para não ouvirem, até ao dia de hoje. ^v8
+**8** "Exatamente como está escrito: ""Deus lhes deu um espírito de entorpecimento, olhos para que não vejam, e ouvidos para que não ouçam, até o dia de hoje""." ^v8
 
-**9** E Davi diz: Torne-se-lhes a sua mesa em laço, e em armadilha, E em tropeço, por sua retribuição; ^v9
+**9** "Então Davi diz: ""Que sua mesa se torne uma rede e uma armadilha, uma pedra de tropeço e uma retaliação para eles." ^v9
 
-**10** Escureçam-se-lhes os olhos para não verem, E encurvem-se-lhes continuamente as costas. ^v10
+**10** "Que seus olhos sejam escurecidos para que não vejam, e as suas costas encurvadas para sempre""." ^v10
 
-**11** Digo, pois: Porventura tropeçaram, para que caíssem? De modo nenhum, mas pela sua queda veio a salvação aos gentios, para os incitar à emulação. ^v11
+**11** Pergunto, então: eles tropeçaram para cair? De maneira alguma. Em vez disso, por seu fracasso, veio a salvação para os gentios, a fim de provocar-lhes ciúmes. ^v11
 
-**12** E se a sua queda é a riqueza do mundo, e a sua diminuição a riqueza dos gentios, quanto mais a sua plenitude! ^v12
+**12** Agora, se o fracasso deles é a riqueza do mundo, e a sua perda é a riqueza dos gentios, quanto maior será sua plenitude? ^v12
 
-**13** Porque convosco falo, gentios, que, enquanto for apóstolo dos gentios, exalto o meu ministério; ^v13
+**13** Mas agora falo a vós, gentios, uma vez que sou um apóstolo para os gentios, glorifico o meu ministério. ^v13
 
-**14** Para ver se de alguma maneira posso incitar à emulação os da minha carne e salvar alguns deles. ^v14
+**14** Talvez eu provocarei ciúmes àqueles que são da minha própria carne, e, talvez, alguns sejam salvos. ^v14
 
-**15** Porque, se a sua rejeição é a reconciliação do mundo, qual será a sua admissão, senão a vida dentre os mortos? ^v15
+**15** Pois, se a rejeição deles é a reconciliação do mundo, o que será a sua aceitação, senão vida dentre os mortos? ^v15
 
-**16** E, se as primícias são santas, também a massa o é; se a raiz é santa, também os ramos o são. ^v16
+**16** Se os primeiros frutos são santos, a massa também é; se a raiz é santa, os ramos também são. ^v16
 
-**17** E se alguns dos ramos foram quebrados, e tu, sendo zambujeiro, foste enxertado em lugar deles, e feito participante da raiz e da seiva da oliveira, ^v17
+**17** Mas, se alguns dos ramos foram quebrados, e tu, um ramo de oliveira silvestre, foste enxertado entre eles, e te tornaste participante com eles da rica raiz da oliveira, ^v17
 
-**18** Não te glories contra os ramos; e, se contra eles te gloriares, não és tu que sustentas a raiz, mas a raiz a ti. ^v18
+**18** não te glories contra os ramos. Mas, se te gloriares, sabe que não és tu que suportas a raiz, mas a raiz que te suporta. ^v18
 
-**19** Dirás, pois: Os ramos foram quebrados, para que eu fosse enxertado. ^v19
+**19** "Tu então dirás: ""Os ramos foram quebrados para que eu fosse enxertado""." ^v19
 
-**20** Está bem; pela sua incredulidade foram quebrados, e tu estás em pé pela fé. Então não te ensoberbeças, mas teme. ^v20
+**20** Verdade! Por causa da incredulidade deles, eles foram quebrados, mas tu permaneces por tua fé. Não penses muito de ti mesmo, mas teme. ^v20
 
-**21** Porque, se Deus não poupou os ramos naturais, teme que não te poupe a ti também. ^v21
+**21** Porque, se Deus não poupou os ramos naturais, também não te poupará. ^v21
 
-**22** Considera, pois, a bondade e a severidade de Deus: para com os que caíram, severidade; mas para contigo, benignidade, se permaneceres na sua benignidade; de outra maneira também tu serás cortado. ^v22
+**22** Observa, então, a bondade e a severidade de Deus. Por um lado, a severidade veio sobre os judeus que caíram; mas por outro lado, a bondade de Deus veio sobre ti, se permaneceres em Sua bondade. Caso contrário, tu também serás cortado. ^v22
 
-**23** E também eles, se não permanecerem na incredulidade, serão enxertados; porque poderoso é Deus para os tornar a enxertar. ^v23
+**23** E eles também, se não permanecerem na sua incredulidade, serão enxertados de volta. Pois Deus é capaz de enxertá-los novamente. ^v23
 
-**24** Porque, se tu foste cortado do natural zambujeiro e, contra a natureza, enxertado na boa oliveira, quanto mais esses, que são naturais, serão enxertados na sua própria oliveira! ^v24
+**24** Porque, se foste cortado da oliveira silvestre por natureza e, contrariamente à natureza, foste enxertado na boa oliveira, quanto mais os judeus, que são ramos naturais, serão enxertados de volta em sua própria oliveira? ^v24
 
-**25** Porque não quero, irmãos, que ignoreis este segredo (para que não presumais de vós mesmos): que o endurecimento veio em parte sobre Israel, até que a plenitude dos gentios haja entrado. ^v25
+**25** Porque, irmãos, eu não quero que fiqueis sem saber deste mistério, a fim de que não sejais sábios em vosso próprio pensamento. Este mistério é que ocorreu um endurecimento parcial a Israel, até que chegue a plenitude dos gentios. ^v25
 
-**26** E assim todo o Israel será salvo, como está escrito: De Sião virá o Libertador, E desviará de Jacó as impiedades. ^v26
+**26** "Assim, todo o Israel será salvo, como está escrito: ""Virá de Sião o Libertador. Ele removerá a impiedade de Jacó." ^v26
 
-**27** E esta será a minha aliança com eles, Quando eu tirar os seus pecados. ^v27
+**27** "E esta será a Minha aliança com eles, quando Eu retirar os seus pecados""." ^v27
 
-**28** Assim que, quanto ao evangelho, são inimigos por causa de vós; mas, quanto à eleição, amados por causa dos pais. ^v28
+**28** Quanto ao Evangelho, eles são odiados por vossa causa; todavia, quanto à escolha de Deus, eles são amados por causa dos antepassados. ^v28
 
-**29** Porque os dons e a vocação de Deus são sem arrependimento. ^v29
+**29** Pois os dons e o chamado de Deus são imutáveis. ^v29
 
-**30** Porque assim como vós também antigamente fostes desobedientes a Deus, mas agora alcançastes misericórdia pela desobediência deles, ^v30
+**30** Pois, antigamente, fostes desobedientes a Deus; mas, agora, recebestes misericórdia por causa da desobediência deles. ^v30
 
-**31** Assim também estes agora foram desobedientes, para também alcançarem misericórdia pela misericórdia a vós demonstrada. ^v31
+**31** Do mesmo modo, esses judeus agora têm sido desobedientes. O resultado foi que, através da misericórdia mostrada a vós, eles também podem receber misericórdia agora. ^v31
 
-**32** Porque Deus encerrou a todos debaixo da desobediência, para com todos usar de misericórdia. ^v32
+**32** Pois Deus encerrou todos dentro da desobediência, a fim de que Ele tenha misericórdia de todos. ^v32
 
-**33** Ó profundidade das riquezas, tanto da sabedoria, como da ciência de Deus! Quão insondáveis são os seus juízos, e quão inescrutáveis os seus caminhos! ^v33
+**33** Ó profundidade da riqueza, da sabedoria e do conhecimento de Deus! Quão insondáveis são os Seus juízos, e os Seus caminhos incompreensíveis! ^v33
 
-**34** Por que quem compreendeu a mente do Senhor? ou quem foi seu conselheiro? ^v34
+**34** Pois quem conheceu a mente do Senhor? Ou quem se tornou Seu conselheiro? ^v34
 
-**35** Ou quem lhe deu primeiro a ele, para que lhe seja recompensado? ^v35
+**35** "Ou quem primeiro Lhe deu alguma coisa, para que Deus lhe retribua?""" ^v35
 
-**36** Porque dele e por ele, e para ele, são todas as coisas; glória, pois, a ele eternamente. Amém. ^v36
+**36** Pois Dele, por Ele e para Ele são todas as coisas. A Ele seja a glória para sempre. Amém. ^v36

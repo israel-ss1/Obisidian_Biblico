@@ -1,93 +1,92 @@
 ---
-Livro: "[[Gênesis|Gênesis]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Gênesis|Gênesis]]"
+tags: [biblia]
 ---
 
 # Gênesis 30
 
-**1** Vendo Raquel que não dava filhos a Jacó, teve inveja de sua irmã, e disse a Jacó: Dá-me filhos, se não morro. ^v1
+**1** "Quando Raquel viu que não dava nenhum filho a Jacó, ela sentiu inveja de sua irmã e disse a Jacó: ""Dá-me filhos, senão morrerei""." ^v1
 
-**2** Então se acendeu a ira de Jacó contra Raquel, e disse: Estou eu no lugar de Deus, que te impediu o fruto de teu ventre? ^v2
+**2** "A raiva de Jacó acendeu-se contra Raquel. Ele disse: ""Por acaso estou eu no lugar de Deus, que te impediu de gerar filhos?""" ^v2
 
-**3** E ela disse: Eis aqui minha serva Bila; coabita com ela, para que dê à luz sobre meus joelhos, e eu assim receba filhos por ela. ^v3
+**3** "Ela disse: ""Veja, aqui está a minha escrava Bila. Tenha relações com ela, para que dê à luz e traga filhos ao meu colo, por meio dela""." ^v3
 
-**4** Assim lhe deu a Bila, sua serva, por mulher; e Jacó a possuiu. ^v4
+**4** Assim lhe deu sua escrava Bila por mulher, e Jacó teve relações com ela. ^v4
 
-**5** E concebeu Bila, e deu a Jacó um filho. ^v5
+**5** Bila concebeu e deu a Jacó um filho. ^v5
 
-**6** Então disse Raquel: Julgou-me Deus, e também ouviu a minha voz, e me deu um filho; por isso chamou-lhe Dã. ^v6
+**6** "Então Raquel disse: ""Deus me fez justiça, ouviu a minha voz e deu-me um filho"". Por isso o chamou de Dã." ^v6
 
-**7** E Bila, serva de Raquel, concebeu outra vez, e deu a Jacó o segundo filho. ^v7
+**7** Bila, escrava de Raquel, concebeu novamente e deu a Jacó o segundo filho. ^v7
 
-**8** Então disse Raquel: Com grandes lutas tenho lutado com minha irmã; também venci; e chamou-lhe Naftali. ^v8
+**8** "Raquel disse: ""Tive grandes lutas com minha irmã e venci"". Pelo que o chamou Naftali." ^v8
 
-**9** Vendo, pois, Lia que cessava de ter filhos, tomou também a Zilpa, sua serva, e deu-a a Jacó por mulher. ^v9
+**9** Quando Lia percebeu que havia parado de ter filhos, tomou Zilpa, sua escrava, e deu-a a Jacó por mulher. ^v9
 
-**10** E deu Zilpa, serva de Lia, um filho a Jacó. ^v10
+**10** Zilpa, serva de Lia, deu a Jacó um filho. ^v10
 
-**11** Então disse Lia: Afortunada! e chamou-lhe Gade. ^v11
+**11** "Então Lia disse: ""Afortunada!"" E o chamou Gade." ^v11
 
-**12** Depois deu Zilpa, serva de Lia, um segundo filho a Jacó. ^v12
+**12** Depois Zilpa, serva de Lia, deu o segundo filho a Jacó. ^v12
 
-**13** Então disse Lia: Para minha ventura; porque as filhas me terão por bem-aventurada; e chamou-lhe Aser. ^v13
+**13** "Lia disse: ""Como sou feliz! As filhas me chamarão de feliz."" Então ela o chamou Aser." ^v13
 
-**14** E foi Rúben nos dias da ceifa do trigo, e achou mandrágoras no campo. E trouxe-as a Lia sua mãe. Então disse Raquel a Lia: Ora dá-me das mandrágoras de teu filho. ^v14
+**14** "Nos dias da colheita do trigo, Rúben foi ao campo e achou mandrágoras. Ele as trouxe para Lia, sua mãe . Então Raquel disse a Lia: ""Dá-me algumas das mandrágoras do teu filho""." ^v14
 
-**15** E ela lhe disse: É já pouco que hajas tomado o meu marido, tomarás também as mandrágoras do meu filho? Então disse Raquel: Por isso ele se deitará contigo esta noite pelas mandrágoras de teu filho. ^v15
+**15** "Lia disse-lhe: ""Acaso é pouco que tu tenhas tomado o meu marido? Queres também tomar as mandrágoras do meu filho?"" E disse Raquel: ""Jacó se deitará contigo esta noite em troca das mandrágoras de teu filho""." ^v15
 
-**16** Vindo, pois, Jacó à tarde do campo, saiu-lhe Lia ao encontro, e disse: A mim possuirás, esta noite, porque certamente te aluguei com as mandrágoras do meu filho. E deitou-se com ela aquela noite. ^v16
+**16** "Jacó voltou do campo à tarde. Lia foi ao seu encontro e disse: ""Irás unir-te a mim esta noite, porque eu te aluguei em troca das mandrágoras do meu filho"". Então Jacó deitou-se com Lia naquela noite." ^v16
 
-**17** E ouviu Deus a Lia, e concebeu, e deu à luz um quinto filho. ^v17
+**17** Deus escutou Lia e ela concebeu e deu a Jacó o quinto filho. ^v17
 
-**18** Então disse Lia: Deus me tem dado o meu galardão, pois tenho dado minha serva ao meu marido. E chamou-lhe Issacar. ^v18
+**18** "Lia disse: ""Deus me recompensou, pois dei minha escrava a meu marido"". Ela o chamou Issacar." ^v18
 
-**19** E Lia concebeu outra vez, e deu a Jacó um sexto filho. ^v19
+**19** Lia concebeu outra vez e deu o sexto filho a Jacó. ^v19
 
-**20** E disse Lia: Deus me deu uma boa dádiva; desta vez morará o meu marido comigo, porque lhe tenho dado seis filhos. E chamou-lhe Zebulom. ^v20
+**20** "E disse: ""Deus me deu um bom presente. Agora o meu marido me honrará, pois lhe dei seis filhos"". Ela o chamou Zebulom." ^v20
 
-**21** E depois teve uma filha, e chamou-lhe Diná. ^v21
+**21** Depois, deu à luz uma filha e a chamou Diná. ^v21
 
-**22** E lembrou-se Deus de Raquel; e Deus a ouviu, e abriu a sua madre. ^v22
+**22** Lembrou-se Deus de Raquel. Ele a ouviu e a tornou fecunda. ^v22
 
-**23** E ela concebeu, e deu à luz um filho, e disse: Tirou-me Deus a minha vergonha. ^v23
+**23** "Ela concebeu e deu à luz um filho e disse: ""Deus retirou a minha vergonha""." ^v23
 
-**24** E chamou-lhe José, dizendo: O Senhor me acrescente outro filho. ^v24
+**24** "Ela o chamou José, dizendo: ""Que Yahweh acrescente-me outro filho""." ^v24
 
-**25** E aconteceu que, como Raquel deu à luz a José, disse Jacó a Labão: Deixa-me ir, que me vá ao meu lugar, e à minha terra. ^v25
+**25** "Depois que Raquel deu à luz a José, Jacó disse a Labão: ""Mande-me embora, para que eu volte para minha casa e para minha terra." ^v25
 
-**26** Dá-me as minhas mulheres, e os meus filhos, pelas quais te tenho servido, e ir-me-ei; pois tu sabes o serviço que te tenho feito. ^v26
+**26** "Dá-me minhas mulheres e meus filhos, pelos quais eu te servi e deixe-me ir, pois sabes o serviço que te prestei""." ^v26
 
-**27** Então lhe disse Labão: Se agora tenho achado graça em teus olhos, fica comigo. Tenho experimentado que o Senhor me abençoou por amor de ti. ^v27
+**27** "Labão disse-lhe: ""Se tenho achado favor aos teus olhos, espere, pois eu soube por meio de adivinhações que Yahweh me abençoou por causa de ti""." ^v27
 
-**28** E disse mais: Determina-me o teu salário, que to darei. ^v28
+**28** "Então ele disse: ""Estipula o teu salário e eu te pagarei""." ^v28
 
-**29** Então lhe disse: Tu sabes como te tenho servido, e como passou o teu gado comigo. ^v29
+**29** "Jacó disse-lhe: ""Tu sabes de que maneira te servi e como cuidei do teu rebanho." ^v29
 
-**30** Porque o pouco que tinhas antes de mim tem aumentado em grande número; e o SENHOR te tem abençoado por meu trabalho. Agora, pois, quando hei de trabalhar também por minha casa? ^v30
+**30** "Porque tu tinhas pouco antes da minha vinda, mas depois aumentou grandemente. Yahweh te abençoou por onde trabalhei. Agora, quando trabalharei também por minha casa?""" ^v30
 
-**31** E disse ele: Que te darei? Então disse Jacó: Nada me darás. Se me fizeres isto, tornarei a apascentar e a guardar o teu rebanho; ^v31
+**31** "Então Labão disse: ""O que te darei? Jacó disse: ""Tu não me darás nada. Voltarei a apascentar e a guardar o teu rebanho se fizeres isto por mim:" ^v31
 
-**32** Passarei hoje por todo o teu rebanho, separando dele todos os salpicados e malhados, e todos os morenos entre os cordeiros, e os malhados e salpicados entre as cabras; e isto será o meu salário. ^v32
+**32** Deixa-me passar por todo o teu rebanho hoje, separando dele todos os cabritos manchados e os malhados; e todos os negros entre os cordeiros; e as manchadas e malhadas entre as cabras. Este será o meu salário. ^v32
 
-**33** Assim testificará por mim a minha justiça no dia de amanhã, quando vieres e o meu salário estiver diante de tua face; tudo o que não for salpicado e malhado entre as cabras e moreno entre os cordeiros, ser-me-á por furto. ^v33
+**33** "Minha integridade vai atestar por mim, quando mais tarde verificares o meu salário. Tudo o que não for manchado e malhado entre as cabras, e negro entre os cordeiros; se for achado comigo, será considerado furtado""." ^v33
 
-**34** Então disse Labão: Quem dera seja conforme a tua palavra. ^v34
+**34** "Labão disse: ""Está bem. Que seja de acordo com a tua palavra""." ^v34
 
-**35** E separou naquele mesmo dia os bodes listrados e malhados e todas as cabras salpicadas e malhadas, todos em que havia brancura, e todos os morenos entre os cordeiros; e deu-os nas mãos dos seus filhos. ^v35
+**35** Naquele dia Labão separou os bodes listrados e malhados, e todas as cabras manchadas e malhadas, todas que tinham algum branco e todos os negros entre os cordeiros e deu-os nas mãos dos seus filhos. ^v35
 
-**36** E pôs três dias de caminho entre si e Jacó; e Jacó apascentava o restante dos rebanhos de Labão. ^v36
+**36** Labão pôs três dias de caminhada entre ele e Jacó. E Jacó continuou apascentando o restante dos rebanhos de Labão. ^v36
 
-**37** Então tomou Jacó varas verdes de álamo e de aveleira e de castanheiro, e descascou nelas riscas brancas, descobrindo a brancura que nas varas havia, ^v37
+**37** Jacó tomou varas verdes de estoraque, de amendoeira e de plátano. Descascando-as, fez nelas riscas brancas, fazendo aparecer o branco que nelas havia. ^v37
 
-**38** E pôs estas varas, que tinha descascado, em frente aos rebanhos, nos canos e nos bebedouros de água, aonde os rebanhos vinham beber, para que concebessem quando vinham beber. ^v38
+**38** Então ele pôs as varas que havia descascado em frente aos rebanhos, nos bebedouros onde bebiam. E eles acasalavam quando vinham beber. ^v38
 
-**39** E concebiam os rebanhos diante das varas, e as ovelhas davam crias listradas, salpicadas e malhadas. ^v39
+**39** Os rebanhos acasalavam diante das varas e os rebanhos davam crias listradas, manchadas e malhadas. ^v39
 
-**40** Então separou Jacó os cordeiros, e pôs as faces do rebanho para os listrados, e todo o moreno entre o rebanho de Labão; e pôs o seu rebanho à parte, e não o pôs com o rebanho de Labão. ^v40
+**40** Jacó separou os cordeiros e pôs o rebanho para o lado dos listrados e dos negros no rebanho de Labão. Então ele separou seu rebanho para si e não o colocou com o rebanho de Labão. ^v40
 
-**41** E sucedia que cada vez que concebiam as ovelhas fortes, punha Jacó as varas nos canos, diante dos olhos do rebanho, para que concebessem diante das varas. ^v41
+**41** Todas as vezes que os mais fortes do rebanho acasalavam, Jacó colocava as varas nos bebedouros diante dos olhos do rebanho, para que acasalassem diante das varas. ^v41
 
-**42** Mas, quando era fraco o rebanho, não as punha. Assim as fracas eram de Labão, e as fortes de Jacó. ^v42
+**42** Mas quando os mais fracos do rebanho vinham, ele não colocava as varas na frente deles. Assim os fracos eram de Labão e os fortes eram de Jacó. ^v42
 
-**43** E cresceu o homem em grande maneira, e teve muitos rebanhos, e servas, e servos, e camelos e jumentos. ^v43
+**43** O homem se tornou muito próspero. Ele tinha grandes rebanhos, escravas e escravos, camelos e jumentos. ^v43

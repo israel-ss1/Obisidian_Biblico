@@ -1,61 +1,60 @@
 ---
-Livro: "[[Provérbios|Provérbios]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Provérbios|Provérbios]]"
+tags: [biblia]
 ---
 
 # Provérbios 7
 
-**1** Filho meu, guarda as minhas palavras, e esconde dentro de ti os meus mandamentos. ^v1
+**1** Meu filho, guarda as minhas palavras e conserva os meus mandamentos contigo. ^v1
 
-**2** Guarda os meus mandamentos e vive; e a minha lei, como a menina dos teus olhos. ^v2
+**2** Obedece aos meus mandamentos e vive; guarda a minha instrução como a menina dos teus olhos. ^v2
 
-**3** Ata-os aos teus dedos, escreve-os na tábua do teu coração. ^v3
+**3** Amarra-os aos teus dedos; escreve-os na tábua do teu coração. ^v3
 
-**4** Dize à sabedoria: Tu és minha irmã; e à prudência chama de tua parenta, ^v4
+**4** "Diz à sabedoria: ""És minha irmã"", e chama ao entendimento o teu parente," ^v4
 
-**5** Para que elas te guardem da mulher alheia, da estranha que lisonjeia com as suas palavras. ^v5
+**5** para te guardares da mulher adúltera, da mulher imoral e das suas suaves palavras. ^v5
 
-**6** Porque da janela da minha casa, olhando eu por minhas frestas, ^v6
+**6** Da janela de minha casa, eu estava olhando através das grades, ^v6
 
-**7** Vi entre os simples, descobri entre os moços, um moço falto de juízo, ^v7
+**7** e, vendo os ingênuos, percebi, entre os jovens, um rapaz sem juízo. ^v7
 
-**8** Que passava pela rua junto à sua esquina, e seguia o caminho da sua casa; ^v8
+**8** Aquele rapaz passou pela rua, perto da esquina dela, e foi em direção à sua casa. ^v8
 
-**9** No crepúsculo, à tarde do dia, na tenebrosa noite e na escuridão. ^v9
+**9** Era o crepúsculo, no final do dia, no tempo da noite e da escuridão. ^v9
 
-**10** E eis que uma mulher lhe saiu ao encontro com enfeites de prostituta, e astúcia de coração. ^v10
+**10** Ali a mulher o encontrou, vestida como prostituta, com um coração enganoso. ^v10
 
-**11** Estava alvoroçada e irrequieta; não paravam em sua casa os seus pés. ^v11
+**11** Ela era barulhenta e teimosa, seus pés não paravam em casa, ^v11
 
-**12** Foi para fora, depois pelas ruas, e ia espreitando por todos os cantos; ^v12
+**12** ora nas ruas, ora no mercado, em toda esquina ela ficava à espreita. ^v12
 
-**13** E chegou-se para ele e o beijou. Com face impudente lhe disse: ^v13
+**13** Então, ela o agarrou e o beijou e, atrevidamente, disse: ^v13
 
-**14** Sacrifícios pacíficos tenho comigo; hoje paguei os meus votos. ^v14
+**14** """Fiz minha oferta pacífica hoje, paguei os meus votos." ^v14
 
-**15** Por isto saí ao teu encontro a buscar diligentemente a tua face, e te achei. ^v15
+**15** Então, saí para encontrar-te, procurando, ansiosamente, o teu rosto, e te achei. ^v15
 
-**16** Já cobri a minha cama com cobertas de tapeçaria, com obras lavradas, com linho fino do Egito. ^v16
+**16** Estendi cobertas em minha cama, lençóis coloridos do Egito. ^v16
 
-**17** Já perfumei o meu leito com mirra, aloés e canela. ^v17
+**17** Perfumei o meu leito com mirra, aloés e canela. ^v17
 
-**18** Vem, saciemo-nos de amores até à manhã; alegremo-nos com amores. ^v18
+**18** Vem! Embriaguemo-nos de amor até o amanhecer; saciemo-nos fazendo amores. ^v18
 
-**19** Porque o marido não está em casa; foi fazer uma longa viagem; ^v19
+**19** Pois meu marido não está em casa; ele foi fazer uma longa viagem. ^v19
 
-**20** Levou na sua mão um saquitel de dinheiro; voltará para casa só no dia marcado. ^v20
+**20** "Ele pegou uma bolsa com dinheiro e voltará no dia de lua cheia""." ^v20
 
-**21** Assim, o seduziu com palavras muito suaves e o persuadiu com as lisonjas dos seus lábios. ^v21
+**21** Com seu falar sedutor, ela o persuadiu, e, com seus suaves lábios, o convenceu. ^v21
 
-**22** E ele logo a segue, como o boi que vai para o matadouro, e como vai o insensato para o castigo das prisões; ^v22
+**22** Imediatamente, ele a seguiu, como um boi que vai ao matadouro ou como um cervo pego em uma armadilha, ^v22
 
-**23** Até que a flecha lhe atravesse o fígado; ou como a ave que se apressa para o laço, e não sabe que está armado contra a sua vida. ^v23
+**23** até que uma flecha lhe perfure o fígado, ou como um pássaro que corre para o laço, sem saber que isso lhe custará a vida. ^v23
 
-**24** Agora pois, filhos, dai-me ouvidos, e estai atentos às palavras da minha boca. ^v24
+**24** Agora, meus filhos, escutai-me, prestai atenção às palavras da minha boca. ^v24
 
-**25** Não se desvie para os caminhos dela o teu coração, e não te deixes perder nas suas veredas. ^v25
+**25** Que teu coração não se desvie para os caminhos dela; não andes perdido em suas veredas. ^v25
 
-**26** Porque a muitos feridos derrubou; e são muitíssimos os que por causa dela foram mortos. ^v26
+**26** Ela já causou a queda de muitos; não são poucas as suas vítimas fatais. ^v26
 
-**27** A sua casa é caminho do inferno que desce para as câmaras da morte. ^v27
+**27** Sua casa está nos caminhos para o Sheol, que descem até as câmaras escuras da morte. ^v27

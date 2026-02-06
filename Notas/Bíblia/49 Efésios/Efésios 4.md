@@ -1,71 +1,70 @@
 ---
-Livro: "[[Efésios|Efésios]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Efésios|Efésios]]"
+tags: [biblia]
 ---
 
 # Efésios 4
 
-**1** Rogo-vos, pois, eu, o preso do Senhor, que andeis como é digno da vocação com que fostes chamados, ^v1
+**1** Eu, portanto, como o prisioneiro no Senhor, imploro a vós que andeis de modo digno do chamado que recebestes, ^v1
 
-**2** Com toda a humildade e mansidão, com longanimidade, suportando-vos uns aos outros em amor, ^v2
+**2** que vivais com grande humildade, mansidão e paciência, aceitando uns aos outros em amor. ^v2
 
-**3** Procurando guardar a unidade do Espírito pelo vínculo da paz. ^v3
+**3** Fazei o melhor de vós para manter a unidade do Espírito no vínculo da paz. ^v3
 
-**4** Há um só corpo e um só Espírito, como também fostes chamados em uma só esperança da vossa vocação; ^v4
+**4** Existe um corpo e um Espírito, assim como também vós fostes chamados em uma expectativa confiante do vosso chamado. ^v4
 
-**5** Um só Senhor, uma só fé, um só batismo; ^v5
+**5** E existe um Senhor, uma fé, um batismo, ^v5
 
-**6** Um só Deus e Pai de todos, o qual é sobre todos, e por todos e em todos vós. ^v6
+**6** e um Deus e Pai de todos. Ele é sobre todos por meio de todos e em todos. ^v6
 
-**7** Mas a graça foi dada a cada um de nós segundo a medida do dom de Cristo. ^v7
+**7** Para cada um de nós foi dado um dom de acordo com a medida do dom de Cristo. ^v7
 
-**8** Por isso diz:Subindo ao alto, levou cativo o cativeiro,e deu dons aos homens. ^v8
+**8** "Como dizem as Escrituras: ""Quando Ele subiu às alturas, levou cativo o cativeiro, e deu dons às pessoas”." ^v8
 
-**9** Ora, istoele subiuque é, senão que também antes tinha descido às partes mais baixas da terra? ^v9
+**9** "Qual é o significado de ""Ele subiu"", senão que Ele também desceu às profundezas da terra?" ^v9
 
-**10** Aquele que desceu é também o mesmo que subiu acima de todos os céus, para cumprir todas as coisas. ^v10
+**10** A pessoa que desceu é a mesma que também subiu bem acima de todos os céus, para preencher todas as coisas. ^v10
 
-**11** E ele mesmo deu uns para apóstolos, e outros para profetas, e outros para evangelistas, e outros para pastores e doutores, ^v11
+**11** Cristo deu alguns para serem apóstolos, profetas, evangelistas, e alguns como pastores e mestres. ^v11
 
-**12** Querendo o aperfeiçoamento dos santos, para a obra do ministério, para edificação do corpo de Cristo; ^v12
+**12** Ele deu esses ofícios para equipar Seu santo povo para desempenhar Seu serviço, para a edificação do corpo de Cristo. ^v12
 
-**13** Até que todos cheguemos à unidade da fé, e ao conhecimento do Filho de Deus, a homem perfeito, à medida da estatura completa de Cristo, ^v13
+**13** Ele continua edificando Seu corpo até que todos nós alcancemos a unidade da fé e o conhecimento do Filho de Deus e até que nos tornemos maduros como aqueles que alcançaram a plena estatura de Cristo, ^v13
 
-**14** Para que não sejamos mais meninos inconstantes, levados em roda por todo o vento de doutrina, pelo engano dos homens que com astúcia enganam fraudulosamente. ^v14
+**14** a fim de não sermos mais como crianças que são jogadas para trás e para adiante pelas ondas, levados por todo vento de ensinamento, pelos truques de pessoas em seus esquemas ardilosos. ^v14
 
-**15** Antes, seguindo a verdade em amor, cresçamos em tudo naquele que é a cabeça, Cristo, ^v15
+**15** Em vez disso, falando a verdade em amor, nós estamos crescendo em todos caminhos em direção a Ele, que é a cabeça, Cristo. ^v15
 
-**16** Do qual todo o corpo, bem ajustado, e ligado pelo auxílio de todas as juntas, segundo a justa operação de cada parte, faz o aumento do corpo, para sua edificação em amor. ^v16
+**16** Cristo edifica todo o corpo, o qual está junto e unido pela ajuda de ligamentos; e, quando cada parte trabalha junto, isso faz o corpo crescer e edificar a si mesmo em amor. ^v16
 
-**17** E digo isto, e testifico no Senhor, para que não andeis mais como andam também os outros gentios, na vaidade da sua mente. ^v17
+**17** Portanto eu digo e insisto nisto, no Senhor: que não mais vivais como os gentios vivem, na futilidade de suas mentes. ^v17
 
-**18** Entenebrecidos no entendimento, separados da vida de Deus pela ignorância que há neles, pela dureza do seu coração; ^v18
+**18** Eles estão obscurecidos em seus pensamentos, alienados da vida de Deus pela ignorância que está neles, por causa da dureza de seus corações. ^v18
 
-**19** Os quais, havendo perdido todo o sentimento, se entregaram à dissolução, para com avidez cometerem toda a impureza. ^v19
+**19** Eles não sentem vergonha, tendo se entregado à sensualidade, e eles estão continuamente praticando todo tipo de impureza. ^v19
 
-**20** Mas vós não aprendestes assim a Cristo, ^v20
+**20** Mas não é assim que aprendestes a respeito de Cristo. ^v20
 
-**21** Se é que o tendes ouvido, e nele fostes ensinados, como está a verdade em Jesus; ^v21
+**21** Suponho que ouvistes sobre Ele, e que fostes ensinados Nele, como a verdade está em Jesus. ^v21
 
-**22** Que, quanto ao trato passado, vos despojeis do velho homem, que se corrompe pelas concupiscências do engano; ^v22
+**22** Vós aprendestes a vos despir do que pertence a vossa maneira antiga de viver, despirdes do velho homem. Este é o velho homem que é corrupto por causa destes desejos enganosos. ^v22
 
-**23** E vos renoveis no espírito da vossa mente; ^v23
+**23** Vós fostes ensinados a renovardes no espírito da vossa mente, ^v23
 
-**24** E vos revistais do novo homem, que segundo Deus é criado em verdadeira justiça e santidade. ^v24
+**24** e revestirdes do novo homem que é criado na imagem de Deus, em verdadeira justiça e santidade. ^v24
 
-**25** Por isso deixai a mentira, e falai a verdade cada um com o seu próximo; porque somos membros uns dos outros. ^v25
+**25** Portanto deixai a mentira e falai a verdade para com seu vizinho, porque nós somos membros uns dos outros. ^v25
 
-**26** Irai-vos, e não pequeis; não se ponha o sol sobre a vossa ira. ^v26
+**26** Irai-vos mas não pequeis. Não permitais que o sol se ponha sobre a vossa ira. ^v26
 
-**27** Não deis lugar ao diabo. ^v27
+**27** Não deis oportunidade para o diabo. ^v27
 
-**28** Aquele que furtava, não furte mais; antes trabalhe, fazendo com as mãos o que é bom, para que tenha o que repartir com o que tiver necessidade. ^v28
+**28** Aquele que roubava não roube mais; deve trabalhar, fazendo coisas úteis com as suas mãos, de modo que possa compartilhar com todos que estão em necessidade. ^v28
 
-**29** Não saia da vossa boca nenhuma palavra torpe, mas só a que for boa para promover a edificação, para que dê graça aos que a ouvem. ^v29
+**29** Não permita que alguma palavra imunda saia da vossa boca, fale apenas palavras que sejam úteis para edificar outros, conforme a necessidade. ^v29
 
-**30** E não entristeçais o Espírito Santo de Deus, no qual estais selados para o dia da redenção. ^v30
+**30** E não ofendais o Espírito Santo de Deus, pelo qual fostes selados para o dia da redenção. ^v30
 
-**31** Toda a amargura, e ira, e cólera, e gritaria, e blasfêmia e toda a malícia sejam tiradas dentre vós, ^v31
+**31** Deveis afastar toda amargura, cólera, raiva, gritaria e insultos, juntamente com todo tipo de mal; ^v31
 
-**32** Antes sede uns para com os outros benignos, misericordiosos, perdoando-vos uns aos outros, como também Deus vos perdoou em Cristo. ^v32
+**32** e sede bondosos uns para com os outros, compassivos, perdoando uns aos outros, assim como Deus em Cristo vos perdoou. ^v32

@@ -1,27 +1,26 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Josué|Josué]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Josué|Josué]]"
+tags: [biblia]
 ---
 
 # Josué 16
 
-**1** Saiu depois a sorte dos filhos de José, desde o Jordão, na direção de Jericó, junto às águas de Jericó, para o oriente, estendendo-se pelo deserto que sobe de Jericó pelas montanhas de Betel. ^v1
+**1** A terra distribuída à tribo de José se estendia desde o Jordão até Jericó, ao leste das nascentes de Jericó, pelo deserto que sobe de Jericó através da região montanhosa de Betel. ^v1
 
-**2** E de Betel vai para Luz, e passa ao termo dos arquitas, até Atarote, ^v2
+**2** Ia de Betel até Luz e passava pela região dos arquitas até Atarote. ^v2
 
-**3** E desce do lado do ocidente ao termo de Jafleti, até ao termo de Bete-Horom de baixo, e até Gezer, indo terminar no mar. ^v3
+**3** Então, descia para o oeste até o território dos jafletitas, até o território de Bete-Horom inferior, até Gezer, indo terminar no mar. ^v3
 
-**4** Assim alcançaram a sua herança os filhos de José, Manassés e Efraim. ^v4
+**4** Assim, as tribos de José, Manassés e Efraim receberam sua herança. ^v4
 
-**5** E foi o termo dos filhos de Efraim, segundo as suas famílias, como se segue: o termo da sua herança para o oriente era Atarote-Adar até Bete-Horom de cima; ^v5
+**5** A região da tribo de Efraim foi distribuída segundo seus clãs como segue: a fronteira da sua herança para o leste ia de Atarote-Adar até Bete-Horom superior, ^v5
 
-**6** E sai este termo para o ocidente junto a Micmetá, desde o norte, e torna este termo para o oriente até Taanate-Siló, e passa por ela desde o oriente a Janoa; ^v6
+**6** e, dali, continuava até o mar. De Micmetá, ao norte, virava para o leste até Taanate-Siló e, passando por ela, a leste de Janoa; ^v6
 
-**7** E desce desde Janoa a Atarote e a Naarate e toca em Jericó, terminando no Jordão. ^v7
+**7** E de Janoa descia até Atarote e Naarate, e chegava a Jericó, terminando no Jordão. ^v7
 
-**8** De Tapua vai este termo para o ocidente ao ribeiro de Caná, terminando no mar; esta é a herança da tribo dos filhos de Efraim, segundo as suas famílias, ^v8
+**8** De Tapua, a borda se estendia para o oeste até o ribeiro de Caná e terminava no mar. Essa é a herança da tribo de Efraim, segundo seus clãs, ^v8
 
-**9** Mais as cidades que se separaram para os filhos de Efraim no meio da herança dos filhos de Manassés; todas aquelas cidades e as suas aldeias. ^v9
+**9** juntamente com as cidades que foram escolhidas para a tribo de Efraim que estavam no meio da herança da tribo de Manassés, todas as cidades, assim como suas vilas. ^v9
 
-**10** E não expulsaram aos cananeus que habitavam em Gezer; e os cananeus habitam no meio dos efraimitas até ao dia de hoje; porém, sendo-lhes tributários. ^v10
+**10** Eles não expulsaram os cananeus que habitavam em Gezer; então, os cananeus ficaram vivendo entre os efraimitas até o dia de hoje; porém, sujeitos a trabalho forçado. ^v10

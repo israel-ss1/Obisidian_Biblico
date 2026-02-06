@@ -1,43 +1,42 @@
 ---
-Livro: "[[2 Pedro|2 Pedro]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/2 Pedro|2 Pedro]]"
+tags: [biblia]
 ---
 
 # 2 Pedro 3
 
-**1** Amados, escrevo-vos agora esta segunda carta, em ambas as quais desperto com exortação o vosso ânimo sincero; ^v1
+**1** Amados, esta é a segunda carta que vos escrevo, em ambas procuro despertar com lembranças a vossa mente sincera, ^v1
 
-**2** Para que vos lembreis das palavras que primeiramente foram ditas pelos santos profetas, e do nosso mandamento, como apòstolos do Senhor e Salvador. ^v2
+**2** para vos lembrardes das palavras previamente faladas pelos santos profetas, e do mandamento do Senhor e Salvador ensinado por vossos apóstolos. ^v2
 
-**3** Sabendo primeiro isto, que nos últimos dias virão escarnecedores, andando segundo as suas próprias concupiscências, ^v3
+**3** Saibam que, primeiramente virão os zombadores nos últimos dias, zombando de vós, andando de acordo com os seus próprios desejos, ^v3
 
-**4** E dizendo: Onde está a promessa da sua vinda? porque desde que os pais dormiram, todas as coisas permanecem como desde o princípio da criação. ^v4
+**4** "e dizendo: ""Onde está a promessa da vinda Dele? Pois desde que os antepassados morreram, todas as coisas permanecem como desde o princípio da criação""." ^v4
 
-**5** Eles voluntariamente ignoram isto, que pela palavra de Deus já desde a antiguidade existiram os céus, e a terra, que foi tirada da água e no meio da água subsiste. ^v5
+**5** Eles propositalmente esquecem que há muito tempo, houve céus e terra, a qual surgiu da água e através da água pela Palavra de Deus, ^v5
 
-**6** Pelas quais coisas pereceu o mundo de então, coberto com as águas do dilúvio, ^v6
+**6** e que mediante a Palavra Dele, o mundo daquele tempo foi destruído sendo inundado. ^v6
 
-**7** Mas os céus e a terra que agora existem pela mesma palavra se reservam como tesouro, e se guardam para o fogo, até o dia do juízo, e da perdição dos homens ímpios. ^v7
+**7** Pela a mesma Palavra, os céus e a terra foram reservados para o fogo, sendo guardados para o dia do juízo e destruição das pessoas ímpias. ^v7
 
-**8** Mas, amados, não ignoreis uma coisa, que um dia para o Senhor é como mil anos, e mil anos como um dia. ^v8
+**8** Amados, não ignoreis que um dia para o Senhor é como mil anos, e mil anos como um dia. ^v8
 
-**9** O Senhor não retarda a sua promessa, ainda que alguns a têm por tardia; mas é longânimo para conosco, não querendo que alguns se percam, senão que todos venham a arrepender-se. ^v9
+**9** O Senhor não demora em cumprir o que prometeu, como julgam alguns; ao contrário, Ele é paciente para convosco, não desejando que ninguém pereça, mas que todos cheguem ao arrependimento. ^v9
 
-**10** Mas o dia do Senhor virá como o ladrão de noite; no qual os céus passarão com grande estrondo, e os elementos, ardendo, se desfarão, e a terra, e as obras que nela há, se queimarão. ^v10
+**10** No entanto, o dia do Senhor virá como um ladrão. Os céus desaparecerão com grande estrondo. Os elementos serão dissolvidos pelo fogo, a terra e as obras sobre ela serão reveladas. [Os elementos serão dissolvidos pelo fogo, a terra e as obras sobre ela serão queimadas]. ^v10
 
-**11** Havendo, pois, de perecer todas estas coisas, que pessoas vos convém ser em santo trato, e piedade, ^v11
+**11** Uma vez que, dessa forma, todas essas coisas serão destruídas que tipo de pessoas deveis ser? Vós deveis viver de maneira santa e piedosa, ^v11
 
-**12** Aguardando, e apressando-vos para a vinda do dia de Deus, em que os céus, em fogo se desfarão, e os elementos, ardendo, se fundirão? ^v12
+**12** esperando e apressando a vinda do dia de Deus, quando os céus serão destruídos pelo fogo e os elementos se derreterão. ^v12
 
-**13** Mas nós, segundo a sua promessa, aguardamos novos céus e nova terra, em que habita a justiça. ^v13
+**13** Contudo, conforme Ele prometeu, esperamos novos céus e nova terra, nos quais habita a justiça. ^v13
 
-**14** Por isso, amados, aguardando estas coisas, procurai que dele sejais achados imaculados e irrepreensíveis em paz. ^v14
+**14** Portanto, amados, esperando estas coisas, empenhai-vos para serdes encontrados por Ele, imaculados, sem culpa e em paz. ^v14
 
-**15** E tende por salvação a longanimidade de nosso Senhor; como também o nosso amado irmão Paulo vos escreveu, segundo a sabedoria que lhe foi dada; ^v15
+**15** E considerai a paciência do nosso Senhor para a salvação, assim como nosso amado irmão Paulo vos escreveu, de acordo com a sabedoria que foi dada a ele. ^v15
 
-**16** Falando disto, como em todas as suas epístolas, entre as quais há pontos difíceis de entender, que os indoutos e inconstantes torcem, e igualmente as outras Escrituras, para sua própria perdição. ^v16
+**16** Paulo fala destas coisas em todas as suas cartas, nas quais há certas coisas difíceis de entender, as quais homens sem instrução e sem firmeza distorcem, como também fazem com as demais Escrituras, para a própria destruição deles. ^v16
 
-**17** Vós, portanto, amados, sabendo isto de antemão, guardai-vos de que, pelo engano dos homens abomináveis, sejais juntamente arrebatados, e descaiais da vossa firmeza; ^v17
+**17** Portanto, amados, uma vez sabendo essas coisas, guardai-vos para que não sejais arrastados pelo erro de pessoas sem lei e percais a vossa própria firmeza; ^v17
 
-**18** Antes crescei na graça e conhecimento de nosso Senhor e Salvador, Jesus Cristo. A ele seja dada a glória, assim agora, como no dia da eternidade. Amém. ^v18
+**18** mas, crescei na graça e conhecimento do nosso Senhor e Salvador Jesus Cristo. A Ele seja a glória, agora e para sempre. Amém! ^v18

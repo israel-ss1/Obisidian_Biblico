@@ -1,79 +1,78 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Esdras|Esdras]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Esdras|Esdras]]"
+tags: [biblia]
 ---
 
 # Esdras 8
 
-**1** Estes, pois, são os chefes das casas paternas e esta a genealogia dos que subiram comigo de babilônia no reinado do rei Artaxerxes: ^v1
+**1** Estes são os chefes das famílias, e esta é a genealogia dos que voltaram comigo da Babilônia durante o reinado do rei Artaxerxes: ^v1
 
-**2** Dos filhos de Finéias, Gérson; dos filhos de Itamar, Daniel; dos filhos de Davi, Hatus; ^v2
+**2** dos descendentes de Fineias, Gérson; dos descendentes de Itamar, Daniel; dos descendentes de Davi, Hatus; ^v2
 
-**3** Dos filhos de Secanias, e dos filhos de Parós, Zacarias, e com ele, segundo a genealogia, se contaram até cento e cinqüenta homens. ^v3
+**3** dos descendentes de Secanias, dos descendentes de Parós, Zacarias; e, com ele, foram registrados cento e cinquenta homens na genealogia. ^v3
 
-**4** Dos filhos de Paate-Moabe, Elioenai, filho de Zacarias, e com ele duzentos homens. ^v4
+**4** Dos descendentes de Paate-Moabe, Elioenai, filho de Zeraías e, com ele, foram registrados duzentos homens. ^v4
 
-**5** Dos filhos de Secanias, o filho de Jeaziel, e com ele trezentos homens. ^v5
+**5** Dos descendentes de Zatu, Secanias, filho de Jaaziel e, com ele, foram registrados trezentos homens. ^v5
 
-**6** E dos filhos de Adim, Ebede, filho de Jônatas, e com ele cinqüenta homens. ^v6
+**6** Dos descendentes de Adim, Ebede, filho de Jônatas e, com ele, foram registrados cinquenta homens. ^v6
 
-**7** E dos filhos de Elão, Jesaías, filho de Atalias, e com ele setenta homens. ^v7
+**7** Dos descendentes de Elão, Jesaías, filho de Atalias e, com ele, foram registrados setenta homens. ^v7
 
-**8** E dos filhos de Sefatias, Zebadias, filho de Micael, e com ele oitenta homens. ^v8
+**8** Dos descendentes de Sefatias, Zebadias, filho de Micael e, com ele, foram registrados oitenta homens. ^v8
 
-**9** Dos filhos de Joabe, Obadias, filho de Jeiel, e com ele duzentos e dezoito homens. ^v9
+**9** Dos descendentes de Joabe, Obadias, filho de Jeiel e, com ele, foram registrados duzentos e dezoito homens. ^v9
 
-**10** E dos filhos de Selomite, o filho de Josifias, e com ele cento e sessenta homens. ^v10
+**10** Dos descendentes de Bani, Selomite, filho de Josifias e, com ele, foram registrados cento e sessenta homens. ^v10
 
-**11** E dos filhos de Bebai, Zacarias, o filho de Bebai, e com ele vinte e oito homens. ^v11
+**11** Dos descendentes de Bebai, Zacarias, filho de Bebai e, com ele, foram registrados vinte e oito homens. ^v11
 
-**12** E dos filhos de Azgade, Joanã, o filho de Hacatã, e com ele cento e dez homens. ^v12
+**12** Dos descendentes de Azgade, Joanã, filho de Hacatã e, com ele, foram registrados cento e dez homens. ^v12
 
-**13** E dos últimos filhos de Adonicão, cujos nomes eram estes: Elifelete, Jeiel e Semaías, e com eles sessenta homens. ^v13
+**13** Dos descendentes de Adonicão, os últimos que chegaram: Elifelete, Jeiel e Samaías, e com eles, vieram sessenta homens. ^v13
 
-**14** E dos filhos de Bigvai, Utai e Zabude, e com eles setenta homens. ^v14
+**14** Dos descendentes de Bigvai, Utai e Zabude e, com ele, foram registrados setenta homens. ^v14
 
-**15** E ajuntei-os perto do rio que vai a Aava, e ficamos ali acampados três dias. Então atentei para o povo e para os sacerdotes, e não achei ali nenhum dos filhos de Levi. ^v15
+**15** "Esdras disse: ""Eu reuni os viajantes junto ao canal que dá para Aava, e acampamos lá por três dias. Examinei o povo e os sacerdotes, mas não encontrei lá nenhum descendente de Levi." ^v15
 
-**16** Enviei, pois, Eliezer, Ariel, Semaías, Elnatã, Jaribe, Elnatã, Natã, Zacarias e Mesulão, os chefes; como também a Joiaribe, e a Elnatã, que eram entendidos. ^v16
+**16** Então enviei Eliézer, Ariel, Semaías, Elnatã, Jaribe, Elnatã, Natã, Zacarias e Mesulão — os que eram líderes — bem como Joiaribe e Elnatã, que eram mestres. ^v16
 
-**17** E enviei-os com mandado a Ido, chefe em Casifia; e falei a eles o que deveriam dizer a Ido e aos seus irmãos, servidores do templo, em Casifia, que nos trouxessem ministros para a casa do nosso Deus. ^v17
+**17** Depois, enviei-os a Ido, líder de Casifia. Eu lhes disse o que falar a Ido e aos seus parentes, aos que servem no templo em Casifia, para nos enviar servidores ao templo de Deus. ^v17
 
-**18** E trouxeram-nos, segundo a boa mão de Deus sobre nós, um homem entendido, dos filhos de Mali, filho de Levi, filho de Israel, a saber: Serebias, com os seus filhos e irmãos, dezoito; ^v18
+**18** Então eles nos enviaram, pelas mãos de nosso bondoso Deus, um homem chamado Serebias, que era homem prudente. Ele era descendente de Mali, filho de Levi, filho de Israel. Serabias, com os seus filhos e irmãos, em número de dezoito. ^v18
 
-**19** E a Hasabias, e com ele Jesaías, dos filhos de Merari, com seus irmãos e os filhos deles, vinte; ^v19
+**19** Também enviaram Hasabias e, com ele, Jesaías, um dos filhos de Merari, com os seus irmãos e os filhos deles, em número de vinte. ^v19
 
-**20** E dos servidores do templo que Davi e os príncipes deram para o ministério dos levitas, duzentos e vinte servidores do templo; que foram todos mencionados por seus nomes. ^v20
+**20** Daqueles que se comprometeram a servir no templo, os quais Davi e seus oficiais deram para o serviço dos levitas: duzentos e vinte, cada um deles mencionado nominalmente. ^v20
 
-**21** Então apregoei ali um jejum junto ao rio Aava, para nos humilharmos diante da face de nosso Deus, para lhe pedirmos caminho seguro para nós, para nossos filhos e para todos os nossos bens. ^v21
+**21** Então, proclamei, à margem do Canal de Aava, um jejum para nos humilharmos perante Deus para buscarmos o Seu reto caminho, tanto para nós quanto para nossas crianças e todos os nossos bens. ^v21
 
-**22** Porque tive vergonha de pedir ao rei exército e cavaleiros para nos defenderem do inimigo pelo caminho; porquanto tínhamos falado ao rei, dizendo: A mão do nosso Deus é sobre todos os que o buscam, para o bem deles; mas o seu poder e a sua ira contra todos os que o deixam. ^v22
+**22** Fiquei constrangido em perguntar ao rei por armamento ou cavaleiros para nos proteger contra os inimigos ao longo do caminho, uma vez que dissemos ao rei: 'A mão de nosso Deus está sobre todo aquele que O busca, e o Seu poder e a Sua ira estão sobre todos aqueles que Dele se esquecem'. ^v22
 
-**23** Nós, pois, jejuamos, e pedimos isto ao nosso Deus, e moveu-se pelas nossas orações. ^v23
+**23** Então jejuamos e imploramos a Deus quanto a isso, e Ele nos atendeu. ^v23
 
-**24** Então separei doze dos chefes dos sacerdotes: Serebias, Hasabias, e com eles dez dos seus irmãos. ^v24
+**24** Em seguida, selecionei doze homens dos principais sacerdotes : Serebias, Hasabias e dez de seus irmãos. ^v24
 
-**25** E pesei-lhes a prata, o ouro e os vasos; que eram a oferta para a casa de nosso Deus, que ofereceram o rei, os seus conselheiros, os seus príncipes e todo o Israel que ali se achou. ^v25
+**25** Pesei prata, ouro, e utensílios e ofertas para o templo de Deus, que o rei, os seus conselheiros, os seus oficiais e todo Israel livremente ofertaram. ^v25
 
-**26** E pesei em suas mãos seiscentos e cinqüenta talentos de prata, e em vasos de prata cem talentos, e cem talentos de ouro, ^v26
+**26** Então pesei e entreguei, em suas mãos, seiscentos e cinquenta talentos de prata, cem talentos de utensílios de prata, cem talentos de ouro, ^v26
 
-**27** E vinte bacias de ouro, de mil dracmas, e dois vasos de bom metal lustroso, tão precioso como ouro. ^v27
+**27** vinte tigelas de ouro que juntas valiam, no total, mil dáricos, e dois vasos de bronze fino e polido, tão precioso como o ouro. ^v27
 
-**28** E disse-lhes: Vós sois santos ao Senhor, e são santos estes utensílios, como também esta prata e este ouro, oferta voluntária, oferecida ao Senhor Deus de vossos pais. ^v28
+**28** Eu disse a eles: 'Vós estais consagrados a Yahweh, bem como estes utensílios. E esta prata e este ouro são ofertas voluntárias a Yahweh, o Deus de vossos antepassados. ^v28
 
-**29** Vigiai, pois, e guardai-os até que os peseis na presença dos chefes dos sacerdotes e dos levitas, e dos chefes dos pais de Israel, em Jerusalém, nas câmaras da casa do Senhor. ^v29
+**29** Vigiai-os e guardai-os até que os peseis na presença dos principais sacerdotes, dos levitas, e dos chefes de famílias de Israel, em Jerusalém, nas salas do templo de Deus'. ^v29
 
-**30** Então os sacerdotes e os levitas receberam o peso da prata, do ouro e dos utensílios, para os trazerem a Jerusalém, à casa de nosso Deus. ^v30
+**30** Os sacerdotes e os levitas receberam a prata, o ouro e os utensílios que haviam sido pesados, a fim de os trazerem para Jerusalém, para o templo do nosso Deus. ^v30
 
-**31** E partimos do rio Aava, no dia doze do primeiro mês, para irmos a Jerusalém; e a mão do nosso Deus estava sobre nós, e livrou-nos da mão dos inimigos, e dos que nos armavam ciladas pelo caminho. ^v31
+**31** Partimos do Canal de Aava no décimo segundo dia do primeiro mês para irmos a Jerusalém. A mão do nosso Deus estava sobre nós. Ele nos protegeu contra nossos inimigos e contra aqueles que tentaram nos emboscar ao longo do caminho. ^v31
 
-**32** E chegamos a Jerusalém, e repousamos ali três dias. ^v32
+**32** Assim entramos em Jerusalém e permanecemos lá por três dias. ^v32
 
-**33** E no quarto dia se pesou a prata, o ouro e os utensílios, na casa do nosso Deus, por mão de Meremote, filho do sacerdote Urias; e com ele Eleazar, filho de Finéias, e com eles Jozabade, filho de Jesuá, e Noadias, filho de Binui, levitas. ^v33
+**33** Então, no quarto dia, a prata, o ouro e os utensílios foram pesados no templo do nosso Deus, pelas mãos de Meremote, filho de Urias, o sacerdote. Com eles estavam Eleazar, filho de Fineias, e os levitas Jozabade, filho de Jesua, e Noadias, filho de Binui. ^v33
 
-**34** Tudo foi contado e pesado; e todo o peso foi registrado na mesma ocasião. ^v34
+**34** Tudo foi contado e pesado, e o peso total foi registrado naquela mesma hora. ^v34
 
-**35** E os exilados, que vieram do cativeiro, ofereceram holocaustos ao Deus de Israel: doze novilhos por todo o Israel, noventa e seis carneiros, setenta e sete cordeiros, e doze bodes em sacrifício pelo pecado; tudo em holocausto ao Senhor. ^v35
+**35** Aqueles que retornaram do cativeiro, o povo do exílio, ofereceram holocausto ao Deus de Israel: doze novilhos por todo Israel, noventa e seis carneiros, setenta e sete cordeiros, e doze bodes em holocausto. Tudo foi oferecido em holocausto a Yahweh. ^v35
 
-**36** Então deram as ordens do rei aos seus sátrapas, e aos governadores dalém do rio; e estes ajudaram o povo e a casa de Deus. ^v36
+**36** "Então entregaram os decretos reais aos mais altos oficiais e governadores da província deste lado do rio Eufrates, e eles ajudaram o povo e o templo de Deus""." ^v36

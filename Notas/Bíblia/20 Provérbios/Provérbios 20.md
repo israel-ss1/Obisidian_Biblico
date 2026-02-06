@@ -1,67 +1,66 @@
 ---
-Livro: "[[Provérbios|Provérbios]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Provérbios|Provérbios]]"
+tags: [biblia]
 ---
 
 # Provérbios 20
 
-**1** O vinho é escarnecedor, a bebida forte alvoroçadora; e todo aquele que neles errar nunca será sábio. ^v1
+**1** O vinho é zombador e a bebida forte é briguenta; quem se deixar desviar por eles não é sábio. ^v1
 
-**2** Como o rugido do leão é o terror do rei; o que o provoca à ira peca contra a sua própria alma. ^v2
+**2** O furor de um rei é como o rugido de um leão jovem; quem lhe provoca a ira peca contra a própria vida. ^v2
 
-**3** Honroso é para o homem desviar-se de questões, mas todo tolo é intrometido. ^v3
+**3** É uma honra para alguém evitar o conflito, mas os tolos saltam para dentro da briga. ^v3
 
-**4** O preguiçoso não lavrará por causa do inverno, pelo que mendigará na sega, mas nada receberá. ^v4
+**4** O preguiçoso não lavra no outono; ele busca a produção na estação da colheita, mas não terá nada. ^v4
 
-**5** Como as águas profundas é o conselho no coração do homem; mas o homem de inteligência o trará para fora. ^v5
+**5** O propósito que está no coração humano é como águas profundas, mas a pessoa com entendimento trará isso para fora. ^v5
 
-**6** A multidão dos homens apregoa a sua própria bondade, porém o homem fidedigno quem o achará? ^v6
+**6** Muitas pessoas proclamam que são leais, mas quem achará alguém que seja fiel? ^v6
 
-**7** O justo anda na sua sinceridade; bem-aventurados serão os seus filhos depois dele. ^v7
+**7** O justo caminha em sua integridade, seus filhos serão felizes se o seguirem. ^v7
 
-**8** Assentando-se o rei no trono do juízo, com os seus olhos dissipa todo o mal. ^v8
+**8** Um rei que se assenta no trono para julgar separa todo o mal que está diante dos seus olhos. ^v8
 
-**9** Quem poderá dizer: Purifiquei o meu coração, limpo estou de meu pecado? ^v9
+**9** "Quem pode dizer: ""Eu mantenho o meu coração puro; estou limpo do meu pecado""?" ^v9
 
-**10** Dois pesos diferentes e duas espécies de medida são abominação ao Senhor, tanto um como outro. ^v10
+**10** Pesos diferenciados e medidas desiguais; Yahweh odeia ambos. ^v10
 
-**11** Até a criança se dará a conhecer pelas suas ações, se a sua obra é pura e reta. ^v11
+**11** Até um jovem é conhecido por suas ações, se a sua conduta for pura e correta. ^v11
 
-**12** O ouvido que ouve, e o olho que vê, o Senhor os fez a ambos. ^v12
+**12** Ouvidos que ouvem e olhos que veem, Yahweh fez ambos. ^v12
 
-**13** Não ames o sono, para que não empobreças; abre os teus olhos, e te fartarás de pão. ^v13
+**13** Não ames dormir ou tu ficarás pobre; abre os teus olhos e tu terás muito para comer. ^v13
 
-**14** Nada vale, nada vale, dirá o comprador, mas, indo-se, então se gabará. ^v14
+**14** """Ruim! Ruim!"" diz o comprador, mas, quando vai embora, se gaba." ^v14
 
-**15** Há ouro e abundância de rubis, mas os lábios do conhecimento são jóia preciosa. ^v15
+**15** Há ouro e pedras preciosas em abundância, mas os lábios de conhecimento são uma joia preciosa. ^v15
 
-**16** Ficando alguém por fiador de um estranho, tome-se-lhe a roupa; e por penhor àquele que se obriga pela mulher estranha. ^v16
+**16** Pega a roupa daquele que se fez fiador da dívida de um estranho; que ela sirva de penhor por ele garantir a dívida de quem não conhece. ^v16
 
-**17** Suave é ao homem o pão da mentira, mas depois a sua boca se encherá de cascalho. ^v17
+**17** O pão adquirido por meio do engano tem sabor doce, mas, depois, sua boca se encherá de pedrinhas. ^v17
 
-**18** Cada pensamento se confirma com conselho e com bons conselhos se faz a guerra. ^v18
+**18** Os planos são estabelecidos por meio de conselho e, somente com orientação sábia, deve-se fazer guerra. ^v18
 
-**19** O que anda tagarelando revela o segredo; não te intrometas com o que lisonjeia com os seus lábios. ^v19
+**19** O mexeriqueiro revela segredos; por isso, não te associes com pessoas que falam demais. ^v19
 
-**20** O que amaldiçoa seu pai ou sua mãe, apagar-se-á a sua lâmpada em negras trevas. ^v20
+**20** Se uma pessoa amaldiçoa seu pai ou sua mãe, sua lâmpada será apagada no meio das trevas. ^v20
 
-**21** A herança que no princípio é adquirida às pressas, no fim não será abençoada. ^v21
+**21** Uma herança recebida antecipadamente não será uma bênção no final. ^v21
 
-**22** Não digas: Vingar-me-ei do mal; espera pelo Senhor, e ele te livrará. ^v22
+**22** "Não digas: ""Eu te retribuirei por esse mal!"". Espera por Yahweh, e Ele te resgatará." ^v22
 
-**23** Pesos diferentes são abomináveis ao Senhor, e balança enganosa não é boa. ^v23
+**23** Yahweh odeia pesos desiguais; Ele não Se agrada de balanças desonestas. ^v23
 
-**24** Os passos do homem são dirigidos pelo Senhor; como, pois, entenderá o homem o seu caminho? ^v24
+**24** Os passos de uma pessoa são direcionados por Yahweh; como, então, ela poderá entender o seu caminho? ^v24
 
-**25** Laço é para o homem apropriar-se do que é santo, e só refletir depois de feitos os votos. ^v25
+**25** "É uma armadilha falar precipitadamente: “Está consagrado a Deus"", e pensar sobre o que isso significa somente depois de ter feito seu voto." ^v25
 
-**26** O rei sábio dispersa os ímpios e faz passar sobre eles a roda. ^v26
+**26** O rei sábio espalha os perversos e, depois, faz passar a roda sobre eles. ^v26
 
-**27** O espírito do homem é a lâmpada do Senhor, que esquadrinha todo o interior até o mais íntimo do ventre. ^v27
+**27** O espírito humano é a lâmpada de Yahweh, que busca o mais íntimo do coração. ^v27
 
-**28** Benignidade e verdade guardam ao rei, e com benignidade sustém ele o seu trono. ^v28
+**28** A piedade e a lealdade preservam o rei; o seu trono é assegurado pelo amor. ^v28
 
-**29** A glória do jovem é a sua força; e a beleza dos velhos são as cãs. ^v29
+**29** A glória do jovem está na sua força, e o esplendor dos idosos, em seus cabelos grisalhos. ^v29
 
-**30** Os vergões das feridas são a purificação dos maus, como também as pancadas que penetram até o mais íntimo do ventre. ^v30
+**30** Pancadas que fazem uma ferida purificam do mal, e golpes limpam o mais íntimo do corpo. ^v30

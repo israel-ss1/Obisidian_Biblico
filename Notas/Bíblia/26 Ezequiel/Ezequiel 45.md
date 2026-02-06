@@ -1,57 +1,56 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Ezequiel|Ezequiel]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Ezequiel|Ezequiel]]"
+tags: [biblia]
 ---
 
 # Ezequiel 45
 
-**1** Quando, pois, repartirdes a terra em herança, oferecereis uma oferta ao SENHOR, uma porção santa da terra; o seu comprimento será de vinte e cinco mil canas e a largura de dez mil. Esta será santa em toda a sua extensão ao redor. ^v1
+**1** Quando usardes sortes para dividir a terra como herança, fareis uma oferta para Yahweh; esta oferta será uma santa porção da terra, vinte e cinco mil côvados de comprimento e dez mil côvados de largura. Será santo todo este lugar. ^v1
 
-**2** Desta porção o santuário ocupará quinhentas canas de comprimento, e quinhentas de largura, em quadrado, e terá em redor um espaço vazio de cinqüenta côvados. ^v2
+**2** A partir disso, será quinhentos côvados por quinhentos côvados quadrado rodeando o lugar santo, com cinquenta côvados de largura da borda ao redor. ^v2
 
-**3** E desta porção medirás vinte e cinco mil côvados de comprimento, e a largura de dez mil; e ali estará o santuário, o lugar santíssimo. ^v3
+**3** A partir deste lugar santo, medireis uma porção de vinte e cinco mil côvados de comprimento e dez mil de largura; ali será o santuário, o lugar santíssimo. ^v3
 
-**4** Esta será a porção santa da terra; ela será para os sacerdotes, ministros do santuário, que dele se aproximam para servir ao Senhor; e lhes servirá de lugar para suas casas, e de lugar santo para o santuário. ^v4
+**4** Será o lugar santo na terra para os sacerdotes que servem a Yahweh, que se aproximam de Yahweh para servi-Lo; servirá de lugar para suas casas e lugar santo para o santuário. ^v4
 
-**5** E os levitas, ministros da casa, terão em sua possessão, vinte e cinco mil canas de comprimento, para vinte câmaras. ^v5
+**5** Terão vinte cinco mil côvados de comprimento e dez mil de largura e serão as cidades dos levitas que ministram no templo. ^v5
 
-**6** E para possessão da cidade, de largura dareis cinco mil canas, e de comprimento vinte e cinco mil, defronte da oferta santa; o que será para toda a casa de Israel. ^v6
+**6** Vós designareis uma área para cidade, cinco mil côvados de largura e vinte cinco mil de comprimento, será próximo da porção reservada para o santuário; esta cidade pertencerá a toda a casa de Israel. ^v6
 
-**7** O príncipe, porém, terá a sua parte deste e do outro lado da área santa, e da possessão da cidade, diante da santa oferta, e em frente da possessão da cidade, desde o extremo ocidental até o extremo oriental, e de comprimento, corresponderá a uma das porções, desde o termo ocidental até ao termo oriental. ^v7
+**7** A terra do príncipe será nos dois lados da área reservada para o santuário e cidade, estarão no seu ocidente e no seu oriente. O comprimento corresponderá ao comprimento de uma das porções, do ocidente para o oriente. ^v7
 
-**8** E esta terra será a sua possessão em Israel; e os meus príncipes nunca mais oprimirão o meu povo, antes deixarão a terra à casa de Israel, conforme as suas tribos. ^v8
+**8** Esta terra será de propriedade do príncipe em Israel; Meus príncipes nunca mais oprimirão Meu povo; ao invés disso, eles darão esta terra à casa de Israel, por suas tribos. ^v8
 
-**9** Assim diz o Senhor DEUS: Basta já, ó príncipes de Israel; afastai a violência e a assolação e praticai juízo e justiça; tirai as vossas imposições do meu povo, diz o Senhor DEUS. ^v9
+**9** Assim diz Yahweh Deus: Basta, príncipes de Israel! Removei a violência e a opressão; fazei justiça e juízo! Parai com a opressão sobre Meu povo — esta é a declaração de Yahweh Deus — ^v9
 
-**10** Tereis balanças justas, efa justo e bato justo. ^v10
+**10** Tereis balanças precisas, o efa justo e o bato justo. ^v10
 
-**11** O efa e o bato serão de uma mesma medida, de modo que o bato contenha a décima parte do ômer, e o efa a décima parte do ômer; conforme o ômer será a sua medida. ^v11
+**11** O efa e o bato serão da mesma quantidade, para que o bato seja a décima parte do ômer; o efa será a décima parte do ômer, as suas quantidades serão correspondentes ao ômer. ^v11
 
-**12** E o siclo será de vinte geras; vinte siclos, vinte e cinco siclos, e quinze siclos terá a vossa mina. ^v12
+**12** O siclo será de vinte geras; sessenta siclos serão uma mina para vós. ^v12
 
-**13** Esta será a oferta que haveis de oferecer: a sexta parte de um efa de cada ômer de trigo; também dareis a sexta parte de um efa de cada ômer de cevada. ^v13
+**13** Esta é a contribuição que ireis apresentar: a sexta parte do efa para cada ômer de trigo e dareis a sexta parte de um efa de cada cevada. ^v13
 
-**14** Quanto à ordenança do azeite, de cada bato de azeite oferecereis a décima parte de um bato tirado de um coro, que é um ômer de dez batos; porque dez batos fazem um ômer. ^v14
+**14** As leis da oferta do azeite serão a décima parte do bato de cada coro (que são dez batos), ou para cada ômer, visto que o ômer também é de dez batos. ^v14
 
-**15** E um cordeiro do rebanho, de cada duzentos, da terra mais regada de Israel, para oferta de alimentos, e para holocausto, e para sacrifício pacífico; para que façam expiação por eles, diz o Senhor DEUS. ^v15
+**15** Uma ovelha ou cabrito de cada rebanho de duzentos animais das regiões mais regadas de Israel será usado para oferta queimada ou oferta pacífica para fazer expiação pelo povo — esta é a declaração de Yahweh Deus. ^v15
 
-**16** Todo o povo da terra concorrerá com esta oferta, para o príncipe em Israel. ^v16
+**16** Todo povo da terra dará esta oferta para o príncipe de Israel. ^v16
 
-**17** E estarão a cargo do príncipe os holocaustos, e as ofertas de alimentos, e as libações, nas festas, e nas luas novas, e nos sábados, em todas as solenidades da casa de Israel. Ele preparará a oferta pelo pecado, e a oferta de alimentos, e o holocausto, e os sacrifícios pacíficos, para fazer expiação pela casa de Israel. ^v17
+**17** Será a responsabilidade do príncipe dar os animais para ofertas queimadas, ofertas de manjares, ofertas de libações nas festas e celebrações de lua nova, nos dias de sábado e em todas as festas marcadas da casa de Israel. Ele fará ofertas pelo pecado, ofertas de manjares, ofertas queimadas e ofertas pacíficas para fazer expiação pela casa de Israel. ^v17
 
-**18** Assim diz o Senhor DEUS: No primeiro mês, no primeiro dia do mês, tomarás um bezerro sem mancha e purificarás o santuário. ^v18
+**18** Assim diz Yahweh Deus: No primeiro mês, no primeiro dia do mês, levarás um bezerro sem mancha do rebanho e o ofercerás pelo pecado no santuário. ^v18
 
-**19** E o sacerdote tomará do sangue do sacrifício pelo pecado, e porá dele nas ombreiras da casa, e nos quatro cantos da armação do altar, e nas ombreiras da porta do átrio interior. ^v19
+**19** O sacerdote levará do sangue da oferta pelo pecado e porá nas ombreiras da casa e nos quatro cantos da listra do altar e nas ombreiras da porta do átrio interior. ^v19
 
-**20** Assim também farás no sétimo dia do mês, pelos que erram, e pelos símplices; assim expiareis a casa. ^v20
+**20** Farás isto no sétimo dia do mês pelo pecado de cada um, por acidente ou ignorância; assim, expiarás o templo. ^v20
 
-**21** No primeiro mês, no dia catorze do mês, tereis a páscoa, uma festa de sete dias; pão ázimo se comerá. ^v21
+**21** No primeiro mês, no décimo quarto dia do mês, haverá festa, uma festa de sete dias; comereis pão sem fermento. ^v21
 
-**22** E no mesmo dia o príncipe preparará por si e por todo o povo da terra, um bezerro como oferta pelo pecado. ^v22
+**22** Neste dia, o príncipe preparará, para ele mesmo e para todo povo da terra, um bezerro como oferta pelo pecado. ^v22
 
-**23** E durante os sete dias da festa preparará um holocausto ao Senhor, de sete bezerros e sete carneiros sem mancha, cada dia, durante os sete dias; e em sacrifício pelo pecado um bode cada dia. ^v23
+**23** E, nos sete dias da festa, o príncipe preparará oferta queimada para Yahweh: sete bezerros e sete carneiros sem mancha, cada dia, por sete dias e um bode cada dia como oferta pelo pecado. ^v23
 
-**24** Também preparará uma oferta de alimentos, a saber, um efa, para cada bezerro, e um efa para cada carneiro, e um him de azeite para cada efa. ^v24
+**24** Então, o príncipe preparará oferta de manjares do efa para cada bezerro e efa para cada carneiro e um him de azeite para cada efa. ^v24
 
-**25** No sétimo mês, no dia quinze do mês, na festa, fará o mesmo por sete dias, tanto o sacrifício pelo pecado, como o holocausto, e como a oferta de alimentos, e como o azeite. ^v25
+**25** No sétimo mês, no décimo quinto dia do mês, na festa, o príncipe oferecerá nestes sete dias: ofertas pelo pecado, ofertas queimadas, ofertas de manjares e ofertas de azeite. ^v25

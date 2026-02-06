@@ -1,37 +1,36 @@
 ---
-Livro: "[[2 Coríntios|2 Coríntios]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/2 Coríntios|2 Coríntios]]"
+tags: [biblia]
 ---
 
 # 2 Coríntios 9
 
-**1** Quanto à administração que se faz a favor dos santos, não necessito escrever-vos; ^v1
+**1** No que diz respeito ao ministério para os santos, não me é necessário vos escrever. ^v1
 
-**2** Porque bem sei a prontidão do vosso ânimo, da qual me glorio de vós para com os macedônios; que a Acaia está pronta desde o ano passado; e o vosso zelo tem estimulado muitos. ^v2
+**2** Conheço vosso desejo e dele me orgulhei diante do povo da Macedônia. Eu lhes disse que a Acaia estava se preparando desde o ano passado. Vosso zelo motivou a maioria deles à ação. ^v2
 
-**3** Mas enviei estes irmãos, para que a nossa glória, acerca de vós, não seja vã nesta parte; para que (como já disse) possais estar prontos, ^v3
+**3** Enviei os irmãos para que nosso orgulho acerca de vós não fosse fútil e para que estivésseis prontos, como eu disse que estaríeis. ^v3
 
-**4** A fim de, se acaso os macedônios vierem comigo, e vos acharem desapercebidos, não nos envergonharmos nós (para não dizermos vós) deste firme fundamento de glória. ^v4
+**4** De outro modo, caso alguns macedônios fossem comigo e vos encontrassem despreparados, nós, para não dizer vós, seríamos envergonhados por termos tanta confiança em vós. ^v4
 
-**5** Portanto, tive por coisa necessária exortar estes irmãos, para que primeiro fossem ter convosco, e preparassem de antemão a vossa bênção, já antes anunciada, para que esteja pronta como bênção, e não como avareza. ^v5
+**5** Então eu pensei que era necessário convencer os irmãos a irem até vós e fazerem preparativos de antemão para a doação que prometestes. Isso é, para que ela esteja pronta como bênção e não como obrigação. ^v5
 
-**6** E digo isto: Que o que semeia pouco, pouco também ceifará; e o que semeia em abundância, em abundância ceifará. ^v6
+**6** A questão é esta: aquele que semeia pouco também colherá pouco, e aquele que semeia com o propósito de abençoar também colherá uma bênção. ^v6
 
-**7** Cada um contribua segundo propôs no seu coração; não com tristeza, ou por necessidade; porque Deus ama ao que dá com alegria. ^v7
+**7** Que cada um dê como planejou em seu coração. Não por tristeza ou por constrangimento, pois Deus ama quem dá com alegria. ^v7
 
-**8** E Deus é poderoso para fazer abundar em vós toda a graça, a fim de que tendo sempre, em tudo, toda a suficiência, abundeis em toda a boa obra; ^v8
+**8** E Deus é capaz de fazer toda bênção multiplicar para vós, para que sempre, em todas as coisas, tenhais tudo o que precisais, para que assim possais multiplicar toda boa obra. ^v8
 
-**9** Conforme está escrito:Espalhou, deu aos pobres;a sua justiça permanece para sempre. ^v9
+**9** "Como está escrito: ""Distribuiu suas riquezas e as deu aos pobres; Sua justiça permanece para sempre""." ^v9
 
-**10** Ora, aquele que dá a semente ao que semeia, também vos dê pão para comer, e multiplique a vossa sementeira, e aumente os frutos da vossa justiça; ^v10
+**10** Aquele que dá semente ao semeador e pão para alimento também suprirá e multiplicará vossa semente para semeadura e aumentará a colheita da vossa justiça. ^v10
 
-**11** Para que em tudo enriqueçais para toda a beneficência, a qual faz que por nós se dêem graças a Deus. ^v11
+**11** Vós sereis enriquecidos de todos os modos para que sejais generosos, e isso resultará em ações de graças a Deus através de nós. ^v11
 
-**12** Porque a administração deste serviço, não só supre as necessidades dos santos, mas também é abundante em muitas graças, que se dão a Deus. ^v12
+**12** Porque a realização desse serviço não atende somente às necessidades dos santos, mas também se multiplica em muitas ações de graças a Deus. ^v12
 
-**13** Visto como, na prova desta administração, glorificam a Deus pela submissão, que confessais quanto ao evangelho de Cristo, e pela liberalidade de vossos dons para com eles, e para com todos; ^v13
+**13** Pois ao serdes testados e aprovados por esse serviço, também glorificareis a Deus pela obediência de vossa confissão do evangelho de Cristo e pela generosidade de vossa doação a eles e a todos. ^v13
 
-**14** E pela sua oração por vós, tendo de vós saudades, por causa da excelente graça de Deus que em vós há. ^v14
+**14** E eles anseiam e oram por vós, por causa da extraordinária graça de Deus que está sobre vós. ^v14
 
-**15** Graças a Deus, pois, pelo seu dom inefável. ^v15
+**15** Graças a Deus pelo Seu dom inexprimível! ^v15

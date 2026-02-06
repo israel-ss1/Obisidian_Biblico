@@ -1,55 +1,54 @@
 ---
-Livro: "[[1 Samuel|1 Samuel]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/1 Samuel|1 Samuel]]"
+tags: [biblia]
 ---
 
 # 1 Samuel 19
 
-**1** E falou Saul a Jônatas, seu filho, e a todos os seus servos, para que matassem a Davi. Porém Jônatas, filho de Saul, estava mui afeiçoado a Davi. ^v1
+**1** Saul disse a Jônatas, seu filho, e a todos os seus servos que eles deveriam matar Davi. Mas Jônatas, filho de Saul, tinha grande afeição por Davi. ^v1
 
-**2** E Jônatas o anunciou a Davi, dizendo: Meu pai, Saul, procura matar-te, pelo que agora guarda-te pela manhã, e fica-te em oculto, e esconde-te. ^v2
+**2** "Então, Jônatas disse a Davi: ""Meu pai Saul busca te matar. Portanto, protege-te pela manhã, e esconde-te em um lugar secreto." ^v2
 
-**3** E sairei eu, e estarei à mão de meu pai no campo em que estiverdes, e eu falarei de ti a meu pai, e verei o que há, e to anunciarei. ^v3
+**3** "Eu sairei e ficarei junto a meu pai no campo onde tu estiveres, e eu falarei com meu pai sobre ti. Se eu for informado sobre algo, eu te direi.""" ^v3
 
-**4** Então Jônatas falou bem de Davi a Saul, seu pai, e disse-lhe: Não peque o rei contra seu servo Davi, porque ele não pecou contra ti, e porque os seus feitos te são muito bons. ^v4
+**4** "Jônatas falou bem de Davi a Saul, seu pai, e lhe disse: ""Não permitas que o rei peque contra teu servo Davi. Pois ele não tem pecado contra ti, e seus atos fizeram bem a ti." ^v4
 
-**5** Porque expôs a sua vida, e feriu aos filisteus, e fez o Senhor um grande livramento a todo o Israel; tu mesmo o viste, e te alegraste; porque, pois, pecarias contra o sangue inocente, matando a Davi, sem causa? ^v5
+**5** "Pois ele expôs sua própria vida quando matou o filisteu. Yahweh trouxe uma grande vitória para todo o Israel. Tu viste e te alegraste. Por que tu pecarias contra sangue inocente matando Davi, sem motivo?""" ^v5
 
-**6** E Saul deu ouvidos à voz de Jônatas, e jurou Saul: Vive o Senhor, que não morrerá. ^v6
+**6** "Saul ouviu Jônatas. Saul jurou: ""Assim como Yahweh vive, ele não será colocado para morrer""." ^v6
 
-**7** E Jônatas chamou a Davi, e contou-lhe todas estas palavras; e Jônatas levou Davi a Saul, e esteve perante ele como antes. ^v7
+**7** Depois, Jônatas chamou Davi e disse-lhe todas estas coisas. Jônatas trouxe Davi a Saul, e ele ficou em sua presença como antes. ^v7
 
-**8** E tornou a haver guerra; e saiu Davi, e pelejou contra os filisteus, e feriu-os com grande matança, e fugiram diante dele. ^v8
+**8** E houve guerra novamente. Davi saiu e lutou contra os filisteus, e os derrotou com grande massacre. Eles fugiram diante dele. ^v8
 
-**9** Porém o espírito mau da parte do Senhor se tornou sobre Saul, estando ele assentado em sua casa, e tendo na mão a sua lança; e tocava Davi com a mão, a harpa. ^v9
+**9** Um espírito mau, enviado por Yahweh, veio sobre Saul quando ele estava sentado em sua casa, com sua lança na mão. Davi tocava seu instrumento. ^v9
 
-**10** E procurou Saul encravar a Davi na parede, porém ele se desviou de diante de Saul, o qual feriu com a lança a parede; então fugiu Davi, e escapou naquela mesma noite. ^v10
+**10** Saul tentou prender Davi à parede com a lança, mas ele escapou para longe da presença de Saul. Então, Saul perfurou a parede com a lança. Davi fugiu e escapou naquela noite. ^v10
 
-**11** Porém Saul mandou mensageiros à casa de Davi, que o guardassem, e o matassem pela manhã; do que Mical, sua mulher, avisou a Davi, dizendo: Se não salvares a tua vida esta noite, amanhã te matarão. ^v11
+**11** "Saul enviou mensageiros à casa de Davi para vigiá-lo, para que ele pudesse matá-lo pela manhã. Mical, esposa de Davi, lhe disse: ""Se tu não salvares tua vida esta noite, amanhã tu serás morto.""" ^v11
 
-**12** Então Mical desceu a Davi por uma janela; e ele se foi, e fugiu, e escapou. ^v12
+**12** Então, Mical baixou Davi pela da janela. Ele fugiu e escapou. ^v12
 
-**13** E Mical tomou uma estátua e a deitou na cama, e pôs-lhe à cabeceira uma pele de cabra, e a cobriu com uma coberta. ^v13
+**13** Mical pegou um ídolo doméstico e o deitou na cama; colocou um travesseiro de pelo de cabra na cabeceira e os cobriu com roupas. ^v13
 
-**14** E, mandando Saul mensageiros que trouxessem a Davi, ela disse: Está doente. ^v14
+**14** "Quando Saul enviou seus mensageiros para pegarem Davi, ela disse: ""Ele está doente""." ^v14
 
-**15** Então Saul tornou a mandar mensageiros que fossem a Davi, dizendo: Trazei-mo na cama, para que o mate. ^v15
+**15** "Mais tarde, Saul enviou novamente os mensageiros; ele disse: ""Tragam-no para mim na cama, para que eu possa matá-lo""." ^v15
 
-**16** Vindo, pois, os mensageiros, eis que a estátua estava na cama, e a pele de cabra à sua cabeceira. ^v16
+**16** Quando os mensageiros entraram, viram que um ídolo doméstico estava sobre a cama com o travesseiro de pelo de cabra em sua cabeceira. ^v16
 
-**17** Então disse Saul a Mical: Por que assim me enganaste, e deixaste ir e escapar o meu inimigo? E disse Mical a Saul: Porque ele me disse: Deixa-me ir, por que hei de eu matar-te? ^v17
+**17** "Saul disse a Mical: ""Por que tu me enganaste e deixaste que meu inimigo escapasse de mim?"". Mical respondeu a Saul: ""Ele me disse: 'Deixa-me ir. Por que deveria matá-la?'""." ^v17
 
-**18** Assim Davi fugiu e escapou, e foi a Samuel, em Ramá, e lhe participou tudo quanto Saul lhe fizera; e foram, ele e Samuel, e ficaram em Naiote. ^v18
+**18** Davi fugiu e escapou, indo até Samuel, em Ramá. Ele lhe contou tudo o que Saul havia feito. Depois, ele e Samuel ficaram em Naiote. ^v18
 
-**19** E o anunciaram a Saul, dizendo: Eis que Davi está em Naiote, em Ramá. ^v19
+**19** "Isto foi dito a Saul: ""Vê, Davi está em Naiote, em Ramá""." ^v19
 
-**20** Então enviou Saul mensageiros para trazerem a Davi, os quais viram uma congregação de profetas profetizando, onde estava Samuel que presidia sobre eles; e o Espírito de Deus veio sobre os mensageiros de Saul, e também eles profetizaram. ^v20
+**20** Então, Saul enviou mensageiros para capturar Davi. Quando eles viram o grupo de profetas profetizando, e Samuel levantando-se como cabeça sobre eles, o Espírito de Deus veio sobre os mensageiros de Saul, e eles também profetizaram. ^v20
 
-**21** E, avisado disto Saul, enviou outros mensageiros, e também estes profetizaram; então enviou Saul ainda uns terceiros mensageiros, os quais também profetizaram. ^v21
+**21** Quando contaram a Saul, ele enviou outros mensageiros, e eles também profetizaram. Então, Saul enviou mensageiros pela terceira vez, e eles também profetizaram. ^v21
 
-**22** Então foi também ele mesmo a Ramá, e chegou ao poço grande que estava em Secu; e, perguntando, disse: Onde estão Samuel e Davi? E disseram-lhe: Eis que estão em Naiote, em Ramá. ^v22
+**22** "Depois, Saul também foi a Ramá e chegou ao poço profundo que está em Sécu. Ele pergunto: ""Onde estão Samuel e Davi?"". Alguém disse: ""Vê, eles estão em Naiote, em Ramá""." ^v22
 
-**23** Então foi para Naiote, em Ramá; e o mesmo Espírito de Deus veio sobre ele, e ia profetizando, até chegar a Naiote, em Ramá. ^v23
+**23** Saul foi para Naiote, em Ramá. E o Espírito de Deus veio também sobre ele. E Saul profetizava enquanto ia para Naiote, em Ramá. ^v23
 
-**24** E ele também despiu as suas vestes, e profetizou diante de Samuel, e esteve nu por terra todo aquele dia e toda aquela noite; por isso se diz: Está também Saul entre os profetas? ^v24
+**24** "E ele também tirou as roupas, e profetizou diante de Samuel, e deitou-se nu, durante todo aquele dia e toda aquela noite. Por causa disso, eles diziam: ""Está também Saul entre os profetas?""." ^v24

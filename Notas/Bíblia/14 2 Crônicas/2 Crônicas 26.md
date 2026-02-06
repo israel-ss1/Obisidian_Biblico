@@ -1,53 +1,52 @@
 ---
-Livro: "[[2 Crônicas|2 Crônicas]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/2 Crônicas|2 Crônicas]]"
+tags: [biblia]
 ---
 
 # 2 Crônicas 26
 
-**1** Então todo o povo tomou a Uzias, que tinha dezesseis anos, e o fizeram rei em lugar de Amazias seu pai. ^v1
+**1** Todo o povo de Judá tomou Uzias, que tinha dezesseis anos, e fizeram dele rei no lugar de seu pai, Amazias. ^v1
 
-**2** Este edificou a Elote, e a restituiu a Judá, depois que o rei dormiu com seus pais. ^v2
+**2** Foi ele quem reconstruiu Elate e a restaurou para Judá. Depois disso, o rei descansou com seus ancestrais. ^v2
 
-**3** Tinha Uzias dezesseis anos quando começou a reinar, e cinqüenta e dois anos reinou em Jerusalém; e era o nome de sua mãe Jecolia, de Jerusalém. ^v3
+**3** Uzias tinha dezesseis anos quando começou a reinar. Ele reinou por cinquenta e dois anos em Jerusalém. O nome de sua mãe era Jecolias e ela era de Jerusalém. ^v3
 
-**4** E fez o que era reto aos olhos do Senhor; conforme a tudo o que fizera Amazias seu pai. ^v4
+**4** Ele fez o que era correto aos olhos de Yahweh, seguindo o exemplo de seu pai, Amazias, em tudo. ^v4
 
-**5** Porque deu-se a buscar a Deus nos dias de Zacarias, que era entendido nas visões de Deus; e nos dias em que buscou ao Senhor, Deus o fez prosperar. ^v5
+**5** Ele se dispôs a seguir a Deus nos dias de Zacarias, que deu a ele instruções para obedecer a Deus. Enquanto ele buscou Yahweh, Deus o fez próspero. ^v5
 
-**6** Porque saiu e guerreou contra os filisteus, e quebrou o muro de Gate, o muro de Jabne, e o muro de Asdode; e edificou cidades em Asdode, e entre os filisteus. ^v6
+**6** Uzias foi à luta contra os filisteus e destruiu os muros da cidade de Gate, de Jabné e Asdode; ele construiu cidades no país de Asdode e junto aos filisteus. ^v6
 
-**7** E Deus o ajudou contra os filisteus e contra os árabes que habitavam em Gur-Baal, e contra os meunitas. ^v7
+**7** Deus o ajudou contra os filisteus, contra os árabes que viviam em Gur-Baal e contra os meunitas. ^v7
 
-**8** E os amonitas deram presentes a Uzias; e o seu nome foi espalhado até à entrada do Egito, porque se fortificou altamente. ^v8
+**8** Os amonitas pagaram tributos a Uzias, e o seu nome se espalhou, até a entrada do Egito, pois ele se tornou muito poderoso. ^v8
 
-**9** Também Uzias edificou torres em Jerusalém, à porta da esquina, e à porta do vale, e à porta do ângulo, e as fortificou. ^v9
+**9** Além disso, Uzias construiu torres em Jerusalém, no portão da Esquina, no portão do Vale, no canto do muro e os fortificou. ^v9
 
-**10** Também edificou torres no deserto, e cavou muitos poços, porque tinha muito gado, tanto nos vales como nas campinas; tinha lavradores, e vinhateiros, nos montes e nos campos férteis; porque era amigo da agricultura. ^v10
+**10** Ele construiu torres de vigia no deserto e cavou muitos poços, pois ele tinha muito gado, tanto nas terras baixas como nas planícies. Ele tinha lavradores e vinhateiros nas terras das colinas e nos campos frutíferos, pois ele amava agricultura. ^v10
 
-**11** Tinha também Uzias um exército de homens destros na guerra, que saíam à guerra em tropas, segundo o número da resenha feita por mão de Jeiel, o escrivão, e Maaséias, oficial, sob a direção de Hananias, um dos capitàes do rei. ^v11
+**11** Além do mais, Uzias tinha um exército de guerreiros que iam à guerra em grupos que eram organizados por seus números e contados por Jeiel, o escriba, e Maaseias, o oficial, sob a autoridade de Hananias, um dos comandantes do rei. ^v11
 
-**12** O total dos chefes dos pais, homens valentes, era de dois mil e seiscentos. ^v12
+**12** O número total de cabeças das casas de famílias e guerreiros era dois mil e seiscentos. ^v12
 
-**13** E debaixo das suas ordens havia um exército guerreiro de trezentos e sete mil e quinhentos homens, que faziam a guerra com força belicosa, para ajudar o rei contra os inimigos. ^v13
+**13** Sob sua mão estava um exército de trezentos e sete mil e quinhentos homens, que guerreavam poderosamente, para ajudar o rei contra o inimigo. ^v13
 
-**14** E preparou Uzias, para todo o exército, escudos, lanças, capacetes, couraças e arcos, e até fundas para atirar pedras. ^v14
+**14** Uzias preparou para todo o exército: escudos, lanças, capacetes, couraças, arcos e pedras para atirar. ^v14
 
-**15** Também fez em Jerusalém máquinas da invenção de engenheiros, que estivessem nas torres e nos cantos, para atirarem flechas e grandes pedras; e propagou a sua fama até muito longe; porque foi maravilhosamente ajudado, até que se fortificou. ^v15
+**15** Em Jerusalém, ele construiu máquinas, inventadas por homens habilidosos, para ficarem nas torres e nos cantos das muralhas, para atirar flechas e grandes pedras. Sua fama se espalhou por terras distantes, pois ele foi grandemente ajudado até se tornar poderoso. ^v15
 
-**16** Mas, havendo-se já fortificado, exaltou-se o seu coração até se corromper; e transgrediu contra o Senhor seu Deus, porque entrou no templo do Senhor para queimar incenso no altar do incenso. ^v16
+**16** Mas, quando Uzias se tornou poderoso, seu coração se encheu de orgulho e então ele agiu corruptamente; ele pecou contra Yahweh, seu Deus, pois ele foi à casa de Yahweh e queimou incensos no altar de incensos. ^v16
 
-**17** Porém o sacerdote Azarias entrou após ele, e com ele oitenta sacerdotes do Senhor, homens valentes. ^v17
+**17** Azarias, o sacerdote, foi atrás dele e com ele oitenta sacerdotes de Yahweh, homens corajosos. ^v17
 
-**18** E resistiram ao rei Uzias, e lhe disseram: A ti, Uzias, não compete queimar incenso perante o Senhor, mas aos sacerdotes, filhos de Arão, que são consagrados para queimar incenso; sai do santuário, porque transgrediste; e não será isto para honra tua da parte do Senhor Deus. ^v18
+**18** "Eles se opuseram a Uzias, o rei, e disseram-lhe: ""Não compete a ti, Uzias, queimar incenso para Yahweh, mas aos sacerdotes, os filhos de Arão, que foram consagrados para queimar incenso. Sai do Santo Lugar, pois tu foste infiel e não receberás honra de Yahweh Deus""." ^v18
 
-**19** Então Uzias se indignou; e tinha o incensário na sua mão para queimar incenso. Indignando-se ele, pois, contra os sacerdotes, a lepra lhe saiu à testa perante os sacerdotes, na casa do Senhor, junto ao altar do incenso. ^v19
+**19** Então, Uzias se irou. Ele estava segurando um incensário em sua mão para queimar incenso. Enquanto ele estava irado com os sacerdotes, apareceu lepra em sua testa, diante dos sacerdotes na casa de Yahweh, ao lado do altar de incenso. ^v19
 
-**20** Então o sumo sacerdote Azarias olhou para ele, como também todos os sacerdotes, e eis que já estava leproso na sua testa, e apressuradamente o lançaram fora; e até ele mesmo se deu pressa a sair, visto que o Senhor o ferira. ^v20
+**20** Azarias, o sacerdote chefe, e todos os sacerdotes olharam pra ele, e, então, ele se tornou leproso em sua testa. Eles rapidamente o tiraram de lá. De fato, ele se apressou em sair, porque Yahweh o atingira. ^v20
 
-**21** Assim ficou leproso o rei Uzias até ao dia da sua morte; e morou, por ser leproso, numa casa separada, porque foi excluído da casa do Senhor. E Jotão, seu filho, tinha o encargo da casa do rei, julgando o povo da terra. ^v21
+**21** Uzias, o rei, ficou leproso até o dia de sua morte e viveu numa casa separada, porque era leproso, pois ele foi tirado da casa de Yahweh. Jotão, seu filho, se encarregou da casa do rei e governou o povo da terra. ^v21
 
-**22** Quanto ao mais dos atos de Uzias, tanto os primeiros como os últimos, o profeta Isaías, filho de Amós, o escreveu. ^v22
+**22** Quanto aos outros feitos de Uzias, do primeiro ao último, estão no que Isaías, filho de Amoz, o profeta, escreveu. ^v22
 
-**23** E dormiu Uzias com seus pais, e o sepultaram com eles no campo do sepulcro que era dos reis; porque disseram: Leproso é. E Jotão, seu filho, reinou em seu lugar. ^v23
+**23** "Então, Uzias descansou com seus ancestrais; eles o enterraram com seus ancestrais no túmulo pertencente aos reis, pois disseram: ""Ele é um leproso"". Jotão, seu filho, se tornou rei em seu lugar." ^v23

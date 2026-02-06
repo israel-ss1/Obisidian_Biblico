@@ -1,17 +1,14 @@
 ---
-Livro: "[[Salmos|Salmos]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Salmos|Salmos]]"
+tags: [biblia]
 ---
 
 # Salmos 70
 
-**1** Apressa-te, ó Deus, em me livrar; SENHOR, apressa-te em ajudar-me. ^v1
+**2** Que todos os que tentam tirar-me a vida sejam envergonhados e humilhados; que eles voltem atrás, e sejam desonrados os que têm prazer na minha miséria. ^v2
 
-**2** Fiquem envergonhados e confundidos os que procuram a minha alma; voltem para trás e confundam-se os que me desejam mal. ^v2
+**3** "Que retornem por causa de sua vergonha aqueles que dizem: ""Bem feito! Bem feito!""" ^v3
 
-**3** Virem as costas como recompensa da sua vergonha os que dizem: Ah! Ah! ^v3
+**4** "Que todos os que Te buscam alegrem-se e sejam felizes em Ti; aqueles que amam a Tua salvação sempre digam: ""Deus seja louvado!""" ^v4
 
-**4** Folguem e alegrem-se em ti todos os que te buscam; e aqueles que amam a tua salvação digam continuamente: Engrandecido seja Deus. ^v4
-
-**5** Eu, porém, estou aflito e necessitado; apressa-te por mim, ó Deus. Tu és o meu auxílio e o meu libertador; Senhor, não te detenhas. ^v5
+**5** Todavia, eu sou pobre e necessitado; apressa-Te a mim, ó Deus; Tu és o meu socorro e o meu resgatador. Yahweh, não demores. ^v5

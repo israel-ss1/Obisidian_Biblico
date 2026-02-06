@@ -1,55 +1,52 @@
 ---
-Livro: "[[Salmos|Salmos]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Salmos|Salmos]]"
+tags: [biblia]
 ---
 
 # Salmos 31
 
-**1** Em ti, SENHOR, confio; nunca me deixes confundido. Livra-me pela tua justiça. ^v1
+**2** Ouve-me e salva-me depressa! Seja minha rocha de refúgio, uma fortaleza para me salvar. ^v2
 
-**2** Inclina para mim os teus ouvidos, livra-me depressa; sê a minha firme rocha, uma casa fortíssima que me salve. ^v2
+**3** Pois Tu és a minha rocha e a minha fortaleza; por causa do Teu nome, conduze-me e guia-me. ^v3
 
-**3** Porque tu és a minha rocha e a minha fortaleza; assim, por amor do teu nome, guia-me e encaminha-me. ^v3
+**4** Arranca-me das armadilhas que eles prepararam para mim, pois Tu és o meu refúgio. ^v4
 
-**4** Tira-me da rede que para mim esconderam, pois tu és a minha força. ^v4
+**5** Em Tuas mãos confio meu espírito; Tu me resgatarás, Yahweh, Deus fiel. ^v5
 
-**5** Nas tuas mãos encomendo o meu espírito; tu me redimiste, Senhor Deus da verdade. ^v5
+**6** Odeio aqueles que servem a ídolos inúteis; mas eu confio em Yahweh. ^v6
 
-**6** Odeio aqueles que se entregam a vaidades enganosas; eu, porém, confio no Senhor. ^v6
+**7** Eu me alegrarei e me regozijarei na Tua fidelidade à aliança, pois Tu viste minha aflição, conheceste a angústia da minha alma. ^v7
 
-**7** Eu me alegrarei e regozijarei na tua benignidade, pois consideraste a minha aflição; conheceste a minha alma nas angústias. ^v7
+**8** Não me entregaste nas mãos do meu inimigo. Tu colocaste meus pés em um lugar amplo. ^v8
 
-**8** E não me entregaste nas mãos do inimigo; puseste os meus pés num lugar espaçoso. ^v8
+**9** Tem misericórdia de mim, Yahweh, pois estou aflito; definham de tristeza os meus olhos, a minha alma e o meu corpo. ^v9
 
-**9** Tem misericórdia de mim, ó Senhor, porque estou angustiado. Consumidos estão de tristeza os meus olhos, a minha alma e o meu ventre. ^v9
+**10** Pois minha vida está cansada da tristeza e meus anos, dos gemidos. Minha força falha por causa do meu pecado e meus ossos estão definhando. ^v10
 
-**10** Porque a minha vida está gasta de tristeza, e os meus anos de suspiros; a minha força descai por causa da minha iniqüidade, e os meus ossos se consomem. ^v10
+**11** Por causa de todos os meus inimigos, o povo me despreza; meus vizinhos estão assustados com minha situação, e todos os que me conhecem estão horrorizados. Fogem de mim quando me veem na rua. ^v11
 
-**11** Fui opróbrio entre todos os meus inimigos, até entre os meus vizinhos, e horror para os meus conhecidos; os que me viam na rua fugiam de mim. ^v11
+**12** Sou esquecido como um homem morto, do qual ninguém se lembra. Sou como um vaso quebrado. ^v12
 
-**12** Estou esquecido no coração deles, como um morto; sou como um vaso quebrado. ^v12
+**13** Pois tenho ouvido sussurro de muitos, notícias terríveis de todos os lados, como se, juntos, tramassem contra mim. Eles planejam tirar-me a vida. ^v13
 
-**13** Pois ouvi a murmuração de muitos, temor havia ao redor; enquanto juntamente consultavam contra mim, intentaram tirar-me a vida. ^v13
+**14** "Mas eu confio em Ti, Yahweh, e digo: ""Tu és o meu Deus""." ^v14
 
-**14** Mas eu confiei em ti, Senhor; e disse: Tu és o meu Deus. ^v14
+**15** Meu destino está em Tuas mãos. Resgata-me dos meus inimigos e daqueles que me perseguem. ^v15
 
-**15** Os meus tempos estão nas tuas mãos; livra-me das mãos dos meus inimigos e dos que me perseguem. ^v15
+**16** Faze Tua face brilhar sobre o Teu servo; salva-me por Teu amor leal. ^v16
 
-**16** Faze resplandecer o teu rosto sobre o teu servo; salva-me por tuas misericórdias. ^v16
+**17** Não me deixes ser humilhado, Yahweh, pois eu clamo a Ti! Que os ímpios sejam humilhados. Que eles fiquem em silêncio no Sheol. ^v17
 
-**17** Não me deixes confundido, Senhor, porque te tenho invocado. Deixa confundidos os ímpios, e emudeçam na sepultura. ^v17
+**18** Sejam silenciados os lábios mentirosos, que contra o justo falam coisas insolentes, com arrogância e desprezo. ^v18
 
-**18** Emudeçam os lábios mentirosos que falam coisas más com soberba e desprezo contra o justo. ^v18
+**19** Quão grande é a Tua bondade, que tens guardado para aqueles que Te reverenciam; Tu as concedes, diante dos filhos dos homens, àqueles que em Ti se refugiam. ^v19
 
-**19** Oh! quão grande é a tua bondade, que guardaste para os que te temem, a qual operaste para aqueles que em ti confiam na presença dos filhos dos homens! ^v19
+**20** No abrigo de Tua presença, esconde-os das tramas dos homens. Tu os proteges, em um abrigo, da violência das línguas. ^v20
 
-**20** Tu os esconderás, no secreto da tua presença, dos desaforos dos homens; encobri-los-ás em um pavilhão, da contenda das línguas. ^v20
+**21** Bendito seja Yahweh, pois Ele mostrou Sua maravilhosa fidelidade à aliança quando eu estava na cidade sitiada. ^v21
 
-**21** Bendito seja o Senhor, pois fez maravilhosa a sua misericórdia para comigo em cidade segura. ^v21
+**22** "Embora tenha dito na minha pressa: ""Estou eliminado dos Teus olhos"", ainda ouviste o meu apelo por ajuda quando clamei a Ti." ^v22
 
-**22** Pois eu dizia na minha pressa: Estou cortado de diante dos teus olhos; não obstante, tu ouviste a voz das minhas súplicas, quando eu a ti clamei. ^v22
+**23** Ó, amai Yahweh, todos os Seus fiéis seguidores. Yahweh protege os fiéis, mas castiga por completo os orgulhosos. ^v23
 
-**23** Amai ao Senhor, vós todos que sois seus santos; porque o Senhor guarda os fiéis e retribui com abundância ao que usa de soberba. ^v23
-
-**24** Esforçai-vos, e ele fortalecerá o vosso coração, vós todos que esperais no Senhor. ^v24
+**24** Sede fortes e confiantes, todos vós que esperais pela ajuda de Yahweh. ^v24

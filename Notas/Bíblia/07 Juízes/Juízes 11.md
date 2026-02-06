@@ -1,87 +1,86 @@
 ---
-Livro: "[[Juízes|Juízes]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Juízes|Juízes]]"
+tags: [biblia]
 ---
 
 # Juízes 11
 
-**1** Era então Jefté, o gileadita, homem valoroso, porém filho de uma prostituta; mas Gileade gerara a Jefté. ^v1
+**1** Ora, Jefté, o gileadita, era um guerreiro poderoso, mas ele era filho de uma prostituta. Seu pai era Gileade. ^v1
 
-**2** Também a mulher de Gileade lhe deu filhos, e, sendo os filhos desta mulher já grandes, expulsaram a Jefté, e lhe disseram: Não herdarás na casa de nosso pai, porque és filho de outra mulher. ^v2
+**2** "A esposa de Gileade também lhe deu outros filhos. Quando estes cresceram, forçaram Jefté a deixar a casa e lhe disseram: ""Tu não herdarás nada da nossa família. Tu és filho de outra mulher""." ^v2
 
-**3** Então Jefté fugiu de diante de seus irmãos, e habitou na terra de Tobe; e homens levianos se ajuntaram a Jefté, e saíam com ele. ^v3
+**3** Então, Jefté fugiu dos seus irmãos e morou na terra de Tobe. Homens sem lei se juntaram a Jefté e foram com ele. ^v3
 
-**4** E aconteceu que, depois de algum tempo, os filhos de Amom pelejaram contra Israel. ^v4
+**4** Alguns dias depois, o povo de Amom entrou em guerra contra Israel. ^v4
 
-**5** E sucedeu que, como os filhos de Amom pelejassem contra Israel, foram os anciãos de Gileade buscar a Jefté na terra de Tobe. ^v5
+**5** Quando os amonitas atacaram Israel, os anciãos de Gileade foram buscar Jefté na terra de Tobe. ^v5
 
-**6** E disseram a Jefté: Vem, e sê o nosso chefe; para que combatamos contra os filhos de Amom. ^v6
+**6** "Eles lhe pediram: ""Vem e sê nosso líder para lutarmos contra o povo de Amom""." ^v6
 
-**7** Porém Jefté disse aos anciãos de Gileade: Porventura não me odiastes a mim, e não me expulsastes da casa de meu pai? Por que, pois, agora viestes a mim, quando estais em aperto? ^v7
+**7** "Jefté disse aos líderes de Gileade: ""Vós me odiastes e me obrigastes a deixar a casa do meu pai. Por que vindes a mim agora que estais em apuros?""." ^v7
 
-**8** E disseram os anciãos de Gileade a Jefté: Por isso tornamos a ti, para que venhas conosco, e combatas contra os filhos de Amom; e nos sejas por chefe sobre todos os moradores de Gileade. ^v8
+**8** "Responderam-lhe: ""É por isso que viemos a ti agora. Vem conosco e luta contra o povo de Amom, e tu serás o líder sobre todos os que habitam em Gileade""." ^v8
 
-**9** Então Jefté disse aos anciãos de Gileade: Se me levardes de volta para combater contra os filhos de Amom, e o Senhor mos der diante de mim, então eu vos serei por chefe? ^v9
+**9** "Jefté disse-lhes: ""Se vós me levardes de volta para casa para lutar contra os amonitas, e se Yahweh nos der a vitória sobre eles, eu serei o vosso líder""." ^v9
 
-**10** E disseram os anciãos de Gileade a Jefté: O Senhor será testemunha entre nós, e assim o faremos conforme a tua palavra. ^v10
+**10** "Os anciãos de Gileade disseram a Jefté: ""Seja Yahweh testemunha entre nós se não agirmos como prometemos!""." ^v10
 
-**11** Assim Jefté foi com os anciãos de Gileade, e o povo o pôs por chefe e príncipe sobre si; e Jefté falou todas as suas palavras perante o Senhor em Mizpá. ^v11
+**11** Então, Jefté foi com os anciãos de Gileade, e o povo lhe fez líder e comandante sobre eles. Quando estava diante de Yahweh em Mispá, Jefté repetiu todas as promessas que havia feito. ^v11
 
-**12** E enviou Jefté mensageiros ao rei dos filhos de Amom, dizendo: Que há entre mim e ti, que vieste a mim a pelejar contra a minha terra? ^v12
+**12** "Então, Jefté enviou mensageiros ao rei do povo de Amom, dizendo: ""Qual é o conflito entre nós? Por que tu vens à força para tomar a nossa terra?""." ^v12
 
-**13** E disse o rei dos filhos de Amom aos mensageiros de Jefté: É porque, saindo Israel do Egito, tomou a minha terra, desde Arnom até Jaboque, e ainda até ao Jordão: Restitui-ma agora, em paz. ^v13
+**13** "O rei dos amonitas respondeu aos mensageiros de Jefté: ""Porque quando Israel veio do Egito, eles tomaram minha terra de Arnom até o Jaboque, além do Jordão. Agora devolve essas terras em paz”." ^v13
 
-**14** Porém Jefté prosseguiu ainda em enviar mensageiros ao rei dos filhos de Amom, ^v14
+**14** Novamente, Jefté enviou mensageiros ao rei do povo de Amom, ^v14
 
-**15** Dizendo-lhe: Assim diz Jefté: Israel não tomou, nem a terra dos moabitas, nem a terra dos filhos de Amom. ^v15
+**15** "que disseram: ""Isto é o que Jefté afirma: ‘Israel não tomou a terra de Moabe e a terra do povo de Amom," ^v15
 
-**16** Porque, subindo Israel do Egito, andou pelo deserto até ao Mar Vermelho, e chegou até Cades. ^v16
+**16** mas quando eles vieram do Egito, Israel passou pelo deserto para o mar Vermelho e, dali, para Cades. ^v16
 
-**17** E Israel enviou mensageiros ao rei dos edomitas, dizendo: Rogo-te que me deixes passar pela tua terra. Porém o rei dos edomitas não lhe deu ouvidos; enviou também ao rei dos moabitas, o qual igualmente não consentiu; e assim Israel ficou em Cades. ^v17
+**17** Então, Israel enviou mensageiros ao rei de Edom, dizendo: 'Por favor, deixa-nos passar por tua terra', mas o rei de Edom não lhes deu ouvidos. Eles também enviaram mensageiros ao rei de Moabe. Porém, ele também recusou. Assim, Israel ficou em Cades. ^v17
 
-**18** Depois andou pelo deserto e rodeou a terra dos edomitas e a terra dos moabitas, e veio do nascente do sol à terra dos moabitas, e alojou-se além de Arnom; porém não entrou nos limites dos moabitas, porque Arnom é limite dos moabitas. ^v18
+**18** Então, eles foram pelo deserto e contornaram a terra de Edom e a terra de Moabe, foram ao longo do lado leste da terra de Moabe e acamparam do outro lado de Arnom. Mas eles não entraram no território de Moabe, pois Arnom era a fronteira de Moabe. ^v18
 
-**19** Mas Israel enviou mensageiros a Siom, rei dos amorreus, rei de Hesbom; e disse-lhe Israel: Deixa-nos, peço-te, passar pela tua terra até ao meu lugar. ^v19
+**19** Israel enviou mensageiros a Siom, rei dos amorreus, que governava em Hesbom. Israel disse-lhe: 'Por favor, deixa-nos passar pela tua terra para o lugar que é nosso'. ^v19
 
-**20** Porém Siom não confiou em Israel para este passar nos seus limites; antes Siom ajuntou todo o seu povo, e se acamparam em Jasa, e combateu contra Israel. ^v20
+**20** Mas Siom não confiou em Israel para passar pelo seu território. Siom juntou todo o seu exército e o moveu para Jaza, e ali ele lutou contra Israel. ^v20
 
-**21** E o Senhor Deus de Israel deu a Siom, com todo o seu povo, na mão de Israel, que os feriu; e Israel tomou por herança toda a terra dos amorreus que habitavam naquela região. ^v21
+**21** Então, Yahweh, o Deus de Israel, entregou Siom e todo o seu povo nas mãos de Israel, que os derrotou. Assim, Israel tomou toda a terra dos amorreus que viviam naquele país. ^v21
 
-**22** E por herança tomaram todos os limites dos amorreus, desde Arnom até Jaboque, e desde o deserto até ao Jordão. ^v22
+**22** Eles assumiram o controle de tudo no território dos amorreus, desde Arnom até o Jaboque, e desde o deserto até o Jordão. ^v22
 
-**23** Assim o Senhor Deus de Israel desapossou os amorreus de diante do seu povo de Israel; e os possuirias tu? ^v23
+**23** Portanto, foi Yahweh, o Deus de Israel, que expulsou os amorreus da presença do Seu povo, os israelitas. Por que tu tomarias posse da terra deles agora? ^v23
 
-**24** Não possuirias tu aquilo que Quemós, teu deus, desapossasse de diante de ti? Assim possuiremos nós todos quantos o Senhor nosso Deus desapossar de diante de nós. ^v24
+**24** Por acaso tu não tomarás posse da terra que Camos, teu deus, te der? Portanto, toda a terra que Yahweh, nosso Deus, nos deu, nós tomaremos posse dela. ^v24
 
-**25** Agora, pois, és tu ainda melhor do que Balaque, filho de Zipor, rei dos moabitas? Porventura contendeu ele em algum tempo com Israel, ou pelejou alguma vez contra ele? ^v25
+**25** Ora, és tu melhor que Balaque, filho de Zipor, rei de Moabe? Por acaso ele ousou discutir com os israelitas, ou declarou guerra contra eles? ^v25
 
-**26** Enquanto Israel habitou trezentos anos em Hesbom e nas suas vilas, e em Aroer e nas suas vilas, em todas as cidades que estão ao longo de Arnom, por que o não recuperastes naquele tempo? ^v26
+**26** Enquanto Israel viveu por trezentos anos em Hesbom e nas suas vilas, e em Aroer e nas suas vilas, e em todas as cidades que estão ao longo das margens de Armom, por que, então, tu não as tomaste de volta naquele tempo? ^v26
 
-**27** Tampouco pequei eu contra ti! Porém tu usas mal comigo em pelejar contra mim; o Senhor, que é juiz julgue hoje entre os filhos de Israel e entre os filhos de Amom. ^v27
+**27** Eu não te fiz nada de errado, mas tu estás cometendo um erro contra mim ao me atacar. Yahweh, o Juiz, decidirá hoje entre o povo de Israel e o povo de Amom’”. ^v27
 
-**28** Porém o rei dos filhos de Amom não deu ouvidos às palavras que Jefté lhe enviou. ^v28
+**28** Mas o rei dos amonitas rejeitou a advertência que Jefté enviou a ele. ^v28
 
-**29** Então o Espírito do Senhor veio sobre Jefté, e atravessou ele por Gileade e Manassés, passando por Mizpá de Gileade, e de Mizpá de Gileade passou até aos filhos de Amom. ^v29
+**29** Então, o Espírito de Yahweh veio sobre Jefté e ele passou por Gileade e Manassés, e passou por Mispá de Gileade, e de Mispá de Gileade ele passou pelos amonitas. ^v29
 
-**30** E Jefté fez um voto ao Senhor, e disse: Se totalmente deres os filhos de Amom na minha mão, ^v30
+**30** Jefté fez um voto a Yahweh e disse: “Se Tu me deres a vitória sobre os amonitas, ^v30
 
-**31** Aquilo que, saindo da porta de minha casa, me vier ao encontro, voltando eu dos filhos de Amom em paz, isso será do Senhor, e o oferecerei em holocausto. ^v31
+**31** então, qualquer um que sair da porta da minha casa para ir ao meu encontro, quando eu voltar em paz dos amonitas, pertencerá a Yahweh, e eu o oferecerei como holocausto”. ^v31
 
-**32** Assim Jefté passou aos filhos de Amom, a combater contra eles; e o Senhor os deu na sua mão. ^v32
+**32** Jefté passou pelos amonitas para lutar contra eles, e Yahweh lhe deu a vitória. ^v32
 
-**33** E os feriu com grande mortandade, desde Aroer até chegar a Minite, vinte cidades, e até Abel-Queramim; assim foram subjugados os filhos de Amom diante dos filhos de Israel. ^v33
+**33** Ele os atacou e causou uma grande matança, desde Aroer até Minite, vinte cidades, e até Abel-Queramim. Assim, os amonitas foram colocados sob o controle do povo de Israel. ^v33
 
-**34** Vindo, pois, Jefté a Mizpá, à sua casa, eis que a sua filha lhe saiu ao encontro com adufes e com danças; e era ela a única filha; não tinha ele outro filho nem filha. ^v34
+**34** Jefté foi à sua casa em Mispá, e de lá sua filha saiu para encontrá-lo com tambores e danças. Ela era sua única filha. Além dela, ele não tinha nenhum outro filho ou filha. ^v34
 
-**35** E aconteceu que, quando a viu, rasgou as suas vestes, e disse: Ah! filha minha, muito me abateste, e estás entre os que me turbam! Porque eu abri a minha boca ao Senhor, e não tornarei atrás. ^v35
+**35** "Assim que ele a viu, rasgou suas vestes e disse: ""Oh! Minha filha! Tu me entristeceste muito, e te tornaste aquela que me causa dor! Pois eu fiz um juramento a Yahweh, e não posso voltar atrás na minha promessa""." ^v35
 
-**36** E ela lhe disse: Meu pai, tu deste a palavra ao Senhor, faze de mim conforme o que prometeste; pois o Senhor te vingou dos teus inimigos, os filhos de Amom. ^v36
+**36** "Ela lhe disse: ""Meu pai, tu fizeste um voto a Yahweh; faze comigo o que prometeste, porque Yahweh te vingou dos teus inimigos, os amonitas""." ^v36
 
-**37** Disse mais a seu pai: Concede-me isto: Deixa-me por dois meses que vá, e desça pelos montes, e chore a minha virgindade, eu e as minhas companheiras. ^v37
+**37** "Ela disse ainda ao seu pai: ""Seja-me concedida esta promessa. Deixa-me sozinha por dois meses, para que eu vá e desça pelos montes, lamentando pela minha virgindade, eu e as minhas companheiras”." ^v37
 
-**38** E disse ele: Vai. E deixou-a ir por dois meses; então foi ela com as suas companheiras, e chorou a sua virgindade pelos montes. ^v38
+**38** "Ele disse: ""Vai"". Ele a mandou embora por dois meses. Ela o deixou, ela com as suas companheiras, e lamentaram a sua virgindade nos montes." ^v38
 
-**39** E sucedeu que, ao fim de dois meses, tornou ela para seu pai, o qual cumpriu nela o seu voto que tinha feito; e ela não conheceu homem; e daí veio o costume de Israel, ^v39
+**39** No final dos dois meses, ela voltou ao seu pai, que fez com ela de acordo com a promessa do voto que ele fizera. Ora, ela nunca havia se deitado com homem algum, e isto se tornou um costume em Israel: ^v39
 
-**40** Que as filhas de Israel iam de ano em ano lamentar, por quatro dias, a filha de Jefté, o gileadita. ^v40
+**40** que as filhas de Israel, todo ano, por quatro dias, recontariam a história da filha de Jefté, o gileadita. ^v40

@@ -1,73 +1,72 @@
 ---
-Livro: "[[Efésios|Efésios]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Efésios|Efésios]]"
+tags: [biblia]
 ---
 
 # Efésios 5
 
-**1** Sede, pois, imitadores de Deus, como filhos amados; ^v1
+**1** Portanto tornai-vos imitadores de Deus, como Seus filhos amados, ^v1
 
-**2** E andai em amor, como também Cristo vos amou, e se entregou a si mesmo por nós, em oferta e sacrifício a Deus, em cheiro suave. ^v2
+**2** e andai em amor, como Cristo nos amou e a Si mesmo se entregou por nós, como uma oferta e sacrifício de aroma agradável a Deus. ^v2
 
-**3** Mas a fornicação, e toda a impureza ou avareza, nem ainda se nomeie entre vós, como convém a santos; ^v3
+**3** Não deve existir entre vós nem sequer menção de imoralidade sexual ou qualquer impureza, ou cobiça, como é apropriado aos santos. ^v3
 
-**4** Nem torpezas, nem parvoíces, nem chocarrices, que não convêm; mas antes, ações de graças. ^v4
+**4** Nem devem ser mencionadas obscenidades, conversas tolas ou gracejos imorais, que são impróprias, em vez disso deve haver ações de graça. ^v4
 
-**5** Porque bem sabeis isto: que nenhum devasso, ou impuro, ou avarento, o qual é idólatra, tem herança no reino de Cristo e de Deus. ^v5
+**5** Pois estejais certos de que nenhuma pessoa sexualmente imoral, impura, cobiçosa, que é idólatra, tem qualquer herança no Reino de Cristo e de Deus. ^v5
 
-**6** Ninguém vos engane com palavras vãs; porque por estas coisas vem a ira de Deus sobre os filhos da desobediência. ^v6
+**6** Não deixeis ninguém vos enganar com palavras vazias. Por causa dessas coisas, a ira de Deus vem sobre os filhos da desobediência. ^v6
 
-**7** Portanto, não sejais seus companheiros. ^v7
+**7** Portanto não sejais participantes com eles. ^v7
 
-**8** Porque noutro tempo éreis trevas, mas agora sois luz no Senhor; andai como filhos da luz ^v8
+**8** Pois antes vós fostes trevas, mas agora sois luz no Senhor. Então andai como filhos da luz, ^v8
 
-**9** (Porque o fruto do Espírito está em toda a bondade, e justiça e verdade); ^v9
+**9** (pois o fruto da luz consiste em toda bondade, justiça e verdade), ^v9
 
-**10** Aprovando o que é agradável ao Senhor. ^v10
+**10** procurando sempre saber o que é agradável ao Senhor. ^v10
 
-**11** E não comuniqueis com as obras infrutuosas das trevas, mas antes condenai-as. ^v11
+**11** Não tenhais nenhuma participação com as obras infrutíferas das trevas, mas reprovai-as, ^v11
 
-**12** Porque o que eles fazem em oculto até dizê-lo é torpe. ^v12
+**12** pois as coisas feitas por eles em segredo são muito vergonhosas até de serem mencionadas. ^v12
 
-**13** Mas todas estas coisas se manifestam, sendo condenadas pela luz, porque a luz tudo manifesta. ^v13
+**13** Todas as coisas, quando expostas pela luz, se tornam visíveis. ^v13
 
-**14** Por isso diz: Desperta, tu que dormes, e levanta-te dentre os mortos, e Cristo te esclarecerá. ^v14
+**14** "Pois tudo o que se torna visível é luz. Por isso que se diz: ""Desperta, ó tu que dormes, levanta-te dentre mortos, e Cristo brilhará em ti""." ^v14
 
-**15** Portanto, vede prudentemente como andais, não como néscios, mas como sábios, ^v15
+**15** Portanto sede cuidadosos em como andais, não como insensatos, mas como sábios, ^v15
 
-**16** Remindo o tempo; porquanto os dias são maus. ^v16
+**16** remindo o tempo, porque os dias são maus. ^v16
 
-**17** Por isso não sejais insensatos, mas entendei qual seja a vontade do Senhor. ^v17
+**17** Não sejais loucos, mas entendei qual é a vontade do Senhor. ^v17
 
-**18** E não vos embriagueis com vinho, em que há contenda, mas enchei-vos do Espírito; ^v18
+**18** E não vos embriagueis com vinho, pois isso leva à ruína. Em vez disso, sede cheios do Espírito Santo, ^v18
 
-**19** Falando entre vós em salmos, e hinos, e cânticos espirituais; cantando e salmodiando ao Senhor no vosso coração; ^v19
+**19** falando uns com os outros com salmos, hinos e cânticos espirituais; cantando e louvando com todo o vosso coração ao Senhor. ^v19
 
-**20** Dando sempre graças por tudo a nosso Deus e Pai, em nome de nosso Senhor Jesus Cristo; ^v20
+**20** Sempre dando graças por todas as coisas ao nosso Deus e Pai, em nome de nosso Senhor Jesus Cristo; ^v20
 
-**21** Sujeitando-vos uns aos outros no temor de Deus. ^v21
+**21** sujeitando-vos uns aos outros no temor de Cristo. ^v21
 
-**22** Vós, mulheres, sujeitai-vos a vossos maridos, como ao Senhor; ^v22
+**22** Esposas, sujeitai-vos aos vossos maridos como ao Senhor. ^v22
 
-**23** Porque o marido é a cabeça da mulher, como também Cristo é a cabeça da igreja, sendo ele próprio o salvador do corpo. ^v23
+**23** Pois o marido é cabeça da esposa, como também Cristo é cabeça da Igreja, sendo Ele o Salvador do corpo. ^v23
 
-**24** De sorte que, assim como a igreja está sujeita a Cristo, assim também as mulheres sejam em tudo sujeitas a seus maridos. ^v24
+**24** Mas, assim como a igreja está sujeita a Cristo, então também as esposas devem ser sujeitas ao seus maridos em tudo. ^v24
 
-**25** Vós, maridos, amai vossas mulheres, como também Cristo amou a igreja, e a si mesmo se entregou por ela, ^v25
+**25** Maridos, amai vossas esposas como Cristo amou a Igreja e a Si mesmo se entregou por ela. ^v25
 
-**26** Para a santificar, purificando-a com a lavagem da água, pela palavra, ^v26
+**26** Ele o fez para que pudesse torná-la santa, tendo-a purificado por meio da lavagem de água pela palavra, ^v26
 
-**27** Para a apresentar a si mesmo igreja gloriosa, sem mácula, nem ruga, nem coisa semelhante, mas santa e irrepreensível. ^v27
+**27** de modo que pudesse apresentar para Ele mesmo uma Igreja gloriosa, sem manchas nem rugas nem coisa semelhante, mas santa e irrepreensível. ^v27
 
-**28** Assim devem os maridos amar as suas próprias mulheres, como a seus próprios corpos. Quem ama a sua mulher, ama-se a si mesmo. ^v28
+**28** Da mesma forma, os maridos devem amar suas próprias esposas como a seus próprios corpos. Aquele que ama sua esposa ama a si mesmo. ^v28
 
-**29** Porque nunca ninguém odiou a sua própria carne; antes a alimenta e sustenta, como também o Senhor à igreja; ^v29
+**29** Pois ninguém jamais odiou o próprio corpo. Em vez disso, alimenta e cuida dele como Cristo também cuida da igreja, ^v29
 
-**30** Porque somos membros do seu corpo, da sua carne, e dos seus ossos. ^v30
+**30** porque somos membros do Seu corpo. ^v30
 
-**31** Por isso deixará o homem seu pai e sua mãe, e se unirá a sua mulher; e serão dois numa carne. ^v31
+**31** """Por essa razão, o homem deixará seu pai e sua mãe e se unirá com sua esposa, e os dois se tornarão uma só carne""." ^v31
 
-**32** Grande é este mistério; digo-o, porém, a respeito de Cristo e da igreja. ^v32
+**32** Esse é um grande mistério, mas eu estou falando sobre Cristo e a Igreja. ^v32
 
-**33** Assim também vós, cada um em particular, ame a sua própria mulher como a si mesmo, e a mulher reverencie o marido. ^v33
+**33** Entretanto cada um de vós também deve amar sua própria esposa como a si mesmo, e a esposa deve respeitar seu marido. ^v33

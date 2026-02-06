@@ -1,37 +1,36 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Sofonias|Sofonias]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Sofonias|Sofonias]]"
+tags: [biblia]
 ---
 
 # Sofonias 2
 
-**1** Congregai-vos, sim, congregai-vos, ó nação não desejável; ^v1
+**1** Reuni-vos, ajuntai-vos, nação sem pudor. ^v1
 
-**2** Antes que o decreto produza o seu efeito, e o dia passe como a pragana; antes que venha sobre vós o furor da ira do Senhor, antes que venha sobre vós o dia da ira do Senhor. ^v2
+**2** Antes que o decreto entre em vigor, antes que o dia passe como a palha, antes que venha sobre vós o furor da ira de Yahweh, antes que o dia da ira de Yahweh venha sobre vós. ^v2
 
-**3** Buscai ao Senhor, vós todos os mansos da terra, que tendes posto por obra o seu juízo; buscai a justiça, buscai a mansidão; pode ser que sejais escondidos no dia da ira do Senhor. ^v3
+**3** Buscai Yahweh, todos os humildes da terra que obedeceis Seus decretos! Buscai a justiça! Buscai a humildade e talvez sejais protegidos no dia da ira do Senhor! ^v3
 
-**4** Porque Gaza será desamparada, e Ascalom assolada; Asdode ao meio-dia será expelida, e Ecrom será desarraigada. ^v4
+**4** Gaza será abandonada, e Asquelom será transformada em devastação! Expulsarão Asdode ao meio-dia, extirparão Ecrom! ^v4
 
-**5** Ai dos habitantes da costa do mar, a nação dos quereteus! A palavra do Senhor será contra vós, ó Canaã, terra dos filisteus; e eu vos destruirei, até que não haja morador. ^v5
+**5** Ai dos habitantes da costa do mar, a nação dos quereteus! Yahweh falou contra vós, Canaã, terra dos filisteus. Eu vos destruirei até que não haja em vós remanescente! ^v5
 
-**6** E a costa do mar será de pastos e cabanas para os pastores, e currais para os rebanhos. ^v6
+**6** Então, a costa do mar se tornará em pasto, terra para pastores e currais para ovelhas. ^v6
 
-**7** E será a costa para o restante da casa de Judá; ali apascentarão os seus rebanhos; de tarde se deitarão nas casas de Ascalom; porque o Senhor seu Deus os visitará, e os fará tornar do seu cativeiro. ^v7
+**7** A região costeira pertencerá ao remanescente da casa de Judá, que apascentará os seus rebanhos. Seu povo se deitará ao entardecer, nas casas de Asquelom, e Yahweh, seu Deus, cuidará deles e restaurará sua sorte. ^v7
 
-**8** Eu ouvi o escárnio de Moabe, e as injuriosas palavras dos filhos de Amom, com que escarneceram do meu povo, e se engrandeceram contra o seu termo. ^v8
+**8** """Eu ouvi as provocações de Moabe e as injúrias do povo de Amom quando eles provocaram Meu povo e violaram suas fronteiras." ^v8
 
-**9** Portanto, tão certo como eu vivo, diz o Senhor dos Exércitos, o Deus de Israel, Moabe será como Sodoma, e os filhos de Amom como Gomorra, campo de urtigas e poços de sal, e desolação perpétua; o restante do meu povo os saqueará, e o restante do meu povo os possuirá. ^v9
+**9** "Portanto, assim como Eu vivo"", esta é a declaração de Yahweh dos Exércitos, Deus de Israel, ""Moabe se tornará como Sodoma, e o povo de Amom como Gomorra; um lugar de ervas daninhas e um poço de sal, devastada para sempre! Mas o remanescente do Meu povo os saqueará, e o remanescente da minha nação herdará a terra deles!""." ^v9
 
-**10** Isso terão em recompensa da sua soberba, porque escarneceram, e se engrandeceram contra o povo do Senhor dos Exércitos. ^v10
+**10** Isto acontecerá a Moabe e Amom por causa de seu orgulho, uma vez que provocaram e insultaram o povo de Yahweh dos Exércitos! ^v10
 
-**11** O Senhor será terrível para eles, porque emagrecerá todos os deuses da terra; e todos virão adorá-lo, cada um desde o seu lugar, de todas as ilhas dos gentios. ^v11
+**11** Então, eles temerão Yahweh, Ele zombará de todos os deuses da terra. Todos O adorarão, de todos os lugares, de toda beira-mar! ^v11
 
-**12** Também vós, ó etíopes, sereis mortos com a minha espada. ^v12
+**12** Vós etíopes, também sereis perfurados pela Minha espada, ^v12
 
-**13** Estenderá também a sua mão contra o norte, e destruirá a Assíria; e fará de Nínive uma desolação, terra seca como o deserto. ^v13
+**13** e a mão de Deus atacará o norte e destruirá a Assíria. Então, Nínive se tornará uma ruína, tão seca como o deserto. ^v13
 
-**14** E no meio dela repousarão os rebanhos, todos os animais das nações; e alojar-se-ão nos seus capitéis assim o pelicano como o ouriço; o canto das aves se ouvirá nas janelas; e haverá desolação nos limiares, quando tiver descoberto a sua obra de cedro. ^v14
+**14** Então, rebanhos descansarão lá, todos os animais das nações, tanto o pelicano como o ouriço, descansarão no topo de suas colunas. Suas vozes soarão na janela, e entulho estará nas portas; suas vigas de cedro entalhado serão expostas. ^v14
 
-**15** Esta é a cidade alegre, que habita despreocupadamente, que diz no seu coração: Eu sou, e não há outra além de mim; como se tornou em desolação, em pousada de animais! Todo o que passar por ela assobiará, e meneará a sua mão. ^v15
+**15** "Essa é a cidade exultante que viveu sem medo e que disse no seu coração: ""Eu sou, e não há outra igual"". Ela se tornou um horror, um lugar para animais ferozes pastarem! Cada um que passa por ela zombará com assobios e farão gestos de desprezo." ^v15

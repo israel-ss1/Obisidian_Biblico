@@ -1,47 +1,46 @@
 ---
-Livro: "[[2 Reis|2 Reis]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/2 Reis|2 Reis]]"
+tags: [biblia]
 ---
 
 # 2 Reis 7
 
-**1** Então disse Eliseu: Ouvi a palavra do SENHOR; assim diz o SENHOR: Amanhã, quase a este tempo, haverá uma medida de farinha por um siclo, e duas medidas de cevada por um siclo, à porta de Samaria. ^v1
+**1** "Eliseu disse: ""Ouvi a palavra de Yahweh. Assim diz Yahweh: 'Amanhã, por volta deste horário, uma medida de farinha fina será vendida por um siclo, e duas medidas de cevada por um siclo, no portão de Samaria'""." ^v1
 
-**2** Porém um senhor, em cuja mão o rei se encostava, respondeu ao homem de Deus e disse: Eis que ainda que o SENHOR fizesse janelas no céu, poder-se-ia fazer isso? E ele disse: Eis que o verás com os teus olhos, porém disso não comerás. ^v2
+**2** "Então, o capitão em cuja mão o rei se apoiava respondeu ao homem de Deus e disse: ""Vê, ainda que Yahweh fizesse janelas no céu, isso poderia acontecer?"" Eliseu respondeu: ""Eis que verás com teus próprios olhos isso acontecer, mas não comerás nada disso""." ^v2
 
-**3** E quatro homens leprosos estavam à entrada da porta, os quais disseram uns aos outros: Para que estaremos nós aqui até morrermos? ^v3
+**3** "Ora, havia quatro homens com lepra do lado de fora do portão de entrada da cidade. Eles disseram uns aos outros: ""Por que devemos ficar aqui sentados até morrermos?" ^v3
 
-**4** Se dissermos: Entremos na cidade, há fome na cidade, e morreremos aí; e se ficarmos aqui, também morreremos. Vamos nós, pois, agora, e passemos para o arraial dos sírios; se nos deixarem viver, viveremos, e se nos matarem, tão-somente morreremos. ^v4
+**4** "Se dissermos que devemos entrar na cidade enquanto há fome na cidade, morreremos lá. Mas, se ficarmos sentados aqui, também morreremos. Então, vamos ao exército dos sírios. Se eles nos deixarem viver, nós viveremos, e, se eles nos matarem, nós apenas morreremos""." ^v4
 
-**5** E levantaram-se ao crepúsculo, para irem ao arraial dos sírios; e, chegando à entrada do arraial dos sírios, eis que não havia ali ninguém. ^v5
+**5** E, ao anoitecer, eles se levantaram para ir ao acampamento sírio. Quando eles chegaram ao ponto mais afastado do acampamento, não havia ninguém por lá. ^v5
 
-**6** Porque o Senhor fizera ouvir no arraial dos sírios ruído de carros e ruído de cavalos, como o ruído de um grande exército; de maneira que disseram uns aos outros: Eis que o rei de Israel alugou contra nós os reis dos heteus e os reis dos egípcios, para virem contra nós. ^v6
+**6** "Pois o Senhor havia feito com que o exército sírio ouvisse um ruído de carruagem de guerra e de cavalos — o ruído de outro grande exército — e eles disseram uns aos outros: ""Eis que o rei de Israel pagou os reis dos heteus e dos egípcios para virem contra nós""." ^v6
 
-**7** Por isso se levantaram, e fugiram no crepúsculo, e deixaram as suas tendas, os seus cavalos, os seus jumentos e o arraial como estava; e fugiram para salvarem a sua vida. ^v7
+**7** Desse modo, os soldados se levantaram e fugiram ,ao anoitecer, e deixaram suas tendas, seus cavalos, seus jumentos; deixando o acampamento como estava, fugiram para salvar suas vidas. ^v7
 
-**8** Chegando, pois, estes leprosos à entrada do arraial, entraram numa tenda, e comeram, beberam e tomaram dali prata, ouro e roupas, e foram e os esconderam; então voltaram, e entraram em outra tenda, e dali também tomaram alguma coisa e a esconderam. ^v8
+**8** Quando os homens com lepra chegaram à parte mais afastada do acampamento, eles entraram numa tenda, comeram, beberam e foram embora levando de lá prata, ouro e roupas e esconderam tudo. Eles voltaram e entraram em outra tenda e dali também levaram o que encontraram e o esconderam. ^v8
 
-**9** Então disseram uns para os outros: Não fazemos bem; este dia é dia de boas novas, e nos calamos; se esperarmos até à luz da manhã, algum mal nos sobrevirá; por isso agora vamos, e o anunciaremos à casa do rei. ^v9
+**9** "Então, disseram uns aos outros: ""Não é certo o que estamos fazendo. Este é um dia de boas-novas, mas estamos calados acerca disso. Se nós esperarmos até o romper do dia, o castigo virá sobre nós. Agora, então, vamos e anunciemos à casa do rei""." ^v9
 
-**10** Vieram, pois, e bradaram aos porteiros da cidade, e lhes anunciaram, dizendo: Fomos ao arraial dos sírios e eis que lá não havia ninguém, nem voz de homem, porém só cavalos atados, jumentos atados, e as tendas como estavam. ^v10
+**10** "Assim, eles foram e chamaram os porteiros da cidade. Eles lhes disseram: ""Nós fomos ao acampamento dos sírios, mas não havia ninguém lá, somente cavalos e jumentos amarrados, e as tendas estavam como eles deixaram""." ^v10
 
-**11** E chamaram os porteiros, e o anunciaram dentro da casa do rei. ^v11
+**11** E os porteiros, gritando, anunciaram as notícias, e, então, elas foram ditas dentro da casa do rei. ^v11
 
-**12** E o rei se levantou de noite, e disse a seus servos: Agora vos farei saber o que é que os sírios nos fizeram; bem sabem eles que esfaimados estamos, pelo que saíram do arraial, a esconder-se pelo campo, dizendo: Quando saírem da cidade, então os tomaremos vivos, e entraremos na cidade. ^v12
+**12** "Dessa forma, o rei levantou-se de noite e disse aos seus servos: ""Agora eu vos direi o que os sírios nos fizeram. Eles sabem que nós estamos com fome. Então, eles saíram do acampamento para se esconderem nos campos. Eles estão dizendo: 'Quando eles saírem da cidade, nós os pegaremos vivos e entraremos na cidade'""." ^v12
 
-**13** Então um dos seus servos respondeu e disse: Tomem-se, pois, cinco dos cavalos que restam aqui dentro (eis que são como toda a multidão dos israelitas que ficaram aqui; e eis que são como toda a multidão dos israelitas que já pereceram) e enviemo-los, e vejamos. ^v13
+**13** "Então, um dos servos do rei respondeu, dizendo: ""Eu te suplico que deixes alguns homens pegarem cinco dos cavalos que ainda restam, dos que foram deixados na cidade. Eles são todos como o resto da população de Israel que foi deixada—a maioria agora está morta; vamos enviá-los e vejamos""." ^v13
 
-**14** Tomaram, pois, dois cavalos de carro; e o rei os enviou com mensageiros após o exército dos sírios, dizendo: Ide, e vede. ^v14
+**14** "Assim, eles pegaram duas carruagens com cavalos e o rei os enviou atrás do exército dos sírios, dizendo: ""Ide e vede""." ^v14
 
-**15** E foram após eles até ao Jordão, e eis que todo o caminho estava cheio de roupas e de aviamentos que os sírios, apressando-se, lançaram fora; e voltaram os mensageiros e o anunciaram ao rei. ^v15
+**15** Eles foram atrás deles, até ao Jordão, e todo o caminho estava cheio de roupas e de utensílios que os sírios, na sua pressa, haviam abandonado. Assim, os mensageiros retornaram e anunciaram ao rei. ^v15
 
-**16** Então saiu o povo, e saqueou o arraial dos sírios; e havia uma medida de farinha por um siclo, e duas medidas de cevada por um siclo, conforme a palavra do Senhor. ^v16
+**16** O povo saiu e saqueou o acampamento dos sírios. Logo, uma medida de farinha fina foi vendida por um siclo, e duas medidas de cevada, por um siclo, assim como a palavra de Yahweh disse. ^v16
 
-**17** E pusera o rei à porta o senhor em cuja mão se encostava; e o povo o atropelou na porta, e morreu, como falara o homem de Deus, o que falou quando o rei descera a ele. ^v17
+**17** O rei havia ordenado que o capitão, em cuja mão ele se apoiava, ficasse encarregado do portão, mas as pessoas o pisotearam no portão. Ele morreu como o homem de Deus havia dito, quando o rei havia descido ao seu encontro. ^v17
 
-**18** Porque assim sucedeu como o homem de Deus falara ao rei dizendo: Amanhã, quase a este tempo, haverá duas medidas de cevada por um siclo, e uma medida de farinha por um siclo, à porta de Samaria. ^v18
+**18** "Dessa forma, isso aconteceu como o homem de Deus havia dito ao rei, dizendo: ""Por volta deste horário, no portão de Samaria, duas medidas de cevada estarão disponíveis por um siclo, e uma medida de farinha fina, por um siclo""." ^v18
 
-**19** E aquele senhor respondeu ao homem de Deus, e disse: Eis que ainda que o SENHOR fizesse janelas no céu poderia isso suceder? E ele disse: Eis que o verás com os teus olhos, porém dali não comerás. ^v19
+**19** "Aquele capitão havia respondido ao homem de Deus, dizendo: ""Vê, ainda que Yahweh fizesse janelas no céu, isso poderia acontecer?"". Eliseu disse: ""Eis que tu verás isso acontecer com teus próprios olhos, mas não comerás nada disso""." ^v19
 
-**20** E assim lhe sucedeu, porque o povo o atropelou à porta, e morreu. ^v20
+**20** E foi exatamente o que aconteceu com ele, pois o povo o pisoteou no portão e ele morreu. ^v20

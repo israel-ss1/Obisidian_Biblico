@@ -1,111 +1,110 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Lucas|Lucas]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Lucas|Lucas]]"
+tags: [biblia]
 ---
 
 # Lucas 2
 
-**1** E aconteceu naqueles dias que saiu um decreto da parte de César Augusto, para que todo o mundo se alistasse ^v1
+**1** Naqueles dias, o Imperador César Augusto enviou um decreto ordenando que houvesse um censo de todas as pessoas que viviam no mundo habitado. ^v1
 
-**2** (Este primeiro alistamento foi feito sendo Quirino presidente da Síria). ^v2
+**2** Isto foi feito, pela primeira vez, quando Quirino era o governador da Síria. ^v2
 
-**3** E todos iam alistar-se, cada um à sua própria cidade. ^v3
+**3** Então, todos foram à sua cidade natal para serem registrados no censo. ^v3
 
-**4** E subiu também José da Galiléia, da cidade de Nazaré, à Judéia, à cidade de Davi, chamada Belém (porque era da casa e família de Davi), ^v4
+**4** José também partiu da cidade de Nazaré, na Galileia, para Belém, na Judeia, conhecida como cidade de Davi, pois ele era descendente do Rei Davi. ^v4
 
-**5** A fim de alistar-se com Maria, sua esposa, que estava grávida. ^v5
+**5** José foi com sua noiva Maria para se registrarem. Ela estava grávida. ^v5
 
-**6** E aconteceu que, estando eles ali, se cumpriram os dias em que ela havia de dar à luz. ^v6
+**6** Aconteceu que, chegando em Belém, era o momento de Maria ter o Bebê. ^v6
 
-**7** E deu à luz a seu filho primogênito, e envolveu-o em panos, e deitou-o numa manjedoura, porque não havia lugar para eles na estalagem. ^v7
+**7** Então ela deu à luz o seu filho, seu Primogênito, e ela O envolveu em panos. Depois, ela O colocou em uma manjedoura, pois não havia lugar para eles na hospedaria. ^v7
 
-**8** Ora, havia naquela mesma comarca pastores que estavam no campo, e guardavam, durante as vigílias da noite, o seu rebanho. ^v8
+**8** Naquela mesma região alguns pastores estavam no campo, cuidando de suas ovelhas à noite. ^v8
 
-**9** E eis que o anjo do Senhor veio sobre eles, e a glória do Senhor os cercou de resplendor, e tiveram grande temor. ^v9
+**9** Um anjo do Senhor apareceu para eles e a glória do Senhor brilhava em torno deles; e todos ficaram tomados de grande temor. ^v9
 
-**10** E o anjo lhes disse: Não temais, porque eis aqui vos trago novas de grande alegria, que será para todo o povo: ^v10
+**10** "Então, o anjo lhes disse: ""Não temais, pois vos trago boas novas de grande alegria para todo o povo." ^v10
 
-**11** Pois, na cidade de Davi, vos nasceu hoje o Salvador, que é Cristo, o Senhor. ^v11
+**11** Hoje, na cidade de Davi, vos nasceu o Salvador. Ele é Cristo, o Senhor! ^v11
 
-**12** E isto vos será por sinal: Achareis o menino envolto em panos, e deitado numa manjedoura. ^v12
+**12** "Ireis reconhecê-Lo através deste sinal: Ele estará envolvido em panos e deitado em uma manjedoura""." ^v12
 
-**13** E, no mesmo instante, apareceu com o anjo uma multidão dos exércitos celestiais, louvando a Deus, e dizendo: ^v13
+**13** De repente, uma grande quantidade de anjos, vindos do céu, apareceu e se juntou ao outro anjo louvando a Deus e dizendo: ^v13
 
-**14** Glória a Deus nas alturas, Paz na terra, boa vontade para com os homens. ^v14
+**14** “Glória a Deus nas alturas e que haja paz na terra entre o povo o qual Deus quer bem”. ^v14
 
-**15** E aconteceu que, ausentando-se deles os anjos para o céu, disseram os pastores uns aos outros: Vamos, pois, até Belém, e vejamos isso que aconteceu, e que o Senhor nos fez saber. ^v15
+**15** Após os anjos voltarem ao céu os pastores disseram entre si: “Vamos imediatamente para Belém ver esta coisa maravilhosa que aconteceu e o Senhor nos permitiu saber”. ^v15
 
-**16** E foram apressadamente, e acharam Maria, e José, e o menino deitado na manjedoura. ^v16
+**16** Foram apressadamente e lá encontraram José e Maria em um estábulo. E viram o Bebê deitado na manjedoura. ^v16
 
-**17** E, vendo-o, divulgaram a palavra que acerca do menino lhes fora dita; ^v17
+**17** Após verem isso, eles contaram às pessoas o que foi dito a eles sobre o Bebê. ^v17
 
-**18** E todos os que a ouviram se maravilharam do que os pastores lhes diziam. ^v18
+**18** Todos os que se encontraram com os pastores ficaram maravilhados com o que ouviam. ^v18
 
-**19** Mas Maria guardava todas estas coisas, conferindo-as em seu coração. ^v19
+**19** Mas, Maria guardava tudo o que havia ouvido e conservava isso em seu coração. ^v19
 
-**20** E voltaram os pastores, glorificando e louvando a Deus por tudo o que tinham ouvido e visto, como lhes havia sido dito. ^v20
+**20** Os pastores retornaram glorificando e louvando a Deus, pois tudo o que ouviram e viram era exatamente como o anjo lhes dissera. ^v20
 
-**21** E, quando os oito dias foram cumpridos, para circuncidar o menino, foi-lhe dado o nome de Jesus, que pelo anjo lhe fora posto antes de ser concebido. ^v21
+**21** No oitavo dia, era chegado o tempo de circuncidar o Bebê. Eles puseram-lhe o nome Jesus, pois foi assim que o anjo O chamou, antes que Ele fosse concebido no ventre. ^v21
 
-**22** E, cumprindo-se os dias da purificação dela, segundo a lei de Moisés, o levaram a Jerusalém, para o apresentarem ao Senhor ^v22
+**22** Quando o número de dias da purificação deles se passaram, de acordo com a Lei de Moisés, José e Maria levaram o Bebê até o templo, em Jerusalém, para apresentá-Lo ao Senhor. ^v22
 
-**23** (Segundo o que está escrito na lei do Senhor: Todo o macho primogênito será consagrado ao Senhor); ^v23
+**23** Pois estava escrito na Lei do Senhor: “Todo menino nascido primogênito deve ser santificado ao Senhor”. ^v23
 
-**24** E para darem a oferta segundo o disposto na lei do Senhor: Um par de rolas ou dois pombinhos. ^v24
+**24** De acordo com a Lei do Senhor, eles também deveriam ofertar “duas rolinhas ou dois pombinhos” como sacrifício. ^v24
 
-**25** Havia em Jerusalém um homem cujo nome era Simeão; e este homem era justo e temente a Deus, esperando a consolação de Israel; e o Espírito Santo estava sobre ele. ^v25
+**25** Eis que havia em Jerusalém um homem chamado Simeão. Ele era justo e piedoso. Ele estava esperando a consolação de Israel e o Espírito Santo estava sobre ele. ^v25
 
-**26** E fora-lhe revelado, pelo Espírito Santo, que ele não morreria antes de ter visto o Cristo do Senhor. ^v26
+**26** O Espírito Santo revelou a ele que não morreria antes que visse o Cristo prometido por Deus. ^v26
 
-**27** E pelo Espírito foi ao templo e, quando os pais trouxeram o menino Jesus, para com ele procederem segundo o uso da lei, ^v27
+**27** Guiado pelo Espírito, Simeão entrou no templo. José e Maria trouxeram o Bebê, Jesus, para cumprir os costumes requeridos na Lei. ^v27
 
-**28** Ele, então, o tomou em seus braços, e louvou a Deus, e disse: ^v28
+**28** Simeão recebeu Jesus em Seus braços e louvou a Deus dizendo: ^v28
 
-**29** Agora, Senhor, despedes em paz o teu servo, Segundo a tua palavra; ^v29
+**29** “Senhor, permita agora que teu servo vá em paz, pois se cumpriu a Tua promessa. ^v29
 
-**30** Pois já os meus olhos viram a tua salvação, ^v30
+**30** Pois meus olhos viram a Tua salvação, ^v30
 
-**31** A qual tu preparaste perante a face de todos os povos; ^v31
+**31** a qual Tu preparaste diante de todos os povos; ^v31
 
-**32** Luz para iluminar as nações, E para glória de teu povo Israel. ^v32
+**32** Luz para revelação aos gentios, e para glória do Teu povo de Israel”. ^v32
 
-**33** E José, e sua mãe, se maravilharam das coisas que dele se diziam. ^v33
+**33** Os pais do Bebê estavam maravilhados com as coisas que eram ditas a respeito Dele. ^v33
 
-**34** E Simeão os abençoou, e disse a Maria, sua mãe: Eis que este é posto para queda e elevação de muitos em Israel, e para sinal que é contraditado ^v34
+**34** Simeão os abençoou e disse a Maria, Sua mãe: “Eis que este Bebê está destinado tanto para ruína como para levantamento de muitos em Israel e para ser alvo de contradição ^v34
 
-**35** (E uma espada traspassará também a tua própria alma); para que se manifestem os pensamentos de muitos corações. ^v35
+**35** (também uma espada traspassará a tua própria alma), de modo que os pensamentos de muitos corações sejam revelados. ^v35
 
-**36** E estava ali a profetisa Ana, filha de Fanuel, da tribo de Aser. Esta era já avançada em idade, e tinha vivido com o marido sete anos, desde a sua virgindade; ^v36
+**36** Uma profetisa chamada Ana também estava lá. Ela era filha de Fanuel, da tribo de Aser. Ela era idosa, e viveu com seu marido por sete anos desde a sua virgindade, ^v36
 
-**37** E era viúva, de quase oitenta e quatro anos, e não se afastava do templo, servindo a Deus em jejuns e orações, de noite e de dia. ^v37
+**37** e depois tornou-se viúva e assim permaneceu por oitenta e quatro anos. Ela nunca deixou o templo, adorando a Deus continuamente com jejum e oração, noite e dia. ^v37
 
-**38** E sobrevindo na mesma hora, ela dava graças a Deus, e falava dele a todos os que esperavam a redenção em Jerusalém. ^v38
+**38** Naquele mesmo momento, ela começou a agradecer a Deus e falou sobre o menino a todos que estavam esperando pela redenção de Jerusalém. ^v38
 
-**39** E, quando acabaram de cumprir tudo segundo a lei do Senhor, voltaram à Galiléia, para a sua cidade de Nazaré. ^v39
+**39** Quando eles terminaram de fazer tudo o que deviam de acordo com a Lei do Senhor, eles retornaram à Galileia, para sua própria cidade, Nazaré. ^v39
 
-**40** E o menino crescia, e se fortalecia em espírito, cheio de sabedoria; e a graça de Deus estava sobre ele. ^v40
+**40** E o Menino crescia em estatura, tornando-se forte, enchendo-Se de sabedoria, e a graça de Deus estava sobre Ele. ^v40
 
-**41** Ora, todos os anos iam seus pais a Jerusalém à festa da páscoa; ^v41
+**41** Seus pais iam todos os anos a Jerusalém, para a Festa da Páscoa. ^v41
 
-**42** E, tendo ele já doze anos, subiram a Jerusalém, segundo o costume do dia da festa. ^v42
+**42** Quando Jesus completou doze anos, eles foram para a festa, como era de costume. ^v42
 
-**43** E, regressando eles, terminados aqueles dias, ficou o menino Jesus em Jerusalém, e não o soube José, nem sua mãe. ^v43
+**43** Terminados os dias de celebração, ao regressarem, permaneceu o menino Jesus em Jerusalém e Seus pais não O souberam, ^v43
 
-**44** Pensando, porém, eles que viria de companhia pelo caminho, andaram caminho de um dia, e procuravam-no entre os parentes e conhecidos; ^v44
+**44** pois pensaram que estava na caravana que viajava com eles. Após um dia inteiro de jornada, eles começaram a procurá-Lo entre os familiares e amigos. ^v44
 
-**45** E, como o não encontrassem, voltaram a Jerusalém em busca dele. ^v45
+**45** Quando eles não O encontraram, eles voltaram para Jerusalém e começaram a procurá-Lo por lá. ^v45
 
-**46** E aconteceu que, passados três dias, o acharam no templo, assentado no meio dos doutores, ouvindo-os, e interrogando-os. ^v46
+**46** Após três dias, eles O encontraram no templo, sentado entre os mestres, ouvindo-os com atenção e fazendo perguntas. ^v46
 
-**47** E todos os que o ouviam admiravam a sua inteligência e respostas. ^v47
+**47** Todos os que O ouviam ficavam maravilhados com Seu entendimento e com Suas respostas. ^v47
 
-**48** E quando o viram, maravilharam-se, e disse-lhe sua mãe: Filho, por que fizeste assim para conosco? Eis que teu pai e eu ansiosos te procurávamos. ^v48
+**48** Quando eles viram Jesus, ficaram atônitos. Então Sua mãe disse-Lle: “Por que fizeste assim conosco? Eis que Teu pai e eu estivemos aflitos procurando por Ti”. ^v48
 
-**49** E ele lhes disse: Por que é que me procuráveis? Não sabeis que me convém tratar dos negócios de meu Pai? ^v49
+**49** E Jesus respondeu: “Por que vós estáveis procurando por Mim? Vós não sabíeis que Eu devo estar na casa do Meu Pai?”. ^v49
 
-**50** E eles não compreenderam as palavras que lhes dizia. ^v50
+**50** Mas eles não entenderam o que Jesus queria dizer com essas palavras. ^v50
 
-**51** E desceu com eles, e foi para Nazaré, e era-lhes sujeito. E sua mãe guardava no seu coração todas estas coisas. ^v51
+**51** Então Jesus voltou com Seus pais para Nazaré, e era submisso a eles e Sua mãe guardava todas essas coisas em Seu coração. ^v51
 
-**52** E crescia Jesus em sabedoria, e em estatura, e em graça para com Deus e os homens. ^v52
+**52** Mas Jesus continuava a crescer em sabedoria, estatura e graça para com Deus e as pessoas. ^v52

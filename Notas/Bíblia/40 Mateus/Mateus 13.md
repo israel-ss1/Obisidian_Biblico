@@ -1,123 +1,122 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Mateus|Mateus]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Mateus|Mateus]]"
+tags: [biblia]
 ---
 
 # Mateus 13
 
-**1** Tendo Jesus saído de casa, naquele dia, estava assentado junto ao mar; ^v1
+**1** Naquele dia Jesus saiu de casa e sentou-se à beira do mar. ^v1
 
-**2** E ajuntou-se muita gente ao pé dele, de sorte que, entrando num barco, se assentou; e toda a multidão estava em pé na praia. ^v2
+**2** Uma grande multidão se juntou em volta Dele. Então Ele entrou em um barco e sentou-se; toda a multidão permaneceu em pé na praia. ^v2
 
-**3** E falou-lhe de muitas coisas por parábolas, dizendo: Eis que o semeador saiu a semear. ^v3
+**3** "Então Jesus disse-lhes muitas coisas em parábolas. Ele disse: ""Eis que o semeador saiu para semear." ^v3
 
-**4** E, quando semeava, uma parte da semente caiu ao pé do caminho, e vieram as aves, e comeram-na; ^v4
+**4** Enquanto ele semeava, algumas sementes caíram na beira da estrada, e os pássaros vieram e as devoraram. ^v4
 
-**5** E outra parte caiu em pedregais, onde não havia terra bastante, e logo nasceu, porque não tinha terra funda; ^v5
+**5** Outras sementes caíram no solo rochoso, onde elas não tinham muita terra, e imediatamente elas brotaram porque o solo não tinha profundidade. ^v5
 
-**6** Mas, vindo o sol, queimou-se, e secou-se, porque não tinha raiz. ^v6
+**6** Mas, quando o sol nasceu, elas foram queimadas, pois não tinham raízes, e então secaram. ^v6
 
-**7** E outra caiu entre espinhos, e os espinhos cresceram e sufocaram-na. ^v7
+**7** Outras sementes caíram entre as plantas espinhosas, as quais cresceram e as sufocaram. ^v7
 
-**8** E outra caiu em boa terra, e deu fruto: um a cem, outro a sessenta e outro a trinta. ^v8
+**8** Outras sementes caíram em solo bom e produziram grãos, algumas cem vezes mais, outras sessenta e outras trinta. ^v8
 
-**9** Quem tem ouvidos para ouvir, ouça. ^v9
+**9** "Aquele que tem ouvidos, ouça""." ^v9
 
-**10** E, acercando-se dele os discípulos, disseram-lhe: Por que lhes falas por parábolas? ^v10
+**10** "Os discípulos vieram e disseram a Jesus: ""Por que falas às multidões em parábolas?""" ^v10
 
-**11** Ele, respondendo, disse-lhes: Porque a vós é dado conhecer os mistérios do reino dos céus, mas a eles não lhes é dado; ^v11
+**11** "Jesus respondendo, disse-lhes: ""A vós tem sido dado o privilégio de entender os mistérios do Reino dos Céus, mas não a eles." ^v11
 
-**12** Porque àquele que tem, se dará, e terá em abundância; mas àquele que não tem, até aquilo que tem lhe será tirado. ^v12
+**12** Porque àquele que tem, muito mais lhe será dado, porém àquele que não tem, até o que tem lhe será tomado. ^v12
 
-**13** Por isso lhes falo por parábolas; porque eles, vendo, não vêem; e, ouvindo, não ouvem nem compreendem. ^v13
+**13** Então, Eu lhes falei em parábolas, porque, mesmo vendo, não veem realmente e, mesmo ouvindo, não ouvem, nem entendem. ^v13
 
-**14** E neles se cumpre a profecia de Isaías, que diz:Ouvindo, ouvireis, mas não compreendereis,e, vendo, vereis, mas não percebereis. ^v14
+**14** Para eles, a profecia de Isaías é cumprida, a qual diz: 'Ouvindo, ouvireis, mas de maneira nenhuma entendereis; vendo, vereis, mas de maneira nenhuma percebereis. ^v14
 
-**15** Porque o coração deste povo está endurecido,E ouviram de mau grado com seus ouvidos,E fecharam seus olhos;Para que não vejam com os olhos,E ouçam com os ouvidos,e compreendam com o coração,e se convertam,e eu os cure. ^v15
+**15** Porque o coração deste povo tornou-se insensível, e ouviram com má vontade, e fecharam seus olhos; se assim não fosse, eles perceberiam com seus olhos, ouviriam com seus ouvidos, entenderiam com seus corações, e se arrependeriam, e Eu os curaria'. ^v15
 
-**16** Mas, bem-aventurados os vossos olhos, porque vêem, e os vossos ouvidos, porque ouvem. ^v16
+**16** Mas abençoados são os vossos olhos, porque veem; e os vossos ouvidos, porque ouvem. ^v16
 
-**17** Porque em verdade vos digo que muitos profetas e justos desejaram ver o que vós vedes, e não o viram; e ouvir o que vós ouvis, e não o ouviram. ^v17
+**17** Em verdade eu vos digo que muitos profetas e homens justos desejaram ver as coisas que vós vedes, e eles não as viram, e ouvir as coisas que vós ouvistes, e eles não as ouviram. ^v17
 
-**18** Escutai vós, pois, a parábola do semeador. ^v18
+**18** Compreendei, então, a parábola do semeador. ^v18
 
-**19** Ouvindo alguém a palavra do reino, e não a entendendo, vem o maligno, e arrebata o que foi semeado no seu coração; este é o que foi semeado ao pé do caminho. ^v19
+**19** Quando alguém ouve a palavra do Reino, mas não a entende, então o maligno vem e rouba aquilo que foi semeado em seu coração. Essa é a semente que foi semeada à beira do caminho. ^v19
 
-**20** O que foi semeado em pedregais é o que ouve a palavra, e logo a recebe com alegria; ^v20
+**20** A que foi semeada em solo rochoso é aquele que ouve a palavra e imediatamente a recebe com alegria; ^v20
 
-**21** Mas não tem raiz em si mesmo, antes é de pouca duração; e, chegada a angústia e a perseguição, por causa da palavra, logo se ofende; ^v21
+**21** entretanto ele não tem raiz em si mesmo, mas só permanece por pouco tempo. Quando a tribulação ou a perseguição se levanta por causa da palavra, ele tropeça imediatamente. ^v21
 
-**22** E o que foi semeado entre espinhos é o que ouve a palavra, mas os cuidados deste mundo, e a sedução das riquezas sufocam a palavra, e fica infrutífera; ^v22
+**22** A que foi semeada entre plantas espinhosas é aquele que ouve a palavra, mas as preocupações do mundo e o engano das riquezas sufocam a palavra, e ela torna-se infrutífera. ^v22
 
-**23** Mas, o que foi semeado em boa terra é o que ouve e compreende a palavra; e dá fruto, e um produz cem, outro sessenta, e outro trinta. ^v23
+**23** "Aquela que foi semeada em bom solo é aquele que ouve a palavra e a entende; esse é o que verdadeiramente produz fruto; alguns cem vezes mais do que foi plantado, alguns sessenta, e alguns trinta vezes mais""." ^v23
 
-**24** Propôs-lhes outra parábola, dizendo: O reino dos céus é semelhante ao homem que semeia a boa semente no seu campo; ^v24
+**24** "Jesus apresentou-lhes outra parábola, dizendo: ""O Reino dos Céus é como um homem que semeou boa semente em seu campo." ^v24
 
-**25** Mas, dormindo os homens, veio o seu inimigo, e semeou joio no meio do trigo, e retirou-se. ^v25
+**25** Porém, enquanto as pessoas dormiam, seu inimigo veio e também semeou ervas daninhas no meio do trigo, e, então, foi embora. ^v25
 
-**26** E, quando a erva cresceu e frutificou, apareceu também o joio. ^v26
+**26** Quando as sementes de trigo brotaram e produziram suas espigas, então ervas daninhas também apareceram. ^v26
 
-**27** E os servos do pai de família, indo ter com ele, disseram-lhe: Senhor, não semeaste tu, no teu campo, boa semente? Por que tem, então, joio? ^v27
+**27** Os servos do dono do campo vieram e disseram-lhe: 'Senhor, não plantaste boa semente no seu campo? Como agora ele tem ervas daninhas?' ^v27
 
-**28** E ele lhes disse: Um inimigo é quem fez isso. E os servos lhe disseram: Queres pois que vamos arrancá-lo? ^v28
+**28** Ele disse-lhes: 'Um inimigo fez isso'. Os servos disseram a ele: 'Queres, então, que as arranquemos?' ^v28
 
-**29** Ele, porém, lhes disse: Não; para que, ao colher o joio, não arranqueis também o trigo com ele. ^v29
+**29** O dono do campo disse: 'Não! Porque enquanto vós puxardes as ervas daninhas, podereis puxar o trigo também junto com elas. ^v29
 
-**30** Deixai crescer ambos juntos até à ceifa; e, por ocasião da ceifa, direi aos ceifeiros: Colhei primeiro o joio, e atai-o em molhos para o queimar; mas, o trigo, ajuntai-o no meu celeiro. ^v30
+**30** "Deixai os dois crescerem juntos até a colheita. No tempo da colheita, eu direi aos encarregados: ""Primeiramente puxai as ervas daninhas e as amarrai em feixes para queimá-las, contudo, juntai o trigo no meu celeiro''." ^v30
 
-**31** Outra parábola lhes propôs, dizendo: O reino dos céus é semelhante ao grão de mostarda que o homem, pegando nele, semeou no seu campo; ^v31
+**31** "Então Jesus apresentou-lhes outra parábola, dizendo: ""O Reino dos Céus é como uma semente de mostarda que um homem pegou e semeou em seu campo." ^v31
 
-**32** O qual é, realmente, a menor de todas as sementes; mas, crescendo, é a maior das plantas, e faz-se uma árvore, de sorte que vêm as aves do céu, e se aninham nos seus ramos. ^v32
+**32** "Essa semente é, de fato, a menor de todas as sementes. Mas, quando cresce, é maior que as plantas do jardim e torna-se uma árvore, de modo que os pássaros vêm e fazem ninho nos seus galhos""." ^v32
 
-**33** Outra parábola lhes disse: O reino dos céus é semelhante ao fermento, que uma mulher toma e introduz em três medidas de farinha, até que tudo esteja levedado. ^v33
+**33** "Jesus então contou-lhes outra parábola: ""O Reino dos Céus é como fermento que uma mulher pegou e misturou com três medidas de farinha até a massa fermentar""." ^v33
 
-**34** Tudo isto disse Jesus, por parábolas à multidão, e nada lhes falava sem parábolas; ^v34
+**34** Todas essas coisas Jesus disse às multidões em parábolas; e, sem parábolas, Ele não lhes disse nada. ^v34
 
-**35** Para que se cumprisse o que fora dito pelo profeta, que disse: Abrirei em parábolas a minha boca; Publicarei coisas ocultas desde a fundação do mundo. ^v35
+**35** "Isso foi para que o que foi dito por meio do profeta se tornasse verdade, quando ele disse: ""Eu abrirei minha boca em parábolas; eu direi coisas que estavam escondidas desde a fundação do mundo""." ^v35
 
-**36** Então, tendo despedido a multidão, foi Jesus para casa. E chegaram ao pé dele os seus discípulos, dizendo: Explica-nos a parábola do joio do campo. ^v36
+**36** "Então Jesus deixou as multidões e entrou em casa. Seus discípulos vieram a Ele e disseram: ""Explica para nós a parábola das ervas daninhas no campo""." ^v36
 
-**37** E ele, respondendo, disse-lhes: O que semeia a boa semente, é o Filho do homem; ^v37
+**37** "Jesus respondendo, disse-lhes: ""Aquele que semeia a boa semente é o Filho do Homem." ^v37
 
-**38** O campo é o mundo; e a boa semente são os filhos do reino; e o joio são os filhos do maligno; ^v38
+**38** O campo é o mundo; a boa semente são os filhos do reino e as ervas daninhas são os filhos do maligno, ^v38
 
-**39** O inimigo, que o semeou, é o diabo; e a ceifa é o fim do mundo; e os ceifeiros são os anjos. ^v39
+**39** e o inimigo que os plantou é o maligno. A colheita é o fim do mundo, e os encarregados da colheita são os anjos. ^v39
 
-**40** Assim como o joio é colhido e queimado no fogo, assim será na consumação deste mundo. ^v40
+**40** Portanto, como as ervas daninhas são recolhidas e queimadas no fogo, assim será no fim do mundo. ^v40
 
-**41** Mandará o Filho do homem os seus anjos, e eles colherão do seu reino tudo o que causa escândalo, e os que cometem iniqüidade. ^v41
+**41** O Filho do Homem enviará seus anjos e eles ajuntarão do seu reino todas as coisas que causam pecado, e aqueles que cometem iniquidade, ^v41
 
-**42** E lançá-los-ão na fornalha de fogo; ali haverá pranto e ranger de dentes. ^v42
+**42** e os lançarão na fornalha de fogo, onde haverá lamento e rangido de dentes. ^v42
 
-**43** Então os justos resplandecerão como o sol, no reino de seu Pai. Quem tem ouvidos para ouvir, ouça. ^v43
+**43** Então os justos brilharão como o sol, no reino de seu Pai. Aquele que tem ouvidos, ouça. ^v43
 
-**44** Também o reino dos céus é semelhante a um tesouro escondido num campo, que um homem achou e escondeu; e, pelo gozo dele, vai, vende tudo quanto tem, e compra aquele campo. ^v44
+**44** O Reino dos Céus é como um tesouro escondido em um campo que um homem achou e o escondeu. Em sua alegria, ele vai, vende tudo que possui e compra aquele campo. ^v44
 
-**45** Outrossim o reino dos céus é semelhante ao homem, negociante, que busca boas pérolas; ^v45
+**45** Novamente, o Reino dos Céus é como um homem que é um mercador à procura de pérolas preciosas. ^v45
 
-**46** E, encontrando uma pérola de grande valor, foi, vendeu tudo quanto tinha, e comprou-a. ^v46
+**46** Quando ele encontrou uma pérola de grande valor, foi e vendeu tudo que possuía e a comprou. ^v46
 
-**47** Igualmente o reino dos céus é semelhante a uma rede lançada ao mar, e que apanha toda a qualidade de peixes. ^v47
+**47** Novamente, o Reino dos Céus é como uma rede que foi lançada ao mar e capturou criaturas de todos os tipos. ^v47
 
-**48** E, estando cheia, a puxam para a praia; e, assentando-se, apanham para os cestos os bons; os ruins, porém, lançam fora. ^v48
+**48** Quando estava cheia, os pescadores arrastaram-na para a praia. Então sentaram e juntaram as coisas boas em cestos, porém, as coisas sem valor jogaram fora. ^v48
 
-**49** Assim será na consumação dos séculos: virão os anjos, e separarão os maus de entre os justos, ^v49
+**49** Será desta maneira no fim do mundo: os anjos virão e separarão os maus dentre os justos, ^v49
 
-**50** E lançá-los-ão na fornalha de fogo; ali haverá pranto e ranger de dentes. ^v50
+**50** e os lançarão na fornalha de fogo, onde haverá lamento e rangido de dentes. ^v50
 
-**51** E disse-lhes Jesus: Entendestes todas estas coisas? Disseram-lhe eles: Sim, Senhor. ^v51
+**51** "Vós entendestes todas essas coisas? Os discípulos disseram a ele: ""Sim""." ^v51
 
-**52** E ele disse-lhes: Por isso, todo o escriba instruído acerca do reino dos céus é semelhante a um pai de família, que tira do seu tesouro coisas novas e velhas. ^v52
+**52** "Então Jesus disse-lhes: ""Portanto todo mestre da lei que torna-se discípulo do Reino dos Céus é como um homem que é o dono de uma casa, que retira coisas velhas e novas de seu tesouro""." ^v52
 
-**53** E aconteceu que Jesus, concluindo estas parábolas, se retirou dali. ^v53
+**53** Aconteceu que, quando Jesus terminou essas parábolas, Ele deixou aquele lugar. ^v53
 
-**54** E, chegando à sua pátria, ensinava-os na sinagoga deles, de sorte que se maravilhavam, e diziam: De onde veio a este a sabedoria, e estas maravilhas? ^v54
+**54** "Então Jesus entrou na sua própria região, e ensinou as pessoas nas suas sinagogas, e eles ficaram maravilhados e disseram: ""De onde este homem consegue Sua sabedoria e estes milagres?" ^v54
 
-**55** Não é este o filho do carpinteiro? e não se chama sua mãe Maria, e seus irmãos Tiago, e José, e Simão, e Judas? ^v55
+**55** Não é este homem o filho do carpinteiro? Não é Sua mãe Maria? E não são Tiago, José, Simão e Judas Seus irmãos? ^v55
 
-**56** E não estão entre nós todas as suas irmãs? De onde lhe veio, pois, tudo isto? ^v56
+**56** "E Suas irmãs não estão entre nós? Então, de onde este homem tira todas estas coisas?""" ^v56
 
-**57** E escandalizavam-se nele. Jesus, porém, lhes disse: Não há profeta sem honra, a não ser na sua pátria e na sua casa. ^v57
+**57** "Eles ofendidos por Jesus. Mas Ele lhes disse: ""Um profeta não é sem honra, exceto em seu próprio país e em sua própria família""." ^v57
 
-**58** E não fez ali muitas maravilhas, por causa da incredulidade deles. ^v58
+**58** E Ele não realizou muitos milagres lá por causa da descrença deles. ^v58

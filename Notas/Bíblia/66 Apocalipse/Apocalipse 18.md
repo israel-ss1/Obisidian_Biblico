@@ -1,55 +1,54 @@
 ---
-Livro: "[[Apocalipse|Apocalipse]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Apocalipse|Apocalipse]]"
+tags: [biblia]
 ---
 
 # Apocalipse 18
 
-**1** E depois destas coisas vi descer do céu outro anjo, que tinha grande poder, e a terra foi iluminada com a sua glória. ^v1
+**1** Depois dessas coisas, vi outro anjo, descendo do céu, que tinha grande autoridade, e a terra foi iluminada com sua glória. ^v1
 
-**2** E clamou fortemente com grande voz, dizendo: Caiu, caiu a grande Babilônia, e se tornou morada de demônios, e coito de todo espírito imundo, e coito de toda ave imunda e odiável. ^v2
+**2** "Ele clamou com uma grande voz, dizendo: ""Caiu! Caiu a grande Babilônia! Ela se tornou morada de demônios, esconderijo para todos os espíritos impuros e aves detestáveis." ^v2
 
-**3** Porque todas as nações beberam do vinho da ira da sua fornicação, e os reis da terra fornicaram com ela; e os mercadores da terra se enriqueceram com a abundância de suas delícias. ^v3
+**3** "Porque todas as nações têm bebido o vinho da sua paixão imoral. Os reis da terra cometeram imoralidades com ela. Os mercadores da terra se enriqueceram pelo poder da sua imoralidade""." ^v3
 
-**4** E ouvi outra voz do céu, que dizia: Sai dela, povo meu, para que não sejas participante dos seus pecados, e para que não incorras nas suas pragas. ^v4
+**4** "Ouvi outra voz do céu, que dizia: ""Saí dela, povo meu, para que não sejais participantes dos seus pecados, e para que não incorrais nas sua pragas;" ^v4
 
-**5** Porque já os seus pecados se acumularam até ao céu, e Deus se lembrou das iniqüidades dela. ^v5
+**5** porque os seus pecados se empilharam até o céu, e Deus se lembrou de suas ações maléficas. ^v5
 
-**6** Tornai-lhe a dar como ela vos tem dado, e retribuí-lhe em dobro conforme as suas obras; no cálice em que vos deu de beber, dai-lhe a ela em dobro. ^v6
+**6** Retribuam-lhe como ela retribuiu aos outros, e paguem-lhe segundo suas obras; no copo que ela misturou, misture em dobro a quantidade para ela. ^v6
 
-**7** Quanto ela se glorificou, e em delícias esteve, foi-lhe outro tanto de tormento e pranto; porque diz em seu coração: Estou assentada como rainha, e não sou viúva, e não verei o pranto. ^v7
+**7** Como ela glorificou a si mesma e viveu na luxúria, dai-lhe em igual medida tortura e sofrimento. Pois ela diz em seu coração: 'Estou sentada como uma rainha, não sou viúva e nunca verei lamentações.' ^v7
 
-**8** Portanto, num dia virão as suas pragas, a morte, e o pranto, e a fome; e será queimada no fogo; porque é forte o Senhor Deus que a julga. ^v8
+**8** "Portanto, em um único dia, suas pragas virão: morte, lamentações e fome. Ela será queimada pelo fogo, pois o Senhor Deus é poderoso e Ele é o juiz dela""." ^v8
 
-**9** E os reis da terra, que fornicaram com ela, e viveram em delícias, a chorarão, e sobre ela prantearão, quando virem a fumaça do seu incêndio; ^v9
+**9** Os reis da terra que cometeram com ela imoralidades e fez o que eles queriam com ela chorarão e se lamentarão sobre ela quando virem a fumaça do seu incêndio. ^v9
 
-**10** Estando de longe pelo temor do seu tormento, dizendo: Ai! ai daquela grande cidade de Babilônia, aquela forte cidade! pois em uma hora veio o seu juízo. ^v10
+**10** "Eles permanecerão distantes, com medo do seu tormento, dizendo: ""Ai! Ai! A grande cidade Babilônia, a poderosa! Pois em uma única hora sua punição chegou""." ^v10
 
-**11** E sobre ela choram e lamentam os mercadores da terra; porque ninguém mais compra as suas mercadorias: ^v11
+**11** Os mercadores da terra choram e pranteiam por ela, já que ninguém compra mais suas mercadorias: ^v11
 
-**12** Mercadorias de ouro, e de prata, e de pedras preciosas, e de pérolas, e de linho fino, e de púrpura, e de seda, e de escarlata; e toda a madeira odorífera, e todo o vaso de marfim, e todo o vaso de madeira preciosíssima, de bronze e de ferro, e de mármore; ^v12
+**12** mercadorias de ouro, prata, pedras preciosas, pérolas, linho fino, púrpura, seda, escarlata, e todos os tipos de madeiras aromáticas, todo objeto de marfim, de madeira muito preciosa, de bronze, de ferro e de mármore, ^v12
 
-**13** E canela, e perfume, e mirra, e incenso, e vinho, e azeite, e flor de farinha, e trigo, e gado, e ovelhas; e cavalos, e carros, e corpos e almas de homens. ^v13
+**13** canela, pimenta, mirra e incenso, vinho, óleo, farinha fina, trigo, gado e ovelhas, cavalos e charretes, escravos e até almas humanas. ^v13
 
-**14** E o fruto do desejo da tua alma foi-se de ti; e todas as coisas gostosas e excelentes se foram de ti, e não mais as acharás. ^v14
+**14** O fruto que tanto cobiçavas com todo teu poder foi embora de ti. Todo o seu luxo e esplendor desapareceram; nunca serão encontrados. ^v14
 
-**15** Os mercadores destas coisas, que dela se enriqueceram, estarão de longe, pelo temor do seu tormento, chorando e lamentando, ^v15
+**15** Os mercadores desses bens, que se tornaram ricos por meio dela, permanecerão distantes por medo do seu tormento, chorando e lamentando alto. ^v15
 
-**16** E dizendo: Ai, ai daquela grande cidade! que estava vestida de linho fino, de púrpura, de escarlata; e adornada com ouro e pedras preciosas e pérolas! porque numa hora foram assoladas tantas riquezas. ^v16
+**16** "Eles dirão: ""Ai! Ai! A grande cidade que foi vestida de linho fino, de púrpura e escarlata, e adornada com ouro, pedras preciosas e pérolas!""" ^v16
 
-**17** E todo piloto, e todo o que navega em naus, e todo marinheiro, e todos os que negociam no mar se puseram de longe; ^v17
+**17** """Porque, em uma única hora, toda riqueza foi devastada"". Todo piloto, todo marinheiro, e todos os que navegam e trabalham no mar, permaneceram distantes." ^v17
 
-**18** E, vendo a fumaça do seu incêndio, clamaram, dizendo: Que cidade é semelhante a esta grande cidade? ^v18
+**18** "Eles clamaram assim que viram a fumaça do seu incêndio. Disseram: ""Que cidade é igual à grandiosa cidade""?" ^v18
 
-**19** E lançaram pó sobre as suas cabeças, e clamaram, chorando, e lamentando, e dizendo: Ai, ai daquela grande cidade! na qual todos os que tinham naus no mar se enriqueceram em razão da sua opulência; porque numa hora foi assolada. ^v19
+**19** "Eles jogaram poeira em suas cabeças e clamaram, chorando e lamentando: ""Ai! Ai da grande cidade, onde todos os que tinham seus navios no mar, tornaram-se ricos por meio dela, pois, em uma única hora, ela foi destruída""." ^v19
 
-**20** Alegra-te sobre ela, ó céu, e vós, santos apóstolos e profetas; porque já Deus julgou a vossa causa quanto a ela. ^v20
+**20** """Alegrai-vos sobre ela, ó céus, vós santos, apóstolos e profetas, pois Deus julgou a vossa causa quanto a ela""!" ^v20
 
-**21** E um forte anjo levantou uma pedra como uma grande mó, e lançou-a no mar, dizendo: Com igual ímpeto será lançada babilônia, aquela grande cidade, e não será jamais achada. ^v21
+**21** "Um poderoso anjo pegou uma pedra do tamanho de uma grande pedra de moinho e jogou no mar, dizendo: ""Dessa maneira, Babilônia, a grande cidade, será derrubada com violência e não será vista jamais." ^v21
 
-**22** E em ti não se ouvirá mais a voz de harpistas, e de músicos, e de flautistas, e de trombeteiros, e nenhum artífice de arte alguma se achará mais em ti; e ruído de mó em ti não se ouvirá mais; ^v22
+**22** O som de harpas, músicos, tocadores de flauta, e os que tocam trompete não serão mais ouvidos em ti. Nenhum artesão de qualquer tipo será encontrado em ti. Nenhum som de moinho jamais será ouvido em ti. ^v22
 
-**23** E luz de candeia não mais luzirá em ti, e voz de esposo e de esposa não mais em ti se ouvirá; porque os teus mercadores eram os grandes da terra; porque todas as nações foram enganadas pelas tuas feitiçarias. ^v23
+**23** A luz da lâmpada não mais brilhará em ti. A voz do noivo e da noiva não será jamais ouvida em ti, pois teus mercadores foram os príncipes da terra e todas as nações foram enganadas pelas tuas feitiçarias. ^v23
 
-**24** E nela se achou o sangue dos profetas, e dos santos, e de todos os que foram mortos na terra. ^v24
+**24** "Nela foi encontrado sangue de profetas e santos e de todos os que foram mortos na terra""." ^v24

@@ -1,63 +1,62 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Daniel|Daniel]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Daniel|Daniel]]"
+tags: [biblia]
 ---
 
 # Daniel 7
 
-**1** No primeiro ano de Belsazar, rei de babilônia, teve Daniel um sonho e visões da sua cabeça quando estava na sua cama; escreveu logo o sonho, e relatou a suma das coisas. ^v1
+**1** No primeiro ano de Belsazar, rei da Babilônia, Daniel teve um sonho e visões em sua mente, enquanto estava deitado em sua cama. Então, ele escreveu o que viu em seu sonho e registrou os mais importantes acontecimentos. ^v1
 
-**2** Falou Daniel, e disse: Eu estava olhando na minha visão da noite, e eis que os quatro ventos do céu agitavam o mar grande. ^v2
+**2** "Daniel explicou: ""Em minha visão à noite, eu vi que os quatro ventos do céu agitavam o mar Grande." ^v2
 
-**3** E quatro animais grandes, diferentes uns dos outros, subiam do mar. ^v3
+**3** Quatro grandes animais, cada um diferente do outro, ergueram-se do mar. ^v3
 
-**4** O primeiro era como leão, e tinha asas de águia; enquanto eu olhava, foram-lhe arrancadas as asas, e foi levantado da terra, e posto em pé como um homem, e foi-lhe dado um coração de homem. ^v4
+**4** O primeiro era semelhante a um leão, mas tinha asas de águia. Enquanto eu estava olhando, as asas lhe foram arrancadas, e o mesmo foi erguido do chão, para se firmar sobre os dois pés, como um homem. A mente de um homem lhe foi dada. ^v4
 
-**5** Continuei olhando, e eis aqui o segundo animal, semelhante a um urso, o qual se levantou de um lado, tendo na boca três costelas entre os seus dentes; e foi-lhe dito assim: Levanta-te, devora muita carne. ^v5
+**5** Houve um segundo animal, semelhante a um urso, e estava curvado, e tinha três costelas entre os dentes da sua boca. E lhe foi dito: 'Te levanta e devora multidões'. ^v5
 
-**6** Depois disto, eu continuei olhando, e eis aqui outro, semelhante a um leopardo, e tinha quatro asas de ave nas suas costas; tinha também este animal quatro cabeças, e foi-lhe dado domínio. ^v6
+**6** Depois disso, eu olhei novamente. Havia um outro animal que era semelhante a um leopardo. Sobre suas costas havia quatro asas, como asas de uma ave. Ele tinha quatro cabeças, e lhe foi dada autoridade para governar. ^v6
 
-**7** Depois disto eu continuei olhando nas visões da noite, e eis aqui o quarto animal, terrível e espantoso, e muito forte, o qual tinha dentes grandes de ferro; ele devorava e fazia em pedaços, e pisava aos pés o que sobejava; era diferente de todos os animais que apareceram antes dele, e tinha dez chifres. ^v7
+**7** Depois disso, eu vi, em meu sonho à noite, um quarto animal, terrível, assustador e muito forte. Ele tinha grandes dentes de ferro; devorava e quebrava em pedaços tudo que sobejava. Ele era diferente dos outros animais e tinha dez chifres. ^v7
 
-**8** Estando eu a considerar os chifres, eis que, entre eles subiu outro chifre pequeno, diante do qual três dos primeiros chifres foram arrancados; e eis que neste chifre havia olhos, como os de homem, e uma boca que falava grandes coisas. ^v8
+**8** Enquanto eu observava os chifres, vi outro chifre, que crescia entre eles, um chifre pequeno. Três dos primeiros chifres foram arrancados pelas raízes. Vi, nesse chifre, olhos semelhantes ao de um homem, e uma boca, que falava com arrogância. ^v8
 
-**9** Eu continuei olhando, até que foram postos uns tronos, e um ancião de dias se assentou; a sua veste era branca como a neve, e o cabelo da sua cabeça como a pura lã; e seu trono era de chamas de fogo, e as suas rodas de fogo ardente. ^v9
+**9** Permaneci olhando: eis que surgiram tronos, e o Ancião dos dias se assentou. Suas vestes eram brancas como a neve e os cabelos da sua cabeça, como a pura lã; seu trono era como chamas de fogo e as rodas dele, como fogo ardente. ^v9
 
-**10** Um rio de fogo manava e saía de diante dele; milhares de milhares o serviam, e milhões de milhões assistiam diante dele; assentou-se o juízo, e abriram-se os livros. ^v10
+**10** Um rio de fogo fluía diante dele; milhões o serviam, e centenas de milhões estavam diante dele. O tribunal estava em sessão e os livros foram abertos. ^v10
 
-**11** Então estive olhando, por causa da voz das grandes palavras que o chifre proferia; estive olhando até que o animal foi morto, e o seu corpo desfeito, e entregue para ser queimado pelo fogo; ^v11
+**11** Permaneci observando, por causa das palavras arrogantes pronunciadas pelo chifre. Eu olhava, enquanto o animal era morto, e o seu corpo destruído e entregue para ser queimado. ^v11
 
-**12** E, quanto aos outros animais, foi-lhes tirado o domínio; todavia foi-lhes prolongada a vida até certo espaço de tempo. ^v12
+**12** Quanto aos outros quatro animais, sua autoridade lhes foi tirada, porém suas vidas foram prolongadas por um período de tempo. ^v12
 
-**13** Eu estava olhando nas minhas visões da noite, e eis que vinha nas nuvens do céu um como o filho do homem; e dirigiu-se ao ancião de dias, e o fizeram chegar até ele. ^v13
+**13** Em minhas visões, naquela noite, vi alguém, semelhante ao filho do homem, vindo com as nuvens do céu; então, ele se aproximou do Ancião de dias e foi apresentado diante Dele. ^v13
 
-**14** E foi-lhe dado o domínio, e a honra, e o reino, para que todos os povos, nações e línguas o servissem; o seu domínio é um domínio eterno, que não passará, e o seu reino tal, que não será destruído. ^v14
+**14** Autoridade, glória e poder real Lhe foram dados para que todos os povos, todas as nações e línguas Lhe servissem. Sua autoridade para governar é uma autoridade eterna, que não passará, e Seu reino nunca será destruído. ^v14
 
-**15** Quanto a mim, Daniel, o meu espírito foi abatido dentro do corpo, e as visões da minha cabeça me perturbaram. ^v15
+**15** Quanto a mim, Daniel, meu espírito se abateu dentro de mim, e as visões que eu vi em minha mente me perturbaram. ^v15
 
-**16** Cheguei-me a um dos que estavam perto, e pedi-lhe a verdade acerca de tudo isto. E ele me disse, e fez-me saber a interpretação das coisas. ^v16
+**16** Aproximei-me de um deles e pedi para me mostrar o significado de todas essas coisas. ^v16
 
-**17** Estes grandes animais, que são quatro, são quatro reis, que se levantarão da terra. ^v17
+**17** Esses grandes animais, os quatro, são quatro reis que se levantarão sobre a terra. ^v17
 
-**18** Mas os santos do Altíssimo receberão o reino, e o possuirão para todo o sempre, e de eternidade em eternidade. ^v18
+**18** Mas os santos do Altíssimo receberão o reino e eles o possuirão para sempre e sempre. ^v18
 
-**19** Então tive desejo de conhecer a verdade a respeito do quarto animal, que era diferente de todos os outros, muito terrível, cujos dentes eram de ferro e as suas unhas de bronze; que devorava, fazia em pedaços e pisava aos pés o que sobrava; ^v19
+**19** Então, eu desejei saber mais sobre o quarto animal — que era tão diferente dos outros e terrível com os seus dentes de ferro e garras de bronze — ele devorava, despedaçava e pisoteava o que era deixado aos seus pés. ^v19
 
-**20** E também a respeito dos dez chifres que tinha na cabeça, e do outro que subiu, e diante do qual caíram três, isto é, daquele que tinha olhos, e uma boca que falava grandes coisas, e cujo parecer era mais robusto do que o dos seus companheiros. ^v20
+**20** Eu queria saber sobre os dez chifres, em sua cabeça, e sobre o outro chifre, que cresceu quando caíram os outros três. Eu queria saber sobre o chifre que tinha olhos e sobre a boca que falava com arrogância sobre grandes coisas, os quais pareciam ser maiores que seus companheiros. ^v20
 
-**21** Eu olhava, e eis que este chifre fazia guerra contra os santos, e prevaleceu contra eles. ^v21
+**21** Enquanto eu olhava, o chifre travava uma guerra contra os santos e os derrotava, ^v21
 
-**22** Até que veio o ancião de dias, e fez justiça aos santos do Altíssimo; e chegou o tempo em que os santos possuíram o reino. ^v22
+**22** até que o Ancião de dias veio, e a justiça foi dada aos santos do Altíssimo. Então, chegou o tempo em que os santos receberam o reino. ^v22
 
-**23** Disse assim: O quarto animal será o quarto reino na terra, o qual será diferente de todos os reinos; e devorará toda a terra, e a pisará aos pés, e a fará em pedaços. ^v23
+**23** Isto é o que aquela pessoa disse: 'Quanto ao quarto animal, será um quarto reino, na terra, que será diferente de todos os outros reinos. Ele devorará toda a terra, a pisoteará e a quebrará em pedaços. ^v23
 
-**24** E, quanto aos dez chifres, daquele mesmo reino se levantarão dez reis; e depois deles se levantará outro, o qual será diferente dos primeiros, e abaterá a três reis. ^v24
+**24** Quanto aos dez chifres, dez reis se levantarão do reino, e um outro se levantará depois deles. Ele será diferente dos anteriores e dominará sobre os três reis. ^v24
 
-**25** E proferirá palavras contra o Altíssimo, e destruirá os santos do Altíssimo, e cuidará em mudar os tempos e a lei; e eles serão entregues na sua mão, por um tempo, e tempos, e a metade de um tempo. ^v25
+**25** Falará palavras contra o Altíssimo e oprimirá os santos do Deus Altíssimo. Tentará mudar suas festas e leis. Essas coisas serão dadas em suas mãos por um tempo, dois tempos e meio tempo. ^v25
 
-**26** Mas o juízo será estabelecido, e eles tirarão o seu domínio, para o destruir e para o desfazer até ao fim. ^v26
+**26** Mas o tribunal estará em sessão, e o poder lhe será tirado, e será aniquilado e destruído até o fim. ^v26
 
-**27** E o reino, e o domínio, e a majestade dos reinos debaixo de todo o céu serão dados ao povo dos santos do Altíssimo; o seu reino será um reino eterno, e todos os domínios o servirão, e lhe obedecerão. ^v27
+**27** O reino, o domínio e a grandeza dos reinos sob todo o céu serão dados aos santos do Altíssimo. Seu reino é um reino eterno e todos os outros reinos o servirão e o obedecerão'. ^v27
 
-**28** Aqui terminou o assunto. Quanto a mim, Daniel, os meus pensamentos muito me perturbaram, e mudou-se em mim o meu semblante; mas guardei o assunto no meu coração. ^v28
+**28** "Aqui está o final da visão. Quanto a mim, Daniel, meus pensamentos ficaram alarmados e meu rosto mudou de aparência, mas eu guardei essas coisas comigo""." ^v28

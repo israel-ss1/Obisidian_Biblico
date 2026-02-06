@@ -1,49 +1,48 @@
 ---
-Livro: "[[2 Crônicas|2 Crônicas]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/2 Crônicas|2 Crônicas]]"
+tags: [biblia]
 ---
 
 # 2 Crônicas 23
 
-**1** Porém no sétimo ano Joiada se animou, e tomou consigo em aliança os chefes de cem, a Azarias, filho de Jeroão, a Ismael, filho de Joanã, a Azarias, filho de Obede, a Maaséias, filho de Adaías, e a Elisafate, filho de Zicri. ^v1
+**1** No sétimo ano, Joiada mostrou sua força e entrou numa aliança com os comandantes de centenas, Azarias filho de Jeroão, Ismael filho de Joanã, Azarias filho de Obede, Maaseias filho de Adaías, e Elisafate, filho de Zicri. ^v1
 
-**2** Estes percorreram a Judá e ajuntaram os levitas de todas as cidades de Judá e os chefes dos pais de Israel, e vieram para Jerusalém. ^v2
+**2** Eles foram sobre Judá e reuniram os levitas de todas as cidades de Judá, assim como os cabeças das casas ancestrais de Israel, e eles vieram para Jerusalém. ^v2
 
-**3** E toda aquela congregação fez aliança com o rei na casa de Deus; e Joiada lhes disse: Eis que o filho do rei reinará, como o Senhor falou a respeito dos filhos de Davi. ^v3
+**3** "Toda a assembleia fez uma aliança com o rei na casa de Deus. Joiada lhes disse: ""Veja, o filho do rei reinará, assim como Yahweh havia dito a respeito dos descententes de Davi." ^v3
 
-**4** Isto é o que haveis de fazer; uma terça parte de vós, ou seja, dos sacerdotes e dos levitas que entram no sábado, serão guardas das portas; ^v4
+**4** Isso é o que deveis fazer: um terço de seus sacerdotes e dos levitas que vieram para servir no sábado, serão guardas das portas, ^v4
 
-**5** E uma terça parte estará na casa do rei; e a outra terça parte à porta do fundamento; e todo o povo estará nos pátios da casa do Senhor. ^v5
+**5** outro terço será na casa do rei e o outro terço será à Porta do Fundamento. Todo o povo estará no pátio da casa de Yahweh. ^v5
 
-**6** Porém ninguém entre na casa do Senhor, senão os sacerdotes e os levitas que ministram; estes entrarão, porque são santos; mas todo o povo fará a guarda diante do Senhor. ^v6
+**6** Não deixeis que ninguém entre na casa de Yahweh, exceto os sacerdotes e os levitas que estão servindo. Eles podem entrar, pois eles são consagrados. Todas as outras pessoas devem obedecer os mandamentos de Yahweh. ^v6
 
-**7** E os levitas cercarão o rei de todos os lados, cada um com as suas armas na mão; e qualquer que entrar na casa será morto; porém vós estareis com o rei, quando entrar e quando sair. ^v7
+**7** "Os levitas rodearão o rei de todos os lados, todos os homens, cada um com sua arma em mãos. Qualquer que entrar na casa, que seja morto. Fique com o rei quando ele entrar e quando ele sair""." ^v7
 
-**8** E fizeram os levitas e todo o Judá conforme a tudo o que ordenara o sacerdote Joiada; e tomou cada um os seus homens, tanto os que entravam no sábado como os que saíam no sábado; porque o sacerdote Joiada não tinha despedido as turmas. ^v8
+**8** Assim, os levitas e toda a Judá fizeram tudo conforme o sacerdote Joiada ordenou. Cada um tomou seus homens, aqueles que estavam indo servir no sábado, e aqueles que estavam deixando de servir no sábado, pois Joiada, o sacerdote, não dispensou nenhuma das suas divisões. ^v8
 
-**9** Também o sacerdote Joiada deu aos capitàes de cem as lanças, os escudos e as rodelas que foram do rei Davi, os quais estavam na casa de Deus. ^v9
+**9** Então Joiada, o sacerdote, trouxe aos comandantes lanças e pequenos e grandes escudos, que pertenciam ao rei Davi que estavam na casa de Deus. ^v9
 
-**10** E dispôs todo o povo, a cada um com as suas armas na mão, desde o lado direito da casa até o lado esquerdo da casa, do lado do altar e da casa, em redor do rei. ^v10
+**10** Joiada colocou todos os soldados, cada homem com sua arma em sua mão, do lado direito do templo até o lado esquerdo do templo, do lado do altar e o templo, ao redor do rei. ^v10
 
-**11** Então tiraram para fora ao filho do rei, e lhe puseram a coroa; deram-lhe o testemunho, e o fizeram rei; e Joiada e seus filhos o ungiram, e disseram: Viva o rei! ^v11
+**11** "Então, trouxeram para fora o filho do rei, puseram-lhe a coroa, e entregaram-lhe os decretos da aliança. Então eles o fizeram rei, e Joiada e seus filhos o ungiram. Então eles disseram: ""Vida longa ao rei""." ^v11
 
-**12** Ouvindo, pois, Atalia a voz do povo que concorria e louvava o rei, veio ao povo, à casa do Senhor. ^v12
+**12** Quando Atalia ouviu o barulho das pessoas correndo e adorando o rei, ela veio ao povo na casa de Yahweh. ^v12
 
-**13** E olhou, e eis que o rei estava junto à coluna, à entrada, e os principes e as trombetas junto ao rei; e todo o povo da terra estava alegre e tocava as trombetas; e também os cantores tocavam instrumentos musicais, e dirigiam o cantar de louvores; então Atalia rasgou os seus vestidos, e clamou: Traição, traição! ^v13
+**13** "E ela olhou, e eis que o rei estava junto a seu pilar na entrada e os comandantes e trompetistas estavam com o rei. Todo o povo da terra estava regozijando e tocando trompetes; os cantores estavam tocando instrumentos musicais e dirigiam o canto de louvores. Então Atalia rasgou suas vestes e gritou: ""Traição! Traição!""." ^v13
 
-**14** Porém o sacerdote Joiada trouxe para fora os centuriões que estavam postos sobre o exército e disse-lhes: Tirai-a para fora das fileiras, e o que a seguir, morrerá à espada; porque dissera o sacerdote: Não a mateis na casa do Senhor. ^v14
+**14** "Então, Joiada, o sacerdote, trouxe para fora os comandantes de centenas que estavam sobre o exército e disse-lhes: ""Traga ela para fora das fileiras; qualquer um que a seguir, deixe-o ser morto com a espada"". Pois o sacerdote disse: ""Não a matem na casa de Yahweh""." ^v14
 
-**15** E lançaram mão dela; e ela foi pelo caminho da entrada da porta dos cavalos, à casa do rei, e ali a mataram. ^v15
+**15** Assim, eles a prenderam e a levaram até a entrada da porta do cavalo da casa do rei, e ali a mataram. ^v15
 
-**16** E Joiada fez aliança entre si e o povo e o rei, para que fossem o povo do Senhor. ^v16
+**16** Então, Joiada fez uma aliança entre si mesmo, todo o povo e com o rei, que eles deveriam ser o povo de Yahweh. ^v16
 
-**17** Depois todo o povo entrou na casa de Baal, e a derrubaram, e quebraram os seus altares, e as suas imagens, e a Matã, sacerdote de Baal, mataram diante dos altares. ^v17
+**17** Todo o povo foi à casa de Baal e a destruiu. Eles quebraram os altares de Baal e suas imagens em pedaços e eles mataram Matã, o sacerdote de Baal, em frente daqueles altares. ^v17
 
-**18** E Joiada ordenou os ofícios na casa do Senhor, sob a direção dos sacerdotes levitas a quem Davi designara na casa do Senhor, para oferecerem os holocaustos do Senhor, como está escrito na lei de Moisés, com alegria e com canto, conforme a instituição de Davi. ^v18
+**18** Joiada apontou oficiais para a casa de Yahweh sobre a mão dos sacerdotes, os quais eram levitas, o qual Davi tinha designado a casa de Yahweh, para ofertar as ofertas queimadas a Yahweh, assim como estava escrito na lei de Moisés, junto com regozijos e canções, assim como Davi direcionou. ^v18
 
-**19** E pôs porteiros às portas da casa do Senhor, para que nela não entrasse ninguém imundo em coisa alguma. ^v19
+**19** Joiada montou guardas nos portões da casa de Yahweh, assim, ninguém que estava impuro, de qualquer maneira, deveria entrar. ^v19
 
-**20** E tomou os centuriões, os poderosos, os que tinham domínio entre o povo e todo o povo da terra, e conduziram o rei da casa do Senhor, e entraram na casa do rei passando pela porta maior, e assentaram-no no trono real. ^v20
+**20** Joiada levou com ele os comandantes de centenas, os nobres, os governadores do povo e todas as pessoas da terra. Conduziu o rei da casa de Yahweh; o povo veio através da porta superior para a casa do rei e colocou o rei no trono do reino. ^v20
 
-**21** E todo o povo da terra se alegrou, e a cidade ficou em paz, depois que mataram a Atalia à espada. ^v21
+**21** Assim todo o povo da terra se regozijou, e a cidade estava tranquila. Quanto a Atalia, eles a mataram à espada. ^v21

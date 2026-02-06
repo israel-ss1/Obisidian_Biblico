@@ -1,61 +1,60 @@
 ---
-Livro: "[[Apocalipse|Apocalipse]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Apocalipse|Apocalipse]]"
+tags: [biblia]
 ---
 
 # Apocalipse 21
 
-**1** E vi um novo céu, e uma nova terra. Porque já o primeiro céu e a primeira terra passaram, e o mar já não existe. ^v1
+**1** Então vi novo céu e nova terra, pois o primeiro céu e a primeira terra passaram, e o mar já não existe. ^v1
 
-**2** E eu, João, vi a santa cidade, a nova Jerusalém, que de Deus descia do céu, adereçada como uma esposa ataviada para o seu marido. ^v2
+**2** Eu vi a cidade santa, a nova Jerusalém, que descia do céu de Deus, preparada como uma noiva enfeitada para seu noivo. ^v2
 
-**3** E ouvi uma grande voz do céu, que dizia: Eis aqui o tabernáculo de Deus com os homens, pois com eles habitará, e eles serão o seu povo, e o mesmo Deus estará com eles, e será o seu Deus. ^v3
+**3** "Ouvi uma grande voz do trono, dizendo: ""Eis a morada de Deus com os homens, e Ele viverá com eles. Eles serão Seu povo, e o próprio Deus estará com eles e será Seu Deus." ^v3
 
-**4** E Deus limpará de seus olhos toda a lágrima; e não haverá mais morte, nem pranto, nem clamor, nem dor; porque já as primeiras coisas são passadas. ^v4
+**4** Ele enxugará toda lágrima dos seus olhos, e não haverá mais morte, nem luto, nem choro, nem dor, porque já as primeiras coisas são passadas. ^v4
 
-**5** E o que estava assentado sobre o trono disse: Eis que faço novas todas as coisas. E disse-me: Escreve; porque estas palavras são verdadeiras e fiéis. ^v5
+**5** "Aquele que estava assentado no trono disse: ""Eis que Eu fiz tudo novo"". Ele disse: ""Escreve, porque estas palavras são fiéis e verdadeiras""." ^v5
 
-**6** E disse-me mais: Está cumprido. Eu sou o Alfa e o Ômega, o princípio e o fim. A quem quer que tiver sede, de graça lhe darei da fonte da água da vida. ^v6
+**6** "Ele me disse: ""Estas coisas estão feitas! Eu sou o Alfa e o Ômega, o Princípio e o Fim. Ao que tem sede darei, sem custo, da fonte da água da vida." ^v6
 
-**7** Quem vencer, herdará todas as coisas; e eu serei seu Deus, e ele será meu filho. ^v7
+**7** O que conquistar herdará essas coisas, e Eu serei seu Deus, e ele será Meu filho. ^v7
 
-**8** Mas, quanto aos tímidos, e aos incrédulos, e aos abomináveis, e aos homicidas, e aos que se prostituem, e aos feiticeiros, e aos idólatras e a todos os mentirosos, a sua parte será no lago que arde com fogo e enxofre; o que é a segunda morte. ^v8
+**8** "Mas quanto aos covardes, aos incrédulos, aos detestáveis, aos assassinos, aos sexualmente imoral, aos feiticeiros, aos idólatras, e a todos os mentirosos, o lugar deles será no lago que arde com fogo e enxofre. Essa é a segunda morte""." ^v8
 
-**9** E veio a mim um dos sete anjos que tinham as sete taças cheias das últimas sete pragas, e falou comigo, dizendo: Vem, mostrar-te-ei a esposa, a mulher do Cordeiro. ^v9
+**9** "Um dos sete anjos veio a mim, o que tinha as sete taças cheias das sete últimas pragas, e disse: ""Vem aqui. Eu te mostrarei a noiva, a esposa do Cordeiro""." ^v9
 
-**10** E levou-me em espírito a um grande e alto monte, e mostrou-me a grande cidade, a santa Jerusalém, que de Deus descia do céu. ^v10
+**10** Então me levou, em espírito, para uma grande e alta montanha, e mostrou-me a cidade santa, Jerusalém, que descia do céu de Deus. ^v10
 
-**11** E tinha a glória de Deus; e a sua luz era semelhante a uma pedra preciosíssima, como a pedra de jaspe, como o cristal resplandecente. ^v11
+**11** Jerusalém tinha a glória de Deus, e brilhava como uma joia muito preciosa, como uma pedra de jaspe cristalina. ^v11
 
-**12** E tinha um grande e alto muro com doze portas, e nas portas doze anjos, e nomes escritos sobre elas, que são os nomes das doze tribos dos filhos de Israel. ^v12
+**12** Lá havia um grande e alto muro com doze portões, com doze anjos nos portões, nos quais estavam escritos os nomes das doze tribos dos filhos de Israel. ^v12
 
-**13** Do lado do levante tinha três portas, do lado do norte, três portas, do lado do sul, três portas, do lado do poente, três portas. ^v13
+**13** A leste, havia três portões; ao norte, três; ao sul, três; e a oeste, três portões. ^v13
 
-**14** E o muro da cidade tinha doze fundamentos, e neles os nomes dos doze apóstolos do Cordeiro. ^v14
+**14** A muralha da cidade tinha doze fundamentos, e nela estava o nome dos doze apóstolos do Cordeiro. ^v14
 
-**15** E aquele que falava comigo tinha uma cana de ouro, para medir a cidade, e as suas portas, e o seu muro. ^v15
+**15** O que falava comigo tinha uma vara de medir, de ouro, para medir a cidade, suas portas e seus muros. ^v15
 
-**16** E a cidade estava situada em quadrado; e o seu comprimento era tanto como a sua largura. E mediu a cidade com a cana até doze mil estádios; e o seu comprimento, largura e altura eram iguais. ^v16
+**16** A cidade era quadrangular, seu comprimento era igual a sua largura. Mediu a cidade com a vara e a cidade tinha doze mil estádios de comprimento e o mesmo de largura e de altura. ^v16
 
-**17** E mediu o seu muro, de cento e quarenta e quatro côvados, conforme à medida de homem, que é a de um anjo. ^v17
+**17** Ele também mediu os muros: cento e quarenta e quatro côvados, segundo a medida humana, que era também a medida que os anjos usavam. ^v17
 
-**18** E a construção do seu muro era de jaspe, e a cidade de ouro puro, semelhante a vidro puro. ^v18
+**18** O muro é de jaspe, e a cidade de ouro puro, semelhante ao vidro límpido. ^v18
 
-**19** E os fundamentos do muro da cidade estavam adornados de toda a pedra preciosa. O primeiro fundamento era jaspe; o segundo, safira; o terceiro, calcedônia; o quarto, esmeralda; ^v19
+**19** Os fundamentos do muro estão adornados com todo tipo de pedras preciosas. O primeiro é de jaspe; o segundo, de safira; o terceiro, de calcedônia; o quarto, de esmeralda; ^v19
 
-**20** O quinto, sardônica; o sexto, sárdio; o sétimo, crisólito; o oitavo, berilo; o nono, topázio; o décimo, crisópraso; o undécimo, jacinto; o duodécimo, ametista. ^v20
+**20** o quinto, de sardônica; o sexto, de sárdio; o sétimo, de crisólito; o oitavo, de berilo; o nono, de topázio; o décimo, de crisópraso; o décimo primeiro, de jacinto; o décimo segundo, de ametista. ^v20
 
-**21** E as doze portas eram doze pérolas; cada uma das portas era uma pérola; e a praça da cidade de ouro puro, como vidro transparente. ^v21
+**21** Os doze portões são doze pérolas, e cada portão é feito de uma única pérola. As ruas da cidade são de ouro puro, transparente como vidro. ^v21
 
-**22** E nela não vi templo, porque o seu templo é o Senhor Deus Todo-Poderoso, e o Cordeiro. ^v22
+**22** Eu não vi nenhum templo na cidade, porque o Senhor Deus Poderoso e o Cordeiro são o seu templo. ^v22
 
-**23** E a cidade não necessita de sol nem de lua, para que nela resplandeçam, porque a glória de Deus a tem iluminado, e o Cordeiro é a sua lâmpada. ^v23
+**23** A cidade não precisa do sol ou da lua para iluminá-la, porque a glória de Deus a iluminava, e a sua lâmpada é o Cordeiro. ^v23
 
-**24** E as nações dos salvos andarão à sua luz; e os reis da terra trarão para ela a sua glória e honra. ^v24
+**24** "As nações andarão na sua luz. Os reis da terra trarão para ela seu resplendor. [Nota: Algumas cópias mais antigas trazem: ""As nações que são salvas andarão na sua luz"".]" ^v24
 
-**25** E as suas portas não se fecharão de dia, porque ali não haverá noite. ^v25
+**25** Os portões não se fecharão de dia, e não haverá noite ali. ^v25
 
-**26** E a ela trarão a glória e honra das nações. ^v26
+**26** Eles trarão para ela a glória e a honra das nações, ^v26
 
-**27** E não entrará nela coisa alguma que contamine, e cometa abominação e mentira; mas só os que estão inscritos no livro da vida do Cordeiro. ^v27
+**27** e não entrará nela coisa alguma que contamine, e cometa abominação e mentira, mas apenas aqueles cujos nomes estão escritos no Livro da Vida do Cordeiro. ^v27

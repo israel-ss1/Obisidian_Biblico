@@ -1,77 +1,76 @@
 ---
-Livro: "[[Números|Números]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Números|Números]]"
+tags: [biblia]
 ---
 
 # Números 21
 
-**1** Ouvindo o cananeu, rei de Arade, que habitava para o lado sul, que Israel vinha pelo caminho dos espias, pelejou contra Israel, e dele levou alguns prisioneiros. ^v1
+**1** Quando o rei cananeu de Arade, que vivia no Neguebe, ouviu que Israel vinha pela estrada de Atarim, ele atacou Israel e tomou alguns deles como cativos. ^v1
 
-**2** Então Israel fez um voto ao Senhor, dizendo: Se de fato entregares este povo na minha mão, destruirei totalmente as suas cidades. ^v2
+**2** "Israel jurou a Yahweh, e disse: ""Se Tu nos deres a vitória sobre este povo, então destruiremos por completo suas cidades""." ^v2
 
-**3** O Senhor, pois, ouviu a voz de Israel, e lhe entregou os cananeus; e os israelitas destruíram totalmente, a eles e às suas cidades; e o nome daquele lugar chamou Hormá. ^v3
+**3** Yahweh ouviu a voz de Israel e concedeu-lhes a vitória sobre os Cananeus. Eles os destruiram completamente, e também suas cidades. O lugar foi chamado Hormá. ^v3
 
-**4** Então partiram do monte Hor, pelo caminho do Mar Vermelho, a rodear a terra de Edom; porém a alma do povo angustiou-se naquele caminho. ^v4
+**4** Eles viajaram do Monte Hor pelo caminho para o Mar Vermelho, ao redor da terra de Edom. E o povo ficou muito desanimado no caminho. ^v4
 
-**5** E o povo falou contra Deus e contra Moisés: Por que nos fizestes subir do Egito para que morrêssemos neste deserto? Pois aqui nem pão nem água há; e a nossa alma tem fastio deste pão tão vil. ^v5
+**5** "O povo mumurava contra Deus e Moisés: ""Por que Tu nos tirastes do Egito para morrer no deserto? Não temos pão nem água, e odiamos essa comida miserável""." ^v5
 
-**6** Então o Senhor mandou entre o povo serpentes ardentes, que picaram o povo; e morreu muita gente em Israel. ^v6
+**6** Então, Yahweh enviou serpentes venenosas contra o povo. As serpentes picaram as pessoas; muitas morreram. ^v6
 
-**7** Por isso o povo veio a Moisés, e disse: Havemos pecado, porquanto temos falado contra o Senhor e contra ti; ora ao Senhor que tire de nós estas serpentes. Então Moisés orou pelo povo. ^v7
+**7** "O povo veio a Moisés e disse: ""Nós pecamos, porque murmuramos contra Yahweh e contra ti. Ora a Yahweh para que Ele leve as serpentes para longe de nós"". Então, Moisés orou pelo povo." ^v7
 
-**8** E disse o Senhor a Moisés: Faze-te uma serpente ardente, e põe-na sobre uma haste; e será que viverá todo o que, tendo sido picado, olhar para ela. ^v8
+**8** "Yahweh disse a Moisés: ""Faz uma serpente e põe-na numa haste. Todo aquele que foi mordido sobreviverá, se olhar pra ela""." ^v8
 
-**9** E Moisés fez uma serpente de metal, e pô-la sobre uma haste; e sucedia que, picando alguma serpente a alguém, quando esse olhava para a serpente de metal, vivia. ^v9
+**9** Então, Moisés fez uma serpente de bronze, e a colocou na haste. Quando uma serpente picava alguém, se ele olhasse para a serpente de bronze, sobrevivia. ^v9
 
-**10** Então os filhos de Israel partiram, e alojaram-se em Obote. ^v10
+**10** Então, o povo de Israel viajou e acampou em Obote. ^v10
 
-**11** Depois partiram de Obote e alojaram-se nos outeiros de Ije-Abarim, no deserto que está defronte de Moabe, ao nascente do sol. ^v11
+**11** Eles viajaram de Obote e acamparam no Ije-Abarim, no deserto de frente a Moabe, em direção ao leste. ^v11
 
-**12** Dali partiram, e alojaram-se junto ao ribeiro de Zerede. ^v12
+**12** Dali, eles continuaram viajando, e acamparam no vale de Zerede. ^v12
 
-**13** E dali partiram e alojaram-se no lado de Arnom, que está no deserto e sai dos termos dos amorreus; porque Arnom é o termo de Moabe, entre Moabe e os amorreus. ^v13
+**13** E, partindo dali, prosseguiram viagem e acamparam no outro lado do rio Arnom, que está no deserto que se estende das fronteiras dos amorreus. O rio Arnom faz a fronteira entre Moabe e os amorreus. ^v13
 
-**14** Por isso se diz no livro das guerras do Senhor: O que fiz no Mar Vermelho e nos ribeiros de Arnom, ^v14
+**14** "Por isso, diz no Livro das Guerras de Yahweh: ""Vaebe em Sufa, e os vales do Arnom," ^v14
 
-**15** E à corrente dos ribeiros, que descendo para a situação de Ar, se encosta aos termos de Moabe. ^v15
+**15** "na descida dos vales que leva à cidade de Ar e chega até a fronteira de Moabe""." ^v15
 
-**16** E dali partiram para Beer; este é o poço do qual o Senhor disse a Moisés: Ajunta o povo e lhe darei água. ^v16
+**16** "Dali, eles partiram para Beer, e foi ali no poço que Yahweh disse a Moisés: ""Reúna o povo, e Eu lhes darei água""." ^v16
 
-**17** Então Israel cantou este cântico: Brota, ó poço! Cantai dele: ^v17
+**17** "Então, Israel cantou esta canção: ""Brota, ó poço. Cantai sobre isso." ^v17
 
-**18** Tu, poço, que cavaram os príncipes, que escavaram os nobres do povo, e o legislador com os seus bordões; e do deserto partiram para Mataná; ^v18
+**18** "O poço que nossos líderes cavaram, o poço que os nobres do povo cavaram com o cetro e as varas"". Então, do deserto, eles viajaram para Matana." ^v18
 
-**19** E de Mataná a Naaliel, e de Naaliel a Bamote. ^v19
+**19** De Matana eles viajaram para Naaliel, e de Naaliel para Bamote, ^v19
 
-**20** E de Bamote ao vale que está no campo de Moabe, no cume de Pisga, e à vista do deserto. ^v20
+**20** e, de Bamote, ao vale na terra de Moabe. Ali, é onde o topo do monte Pisga defronta o deserto. ^v20
 
-**21** Então Israel mandou mensageiros a Siom, rei dos amorreus, dizendo: ^v21
+**21** Então, Israel enviou messageiros a Siom, rei dos amorreus, dizendo: ^v21
 
-**22** Deixa-me passar pela tua terra; não nos desviaremos pelos campos nem pelas vinhas; as águas dos poços não beberemos; iremos pela estrada real até que passemos os teus termos. ^v22
+**22** """Deixe-nos passar por sua terra. Nós não entraremos em nenhuma plantação ou vinha. Não beberemos a água dos seus poços. Viajaremos pela estrada real, até que tenhamos cruzado sua fronteira""." ^v22
 
-**23** Porém Siom não deixou passar a Israel pelos seus termos; antes Siom congregou todo o seu povo, e saiu ao encontro de Israel no deserto, e veio a Jaza, e pelejou contra Israel. ^v23
+**23** Mas o rei Siom não permitiu a Israel atravessar seu território. Ao invés disso, Siom reuniu todo o seu exército e atacou Israel no deserto. Ele veio a Jaza, onde lutou contra Israel. ^v23
 
-**24** Mas Israel o feriu ao fio da espada, e tomou a sua terra em possessão, desde Arnom até Jaboque, até aos filhos de Amom; porquanto o termo dos filhos de Amom era forte. ^v24
+**24** Israel atacou o exército de Siom no fio de espada, e tomou a terra de Arnom ao rio Jaboque, até a fronteira do povo de Amon, que era fortificada. ^v24
 
-**25** Assim Israel tomou todas as cidades; e habitou em todas elas, em Hesbom e em todas as suas aldeias. ^v25
+**25** Israel tomou todas as cidades dos amorreus, e habitou em todas elas, incluindo Hesbom e todas as suas aldeias. ^v25
 
-**26** Porque Hesbom era cidade de Siom, rei dos amorreus, que tinha pelejado contra o precedente rei dos moabitas, e tinha tomado da sua mão toda a sua terra até Arnom. ^v26
+**26** Hesbom era a cidade de Siom, rei dos amorreus, que havia lutado contra o antigo rei de Moabe, e tomado todo o seu território até o rio Arnom. ^v26
 
-**27** Por isso dizem os que falam em provérbios: Vinde a Hesbom; edifique-se e estabeleça-se a cidade de Siom. ^v27
+**27** "Por isso, aqueles que falam por provérbios dizem: ""Vinde a Hesbom. Que a cidade de Siom seja reconstruída e reestabelecida." ^v27
 
-**28** Porque fogo saiu de Hesbom, e uma chama da cidade de Siom; e consumiu a Ar dos moabitas, e os senhores dos altos de Arnom. ^v28
+**28** Um fogo ardeu de Hesbom, uma chama da cidade de Siom que devorou Ar de Moabe, e os senhores dos altos de Arnom. ^v28
 
-**29** Ai de ti, Moabe! perdido és, povo de Quemos! entregou seus filhos, que iam fugindo, e suas filhas, como cativas a Siom, rei dos amorreus. ^v29
+**29** Ai de ti, Moabe! Tu já perecestes, povo de Camos. Ele fez de seus filhos fugitivos e de suas filhas prisioneiras de Siom, rei dos amorreus. ^v29
 
-**30** E nós os derribamos; Hesbom perdida é até Dibom, e os assolamos até Nofá, que se estende até Medeba. ^v30
+**30** "Mas nós conquistamos Siom. Hesbom está devastada por todo o caminho até Dibom. Nós os derrotamos até Nofá, que chega até Medeba""." ^v30
 
-**31** Assim Israel habitou na terra dos amorreus. ^v31
+**31** Então, Israel habitou na terra dos amorreus. ^v31
 
-**32** Depois mandou Moisés espiar a Jazer, e tomaram as suas aldeias, e daquela possessão lançaram os amorreus que estavam ali. ^v32
+**32** E Moisés enviou homens para espiar Jazer. E Israel tomou suas aldeias e expulsou os amorreus que estavam ali. ^v32
 
-**33** Então viraram-se, e subiram o caminho de Basã; e Ogue, rei de Basã, saiu contra eles, ele e todo o seu povo, à peleja em Edrei. ^v33
+**33** Então, eles voltaram e subiram pelo caminho de Basã. Ogue, rei de Basã, saiu contra eles, ele e todo o seu exercito, para lutar em Edrei. ^v33
 
-**34** E disse o Senhor a Moisés: Não o temas, porque eu o tenho dado na tua mão, a ele, e a todo o seu povo, e a sua terra, e far-lhe-ás como fizeste a Siom, rei dos amorreus, que habitava em Hesbom. ^v34
+**34** "Então, Yahweh disse a Moisés: ""Não o temas, porque Eu te dei a vitória sobre eles, e todo o seu exército, e toda a sua terra. Faça com ele o que tu fizestes com Siom, rei dos amorreus, que habitava em Hesbom""." ^v34
 
-**35** E de tal maneira o feriram, a ele e a seus filhos, e a todo o seu povo, que nenhum deles escapou; e tomaram a sua terra em possessão. ^v35
+**35** Então, eles o mataram, seus filhos e todo o seu exército, até que nenhum deles ficou vivo. E eles lhes tomaram a terra. ^v35

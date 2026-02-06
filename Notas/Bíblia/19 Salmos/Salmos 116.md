@@ -1,45 +1,44 @@
 ---
-Livro: "[[Salmos|Salmos]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Salmos|Salmos]]"
+tags: [biblia]
 ---
 
 # Salmos 116
 
-**1** Amo ao SENHOR, porque ele ouviu a minha voz e a minha súplica. ^v1
+**1** Eu amo Yahweh; Ele escuta a minha voz e minhas súplicas por misericórdia. ^v1
 
-**2** Porque inclinou a mim os seus ouvidos; portanto, o invocarei enquanto viver. ^v2
+**2** Porquanto Ele me escuta, eu O invocarei enquanto viver. ^v2
 
-**3** Os cordéis da morte me cercaram, e angústias do inferno se apoderaram de mim; encontrei aperto e tristeza. ^v3
+**3** Laços de morte me cercaram, e as armadilhas do Sheol me confrontaram; eu me senti angustiado e triste. ^v3
 
-**4** Então invoquei o nome do Senhor, dizendo: Ó Senhor, livra a minha alma. ^v4
+**4** "Então, invoquei o nome de Yahweh: ""Ó, Yahweh, salva a minha vida!""" ^v4
 
-**5** Piedoso é o Senhor e justo; o nosso Deus tem misericórdia. ^v5
+**5** Yahweh é misericordioso e justo; nosso Deus é compassivo. ^v5
 
-**6** O Senhor guarda aos símplices; fui abatido, mas ele me livrou. ^v6
+**6** Yahweh protege os simples; eu estava abatido, e Ele me salvou. ^v6
 
-**7** Volta, minha alma, para o teu repouso, pois o Senhor te fez bem. ^v7
+**7** Minha alma pode retornar ao seu lugar de descanso, pois Yahweh tem sido bondoso comigo. ^v7
 
-**8** Porque tu livraste a minha alma da morte, os meus olhos das lágrimas, e os meus pés da queda. ^v8
+**8** Livraste a minha vida da morte, meus olhos das lágrimas e meus pés do tropeço. ^v8
 
-**9** Andarei perante a face do Senhor na terra dos viventes. ^v9
+**9** Servirei a Yahweh na terra dos viventes. ^v9
 
-**10** Cri, por isso falei. Estive muito aflito. ^v10
+**10** "Eu cri Nele, mesmo quando disse: ""Estou em grande aflição.""" ^v10
 
-**11** Dizia na minha pressa: Todos os homens são mentirosos. ^v11
+**11** "Em minha perturbação, disse: ""Todos os homens são mentirosos.""" ^v11
 
-**12** Que darei eu ao Senhor, por todos os benefícios que me tem feito? ^v12
+**12** Como retribuirei a Yahweh por toda a Sua bondade para comigo? ^v12
 
-**13** Tomarei o cálice da salvação, e invocarei o nome do Senhor. ^v13
+**13** Levantarei o cálice da salvação e invocarei o nome de Yahweh. ^v13
 
-**14** Pagarei os meus votos ao Senhor, agora, na presença de todo o seu povo. ^v14
+**14** Cumprirei meus votos a Yahweh na presença de todo o Seu povo. ^v14
 
-**15** Preciosa é à vista do Senhor a morte dos seus santos. ^v15
+**15** Preciosa, aos olhos de Yahweh, é a morte dos Seus santos. ^v15
 
-**16** Ó Senhor, deveras sou teu servo; sou teu servo, filho da tua serva; soltaste as minhas ataduras. ^v16
+**16** Yahweh, certamente, sou Teu servo. Sou Teu servo, o filho da Tua serva; Tu me livras das minhas amarras. ^v16
 
-**17** Oferecer-te-ei sacrifícios de louvor, e invocarei o nome do Senhor. ^v17
+**17** Eu Te oferecerei sacrifícios de ação de graças, e invocarei o Teu nome. ^v17
 
-**18** Pagarei os meus votos ao Senhor, na presença de todo o meu povo, ^v18
+**18** Cumprirei meus votos feitos a Yahweh na presença de todo o Seu povo, ^v18
 
-**19** Nos átrios da casa do Senhor, no meio de ti, ó Jerusalém. Louvai ao Senhor. ^v19
+**19** nos átrios da casa de Yahweh, no meio de ti, Jerusalém. Louvai a Yahweh. ^v19

@@ -1,47 +1,46 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Marcos|Marcos]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Marcos|Marcos]]"
+tags: [biblia]
 ---
 
 # Marcos 16
 
-**1** E, passado o sábado, Maria Madalena, e Maria, mãe de Tiago, e Salomé, compraram aromas para irem ungi-lo. ^v1
+**1** Ao final do Sabbath, Maria Madalena, Maria, a mãe de Tiago e Salomé compraram especiarias aromáticas para ir ungir o corpo de Jesus. ^v1
 
-**2** E, no primeiro dia da semana, foram ao sepulcro, de manhã cedo, ao nascer do sol. ^v2
+**2** No primeiro dia da semana, bem cedo, ao nascer do sol, elas foram até o sepulcro. ^v2
 
-**3** E diziam umas às outras: Quemnos revolverá a pedra da porta do sepulcro? ^v3
+**3** "Elas se perguntavam umas às outras: ""Quem rolará para nós a pedra do sepulcro?""." ^v3
 
-**4** E, olhando, viram que já a pedra estava revolvida; e era ela muito grande. ^v4
+**4** Quando ergueram os olhos, viram que alguém havia rolado a pedra, que era muito grande. ^v4
 
-**5** E, entrando no sepulcro, viram um jovem assentado à direita, vestido de uma roupa comprida, branca; e ficaram espantadas. ^v5
+**5** Entrando no sepulcro, viram um jovem vestido com manto branco, sentado ao lado direito, e ficaram atônitas. ^v5
 
-**6** Ele, porém, disse-lhes: Não vos assusteis; buscais a Jesus Nazareno, que foi crucificado; já ressuscitou, não está aqui; eis aqui o lugar onde o puseram. ^v6
+**6** "Ele lhes disse: ""Não temais. Procurais por Jesus, o Nazareno, que foi crucificado. Ele ressuscitou!. Não está aqui. Vede o lugar onde O puseram." ^v6
 
-**7** Mas ide, dizei a seus discípulos, e a Pedro, que ele vai adiante de vós para a Galiléia; ali o vereis, como ele vos disse. ^v7
+**7** "Mas ide dizer a Seus discípulos e a Pedro que Jesus vai adiante de vós para a Galileia. Lá O vereis, como Ele lhes havia dito""." ^v7
 
-**8** E, saindo elas apressadamente, fugiram do sepulcro, porque estavam possuídas de temor e assombro; e nada diziam a ninguém porque temiam. ^v8
+**8** Elas saíram e correram do sepulcro, estavam tremendo e assombradas. Não disseram nada a ninguém, pois tinham muito medo. ^v8
 
-**9** E Jesus, tendo ressuscitado na manhã do primeiro dia da semana, apareceu primeiramente a Maria Madalena, da qual tinha expulsado sete demônios. ^v9
+**9** [Os melhores manuscritos antigos omitem os versículos de 9 a 20.] Tendo ressuscitado na manhã do primeiro dia da semana, Jesus apareceu primeiro a Maria Madalena, de quem expulsara sete demônios. ^v9
 
-**10** E, partindo ela, anunciou-o àqueles que tinham estado com ele, os quais estavam tristes, e chorando. ^v10
+**10** Ela saiu e contou o que tinha visto a todos que estiveram com Ele, enquanto esses lamentavam e choravam. ^v10
 
-**11** E, ouvindo eles que vivia, e que tinha sido visto por ela, não o creram. ^v11
+**11** Eles ouviram que Jesus estava vivo e que fora visto por ela, mas não creram. ^v11
 
-**12** E depois manifestou-se de outra forma a dois deles, que iam de caminho para o campo. ^v12
+**12** Depois destas coisas, Ele apareceu em uma forma diferente para mais dois deles, enquanto estavam a caminho do campo. ^v12
 
-**13** E, indo estes, anunciaram-no aos outros, mas nem ainda estes creram. ^v13
+**13** Eles foram contar ao resto dos discípulos, mas estes não creram. ^v13
 
-**14** Finalmente apareceu aos onze, estando eles assentados juntamente, e lançou-lhes em rosto a sua incredulidade e dureza de coração, por não haverem crido nos que o tinham visto já ressuscitado. ^v14
+**14** Depois, Jesus apareceu aos onze, enquanto eles se reclinavam à mesa, e os censurou pela incredulidade e dureza de coração, por não terem crido naqueles que O viram depois de ter ressuscitado. ^v14
 
-**15** E disse-lhes: Ide por todo omundo, pregai o evangelho a toda criatura. ^v15
+**15** "Então, disse-lhes: ""Ide pelo mundo todo, pregai o Evangelho a toda criatura." ^v15
 
-**16** Quem crer e for batizado será salvo; mas quem não crer será condenado. ^v16
+**16** Quem crer e for batizado será salvo, e o que não crer será condenado. ^v16
 
-**17** E estes sinais seguirão aos que crerem: Em meu nome expulsarão os demônios; falarão novas línguas; ^v17
+**17** Estes sinais acompanharão aqueles que creem: em Meu nome expulsarão demônios, falarão novas línguas, ^v17
 
-**18** Pegarão nas serpentes; e, se beberem alguma coisa mortífera, não lhes fará dano algum; e porãoas mãos sobre os enfermos, e os curarão. ^v18
+**18** "pegarão serpentes com as mãos e se beberem algo venenoso, isso não os ferirá; imporão as mãos sobre os doentes e eles serão curados""." ^v18
 
-**19** Ora, o Senhor, depois de lhes ter falado, foi recebido no céu, e assentou-se à direita de Deus. ^v19
+**19** Depois do Senhor Jesus ter falado com eles, foi levado aos céus e se assentou à direita de Deus. ^v19
 
-**20** E eles, tendo partido, pregaram por todas as partes, cooperando com eles o Senhor, e confirmando a palavra com os sinais que se seguiram. Amém. ^v20
+**20** Os discípulos saíram e pregaram por toda parte, enquanto o Senhor trabalhava com eles e confirmava a palavra através dos milagrosos sinais que os seguiam. ^v20

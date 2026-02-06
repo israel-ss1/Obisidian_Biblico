@@ -1,33 +1,32 @@
 ---
-Livro: "[[1 Coríntios|1 Coríntios]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/1 Coríntios|1 Coríntios]]"
+tags: [biblia]
 ---
 
 # 1 Coríntios 5
 
-**1** Geralmente se ouve que há entre vós fornicação, e fornicação tal, que nem ainda entre os gentios se nomeia, como é haver quem possua a mulher de seu pai. ^v1
+**1** Nós ouvimos a notícia de que há imoralidade sexual entre vós, um tipo de imoralidade que nem mesmo é permitida entre os gentios. A notícia é que um de vós está dormindo com a esposa de seu pai. ^v1
 
-**2** Estais ensoberbecidos, e nem ao menos vos entristecestes por não ter sido dentre vós tirado quem cometeu tal ação. ^v2
+**2** Sois tão arrogantes! Em vez disso, não deveríeis vos lamentar? Quem fez isso deve ser removido de entre vós! ^v2
 
-**3** Eu, na verdade, ainda que ausente no corpo, mas presente no espírito, já determinei, como se estivesse presente, que o que tal ato praticou, ^v3
+**3** Pois, apesar de eu estar ausente em corpo, mas ainda presente em espírito, já julguei aquele que fez isso, como se eu estivesse aí. ^v3
 
-**4** Em nome de nosso Senhor Jesus Cristo, juntos vós e o meu espírito, pelo poder de nosso Senhor Jesus Cristo, ^v4
+**4** Quando vos reunirdes no Nome de nosso Senhor Jesus, e meu espírito estando aí também no poder de nosso Senhor Jesus, ^v4
 
-**5** Seja, este tal, entregue a Satanás para destruição da carne, para que o espírito seja salvo no dia do Senhor Jesus. ^v5
+**5** entregai esse homem a Satanás para a destruição da carne, assim então seu espírito poderá ser salvo no dia do Senhor. ^v5
 
-**6** Não é boa a vossa jactância. Não sabeis que um pouco de fermento faz levedar toda a massa? ^v6
+**6** O vosso orgulho não é bom. Não sabeis que um pouco de fermento leveda toda a massa? ^v6
 
-**7** Alimpai-vos, pois, do fermento velho, para que sejais uma nova massa, assim como estais sem fermento. Porque Cristo, nossa páscoa, foi sacrificado por nós. ^v7
+**7** Purificai-vos do velho fermento para que sejais uma nova massa, assim como sois agora, pães não levedados. Pois Cristo, nosso Cordeiro Pascal, foi sacrificado. ^v7
 
-**8** Por isso façamos a festa, não com o fermento velho, nem com o fermento da maldade e da malícia, mas com os ázimos da sinceridade e da verdade. ^v8
+**8** Assim, celebremos a festa, não com fermento velho, o fermento do mau comportamento e da maldade, mas com o pão não levedado da sinceridade e da verdade. ^v8
 
-**9** Já por carta vos tenho escrito, que não vos associeis com os que se prostituem; ^v9
+**9** Eu vos escrevi com minha letra para não vos associardes com pessoas sexualmente imorais. ^v9
 
-**10** Isto não quer dizer absolutamente com os devassos deste mundo, ou com os avarentos, ou com os roubadores, ou com os idólatras; porque então vos seria necessário sair do mundo. ^v10
+**10** De maneira nenhuma me refiro às pessoas imorais deste mundo, ou aos gananciosos, aos trapaceiros ou aos idólatras, uma vez que para estar longe deles precisaríeis sair do mundo. ^v10
 
-**11** Mas agora vos escrevi que não vos associeis com aquele que, dizendo-se irmão, for devasso, ou avarento, ou idólatra, ou maldizente, ou beberrão, ou roubador; com o tal nem ainda comais. ^v11
+**11** Mas agora estou vos escrevendo para não vos associardes a ninguém que é chamado de irmão, mas que está vivendo em imoralidade sexual, ou que é ganancioso, ou é um idólatra, ou é caluniador, ou é um beberrão ou um trapaceiro. Nem mesmo comais uma refeição com tal pessoa. ^v11
 
-**12** Porque, que tenho eu em julgar também os que estão de fora? Não julgais vós os que estão dentro? ^v12
+**12** Pois, como posso estar envolvido com o julgamento daqueles que são de fora da igreja? Em vez disso, não julgais aqueles que estão dentro da igreja? ^v12
 
-**13** Mas Deus julga os que estão de fora. Tirai pois dentre vós a esse iníquo. ^v13
+**13** "Mas Deus julga aqueles que estão fora: ""Remova a pessoa má de entre vós""." ^v13

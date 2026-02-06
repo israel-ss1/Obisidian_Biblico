@@ -1,73 +1,72 @@
 ---
-Livro: "[[Levítico|Levítico]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Levítico|Levítico]]"
+tags: [biblia]
 ---
 
 # Levítico 22
 
-**1** Depois falou o SENHOR a Moisés, dizendo: ^v1
+**1** Yahweh falou com Moisés, dizendo: ^v1
 
-**2** Dize a Arão e a seus filhos que se apartem das coisas santas dos filhos de Israel, que a mim me santificam, para que não profanem o meu santo nome. Eu sou o Senhor. ^v2
+**2** """Fala com Arão e com seus filhos. Dize a eles para manterem-se longe das coisas sagradas do povo de Israel, as quais eles dedicaram a Mim. Eles não devem profanar Meu santo nome. Eu sou Yahweh." ^v2
 
-**3** Dize-lhes: Todo o homem, que entre as vossas gerações, de toda a vossa descendência, se chegar às coisas santas que os filhos de Israel santificam ao Senhor, tendo sobre si a sua imundícia, aquela alma será extirpada de diante da minha face. Eu sou o Senhor. ^v3
+**3** Diga a eles: 'Qualquer pessoa, dentre todos os vossos descendentes, do começo ao fim das gerações do povo, que esteja suja, quando se aproximar das coisas sagradas que o povo de Israel consagrou a Yahweh, esta pessoa deverá ser excluída da Minha presença. Eu sou Yahweh. ^v3
 
-**4** Ninguém da descendência de Arão, que for leproso, ou tiver fluxo, comerá das coisas santas, até que seja limpo; como também o que tocar alguma coisa imunda de cadáver, ou aquele de que sair sêmen da cópula, ^v4
+**4** Nenhum dos descendentes de Arão o qual tenha doença de pele contagiosa, ou uma infecção que flua de seu corpo, poderá comer qualquer um dos sacrifícios feitos a Yahweh até que ele esteja limpo. Qualquer um que tocar qualquer coisa suja pelo contato com os mortos, ou com um homem que tenha fluxo de sêmen, ^v4
 
-**5** Ou qualquer que tocar a algum réptil, pelo qual se fez imundo, ou a algum homem, pelo qual se fez imundo, segundo toda a sua imundícia; ^v5
+**5** ou qualquer um que toque em algum réptil que o faça sujo, ou em qualquer pessoa que o faça sujo, seja o tipo de impureza que for— ^v5
 
-**6** O homem que o tocar será imundo até à tarde, e não comerá das coisas santas, mas banhará a sua carne em água. ^v6
+**6** então, o sacerdote que tocar qualquer coisa suja estará sujo até o anoitecer. Ele não deve comer nenhuma das coisas sagradas, a não ser que tenha banhado seu corpo em água. ^v6
 
-**7** E havendo-se o sol já posto, então será limpo, e depois comerá das coisas santas; porque este é o seu pão. ^v7
+**7** Quando o sol tiver se posto, ele, então, estará limpo. Depois do pôr do sol, ele poderá comer das coisas sagradas, pois elas são seu alimento. ^v7
 
-**8** O corpo morto e o dilacerado não comerá, para que não se contamine com ele. Eu sou o Senhor. ^v8
+**8** Ele não deve comer nenhum animal encontrado morto ou que tenha sido morto por animais selvagens, para que não se contamine. Eu sou Yahweh. ^v8
 
-**9** Guardarão, pois, o meu mandamento, para que por isso não levem pecado, e morram nele, havendo-o profanado. Eu sou o Senhor que os santifico. ^v9
+**9** Os sacerdotes devem seguir Minhas instruções, ou eles serão culpados de pecado e podem morrer por Me profanarem. Eu sou Yahweh, que os santifico para Mim. ^v9
 
-**10** Também nenhum estranho comerá das coisas santas; nem o hóspede do sacerdote, nem o diarista comerá das coisas santas. ^v10
+**10** Ninguém que não pertença à família do sacerdote, incluindo seus convidados ou seus empregados, deve comer qualquer coisa que seja sagrada. ^v10
 
-**11** Mas quando o sacerdote comprar alguma pessoa com o seu dinheiro, aquela comerá delas, e os nascidos na sua casa, estes comerão do seu pão. ^v11
+**11** Mas, se um sacerdote comprar algum escravo com o seu próprio dinheiro, este escravo poderá comer das coisas reservadas para Yahweh. E os membros da família do sacerdote e os escravos nascidos em sua casa, eles também podem comer com ele destas coisas. ^v11
 
-**12** E, quando a filha do sacerdote se casar com homem estranho, ela não comerá da oferta das coisas santas. ^v12
+**12** Se a filha de um sacerdote casar-se com alguém que não seja um sacerdote, ela não poderá comer quaisquer das ofertas sagradas. ^v12
 
-**13** Mas quando a filha do sacerdote for viúva ou repudiada, e não tiver filho, e se houver tornado à casa de seu pai, como na sua mocidade, do pão de seu pai comerá; mas nenhum estranho comerá dele. ^v13
+**13** Mas, se a filha do sacerdote for viúva, ou divorciada, e se ela não tiver filhos, e voltar a viver na casa do pai como em sua juventude, ela poderá comer da comida do pai. Mas ninguém que não seja da família do sacerdote poderá comer da comida do sacerdote. ^v13
 
-**14** E quando alguém por erro comer a coisa santa, sobre ela acrescentará uma quinta parte, e a dará ao sacerdote com a coisa santa. ^v14
+**14** Se um homem comer da comida sagrada sem conhecimento, então ele deve recompensar o sacerdote por isto; ele deve adicionar um quinto ao que comeu e devolver ao sacerdote. ^v14
 
-**15** Assim não profanarão as coisas santas dos filhos de Israel, que oferecem ao Senhor, ^v15
+**15** O povo de Israel não deve desonrar as coisas sagradas que eles ergueram e apresentaram a Yahweh, ^v15
 
-**16** Nem os farão levar a iniqüidade da culpa, comendo as suas coisas santas; pois eu sou o Senhor que as santifico. ^v16
+**16** "e nem fazê-los carregarem o pecado que os faça culpados por comerem da comida sagrada, pois eu sou Yahweh, que os santifico para Mim'""." ^v16
 
-**17** Falou mais o Senhor a Moisés, dizendo: ^v17
+**17** Yahweh falou com Moisés, dizendo: ^v17
 
-**18** Fala a Arão, e a seus filhos, e a todos os filhos de Israel, e dize-lhes: Qualquer que, da casa de Israel, ou dos estrangeiros em Israel, oferecer a sua oferta, quer dos seus votos, quer das suas ofertas voluntárias, que oferecem ao Senhor em holocausto, ^v18
+**18** """Fala a Arão e seus filhos, e a todo o povo de Israel e dize-lhes: 'Qualquer israelita, ou estrangeiro morando em Israel, quando apresentarem um sacrifício — quer seja dos seus votos, quer seja oferta voluntária, ou eles apresentem a Yahweh holocausto," ^v18
 
-**19** Segundo a sua vontade, oferecerá macho sem defeito, ou dos bois, ou dos cordeiros, ou das cabras. ^v19
+**19** para que seja aceito, eles devem oferecer um animal macho sem defeito do rebanho de gado, ovelhas, ou cabras. ^v19
 
-**20** Nenhuma coisa em que haja defeito oferecereis, porque não seria aceita em vosso favor. ^v20
+**20** Mas vós não deveis oferecer nada com defeito. Eu não aceitarei isto em vosso favor. ^v20
 
-**21** E, quando alguém oferecer sacrifício pacífico ao Senhor, separando dos bois ou das ovelhas um voto, ou oferta voluntária, sem defeito será, para que seja aceito; nenhum defeito haverá nele. ^v21
+**21** Qualquer um que oferecer sacrifício de ofertas pacíficas do gado ou do rebanho a Yahweh para cumprir um voto, ou uma oferta voluntária, este deve ser sem defeito para ser aceito. Não deve haver defeito no animal. ^v21
 
-**22** O cego, ou quebrado, ou aleijado, o verrugoso, ou sarnoso, ou cheio de impigens, estes não oferecereis ao Senhor, e deles não poreis oferta queimada ao Senhor sobre o altar. ^v22
+**22** Não deveis oferecer animais que estejam cegos, mutilados ou deformados, ou que tenham imperfeições, feridas ou sarna. Não deveis oferecer estes a Yahweh como um sacrifício por fogo no altar. ^v22
 
-**23** Porém boi, ou gado miúdo, comprido ou curto de membros, poderás oferecer por oferta voluntária, mas por voto não será aceito. ^v23
+**23** Poderás apresentar como ofertas voluntárias, um boi ou um cordeiro que seja comprido ou curto de membros, mas uma oferta como esta não será aceita no lugar de um voto. ^v23
 
-**24** O machucado, ou moído, ou despedaçado, ou cortado, não oferecereis ao Senhor; não fareis isto na vossa terra. ^v24
+**24** Não ofereçais animais a Yahweh que tenham tido os testículos esmagados, triturados, ou cortados. Não façais isso em vossas terras. ^v24
 
-**25** Também da mão do estrangeiro nenhum alimento oferecereis ao vosso Deus, de todas estas coisas, pois a sua corrupção está nelas; defeito nelas há; não serão aceitas em vosso favor. ^v25
+**25** "Não apresenteis estes de mãos estrangeiras como comida ao vosso Deus, porque eles são defeituosos ou desfigurados. Eles não serão aceitos em vosso favor'""." ^v25
 
-**26** Falou mais o Senhor a Moisés, dizendo: ^v26
+**26** Yahweh falou com Moisés e disse: ^v26
 
-**27** Quando nascer o boi, ou cordeiro, ou cabra, sete dias estará debaixo de sua mãe; depois, desde o oitavo dia em diante, será aceito por oferta queimada ao Senhor. ^v27
+**27** """Quando nascem um bezerro, uma ovelha ou uma cabra, estes devem permanecer sete dias com suas mães. Então, do oitavo dia em diante, poderão ser aceitos como sacrifício ou oferta feita no fogo para Yahweh." ^v27
 
-**28** Também boi ou gado miúdo, a ele e a seu filho não degolareis no mesmo dia. ^v28
+**28** Não sacrifiqueis uma vaca ou uma ovelha com a sua cria, ambos no mesmo dia. ^v28
 
-**29** E, quando oferecerdes sacrifícios de louvores ao Senhor, o oferecereis da vossa vontade. ^v29
+**29** Quando vós sacrificardes uma oferta de ação de graças, deveis sacrificar de uma maneira aceitável. ^v29
 
-**30** No mesmo dia se comerá; dele nada deixareis ficar até pela manhã. Eu sou o Senhor. ^v30
+**30** Isto deverá ser comido no mesmo dia em que for sacrificado. Não deixeis sobrar nada até a próxima manhã. Eu Sou Yahweh. ^v30
 
-**31** Por isso guardareis os meus mandamentos, e os cumprireis. Eu sou o Senhor. ^v31
+**31** Então, deveis guardar Meus mandamentos e cumpri-los. Eu sou Yahweh. ^v31
 
-**32** E não profanareis o meu santo nome, para que eu seja santificado no meio dos filhos de Israel. Eu sou o Senhor que vos santifico; ^v32
+**32** Não desonrareis o Meu santo nome. Eu deverei ser reconhecido como santo pelo povo de Israel. Eu sou Yahweh, que os santifico para Mim, ^v32
 
-**33** Que vos tirei da terra do Egito, para ser o vosso Deus. Eu sou o Senhor. ^v33
+**33** "Aquele que vos tirou da terra do Egito, para ser o vosso Deus. Eu sou Yahweh""." ^v33

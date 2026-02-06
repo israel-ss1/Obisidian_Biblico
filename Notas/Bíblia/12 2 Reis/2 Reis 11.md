@@ -1,49 +1,48 @@
 ---
-Livro: "[[2 Reis|2 Reis]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/2 Reis|2 Reis]]"
+tags: [biblia]
 ---
 
 # 2 Reis 11
 
-**1** Vendo, pois, Atalia, mãe de Acazias, que seu filho era morto, levantou-se, e destruiu toda a descendência real. ^v1
+**1** Quando Atalia, a mãe de Acazias, viu que seu filho estava morto, levantou-se e matou todas as crianças de descendência real. ^v1
 
-**2** Mas Jeoseba, filha do rei Jorão, irmã de Acazias, tomou a Joás, filho de Acazias, furtando-o dentre os filhos do rei, aos quais matavam, e o pôs, a ele e à sua ama na recâmara, e o escondeu de Atalia, e assim não o mataram. ^v2
+**2** Mas Jeoseba, filha do rei Jeorão e irmã de Acazias, tomou Joás, filho de Acazias, do meio dos filhos do rei, que seriam mortos, e escondeu-o de Atalia em um quarto, junto com a sua ama, para que o menino não fosse morto. ^v2
 
-**3** E esteve com ela escondido na casa do Senhor seis anos; e Atalia reinava sobre o país. ^v3
+**3** Ele esteve com Jeoseba, escondido na casa de Yahweh, durante seis anos, enquanto Atalia governava sobre a terra. ^v3
 
-**4** E no sétimo ano enviou Joiada, e tomou os centuriões, com os capitães, e com os da guarda, e os colocou consigo na casa do Senhor; e fez com eles uma aliança e ajuramentou-os na casa do Senhor; e mostrou-lhes o filho do rei. ^v4
+**4** No sétimo ano, Joiada enviou mensagens, trouxe os comandantes de cem dos cários e da guarda e levou-os consigo ao templo de Yahweh. Ele fez uma aliança com os comandantes, e os fez jurar solenemente na casa de Yahweh. Então, lhes mostrou o filho do rei, ^v4
 
-**5** E deu-lhes ordem, dizendo: Isto é o que haveis de fazer: Uma terça parte de vós, que entrais no sábado, fará a guarda da casa do rei. ^v5
+**5** "e ordenou-lhes dizendo: ""Eis o que deveis fazer: A terça parte de vós que vem no sábado manterá guarda na casa real," ^v5
 
-**6** E outra terça parte estará à porta de Sur; e a outra terça parte à porta detrás dos da guarda; assim fareis a guarda desta casa, afastando a todos. ^v6
+**6** e a terça parte estará no portão de Sur e a outra terça parte estará no portão atrás da guarita. ^v6
 
-**7** E as duas partes de vós, a saber, todos os que saem no sábado, farão a guarda da casa do Senhor junto ao rei. ^v7
+**7** E os dois outros grupos que não irão servir no sábado farão a guarda da casa de Yahweh para o rei. ^v7
 
-**8** E rodeareis o rei, cada um com as suas armas na mão, e aquele que entrar entre as fileiras o matarão; e vós estareis com o rei quando sair e quando entrar. ^v8
+**8** "Fazei um círculo em volta do rei, cada homem com armas na mão. Qualquer pessoa que entrar no interior das fileiras seja morto. Deveis permanecer com o rei, quando ele sair e quando entrar""." ^v8
 
-**9** Fizeram, pois, os centuriões conforme tudo quanto ordenara o sacerdote Joiada, tomando cada um os seus homens, tanto os que entravam no sábado como os que saíam no sábado; e foram ao sacerdote Joiada. ^v9
+**9** Os comandantes de cem obedeceram a tudo o que Joiada, o sacerdote, havia ordenado: cada um tomou seus homens, aqueles que serviriam no sábado e aqueles que deixariam de servir no sábado; e vieram a Joiada, o sacerdote. ^v9
 
-**10** E o sacerdote deu aos centuriões as lanças e os escudos que haviam sido do rei Davi, que estavam na casa do Senhor. ^v10
+**10** Então, o sacerdote Joiada entregou aos comandantes de cem as lanças e os escudos que pertenceram ao rei Davi e que estavam no templo de Yahweh. ^v10
 
-**11** E os da guarda se puseram, cada um com as armas na mão, desde o lado direito da casa até ao lado esquerdo da casa, do lado do altar, e do lado da casa, em redor do rei. ^v11
+**11** Dessa forma, os guardas se levantaram, cada homem com sua arma na mão, desde o lado direito do templo até o lado esquerdo, próximo ao altar e ao templo, ficando em volta do rei. ^v11
 
-**12** Então Joiada fez sair o filho do rei, e lhe pôs a coroa, e lhe deu o testemunho; e o fizeram rei, e o ungiram, e bateram as palmas, e disseram: Viva o rei! ^v12
+**12** "Então, Joiada trouxe o filho do rei, Joás, colocou-lhe a coroa e deu-lhe os decretos da Aliança. Eles o fizeram rei e o ungiram. Eles bateram palmas e disseram: ""Vida longa ao rei!""." ^v12
 
-**13** E Atalia, ouvindo a voz dos da guarda e do povo, foi ter com o povo, na casa do Senhor. ^v13
+**13** Quando Atalia ouviu o barulho da guarda e do povo, ela veio até o povo na casa de Yahweh. ^v13
 
-**14** E olhou, e eis que o rei estava junto à coluna, conforme o costume, e os príncipes e os trombeteiros junto ao rei, e todo o povo da terra estava alegre e tocava as trombetas; então Atalia rasgou as suas vestes, e clamou: Traição! Traição! ^v14
+**14** "Ela olhou e eis que o rei estava de pé junto à coluna, como era de costume, e os capitães e os trombeteiros estavam ao lado do rei. Todo o povo da terra regozijava-se e tocava trombetas. Então, Atalia rasgou suas vestes e gritou: ""Traição! Traição!""." ^v14
 
-**15** Porém o sacerdote Joiada deu ordem aos centuriões que comandavam as tropas, dizendo-lhes: Tirai-a para fora das fileiras, e a quem a seguir matai-o à espada. Porque o sacerdote disse: Não a matem na casa do Senhor. ^v15
+**15** "Assim, Joiada, o sacerdote, ordenou aos comandantes de cem que estavam sobre o exército; ele lhes disse: ""Levai-a para fora das fileiras. Matai à espada os que a seguirem"". Pois o sacerdote havia dito: ""Não a mateis na casa de Yahweh""." ^v15
 
-**16** E lançaram mão dela; e ela foi, pelo caminho da entrada dos cavalos, à casa do rei, e ali a mataram. ^v16
+**16** Então, eles a agarraram quando ela chegou ao local onde os cavalos entram no palácio, e ali foi morta. ^v16
 
-**17** E Joiada fez uma aliança entre o Senhor e o rei e o povo, para que fosse o povo do Senhor; como também entre o rei e o povo. ^v17
+**17** Dessa forma, Joiada fez uma aliança entre Yahweh, o rei e o povo, segundo a qual eles deveriam ser o povo de Yahweh; e também uma aliança entre o rei e o povo. ^v17
 
-**18** Então todo o povo da terra entrou na casa de Baal, e a derrubaram, como também os seus altares, e as suas imagens, totalmente quebraram, e a Matã, sacerdote de Baal, mataram diante dos altares; então o sacerdote pôs oficiais sobre a casa do Senhor. ^v18
+**18** Então, todo o povo da terra foi à casa de Baal e a derrubou. Eles demoliram os altares de Baal, despedaçaram suas imagens e mataram Matã, sacerdote de Baal, em frente aqueles altares. Então, o sacerdote Joiada designou guardas sobre o templo de Yahweh. ^v18
 
-**19** E tomou os centuriões, e os capitães, e os da guarda, e todo o povo da terra; e conduziram da casa do Senhor, o rei, e foram, pelo caminho da porta dos da guarda, à casa do rei, e ele se assentou no trono dos reis. ^v19
+**19** Joiada pegou os comandantes de cem, os cários, a guarda e todo o povo da terra. E juntos levaram o rei do templo de Yahweh, pelo caminho dos portões da guarda, até o palácio do rei. Então, Joás sentou no trono real. ^v19
 
-**20** E todo o povo da terra se alegrou, e a cidade repousou, depois que mataram a Atalia, à espada, junto à casa do rei, ^v20
+**20** E todo o povo da terra se regozijou, e a cidade ficou tranquila depois de Atalia ter sido morta com a espada no palácio do rei. ^v20
 
-**21** Era Joás da idade de sete anos quando o fizeram rei. ^v21
+**21** Joás tinha sete anos de idade quando ele começou a reinar. ^v21

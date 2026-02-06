@@ -1,69 +1,68 @@
 ---
-Livro: "[[1 Reis|1 Reis]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/1 Reis|1 Reis]]"
+tags: [biblia]
 ---
 
 # 1 Reis 14
 
-**1** Naquele tempo adoeceu Abias, filho de Jeroboão. ^v1
+**1** Naquele tempo Abias, filho de Jeroboão, ficou muito doente. ^v1
 
-**2** E disse Jeroboão à sua mulher: Levanta-te agora, e disfarça-te, para que não conheçam que és mulher de Jeroboão; e vai a Siló. Eis que lá está o profeta Aías, o qual falou de mim, que eu seria rei sobre este povo. ^v2
+**2** "Jeroboão disse para sua esposa: ""Por favor, levanta-te e disfarça-te, para que não sejas reconhecida como minha esposa, e vá a Siló, porque o profeta Aías está lá; ele disse a meu respeito, dizendo que eu seria rei sobre este povo." ^v2
 
-**3** E leva contigo dez pães, e bolos, e uma botija de mel, e vai a ele; ele te declarará o que há de suceder a este menino. ^v3
+**3** "Leva contigo dez pães, alguns bolos e uma vasilha de mel e vai até Aías. Ele dirá o que acontecerá com a criança""." ^v3
 
-**4** E a mulher de Jeroboão assim fez, e se levantou, e foi a Siló, e entrou na casa de Aías; e já Aías não podia ver, porque os seus olhos estavam já escurecidos por causa da sua velhice. ^v4
+**4** A esposa de Jeroboão fez isso; ela levantou e foi para Siló e entrou na casa de Aías. Entretanto Aías não enxergava; ele perdeu a visão devido a sua idade. ^v4
 
-**5** Porém o Senhor disse a Aías: Eis que a mulher de Jeroboão vem consultar-te sobre seu filho, porque está doente; assim e assim lhe falarás; porque há de ser que, entrando ela, fingirá ser outra. ^v5
+**5** "Yahweh disse para Aías: ""Vê, a mulher de Jeroboão está vindo para consultar-te sobre o filho dela que está doente. Tu lhe falarás assim e assim, porque, quando ela entrar, fingirá ser outra mulher""." ^v5
 
-**6** E sucedeu que, ouvindo Aías o ruído de seus pés, entrando ela pela porta, disse-lhe ele: Entra, mulher de Jeroboão; por que te disfarças assim? Pois eu sou enviado a ti com duras novas. ^v6
+**6** "Quando Aías ouviu o som dos passos dela entrando pela porta, ele disse: ""Entre, mulher de Jeroboão. Por que finges ser outra pessoa que não és? Eu fui enviado a ti com más notícias." ^v6
 
-**7** Vai, dize a Jeroboão: Assim diz o Senhor Deus de Israel: Porquanto te levantei do meio do povo, e te pus por príncipe sobre o meu povo de Israel, ^v7
+**7** Vai, dize a Jeroboão que Yahweh, o Deus de Israel, diz: 'Eu te exaltei entre o povo e te constituí líder sobre o Meu povo, Israel. ^v7
 
-**8** E rasguei o reino da casa de Davi, e o dei a ti, e tu não foste como o meu servo Davi, que guardou os meus mandamentos e que andou após mim com todo o seu coração para fazer somente o que era reto aos meus olhos, ^v8
+**8** E resgatei o reino da família de Davi e o dei a ti, mas tu não tens sido como Meu servo Davi, que guardou os Meus mandamentos e Me seguiu de todo o coração, para fazer somente o que era reto aos Meus olhos. ^v8
 
-**9** Antes tu fizeste o mal, pior do que todos os que foram antes de ti; e foste, e fizeste outros deuses e imagens de fundição, para provocar-me à ira, e me lançaste para trás das tuas costas; ^v9
+**9** Em vez disso, tens feito o mal, pior do que os que foram antes de ti. Fizeste outros deuses e imagens de fundição para provocar-Me a ira, e Me deste as costas. ^v9
 
-**10** Portanto, eis que trarei mal sobre a casa de Jeroboão; destruirei de Jeroboão todo o homem até ao menino, tanto o escravo como o livre em Israel; e lançarei fora os descendentes da casa de Jeroboão, como se lança fora o esterco, até que de todo se acabe. ^v10
+**10** Por isso, trarei desastre à tua família; exterminarei em Israel todo menino, escravo ou livre, e removerei completamente tua família, como alguém que queima estrume, até que desapareça. ^v10
 
-**11** Quem morrer dos de Jeroboão, na cidade, os cães o comerão, e o que morrer no campo as aves do céu o comerão, porque o Senhor o disse. ^v11
+**11** Qualquer um pertencente a tua família que morrer na cidade será comido pelos cães, e quem morrer no campo, será comido pelos passáros dos céus, porque eu, Yahweh, disse isso'. ^v11
 
-**12** Tu, pois, levanta-te, e vai para tua casa; entrando os teus pés na cidade, o menino morrerá. ^v12
+**12** Então levanta-te, esposa de Jeroboão, e volta para tua casa; quando os teus pés entrarem na cidade, a criança morrerá. ^v12
 
-**13** E todo o Israel o pranteará, e o sepultará; porque de Jeroboão só este entrará em sepultura, porquanto se achou nele coisa boa para com o Senhor Deus de Israel em casa de Jeroboão. ^v13
+**13** Todo o Israel chorará por ele, e o sepultará. Ele é o único da família de Jeroboão que será sepultado, porque, somente nele, da casa de Jeroboão, foi encontrada alguma coisa boa aos olhos de Yahweh, o Deus de Israel. ^v13
 
-**14** O Senhor, porém, levantará para si um rei sobre Israel, que destruirá a casa de Jeroboão no mesmo dia. Que digo eu? Há de ser já. ^v14
+**14** Também Yahweh levantará um rei de Israel, que destruirá a família de Jeroboão, nesse dia. Hoje é este dia, agora mesmo. ^v14
 
-**15** Também o Senhor ferirá a Israel como se agita a cana nas águas; e arrancará a Israel desta boa terra que tinha dado a seus pais, e o espalhará para além do rio; porquanto fizeram os seus ídolos, provocando o Senhor à ira. ^v15
+**15** Porque Yahweh atacará Israel, como se agita a cana nas águas, e Ele arrancará Israel desta boa terra, que deu a seus antepassados. Ele lhes espalhará além do rio Eufrates, pois, eles fizeram postes para Asterote, e provocaram a ira de Yahweh. ^v15
 
-**16** E entregará a Israel por causa dos pecados de Jeroboão, o qual pecou, e fez pecar a Israel. ^v16
+**16** "Ele abandonará Israel por causa dos pecados de Jeroboão; os pecados que ele tem cometido, e, através dos quais ele conduziu Israel a pecar""." ^v16
 
-**17** Então a mulher de Jeroboão se levantou, e foi, e chegou a Tirza; chegando ela ao limiar da porta, morreu o menino. ^v17
+**17** Então a esposa de Jeroboão levantou-se e partiu, e foi para Tirza. Assim que chegou à entrada da sua casa, o menino morreu. ^v17
 
-**18** E o sepultaram, e todo o Israel o pranteou, conforme a palavra do Senhor, a qual dissera pelo ministério de seu servo Aías, o profeta. ^v18
+**18** Todo o Israel o enterrou e chorou por ele, conforme a palavra de Yahweh, a qual ele falou por meio de seu servo Aías, o profeta. ^v18
 
-**19** Quanto ao mais dos atos de Jeroboão, como guerreou, e como reinou, eis que está escrito no livro das crônicas dos reis de Israel. ^v19
+**19** Quanto aos demais assuntos concernentes a Jeroboão, como ele guerreou e como ele reinou, estão escritos no livro da história dos reis de Israel. ^v19
 
-**20** E foram os dias que Jeroboão reinou vinte e dois anos; e dormiu com seus pais; e Nadabe, seu filho, reinou em seu lugar. ^v20
+**20** Jeroboão reinou vinte e dois anos, e, depois, dormiu com seus antepassados, e Nadabe seu filho se tornou rei no seu lugar. ^v20
 
-**21** E Roboão, filho de Salomão, reinava em Judá; de quarenta e um anos de idade era Roboão quando começou a reinar, e dezessete anos reinou em Jerusalém, na cidade que o Senhor escolhera de todas as tribos de Israel para pôr ali o seu nome; e era o nome de sua mãe Naamá, amonita. ^v21
+**21** Então Roboão, filho de Salomão, reinou em Judá. Roboão tinha quarenta e um anos quando se tornou rei, e ele reinou dezessete anos em Jerusalém, a cidade que Yahweh escolheu, de todas as tribos de Israel, para colocar Seu nome. Sua mãe era Amonita e se chamava Naamá. ^v21
 
-**22** E fez Judá o que era mau aos olhos do Senhor; e com os seus pecados que cometeram, provocaram-no a zelos, mais do que todos os seus pais fizeram. ^v22
+**22** Judá fez o que era mau aos olhos de Yahweh; e, pelos pecados que cometeram, provocaram Seu ciúmes, mais do que fizeram os seus pais. ^v22
 
-**23** Porque também eles edificaram altos, e estátuas, e imagens de Aserá sobre todo o alto outeiro e debaixo de toda a árvore verde. ^v23
+**23** Pois também edificaram, por si mesmos, lugares altos, pilares de pedra e postes de Astarote, sobre toda colina alta e debaixo de toda árvore verde. ^v23
 
-**24** Havia também sodomitas na terra; fizeram conforme a todas as abominações dos povos que o Senhor tinha expulsado de diante dos filhos de Israel. ^v24
+**24** Existiam também prostitutas cultuais na terra. Eles fizeram as mesmas práticas abomináveis, como as outras nações, as quais Yahweh havia expulsado diante do povo de Israel. ^v24
 
-**25** Ora, sucedeu que, no quinto ano do rei Roboão, Sisaque, rei do Egito, subiu contra Jerusalém, ^v25
+**25** No quinto ano do rei Roboão, Sisaque, rei do Egito, veio contra Jerusalém. ^v25
 
-**26** E tomou os tesouros da casa do Senhor e os tesouros da casa do rei; e levou tudo. Também tomou todos os escudos de ouro que Salomão tinha feito. ^v26
+**26** Ele levou embora as riquezas da casa de Yahweh, e as riquezas da casa do rei. Ele levou todas as coisas embora; ele também levou todos os escudos de ouro, que Salomão tinha feito. ^v26
 
-**27** E em lugar deles fez o rei Roboão escudos de cobre, e os entregou nas mãos dos chefes da guarda que guardavam a porta da casa do rei. ^v27
+**27** O rei Roboão fez escudos de bronze no lugar deles, e os entregou nas mãos dos comandantes da guarda que vigiavam as portas da casa do rei. ^v27
 
-**28** E todas as vezes que o rei entrava na casa do Senhor, os da guarda os levavam, e depois os tornavam à câmara da guarda. ^v28
+**28** A partir de então, quando o rei entrava na casa de Yahweh, os guardas levavam os escudos; depois os devolviam para dentro da sala da guarda. ^v28
 
-**29** Quanto ao mais dos atos de Roboão, e a tudo quanto fez, porventura não está escrito no livro das crônicas dos reis de Judá? ^v29
+**29** Quanto aos demais assuntos referentes a Roboão, e de tudo que ele fez, não estão escritos no livro dos eventos dos reis de Judá? ^v29
 
-**30** E houve guerra entre Roboão e Jeroboão todos os seus dias. ^v30
+**30** Houve guerra constante entre Roboão e Jeroboão. ^v30
 
-**31** E Roboão dormiu com seus pais, e foi sepultado com seus pais na cidade de Davi; e era o nome de sua mãe Naamá, amonita; e Abias, seu filho, reinou em seu lugar. ^v31
+**31** Então Roboão dormiu com seus antepassados e foi sepultado com eles, na cidade de Davi. O nome da sua mãe era Naamá, a amonita. Abias, seu filho, reinou em seu lugar. ^v31

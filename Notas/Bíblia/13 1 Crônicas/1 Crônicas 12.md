@@ -1,28 +1,27 @@
 ---
-Livro: "[[1 Crônicas|1 Crônicas]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/1 Crônicas|1 Crônicas]]"
+tags: [biblia]
 ---
 
 # 1 Crônicas 12
 
-**1** Estes, porém, são os que vieram a Davi, a Ziclague, estando ele ainda escondido, por causa de Saul, filho de Quis; e eram dos valentes que o ajudaram na guerra. ^v1
+**1** Estes foram os homens que vieram a Davi em Zicagle, enquanto ele ainda estava fugindo da presença de Saul, filho de Quis. Eles estavam entre os soldados, seus ajudantes na batalha; ^v1
 
-**2** Estavam armados de arco, e usavam tanto da mão direita como da esquerda em atirar pedras e em atirar flechas com o arco; eram dos irmãos de Saul, benjamitas. ^v2
+**2** estavam armados com arcos e usavam tanto a mão direita quanto a esquerda para atirar pedras com fundas e flechas com os arcos. Eram benjamitas, companheiros da tribo de Saul. ^v2
 
-**3** Aiezer, o chefe, e Joás, filho de Semaa, o gibeatita, e Jeziel e Pelete, filhos de Azmavete; e Beraca, e Jeú, o anatotita, ^v3
+**3** Aizer, o chefe, e Joás eram filhos de Semaá, o gibeatita. Havia Jeziel e Pelete, filhos de Azmavete. Havia também Beraca e Jéu, o anatotita; ^v3
 
-**4** E Ismaías, o gibeonita, valente entre os trinta, líder deles; e Jeremias, e Jaaziel, e Joanã, e Jozabade, o gederatita, ^v4
+**4** Ismaías, o gibeonita, soldado entre os trinta e, no comando dos trinta, Jeremias, Jaaziel, Joanã, Jozabade, o gederatita; ^v4
 
-**5** Eluzai, e Jerimote, e Bealias, e Samarias, e Sefatias, o harufita, ^v5
+**5** Eluzai, Jerimote, Bealias, Semarias e Sefatias, o harufita, ^v5
 
-**6** Elcana, Issias, Azarel, Joezer, e Jasobeão, os coraítas, ^v6
+**6** os coraítas Elcana, Issias, Azarel, Joezer e Jasobeão, ^v6
 
-**7** E Joela, e Zabadias, filhos de Jeroão de Gedor. ^v7
+**7** e Joela e Zebadias, filhos de Jeroão de Gedor. ^v7
 
-**8** E dos gaditas se desertaram para Davi, ao lugar forte no deserto, valentes, homens de guerra para pelejar, armados com escudo e lança; e seus rostos eram como rostos de leões, e ligeiros como corças sobre os montes: ^v8
+**8** Alguns gaditas se juntaram a Davi na fortaleza do deserto. Eles eram homens de guerra, treinados para a batalha, que sabiam usar escudo e lança; suas faces eram ferozes como as faces de leões. Eles eram ágeis como gazelas das montanhas. ^v8
 
-**9** Ezer, o primeiro; Obadias, o segundo; Eliabe, o terceiro; ^v9
+**9** Havia Ézer, o líder; Obadias, o segundo; Eliabe o terceiro; ^v9
 
 **10** Mismana, o quarto; Jeremias, o quinto; ^v10
 
@@ -30,58 +29,58 @@ tags:
 
 **12** Joanã, o oitavo; Elzabade, o nono; ^v12
 
-**13** Jeremias, o décimo; Macbanai, o undécimo; ^v13
+**13** Jeremias, o décimo; Macbanai, o décimo primeiro. ^v13
 
-**14** Estes, dos filhos de Gade, foram os capitães do exército; o menor tinha o encargo de cem homens e o maior de mil. ^v14
+**14** Esses filhos de Gade foram os líderes do exército; o menor conduzia cem, e o maior conduzia mil. ^v14
 
-**15** Estes são os que passaram o Jordão no primeiro mês, quando ele transbordava por todas as suas ribanceiras, e fizeram fugir a todos os dos vales ao oriente e ao ocidente. ^v15
+**15** Eles atravessaram o Jordão no primeiro mês, quando transbordava pelas margens, e afugentaram todos os que moravam nos vales, tanto na direção leste quanto na direção oeste. ^v15
 
-**16** Também alguns dos filhos de Benjamim e de Judá vieram a Davi, ao lugar forte. ^v16
+**16** Alguns dos homens de Benjamim e Judá vieram para a fortaleza de Davi. ^v16
 
-**17** E Davi lhes saiu ao encontro, e lhes falou, dizendo: Se vós vindes a mim pacificamente e para me ajudar, o meu coração se unirá convosco; porém, se é para me entregar aos meus inimigos, sem que haja deslealdade nas minhas mãos, o Deus de nossos pais o veja e o repreenda. ^v17
+**17** "Davi foi ao encontro deles e lhes disse: ""Se viestes em paz para me ajudar, podeis vos juntar a mim; mas, se viestes para me entregar para meus adversários, que o Deus de nossos antepassados veja e vos repreenda, já que eu não fiz nada errado""." ^v17
 
-**18** Então veio o espírito sobre Amasai, chefe de trinta, e disse: Nós somos teus, ó Davi, e contigo estamos, ó filho de Jessé! Paz, paz contigo, e paz com quem te ajuda, pois que teu Deus te ajuda. E Davi os recebeu, e os fez capitães das tropas. ^v18
+**18** "Então, o Espírito veio sobre Amasai, que era o chefe dos trinta. Amasai disse: ""Nós somos teus, Davi. Estamos do teu lado, filho de Jessé. Paz! Que a paz esteja com quem quer que te ajudar. Que a paz esteja com teus ajudantes, porque o teu Deus está te ajudando"". Então, Davi os recebeu e os fez comandantes sobre seus homens." ^v18
 
-**19** Também de Manassés alguns passaram para Davi, quando veio com os filisteus para a batalha contra Saul; todavia Davi não os ajudou, porque os príncipes dos filisteus, tendo feito conselho, o despediram, dizendo: À custa de nossas cabeças passará a Saul, seu senhor. ^v19
+**19** "Alguns de Manassés se uniram a Davi quando ele veio com os filisteus para a batalha contra Saul. Eles não os ajudaram porque os chefes filisteus se consultaram entre si e mandaram Davi embora. Eles disseram: ""Ele irá se unir a Saul, colocando em risco nossas vidas""." ^v19
 
-**20** Voltando ele, pois, a Ziclague, passaram-se para ele, de Manassés, Adna, Jozabade, Jediael, Micael, Jozabade, Eliú, e Ziletai, capitães de milhares dos de Manassés. ^v20
+**20** Quando ele foi a Ziclague, os homens de Manassés que se juntaram a ele foram Adna, Jozabade, Jediael, Micael, Jozabade, Eliú e Ziletai, capitães de milhares de Manassés. ^v20
 
-**21** E estes ajudaram a Davi contra aquela tropa, porque todos eles eram heróis poderosos, e foram capitães no exército. ^v21
+**21** Eles ajudaram Davi a lutar contra os saqueadores, pois eram homens de guerra. Mais tarde, eles se tornaram comandantes no exército. ^v21
 
-**22** Porque naquele tempo, dia após dia, vinham a Davi para o ajudar, até que se fez um grande exército, como o exército de Deus. ^v22
+**22** Dia após dia, chegavam homens para ajudar Davi, até que se formou um grande exército, como o exército de Deus. ^v22
 
-**23** Ora este é o número dos chefes armados para a peleja, que vieram a Davi em Hebrom, para transferir a ele o reino de Saul, conforme a palavra do Senhor. ^v23
+**23** Este é o registro dos soldados armados para batalha, que vieram a Davi, em Hebrom, para passar o reino de Saul para ele, de acordo com a promessa de Yahweh. ^v23
 
-**24** Dos filhos de Judá, que traziam escudo e lança, seis mil e oitocentos, armados para a peleja; ^v24
+**24** De Judá, aqueles que carregavam escudo e lança eram seis mil e oitocentos armados para a guerra. ^v24
 
-**25** Dos filhos de Simeão, homens poderosos para pelejar, sete mil e cem; ^v25
+**25** Dos simeonitas, eram sete mil e cem homens de guerra. ^v25
 
-**26** Dos filhos de Levi, quatro mil e seiscentos. ^v26
+**26** Dos levitas, eram quatro mil e seiscentos soldados. ^v26
 
-**27** Joiada, que era o líder dos de Arão, e com ele três mil e setecentos. ^v27
+**27** Joiada era o líder dos descendentes de Arão, e com ele havia três mil e setecentos. ^v27
 
-**28** E Zadoque, sendo ainda jovem, homem poderoso, com vinte e dois capitães da família de seu pai; ^v28
+**28** Com Zadoque, um homem jovem, forte e corajoso, estavam vinte e dois líderes da familia de seu pai. ^v28
 
-**29** E dos filhos de Benjamim, irmãos de Saul, três mil; porque até então havia ainda muitos deles que eram pela casa de Saul. ^v29
+**29** De Benjamim, tribo de Saul, havia três mil. A maioria deles se manteve fiel a Saul até esse momento. ^v29
 
-**30** E dos filhos de Efraim, vinte mil e oitocentos homens poderosos, homens de nome nas casas de seus pais. ^v30
+**30** De Efraim, havia vinte mil e oitocentos soldados, homens famosos na família de seus pais. ^v30
 
-**31** E da meia tribo de Manassés, dezoito mil, que foram apontados pelos seus nomes para virem fazer rei a Davi. ^v31
+**31** Da meia tribo de Manassés, havia dezoito mil homens famosos, que vieram para tornar Davi rei. ^v31
 
-**32** E dos filhos de Issacar, duzentos de seus chefes, destros na ciência dos tempos, para saberem o que Israel devia fazer, e todos os seus irmãos seguiam suas ordens. ^v32
+**32** De Issacar, eram duzentos líderes, conhecedores do tempo e que sabiam o que Israel devia fazer. Todos os seus parentes estavam sob seu comando. ^v32
 
-**33** De Zebulom, dos que podiam sair no exército, cinqüenta mil ordenados para a peleja com todas as armas de guerra; como também destros para ordenarem uma batalha, e não eram de coração dobre. ^v33
+**33** De Zebulom, eram cinquenta mil soldados preparados para a batalha, com todas as armas de guerra, e prontos para demonstrar sua total lealdade. ^v33
 
-**34** E de Naftali, mil capitães, e com eles trinta e sete mil com escudo e lança. ^v34
+**34** De Naftali, havia mil oficiais, e, com eles, trinta e sete mil homens com escudos e lanças. ^v34
 
-**35** E dos danitas, ordenados para a peleja, vinte e oito mil e seiscentos. ^v35
+**35** De Dã, havia vinte e oito mil homens preparados para a batalha. ^v35
 
-**36** E de Aser, dos que podiam sair no exército, para ordenarem a batalha, quarenta mil. ^v36
+**36** De Aser, havia quarenta mil homens preparados para a batalha. ^v36
 
-**37** E do outro lado do Jordão, dos rubenitas e gaditas, e da meia tribo de Manassés, com toda a sorte de instrumentos de guerra para pelejar, cento e vinte mil. ^v37
+**37** Vindo do outro lado do Jordão, dos rubenitas, gaditas e da meia tribo de Manassés, havia cento e vinte mil homens portando todo tipo de armas para a batalha. ^v37
 
-**38** Todos estes homens de guerra, postos em ordem de batalha, vieram a Hebrom, com corações decididos, para constituírem a Davi rei sobre todo o Israel; e também todo o restante de Israel tinha o mesmo coração para constituir a Davi rei. ^v38
+**38** Todos estes soldados, equipados para a batalha, vieram de Hebrom com a intenção de tornar Davi rei de todo o Israel. O restante de Israel também estava de acordo em tornar Davi rei. ^v38
 
-**39** E estiveram ali com Davi três dias, comendo e bebendo; porque seus irmãos lhes tinham preparado as provisões. ^v39
+**39** Eles estiveram com Davi por três dias, comendo e bebendo, pois seus parentes haviam enviado provisões. ^v39
 
-**40** E também seus vizinhos de mais perto, até Issacar, e Zebulom, e Naftali, trouxeram, sobre jumentos, e sobre camelos, e sobre mulos, e sobre bois, pão, provisões de farinha, pastas de figos e cachos de passas, e vinho, e azeite, e bois, gado miúdo em abundância; porque havia alegria em Israel. ^v40
+**40** Também, os que estavam próximos a eles, e os que estavam longe, como em Issacar, Zebulom e Naftali, trouxeram pães em jumentos, camelos, mulas e bois; bolos de figos, cachos de uvas passas, vinho, óleo, bois e ovelhas, pois Israel estava celebrando. ^v40

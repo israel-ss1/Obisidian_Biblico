@@ -1,117 +1,116 @@
 ---
-Livro: "[[Levítico|Levítico]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Levítico|Levítico]]"
+tags: [biblia]
 ---
 
 # Levítico 25
 
-**1** Falou mais o SENHOR a Moisés no monte Sinai, dizendo: ^v1
+**1** Yahweh falou a Moisés no Monte Sinai, dizendo: ^v1
 
-**2** Fala aos filhos de Israel, e dize-lhes: Quando tiverdes entrado na terra, que eu vos dou, então a terra descansará um sábado ao Senhor. ^v2
+**2** """Fala com o povo de Israel e diga a eles: 'Quando entrares na terra que eu vos dou, guardareis um sábado para Yahweh." ^v2
 
-**3** Seis anos semearás a tua terra, e seis anos podarás a tua vinha, e colherás os seus frutos; ^v3
+**3** Vós devereis plantar no campo por seis anos, e por seis anos podareis as vossas vinhas e colhereis os frutos. ^v3
 
-**4** Porém ao sétimo ano haverá sábado de descanso para a terra, um sábado ao Senhor; não semearás o teu campo nem podarás a tua vinha. ^v4
+**4** Mas no sétimo ano, devereis observar um sábado solene de descanso para a terra, um sábado para Yahweh. Não devereis plantar em vosso campo ou podar vossas vinhas. ^v4
 
-**5** O que nascer de si mesmo da tua sega, não colherás, e as uvas da tua separação não vindimarás; ano de descanso será para a terra. ^v5
+**5** Não devereis organizar colheita de qualquer alimento que cresça por si mesma, vós não devereis conduzir colheita organizada de qualquer uva que cresça de vinhas não podadas. Este será um ano de descanso solene para a terra. ^v5
 
-**6** Mas os frutos do sábado da terra vos serão por alimento, a ti, e ao teu servo, e à tua serva, e ao teu diarista, e ao estrangeiro que peregrina contigo; ^v6
+**6** Qualquer fruto que a terra não trabalhada produza durante o ano sabático, será comida para vós. Vós, vossos servos e servas, vossos servos contratados e os estrangeiros que vivem convosco certamente colherão comida. ^v6
 
-**7** E ao teu gado, e aos teus animais, que estão na tua terra, todo o seu produto será por mantimento. ^v7
+**7** E vosso gado, e também os animais silvestres certamente comerão o que quer que a terra há de produzir. ^v7
 
-**8** Também contarás sete semanas de anos, sete vezes sete anos; de maneira que os dias das sete semanas de anos te serão quarenta e nove anos. ^v8
+**8** Vós devereis contar sete sábados do ano, que serão, sete vezes sete anos, então tereis sete sábados de anos, totalizando quarenta e nove anos. ^v8
 
-**9** Então no mês sétimo, aos dez do mês, farás passar a trombeta do jubileu; no dia da expiação fareis passar a trombeta por toda a vossa terra, ^v9
+**9** Então farás soar uma alta trombeta em todo lugar no décimo dia do sétimo ano. No Dia da Expiação certamente tocarás a trombeta por toda a tua terra. ^v9
 
-**10** E santificareis o ano qüinquagésimo, e apregoareis liberdade na terra a todos os seus moradores; ano de jubileu vos será, e tornareis, cada um à sua possessão, e cada um à sua família. ^v10
+**10** Vós devereis dedicar o quinquagésimo ano para Yahweh e proclamareis liberdade entre as terras, e para todos os seus habitantes. Este será um ano jubileu para vós, no qual devolvereis propriedades para vossos donos e retornareis escravos para vossas famílias. ^v10
 
-**11** O ano qüinquagésimo vos será jubileu; não semeareis nem colhereis o que nele nascer de si mesmo, nem nele vindimareis as uvas das separações, ^v11
+**11** O quinquagésimo ano será um jubileu para vós. Não devereis plantar ou conduzir colheita organizada. Comereis qualquer que nascer por si só, e colhereis as uvas que nascerem de vinhas não podadas. ^v11
 
-**12** Porque jubileu é, santo será para vós; a novidade do campo comereis. ^v12
+**12** Pois é o ano jubileu, o qual será santo para vós. Comereis do campo o que crescer por si só. ^v12
 
-**13** Neste ano do jubileu tornareis cada um à sua possessão. ^v13
+**13** Devolvereis a todos suas propriedades no ano jubileu. ^v13
 
-**14** E quando venderdes alguma coisa ao vosso próximo, ou a comprardes da mão do vosso próximo, ninguém engane a seu irmão; ^v14
+**14** Se vós venderdes alguma terra a vosso vizinho ou comprardes alguma terra de vosso vizinho, certamente não o enganareis ou trapaceareis uns aos outros. ^v14
 
-**15** Conforme ao número dos anos, desde o jubileu, comprarás ao teu próximo; e conforme o número dos anos das colheitas, ele a venderá a ti. ^v15
+**15** Se vós comprardes terra de vosso vizinho, considereis o número de anos e safras que poderão ser colhidas até o próximo jubileu. Vosso vizinho o qual vende a terra considerará isto também. ^v15
 
-**16** Conforme se multipliquem os anos, aumentarás o seu preço, e conforme à diminuição dos anos abaixarás o seu preço; porque conforme o número das colheitas é que ele te vende. ^v16
+**16** Um grande número de anos até o próximo jubileu aumentará o valor da terra, e um menor número de anos até o próximo jubileu diminuirá o valor da terra, porque o número de colheitas que a terra produzirá para o novo proprietário está relacionado com o número de anos até o próximo jubileu. ^v16
 
-**17** Ninguém, pois, engane ao seu próximo; mas terás temor do teu Deus; porque eu sou o Senhor vosso Deus. ^v17
+**17** Vós não sereis desonestos ou rudes com vosso próximo; pelo contrário, honrarás vosso Deus, pois Eu sou Yahweh, vosso Deus. ^v17
 
-**18** E observareis os meus estatutos, e guardareis os meus juízos, e os cumprireis; assim habitareis seguros na terra. ^v18
+**18** Portanto vós devereis obedecer aos meus decretos, guardareis as Minhas Leis e as levarei adiante. Então vós vivereis na terra em segurança. ^v18
 
-**19** E a terra dará o seu fruto, e comereis a fartar, e nela habitareis seguros. ^v19
+**19** A terra dará frutos, e vós comereis e vos fartareis e ali vivereis em segurança. ^v19
 
-**20** E se disserdes: Que comeremos no ano sétimo? eis que não havemos de semear nem fazer a nossa colheita; ^v20
+**20** "Se vós disserdes: ""O que haveremos de comer durante o sétimo ano? Veja, não podemos plantar ou colher ou produzir.""" ^v20
 
-**21** Então eu mandarei a minha bênção sobre vós no sexto ano, para que dê fruto por três anos, ^v21
+**21** Eu vos ordenarei minha bênção sobre vós no sexto ano, e este ano produzirá safra suficiente para três anos. ^v21
 
-**22** E no oitavo ano semeareis, e comereis da colheita velha até ao ano nono; até que venha a nova colheita, comereis a velha. ^v22
+**22** Vós plantareis no oitavo ano e continuareis a comer a colheita do ano anterior e estocareis a comida. Até a próxima colheita do nono ano, podereis comer os mantimentos guardados do ano anterior. ^v22
 
-**23** Também a terra não se venderá em perpetuidade, porque a terra é minha; pois vós sois estrangeiros e peregrinos comigo. ^v23
+**23** Não vendereis a terra para um novo dono permanente, porque a terra é Minha. Vós todos sois estrangeiros e residentes temporários em Minha terra. ^v23
 
-**24** Portanto em toda a terra da vossa possessão dareis resgate à terra. ^v24
+**24** Vós deveis observar o direito de resgate para todas as terras que adquirirdes; devereis permitir que as terras sejam compradas de volta pela família da qual vós comprardes. ^v24
 
-**25** Quando teu irmão empobrecer e vender alguma parte da sua possessão, então virá o seu resgatador, seu parente, e resgatará o que vendeu seu irmão. ^v25
+**25** Se vosso irmão israelita vier a ficar pobre e por esta razão lhe vender alguma propriedade sua, então seu parente mais próximo deverá vir e comprar de volta sua propriedade a que vos foi vendida. ^v25
 
-**26** E se alguém não tiver resgatador, porém conseguir o suficiente para o seu resgate, ^v26
+**26** Se um homem não tiver parentes para resgatar sua propriedade, mas ele prosperou e tem capacidadede para resgatá-la, ^v26
 
-**27** Então contará os anos desde a sua venda, e o que ficar restituirá ao homem a quem a vendeu, e tornará à sua possessão. ^v27
+**27** então ele calculará os anos desde que as terras foram vendidas e pagará o equivalente ao homem a quem vendeu. Então ele certamente voltará a sua propriedade. ^v27
 
-**28** Mas se não conseguir o suficiente para restituir-lha, então a que foi vendida ficará na mão do comprador até ao ano do jubileu; porém no ano do jubileu sairá, e ele tornará à sua possessão. ^v28
+**28** Mas se ele não for capaz de tomar a terra de volta para si, então a terra vendida permanecerá na posse daquele que a comprou até o ano jubileu. No ano jubileu, a terra será devolvida ao homem que a vendeu, e o seu dono original retornará à sua propriedade. ^v28
 
-**29** E, quando alguém vender uma casa de moradia em cidade murada, então poderá resgatá-la até que se cumpra o ano da sua venda; durante um ano inteiro será lícito o seu resgate. ^v29
+**29** Se um homem vender uma casa em uma cidade murada, então ele poderá comprá-la de volta dentro de um ano após ser vendida. Por um ano inteiro ele terá o direito de resgatá-la. ^v29
 
-**30** Mas, se, cumprindo-se-lhe um ano inteiro, ainda não for resgatada, então a casa, que estiver na cidade que tem muro, em perpetuidade ficará ao que a comprou, pelas suas gerações; não sairá no jubileu. ^v30
+**30** Se a casa não for resgatada dentro de um ano inteiro, então a casa na cidade murada se tornará propriedade permanente do homem que a comprou, por toda geração de seus descendente. Esta casa não será devolvida no ano jubileu. ^v30
 
-**31** Mas as casas das aldeias que não têm muro ao redor, serão estimadas como o campo da terra; para elas haverá resgate, e sairão no jubileu. ^v31
+**31** Mas as casas das vilas que não tiverem muros ao redor serão propriedades ligadas aos campos do país. Elas poderão ser compradas de volta, e deverão ser devolvidas durante o jubileu. ^v31
 
-**32** Mas, no tocante às cidades dos levitas, às casas das cidades da sua possessão, direito perpétuo de resgate terão os levitas. ^v32
+**32** Entretanto, as casas pertencentes aos levitas em suas cidades poderão ser resgatadas a qualquer hora. ^v32
 
-**33** E se alguém comprar dos levitas, uma casa, a casa comprada e a cidade da sua possessão sairão do poder do comprador no jubileu; porque as casas das cidades dos levitas são a sua possessão no meio dos filhos de Israel. ^v33
+**33** Se algum dos levitas não resgatar a casa que ele vendeu, então a casa vendida, na cidade onde certamente está localizada, será devolvida no jubileu, pois as casas das cidades dos levitas são suas propriedades entre o povo de Israel. ^v33
 
-**34** Mas o campo do arrabalde das suas cidades não se venderá, porque lhes é possessão perpétua. ^v34
+**34** Mas os campos em volta das cidades não poderão ser vendidos porque eles são propriedades permanentes dos levitas. ^v34
 
-**35** E, quando teu irmão empobrecer, e as suas forças decaírem, então sustentá-lo-ás, como estrangeiro e peregrino viverá contigo. ^v35
+**35** Se o vosso compatriota se empobrecer a ponto de não poder se sustentar, então devereis ajudá-lo como ajudarias um estrangeiro ou qualquer outro estranho vivendo entre vós. ^v35
 
-**36** Não tomarás dele juros, nem ganho; mas do teu Deus terás temor, para que teu irmão viva contigo. ^v36
+**36** Não cobrareis juros nem tentareis obter lucro por meio dele de maneira alguma, mas honrareis vosso Deus e vosso irmão continuará vivendo convosco. ^v36
 
-**37** Não lhe darás teu dinheiro com usura, nem darás do teu alimento por interesse. ^v37
+**37** Não empresteis dinheiro a ele com juros, nem vendais vossa comida visando ganhos. ^v37
 
-**38** Eu sou o Senhor vosso Deus, que vos tirei da terra do Egito, para vos dar a terra de Canaã, para ser vosso Deus. ^v38
+**38** Eu sou Yahweh vosso Deus, quem vos tirou do Egito, para vos dar a terra de Canaã, para ser o vosso Deus. ^v38
 
-**39** Quando também teu irmão empobrecer, estando ele contigo, e vender-se a ti, não o farás servir como escravo. ^v39
+**39** Se vosso compatriota vier a empobrecer e se vender para vós, não devereis tratá-lo como escravo. O tratareis como servo contratado. ^v39
 
-**40** Como diarista, como peregrino estará contigo; até ao ano do jubileu te servirá; ^v40
+**40** Ele será como alguém que vive temporariamente convosco. Ele servirá convosco até o ano jubileu. ^v40
 
-**41** Então sairá do teu serviço, ele e seus filhos com ele, e tornará à sua família e à possessão de seus pais. ^v41
+**41** Então ele vos deixará, ele e suas crianças com ele, e ele retornará para sua própria família e para a propriedade de seus pais. ^v41
 
-**42** Porque são meus servos, que tirei da terra do Egito; não serão vendidos como se vendem os escravos. ^v42
+**42** Pois eles são Meus servos os quais os trouxe para fora da terra do Egito. Eles não serão vendidos como escravos. ^v42
 
-**43** Não te assenhorearás dele com rigor, mas do teu Deus terás temor. ^v43
+**43** Não dominareis severamente sobre eles, mas certamente honrareis vosso Deus. ^v43
 
-**44** E quanto a teu escravo ou a tua escrava que tiveres, serão das nações que estão ao redor de vós; deles comprareis escravos e escravas. ^v44
+**44** Quanto aos vossos escravos e vossas escravas, podereis obtê-los das nações que vivem a vossa volta, certamente comprareis dos que tiverem ao vosso redor. ^v44
 
-**45** Também os comprareis dos filhos dos forasteiros que peregrinam entre vós, deles e das suas famílias que estiverem convosco, que tiverem gerado na vossa terra; e vos serão por possessão. ^v45
+**45** Vós também podereis comprar escravos de estrangeiros que estão vivendo dentre vós, isto é, de suas famílias que estão no meio de vós, crianças que nasceram em vossas terras. Elas se tornarão vossa propriedade. ^v45
 
-**46** E possuí-los-eis por herança para vossos filhos depois de vós, para herdarem a possessão; perpetuamente os fareis servir; mas sobre vossos irmãos, os filhos de Israel, não vos assenhoreareis com rigor, uns sobre os outros. ^v46
+**46** Devereis providenciar escravos como herança para vossas crianças depois de vós, para manter como propriedade. Destes, sempre tomareis vossos escravos, mas não dominareis severamente sobre vossos irmãos dentre o povo de Israel. ^v46
 
-**47** E se o estrangeiro ou peregrino que está contigo alcançar riqueza, e teu irmão, que está com ele, empobrecer, e vender-se ao estrangeiro ou peregrino que está contigo, ou a alguém da família do estrangeiro, ^v47
+**47** Se um estrangeiro ou alguém que vive temporariamente convosco se tornar rico, e um dos vossos irmãos israelitas se tornar pobre e vender a si mesmo para este estrangeiro, ou para alguém da família do estrangeiro, ^v47
 
-**48** Depois que se houver vendido, haverá resgate para ele; um de seus irmãos o poderá resgatar; ^v48
+**48** depois de vosso irmão israelita ter sido comprado, ele poderá ser comprado de volta. Alguém de sua família poderá resgatá-lo. ^v48
 
-**49** Ou seu tio, ou o filho de seu tio o poderá resgatar; ou um dos seus parentes, da sua família, o poderá resgatar; ou, se alcançar riqueza, se resgatará a si mesmo. ^v49
+**49** Poderá ser seu tio, ou o filho de seu tio, a resgatá-lo ou qualquer outro parente que seja próximo a sua família. Ou se tiver se tornado próspero poderá resgatar a si mesmo. ^v49
 
-**50** E acertará com aquele que o comprou, desde o ano que se vendeu a ele até ao ano do jubileu, e o preço da sua venda será conforme o número dos anos; conforme os dias de um diarista estará com ele. ^v50
+**50** Ele terá que negociar com o homem que o comprou; eles devem contar os anos desde o ano em que ele se vendeu para seu senhor até o ano jubileu. O preço de sua redenção se baseará no preço de um servo contratado, pelo número de anos que ele trabalharia para aquele que o comprou. ^v50
 
-**51** Se ainda faltarem muitos anos, conforme a eles restituirá, para seu resgate, parte do dinheiro pelo qual foi vendido, ^v51
+**51** Se faltarem muitos anos até o jubileu, ele deve pagar como preço por sua redenção a quantia proporcional ao número destes anos. ^v51
 
-**52** E se ainda restarem poucos anos até ao ano do jubileu, então fará contas com ele; segundo os seus anos restituirá o seu resgate. ^v52
+**52** Se houver poucos anos para o ano jubileu, então ele deve negociar com seu senhor a quantidade de anos antes do jubileu, e pagará por sua redenção proporcionalmente ao número de anos. ^v52
 
-**53** Como diarista, de ano em ano, estará com ele; não se assenhoreará sobre ele com rigor diante dos teus olhos. ^v53
+**53** Ele deve ser tratado como um homem contratado anualmente. Vós deveis certificar que ele não será tratado severamente. ^v53
 
-**54** E, se desta sorte não se resgatar, sairá no ano do jubileu, ele e seus filhos com ele. ^v54
+**54** Se ele não for remido sobre estes termos então ele deve servir até o ano jubileu e seus filhos com ele. ^v54
 
-**55** Porque os filhos de Israel me são servos; meus servos são eles, que tirei da terra do Egito. Eu sou o Senhor vosso Deus. ^v55
+**55** "Para Mim o povo de Israel é servo. Eles são Meus servos, os quais trouxe para fora da terra do Egito. Eu sou Yahweh, vosso Deus'""." ^v55

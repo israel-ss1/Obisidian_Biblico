@@ -1,39 +1,38 @@
 ---
-Livro: "[[Levítico|Levítico]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Levítico|Levítico]]"
+tags: [biblia]
 ---
 
 # Levítico 2
 
-**1** E quando alguma pessoa oferecer oferta de alimentos ao SENHOR, a sua oferta será de flor de farinha, e nela deitará azeite, e porá o incenso sobre ela; ^v1
+**1** Quando alguém trouxer uma oferta de cereais a Yahweh, sua oferta deverá ser farinha fina, e sobre ela derramará óleo e colocará incenso. ^v1
 
-**2** E a trará aos filhos de Arão, os sacerdotes, um dos quais tomará dela um punhado da flor de farinha, e do seu azeite com todo o seu incenso; e o sacerdote queimará como memorial sobre o altar; oferta queimada é, de cheiro suave ao Senhor. ^v2
+**2** Ele levará a oferta aos sacerdotes, filhos de Arão, e lá o sacerdote pegará uma mão cheia de farinha fina com o óleo e o incenso sobre ela. Então o sacerdote queimará a oferta como memorial no altar. Isto produzirá um aroma agradável a Yahweh. Será uma oferta queimada a Yahweh. ^v2
 
-**3** E o que sobejar da oferta de alimentos, será de Arão e de seus filhos; coisa santíssima é, das ofertas queimadas ao Senhor. ^v3
+**3** O que sobrar da oferta de grãos pertencerá a Arão e a seus filhos. É oferta santíssima a Yahweh dentre aquelas queimadas a Ele. ^v3
 
-**4** E, quando ofereceres oferta de alimentos, cozida no forno, será de bolos ázimos de flor de farinha, amassados com azeite, e coscorões ázimos untados com azeite. ^v4
+**4** Quando ofereceres uma oferta de cereais sem fermento, assada em um forno, deve ser pão macio de boa farinha misturada com óleo, ou pão duro sem fermento, e untado com óleo. ^v4
 
-**5** E, se a tua oferta for oferta de alimentos cozida na caçoula, será da flor de farinha sem fermento, amassada com azeite. ^v5
+**5** Se a tua oferta de grãos for assada com uma panela de ferro plana, deve ser da boa farinha, sem fermento e misturada com óleo. ^v5
 
-**6** Em pedaços a partirás, e sobre ela deitarás azeite; oferta é de alimentos. ^v6
+**6** Em pedaços a dividirás e derramarás óleo sobre ela. Essa é uma oferta de cereais. ^v6
 
-**7** E, se a tua oferta for oferta de alimentos de frigideira, far-se-á da flor de farinha com azeite. ^v7
+**7** Se a tua oferta de cereais for assada em uma panela, deve ser feita com boa farinha e óleo. ^v7
 
-**8** Então trarás a oferta de alimentos, que se fará daquilo, ao Senhor; e se apresentará ao sacerdote, o qual a levará ao altar. ^v8
+**8** Deverás trazer a oferta de cereais feita dessas coisas a Yahweh, e será apresentada ao sacerdote, que a trará ao altar. ^v8
 
-**9** E o sacerdote tomará daquela oferta de alimentos como memorial, e a queimará sobre o altar; oferta queimada é de cheiro suave ao Senhor. ^v9
+**9** Então, o sacerdote tomará uma parte da oferta de cereais, oferecida como memorial, e a queimará no altar. Será uma oferta queimada, e produzirá um aroma agradável a Yahweh. ^v9
 
-**10** E, o que sobejar da oferta de alimentos, será de Arão e de seus filhos; coisa santíssima é, das ofertas queimadas ao Senhor. ^v10
+**10** O que sobrar da oferta de cereais pertencerá a Arão e a seus filhos. É oferta santíssima a Yahweh, dentre aquelas queimadas a Ele. ^v10
 
-**11** Nenhuma oferta de alimentos, que oferecerdes ao Senhor, se fará com fermento; porque de nenhum fermento, nem de mel algum, oferecereis oferta queimada ao Senhor. ^v11
+**11** Nenhuma oferta de cereais que ofereceres a Yahweh deverá ser feita com fermento, porque não deverás queimar nenhum fermento, nem mel, como uma oferta queimada a Yahweh. ^v11
 
-**12** Deles oferecereis ao Senhor por oferta das primícias; porém sobre o altar não subirão por cheiro suave. ^v12
+**12** Tu oferecerás as ofertas a Yahweh como um dos primeiros frutos, mas elas não serão usadas como oferta de aroma agradável sobre o altar. ^v12
 
-**13** E todas as tuas ofertas dos teus alimentos temperarás com sal; e não deixarás faltar à tua oferta de alimentos o sal da aliança do teu Deus; em todas as tuas ofertas oferecerás sal. ^v13
+**13** Deverás temperar cada oferta de cereais com sal. Nunca deverás deixar que o sal da aliança do teu Deus, falte na tua oferta de cereais. Deverás oferecer sal em todas as vossas ofertas. ^v13
 
-**14** E, se fizeres ao Senhor oferta de alimentos das primícias, oferecerás como oferta de alimentos das tuas primícias de espigas verdes, tostadas ao fogo; isto é, do grão trilhado de espigas verdes cheias. ^v14
+**14** Se ofereceres uma oferta de cereais dos primeiros frutos a Yahweh, oferecerás grãos frescos torrados ao fogo e, depois, moídos. ^v14
 
-**15** E sobre ela deitarás azeite, e porás sobre ela incenso; oferta é de alimentos. ^v15
+**15** Então, deverás colocar óleo e incenso sobre ela. Essa é uma oferta de cereais. ^v15
 
-**16** Assim o sacerdote queimará o seu memorial do seu grão trilhado, e do seu azeite, com todo o seu incenso; oferta queimada é ao Senhor. ^v16
+**16** Depois o sacerdote queimará parte dos grãos moídos, o óleo e o incenso como oferta memorial. Essa é uma oferta queimada a Yahweh. ^v16

@@ -1,63 +1,62 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Jeremias|Jeremias]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Jeremias|Jeremias]]"
+tags: [biblia]
 ---
 
 # Jeremias 46
 
-**1** A palavra do SENHOR, que veio a Jeremias, o profeta, contra os gentios, ^v1
+**1** Esta é a palavra de Yahweh que veio a Jeremias, o profeta, a respeito das nações, ^v1
 
-**2** Acerca do Egito, contra o exército de Faraó-Neco, rei do Egito, que estava junto ao rio Eufrates em Carquemis, ao qual feriu Nabucodonosor, rei de babilônia, no ano quarto de Jeoiaquim, filho de Josias, rei de Judá. ^v2
+**2** "para o Egito: ""Isto é sobre o exército do Faraó Neco, rei do Egito, que estava em Carquêmis, junto ao rio Eufrates. Este era o exército que Nabucodonosor, rei da Babilônia, derrotou no quarto ano de Jeoaquim, filho de Josias, rei de Judá." ^v2
 
-**3** Preparai o escudo e o pavês, e chegai-vos para a peleja. ^v3
+**3** Preparai os pequenos e os grandes escudos, e ide adiante para lutar. ^v3
 
-**4** Selai os cavalos e montai, cavaleiros, e apresentai-vos com elmos; limpai as lanças, vesti-vos de couraças. ^v4
+**4** Colocai as selas nos cavalos e montai neles, vós cavaleiros. Tomai vossos lugares com capacetes nas cabeças. Afiai as lanças e colocai vossa armadura. ^v4
 
-**5** Por que razão vejo os medrosos voltando as costas? Os seus valentes estão abatidos, e vão fugindo, sem olharem para trás; terror há ao redor, diz o Senhor. ^v5
+**5** O que Eu estou vendo aqui? Eles estão cheios de terror e estão fugindo, pois seus soldados estão derrotados. Eles estão correndo por segurança e não estão olhando para trás. O terror está por toda parte — esta é a declaração de Yahweh — ^v5
 
-**6** Não fuja o ligeiro, e não escape o valente; para o lado norte, junto à borda do rio Eufrates tropeçaram e caíram. ^v6
+**6** o rápido não pode fugir, e os soldados não podem escapar. Eles tropeçam no norte e caem junto ao rio Eufrates. ^v6
 
-**7** Quem é este que vem subindo como o Nilo, cujas águas se movem como os rios? ^v7
+**7** Quem é este que sobe como o Nilo, quando as águas se agitam e caem como os rios? ^v7
 
-**8** O Egito vem subindo como o Nilo, e como rios cujas águas se movem; e disse: Subirei, cobrirei a terra, destruirei a cidade, e os que nela habitam. ^v8
+**8** O Egito sobe como o Nilo, e suas águas se agitam e caem como os rios. E o Egito diz: 'Eu subirei; eu cobrirei a terra; eu destruirei cidades e seus habitantes. ^v8
 
-**9** Subi, ó cavalos, e estrondeai, ó carros, e saiam os valentes; os etíopes, e os do Líbano, que manejam o escudo, e os lídios, que manejam e entesam o arco. ^v9
+**9** Avançai, cavalos. Ficai zangadas, carruagens. Que os soldados avancem, Etiópia e Líbia, homens habilidosos com o escudo; e Lídia, homens habilidosos em usar seus arcos.' ^v9
 
-**10** Porque este dia é o dia do Senhor DEUS dos Exércitos, dia de vingança para ele se vingar dos seus adversários; e a espada devorará, e fartar-se-á, e embriagar-se-á com o sangue deles; porque o Senhor DEUS dos Exércitos tem um sacrifício na terra do norte, junto ao rio Eufrates. ^v10
+**10** Esse dia será o Dia da Vingança do Senhor Yahweh dos Exércitos, e Ele Se vingará de Seus inimigos. A espada devorará e ficará satisfeita. Ela beberá do sangue deles. Pois haverá um sacrifício ao Senhor Yahweh dos Exércitos na terra do norte, junto ao rio Eufrates. ^v10
 
-**11** Sobe a Gileade, e toma bálsamo, ó virgem filha do Egito; debalde multiplicas remédios, pois já não há cura para ti. ^v11
+**11** Avança para Gileade e consegue remédios, filha virgem do Egito. É inútil colocar muito remédio em ti mesma. Não há cura para ti. ^v11
 
-**12** As nações ouviram a tua vergonha, e a terra está cheia do teu clamor; porque o valente tropeçou com o valente e ambos caíram juntos. ^v12
+**12** "As nações têm ouvido de tua vergonha. A terra está cheia com teus lamentos, pois tropeçam soldado contra soldado; ambos caem juntos.""" ^v12
 
-**13** A palavra que falou o SENHOR a Jeremias, o profeta, acerca da vinda de Nabucodonosor, rei de babilônia, para ferir a terra do Egito. ^v13
+**13** Essa é a palavra que Yahweh disse a Jeremias, o profeta, quando Nabucodonosor, rei da Babilônia veio e atacou a terra do Egito: ^v13
 
-**14** Anunciai no Egito, e fazei ouvir isto em Migdol; fazei também ouvi-lo em Nofe, e em Tafnes, dizei: Apresenta-te, e prepara-te; porque a espada já devorou o que está ao redor de ti. ^v14
+**14** """Anuncia no Egito e proclama em Migdol, Mênfis, e Tafnes. Posiciona-te e prepara-te, pois a espada está devorando tudo à tua volta." ^v14
 
-**15** Por que foram derrubados os teus valentes? Não puderam manter-se firmes, porque o Senhor os abateu. ^v15
+**15** Por que teus poderosos estão de bruços no chão? Não resistirão, porque Eu, Yahweh, os abati. ^v15
 
-**16** Multiplicou os que tropeçavam; também caíram uns sobre os outros, e disseram: Levanta-te, e voltemos ao nosso povo, e à terra do nosso nascimento, por causa da espada que oprime. ^v16
+**16** Ele aumenta o número daqueles que tropeçam. Os soldados caem uns sobre os outros. Eles estão dizendo: 'Levantai-vos. Deixai-nos voltar para casa. Deixai-nos voltar para nosso próprio povo, para nossa terra nativa. Permiti que deixemos esta espada que está nos abatendo.' ^v16
 
-**17** Clamaram ali: Faraó rei do Egito é apenas um barulho; deixou passar o tempo assinalado. ^v17
+**17** Ali, eles dirão: 'Faraó, o rei do Egito, só faz barulho; deixou passar a sua oportunidade.' ^v17
 
-**18** Vivo eu, diz o rei, cujo nome é o Senhor dos Exércitos, que certamente como o Tabor entre os montes, e como o Carmelo junto ao mar, certamente assim ele virá. ^v18
+**18** Como vivo Eu — declara o Rei, cujo nome é Yahweh dos Exércitos — alguém virá, que é como monte Tabor e Carmelo, pelo mar. ^v18
 
-**19** Prepara os utensílios para ires ao cativeiro, ó moradora, filha do Egito; porque Nofe será tornada em desolação, e será incendiada, até que ninguém mais aí more. ^v19
+**19** Estai prontos vós mesmos e vossas bagagens para o cativeiro, vós que viveis no Egito. Pois Mênfis se tornará uma desolação e uma destruição e, por isso, ninguém viverá lá. ^v19
 
-**20** Bezerra mui formosa é o Egito; mas já vem a destruição, vem do norte. ^v20
+**20** O Egito é uma bonita novilha, mas um inseto que machuca vem do norte. Ele está vindo. ^v20
 
-**21** Até os seus mercenários no meio dela são como bezerros cevados; mas também eles viraram as costas, fugiram juntos; não ficaram firmes; porque veio sobre eles o dia da sua ruína e o tempo do seu castigo. ^v21
+**21** Os soldados mercenários em seu meio estão como um touro engordado, mas eles também vão se afastar e fugir. Eles não ficarão juntos, pois o dia de seu desastre está vindo contra eles, o tempo de sua punição. ^v21
 
-**22** A sua voz irá como a da serpente; porque marcharão com um exército, e virão contra ela com machados, como cortadores de lenha. ^v22
+**22** O Egito chia e rasteja como uma cobra, pois seus inimigos estão marchando contra ele. Eles estão indo em sua direção, como cortadores de lenha com machados. ^v22
 
-**23** Cortarão o seu bosque, diz o Senhor, embora seja impenetrável; porque se multiplicaram mais do que os gafanhotos; são inumeráveis. ^v23
+**23** Eles cortarão as florestas, embora seja impenetrável — esta é a declaração de Yahweh. Pois os inimigos serão mais numerosos do que gafanhotos, incapazes de serem contados. ^v23
 
-**24** A filha do Egito será envergonhada; será entregue na mão do povo do norte. ^v24
+**24** "A filha do Egito será envergonhada; será entregue nas mãos do povo do norte.""" ^v24
 
-**25** Diz o Senhor dos Exércitos, o Deus de Israel: Eis que eu castigarei a Amom de Nô, e a Faraó, e ao Egito, e aos seus deuses, e aos seus reis; ao próprio Faraó, e aos que nele confiam. ^v25
+**25** "Yahweh dos Exércitos, o Deus de Israel, diz: ""Vede, Eu estou a ponto de punir Amom, de Tebas, Egito e seus deuses; seus reis, os faraós, e aqueles que confiam neles." ^v25
 
-**26** E os entregarei na mão dos que procuram a sua morte, na mão de Nabucodonosor, rei de babilônia, e na mão dos seus servos; mas depois será habitada, como nos dias antigos, diz o SENHOR. ^v26
+**26** Eu estou entregando-lhes nas mãos dos que procuram suas vidas, e na mão de Nabucodonosor, rei da Babilônia, e seus servos. Então, depois disso, o Egito será habitado como nos dias anteriores — esta é a declaração de Yahweh. ^v26
 
-**27** Mas não temas tu, servo meu, Jacó, nem te espantes, ó Israel; porque eis que te livrarei mesmo de longe, como também a tua descendência da terra do seu cativeiro; e Jacó voltará, e descansará, e sossegará, e não haverá quem o atemorize. ^v27
+**27** Mas tu, Meu servo Jacó, não temas. Não desanimes, Israel, pois vê, Eu estou a ponto de trazer-te de volta de tão longe, e tua descendência da terra de seus cativos. Então, Jacó retornará, encontrará paz, e estará seguro, e não haverá ninguém para aterrorizá-lo. ^v27
 
-**28** Tu não temas, servo meu, Jacó, diz o Senhor, porque estou contigo; porque porei termo a todas as nações entre as quais te lancei; mas a ti não darei fim, mas castigar-te-ei com justiça, e não te darei de todo por inocente. ^v28
+**28** "Tu, Meu servo Jacó, não temas — esta é a declaração de Yahweh. Pois Eu sou contigo. Eu trarei completa destruição contra todas as nações de onde Eu te dispersei. Mas não te destruirei completamente. Ainda irei disciplinar-te justamente. É certo que não te deixarei impune.""" ^v28

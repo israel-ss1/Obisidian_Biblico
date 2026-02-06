@@ -1,25 +1,24 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Zacarias|Zacarias]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Zacarias|Zacarias]]"
+tags: [biblia]
 ---
 
 # Zacarias 13
 
-**1** Naquele dia haverá uma fonte aberta para a casa de Davi, e para os habitantes de Jerusalém, para purificação do pecado e da imundícia. ^v1
+**1** """Naquele dia, uma fonte se abrirá para a casa de Davi e os habitantes de Jerusalém, pelo seu pecado e impureza." ^v1
 
-**2** E acontecerá naquele dia, diz o Senhor dos Exércitos, que tirarei da terra os nomes dos ídolos, e deles não haverá mais memória; e também farei sair da terra os profetas e o espírito da impureza. ^v2
+**2** Naquele dia — esta é a declaração de Yahweh dos Exércitos —, cortarei os nomes dos ídolos da terra para que não mais sejam lembrados. Eu também farei com que os falsos profetas e o espírito imundo saiam da terra. ^v2
 
-**3** E acontecerá que, quando alguém ainda profetizar, seu pai e sua mãe, que o geraram, lhe dirão: Não viverás, porque falaste mentira em nome do Senhor; e seu pai e sua mãe, que o geraram, o traspassarão quando profetizar. ^v3
+**3** Se algum homem continuar a profetizar, seu pai e sua mãe que o geraram lhe dirão: 'Não viverás, porque falas mentiras em Nome de Yahweh!'. Então, seu pai e sua mãe que o geraram, o transpassarão à espada quando ele profetizar. ^v3
 
-**4** E acontecerá naquele dia que os profetas se envergonharão, cada um da sua visão, quando profetizarem; nem mais se vestirão de manto de pelos, para mentirem. ^v4
+**4** Naquele dia, cada profeta ficará envergonhado de sua visão quando for profetizar. Esses profetas não usarão mais um manto de pele a fim de enganar o povo; ^v4
 
-**5** Mas dirão: Não sou profeta, sou lavrador da terra; porque certo homem ensinou-me a guardar o gado desde a minha mocidade. ^v5
+**5** cada um dirá: 'Eu não sou um profeta! Eu sou lavrador, pois a terra tornou-se meu trabalho quando ainda era jovem!'. ^v5
 
-**6** E se alguém lhe disser: Que feridas são estas nas tuas mãos? Dirá ele: São feridas com que fui ferido em casa dos meus amigos. ^v6
+**6** "Mas alguém lhe dirá: 'O que são essas feridas nas tuas mãos?'. Ele responderá: 'Fui ferido na casa dos meus amigos'""." ^v6
 
-**7** Ó espada, desperta-te contra o meu pastor, e contra o homem que é o meu companheiro, diz o Senhor dos Exércitos. Fere ao pastor, e espalhar-se-ão as ovelhas; mas volverei a minha mão sobre os pequenos. ^v7
+**7** """Espada! Levanta-te contra o Meu pastor, o homem que está perto de Mim!"" — esta é a declaração de Yahweh dos Exércitos. ""Fere o pastor e as ovelhas se dispersarão! Porque virarei a Minha mão contra os pequeninos""." ^v7
 
-**8** E acontecerá em toda a terra, diz o Senhor, que as duas partes dela serão extirpadas, e expirarão; mas a terceira parte restará nela. ^v8
+**8** """Então, de toda a terra,"" — esta é a declaração de Yahweh — ""dois terços serão cortados! Essas pessoas irão perecer; apenas um terço permanecerá." ^v8
 
-**9** E farei passar esta terceira parte pelo fogo, e a purificarei, como se purifica a prata, e a provarei, como se prova o ouro. Ela invocará o meu nome, e eu a ouvirei; direi: É meu povo; e ela dirá: O Senhor é o meu Deus. ^v9
+**9** "Farei aquela terceira parte passar pelo fogo e os refinarei como a prata é refinada; vou testá-los como o ouro é testado. Eles invocarão o Meu nome e lhes responderei e direi: 'Este é o Meu povo!'. E eles dirão: 'Yahweh é o meu Deus!'""." ^v9

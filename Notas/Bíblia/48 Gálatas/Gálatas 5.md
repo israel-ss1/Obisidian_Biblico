@@ -1,59 +1,58 @@
 ---
-Livro: "[[Gálatas|Gálatas]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Gálatas|Gálatas]]"
+tags: [biblia]
 ---
 
 # Gálatas 5
 
-**1** Estai, pois, firmes na liberdade com que Cristo nos libertou, e não torneis a colocar-vos debaixo do jugo da servidão. ^v1
+**1** Portanto, foi para a liberdade que Cristo nos libertou. Entretanto, permanecei firmes, e não vos coloqueis novamente debaixo do jugo da escravidão. ^v1
 
-**2** Eis que eu, Paulo, vos digo que, se vos deixardes circuncidar, Cristo de nada vos aproveitará. ^v2
+**2** Vede, eu, Paulo vos digo que se vos deixardes circuncidar, Cristo nada vos beneficiará. ^v2
 
-**3** E de novo protesto a todo o homem, que se deixa circuncidar, que está obrigado a guardar toda a lei. ^v3
+**3** Outra vez eu testifico a cada homem que se deixa circuncidar, que ele se torna obrigado a obedecer toda a Lei. ^v3
 
-**4** Separados estais de Cristo, vós os que vos justificais pela lei; da graça tendes caído. ^v4
+**4** Vós estais separados de Cristo, vós que desejais ser justificados pela Lei; vós não mais experimentais graça. ^v4
 
-**5** Porque nós pelo Espírito da fé aguardamos a esperança da justiça. ^v5
+**5** Pois, através do Espírito, pela fé, nós esperamos ansiosamente pela esperança da justiça. ^v5
 
-**6** Porque em Jesus Cristo nem a circuncisão nem a incircuncisão tem valor algum; mas sim a fé que opera pelo amor. ^v6
+**6** Em Cristo Jesus nem circuncisão nem incircuncisão significam coisa alguma, mas somente a fé trabalhando através do amor. ^v6
 
-**7** Corríeis bem; quem vos impediu, para que não obedeçais à verdade? ^v7
+**7** Vós estáveis correndo bem. Quem vos impediu de obedecer a verdade? ^v7
 
-**8** Esta persuasão não vem daquele que vos chamou. ^v8
+**8** Essa persuasão não vem Daquele que vos chama. ^v8
 
-**9** Um pouco de fermento leveda toda a massa. ^v9
+**9** Um pouco de fermento faz toda a massa crescer. ^v9
 
-**10** Confio de vós, no Senhor, que nenhuma outra coisa sentireis; mas aquele que vos inquieta, seja ele quem for, sofrerá a condenação. ^v10
+**10** Eu confio no Senhor que vós não tereis outra visão. Aquele que vos está perturbando será punido, quem quer que seja. ^v10
 
-**11** Eu, porém, irmãos, se prego ainda a circuncisão, por que sou, pois, perseguido? Logo o escândalo da cruz está aniquilado. ^v11
+**11** Irmãos, se eu ainda proclamo a circuncisão, por que ainda sou perseguido? Neste caso o escândalo da cruz foi removido. ^v11
 
-**12** Eu quereria que fossem cortados aqueles que vos andam inquietando. ^v12
+**12** E para todos que estão vos perturbando, eu que gostaria que eles se castrassem! ^v12
 
-**13** Porque vós, irmãos, fostes chamados à liberdade. Não useis então da liberdade para dar ocasião à carne, mas servi-vos uns aos outros pelo amor. ^v13
+**13** Porque vós, irmãos, fostes chamados para a liberdade; contudo não useis vossa liberdade como uma oportunidade para a natureza pecaminosa, em vez disso , servi-vos uns aos outros por amor. ^v13
 
-**14** Porque toda a lei se cumpre numa só palavra, nesta: Amarás ao teu próximo como a ti mesmo. ^v14
+**14** "Pois toda a Lei é cumprida em um mandamento: ""Amareis ao teu próximo como a ti mesmo""." ^v14
 
-**15** Se vós, porém, vos mordeis e devorais uns aos outros, vede não vos consumais também uns aos outros. ^v15
+**15** Entretanto se vós mordeis e devorais uns aos outros, cuidai para que não sejais consumidos uns pelos outros. ^v15
 
-**16** Digo, porém: Andai em Espírito, e não cumprireis a concupiscência da carne. ^v16
+**16** Contudo eu vos digo, andai pelo Espírito e não satisfareis os desejos da natureza pecaminosa. ^v16
 
-**17** Porque a carne cobiça contra o Espírito, e o Espírito contra a carne; e estes opõem-se um ao outro, para que não façais o que quereis. ^v17
+**17** Pois os desejos da natureza pecaminosa são contra o Espírito, e os desejos do Espírito são contra a natureza pecaminosa, porque estes estão em conflito um com o outro. O fim é para que vós não façais as coisas que desejais. ^v17
 
-**18** Mas, se sois guiados pelo Espírito, não estais debaixo da lei. ^v18
+**18** Mas, se sois guiados pelo Espírito, não estais debaixo da Lei. ^v18
 
-**19** Porque as obras da carne são manifestas, as quais são: adultério, fornicação, impureza, lascívia, ^v19
+**19** Agora, as obras da natureza pecaminosa são evidentes: imoralidade sexual, impureza, lascívia, ^v19
 
-**20** Idolatria, feitiçaria, inimizades, porfias, emulações, iras, pelejas, dissensões, heresias, ^v20
+**20** idolatria, feitiçaria, hostilidade, briga, ciúme, ira, rivalidade, dissensões, divisão, ^v20
 
-**21** Invejas, homicídios, bebedices, glutonarias, e coisas semelhantes a estas, acerca das quais vos declaro, como já antes vos disse, que os que cometem tais coisas não herdarão o reino de Deus. ^v21
+**21** inveja, embriaguez, orgia, e como essas coisas. Eu vos advirto, como o fiz anteriormente, que todos aqueles que praticam essas coisas não herdarão o Reino de Deus. ^v21
 
-**22** Mas o fruto do Espírito é: amor, gozo, paz, longanimidade, benignidade, bondade, fé, mansidão, temperança. ^v22
+**22** Mas o fruto do Espírito é amor, alegria, paz, paciência, benignidade, bondade, fé, ^v22
 
-**23** Contra estas coisas não há lei. ^v23
+**23** gentileza, domínio próprio; contra essas coisas não há Lei. ^v23
 
-**24** E os que são de Cristo crucificaram a carne com as suas paixões e concupiscências. ^v24
+**24** Aqueles que pertencem a Cristo Jesus crucificaram a natureza pecaminosa com suas paixões e desejos. ^v24
 
-**25** Se vivemos em Espírito, andemos também em Espírito. ^v25
+**25** Se nós vivemos pelo Espírito, vamos também andar pelo Espírito. ^v25
 
-**26** Não sejamos cobiçosos de vanglórias, irritando-nos uns aos outros, invejando-nos uns aos outros. ^v26
+**26** Não nos tornemos orgulhosos, provocando uns aos outros, ou invejando uns aos outros. ^v26

@@ -1,43 +1,42 @@
 ---
-Livro: "[[Rute|Rute]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Rute|Rute]]"
+tags: [biblia]
 ---
 
 # Rute 3
 
-**1** E disse-lhe Noemi, sua sogra: Minha filha, não hei de buscar descanso, para que fiques bem? ^v1
+**1** "Noemi, sua sogra, disse-lhe: ""Minha filha, não devo procurar um lugar de descanso para ti, para que fiques bem?" ^v1
 
-**2** Ora, pois, não é Boaz, com cujas moças estiveste, de nossa parentela? Eis que esta noite padejará a cevada na eira. ^v2
+**2** Lembra de Boaz, o homem que te deixou trabalhar com suas jovens servas; não é ele o nosso parente? Ele estará esta noite limpando a cevada na eira. ^v2
 
-**3** Lava-te, pois, e unge-te, e veste os teus vestidos, e desce à eira; porém não te dês a conhecer ao homem, até que tenha acabado de comer e beber. ^v3
+**3** Portanto, lava-te, perfuma-te, põe tua melhor roupa, e desce para a eira. Mas não permitas que ele te veja até que ele termine de comer e beber. ^v3
 
-**4** E há de ser que, quando ele se deitar, notarás o lugar em que se deitar; então entrarás, e descobrir-lhe-ás os pés, e te deitarás, e ele te fará saber o que deves fazer. ^v4
+**4** "Mas, quando ele se deitar, toma conhecimento do lugar onde ele se deitou; porque mais tarde tu irás até ele, descobrirás seus pés e deitarás ali. Então ele te dirá o que fazer""." ^v4
 
-**5** E ela lhe disse: Tudo quanto me disseres, farei. ^v5
+**5** "Rute disse a Noemi: ""Eu farei tudo que disseste""." ^v5
 
-**6** Então foi para a eira, e fez conforme a tudo quanto sua sogra lhe tinha ordenado. ^v6
+**6** Então ela desceu até a eira, e seguiu as instruções que sua sogra lhe havia falado. ^v6
 
-**7** Havendo, pois, Boaz comido e bebido, e estando já o seu coração alegre, veio deitar-se ao pé de um monte de grãos; então veio ela de mansinho, e lhe descobriu os pés, e se deitou. ^v7
+**7** Quando Boaz comeu e bebeu, seu coração se alegrou, e ele foi deitar junto à pilha de grãos. Ela veio suavemente, descobriu seus pés e se deitou. ^v7
 
-**8** E sucedeu que, pela meia-noite, o homem estremeceu, e se voltou; e eis que uma mulher jazia a seus pés. ^v8
+**8** E sucedeu que, à meia-noite, o homem foi surpreendido. Ele virou-se e lá estava uma mulher deitada aos seus pés! ^v8
 
-**9** E disse ele: Quem és tu? E ela disse: Sou Rute, tua serva; estende pois tua capa sobre a tua serva, porque tu és o remidor. ^v9
+**9** "Ele disse: ""Quem és tu?"" E ela respondeu: ""Eu sou Rute, tua serva; estende o teu manto sobre tua serva, pois tu és um parente próximo""." ^v9
 
-**10** E disse ele: Bendita sejas tu do Senhor, minha filha; melhor fizeste esta tua última benevolência do que a primeira, pois após nenhum dos jovens foste, quer pobre quer rico. ^v10
+**10** "Boaz disse: ""Minha filha, que sejas abençoada por Yahweh. Tu mostraste mais bondade agora do que antes, pois não fostes atrás de nenhum jovem, seja rico ou pobre." ^v10
 
-**11** Agora, pois, minha filha, não temas; tudo quanto disseste te farei, pois toda a cidade do meu povo sabe que és mulher virtuosa. ^v11
+**11** E agora, minha filha, não temas! Eu farei tudo o que disseste, porque toda a cidade do meu povo sabe que tu és uma mulher de valor. ^v11
 
-**12** Porém agora é verdade que eu sou remidor, mas ainda outro remidor há mais chegado do que eu. ^v12
+**12** É bem verdade que eu sou um parente próximo, mas acontece que existe um parente mais próximo do que eu. ^v12
 
-**13** Fica-te aqui esta noite, e será que, pela manhã, se ele te redimir, bem está, que te redima; porém, se não quiser te redimir, vive o Senhor, que eu te redimirei. Deita-te aqui até amanhã. ^v13
+**13** "Fica aqui esta noite e, pela manhã, se ele quiser te resgatar, assim seja. Caso ele não faça o que deve fazer para contigo, então o farei, assim como vive Yahweh. Deita-te até que amanheça""." ^v13
 
-**14** Ficou-se, pois, deitada a seus pés até pela manhã, e levantou-se antes que pudesse um conhecer o outro, porquanto ele disse: Não se saiba que alguma mulher veio à eira. ^v14
+**14** "Então ela deitou a seus pés, até de manhã. Mas levantou-se antes que uma pessoa a pudesse reconhecer. Pois Boaz tinha dito: ""Que ninguém saiba que uma mulher veio à eira""." ^v14
 
-**15** Disse mais: Dá-me a capa que tens sobre ti, e segura-a. E ela a segurou; e ele mediu seis medidas de cevada, e lhas pôs em cima; então foi para a cidade. ^v15
+**15** "Então Boaz disse: ""Traze o manto com que te cobres e segura-o"". Quando ela assim o fez, ele despejou seis medidas de cevada e o colocou sobre os ombros dela. Então, ele foi para a cidade." ^v15
 
-**16** E foi à sua sogra, que lhe disse: Como foi, minha filha? E ela lhe contou tudo quanto aquele homem lhe fizera. ^v16
+**16** "Quando Rute voltou, sua sogra disse-lhe: ""Como foi, minha filha?"" Então Rute disse tudo que o homem havia feito por ela." ^v16
 
-**17** Disse mais: Estas seis medidas de cevada me deu, porque me disse: Não vás vazia à tua sogra. ^v17
+**17** "Ela disse: ""Estas seis medidas de cevada são o que ele me deu, pois ele disse: 'Não voltes de mãos vazias para a tua sogra'""." ^v17
 
-**18** Então disse ela: Espera, minha filha, até que saibas como irá o caso, porque aquele homem não descansará até que conclua hoje este negócio. ^v18
+**18** "Então, Noemi disse: ""Fica aqui, minha filha, até que saibas como será resolvido, pois aquele homem não descansará enquanto não tiver resolvido esta questão ainda hoje""." ^v18

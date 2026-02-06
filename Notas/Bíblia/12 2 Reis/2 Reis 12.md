@@ -1,49 +1,48 @@
 ---
-Livro: "[[2 Reis|2 Reis]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/2 Reis|2 Reis]]"
+tags: [biblia]
 ---
 
 # 2 Reis 12
 
-**1** No ano sétimo de Jeú começou a reinar Joás, e quarenta anos reinou em Jerusalém; e era o nome de sua mãe Zíbia, de Berseba. ^v1
+**1** No sétimo ano de Jeú, Joás iniciou o seu reinado; ele reinou por quarenta anos em Jerusalém. O nome de sua mãe era Zíbia, de Berseba. ^v1
 
-**2** E fez Joás o que era reto aos olhos do Senhor todos os dias em que o sacerdote Joiada o dirigia. ^v2
+**2** Joás fez o que era reto aos olhos de Yahweh durante todo o tempo, pois o sacerdote Joiada o estava instruindo. ^v2
 
-**3** Tão-somente os altos não foram tirados; porque ainda o povo sacrificava e queimava incenso nos altos. ^v3
+**3** Entretanto os altares não foram retirados. O povo ainda continuava oferecendo sacrifícios e queimando incenso nos lugares altos. ^v3
 
-**4** E disse Joás aos sacerdotes: Todo o dinheiro das coisas santas que se trouxer à casa do Senhor, a saber, o dinheiro daquele que passa o arrolamento, o dinheiro de cada uma das pessoas, segundo a sua avaliação, e todo o dinheiro que trouxer cada um voluntariamente para a casa do Senhor, ^v4
+**4** "Joás disse aos sacerdotes: ""Todo o dinheiro das ofertas consagradas que for trazido ao templo de Yahweh, tanto os impostos do censo, pagamentos de votos quanto as ofertas voluntárias." ^v4
 
-**5** Os sacerdotes o recebam, cada um dos seus conhecidos; e eles mesmos reparem as fendas da casa, toda a fenda que se achar nela. ^v5
+**5** "Cada sacerdote deverá receber o dinheiro dessas ofertas de um dos seus tesoureiros e reparar qualquer estrago que for encontrado no templo""." ^v5
 
-**6** Sucedeu, porém, que, no ano vinte e três do rei Joás, os sacerdotes ainda não tinham reparado as fendas da casa. ^v6
+**6** Mas, no vigésimo terceiro ano do rei Joás, os sacerdotes não tinham reparado nada no templo. ^v6
 
-**7** Então o rei Joás chamou o sacerdote Joiada e os mais sacerdotes, e lhes disse: Por que não reparais as fendas da casa? Agora, pois, não tomeis mais dinheiro de vossos conhecidos, mas entregai-o para o reparo das fendas da casa. ^v7
+**7** "Então, o rei Joás chamou o sacerdote Joiada e os outros sacerdotes; e disse-lhes: ""Por que não tens consertado nada no templo? Agora não pegueis mais o dinheiro de seus contribuintes, mas pegai o que tem sido coletado para reparar o templo e dai àqueles que podem realizar os reparos""." ^v7
 
-**8** E consentiram os sacerdotes em não tomarem mais dinheiro do povo, e em não repararem as fendas da casa. ^v8
+**8** Então, os sacerdotes consentiram em não pegar mais dinheiro do povo e não reparar o templo eles mesmos. ^v8
 
-**9** Porém o sacerdote Joiada tomou um cofre e fez um buraco na tampa; e a pôs ao pé do altar, à mão direita dos que entravam na casa do Senhor; e os sacerdotes que guardavam a entrada da porta punham ali todo o dinheiro que se trazia à casa do Senhor. ^v9
+**9** Em vez disso, o sacerdote Joiada tomou um baú, abriu um buraco na tampa e colocou-o junto ao altar, do lado direito que as pessoas entravam na casa de Yahweh. Os sacerdotes que guardavam a entrada do templo colocaram todo o dinheiro que foi trazido, dentro do templo de Yahweh. ^v9
 
-**10** Sucedeu que, vendo eles que já havia muito dinheiro no cofre, o escrivão do rei subia com o sumo sacerdote, e contavam e ensacavam o dinheiro que se achava na casa do Senhor. ^v10
+**10** Sempre que eles viam que havia muito dinheiro no baú, o escriba do rei e o sumo sacerdote vinham e colocavam o dinheiro em sacos, e eles contavam o dinheiro encontrado no templo de Yahweh. ^v10
 
-**11** E o dinheiro, depois de pesado, davam nas mãos dos que faziam a obra, que tinham a seu cargo a casa do Senhor e eles o distribuíam aos carpinteiros e aos edificadores que reparavam a casa do Senhor. ^v11
+**11** Eles deram o dinheiro contabilizado para as mãos dos homens que tomavam conta do templo de Yahweh. Eles pagaram aos carpinteiros e aos construtores que trabalharam no templo de Yahweh, ^v11
 
-**12** Como também aos pedreiros e aos cabouqueiros; e para se comprar madeira e pedras de cantaria para repararem as fendas da casa do Senhor, e para tudo quanto era necessário para reparar a casa. ^v12
+**12** e aos pedreiros e aos cortadores de pedras, para comprar madeira e pedras lavradas para reparar o templo de Yahweh, e para pagar todas as coisas que fossem necessárias para repará-lo. ^v12
 
-**13** Todavia, do dinheiro que se trazia à casa do Senhor não se faziam nem taças de prata, nem garfos, nem bacias, nem trombetas, nem vaso algum de ouro ou vaso de prata para a casa do Senhor. ^v13
+**13** Mas o dinheiro que foi trazido ao templo de Yahweh não pagava a fabricação de quaisquer taças de prata, aparadores de lâmpadas, bacias, trombetas, ou qualquer utensílio de ouro ou prata. ^v13
 
-**14** Porque o davam aos que faziam a obra, e reparavam com ele a casa do Senhor. ^v14
+**14** Eles davam esse dinheiro para aqueles que faziam o trabalho de reparação do templo de Yahweh. ^v14
 
-**15** Também não pediam contas aos homens em cujas mãos entregavam aquele dinheiro, para o dar aos que faziam a obra, porque procediam com fidelidade. ^v15
+**15** Além disso, eles não exigiam a prestação de contas do dinheiro pago aos homens que recebiam e pagavam os trabalhadores, pois esses homens eram honestos. ^v15
 
-**16** Mas o dinheiro do sacrifício por delitos, e o dinheiro por sacrifício de pecados, não se trazia à casa do Senhor; porque era para os sacerdotes. ^v16
+**16** Mas o dinheiro para as ofertas pela culpa e o dinheiro para as ofertas pelos pecados não era trazido para dentro do templo de Yahweh, porque este pertencia aos sacerdotes. ^v16
 
-**17** Então subiu Hazael, rei da Síria, e pelejou contra Gate, e a tomou; depois Hazael resolveu marchar contra Jerusalém. ^v17
+**17** Então, Hazael, rei da Síria, atacou e lutou contra Gate, e a tomou. Hazael, então se voltou para atacar Jerusalém. ^v17
 
-**18** Porém Joás, rei de Judá, tomou todas as coisas santas que Jeosafá, Jorão e Acazias, seus pais, reis de Judá, consagraram, como também todo o ouro que se achou nos tesouros da casa do Senhor e na casa do rei e o mandou a Hazael, rei da Síria; e então se desviou de Jerusalém. ^v18
+**18** Joás, rei de Judá tomou todas as coisas consagradas que Josafá, Jeorão e Acazias, seus pais, reis de Judá, haviam consagrado, bem como todo ouro que foi encontrado nos tesouros do templo de Yahweh e do palácio do rei e os enviou para Hazael, rei da Síria; então, Hazael foi embora de Jerusalém. ^v18
 
-**19** Ora, o mais dos atos de Joás, e tudo quanto fez, porventura não está escrito no livro das crônicas dos reis de Judá? ^v19
+**19** Quanto às outras questões acerca de Joás, tudo o que ele fez, não estão escritas no livro de Crônicas dos reis de Judá? ^v19
 
-**20** E levantaram-se os servos de Joás, e conspiraram contra ele ferindo-o na casa de Milo, no caminho que desce para Sila. ^v20
+**20** Seus servos se levantaram e conspiraram juntos; eles atacaram Joás em Bete-Millo, no caminho que desce para Sila. ^v20
 
-**21** Porque Jozacar, filho de Simeate, e Jozabade, filho de Somer, seus servos, o feriram, e morreu, e o sepultaram com seus pais na cidade de Davi. E Amazias, seu filho, reinou em seu lugar. ^v21
+**21** Jozacar, filho de Simeate, e Jozabade, filho de Somer, seus servos, o atacaram e ele morreu. Eles sepultaram Joás com seus ancestrais na cidade de Davi, e Amazias, seu filho, veio a ser rei em seu lugar. ^v21

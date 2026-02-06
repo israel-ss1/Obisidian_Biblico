@@ -1,47 +1,46 @@
 ---
-Livro: "[[Eclesiastes|Eclesiastes]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Eclesiastes|Eclesiastes]]"
+tags: [biblia]
 ---
 
 # Eclesiastes 10
 
-**1** Assim como as moscas mortas fazem exalar mau cheiro e inutilizar o ungüento do perfumador, assim é, para o famoso em sabedoria e em honra, um pouco de estultícia. ^v1
+**1** Como uma mosca morta faz o perfume cheirar mal, assim uma pequena tolice pode superar a sabedoria e a honra. ^v1
 
-**2** O coração do sábio está à sua direita, mas o coração do tolo está à sua esquerda. ^v2
+**2** O coração de uma pessoa sábia tende para a direita, mas o coração de um tolo tende para a esquerda. ^v2
 
-**3** E, até quando o tolo vai pelo caminho, falta-lhe o seu entendimento e diz a todos que é tolo. ^v3
+**3** Quando um tolo caminha pela rua, seu pensamento é deficiente, provando a todos que ele é um tolo. ^v3
 
-**4** Levantando-se contra ti o espírito do governador, não deixes o teu lugar, porque a submissão é um remédio que aplaca grandes ofensas. ^v4
+**4** Se as emoções de um governante se levantarem contra ti, não deixes teu trabalho. A calma pode tranquilizar um grande ultraje. ^v4
 
-**5** Ainda há um mal que vi debaixo do sol, como o erro que procede do governador. ^v5
+**5** Há um mal que tenho visto sob o sol, um tipo de erro que vem do governante: ^v5
 
-**6** A estultícia está posta em grandes alturas, mas os ricos estão assentados em lugar baixo. ^v6
+**6** aos tolos são dadas posições de liderança, enquanto aos homens bem-sucedidos, posições inferiores. ^v6
 
-**7** Vi os servos a cavalo, e os príncipes andando sobre a terra como servos. ^v7
+**7** Tenho visto escravos montando cavalos e homens bem-sucedidos andando a pé, como escravos. ^v7
 
-**8** Quem abrir uma cova, nela cairá, e quem romper um muro, uma cobra o morderá. ^v8
+**8** Aquele que cava um buraco pode cair nele e, sempre que alguém derruba um muro, uma cobra pode picá-lo. ^v8
 
-**9** Aquele que transporta pedras, será maltratado por elas, e o que racha lenha expõe-se ao perigo. ^v9
+**9** Qualquer um que corte pedras pode ser machucado por elas, e o homem que corta madeira está em perigo por isso. ^v9
 
-**10** Se estiver embotado o ferro, e não se afiar o corte, então se deve redobrar a força; mas a sabedoria é excelente para dirigir. ^v10
+**10** Se uma lâmina de ferro está cega, e um homem não a afia, então ele deve usar mais força; mas a sabedoria oferece uma vantagem para o sucesso. ^v10
 
-**11** Seguramente a serpente morderá antes de estar encantada, e o falador não é melhor. ^v11
+**11** Se uma cobra morde, antes de ser encantada, não há vantagem para o encantador. ^v11
 
-**12** Nas palavras da boca do sábio há favor, porém os lábios do tolo o devoram. ^v12
+**12** As palavras da boca de um homem sábio são graciosas, mas os lábios do tolo o devoram. ^v12
 
-**13** O princípio das palavras da sua boca é a estultícia, e o fim do seu falar um desvario péssimo. ^v13
+**13** Assim que as palavras começam a fluir da boca de um tolo, as tolices aparecem e, no fim, sua boca flui com loucura cruel. ^v13
 
-**14** O tolo multiplica as palavras, porém, o homem não sabe o que será; e quem lhe fará saber o que será depois dele? ^v14
+**14** Um tolo multiplica palavras, mas ninguém sabe o que está por vir. Quem sabe o que acontecerá com ele? ^v14
 
-**15** O trabalho dos tolos a cada um deles fatiga, porque não sabem como ir à cidade. ^v15
+**15** O trabalho duro dos tolos os fadiga, de modo que eles nem sabem o caminho para a cidade. ^v15
 
-**16** Ai de ti, ó terra, quando teu rei é uma criança, e cujos príncipes comem de manhã. ^v16
+**16** Ai de ti, terra, se teu rei é um menino, e se teus líderes começam a festejar de manhã! ^v16
 
-**17** Bem-aventurada tu, ó terra, quando teu rei é filho dos nobres, e teus príncipes comem a tempo, para se fortalecerem, e não para bebedice. ^v17
+**17** Mas abençoada és tu, terra, se teu rei é filho de nobres, e se teus líderes comem na hora certa, para obter força, e não para embriaguez! ^v17
 
-**18** Por muita preguiça se enfraquece o teto, e pela frouxidão das mãos a casa goteja. ^v18
+**18** Por causa da preguiça, o teto desmorona, e por causa das mãos ociosas, a casa tem goteiras. ^v18
 
-**19** Para rir se fazem banquetes, e o vinho produz alegria, e por tudo o dinheiro responde. ^v19
+**19** As pessoas preparam comida para alegrar-se; o vinho traz prazer à vida, e o dinheiro preenche todas as necessidades. ^v19
 
-**20** Nem ainda no teu pensamento amaldiçoes ao rei, nem tampouco no mais interior da tua recâmara amaldiçoes ao rico; porque as aves dos céus levariam a voz, e os que têm asas dariam notícia do assunto. ^v20
+**20** Não amaldiçoes o rei, nem mesmo em tua mente, e não amaldiçoes os ricos em teu quarto, pois uma ave do céu pode levar tuas palavras. Tudo que tem asas pode espalhar o assunto. ^v20

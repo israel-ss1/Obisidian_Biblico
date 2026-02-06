@@ -1,31 +1,28 @@
 ---
-Livro: "[[Salmos|Salmos]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Salmos|Salmos]]"
+tags: [biblia]
 ---
 
 # Salmos 143
 
-**1** Ó Senhor, ouve a minha oração, inclina os ouvidos às minhas súplicas; escuta-me segundo a tua verdade, e segundo a tua justiça. ^v1
+**2** Não entres em juízo com o Teu servo, pois à Tua vista ninguém é justo. ^v2
 
-**2** E não entres em juízo com o teu servo, porque à tua vista não se achará justo nenhum vivente. ^v2
+**3** O inimigo perseguiu a minha alma; ele me derrubou no chão; ele me fez viver nas trevas como aqueles que estão mortos há muito tempo. ^v3
 
-**3** Pois o inimigo perseguiu a minha alma; atropelou-me até ao chão; fez-me habitar na escuridão, como aqueles que morreram há muito. ^v3
+**4** Meu espírito está desfalecido dentro de mim; meu coração se desespera. ^v4
 
-**4** Pois que o meu espírito se angustia em mim; e o meu coração em mim está desolado. ^v4
+**5** Trago à lembrança os dias antigos; medito em todas as Tuas obras; reflito nos Teus feitos. ^v5
 
-**5** Lembro-me dos dias antigos; considero todos os teus feitos; medito na obra das tuas mãos. ^v5
+**6** Estendo minhas mãos a Ti em oração; minha alma tem sede de Ti como uma terra seca. (Selá.) ^v6
 
-**6** Estendo para ti as minhas mãos; a minha alma tem sede de ti, como terra sedenta. (Selá.) ^v6
+**7** Responde-me depressa, Yahweh, porque meu espírito desfalece. Não escondas a Tua face de mim, ou me tornarei como aqueles que descem à cova. ^v7
 
-**7** Ouve-me depressa, ó Senhor; o meu espírito desmaia. Não escondas de mim a tua face, para que não seja semelhante aos que descem à cova. ^v7
+**8** Faze-me ouvir da Tua bondade pela manhã, pois eu confio em Ti. Mostra-me o caminho onde devo andar, pois elevo a minha alma a Ti. ^v8
 
-**8** Faze-me ouvir a tua benignidade pela manhã, pois em ti confio; faze-me saber o caminho que devo seguir, porque a ti levanto a minha alma. ^v8
+**9** Livra-me dos meus inimigos, Yahweh; eu me refugio em Ti. ^v9
 
-**9** Livra-me, ó Senhor, dos meus inimigos; fujo para ti, para me esconder. ^v9
+**10** Ensina-me a fazer a Tua vontade, pois és meu Deus. Que Teu bom Espírito me guie na terra da retidão. ^v10
 
-**10** Ensina-me a fazer a tua vontade, pois és o meu Deus. O teu Espírito é bom; guie-me por terra plana. ^v10
+**11** Yahweh, vivifica-me por amor do Teu nome; na Tua justiça, livra a minha alma da tribulação. ^v11
 
-**11** Vivifica-me, ó Senhor, por amor do teu nome; por amor da tua justiça, tira a minha alma da angústia. ^v11
-
-**12** E por tua misericórdia desarraiga os meus inimigos, e destrói a todos os que angustiam a minha alma; pois sou teu servo. ^v12
+**12** Na Tua fidelidade, aniquila os meus adversários e destrói os meus inimigos, pois sou Teu servo. ^v12

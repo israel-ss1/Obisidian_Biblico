@@ -1,33 +1,30 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Jeremias|Jeremias]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Jeremias|Jeremias]]"
+tags: [biblia]
 ---
 
 # Jeremias 43
 
-**1** E sucedeu que, acabando Jeremias de falar a todo o povo todas as palavras do SENHOR seu Deus, com as quais o SENHOR seu Deus lho havia enviado, para que lhes dissesse todas estas palavras, ^v1
+**1** Quando Jeremias terminou de proclamar ao povo todas as palavras que Yahweh, seu Deus, o mandou dizer, ^v1
 
-**2** Então falaram Azarias, filho de Hosaías, e Joanã, filho de Careá, e todos os homens soberbos, dizendo a Jeremias: Tu dizes mentiras; o Senhor nosso Deus não te enviou a dizer: Não entreis no Egito, para ali habitar; ^v2
+**2** "Azarias, filho de Hosaías, Joanã, filho de Careá, e todos os homens arrogantes disseram para Jeremias: ""Tu estás dizendo mentiras. Yahweh, nosso Deus, não te enviou para dizer: 'Não entreis no Egito para viverdes lá.'" ^v2
 
-**3** Mas Baruque, filho de Nerias, te incita contra nós, para entregar-nos na mão dos caldeus, para nos matarem, ou para nos levarem cativos para babilônia. ^v3
+**3** "Mas é Baruque, filho de Nerias, que está te incitando contra nós, para nos entregar nas mãos dos caldeus, para que causem nossa morte e nos façam cativos na Babilônia.""" ^v3
 
-**4** Não obedeceu, pois, Joanã, filho de Careá, nem nenhum de todos os capitães dos exércitos, nem o povo todo, à voz do Senhor, para ficarem na terra de Judá. ^v4
+**4** Então, Joanã, filho de Careá, todos os príncipes do exército e todas as pessoas, desobedeceram à voz de Yahweh e habitaram na terra de Judá. ^v4
 
-**5** Antes tomou Joanã, filho de Careá, e todos os capitães dos exércitos a todo o restante de Judá, que havia voltado dentre todas as nações, para onde haviam sido lançados, para morarem na terra de Judá; ^v5
+**5** Joanã, filho de Careá e todos os comandantes dos exércitos tiraram todos os remanescentes de Judá, que retornaram das nações para onde eles foram dispersados, para viverem na terra de Judá. ^v5
 
-**6** Aos homens, e às mulheres, e aos meninos, e às filhas do rei, e a toda a alma que Nebuzaradã, capitão da guarda, deixara com Gedalias, filho de Aicão, filho de Safã; como também a Jeremias, o profeta, e a Baruque, filho de Nerias; ^v6
+**6** Eles tiraram os homens e as mulheres, as crianças e as filhas do rei, e toda pessoa a quem Nebuzaradã, o capitão da guarda do rei, havia deixado permanecer com Gedalias, filho de Aicam, filho de Safã. Eles também tiraram Jeremias, o profeta, e Baruque, filho de Nerias. ^v6
 
-**7** E entraram na terra do Egito, porque não obedeceram à voz do Senhor; e vieram até Tafnes. ^v7
+**7** Eles foram à terra do Egito, à Tafnes, porque desobedeceram à voz de Yahweh. ^v7
 
-**8** Então veio a palavra do Senhor a Jeremias, em Tafnes, dizendo: ^v8
+**8** Então, a palavra de Yahweh veio a Jeremias, em Tafnes, e disse: ^v8
 
-**9** Toma na tua mão pedras grandes, e esconde-as no barro, no forno que está à entrada da casa de Faraó, em Tafnes, perante os olhos dos homens de Judá, ^v9
+**9** """Pega algumas pedras largas em tuas mãos e, à vista do povo de Judá, esconda-as no pavimento de cimento, na entrada da casa de Faraó, em Tafnes." ^v9
 
-**10** E dize-lhes: Assim diz o SENHOR dos Exércitos, Deus de Israel: Eis que eu enviarei, e tomarei a Nabucodonosor, rei de babilônia, meu servo, e porei o seu trono sobre estas pedras que escondi; e ele estenderá a sua tenda real sobre elas. ^v10
+**10** Então, dize-lhes: 'Assim diz Yahweh dos Exércitos, Deus de Israel: Vede, Eu estou prestes a enviar mensageiros e trazer Nabucodonosor, rei da Babilônia, Meu servo. Colocarei seu trono sobre essas pedras que tu, Jeremias, enterraste. Nabucodonosor colocará seu pavilhão real sobre elas. ^v10
 
-**11** E virá, e ferirá a terra do Egito; entregando para a morte, quem é para a morte; e quem é para o cativeiro, para o cativeiro; e quem é para a espada, para a espada. ^v11
+**11** Pois ele virá e atacará a terra do Egito. Qualquer um que estiver destinado à morte, será entregue à morte. Qualquer um que estiver destinado ao cativeiro, será levado cativo. E qualquer um que estiver destinado à espada, será entregue à espada. ^v11
 
-**12** E lançarei fogo às casas dos deuses do Egito, e queimá-los-á, e levá-los-á cativos; e vestir-se-á da terra do Egito, como veste o pastor a sua roupa, e sairá dali em paz. ^v12
-
-**13** E quebrará as estátuas de Bete-Semes, que está na terra do Egito; e as casas dos deuses do Egito queimará a fogo. ^v13
+**12** "Então, Eu colocarei fogo nos templos dos deuses do Egito. Nabucodonosor os queimará ou os capturará. Ele limpará a terra do Egito, assim como os pastores limpam os insetos de suas vestes. Ele sairá daquele lugar intacto. Quebrará os pilares sagrados de Bete-Semes na terra do Egito. Ele queimará os templos dos deuses egípicios.""" ^v12

@@ -1,113 +1,112 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/João|João]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/João|João]]"
+tags: [biblia]
 ---
 
 # João 7
 
-**1** E depois disto Jesus andava pela Galiléia, e já não queria andar pela Judéia, pois os judeus procuravam matá-lo. ^v1
+**1** Após estas coisas, Jesus viajou pela Galileia, pois não queria andar pela Judeia, porque os judeus desejavam matá-Lo. ^v1
 
-**2** E estava próxima a festa dos judeus, a dos tabernáculos. ^v2
+**2** A festa judaica dos Tabernáculos estava próxima. ^v2
 
-**3** Disseram-lhe, pois, seus irmãos: Sai daqui, e vai para a Judéia, para que também os teus discípulos vejam as obras que fazes. ^v3
+**3** "Disseram-Lhe, então, seus irmãos: ""Deixa este lugar, e vai para a Judeia, assim os Teus discípulos poderão ver as coisas que Tu fazes;" ^v3
 
-**4** Porque não há ninguém que procure ser conhecido que faça coisa alguma em oculto. Se fazes estas coisas, manifesta-te ao mundo. ^v4
+**4** "porque ninguém faz nada em segredo quando quer ser conhecido publicamente. Se fazes essas coisas, mostra-Te para o mundo""." ^v4
 
-**5** Porque nem mesmo seus irmãos criam nele. ^v5
+**5** Pois nem mesmo os Seus irmãos acreditavam Nele. ^v5
 
-**6** Disse-lhes, pois, Jesus: Ainda não é chegado o meu tempo, mas o vosso tempo sempre está pronto. ^v6
+**6** "Então, disse-lhes Jesus: ""O Meu tempo ainda não chegou, mas o vosso tempo sempre está presente." ^v6
 
-**7** O mundo não vos pode odiar, mas ele me odeia a mim, porquanto dele testifico que as suas obras são más. ^v7
+**7** O mundo não pode vos odiar, mas odeia a Mim, porque Eu testifico que suas obras são más. ^v7
 
-**8** Subi vós a esta festa; eu não subo ainda a esta festa, porque ainda o meu tempo não está cumprido. ^v8
+**8** "Subi vós à festa. Eu não subo porque o Meu tempo ainda não está cumprido""." ^v8
 
-**9** E, havendo-lhes dito isto, ficou na Galiléia. ^v9
+**9** Após dizer-lhes essas coisas, Ele permaneceu na Galileia. ^v9
 
-**10** Mas, quando seus irmãos já tinham subido à festa, então subiu ele também, não manifestamente, mas como em oculto. ^v10
+**10** Contudo, após Seus irmãos subirem para a festa, Ele também subiu; não publicamente, mas em secreto. ^v10
 
-**11** Ora, os judeus procuravam-no na festa, e diziam: Onde está ele? ^v11
+**11** "Os judeus estavam procurando-O na festa, dizendo: ""Onde Ele está?""." ^v11
 
-**12** E havia grande murmuração entre a multidão a respeito dele. Diziam alguns: Ele é bom. E outros diziam: Não, antes engana o povo. ^v12
+**12** "Na multidão, havia várias opiniões sobre Ele. Alguns diziam: ""Ele é um bom homem""; outros diziam: ""Não; Ele engana as multidões""." ^v12
 
-**13** Todavia ninguém falava dele abertamente, por medo dos judeus. ^v13
+**13** Mesmo assim, ninguém falava abertamente sobre Ele, por medo dos judeus. ^v13
 
-**14** Mas, no meio da festa subiu Jesus ao templo, e ensinava. ^v14
+**14** Quando a festa estava na metade, Jesus subiu ao templo e começou a ensinar. ^v14
 
-**15** E os judeus maravilhavam-se, dizendo: Como sabe este letras, não as tendo aprendido? ^v15
+**15** "Então, os judeus ficaram admirados, e diziam: ""Como este homem sabe tanto sem nunca ter sido instruído?""." ^v15
 
-**16** Jesus lhes respondeu, e disse: A minha doutrina não é minha, mas daquele que me enviou. ^v16
+**16** "Jesus respondeu-lhes: ""O Meu ensino não é Meu, mas Daquele que Me enviou." ^v16
 
-**17** Se alguém quiser fazer a vontade dele, pela mesma doutrina conhecerá se ela é de Deus, ou se eu falo de mim mesmo. ^v17
+**17** Se alguém deseja realizar a Sua vontade, saberá sobre os Seus ensinos, se isso vem de Deus, ou se Eu falo de Mim mesmo. ^v17
 
-**18** Quem fala de si mesmo busca a sua própria glória; mas o que busca a glória daquele que o enviou, esse é verdadeiro, e não há nele injustiça. ^v18
+**18** Aquele que fala de si próprio procura sua glória, mas o que busca a glória daquele que o enviou, esse é verdadeiro, e não há injustiça nele. ^v18
 
-**19** Não vos deu Moisés a lei? e nenhum de vós observa a lei. Por que procurais matar-me? ^v19
+**19** "Não foi Moisés que vos deu a Lei? Contudo, nenhum de vós a pratica. Por que procurais matar-Me?""." ^v19
 
-**20** A multidão respondeu, e disse: Tens demônio; quem procura matar-te? ^v20
+**20** "A multidão respondeu: ""Tens um demônio. Quem procura matar-Te?""." ^v20
 
-**21** Respondeu Jesus, e disse-lhes: Fiz uma só obra, e todos vos maravilhais. ^v21
+**21** "Jesus respondeu e disse-lhes: ""Eu realizei uma só obra, e todos vós estais admirados com isso." ^v21
 
-**22** Pelo motivo de que Moisés vos deu a circuncisão (não que fosse de Moisés, mas dos pais), no sábado circuncidais um homem. ^v22
+**22** Moisés vos deu a circuncisão — não que isto tenha vindo de Moisés, mas dos patriarcas —, e no sábado circuncidais um homem. ^v22
 
-**23** Se o homem recebe a circuncisão no sábado, para que a lei de Moisés não seja quebrantada, indignais-vos contra mim, porque no sábado curei de todo um homem? ^v23
+**23** Se um homem é circuncidado no sábado, para que a Lei de Moisés não seja quebrada, por que estais enraivecidos por Eu ter curado um homem por completo no sábado? ^v23
 
-**24** Não julgueis segundo a aparência, mas julgai segundo a reta justiça. ^v24
+**24** "Não julgueis de acordo com a aparência, mas julgai corretamente""." ^v24
 
-**25** Então alguns dos de Jerusalém diziam: Não é este o que procuram matar? ^v25
+**25** "Alguns de Jerusalém diziam: ""Não é Este a quem eles procuram matar?." ^v25
 
-**26** E ei-lo aí está falando abertamente, e nada lhe dizem. Porventura sabem verdadeiramente os príncipes que de fato este é o Cristo? ^v26
+**26** E eis que Ele fala abertamente, e nada Lhe dizem. Será que as autoridades reconheceram que Este é realmente o Cristo?” ^v26
 
-**27** Todavia bem sabemos de onde este é; mas, quando vier o Cristo, ninguém saberá de onde ele é. ^v27
+**27** "Sabemos de onde Ele é, mas quando o Cristo vier, ninguém saberá de onde Ele é""." ^v27
 
-**28** Clamava, pois, Jesus no templo, ensinando, e dizendo: Vós conheceis-me, e sabeis de onde sou; e eu não vim de mim mesmo, mas aquele que me enviou é verdadeiro, o qual vós não conheceis. ^v28
+**28** "Então, Jesus levantou a voz no templo, ensinando e dizendo: ""Vós Me conheceis e sabeis de onde sou; não venho de Mim mesmo, mas Aquele que Me enviou é verdadeiro, e vós não O conheceis." ^v28
 
-**29** Mas eu conheço-o, porque dele sou e ele me enviou. ^v29
+**29** "Eu O conheço porque venho Dele e Ele Me enviou""." ^v29
 
-**30** Procuravam, pois, prendê-lo, mas ninguém lançou mão dele, porque ainda não era chegada a sua hora. ^v30
+**30** Então, eles procuravam prendê-Lo, mas ninguém Lhe pôs a mão porque a hora Dele não havia chegado. ^v30
 
-**31** E muitos da multidão creram nele, e diziam: Quando o Cristo vier, fará ainda mais sinais do que os que este tem feito? ^v31
+**31** "Todavia, muitos da multidão criam Nele. Eles diziam: ""Quando o Cristo vier, fará Ele mais sinais que Este homem tem feito?""." ^v31
 
-**32** Os fariseus ouviram que a multidão murmurava dele estas coisas; e os fariseus e os principais dos sacerdotes mandaram servidores para o prenderem. ^v32
+**32** Os fariseus ouviram a multidão sussurrar essas coisas sobre Jesus, e os principais sacerdotes e os fariseus enviaram oficiais para prendê-Lo. ^v32
 
-**33** Disse-lhes, pois, Jesus: Ainda um pouco de tempo estou convosco, e depois vou para aquele que me enviou. ^v33
+**33** "Então, Jesus lhes disse: ""Ainda estou convosco por um curto período de tempo, e então vou para Aquele que Me enviou." ^v33
 
-**34** Vós me buscareis, e não me achareis; e onde eu estou, vós não podeis vir. ^v34
+**34** "Vós Me buscareis, mas não Me encontrareis; e para onde vou, não podeis ir""." ^v34
 
-**35** Disseram, pois, os judeus uns para os outros: Para onde irá este, que o não acharemos? Irá porventura para os dispersos entre os gregos, e ensinará os gregos? ^v35
+**35** "Por esta razão, os judeus falavam entre si: ""Para onde Este homem irá, que não seremos capazes de encontrá-Lo? Ele irá para a dispersão entre os gregos, para ensiná-los?" ^v35
 
-**36** Que palavra é esta que disse: Buscar-me-eis, e não me achareis; e: Aonde eu estou vós não podeis ir? ^v36
+**36** "O que significa esta palavra que Ele falou: 'Vós Me buscareis e não Me encontrareis; para onde vou, não podeis ir'?""." ^v36
 
-**37** E no último dia, o grande dia da festa, Jesus pôs-se em pé, e clamou, dizendo: Se alguém tem sede, venha a mim, e beba. ^v37
+**37** "Chegando o último dia, o grande dia da festa, Jesus levantou-Se e em alta voz disse-lhes: ""Se alguém tem sede, venha a Mim e beba." ^v37
 
-**38** Quem crê em mim, como diz a Escritura, rios de água viva correrão do seu ventre. ^v38
+**38** "Aquele que crê em Mim, como diz a Escritura, do seu interior fluirão rios de água viva""." ^v38
 
-**39** E isto disse ele do Espírito que haviam de receber os que nele cressem; porque o Espírito Santo ainda não fora dado, por ainda Jesus não ter sido glorificado. ^v39
+**39** Ele disse isso sobre o Espírito que haviam de receber os que Nele cressem; o Espírito ainda não havia sido entregue, porque Jesus ainda não tinha sido glorificado. ^v39
 
-**40** Então muitos da multidão, ouvindo esta palavra, diziam: Verdadeiramente este é o Profeta. ^v40
+**40** "Alguns da multidão, quando ouviram essas palavras, disseram: ""Este certamente é o Profeta""." ^v40
 
-**41** Outros diziam: Este é o Cristo; mas diziam outros: Vem, pois, o Cristo da Galiléia? ^v41
+**41** "Outros disseram: ""Este é o Cristo"". Mas alguns disseram: ""Poderia o Cristo vir da Galileia?" ^v41
 
-**42** Não diz a Escritura que o Cristo vem da descendência de Davi, e de Belém, da aldeia de onde era Davi? ^v42
+**42** "A Escritura não diz que o Cristo virá da descendência de Davi, e de Belém, do povoado de onde era Davi?""." ^v42
 
-**43** Assim entre o povo havia dissensão por causa dele. ^v43
+**43** Então, iniciou-se uma divisão entre a multidão por causa Dele. ^v43
 
-**44** E alguns deles queriam prendê-lo, mas ninguém lançou mão dele. ^v44
+**44** Alguns dentre eles queriam prendê-Lo, porém ninguém Lhe pôs a mão. ^v44
 
-**45** E os servidores foram ter com os principais dos sacerdotes e fariseus; e eles lhes perguntaram: Por que não o trouxestes? ^v45
+**45** "Então, os oficiais vieram até os principais sacerdotes e fariseus, e estes lhes perguntaram: ""Por que não O trouxestes?""." ^v45
 
-**46** Responderam os servidores: Nunca homem algum falou assim como este homem. ^v46
+**46** "Os oficiais responderam: ""Ninguém jamais falou como Ele""." ^v46
 
-**47** Responderam-lhes, pois, os fariseus: Também vós fostes enganados? ^v47
+**47** "Por isso, os fariseus responderam-lhes: ""Vós também fostes enganados?" ^v47
 
-**48** Creu nele porventura algum dos principais ou dos fariseus? ^v48
+**48** Alguém de entre as autoridades ou algum dos fariseus acreditaram Nele? ^v48
 
-**49** Mas esta multidão, que não sabe a lei, é maldita. ^v49
+**49** "Mas a multidão, que não conhece a Lei, é maldita""." ^v49
 
-**50** Nicodemos, que era um deles (o que de noite fora ter com Jesus), disse-lhes: ^v50
+**50** Nicodemos, um dos fariseus que havia-se encontrado com Jesus anteriormente, disse-lhes: ^v50
 
-**51** Porventura condena a nossa lei um homem sem primeiro o ouvir e ter conhecimento do que faz? ^v51
+**51** """As nossas leis julgam um homem sem primeiro ouvi-lo ou saber o que ele faz?""." ^v51
 
-**52** Responderam eles, e disseram-lhe: És tu também da Galiléia? Examina, e verás que da Galiléia nenhum profeta surgiu. ^v52
+**52** "Eles responderam: ""És também galileu? Procura e vê que nenhum profeta surge da Galileia""." ^v52
 
-**53** E cada um foi para sua casa. ^v53
+**53** [Então, retornaram todos para suas casas. ^v53

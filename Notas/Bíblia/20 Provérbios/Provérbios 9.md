@@ -1,43 +1,42 @@
 ---
-Livro: "[[Provérbios|Provérbios]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Provérbios|Provérbios]]"
+tags: [biblia]
 ---
 
 # Provérbios 9
 
-**1** A sabedoria já edificou a sua casa, já lavrou as suas sete colunas. ^v1
+**1** A sabedoria já edificou sua própria casa; ela talhou sete pilares de pedras. ^v1
 
-**2** Já abateu os seus animais e misturou o seu vinho, e já preparou a sua mesa. ^v2
+**2** Ela já abateu seus animais para a refeição, misturou seu vinho e pôs a mesa. ^v2
 
-**3** Já ordenou às suas criadas, e está convidando desde as alturas da cidade, dizendo: ^v3
+**3** Ela enviou convites com suas criadas e exclamou dos pontos mais altos da cidade: ^v3
 
-**4** Quem é simples, volte-se para cá. Aos faltos de senso diz: ^v4
+**4** """Vós que sois ingênuos, vinde para cá!"". Ela fala aos que não têm bom senso:" ^v4
 
-**5** Vinde, comei do meu pão, e bebei do vinho que tenho misturado. ^v5
+**5** """Vinde! Comei da minha comida e bebei do vinho que misturei." ^v5
 
-**6** Deixai os insensatos e vivei; e andai pelo caminho do entendimento. ^v6
+**6** Deixai vossas atitudes insensatas e vivei; andai no caminho do entendimento. ^v6
 
-**7** O que repreende o escarnecedor, toma afronta para si; e o que censura o ímpio recebe a sua mancha. ^v7
+**7** Quem corrige um zombador recebe afronta, e quem repreende uma pessoa maldosa recebe insultos. ^v7
 
-**8** Não repreendas o escarnecedor, para que não te odeie; repreende o sábio, e ele te amará. ^v8
+**8** Não repreendas o zombador, ou ele te odiará; repreende o sábio, e ele te amará. ^v8
 
-**9** Dá instrução ao sábio, e ele se fará mais sábio; ensina o justo e ele aumentará em entendimento. ^v9
+**9** Dá instrução a um sábio, e ele se tornará ainda mais sábio; ensina o justo, e ele crescerá em seu conhecimento. ^v9
 
-**10** O temor do Senhor é o princípio da sabedoria, e o conhecimento do Santo a prudência. ^v10
+**10** O temor de Yahweh é o princípio da sabedoria, e o conhecimento do Santo é o entendimento. ^v10
 
-**11** Porque por meu intermédio se multiplicam os teus dias, e anos de vida se te aumentarão. ^v11
+**11** Pois, através de Mim, teus dias serão multiplicados, e anos de vida te serão acrescentados. ^v11
 
-**12** Se fores sábio, para ti serás sábio; e, se fores escarnecedor, só tu o suportarás. ^v12
+**12** Se tu fores sábio, serás sábio para ti mesmo, mas, se tu fores zombador, suportarás isso sozinho”. ^v12
 
-**13** A mulher louca é alvoroçadora; é simples e nada sabe. ^v13
+**13** A insensatez é mulher ignorante; ela é indisciplinada e não sabe de nada. ^v13
 
-**14** Assenta-se à porta da sua casa numa cadeira, nas alturas da cidade, ^v14
+**14** Ela se assenta à porta de sua casa, toma um assento nos lugares altos da cidade. ^v14
 
-**15** E põe-se a chamar aos que vão pelo caminho, e que passam reto pelas veredas, dizendo: ^v15
+**15** Ela chama os que passam, aqueles que andam em linha reta em seus caminhos. ^v15
 
-**16** Quem é simples, volte-se para cá. E aos faltos de entendimento ela diz: ^v16
+**16** """Vinde aqui, vós que sois ingênuos!"", ela diz para aqueles que não têm sensatez:" ^v16
 
-**17** As águas roubadas são doces, e o pão tomado às escondidas é agradável. ^v17
+**17** """As águas roubadas são doces, e o pão comido em secreto é delicioso""." ^v17
 
-**18** Mas não sabem que ali estão os mortos; os seus convidados estão nas profundezas do inferno. ^v18
+**18** Eles, porém, não sabem que a morte está ali, que seus convidados estão nas profundezas do mundo dos mortos. ^v18

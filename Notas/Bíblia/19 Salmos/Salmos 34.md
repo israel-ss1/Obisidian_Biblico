@@ -1,51 +1,48 @@
 ---
-Livro: "[[Salmos|Salmos]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Salmos|Salmos]]"
+tags: [biblia]
 ---
 
 # Salmos 34
 
-**1** Louvarei ao SENHOR em todo o tempo; o seu louvor estará continuamente na minha boca. ^v1
+**2** Eu louvarei Yahweh! Que os oprimidos ouçam e regozijem-se. ^v2
 
-**2** A minha alma se gloriará no Senhor; os mansos o ouvirão e se alegrarão. ^v2
+**3** Louvai Yahweh comigo; exaltemos juntos o Seu nome. ^v3
 
-**3** Engrandecei ao Senhor comigo; e juntos exaltemos o seu nome. ^v3
+**4** Eu busquei Yahweh e Ele me respondeu; deu-me vitória sobre todos os meus medos. ^v4
 
-**4** Busquei ao Senhor, e ele me respondeu; livrou-me de todos os meus temores. ^v4
+**5** Aqueles que olham para Ele ficam radiantes e suas faces não são envergonhadas. ^v5
 
-**5** Olharam para ele, e foram iluminados; e os seus rostos não ficaram confundidos. ^v5
+**6** Este homem oprimido clamou e Yahweh o ouviu; Ele o libertou de todas as suas angústias. ^v6
 
-**6** Clamou este pobre, e o Senhor o ouviu, e o salvou de todas as suas angústias. ^v6
+**7** O Anjo de Yahweh acampa-se ao redor dos que O temem e os livra. ^v7
 
-**7** O anjo do Senhor acampa-se ao redor dos que o temem, e os livra. ^v7
+**8** Experimentai e vede que Yahweh é bom; feliz é o homem que Nele se refugia. ^v8
 
-**8** Provai, e vede que o Senhor é bom; bem-aventurado o homem que nele confia. ^v8
+**9** Temei Yahweh, vós os Seus santos; nada falta aos que O temem. ^v9
 
-**9** Temei ao Senhor, vós, os seus santos, pois nada falta aos que o temem. ^v9
+**10** Aos leões jovens, às vezes, falta comida e sofrem com a fome, mas àqueles que buscam Yahweh nada de bom faltará. ^v10
 
-**10** Os filhos dos leões necessitam e sofrem fome, mas àqueles que buscam ao Senhor bem nenhum faltará. ^v10
+**11** Vinde, filhos, escutai-me; eu ensinarei a vós o temor de Yahweh. ^v11
 
-**11** Vinde, meninos, ouvi-me; eu vos ensinarei o temor do Senhor. ^v11
+**12** Qual homem que deseja a vida, e anseia viver muitos dias para ver o bem? ^v12
 
-**12** Quem é o homem que deseja a vida, que quer largos dias para ver o bem? ^v12
+**13** Guarda a tua língua do mal e os teus lábios de proferirem engano. ^v13
 
-**13** Guarda a tua língua do mal, e os teus lábios de falarem o engano. ^v13
+**14** Afasta-te do mal e faze o bem; busca a paz e segue-a. ^v14
 
-**14** Aparta-te do mal, e faze o bem; procura a paz, e segue-a. ^v14
+**15** Os olhos de Yahweh estão sobre os justos e Seus ouvidos, atentos ao seu clamor. ^v15
 
-**15** Os olhos do Senhor estão sobre os justos, e os seus ouvidos atentos ao seu clamor. ^v15
+**16** A face de Yahweh está contra aqueles que praticam o mal, a fim de remover a sua memória da terra. ^v16
 
-**16** A face do Senhor está contra os que fazem o mal, para desarraigar da terra a memória deles. ^v16
+**17** Os justos clamam e Yahweh ouve, e os livra de todas as suas aflições. ^v17
 
-**17** Os justos clamam, e o Senhor os ouve, e os livra de todas as suas angústias. ^v17
+**18** Yahweh está próximo dos quebrantados de coração e salva os de espírito abatido. ^v18
 
-**18** Perto está o Senhor dos que têm o coração quebrantado, e salva os contritos de espírito. ^v18
+**19** Muitas são as aflições do justo, mas Yahweh o livra de todas. ^v19
 
-**19** Muitas são as aflições do justo, mas o Senhor o livra de todas. ^v19
+**20** Ele protege seus ossos; nenhum deles será quebrado. ^v20
 
-**20** Ele lhe guarda todos os seus ossos; nem sequer um deles se quebra. ^v20
+**21** A maldade matará o corrupto; aqueles que odeiam o justo serão condenados. ^v21
 
-**21** A malícia matará o ímpio, e os que odeiam o justo serão punidos. ^v21
-
-**22** O Senhor resgata a alma dos seus servos, e nenhum dos que nele confiam será punido. ^v22
+**22** Yahweh redime a alma dos seus servos; dos que Nele se refugiam, nenhum será condenado. ^v22

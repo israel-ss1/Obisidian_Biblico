@@ -1,33 +1,32 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Amós|Amós]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Amós|Amós]]"
+tags: [biblia]
 ---
 
 # Amós 4
 
-**1** Ouvi esta palavra vós, vacas de Basã, que estais no monte de Samaria, que oprimis aos pobres, que esmagais os necessitados, que dizeis a vossos senhores: Dai cá, e bebamos. ^v1
+**1** "Ouvi esta palavra, vacas de Basã, vós que estais no monte de Samaria, que oprimis o pobre, que esmagais o necessitado, e dizeis a vossos maridos: ""Trazei-nos bebidas""." ^v1
 
-**2** Jurou o Senhor DEUS, pela sua santidade, que dias estão para vir sobre vós, em que vos levarão com ganchos e a vossos descendentes com anzóis de pesca. ^v2
+**2** "O Senhor Yahweh jurou por Sua santidade: ""Vede, dias virão sobre vós, quando vos levarão com anzóis, os últimos de vós com arpões." ^v2
 
-**3** E saireis pelas brechas, uma após outra, e sereis lançadas para Harmom, disse o Senhor. ^v3
+**3** "Saireis pelas brechas dos muros, cada um de vós atravessareis e sereis lançados em direção do Harmon!"" Assim diz Yahweh." ^v3
 
-**4** Vinde a Betel, e transgredi; a Gilgal, e multiplicai as transgressões; e cada manhã trazei os vossos sacrifícios, e os vossos dízimos de três em três dias. ^v4
+**4** """Vinde para Betel e pecai, ide para Gilgal e multiplicai os pecados. Trazei, todas as manhãs, os vossos sacrifícios; e os vossos dízimos, de três em três dias." ^v4
 
-**5** E oferecei o sacrifício de louvores do que é levedado, e apregoai as ofertas voluntárias, publicai-as; porque disso gostais, ó filhos de Israel, disse o Senhor DEUS. ^v5
+**5** "Oferecei sacrifícios de ações de graça com pão; proclamai ofertas voluntárias, anunciai-as, pois isso te agrada, ó povo de Israel!"" Assim diz o Senhor Yahweh." ^v5
 
-**6** Por isso também vos dei limpeza de dentes em todas as vossas cidades, e falta de pão em todos os vossos lugares; contudo não vos convertestes a mim, disse o Senhor. ^v6
+**6** """Eu vos deixei de dentes limpos, em todas as vossas cidades, e deixei faltar pão em todos os vossos lugares. No entanto, vós não voltastes para Mim"", assim diz Yahweh." ^v6
 
-**7** Além disso, retive de vós a chuva quando ainda faltavam três meses para a ceifa; e fiz que chovesse sobre uma cidade, e não chovesse sobre a outra cidade; sobre um campo choveu, mas o outro, sobre o qual não choveu, secou-se. ^v7
+**7** """Eu também retive de vós a chuva quando ainda faltavam três meses para a colheita. Eu fiz chover sobre uma cidade, e não fiz chover sobre a outra. Houve chuva em uma parte da terra, mas a parte de terra em que não choveu, essa secou." ^v7
 
-**8** E andaram errantes duas ou três cidades, indo a outra cidade para beberem água, mas não se saciaram; contudo não vos convertestes a mim, disse o Senhor. ^v8
+**8** "Duas ou três cidades cambaleavam até outra cidade para beber água, mas as pessoas não se saciavam. No entanto, vós não voltastes para Mim!"" assim diz Yahweh." ^v8
 
-**9** Feri-vos com queimadura, e com ferrugem; a multidão das vossas hortas, e das vossas vinhas, e das vossas figueiras, e das vossas oliveiras, comeu a locusta; contudo não vos convertestes a mim, disse o Senhor. ^v9
+**9** """Eu vos afligi com ferrugem e mofo. A multidão de teus jardins, tuas vinhas, tuas figueiras e tuas oliveiras, o gafanhoto a devorou . No entanto, vós não voltastes para Mim"", assim diz Yahweh." ^v9
 
-**10** Enviei a peste contra vós, à maneira do Egito; os vossos jovens matei à espada, e os vossos cavalos deixei levar presos, e o mau cheiro dos vossos arraiais fiz subir às vossas narinas; contudo não vos convertestes a mim, disse o Senhor. ^v10
+**10** """Eu enviei a praga sobre vós, como no Egito. Eu matei vossos jovens com a espada, arrastei vossos cavalos e fiz o mau cheiro dos vossos campos chegar a vossas narinas. No entanto, não vos voltastes para Mim"", assim diz Yahweh." ^v10
 
-**11** Subverti a alguns dentre vós, como Deus subverteu a Sodoma e Gomorra, e vós fostes como um tição arrebatado do incêndio; contudo não vos convertestes a mim, disse o Senhor. ^v11
+**11** """Eu derrubei cidades no meio de ti, assim como derrubei Sodoma e Gomorra. Vós éreis como um tição tirado do fogo; no entanto, não voltastes para Mim"", assim diz Yahweh." ^v11
 
-**12** Portanto, assim te farei, ó Israel! E porque isso te farei, prepara-te, ó Israel, para te encontrares com o teu Deus. ^v12
+**12** Portanto, Eu farei algo terrível contigo, Israel! E porque Eu farei algo terrível contigo, prepara-te para te encontrares com teu Deus, Israel! ^v12
 
-**13** Porque eis aqui o que forma os montes, e cria o vento, e declara ao homem qual seja o seu pensamento, o que faz da manhã trevas, e pisa os altos da terra; o Senhor, o Deus dos Exércitos, é o seu nome. ^v13
+**13** Porque é Ele que forma as montanhas e também cria o vento, revela Seus pensamentos à humanidade, faz a escuridão da manhã e pisa sobre os lugares altos da Terra. Yahweh, Deus dos Exércitos, é Seu Nome. ^v13

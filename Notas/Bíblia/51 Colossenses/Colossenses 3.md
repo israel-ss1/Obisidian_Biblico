@@ -1,57 +1,56 @@
 ---
-Livro: "[[Colossenses|Colossenses]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Colossenses|Colossenses]]"
+tags: [biblia]
 ---
 
 # Colossenses 3
 
-**1** Portanto, se já ressuscitastes com Cristo, buscai as coisas que são de cima, onde Cristo está assentado à destra de Deus. ^v1
+**1** Se então Deus vos ressuscitou com Cristo, procurai as coisas que são do alto, onde Cristo está assentado à direita de Deus. ^v1
 
-**2** Pensai nas coisas que são de cima, e não nas que são da terra; ^v2
+**2** Pensai nas coisas que são do alto, não nas que são terrenas, ^v2
 
-**3** Porque já estais mortos, e a vossa vida está escondida com Cristo em Deus. ^v3
+**3** porque já morrestes e vossa vida está escondida com Cristo em Deus. ^v3
 
-**4** Quando Cristo, que é a nossa vida, se manifestar, então também vós vos manifestareis com ele em glória. ^v4
+**4** "Quando Cristo, que é vossa vida,for revelado, então,vós também sereis revelados com Ele em glória [Nota: Algumas versões trazem: ""Quando Cristo, que é nossa vida, aparecer, então, também aparecereis com Ele em glória.""]." ^v4
 
-**5** Mortificai, pois, os vossos membros, que estão sobre a terra: a fornicação, a impureza, o afeição desordenada, a vil concupiscência, e a avareza, que é idolatria; ^v5
+**5** Portanto, mortificai os desejos pecaminosos da natureza terrena: imoralidade sexual, impureza, paixões, maus desejos e a ganância, que é idolatria. ^v5
 
-**6** Pelas quais coisas vem a ira de Deus sobre os filhos da desobediência; ^v6
+**6** "É por causa dessas coisas que a ira de Deus vem sobre os filhos da desobediência [Nota: Algumas versões trazem: ""É por essas coisas que a maldição de Deus vem.""]." ^v6
 
-**7** Nas quais, também, em outro tempo andastes, quando vivíeis nelas. ^v7
+**7** E foi nestas coisas que uma vez andastes no passado, quando vivíeis nelas. ^v7
 
-**8** Mas agora, despojai-vos também de tudo: da ira, da cólera, da malícia, da maledicência, das palavras torpes da vossa boca. ^v8
+**8** Mas agora deveis vos despir de todas estas coisas: ira, raiva, más intenções, insultos e palavras obscenas dos vossos lábios. ^v8
 
-**9** Não mintais uns aos outros, pois que já vos despistes do velho homem com os seus feitos, ^v9
+**9** Não mintais uns aos outros, porque já vos despistes do velho homem e suas práticas, ^v9
 
-**10** E vos vestistes do novo, que se renova para o conhecimento, segundo a imagem daquele que o criou; ^v10
+**10** e vos revestistes do novo homem, o qual é renovado para o pleno conhecimento, segundo a imagem Daquele que o criou. ^v10
 
-**11** Onde não há grego, nem judeu, circuncisão, nem incircuncisão, bárbaro, cita, servo ou livre; mas Cristo é tudo, e em todos. ^v11
+**11** Sendo assim, não há grego nem judeu, circuncisão ou incircuncisão, nem bárbaro nem cita, nem escravo nem livre, mas Cristo é tudo e está em todos. ^v11
 
-**12** Revesti-vos, pois, como eleitos de Deus, santos e amados, de entranhas de misericórdia, de benignidade, humildade, mansidão, longanimidade; ^v12
+**12** Portanto, revesti-vos pois, como eleitos de Deus, santos e amados, de profundos sentimentos de misericórdia, bondade, humildade, mansidão e paciência. ^v12
 
-**13** Suportando-vos uns aos outros, e perdoando-vos uns aos outros, se alguém tiver queixa contra outro; assim como Cristo vos perdoou, assim fazei vós também. ^v13
+**13** Suportai-vos uns aos outros, sede graciosos uns para com os outros. Se alguém tem algo contra outrem, perdoai da mesma forma que o Senhor vos perdoou. ^v13
 
-**14** E, sobre tudo isto, revesti-vos de amor, que é o vínculo da perfeição. ^v14
+**14** Sobre todas estas coisas, está o amor, que é o vínculo da perfeição. ^v14
 
-**15** E a paz de Deus, para a qual também fostes chamados em um corpo, domine em vossos corações; e sede agradecidos. ^v15
+**15** Que a paz de Cristo governe os vossos corações. Foi nesta paz que vós fostes chamados em um só corpo; e sede agradecidos. ^v15
 
-**16** A palavra de Cristo habite em vós abundantemente, em toda a sabedoria, ensinando-vos e admoestando-vos uns aos outros, com salmos, hinos e cânticos espirituais, cantando ao Senhor com graça em vosso coração. ^v16
+**16** Que a palavra de Cristo habite em vós ricamente. Com toda sabedoria, ensinai e admoestai-vos uns aos outros com salmos, hinos e cânticos espirituais. Cantai com gratidão a Deus em vossos corações. ^v16
 
-**17** E, quanto fizerdes por palavras ou por obras, fazei tudo em nome do Senhor Jesus, dando por ele graças a Deus Pai. ^v17
+**17** Qualquer coisa que façais em palavras ou ações, fazei tudo em nome do Senhor Jesus, dando graças a Deus Pai por meio Dele. ^v17
 
-**18** Vós, mulheres, estai sujeitas a vossos próprios maridos, como convém no Senhor. ^v18
+**18** Esposas, sede submissas aos vossos maridos, como convém no Senhor. ^v18
 
-**19** Vós, maridos, amai a vossas mulheres, e não vos irriteis contra elas. ^v19
+**19** Maridos, amai vossas esposas e não as trateis com amargura. ^v19
 
-**20** Vós, filhos, obedecei em tudo a vossos pais, porque isto é agradável ao Senhor. ^v20
+**20** Filhos, obedecei aos vossos pais em todas as coisas, porque isso é agradável ao Senhor. ^v20
 
-**21** Vós, pais, não irriteis a vossos filhos, para que não percam o ânimo. ^v21
+**21** Pais, não irriteis os vossos filhos, para que eles não sejam desencorajados. ^v21
 
-**22** Vós, servos, obedecei em tudo a vossos senhores segundo a carne, não servindo só na aparência, como para agradar aos homens, mas em simplicidade de coração, temendo a Deus. ^v22
+**22** Escravos, obedecei aos vossos senhores em todas as coisas, não somente quando eles estão olhando para os bajular, mas com um coração sincero, que teme ao Senhor. ^v22
 
-**23** E tudo quanto fizerdes, fazei-o de todo o coração, como ao Senhor, e não aos homens, ^v23
+**23** O que quer que façais, fazei-o de todo coração como para o Senhor e não para homens. ^v23
 
-**24** Sabendo que recebereis do Senhor o galardão da herança, porque a Cristo, o Senhor, servis. ^v24
+**24** Sabendo que recebereis do Senhor a recompensa da vossa herança. É ao Senhor Jesus a quem servis. ^v24
 
-**25** Mas quem fizer agravo receberá o agravo que fizer; pois não há acepção de pessoas. ^v25
+**25** Pois qualquer um que praticar injustiça receberá a penalidade pela injustiça que fez, e não há parcialidade. ^v25

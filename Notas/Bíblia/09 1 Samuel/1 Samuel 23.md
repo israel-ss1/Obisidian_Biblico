@@ -1,65 +1,64 @@
 ---
-Livro: "[[1 Samuel|1 Samuel]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/1 Samuel|1 Samuel]]"
+tags: [biblia]
 ---
 
 # 1 Samuel 23
 
-**1** E foi anunciado a Davi, dizendo: Eis que os filisteus pelejam contra Queila, e saqueiam as eiras. ^v1
+**1** "Disseram a Davi: ""Vê, os filisteus estão lutando contra Queila e estão saqueando as eiras""." ^v1
 
-**2** E consultou Davi ao Senhor, dizendo: Irei eu, e ferirei a estes filisteus? E disse o Senhor a Davi: Vai, e ferirás aos filisteus, e livrarás a Queila. ^v2
+**2** "Então Davi clamou a Yahweh por ajuda e perguntou-Lhe: ""Devo ir e atacar esses filisteus?"". Yahweh disse a Davi: ""Vai, ataca os filisteus e salva o povo de Queila""." ^v2
 
-**3** Porém os homens de Davi lhe disseram: Eis que tememos aqui em Judá, quanto mais indo a Queila contra os esquadrões dos filisteus. ^v3
+**3** "Os homens de Davi disseram a ele: ""Vê, estamos amedrontados aqui em Judá. Quanto mais, então, ficaremos se formos para Queila contra o exército dos filisteus?""." ^v3
 
-**4** Então Davi tornou a consultar ao Senhor, e o Senhor lhe respondeu, e disse: Levanta-te, desce a Queila, porque te dou os filisteus na tua mão. ^v4
+**4** "Então Davi novamente clamou a Yahweh por ajuda, Yahweh respondeu-lhe: ""Levanta-te e desce a Queila, pois Eu te darei vitória sobre os filisteus""." ^v4
 
-**5** Então Davi partiu com os seus homens a Queila, e pelejou contra os filisteus, e levou os gados, e fez grande estrago entre eles; e Davi livrou os moradores de Queila. ^v5
+**5** Davi e seus homens foram a Queila e lutaram contra os filisteus. Conduziram os rebanhos deles e atacaram-nos com grande matança. Assim, Davi salvou os habitantes de Queila. ^v5
 
-**6** E sucedeu que, quando Abiatar, filho de Aimeleque, fugiu para Davi, a Queila, desceu com o éfode na mão. ^v6
+**6** Quando Abiatar, filho de Aimeleque, fugiu para encontrar Davi em Queila, veio com um manto sacerdotal em suas mãos. ^v6
 
-**7** E foi anunciado a Saul que Davi tinha ido a Queila, e disse Saul: Deus o entregou nas minhas mãos, pois está encerrado, entrando numa cidade de portas e ferrolhos. ^v7
+**7** "Foi dito a Saul que Davi havia partido para Queila. Saul disse: ""Deus o entregou nas minhas mãos. Ele está confinado, pois entrou numa cidade que tem portões e trancas""." ^v7
 
-**8** Então Saul mandou chamar a todo o povo à peleja, para que descessem a Queila, para cercar a Davi e os seus homens. ^v8
+**8** Saul convocou todos do seu exército para o combate, em direção a Queila, para cercar Davi e seus homens. ^v8
 
-**9** Sabendo, pois, Davi, que Saul maquinava este mal contra ele, disse a Abiatar, sacerdote: Traze aqui o éfode. ^v9
+**9** "Davi sabia que Saul estava conspirando o mal contra ele. Então, disse ao sacerdote Abiatar: ""Traze aqui o manto sacerdotal""." ^v9
 
-**10** E disse Davi: Ó Senhor, Deus de Israel, teu servo tem ouvido que Saul procura vir a Queila, para destruir a cidade por causa de mim. ^v10
+**10** "Davi disse: ""Yahweh, Deus de Israel, de fato o Teu servo tem ouvido que Saul busca vir a Queila, para destruir a cidade por minha causa." ^v10
 
-**11** Entregar-me-ão os cidadãos de Queila na sua mão? Descerá Saul, como o teu servo tem ouvido? Ah! Senhor Deus de Israel! Faze-o saber ao teu servo. E disse o Senhor: Descerá. ^v11
+**11** "Será que os homens de Queila me entregarão em suas mãos? Será que Saul descerá, conforme Teu servo tem ouvido? Yahweh, Deus de Israel, Te imploro, agrada-Te em falar com Teu servo"". Yahweh disse: ""Ele descerá""." ^v11
 
-**12** Disse mais Davi: Entregar-me-ão os cidadãos de Queila, a mim e aos meus homens, nas mãos de Saul? E disse o Senhor: Entregarão. ^v12
+**12** "Assim, disse Davi: ""Será que os homens de Queila entregarão a mim e a meus homens nas mãos de Saul?"". Yahweh disse: ""Eles vos entregarão""." ^v12
 
-**13** Então Davi se levantou com os seus homens, uns seiscentos, e saíram de Queila, e foram-se aonde puderam; e sendo anunciado a Saul, que Davi escapara de Queila, cessou de sair contra ele. ^v13
+**13** Davi e seus homens, que eram cerca de seiscentos, levantaram-se e saíram de Queila, e iam de lugar em lugar. Foi dito a Saul que Davi havia escapado de Queila; então, ele parou de persegui-lo. ^v13
 
-**14** E Davi permaneceu no deserto, nos lugares fortes, e ficou em um monte no deserto de Zife; e Saul o buscava todos os dias, porém Deus não o entregou na sua mão. ^v14
+**14** Davi permaneceu em lugares seguros no deserto, numa região montanhosa do deserto de Zife. Saul procurava por ele todos os dias, mas Deus não o entregava em suas mãos. ^v14
 
-**15** Vendo, pois, Davi, que Saul saíra à busca da sua vida, permaneceu no deserto de Zife, num bosque. ^v15
+**15** Davi percebeu que Saul havia saído a fim de tirar-lhe a vida; nesse momento, Davi estava no deserto de Zife, em Horesa. ^v15
 
-**16** Então se levantou Jônatas, filho de Saul, e foi para Davi no bosque, e confortou a sua mão em Deus; ^v16
+**16** Então, Jônatas, filho de Saul, levantou-se e foi até Davi em Horesa e o fortaleceu em Deus. ^v16
 
-**17** E disse-lhe: Não temas, que não te achará a mão de Saul, meu pai; porém tu reinarás sobre Israel, e eu serei contigo o segundo; o que também Saul, meu pai, bem sabe. ^v17
+**17** "Ele lhe disse: ""Não temas! Pois as mãos do meu pai, Saul, não te encontrarão. Serás rei sobre Israel, e eu estarei próximo a ti. Saul, meu pai, também sabe disso""." ^v17
 
-**18** E ambos fizeram aliança perante o Senhor; Davi ficou no bosque, e Jônatas voltou para a sua casa. ^v18
+**18** Fizeram eles um pacto diante de Yahweh. Davi permaneceu em Horesa, e Jônatas foi para casa. ^v18
 
-**19** Então subiram os zifeus a Saul, a Gibeá, dizendo: Não se escondeu Davi entre nós, nos lugares fortes no bosque, no outeiro de Haquilá, que está à mão direita de Jesimom? ^v19
+**19** "Os Zifeus vieram a Saul em Gibeá e disseram: ""Não está Davi escondido entre nós no forte de Horesa, no monte de Haquila, no sul de Jesimom?" ^v19
 
-**20** Agora, pois, ó rei, apressadamente desce conforme a todo o desejo da tua alma; a nós cumpre entregá-lo nas mãos do rei. ^v20
+**20** "Agora desce, rei! De acordo com teu desejo, desce! Nossa parte será entregá-lo nas mãos do rei""." ^v20
 
-**21** Então disse Saul: Bendito sejais vós do Senhor, porque vos compadecestes de mim. ^v21
+**21** "Disse Saul: ""Sede abençoados por Yahweh, pois tivestes compaixão de mim." ^v21
 
-**22** Ide, pois, e diligenciai ainda mais, e sabei e notai o lugar que freqüenta, e quem o tenha visto ali; porque me foi dito que é astutíssimo. ^v22
+**22** Ide, certificai-vos. Informai-vos e descobri onde está seu lugar escondido e quem o viu lá. Tenho sido informado de que ele é muito astuto. ^v22
 
-**23** Por isso atentai bem, e informai-vos acerca de todos os esconderijos, em que ele se esconde; e então voltai para mim com toda a certeza, e ir-me-ei convosco; e há de ser que, se estiver naquela terra, o buscarei entre todos os milhares de Judá. ^v23
+**23** "Então, vede e tomai cohecimento de todos os lugares onde ele se esconde. Voltai a mim com a informação certa, e, então, eu retornarei convosco. Se ele estiver na terra, eu o buscarei entre todos os milhares de Judá""." ^v23
 
-**24** Então se levantaram eles e se foram a Zife, adiante de Saul; Davi, porém, e os seus homens estavam no deserto de Maom, na campina, à direita de Jesimom. ^v24
+**24** Então, levantaram-se e foram a Zife, adiante de Saul. Ora, Davi e seus homens estavam no deserto de Maom, em Arabá, no sul de Jesimom. ^v24
 
-**25** E Saul e os seus homens se foram em busca dele; o que anunciaram a Davi, que desceu para aquela penha, e ficou no deserto de Maom; o que ouvindo Saul, seguiu a Davi para o deserto de Maom. ^v25
+**25** Saul e seus homens saíram em busca dele. E foi dito a Davi sobre isso; então, ele desceu para um monte rochoso e habitou no deserto de Maom. Quando Saul soube disso, perseguiu Davi no deserto de Maom. ^v25
 
-**26** E Saul ia deste lado do monte, e Davi e os seus homens do outro lado do monte; e, temeroso, Davi se apressou a escapar de Saul; Saul, porém, e os seus homens cercaram a Davi e aos seus homens, para lançar mão deles. ^v26
+**26** Saul ia por um lado da montanha, enquanto Davi e seus homens iam por outro lado. Davi se apressava para fugir de Saul. Enquanto Saul e seus homens estavam cercando Davi e seus homens para pegá-los, ^v26
 
-**27** Então veio um mensageiro a Saul, dizendo: Apressa-te, e vem, porque os filisteus com ímpeto entraram na terra. ^v27
+**27** "um mensageiro veio a Saul e disse: ""Apressa-te e vem, pois os filisteus atacaram repentinemante contra a terra""." ^v27
 
-**28** Por isso Saul voltou de perseguir a Davi, e foi ao encontro dos filisteus; por esta razão aquele lugar se chamou Rochedo das Divisões. ^v28
+**28** Assim, Saul retornou da perseguição a Davi e saiu contra os filisteus. Por isso, aquele lugar é chamado de Rocha de Fuga. ^v28
 
-**29** E subiu Davi dali, e ficou nos lugares fortes de En-Gedi. ^v29
+**29** Davi subiu e habitou nos lugares seguros de En-Gedi. ^v29

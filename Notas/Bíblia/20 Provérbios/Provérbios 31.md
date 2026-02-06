@@ -1,69 +1,68 @@
 ---
-Livro: "[[Provérbios|Provérbios]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Provérbios|Provérbios]]"
+tags: [biblia]
 ---
 
 # Provérbios 31
 
-**1** Palavras do rei Lemuel, a profecia que lhe ensinou a sua mãe. ^v1
+**1** Palavras do rei Lemuel, um oráculo ensinado por sua mãe. ^v1
 
-**2** Como, filho meu? e como, filho do meu ventre? e como, filho dos meus votos? ^v2
+**2** O quê, meu filho? O quê, filho do meu ventre? O quê, filho dos meus votos? ^v2
 
-**3** Não dês às mulheres a tua força, nem os teus caminhos ao que destrói os reis. ^v3
+**3** Não dês tua força às mulheres, ou os teus caminhos àqueles que destroem reis. ^v3
 
-**4** Não é próprio dos reis, ó Lemuel, não é próprio dos reis beber vinho, nem dos príncipes o desejar bebida forte; ^v4
+**4** Não convém a reis, Lemuel, não convém a reis beber vinho, nem a governantes desejar a bebida forte; ^v4
 
-**5** Para que bebendo, se esqueçam da lei, e pervertam o direito de todos os aflitos. ^v5
+**5** porque quando eles bebem, esquecem-se do que foi decretado, e pervertem os direitos de todos os aflitos. ^v5
 
-**6** Dai bebida forte ao que está prestes a perecer, e o vinho aos amargurados de espírito. ^v6
+**6** Dai bebida forte ao que está perecendo e vinho aos amargurados. ^v6
 
-**7** Que beba, e esqueça da sua pobreza, e da sua miséria não se lembre mais. ^v7
+**7** Ele beberá e se esquecerá de sua pobreza, e não se lembrará de suas dificuldades. ^v7
 
-**8** Abre a tua boca a favor do mudo, pela causa de todos que são designados à destruição. ^v8
+**8** Fala por aqueles que não podem falar, pelas causas de todos os que estão perecendo. ^v8
 
-**9** Abre a tua boca; julga retamente; e faze justiça aos pobres e aos necessitados. ^v9
+**9** Fala e julga pela medida do que é justo, e defende a causa dos pobres e necessitados. ^v9
 
-**10** Mulher virtuosa quem a achará? O seu valor muito excede ao de rubis. ^v10
+**10** Quem pode achar uma esposa virtuosa? Seu valor vai muito além de joias. ^v10
 
-**11** O coração do seu marido está nela confiado; assim ele não necessitará de despojo. ^v11
+**11** O coração de seu marido confia nela e ele não terá falta de nada. ^v11
 
-**12** Ela só lhe faz bem, e não mal, todos os dias da sua vida. ^v12
+**12** Ela faz coisas boas por ele e não más, todos os dias de sua vida. ^v12
 
-**13** Busca lã e linho, e trabalha de boa vontade com suas mãos. ^v13
+**13** Ela escolhe lã e linho, e trabalha com o deleite de suas mãos. ^v13
 
-**14** Como o navio mercante, ela traz de longe o seu pão. ^v14
+**14** Ela é como os navios mercantes, traz comida de longe. ^v14
 
-**15** Levanta-se, mesmo à noite, para dar de comer aos da casa, e distribuir a tarefa das servas. ^v15
+**15** Ela se levanta enquanto é noite, dá comida à sua família e distribui as tarefas entre suas servas. ^v15
 
-**16** Examina uma propriedade e adquire-a; planta uma vinha com o fruto de suas mãos. ^v16
+**16** Ela avalia um campo e o compra, com o fruto de suas mãos, planta uma vinha. ^v16
 
-**17** Cinge os seus lombos de força, e fortalece os seus braços. ^v17
+**17** Ela se veste de força e fortalece os seus braços. ^v17
 
-**18** Vê que é boa a sua mercadoria; e a sua lâmpada não se apaga de noite. ^v18
+**18** Ela percebe o que lhe trará bom lucro; durante toda a noite, sua lâmpada não se apaga. ^v18
 
-**19** Estende as suas mãos ao fuso, e suas mãos pegam na roca. ^v19
+**19** Ela põe suas mãos no fuso e segura a roca de fiar. ^v19
 
-**20** Abre a sua mão ao pobre, e estende as suas mãos ao necessitado. ^v20
+**20** Ela estende sua mão aos pobres, estende suas mãos aos necessitados. ^v20
 
-**21** Não teme a neve na sua casa, porque toda a sua família está vestida de escarlata. ^v21
+**21** Ela não teme a neve por sua família, pois toda a sua família está vestida com lã escarlate. ^v21
 
-**22** Faz para si cobertas de tapeçaria; seu vestido é de seda e de púrpura. ^v22
+**22** Ela faz cobertas para sua cama e veste-se de roupas de linho púrpura. ^v22
 
-**23** Seu marido é conhecido nas portas, e assenta-se entre os anciãos da terra. ^v23
+**23** Seu marido é conhecido junto aos portões, quando ele se assenta com os anciãos da terra. ^v23
 
-**24** Faz panos de linho fino e vende-os, e entrega cintos aos mercadores. ^v24
+**24** Ela faz vestes de linho e as vende, fornece faixas aos comerciantes. ^v24
 
-**25** A força e a honra são seu vestido, e se alegrará com o dia futuro. ^v25
+**25** Ela se veste de força e honra e ri para o futuro. ^v25
 
-**26** Abre a sua boca com sabedoria, e a lei da beneficência está na sua língua. ^v26
+**26** Ela abre sua boca com sabedoria e a lei dos benevolentes está em sua língua. ^v26
 
-**27** Está atenta ao andamento da casa, e não come o pão da preguiça. ^v27
+**27** Ela vigia os caminhos de sua casa e não come do pão da preguiça. ^v27
 
-**28** Levantam-se seus filhos e chamam-na bem-aventurada; seu marido também, e ele a louva. ^v28
+**28** Seus filhos crescem e a chamam de abençoada; seu marido a elogia, dizendo: ^v28
 
-**29** Muitas filhas têm procedido virtuosamente, mas tu és, de todas, a mais excelente! ^v29
+**29** """Muitas mulheres fizeram o bem, mas tu a todas superas""." ^v29
 
-**30** Enganosa é a beleza e vã a formosura, mas a mulher que teme ao Senhor, essa sim será louvada. ^v30
+**30** A elegância é enganosa, a beleza é fútil, mas a mulher que teme a Yahweh, essa será elogiada. ^v30
 
-**31** Dai-lhe do fruto das suas mãos, e deixe o seu próprio trabalho louvá-la nas portas. ^v31
+**31** Dai a ela o fruto de suas mãos e que seu trabalho a engrandeça nos portões. ^v31

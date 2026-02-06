@@ -1,73 +1,72 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Ezequiel|Ezequiel]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Ezequiel|Ezequiel]]"
+tags: [biblia]
 ---
 
 # Ezequiel 33
 
-**1** E veio a mim a palavra do SENHOR, dizendo: ^v1
+**1** Então, a palavra de Yahweh veio a mim, dizendo: ^v1
 
-**2** Filho do homem, fala aos filhos do teu povo, e dize-lhes: Quando eu fizer vir a espada sobre a terra, e o povo da terra tomar um homem dos seus termos, e o constituir por seu atalaia; ^v2
+**2** """Filho do homem, declara isto ao seu povo; dize-lhes: 'Quando trago uma espada contra uma certa terra, o povo dessa terra leva um homem dentre eles e fazem dele a sua sentinela." ^v2
 
-**3** E, vendo ele que a espada vem sobre a terra, tocar a trombeta e avisar o povo; ^v3
+**3** Ele vê que a espada vem sobre a terra e toca a sua trombeta para avisar o povo! ^v3
 
-**4** Se aquele que ouvir o som da trombeta, não se der por avisado, e vier a espada, e o alcançar, o seu sangue será sobre a sua cabeça. ^v4
+**4** Se o povo ouvir o som da trombeta, mas não der atenção e, se a espada vier e os matar, o sangue de cada um está sobre sua própria cabeça. ^v4
 
-**5** Ele ouviu o som da trombeta, e não se deu por avisado, o seu sangue será sobre ele; mas o que se dá por avisado salvará a sua vida. ^v5
+**5** Se alguém ouvir o som da trombeta e não o levar em conta, o seu sangue será sobre ele; mas se ele atentar, ele salvará a sua própria vida. ^v5
 
-**6** Mas, se quando o atalaia vir que vem a espada, e não tocar a trombeta, e não for avisado o povo, e a espada vier, e levar uma vida dentre eles, este tal foi levado na sua iniqüidade, porém o seu sangue requererei da mão do atalaia. ^v6
+**6** Contudo, se o sentinela não tocar a trombeta quando vir a espada, fazendo com que o povo não seja avisado e se a espada vier e levar uma vida, então, essa pessoa morrerá em seus próprios pecados, mas exigirei o seu sangue do sentinela'. ^v6
 
-**7** A ti, pois, ó filho do homem, te constituí por atalaia sobre a casa de Israel; tu, pois, ouvirás a palavra da minha boca, e lha anunciarás da minha parte. ^v7
+**7** Mas quanto a ti, filho do homem! Coloquei-te por sentinela sobre a casa de Israel; ouvirás as palavras da Minha boca e os avisarás em Meu nome. ^v7
 
-**8** Se eu disser ao ímpio: Ó ímpio, certamente morrerás; e tu não falares, para dissuadir ao ímpio do seu caminho, morrerá esse ímpio na sua iniqüidade, porém o seu sangue eu o requererei da tua mão. ^v8
+**8** Se Eu disser ao corrupto: 'Certamente morrerás!' mas, não anunciares isto como advertência ao corrupto, acerca do seu caminho, então, ele que é corrupto morrerá em seu pecado, mas exigirei o seu sangue da tua mão! ^v8
 
-**9** Mas, se advertires o ímpio do seu caminho, para que dele se converta, e ele não se converter do seu caminho, ele morrerá na sua iniqüidade; mas tu livraste a tua alma. ^v9
+**9** Tu, porém, se avisares ao corrupto sobre o seu caminho, para que se aparte dele e ele não se apartar do seu caminho, então, ele morrerá em seu pecado, mas tu terás salvo a tua vida. ^v9
 
-**10** Tu, pois, filho do homem, dize à casa de Israel: Assim falais vós, dizendo: Visto que as nossas transgressões e os nossos pecados estão sobre nós, e nós desfalecemos neles, como viveremos então? ^v10
+**10** E tu, filho do homem, diz à casa de Israel: 'Assim falarás: 'Nossas transgressões e nossos pecados estão sobre nós e estamos desfalecendo neles! Como viveremos?'. ^v10
 
-**11** Dize-lhes: Vivo eu, diz o Senhor DEUS, que não tenho prazer na morte do ímpio, mas em que o ímpio se converta do seu caminho, e viva. Convertei-vos, convertei-vos dos vossos maus caminhos; pois, por que razão morrereis, ó casa de Israel? ^v11
+**11** Dize-lhes: Tão certo como Eu vivo — assim diz Yahweh Deus — não tenho prazer na morte do corrupto, pois, se o corrupto se arrepender do seu caminho, ele viverá! Arrependei-vos! Arrependei-vos dos vossos maus caminhos! Pois, por que devíeis morrer, casa de Israel?. ^v11
 
-**12** Tu, pois, filho do homem, dize aos filhos do teu povo: A justiça do justo não o livrará no dia da sua transgressão; e, quanto à impiedade do ímpio, não cairá por ela, no dia em que se converter da sua impiedade; nem o justo poderá viver pela sua justiça no dia em que pecar. ^v12
+**12** Tu, agora, filho do homem, diz ao povo: 'A retidão do homem reto não o salvará quando ele pecar! A corrupção do homem mau não o fará perecer caso se arrependa do seu pecado! Pois o homem reto não viverá por causa da sua retidão, quando ele pecar. ^v12
 
-**13** Quando eu disser ao justo que certamente viverá, e ele, confiando na sua justiça, praticar a iniqüidade, não virão à memória todas as suas justiças, mas na sua iniqüidade, que pratica, ele morrerá. ^v13
+**13** Se eu disser ao reto: Ele certamente viverá! e, se ele confiar na sua retidão e depois cometer injustiça, não Me lembrarei de nenhuma obra da sua retidão. Ele morrerá pela corrupção que cometeu. ^v13
 
-**14** Quando eu também disser ao ímpio: Certamente morrerás; se ele se converter do seu pecado, e praticar juízo e justiça, ^v14
+**14** Então, se eu disser ao corrupto: Certamente morrerás, mas, se ele se arrepender dos seus pecados e fizer o que é justo e reto — ^v14
 
-**15** Restituindo esse ímpio o penhor, indenizando o que furtou, andando nos estatutos da vida, e não praticando iniqüidade, certamente viverá, não morrerá. ^v15
+**15** se ele devolver o que emprestou ou restituir o que roubou e, se andar nos estatutos da vida e não mais cometer pecado, então, certamente viverá, ele não morrerá. ^v15
 
-**16** De todos os seus pecados que cometeu não se terá memória contra ele; juízo e justiça fez, certamente viverá. ^v16
+**16** Nenhum dos pecados que ele tiver cometido será lembrado contra ele; ele fez o que é justo e reto e certamente viverá! ^v16
 
-**17** Todavia os filhos do teu povo dizem: Não é justo o caminho do Senhor; mas o próprio caminho deles é que não é justo. ^v17
+**17** Mas vós dizeis: O caminho do Senhor não é justo! Porém, são os vossos caminhos que não são justos! ^v17
 
-**18** Desviando-se o justo da sua justiça, e praticando iniqüidade, morrerá nela. ^v18
+**18** Quando um homem reto se desviar da sua retidão e cometer pecado, então, ele morrerá! ^v18
 
-**19** E, convertendo-se o ímpio da sua impiedade, e praticando juízo e justiça, ele viverá por eles. ^v19
+**19** Quando o corrupto se afastar da sua corrupção e fizer o que é justo e reto, ele viverá por causa dessas coisas! ^v19
 
-**20** Todavia, vós dizeis: Não é justo o caminho do Senhor; julgar-vos-ei a cada um conforme os seus caminhos, ó casa de Israel. ^v20
+**20** "Mas vós dizeis: O caminho do Senhor não é justo! Eu julgarei a cada um segundo o seu caminho, casa de Israel!'""." ^v20
 
-**21** E sucedeu que, no ano duodécimo do nosso cativeiro, no décimo mês, aos cinco do mês, veio a mim um que tinha escapado de Jerusalém, dizendo: A cidade está ferida. ^v21
+**21** "E aconteceu, no décimo segundo ano, no quinto dia do décimo mês do cativeiro, veio um fugitivo de Jerusalém e disse: ""A cidade foi capturada!""." ^v21
 
-**22** Ora, a mão do Senhor estivera sobre mim pela tarde, antes que viesse o que tinha escapado; e ele abrira a minha boca antes que esse homem viesse ter comigo pela manhã; e abriu-se a minha boca, e não fiquei mais calado. ^v22
+**22** A mão de Yahweh havia estado sobre mim na noite anterior à vinda do fugitivo e a minha boca foi aberta no momento em que ele veio pela manhã. Assim, a minha boca foi aberta; não mais fiquei em silêncio! ^v22
 
-**23** Então veio a mim a palavra do Senhor, dizendo: ^v23
+**23** Então, a palavra de Yahweh veio a mim, dizendo: ^v23
 
-**24** Filho do homem, os moradores destes lugares desertos da terra de Israel falam, dizendo: Abraão era um só, e possuiu esta terra; mas nós somos muitos, esta terra nos foi dada em possessão. ^v24
+**24** """Filho do homem, os que habitam naquelas ruínas na terra de Israel estão falando e dizem: 'Abraão era uma só pessoa e herdou a terra, mas nós somos muitos! A terra nos foi dada por possessão'." ^v24
 
-**25** Dize-lhes portanto: Assim diz o Senhor DEUS: Comeis a carne com o sangue, e levantais os vossos olhos para os vossos ídolos, e derramais o sangue! Porventura possuireis a terra? ^v25
+**25** Portanto, dize-lhes: 'Assim diz Yahweh Deus: Vós comeis sangue e ergueis os vossos olhos aos vossos ídolos, também derramais sangue de pessoas. Será que tereis a posse da terra? ^v25
 
-**26** Vós vos estribais sobre a vossa espada, cometeis abominação, e cada um contamina a mulher do seu próximo! E possuireis a terra? ^v26
+**26** Vós dependestes das vossas espadas e fizestes coisas abomináveis; cada um profana a esposa do seu próximo. Será que tereis a posse da terra?'. ^v26
 
-**27** Assim lhes dirás: Assim disse o Senhor DEUS: Vivo eu, que os que estiverem em lugares desertos, cairão à espada, e o que estiver em campo aberto o entregarei às feras, para que o devorem, e os que estiverem em lugares fortes e em cavernas morrerão de peste. ^v27
+**27** Assim lhes dirás: 'Assim diz Yahweh Deus: Tão certo como Eu vivo, os que vivem entre as ruínas morrerão pela espada e Eu darei esses nos campos para que sejam devorados pelas feras e os que estão nas fortalezas e nas cavernas morrerão de pragas. ^v27
 
-**28** E tornarei a terra em desolação e espanto e cessará a soberba do seu poder; e os montes de Israel ficarão tão desolados que ninguém passará por eles. ^v28
+**28** Então, tornarei a terra numa desolação e horror; e a soberba do seu poder findará, pois os montes de Israel ficarão desertos e ninguém passará por eles'. ^v28
 
-**29** Então saberão que eu sou o Senhor, quando eu tornar a terra em desolação e espanto, por causa de todas as abominações que cometeram. ^v29
+**29** Assim, saberão que Eu sou Yahweh, quando Eu fizer da terra uma desolação e um horror por causa de todas as abominações que fizeram. ^v29
 
-**30** Quanto a ti, ó filho do homem, os filhos do teu povo falam de ti junto às paredes e nas portas das casas; e fala um com o outro, cada um a seu irmão, dizendo: Vinde, peço-vos, e ouvi qual seja a palavra que procede do Senhor. ^v30
+**30** E tu, agora, filho do homem — teu povo fala sobre ti nos muros e nos portões das casas e cada um diz ao outro — cada homem ao seu irmão: 'Vamos ouvir a palavra que procede de Yahweh!'. ^v30
 
-**31** E eles vêm a ti, como o povo costumava vir, e se assentam diante de ti, como meu povo, e ouvem as tuas palavras, mas não as põem por obra; pois lisonjeiam com a sua boca, mas o seu coração segue a sua avareza. ^v31
+**31** Por isso, o Meu povo virá a ti, como costumam fazer, e se sentarão diante de ti e ouvirão as tuas palavras, mas não as obedecerão. Pois palavras certas estão na suas bocas, mas os seus corações estão atrás de lucro. ^v31
 
-**32** E eis que tu és para eles como uma canção de amores, de quem tem voz suave, e que bem tange; porque ouvem as tuas palavras, mas não as põem por obra. ^v32
+**32** Pois tu és como uma bela canção para eles, um maravilhoso som que é tocado com um instrumento de corda, por isso ouvirão as tuas palavras, mas nenhum deles as obedecerão. ^v32
 
-**33** Mas, quando vier isto (eis que está para vir), então saberão que houve no meio deles um profeta. ^v33
+**33** "Então, quando tudo isto acontecer, eis que vai acontecer — aí eles saberão que um profeta esteve no meio deles""." ^v33

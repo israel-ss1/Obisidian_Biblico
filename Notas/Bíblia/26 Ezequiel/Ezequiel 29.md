@@ -1,49 +1,48 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Ezequiel|Ezequiel]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Ezequiel|Ezequiel]]"
+tags: [biblia]
 ---
 
 # Ezequiel 29
 
-**1** No décimo ano, no décimo mês, no dia doze do mês, veio a mim a palavra do SENHOR, dizendo: ^v1
+**1** No décimo ano, no décimo mês, no dia doze, a palavra de Yahweh veio a mim, dizendo: ^v1
 
-**2** Filho do homem, dirige o teu rosto contra Faraó, rei do Egito, e profetiza contra ele e contra todo o Egito. ^v2
+**2** """Filho do homem, dirige o teu rosto contra Faraó, o rei do Egito; profetiza contra ele e contra todo o Egito," ^v2
 
-**3** Fala, e dize: Assim diz o Senhor DEUS: Eis-me contra ti, ó Faraó, rei do Egito, grande dragão, que pousas no meio dos teus rios, e que dizes: O meu rio é meu, e eu o fiz para mim. ^v3
+**3** dizendo: 'assim declara Yahweh Deus: Vê, estou contra ti, Faraó, rei do Egito. Tu, grande monstro, que vives no meio do rio, que dizes: 'o meu rio é somente para mim, eu o fiz para mim mesmo'. ^v3
 
-**4** Mas eu porei anzóis em teus queixos, e farei que os peixes dos teus rios se apeguem às tuas escamas; e tirar-te-ei do meio dos teus rios, e todos os peixes dos teus rios se apegarem às tuas escamas. ^v4
+**4** Mas Eu colocarei anzóis no teu queixo e o peixe do teu Nilo pegará nas tuas escamas; Eu te tirarei do meio do teu rio, juntamente com todos os peixes que pegaram nas tuas escamas. ^v4
 
-**5** E te deixarei no deserto, a ti e a todo o peixe dos teus rios; sobre a face do campo cairás; não serás recolhido nem ajuntado; aos animais da terra e às aves do céu te dei por mantimento. ^v5
+**5** Eu te lançarei para um lugar selvagem, tu e todos os peixes do teu rio. Tu cairás na terra vazia; não será recolhido ou levantado. Entregar-te-ei como alimento para animais da terra e para as aves dos céus. ^v5
 
-**6** E saberão todos os moradores do Egito que eu sou o Senhor, porquanto se tornaram um bordão de cana para a casa de Israel. ^v6
+**6** Então, todos os moradores do Egito saberão que Eu sou Yahweh, porque eles têm sido um bordão de cana para a casa de Israel. ^v6
 
-**7** Tomando-te eles pela mão, te quebraste, e lhes rasgaste todo o ombro; e quando se apoiaram em ti, te quebraste, e lhes fazias tremer todos os seus lombos. ^v7
+**7** Quando eles te tomaram nas mãos, tu te quebraste e rasgaste os ombros deles; e, quando eles encostaram em ti, tu foste quebrado, mas fizeste as pernas deles ficarem instáveis. ^v7
 
-**8** Portanto, assim diz o Senhor DEUS: Eis que eu trarei sobre ti a espada, e de ti destruirei homem e animal, ^v8
+**8** Portanto, assim declara Yahweh Deus: Vê! Eu trarei a espada contra ti. Eliminarei de ti tanto homem como animal. ^v8
 
-**9** E a terra do Egito se tornará em desolação e deserto; e saberão que eu sou o Senhor, porquanto disse: O rio é meu, e eu o fiz. ^v9
+**9** E a terra do Egito se tornará vazia e em ruína. E eles saberão que Eu Sou Yahweh, porque o monstro do mar havia falado: 'O rio é meu, porque eu o fiz'. ^v9
 
-**10** Portanto, eis que eu estou contra ti, e contra os teus rios; e tornarei a terra do Egito deserta, em completa desolação, desde a torre de Syene até aos confins da Etiópia. ^v10
+**10** Portanto, vê! Estou contra ti e o teu rio e entregarei a terra do Egito para desolação e perda, e se tornará um deserto, desde Migdol até Sevene e as fronteiras da Etiópia. ^v10
 
-**11** Não passará por ela pé de homem, nem pé de animal passará por ela, nem será habitada quarenta anos. ^v11
+**11** Nenhum pé de homem passará por ela e nem pé de animal passará por ela. Não será habitada durante quarenta anos. ^v11
 
-**12** Porque tornarei a terra do Egito em desolação no meio das terras desoladas; e as suas cidades entre as cidades desertas se tornarão em desolação por quarenta anos; e espalharei os egípcios entre as nações, e os dispersarei pelas terras. ^v12
+**12** Porque Eu tornarei a terra do Egito em desolação no meio das terras não habitadas e as suas cidades serão desoladas por quarenta anos no meio das cidades arruinadas; e espalharei os egípcios entre as nações e os dispersarei pelas terras. ^v12
 
-**13** Porém, assim diz o Senhor DEUS: Ao fim de quarenta anos ajuntarei os egípcios dentre os povos entre os quais foram espalhados. ^v13
+**13** Porque assim declara Yahweh Deus: No fim de quarenta anos, juntarei o Egito no meio dos povos entre os quais fora espalhado. ^v13
 
-**14** E removerei o cativeiro dos egípcios, e os farei voltar à terra de Patros, à terra de sua origem; e serão ali um reino humilde; ^v14
+**14** Eu restaurarei as fortunas do Egito e os trarei de volta para a região de Patros, para suas terras de origem. E, ali, serão um reino humilde. ^v14
 
-**15** Mais humilde se fará do que os outros reinos, e nunca mais se exalçará sobre as nações; porque os diminuirei, para que não dominem sobre as nações. ^v15
+**15** Será o mais humilde entre os reinos e não será mais levantado entre as nações. Eu os diminuirei para que não mais governem sobre as nações. ^v15
 
-**16** E não será mais a confiança da casa de Israel, para lhes trazer à lembrança a sua iniqüidade, quando olharem para trás deles; antes saberão que eu sou o Senhor DEUS. ^v16
+**16** "Os egípcios não terão mais a confiança da casa de Israel. Ao invés disso, eles serão uma lembrança da iniquidade que Israel cometeu quando olhou para o Egito à procura de socorro. E eles saberão que Eu sou Yahweh Deus'""." ^v16
 
-**17** E sucedeu que, no ano vinte e sete, no primeiro mês, no primeiro dia do mês, veio a mim a palavra do Senhor, dizendo: ^v17
+**17** Isso aconteceu no ano vinte e sete, no primeiro dia do primeiro mês, quando a palavra de Yahweh veio a mim, dizendo: ^v17
 
-**18** Filho do homem, Nabucodonosor, rei de babilônia, fez com que o seu exército prestasse um grande serviço contra Tiro; toda a cabeça se tornou calva, e todo o ombro se pelou; e não houve paga de Tiro para ele, nem para o seu exército, pelo serviço que prestou contra ela. ^v18
+**18** """Filho do homem, Nabucodonosor, o rei da Babilônia, enviou o seu exército num trabalho duro contra Tiro. Toda cabeça se gastou até ficar calva e todo ombro esfolou a pele. Ele e o seu exército não tiveram nenhum benefício pelo trabalho árduo que fizeram contra Tiro." ^v18
 
-**19** Portanto, assim diz o Senhor DEUS: Eis que eu darei a Nabucodonosor, rei de babilônia, a terra do Egito; e levará a sua multidão, e tomará o seu despojo, e roubará a sua presa, e isto será a recompensa para o seu exército. ^v19
+**19** Portanto, assim diz Yahweh Deus: 'Vê! Darei a terra do Egito a Nabucodonosor, o rei da Babilônia, e ele tirará a sua riqueza, roubará suas possessões, e levará tudo o que ele encontrar ali; essa será a recompensa para seu exército. ^v19
 
-**20** Como recompensa do seu trabalho, com que serviu contra ela, lhe dei a terra do Egito; porquanto trabalharam por mim, diz o Senhor DEUS. ^v20
+**20** Eu lhe dei a terra do Egito como a recompensa do trabalho que ele prestou para Mim — esta é a declaração de Yahweh Deus. ^v20
 
-**21** Naquele dia farei brotar o poder na casa de Israel, e abrirei a tua boca no meio deles; e saberão que eu sou o Senhor. ^v21
+**21** "Neste dia, Eu farei brotar um chifre da casa de Israel; Eu farei com que tu fales no meio deles e eles saberão que sou Yahweh'""." ^v21

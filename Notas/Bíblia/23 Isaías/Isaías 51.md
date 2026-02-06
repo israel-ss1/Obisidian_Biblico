@@ -1,53 +1,52 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Isaías|Isaías]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Isaías|Isaías]]"
+tags: [biblia]
 ---
 
 # Isaías 51
 
-**1** Ouvi-me, vós os que seguis a justiça, os que buscais ao SENHOR. Olhai para a rocha de onde fostes cortados, e para a caverna do poço de onde fostes cavados. ^v1
+**1** Ouvi-me, vós que procurais a retidão, vós que buscais Yahweh. Olhai para a rocha da qual fostes formados, para a pedreira de onde fostes extraídos. ^v1
 
-**2** Olhai para Abraão, vosso pai, e para Sara, que vos deu à luz; porque, sendo ele só, o chamei, e o abençoei e o multipliquei. ^v2
+**2** Olhai para Abraão, vosso pai, e para Sara, que vos deu à luz. Quando Eu o chamei, ele era um indivíduo solitário. Eu o abençoei e o fiz numeroso. ^v2
 
-**3** Porque o Senhor consolará a Sião; consolará a todos os seus lugares assolados, e fará o seu deserto como o Éden, e a sua solidão como o jardim do Senhor; gozo e alegria se achará nela, ação de graças, e voz de melodia. ^v3
+**3** Sim, Yahweh consolará Sião; Ele confortará todos os seus lugares assolados; fará seu deserto como o Éden; sua região seca, ao lado do vale do rio Jordão, como o jardim de Yahweh. Alegria e contentamento serão encontrados nela, ações de graças e som de cânticos. ^v3
 
-**4** Atendei-me, povo meu, e nação minha, inclinai os ouvidos para mim; porque de mim sairá a lei, e o meu juízo farei repousar para a luz dos povos. ^v4
+**4** """Atentai a Mim, povo Meu; ouvi-Me, povo Meu! Pois emitirei um decreto e farei Minha justiça como luz para as nações." ^v4
 
-**5** Perto está a minha justiça, vem saindo a minha salvação, e os meus braços julgarão os povos; as ilhas me aguardarão, e no meu braço esperarão. ^v5
+**5** Minha justiça está perto, Minha salvação chegará, Meu braço julgará as nações; as terras costeiras esperarão, ansiosamente, por Mim e pelo Meu braço. ^v5
 
-**6** Levantai os vossos olhos para os céus, e olhai para a terra em baixo, porque os céus desaparecerão como a fumaça, e a terra se envelhecerá como roupa, e os seus moradores morrerão semelhantemente; porém a minha salvação durará para sempre, e a minha justiça não será abolida. ^v6
+**6** Elevai os vossos olhos para o céu e olhai para a terra embaixo. Os céus sumirão como a fumaça, a terra se desgastará como uma roupa, e seus habitantes morrerão como as moscas. Mas Minha salvação continuará para sempre e Minha justiça nunca falhará. ^v6
 
-**7** Ouvi-me, vós que conheceis a justiça, povo em cujo coração está a minha lei; não temais o opróbrio dos homens, nem vos turbeis pelas suas injúrias. ^v7
+**7** Ouvi-Me, vós que sabeis o que é correto, vós que tendes a Minha lei no coração. Não temais os insultos dos homens, nem desanimeis com a ofensa deles. ^v7
 
-**8** Porque a traça os roerá como a roupa, e o bicho os comerá como a lã; mas a minha justiça durará para sempre, e a minha salvação de geração em geração. ^v8
+**8** "Porque a traça os devorará como a uma roupa e o verme os comerá como a lã; mas a Minha justiça será para sempre e Minha salvação, para todas as gerações""." ^v8
 
-**9** Desperta, desperta, veste-te de força, ó braço do Senhor; desperta como nos dias passados, como nas gerações antigas. Não és tu aquele que cortou em pedaços a Raabe, o que feriu ao chacal? ^v9
+**9** Desperta, desperta, veste-Te de força, braço de Yahweh! Desperta como nos dias antigos, como nas gerações passadas. Não foste Tu que despedaçaste Raabe, o monstro do mar, que perfuraste o dragão? ^v9
 
-**10** Não és tu aquele que secou o mar, as águas do grande abismo? O que fez o caminho no fundo do mar, para que passassem os remidos? ^v10
+**10** Não foste Tu que fizeste secar o mar, as águas do grande abismo, que fizeste das profundezas do mar um caminho para os redimidos atravessarem? ^v10
 
-**11** Assim voltarão os resgatados do Senhor, e virão a Sião com júbilo, e perpétua alegria haverá sobre as suas cabeças; gozo e alegria alcançarão, a tristeza e o gemido fugirão. ^v11
+**11** Os remidos de Yahweh retornarão a Sião e entrarão nela com gritos de júbilo e a alegria eterna coroará suas cabeças; o regozijo e a alegria os alcançarão, a tristeza e o luto fugirão. ^v11
 
-**12** Eu, eu sou aquele que vos consola; quem, pois, és tu para que temas o homem que é mortal, ou o filho do homem, que se tornará em erva? ^v12
+**12** """Eu, Eu Sou Aquele que te conforta. Por que tens medo de um homem que morrerá, de filhos de homens, que são como a relva?" ^v12
 
-**13** E te esqueces do Senhor que te criou, que estendeu os céus, e fundou a terra, e temes continuamente todo o dia o furor do angustiador, quando se prepara para destruir; pois onde está o furor do que te atribulava? ^v13
+**13** Por que te esqueceste de Yahweh, teu Criador, que estendeu os céus e lançou as fundações da terra? Todo dia, tu estás em constante pavor por causa da fúria ardente do opressor quando ele decide te destruir. Onde está a fúria do opressor? ^v13
 
-**14** O exilado cativo depressa será solto, e não morrerá na caverna, e o seu pão não lhe faltará. ^v14
+**14** Quanto ao que está cativo, Yahweh se apressará para libertá-lo. Ele não morrerá e nem descerá à cova, nem lhe faltará o pão. ^v14
 
-**15** Porque eu sou o Senhor teu Deus, que agito o mar, de modo que bramem as suas ondas. O Senhor dos Exércitos é o seu nome. ^v15
+**15** Pois Eu Sou Yahweh, teu Deus, que agita o mar de modo que suas ondas rujam — Yahweh dos Exércitos é o Seu nome. ^v15
 
-**16** E ponho as minhas palavras na tua boca, e te cubro com a sombra da minha mão; para plantar os céus, e para fundar a terra, e para dizer a Sião: Tu és o meu povo. ^v16
+**16** "Eu coloquei as Minhas palavras em tua boca e te cobri com a sombra da Minha mão; Eu estabeleci os céus, coloquei os alicerces da terra e disse a Sião: 'Tu és Meu povo'""." ^v16
 
-**17** Desperta, desperta, levanta-te, ó Jerusalém, que bebeste da mão do Senhor o cálice do seu furor; bebeste e sorveste os sedimentos do cálice do atordoamento. ^v17
+**17** Desperta, desperta! Levanta-te, Jerusalém, que bebeste das mãos de Yahweh, da taça da Sua ira; que bebeste do cálice, até o resto da taça da embriaguez. ^v17
 
-**18** De todos os filhos que ela teve, nenhum há que a guie mansamente; e de todos os filhos que criou, nenhum há que a tome pela mão. ^v18
+**18** Não há, dentre os filhos que ela gerou, nenhum que a guie. De todos os filhos que ela criou, nenhum a toma pela mão. ^v18
 
-**19** Estas duas coisas te aconteceram; quem terá compaixão de ti? A assolação, e o quebrantamento, e a fome, e a espada! Por quem te consolarei? ^v19
+**19** "Estes dois problemas te aconteceram; quem lamentará contigo? A desolação e a destruição, a fome e a espada. Quem te consolará? [O texto hebraico e algumas versões modernas têm ""Como Eu te consolarei?"", a maioria das versões modernas corrige esta passagem para ""Quem te consolará?""]" ^v19
 
-**20** Os teus filhos já desmaiaram, jazem nas entradas de todos os caminhos, como o antílope na rede; cheios estão do furor do Senhor e da repreensão do teu Deus. ^v20
+**20** Teus filhos desmaiaram; eles se deitam em cada esquina, como um antílope em uma rede; eles estão cheios da ira de Yahweh, da repreensão do teu Deus. ^v20
 
-**21** Portanto agora ouve isto, ó aflita, e embriagada, mas não de vinho. ^v21
+**21** Agora, porém, ouve isto, tu que estás aflita e embriagada, mas não com vinho: ^v21
 
-**22** Assim diz o teu Senhor o Senhor, e o teu Deus, que pleiteará a causa do seu povo: Eis que eu tomo da tua mão o cálice do atordoamento, os sedimentos do cálice do meu furor, nunca mais dele beberás. ^v22
+**22** "Assim diz o teu Senhor Yahweh, teu Deus, que defende a causa de Seu povo: ""Vê, Eu tiro a taça da vertigem da tua mão — o cálice, que é a taça da Minha ira — para que não bebas dela novamente." ^v22
 
-**23** Porém, pô-lo-ei nas mãos dos que te entristeceram, que disseram à tua alma: Abaixa-te, e passaremos sobre ti; e tu puseste as tuas costas como chão, e como caminho, aos viandantes. ^v23
+**23** "Eu a colocarei nas mãos de teus atormentadores, aqueles que te disseram: 'Deita-te, para que caminhemos sobre ti'; os que fizeram de tuas costas como o chão e como rua, para que andassem por cima""." ^v23

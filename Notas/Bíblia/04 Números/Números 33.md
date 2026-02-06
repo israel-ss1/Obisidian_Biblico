@@ -1,119 +1,118 @@
 ---
-Livro: "[[Números|Números]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Números|Números]]"
+tags: [biblia]
 ---
 
 # Números 33
 
-**1** Estas são as jornadas dos filhos de Israel, que saíram da terra do Egito, segundo os seus exércitos, sob a direção de Moisés e Arão. ^v1
+**1** Estas foram as caminhadas do povo de Israel depois de deixarem a terra do Egito, segundo seus exércitos, sob a liderança de Moisés e Arão. ^v1
 
-**2** E escreveu Moisés as suas saídas, segundo as suas jornadas, conforme ao mandado do Senhor; e estas são as suas jornadas, segundo as suas saídas. ^v2
+**2** Moisés registrou os lugares de onde partiram e para onde foram, como Yahweh ordenou. Estas eram suas caminhadas, partida após partida. ^v2
 
-**3** Partiram, pois, de Ramessés no primeiro mês, no dia quinze do primeiro mês; no dia seguinte da páscoa saíram os filhos de Israel por alta mão, aos olhos de todos os egípcios, ^v3
+**3** Viajaram de Ramessés durante o primeiro mês, saindo no décimo quinto dia. Na manhã seguinte da Páscoa, o povo de Israel partiu corajosamente, à vista de todos os egípcios. ^v3
 
-**4** Enquanto os egípcios enterravam os que o Senhor tinha ferido entre eles, a todo o primogênito, e havendo o Senhor executado juízos também contra os seus deuses. ^v4
+**4** Isso ocorreu enquanto os egípcios estavam enterrando todos os seus primogênitos, aqueles a quem Yahweh havia matado, depois de executar juízos também contra os seus deuses. ^v4
 
-**5** Partiram, pois, os filhos de Israel de Ramessés, e acamparam-se em Sucote. ^v5
+**5** O povo de Israel saiu de Ramessés e acampou em Sucote. ^v5
 
-**6** E partiram de Sucote, e acamparam-se em Etã, que está no fim do deserto. ^v6
+**6** Saíram de Sucote e acamparam em Etã, nos limites do deserto. ^v6
 
-**7** E partiram de Etã, e voltaram a Pi-Hairote, que está defronte de Baal-Zefom, e acamparam-se diante de Migdol. ^v7
+**7** Saíram de Etã e voltaram para Pi-Hairote, que está oposta a Baal-Zefom, onde acamparam próximo de Migdol. ^v7
 
-**8** E partiram de Pi-Hairote, e passaram pelo meio do mar ao deserto, e andaram caminho de três dias no deserto de Etã, e acamparam-se em Mara. ^v8
+**8** Então, saíram de Pi-Hairote e atravessaram pelo meio do mar, em direção ao deserto. Viajaram três dias pelo deserto de Etã e acamparam em Mara. ^v8
 
-**9** E partiram de Mara, e vieram a Elim, e em Elim havia doze fontes de águas e setenta palmeiras, e acamparam-se ali. ^v9
+**9** Saíram de Mara e chegaram a Elim. Em Elim, havia doze fontes de água e setenta palmeiras. Ali foi onde acamparam. ^v9
 
-**10** E partiram de Elim, e acamparam-se junto ao Mar Vermelho. ^v10
+**10** Saíram de Elim e acamparam junto ao mar Vermelho. ^v10
 
-**11** E partiram do Mar Vermelho, e acamparam-se no deserto de Sim. ^v11
+**11** Saíram do mar Vermelho e acamparam no deserto de Sim. ^v11
 
-**12** E partiram do deserto de Sim, e acamparam-se em Dofca. ^v12
+**12** Saíram do deserto de Sim e acamparam em Dofca. ^v12
 
-**13** E partiram de Dofca, e acamparam-se em Alus. ^v13
+**13** Saíram de Dofca e acamparam em Alus. ^v13
 
-**14** E partiram de Alus, e acamparam-se em Refidim; porém não havia ali água, para que o povo bebesse. ^v14
+**14** Saíram de Alus e acamparam em Refidim, onde não foi encontrada nenhuma água para o povo beber. ^v14
 
-**15** Partiram, pois, de Refidim, e acamparam-se no deserto de Sinai. ^v15
+**15** Saíram de Redifim e acamparam no deserto do Sinai. ^v15
 
-**16** E partiram do deserto de Sinai, e acamparam-se em Quibrote-Taavá. ^v16
+**16** Saíram do deserto do Sinai e acamparam em Quibrote-Hataavá. ^v16
 
-**17** E partiram de Quibrote-Taavá, e acamparam-se em Hazerote. ^v17
+**17** Saíram de Quibrote-Hataavá e acamparam em Hazerote. ^v17
 
-**18** E partiram de Hazerote, e acamparam-se em Ritmá. ^v18
+**18** Saíram de Hazerote e acamparam em Ritmá. ^v18
 
-**19** E partiram de Ritmá, e acamparam-se em Rimom-Perez. ^v19
+**19** Saíram de Ritmá e acamparam em Rimom-Perez. ^v19
 
-**20** E partiram de Rimom-Perez, e acamparam-se em Libna. ^v20
+**20** Saíram de Rimom-Perez e acamparam em Libna. ^v20
 
-**21** E partiram de Libna, e acamparam-se em Rissa. ^v21
+**21** Saíram de Libna e acamparam em Rissa. ^v21
 
-**22** E partiram de Rissa, e acamparam-se em Queelata. ^v22
+**22** Saíram de Rissa e acamparam em Queelata. ^v22
 
-**23** E partiram de Queelata, e acamparam-se no monte de Séfer. ^v23
+**23** Saíram de Queelata e acamparam no monte Sefer. ^v23
 
-**24** E partiram do monte de Séfer, e acamparam-se em Harada. ^v24
+**24** Saíram do Monte Sefer e acamparam em Harada. ^v24
 
-**25** E partiram de Harada, e acamparam-se em Maquelote. ^v25
+**25** Saíram de Harada e acamparam em Maquelote. ^v25
 
-**26** E partiram de Maquelote, e acamparam-se em Taate. ^v26
+**26** Saíram de Maquelote e acamparam em Taate. ^v26
 
-**27** E partiram de Taate, e acamparam-se em Tara. ^v27
+**27** Saíram de Taate e acamparam em Terá. ^v27
 
-**28** E partiram de Tara, e acamparam-se em Mitca. ^v28
+**28** Saíram de Terá e acamparam em Mitca. ^v28
 
-**29** E partiram de Mitca, e acamparam-se em Hasmona. ^v29
+**29** Saíram de Mitca e acamparam em Hasmona. ^v29
 
-**30** E partiram de Hasmona, e acamparam-se em Moserote. ^v30
+**30** Saíram de Hasmona e acamparam em Moserote. ^v30
 
-**31** E partiram de Moserote, e acamparam-se em Bene-Jaacã. ^v31
+**31** Saíram de Moserote e acamparam em Bene-Jaacã. ^v31
 
-**32** E partiram de Bene-Jaacã, e acamparam-se em Hor-Hagidgade. ^v32
+**32** Saíram de Bene-Jaacã e acamparam em Hor-Gidgade. ^v32
 
-**33** E partiram de Hor-Hagidgade, e acamparam-se em Jotbatá. ^v33
+**33** Saíram de Hor-Gidgade e acamparam em Jotbatá. ^v33
 
-**34** E partiram de Jotbatá, e acamparam-se em Abrona. ^v34
+**34** Saíram de Jotbatá e acamparam Abrona. ^v34
 
-**35** E partiram de Abrona, e acamparam-se em Ezion-Geber. ^v35
+**35** Saíram de Abrona e acamparam em Eziom-Geber. ^v35
 
-**36** E partiram de Ezion-Geber, e acamparam-se no deserto de Zim, que é Cades. ^v36
+**36** Saíram de Eziom-Geber e acamparam no deserto de Zim, em Cades. ^v36
 
-**37** E partiram de Cades, e acamparam-se no monte Hor, no fim da terra de Edom. ^v37
+**37** Saíram de Cades e acamparam no Monte Hor, na fronteira da terra de Edom. ^v37
 
-**38** Então Arão, o sacerdote, subiu ao monte Hor, conforme ao mandado do Senhor; e morreu ali no quinto mês do ano quadragésimo da saída dos filhos de Israel da terra do Egito, no primeiro dia do mês. ^v38
+**38** Arão, o sacerdote, subiu ao Monte Hor, por ordem de Yahweh, e ali morreu, no quadragésimo ano, após a saída do povo de Israel da terra do Egito, no quinto mês, no primeiro dia do mês. ^v38
 
-**39** E era Arão da idade de cento e vinte e três anos, quando morreu no monte Hor. ^v39
+**39** Arão estava com cento e vinte e três anos quando morreu no Monte Hor. ^v39
 
-**40** E ouviu o cananeu, rei de Harade, que habitava o sul na terra de Canaã, que chegavam os filhos de Israel. ^v40
+**40** O Cananeu, rei de Arade, que vivia na região sul do deserto, na terra Canaã, ouviu sobre a vinda do povo de Israel. ^v40
 
-**41** E partiram do monte Hor, e acamparam-se em Zalmona. ^v41
+**41** Saíram do Monte Hor e acamparam em Zalmona. ^v41
 
-**42** E partiram de Zalmona, e acamparam-se em Punom. ^v42
+**42** Saíram de Zalmona e acamparam em Punom. ^v42
 
-**43** E partiram de Punom, e acamparam-se em Obote. ^v43
+**43** Saíram de Punom e acamparam em Obote. ^v43
 
-**44** E partiram de Obote, e acamparam-se em Ije-Abarim, no termo de Moabe. ^v44
+**44** Saíram de Obote e acamparam em Ijé-Abarim, na fronteira de Moabe. ^v44
 
-**45** E partiram de Ije-Abarim, e acamparam-se em Dibom-Gade. ^v45
+**45** Saíram de Ijé-Abarim e acamparam em Dibom-Gade. ^v45
 
-**46** E partiram de Dibom-Gade, e acamparam-se em Almom-Diblataim. ^v46
+**46** Saíram de Dibom-Gade e acamparam em Almom-Diblataim. ^v46
 
-**47** E partiram de Almom-Diblataim, e acamparam-se nos montes de Abarim, defronte de Nebo. ^v47
+**47** Saíram de Almom-Diblataim e acamparam nas montanhas de Abarim, em frente a Nebo. ^v47
 
-**48** E partiram dos montes de Abarim, e acamparam-se nas campinas de Moabe, junto ao Jordão, na direção de Jericó. ^v48
+**48** Saíram das montanhas de Abarim e acamparam nas planícies de Moabe, junto ao Jordão, em Jericó. ^v48
 
-**49** E acamparam-se junto ao Jordão, desde Bete-Jesimote até Abel-Sitim, nas campinas de Moabe. ^v49
+**49** Acamparam no Jordão, de Bete-Jesimote até Abel-Sitim, nas planícies de Moabe. ^v49
 
-**50** E falou o Senhor a Moisés, nas campinas de Moabe junto ao Jordão na direção de Jericó, dizendo: ^v50
+**50** Yahweh falou a Moisés na planície de Moabe junto ao Jordão em Jericó e disse: ^v50
 
-**51** Fala aos filhos de Israel, e dize-lhes: Quando houverdes passado o Jordão para a terra de Canaã, ^v51
+**51** """Fala ao povo de Israel e dize-lhes: 'Quando cruzardes o Jordão para entrardes na terra de Canaã," ^v51
 
-**52** Lançareis fora todos os moradores da terra de diante de vós, e destruireis todas as suas pinturas; também destruireis todas as suas imagens de fundição, e desfareis todos os seus altos; ^v52
+**52** expulsareis todos os moradores da terra de diante de vós. Destruireis todas as suas imagens esculpidas, todas as imagens fundidas e demolireis todos os seus santuários. ^v52
 
-**53** E tomareis a terra em possessão, e nela habitareis; porquanto vos tenho dado esta terra, para possuí-la. ^v53
+**53** E tomai posse da terra e habitai nela, porque Eu vos tenho dado a terra para a possuirdes. ^v53
 
-**54** E por sortes herdareis a terra, segundo as vossas famílias; aos muitos multiplicareis a herança, e aos poucos diminuireis a herança; conforme a sorte sair a alguém, ali a possuirá; segundo as tribos de vossos pais recebereis as heranças. ^v54
+**54** Herdai a terra por sorte, de acordo com cada clã. Para os clãs maiores, dai um grande pedaço de terra, e, para os grupos pequenos, dai um pequeno pedaço de terra. Em quaisquer clãs que a sorte cair, a terra lhes pertencerá. Vós herdareis a terra de acordo com as tribos de vossos antecessores. ^v54
 
-**55** Mas se não lançardes fora os moradores da terra de diante de vós, então os que deixardes ficar vos serão por espinhos nos vossos olhos, e por aguilhões nas vossas virilhas, e apertar-vos-ão na terra em que habitardes, ^v55
+**55** Mas, se não expulsardes os moradores da terra de diante de vós, então, as pessoas que permitirdes ficar se tornarão como farpas nos vossos olhos e espinhos nas vossas costelas. Elas tornarão a vossa vida difícil onde vos instalardes. ^v55
 
-**56** E será que farei a vós como pensei fazer-lhes a eles. ^v56
+**56** "Então, o que Eu intento fazer com esse povo, Eu farei também a vós'""." ^v56

@@ -1,53 +1,52 @@
 ---
-Livro: "[[Filipenses|Filipenses]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Filipenses|Filipenses]]"
+tags: [biblia]
 ---
 
 # Filipenses 4
 
-**1** Portanto, meus amados e mui queridos irmãos, minha alegria e coroa, estai assim firmes no Senhor, amados. ^v1
+**1** Portanto, meus amados irmãos, os quais muito estimo, minha alegria e coroa, desta forma permanecei firmes no Senhor, amados amigos. ^v1
 
-**2** Rogo a Evódia, e rogo a Síntique, que sintam o mesmo no Senhor. ^v2
+**2** Suplico a Evódia e a Síntique que tenham o mesmo pensamento no Senhor. ^v2
 
-**3** E peço-te também a ti, meu verdadeiro companheiro, que ajudes essas mulheres que trabalharam comigo no evangelho, e com Clemente, e com os meus outros cooperadores, cujos nomes estão no livro da vida. ^v3
+**3** Na verdade, rogo também a ti, meu fiel companheiro de jugo: ajude essas mulheres, porque elas trabalharam comigo propagando o evangelho juntamente com Clemente e os demais dos meus companheiros de trabalho, cujos nomes estão no livro da vida. ^v3
 
-**4** Regozijai-vos sempre no Senhor; outra vez digo, regozijai-vos. ^v4
+**4** Alegrai-vos sempre no Senhor; outra vez direi: Alegrai-vos. ^v4
 
-**5** Seja a vossa eqüidade notória a todos os homens. Perto está o Senhor. ^v5
+**5** Seja conhecida diante de todas as pessoas a vossa bondade. Perto está o Senhor . ^v5
 
-**6** Não estejais inquietos por coisa alguma; antes as vossas petições sejam em tudo conhecidas diante de Deus pela oração e súplica, com ação de graças. ^v6
+**6** Não estejais ansiosos por coisa alguma. Antes, em tudo sejam os vossos pedidos conhecidos diante de Deus, por orações e súplicas, com ações de graças. ^v6
 
 **7** E a paz de Deus, que excede todo o entendimento, guardará os vossos corações e os vossos pensamentos em Cristo Jesus. ^v7
 
-**8** Quanto ao mais, irmãos, tudo o que é verdadeiro, tudo o que é honesto, tudo o que é justo, tudo o que é puro, tudo o que é amável, tudo o que é de boa fama, se há alguma virtude, e se há algum louvor, nisso pensai. ^v8
+**8** Finalmente irmãos, tudo o que for verdadeiro, tudo o que for honrável, tudo o que for justo, tudo o que for puro, tudo o que for amável, tudo o que for bom, se há alguma excelência, se há algo para ser louvado, nessas coisas pensai. ^v8
 
-**9** O que também aprendestes, e recebestes, e ouvistes, e vistes em mim, isso fazei; e o Deus de paz será convosco. ^v9
+**9** As coisas que aprendestes, recebestes, ouvistes e vistes em mim, estas fazei, e o Deus da paz estará convosco. ^v9
 
-**10** Ora, muito me regozijei no Senhor por finalmente reviver a vossa lembrança de mim; pois já vos tínheis lembrado, mas não tínheis tido oportunidade. ^v10
+**10** Alegro-me grandemente no Senhor, porque agora finalmente renovastes o vosso cuidado por mim, embora anteriormente estivestes pensando em mim, não houve oportunidade para que vós me ajudásseis. ^v10
 
-**11** Não digo isto como por necessidade, porque já aprendi a contentar-me com o que tenho. ^v11
+**11** Não digo isto por estar em necessidade. Pois aprendi a estar contente em todas as circunstâncias. ^v11
 
-**12** Sei estar abatido, e sei também ter abundância; em toda a maneira, e em todas as coisas estou instruído, tanto a ter fartura, como a ter fome; tanto a ter abundância, como a padecer necessidade. ^v12
+**12** Sei o que é estar pobre, e também sei o que é ter abundância. De todas as formas e em todas as coisas, aprendi o segredo de como estar em fartura ou em escassez, em abundância ou em necessidade. ^v12
 
-**13** Posso todas as coisas em Cristo que me fortalece. ^v13
+**13** Posso todas as coisas Naquele que me fortalece. ^v13
 
-**14** Todavia fizestes bem em tomar parte na minha aflição. ^v14
+**14** Contudo fizestes bem em compartilhar comigo em minhas dificuldades. ^v14
 
-**15** E bem sabeis também, ó filipenses, que, no princípio do evangelho, quando parti da macedônia, nenhuma igreja comunicou comigo com respeito a dar e a receber, senão vós somente; ^v15
+**15** Vós, Filipenses, sabeis que no começo do evangelho, quando saí da Macedônia, nenhuma igreja me deu suporte na questão de dar e receber, exceto vós. ^v15
 
-**16** Porque também uma e outra vez me mandastes o necessário a tessalônica. ^v16
+**16** Até enquanto eu estava em Tessalônica, vós enviaste ajuda para as minhas necessidades mais de uma vez. ^v16
 
-**17** Não que procure dádivas, mas procuro o fruto que cresça para a vossa conta. ^v17
+**17** Não que eu busque as ofertas, mas sim o fruto que é acrescentado para vosso crédito. ^v17
 
-**18** Mas bastante tenho recebido, e tenho abundância. Cheio estou, depois que recebi de Epafrodito o que da vossa parte me foi enviado, como cheiro de suavidade e sacrifício agradável e aprazível a Deus. ^v18
+**18** Tenho recebido todas as coisas, e as tenho em abundância. Estou satisfeito. Recebi de Epafrodito as coisas enviadas por vós. Elas são um aroma doce e suave, um sacrifício aceitável e agradável a Deus. ^v18
 
-**19** O meu Deus, segundo as suas riquezas, suprirá todas as vossas necessidades em glória, por Cristo Jesus. ^v19
+**19** Meu Deus suprirá todas as vossas necessidades de acordo com as Suas riquezas em glória em Cristo Jesus. ^v19
 
-**20** Ora, a nosso Deus e Pai seja dada glória para todo o sempre. Amém. ^v20
+**20** Agora para o nosso Deus e Pai seja a glória pelos séculos dos séculos. Amém. ^v20
 
-**21** Saudai a todos os santos em Cristo Jesus. Os irmãos que estão comigo vos saúdam. ^v21
+**21** Saudai todos os crentes em Cristo Jesus. Os irmãos que estão comigo vos saúdam. ^v21
 
-**22** Todos os santos vos saúdam, mas principalmente os que são da casa de César. ^v22
+**22** Todos os crentes vos saúdam, especialmente aqueles da casa de César. ^v22
 
-**23** A graça de nosso Senhor Jesus Cristo seja com vós todos. Amém. ^v23
+**23** A graça do Senhor Jesus Cristo seja com o vosso espírito. ^v23

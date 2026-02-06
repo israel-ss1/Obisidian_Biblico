@@ -1,19 +1,18 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Malaquias|Malaquias]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Malaquias|Malaquias]]"
+tags: [biblia]
 ---
 
 # Malaquias 4
 
-**1** Porque eis que aquele dia vem ardendo como fornalha; todos os soberbos, e todos os que cometem impiedade, serão como a palha; e o dia que está para vir os abrasará, diz o SENHOR dos Exércitos, de sorte que lhes não deixará nem raiz nem ramo. ^v1
+**1** "Vede! O dia vem ardendo como uma fornalha, quando todos os orgulhosos e ímpios serão como a palha. O dia que vem os queimará"", diz Yahweh dos Exércitos, ""E não lhes sobrará raiz nem ramo." ^v1
 
-**2** Mas para vós, os que temeis o meu nome, nascerá o sol da justiça, e cura trará nas suas asas; e saireis e saltareis como bezerros da estrebaria. ^v2
+**2** Mas para vós, que temeis o Meu Nome, o sol da justiça nascerá trazendo cura sob suas asas. Vós saireis saltando como bezerros do curral. ^v2
 
-**3** E pisareis os ímpios, porque se farão cinza debaixo das plantas de vossos pés, naquele dia que estou preparando, diz o Senhor dos Exércitos. ^v3
+**3** "E pisareis os ímpios, porque eles serão como cinza debaixo das plantas de vossos pés naquele dia em que Eu agir"", diz Yahweh dos Exércitos." ^v3
 
-**4** Lembrai-vos da lei de Moisés, meu servo, que lhe mandei em Horebe para todo o Israel, a saber, estatutos e juízos. ^v4
+**4** """Lembrai-vos de obedecer à Lei do Meu servo Moisés, os estatutos e decretos que lhe ordenei, em Horebe, para todo o Israel." ^v4
 
-**5** Eis que eu vos enviarei o profeta Elias, antes que venha o grande e terrível dia do Senhor; ^v5
+**5** Eis que vos enviarei Elias, o profeta, antes que venha o grande e terrível dia de Yahweh. ^v5
 
-**6** E ele converterá o coração dos pais aos filhos, e o coração dos filhos a seus pais; para que eu não venha, e fira a terra com maldição. ^v6
+**6** "Ele converterá o coração dos pais aos filhos, e o coração dos filhos aos pais; para que Eu não venha e ataque a terra com destruição completa""." ^v6

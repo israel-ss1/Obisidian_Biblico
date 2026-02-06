@@ -1,65 +1,64 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Ezequiel|Ezequiel]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Ezequiel|Ezequiel]]"
+tags: [biblia]
 ---
 
 # Ezequiel 39
 
-**1** Tu, pois, ó filho do homem, profetiza ainda contra Gogue, e dize: Assim diz o Senhor DEUS: Eis que eu sou contra ti, ó Gogue, príncipe e chefe de Meseque e de Tubal. ^v1
+**1** """Tu, pois, filho do homem, profetiza contra Gogue e dize: Assim diz Yahweh Deus: 'Eis que Eu sou contra ti, Gogue, chefe de Meseque e Tubal." ^v1
 
-**2** E te farei voltar, mas deixarei uma sexta parte de ti, e far-te-ei subir do extremo norte, e te trarei aos montes de Israel. ^v2
+**2** Eu te farei retornar e te guiarei; Eu te levarei do extremo norte até as montanhas de Israel. ^v2
 
-**3** E, com um golpe, tirarei o teu arco da tua mão esquerda, e farei cair as tuas flechas da tua mão direita. ^v3
+**3** Então, arrancarei o teu arco da tua mão esquerda e farei cair as flechas da tua mão direita. ^v3
 
-**4** Nos montes de Israel cairás, tu e todas as tuas tropas, e os povos que estão contigo; e às aves de rapina, de toda espécie, e aos animais do campo, te darei por comida. ^v4
+**4** Morrerás nas montanhas de Israel, tu e todas as tuas tropas e os soldados que estão contigo. Eu te entregarei às aves de rapina e aos animais selvagens dos campos, para que te devorem. ^v4
 
-**5** Sobre a face do campo cairás, porque eu o falei, diz o Senhor DEUS. ^v5
+**5** Tu morrerás na superfície do campo, pois Eu mesmo declaro isto — assim diz Yahweh Deus. ^v5
 
-**6** E enviarei um fogo sobre Magogue e entre os que habitam seguros nas ilhas; e saberão que eu sou o Senhor. ^v6
+**6** Então, enviarei fogo sobre Magogue e os que vivem em segurança nas ilhas e eles saberão que Eu sou Yahweh. ^v6
 
-**7** E farei conhecido o meu santo nome no meio do meu povo Israel, e nunca mais deixarei profanar o meu santo nome; e os gentios saberão que eu sou o Senhor, o Santo em Israel. ^v7
+**7** Pois Eu farei o Meu santo nome conhecido no meio do Meu povo Israel e não permitirei mais que Meu santo nome seja profanado; as nações saberão que Eu sou Yahweh, o santo de Israel. ^v7
 
-**8** Eis que vem, e se cumprirá, diz o Senhor DEUS; este é o dia de que tenho falado. ^v8
+**8** Eis que virá o dia e isso acontecerá — assim diz Yahweh Deus. ^v8
 
-**9** E os habitantes das cidades de Israel sairão, e acenderão o fogo, e queimarão as armas, e os escudos e as rodelas, com os arcos, e com as flechas, e com os bastões de mão, e com as lanças; e acenderão fogo com elas por sete anos. ^v9
+**9** Então, aqueles que habitam as cidades de Israel sairão e farão incêndios com suas armas, com escudos grandes e pequenos, arcos e flechas, bastões e lanças, e, por sete anos, eles queimarão tudo. ^v9
 
-**10** E não trarão lenha do campo, nem a cortarão dos bosques, mas com as armas acenderão fogo; e roubarão aos que os roubaram, e despojarão aos que os despojaram, diz o Senhor DEUS. ^v10
+**10** "Eles não trarão lenha dos campos ou cortarão árvores das florestas, mas com as armas farão fogo; tomarão daqueles que os despojaram; saquearão aqueles que os saquearam — assim diz Yahweh Deus""." ^v10
 
-**11** E sucederá que, naquele dia, darei ali a Gogue um lugar de sepultura em Israel, o vale dos que passam ao oriente do mar; e pararão os que por ele passarem; e ali sepultarão a Gogue, e a toda a sua multidão, e lhe chamarão o vale da multidão de Gogue. ^v11
+**11** """Naquele dia, darei a Gogue, uma sepultura em Israel, o vale daqueles que viajam para o leste do mar, que espantará aqueles que o desejarem atravessar. Lá eles irão sepultar Gogue com toda a sua multidão. Eles irão chamá-lo de vale de Hamom-Gogue." ^v11
 
-**12** E a casa de Israel os enterrará durante sete meses, para purificar a terra. ^v12
+**12** Por sete meses, a casa de Israel os sepultará, para purificar a terra. ^v12
 
-**13** Sim, todo o povo da terra os enterrará, e será para eles memo-rável dia em que eu for glorificado, diz o Senhor Deus. ^v13
+**13** "Pois, todos os povos da terra os sepultarão; e será um dia memorável para eles quando Eu for glorificado — assim diz Yahweh Deus""." ^v13
 
-**14** E separarão homens que incessantemente percorrerão a terra, para que eles, juntamente com os que passam, sepultem os que tiverem ficado sobre a face da terra, para a purificarem; durante sete meses farão esta busca. ^v14
+**14** """Então, eles designarão homens para que atravessem a terra sem parar, e juntamente com os que viajam, procurem os que morreram, a fim de sepultá-los e purificar a terra. No final do sétimo mês, eles farão a busca." ^v14
 
-**15** E os que percorrerem a terra, a qual atravessarão, vendo algum osso de homem, porão ao lado um sinal; até que os enterradores o tenham enterrado no vale da multidão de Gogue. ^v15
+**15** Ao atravessarem a terra, vendo algum osso humano, eles colocarão um sinal à sua volta, até que os coveiros o enterrem no vale de Hamom-Gogue. ^v15
 
-**16** E também o nome da cidade será Hamona; assim purificarão a terra. ^v16
+**16** "E o nome da cidade será Hamoná. Dessa forma, eles purificarão a terra""." ^v16
 
-**17** Tu, pois, ó filho do homem, assim diz o Senhor DEUS, dize às aves de toda espécie, e a todos os animais do campo: Ajuntai-vos e vinde, congregai-vos de toda parte para o meu sacrifício, que eu ofereci por vós, um sacrifício grande, nos montes de Israel, e comei carne e bebei sangue. ^v17
+**17** "Tu, pois, ó filho do homem, assim diz Yahweh Deus: dize a todas as aves de toda espécie e a todos os animais selvagens nos campos: ""Ajuntai-vos e vinde; reuni-vos de todos os lados para o Meu sacrifício, que faço por ti, um grande sacrifício nas montanhas de Israel, para que tu comas carne e bebas sangue." ^v17
 
-**18** Comereis a carne dos poderosos e bebereis o sangue dos príncipes da terra; dos carneiros, dos cordeiros, e dos bodes, e dos bezerros, todos cevados de Basã. ^v18
+**18** Tu comerás a carne dos poderosos e beberás o sangue dos príncipes da terra; dos carneiros, dos cordeiros, das cabras e dos touros engordados em Basã. ^v18
 
-**19** E comereis a gordura até vos fartardes e bebereis o sangue até vos embebedardes, do meu sacrifício que ofereci por vós. ^v19
+**19** Então, comereis gordura para vos satisfazerdes; e bebereis sangue até a embriaguez; com o sacrifício que vos ofereço. ^v19
 
-**20** E, à minha mesa, fartar-vos-ei de cavalos, de carros, de poderosos, e de todos os homens de guerra, diz o Senhor DEUS. ^v20
+**20** "Vós ficareis satisfeitos de cavalos, de cavaleiros e todo homem de guerra, à Minha mesa, assim diz Yahweh Deus""." ^v20
 
-**21** E eu porei a minha glória entre os gentios e todos os gentios verão o meu juízo, que eu tiver executado, e a minha mão, que sobre elas tiver descarregado. ^v21
+**21** """Eu estabelecerei a Minha glória entre as nações e todas as nações verão o juízo que Eu executo e a Minha mão que Eu farei cair sobre elas." ^v21
 
-**22** E saberão os da casa de Israel que eu sou o Senhor seu Deus, desde aquele dia em diante. ^v22
+**22** "A casa de Israel saberá que Eu sou Yahweh, seu Deus, desde aquele dia em diante""." ^v22
 
-**23** E os gentios saberão que os da casa de Israel, por causa da sua iniqüidade, foram levados em cativeiro, porque se rebelaram contra mim, e eu escondi deles a minha face, e os entreguei nas mãos de seus adversários, e todos caíram à espada. ^v23
+**23** As nações saberão que a casa de Israel foi levada em cativeiro por causa da sua iniquidade, com a qual eles Me traíram, então, escondi o Meu rosto deles e os entreguei nas mãos de seus adversários e todos caíram à espada. ^v23
 
-**24** Conforme a sua imundícia e conforme as suas transgressões me houve com eles, e escondi deles a minha face. ^v24
+**24** Eu os tratei de acordo com as suas imundícies e os seus pecados, escondi deles o Meu rosto. ^v24
 
-**25** Portanto assim diz o Senhor DEUS: Agora tornarei a trazer os cativos de Jacó, e me compadecerei de toda a casa de Israel; zelarei pelo meu santo nome. ^v25
+**25** Por isso, assim diz Yahweh Deus: agora restaurarei a sorte de Jacó e terei compaixão de toda a casa de Israel, quando Eu agir com zelo pelo Meu santo nome. ^v25
 
-**26** E levarão sobre si a sua vergonha, e toda a sua rebeldia, com que se rebelaram contra mim, quando eles habitarem seguros na sua terra, sem haver quem os espante. ^v26
+**26** Então, eles se esquecerão de toda a sua vergonha e deslealdade com as quais Me traíram. E descansarão, em suas terras, em segurança, sem ninguém para assustá-los. ^v26
 
-**27** Quando eu os tornar a trazer de entre os povos, e os houver ajuntado das terras de seus inimigos, e eu for santificado neles aos olhos de muitas nações, ^v27
+**27** Quando Eu os restaurar dos povos e os reunir das terras dos seus inimigos, Eu Me mostrarei santo neles, aos olhos de muitas nações. ^v27
 
-**28** Então saberão que eu sou o Senhor seu Deus, vendo que eu os fiz ir em cativeiro entre os gentios, e os ajuntarei para voltarem a sua terra, e não mais deixarei lá nenhum deles. ^v28
+**28** Então, eles saberão que Eu sou Yahweh, seu Deus, porque Eu os enviei ao cativeiro entre as nações, mas, depois, Eu os trouxe de volta às suas terras. Não deixarei nenhum deles em outras nações. ^v28
 
-**29** Nem lhes esconderei mais a minha face, pois derramarei o meu Espírito sobre a casa de Israel, diz o Senhor DEUS. ^v29
+**29** "Não lhes esconderei mais o Meu rosto, quando derramar o Meu Espírito sobre a casa de Israel — assim diz Yahweh Deus""." ^v29

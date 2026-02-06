@@ -1,57 +1,56 @@
 ---
-Livro: "[[Deuteronômio|Deuteronômio]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Deuteronômio|Deuteronômio]]"
+tags: [biblia]
 ---
 
 # Deuteronômio 6
 
-**1** Estes, pois, são os mandamentos, os estatutos e os juízos que mandou o SENHOR vosso Deus para ensinar-vos, para que os cumprísseis na terra a que passais a possuir; ^v1
+**1** Estes são os mandamentos, estatutos e decretos que Yahweh, o vosso Deus, me ordenou para vos ensinar, para os guardar na terra à qual estais indo, além do Jordão, para possuí-la; ^v1
 
-**2** Para que temas ao Senhor teu Deus, e guardes todos os seus estatutos e mandamentos, que eu te ordeno, tu, e teu filho, e o filho de teu filho, todos os dias da tua vida, e que teus dias sejam prolongados. ^v2
+**2** a fim de que temais Yahweh, vosso Deus, e guardais todos os seus estatutos e mandamentos que eu vos ordeno, vós, vossos filhos e os filhos dos vossos filhos, todos os dias de vossa vida e para que os vossos dias se prolonguem. ^v2
 
-**3** Ouve, pois, ó Israel, e atenta em os guardares, para que bem te suceda, e muito te multipliques, como te disse o Senhor Deus de teus pais, na terra que mana leite e mel. ^v3
+**3** Portanto, escuta ó Israel, e guarda, para que te vás bem, e te multipliques grandemente na terra que mana leite e mel, como Yahweh, Deus de teus pais, te prometeu. ^v3
 
-**4** Ouve, Israel, o Senhor nosso Deus é o único Senhor. ^v4
+**4** Escuta, Israel: Yahweh, nosso Deus, é o único Senhor. ^v4
 
-**5** Amarás, pois, o Senhor teu Deus de todo o teu coração, e de toda a tua alma, e de todas as tuas forças. ^v5
+**5** Amarás a Yahweh, teu Deus, com todo o teu coração, com toda a tua alma e com todas as tuas forças. ^v5
 
-**6** E estas palavras, que hoje te ordeno, estarão no teu coração; ^v6
+**6** As palavras, que hoje te ordeno, estarão sempre em teu coração; ^v6
 
-**7** E as ensinarás a teus filhos e delas falarás assentado em tua casa, e andando pelo caminho, e deitando-te e levantando-te. ^v7
+**7** e tu as ensinarás diligentemente aos teus filhos; falarás ao sentares em tua casa, quando andares no caminho, quando deitares, e quando acordares. ^v7
 
-**8** Também as atarás por sinal na tua mão, e te serão por frontais entre os teus olhos. ^v8
+**8** Tu as amarrarás como sinal em tua mão e elas te servirão como faixa entre teus olhos. ^v8
 
-**9** E as escreverás nos umbrais de tua casa, e nas tuas portas. ^v9
+**9** Escreverás nos batentes e nas portas de tuas casas. ^v9
 
-**10** Quando, pois, o Senhor teu Deus te introduzir na terra que jurou a teus pais, Abraão, Isaque e Jacó, que te daria, com grandes e boas cidades, que tu não edificaste, ^v10
+**10** Quando Yahweh, teu Deus, te estabelecer na terra que jurou a teus pais, Abraão, Isaque, e Jacó, que Ele te daria com grandes e boas cidades, que tu não edificaste ^v10
 
-**11** E casas cheias de todo o bem, que tu não encheste, e poços cavados, que tu não cavaste, vinhas e olivais, que tu não plantaste, e comeres, e te fartares, ^v11
+**11** e casas cheias de todos os tipos de bens, que tu não encheste, poços que tu não cavaste, e vinhedos e oliveiras que tu não plantaste, tu comerás e ficarás satisfeito. ^v11
 
-**12** Guarda-te, que não te esqueças do Senhor, que te tirou da terra do Egito, da casa da servidão. ^v12
+**12** Então, tem cuidado para que não te esqueças de Yahweh, que te tirou da terra do Egito, da casa da escravidão. ^v12
 
-**13** O Senhor teu Deus temerás e a ele servirás, e pelo seu nome jurarás. ^v13
+**13** Temerás Yahweh, teu Deus, a Ele prestarás culto e jurarás pelo Seu nome. ^v13
 
-**14** Não seguireis outros deuses, os deuses dos povos que houver ao redor de vós; ^v14
+**14** Não seguirás outros deuses, os deuses dos povos que estão à tua volta — ^v14
 
-**15** Porque o Senhor teu Deus é um Deus zeloso no meio de ti, para que a ira do Senhor teu Deus se não acenda contra ti e te destrua de sobre a face da terra. ^v15
+**15** pois, Yahweh, teu Deus, que está no meio de ti, é um Deus zeloso; para que a ira de Yahweh, teu Deus, não se acenda contra ti e Ele te destrua da face da terra. ^v15
 
-**16** Não tentareis o Senhor vosso Deus, como o tentastes em Massá; ^v16
+**16** Não tentarás Yahweh, teu Deus, como fizeste em Massá. ^v16
 
-**17** Diligentemente guardareis os mandamentos do Senhor vosso Deus, como também os seus testemunhos, e seus estatutos, que te tem mandado. ^v17
+**17** Guardarás, diligentemente, os mandamentos de Yahweh, teu Deus, e os Seus solenes mandamentos e estatutos que Ele te ordenou. ^v17
 
-**18** E farás o que é reto e bom aos olhos do Senhor, para que bem te suceda, e entres, e possuas a boa terra, a qual o Senhor jurou dar a teus pais. ^v18
+**18** Farás o que é reto e bom aos olhos de Yahweh, para que te vás bem, entres e possuas a boa terra que Yahweh jurou a teus pais, ^v18
 
-**19** Para que lance fora a todos os teus inimigos de diante de ti, como o Senhor tem falado. ^v19
+**19** para que expulses todos teus inimigos diante de ti, como disse Yahweh. ^v19
 
-**20** Quando teu filho te perguntar no futuro, dizendo: Que significam os testemunhos, e estatutos e juízos que o Senhor nosso Deus vos ordenou? ^v20
+**20** Quando os teus filhos te perguntarem, no tempo que há de vir, dizendo: 'O que são os decretos da aliança, os estatutos, e os outros decretos que Yahweh, nosso Deus, te ordenou?'. ^v20
 
-**21** Então dirás a teu filho: Éramos servos de Faraó no Egito; porém o Senhor, com mão forte, nos tirou do Egito; ^v21
+**21** Então, tu dirás para teu filho: 'Fomos escravos de Faraó no Egito; Yahweh nos tirou do Egito com Sua poderosa mão, ^v21
 
-**22** E o Senhor, aos nossos olhos, fez sinais e maravilhas, grandes e terríveis, contra o Egito, contra Faraó e toda sua casa; ^v22
+**22** e Ele fez sinais e maravilhas, grandes e terríveis, no Egito, contra Faraó, e em toda sua casa, diante de nossos olhos, ^v22
 
-**23** E dali nos tirou, para nos levar, e nos dar a terra que jurara a nossos pais. ^v23
+**23** e Ele nos tirou de lá, para nos estabelecer, para nos dar a terra que Ele jurou aos nossos pais. ^v23
 
-**24** E o Senhor nos ordenou que cumpríssemos todos estes estatutos, que temêssemos ao Senhor nosso Deus, para o nosso perpétuo bem, para nos guardar em vida, como no dia de hoje. ^v24
+**24** Yahweh nos ordenou guardar todos estes estatutos, temer Yahweh, nosso Deus, para o nosso bem, para sempre, para que Ele nos preserve vivos, como estamos hoje. ^v24
 
-**25** E será para nós justiça, quando tivermos cuidado de cumprir todos estes mandamentos perante o Senhor nosso Deus, como nos tem ordenado. ^v25
+**25** Se nós guardarmos todos esses mandamentos diante de Yahweh, nosso Deus, assim como ele nos ordenou, essa será a nossa justiça'. ^v25

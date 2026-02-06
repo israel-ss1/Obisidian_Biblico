@@ -1,61 +1,60 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Ezequiel|Ezequiel]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Ezequiel|Ezequiel]]"
+tags: [biblia]
 ---
 
 # Ezequiel 7
 
-**1** Depois veio a mim a palavra do SENHOR, dizendo: ^v1
+**1** A palavra de Yahweh veio a mim, dizendo: ^v1
 
-**2** E tu, ó filho do homem, assim diz o Senhor DEUS acerca da terra de Israel: Vem o fim, o fim vem sobre os quatro cantos da terra. ^v2
+**2** """Tu, filho do homem, Yahweh Deus diz isto à terra de Israel: 'O fim, o fim chegou aos quatro cantos da terra'." ^v2
 
-**3** Agora vem o fim sobre ti, e enviarei sobre ti a minha ira, e te julgarei conforme os teus caminhos, e trarei sobre ti todas as tuas abominações. ^v3
+**3** O fim sobreveio a ti, eis que derramarei Minha ira sobre ti, e te julgarei de acordo com os teus caminhos; e trarei sobre ti todas as tuas abominações. ^v3
 
-**4** E não te poupará o meu olho, nem terei piedade de ti, mas porei sobre ti os teus caminhos, e as tuas abominações estarão no meio de ti; e sabereis que eu sou o Senhor. ^v4
+**4** Os Meus olhos não terão compaixão de ti, e não te pouparei. Pelo contrário, trarei sobre ti os teus caminhos, e as tuas abominações estarão no meio de ti. Então, sabereis que Eu sou Yahweh. ^v4
 
-**5** Assim diz o Senhor DEUS: Um mal, eis que um só mal vem. ^v5
+**5** "Assim diz Yahweh Deus: Desastre! Um desastre ímpar! Vede, está vindo. [Em vez de ""desastre único"", alguns manuscritos antigos trazem ""desastre sobre desastre"".] Eis que vem." ^v5
 
-**6** Vem o fim, o fim vem, despertou-se contra ti; eis que vem. ^v6
+**6** O fim certamente está vindo. O fim despertou contra ti. Eis que está vindo! ^v6
 
-**7** A manhà vem para ti, ó habitante da terra. Vem o tempo; chegado é o dia da turbação, e não mais o sonido de alegria dos montes. ^v7
+**7** A sentença vem para ti que habita na terra. O tempo chegou! Próximo está o dia da destruição e os montes não mais se regozijarão. ^v7
 
-**8** Agora depressa derramarei o meu furor sobre ti, e cumprirei a minha ira contra ti, e te julgarei conforme os teus caminhos, e porei sobre ti todas as tuas abominações. ^v8
+**8** Em breve, lançarei Minha fúria contra ti e encherei Minha ira sobre ti; quando Eu te julgar de acordo com os teus caminhos e trouxer todas as tuas abominações sobre ti. ^v8
 
-**9** E não te poupará o meu olho, nem terei piedade de ti; conforme os teus caminhos, assim te punirei, e as tuas abominações estarão no meio de ti; e sabereis que eu, o Senhor, é que firo. ^v9
+**9** Porque Meu olho não olhará compassivamente e Eu não te pouparei. Conforme os teus caminhos, farei a ti; e as tuas abominações estarão no meio de ti. E sabereis que Eu sou Yahweh, aquele que vos está castigando. ^v9
 
-**10** Eis aqui o dia, eis que vem; veio a manhà, já floresceu a vara, já reverdeceu a soberba. ^v10
+**10** Eis o dia! Eis que está vindo! Veio a tua ruína, já floresceu a vara, já brotou a soberba. ^v10
 
-**11** A violência se levantou em vara de impiedade; nada restará deles, nem da sua multidão, nem do seu rumor, nem haverá lamentação por eles. ^v11
+**11** A violência se levantou para servir de vara de impiedade; nenhum deles e nenhum da sua multidão; nada da sua riqueza, e nada do seu valor perdurará. ^v11
 
-**12** Vem o tempo, é chegado o dia; o que compra não se alegre, e o que vende não se entristeça; porque a ira ardente está sobre toda a multidão deles. ^v12
+**12** O tempo está vindo; o dia está próximo. Não deixes o comprador se alegrar, nem que o vendedor se lamente, porque Minha ira está sobre a multidão inteira! ^v12
 
-**13** Porque o que vende não tornará a possuir o que vendeu, ainda que esteja entre os viventes; porque a visão, sobre toda a sua multidão, não tornará para trás, nem ninguém fortalecerá a sua vida com a sua iniqüidade. ^v13
+**13** Porquanto o vendedor nunca mais voltará a ter o que vendeu, ainda que vivam, pois a profecia é contra toda a multidão. Eles não retornarão, porque nenhum homem, vivendo em seu pecado, será fortalecido! ^v13
 
-**14** Já tocaram a trombeta, e tudo prepararam, mas não há quem vá à peleja, porque a minha ardente ira está sobre toda a sua multidão. ^v14
+**14** Tocaram a trombeta e prepararam tudo, mas ninguém está marchando para a batalha; porque Minha ira está sobre toda a multidão. ^v14
 
-**15** Fora está a espada, e dentro a peste e a fome; o que estiver no campo morrerá à espada, e o que estiver na cidade a fome e a peste o consumirão. ^v15
+**15** A espada está fora, mas a praga, e a fome estão dentro da casa. Os que estão no campo morrerão à espada, enquanto a fome e a praga consumirão os que estão na cidade. ^v15
 
-**16** E escaparão os que fugirem deles, mas estarão pelos montes, como pombas dos vales, todos gemendo, cada um por causa da sua iniqüidade. ^v16
+**16** Mas sobreviventes escaparão dentre eles e irão aos montes. Como as pombas dos vales, todos eles gemerão, cada um pela sua iniquidade. ^v16
 
-**17** Todas as mãos se enfraquecerão, e todos os joelhos serão débeis como água. ^v17
+**17** Todas as mãos se tornarão débil e todos os joelhos esmorecerão como água; ^v17
 
-**18** E cingir-se-ão de sacos, e o terror os cobrirá; e sobre todos os rostos haverá vergonha, e sobre todas as suas cabeças, calva. ^v18
+**18** e vestirão pano de saco, terror lhes cobrirá, vergonha estará em todos os rostos, calvície em todas as cabeças. ^v18
 
-**19** A sua prata lançarão pelas ruas, e o seu ouro será removido; nem a sua prata nem o seu ouro os poderá livrar no dia do furor do Senhor; eles não fartarão a sua alma, nem lhes encherão o estômago, porque isto foi o tropeço da sua iniqüidade. ^v19
+**19** Lançarão a sua prata nas ruas e o seu ouro será como sujeira. A sua prata e o seu ouro não os poderão resgatar no dia da ira de Yahweh. Suas vidas não serão salvas e sua fome não será satisfeita, porque sua iniquidade tornou-se uma pedra de tropeço. ^v19
 
-**20** E a glória do seu ornamento ele a pôs em magnificência, mas eles fizeram nela imagens das suas abominações e coisas detestáveis; por isso eu lha tenho feito coisa imunda. ^v20
+**20** Em sua soberba, levaram a beleza dos seus ornamentos de joias e, com elas, fizeram suas imagens de idolatria e coisas detestáveis. Portanto, Eu estou tornando isso em coisas impuras para eles. ^v20
 
-**21** E entregá-la-ei por presa, na mão dos estrangeiros, e aos ímpios da terra por despojo; e a profanarão. ^v21
+**21** Depois, entregarei essas coisas nas mãos dos estrangeiros, como presa, e, aos corruptos da terra, como presa, e eles os profanarão. ^v21
 
-**22** E desviarei deles o meu rosto, e profanarão o meu lugar oculto; porque entrarão nele saqueadores, e o profanarão. ^v22
+**22** Então, desviarei deles a Minha face quando eles profanarem o Meu lugar secreto; salteadores entrarão e o profanarão. ^v22
 
-**23** Faze uma cadeia, porque a terra está cheia de crimes de sangue, e a cidade está cheia de violência. ^v23
+**23** Faze uma cadeia; porque a terra está cheia de juízo de sangue e a cidade está repleta de violência. ^v23
 
-**24** E farei vir os piores dentre os gentios e possuirão as suas casas; e farei cessar a arrogância dos fortes, e os seus lugares santos serão profanados. ^v24
+**24** Portanto, trarei os mais iníquos das nações, os quais tomarão as suas casas e porei um fim à soberba dos seus valentes, porquanto os seus lugares santos serão profanados! ^v24
 
-**25** Vem a destruição; eles buscarão a paz, mas não há nenhuma. ^v25
+**25** Haverá angústia! Buscarão paz, mas paz nenhuma haverá. ^v25
 
-**26** Miséria sobre miséria virá, e se levantará rumor sobre rumor; então buscarão do profeta uma visão, mas do sacerdote perecerá a lei e dos anciãos o conselho. ^v26
+**26** Virá desastre sobre desastre, e haverá rumor sobre rumor. Então, procurarão uma visão do profeta, mas a lei do sacerdote perecerá e o conselho dos anciãos perecerá. ^v26
 
-**27** O rei lamentará, e o príncipe se vestirá de desolação, e as mãos do povo da terra se conturbarão; conforme o seu caminho lhes farei, e conforme os seus merecimentos os julgarei; e saberão que eu sou o Senhor. ^v27
+**27** "O rei lamentará e o príncipe se vestirá de desespero, enquanto as mãos do povo da terra tremerão de medo. Assim, procederei com eles: segundo os seus próprios caminhos. Com seus próprios juízos, Eu os julgarei, até que saibam que Eu sou Yahweh'""." ^v27

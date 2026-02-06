@@ -1,35 +1,34 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Ezequiel|Ezequiel]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Ezequiel|Ezequiel]]"
+tags: [biblia]
 ---
 
 # Ezequiel 6
 
-**1** E veio a mim a palavra do SENHOR, dizendo: ^v1
+**1** A palavra de Yahweh veio a mim, dizendo: ^v1
 
-**2** Filho do homem, dirige o teu rosto para os montes de Israel, e profetiza contra eles. ^v2
+**2** """Filho do homem, vira o teu rosto para os montes de Israel e profetiza." ^v2
 
-**3** E dirás: Montes de Israel, ouvi a palavra do Senhor DEUS: Assim diz o Senhor DEUS aos montes, aos outeiros, aos ribeiros e aos vales: Eis que eu, sim eu, trarei a espada sobre vós, e destruirei os vossos lugares altos. ^v3
+**3** E dize: 'Montes de Israel, ouvi a palavra de Yahweh Deus! Assim diz Yahweh Deus aos montes e aos outeiros, aos ribeiros e aos vales. Eis que trago uma espada contra vós e destruirei os vossos altares nas colinas. ^v3
 
-**4** E serão assolados os vossos altares, e quebradas as vossas imagens do sol e derrubarei os vossos mortos, diante dos vossos ídolos. ^v4
+**4** Então, vossos altares serão desolados e os altares de incenso serão destruídos; destroçarei os vossos mortos diante de seus ídolos. ^v4
 
-**5** E porei os cadáveres dos filhos de Israel diante dos seus ídolos; e espalharei os vossos ossos em redor dos vossos altares. ^v5
+**5** Lançarei os mortos de Israel diante de seus ídolos e espalharei vossos ossos em redor de vossos altares. ^v5
 
-**6** Em todos os vossos lugares habitáveis, as cidades serão destruídas, e os lugares altos assolados; para que os vossos altares sejam destruídos e assolados, e os vossos ídolos se quebrem e se acabem, e as vossas imagens sejam cortadas, e desfeitas as vossas obras. ^v6
+**6** Em todo lugar onde viverem, cidades serão destruídas e os altares das colinas serão arruinados, de tal modo que vossos altares serão destruídos e desolados. Depois, vossos ídolos serão quebrados e desaparecerão, vossos altares de incenso serão cortados e vossas obras serão desfeitas. ^v6
 
-**7** E os mortos cairão no meio de vós, para que saibais que eu sou o Senhor. ^v7
+**7** Os mortos cairão no vosso meio e sabereis que Eu sou Yahweh. ^v7
 
-**8** Porém deixarei um remanescente, para que tenhais entre as nações alguns que escaparem da espada, quando fordes espalhados pelas terras. ^v8
+**8** Mas preservarei o remanescente dentre vós e haverá alguns que escaparão da espada dentre as nações, quando fordes espalhados por entre os países. ^v8
 
-**9** Então os que dentre vós escaparem se lembrarão de mim entre as nações para onde foram levados em cativeiro; porquanto me quebrantei por causa do seu coração corrompido, que se desviou de mim, e por causa dos seus olhos, que andaram se corrompendo após os seus ídolos; e terão nojo de si mesmos, por causa das maldades que fizeram em todas as suas abominações. ^v9
+**9** Então, os que escaparem, lembrarão de Mim entre as nações onde serão postos em cativeiro, que fiquei entristecido pelos seus corações imorais que se desviaram de Mim, e pelos seus olhos que se prostituíram seguindo seus ídolos. Depois, mostrarão nojo em seu rosto por causa da impiedade que cometeram com todas as suas abominações. ^v9
 
-**10** E saberão que eu sou o Senhor, e que não disse debalde que lhes faria este mal. ^v10
+**10** Assim, saberão que Eu sou Yahweh. Foi por esta razão que Eu disse que lhes traria este mal. ^v10
 
-**11** Assim diz o Senhor DEUS: Bate com a mão, e bate com o teu pé, e dize: Ah! Por todas as grandes abominações da casa de Israel! Porque cairão à espada, e de fome, e de peste. ^v11
+**11** Assim diz Yahweh Deus: Bate com as mãos e com os pés. E dize: 'Ah!', por causa de todas as abominações malignas da casa de Israel, eles cairão pela espada, fome e praga. ^v11
 
-**12** O que estiver longe morrerá de peste, e o que está perto cairá à espada; e o que restar e ficar cercado morrerá de fome; assim cumprirei o meu furor sobre eles. ^v12
+**12** O que estiver longe morrerá pela praga e o que estiver perto morrerá pela espada. O remanescente que for poupado morrerá pela fome. Dessa forma, cumprirei a Minha fúria contra eles. ^v12
 
-**13** Então sabereis que eu sou o Senhor, quando os seus mortos estiverem no meio dos seus ídolos, em redor dos seus altares, em todo o outeiro alto, em todos os cumes dos montes, e debaixo de toda a árvore verde, e debaixo de todo o carvalho frondoso, no lugar onde ofereciam cheiro suave a todos os seus ídolos. ^v13
+**13** Então, sabereis que Eu sou Yahweh, quando os seus mortos estiverem estendidos no meio dos seus ídolos, em redor dos seus altares, em toda montanha alta, em todos os picos dos montes e debaixo de toda a árvore viçosa e carvalho frondoso, os lugares onde queimaram incensos a todos os seus ídolos. ^v13
 
-**14** E estenderei a minha mão sobre eles, e farei a terra desolada, e mais devastada do que o deserto do lado de Dibla, em todas as suas habitações; e saberão que eu sou o Senhor. ^v14
+**14** "Estenderei a mão contra eles e deixarei a terra desolada e destruída, do deserto a Dibla, em todos os lugares onde vivem. Então, eles saberão que Eu sou Yahweh"". [Em vez de ""Dibla"", algumas cópias antigas e versões modernas trazem ""Ribla"".]" ^v14

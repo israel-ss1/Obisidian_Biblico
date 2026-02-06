@@ -1,83 +1,82 @@
 ---
-Livro: "[[Êxodo|Êxodo]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Êxodo|Êxodo]]"
+tags: [biblia]
 ---
 
 # Êxodo 40
 
-**1** Falou mais o SENHOR a Moisés, dizendo: ^v1
+**1** Então Yahweh falou a Moisés, ^v1
 
-**2** No primeiro mês, no primeiro dia do mês, levantarás o tabernáculo da tenda da congregação, ^v2
+**2** """No primeiro dia do primeiro mês, montarás o tabernáculo, a tenda do encontro." ^v2
 
-**3** E porás nele a arca do testemunho, e cobrirás a arca com o véu. ^v3
+**3** Colocarás a arca da aliança dentro da tenda e a cobrirás com um véu. ^v3
 
-**4** Depois colocarás nele a mesa, e porás em ordem o que se deve pôr em ordem nela; também colocarás nele o candelabro, e acenderás as suas lâmpadas. ^v4
+**4** Deverás trazer a mesa e pôr em ordem seus pertences sobre ela. Então deverás trazer o candelabro e colocar suas lâmpadas. ^v4
 
-**5** E porás o altar de ouro para o incenso diante da arca do testemunho; então pendurarás a cortina da porta do tabernáculo. ^v5
+**5** Porás o altar de incenso de ouro perante a arca da aliança, e deverás pôr cortinas na entrada do tabernáculo. ^v5
 
-**6** Porás também o altar do holocausto diante da porta do tabernáculo da tenda da congregação. ^v6
+**6** Colocarás o altar do holocausto à frente da entrada do tabernáculo, a tenda do encontro. ^v6
 
-**7** E porás a pia entre a tenda da congregação e o altar, e nela porás água. ^v7
+**7** Porás a pia entre a tenda do encontro e o altar, e a encherás de água. ^v7
 
-**8** Depois porás o pátio ao redor, e pendurarás a cortina à porta do pátio. ^v8
+**8** Armarás o pátio em volta do tabernáculo, e estenderás a cortina à entrada do pátio. ^v8
 
-**9** Então tomarás o azeite da unção, e ungirás o tabernáculo, e tudo o que há nele; e o santificarás com todos os seus pertences, e será santo. ^v9
+**9** Tomarás o óleo da unção e ungirás o tabernáculo e tudo o que estiver nele. Dedicarás todos o seus utensílios a Mim; então serão santificados. ^v9
 
-**10** Ungirás também o altar do holocausto, e todos os seus utensílios; e santificarás o altar; e o altar será santíssimo. ^v10
+**10** Ungirás o altar do holocausto e todos os seus utensílios. Dedicarás o altar a Mim, e ele se tornará santíssimo para Mim. ^v10
 
-**11** Então ungirás a pia e a sua base, e a santificarás. ^v11
+**11** Ungirás a pia de bronze e sua base, e a dedicarás a Mim. ^v11
 
-**12** Farás também chegar a Arão e a seus filhos à porta da tenda da congregação; e os lavarás com água. ^v12
+**12** Trarás Arão e seus filhos à entrada da tenda do encontro e deverás lavá-los com água. ^v12
 
-**13** E vestirás a Arão as vestes santas, e o ungirás, e o santificarás, para que me administre o sacerdócio. ^v13
+**13** Vestirás Arão com as vestes dedicadas a Mim, ungirás a ele e o dedicarás a Mim para que ele Me sirva como Meu sacerdote. ^v13
 
-**14** Também farás chegar a seus filhos, e lhes vestirás as túnicas, ^v14
+**14** Trarás seus filhos e os vestirás com capas. ^v14
 
-**15** E os ungirás como ungiste a seu pai, para que me administrem o sacerdócio, e a sua unção lhes será por sacerdócio perpétuo nas suas gerações. ^v15
+**15** "Tu os ungirás como ungiste o pai deles, para que Me sirvam como sacerdotes. A unção deles lhes dará um sacerdócio permanente por todas as suas gerações.""" ^v15
 
-**16** E Moisés fez conforme a tudo o que o Senhor lhe ordenou, assim o fez. ^v16
+**16** Isso foi o que Moisés fez. Ele seguiu tudo o que Yahweh havia ordenado. Ele fez todas essas coisas. ^v16
 
-**17** Assim, no primeiro mês, no ano segundo, ao primeiro dia do mês foi levantado o tabernáculo. ^v17
+**17** Então o tabernáculo foi levantado no primeiro dia do primeiro mês, no segundo ano. ^v17
 
-**18** Moisés levantou o tabernáculo, e pôs as suas bases, e armou as suas tábuas, e colocou nele os seus varais, e levantou as suas colunas; ^v18
+**18** Moisés levantou o tabernáculo, firmou suas bases, montou suas tábuas, uniu suas vigas, e firmou suas estacas e postes. ^v18
 
-**19** E estendeu a tenda sobre o tabernáculo, e pôs a cobertura da tenda sobre ela, em cima, como o Senhor ordenara a Moisés. ^v19
+**19** Ele espalhou a cobertura sobre o tabernáculo como uma tenda, da maneira como Yahweh havia mandado. ^v19
 
-**20** Tomou o testemunho, e pô-lo na arca, e colocou os varais na arca; e pôs o propiciatório em cima da arca. ^v20
+**20** Pôs as Leis da Aliança dentro da arca. Colocou também os varais na arca e o propiciatório sobre ela. ^v20
 
-**21** E introduziu a arca no tabernáculo, e pendurou o véu da cobertura, e cobriu a arca do testemunho, como o Senhor ordenara a Moisés. ^v21
+**21** Trouxe a arca para dentro do tabernáculo. Esticou o véu para proteger a arca da aliança, como Yahweh havia ordenado. ^v21
 
-**22** pôs também a mesa na tenda da congregação, ao lado do tabernáculo, para o norte, fora do véu, ^v22
+**22** Colocou a mesa dentro da tenda do encontro, no lado norte do tabernáculo, fora do véu. ^v22
 
-**23** E sobre ela pôs em ordem o pão perante o Senhor, como o Senhor ordenara a Moisés. ^v23
+**23** Colocou os pães em ordem na mesa diante de Yahweh, como Yahweh ordenou a ele. ^v23
 
-**24** pôs também na tenda da congregação o candelabro na frente da mesa, ao lado do tabernáculo, para o sul, ^v24
+**24** Ele pôs o candelabro dentro da tenda do encontro, em frente à mesa, no lado sul do tabernáculo. ^v24
 
-**25** E acendeu as lâmpadas perante o Senhor, como o Senhor ordenara a Moisés. ^v25
+**25** Acendeu as lâmpadas diante de Yahweh, como Yahweh ordenou a ele. ^v25
 
-**26** E pôs o altar de ouro na tenda da congregação, diante do véu, ^v26
+**26** Pôs o altar de incenso de ouro na tenda do encontro, diante do véu. ^v26
 
-**27** E acendeu sobre ele o incenso de especiarias aromáticas, como o Senhor ordenara a Moisés. ^v27
+**27** Queimou sobre ele incenso aromático, como Yahweh ordenou a ele. ^v27
 
-**28** Pendurou também a cortina da porta do tabernáculo, ^v28
+**28** Pendurou a cortina na entrada do tabernáculo. ^v28
 
-**29** E pôs o altar do holocausto à porta do tabernáculo da tenda da congregação, e sobre ele ofereceu holocausto e oferta de alimentos, como o Senhor ordenara a Moisés. ^v29
+**29** Pôs o altar para o sacrifício na entrada do tabernáculo, a tenda do encontro. Ele ofereceu o holocausto e a oferta de cereais sobre o altar, como Yahweh ordenou a ele. ^v29
 
-**30** Pôs também a pia entre a tenda da congregação e o altar, e nela pôs água para lavar. ^v30
+**30** Colocou a pia de bronze entre a tenda do encontro e o altar, e pôs água dentro dela para lavar. ^v30
 
-**31** E Moisés, e Arão e seus filhos nela lavaram as suas mãos e os seus pés. ^v31
+**31** Moisés, Aarão e seus filhos lavavam as mãos e os pés na bacia ^v31
 
-**32** Quando entravam na tenda da congregação, e quando chegavam ao altar, lavavam-se, como o Senhor ordenara a Moisés. ^v32
+**32** toda vez que entravam na tenda do encontro e iam até o altar. Lavavam-se, como Yahweh ordenou a Moisés. ^v32
 
-**33** Levantou também o pátio ao redor do tabernáculo e do altar, e pendurou a cortina da porta do pátio. Assim Moisés acabou a obra. ^v33
+**33** Moisés levantou o átrio em volta do tabernáculo e do altar. Esticou a cortina na entrada do pátio. Dessa forma, Moisés terminou o trabalho. ^v33
 
-**34** Então a nuvem cobriu a tenda da congregação, e a glória do Senhor encheu o tabernáculo; ^v34
+**34** Então a nuvem cobriu a tenda do encontro, e a glória de Yahweh encheu o tabernáculo. ^v34
 
-**35** De maneira que Moisés não podia entrar na tenda da congregação, porquanto a nuvem permanecia sobre ela, e a glória do Senhor enchia o tabernáculo. ^v35
+**35** Moisés não pôde entrar na tenda do encontro, pois a nuvem estava sobre ela, e porque a glória de Yahweh encheu o tabernáculo. ^v35
 
-**36** Quando, pois, a nuvem se levantava de sobre o tabernáculo, então os filhos de Israel caminhavam em todas as suas jornadas. ^v36
+**36** Toda vez que a nuvem subia de sobre o tabernáculo, o povo de Israel seguia sua jornada. ^v36
 
-**37** Se a nuvem, porém, não se levantava, não caminhavam, até ao dia em que ela se levantasse; ^v37
+**37** Porém, se a nuvem não subisse do tabernáculo, então o povo não seguia. Eles ficavam até o dia em que ela subisse. ^v37
 
-**38** Porquanto a nuvem do Senhor estava de dia sobre o tabernáculo, e o fogo estava de noite sobre ele, perante os olhos de toda a casa de Israel, em todas as suas jornadas. ^v38
+**38** Pois a nuvem de Yahweh estava sobre o tabernáculo durante o dia, e Seu fogo durante a noite, à vista de todo o povo de Israel, em todas as suas jornadas. ^v38

@@ -1,93 +1,92 @@
 ---
-Livro: "[[2 Samuel|2 Samuel]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/2 Samuel|2 Samuel]]"
+tags: [biblia]
 ---
 
 # 2 Samuel 19
 
-**1** E disseram a Joabe: Eis que o rei anda chorando, e lastima-se por Absalão. ^v1
+**1** "Disseram a Joabe: ""Vê, o rei está pranteando e lamentando por Absalão""." ^v1
 
-**2** Então a vitória se tornou naquele mesmo dia em tristeza por todo o povo; porque naquele mesmo dia o povo ouvira dizer: Mui triste está o rei por causa de seu filho. ^v2
+**2** "Assim, a vitória daquele dia transformou-se em lamento para todo o exército, pois ouviram dizer: ""O rei está chorando por seu filho""." ^v2
 
-**3** E naquele mesmo dia o povo entrou às furtadelas na cidade, como o faz quando, envergonhado, foge da peleja. ^v3
+**3** Naquele dia, os soldados tiveram que entrar sorrateiramente na cidade, como povo que foge envergonhado de uma batalha. ^v3
 
-**4** Estava, pois, o rei com o rosto coberto; e o rei gritava a alta voz: Meu filho Absalão, Absalão meu filho, meu filho! ^v4
+**4** "O rei cobriu seu rosto e clamava em alta voz: ""Meu filho Absalão, Absalão, meu filho, meu filho""." ^v4
 
-**5** Então entrou Joabe na casa do rei, e disse: Hoje envergonhaste o rosto de todos os teus servos, que livraram hoje a tua vida, e a vida de teus filhos, e de tuas filhas, e a vida de tuas mulheres, e a vida de tuas concubinas; ^v5
+**5** "Então, Joabe entrou na casa do rei e lhe disse: ""Tu envergonhaste os teus soldados hoje, que salvaram a tua vida e a vida dos teus filhos e filhas, e a vida de tuas esposas e de tuas concubinas," ^v5
 
-**6** Amando tu aos teus inimigos, e odiando aos teus amigos. Porque hoje dás a entender que nada valem para contigo príncipes e servos; porque entendo hoje que se Absalão vivesse, e todos nós hoje fôssemos mortos, estarias bem contente. ^v6
+**6** porque amas aqueles que te odeiam, e odeias aqueles que te amam. Pois, hoje, tu demonstraste que comandantes e soldados não significam nada para ti. Acredito que, hoje, se Absalão tivesse vivido e nós todos tivéssemos morrido, isso teria te agradado. ^v6
 
-**7** Levanta-te, pois, agora; sai, e fala conforme ao coração de teus servos; porque pelo Senhor te juro que, se não saíres, nem um só homem ficará contigo esta noite; e maior mal te será isto do que todo o mal que tem vindo sobre ti desde a tua mocidade até agora. ^v7
+**7** Agora, pois, levanta-te e vai e fala bondosamente a teus soldados; porque, juro por Yahweh, se não fores, nenhum homem permanecerá contigo esta noite. Isto seria pior para ti do que todos os desastres que te aconteceram, desde a tua mocidade até agora. ^v7
 
-**8** Então o rei se levantou, e se assentou à porta; e fizeram saber a todo o povo dizendo: Eis que o rei está assentado à porta. Então todo o povo veio apresentar-se diante do rei; porém Israel havia fugido cada um para a sua tenda. ^v8
+**8** "Então, o rei se levantou e sentou-se no portão da cidade. Foi avisado a todos os homens: ""Vede, o rei está sentado no portão"". Então, o povo veio diante do rei. Os israelitas haviam fugido, cada homem para sua casa." ^v8
 
-**9** E todo o povo, em todas as tribos de Israel, andava porfiando entre si, dizendo: O rei nos tirou das mãos de nossos inimigos, e ele nos livrou das mãos dos filisteus; e agora fugiu da terra por causa de Absalão. ^v9
+**9** "Todo o povo estava discutindo entre si por todas as tribos de Israel, dizendo: ""O rei nos resgatou das mãos dos nossos inimigos"". Ele nos livrou das mãos dos filisteus, mas fugiu da terra por causa de Absalão." ^v9
 
-**10** E Absalão, a quem ungimos sobre nós, já morreu na peleja; agora, pois, por que vos calais, e não fazeis voltar o rei? ^v10
+**10** "E Absalão, a quem ungimos sobre nós, foi morto na batalha. Então, por que não estamos considerando trazer o rei de volta?""." ^v10
 
-**11** Então o rei Davi mandou dizer a Zadoque e a Abiatar, sacerdotes: Falai aos anciãos de Judá, dizendo: Por que seríeis vós os últimos em tornar a trazer o rei para a sua casa? Porque as palavras de todo o Israel chegaram ao rei, até à sua casa. ^v11
+**11** "O rei Davi mandou dizer aos sacerdotes Zadoque e a Abiatar: ""Falai aos anciãos de Judá: 'Por que sois os últimos a trazer o rei de volta para o palácio, uma vez que os comentários de todo o Israel são favoráveis ao rei para que volte ao palácio?" ^v11
 
-**12** Vós sois meus irmãos, meus ossos e minha carne sois vós; por que, pois, seríeis os últimos em tornar a trazer o rei? ^v12
+**12** Vós sois meus irmãos, minha carne e meus ossos. Por que, então, sois os últimos a trazer de volta o rei?'. ^v12
 
-**13** E a Amasa direis: Porventura não és tu meu osso e minha carne? Assim me faça Deus, e outro tanto, se não fores capitão do arraial diante de mim para sempre, em lugar de Joabe. ^v13
+**13** "Dizei a Amasa: 'Não és minha carne e meus ossos? Que Deus me castigue, ainda mais, se eu não te tornar o comandante do meu exército no lugar de Joabe'""." ^v13
 
-**14** Assim moveu ele o coração de todos os homens de Judá, como o de um só homem; e enviaram ao rei, dizendo: Volta tu com todos os teus servos. ^v14
+**14** "E ele conquistou o coração de todos os homens de Judá, como se fossem o coração de um só homem, de forma que disseram ao rei: ""Retornai, tu e todos os teus homens""." ^v14
 
-**15** Então o rei voltou, e chegou até ao Jordão; e Judá veio a Gilgal, para ir encontrar-se com o rei, ao outro lado do Jordão. ^v15
+**15** Então, o rei retornou e veio para o Jordão. E os homens de Judá vieram para Gilgal para encontrarem-se com o rei e acompanhá-lo na travessia do Jordão. ^v15
 
-**16** E apressou-se Simei, filho de Gera, benjamita, que era de Baurim; e desceu com os homens de Judá a encontrar-se com o rei Davi. ^v16
+**16** Simei, filho de Gera, benjamita, que era de Baurim, apressou-se com os homens de Judá para encontrar o rei Davi. ^v16
 
-**17** E com ele mil homens de Benjamim, como também Ziba, servo da casa de Saul, e seus quinze filhos, e seus vinte servos com ele; e prontamente passaram o Jordão adiante do rei. ^v17
+**17** Estavam com ele mil homens de Benjamim, também Ziba, o servo de Saul, seus quinze irmãos e vinte servos. Eles atravessaram o Jordão na presença do rei. ^v17
 
-**18** E, atravessando a barca, para fazer passar a casa do rei e para fazer o que bem parecesse aos seus olhos, então Simei, filho de Gera, se prostrou diante do rei, quando ele passava o Jordão. ^v18
+**18** Eles atravessaram para trazer a família do rei e para fazer o que ele desejasse. Simei, filho de Gera, prostrou-se diante do rei antes que ele começasse a atravessar o Jordão. ^v18
 
-**19** E disse ao rei: Não me impute meu senhor a minha culpa, e não te lembres do que tão perversamente fez teu servo, no dia em que o rei meu senhor saiu de Jerusalém; não conserve o rei isso no coração. ^v19
+**19** "Simei disse ao rei: ""Meu senhor, não julgues teu servo culpado, nem traga à memória os atos que teu criado teimosamente fez naquele dia em que meu senhor, o rei, deixou Jerusalém. Porque o teu servo sabe que pecou." ^v19
 
-**20** Porque teu servo deveras confessa que pecou; porém eis que eu sou o primeiro que de toda a casa de José desci a encontrar-me com o rei meu senhor. ^v20
+**20** "É por esta razão que, hoje, eu venho diante de ti, como o primeiro da família de José, para encontrá-lo, meu senhor, rei""." ^v20
 
-**21** Então respondeu Abisai, filho de Zeruia, e disse: Não morreria, pois, Simei por isto, havendo amaldiçoado ao ungido do Senhor? ^v21
+**21** "Mas Abisai, filho de Zeruia, respondeu: ""Não deveria Simei ser condenado à morte por isso, por que ele amaldiçoou o ungido de Yahweh?""." ^v21
 
-**22** Porém Davi disse: Que tenho eu convosco, filhos de Zeruia, para que hoje me sejais adversários? Morreria alguém hoje em Israel? Pois porventura não sei que hoje fui feito rei sobre Israel? ^v22
+**22** "Então, Davi disse: ""O que tenho convosco, filhos de Zeruia, para que, agora, sejais meus adversários? Alguém será condenado hoje em Israel? Não sei eu que sou o rei de Israel?""." ^v22
 
-**23** E disse o rei a Simei: Não morrerás. E o rei lho jurou. ^v23
+**23** "Então, o rei disse a Simei: ""Tu não morrerás"". Isto o rei lhe prometeu com um juramento." ^v23
 
-**24** Também Mefibosete, filho de Saul, desceu a encontrar-se com o rei, e não tinha lavado os pés, nem tinha feito a barba, nem tinha lavado as suas vestes desde o dia em que o rei tinha saído até ao dia em que voltou em paz. ^v24
+**24** Mefibosete, filho de Jônatas, filho de Saul, desceu para encontrar-se com o rei. Ele não se barbeou, nem lavou seus pés e suas vestes desde o dia em que o rei partiu até o dia em que voltou em paz para casa. ^v24
 
-**25** E sucedeu que, vindo ele a Jerusalém a encontrar-se com o rei, disse-lhe o rei: Por que não foste comigo, Mefibosete? ^v25
+**25** "Quando ele veio para Jerusalém para encontrar o rei, este lhe perguntou: ""Por que não foste comigo, Mefibosete?""." ^v25
 
-**26** E disse ele: Ó rei meu senhor, o meu servo me enganou; porque o teu servo dizia: Albardarei um jumento, e nele montarei, e irei com o rei; pois o teu servo é coxo. ^v26
+**26** "Ele respondeu: ""Meu senhor, ó rei, meu servo enganou-me, pois eu disse: 'Selarei um burro para montar nele e ir com o rei', porque teu servo é aleijado." ^v26
 
-**27** Demais disto, falsamente acusou a teu servo diante do rei meu senhor; porém o rei meu senhor é como um anjo de Deus; faze, pois, o que parecer bem aos teus olhos. ^v27
+**27** Meu servo Ziba me difamou diante do meu amado rei. Mas meu senhor, o rei, é como um anjo de Deus. Portanto, faze o que parecer bem aos teus olhos. ^v27
 
-**28** Porque toda a casa de meu pai não era senão de homens dignos de morte diante do rei meu senhor; e contudo puseste a teu servo entre os que comem à tua mesa; e que mais direito tenho eu de clamar ao rei? ^v28
+**28** "Porque toda a casa de meu pai foi morta diante do meu senhor, o rei, mas tu colocaste teu servo entre todos os que comem em tua mesa. Que direito, portanto, teria eu de reclamar alguma coisa ao rei?""." ^v28
 
-**29** E disse-lhe o rei: Por que ainda mais falas de teus negócios? Já disse eu: Tu e Ziba reparti as terras. ^v29
+**29** "Então, o rei lhe disse: ""Por que explicar mais alguma coisa? Eu decidi que tu e Ziba dividireis as terras""." ^v29
 
-**30** E disse Mefibosete ao rei: Tome ele também tudo; pois já veio o rei meu senhor em paz à sua casa. ^v30
+**30** "Então, Mefibosete respondeu ao rei: ""Deixa que ele fique com tudo. Para mim, importa que meu senhor, o rei, tenha voltado para casa em segurança""." ^v30
 
-**31** Também Barzilai, o gileadita, desceu de Rogelim, e passou com o rei o Jordão, para o acompanhar ao outro lado do Jordão. ^v31
+**31** Barzilai, o gileadita, desceu de Rogelim e atravessou o Jordão com o rei, acompanhando-o até o outro lado. ^v31
 
-**32** E era Barzilai muito velho, da idade de oitenta anos; e ele tinha sustentado o rei, quando tinha a sua morada em Maanaim, porque era grande homem. ^v32
+**32** Barzilai era, agora, um ancião de oitenta anos. Ele havia provido o rei com bens enquanto este esteve em Maanaim, pois era um homem muito rico. ^v32
 
-**33** E disse o rei a Barzilai: Passa tu comigo, e sustentar-te-ei comigo em Jerusalém. ^v33
+**33** "O rei disse a Barzilai: ""Vem comigo e eu providenciarei para que fiques comigo em Jerusalém""." ^v33
 
-**34** Porém Barzilai disse ao rei: Quantos serão os dias dos anos da minha vida, para que suba com o rei a Jerusalém? ^v34
+**34** "Barzilai respondeu ao rei: ""Quantos dias me restam na vida, para que eu vá com o rei para Jerusalém?" ^v34
 
-**35** Da idade de oitenta anos sou eu hoje; poderia eu discernir entre o bom e o mau? Poderia o teu servo ter gosto no que comer e beber? Poderia eu mais ouvir a voz dos cantores e cantoras? E por que será o teu servo ainda pesado ao rei meu senhor? ^v35
+**35** Tenho oitenta anos. Ainda posso distinguir entre o bem e o mal? Pode o teu servo sentir o sabor do que come ou bebe? Ainda posso ouvir a voz de cantores ou cantoras? Por que, então, deveria teu servo ser um peso para meu senhor, o rei? ^v35
 
-**36** Com o rei passará teu servo ainda um pouco mais além do Jordão; e por que me recompensará o rei com tal recompensa? ^v36
+**36** Teu servo queria apenas atravessar o Jordão com o rei. Por que deveria o rei me recompensar com tão grande galardão? ^v36
 
-**37** Deixa voltar o teu servo, e morrerei na minha cidade, junto à sepultura de meu pai e de minha mãe; mas eis aí está o teu servo Quimã; passe ele com o rei meu senhor, e faze-lhe o que bem parecer aos teus olhos. ^v37
+**37** "Por favor, deixa teu servo retornar ao lar para que possa morrer em minha própria cidade, diante do túmulo do meu pai e da minha mãe. Mas, vê, aqui está teu servo Quimã. Deixa-o atravessar com meu senhor, o rei, e faze-lhe o que te parecer bom""." ^v37
 
-**38** Então disse o rei: Quimã passará comigo, e eu lhe farei como bem parecer aos teus olhos, e tudo quanto me pedires te farei. ^v38
+**38** "O rei respondeu: ""Quimã irá comigo, e farei com ele o que parecer bom para ti; e tudo o que desejares de mim, eu farei a ti.""" ^v38
 
-**39** Havendo, pois, todo o povo passado o Jordão, e passando também o rei, beijou o rei a Barzilai, e o abençoou; e ele voltou para o seu lugar. ^v39
+**39** Então, todo o povo atravessou o Jordão e o rei também o fez; o rei beijou Barzilai e o abençoou. Então, Barzilai retornou para sua própria casa. ^v39
 
-**40** E dali passou o rei a Gilgal, e Quimã passou com ele; e todo o povo de Judá conduziu o rei, como também a metade do povo de Israel. ^v40
+**40** Então, o rei atravessou para Gilgal e Quimã atravessou com ele. Todo o exército de Judá e também metade do exército de Israel, trouxeram o rei. ^v40
 
-**41** E eis que todos os homens de Israel vieram ao rei, e disseram ao rei: Por que te furtaram nossos irmãos, os homens de Judá, e conduziram o rei e a sua casa dalém do Jordão, e todos os homens de Davi com eles? ^v41
+**41** "Logo, todos os homens de Israel começaram a vir ao rei e dizer-lhe: ""Por que nossos irmãos, homens de Judá, te roubaram de nós e trouxeram o rei e sua família além do Jordão e todos os homens de Davi com eles?""." ^v41
 
-**42** Então responderam todos os homens de Judá aos homens de Israel: Porquanto o rei é nosso parente; e por que vos irais por isso? Porventura comemos às custas do rei, ou nos deu algum presente? ^v42
+**42** "Então, os homens de Judá responderam aos homens de Israel: ""É porque o rei tem mais intimidade conosco. Por que estais com raiva disso? Comemos algo às custas do rei? Ele nos deu presentes?""." ^v42
 
-**43** E responderam os homens de Israel aos homens de Judá, e disseram: Dez partes temos no rei, e até em Davi mais temos nós do que vós; por que, pois, não fizestes conta de nós, para que a nossa palavra não fosse a primeira, para tornar a trazer o nosso rei? Porém a palavra dos homens de Judá foi mais forte do que a palavra dos homens de Israel. ^v43
+**43** "Os homens de Israel responderam aos homens de Judá: ""Temos dez tribos aparentadas com o rei; por isso, temos mais direitos a Davi que vós. Então, por que nos desprezastes? Não era nosso propósito primeiro trazer nosso rei para ser ouvido?"". Mas as palavras dos homens de Judá foram ainda mais severas que as dos homens de Israel." ^v43

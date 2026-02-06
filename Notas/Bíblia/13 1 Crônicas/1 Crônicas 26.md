@@ -1,71 +1,70 @@
 ---
-Livro: "[[1 Crônicas|1 Crônicas]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/1 Crônicas|1 Crônicas]]"
+tags: [biblia]
 ---
 
 # 1 Crônicas 26
 
-**1** Quanto às divisões dos porteiros: dos coraítas: Meselemias, filho de Coré, dos filhos de Asafe. ^v1
+**1** Estas foram as divisōes dos porteiros: dos coraítas, Meselemias, filho de Coré, um descendente de Asafe. ^v1
 
-**2** E foram os filhos de Meselemias: Zacarias o primogênito, Jediael o segundo, Zebadias o terceiro, Jatniel o quarto, ^v2
+**2** Meselemias teve filhos: Zacarias, o primogênito; Jediael, o segundo; Zebadias, o terceiro; Jatniel, o quarto; ^v2
 
-**3** Elão o quinto, Joanã o sexto, Elioenai o sétimo. ^v3
+**3** Elão, o quinto; Jeoanã, o sexto; Elioenai, o sétimo. ^v3
 
-**4** E os filhos de Obede-Edom foram: Semaías o primogênito, Jozabade o segundo, Joá o terceiro, e Sacar o quarto, e Natanael o quinto, ^v4
+**4** Obede-Edom teve filhos: Semaías, o primogênito; Jeozabade, o segundo; Joá, o terceiro; Sacar, o quarto; Netanel, o quinto; ^v4
 
-**5** Amiel o sexto, Issacar o sétimo, Peuletai o oitavo; porque Deus o tinha abençoado. ^v5
+**5** Amiel, o sexto; Issacar, o sétimo; Peuletai, o oitavo; pois Yahweh o tinha abençoado. ^v5
 
-**6** Também a seu filho Semaías nasceram filhos, que dominaram sobre a casa de seu pai; porque foram homens valentes. ^v6
+**6** Seu filho Semaíais também teve filhos, que foram chefes de suas famílias; eles foram homens com muitas habilidades. ^v6
 
-**7** Os filhos de Semaías: Otni, Rafael, Obede, e Elzabade, com seus irmãos, homens valentes, Eliú e Semaquias. ^v7
+**7** Os filhos de Semaías foram Otni, Rafael, Obede e Elzabade. Seus parentes Eliú e Semaquias, também eram homens com muitas habilidades. ^v7
 
-**8** Todos estes foram dos filhos de Obede-Edom; eles e seus filhos, e seus irmãos, homens valentes e de força para o ministério; ao todo sessenta e dois, de Obede-Edom. ^v8
+**8** Todos eles foram descendentes de Obede-Edom. Eles, seus filhos e parentes foram homens capazes de fazer seus deveres nos serviços do tabernáculo; eram ao todo sessenta e dois descendentes de Obede-Edom. ^v8
 
-**9** E os filhos e os irmãos de Meselemias, homens valentes, foram dezoito. ^v9
+**9** Meselemias teve filhos e parentes, homens capazes; dezoito ao todo. ^v9
 
-**10** E de Hosa, dentre os filhos de Merari, foram filhos: Sinri o chefe (ainda que não era o primogênito, contudo seu pai o constituiu chefe), ^v10
+**10** Hosa, um descendente de Merari, teve filhos: Sinri, o líder (embora não fosse o primogênito, seu pai o fez líder), ^v10
 
-**11** Hilquias o segundo, Tebalias o terceiro, Zacarias o quarto; todos os filhos e irmãos de Hosa foram treze. ^v11
+**11** Hilquias, o segundo; Tebalias, o terceiro; Zacarias, o quarto. Todos os filhos de Hosa e parentes, foram treze, ao todo. ^v11
 
-**12** Destes se fizeram as turmas dos porteiros, alternando os principais dos homens da guarda, juntamente com os seus irmãos, para ministrarem na casa do Senhor. ^v12
+**12** Essas divisōes dos porteiros, correspondendo ao seus líderes, tinham responsabilidades, como seus parentes, para servir na casa de Yahweh. ^v12
 
-**13** E lançaram sortes, assim os pequenos como os grandes, segundo as casas de seus pais, para cada porta. ^v13
+**13** Eles lançaram sortes, tanto para jovens, como para idosos, correspondentes a suas famílias, para cada portão. ^v13
 
-**14** E caiu a sorte do oriente a Selemias; e lançou-se a sorte por seu filho Zacarias, conselheiro entendido, e saiu-lhe a do norte. ^v14
+**14** Quando as sortes foram lançadas para o portão leste, caiu para Selemias. Depois, lançaram sortes para Zacarias, seu filho, um conselheiro prudente, e sua sorte caiu para o portão norte. ^v14
 
-**15** E para Obede-Edom a do sul; e para seus filhos a casa dos depósitos. ^v15
+**15** A Obede-Edom foi designado o portão sul; e a seus filhos foram designados os depósitos. ^v15
 
-**16** Para Supim e Hosa a do ocidente, junto a porta Salequete, perto do caminho da subida; uma guarda defronte de outra guarda. ^v16
+**16** A Supim e Hosa foram designados o portão oeste, junto ao portão Salequete, na estrada de cima. Vigias foram estabelecidos para cada família. ^v16
 
-**17** Ao oriente seis levitas; ao norte quatro por dia, ao sul quatro por dia, porém para as casas dos depósitos de dois em dois. ^v17
+**17** A leste, ficavam seis levitas; ao norte, quatro, por dia; ao sul quatro, por dia, e nos depósitos ficavam duas duplas. ^v17
 
-**18** Em Parbar, ao ocidente, quatro junto ao caminho, e dois junto a Parbar. ^v18
+**18** No pátio a oeste, ficavam quatro na estrada, e dois no pátio. ^v18
 
-**19** Estas são as turmas dos porteiros dentre os filhos dos coraítas, e dentre os filhos de Merari. ^v19
+**19** Foram estas as divisōes dos porteiros. Eles foram ocupados pelos descendentes de Coré e Merari. ^v19
 
-**20** E dos levitas: Aías tinha cargo dos tesouros da casa de Deus e dos tesouros das coisas sagradas. ^v20
+**20** Dos levitas, Aías estava encarregado dos tesouros da Casa de Yahweh e dos tesouros das coisas que pertenciam a Yahweh. ^v20
 
-**21** Quanto aos filhos de Ladã, os filhos dos gersonitas que pertencem a Ladã, chefes das casas paternas de Ladã: Jeieli. ^v21
+**21** Os descendentes de Ladã, dos gersonitas líderes das famílias de Ladã, eram Jeieli e seus filhos; ^v21
 
-**22** Os filhos de Jeieli: Zetã e Joel, seu irmão; estes tinham cargo dos tesouros da casa do Senhor, ^v22
+**22** Zetão e Joel, seu irmão, eram encarregados de vigiar os depósitos na Casa de Yahweh. ^v22
 
-**23** Dos anramitas, dos izaritas, dos hebronitas, dos uzielitas. ^v23
+**23** Também havia guardas dos clãs de Anrão, de Isar, de Hebrom e de Uziel. ^v23
 
-**24** E Sebuel, filho de Gérson, o filho de Moisés, era o chefe dos tesouros. ^v24
+**24** Sebuel, filho de Gérson, o filho de Moisés, era o supervisor dos depósitos. ^v24
 
-**25** E seus irmãos foram, do lado de Eliézer, Reabias seu filho, e Jesaías seu filho, e Jorão seu filho, e Zicri seu filho, e Selomite, seu filho. ^v25
+**25** Seus parentes por parte de Eliézer foram: seu filho Reabias; o filho de Reabias, Jesaías; o filho de Jesaías, Jorão; o filho de Jorão, Zicri; e o filho de Zicri, Selomote. ^v25
 
-**26** Este Selomite e seus irmãos tinham a seu cargo todos os tesouros das coisas dedicadas que o rei Davi e os chefes das casas paternas, capitães de milhares, e de centenas, e capitães do exército tinham consagrado. ^v26
+**26** Selomote e seus parentes estavam encarregados de todos os depósitos que pertenciam a Yahweh, que o rei Davi, os líderes das famílias, os comandantes de milhares e de centenas de soldados, e os comandantes do exército haviam separado. ^v26
 
-**27** Dos despojos das guerras dedicaram ofertas para repararem a casa do Senhor. ^v27
+**27** Eles separaram os despojos ganhos em batalhas, para manutenção da Casa de Yahweh. ^v27
 
-**28** Como também tudo quanto tinha consagrado Samuel, o vidente, e Saul filho de Quis, e Abner filho de Ner, e Joabe filho de Zeruia; tudo que qualquer havia dedicado estava debaixo da mão de Selomite e seus irmãos. ^v28
+**28** Eles também eram encarregados de tudo que havia sido separado para Yahweh pelo profeta Samuel, Saul, filho de Quis, Abner, filho de Ner, e Joabe, filho de Zeruia. Tudo quanto havia sido separado para Yahweh estava sob a guarda de Selomote e seus parentes. ^v28
 
-**29** Dos izaritas, Quenanias e seus filhos foram postos sobre Israel como oficiais e como juízes, dos negócios externos. ^v29
+**29** Dos descendentes de Isar, Quenanias e seus filhos ficaram encarregados das questões civis de Israel. Eles eram oficiais e juízes. ^v29
 
-**30** Dos hebronitas foram Hasabias e seus irmãos, homens valentes, mil e setecentos, que tinham a superintendência sobre Israel, além do Jordão para o ocidente, em toda a obra do Senhor, e para o serviço do rei. ^v30
+**30** Dos descendentes de Hebrom, Hasabias e seus irmãos eram mil e setecentos homens valentes, que estavam a oeste do Jordão, encarregados dos serviços de Yahweh e do rei. ^v30
 
-**31** Dos hebronitas Jerias era o chefe, segundo as suas gerações conforme as suas famílias. No ano quarenta do reino de Davi se buscaram e acharam entre eles homens valentes em Jazer de Gileade. ^v31
+**31** Dos descendentes de Hebrom, Jerias era líder de seus descendentes, contados das listas de suas famílias. No ano quarenta do reinado de Davi, eles examinaram os registros e acharam entre eles homens valentes em Jazer de Gileade. ^v31
 
-**32** E seus irmãos, homens valentes, dois mil e setecentos, chefes dos pais; e o rei Davi os constituiu sobre os rubenitas e os gaditas, e a meia tribo dos manassitas, para todos os negócios de Deus, e para todos os negócios do rei. ^v32
+**32** Jerias tinha dois mil e setecentos parentes, que eram valentes líderes de suas famílias. Então, Davi lhes designou para chefiarem as tribos de Rúben e de Gade, e a meia tribo de Manassés, em todos os serviços de Deus e para as questões do rei. ^v32

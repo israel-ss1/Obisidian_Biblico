@@ -1,119 +1,118 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Lucas|Lucas]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Lucas|Lucas]]"
+tags: [biblia]
 ---
 
 # Lucas 8
 
-**1** E aconteceu, depois disto, que andava de cidade em cidade, e de aldeia em aldeia, pregando e anunciando o evangelho do reino de Deus; e os doze iam com ele, ^v1
+**1** E aconteceu que, depois disso, Jesus começou a andar por diferentes cidades e vilas, pregando e proclamando as boas novas do reino de Deus. E os doze foram com Ele, ^v1
 
-**2** E algumas mulheres que haviam sido curadas de espíritos malignos e de enfermidades: Maria, chamada Madalena, da qual saíram sete demônios; ^v2
+**2** assim como algumas mulheres que foram curadas de espíritos malignos e doenças. Eram elas: Maria, chamada Madalena, da qual sete demônios foram expulsos; ^v2
 
-**3** E Joana, mulher de Cuza, procurador de Herodes, e Suzana, e muitas outras que o serviam com seus bens. ^v3
+**3** Joana, mulher de Cuza, administrador de Herodes, Suzana e muitas outras mulheres que lhes traziam provisão com seus próprios recursos materiais. ^v3
 
-**4** E, ajuntando-se uma grande multidão, e vindo de todas as cidades ter com ele, disse por parábola: ^v4
+**4** E reunindo-se uma grande multidão, incluindo pessoas que vinham de outras cidades para encontrá-Lo, Jesus lhes falou por meio de uma parábola: ^v4
 
-**5** Um semeador saiu a semear a sua semente e, quando semeava, caiu alguma junto do caminho, e foi pisada, e as aves do céu a comeram; ^v5
+**5** “Um semeador saiu para semear algumas sementes. Enquanto ele semeava, algumas sementes caíram à beira do caminho, elas foram pisoteadas, e os pássaros do céu comeram todas elas. ^v5
 
-**6** E outra caiu sobre pedra e, nascida, secou-se, pois que não tinha umidade; ^v6
+**6** Outras sementes caíram em solo rochoso e assim que elas cresceram, secaram por falta de umidade. ^v6
 
-**7** E outra caiu entre espinhos e crescendo com ela os espinhos, a sufocaram; ^v7
+**7** Ainda outras sementes caíram entre plantas espinhosas e elas cresceram juntamente com os espinhos, e eles as sufocaram. ^v7
 
-**8** E outra caiu em boa terra, e, nascida, produziu fruto, a cento por um. Dizendo ele estas coisas, clamava: Quem tem ouvidos para ouvir, ouça. ^v8
+**8** Mas algumas sementes caíram em solo bom, e cresceram saudáveis, e produziram uma colheita cem vezes maior”. Após Jesus dizer estas coisas, Ele exclamou em alta voz: “Aquele que tem ouvidos para ouvir, ouça”. ^v8
 
-**9** E os seus discípulos o interrogaram, dizendo: Que parábola é esta? ^v9
+**9** Então os discípulos perguntaram a Ele o que esta parábola queria dizer. ^v9
 
-**10** E ele disse: A vós vos é dado conhecer os mistérios do reino de Deus, mas aos outros por parábolas, para que vendo, não vejam, e ouvindo, não entendam. ^v10
+**10** Jesus disse-lhes: “Vós recebestes o privilégio de entender os mistérios do reino de Deus, mas os demais serão ensinados apenas por parábolas, desta forma 'embora vendo, eles não possam enxergar, e ouvindo não entendam'. ^v10
 
-**11** Esta é, pois, a parábola: A semente é a palavra de Deus; ^v11
+**11** Este é o significado da parábola: a semente é a Palavra de Deus. ^v11
 
-**12** E os que estão junto do caminho, estes são os que ouvem; depois vem o diabo, e tira-lhes do coração a palavra, para que não se salvem, crendo; ^v12
+**12** As sementes que caíram à beira do caminho são aqueles que ouvem, mas o diabo vem e arranca a Palavra de seus corações para que não creiam, e assim, não sejam salvos. ^v12
 
-**13** E os que estão sobre pedra, estes são os que, ouvindo a palavra, a recebem com alegria, mas, como não têm raiz, apenas crêem por algum tempo, e no tempo da tentação se desviam; ^v13
+**13** As sementes que caíram no solo rochoso são aqueles que ouvem a Palavra, recebem-na com alegria, mas não criam raízes. Eles acreditam por um tempo e em tempo de provação se desviam. ^v13
 
-**14** E a que caiu entre espinhos, esses são os que ouviram e, indo pordiante, são sufocados com os cuidados e riquezas e deleites da vida, e não dão fruto com perfeição; ^v14
+**14** As sementes que caíram entre os espinhos são como pessoas que ouviram a Palavra, mas a medida que seguem os seus caminhos foram sufocadas pelos cuidados, riquezas e prazeres desta vida, e então não produzem frutos. ^v14
 
-**15** E a que caiu em boa terra, esses são os que, ouvindo a palavra, a conservam num coração honesto e bom, e dão fruto com perseverança. ^v15
+**15** Mas as sementes que caíram em solo bom são como pessoas que, com sinceridade e bom coração, ouvem a Palavra, agarram-na com firmeza e produzem frutos com perseverança. ^v15
 
-**16** E ninguém, acendendo uma candeia, a cobre com algum vaso, ou a põe debaixo da cama; mas põe-na no velador, para que os que entram vejam a luz. ^v16
+**16** E ninguém acende uma lamparina e a cobre com um vaso ou a coloca embaixo de uma cama. Ao contrário, a coloca em cima de uma mesa e, assim, todos que entrarem podem ver a luz. ^v16
 
-**17** Porque não há coisa oculta que não haja de manifestar-se, nem escondida que não haja de saber-se e vir à luz. ^v17
+**17** Pois tudo o que está escondido será revelado, e tudo o que é secreto será conhecido e trazido à luz. ^v17
 
-**18** Vede, pois, como ouvis; porque a qualquer que tiver lhe será dado, e a qualquer que não tiver até o que parece ter lhe será tirado. ^v18
+**18** Então escutai cuidadosamente, pois para aquele que tem, mais lhe será dado, e aquele que não tem, até o que ele pensa ter lhe será tirado. ^v18
 
-**19** E foram ter com ele sua mãe e seus irmãos, e não podiam aproximar-se dele, por causa da multidão. ^v19
+**19** Então a mãe e os irmãos de Jesus vieram até Ele, mas não podiam se aproximar por causa da multidão. ^v19
 
-**20** E foi-lhe dito: Estão lá fora tua mãe e teus irmãos, que querem ver-te. ^v20
+**20** E disseram-lhe: “Tua mãe e teus irmãos estão do lado de fora esperando para te ver”. ^v20
 
-**21** Mas, respondendo ele, disse-lhes: Minha mãe e meus irmãos são aqueles que ouvem a palavra de Deus e a executam. ^v21
+**21** Mas Jesus lhes disse: “Minha mãe e meus irmãos são aqueles que ouvem a Palavra de Deus e a praticam”. ^v21
 
-**22** E aconteceu que, num daqueles dias, entrou num barco com seus discípulos, e disse-lhes: Passemos para o outro lado do lago. E partiram. ^v22
+**22** Aconteceu que em um daqueles dias, Jesus e os Seus discípulos entraram em um barco, e Jesus disse-lhes: “Vamos para o outro lado do lago”. Então eles zarparam. ^v22
 
-**23** E, navegando eles, adormeceu; e sobreveio uma tempestade de vento no lago, e enchiam-se de água, estando em perigo. ^v23
+**23** Mas, enquanto eles navegavam, Jesus dormiu e uma tempestade de ventos fortes atingiu o lago e o barco começou a se encher de água, e eles estavam em grave perigo. ^v23
 
-**24** E, chegando-se a ele, o despertaram, dizendo: Mestre, Mestre, perecemos. E ele, levantando-se, repreendeu o vento e a fúria da água; e cessaram, e fez-se bonança. ^v24
+**24** Os discípulos de Jesus foram até Ele e o acordaram dizendo: “Mestre, Mestre, estamos prestes à morrer!” Ele acordou, repreendeu a tempestade e a fúria das águas, elas cessaram e houve calmaria. ^v24
 
-**25** E disse-lhes: Onde está a vossa fé? E eles, temendo, maravilharam-se, dizendo uns aos outros: Quem é este, que até aos ventos e à água manda, e lhe obedecem? ^v25
+**25** Então Ele lhes disse: “Onde está a vossa fé?” Possuídos de temor e admiração, diziam uns aos outros: “Quem é Este, que comanda os ventos e a água, e estes Lhe obedecem?” ^v25
 
-**26** E navegaram para a terra dos gadarenos, que está defronte da Galiléia. ^v26
+**26** E eles navegaram para a região dos gerasenos, que fica no outro lado do lago da Galileia. ^v26
 
-**27** E, quando desceu para terra, saiu-lhe ao encontro, vindo da cidade, um homem que desde muito tempo estava possesso de demônios, e não andava vestido, nem habitava em qualquer casa, mas nos sepulcros. ^v27
+**27** Quando Jesus pisou em terra, um certo homem da cidade foi ao encontro dEle, e este homem tinha demônios. Há muito tempo ele não vestia roupas e não vivia em casa, mas sim nos sepulcros. ^v27
 
-**28** E, quando viu a Jesus, prostrou-se diante dele, exclamando, e dizendo com grande voz: Que tenho eu contigo, Jesus, Filho do Deus Altíssimo? Peço-te que não me atormentes. ^v28
+**28** Quando viu Jesus, ele gritou e se prostrou diante Dele. E em alta voz disse: “O que tenho contigo, Jesus, Filho do Deus Altíssimo? Eu te imploro, que não me atormentes”. ^v28
 
-**29** Porque tinha ordenado ao espírito imundo que saísse daquele homem; pois já havia muito tempo que o arrebatava. E guardavamno preso, com grilhões e cadeias; mas, quebrando as prisões, era impelido pelo demônio para os desertos. ^v29
+**29** Pois Jesus tinha ordenado ao espírito imundo que saísse do homem que, por muitas vezes, tinha se apoderado dele. Embora ficasse preso por correntes e grilhões, e sob vigilância de guardas, ele quebrava as correntes e era levado ao deserto pelo demônio. ^v29
 
-**30** E perguntou-lhe Jesus, dizendo: Qual é o teu nome? E ele disse: Legião; porque tinham entrado nele muitos demônios. ^v30
+**30** Então Jesus perguntou a ele: “Qual é o seu nome?” E ele disse: “Legião”, porque muitos demônios haviam entrado nele. ^v30
 
-**31** E rogavam-lhe que os não mandasse para o abismo. ^v31
+**31** Eles imploravam para que Jesus não os mandasse para o abismo. ^v31
 
-**32** E andava ali pastando no monte uma vara de muitos porcos; e rogaram-lhe que lhes concedesse entrar neles; e concedeu-lho. ^v32
+**32** Uma grande manada de porcos estava ali, se alimentando na colina, e os demônios lhe imploraram para entrarem nos porcos. Ele lhes permitiu que fizessem isso. ^v32
 
-**33** E, tendo saído os demônios do homem, entraram nos porcos, e a manada precipitou-se de um despenhadeiro no lago, e afogou-se. ^v33
+**33** Então os demônios saíram do homem e entraram nos porcos, e a manada correu e se lançou despenhadeiro abaixo para dentro do lago e se afogaram. ^v33
 
-**34** E aqueles que os guardavam, vendo o que acontecera, fugiram, e foram anunciá-lo na cidade e nos campos. ^v34
+**34** Quando os homens que estavam cuidando dos porcos viram o que aconteceu, eles fugiram e relataram isso na cidade e nos campos. ^v34
 
-**35** E saíram a ver o que tinha acontecido, e vieram ter com Jesus. Acharam então o homem, de quem haviam saído os demônios, vestido, e em seu juízo, assentado aos pés de Jesus; e temeram. ^v35
+**35** As pessoas que ouviram sobre isso foram ver o que aconteceu e, quando se aproximaram de Jesus, elas viram o homem do qual os demônios saíram. O homem estava vestido, em perfeito juízo, sentado aos pés de Jesus, à vista disso ficaram atemorizados. ^v35
 
-**36** E os que tinham visto contaram-lhes também como fora salvo aquele endemoninhado. ^v36
+**36** Aqueles que viram o que aconteceu, contaram a outros como o homem que era controlado por demônios foi salvo. ^v36
 
-**37** E toda a multidão da terra dos gadarenos ao redor lhe rogou que se retirasse deles; porque estavam possuídos de grande temor. E entrando ele no barco, voltou. ^v37
+**37** Todas as pessoas da região dos gerasenos e aos arredores pediram que Jesus se retirasse do meio deles, pois eles ficaram com muito medo. Então Jesus entrou no barco e retornou. ^v37
 
-**38** E aquele homem, de quem haviam saído os demônios, rogou-lhe que o deixasse estar com ele; mas Jesus o despediu, dizendo: ^v38
+**38** O homem do qual os demônios haviam saído suplicou que Jesus o deixasse ir com ele, mas Jesus o mandou embora, dizendo: ^v38
 
-**39** Torna para tua casa, e conta quão grandes coisas te fez Deus. E ele foi apregoando por toda a cidade quão grandes coisas Jesus lhe tinha feito. ^v39
+**39** “Volta para a tua casa e conta as coisas que Deus fez por ti”. O homem seguiu seu caminho, proclamando por toda a cidade as coisas que Jesus havia feito por ele. ^v39
 
-**40** E aconteceu que, quando voltou Jesus, a multidão o recebeu, porque todos o estavam esperando. ^v40
+**40** Quando Jesus retornou, a multidão o recebeu com alegria, pois eles estavam esperando por Ele. ^v40
 
-**41** E eis que chegou um homem de nome Jairo, que era príncipe da sinagoga; e, prostrando-se aos pés de Jesus, rogava-lhe que entrasse em sua casa; ^v41
+**41** Lá havia um homem chamado Jairo, que era um dos líderes da sinagoga. Jairo se prostrou aos pés de Jesus e o implorou que Ele fosse até a sua casa, ^v41
 
-**42** Porque tinha uma filha única, quase de doze anos, que estava à morte. E indo ele, apertava-o a multidão. ^v42
+**42** pois sua única filha, de doze anos, estava morrendo. Mas enquanto Jesus ia, as multidões O espremiam. ^v42
 
-**43** E uma mulher, que tinha um fluxo de sangue, havia doze anos, e gastara com os médicos todos os seus haveres, e por nenhum pudera ser curada, ^v43
+**43** Uma mulher que há doze anos sofria de fluxo de sangue estava na multidão. Ela já havia gastado todo o seu dinheiro com médicos, mas nenhum deles conseguira curá-la. ^v43
 
-**44** Chegando por detrás dele, tocou na orla do seu vestido, e logo estancou o fluxo do seu sangue. ^v44
+**44** Ela veio por trás de Jesus, tocou a borda de seu manto e imediatamente seu sangramento parou. ^v44
 
-**45** E disse Jesus: Quem é que me tocou? E, negando todos, disse Pedro e os que estavam com ele: Mestre, a multidão te aperta e te oprime, e dizes: Quem é que me tocou? ^v45
+**45** Jesus disse: “Quem me tocou?” Quando todos negaram, Pedro disse: “Mestre, as multidões de pessoas estão te espremendo e te apertando”. ^v45
 
-**46** E disse Jesus: Alguém me tocou, porque bem conheci que de mim saiu virtude. ^v46
+**46** Mas Jesus disse: “Alguém me tocou, pois eu sei que de Mim saiu poder”. ^v46
 
-**47** Então, vendo a mulher que não podia ocultar-se, aproximou-se tremendo e, prostrando-se ante ele, declarou-lhe diante de todo o povo a causa por que lhe havia tocado, e como logo sarara. ^v47
+**47** Quando a mulher viu que não poderia se esconder do que fez, ela veio tremendo, se prostrou aos pés de Jesus e declarou na presença de todos o motivo de ter tocado Nele e como ela fora curada imediatamente. ^v47
 
-**48** E ele lhe disse: Tem bom ânimo, filha, a tua fé te salvou; vai em paz. ^v48
+**48** Então Jesus disse: “Filha, a tua fé te curou. Vá em paz”. ^v48
 
-**49** Estando ele ainda falando, chegou um dos do príncipe da sinagoga, dizendo: A tua filha já está morta, não incomodes o Mestre. ^v49
+**49** Enquanto Jesus ainda falava, alguém veio da casa do líder da sinagoga, dizendo: “Não incomode o Mestre. A tua filha está morta”. ^v49
 
-**50** Jesus, porém, ouvindo-o, respondeu-lhe, dizendo: Não temas; crê somente, e será salva. ^v50
+**50** Mas quando Jesus ouviu isso, disse a Jairo: “Não temas. Apenas acredite e ela será salva”. ^v50
 
-**51** E, entrando em casa, a ninguém deixou entrar, senão a Pedro, e a Tiago, e a João, e ao pai e a mãe da menina. ^v51
+**51** Então quando Jesus chegou na casa, não permitiu que ninguém entrasse com Ele, exceto Pedro, João e Tiago, bem como o pai e a mãe da menina. ^v51
 
-**52** E todos choravam, e a pranteavam; e ele disse: Não choreis; não está morta, mas dorme. ^v52
+**52** "Todas as pessoas estavam lamentando e chorando por ela, mas Ele disse: “Não choreis. Ela não está morta, está adormecida""." ^v52
 
-**53** E riam-se dele, sabendo que estava morta. ^v53
+**53** E eles riram Dele com desdém, sabendo que ela estava morta. ^v53
 
-**54** Mas ele, pondo-os todos fora, e pegando-lhe na mão, clamou, dizendo: Levanta-te, menina. ^v54
+**54** "Mas Ele segurou a mão da menina e clamou dizendo: ""Menina, levanta-te""." ^v54
 
-**55** E o seu espírito voltou, e ela logo se levantou; e Jesus mandou que lhe dessem de comer. ^v55
+**55** O espírito dela retornou e ela levantou no mesmo momento. E Ele ordenou que dessem algo para ela comer. ^v55
 
-**56** E seus pais ficaram maravilhados; e ele lhes mandou que a ninguém dissessem o que havia sucedido. ^v56
+**56** Seus pais estavam espantados, mas Ele ordenou que não contassem a ninguém o que aconteceu. ^v56

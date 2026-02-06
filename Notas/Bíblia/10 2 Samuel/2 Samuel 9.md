@@ -1,33 +1,32 @@
 ---
-Livro: "[[2 Samuel|2 Samuel]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/2 Samuel|2 Samuel]]"
+tags: [biblia]
 ---
 
 # 2 Samuel 9
 
-**1** E disse Davi: Há ainda alguém que tenha ficado da casa de Saul, para que lhe faça benevolência por amor de Jônatas? ^v1
+**1** "Davi disse: ""Existe ainda alguém da família de Saul a quem eu possa mostrar bondade, por amor de Jônatas?""." ^v1
 
-**2** E havia um servo na casa de Saul cujo nome era Ziba; e o chamaram à presença de Davi. Disse-lhe o rei: És tu Ziba? E ele disse: Servo teu. ^v2
+**2** "Na família de Saul havia um servo que se chamava Ziba, e o levaram para Davi. O rei lhe disse: ""Tu és Ziba?"". Ele respondeu: ""Sim, sou teu servo""." ^v2
 
-**3** E disse o rei: Não há ainda alguém da casa de Saul para que eu use com ele da benevolência de Deus? Então disse Ziba ao rei: Ainda há um filho de Jônatas, aleijado de ambos os pés. ^v3
+**3** "Então, o rei disse: ""Existe alguém ainda da família de Saul a quem eu possa mostrar a bondade de Deus?"". Ziba respondeu para o rei: ""Jônatas ainda tem um filho, que é aleijado dos pés""." ^v3
 
-**4** E disse-lhe o rei: Onde está? E disse Ziba ao rei: Eis que está em casa de Maquir, filho de Amiel, em Lo-Debar. ^v4
+**4** "O rei lhe disse: ""Onde ele está?"". Ziba respondeu ao rei: ""Está na casa de Maquir, filho de Amiel, em Lo-Debar""." ^v4
 
-**5** Então mandou o rei Davi, e o tomou da casa de Maquir, filho de Amiel, de Lo-Debar. ^v5
+**5** Então, o rei Davi mandou trazê-lo, e o trouxeram da casa de Maquir, filho de Amil, de Lo-Debar. ^v5
 
-**6** E Mefibosete, filho de Jônatas, o filho de Saul, veio a Davi, e se prostrou com o rosto por terra e inclinou-se; e disse Davi: Mefibosete! E ele disse: Eis aqui teu servo. ^v6
+**6** "Então, Mefibosete, filho de Jônatas, filho de Saul, veio a Davi e prostrou-se com a face no chão em honra a Davi. Davi disse: ""Mefibosete!"". Ele respondeu: ""Sim, sou teu servo!""." ^v6
 
-**7** E disse-lhe Davi: Não temas, porque decerto usarei contigo de benevolência por amor de Jônatas, teu pai, e te restituirei todas as terras de Saul, teu pai, e tu sempre comerás pão à minha mesa. ^v7
+**7** "Davi lhe disse: ""Não tenhas medo, pois certamente te mostrarei bondade por amor de Jônatas, teu pai, e restituirei todas as terras de Saul, teu avô, e comerás sempre à minha mesa""." ^v7
 
-**8** Então se inclinou, e disse: Quem é teu servo, para teres olhado para um cão morto tal como eu? ^v8
+**8** "Mefibosete se prostrou e disse: ""Quem é o teu servo, para teres olhado com favor para um cachorro morto como eu?""." ^v8
 
-**9** Então chamou Davi a Ziba, moço de Saul, e disse-lhe: Tudo o que pertencia a Saul, e a toda a sua casa, tenho dado ao filho de teu senhor. ^v9
+**9** "Então, o rei chamou por Ziba, o servo de Saul, e lhe disse: ""Tudo o que pertencia a Saul e à sua família eu darei ao neto do teu senhor." ^v9
 
-**10** Trabalhar-lhe-ás, pois, a terra, tu e teus filhos, e teus servos, e recolherás os frutos, para que o filho de teu senhor tenha pão para comer; mas Mefibosete, filho de teu senhor, sempre comerá pão à minha mesa. E tinha Ziba quinze filhos e vinte servos. ^v10
+**10** "Tu, teus filhos e teus servos lavrareis a terra para ele e tu colherás a safra para que o neto do teu senhor tenha sempre o que comer. Todavia, Mefibosete, neto do teu senhor, sempre comerá à minha mesa"". Ziba tinha quinze filhos e vinte servos." ^v10
 
-**11** E disse Ziba ao rei: Conforme a tudo quanto meu senhor, o rei, manda a seu servo, assim fará teu servo. Quanto a Mefibosete, disse o rei, comerá à minha mesa como um dos filhos do rei. ^v11
+**11** "Então, Ziba disse ao rei: ""Teu servo fará tudo o que meu mestre, o rei, ordenar"". O rei acrescentou: ""A respeito de Mefibosete, ele comerá à minha mesa, como um dos filhos do rei""." ^v11
 
-**12** E tinha Mefibosete um filho pequeno, cujo nome era Mica; e todos quantos moravam em casa de Ziba eram servos de Mefibosete. ^v12
+**12** Mefibosete tinha um filho jovem que se chamava Mica. Todos os que viviam na casa de Ziba foram servos de Mefibosete. ^v12
 
-**13** Morava, pois, Mefibosete em Jerusalém, porquanto sempre comia à mesa do rei, e era coxo de ambos os pés. ^v13
+**13** Então, Mefibosete viveu em Jerusalém e sempre comia à mesa do rei, mesmo sendo aleijado de ambos os pés. ^v13

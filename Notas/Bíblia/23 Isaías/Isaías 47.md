@@ -1,37 +1,36 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Isaías|Isaías]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Isaías|Isaías]]"
+tags: [biblia]
 ---
 
 # Isaías 47
 
-**1** Desce, e assenta-te no pó, ó virgem filha de babilônia; assenta-te no chão; já não há trono, ó filha dos caldeus, porque nunca mais serás chamada a tenra nem a delicada. ^v1
+**1** Desce e senta-te no pó, virgem filha da Babilônia; senta-te no chão sem um trono, filha dos caldeus. Tu não mais serás chamada graciosa e delicada. ^v1
 
-**2** Toma a mó, e mói a farinha; remove o teu véu, descalça os pés, descobre as pernas e passa os rios. ^v2
+**2** Pega o moinho e mói a farinha; remove teu véu e a cauda de teu vestido, descobre tuas pernas, atravessa os ribeiros. ^v2
 
-**3** A tua vergonha se descobrirá, e ver-se-á o teu opróbrio; tomarei vingança, e não pouparei a homem algum. ^v3
+**3** Tua nudez será descoberta, sim, tua vergonha será vista: Eu Me vingarei e não pouparei um homem sequer. ^v3
 
-**4** O nosso redentor cujo nome é o Senhor dos Exércitos, é o Santo de Israel. ^v4
+**4** Nosso Redentor, Yahweh dos Exércitos, é o Seu nome, o Santo de Israel. ^v4
 
-**5** Assenta-te calada, e entra nas trevas, ó filha dos caldeus, porque nunca mais serás chamada senhora de reinos. ^v5
+**5** Senta-te em silêncio e vai para a escuridão, filha dos caldeus; pois não mais serás chamada rainha de reinos. ^v5
 
-**6** Muito me agastei contra o meu povo, profanei a minha herança, e os entreguei na tua mão; porém não usaste com eles de misericórdia, e até sobre os velhos fizeste muito pesado o teu jugo. ^v6
+**6** Eu estava furioso com Meu povo; corrompi a Minha herança e a dei em tuas mãos, mas tu não mostraste qualquer misericórdia; colocaste pesada opressão sobre os idosos. ^v6
 
-**7** E disseste: Eu serei senhora para sempre; até agora não te importaste com estas coisas, nem te lembraste do fim delas. ^v7
+**7** "Disseste: ""Dominarei para sempre como rainha soberana"". E, até agora, não levaste a sério essas coisas, nem consideraste como elas terminariam." ^v7
 
-**8** Agora, pois, ouve isto, tu que és dada a prazeres, que habitas tão segura, que dizes no teu coração: Eu o sou, e fora de mim não há outra; não ficarei viúva, nem conhecerei a perda de filhos. ^v8
+**8** "Então, agora ouve isto, tu que amas o prazer e estás segura, tu que dizes em teu coração: ""Eu existo, e não há ninguém como eu; nunca me tornarei viúva, nem jamais experimentarei a perda de filhos""." ^v8
 
-**9** Porém ambas estas coisas virão sobre ti num momento, no mesmo dia, perda de filhos e viuvez; em toda a sua plenitude virão sobre ti, por causa da multidão das tuas feitiçarias, e da grande abundância dos teus muitos encantamentos. ^v9
+**9** Mas ambas estas coisas acontecerão num momento, num dia: a perda de filhos e a viuvez; virão com grande força, apesar das tuas feitiçarias, teus muitos encantos e amuletos. ^v9
 
-**10** Porque confiaste na tua maldade e disseste: Ninguém me pode ver; a tua sabedoria e o teu conhecimento, isso te fez desviar, e disseste no teu coração: Eu sou, e fora de mim não há outra. ^v10
+**10** "Tu confiaste na tua maldade e disseste: ""Ninguém me vê""; tua sabedoria e teu conhecimento te desviaram, mas tu dizes em teu coração: ""Eu existo e não há ninguém igual a mim""." ^v10
 
-**11** Portanto sobre ti virá o mal, sem que saibas a sua origem, e tal destruição cairá sobre ti, sem que a possas evitar; e virá sobre ti de repente desolação que não poderás conhecer. ^v11
+**11** O desastre te sobrevirá; tu não serás capaz de evitá-lo com teus encantamentos. A destruição virá e tu não serás capaz de desviar-te dela, e a calamidade te atacará de repente, antes que tu saibas. ^v11
 
-**12** Deixa-te estar com os teus encantamentos, e com a multidão das tuas feitiçarias, em que trabalhaste desde a tua mocidade, a ver se podes tirar proveito, ou se porventura te podes fortalecer. ^v12
+**12** Persiste em lançar teus encantamentos e tuas muitas feitiçarias, as quais tens recitado fielmente desde tua infância; talvez tu serás bem sucedida, talvez espantarás o desastre. ^v12
 
-**13** Cansaste-te na multidão dos teus conselhos; levantem-se pois agora os agoureiros dos céus, os que contemplavam os astros, os prognosticadores das luas novas, e salvem-te do que há de vir sobre ti. ^v13
+**13** Tu estás cansada com tuas muitas consultas; que esses homens te levantem e te salvem, esses que mapeiam os céus e olham para as estrelas, esses que anunciam as luas novas — que eles te salvem do que te acontecerá. ^v13
 
-**14** Eis que serão como a pragana, o fogo os queimará; não poderão salvar a sua vida do poder das chamas; não haverá brasas, para se aquentar, nem fogo para se assentar junto dele. ^v14
+**14** Vê, eles se tornarão como restolho e o fogo os queimará. Eles não salvarão a si mesmos do poder das chamas. Não há carvão para aquecê-los e nem fogo para se sentarem em volta! ^v14
 
-**15** Assim serão para contigo aqueles com quem trabalhaste, os teus negociantes desde a tua mocidade; cada qual irá vagueando pelo seu caminho; ninguém te salvará. ^v15
+**15** Isso é o que eles se tornaram para ti, aqueles com quem tu trabalhaste, com quem fizeste comércio desde a tua juventude; cada um deles continua cometendo suas próprias tolices; e, quando tu clamares por socorro, não haverá ninguém para te salvar. ^v15

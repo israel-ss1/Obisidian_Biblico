@@ -1,43 +1,42 @@
 ---
-Livro: "[[Êxodo|Êxodo]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Êxodo|Êxodo]]"
+tags: [biblia]
 ---
 
 # Êxodo 24
 
-**1** Depois disse a Moisés: Sobe ao SENHOR, tu e Arão, Nadabe e Abiú, e setenta dos anciãos de Israel; e adorai de longe. ^v1
+**1** "Então Yahweh disse para Moisés: ""Subi até Mim, tu, Arão, Nadabe, Abiú e setenta anciãos de Israel, e me adorareis de longe." ^v1
 
-**2** E só Moisés se chegará ao Senhor; mas eles não se cheguem, nem o povo suba com ele. ^v2
+**2** "Somente Moisés pode vir para perto de Mim. Os outros não deverão chegar perto, nem o povo poderá subir com ele""." ^v2
 
-**3** Veio, pois, Moisés, e contou ao povo todas as palavras do Senhor, e todos os estatutos; então o povo respondeu a uma voz, e disse: Todas as palavras, que o Senhor tem falado, faremos. ^v3
+**3** "Moisés foi e relatou para o povo toda as Palavras e Decretos de Yahweh. Todo o povo respondeu em uma só voz e disse: ""Nós faremos o que a Palavra de Yahweh tem dito""." ^v3
 
-**4** Moisés escreveu todas as palavras do Senhor, e levantou-se pela manhã de madrugada, e edificou um altar ao pé do monte, e doze monumentos, segundo as doze tribos de Israel; ^v4
+**4** Então Moisés escreveu toda a Palavra de Yahweh. De manhã cedo, Moisés construiu um altar no pé da montanha e arrumou doze pilares de pedra, assim essas pedras representam as doze tribos de Israel. ^v4
 
-**5** E enviou alguns jovens dos filhos de Israel, os quais ofereceram holocaustos e sacrificaram ao Senhor sacrifícios pacíficos de bezerros. ^v5
+**5** Ele enviou alguns jovens israelitas para ofertar holocaustos e sacrificar ofertas de comunhão de bois para Yahweh. ^v5
 
-**6** E Moisés tomou a metade do sangue, e a pôs em bacias; e a outra metade do sangue espargiu sobre o altar. ^v6
+**6** Moisés pegou metade do sangue e colocou dentro de bacias; ele aspergiu a outra metade sobre altar. ^v6
 
-**7** E tomou o livro da aliança e o leu aos ouvidos do povo, e eles disseram: Tudo o que o Senhor tem falado faremos, e obedeceremos. ^v7
+**7** "Ele pegou o Livro da Aliança e leu em voz alta para o povo. Ele disse: ""Nós faremos o que Yahweh tem falado. Nós seremos obedientes""." ^v7
 
-**8** Então tomou Moisés aquele sangue, e espargiu-o sobre o povo, e disse: Eis aqui o sangue da aliança que o Senhor tem feito convosco sobre todas estas palavras. ^v8
+**8** "Então Moisés pegou o sangue aspergiu sobre o povo. Ele disse: ""Este é o sangue da Aliança que Yahweh tem feito convosco dando-lhes esta promessa com todas estas Palavras""." ^v8
 
-**9** E subiram Moisés e Arão, Nadabe e Abiú, e setenta dos anciãos de Israel. ^v9
+**9** Depois Moisés, Arão, Nadabe, Abiú, e setenta dos anciãos israelitas subiram para a montanha. ^v9
 
-**10** E viram o Deus de Israel, e debaixo de seus pés havia como que uma pavimentação de pedra de safira, que se parecia com o céu na sua claridade. ^v10
+**10** Eles viram o Deus de Israel. Sob seus pés estava a calçada feita de pedra de safira, tão clara quanto o próprio céu. ^v10
 
-**11** Porém não estendeu a sua mão sobre os escolhidos dos filhos de Israel, mas viram a Deus, e comeram e beberam. ^v11
+**11** Deus não estendeu sua mão irada sobre os líderes Israelitas. Eles viram a Deus, e eles comeram e beberam. ^v11
 
-**12** Então disse o Senhor a Moisés: Sobe a mim ao monte, e fica lá; e dar-te-ei as tábuas de pedra e a lei, e os mandamentos que tenho escrito, para os ensinar. ^v12
+**12** "Yahweh disse para Moisés: ""Sobe até Mim na montanha e fica lá. Eu te darei as tábuas de pedra e a Lei e os Mandamentos que Eu tenho escrito, para que tu possas ensiná-los." ^v12
 
-**13** E levantou-se Moisés com Josué seu servidor; e subiu Moisés ao monte de Deus. ^v13
+**13** Então Moisés partiu com Josué, seu assistente, e subiu para a Montanha de Deus. ^v13
 
-**14** E disse aos anciãos: Esperai-nos aqui, até que tornemos a vós; e eis que Arão e Hur ficam convosco; quem tiver algum negócio, se chegará a eles. ^v14
+**14** "Moisés tinha dito para os anciãos: ""Ficai aqui e esperai por nós até que retornemos para vós. Arão e Hur estarão convosco. Se alguém tiver alguma questão ide até eles""." ^v14
 
-**15** E, subindo Moisés ao monte, a nuvem cobriu o monte. ^v15
+**15** Então Moisés subiu até a montanha, e a nuvem o cobriu. ^v15
 
-**16** E a glória do Senhor repousou sobre o monte Sinai, e a nuvem o cobriu por seis dias; e ao sétimo dia chamou a Moisés do meio da nuvem. ^v16
+**16** A glória de Yahweh se estabeleceu no Monte Sinai e a nuvem o cobriu por seis dias. No sétimo dia, Yahweh chamou por Moisés da nuvem. ^v16
 
-**17** E o parecer da glória do Senhor era como um fogo consumidor no cume do monte, aos olhos dos filhos de Israel. ^v17
+**17** A aparência da glória de Yahweh era como um fogo devorador no topo da montanha aos olhos dos israelitas. ^v17
 
-**18** E Moisés entrou no meio da nuvem, depois que subiu ao monte; e Moisés esteve no monte quarenta dias e quarenta noites. ^v18
+**18** Moisés entrou na nuvem e subiu para a montanha. Ele esteve na montanha por quarenta dias e quarenta noites. ^v18

@@ -1,73 +1,72 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Josué|Josué]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Josué|Josué]]"
+tags: [biblia]
 ---
 
 # Josué 24
 
-**1** Depois reuniu Josué todas as tribos de Israel em Siquém; e chamou os anciãos de Israel, e os seus cabeças, e os seus juízes, e os seus oficiais; e eles se apresentaram diante de Deus. ^v1
+**1** Então, Josué reuniu todas as tribos de Israel em Siquém, e chamou os anciãos de Israel, seus líderes, seus juízes e oficiais, e eles se apresentaram diante de Deus. ^v1
 
-**2** Então Josué disse a todo o povo: Assim diz o Senhor Deus de Israel: Além do rio habitaram antigamente vossos pais, Terá, pai de Abraão e pai de Naor; e serviram a outros deuses. ^v2
+**2** "Josué disse a todo o povo: ""Isto é o que Yahweh, o Deus de Israel, diz: 'Vossos antepassados, Terá, pai de Abraão, e Naor viviam além do rio Eufrates, e adoravam outros deuses." ^v2
 
-**3** Eu, porém, tomei a vosso pai Abraão dalém do rio e o fiz andar por toda a terra de Canaã; também multipliquei a sua descendência e dei-lhe a Isaque. ^v3
+**3** Porém, Eu tomei vosso pai Abraão de além do Eufrates e o conduzi para a terra de Canaã e lhe dei muitos descendentes através do seu filho Isaque. ^v3
 
-**4** E a Isaque dei Jacó e Esaú; e a Esaú dei a montanha de Seir, para a possuir; porém, Jacó e seus filhos desceram para o Egito. ^v4
+**4** E a Isaque dei Jacó e Esaú. Dei a Esaú a região de Seir como posse, mas Jacó e seus filhos desceram para o Egito. ^v4
 
-**5** Então enviei Moisés e Arão e feri ao Egito, como o fiz no meio deles; e depois vos tirei de lá. ^v5
+**5** Enviei Moisés e Arão, e afligi os egípcios com pragas. Após isso, Eu vos tirei de lá. ^v5
 
-**6** E, tirando eu a vossos pais do Egito, viestes ao mar; e os egípcios perseguiram a vossos pais com carros e com cavaleiros, até ao Mar Vermelho. ^v6
+**6** Eu trouxe vossos antepassados do Egito e vós chegastes até o mar. Os egípcios os perseguiram com carruagens e cavaleiros até o mar Vermelho. ^v6
 
-**7** E clamaram ao Senhor, que pôs uma escuridão entre vós e os egípcios, e trouxe o mar sobre eles, e os cobriu, e os vossos olhos viram o que eu fiz no Egito; depois habitastes no deserto muitos dias. ^v7
+**7** Quando vossos antepassados clamaram a Yahweh, Ele pôs uma escuridão entre vós e os egípcios. Ele lançou o mar por cima deles e os cobriu. Vós vistes o que fiz no Egito. Depois, habitastes no deserto por um longo tempo. ^v7
 
-**8** Então eu vos trouxe à terra dos amorreus, que habitavam além do Jordão, os quais pelejaram contra vós; porém os entreguei nas vossas mãos, e possuístes a sua terra, e os destruí de diante de vós. ^v8
+**8** Eu vos trouxe para a terra dos amorreus, que habitavam no outro lado do Jordão. Eles batalharam contra vós e Eu os entreguei em vossas mãos. Tomastes posse da terra deles e Eu os destruí diante de vós. ^v8
 
-**9** Levantou-se também Balaque, filho de Zipor, rei dos moabitas e pelejou contra Israel; e mandou chamar a Balaão, filho de Beor, para que vos amaldiçoasse. ^v9
+**9** Então, Balaque, filho de Zipor, rei de Moabe, levantou-se e atacou Israel. Ele mandou chamar Balaão, filho de Beor, para que vos amaldiçoasse. ^v9
 
-**10** Porém eu não quis ouvir a Balaão; pelo que ele vos abençoou grandemente e eu vos livrei da sua mão. ^v10
+**10** Mas Eu não ouvi Balaão. Na verdade, ele vos abençoou. Assim, Eu vos resgatei das mãos dele. ^v10
 
-**11** E, passando vós o Jordão, e vindo a Jericó, os habitantes de Jericó pelejaram contra vós, os amorreus, e os perizeus, e os cananeus, e os heteus, e os girgaseus, e os heveus, e os jebuseus; porém os entreguei nas vossas mãos. ^v11
+**11** Vós atravessastes o Jordão e fostes para Jericó. Os líderes de Jericó batalharam contra vós, assim como os amorreus, os perizeus, os cananeus, os heteus, os girgaseus, os heveus e os jebuseus. Eu vos dei a vitória e os coloquei debaixo de vosso controle. ^v11
 
-**12** E enviei vespões adiante de vós, que os expulsaram de diante de vós, como a ambos os reis dos amorreus; não com a tua espada nem com o teu arco. ^v12
+**12** Enviei vespas adiante de vós, que os expulsaram, assim como os dois reis dos amorreus diante de vós. Isto não aconteceu por vossas espadas ou por vossos arcos. ^v12
 
-**13** E eu vos dei a terra em que não trabalhastes, e cidades que não edificastes, e habitais nelas e comeis das vinhas e dos olivais que não plantastes. ^v13
+**13** Eu vos dei terras em que não trabalhastes e cidades que não edificastes e agora habitais nelas. Comestes do fruto de vinhas e oliveiras que não plantastes'. ^v13
 
-**14** Agora, pois, temei ao Senhor, e servi-o com sinceridade e com verdade; e deitai fora os deuses aos quais serviram vossos pais além do rio e no Egito, e servi ao Senhor. ^v14
+**14** Agora, temei a Yahweh e servi-O com toda integridade e fidelidade. Jogai fora os deuses que vossos antepassados serviram além do Eufrates e no Egito e cultuai Yahweh. ^v14
 
-**15** Porém, se vos parece mal aos vossos olhos servir ao Senhor, escolhei hoje a quem sirvais; se aos deuses a quem serviram vossos pais, que estavam além do rio, ou aos deuses dos amorreus, em cuja terra habitais; porém eu e a minha casa serviremos ao Senhor. ^v15
+**15** "Se parecer errado aos vossos olhos cultuar Yahweh, escolhei hoje para vós mesmos a quem servireis. Se aos deuses que vossos antepassados serviram além do Eufrates, ou aos deuses dos amorreus, em cuja terra habitais. Mas, quanto a mim e a minha casa, nós serviremos a Yahweh""." ^v15
 
-**16** Então respondeu o povo, e disse: Nunca nos aconteça que deixemos ao Senhor para servirmos a outros deuses; ^v16
+**16** "O povo respondeu, dizendo: ""Nós jamais abandonaríamos Yahweh para servir a outros deuses," ^v16
 
-**17** Porque o Senhor é o nosso Deus; ele é o que nos fez subir, a nós e a nossos pais, da terra do Egito, da casa da servidão, e o que tem feito estes grandes sinais aos nossos olhos, e nos guardou por todo o caminho que andamos, e entre todos os povos pelo meio dos quais passamos. ^v17
+**17** pois Yahweh é o nosso Deus, que nos trouxe, a nós e aos nossos ancestrais, da terra do Egito, da casa da escravidão, que fez esses grandes sinais à nossa vista, e que nos preservou em todo o caminho que andamos e entre todas as nações pelas quais passamos. ^v17
 
-**18** E o Senhor expulsou de diante de nós a todos esses povos, até ao amorreu, morador da terra; também nós serviremos ao Senhor, porquanto é nosso Deus. ^v18
+**18** "Depois, Yahweh expulsou diante de nós todos os povos, inclusive os amorreus que habitavam nesta terra. Então, nós também serviremos a Yahweh, porque Ele é o nosso Deus""." ^v18
 
-**19** Então Josué disse ao povo: Não podereis servir ao Senhor, porquanto é Deus santo, é Deus zeloso, que não perdoará a vossa transgressão nem os vossos pecados. ^v19
+**19** "Josué disse ao povo: ""Não podereis servir a Yahweh, porque Ele é um Deus santo. Ele é um Deus zeloso que não perdoará vossas transgressões e pecados." ^v19
 
-**20** Se deixardes ao Senhor, e servirdes a deuses estranhos, então ele se tornará, e vos fará mal, e vos consumirá, depois de vos ter feito o bem. ^v20
+**20** "Se abandonardes Yahweh e servirdes a deuses estrangeiros, então, Ele Se voltará contra vós e vos afligirá. Ele vos consumirá, mesmo depois de ter feito o bem a vós""." ^v20
 
-**21** Então disse o povo a Josué: Não, antes ao Senhor serviremos. ^v21
+**21** "Mas o povo disse a Josué: ""Não, nós serviremos a Yahweh""." ^v21
 
-**22** E Josué disse ao povo: Sois testemunhas contra vós mesmos de que escolhestes ao Senhor, para o servir. E disseram: Somos testemunhas. ^v22
+**22** "Então, Josué disse ao povo: ""Sois testemunhas contra vós mesmos de que escolhestes servir a Yahweh"". Eles disseram: ""Somos testemunhas"". Josué disse:" ^v22
 
-**23** Deitai, pois, agora, fora aos deuses estranhos que há no meio de vós, e inclinai o vosso coração ao Senhor Deus de Israel. ^v23
+**23** """Agora, jogai fora os deuses estrangeiros que estão convosco e inclinai o vosso coração a Yahweh, o Deus de Israel""." ^v23
 
-**24** E disse o povo a Josué: Serviremos ao Senhor nosso Deus, e obedeceremos à sua voz. ^v24
+**24** "O povo disse a Josué: ""Nós serviremos a Yahweh, nosso Deus. Ouviremos a Sua voz""." ^v24
 
-**25** Assim, naquele dia fez Josué aliança com o povo e lhe pôs por estatuto e direito em Siquém. ^v25
+**25** Josué fez uma aliança com o povo naquele dia. Ele lhe deu estatutos e leis em Siquém. ^v25
 
-**26** E Josué escreveu estas palavras no livro da lei de Deus; e tomou uma grande pedra, e a erigiu ali debaixo do carvalho que estava junto ao santuário do Senhor. ^v26
+**26** Josué escreveu essas palavras no Livro da Lei de Deus. Pegou uma grande pedra e pôs debaixo do carvalho que ficava ao lado do santuário de Yahweh. ^v26
 
-**27** E disse Josué a todo o povo: Eis que esta pedra nos será por testemunho, pois ela ouviu todas as palavras, que o Senhor nos tem falado; e também será testemunho contra vós, para que não mintais a vosso Deus. ^v27
+**27** "Josué disse a todo o povo: ""Vede! Esta pedra será testemunha contra nós. Ela ouviu todas as palavras que Yahweh nos disse. Assim, ela será testemunha contra vós, para que nunca negueis o vosso Deus""." ^v27
 
-**28** Então Josué enviou o povo, cada um para a sua herança. ^v28
+**28** Então, Josué despediu o povo, cada um para a sua herança. ^v28
 
-**29** E depois destas coisas sucedeu que Josué, filho de Num, servo do Senhor, faleceu, com idade de cento e dez anos. ^v29
+**29** Depois dessas coisas, Josué, filho de Num, o servo de Yahweh, morreu, com cento e dez anos de idade; ^v29
 
-**30** E sepultaram-no no termo da sua herança, em Timnate-Sera, que está no monte de Efraim, para o norte do monte de Gaás. ^v30
+**30** e o sepultaram no território de sua herança, em Timnate-Sera, que está na região montanhosa de Efraim, ao norte do monte Gáas. ^v30
 
-**31** Serviu, pois, Israel ao Senhor todos os dias de Josué, e todos os dias dos anciãos que ainda sobreviveram muito tempo depois de Josué, e que sabiam todas as obras que o Senhor tinha feito a Israel. ^v31
+**31** Israel serviu a Yahweh por todos os dias de Josué e por todos os dias dos anciãos que sobreviveram a Josué, aqueles que vivenciaram tudo o que Yahweh havia feito por Israel. ^v31
 
-**32** Também os ossos de José, que os filhos de Israel trouxeram do Egito, foram enterrados em Siquém, naquela parte do campo que Jacó comprara aos filhos de Hemor, pai de Siquém, por cem peças de prata, e que se tornara herança dos filhos de José. ^v32
+**32** Os ossos de José, que o povo de Israel trouxe do Egito, foram enterrados em Siquém, na parte de terra que Jacó comprara dos filhos de Hamor, o pai de Siquém. Ele a comprou por cem peças de prata, e ela se tornou herança para os descendentes de José. ^v32
 
-**33** Faleceu também Eleazar, filho de Arão, e o sepultaram no outeiro de Finéias, seu filho, que lhe fora dado na montanha de Efraim. ^v33
+**33** Eleazar, filho de Arão, também morreu e foi sepultado em Gibeá, a cidade que fora dada a Fineias, seu filho. Esta ficava na região montanhosa de Efraim. ^v33

@@ -1,33 +1,32 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Miquéias|Miquéias]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Miquéias|Miquéias]]"
+tags: [biblia]
 ---
 
 # Miquéias 2
 
-**1** Ai daqueles que nas suas camas intentam a iniqüidade, e maquinam o mal; à luz da alva o praticam, porque está no poder da sua mão! ^v1
+**1** Ai daqueles que planejam a iniquidade, daqueles que, em suas camas, planejam fazer o mal. Pela manhã o fazem porque têm poder. ^v1
 
-**2** E cobiçam campos, e roubam-nos, cobiçam casas, e arrebatam-nas; assim fazem violência a um homem e à sua casa, a uma pessoa e à sua herança. ^v2
+**2** Eles desejam os campos e os arrebatam; eles desejam as casas e as tomam. Eles oprimem um homem e sua casa, ele e sua herança. ^v2
 
-**3** Portanto, assim diz o Senhor: Eis que projeto um mal contra esta família, do qual não tirareis os vossos pescoços, e não andareis tão altivos, porque o tempo será mau. ^v3
+**3** "Portanto, assim diz Yahweh: ""Eis que estou prestes a trazer uma calamidade contra essa família, da qual não podereis vos livrar. Não caminhareis arrogantemente porque será um tempo mau." ^v3
 
-**4** Naquele dia se levantará sobre vós um provérbio, e se lamentará pranto lastimoso, dizendo: Nós estamos inteiramente desolados; a porção do meu povo ele a troca; como me despoja! Tira os nossos campos e os reparte! ^v4
+**4** Naquele dia, vossos inimigos cantarão uma canção sobre vós, e levantarão um pranto lastimoso, entoando: 'Nós, israelitas, estamos completamente arruinados; Yahweh mudou o território do nosso povo. Como Ele pode removê-lo de nós? Ele reparte os nossos campos com os traidores!'. ^v4
 
-**5** Portanto, não terás tu na congregação do Senhor quem lance o cordel pela sorte. ^v5
+**5** Assim, vós, ricos, não tereis descendentes para dividir o território por sorteio, na assembleia de Yahweh. ^v5
 
-**6** Não profetizeis aos que profetizam; eles não profetizarão para eles, pois não se apartará a sua vergonha. ^v6
+**6** 'Não profetizeis' — dizem eles. 'Eles não devem profetizar essas coisas; as injúrias não virão'. ^v6
 
-**7** Ó vós que sois chamados casa de Jacó, porventura encurtou-se o Espírito do Senhor? São estas as suas obras? E não é assim que fazem bem as minhas palavras ao que anda retamente? ^v7
+**7** Por acaso, isso deve realmente ser dito, casa de Jacó? 'Está o Espírito de Yahweh irado? Estes são realmente Seus feitos?'. As Minhas palavras não fazem bem para aqueles que andam retamente? ^v7
 
-**8** Mas ontem, se levantou o meu povo como inimigo; de sobre a vestidura tirastes a capa daqueles que passavam seguros, como homens que voltavam da guerra. ^v8
+**8** Ultimamente, o Meu povo se levantou como um inimigo. Vós tirastes a capa, a vestimenta daqueles que passavam sem suspeita, como soldados que regressam da batalha para o que pensam que é segurança. ^v8
 
-**9** Lançastes fora as mulheres do meu povo, da casa das suas delícias; das suas crianças tirastes para sempre a minha glória. ^v9
+**9** Vós tirastes as mulheres que pertencem ao Meu povo de suas casas agradáveis; tirastes para sempre a Minha benção dos seus filhos mais jovens. ^v9
 
-**10** Levantai-vos, e ide-vos, porque este não é lugar de descanso; por causa da imundícia que traz destruição, sim, destruição enorme. ^v10
+**10** Levantai e ide, pois este não é um lugar onde deveis ficar; por causa da impureza, ele será completamente destruído. ^v10
 
-**11** Se houver alguém que, andando com espírito de falsidade, mentir, dizendo: Eu te profetizarei sobre o vinho e a bebida forte; será esse tal o profeta deste povo. ^v11
+**11** Se alguém viesse a vós, com um espírito de falsidade e mentira, e dissesse: 'Eu profetizarei a vós acerca do vinho e da bebida forte', ele seria considerado um profeta para este povo. ^v11
 
-**12** Certamente te ajuntarei todo, ó Jacó; certamente congregarei o restante de Israel; pô-los-ei todos juntos, como ovelhas de Bozra; como o rebanho no meio do seu pasto, farão estrondo por causa da multidão dos homens. ^v12
+**12** Certamente, Eu ajuntarei a todos vós, Jacó. Certamente, reunirei o remanescente de Israel. Irei reuni-los como ovelhas num aprisco, como rebanho no meio do seu pasto. Haverá um barulho alto por causa da multidão de pessoas. ^v12
 
-**13** Subirá diante deles o que abrirá o caminho; eles romperão, e entrarão pela porta, e sairão por ela; e o rei irá adiante deles, e o Senhor à testa deles. ^v13
+**13** "Alguém que abre o caminho irá adiante deles. Eles atravessarão o portão e sairão; seu rei irá adiante deles. Yahweh estará à sua frente""." ^v13

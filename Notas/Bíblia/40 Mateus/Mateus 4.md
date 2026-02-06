@@ -1,60 +1,56 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Mateus|Mateus]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Mateus|Mateus]]"
+tags: [biblia]
 ---
 
 # Mateus 4
 
-**1** Então foi conduzido Jesus pelo Espírito ao deserto, para ser tentado pelo diabo. ^v1
+**1** Então Jesus foi guiado pelo Espírito ao deserto para ser tentado pelo diabo. ^v1
 
-**2** E, tendo jejuado quarenta dias e quarenta noites, depois teve fome; ^v2
+**2** Após ter jejuado por quarenta dias e quarenta noites, Ele teve fome. ^v2
 
-**3** E, chegando-se a ele o tentador, disse: Se tu és o Filho de Deus, manda que estas pedras se tornem em pães. ^v3
+**3** "O diabo veio e disse-Lhe: ""Se Tu És o Filho de Deus, ordena a estas pedras que se transformem em pães""." ^v3
 
-**4** Ele, porém, respondendo, disse: Está escrito: [^1]Nem só de pão viverá o homem, mas de toda a palavra que sai da boca de Deus. ^v4
+**4** "Mas Jesus, respondendo, disse-lhe: ""Está escrito: 'Não só de Pão viverá o homem, mas de toda palavra que procede da boca de Deus'""." ^v4
 
-**5** Então o diabo o transportou à cidade santa, e colocou-o sobre o pináculo do templo, ^v5
+**5** Então o diabo O levou para a cidade santa, colocou-O no ponto mais alto do templo ^v5
 
-**6** E disse-lhe: Se tu és o Filho de Deus, lança-te de aqui abaixo; porque está escrito: Que aos seus anjos dará ordens a teu respeito, E tomar-te-ão nas mãos, Para que nunca tropeces com o teu pé em alguma pedra. ^v6
+**6** "e disse-Lhe: ""Se Tu És o Filho de Deus, lança-Te daqui abaixo, pois está escrito: 'Ele dará ordem aos Seus anjos para que tomem conta de ti,’ e 'Eles irão segurá-lo em suas mãos, para que teu pé não tropece contra uma pedra'""." ^v6
 
-**7** Disse-lhe Jesus: Também está escrito: Não tentarás o Senhor teu Deus. ^v7
+**7** "Disse-lhe Jesus: ""Também está escrito: 'Tu não deves colocar o Senhor teu Deus à prova'""." ^v7
 
-**8** Novamente o transportou o diabo a um monte muito alto; e mostrou-lhe todos os reinos do mundo, e a glória deles. ^v8
+**8** Novamente o diabo O levou para um lugar alto e mostrou a Ele todos os reinos do mundo juntamente com seu esplendor. ^v8
 
-**9** E disse-lhe: Tudo isto te darei se, prostrado, me adorares. ^v9
+**9** "Ele disse a Jesus: ""Todas estas coisas te darei, se te prostrares e me adorares""." ^v9
 
-**10** Então disse-lhe Jesus: Vai-te, Satanás, porque está escrito: Ao Senhor teu Deus adorarás, e só a ele servirás. ^v10
+**10** "Então Jesus disse-lhe: ""Sai daqui Satanás! Pois está escrito: 'Adorarás ao Senhor teu Deus e somente a Ele darás culto'""." ^v10
 
-**11** Então o diabo o deixou; e, eis que chegaram os anjos, e o serviam. ^v11
+**11** Então o diabo O deixou e anjos vieram e O serviram. ^v11
 
-**12** Jesus, porém, ouvindo que João estava preso, voltou para a Galiléia; ^v12
+**12** Quando Jesus soube que João havia sido preso, retirou-se para a Galiléia. ^v12
 
-**13** E, deixando Nazaré, foi habitar em Cafarnaum, cidade marítima, nos confins de Zebulom e Naftali; ^v13
+**13** Saindo de Nazaré foi viver em Cafarnaum, que fica junto ao mar da Galileia, nos territórios de Zebulom e Naftali. ^v13
 
-**14** Para que se cumprisse o que foi dito pelo profeta Isaías, que diz: ^v14
+**14** Isto aconteceu para que se cumprisse o que foi dito pelo profeta Isaías: ^v14
 
-**15** A terra de Zebulom, e a terra de Naftali, Junto ao caminho do mar, além do Jordão, A Galiléia das nações; ^v15
+**15** """Terra de Zebulom e terra de Naftali, caminho do mar, além do Jordão, Galileia dos Gentios!" ^v15
 
-**16** O povo, que estava assentado em trevas, Viu uma grande luz; aos que estavam assentados na região e sombra da morte,A luz raiou. ^v16
+**16** "O povo que estava em trevas viu uma grande luz, e sobre aqueles que estavam na região da sombra da morte surgiu uma luz""." ^v16
 
-**17** Desde então começou Jesus a pregar, e a dizer: Arrependei-vos, porque é chegado o reino dos céus. ^v17
+**17** "A partir daquele momento, Jesus começou a pregar e a dizer: ""Arrependei-vos, pois o Reino dos Céus está próximo""." ^v17
 
-**18** E Jesus, andando junto ao mar da Galiléia, viu a dois irmãos, Simão, chamado Pedro, e André, seu irmão, os quais lançavam as redes ao mar, porque eram pescadores; ^v18
+**18** Enquanto caminhava à beira do mar da Galileia, viu dois irmãos, Simão, que é chamado Pedro, e André, que lançavam as redes ao mar, pois eram pescadores. ^v18
 
-**19** E disse-lhes: Vinde após mim, e eu vos farei pescadores de homens. ^v19
+**19** "Disse-lhes Jesus: ""Vinde, segui-me e eu vos farei pescadores de homens""." ^v19
 
-**20** Então eles, deixando logo as redes, seguiram-no. ^v20
+**20** Imediatamente eles deixaram as redes e O seguiram. ^v20
 
-**21** E, adiantando-se dali, viu outros dois irmãos, Tiago, filho de Zebedeu, e João, seu irmão, num barco com seu pai, Zebedeu, consertando as redes; ^v21
+**21** Enquanto Jesus caminhava, viu outros dois irmãos, Tiago, o filho de Zebedeu, e João. Eles estavam em um barco com Zebedeu, seu pai, consertando suas redes. Ele os chamou ^v21
 
-**22** E chamou-os; eles, deixando imediatamente o barco e seu pai, seguiram-no. ^v22
+**22** e, imediatamente, eles deixaram o barco e seu pai, e O seguiram. ^v22
 
-**23** E percorria Jesus toda a Galiléia, ensinando nas suas sinagogas e pregando o evangelho do reino, e curando todas as enfermidades e moléstias entre o povo. ^v23
+**23** Jesus percorreu toda a Galileia, ensinando nas sinagogas deles, pregando as boas novas do Reino e curando todos os tipos de enfermidades e de doenças entre o povo. ^v23
 
-**24** E a sua fama correu por toda a Síria, e traziam-lhe todos os que padeciam, acometidos de várias enfermidades e tormentos, os endemoninhados, os lunáticos, e os paralíticos, e ele os curava. ^v24
+**24** As notícias sobre Ele correram por toda a Síria, e as pessoas trouxeram-Lhe todos aqueles que estavam doentes, com diversas enfermidades e tormentos: endemoninhados, epilépticos e paralíticos; e Jesus os curou. ^v24
 
-**25** E seguia-o uma grande multidão da Galiléia, de Decápolis, de Jerusalém, da Judéia, e de além do Jordão. ^v25
-
-
-[^1]: [[Deuteronômio 8#^v3|Deuteronômio 8:3]]
+**25** Grandes multidões O seguiram da Galileia, Decápolis, Jerusalém e Judeia e dalém do Jordão. ^v25

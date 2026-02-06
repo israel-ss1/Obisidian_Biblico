@@ -1,65 +1,64 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Mateus|Mateus]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Mateus|Mateus]]"
+tags: [biblia]
 ---
 
 # Mateus 7
 
-**1** Não julgueis, para que não sejais julgados. ^v1
+**1** Não julgueis para que não sejais julgados, ^v1
 
-**2** Porque com o juízo com que julgardes sereis julgados, e com a medida com que tiverdes medido vos hão de medir a vós. ^v2
+**2** pois com o julgamento com que julgardes sereis julgados, e com a medida com que medirdes sereis medidos. ^v2
 
-**3** E por que reparas tu no argueiro que está no olho do teu irmão, e não vês a trave que está no teu olho? ^v3
+**3** E por que enxergas o cisco que está no olho do teu irmão, mas não percebes a tora de madeira que está no teu próprio olho? ^v3
 
-**4** Ou como dirás a teu irmão: Deixa-me tirar o argueiro do teu olho, estando uma trave no teu? ^v4
+**4** Como podes dizer a teu irmão: 'Deixa-me tirar o cisco que está em teu olho', enquanto tens uma tora de madeira em teu próprio olho? ^v4
 
-**5** Hipócrita, tira primeiro a trave do teu olho, e então cuidarás em tirar o argueiro do olho do teu irmão. ^v5
+**5** Hipócrita! Tira primeiro a tora de madeira do teu próprio olho e então verás claramente, para que possas tirar o cisco que está no olho do teu irmão. ^v5
 
-**6** Não deis aos cães as coisas santas, nem deiteis aos porcos as vossas pérolas, não aconteça que as pisem com os pés e, voltando-se, vos despedacem. ^v6
+**6** Não deis o que é santo aos cães, nem lanceis as vossas pérolas aos porcos, para que eles não as pisem com os pés e voltando-se contra vós, vos despedacem. ^v6
 
-**7** Pedi, e dar-se-vos-á; buscai, e encontrareis; batei, e abrir-se-vos-á. ^v7
+**7** Pedi, e vos será dado; buscai, e achareis; batei, e vos será aberto. ^v7
 
-**8** Porque, aquele que pede, recebe; e, o que busca, encontra; e, ao que bate, abrir-se-lhe-á. ^v8
+**8** Pois todo aquele que pede, recebe; e aquele que busca, encontra; e para o que bater será aberto. ^v8
 
-**9** E qual dentre vós é o homem que, pedindo-lhe pão o seu filho, lhe dará uma pedra? ^v9
+**9** Ou qual homem entre vós que, se o filho pedir um pedaço de pão, dará a ele uma pedra? ^v9
 
-**10** E, pedindo-lhe peixe, lhe dará uma serpente? ^v10
+**10** Ou se o filho pedir um peixe, lhe dará uma cobra? ^v10
 
-**11** Se vós, pois, sendo maus, sabeis dar boas coisas aos vossos filhos, quanto mais vosso Pai, que está nos céus, dará bens aos que lhe pedirem? ^v11
+**11** Portanto se vós, sendo maus, sabeis dar boas dádivas aos vossos filhos, quanto mais vosso Pai celestial, que está nos céus, não dará coisas boas para aqueles que Lhe pedirem? ^v11
 
-**12** Portanto, tudo o que vós quereis que os homens vos façam, fazei-lho também vós, porque esta é a lei e os profetas. ^v12
+**12** Portanto tudo aquilo que desejais que as pessoas vos façam, deveis também fazer para elas; porque essa é a Lei e os Profetas. ^v12
 
-**13** Entrai pela porta estreita; porque larga é a porta, e espaçoso o caminho que conduz à perdição, e muitos são os que entram por ela; ^v13
+**13** Entrai pela porta estreita, porque larga é a porta e espaçoso é o caminho que leva à destruição, e existem muitas pessoas que passam por ele. ^v13
 
-**14** E porque estreita é a porta, e apertado o caminho que leva à vida, e poucos há que a encontrem. ^v14
+**14** Mas estreita é a porta, e apertado é o caminho que leva à vida, e poucos são aqueles que o encontram. ^v14
 
-**15** Acautelai-vos, porém, dos falsos profetas, que vêm até vós vestidos como ovelhas, mas, interiormente, são lobos devoradores. ^v15
+**15** Cuidado com os falsos profetas, os quais chegam com roupas de ovelhas, mas na verdade são lobos famintos. ^v15
 
-**16** Por seus frutos os conhecereis. Porventura colhem-se uvas dos espinheiros, ou figos dos abrolhos? ^v16
+**16** Pelos seus frutos os conhecereis. As pessoas colhem uvas de espinheiros, ou figos de urtigas? ^v16
 
-**17** Assim, toda a árvore boa produz bons frutos, e toda a árvore má produz frutos maus. ^v17
+**17** Do mesmo modo, toda árvore boa produz bons frutos, mas a árvore má produz frutos maus. ^v17
 
-**18** Não pode a árvore boa dar maus frutos; nem a árvore má dar frutos bons. ^v18
+**18** Não existe árvore boa que produza frutos maus, e também não existe árvore má que produza frutos bons. ^v18
 
-**19** Toda a árvore que não dá bom fruto corta-se e lança-se no fogo. ^v19
+**19** Toda árvore que não produz bom fruto é cortada e lançada ao fogo. ^v19
 
-**20** Portanto, pelos seus frutos os conhecereis. ^v20
+**20** Então é pelos seus frutos que os conhecereis. ^v20
 
-**21** Nem todo o que me diz: Senhor, Senhor! entrará no reino dos céus, mas aquele que faz a vontade de meu Pai, que está nos céus. ^v21
+**21** Nem todo que Me diz: 'Senhor, Senhor,' entrará no Reino dos Céus, mas apenas o que faz a vontade de Meu Pai que está nos céus. ^v21
 
-**22** Muitos me dirão naquele dia: Senhor, Senhor, não profetizamos nós em teu nome? e em teu nome não expulsamos demônios? e em teu nome não fizemos muitas maravilhas? ^v22
+**22** Muitas pessoas Me dirão naquele dia: 'Senhor, Senhor, nós não profetizamos em Teu nome? Em Teu nome não expulsamos demônios e não fizemos muitos milagres?' ^v22
 
-**23** E então lhes direi abertamente: Nunca vos conheci; apartai-vos de mim, vós que praticais a iniqüidade. ^v23
+**23** Então Eu lhes direi abertamente: 'Eu nunca vos conheci! Afastai-vos de Mim, vós que praticais a iniquidade!' ^v23
 
-**24** Todo aquele, pois, que escuta estas minhas palavras, e as pratica, assemelhá-lo-ei ao homem prudente, que edificou a sua casa sobre a rocha; ^v24
+**24** Portanto todo aquele que ouve as Minhas palavras e as obedece será como o homem sábio que construiu a sua casa sobre a rocha. ^v24
 
-**25** E desceu a chuva, e correram rios, e assopraram ventos, e combateram aquela casa, e não caiu, porque estava edificada sobre a rocha. ^v25
+**25** Veio a chuva, transbordaram os rios, e os ventos sopraram e bateram sobre aquela casa; mas ela não caiu, pois tinha sido alicerçada sobre a rocha. ^v25
 
-**26** E aquele que ouve estas minhas palavras, e não as cumpre, compará-lo-ei ao homem insensato, que edificou a sua casa sobre a areia; ^v26
+**26** Mas todo aquele que ouve as Minhas palavras e não obedece, será como um homem tolo que construiu a sua casa sobre a areia. ^v26
 
-**27** E desceu a chuva, e correram rios, e assopraram ventos, e combateram aquela casa, e caiu, e foi grande a sua queda. ^v27
+**27** "Veio a chuva, transbordaram os rios, os ventos sopraram e bateram sobre aquela casa, e ela caiu; e a sua destruição foi completa.""" ^v27
 
-**28** E aconteceu que, concluindo Jesus este discurso, a multidão se admirou da sua doutrina; ^v28
+**28** E aconteceu que, quando Jesus acabou de falar essas palavras, as multidões estavam maravilhadas pelo Seu ensino, ^v28
 
-**29** Porquanto os ensinava como tendo autoridade; e não como os escribas. ^v29
+**29** porque Ele ensinava como alguém que tinha autoridade, e não como os escribas. ^v29

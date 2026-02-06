@@ -1,51 +1,50 @@
 ---
-Livro: "[[Lamentações|Lamentações]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Lamentações|Lamentações]]"
+tags: [biblia]
 ---
 
 # Lamentações 4
 
-**1** Como se escureceu o ouro! Como se mudou o ouro puro e bom! Como estão espalhadas as pedras do santuário sobre cada rua! ^v1
+**1** O ouro tornou-se escuro; como o ouro mais puro mudou! As pedras santas foram espalhadas na esquina de cada rua. ^v1
 
-**2** Os preciosos filhos de Sião, avaliados a puro ouro, como são agora reputados por vasos de barro, obra das mãos do oleiro! ^v2
+**2** Os preciosos filhos de Sião valiam seu peso em ouro puro. Mas agora não valem mais que vasos de argila feitos pelas mãos do oleiro. ^v2
 
-**3** Até os chacais abaixam o peito, dão de mamar aos seus filhos; mas a filha do meu povo tornou-se cruel como os avestruzes no deserto. ^v3
+**3** Até os chacais oferecem o peito para amamentar seus filhotes, mas a filha do meu povo tem-se tornado tão cruel como os avestruzes no deserto. ^v3
 
-**4** A língua do que mama fica pegada pela sede ao seu paladar; os meninos pedem pão, e ninguém lho reparte. ^v4
+**4** A língua da criança de peito cola-se ao céu da sua boca sedenta; crianças pedem pão, mas não há nada para elas. ^v4
 
-**5** Os que comiam comidas finas agora desfalecem nas ruas; os que se criaram em carmesim abraçam monturos. ^v5
+**5** Os que comiam comidas caras agora passam fome nas ruas; Os que cresceram vestindo vestes escarlates agora se deitam sobre pilhas de lixo. ^v5
 
-**6** Porque maior é a iniqüidade da filha do meu povo do que o pecado de Sodoma, a qual foi subvertida como num momento, sem que mãos lhe tocassem. ^v6
+**6** O castigo da filha do meu povo é maior do que o de Sodoma, que foi derrubada como num momento, e ninguém levantou uma mão para ajudá-la . ^v6
 
-**7** Os seus nobres eram mais puros do que a neve, mais brancos do que o leite, mais vermelhos de corpo do que os rubis, e mais polidos do que a safira. ^v7
+**7** Seus líderes eram mais puros que a neve e mais brancos que o leite. Seus corpos eram mais saudáveis que corais; e a sua forma, como safira. ^v7
 
-**8** Mas agora escureceu-se o seu aspecto mais do que o negrume; não são conhecidos nas ruas; a sua pele se lhes pegou aos ossos, secou-se, tornou-se como um pau. ^v8
+**8** Agora a sua aparência escureceu mais que a fuligem, e já estão irreconhecíveis nas ruas, pois a sua pele colou-se aos seus ossos e está seca como a lenha. ^v8
 
-**9** Os mortos à espada foram mais ditosos do que os mortos à fome; porque estes morreram lentamente, por falta dos frutos dos campos. ^v9
+**9** Aqueles que foram mortos pela espada foram mais felizes do aqueles que foram mortos pela fome, que se definharam, perfurados pela falta de qualquer colheita do campo. ^v9
 
-**10** As mãos das mulheres compassivas cozeram seus próprios filhos; serviram-lhes de alimento na destruição da filha do meu povo. ^v10
+**10** As mãos de mulheres compassivas cozinharam seus próprios filhos; eles foram seu alimento no tempo em que a filha do meu povo estava sendo destruída. ^v10
 
-**11** Deu o Senhor cumprimento ao seu furor; derramou o ardor da sua ira, e acendeu fogo em Sião, que consumiu os seus fundamentos. ^v11
+**11** Yahweh demonstrou toda a Sua ira. Ele derramou Sua ardente raiva; sobre Sião, Ele acendeu fogo que consumiu seus alicerces. ^v11
 
-**12** Não creram os reis da terra, nem todos os moradores do mundo, que entrasse o adversário e o inimigo pelas portas de Jerusalém. ^v12
+**12** Os reis da terra não acreditavam, nem qualquer dos moradores do mundo acreditava que inimigos ou adversários pudessem entrar pelos portões de Jerusalém. ^v12
 
-**13** Foi por causa dos pecados dos profetas, das maldades dos seus sacerdotes, que derramaram o sangue dos justos no meio dela. ^v13
+**13** Mas isso aconteceu por causa dos pecados dos seus profetas e as iniquidades dos sacerdotes que derramaram sangue justo no meio dela. ^v13
 
-**14** Vagueiam como cegos nas ruas, andam contaminados de sangue; de tal sorte que ninguém pode tocar nas suas roupas. ^v14
+**14** Eles vagueavam, cegos, pelas ruas. Estavam tão contaminados por aquele sangue ao ponto de ninguém ter permissão para tocar suas vestes. ^v14
 
-**15** Desviai-vos, imundos! gritavam-lhes; desviai-vos, desviai-vos, não toqueis! quando fugiram e também andaram errantes, dizia-se entre os gentios: Nunca mais morarão aqui. ^v15
+**15** """Apartai-vos, imundos!"", gritava-lhes o povo. ""Apartai-vos, apartai-vos! Não os toqueis!"" E assim vagueavam errantes; entre as nações se dizia: ""eles já não podem permanecer aqui""." ^v15
 
-**16** A face indignada do Senhor os espalhou, ele nunca mais tornará a olhar para eles; não respeitaram a pessoa dos sacerdotes, nem se compadeceram dos velhos. ^v16
+**16** O próprio Yahweh os espalhou e já não cuida deles. Eles não honram os sacerdotes nem mostraram qualquer compaixão aos anciãos. ^v16
 
-**17** Os nossos olhos desfaleciam, esperando o nosso vão socorro; olhávamos atentamente para uma nação que não nos podia livrar. ^v17
+**17** Nossos olhos falharam, procurando em vão por ajuda; das nossas torres de vigia, olhávamos por uma nação que não poderia nos salvar. ^v17
 
-**18** Espiaram os nossos passos, de maneira que não podíamos andar pelas nossas ruas; está chegado o nosso fim, estão cumpridos os nossos dias, porque é vindo o nosso fim. ^v18
+**18** Eles espreitavam os nossos passos, não podíamos andar pelas nossas ruas. Nosso fim estava perto; e os nossos dias, contados, pois é chegado o nosso fim. ^v18
 
-**19** Os nossos perseguidores foram mais ligeiros do que as águias dos céus; sobre os montes nos perseguiram, no deserto nos armaram ciladas. ^v19
+**19** Nossos perseguidores foram mais rápidos do que as águias no céu. Eles nos seguiram até as montanhas e à espreita esperavam por nós no deserto. ^v19
 
-**20** O fôlego das nossas narinas, o ungido do Senhor, foi preso nas suas covas; dele dizíamos: Debaixo da sua sombra viveremos entre os gentios. ^v20
+**20** "O fôlego em nossas narinas, O ungido de Yahweh, Ele é o que foi preso nas suas covas, Dele se dizia: ""Sob Sua sombra viveremos entre as nações""." ^v20
 
-**21** Regozija-te e alegra-te, ó filha de Edom, que habitas na terra de Uz; o cálice passará também para ti; embebedar-te-ás, e te descobrirás. ^v21
+**21** Regozija-te e alegra-te, filha de Edom, você que vive na terra de Uz. Mas a ti também esse cálice passará; tu te embriagarás e te desnudarás. ^v21
 
-**22** O castigo da tua maldade está consumado, ó filha de Sião; ele nunca mais te levará para o cativeiro; ele visitará a tua maldade, ó filha de Edom, descobrirá os teus pecados. ^v22
+**22** Filha de Sião, o teu castigo chegará ao fim, Ele não estenderá seu exilio. Mas, filha de Edom, os teus pecados serão descobertos. ^v22

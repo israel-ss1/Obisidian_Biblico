@@ -1,37 +1,36 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Jeremias|Jeremias]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Jeremias|Jeremias]]"
+tags: [biblia]
 ---
 
 # Jeremias 19
 
-**1** Assim disse o SENHOR: Vai, e compra uma botija de oleiro, e leva contigo alguns dos anciãos do povo e alguns dos anciãos dos sacerdotes; ^v1
+**1** "Disse Yahweh: ""Vá e compra uma botija de barro do oleiro, e leva contigo os anciãos do povo e os sacerdotes." ^v1
 
-**2** E sai ao Vale do Filho de Hinom, que está à entrada da porta do sol, e apregoa ali as palavras que eu te disser; ^v2
+**2** Então, vá até o vale de Ben-Hinom que está à entrada do portão dos Cacos e lá proclama as palavras que Eu te direi. ^v2
 
-**3** E dirás: Ouvi a palavra do Senhor, ó reis de Judá, e moradores de Jerusalém. Assim diz o Senhor dos Exércitos, o Deus de Israel: Eis que trarei um mal sobre este lugar, e quem quer que dele ouvir retinir-lhe-ão os ouvidos. ^v3
+**3** Assim dirás: 'Ouvi a palavra de Yahweh, reis de Judá e moradores de Jerusalém! Assim diz Yahweh dos Exércitos, o Deus de Israel: Eis que Eu estou para trazer calamidade sobre este lugar, e os ouvidos de todos que ouvirem sobre isso irão formigar. ^v3
 
-**4** Porquanto me deixaram e alienaram este lugar, e nele queimaram incenso a outros deuses, que nunca conheceram, nem eles nem seus pais, nem os reis de Judá; e encheram este lugar de sangue de inocentes. ^v4
+**4** Eu farei isso porque eles têm Me abandonado e profanaram este lugar. Neste lugar, eles ofereceram sacrifícios para deuses que nunca conheceram. Eles e seus ancestrais e os reis de Judá também têm enchido este lugar com sangue inocente. ^v4
 
-**5** Porque edificaram os altos de Baal, para queimarem seus filhos no fogo em holocaustos a Baal; o que nunca lhes ordenei, nem falei, nem me veio ao pensamento. ^v5
+**5** Eles construíram os lugares altos de Baal para queimarem seus filhos como um holocausto, algo que Eu nunca mandei, nem falei e nem me passou pela cabeça. ^v5
 
-**6** Por isso eis que dias vêm, diz o Senhor, em que este lugar não se chamará mais Tofete, nem o Vale do Filho de Hinom, mas o Vale da Matança. ^v6
+**6** Portanto, eis que os dias estão chegando – isto é uma declaração de Yahweh – quando este lugar não será mais chamado de Tofete, nem o vale de Ben-Hinom, mas será vale da Matança. ^v6
 
-**7** Porque dissiparei o conselho de Judá e de Jerusalém neste lugar, e os farei cair à espada diante de seus inimigos, e pela mão dos que buscam a vida deles; e darei os seus cadáveres para pasto às aves dos céus e aos animais da terra. ^v7
+**7** Neste lugar, frustrarei os planos de Judá e Jerusalém; Eu os farei cair pela espada diante de seus inimigos e pela mão dos que procuram tirar-lhes a vida. Então, darei seus cadáveres como comida para os pássaros dos céus e para as feras da terra. ^v7
 
-**8** E farei esta cidade objeto de espanto e de assobio; todo aquele que passar por ela se espantará, e assobiará por causa de todas as suas pragas. ^v8
+**8** E farei desta cidade uma ruína e um objeto de desprezo; todo aquele que passar por ela se espantará e zombará por causa de todas as suas pragas. ^v8
 
-**9** E lhes farei comer a carne de seus filhos e a carne de suas filhas, e comerá cada um a carne do seu amigo, no cerco e no aperto em que os apertarão os seus inimigos, e os que buscam a vida deles. ^v9
+**9** "E os farei comer a carne dos seus filhos e filhas, cada homem consumirá a carne do seu próximo, no cerco e na angústia provocados pelos seus inimigos, por aqueles que querem tirar-lhes a vida""." ^v9
 
-**10** Então quebrarás a botija à vista dos homens que forem contigo. ^v10
+**10** Então, quebrarás a botija na presença dos homens que foram contigo. ^v10
 
-**11** E dir-lhes-ás: Assim diz o Senhor dos Exércitos: Deste modo quebrarei eu a este povo, e a esta cidade, como se quebra o vaso do oleiro, que não pode mais refazer-se, e os enterrarão em Tofete, porque não haverá mais lugar para os enterrar. ^v11
+**11** Tu dirás a eles: 'Assim diz Yahweh dos Exércitos: Eu farei a mesma coisa com este povo e com esta cidade – esta é a declaração de Yahweh – assim como Jeremias despedaçou a botija de barro, de modo que ela não possa ser reparada novamente, o povo enterrará os mortos em Tofete, até que não haja mais lugar para enterrá-los. ^v11
 
-**12** Assim farei a este lugar, diz o Senhor, e aos seus moradores; sim, para pôr a esta cidade como a Tofete. ^v12
+**12** Isto é o que farei com este lugar e com os seus moradores; esta cidade será como Tofete – esta é a declaração de Yahweh. ^v12
 
-**13** E as casas de Jerusalém, e as casas dos reis de Judá, serão imundas como o lugar de Tofete, como também todas as casas, sobre cujos terraços queimaram incenso a todo o exército dos céus, e ofereceram libações a deuses estranhos. ^v13
+**13** "As casas de Jerusalém e dos reis de Judá serão imundas como Tofete, assim como todas as casas daqueles que, nos terraços, adoram todas as estrelas dos céus e oferecem ofertas de bebida a outros deuses.""" ^v13
 
-**14** Vindo, pois, Jeremias de Tofete onde o tinha enviado o Senhor a profetizar, se pôs em pé no átrio da casa do Senhor, e disse a todo o povo: ^v14
+**14** Então, Jeremias regressou de Tofete, lugar para onde Yahweh o havia enviado para profetizar. Pondo-se em pé no pátio da Casa de Yahweh, disse a todo o povo: ^v14
 
-**15** Assim diz o Senhor dos Exércitos, o Deus de Israel: Eis que trarei sobre esta cidade, e sobre todas as suas vilas, todo o mal que pronunciei contra ela, porquanto endureceram a sua cerviz, para não ouvirem as minhas palavras. ^v15
+**15** """Assim diz Yahweh dos Exércitos, Deus de Israel: Eis que, trarei sobre esta cidade e sobre todas as cidades, toda a calamidade que proclamei contra ela, pois endureceram seus pescoços e se recusaram a ouvir as minhas Palavras""." ^v15

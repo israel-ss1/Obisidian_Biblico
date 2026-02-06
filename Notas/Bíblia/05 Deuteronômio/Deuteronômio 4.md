@@ -1,105 +1,104 @@
 ---
-Livro: "[[Deuteronômio|Deuteronômio]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Deuteronômio|Deuteronômio]]"
+tags: [biblia]
 ---
 
 # Deuteronômio 4
 
-**1** Agora, pois, ó Israel, ouve os estatutos e os juízos que eu vos ensino, para os cumprirdes; para que vivais, e entreis, e possuais a terra que o SENHOR Deus de vossos pais vos dá. ^v1
+**1** E agora, ó Israel, ouve as leis e decretos que eu te ensino a fim de cumpri-los; para que vivas e tomes posse da terra que Yahweh, o Deus de teus pais, está te dando. ^v1
 
-**2** Não acrescentareis à palavra que vos mando, nem diminuireis dela, para que guardeis os mandamentos do Senhor vosso Deus, que eu vos mando. ^v2
+**2** Não adicionarás nada às palavras que te ordeno, nem diminuirás nada, a fim de cumprir os mandamentos de Yahweh, teu Deus, os quais eu te ordeno. ^v2
 
-**3** Os vossos olhos têm visto o que o Senhor fez por causa de Baal-Peor; pois a todo o homem que seguiu a Baal-Peor o Senhor teu Deus consumiu do meio de ti. ^v3
+**3** Teus olhos viram o que Yahweh fez por causa de Baal-Peor; porque todos os homens que seguiram Baal-Peor, Yahweh, teu Deus, os destruiu do teu meio. ^v3
 
-**4** Porém vós, que vos achegastes ao Senhor vosso Deus, hoje todos estais vivos. ^v4
+**4** Todavia, tu, que te apegaste a Yahweh, teu Deus, estás vivo até hoje, cada um de vós. ^v4
 
-**5** Vedes aqui vos tenho ensinado estatutos e juízos, como me mandou o Senhor meu Deus; para que assim façais no meio da terra a qual ides a herdar. ^v5
+**5** Vede, eu já vos ensinei as leis e decretos, conforme Yahweh, meu Deus havia me ordenado, para obedecê-los no meio da terra que ireis, a fim de possuí-la. ^v5
 
-**6** Guardai-os pois, e cumpri-os, porque isso será a vossa sabedoria e o vosso entendimento perante os olhos dos povos, que ouvirão todos estes estatutos, e dirão: Este grande povo é nação sábia e entendida. ^v6
+**6** No entanto, guardai-os e os cumpri; porque vossa sabedoria e vosso entendimento serão vistos diante das pessoas que ouvirão sobre esses estatutos e dirão: 'Certamente, essa grande nação é de pessoas sábias e de grande entendimento'. ^v6
 
-**7** Pois, que nação há tão grande, que tenha deuses tão chegados como o Senhor nosso Deus, todas as vezes que o invocamos? ^v7
+**7** Pois, que outra grande nação tem um deus tão próximo deles como Yahweh, nosso Deus, está, onde quer que o clamemos? ^v7
 
-**8** E que nação há tão grande, que tenha estatutos e juízos tão justos como toda esta lei que hoje ponho perante vós? ^v8
+**8** Qual outra grande nação tem leis e decretos tão justos como todas estas leis que coloco, hoje, diante vós? ^v8
 
-**9** Tão-somente guarda-te a ti mesmo, e guarda bem a tua alma, que não te esqueças daquelas coisas que os teus olhos têm visto, e não se apartem do teu coração todos os dias da tua vida; e as farás saber a teus filhos, e aos filhos de teus filhos. ^v9
+**9** Apenas prestai atenção e guardai, cuidadosamente, para não vos esquecerdes das coisas que vossos olhos viram, e para que isto não saia do vosso coração, todos os dias da vossa vida. Ao invés disso, tornai conhecido pelos vossos filhos e pelos filhos dos vossos filhos, ^v9
 
-**10** O dia em que estiveste perante o Senhor teu Deus em Horebe, quando o Senhor me disse: Ajunta-me este povo, e os farei ouvir as minhas palavras, e aprendê-las-ão, para me temerem todos os dias que na terra viverem, e as ensinarão a seus filhos; ^v10
+**10** o dia em que ficastes diante de Yahweh, vosso Deus, em Horebe, quando Yahweh me disse: 'Reúna-os para Mim, e Eu farei com que ouçam as Minhas palavras, para aprenderem a temer-Me todos os dias em que viverem na terra, e para ensiná-las a seus filhos'. ^v10
 
-**11** E vós vos chegastes, e vos pusestes ao pé do monte; e o monte ardia em fogo até ao meio dos céus, e havia trevas, e nuvens e escuridão; ^v11
+**11** Vós vos aproximastes e ficastes ao pé da montanha, e esta ardia em fogo até o meio dos céus, com nuvens, densa escuridão e trevas. ^v11
 
-**12** Então o Senhor vos falou do meio do fogo; a voz das palavras ouvistes; porém, além da voz, não vistes figura alguma. ^v12
+**12** Yahweh falou convosco no meio do fogo; vós ouvistes o som destas palavras, mas não vistes forma alguma; somente ouvistes uma voz. ^v12
 
-**13** Então vos anunciou ele a sua aliança que vos ordenou cumprir, os dez mandamentos, e os escreveu em duas tábuas de pedra. ^v13
+**13** Ele vos declarou a aliança que vos ordenou cumprir, os Dez Mandamentos. Escreveu-os em duas tábuas de pedra. ^v13
 
-**14** Também o Senhor me ordenou ao mesmo tempo que vos ensinasse estatutos e juízos, para que os cumprísseis na terra a qual passais a possuir. ^v14
+**14** Yahweh ordenou-me, naquele tempo, a vos ensinar os estatutos e as ordenanças, a fim de que vós os cumprísseis na terra que estais atravessando para tomar posse. ^v14
 
-**15** Guardai, pois, com diligência as vossas almas, pois nenhuma figura vistes no dia em que o Senhor, em Horebe, falou convosco do meio do fogo; ^v15
+**15** Prestai muita atenção, pois vós não vistes nenhum tipo de forma no dia em que Yahweh falou a vós em Horebe do meio do fogo, ^v15
 
-**16** Para que não vos corrompais, e vos façais alguma imagem esculpida na forma de qualquer figura, semelhança de homem ou mulher; ^v16
+**16** para que não vos corrompais e façais imagens esculpidas semelhantemente a qualquer criatura, na forma de homem ou mulher; ^v16
 
-**17** Figura de algum animal que haja na terra; figura de alguma ave alada que voa pelos céus; ^v17
+**17** ou, semelhantemente, a qualquer animal que está sobre a terra; ou, semelhantemente, a qualquer ave que voa nos céus; ^v17
 
-**18** Figura de algum animal que se arrasta sobre a terra; figura de algum peixe que esteja nas águas debaixo da terra; ^v18
+**18** ou, semelhantemente, a qualquer animal que rasteja sobre o chão; ou, semelhantemente, a qualquer peixe que está nas águas debaixo da terra. ^v18
 
-**19** Que não levantes os teus olhos aos céus e vejas o sol, e a lua, e as estrelas, todo o exército dos céus; e sejas impelido a que te inclines perante eles, e sirvas àqueles que o Senhor teu Deus repartiu a todos os povos debaixo de todos os céus. ^v19
+**19** Para que, quando levantardes os vossos olhos aos céus e, vendo o sol, a lua ou as estrelas, todo o exército celestial, não sejais levados a vos prostrardes para adorá-los, pois estas coisas Yahweh, vosso Deus, tem dado e compartilhado com todos as povos debaixo de todo o céu. ^v19
 
-**20** Mas o Senhor vos tomou, e vos tirou da fornalha de ferro do Egito, para que lhe sejais por povo hereditário, como neste dia se vê. ^v20
+**20** Todavia, Yahweh tomou a vós, tirando-vos da fornalha de ferro, fora do Egito, para serdes um povo da Sua própria herança, assim como sois hoje. ^v20
 
-**21** Também o Senhor se indignou contra mim por causa das vossas palavras, e jurou que eu não passaria o Jordão, e que não entraria na boa terra que o Senhor teu Deus te dará por herança. ^v21
+**21** Yahweh Se irou contra mim por vossa causa. Ele jurou que eu não passaria o Jordão, e que eu não entraria na boa terra, a terra que Yahweh, vosso Deus, vos dá como herança. ^v21
 
-**22** Porque eu nesta terra morrerei, não passarei o Jordão; porém vós o passareis, e possuireis aquela boa terra. ^v22
+**22** Ao invés disso, morrerei nesta terra; não passarei o Jordão; mas vós o cruzareis e possuireis essa boa terra. ^v22
 
-**23** Guardai-vos e não vos esqueçais da aliança do Senhor vosso Deus, que tem feito convosco, e não façais para vós escultura alguma, imagem de alguma coisa que o Senhor vosso Deus vos proibiu. ^v23
+**23** Prestai atenção, vós mesmos, para não vos esquecerdes da aliança de Yahweh, vosso Deus, a qual Ele fez convosco, e não façais para vós nenhuma imagem esculpida na forma de tudo o que o Senhor vosso Deus vos proibiu de fazer. ^v23
 
-**24** Porque o Senhor teu Deus é um fogo que consome, um Deus zeloso. ^v24
+**24** Pois o Senhor, vosso Deus é um fogo devorador, um Deus zeloso. ^v24
 
-**25** Quando, pois, gerardes filhos, e filhos de filhos, e vos envelhecerdes na terra, e vos corromperdes, e fizerdes alguma escultura, semelhança de alguma coisa, e fizerdes o que é mau aos olhos do Senhor teu Deus, para o provocar à ira; ^v25
+**25** Quando vós gerardes filhos e os filhos dos vossos filhos, e, quando vós estiverdes na terra por um longo tempo, e, se vos corromperdes a vós mesmos e fizerdes uma figura esculpida na forma de algo, e fizerdes o que é mau aos olhos de Yahweh, vosso Deus, para provocá-lo à ira — ^v25
 
-**26** Hoje tomo por testemunhas contra vós o céu e a terra, que certamente logo perecereis da terra, a qual passais o Jordão para a possuir; não prolongareis os vossos dias nela, antes sereis de todo destruídos. ^v26
+**26** eu chamo os céus e a terra para testemunhar contra vós hoje que vós, em breve, perecereis completamente fora da terra, a qual estais passando pelo Jordão para a possuir; vós não prolongareis os vossos dias, mas sereis completamente destruídos. ^v26
 
-**27** E o Senhor vos espalhará entre os povos, e ficareis poucos em número entre as nações às quais o Senhor vos conduzirá. ^v27
+**27** Yahweh vos espalhará entre os povos e sereis em número reduzido entre as nações para onde Yahweh vos levará. ^v27
 
-**28** E ali servireis a deuses que são obra de mãos de homens, madeira e pedra, que não vêem, nem ouvem, nem comem, nem cheiram. ^v28
+**28** Lá, servireis outros deuses, obras das mãos humanas, deuses de madeira e pedra, os quais não veem, nem escutam, nem comem ou cheiram. ^v28
 
-**29** Então dali buscarás ao Senhor teu Deus, e o acharás, quando o buscares de todo o teu coração e de toda a tua alma. ^v29
+**29** Mas, de lá, buscareis Yahweh, vosso Deus, e vós o achareis, quando vós O buscardes com todo o vosso coração e todo a vossa alma. ^v29
 
-**30** Quando estiverdes em angústia, e todas estas coisas te alcançarem, então nos últimos dias voltarás para o Senhor teu Deus, e ouvirás a sua voz. ^v30
+**30** Quando estiverdes em sofrimento e quando todas estas coisas vierem sobre vós, nestes últimos dias, voltareis para Yahweh, vosso Deus, e ouvireis Sua voz. ^v30
 
-**31** Porquanto o Senhor teu Deus é Deus misericordioso, e não te desamparará, nem te destruirá, nem se esquecerá da aliança que jurou a teus pais. ^v31
+**31** Porque Yahweh, vosso Deus, é Deus misericordioso; Ele não falhará e nem vos destruirá, nem esquecerá da aliança que prometeu aos vossos pais. ^v31
 
-**32** Agora, pois, pergunta aos tempos passados, que te precederam desde o dia em que Deus criou o homem sobre a terra, desde uma extremidade do céu até à outra, se sucedeu jamais coisa tão grande como esta, ou se jamais se ouviu coisa como esta? ^v32
+**32** Perguntai agora sobre os dias do passado, àqueles que existiram bem antes de vós. Desde o dia em que Deus criou o homem na terra, perguntai, de uma extremidade dos céus até a outra, se existiu algo grandioso parecido ou igual a isso que tendes ouvido? ^v32
 
-**33** Ou se algum povo ouviu a voz de Deus falando do meio do fogo, como tu a ouviste, e ficou vivo? ^v33
+**33** Algum povo ouviu a voz de Deus falar do meio do fogo assim como vós ouvistes e vivestes? ^v33
 
-**34** Ou se Deus intentou ir tomar para si um povo do meio de outro povo com provas, com sinais, e com milagres, e com peleja, e com mão forte, e com braço estendido, e com grandes espantos, conforme a tudo quanto o Senhor vosso Deus vos fez no Egito aos vossos olhos? ^v34
+**34** Ou Deus se esforçou para ir e tomar para Si uma nação do meio de outras nações, por meio de provas, sinais e maravilhas, por meio de guerras e por mão poderosa, pelo braço estendido e por grande terror, como tudo o que Yahweh, vosso Deus, fez por vós no Egito diante dos vossos olhos? ^v34
 
-**35** A ti te foi mostrado para que soubesses que o Senhor é Deus; nenhum outro há senão ele. ^v35
+**35** Estas coisas foram mostradas a vós, para que soubésseis que Yahweh é Deus e que não existe outro diante Dele. ^v35
 
-**36** Desde os céus te fez ouvir a sua voz, para te ensinar, e sobre a terra te mostrou o seu grande fogo, e ouviste as suas palavras do meio do fogo. ^v36
+**36** Ele fez ouvir a Sua voz acima dos céus, a fim de vos instruir; na terra, Ele vos mostrou Seu grande fogo; vós ouvistes Suas palavras do meio do fogo. ^v36
 
-**37** E, porquanto amou teus pais, e escolheu a sua descendência depois deles, te tirou do Egito diante de si, com a sua grande força, ^v37
+**37** Porque Ele amou vossos pais, não somente escolheu a descendência deles, mas também os resgatou do Egito com Sua presença e com Seu grande poder, ^v37
 
-**38** Para lançar fora de diante de ti nações maiores e mais poderosas do que tu, para te introduzir e te dar a sua terra por herança, como neste dia se vê. ^v38
+**38** a fim de expulsar diante de vós nações grandes e mais poderosas, para ali vos levar, para vos dar por herança a terra delas, como vedes neste dia. ^v38
 
-**39** Por isso hoje saberás, e refletirás no teu coração, que só o Senhor é Deus, em cima no céu e em baixo na terra; nenhum outro há. ^v39
+**39** Hoje, todavia, sabei e considerai, em vosso coração, que só Yahweh é Deus, acima dos céus e embaixo, na terra. Não existe outro igual a Ele. ^v39
 
-**40** E guardarás os seus estatutos e os seus mandamentos, que te ordeno hoje para que te vá bem a ti, e a teus filhos depois de ti, e para que prolongues os dias na terra que o Senhor teu Deus te dá para todo o sempre. ^v40
+**40** "Mantereis Seus estatutos e mandamentos, que hoje vos ordeno, para que vivais bem, vós e vossos filhos, e para prolongardes vossos dias na terra que Yahweh, vosso Deus, vos dá para sempre""." ^v40
 
-**41** Então Moisés separou três cidades além do Jordão, do lado do nascimento do sol; ^v41
+**41** Então, Moisés selecionou três cidades do lado leste do rio Jordão, ^v41
 
-**42** Para que ali se acolhesse o homicida que involuntariamente matasse o seu próximo a quem dantes não tivesse ódio algum; e se acolhesse a uma destas cidades, e vivesse; ^v42
+**42** para as quais qualquer pessoa pudesse se refugiar, se ela matasse uma pessoa acidentalmente, sem que ela fosse sua inimiga anteriormente. Refugiando-se nessas cidades, ela poderia sobreviver. ^v42
 
-**43** A Bezer, no deserto, no planalto, para os rubenitas; e a Ramote, em Gileade, para os gaditas; e a Golã, em Basã, para os manassitas. ^v43
+**43** São elas: Bezer, no deserto, no planalto para os rubenitas; Ramote, em Gileade, para os gaditas; e Golã, em Basã, para os manassitas. ^v43
 
-**44** Esta é, pois, a lei que Moisés propôs aos filhos de Israel. ^v44
+**44** Esta é a lei que Moisés apresentou diante do povo de Israel; ^v44
 
-**45** Estes são os testemunhos, e os estatutos, e os juízos, que Moisés falou aos filhos de Israel, havendo saído do Egito; ^v45
+**45** esses são os estatutos, as leis e outros decretos que Moisés falou ao povo de Israel quando eles saíram do Egito, ^v45
 
-**46** Além do Jordão, no vale defronte de Bete-Peor, na terra de Siom, rei dos amorreus, que habitava em Hesbom, a quem feriu Moisés e os filhos de Israel, havendo eles saído do Egito. ^v46
+**46** quando eles estavam no leste do Jordão, no vale defronte a Bete-Peor, na terra de Siom, rei dos amorreus, que viviam em Hesbom, a quem Moisés e o povo de Israel derrotaram quando saíram do Egito. ^v46
 
-**47** E tomaram a sua terra em possessão, como também a terra de Ogue, rei de Basã, dois reis dos amorreus, que estavam além do Jordão, do lado do nascimento do sol. ^v47
+**47** Eles tomaram suas terras como uma posse e a terra de Ogue, rei de Basã, sendo esses dois reis dos amorreus, os quais estavam entre o Jordão, em direção ao leste. ^v47
 
-**48** Desde Aroer, que está à margem do ribeiro de Arnom, até ao monte Sião, que é Hermom, ^v48
+**48** Este território veio desde Aroer, na beira do vale do Arnon, até o monte de Siom, que é o monte Hermon, ^v48
 
-**49** E toda a campina além do Jordão, do lado do oriente, até ao mar da campina, abaixo de Asdote-Pisga. ^v49
+**49** e incluía toda a planície do vale do rio Jordão, para o leste, além do Jordão, em direção ao mar de Arabá, nas encostas do monte Pisga. ^v49

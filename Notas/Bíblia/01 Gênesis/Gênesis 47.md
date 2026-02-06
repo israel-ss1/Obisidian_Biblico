@@ -1,69 +1,68 @@
 ---
-Livro: "[[Gênesis|Gênesis]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Gênesis|Gênesis]]"
+tags: [biblia]
 ---
 
 # Gênesis 47
 
-**1** Então veio José e anunciou a Faraó, e disse: Meu pai e os meus irmãos e as suas ovelhas, e as suas vacas, com tudo o que têm, são vindos da terra de Canaã, e eis que estão na terra de Gósen. ^v1
+**1** "Depois José foi e contou ao Faraó: ""Meu pai e meus irmãos, suas ovelhas, seus rebanhos e tudo o que têm chegaram da terra de Canaã; e estão na terra de Gosén""." ^v1
 
-**2** E tomou uma parte de seus irmãos, a saber, cinco homens, e os pôs diante de Faraó. ^v2
+**2** Ele escolheu cinco de seus irmãos e os apresentou ao Faraó. ^v2
 
-**3** Então disse Faraó a seus irmãos: Qual é o vosso negócio? E eles disseram a Faraó: Teus servos são pastores de ovelhas, tanto nós como nossos pais. ^v3
+**3** "Faraó disse aos irmãos de José : ""Qual é a vossa ocupação?"" E eles lhe responderam: ""Teus servos são pastores de ovelhas, assim como nossos antepassados""." ^v3
 
-**4** Disseram mais a Faraó: Viemos para peregrinar nesta terra; porque não há pasto para as ovelhas de teus servos, porquanto a fome é grave na terra de Canaã; agora, pois, rogamos-te que teus servos habitem na terra de Gósen. ^v4
+**4** "Depois eles disseram: ""Nós viemos como forasteiros a esta terra, porque a fome é severa na terra de Canaã, e não há pastos para as ovelhas de teus servos. Então agora, por favor, deixa que teus servos vivam na terra de Gosén""." ^v4
 
-**5** Então falou Faraó a José, dizendo: Teu pai e teus irmãos vieram a ti; ^v5
+**5** "Depois Faraó falou com José e disse-lhe: ""Teu pai e teus irmãos vieram a ti." ^v5
 
-**6** A terra do Egito está diante de ti; no melhor da terra faze habitar teu pai e teus irmãos; habitem na terra de Gósen, e se sabes que entre eles há homens valentes, os porás por maiorais do gado, sobre o que eu tenho. ^v6
+**6** "A terra do Egito está diante de ti. Que o teu pai e os teus irmãos habitem na melhor região, a terra de Gosén. Se tu conheces alguém capaz dentre eles, coloque-o como encarregado de meu rebanho""." ^v6
 
-**7** E trouxe José a Jacó, seu pai, e o apresentou a Faraó; e Jacó abençoou a Faraó. ^v7
+**7** Então José trouxe seu pai e o apresentou a Faraó. Jacó abençoou Faraó. ^v7
 
-**8** E Faraó disse a Jacó: Quantos são os dias dos anos da tua vida? ^v8
+**8** "Faraó disse a Jacó: ""Quantos anos tens?""" ^v8
 
-**9** E Jacó disse a Faraó: Os dias dos anos das minhas peregrinações são cento e trinta anos, poucos e maus foram os dias dos anos da minha vida, e não chegaram aos dias dos anos da vida de meus pais nos dias das suas peregrinações. ^v9
+**9** "Jacó lhe respondeu: ""Os anos de minhas peregrinações são cento e trinta anos. Os anos de minha vida são poucos e dolorosos. Eles não têm sido longos como os de meus antepassados.""" ^v9
 
-**10** E Jacó abençoou a Faraó, e saiu da sua presença. ^v10
+**10** E Jacó abençoou Faraó e retirou-se de sua presença. ^v10
 
-**11** E José fez habitar a seu pai e seus irmãos e deu-lhes possessão na terra do Egito, no melhor da terra, na terra de Ramessés, como Faraó ordenara. ^v11
+**11** Então José estabeleceu seu pai e seus irmãos. Ele deu-lhes um território nas terras do Egito, o melhor dessa terra, na terra de Ramessés, como Faraó havia ordenado. ^v11
 
-**12** E José sustentou de pão a seu pai, seus irmãos e toda a casa de seu pai, segundo as suas famílias. ^v12
+**12** José providenciou alimento para seu pai e seus irmãos e para toda a casa de seu pai, de acordo com o número de seus filhos. ^v12
 
-**13** E não havia pão em toda a terra, porque a fome era muito grave; de modo que a terra do Egito e a terra de Canaã desfaleciam por causa da fome. ^v13
+**13** Agora não havia alimento em toda aquela terra, pois a fome era severa. A terra do Egito e a terra de Canaã estavam desoladas por causa da fome. ^v13
 
-**14** Então José recolheu todo o dinheiro que se achou na terra do Egito, e na terra de Canaã, pelo trigo que compravam; e José trouxe o dinheiro à casa de Faraó. ^v14
+**14** José arrecadou todo o dinheiro que havia na terra do Egito e na terra de Canaã, vendendo grãos aos que ali habitavam, depois José levou o dinheiro ao palácio do Faraó. ^v14
 
-**15** Acabando-se, pois, o dinheiro da terra do Egito, e da terra de Canaã, vieram todos os egípcios a José, dizendo: Dá-nos pão; por que morreremos em tua presença? porquanto o dinheiro nos falta. ^v15
+**15** "Quando todo o dinheiro das terras do Egito e Canaã acabou, todos os egípcios vieram a José dizendo: ""Dá-nos alimento! Deveríamos morrer em tua presença porque não temos mais dinheiro?""" ^v15
 
-**16** E José disse: Dai o vosso gado, e eu vo-lo darei por vosso gado, se falta o dinheiro. ^v16
+**16** "José respondeu-lhes: ""Se vosso dinheiro acabou, trazei vossos rebanhos e eu vos darei alimento em troca do vosso rebanho""." ^v16
 
-**17** Então trouxeram o seu gado a José; e José deu-lhes pão em troca de cavalos, e das ovelhas, e das vacas e dos jumentos; e os sustentou de pão aquele ano por todo o seu gado. ^v17
+**17** Então eles trouxeram seus rebanhos a José. José deu-lhes alimento em troca de cavalos, ovelhas, gado e jumentos. Alimentou-os com pão em troca de todo o rebanho aquele ano. ^v17
 
-**18** E acabado aquele ano, vieram a ele no segundo ano e disseram-lhe: Não ocultaremos ao meu senhor que o dinheiro acabou; e meu senhor possui os animais, e nenhuma outra coisa nos ficou diante de meu senhor, senão o nosso corpo e a nossa terra; ^v18
+**18** "Quando aquele ano terminou, eles vieram a José, no ano seguinte, dizendo: ""Não esconderemos de nosso senhor que nosso dinheiro acabou, e o senhor já possui nossos rebanhos de gado. Nada restou à vista de meu senhor, exceto nossos corpos e nossas terras." ^v18
 
-**19** Por que morreremos diante dos teus olhos, tanto nós como a nossa terra? Compra-nos a nós e a nossa terra por pão, e nós e a nossa terra seremos servos de Faraó; e dá-nos semente, para que vivamos, e não morramos, e a terra não se desole. ^v19
+**19** "Porque deveríamos morrer, tanto nós como nossas terras diante de teus olhos? Comprai nossas terras em troca de alimento e nós e nossas terras seremos servos do Faraó. Dá-nos sementes para que possamos viver e não morrer, e para que a terra não se torne desolada""." ^v19
 
-**20** Assim José comprou toda a terra do Egito para Faraó, porque os egípcios venderam cada um o seu campo, porquanto a fome prevaleceu sobre eles; e a terra ficou sendo de Faraó. ^v20
+**20** Assim José adquiriu toda a terra do Egito para Faraó. Cada egípcio vendeu seus campos, pois a fome era muito severa. Dessa forma, a terra se tornou do Faraó. ^v20
 
-**21** E, quanto ao povo, fê-lo passar às cidades, desde uma extremidade da terra do Egito até a outra extremidade. ^v21
+**21** E o povo se tornou escravo de um extremo a outro da terra do Egito. ^v21
 
-**22** Somente a terra dos sacerdotes não a comprou, porquanto os sacerdotes tinham porção de Faraó, e eles comiam a sua porção que Faraó lhes tinha dado; por isso não venderam a sua terra. ^v22
+**22** Apenas não comprou a terra dos sacerdotes, porque aos sacerdotes eram dadas porções de alimento. Eles sustentavam-se da porção que lhes era dada por Faraó. Portanto não venderam suas terras. ^v22
 
-**23** Então disse José ao povo: Eis que hoje tenho comprado a vós e a vossa terra para Faraó; eis aí tendes semente para vós, para que semeeis a terra. ^v23
+**23** "José disse ao povo: ""Vede, eu vos comprei e comprei vossas terras hoje para o Faraó. Agora aqui estão sementes para vós, e vós plantareis na terra." ^v23
 
-**24** Há de ser, porém, que das colheitas dareis o quinto a Faraó, e as quatro partes serão vossas, para semente do campo, e para o vosso mantimento, e dos que estão nas vossas casas, e para que comam vossos filhos. ^v24
+**24** "Na colheita, dareis a quinta parte ao Faraó, e quatro partes serão vossas, para semear o campo e para servir de alimento às vossas famílias e aos vossos filhos"". >>>>>>> 0a635dcc6190707faa8dcae4c7525e1fb6fddd4e" ^v24
 
-**25** E disseram: A vida nos tens dado; achemos graça aos olhos de meu senhor, e seremos servos de Faraó. ^v25
+**25** "Eles responderam: ""Tu salvaste nossas vidas. Achamos favor diante de teus olhos. Seremos escravos de Faraó""." ^v25
 
-**26** José, pois, estabeleceu isto por estatuto, até ao dia de hoje, sobre a terra do Egito, que Faraó tirasse o quinto; só a terra dos sacerdotes não ficou sendo de Faraó. ^v26
+**26** Então José fez disso um decreto que permanece na terra do Egito até hoje: a quinta parte pertence ao Faraó. Apenas a terra dos sacerdotes não se tornou propriedade de Faraó. ^v26
 
-**27** Assim habitou Israel na terra do Egito, na terra de Gósen, e nela tomaram possessão, e frutificaram, e multiplicaram-se muito. ^v27
+**27** Assim Israel viveu na terra do Egito, na terra de Gosén. Seu povo ganhou posses ali. Eles frutificaram e multiplicaram-se grandemente. ^v27
 
-**28** E Jacó viveu na terra do Egito dezessete anos, de sorte que os dias de Jacó, os anos da sua vida, foram cento e quarenta e sete anos. ^v28
+**28** Jacó viveu na terra do Egito dezessete anos, então os anos da vida de Jacó foram cento e quarenta e sete anos. ^v28
 
-**29** Chegando-se, pois, o tempo da morte de Israel, chamou a José, seu filho, e disse-lhe: Se agora tenho achado graça em teus olhos, rogo-te que ponhas a tua mão debaixo da minha coxa, e usa comigo de beneficência e verdade; rogo-te que não me enterres no Egito, ^v29
+**29** "Quando o tempo da morte de Israel se aproximava, ele chamou seu filho José e disse-lhe: ""Se agora eu encontrar favor em ti, coloca a tua mão embaixo de minha coxa e mostra-me fidelidade e confiabilidade. Por favor, não me enterres no Egito." ^v29
 
-**30** Mas que eu jaza com os meus pais; por isso me levarás do Egito e me enterrarás na sepultura deles. E ele disse: Farei conforme a tua palavra. ^v30
+**30** "Quando eu adormecer com meus pais, leva-me para fora do Egito e enterra-me junto a meus pais"". José respondeu-lhe: ""Eu farei como disseste""." ^v30
 
-**31** E disse ele: Jura-me. E ele jurou-lhe; e Israel inclinou-se sobre a cabeceira da cama. ^v31
+**31** "Israel disse: ""Jure a mim"", e José jurou a ele. Depois Israel inclinou-se sobre a cabeceira de sua cama." ^v31

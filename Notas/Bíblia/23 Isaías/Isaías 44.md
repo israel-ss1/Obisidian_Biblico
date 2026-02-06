@@ -1,63 +1,62 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Isaías|Isaías]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Isaías|Isaías]]"
+tags: [biblia]
 ---
 
 # Isaías 44
 
-**1** Agora, pois, ouve, ó Jacó, servo meu, e tu, ó Israel, a quem escolhi. ^v1
+**1** Agora ouve, Jacó, Meu servo, ó Israel, a quem Eu escolhi: ^v1
 
-**2** Assim diz o Senhor que te criou e te formou desde o ventre, e que te ajudará: Não temas, ó Jacó, servo meu, e tu, Jesurum, a quem escolhi. ^v2
+**2** "Isto é o que Yahweh diz, Aquele que te criou e te formou no ventre e que te ajudará: ""Não temas, Jacó, Meu servo; e tu, Jesurum, a quem Eu escolhi." ^v2
 
-**3** Porque derramarei água sobre o sedento, e rios sobre a terra seca; derramarei o meu Espírito sobre a tua posteridade, e a minha bênção sobre os teus descendentes. ^v3
+**3** Porque Eu derramarei água na terra sedenta e ribeiros sobre a terra seca; Eu derramarei Meu Espírito sobre a tua descendência e a Minha bênção sobre os teus filhos. ^v3
 
-**4** E brotarão como a erva, como salgueiros junto aos ribeiros das águas. ^v4
+**4** Eles brotarão em meio à grama, como salgueiros junto a correntes de águas. ^v4
 
-**5** Este dirá: Eu sou do Senhor; e aquele se chamará do nome de Jacó; e aquele outro escreverá com a sua mão ao Senhor, e por sobrenome tomará o nome de Israel. ^v5
+**5** "Um dirá: 'Eu pertenço a Yahweh'; outro se chamará pelo nome de Jacó; outro escreverá, em sua mão, 'Pertenço a Yahweh', e será chamado pelo nome de Israel""." ^v5
 
-**6** Assim diz o Senhor, Rei de Israel, e seu Redentor, o Senhor dos Exércitos: Eu sou o primeiro, e eu sou o último, e fora de mim não há Deus. ^v6
+**6** "Isto é o que Yahweh diz, o Rei de Israel e seu Redentor, Yahweh dos Exércitos: ""Eu Sou o primeiro e o último. Não há outro Deus além de Mim." ^v6
 
-**7** E quem proclamará como eu, e anunciará isto, e o porá em ordem perante mim, desde que ordenei um povo eterno? E anuncie-lhes as coisas vindouras, e as que ainda hão de vir. ^v7
+**7** Quem é igual a Mim? Que o anuncie e explique os eventos que ocorreram desde que Eu estabeleci Meu povo antigo; que declarem os eventos que estão por vir. ^v7
 
-**8** Não vos assombreis, nem temais; porventura desde então não vo-lo fiz ouvir, e não vo-lo anunciei? Porque vós sois as minhas testemunhas. Porventura há outro Deus fora de mim? Não, não há outra Rocha que eu conheça. ^v8
+**8** "Não temais, nem vos espanteis. Eu não declarei isso há muito tempo e não o anunciei? Vós sois Minhas testemunhas: há outro Deus além de Mim? Não há outra Rocha; Eu não conheço nenhuma""." ^v8
 
-**9** Todos os artífices de imagens de escultura são vaidade, e as suas coisas mais desejáveis são de nenhum préstimo; e suas próprias testemunhas, nada vêem nem entendem para que sejam envergonhados. ^v9
+**9** Todos os que fazem ídolos são nada. As coisas nas quais se deleitam são inúteis; suas testemunhas não podem ver ou saber de nada, e eles serão envergonhados. ^v9
 
-**10** Quem forma um deus, e funde uma imagem de escultura, que é de nenhum préstimo? ^v10
+**10** Quem formaria um deus ou fundiria um ídolo que é inútil? ^v10
 
-**11** Eis que todos os seus companheiros ficarão confundidos, pois os mesmos artífices não passam de homens; ajuntem-se todos, e levantem-se; assombrar-se-ão, e serão juntamente confundidos. ^v11
+**11** Eis que todos os seus companheiros serão envergonhados. Os artesãos são apenas homens. Que eles se apresentem juntos; eles se acovardarão e serão envergonhados. ^v11
 
-**12** O ferreiro, com a tenaz, trabalha nas brasas, e o forma com martelos, e o lavra com a força do seu braço; ele tem fome e a sua força enfraquece, e não bebe água, e desfalece. ^v12
+**12** O ferreiro trabalha com suas ferramentas e forma o ídolo, trabalhando sobre as brasas. Ele o molda com os martelos e trabalha nisso com seu braço forte. Ele passa a ter fome e sua força diminui; ele não bebe água e fica enfraquecido. ^v12
 
-**13** O carpinteiro estende a régua, desenha-o com uma linha, aplaina-o com a plaina, e traça-o com o compasso; e o faz à semelhança de um homem, segundo a forma de um homem, para ficar em casa. ^v13
+**13** O carpinteiro mede a madeira com uma linha e a marca com um lápis. Ele lhe dá forma com suas ferramentas e a marca com um compasso. Ele a molda conforme a figura de um homem, com a beleza de um ser humano, para ficar em uma casa. ^v13
 
-**14** Quando corta para si cedros, toma, também, o cipreste e o carvalho; assim escolhe dentre as árvores do bosque; planta um olmeiro, e a chuva o faz crescer. ^v14
+**14** Ele corta os cedros, ou escolhe um cipreste ou um carvalho. Ele mesmo busca árvores na floresta; planta um pinheiro e a chuva o faz crescer. ^v14
 
-**15** Então serve ao homem para queimar; e toma deles, e se aquenta, e os acende, e coze o pão; também faz um deus, e se prostra diante dele; também fabrica uma imagem de escultura, e ajoelha-se diante dela. ^v15
+**15** E utiliza a madeira para fogo e para aquecer a si próprio. Sim, ele acende o fogo e assa o pão. Então, dela, ele faz um deus, e se curva perante ele; faz um ídolo e se prostra diante dele. ^v15
 
-**16** Metade dele queima no fogo, com a outra metade prepara a carne para comer, assa-a e farta-se dela; também se aquenta, e diz: Ora já me aquentei, já vi o fogo. ^v16
+**16** "Ele queima parte da madeira no fogo, onde assa sua carne. Então, come e se satisfaz. Ele se aquece e diz: ""Ah, eu me aqueço, estou vendo o fogo""." ^v16
 
-**17** Então do resto faz um deus, uma imagem de escultura; ajoelha-se diante dela, e se inclina, e roga-lhe, e diz: Livra-me, porquanto tu és o meu deus. ^v17
+**17** "Com o restante da madeira, ele faz um deus, uma imagem esculpida; ele se curva perante ela e a reverencia; ora a ela, dizendo: ""Resgata-me, porque tu és o meu deus""." ^v17
 
-**18** Nada sabem, nem entendem; porque tapou os olhos para que não vejam, e os seus corações para que não entendam. ^v18
+**18** Eles não sabem, nem mesmo entendem, porque seus olhos estão cegos e não podem ver, e seus corações não podem perceber. ^v18
 
-**19** E nenhum deles cai em si, e já não têm conhecimento nem entendimento para dizer: Metade queimei no fogo, e cozi pão sobre as suas brasas, assei sobre elas carne, e a comi; e faria eu do resto uma abominação? Ajoelhar-me-ei ao que saiu de uma árvore? ^v19
+**19** "Ninguém pensa; não há compreensão para dizer: ""Eu queimei parte da madeira no fogo; sim, eu também assei pão sobre as suas brasas. Eu assei carne sobre essas brasas e comi. Agora deveria eu fazer da outra parte da madeira alguma coisa repugnante para adorar? Deveria eu me prostrar a um pedaço de madeira?""." ^v19
 
-**20** Apascenta-se de cinza; o seu coração enganado o desviou, de maneira que já não pode livrar a sua alma, nem dizer: Porventura não há uma mentira na minha mão direita? ^v20
+**20** "É como se ele estivesse comendo cinzas; seu coração enganoso o desviou. Ele não pode resgatar a si mesmo, nem dizer: ""Esta coisa na minha mão direita é um falso deus""." ^v20
 
-**21** Lembra-te destas coisas, ó Jacó, e Israel, porquanto és meu servo; eu te formei, meu servo és, ó Israel, não me esquecerei de ti. ^v21
+**21** Pensa sobre essas coisas, ó Jacó, pois tu és o Meu servo, ó Israel: Eu te formei, tu és Meu servo. Israel, tu não serás esquecido por Mim. ^v21
 
-**22** Apaguei as tuas transgressões como a névoa, e os teus pecados como a nuvem; torna-te para mim, porque eu te remi. ^v22
+**22** Eu desfiz teus atos rebeldes como uma nuvem espessa; e os teus pecados, como uma nuvem. Volta-te para Mim, porque Eu te redimi. ^v22
 
-**23** Cantai alegres, vós, ó céus, porque o Senhor o fez; exultai vós, as partes mais baixas da terra; vós, montes, retumbai com júbilo; também vós, bosques, e todas as suas árvores; porque o Senhor remiu a Jacó, e glorificou-se em Israel. ^v23
+**23** Cantai, ó céus, porque Yahweh fez isto; exultai, regiões mais baixas da terra. Irrompam com júbilo, vós, montes, e também vós, florestas e todas as vossas árvores, porque Yahweh redimiu Jacó e mostrará a Sua glória em Israel. ^v23
 
-**24** Assim diz o Senhor, teu redentor, e que te formou desde o ventre: Eu sou o Senhor que faço tudo, que sozinho estendo os céus, e espraio a terra por mim mesmo; ^v24
+**24** "Isto é o que Yahweh diz, o teu Redentor, Aquele que te formou desde o ventre: ""Eu sou Yahweh, que fiz todas as coisas; que, sozinho, estendi os céus; sozinho, formei a terra." ^v24
 
-**25** Que desfaço os sinais dos inventores de mentiras, e enlouqueço os adivinhos; que faço tornar atrás os sábios, e converto em loucura o conhecimento deles; ^v25
+**25** Eu que frustro os presságios dos faladores fúteis e desonro aqueles que leem premunições; Eu que derrubo a sabedoria dos sábios e faço dos seus conselhos tolices. ^v25
 
-**26** Que confirmo a palavra do seu servo, e cumpro o conselho dos seus mensageiros; que digo a Jerusalém: Tu serás habitada, e às cidades de Judá: Sereis edificadas, e eu levantarei as suas ruínas; ^v26
+**26** Eu, Yahweh, que cumpro as declarações do Meu servo e trago o conselho dos Meus mensageiros; que digo de Jerusalém: 'Ela será habitada', e, das cidades de Judá: 'Elas serão construídas novamente e Eu levantarei os seus lugares devastados'; ^v26
 
-**27** Que digo à profundeza: Seca-te, e eu secarei os teus rios. ^v27
+**27** que digo ao profundo mar: 'Seca-te, e Eu secarei as tuas correntes'. ^v27
 
-**28** Que digo de Ciro: É meu pastor, e cumprirá tudo o que me apraz, dizendo também a Jerusalém: Tu serás edificada; e ao templo: Tu serás fundado. ^v28
+**28** "Yahweh é quem diz de Ciro: 'Ele é o Meu pastor, e fará tudo o que Eu desejo; ele decretará sobre Jerusalém: 'Ela será reconstruída'; e, sobre o templo: 'Suas fundações serão estabelecidas'""." ^v28

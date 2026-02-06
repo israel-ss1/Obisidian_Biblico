@@ -1,125 +1,124 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Lucas|Lucas]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Lucas|Lucas]]"
+tags: [biblia]
 ---
 
 # Lucas 12
 
-**1** Ajuntando-se entretanto muitos milhares de pessoas, de sorte que se atropelavam uns aos outros, começou a dizer aos seus discípulos: Acautelai-vos primeiramente do fermento dos fariseus, que é a hipocrisia. ^v1
+**1** Enquanto isso, milhares de pessoas estavam reunidas ali, ao ponto de estarem até pisando umas nas outras. Ele começou a dizer, primeiro aos seus discípulos: “Cuidado com o fermento dos fariseus, que é a hipocrisia. ^v1
 
-**2** Mas nada há encoberto que não haja de ser descoberto; nem oculto, que não haja de ser sabido. ^v2
+**2** Pois não há nada oculto que não venha a ser revelado e nada escondido que não venha a ser conhecido. ^v2
 
-**3** Porquanto tudo o que em trevas dissestes, à luz será ouvido; e o que falastes ao ouvido no gabinete, sobre os telhados será apregoado. ^v3
+**3** Então o que vós tiverdes dito às escuras será ouvido à luz e o que vós tiverdes falado aos ouvidos no interior das casas será proclamado de cima das casas. ^v3
 
-**4** E digo-vos, amigos meus: Não temais os que matam o corpo e, depois, não têm mais que fazer. ^v4
+**4** Mas Eu vos digo, meus amigos, não temais aqueles que matam o corpo e que depois disso nada mais podem fazer. ^v4
 
-**5** Mas eu vos mostrarei a quem deveis temer; temei aquele que, depois de matar, tem poder para lançar no inferno; sim, vos digo, a esse temei. ^v5
+**5** Mas Eu vos alertarei sobre quem deveis temer. Temei Aquele que, depois de ter matado, tem autoridade para lançar no inferno. Sim, eu vos digo, a Ele temei. ^v5
 
-**6** Não se vendem cinco passarinhos por dois ceitis? E nenhum deles está esquecido diante de Deus. ^v6
+**6** Não são dois pardais vendidos por duas moedinhas? Ainda assim nenhum deles é esquecido diante de Deus. ^v6
 
-**7** E até os cabelos da vossa cabeça estão todos contados. Não temais pois; mais valeis vós do que muitos passarinhos. ^v7
+**7** Até mesmo os cabelos da vossa cabeça estão contados. Não temais. Vós sois mais valiosos que muitos pardais. ^v7
 
-**8** E digo-vos que todo aquele que me confessar diante dos homens também o Filho do homem o confessará diante dos anjos de Deus. ^v8
+**8** Eu vos digo que todo aquele que Me confessar diante dos homens, o Filho do Homem também o confessará diante dos anjos de Deus, ^v8
 
-**9** Mas quem me negar diante dos homens será negado diante dos anjos de Deus. ^v9
+**9** mas aquele que Me negar diante dos homens, será negado diante dos anjos de Deus. ^v9
 
-**10** E a todo aquele que disser uma palavra contra o Filho do homem ser-lhe-á perdoada, mas ao que blasfemar contra o Espírito Santo não lhe será perdoado. ^v10
+**10** Aquele que falar uma palavra contra o Filho do Homem, isso lhe será perdoado, mas aquele que blasfemar contra o Espírito Santo, isso não lhe será perdoado. ^v10
 
-**11** E, quando vos conduzirem às sinagogas, aos magistrados e potestades, não estejais solícitos de como ou do que haveis de responder, nem do que haveis de dizer. ^v11
+**11** Quando vos levarem diante das sinagogas, dos chefes e das autoridades, não vos preocupeis como falar em sua defesa ou o que ireis dizer, ^v11
 
-**12** Porque na mesma hora vos ensinará o Espírito Santo o que vos convenha falar. ^v12
+**12** pois o Espírito Santo vos ensinará naquela hora o que deveis dizer. ^v12
 
-**13** E disse-lhe um da multidão: Mestre, dize a meu irmão que reparta comigo a herança. ^v13
+**13** Então alguém da multidão Lhe disse: “Mestre, dize a meu irmão que divida a herança comigo.” ^v13
 
-**14** Mas ele lhe disse: Homem, quem me pôs a mim por juiz ou repartidor entre vós? ^v14
+**14** Jesus respondeu-lhe: “Homem, quem Me fez juiz ou mediador sobre vós?” ^v14
 
-**15** E disse-lhes: Acautelai-vos e guardai-vos da avareza; porque a vida de qualquer não consiste na abundância do que possui. ^v15
+**15** Depois disse a multidão: “Cuidai para que vos guardeis de todos os desejos gananciosos, pois a vida de alguém não consiste na abundância de seus bens.” ^v15
 
-**16** E propôs-lhe uma parábola, dizendo: A herdade de um homem rico tinha produzido com abundância; ^v16
+**16** Então Jesus contou-lhes uma parábola: “O campo de um homem rico produziu abundantemente ^v16
 
-**17** E arrazoava ele entre si, dizendo: Que farei? Não tenho onde recolher os meus frutos. ^v17
+**17** e ele pensou consigo mesmo: 'Eu não tenho espaço para armazenar toda a minha colheita. O que farei?'. ^v17
 
-**18** E disse: Farei isto: Derrubarei os meus celeiros, e edificarei outros maiores, e ali recolherei todas as minhas novidades e os meus bens; ^v18
+**18** Ele disse: 'Isso é o que farei, derrubarei meus celeiros e construirei outros maiores para armazenar todos os meus grãos e outros bens. ^v18
 
-**19** E direi a minha alma: Alma, tens em depósito muitos bens para muitos anos; descansa, come, bebe e folga. ^v19
+**19** Direi a minha alma: 'Alma, tens muitos bens armazenados para muitos anos. Descansa tranquila, come, bebe e alegra-te.' ^v19
 
-**20** Mas Deus lhe disse: Louco! esta noite te pedirão a tua alma; e o que tens preparado, para quem será? ^v20
+**20** Mas Deus disse a ele: 'Louco! Esta noite te pedirão a tua alma e o que tens preparado, para quem será?'. ^v20
 
-**21** Assim é aquele que para si ajunta tesouros, e não é rico para com Deus. ^v21
+**21** "Assim é alguém que armazena tesouros para si e não é rico para com Deus""." ^v21
 
-**22** E disse aos seus discípulos: Portanto vos digo: Não estejais apreensivos pela vossa vida, sobre o que comereis, nem pelo corpo, sobre o que vestireis. ^v22
+**22** Jesus disse aos seus discípulos: “Portanto Eu vos digo que não vos preocupeis com vossas vidas, quanto ao que haveis de comer; ou com os vossos corpos, quanto ao que haveis de vestir. ^v22
 
-**23** Mais é a vida do que o sustento, e o corpo mais do que as vestes. ^v23
+**23** Pois a vida é mais do que comida e o corpo mais do que vestimentas. ^v23
 
-**24** Considerai os corvos, que nem semeiam, nem segam, nem têm despensa nem celeiro, e Deus os alimenta; quanto mais valeis vós do que as aves? ^v24
+**24** Considerai os corvos. Eles não semeiam nem colhem. Eles não têm despensa nem celeiro, mas Deus os alimenta. Quanto mais valeis vós do que as aves! ^v24
 
-**25** E qual de vós, sendo solícito, pode acrescentar um côvado à sua estatura? ^v25
+**25** E qual de vós que, por estar ansioso, pode acrescentar um côvado à sua vida? ^v25
 
-**26** Pois, se nem ainda podeis as coisas mínimas, por que estais ansiosos pelas outras? ^v26
+**26** Se então vós não sois capazes de fazer nem mesmo as mínimas coisas, por que vos preocupais com as demais? ^v26
 
-**27** Considerai os lírios, como eles crescem; não trabalham, nem fiam; e digo-vos que nem ainda Salomão, em toda a sua glória, se vestiu como um deles. ^v27
+**27** Considerai os lírios e como eles crescem. Eles não trabalham nem fiam. Contudo eu vos digo que nem mesmo Salomão, em toda a sua glória, se vestiu como um deles. ^v27
 
-**28** E, se Deus assim veste a erva que hoje está no campo e amanhã é lançada no forno, quanto mais a vós, homens de pouca fé? ^v28
+**28** Se assim Deus veste a erva do campo que hoje existe e amanhã é lançada no forno, muito mais vestirá a vós, ó homens de pouca fé! ^v28
 
-**29** Não pergunteis, pois, que haveis de comer, ou que haveis de beber, e não andeis inquietos. ^v29
+**29** Não busqueis o que comer ou o que beber, não fiqueis ansiosos. ^v29
 
-**30** Porque as nações do mundo buscam todas essas coisas; mas vosso Pai sabe que precisais delas. ^v30
+**30** Pois todas as nações do mundo buscam essas coisas e seu Pai sabe que vós precisais delas. ^v30
 
-**31** Buscai antes o reino de Deus, e todas estas coisas vos serão acrescentadas. ^v31
+**31** Antes buscai o Seu Reino e essas coisas vos serão acrescentadas. ^v31
 
-**32** Não temais, ó pequeno rebanho, porque a vosso Pai agradou dar-vos o reino. ^v32
+**32** Não temas, pequeno rebanho, pois é do agrado do Pai dar-vos o Reino. ^v32
 
-**33** Vendei o que tendes, e dai esmolas. Fazei para vós bolsas que não se envelheçam; tesouro nos céus que nunca acabe, aonde não chega ladrão e a traça não rói. ^v33
+**33** Vendei vossos bens e deem aos pobres. Fazei para si bolsas que não envelhecem, tesouros inesgotáveis nos Céus, onde os ladrões não se aproximam e nem traça destrói. ^v33
 
-**34** Porque, onde estiver o vosso tesouro, ali estará também o vosso coração. ^v34
+**34** Pois onde está o vosso tesouro, ali estará também o vosso coração. ^v34
 
-**35** Estejam cingidos os vossos lombos, e acesas as vossas candeias. ^v35
+**35** Deixai vossas vestes presas por seus cintos, em prontidão para servir e mantenham suas lâmpadas acesas. ^v35
 
-**36** E sede vós semelhantes aos homens que esperam o seu senhor, quando houver de voltar das bodas, para que, quando vier, e bater, logo possam abrir-lhe. ^v36
+**36** Sede semelhantes a pessoas esperando seu mestre retornar da festa de casamento, para que, quando ele chegar e bater, eles abram a porta imediatamente. ^v36
 
-**37** Bem-aventurados aqueles servos, os quais, quando o Senhor vier, achar vigiando! Em verdade vos digo que se cingirá, e os fará assentar à mesa e, chegando-se, os servirá. ^v37
+**37** Bem-aventurados aqueles servos que forem encontrados vigiando quando o senhor vier. Verdadeiramente eu vos digo que ele prenderá suas longas vestes em seu cinto, os fará sentar para uma refeição, então virá e os servirá. ^v37
 
-**38** E, se vier na segunda vigília, e se vier na terceira vigília, e os achar assim, bem-aventurados são os tais servos. ^v38
+**38** Se o senhor vier na segunda vigília da noite, ou até mesmo na terceira e os achar prontos, bem aventurados serão aqueles servos. ^v38
 
-**39** Sabei, porém, isto: que, se o pai de família soubesse a que hora havia de vir o ladrão, vigiaria, e não deixaria minar a sua casa. ^v39
+**39** Sabei também que: se o senhor da casa soubesse a hora em que o ladrão viria, ele não permitiria que sua casa fosse arrombada. ^v39
 
-**40** Portanto, estai vós também apercebidos; porque virá o Filho do homem à hora que não imaginais. ^v40
+**40** Estai vós também preparados, pois não sabeis a hora em que o Filho do Homem virá”. ^v40
 
-**41** E disse-lhe Pedro: Senhor, dizes essa parábola a nós, ou também a todos? ^v41
+**41** Pedro disse: “Senhor, estás a contar esta parábola somente para nós, ou também a todos?” ^v41
 
-**42** E disse o Senhor: Qual é, pois, o mordomo fiel e prudente, a quem o senhor pôs sobre os seus servos, para lhes dar a tempo a ração? ^v42
+**42** O Senhor disse: “Quem é o administrador fiel e sábio, a quem seu senhor confiará seus criados para lhes dar suas porções de comida no tempo certo? ^v42
 
-**43** Bem-aventurado aquele servo a quem o seu senhor, quando vier, achar fazendo assim. ^v43
+**43** Bem-aventurado aquele servo a quem o seu senhor encontrar fazendo isto quando ele vier. ^v43
 
-**44** Em verdade vos digo que sobre todos os seus bens o porá. ^v44
+**44** Verdadeiramente eu vos digo que a ele confiará todos os seus bens. ^v44
 
-**45** Mas, se aquele servo disser em seu coração: O meu senhor tarda em vir; e começar a espancar os criados e criadas, e a comer, e a beber, e a embriagar-se, ^v45
+**45** Mas se aquele servo diz em seu coração: 'Meu senhor demora para voltar' e começar a bater nos servos e servas, a comer, a beber, e a embriagar-se; ^v45
 
-**46** Virá o senhor daquele servo no dia em que o não espera, e numa hora que ele não sabe, e separá-lo-á, e lhe dará a sua parte com os infiéis. ^v46
+**46** o senhor daquele servo virá em um dia em que ele não espera, em uma hora que ele não sabe, o castigará e o porá em um lugar com os incrédulos. ^v46
 
-**47** E o servo que soube a vontade do seu senhor, e não se aprontou, nem fez conforme a sua vontade, será castigado com muitos açoites; ^v47
+**47** Aquele servo que, sabendo da vontade do seu senhor, não tiver se preparado ou feito de acordo com sua vontade, será açoitado com muitos golpes. ^v47
 
-**48** Mas o que a não soube, e fez coisas dignas de açoites, com poucos açoites será castigado. E, a qualquer que muito for dado, muito se lhe pedirá, e ao que muito se lhe confiou, muito mais se lhe pedirá. ^v48
+**48** Mas aquele que não sabia e tiver feito coisas dignas de castigo, será açoitado com poucos golpes. A todo pois que muito for dado, muito lhe será exigido, e aquele a quem muito for confiado, muito mais lhe será pedido. ^v48
 
-**49** Vim lançar fogo na terra; e que mais quero, se já está aceso? ^v49
+**49** Eu vim lançar fogo sobre a terra e como Eu queria que já estivesse aceso. ^v49
 
-**50** Importa, porém, que seja batizado com um certo batismo; e como me angustio até que venha a cumprir-se! ^v50
+**50** Mas Eu tenho um batismo com o qual hei de ser batizado e como estou angustiado até que ele seja cumprido. ^v50
 
-**51** Cuidais vós que vim trazer paz à terra? Não, vos digo, mas antes dissensão; ^v51
+**51** Vós achais que eu vim trazer paz à terra? Eu digo que não, pois vim trazer divisão. ^v51
 
-**52** Porque daqui em diante estarão cinco divididos numa casa: três contra dois, e dois contra três. ^v52
+**52** A partir de agora haverá cinco em uma casa divididos: três pessoas contra duas e duas contra três. ^v52
 
-**53** O pai estará dividido contra o filho, e o filho contra o pai; a mãe contra a filha, e a filha contra a mãe; a sogra contra sua nora, e a nora contra sua sogra. ^v53
+**53** Eles estarão divididos: Pai contra filho e filho contra pai, mãe contra filha e filha contra mãe, sogra contra nora e nora contra sogra”. ^v53
 
-**54** E dizia também à multidão: Quando vedes a nuvem que vem do ocidente, logo dizeis: Lá vem chuva, e assim sucede. ^v54
+**54** Jesus também dizia às multidões: “Quando vedes uma nuvem vindo do oeste, imediatamente vós dizeis: 'Uma chuva está vindo' e assim acontece. ^v54
 
-**55** E, quando assopra o sul, dizeis: Haverá calma; e assim sucede. ^v55
+**55** E quando o vento sul está soprando, dizeis: 'Haverá um calor abrasador', e acontece. ^v55
 
-**56** Hipócritas, sabeis discernir a face da terra e do céu; como não sabeis então discernir este tempo? ^v56
+**56** Hipócritas, vós sabeis discernir os sinais da terra e do céu, entretanto vós não sabeis discernir o que está acontecendo no tempo presente? ^v56
 
-**57** E por que não julgais também por vós mesmos o que é justo? ^v57
+**57** Por que não julgais o que é justo para vós mesmos? ^v57
 
-**58** Quando, pois, vais com o teu adversário ao magistrado, procura livrar-te dele no caminho; para que não suceda que te conduza ao juiz, e o juiz te entregue ao meirinho, e o meirinho te encerre na prisão. ^v58
+**58** Quando fores com o teu adversário diante do magistrado, esforça-te para resolver o problema com ele no caminho, para que ele não te arraste ao juiz, e o juiz te entregue nas mãos do carcereiro e o carcereiro te jogue na prisão. ^v58
 
-**59** Digo-te que não sairás dali enquanto não pagares o derradeiro ceitil. ^v59
+**59** Eu te digo que de modo algum sairás dali enquanto não pagares até o último centavo. ^v59

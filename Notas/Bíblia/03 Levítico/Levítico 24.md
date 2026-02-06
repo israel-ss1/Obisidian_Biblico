@@ -1,53 +1,52 @@
 ---
-Livro: "[[Levítico|Levítico]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Levítico|Levítico]]"
+tags: [biblia]
 ---
 
 # Levítico 24
 
-**1** E falou o SENHOR a Moisés, dizendo: ^v1
+**1** Yahweh falou a Moisés, dizendo: ^v1
 
-**2** Ordena aos filhos de Israel que te tragam azeite de oliveira, puro, batido, para a luminária, para manter as lâmpadas acesas continuamente. ^v2
+**2** """Ordena ao povo de Israel para que te tragam óleo puro de oliva para suas lamparinas, a fim de que elas sempre queimem e iluminem." ^v2
 
-**3** Arão as porá em ordem perante o Senhor continuamente, desde a tarde até à manhã, fora do véu do testemunho, na tenda da congregação; estatuto perpétuo é pelas vossas gerações. ^v3
+**3** Do lado de fora da cortina, diante dos decretos da aliança na Tenda do Encontro, Arão deve, continuamente, manter acesa a lâmpada desde a noite até o amanhecer, diante de Yahweh. Isso será um mandamento permanente ao longo das gerações do Teu povo. ^v3
 
-**4** Sobre o candelabro de ouro puro porá em ordem as lâmpadas perante o Senhor continuamente. ^v4
+**4** O sumo sacerdote deve sempre manter as lâmpadas acesas diante de Yahweh, as lâmpadas do candelabro de ouro. ^v4
 
-**5** Também tomarás da flor de farinha, e dela cozerás doze pães; cada pão será de duas dízimas de um efa. ^v5
+**5** Tu deves pegar a boa farinha e usá-la para assar doze pães. Esses devem conter dois décimos de uma efa em cada pão. ^v5
 
-**6** E os porás em duas fileiras, seis em cada fileira, sobre a mesa pura, perante o Senhor. ^v6
+**6** Depois, deves colocá-lo em duas fileiras, seis pães em cada fileira, sobre a mesa de ouro puro diante de Yahweh. ^v6
 
-**7** E sobre cada fileira porás incenso puro, para que seja, para o pão, por oferta memorial; oferta queimada é ao Senhor. ^v7
+**7** Tu deves pôr incenso puro ao longo de cada fileira de pães como um símbolo dos pães. Esse incenso será queimado para Yahweh. ^v7
 
-**8** Em cada dia de sábado, isto se porá em ordem perante o Senhor continuamente, pelos filhos de Israel, por aliança perpétua. ^v8
+**8** Todo dia de sábado, o sacerdote deverá regularmente apresentar o pão diante de Yahweh em nome do povo de Israel, como um sinal de uma aliança perpétua. ^v8
 
-**9** E será de Arão e de seus filhos, os quais o comerão no lugar santo, porque uma coisa santíssima é para eles, das ofertas queimadas ao Senhor, por estatuto perpétuo. ^v9
+**9** "Essa oferta será de Arão e seus filhos. Eles devem comê-la em um lugar que é santo, pois é dedicada completamente a Mim, pois foram tomadas dentre as ofertas queimadas por fogo a Mim""." ^v9
 
-**10** E apareceu, no meio dos filhos de Israel o filho de uma mulher israelita, o qual era filho de um homem egípcio; e o filho da israelita e um homem israelita discutiram no arraial. ^v10
+**10** Aconteceu que o filho de uma mulher israelita, cujo o pai era um egípcio, estava entre o povo de Israel. Esse filho da mulher israelita brigou com um homem israelita no acampamento. ^v10
 
-**11** Então o filho da mulher israelita blasfemou o nome do Senhor, e o amaldiçoou, por isso o trouxeram a Moisés; e o nome de sua mãe era Selomite, filha de Dibri, da tribo de Dã. ^v11
+**11** O filho da mulher israelita blasfemou o nome de Yahweh e amaldiçoou a Deus, então, o povo o levou a Moisés. O nome de sua mãe era Selomite, a filha de Dibri, da tribo de Dã. ^v11
 
-**12** E eles o puseram na prisão, até que a vontade do Senhor lhes pudesse ser declarada. ^v12
+**12** Eles o mantiveram em custódia até que o próprio Yahweh declarasse sua vontade para com eles. ^v12
 
-**13** E falou o Senhor a Moisés, dizendo: ^v13
+**13** Então, Yahweh falou a Moisés, dizendo: ^v13
 
-**14** Tira o que tem blasfemado para fora do arraial; e todos os que o ouviram porão as suas mãos sobre a sua cabeça; então toda a congregação o apedrejará. ^v14
+**14** """Leva o homem que blasfemou contra Deus para fora do acampamento. Todos os que o ouviram devem colocar as mãos sobre sua cabeça e, depois, a assembléia inteira deve apedrejá-lo." ^v14
 
-**15** E aos filhos de Israel falarás, dizendo: Qualquer que amaldiçoar o seu Deus, levará sobre si o seu pecado. ^v15
+**15** Tu deves explicar ao povo de Israel, dizendo: 'Qualquer um que blasfemar seu Deus deve carregar sua própria culpa. ^v15
 
-**16** E aquele que blasfemar o nome do Senhor, certamente morrerá; toda a congregação certamente o apedrejará; assim o estrangeiro como o natural, blasfemando o nome do Senhor, será morto. ^v16
+**16** Aquele que blasfemar o nome de Yahweh deve certamente ser condenado à morte. Toda a assembléia deve certamente apredejá-lo, seja ele um estrangeiro ou um israelita nativo. Se alguém blasfemar o nome de Yahweh, deverá ser condenado à morte. ^v16
 
-**17** E quem matar a alguém certamente morrerá. ^v17
+**17** E aquele que matar outro homem deve certamente ser condenado à morte. ^v17
 
-**18** Mas quem matar um animal, o restituirá, vida por vida. ^v18
+**18** Aquele que matar o animal de alguém pagará de volta, vida por vida. ^v18
 
-**19** Quando também alguém desfigurar o seu próximo, como ele fez, assim lhe será feito: ^v19
+**19** Se um homem ferir a seu vizinho, deverá ser feito a ele como ele fez para com seu vizinho: ^v19
 
-**20** Quebradura por quebradura, olho por olho, dente por dente; como ele tiver desfigurado a algum homem, assim se lhe fará. ^v20
+**20** fratura por fratura, olho por olho, dente por dente. Assim como ele causou um ferimento em uma pessoa, deverá também ser feito a ele. ^v20
 
-**21** Quem, pois, matar um animal, restitui-lo-á, mas quem matar um homem será morto. ^v21
+**21** Qualquer que matar um animal deverá pagá-lo de volta e qualquer que matar uma pessoa será condenado à morte. ^v21
 
-**22** Uma mesma lei tereis; assim será para o estrangeiro como para o natural; pois eu sou o Senhor vosso Deus. ^v22
+**22** "Tu deves ter a mesma lei para ambos: o estrangeiro e o israelita nativo, pois Eu sou Yahweh, seu Deus'""." ^v22
 
-**23** E disse Moisés, aos filhos de Israel que levassem o que tinha blasfemado para fora do arraial, e o apedrejassem; e fizeram os filhos de Israel como o Senhor ordenara a Moisés. ^v23
+**23** Então Moisés falou com o povo de Israel, e o povo trouxe o homem para fora do acampamento, aquele que tinha blasfemado Yahweh. Eles o apedrejaram. O povo de Israel levou adiante o mandamento de Yahweh a Moisés. ^v23

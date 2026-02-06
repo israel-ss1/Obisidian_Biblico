@@ -1,89 +1,88 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/João|João]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/João|João]]"
+tags: [biblia]
 ---
 
 # João 9
 
-**1** E, passando Jesus, viu um homem cego de nascença. ^v1
+**1** Enquanto Jesus passava, viu um homem cego de nascença. ^v1
 
-**2** E os seus discípulos lhe perguntaram, dizendo: Rabi, quem pecou, este ou seus pais, para que nascesse cego? ^v2
+**2** "Seus discípulos perguntaram-Lhe: ""Rabi, quem pecou para que esse homem nascesse cego? Ele ou seus pais?""." ^v2
 
-**3** Jesus respondeu: Nem ele pecou nem seus pais; mas foi assim para que se manifestem nele as obras de Deus. ^v3
+**3** "Jesus respondeu: ""Nem ele nem seus pais pecaram, mas foi para que as obras do Senhor fossem reveladas nele." ^v3
 
-**4** Convém que eu faça as obras daquele que me enviou, enquanto é dia; a noite vem, quando ninguém pode trabalhar. ^v4
+**4** Devemos fazer a obra Daquele que Me enviou, enquanto ainda é dia. A noite está chegando, quando ninguém pode trabalhar. ^v4
 
-**5** Enquanto estou no mundo, sou a luz do mundo. ^v5
+**5** "Enquanto Eu estou no mundo, Eu sou a Luz do mundo""." ^v5
 
-**6** Tendo dito isto, cuspiu na terra, e com a saliva fez lodo, e untou com o lodo os olhos do cego. ^v6
+**6** Depois que Jesus disse essas coisas, cuspiu no chão, fez uma lama com sua saliva, e ungiu os olhos do homem com essa lama. ^v6
 
-**7** E disse-lhe: Vai, lava-te no tanque de Siloé (que significa o Enviado). Foi, pois, e lavou-se, e voltou vendo. ^v7
+**7** "Jesus lhe disse: ""Vai, lava-te no tanque de Siloé (que é traduzido como 'enviado')"". Então o homem foi, lavou-se e voltou vendo." ^v7
 
-**8** Então os vizinhos, e aqueles que dantes tinham visto que era cego, diziam: Não é este aquele que estava assentado e mendigava? ^v8
+**8** "Então, os vizinhos daquele homem que o viram anteriormente como pedinte diziam: ""Não é este aquele que costumava sentar e mendigar?""." ^v8
 
-**9** Uns diziam: É este. E outros: Parece-se com ele. Ele dizia: Sou eu. ^v9
+**9** "Alguns diziam: ""É ele"". Outros diziam: ""Não, mas se parece com ele"". Porém, ele dizia: ""Sou eu""." ^v9
 
-**10** Diziam-lhe, pois: Como se te abriram os olhos? ^v10
+**10** "Eles lhe disseram: ""Mas, como teus olhos foram abertos?""." ^v10
 
-**11** Ele respondeu, e disse: O homem, chamado Jesus, fez lodo, e untou-me os olhos, e disse-me: Vai ao tanque de Siloé, e lava-te. Então fui, e lavei-me, e vi. ^v11
+**11** "Ele respondeu: ""O homem chamado Jesus fez uma lama e ungiu meus olhos; então, me disse: 'Vai e lava-te no Siloé'. Então eu fui, lavei-me e passei a enxergar""." ^v11
 
-**12** Disseram-lhe, pois: Onde está ele? Respondeu: Não sei. ^v12
+**12** "Eles lhe disseram: ""Onde está Ele?"". Ele respondeu: ""Eu não sei""." ^v12
 
-**13** Levaram, pois, aos fariseus o que dantes era cego. ^v13
+**13** Trouxeram o homem que era cego para os fariseus. ^v13
 
-**14** E era sábado quando Jesus fez o lodo e lhe abriu os olhos. ^v14
+**14** Aquele dia era sábado, quando Jesus fez a lama e abriu seus olhos. ^v14
 
-**15** Tornaram, pois, também os fariseus a perguntar-lhe como vira, e ele lhes disse: Pôs-me lodo sobre os olhos, lavei-me, e vejo. ^v15
+**15** "Mais uma vez os fariseus lhe perguntaram como havia recuperado a visão: ""Ele colocou uma lama em meus olhos, eu os lavei, e agora posso ver"", disse o homem." ^v15
 
-**16** Então alguns dos fariseus diziam: Este homem não é de Deus, pois não guarda o sábado. Diziam outros: Como pode um homem pecador fazer tais sinais? E havia dissensão entre eles. ^v16
+**16** "Alguns dos fariseus disseram: ""Esse homem não vem de Deus, pois, não guarda o sábado"". Outros diziam: ""Como alguém pode fazer tais sinais sendo pecador?"". E houve uma divisão entre eles." ^v16
 
-**17** Tornaram, pois, a dizer ao cego: Tu, que dizes daquele que te abriu os olhos? E ele respondeu: Que é profeta. ^v17
+**17** "Então, perguntaram ao cego novamente: ""O que dizes tu Daquele que te abriu os olhos?"". O cego disse: ""Ele é profeta""." ^v17
 
-**18** Os judeus, porém, não creram que ele tivesse sido cego, e que agora visse, enquanto não chamaram os pais do que agora via. ^v18
+**18** Nesse momento, os judeus ainda não acreditavam que ele havia sido cego e tinha recebido a visão até que chamaram os pais do homem que havia passado a enxergar. ^v18
 
-**19** E perguntaram-lhes, dizendo: É este o vosso filho, que vós dizeis ter nascido cego? Como, pois, vê agora? ^v19
+**19** "Eles perguntaram a seus pais: ""É esse o vosso filho que nasceu cego? Como pode ele agora enxergar?""." ^v19
 
-**20** Seus pais lhes responderam, e disseram: Sabemos que este é o nosso filho, e que nasceu cego; ^v20
+**20** "Seus pais então responderam-lhes: ""Nós sabemos que esse é nosso filho, e que nasceu cego." ^v20
 
-**21** Mas como agora vê, não sabemos; ou quem lhe tenha aberto os olhos, não sabemos. Tem idade, perguntai-lho a ele mesmo; e ele falará por si mesmo. ^v21
+**21** "Como ele agora enxerga nós não sabemos. Perguntai a ele. Ele é adulto e pode responder por si""." ^v21
 
-**22** Seus pais disseram isto, porque temiam os judeus. Porquanto já os judeus tinham resolvido que, se alguém confessasse ser ele o Cristo, fosse expulso da sinagoga. ^v22
+**22** Seus pais disseram isso porque eles tinham medo dos judeus, pois estes haviam concordado que qualquer um que confessasse a Jesus como Cristo deveria ser expulso da sinagoga. ^v22
 
-**23** Por isso é que seus pais disseram: Tem idade, perguntai-lho a ele mesmo. ^v23
+**23** "Por causa disso seus pais disseram: ""Ele é adulto; pergunte a ele.""" ^v23
 
-**24** Chamaram, pois, pela segunda vez o homem que tinha sido cego, e disseram-lhe: Dá glória a Deus; nós sabemos que esse homem é pecador. ^v24
+**24** "Pela segunda vez, eles chamaram o homem que havia sido cego e disseram-lhe: ""Dá glória a Deus! Nós sabemos que Esse Homem é pecador""." ^v24
 
-**25** Respondeu ele pois, e disse: Se é pecador, não sei; uma coisa sei, é que, havendo eu sido cego, agora vejo. ^v25
+**25** "Então aquele homem respondeu: ""Se Ele é pecador ou não, eu não sei. Uma coisa eu sei: eu era cego e agora vejo""." ^v25
 
-**26** E tornaram a dizer-lhe: Que te fez ele? Como te abriu os olhos? ^v26
+**26** "Então, disseram-lhe: ""O que Ele fez por ti? Como Ele te abriu os olhos?""." ^v26
 
-**27** Respondeu-lhes: Já vo-lo disse, e não ouvistes; para que o quereis tornar a ouvir? Quereis vós porventura fazer-vos também seus discípulos? ^v27
+**27** "Ele respondeu: ""Eu já vos disse, e vós não me ouvistes! Por que querem ouvir de novo? Por acaso também quereis fazer-vos Seus discípulos?""." ^v27
 
-**28** Então o injuriaram, e disseram: Discípulo dele sejas tu; nós, porém, somos discípulos de Moisés. ^v28
+**28** "Eles o insultaram e disseram: ""Tu és discípulo Dele; nós porém somos discípulos de Moisés." ^v28
 
-**29** Nós bem sabemos que Deus falou a Moisés, mas este não sabemos de onde é. ^v29
+**29** "Sabemos que Deus falou a Moisés, mas Esse Homem não sabemos de onde vem""." ^v29
 
-**30** O homem respondeu, e disse-lhes: Nisto, pois, está a maravilha, que vós não saibais de onde ele é, e contudo me abrisse os olhos. ^v30
+**30** "O homem respondeu-lhes, dizendo: ""Ora, isso é surpreendente! Vós não sabeis de onde Ele é, e ainda assim Ele abriu os meus olhos." ^v30
 
-**31** Ora, nós sabemos que Deus não ouve a pecadores; mas, se alguém é temente a Deus, e faz a sua vontade, a esse ouve. ^v31
+**31** Nós sabemos que Deus não escuta a pecadores, mas se alguém O adora e faz a Sua vontade, Deus o escuta. ^v31
 
-**32** Desde o princípio do mundo nunca se ouviu que alguém abrisse os olhos a um cego de nascença. ^v32
+**32** Desde o início do mundo, nunca se ouviu que alguém tenha aberto os olhos de um homem nascido cego. ^v32
 
-**33** Se este não fosse de Deus, nada poderia fazer. ^v33
+**33** "Se Esse Homem não fosse enviado por Deus, Ele não poderia fazer coisa alguma""." ^v33
 
-**34** Responderam eles, e disseram-lhe: Tu és nascido todo em pecados, e nos ensinas a nós? E expulsaram-no. ^v34
+**34** "Eles responderam e disseram-lhe: ""Nasceste em pecado, e agora estás nos ensinando?"". Então, eles o expulsaram." ^v34
 
-**35** Jesus ouviu que o tinham expulsado e, encontrando-o, disse-lhe: Crês tu no Filho de Deus? ^v35
+**35** "Jesus ouviu que eles o haviam expulsado da sinagoga. Ele o encontrou e disse-lhe: ""Crês no Filho do Homem?""." ^v35
 
-**36** Ele respondeu, e disse: Quem é ele, Senhor, para que nele creia? ^v36
+**36** "Ele respondeu dizendo: ""Quem é esse, Senhor, para que eu creia Nele?""." ^v36
 
-**37** E Jesus lhe disse: Tu já o tens visto, e é aquele que fala contigo. ^v37
+**37** "Jesus disse-lhe: ""Já O tens visto, e é O que fala contigo""." ^v37
 
-**38** Ele disse: Creio, Senhor. E o adorou. ^v38
+**38** "O homem disse: ""Senhor, eu creio"". Então, adorou-O." ^v38
 
-**39** E disse-lhe Jesus: Eu vim a este mundo para juízo, a fim de que os que não vêem vejam, e os que vêem sejam cegos. ^v39
+**39** "Jesus disse: ""Foi para julgamento que Eu vim a esse mundo, para que aqueles que não veem vejam, e aqueles que veem fiquem cegos""." ^v39
 
-**40** E aqueles dos fariseus, que estavam com ele, ouvindo isto, disseram-lhe: Também nós somos cegos? ^v40
+**40** "Alguns dos fariseus que estavam lá, O ouviram dizer essas coisas, e perguntaram-Lhe: ""Nós também somos cegos?""." ^v40
 
-**41** Disse-lhes Jesus: Se fôsseis cegos, não teríeis pecado; mas como agora dizeis: Vemos; por isso o vosso pecado permanece. ^v41
+**41** "Jesus lhes disse: ""Se fôsseis cegos não teríeis pecado. Porém, como dizeis: 'Nós vemos', então vosso pecado permanece." ^v41

@@ -1,49 +1,48 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Joel|Joel]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Joel|Joel]]"
+tags: [biblia]
 ---
 
 # Joel 3
 
-**1** Porque, eis que naqueles dias, e naquele tempo, em que removerei o cativeiro de Judá e de Jerusalém, ^v1
+**1** """Eis que naqueles dias e naquele tempo, quando Eu trouxer os exilados de Judá e de Jerusalém," ^v1
 
-**2** Congregarei todas as nações, e as farei descer ao vale de Jeosafá; e ali com elas entrarei em juízo, por causa do meu povo, e da minha herança, Israel, a quem elas espalharam entre as nações e repartiram a minha terra. ^v2
+**2** juntarei todas as nações, e os trarei ao vale de Josafá. Eu as julgarei lá, por causa do Meu povo e da Minha herança, Israel, a quem eles espalharam entre as nações, e porque dividiram a Minha terra. ^v2
 
-**3** E lançaram sortes sobre o meu povo, e deram um menino por uma meretriz, e venderam uma menina por vinho, para beberem. ^v3
+**3** Eles lançaram sortes para o Meu povo, trocaram um menino por uma prostituta, e venderam uma menina por vinho para beberem. ^v3
 
-**4** E também que tendes vós comigo, Tiro e Sidom, e todas as regiões da Filístia? É tal o pago que vós me dais? Pois se me pagais assim, bem depressa vos farei tornar a vossa paga sobre a vossa cabeça. ^v4
+**4** Agora, por que estais zangados Comigo, Tiro, Sidom e todas as regiões da Filístia? Vós vos vingareis de Mim? Até mesmo, se vos vingardes de Mim, imediatamente retribuirei o que tendes feito. ^v4
 
-**5** Visto como levastes a minha prata e o meu ouro, e as minhas coisas desejáveis e formosas pusestes nos vossos templos. ^v5
+**5** Porque vós tomastes Minha prata e Meu ouro, e levastes Meus preciosos tesouros para vossos templos. ^v5
 
-**6** E vendestes os filhos de Judá e os filhos de Jerusalém aos filhos dos gregos, para os apartar para longe dos seus termos. ^v6
+**6** Vendestes o povo de Judá e de Jerusalém para os gregos, para que os levassem para longe dos seus territórios. ^v6
 
-**7** Eis que eu os suscitarei do lugar para onde os vendestes, e farei tornar a vossa paga sobre a vossa própria cabeça. ^v7
+**7** Vede, estou quase a fazer-vos sair do lugar onde os vendestes, e retribuirei o que fizestes. ^v7
 
-**8** E venderei vossos filhos e vossas filhas na mão dos filhos de Judá, que os venderão aos sabeus, a um povo distante, porque o Senhor o disse. ^v8
+**8** "Venderei os vossos filhos e filhas, pela mão do povo de Judá. Eles os venderão aos sabeus, uma nação muito distante"". Porque assim disse Yahweh." ^v8
 
-**9** Proclamai isto entre os gentios; preparai a guerra, suscitai os fortes; cheguem-se, subam todos os homens de guerra. ^v9
+**9** "Proclamai isto entre as nações: ""Preparai-vos para guerra, despertai os homens poderosos, deixai que eles se aproximem, que todos os homens se preparem para a batalha." ^v9
 
-**10** Forjai espadas das vossas enxadas, e lanças das vossas foices; diga o fraco: Eu sou forte. ^v10
+**10** Forjai vossas enxadas em espadas, e vossas foices em lanças. Que o fraco diga: 'Eu sou forte'. ^v10
 
-**11** Ajuntai-vos, e vinde, todos os gentios em redor, e congregai-vos. Ó Senhor, faze descer ali os teus fortes; ^v11
+**11** "Apressai-vos e vinde, todas as nações próximas, ajuntai-vos lá"". Ó Yahweh, faz descer Teus guerreiros poderosos." ^v11
 
-**12** Suscitem-se os gentios, e subam ao vale de Jeosafá; pois ali me assentarei para julgar todos os gentios em redor. ^v12
+**12** Permiti que as nações se levantem e venham até o vale de Josafá. Porque lá estarei sentado para julgar todas as nações ao derredor. ^v12
 
-**13** Lançai a foice, porque já está madura a seara; vinde, descei, porque o lagar está cheio, e os vasos dos lagares transbordam, porque a sua malícia é grande. ^v13
+**13** Lançai a foice, porque já está pronta a colheita. Vinde e pisai as uvas, porque o lagar está cheio. Os vasos dos lagares transbordam, porque a sua maldade é enorme. ^v13
 
-**14** Multidões, multidões no vale da decisão; porque o dia do Senhor está perto, no vale da decisão. ^v14
+**14** Existe um tumulto, um tumulto no vale do Julgamento. Porque o dia de Yahweh está próximo no vale do Julgamento. ^v14
 
-**15** O sol e a lua se enegrecerão, e as estrelas retirarão o seu resplendor. ^v15
+**15** O sol e a lua se escurecerão, e as estrelas esconderão seu brilho. ^v15
 
-**16** E o Senhor bramará de Sião, e de Jerusalém fará ouvir a sua voz; e os céus e a terra tremerão, mas o Senhor será o refúgio do seu povo, e a fortaleza dos filhos de Israel. ^v16
+**16** Yahweh rugirá de Sião, e de Jerusalém erguerá Sua voz. Os céus e a terra tremerão, mas Yahweh será um abrigo para o Seu povo, e uma fortaleza para o povo de Israel. ^v16
 
-**17** E vós sabereis que eu sou o Senhor vosso Deus, que habito em Sião, o meu santo monte; e Jerusalém será santa; estranhos não passarão mais por ela. ^v17
+**17** """Para que saibais que sou Yahweh, vosso Deus, que habito em Sião, o Meu santo monte. Então, Jerusalém será santa, e nenhum exército marchará através dela outra vez." ^v17
 
-**18** E há de ser que, naquele dia, os montes destilarão mosto, e os outeiros manarão leite, e todos os rios de Judá estarão cheios de águas; e sairá uma fonte, da casa do Senhor, e regará o vale de Sitim. ^v18
+**18** Acontecerá que, naquele dia, os montes destilarão vinho doce; os vales manarão leite; todos os riachos de Judá estarão cheios de água, e uma fonte virá da casa de Yahweh e regará o vale de Sitim. ^v18
 
-**19** O Egito se fará uma desolação, e Edom se fará um deserto assolado, por causa da violência que fizeram aos filhos de Judá, em cuja terra derramaram sangue inocente. ^v19
+**19** O Egito se tornará uma devastação abandonada, e Edom se tornará um deserto, por causa da violência feita ao povo de Judá, porque eles derramaram sangue inocente na sua terra. ^v19
 
-**20** Mas Judá será habitada para sempre, e Jerusalém de geração em geração. ^v20
+**20** Mas Judá será habitada para sempre, e Jerusalém será habitada de geração em geração. ^v20
 
-**21** E purificarei o sangue dos que eu não tinha purificado; porque o Senhor habitará em Sião. ^v21
+**21** "Eu Me vingarei do sangue daqueles de quem ainda não me vinguei"", porque Yahweh habita em Sião." ^v21

@@ -1,65 +1,64 @@
 ---
-Livro: "[[1 Crônicas|1 Crônicas]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/1 Crônicas|1 Crônicas]]"
+tags: [biblia]
 ---
 
 # 1 Crônicas 15
 
-**1** Davi também fez casa para si na cidade de Davi; e preparou um lugar para a arca de Deus, e armou-lhe uma tenda. ^v1
+**1** Davi construiu casas para si, na cidade de Davi. Ele preparou um lugar para a Arca de Deus e lhe montou uma tenda. ^v1
 
-**2** Então disse Davi: Ninguém pode levar a arca de Deus, senão os levitas; porque o Senhor os escolheu, para levar a arca de Deus, e para o servirem eternamente. ^v2
+**2** "Então, disse Davi: ""Somente os levitas podem carregar a Arca de Deus, porque Yahweh os escolheu para carregá-la e servi-Lo para sempre""." ^v2
 
-**3** E Davi convocou a todo o Israel em Jerusalém, para fazer subir a arca do Senhor ao seu lugar, que lhe tinha preparado. ^v3
+**3** Assim, Davi reuniu todo o Israel em Jerusalém, para trazer a Arca de Yahweh ao lugar que foi preparado para ela. ^v3
 
-**4** E Davi reuniu os filhos de Arão e os levitas: ^v4
+**4** Davi reuniu os descendentes de Arão e os levitas. ^v4
 
-**5** Dos filhos de Coate: Uriel, o chefe, e de seus irmãos cento e vinte. ^v5
+**5** Dos descendentes de Coate, havia Uriel, o chefe, e seus parentes, cento e vinte homens. ^v5
 
-**6** Dos filhos de Merari: Asaías, o chefe, e de seus irmãos duzentos e vinte. ^v6
+**6** Dos descendentes de Merari, havia Asaías, o chefe, e seus parentes, duzentos e vinte homens. ^v6
 
-**7** Dos filhos de Gérson: Joel, o chefe, e de seus irmãos cento e trinta. ^v7
+**7** Dos descendentes de Gérson, havia Joel, o chefe, e seus parentes, cento e trinta homens. ^v7
 
-**8** Dos filhos de Elizafã: Semaías, o chefe, e de seus irmãos duzentos. ^v8
+**8** Dos descendentes de Elizafã, havia Semaías o chefe e seus parentes, duzentos homens. ^v8
 
-**9** Dos filhos de Hebrom: Eliel, o chefe, e de seus irmãos oitenta. ^v9
+**9** Dos descendentes de Hebrom, havia Eliel, o chefe, e seus parentes, oitenta homens. ^v9
 
-**10** Dos filhos de Uziel: Aminadabe, o chefe, e de seus irmãos cento e doze. ^v10
+**10** Dos descendentes de Uziel, havia Aminadabe, o chefe, e seus parentes, cento e doze homens. ^v10
 
-**11** E chamou Davi os sacerdotes Zadoque e Abiatar, e os levitas, Uriel, Asaías, Joel, Semaías, Eliel, e Aminadabe. ^v11
+**11** Davi chamou os sacerdotes Zadoque e Abiatar, e os levitas Uriel, Asaías, Joel, Semaías, Eliel, e Aminadabe. ^v11
 
-**12** E disse-lhes: Vós sois os chefes dos pais entre os levitas; santificai-vos, vós e vossos irmãos, para que façais subir a arca do Senhor Deus de Israel, ao lugar que lhe tenho preparado. ^v12
+**12** "Ele lhes disse: ""Vós sois os chefes das famílias dos levitas; dedicai-vos a Yahweh, vós e vossos irmãos, para que tragais a Arca de Yahweh, Deus de Israel, para o lugar que eu tenho preparado para ela." ^v12
 
-**13** Porquanto vós não a levastes na primeira vez, o Senhor nosso Deus fez rotura em nós, porque não o buscamos segundo a ordenança. ^v13
+**13** "Vós não a carregastes na primeira vez, por isso, Yahweh, nosso Deus, veio contra nós, porque nós não O buscamos ou obedecemos o Seu decreto""." ^v13
 
-**14** Santificaram-se, pois, os sacerdotes e os levitas, para fazerem subir a arca do Senhor Deus de Israel. ^v14
+**14** Então, os sacerdotes e os levitas consagraram-se para trazer a Arca de Yahweh, o Deus de Israel. ^v14
 
-**15** E os filhos dos levitas trouxeram a arca de Deus sobre os seus ombros, pelas varas que nela havia, como Moisés tinha ordenado conforme a palavra do Senhor. ^v15
+**15** Os levitas carregaram a Arca de Deus em seus ombros com as varas, como Moisés tinha ordenado — conforme a palavra de Yahweh. ^v15
 
-**16** E disse Davi aos chefes dos levitas que constituíssem, de seus irmãos, cantores, para que com instrumentos musicais, com alaúdes, harpas e címbalos, se fizessem ouvir, levantando a voz com alegria. ^v16
+**16** Davi falou com os líderes dos levitas para nomear seus irmãos para tocarem instrumentos musicais de corda, harpas e címbalos, tocando alto e cantando alegremente. ^v16
 
-**17** Designaram, pois, os levitas a Hemã, filho de Joel; e dos seus irmãos, Asafe, filho de Berequias; e dos filhos de Merari, seus irmãos, Etã, filho de Cusaías. ^v17
+**17** Então, os levitas nomearam Hemã, filho de Joel, e um de seus irmãos, Asafe, filho de Berequias. Eles também nomearam os parentes dos descendentes de Merari e Etã, filho de Cusaías. ^v17
 
-**18** E com eles a seus irmãos da segunda ordem: a Zacarias, Bene, Jaaziel, Semiramote, Jeiel, Uni, Eliabe, Benaia, Maaséias, Matitias, Elifeleu, Micnéias, Obede-Edom, e Jeiel, os porteiros. ^v18
+**18** Com eles, estavam seus parentes de segunda ordem: Zacarias, Jaaziel, Semiramote, Jaiel, Uni, Eliabe, Benaia, Maaseias, Matitias, Elifeleu, Micneias, Obede-Edom e Jeiel, os porteiros. ^v18
 
-**19** E os cantores, Hemã, Asafe e Etã, se faziam ouvir com címbalos de metal; ^v19
+**19** Os músicos Hemã, Asafe e Etã foram nomeados para tocarem os címbalos de bronze. ^v19
 
-**20** E Zacarias, Aziel, Semiramote, Jeiel, Uni, Eliabe, Maaséias, e Benaia, com alaúdes, sobre Alamote: ^v20
+**20** Zacarias, Aziel, Semiramote, Jaiel, Uni, Eliabe, Maaseias e Benaia tocavam instrumentos de cordas, definidos para soprano. ^v20
 
-**21** E Matitias, Elifeleu, Micnéias, Obede-Edom, Jeiel, e Azazias, com harpas, sobre Seminite, para sobressaírem. ^v21
+**21** Matitias, Elifeleu, Micneias, Obede-Edom, Jeiel e Azazias os dirigiam, tocando harpas, definidas para o baixo. ^v21
 
-**22** E Quenanias, chefe dos levitas, tinha o encargo de dirigir o canto; ensinava-os a entoá-lo, porque era entendido. ^v22
+**22** Quenanias, chefe dos levitas, foi o diretor de canto porque era professor de música. ^v22
 
-**23** E Berequias e Elcana eram porteiros da arca. ^v23
+**23** Berequias e Elcana foram os guardas da arca. ^v23
 
-**24** E Sebanias, Jeosafá, Netanel, Amasai, Zacarias, Benaia, e Eliezer, os sacerdotes, tocavam as trombetas perante a arca de Deus; e Obede-Edom e Jeías eram porteiros da arca. ^v24
+**24** Sebanias, Josafá, Netanel, Amasai, Zacarias, Benaia e Eliézer, os sacerdotes, tocavam as trombetas diante da Arca de Deus, e Obede-Edom e Jeías guardavam a arca. ^v24
 
-**25** Sucedeu, pois, que Davi e os anciãos de Israel, e os capitães dos milhares, foram, com alegria, para fazer subir a arca da aliança do Senhor, da casa de Obede-Edom. ^v25
+**25** Então, Davi, os anciãos de Israel e os comandantes de milhares trouxeram a Arca da Aliança de Yahweh da casa de Obede-Edom com alegria. ^v25
 
-**26** E sucedeu que, ajudando Deus os levitas que levavam a arca da aliança do Senhor, sacrificaram sete novilhos e sete carneiros. ^v26
+**26** Enquanto Deus ajudava os levitas que carregavam a Arca da Aliança de Yahweh, eles sacrificavam sete touros e sete carneiros. ^v26
 
-**27** E Davi ia vestido de um manto de linho fino, como também todos os levitas que levavam a arca, e os cantores, e Quenanias, mestre dos cantores; também Davi levava sobre si um éfode de linho, ^v27
+**27** Davi vestiu um manto de linho fino, assim como os levitas que carregavam a arca, os cantores e Quenanias, o líder do canto, com os cantores. Davi também vestiu um éfode de linho. ^v27
 
-**28** E todo o Israel fez subir a arca da aliança do Senhor, com júbilo, e ao som de buzinas, e de trombetas, e de címbalos, fazendo ressoar alaúdes e harpas. ^v28
+**28** Então, todo o Israel trouxe a Arca da Aliança de Yahweh com júbilos e com som de trombetas, com címbalos e instrumentos de corda e harpas. ^v28
 
-**29** E sucedeu que, chegando a arca da aliança do Senhor à cidade de Davi, Mical, a filha de Saul, olhou de uma janela, e, vendo a Davi dançar e tocar, o desprezou no seu coração. ^v29
+**29** Mas, quando a Arca da Aliança de Yahweh chegou à cidade de Davi, Mical, filha de Saul, olhou pela janela e viu o rei Davi dançando e celebrando, ela, então, o desprezou em seu coração. ^v29

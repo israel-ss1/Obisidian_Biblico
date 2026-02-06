@@ -1,27 +1,24 @@
 ---
-Livro: "[[Salmos|Salmos]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Salmos|Salmos]]"
+tags: [biblia]
 ---
 
 # Salmos 24
 
-**1** Do SENHOR é a terra e a sua plenitude, o mundo e aqueles que nele habitam. ^v1
+**2** pois sobre os mares Ele fundou a terra e a estabeleceu sobre os rios. ^v2
 
-**2** Porque ele a fundou sobre os mares, e a firmou sobre os rios. ^v2
+**3** Quem subirá ao monte de Yahweh? Quem ficará de pé em Seu santuário? ^v3
 
-**3** Quem subirá ao monte do Senhor, ou quem estará no seu lugar santo? ^v3
+**4** Aquele que tem as mãos limpas e um coração puro; aquele que não deu testemunho falso e não faz um juramento enganador. ^v4
 
-**4** Aquele que é limpo de mãos e puro de coração, que não entrega a sua alma à vaidade, nem jura enganosamente. ^v4
+**5** Ele receberá a bênção de Yahweh e a justiça do Deus de sua salvação. ^v5
 
-**5** Este receberá a bênção do Senhor e a justiça do Deus da sua salvação. ^v5
+**6** Assim será a geração daqueles que O buscam, daqueles que buscam a face do Deus de Jacó. [Interlúdio] ^v6
 
-**6** Esta é a geração daqueles que buscam, daqueles que buscam a tua face, ó Deus de Jacó. (Selá.) ^v6
+**7** Levantai vossas cabeças, ó portões; levantai-vos, ó portas eternas, para que entre o Rei da glória. ^v7
 
-**7** Levantai, ó portas, as vossas cabeças; levantai-vos, ó entradas eternas, e entrará o Rei da Glória. ^v7
+**8** Quem é o Rei da glória? Yahweh, forte e poderoso; Yahweh, poderoso nas batalhas. ^v8
 
-**8** Quem é este Rei da Glória? O Senhor forte e poderoso, o Senhor poderoso na guerra. ^v8
+**9** Levantai vossas cabeças, ó portões; levantai-vos, ó portas eternas, para que entre o Rei da glória. ^v9
 
-**9** Levantai, ó portas, as vossas cabeças, levantai-vos, ó entradas eternas, e entrará o Rei da Glória. ^v9
-
-**10** Quem é este Rei da Glória? O Senhor dos Exércitos, ele é o Rei da Glória. (Selá.) ^v10
+**10** Quem é o Rei da glória? Yahweh dos Exércitos; Ele é o Rei da glória! [Interlúdio] ^v10

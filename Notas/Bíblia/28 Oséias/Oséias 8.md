@@ -1,35 +1,34 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Oséias|Oséias]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Oséias|Oséias]]"
+tags: [biblia]
 ---
 
 # Oséias 8
 
-**1** Põe a trombeta à tua boca. Ele virá como a águia contra a casa do SENHOR, porque transgrediram a minha aliança, e se rebelaram contra a minha lei. ^v1
+**1** """Põe uma trombeta em tua boca! Ele virá como uma águia sobre a Casa de Yahweh; porque o povo quebrou Minha Aliança e se rebelou contra Minha Lei." ^v1
 
-**2** E a mim clamarão: Deus meu! Nós, Israel, te conhecemos. ^v2
+**2** Eles clamam a Mim: 'Ó Deus, nós, Israel, Te conhecemos'. ^v2
 
-**3** Israel rejeitou o bem; o inimigo persegui-lo-á. ^v3
+**3** Mas Israel rejeitou o que é bom, e o inimigo o perseguirá. ^v3
 
-**4** Eles fizeram reis, mas não por mim; constituíram príncipes, mas eu não o soube; da sua prata e do seu ouro fizeram ídolos para si, para serem destruídos. ^v4
+**4** "Eles estabeleceram reis, mas não por Mim. Eles constituíram príncipes, mas sem Meu conhecimento. Com sua prata e ouro fizeram ídolos para si, mas foi somente para serem destruídos.""" ^v4
 
-**5** O teu bezerro, ó Samaria, te rejeitou; a minha ira se acendeu contra eles; até quando serão eles incapazes da inocência? ^v5
+**5** O teu bezerro foi rejeitado, Samaria. A Minha ira se acendeu contra este povo. Por quanto tempo eles serão culpados? ^v5
 
-**6** Porque isso vem de Israel, um artífice o fez, e não é Deus; mas em pedaços será desfeito o bezerro de Samaria. ^v6
+**6** Pois esse ídolo vem de Israel; um artífice o fez — isto não é Deus! O bezerro de Samaria será destruído em pedaços. ^v6
 
-**7** Porque semearam vento, e segarão tormenta, não haverá seara, a erva não dará farinha; se a der, tragá-la-ão os estrangeiros. ^v7
+**7** Pois as pessoas semearam vento e colheram tormenta. O talo existente não florescerá; ele não produzirá farinha. Se ele amadurecer, os estrangeiros o devorarão. ^v7
 
-**8** Israel foi devorado; agora está entre os gentios como um vaso em que ninguém tem prazer. ^v8
+**8** Israel foi devorado; agora ele está entre as nações como coisa inútil. ^v8
 
-**9** Porque subiram à Assíria, como um jumento montês, por si só; Efraim mercou amores. ^v9
+**9** Pois eles subiram para a Assíria como um solitário jumento selvagem. Efraim contratou para si os seus amantes. ^v9
 
-**10** Todavia, ainda que eles merquem entre as nações, eu os congregarei; e serão um pouco afligidos por causa da carga do rei dos príncipes. ^v10
+**10** Mesmo que eles tenham contratado seus amantes entre as nações, Eu os reunirei. Eles começarão a definhar por causa da opressão do rei dos príncipes. ^v10
 
-**11** Porquanto Efraim multiplicou os altares para pecar; teve altares para pecar. ^v11
+**11** Pois Efraim multiplicou altares para fazer ofertas pelo pecado; mas, ao invés disso, eles se tornaram altares para cometer pecados. ^v11
 
-**12** Escrevi-lhe as grandezas da minha lei, porém essas são estimadas como coisa estranha. ^v12
+**12** Eu poderia escrever a Minha Lei para eles dez mil vezes, mas eles a iriam ver como algo estranho. ^v12
 
-**13** Quanto aos sacrifícios das minhas ofertas, sacrificam carne, e a comem, mas o Senhor não as aceita; agora se lembrará da sua iniqüidade, e punirá os seus pecados; eles voltarão para o Egito. ^v13
+**13** Quanto aos sacrifícios das Minhas ofertas, eles sacrificam carne e a comem, mas Eu, Yahweh, não os aceitarei. Agora, lembrarei da sua iniquidade e punirei seus pecados. Eles voltarão para o Egito. ^v13
 
-**14** Porque Israel se esqueceu do seu Criador, e edificou templos, e Judá multiplicou cidades fortificadas. Mas eu enviarei um fogo contra as suas cidades, que consumirá os seus palácios. ^v14
+**14** Israel se esqueceu de Mim, o seu Criador, e construíram templos. Judá fortificou muitas cidades, mas enviarei fogo nas suas cidades, este fogo destruirá seus palácios. ^v14

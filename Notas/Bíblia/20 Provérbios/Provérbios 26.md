@@ -1,63 +1,62 @@
 ---
-Livro: "[[Provérbios|Provérbios]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Provérbios|Provérbios]]"
+tags: [biblia]
 ---
 
 # Provérbios 26
 
-**1** Como a neve no verão, e como a chuva na sega, assim não fica bem para o tolo a honra. ^v1
+**1** Como a neve no verão ou a chuva na colheita, assim o tolo não merece honra. ^v1
 
-**2** Como ao pássaro o vaguear, como à andorinha o voar, assim a maldição sem causa não virá. ^v2
+**2** Como o pardal bate asas e a andorinha se move ao voar, assim também a maldição injusta não se cumpre. ^v2
 
-**3** O açoite é para o cavalo, o freio é para o jumento, e a vara é para as costas dos tolos. ^v3
+**3** O chicote é para o cavalo, a rédea é para o jumento, e a vara é para as costas dos tolos. ^v3
 
-**4** Não respondas ao tolo segundo a sua estultícia; para que também não te faças semelhante a ele. ^v4
+**4** Não respondas ao tolo conforme a sua insensatez, ou te tornarás como ele. ^v4
 
-**5** Responde ao tolo segundo a sua estultícia, para que não seja sábio aos seus próprios olhos. ^v5
+**5** Responde ao tolo conforme é apropriado à insensatez dele, para que ele não se torne sábio aos seus próprios olhos. ^v5
 
-**6** Os pés corta, e o dano sorve, aquele que manda mensagem pela mão dum tolo. ^v6
+**6** Quem envia uma mensagem pela mão do tolo corta seus próprios pés e bebe violência. ^v6
 
-**7** Como as pernas do coxo, que pendem flácidas, assim é o provérbio na boca dos tolos. ^v7
+**7** Como as pernas de um paralítico, que pendem frouxas, assim é um provérbio na boca dos tolos. ^v7
 
-**8** Como o que arma a funda com pedra preciosa, assim é aquele que concede honra ao tolo. ^v8
+**8** Como amarrar uma pedra na funda, assim é dar honra ao tolo. ^v8
 
-**9** Como o espinho que entra na mão do bêbado, assim é o provérbio na boca dos tolos. ^v9
+**9** Como um espinho que entra na mão de um bêbado, assim é um provérbio na boca dos tolos. ^v9
 
-**10** O Poderoso, que formou todas as coisas, paga ao tolo, e recompensa ao transgressor. ^v10
+**10** Como um arqueiro que fere todos ao seu redor, assim é aquele que contrata um tolo ou qualquer um que passa. ^v10
 
-**11** Como o cão torna ao seu vômito, assim o tolo repete a sua estultícia. ^v11
+**11** Como um cachorro que retorna ao seu próprio vômito, assim é o tolo que repete a sua insensatez. ^v11
 
-**12** Tens visto o homem que é sábio a seus próprios olhos? Pode-se esperar mais do tolo do que dele. ^v12
+**12** Vês alguém que é sábio a seus próprios olhos? Há mais esperança para o tolo do que para ele. ^v12
 
-**13** Diz o preguiçoso: Um leão está no caminho; um leão está nas ruas. ^v13
+**13** "O preguiçoso diz: ""Há um leão na estrada! Há um leão entre os lugares abertos!""." ^v13
 
-**14** Como a porta gira nos seus gonzos, assim o preguiçoso na sua cama. ^v14
+**14** Assim como a porta vira nas dobradiças, assim é o preguiçoso sobre sua cama. ^v14
 
-**15** O preguiçoso esconde a sua mão ao seio; e cansa-se até de torná-la à sua boca. ^v15
+**15** O preguiçoso põe sua mão no prato e nem sequer tem força para levá-la à boca. ^v15
 
-**16** Mais sábio é o preguiçoso a seus próprios olhos do que sete homens que respondem bem. ^v16
+**16** O preguiçoso é mais sábio aos seus próprios olhos do que sete homens que respondem com bom senso. ^v16
 
-**17** O que, passando, se põe em questão alheia, é como aquele que pega um cão pelas orelhas. ^v17
+**17** Como aquele que segura as orelhas de um cão, assim é quem está passando e se enfurece numa disputa que não é sua. ^v17
 
-**18** Como o louco que solta faíscas, flechas, e mortandades, ^v18
+**18** Como o louco que atira flechas flamejantes, ^v18
 
-**19** Assim é o homem que engana o seu próximo, e diz: Fiz isso por brincadeira. ^v19
+**19** "assim é aquele que engana seu próximo e diz: ""Eu estava brincando!""." ^v19
 
-**20** Sem lenha, o fogo se apagará; e não havendo intrigante, cessará a contenda. ^v20
+**20** Por falta de madeira, o fogo se apaga e, onde não há mexeriqueiro, a rixa cessa. ^v20
 
-**21** Como o carvão para as brasas, e a lenha para o fogo, assim é o homem contencioso para acender rixas. ^v21
+**21** Como o carvão é para a brasa e a madeira para o fogo, assim é o briguento para acender um conflito. ^v21
 
-**22** As palavras do intrigante são como doces bocados; elas descem ao mais íntimo do ventre. ^v22
+**22** As palavras do mexeriqueiro são como iguarias deliciosas, que descem ao interior do corpo. ^v22
 
-**23** Como o caco de vaso coberto de escórias de prata, assim são os lábios ardentes com o coração maligno. ^v23
+**23** Como a cobertura brilhante de um vaso de barro, assim são os lábios ardentes com um coração mau. ^v23
 
-**24** Aquele que odeia dissimula com seus lábios, mas no seu íntimo encobre o engano; ^v24
+**24** Aquele que odeia os outros disfarça, com os lábios, os seus sentimentos e armazena o engano dentro de si. ^v24
 
-**25** Quando te suplicar com voz suave não te fies nele, porque abriga sete abominações no seu coração, ^v25
+**25** Ele falará graciosamente, mas não acredites nele, pois há sete abominações em seu coração. ^v25
 
-**26** Cujo ódio se encobre com engano, a sua maldade será exposta perante a congregação. ^v26
+**26** Apesar de seu ódio estar encoberto pelo engano, sua perversidade será exposta na assembleia. ^v26
 
-**27** O que cava uma cova cairá nela; e o que revolve a pedra, esta voltará sobre ele. ^v27
+**27** Aquele que cava uma cova, nela cairá; e a pedra rolará de volta ao que a empurrou. ^v27
 
-**28** A língua falsa odeia aos que ela fere, e a boca lisonjeira provoca a ruína. ^v28
+**28** A língua mentirosa odeia as pessoas que ela oprime, e a boca bajuladora causa a ruína. ^v28

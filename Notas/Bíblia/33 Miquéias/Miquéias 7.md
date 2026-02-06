@@ -1,47 +1,46 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Miquéias|Miquéias]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Miquéias|Miquéias]]"
+tags: [biblia]
 ---
 
 # Miquéias 7
 
-**1** Ai de mim! porque estou feito como as colheitas de frutas do verão, como os rabiscos da vindima; não há cacho de uvas para comer, nem figos temporãos que a minha alma deseja. ^v1
+**1** Ai de mim! Sou como quem colhe frutos do verão após o período da colheita, após o respigo das uvas nos vinhedos: não há mais cachos de frutas para encontrar, nem figo novo, que tanto desejo. ^v1
 
-**2** Já pereceu da terra o homem piedoso, e não há entre os homens um que seja justo; todos armam ciladas para sangue; cada um caça a seu irmão com a rede, ^v2
+**2** As pessoas piedosas desapareceram da terra e não há sequer uma pessoa justa em toda humanidade. Todos mentem, preparando armadilhas para derramar sangue; cada um caça seu próprio irmão com uma rede. ^v2
 
-**3** As suas mãos fazem diligentemente o mal; assim demanda o príncipe, e o juiz julga pela recompensa, e o grande fala da corrupção da sua alma, e assim todos eles tecem o mal. ^v3
+**3** As suas mãos são boas só para fazer o mal: o governante exige dinheiro, o juiz aceita suborno, e o homem poderoso está dizendo aos outros o que quer obter. Assim, eles tramam juntos. ^v3
 
-**4** O melhor deles é como um espinho; o mais reto é pior do que a sebe de espinhos; veio o dia dos teus vigias, veio o dia da tua punição; agora será a sua confusão. ^v4
+**4** O melhor deles é como um espinheiro, o mais justo entre eles é pior que uma cerca de espinhos. Este é o dia que foi predito por teus sentinelas, o dia da tua punição. Agora começará a confusão deles. ^v4
 
-**5** Não creiais no amigo, nem confieis no vosso guia; daquela que repousa no teu seio, guarda as portas da tua boca. ^v5
+**5** Não acrediteis em nenhum vizinho; nem ponhais a vossa confiança em nenhum amigo. Tende cuidado com o que dizeis, até mesmo para a mulher que se deita nos vossos braços. ^v5
 
-**6** Porque o filho despreza ao pai, a filha se levanta contra sua mãe, a nora contra sua sogra, os inimigos do homem são os da sua própria casa. ^v6
+**6** Porque o filho desonra seu pai, a filha levanta-se contra sua mãe, e a nora, contra sua sogra. Os inimigos do homem são as pessoas da sua própria casa. ^v6
 
-**7** Eu, porém, olharei para o Senhor; esperarei no Deus da minha salvação; o meu Deus me ouvirá. ^v7
+**7** Mas, quanto a mim, olharei para Yahweh. Esperarei pelo Deus da minha salvação; meu Deus me ouvirá. ^v7
 
-**8** Ó inimiga minha, não te alegres a meu respeito; ainda que eu tenha caído, levantar-me-ei; se morar nas trevas, o Senhor será a minha luz. ^v8
+**8** Não te alegres a respeito de mim, minha inimiga; ainda que eu tenha caído, eu me levantarei. Quando me sentar nas trevas, Yahweh será a minha luz. ^v8
 
-**9** Sofrerei a ira do Senhor, porque pequei contra ele, até que julgue a minha causa, e execute o meu direito; ele me tirará para a luz, e eu verei a sua justiça. ^v9
+**9** Porque pequei contra Yahweh, suportarei a Sua ira, até que Ele julgue meu caso e execute Seu juízo sobre mim. Ele me levará para a luz, e O verei regastar-me em Sua justiça. ^v9
 
-**10** E a minha inimiga verá isso, e cobri-la-á a vergonha, que me diz: Onde está o Senhor teu Deus? Os meus olhos a contemplarão; agora será ela pisada como a lama das ruas. ^v10
+**10** "Então, minha inimiga verá isso e será coberta de vergonha, ela, que havia dito: ""Onde está Yahweh, o teu Deus?"". Meus olhos olharão para ela; será pisada como a lama nas ruas." ^v10
 
-**11** No dia em que reedificar os teus muros, nesse dia estará longe e dilatado o estatuto. ^v11
+**11** O dia para construir teus muros virá; neste dia, tuas divisas serão expandidas para mais longe. ^v11
 
-**12** Naquele dia virá a ti, desde a Assíria e das cidades fortificadas, e das cidades fortificadas até ao rio, e do mar até ao mar, e da montanha até à montanha. ^v12
+**12** Naquele dia, teu povo virá para ti, da Assíria e das cidades do Egito, desde o Egito até o grande rio, o Eufrates, de mar a mar e de montanha a montanha. ^v12
 
-**13** Mas esta terra será posta em desolação, por causa dos seus moradores, por causa do fruto das suas obras. ^v13
+**13** Essas terras serão abandonadas, por causa das pessoas que estão vivendo lá agora, por causa do fruto de suas ações. ^v13
 
-**14** Apascenta o teu povo com a tua vara, o rebanho da tua herança, que habita a sós, no bosque, no meio do Carmelo; apascentem-se em Basã e Gileade, como nos dias do passado. ^v14
+**14** Pastoreia o Teu povo com Tua vara, o rebanho da Tua herança. Eles vivem sozinhos em uma floresta, cercados de terras férteis. Deixa que pastem em Basã e Gileade, como nos dias antigos. ^v14
 
-**15** Eu lhes mostrarei maravilhas, como nos dias da tua saída da terra do Egito. ^v15
+**15** """Como no dia em que saístes da terra do Egito, Eu lhes mostrarei maravilhas""." ^v15
 
-**16** As nações o verão, e envergonhar-se-ão, por causa de todo o seu poder; porão a mão sobre a boca, e os seus ouvidos ficarão surdos. ^v16
+**16** As nações verão e ficarão envergonhadas com o poder deles. Colocarão as mãos em suas bocas; seus ouvidos ficarão surdos. ^v16
 
-**17** Lamberão o pó como serpente, como vermes da terra, tremendo, sairão dos seus esconderijos; com pavor virão ao Senhor nosso Deus, e terão medo de ti. ^v17
+**17** Elas lamberão a poeira como a cobra, como as criaturas que rastejam na terra. Elas sairão tremendo de suas tocas; com pavor, virão a Ti, Yahweh, nosso Deus, e temerão por Tua causa. ^v17
 
-**18** Quem é Deus semelhante a ti, que perdoa a iniqüidade, e que passa por cima da rebelião do restante da sua herança? Ele não retém a sua ira para sempre, porque tem prazer na sua benignidade. ^v18
+**18** Quem é Deus igual a Ti, que tiras o pecado, que perdoas as transgressões do remanescente da Tua herança? Não manténs Tua ira para sempre, porque Tu amas nos mostrar Teu amor leal. ^v18
 
-**19** Tornará a apiedar-se de nós; sujeitará as nossas iniqüidades, e tu lançarás todos os seus pecados nas profundezas do mar. ^v19
+**19** Tu, novamente, terás compaixão de nós; Tu colocarás nossas iniquidades debaixo de Teus pés. Tu lançarás todos os nossos pecados nas profundezas do mar. ^v19
 
-**20** Darás a Jacó a fidelidade, e a Abraão a benignidade, que juraste a nossos pais desde os dias antigos. ^v20
+**20** Darás a verdade para Jacó e o amor leal a Abraão, como Tu juraste a nossos antepassados nos dias antigos. ^v20

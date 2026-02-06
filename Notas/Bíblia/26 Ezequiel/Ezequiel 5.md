@@ -1,41 +1,40 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Ezequiel|Ezequiel]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Ezequiel|Ezequiel]]"
+tags: [biblia]
 ---
 
 # Ezequiel 5
 
-**1** E tu, ó filho do homem, toma uma faca afiada, como navalha de barbeiro, e a farás passar pela tua cabeça e pela tua barba; então tomarás uma balança de peso, e repartirás os cabelos. ^v1
+**1** """Então, tu, filho do homem, pega uma espada afiada como uma navalha de barbeiro; passa a navalha sobre tua cabeça e tua barba e toma uma balança para pesar e dividir teus cabelos." ^v1
 
-**2** Uma terça parte queimarás no fogo, no meio da cidade, quando se cumprirem os dias do cerco; então tomarás outra terça parte, e feri-la-ás com uma faca ao redor dela; e a outra terça parte espalharás ao vento; porque desembainharei a espada atrás deles. ^v2
+**2** Queima um terço deles com fogo no meio da cidade, quando os dias do cerco estiverem completos; toma um terço dos cabelos e corta-os com a espada ao redor da cidade. Então, espalha um terço ao vento e Eu puxarei a espada para perseguir o povo. ^v2
 
-**3** Também tomarás dali um pequeno número, e atá-los-ás nas bordas do teu manto. ^v3
+**3** Mas tira uma mecha de cabelos dali e amarra-a nas dobras de tua veste. ^v3
 
-**4** E ainda destes tomarás alguns, e os lançarás no meio do fogo e os queimarás a fogo; e dali sairá um fogo contra toda a casa de Israel. ^v4
+**4** "Então, pega um pouco mais desse cabelo e joga-o no meio do fogo; queima-o no fogo. Dali, sairá um fogo contra toda a casa de Israel""." ^v4
 
-**5** Assim diz o Senhor DEUS: Esta é Jerusalém; coloquei-a no meio das nações e das terras que estão ao redor dela. ^v5
+**5** "Assim diz Yahweh Deus: ""Esta é Jerusalém no meio das nações, onde a coloquei, cercada por outras terras." ^v5
 
-**6** Ela, porém, mudou em impiedade os meus juízos, mais do que as nações, e os meus estatutos mais do que as terras que estão ao redor dela; porque rejeitaram os meus juízos e os meus estatutos, e não andaram neles. ^v6
+**6** "Mas ela tem, maldosamente, rejeitado Meus decretos mais que as nações, e rejeitado Meus estatutos mais que os países que a cercam. O povo rejeitou Meus juízos e não andou nos Meus estatutos""." ^v6
 
-**7** Portanto assim diz o Senhor DEUS: Porque multiplicastes mais do que as nações, que estão ao redor de vós, e não andastes nos meus estatutos, nem guardastes os meus juízos, nem ainda procedestes segundo os juízos das nações que estão ao redor de vós; ^v7
+**7** "Portanto, assim diz Yahweh Deus: ""Porque és mais rebelde que as nações que te rodeiam e não andaste nos Meus estatutos, nem agiste segundo Meus decretos e até agiste segundo os decretos das nações que te cercam,""" ^v7
 
-**8** Por isso assim diz o Senhor DEUS: Eis que eu, sim eu, estou contra ti; e executarei juízos no meio de ti aos olhos das nações. ^v8
+**8** por isso, assim diz Yahweh Deus: eis que Eu mesmo agirei contra ti! Executarei juízos no meio de ti, para que as nações possam ver. ^v8
 
-**9** E farei em ti o que nunca fiz, e o que jamais farei, por causa de todas as tuas abominações. ^v9
+**9** Farei a ti o que Eu nunca fiz e nunca farei outra vez, por causa de todas as tuas abominações. ^v9
 
-**10** Portanto os pais comerão a seus filhos no meio de ti, e os filhos comerão a seus pais; e executarei em ti juízos, e tudo o que restar de ti, espalharei a todos os ventos. ^v10
+**10** Portanto, os pais comerão os filhos no meio de ti e os filhos comerão seus pais, uma vez que executarei juízo sobre ti e espalharei em todas as direções todos os teus sobreviventes. ^v10
 
-**11** Portanto, como eu vivo, diz o Senhor DEUS, certamente, porquanto profanaste o meu santuário com todas as tuas coisas detestáveis, e com todas as tuas abominações, também eu te diminuirei, e o meu olho não te perdoará, nem também terei piedade. ^v11
+**11** Portanto, tão certo como Eu vivo — esta é uma declaração de Yahweh Deus — porque contaminaste o Meu santuário com todas as tuas coisas detestáveis e com todas as tuas abominações, por isso, Eu mesmo te reduzirei em número. Eu retirarei, sem piedade, os olhos sobre ti e não te pouparei. ^v11
 
-**12** Uma terça parte de ti morrerá de peste, e se consumirá de fome no meio de ti; e outra terça parte cairá à espada em redor de ti; e a outra terça parte espalharei a todos os ventos, e desembainharei a espada atrás deles. ^v12
+**12** Um terço dos teus morrerá pela praga; no meio de ti, eles serão consumidos pela fome; um terço cairá pela espada que está ao teu redor, então, espalharei um terço em todas as direções e puxarei uma espada para persegui-los também. ^v12
 
-**13** Assim se cumprirá a minha ira, e satisfarei neles o meu furor, e me consolarei; e saberão que eu, o Senhor, tenho falado no meu zelo, quando eu cumprir neles o meu furor. ^v13
+**13** Então, Minha ira se completará e farei que a Minha fúria se apodere deles. Ficarei satisfeito e saberão que Eu, Yahweh, falei na Minha ira quando completei a Minha fúria contra eles. ^v13
 
-**14** E pôr-te-ei em desolação, e por objeto de opróbrio entre as nações que estão em redor de ti, aos olhos de todos os que passarem. ^v14
+**14** Farei de ti uma desolação e uma vergonha para as nações que te rodeiam, aos olhos de todos os que passam. ^v14
 
-**15** E será objeto de opróbrio e blasfêmia, instrução e espanto às nações que estão em redor de ti, quando eu executar em ti juízos com ira, e com furor, e com terríveis castigos. Eu, o Senhor, falei. ^v15
+**15** Então, Jerusalém se tornará algo para os outros condenarem e zombarem, um aviso e um horror às nações que a rodeiam. Executarei juízos contra ti com ira e fúria; com uma repreensão furiosa. Eu, Yahweh, assim declarei. ^v15
 
-**16** Quando eu enviar as malignas flechas da fome contra eles, que servirão para destruição, as quais eu mandarei para vos destruir, então aumentarei a fome sobre vós, e vos quebrarei o sustento do pão. ^v16
+**16** Enviarei flechas ásperas de fome contra vós, que se tornará o meio com o qual vos destruirei. Porque aumentarei a fome sobre vós e farei cessar a vossa provisão de pão. ^v16
 
-**17** E enviarei sobre vós a fome, e as feras que te desfilharão; e a peste e o sangue passarão por ti; e trarei a espada sobre ti. Eu, o Senhor, falei. ^v17
+**17** "Enviarei fome e bestas-feras contra vós para destruir vossos filhos. Peste e sangue passarão por vós e trarei uma espada contra ti. Eu, Yahweh, declarei isso""." ^v17

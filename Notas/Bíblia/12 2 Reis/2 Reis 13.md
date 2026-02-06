@@ -1,57 +1,56 @@
 ---
-Livro: "[[2 Reis|2 Reis]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/2 Reis|2 Reis]]"
+tags: [biblia]
 ---
 
 # 2 Reis 13
 
-**1** No ano vinte e três de Joás, filho de Acazias, rei de Judá, começou a reinar Jeoacaz, filho de Jeú, sobre Israel, em Samaria, e reinou dezessete anos. ^v1
+**1** No vigésimo terceiro ano do reinado de Joás (filho de Acazias, rei de Judá), Jeoacaz, filho de Jeú, passou a reinar sobre Israel em Samaria, e reinou por dezessete anos. ^v1
 
-**2** E fez o que era mau aos olhos do Senhor; porque seguiu os pecados de Jeroboão, filho de Nebate, que fez pecar a Israel; não se apartou deles. ^v2
+**2** Ele fez o que era mau aos olhos de Yahweh e seguiu os pecados de Jeroboão, filho de Nebate, com os quais ele havia levado Israel a pecar; e Jeoacaz não os abandonou. ^v2
 
-**3** Por isso a ira do Senhor se acendeu contra Israel; e entregou-os na mão de Hazael, rei da Síria, e na mão de Ben-Hadade, filho de Hazael, todos aqueles dias. ^v3
+**3** A ira de Yahweh se acendeu contra Israel, e Ele os entregou repetidamente às mãos do rei Hazael, da Síria, e a Ben-Hadade, filho de Hazael. ^v3
 
-**4** Porém Jeoacaz suplicou diante da face do Senhor; e o Senhor ouviu; porque viu a opressão de Israel, pois o rei da Síria os oprimia. ^v4
+**4** Portanto, Jeoacaz implorou a Yahweh pedindo ajuda, e Yahweh ouviu as suas súplicas, pois viu o quanto o rei da Síria oprimia a Israel cruelmente. ^v4
 
-**5** E o Senhor deu um salvador a Israel, e saíram de sob as mãos dos sírios; e os filhos de Israel habitaram nas suas tendas, como no passado ^v5
+**5** Então, Yahweh deu um libertador a Israel, libertando-os do poder dos sírios, e o povo de Israel passou a habitar em suas casas como antes. ^v5
 
-**6** (Contudo não se apartaram dos pecados da casa de Jeroboão, com que fez Israel pecar; porém ele andou neles e também o bosque ficou em pé em Samaria). ^v6
+**6** No entanto, não se desviaram dos pecados da casa de Jeroboão, que levou Israel a pecar, e continuaram neles. E o poste-ídolo permaneceu em Samaria. ^v6
 
-**7** Porque não deixou a Jeoacaz, do povo, senão só cinqüenta cavaleiros, dez carros e dez mil homens de pé, porquanto o rei da Síria os tinha destruído e os tinha feito como o pó, trilhando-os. ^v7
+**7** Os sírios deixaram Jeoacaz com apenas cinquenta cavaleiros, dez carros e dez mil homens de infantaria, pois o rei da Síria os havia destruído e os fez como pó debaixo dos seus pés. ^v7
 
-**8** Ora, o mais dos atos de Jeoacaz, e tudo quanto fez, e o seu poder, porventura não está escrito no livro das crônicas dos reis de Israel? ^v8
+**8** Com relação aos demais acontecimentos do reinado de Jeoacaz, seus feitos e poder, não estão eles escritos no livro de Crônicas dos reis de Israel? ^v8
 
-**9** E Jeoacaz dormiu com seus pais, e o sepultaram em Samaria; e Jeoás, seu filho, reinou em seu lugar. ^v9
+**9** Então, Jeoacaz descansou com seus antepassados e foi enterrado em Samaria. Jeoás, seu filho, tornou-se rei em seu lugar. ^v9
 
-**10** No ano trinta e sete de Joás, rei de Judá, começou a reinar Jeoás, filho de Jeoacaz, sobre Israel, em Samaria, e reinou dezesseis anos. ^v10
+**10** No trigésimo sétimo ano do reinado de Joás, rei de Judá, Jeoás, filho de Jeoacaz, passou a reinar sobre Israel, em Samaria; ele reinou por dezesseis anos. ^v10
 
-**11** E fez o que era mau aos olhos do Senhor; não se apartou de nenhum dos pecados de Jeroboão, filho de Nebate, com que fez Israel pecar, porém andou neles. ^v11
+**11** Ele fez o que era mau aos olhos de Yahweh. Não abandonou nenhum dos pecados de Jeroboão, pelos quais ele levou Israel a pecar, contudo persistiu neles. ^v11
 
-**12** Ora, o mais dos atos de Jeoás, e tudo quanto fez, e o seu poder, com que pelejou contra Amazias, rei de Judá, porventura não está escrito no livro das crônicas dos reis de Israel? ^v12
+**12** Com relação aos demais acontecimentos do reinado de Jeoás, seus feitos e o poder com qual lutou contra Amazias, rei de Judá, não estão eles descritos no livro de Crônicas dos reis de Israel? ^v12
 
-**13** E Jeoás dormiu com seus pais, e Jeroboão se assentou no seu trono; e Jeoás foi sepultado em Samaria, junto aos reis de Israel. ^v13
+**13** Jeoás descansou com seus antepassados e Jeroboão se assentou em seu trono. Jeoás foi sepultado em Samaria, junto aos reis de Israel. ^v13
 
-**14** E Eliseu estava doente da enfermidade de que morreu, e Jeoás, rei de Israel, desceu a ele, e chorou sobre o seu rosto, e disse: Meu pai, meu pai, o carro de Israel, e seus cavaleiros! ^v14
+**14** "Eliseu ficou doente e tal enfermidade, posteriormente, causou sua morte. Então, Jeoás, rei de Israel, foi ao seu encontro e por ele chorou. Ele disse: ""Meu pai, meu pai, os carros de Israel e os cavaleiros o estão levando embora!""." ^v14
 
-**15** E Eliseu lhe disse: Toma um arco e flechas. E tomou um arco e flechas. ^v15
+**15** "Assim disse Eliseu: ""Pega um arco e algumas flechas"". Então, Jeoás pegou um arco e algumas flechas." ^v15
 
-**16** Então disse ao rei de Israel: Põe a tua mão sobre o arco. E pôs sobre ele a sua mão; e Eliseu pôs as suas mãos sobre as do rei. ^v16
+**16** "Eliseu disse ao rei de Israel: ""Coloca a tua mão no arco"", e ele o fez. Então, Eliseu pôs suas mãos sobre as do rei." ^v16
 
-**17** E disse: Abre a janela para o oriente. E abriu-a. Então disse Eliseu: Atira. E atirou; e disse: A flecha do livramento do Senhor é a flecha do livramento contra os sírios; porque ferirás os sírios; em Afeque, até os consumir. ^v17
+**17** "Assim disse Eliseu: ""Abre a janela para o oriente"" e ele o fez. Então, Eliseu disse: ""Atira!"", e ele o fez. Em seguida, ele disse: ""Esta é a flecha da vitória de Yahweh, a flecha da vitória sobre a Síria, eis que irás atacar os sírios em Afeque até a sua consumação""." ^v17
 
-**18** Disse mais: Toma as flechas. E tomou-as. Então disse ao rei de Israel: Fere a terra. E feriu-a três vezes, e cessou. ^v18
+**18** "Então, Eliseu disse: ""Pega as flechas"", e Jeoás o fez. Ele disse ao rei de Israel: ""Bate no chão"", Jeoás bateu três vezes e parou." ^v18
 
-**19** Então o homem de Deus se indignou muito contra ele, e disse: Cinco ou seis vezes a deverias ter ferido; então feririas os sírios até os consumir; porém agora só três vezes ferirás os sírios. ^v19
+**19** "Mas o homem de Deus se zangou com ele e disse: ""Deverias ter batido cinco ou seis vezes; assim, atacarias a Síria até sua total aniquilação, mas agora os atacarás apenas três vezes""." ^v19
 
-**20** Depois morreu Eliseu, e o sepultaram. Ora, as tropas dos moabitas invadiram a terra à entrada do ano. ^v20
+**20** Então, Eliseu faleceu e foi sepultado. Tropas moabitas invadiram a terra no início do ano. ^v20
 
-**21** E sucedeu que, enterrando eles um homem, eis que viram uma tropa, e lançaram o homem na sepultura de Eliseu; e, caindo nela o homem, e tocando os ossos de Eliseu, reviveu, e se levantou sobre os seus pés. ^v21
+**21** Enquanto enterravam certo homem, viram um grupo de moabitas e jogaram o corpo na sepultura de Eliseu. Assim que o homem tocou os ossos de Eliseu, ele reviveu e ficou em pé. ^v21
 
-**22** E Hazael, rei da Síria, oprimiu a Israel todos os dias de Jeoacaz. ^v22
+**22** Hazael, rei da Síria, oprimiu Israel durante todos os dias de Jeoacaz. ^v22
 
-**23** Porém o Senhor teve misericórdia deles, e se compadeceu deles, e tornou-se para eles por amor da sua aliança com Abraão, Isaque e Jacó, e não os quis destruir, e não os lançou ainda da sua presença. ^v23
+**23** Mas Yahweh foi gracioso com Israel, e Se compadeceu deles, preocupou-Se com eles, por causa da Sua aliança com Abraão, Isaque e Jacó. Yahweh não os destruiu e ainda não os expulsou da Sua presença. ^v23
 
-**24** E morreu Hazael, rei da Síria e Ben-Hadade, seu filho, reinou em seu lugar. ^v24
+**24** Hazael, rei da Síria, faleceu e Ben-Hadade, seu filho, se tornou rei em seu lugar. ^v24
 
-**25** E Jeoás, filho de Jeoacaz, tornou a tomar as cidades das mãos de Ben-Hadade, que ele tinha tomado das mãos de Jeoacaz, seu pai, na guerra; três vezes Jeoás o feriu, e recuperou as cidades de Israel. ^v25
+**25** Jeoás, filho de Jeoacaz, tomou de Ben-Hadade, filho de Hazael, as cidades que haviam sido tomadas por guerra de Jeoacaz, seu pai. Jeoás o atacou três vezes e recuperou essas cidades de Israel. ^v25

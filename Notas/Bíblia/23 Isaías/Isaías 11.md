@@ -1,39 +1,38 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Isaías|Isaías]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Isaías|Isaías]]"
+tags: [biblia]
 ---
 
 # Isaías 11
 
-**1** Porque brotará um rebento do tronco de Jessé, e das suas raízes um renovo frutificará. ^v1
+**1** Um ramo brotará a partir do tronco de Jessé, um arbusto crescerá da sua raiz e dará fruto. ^v1
 
-**2** E repousará sobre ele o Espírito do Senhor, o espírito de sabedoria e de entendimento, o espírito de conselho e de fortaleza, o espírito de conhecimento e de temor do Senhor. ^v2
+**2** O Espírito de Yahweh repousará sobre Ele, o Espírito de sabedoria e de entendimento, o Espírito de instrução e de poder, o Espírito de conhecimento e de temor a Yahweh. ^v2
 
-**3** E deleitar-se-á no temor do Senhor; e não julgará segundo a vista dos seus olhos, nem repreenderá segundo o ouvir dos seus ouvidos. ^v3
+**3** Seu prazer será o temor a Yahweh. Ele não julgará pelo que Seus olhos veem, nem decidirá pelo que Seus ouvidos ouvem. ^v3
 
-**4** Mas julgará com justiça aos pobres, e repreenderá com eqüidade aos mansos da terra; e ferirá a terra com a vara de sua boca, e com o sopro dos seus lábios matará ao ímpio, ^v4
+**4** Ao invés disso, Ele julgará os pobres com justiça e decidirá, de forma justa, a favor dos humildes da terra. Ele ferirá a terra com a vara da Sua boca, e, com o sopro dos Seus lábios, matará o corrupto. ^v4
 
-**5** E a justiça será o cinto dos seus lombos, e a fidelidade o cinto dos seus rins. ^v5
+**5** A justiça será o cinto dos Seus lombos, e a fidelidade, o cinto ao redor da Sua cintura. ^v5
 
-**6** E morará o lobo com o cordeiro, e o leopardo com o cabrito se deitará, e o bezerro, e o filho de leão e o animal cevado andarão juntos, e um menino pequeno os guiará. ^v6
+**6** O lobo habitará com o cordeiro, o leopardo se deitará com o cabrito, o bezerro, o leãozinho e o bezerro engordado, juntos. Uma criança pequena os conduzirá. ^v6
 
-**7** A vaca e a ursa pastarão juntas, seus filhos se deitarão juntos, e o leão comerá palha como o boi. ^v7
+**7** A vaca e o urso pastarão juntos, os seus filhotes deitarão um ao lado do outro, o leão comerá palha, como o boi. ^v7
 
-**8** E brincará a criança de peito sobre a toca da áspide, e a desmamada colocará a sua mão na cova do basilisco. ^v8
+**8** Um bebê brincará em cima do buraco da cobra e a criança desmamada colocará a mão na toca da serpente. ^v8
 
-**9** Não se fará mal nem dano algum em todo o meu santo monte, porque a terra se encherá do conhecimento do Senhor, como as águas cobrem o mar. ^v9
+**9** Ninguém ferirá nem causará destruição em todo o Meu santo monte; pois a terra será cheia do conhecimento de Yahweh, como as águas cobrem o mar. ^v9
 
-**10** E acontecerá naquele dia que a raiz de Jessé, a qual estará posta por estandarte dos povos, será buscada pelos gentios; e o lugar do seu repouso será glorioso. ^v10
+**10** Naquele dia, a raiz de Jessé será como uma bandeira para os povos. As nações A procurarão, e Seu lugar de descanso será glorioso. ^v10
 
-**11** E há de ser que naquele dia o Senhor tornará a pôr a sua mão para adquirir outra vez o remanescente do seu povo, que for deixado, da Assíria, e do Egito, e de Patros, e da Etiópia, e de Elã, e de Sinar, e de Hamate, e das ilhas do mar. ^v11
+**11** Naquele dia, o Senhor, novamente, estenderá Sua mão para resgatar o remanescente do Seu povo, que permanece na Assíria, no Egito, em Patros, na Etiópia, em Elão, em Sinar, em Hamate e nas ilhas do mar. ^v11
 
-**12** E levantará um estandarte entre as nações, e ajuntará os desterrados de Israel, e os dispersos de Judá congregará desde os quatro confins da terra. ^v12
+**12** Ele levantará uma bandeira para as nações e recolherá os desterrados de Israel e os dispersos de Judá desde os quatro cantos da terra. ^v12
 
-**13** E afastar-se-á a inveja de Efraim, e os adversários de Judá serão desarraigados; Efraim não invejará a Judá, e Judá não oprimirá a Efraim. ^v13
+**13** Ele cessará a inveja de Efraim e as hostilidades de Judá serão eliminadas. Efraim não invejará Judá, e Judá não será hostil a Efraim. ^v13
 
-**14** Antes voarão sobre os ombros dos filisteus ao ocidente; juntos despojarão aos do oriente; em Edom e Moabe porão as suas mãos, e os filhos de Amom lhes obedecerão. ^v14
+**14** Em vez disso, eles se lançarão sobre as colinas dos filisteus ao oeste e, juntos, saquearão o povo do leste. Eles atacarão Edom e Moabe, e o povo de Amom lhes obedecerá. ^v14
 
-**15** E o Senhor destruirá totalmente a língua do mar do Egito, e moverá a sua mão contra o rio com a força do seu vento e, ferindo-o, dividi-lo-á em sete correntes e fará que por ele passem com sapatos secos. ^v15
+**15** Yahweh destruirá completamente o golfo do mar do Egito. Com Seu vento ardente, Ele moverá a mão sobre o rio Eufrates e o dividirá em sete correntes. Assim, este poderá ser atravessado de sandálias. ^v15
 
-**16** E haverá caminho plano para o remanescente do seu povo, que for deixado da Assíria, como sucedeu a Israel no dia em que subiu da terra do Egito. ^v16
+**16** Haverá uma estrada para o remanescente do Seu povo que voltar da Assíria, como foi para Israel na sua vinda da terra do Egito. ^v16

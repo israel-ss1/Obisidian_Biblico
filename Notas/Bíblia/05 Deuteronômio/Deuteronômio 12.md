@@ -1,71 +1,70 @@
 ---
-Livro: "[[Deuteronômio|Deuteronômio]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Deuteronômio|Deuteronômio]]"
+tags: [biblia]
 ---
 
 # Deuteronômio 12
 
-**1** Estes são os estatutos e os juízos que tereis cuidado em cumprir na terra que vos deu o SENHOR Deus de vossos pais, para a possuir todos os dias que viverdes sobre a terra. ^v1
+**1** Estes são os estatutos e os decretos que vós tereis que guardar na terra prometida que Yahweh, o Deus de vossos pais, vos entregou para possuirdes por todos os dias de vossas vidas nesta terra. ^v1
 
-**2** Totalmente destruireis todos os lugares, onde as nações que possuireis serviram os seus deuses, sobre as altas montanhas, e sobre os outeiros, e debaixo de toda a árvore frondosa; ^v2
+**2** Certamente, destruireis todos os lugares que as nações cultuaram seus deuses, nas altas montanhas, nas colinas, e debaixo de toda árvore. ^v2
 
-**3** E derrubareis os seus altares, e quebrareis as suas estátuas, e os seus bosques queimareis a fogo, e destruireis as imagens esculpidas dos seus deuses, e apagareis o seu nome daquele lugar. ^v3
+**3** Destruireis seus altares, destruireis seus postes sagrados, e queimareis suas imagens de Aserá. Derrubareis as imagens esculpidas dos seus deuses e extinguireis os seus nomes daquele lugar. ^v3
 
-**4** Assim não fareis ao Senhor vosso Deus; ^v4
+**4** Não adorareis Yahweh dessa maneira. ^v4
 
-**5** Mas o lugar que o Senhor vosso Deus escolher de todas as vossas tribos, para ali pôr o seu nome, buscareis, para sua habitação, e ali vireis. ^v5
+**5** Mas, para o lugar que Yahweh, vosso Deus, escolherá dentre todas as vossas tribos para ali colocar Seu nome, ali será o lugar de Sua habitação, ali será o lugar que devereis ir. ^v5
 
-**6** E ali trareis os vossos holocaustos, e os vossos sacrifícios, e os vossos dízimos, e a oferta alçada da vossa mão, e os vossos votos, e as vossas ofertas voluntárias, e os primogênitos das vossas vacas e das vossas ovelhas. ^v6
+**6** Ali será o local a que trareis vossos holocaustos, sacrifícios, dízimos, e vossas ofertas das vossas mãos, ofertas de juramento, ofertas voluntárias, e os primogênitos de vossos gados e rebanhos. ^v6
 
-**7** E ali comereis perante o Senhor vosso Deus, e vos alegrareis em tudo em que puserdes a vossa mão, vós e as vossas casas, no que abençoar o Senhor vosso Deus. ^v7
+**7** Ali será o local em que vós e vossas famílias comereis perante Yahweh, vosso Deus, e regozijareis nas obras das vossas mãos, onde Yahweh, vosso Deus, vos abençoar. ^v7
 
-**8** Não fareis conforme a tudo o que hoje fazemos aqui, cada qual tudo o que bem parece aos seus olhos. ^v8
+**8** Não fareis as mesmas coisas como fazemos hoje aqui. Até então, todos fazem o que lhes parece certo aos próprios olhos, ^v8
 
-**9** Porque até agora não entrastes no descanso e na herança que vos dá o Senhor vosso Deus. ^v9
+**9** pois ainda não entrastes no lugar de descanso, na herança que Yahweh, vosso Deus, vos dá. ^v9
 
-**10** Mas passareis o Jordão, e habitareis na terra que vos fará herdar o Senhor vosso Deus; e vos dará repouso de todos os vossos inimigos em redor, e morareis seguros. ^v10
+**10** Mas, quando atravessardes o Jordão e habitardes na terra que Yahweh, vosso Deus, vos dá como herança, e, quando Ele vos der descanso de todos os vossos inimigos ao redor, para viverdes em segurança, ^v10
 
-**11** Então haverá um lugar que escolherá o Senhor vosso Deus para ali fazer habitar o seu nome; ali trareis tudo o que vos ordeno; os vossos holocaustos, e os vossos sacrifícios, e os vossos dízimos, e a oferta alçada da vossa mão, e toda a escolha dos vossos votos que fizerdes ao Senhor. ^v11
+**11** então, haverá um lugar que Yahweh, vosso Deus, escolherá, para ali fazer habitar Seu nome. Ali, levareis tudo o que vos ordeno: vossos holocaustos, sacrifícios, dízimos, e as ofertas das vossas mãos, e todas as ofertas em cumprimento aos vossos votos a Yahweh. ^v11
 
-**12** E vos alegrareis perante o Senhor vosso Deus, vós, e vossos filhos, e vossas filhas, e os vossos servos, e as vossas servas, e o levita que está dentro das vossas portas; pois convosco não tem parte nem herança. ^v12
+**12** Vós regozijareis perante Yahweh, vosso Deus, vós, vossos filhos e vossas filhas, vossos servos e vossas servas, e o levita que está em vossos portões, pois este não possui porção ou herança entre vós. ^v12
 
-**13** Guarda-te, que não ofereças os teus holocaustos em todo o lugar que vires; ^v13
+**13** Atentai para não oferecerdes vossas ofertas queimadas em qualquer lugar, ^v13
 
-**14** Mas no lugar que o Senhor escolher numa das tuas tribos ali oferecerás os teus holocaustos, e ali farás tudo o que te ordeno. ^v14
+**14** mas, no lugar que Yahweh escolher em uma de vossas tribos, ali oferecerei vossas ofertas queimadas, e ali fareis tudo o que vos ordenar. ^v14
 
-**15** Porém, conforme a todo o desejo da tua alma, matarás e comerás carne, dentro das tuas portas, segundo a bênção do Senhor teu Deus, que te dá em todas as tuas portas; o imundo e o limpo dela comerá, como do corço e do veado; ^v15
+**15** Porém, podereis abater e consumir os animais dentro de vossos portões, como desejais, recebendo  a benção de Yahweh, vosso Deus, por tudo o que Ele tem vos dado. Animais como a gazela e o cervo, tanto a pessoa impura como a pura poderão comer. ^v15
 
-**16** Tão-somente o sangue não comereis; sobre a terra o derramareis como água. ^v16
+**16** Todavia, não comereis o sangue, mas o derramareis sobre a terra como água. ^v16
 
-**17** Dentro das tuas portas não poderás comer o dízimo do teu grão, nem do teu mosto, nem do teu azeite, nem os primogênitos das tuas vacas, nem das tuas ovelhas; nem nenhum dos teus votos, que houveres prometido, nem as tuas ofertas voluntárias, nem a oferta alçada da tua mão. ^v17
+**17** Não comereis, dentro dos vossos portões, do dízimo do vosso trigo, do vosso vinho novo e do vosso azeite, nem dos primogênitos de vosso gado ou rebanho; nem comereis de qualquer carne provinda de vossos sacrifícios como também dos vossos juramentos que fizeres, nem de vossas ofertas voluntárias, nem das ofertas das vossas mãos. ^v17
 
-**18** Mas os comerás perante o Senhor teu Deus, no lugar que escolher o Senhor teu Deus, tu, e teu filho, e a tua filha, e o teu servo, e a tua serva, e o levita que está dentro das tuas portas; e perante o Senhor teu Deus te alegrarás em tudo em que puseres a tua mão. ^v18
+**18** Mas tu, teu filho, tua filha, teus servos, tuas servas e o levita que reside dentro dos teus portões, comerei perante Yahweh, teu Deus, no lugar que Ele escolher, e regozijarás perante Yahweh, teu Deus, em todas as obras de tuas mãos. ^v18
 
-**19** Guarda-te, que não desampares ao levita todos os teus dias na terra. ^v19
+**19** Atenta para não te esqueceres do levita enquanto habitares na tua terra. ^v19
 
-**20** Quando o Senhor teu Deus dilatar os teus termos, como te disse, e disseres: Comerei carne; porquanto a tua alma tem desejo de comer carne; conforme a todo o desejo da tua alma, comerás carne. ^v20
+**20** "Quando Yahweh, teu Deus, alargar tuas fronteiras, como Ele havia te prometido, e tu disseres: ''Comerei carne"", devido ao teu desejo de comer carne, poderás comer carne como desejares." ^v20
 
-**21** Se estiver longe de ti o lugar que o Senhor teu Deus escolher, para ali pôr o seu nome, então matarás das tuas vacas e das tuas ovelhas, que o Senhor te tiver dado, como te tenho ordenado; e comerás dentro das tuas portas, conforme a todo o desejo da tua alma. ^v21
+**21** Se o lugar que Yahweh, teu Deus, escolher para colocar Seu nome estiver longe de ti, então, abaterás do teu gado e do teu rebanho que Yahweh deu a ti, como te ordenei; e poderás comer dentro dos teus portões, como desejares. ^v21
 
-**22** Porém, como se come o corço e o veado, assim comerás; o imundo e o limpo também comerão deles. ^v22
+**22** Comerás do mesmo modo com que se come a gazela e o cervo. Tanto a pessoa impura como o pura poderão comer deles. ^v22
 
-**23** Somente esforça-te para que não comas o sangue; pois o sangue é vida; pelo que não comerás a vida com a carne; ^v23
+**23** Porém, certifica-te de não comer o sangue, pois o sangue é vida; não comas a vida com a carne. ^v23
 
-**24** Não o comerás; na terra o derramarás como água. ^v24
+**24** Não o comerás, o despejarás na terra como água. ^v24
 
-**25** Não o comerás; para que bem te suceda a ti, e a teus filhos, depois de ti, quando fizeres o que for reto aos olhos do Senhor. ^v25
+**25** Não o comerás, para que vivas bem, tu e teus filhos depois de ti, quando fizeres o que é correto aos olhos de Yahweh. ^v25
 
-**26** Porém, as coisas santas que tiveres, e os teus votos tomarás, e virás ao lugar que o Senhor escolher. ^v26
+**26** Mas as coisas que pertencem a Yahweh e que estão contigo, e as tuas ofertas de juramento, levarás ao lugar que Yahweh escolher. ^v26
 
-**27** E oferecerás os teus holocaustos, a carne e o sangue sobre o altar do Senhor teu Deus; e o sangue dos teus sacrifícios se derramará sobre o altar do Senhor teu Deus; porém a carne comerás. ^v27
+**27** Ali, oferecerás teus holocaustos, a carne e o sangue, no altar de Yahweh, teu Deus. O sangue dos teus sacrifícios serão derramados no altar de Yahweh, teu Deus e tu comerás a carne. ^v27
 
-**28** Guarda e ouve todas estas palavras que te ordeno, para que bem te suceda a ti e a teus filhos depois de ti para sempre, quando fizeres o que for bom e reto aos olhos do Senhor teu Deus. ^v28
+**28** Ouve e guarda todas estas palavras que te ordeno, para que vás bem, tu e teus filhos depois de ti para sempre, quando tu fizeres o que é bom e reto aos olhos de Yahweh, teu Deus. ^v28
 
-**29** Quando o Senhor teu Deus desarraigar de diante de ti as nações, aonde vais a possuí-las, e as possuíres e habitares na sua terra, ^v29
+**29** Quando Yahweh, teu Deus, eliminar as nações de diante de ti, quando fores para expulsá-los, e tu os expulsares, e habitares na terra deles, ^v29
 
-**30** Guarda-te, que não te enlaces seguindo-as, depois que forem destruídas diante de ti; e que não perguntes acerca dos seus deuses, dizendo: Assim como serviram estas nações os seus deuses, do mesmo modo também farei eu. ^v30
+**30** "guarda-te para que não sejas seduzido a imitá-los, depois de terem sido destruídos diante de ti, atraído pelos seus deuses, caindo na armadilha de investigares e perguntares: ""Como essas nações adoravam seus deuses? Eu farei da mesma maneira""." ^v30
 
-**31** Assim não farás ao Senhor teu Deus; porque tudo o que é abominável ao Senhor, e que ele odeia, fizeram eles a seus deuses; pois até seus filhos e suas filhas queimaram no fogo aos seus deuses. ^v31
+**31** Tu não farás isso em respeito a Yahweh, teu Deus, pois eles fizeram tudo o que é repugnante a Yahweh, coisas que Ele odeia. Eles fizeram dessas coisas aos seus deuses, até mesmo queimaram seus filhos e suas filhas no fogo para seus deuses. ^v31
 
-**32** Tudo o que eu te ordeno, observarás para fazer; nada lhe acrescentarás nem diminuirás. ^v32
+**32** A tudo que eu te ordenar, atentarás. Nada acrescentarás nem diminuirás. ^v32

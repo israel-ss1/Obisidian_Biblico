@@ -1,107 +1,106 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Mateus|Mateus]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Mateus|Mateus]]"
+tags: [biblia]
 ---
 
 # Mateus 12
 
-**1** Naquele tempo passou Jesus pelas searas, em um sábado; e os seus discípulos, tendo fome, começaram a colher espigas, e a comer. ^v1
+**1** Naquele tempo, Jesus passou pelas plantações de cereais, no dia de sábado. Seus discípulos estavam com fome e começaram a colher espigas e comê-las. ^v1
 
-**2** E os fariseus, vendo isto, disseram-lhe: Eis que os teus discípulos fazem o que não é lícito fazer num sábado. ^v2
+**2** "Mas, quando os fariseus viram isso, disseram a Jesus: ""Olha, Teus discípulos fazem o que não é permitido fazer no sábado""." ^v2
 
-**3** Ele, porém, lhes disse: Não tendes lido o que fez Davi, quando teve fome, ele e os que com ele estavam? ^v3
+**3** "Todavia Jesus disse-lhes: ""Nunca lestes o que Davi fez quando ele e seus homens estavam com fome?" ^v3
 
-**4** Como entrou na casa de Deus, e comeu os pães da proposição, que não lhe era lícito comer, nem aos que com ele estavam, mas só aos sacerdotes? ^v4
+**4** Ele entrou na casa de Deus e comeu os pães consagrados, os quais não eram permitidos a ele comer, nem aos que estavam com ele, mas permitido somente aos sacerdotes. ^v4
 
-**5** Ou não tendes lido na lei que, aos sábados, os sacerdotes no templo violam o sábado, e ficam sem culpa? ^v5
+**5** E não lestes na lei que, no sábado, os sacerdotes profanam esse dia no templo, contudo ficam sem culpa? ^v5
 
-**6** Pois eu vos digo que está aqui quem é maior do que o templo. ^v6
+**6** Todavia eu vos digo: está aqui Aquele que é maior do que o templo. ^v6
 
-**7** Mas, se vós soubésseis o que significa: Misericórdia quero, e não sacrifício, não condenaríeis os inocentes. ^v7
+**7** Se soubésseis o que significa: 'Eu desejo misericórdia e não sacrifício', não condenaríeis inocentes, ^v7
 
-**8** Porque o Filho do homem até do sábado é Senhor. ^v8
+**8** "pois o Filho do Homem é Senhor do sábado""." ^v8
 
-**9** E, partindo dali, chegou à sinagoga deles. ^v9
+**9** Então Jesus partiu de lá e entrou na sinagoga. ^v9
 
-**10** E, estava ali um homem que tinha uma das mãos mirrada; e eles, para o acusarem, o interrogaram, dizendo: É lícito curar nos sábados? ^v10
+**10** "Eis que lá havia um homem com uma mão atrofiada. Os fariseus perguntaram a Jesus: ""É permitido curar no sábado?"" de forma que eles pudessem acusá-Lo de pecar." ^v10
 
-**11** E ele lhes disse: Qual dentre vós será o homem que tendo uma ovelha, se num sábado ela cair numa cova, não lançará mão dela, e a levantará? ^v11
+**11** "Jesus disse-lhes: ""Que homem entre vós, o qual tendo apenas uma ovelha, e, se essa ovelha cair em um buraco profundo, no sábado, não a agarraria e a tiraria dali?" ^v11
 
-**12** Pois, quanto mais vale um homem do que uma ovelha? É, por conseqüência, lícito fazer bem nos sábados. ^v12
+**12** "Quanto mais valor, então, tem um homem do que uma ovelha! Logo, é permitido fazer o bem no sábado""." ^v12
 
-**13** Então disse àquele homem: Estende a tua mão. E ele a estendeu, e ficou sã como a outra. ^v13
+**13** "Então Jesus disse ao homem: ""Estende a tua mão"". Ele a estendeu e ela foi restaurada, ficando exatamente como a outra mão." ^v13
 
-**14** E os fariseus, tendo saído, formaram conselho contra ele, para o matarem. ^v14
+**14** Mas os fariseus saíram e conspiravam contra Ele, sobre como poderiam tirar-Lhe a vida. ^v14
 
-**15** Jesus, sabendo isso, retirou-se dali, e acompanharam-no grandes multidões, e ele curou a todas. ^v15
+**15** Jesus, percebendo isso, afastou-se dali. Muitas pessoas O seguiram, e Ele curou a todas ^v15
 
-**16** E recomendava-lhes rigorosamente que o não descobrissem, ^v16
+**16** e ordenou-lhes que não O fizesse conhecido aos outros, ^v16
 
-**17** Para que se cumprisse o que fora dito pelo profeta Isaías, que diz: ^v17
+**17** para se tornar verdade o que foi dito por Isaías, o profeta: ^v17
 
-**18** Eis aqui o meu servo, que escolhi,o meu amado, em quem a minha alma se compraz;porei sobre ele o meu espírito,e anunciará aos gentios o juízo. ^v18
+**18** """Vede Meu servo a quem escolhi, O Meu amado, em quem Minha alma tem prazer. Eu colocarei Meu Espírito sobre Ele, e Ele anunciará justiça aos gentios." ^v18
 
-**19** Não contenderá, nem clamará,Nem alguém ouvirá pelas ruas a sua voz; ^v19
+**19** Ele não discutirá, nem gritará, nem alguém ouvirá Sua voz nas ruas. ^v19
 
-**20** Não esmagará a cana quebrada,enão apagará o morrão que fumega,até que faça triunfar o juízo; ^v20
+**20** Ele não quebrará uma cana torcida, Ele não apagará o pavio que fumega, até que Ele leve a justiça à vitória, ^v20
 
-**21** E no seu nome os gentios esperarão. ^v21
+**21** "e os gentios terão confiança em Seu nome""." ^v21
 
-**22** Trouxeram-lhe, então, um endemoninhado cego e mudo; e, de tal modo o curou, que o cego e mudo falava e via. ^v22
+**22** Então foi levado a Ele um homem cego e mudo, possuído por um demônio, e Jesus o curou. O resultado foi que o homem mudo passou a ver e a falar. ^v22
 
-**23** E toda a multidão se admirava e dizia: Não é este o Filho de Davi? ^v23
+**23** "Todas as multidões ficaram maravilhadas e disseram: ""Pode este homem ser o Filho de Davi?""" ^v23
 
-**24** Mas os fariseus, ouvindo isto, diziam: Este não expulsa os demônios senão por Belzebu, príncipe dos demônios. ^v24
+**24** "Mas, quando os fariseus ouviram desse milagre, disseram: ""Este homem não expulsa demônios senão por Belzebu, o príncipe dos demônios""." ^v24
 
-**25** Jesus, porém, conhecendo os seus pensamentos, disse-lhes: Todo o reino dividido contra si mesmo é devastado; e toda a cidade, ou casa, dividida contra si mesma não subsistirá. ^v25
+**25** "Jesus, conhecendo os seus pensamentos, disse-lhes: ""Todo reino dividido contra si mesmo ficará desolado, e toda cidade ou casa dividida contra si mesma não permanecerá." ^v25
 
-**26** E, se Satanás expulsa a Satanás, está dividido contra si mesmo; como subsistirá, pois, o seu reino? ^v26
+**26** Se Satanás expulsa Satanás, ele está dividido contra si mesmo; como o seu reino permanecerá? ^v26
 
-**27** E, se eu expulso os demônios por Belzebu, por quem os expulsam então vossos filhos? Portanto, eles mesmos serão os vossos juízes. ^v27
+**27** E se Eu expulso demônios por Belzebu, por quem expulsam os vossos filhos? Por causa disso, eles serão vossos juízes. ^v27
 
-**28** Mas, se eu expulso os demônios pelo Espírito de Deus, logo é chegado a vós o reino de Deus. ^v28
+**28** Mas se Eu expulso os demônios pelo Espírito de Deus, então o Reino de Deus chegou a vós. ^v28
 
-**29** Ou, como pode alguém entrar na casa do homem valente, e furtar os seus bens, se primeiro não maniatar o valente, saqueando então a sua casa? ^v29
+**29** E como pode alguém entrar na casa do homem forte e roubar seus pertences sem amarrá-lo primeiro? Então, ele roubará os pertences de sua casa. ^v29
 
-**30** Quem não é comigo é contra mim; e quem comigo não ajunta, espalha. ^v30
+**30** Aquele que não está comigo é contra Mim, e aquele que comigo não ajunta espalha. ^v30
 
-**31** Portanto, eu vos digo: Todo o pecado e blasfêmia se perdoará aos homens; mas a blasfêmia contra o Espírito não será perdoada aos homens. ^v31
+**31** Por isso, vos digo: todo pecado e blasfêmia serão perdoados aos homens, mas a blasfêmia contra o Espírito não será perdoada. ^v31
 
-**32** E, se qualquer disser alguma palavra contra o Filho do homem, ser-lhe-á perdoado; mas, se alguém falar contra o Espírito Santo, não lhe será perdoado, nem neste século nem no futuro. ^v32
+**32** Qualquer um que falar alguma palavra contra o Filho do Homem, isso lhe será perdoado; mas aquele que falar contra o Espírito Santo, isso não lhe será perdoado, nem neste mundo, nem no mundo que está por vir. ^v32
 
-**33** Ou fazei a árvore boa, e o seu fruto bom, ou fazei a árvore má, e o seu fruto mau; porque pelo fruto se conhece a árvore. ^v33
+**33** Se uma árvore é boa, o seu fruto será bom; se uma árvore é má, o seu fruto será mau, pois uma árvore é conhecida por seus frutos. ^v33
 
-**34** Raça de víboras, como podeis vós dizer boas coisas, sendo maus? Pois do que há em abundância no coração, disso fala a boca. ^v34
+**34** Raça de víboras, se vós sois maus, como podeis dizer coisas boas? Pois a boca fala do que o coração está cheio. ^v34
 
-**35** O homem bom tira boas coisas do bom tesouro do seu coração, e o homem mau do mau tesouro tira coisas más. ^v35
+**35** O homem bom, do seu bom tesouro, tira o que é bom, já o homem mau, do seu mau tesouro, tira o que é mau. ^v35
 
-**36** Mas eu vos digo que de toda a palavra ociosa que os homens disserem hão de dar conta no dia do juízo. ^v36
+**36** E eu vos digo que, no dia do juízo, as pessoas prestarão contas por cada palavra inútil que elas disserem. ^v36
 
-**37** Porque por tuas palavras serás justificado, e por tuas palavras serás condenado. ^v37
+**37** "Portanto, pelas tuas palavras sereis justificados, e pelas tuas palavras sereis condenados""." ^v37
 
-**38** Então alguns dos escribas e dos fariseus tomaram a palavra, dizendo: Mestre, quiséramos ver da tua parte algum sinal. ^v38
+**38** "Então, certos escribas e fariseus disseram a Jesus: ""Mestre, nós queremos ver um sinal Teu""." ^v38
 
-**39** Mas ele lhes respondeu, e disse: Uma geração má e adúltera pede um sinal, porém, não se lhe dará outro sinal senão o sinal do profeta Jonas; ^v39
+**39** "Contudo Jesus respondeu-lhes: ""Uma geração má e adúltera procura por sinal; mas nenhum sinal lhe será dado, exceto o sinal de Jonas, o profeta." ^v39
 
-**40** Pois, como Jonas esteve três dias e três noites no ventre da baleia, assim estará o Filho do homem três dias e três noites no seio da terra. ^v40
+**40** Porque assim como Jonas esteve três dias e três noites na barriga do grande peixe, assim estará o Filho do Homem três dias e três noites no coração da terra. ^v40
 
-**41** Os ninivitas ressurgirão no juízo com esta geração, e a condenarão, porque se arrependeram com a pregação de Jonas. E eis que está aqui quem é maior do que Jonas. ^v41
+**41** Os homens de Nínive se levantarão, no juízo, contra essa geração de pessoas e a condenarão, pois eles se arrependeram com a pregação de Jonas, e vede: está aqui alguém maior do que Jonas. ^v41
 
-**42** A rainha do sul se levantará no dia do juízo com esta geração, e a condenará; porque veio dos confins da terra para ouvir a sabedoria de Salomão. E eis que está aqui quem é maior do que Salomão. ^v42
+**42** A rainha do Sul se levantará, no juízo, com os homens dessa geração e a condenará, pois ela veio dos confins da terra para ouvir a sabedoria de Salomão, e vede: está aqui alguém maior do que Salomão. ^v42
 
-**43** E, quando o espírito imundo tem saído do homem, anda por lugares áridos, buscando repouso, e não o encontra. ^v43
+**43** Quando um espírito imundo sai de um homem, anda por lugares secos e procura por descanso, mas não encontra. ^v43
 
-**44** Então diz: Voltarei para a minha casa, de onde saí. E, voltando, acha-a desocupada, varrida e adornada. ^v44
+**44** Então diz: 'Eu voltarei para a minha casa, de onde vim'. Tendo voltado, encontra a casa varrida e posta em ordem. ^v44
 
-**45** Então vai, e leva consigo outros sete espíritos piores do que ele e, entrando, habitam ali; e são os últimos atos desse homem piores do que os primeiros. Assim acontecerá também a esta geração má. ^v45
+**45** "Então vai e leva consigo outros sete espíritos piores que ele mesmo, e todos eles entram para viver lá. Então a condição final desse homem se torna pior do que a primeira. Assim será com essa geração má""." ^v45
 
-**46** E, falando ele ainda à multidão, eis que estavam fora sua mãe e seus irmãos, pretendendo falar-lhe. ^v46
+**46** Enquanto Jesus ainda falava às multidões, eis que sua mãe e seus irmãos estavam do lado de fora, procurando falar com ele. ^v46
 
-**47** E disse-lhe alguém: Eis que estão ali fora tua mãe e teus irmãos, que querem falar-te. ^v47
+**47** "Alguém lhe disse: ""Olha, Tua mãe e Teus irmãos estão do lado de fora, procurando falar contigo""." ^v47
 
-**48** Ele, porém, respondendo, disse ao que lhe falara: Quem é minha mãe? E quem são meus irmãos? ^v48
+**48** "Mas Jesus disse ao que falou com Ele: ""Quem é Minha mãe? E quem são Meus irmãos?""" ^v48
 
-**49** E, estendendo a sua mão para os seus discípulos, disse: Eis aqui minha mãe e meus irmãos; ^v49
+**49** "Então Ele estendeu as mãos aos Seus discípulos e disse: ""Olhai, aqui estão minha mãe e meus irmãos!" ^v49
 
-**50** Porque, qualquer que fizer a vontade de meu Pai que está nos céus, este é meu irmão, e irmã e mãe. ^v50
+**50** "Pois aquele que faz a vontade do meu Pai que está no céu, essa pessoa é Meu irmão, irmã e mãe""." ^v50

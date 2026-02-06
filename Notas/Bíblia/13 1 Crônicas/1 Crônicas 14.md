@@ -1,41 +1,40 @@
 ---
-Livro: "[[1 Crônicas|1 Crônicas]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/1 Crônicas|1 Crônicas]]"
+tags: [biblia]
 ---
 
 # 1 Crônicas 14
 
-**1** Então Hirão, rei de Tiro, mandou mensageiros a Davi, e madeira de cedro, e pedreiros, e carpinteiros, para lhe edificarem uma casa. ^v1
+**1** Então, Hirão, rei de Tiro, enviou a Davi mensageiros, árvores de cedro, carpinteiros e pedreiros. Eles construíram uma casa para ele. ^v1
 
-**2** E entendeu Davi que o Senhor o tinha confirmado rei sobre Israel; porque o seu reino tinha sido muito exaltado por amor do seu povo Israel. ^v2
+**2** Davi soube que Yahweh o tinha estabelecido como rei sobre Israel e que seu reino tinha sido exaltado por causa de Seu povo Israel. ^v2
 
-**3** E Davi tomou ainda mais mulheres em Jerusalém; e gerou Davi ainda mais filhos e filhas. ^v3
+**3** Em Jerusalém, Davi tomou outras esposas, e se tornou pai de mais filhos e filhas. ^v3
 
-**4** E estes são os nomes dos filhos que teve em Jerusalém: Samua, Sobabe, Natã, Salomão, ^v4
+**4** Estes foram os nomes dos filhos dele, que nasceram em Jerusalém: Samua, Sobabe, Natã, Salomão, ^v4
 
-**5** E Ibar, Elisua, Elpelete, ^v5
+**5** Ibar, Elisua, Elpelete, ^v5
 
-**6** E Nogá, Nefegue, Jafia, ^v6
+**6** Nogá, Nefegue, Jafia, ^v6
 
-**7** E Elisama, Eliada, e Elifelete. ^v7
+**7** Elisama, Beeliada e Elifelete. ^v7
 
-**8** Ouvindo, pois, os filisteus que Davi havia sido ungido rei sobre todo o Israel, todos os filisteus subiram em busca de Davi; o que ouvindo Davi, logo saiu contra eles. ^v8
+**8** Quando os filisteus ouviram que Davi tinha sido ungido como rei sobre todo o Israel, todos eles saíram a procurá-lo. Mas Davi soube disso e saiu contra eles. ^v8
 
-**9** E vindo os filisteus, se estenderam pelo vale de Refaim. ^v9
+**9** Os filisteus vieram e invadiram o vale de Refaim. ^v9
 
-**10** Então consultou Davi a Deus, dizendo: Subirei contra os filisteus, e nas minhas mãos os entregarás? E o Senhor lhe disse: Sobe, porque os entregarei nas tuas mãos. ^v10
+**10** "Então, Davi pediu ajuda a Deus. Ele disse: ""Devo atacar os filisteus? Tu darás vitória sobre eles?"". Yahweh lhe disse: ""Ataca, pois Eu certamente os darei a ti""." ^v10
 
-**11** E, subindo a Baal-Perazim, Davi ali os feriu; e disse Davi: Por minha mão Deus derrotou a meus inimigos, como se rompem as águas. Pelo que chamaram aquele lugar, Baal-Perazim. ^v11
+**11** "Então, eles foram a Baal-Perazim, e lá ele os derrotou. Ele comentou: ""Yahweh destruiu meus inimigos por minha mão, como uma explosão de torrentes de água"". Então, o nome daquele lugar se tornou Baal-Perazim." ^v11
 
-**12** E deixaram ali seus deuses; e ordenou Davi que se queimassem a fogo; ^v12
+**12** Os filisteus abandonaram seus deuses os quais foram queimados por ordem de Davi. ^v12
 
-**13** Porém os filisteus tornaram, e se estenderam pelo vale. ^v13
+**13** Então, os filisteus invadiram o vale novamente. ^v13
 
-**14** E tornou Davi a consultar a Deus; e disse-lhe Deus: Não subirás atrás deles; mas rodeia-os por detrás, e vem a eles por defronte das amoreiras; ^v14
+**14** "Naquela ocasião, Davi pediu ajuda a Deus outra vez. Deus lhe disse: ""Não ataques pela frente, mas dá a volta por trás, e passa pela floresta de amoreira." ^v14
 
-**15** E há de ser que, ouvindo tu um ruído de marcha pelas copas das amoreiras, então sairás à peleja; porque Deus terá saído diante de ti, para ferir o exército dos filisteus. ^v15
+**15** "Quando tu ouvires o som de marcha pelo vento, soprando nas copas das amoreiras, ataca com força. Faze isso, pois Deus terá saído antes de ti para atacar o exército dos filisteus""." ^v15
 
-**16** E fez Davi como Deus lhe ordenara; e feriram o exército dos filisteus desde Gibeom até Gezer. ^v16
+**16** Então, Davi fez conforme Deus havia ordenado. Ele derrotou o exército dos filisteus desde Gibeão até Gezer. ^v16
 
-**17** Assim se espalhou o nome de Davi por todas aquelas terras; e o Senhor pôs o temor dele sobre todas aquelas nações. ^v17
+**17** Assim, a fama de Davi percorreu por todas as terras, e Yahweh fez com que todas as nações o temessem. ^v17

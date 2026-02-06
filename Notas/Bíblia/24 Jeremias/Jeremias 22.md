@@ -1,67 +1,66 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Jeremias|Jeremias]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Jeremias|Jeremias]]"
+tags: [biblia]
 ---
 
 # Jeremias 22
 
-**1** Assim diz o SENHOR: Desce à casa do rei de Judá, e anuncia ali esta palavra, ^v1
+**1** "Assim diz Yahweh: ""Descei à casa do rei de Judá e proclamai ali esta palavra." ^v1
 
-**2** E dize: Ouve a palavra do Senhor, ó rei de Judá, que te assentas no trono de Davi, tu, e os teus servos, o teu povo, que entrais por estas portas. ^v2
+**2** Dizei: 'Rei de Judá, que te assentas no trono de Davi, ouve a palavra de Yahweh. Ouvi também vós, servos do rei, e vós, povo do rei, que passais por estes portões. ^v2
 
-**3** Assim diz o Senhor: Exercei o juízo e a justiça, e livrai o espoliado da mão do opressor; e não oprimais ao estrangeiro, nem ao órfão, nem à viúva; não façais violência, nem derrameis sangue inocente neste lugar. ^v3
+**3** Assim diz Yahweh: 'Exerce a justiça e a retidão e resgata das mãos do opressor todo aquele que é explorado. Não maltrates nenhum estrangeiro, órfão ou viúva em tua terra. Não pratiques a violência, nem derrames sangue inocente neste lugar. ^v3
 
-**4** Porque, se deveras cumprirdes esta palavra, entrarão pelas portas desta casa os reis que se assentarão em lugar de Davi sobre o seu trono, andando em carros e montados em cavalos, eles, e os seus servos, e o seu povo. ^v4
+**4** Pois se, verdadeiramente, fizeres o que digo, os reis que se assentam no trono de Davi entrarão pelas portas desta casa em carruagens e cavalos, acompanhados de seus servos e de seu povo! ^v4
 
-**5** Mas, se não derdes ouvidos a estas palavras, por mim mesmo tenho jurado, diz o Senhor, que esta casa se tornará em assolação. ^v5
+**5** Mas, se não ouvires as Minhas palavras, o que tenho anunciado – esta é a declaração de Yahweh – então, este palácio real se tornará em desolação. ^v5
 
-**6** Porque assim diz o Senhor acerca da casa do rei de Judá: Tu és para mim Gileade, e a cabeça do Líbano; mas por certo que farei de ti um deserto e cidades desabitadas. ^v6
+**6** Pois assim diz Yahweh acerca do palácio do rei de Judá: 'És para mim como Gileade ou como o alto da montanha do Líbano. Ainda assim, certamente, o transformarei em um deserto, em uma cidade desabitada. ^v6
 
-**7** Porque preparei contra ti destruidores, cada um com as suas armas; e cortarão os teus cedros escolhidos, e lançá-los-ão no fogo. ^v7
+**7** Pois preparei destruidores para se levantarem contra ti! Homens com suas armas cortarão teus melhores cedros e os lançarão no fogo. ^v7
 
-**8** E muitas nações passarão por esta cidade, e dirá cada um ao seu próximo: Por que procedeu o Senhor assim com esta grande cidade? ^v8
+**8** Então, muitas nações passarão por esta cidade e perguntarão umas às outras: 'Por que Yahweh agiu dessa maneira com esta grande cidade?' ^v8
 
-**9** E dirão: Porque deixaram a aliança do Senhor seu Deus, e se inclinaram diante de outros deuses, e os serviram. ^v9
+**9** Responderão: 'Porque abandonaram a aliança de Yahweh, seu Deus, e se prostraram e adoraram outros deuses.' ^v9
 
-**10** Não choreis o morto, nem o lastimeis; chorai abundantemente aquele que sai, porque nunca mais tornará nem verá a terra onde nasceu. ^v10
+**10** Não choreis pelo morto, nem lastimeis por ele, mas pranteai por todo aquele que for levado cativo, porque nunca mais retornará, nem verá novamente a terra em que nasceu. ^v10
 
-**11** Porque assim diz o Senhor acerca de Salum, filho de Josias, rei de Judá, que reinou em lugar de Josias, seu pai, e que saiu deste lugar: Nunca mais ali tornará. ^v11
+**11** Pois assim diz Yahweh acerca de Salum, filho de Josias, rei de Judá, que reinou em lugar de Josias, seu pai: 'Ele partiu deste lugar e não mais voltará. ^v11
 
-**12** Mas no lugar para onde o levaram cativo ali morrerá, e nunca mais verá esta terra. ^v12
+**12** Ele morrerá no lugar para onde o levaram cativo e nunca mais verá esta terra. ^v12
 
-**13** Ai daquele que edifica a sua casa com injustiça, e os seus aposentos sem direito, que se serve do serviço do seu próximo sem remunerá-lo, e não lhe dá o salário do seu trabalho. ^v13
+**13** Ai daquele que edifica sua casa sem retidão, e seus aposentos com injustiça, que faz seu vizinho trabalhar para ele de graça. ^v13
 
-**14** Que diz: Edificarei para mim uma casa espaçosa, e aposentos largos; e que lhe abre janelas, forrando-a de cedro, e pintando-a de vermelhão. ^v14
+**14** Ai daquele que diz: ''Eu construirei para mim uma casa ampla, com cômodos espaçosos'. Então, abre-lhe largas janelas, cobre-a com cedro, e a pinta de vermelho. ^v14
 
-**15** Porventura reinarás tu, porque te encerras em cedro? Acaso teu pai não comeu e bebeu, e não praticou o juízo e a justiça? Por isso lhe sucedeu bem. ^v15
+**15** Por acaso, é ter painéis de cedro que faz com que sejas um bom rei? Não foi teu pai que comeu e bebeu, e mesmo assim agiu com justiça e retidão? Por isso, as coisas iam bem para ele. ^v15
 
-**16** Julgou a causa do aflito e necessitado; então lhe sucedeu bem; porventura não é isto conhecer-me? diz o Senhor. ^v16
+**16** Ele julgou em favor do pobre e do necessitado; por isso, as coisas iam bem. Não é isso o que significa me conhecer? – essa é a declaração de Yahweh. ^v16
 
-**17** Mas os teus olhos e o teu coração não atentam senão para a tua avareza, e para derramar sangue inocente, e para praticar a opressão, e a violência. ^v17
+**17** Mas não tens olhos ou coração para nada, exceto para o teu ganho desonesto e para derramar sangue inocente, para oprimir e esmagar os outros. ^v17
 
-**18** Portanto assim diz o SENHOR acerca de Jeoiaquim, filho de Josias, rei de Judá: Não o lamentarão, dizendo: Ai, meu irmão, ou ai, minha irmã! Nem o lamentarão, dizendo: Ai, senhor, ou, ai, sua glória! ^v18
+**18** Portanto, assim diz Yahweh acerca de Jeoaquim, filho de Josias, rei de Judá: Não o lamentarão com 'Ai, meu irmão!' ou 'Ai, minha irmã!' Nem o lamentarão com 'Ai, senhor!' ou 'Ai, majestade!' ^v18
 
-**19** Em sepultura de jumento será sepultado, sendo arrastado e lançado para bem longe, fora das portas de Jerusalém. ^v19
+**19** Ele será sepultado como se sepulta um asno, será arrastado e jogado para fora das portas de Jerusalém. ^v19
 
-**20** Sobe ao Líbano, e clama, e levanta a tua voz em Basã, e clama desde Abarim; porque estão destruídos todos os teus namorados. ^v20
+**20** Subi aos montes do Líbano e clamai, levantai as vossas vozes em Basã. Clamai desde as montanhas de Abarim, pois todos os vossos amigos serão destruídos. ^v20
 
-**21** Falei contigo na tua prosperidade, mas tu disseste: Não ouvirei. Este tem sido o teu caminho, desde a tua mocidade, pois nunca deste ouvidos à minha voz. ^v21
+**21** Eis que falei convosco em vossa prosperidade, mas dissestes: 'Não ouviremos'. Este tem sido o vosso comportamento desde a juventude, não ouvis a Minha voz. ^v21
 
-**22** O vento apascentará a todos os teus pastores, e os teus namorados irão para o cativeiro; certamente então te confundirás, e te envergonharás por causa de toda a tua maldade. ^v22
+**22** O vento apascentará todos os vossos pastores, e vossos amigos irão para o cativeiro. Eis que, certamente, sereis envergonhados e humilhados por todos os vossos atos perversos. ^v22
 
-**23** Ó tu, que habitas no Líbano e fazes o teu ninho nos cedros, quão lastimada serás quando te vierem as dores e os ais como da que está de parto. ^v23
+**23** Ó tu, que habitas no Líbano, que fazes o teu ninho nos cedros, como terão pena de ti quando te vierem dores e aflições como as de uma mulher em trabalho de parto!' ^v23
 
-**24** Vivo eu, diz o Senhor, que ainda que Conias, filho de Jeoiaquim, rei de Judá, fosse o anel do selo na minha mão direita, contudo dali te arrancaria. ^v24
+**24** """Como eu vivo!"", diz Yahweh, ""ainda que tu, Joaquim, filho de Jeoaquim, rei de Judá, fosses o anel de selar em minha mão direita, eu te arrancaria." ^v24
 
-**25** E entregar-te-ei na mão dos que buscam a tua vida, e na mão daqueles diante de quem tu temes, a saber, na mão de Nabucodonosor, rei de babilônia, e na mão dos caldeus. ^v25
+**25** Pois te entreguei nas mãos daqueles que procuram tirar tua vida, e daqueles a quem temes: nas mãos de Nabucodonosor, rei da Babilônia, e dos caldeus. ^v25
 
-**26** E lançar-te-ei, a ti e à tua mãe que te deu à luz, para uma terra estranha, em que não nasceste, e ali morrereis. ^v26
+**26** Eu expulsarei a ti e à tua mãe, que te gerou, para outra terra, diferente da qual nascestes e ali morrereis. ^v26
 
-**27** Mas à terra, para a qual eles com toda a alma desejam voltar, para lá não voltarão. ^v27
+**27** À terra para a qual eles desejavam voltar, não mais retornarão. ^v27
 
-**28** É, pois, este homem Conias um ídolo desprezado e quebrado, ou um vaso de que ninguém se agrada? Por que razão foram arremessados fora, ele e a sua geração, e arrojados para uma terra que não conhecem? ^v28
+**28** É esse homem, Jeoaquim, um vaso inútil e quebrado? É esse homem um vaso que ninguém deseja? Por que o expulsaram, bem como sua descendência, e os lançaram em uma terra que não conheciam?' ^v28
 
-**29** Ó terra, terra, terra! Ouve a palavra do Senhor. ^v29
+**29** Terra, terra, terra! Ouve a palavra de Yahweh! ^v29
 
-**30** Assim diz o Senhor: Escrevei que este homem está privado de filhos, homem que não prosperará nos seus dias; porque nenhum da sua geração prosperará, para se assentar no trono de Davi, e reinar ainda em Judá. ^v30
+**30** "Yahweh diz: 'Escreve sobre esse homem, Joaquim: 'ele não terá filhos, não prosperará nos seus dias, e nenhum de seus descendentes alcançará o sucesso ou se sentará novamente no trono de Davi e governará sobre Judá""." ^v30

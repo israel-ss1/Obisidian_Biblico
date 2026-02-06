@@ -1,93 +1,92 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Marcos|Marcos]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Marcos|Marcos]]"
+tags: [biblia]
 ---
 
 # Marcos 5
 
-**1** E chegaram ao outro lado do mar, à província dos gadarenos. ^v1
+**1** Chegaram ao outro lado do mar, à região dos gerasenos. ^v1
 
-**2** E, saindo ele do barco, lhe saiu logo ao seu encontro, dos sepulcros, um homem com espírito imundo; ^v2
+**2** Assim que Jesus saiu do barco, um homem com espírito imundo, saindo dos sepulcros, veio até Ele. ^v2
 
-**3** O qual tinha a sua morada nos sepulcros, e nem ainda com cadeias o podia alguém prender; ^v3
+**3** O homem vivia em sepulcros. Ninguém podia detê-lo, nem mesmo com uma corrente. ^v3
 
-**4** Porque, tendo sido muitas vezes preso com grilhões e cadeias, as cadeias foram por ele feitas em pedaços, e os grilhões em migalhas, e ninguém o podia amansar. ^v4
+**4** Ele havia sido preso várias vezes com correntes e algemas, mas as quebrava e ninguém tinha força para dominá-lo. ^v4
 
-**5** E andava sempre, de dia e de noite, clamando pelos montes, e pelos sepulcros, e ferindo-se com pedras. ^v5
+**5** Todas as noites e dias, nos sepulcros e nas montanhas, ele gritava e se cortava com pedras afiadas. ^v5
 
-**6** E, quando viu Jesus ao longe, correu e adorou-o. ^v6
+**6** Quando viu Jesus de longe, correu e ajoelhou-se diante Dele. ^v6
 
-**7** E, clamando com grande voz, disse: Que tenho eu contigo, Jesus, Filho do Deus Altíssimo? conjuro-te por Deus que não me atormentes. ^v7
+**7** "Ele clamou em alta voz: ""Que tenho eu contigo, Jesus, Filho do Deus Altíssimo? Imploro-Te, por Deus, que não me atormentes""." ^v7
 
-**8** (Porque lhe dizia: Sai deste homem, espírito imundo.) ^v8
+**8** "Pois Jesus já lhe havia ordenado: ""Sái deste homem, espírito imundo""." ^v8
 
-**9** E perguntou-lhe: Qual é o teu nome? E lhe respondeu, dizendo: Legião é o meu nome, porque somos muitos. ^v9
+**9** "Todavia Jesus o interrogou: ""Qual é o teu nome?"" Respondeu ele: ""Meu nome é Legião, pois nós somos muitos""." ^v9
 
-**10** E rogava-lhe muito que os não enviasse para fora daquela província. ^v10
+**10** E implorava a Jesus repetidamente que não os mandasse para fora da região. ^v10
 
-**11** E andava ali pastando no monte uma grande manada de porcos. ^v11
+**11** Aconteceu que uma grande manada de porcos pastava no monte, ^v11
 
-**12** E todos aqueles demônios lhe rogaram, dizendo: Manda-nos para aqueles porcos, para que entremos neles. ^v12
+**12** "e os espíritos imundos O imploraram, dizendo: ""Manda-nos para os porcos; deixa-nos entrar neles""." ^v12
 
-**13** E Jesus logo lho permitiu. E, saindo aqueles espíritos imundos, entraram nos porcos; e a manada se precipitou por um despenhadeiro no mar (eram quase dois mil), e afogaram-se no mar. ^v13
+**13** E Jesus assim lhes permitiu. Então os espíritos imundos saíram e entraram nos porcos. A manada, de uns dois mil, lançou-se ao lago por um precipício, e se afogaram na água. ^v13
 
-**14** E os que apascentavam os porcos fugiram, e o anunciaram na cidade e nos campos; e saíram muitos a ver o que era aquilo que tinha acontecido. ^v14
+**14** As pessoas que apascentavam os porcos fugiram, relataram esses fatos na cidade e nos campos, e todo o povo correu para ver o que se havia passado. ^v14
 
-**15** E foram ter com Jesus, e viram o endemoninhado, o que tivera a legião, assentado, vestido e em perfeito juízo, e temeram. ^v15
+**15** Chegando a Jesus, viram o endemoniado, o que tivera a legião, sentado, vestido e em perfeito juízo e eles ficaram com medo. ^v15
 
-**16** E os que aquilo tinham visto contaram-lhes o que acontecera ao endemoninhado, e acerca dos porcos. ^v16
+**16** Aqueles que viram o que acontecera ao homem possuído por demônios contaram o que havia ocorrido a ele e também aos porcos. ^v16
 
-**17** E começaram a rogar-lhe que saísse dos seus termos. ^v17
+**17** Começaram a suplicar para Jesus que deixasse sua região. ^v17
 
-**18** E, entrando ele no barco, rogava-lhe o que fora endemoninhado que o deixasse estar com ele. ^v18
+**18** Quando Ele estava entrando no barco, o homem antes possuído por demônios implorou para que pudesse estar com Ele. ^v18
 
-**19** Jesus, porém, não lho permitiu, mas disse-lhe: Vai para tua casa, para os teus, e anuncia-lhes quão grandes coisas o Senhor te fez, e como teve misericórdia de ti. ^v19
+**19** "Jesus porém, não lhe permitiu, mas disse: ""Vai para tua casa, para teu povo, e dize-lhes o que o Senhor fez por ti e como teve misericórdia de ti""." ^v19
 
-**20** E ele foi, e começou a anunciar em Decápolis quão grandes coisas Jesus lhe fizera; e todos se maravilharam. ^v20
+**20** Então o homem foi embora e proclamou em Decápolis os grandes feitos de Jesus por ele. E todos ficaram maravilhados. ^v20
 
-**21** E, passando Jesus outra vez num barco para o outro lado, ajuntou-se a ele uma grande multidão; e ele estava junto do mar. ^v21
+**21** Quando Jesus atravessou novamente para o outro lado, no barco, uma grande multidão se aglomerou ao Seu redor, enquanto Ele estava junto ao mar. ^v21
 
-**22** E eis que chegou um dos principais da sinagoga, por nome Jairo, e, vendo-o, prostrou-se aos seus pés, ^v22
+**22** E eis que chegou um dos chefes da sinagoga, chamado Jairo, e caiu aos Seus pés quando O viu. ^v22
 
-**23** E rogava-lhe muito, dizendo: Minha filha está à morte; rogo-te que venhas e lhe imponhas as mãos, para que sare, e viva. ^v23
+**23** "Ele implorava repetidamente, dizendo: ""Minha filhinha está à beira da morte. Te imploro que venhas e imponhas as Tuas mãos sobre ela, e assim ficará bem e viva""." ^v23
 
-**24** E foi com ele, e seguia-o uma grande multidão, que o apertava. ^v24
+**24** Então Jesus foi com ele. Uma grande multidão O seguia e O comprimia. ^v24
 
-**25** E certa mulher que, havia doze anos, tinha um fluxo de sangue, ^v25
+**25** Ora, havia uma mulher que sofria de hemorragia há doze anos. ^v25
 
-**26** E que havia padecido muito com muitos médicos, e despendido tudo quanto tinha, nada lhe aproveitando isso, antes indo a pior; ^v26
+**26** Ela muito sofrera sob os cuidados de vários médicos e gastara tudo o que possuía. Mas nada lhe ajudava; pelo contrário, piorava. ^v26
 
-**27** Ouvindo falar de Jesus, veio por detrás, entre a multidão, e tocou na sua veste. ^v27
+**27** Tendo ouvido falar a respeito de Jesus, veio por detrás, entre a multidão, e tocou-lhe o manto. ^v27
 
-**28** Porque dizia: Se tão-somente tocar nas suas vestes, sararei. ^v28
+**28** "Pois ela dizia: ""Se eu tocar ao menos Suas vestes, serei curada""." ^v28
 
-**29** E logo se lhe secou a fonte do seu sangue; e sentiu no seu corpo estar já curada daquele mal. ^v29
+**29** Naquele instante, se lhe estancou a hemorragia e a mulher sentiu que seu corpo estava liberto do seu sofrimento. ^v29
 
-**30** E logo Jesus, conhecendo que a virtude de si mesmo saíra, voltou-se para a multidão, e disse: Quem tocou nas minhas vestes? ^v30
+**30** "Imediatamente, Jesus percebeu que Dele havia saído poder. Virou-se, no meio da multidão, e perguntou: ""Quem tocou em Minhas vestes?""." ^v30
 
-**31** E disseram-lhe os seus discípulos: Vês que a multidão te aperta, e dizes: Quem me tocou? ^v31
+**31** "Os Seus discípulos Lhe disseram: “Vês esta multidão comprimindo-Te e dizes: ‘Quem Me tocou?'""." ^v31
 
-**32** E ele olhava em redor, para ver a que isto fizera. ^v32
+**32** Mas Jesus olhou ao Seu redor para ver quem havia feito isto. ^v32
 
-**33** Então a mulher, que sabia o que lhe tinha acontecido, temendo e tremendo, aproximou-se, e prostrou-se diante dele, e disse-lhe toda a verdade. ^v33
+**33** A mulher, sabendo o que lhe havia acontecido, temeu e tremeu. Ela veio, prostrou-se diante de Jesus e contou-Lhe toda a verdade. ^v33
 
-**34** E ele lhe disse: Filha, a tua fé te salvou; vai em paz, e sê curada deste teu mal. ^v34
+**34** "Então, lhe disse: ""Filha, tua fé te curou. Vai em paz e fica livre da tua doença""." ^v34
 
-**35** Estando ele ainda falando, chegaram alguns do principal da sinagoga, a quem disseram: A tuafilha está morta; para que enfadas mais o Mestre? ^v35
+**35** "Enquanto Ele falava, algumas pessoas vieram da casa do chefe da sinagoga, dizendo: ""Tua filha está morta. Por que ainda incomodas o Mestre?""" ^v35
 
-**36** E Jesus, tendo ouvido estas palavras, disse ao principal da sinagoga: Não temas, crê somente. ^v36
+**36** "Mas quando Jesus ouviu o que eles diziam, disse ao chefe da sinagoga: ""Não temas. Apenas crê""." ^v36
 
-**37** E não permitiu que alguém o seguisse, a não ser Pedro, Tiago, e João, irmão de Tiago. ^v37
+**37** E não permitiu que ninguém O acompanhasse, exceto Pedro, Tiago e João, irmão de Tiago. ^v37
 
-**38** E, tendo chegado à casa do principal da sinagoga, viu o alvoroço, e os que choravam muito e pranteavam. ^v38
+**38** Quando chegaram a casa do chefe da sinagoga, viu Jesus um alvoroço, e os que estavam chorando e lamentando alto. ^v38
 
-**39** E, entrando, disse-lhes: Por que vos alvoroçais e chorais? A menina não está morta, mas dorme. ^v39
+**39** "Quando Ele entrou na casa, disse-lhes: ""Por que estais alvoroçados e chorais? A criança não está morta, mas dorme""." ^v39
 
-**40** E riam-se dele; porém ele, tendo-os feito sair, tomou consigo o pai e a mãe da menina, e os que com ele estavam, e entrou onde a menina estava deitada. ^v40
+**40** Riram de Jesus, porém Ele colocou todos para fora, tomou o pai da criança, a mãe e os que estavam com Ele, e foi onde a criança estava. ^v40
 
-**41** E, tomando a mão da menina, disse-lhe: Talita cumi; que, traduzido, é: Menina, a ti te digo, levanta-te. ^v41
+**41** "E, tomando a mão da menina, disse-lhe: ""Talita cumi"", que significa: ""Menina, Eu te digo: 'Levanta-te'""." ^v41
 
-**42** E logo a menina se levantou, e andava, pois já tinha doze anos; e assombraram-se com grande espanto. ^v42
+**42** Imediatamente a criança se levantou e andou (pois ela tinha doze anos de idade). Logo foram tomados de grande espanto. ^v42
 
-**43** E mandou-lhes expressamente que ninguém o soubesse; e disse que lhe dessem de comer. ^v43
+**43** Jesus ordenou expressamente que ninguém soubesse disso, dizendo que dessem algo de comer à menina. ^v43

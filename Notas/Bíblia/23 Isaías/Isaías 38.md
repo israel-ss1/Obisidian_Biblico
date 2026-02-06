@@ -1,51 +1,50 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Isaías|Isaías]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Isaías|Isaías]]"
+tags: [biblia]
 ---
 
 # Isaías 38
 
-**1** Naqueles dias Ezequias adoeceu de uma enfermidade mortal; e veio a ele o profeta Isaías, filho de Amós, e lhe disse: Assim diz o SENHOR: Põe em ordem a tua casa, porque morrerás, e não viverás. ^v1
+**1** "Naqueles dias, Ezequias estava doente a ponto de morrer. Então, Isaías, filho de Amoz, o profeta, veio a ele e lhe disse: ""Yahweh diz: 'Coloca tua casa em ordem, pois tu morrerás; não viverás!'""." ^v1
 
-**2** Então virou Ezequias o seu rosto para a parede, e orou ao Senhor. ^v2
+**2** Então, Ezequias virou sua face para a parede e orou a Yahweh. ^v2
 
-**3** E disse: Ah! Senhor, peço-te, lembra-te agora, de que andei diante de ti em verdade, e com coração perfeito, e fiz o que era reto aos teus olhos. E chorou Ezequias muitíssimo. ^v3
+**3** "Ele disse: ""Por favor, Yahweh, traz à memória como tenho andado fielmente diante de Ti, com todo o meu coração, e como tenho feito o que é bom aos Teus olhos""; e Ezequias chorou em alta voz." ^v3
 
-**4** Então veio a palavra do Senhor a Isaías, dizendo: ^v4
+**4** Então a palavra de Yahweh veio a Isaías, dizendo: ^v4
 
-**5** Vai, e dize a Ezequias: Assim diz o Senhor, o Deus de Davi teu pai: Ouvi a tua oração, e vi as tuas lágrimas; eis que acrescentarei aos teus dias quinze anos. ^v5
+**5** """Vai e diz a Ezequias, o líder do Meu povo: 'Isto é o que Yahweh, o Deus de Davi, teu ancestral, diz: ‘Eu ouvi tua oração, e vi tuas lágrimas. Vê! Eu acrescentarei quinze anos à tua vida." ^v5
 
-**6** E livrar-te-ei das mãos do rei da Assíria, a ti, e a esta cidade, e defenderei esta cidade. ^v6
+**6** E Eu resgatarei a ti e a esta cidade do poder do rei da Assíria e defenderei esta cidade. ^v6
 
-**7** E isto te será da parte do Senhor como sinal de que o Senhor cumprirá esta palavra que falou. ^v7
+**7** E este será o sinal para ti, da parte de Yahweh, de que Eu farei o que prometi: ^v7
 
-**8** Eis que farei retroceder dez graus a sombra lançada pelo sol declinante no relógio de Acaz. Assim retrocedeu o sol os dez graus que já tinha declinado. ^v8
+**8** "Olha! Eu farei a sombra na escada de Acaz retroceder dez degraus'"". Então, a sombra retrocedeu dez degraus na escada, na qual havia avançado." ^v8
 
-**9** O escrito de Ezequias, rei de Judá, de quando adoeceu e sarou de sua enfermidade: ^v9
+**9** Esta foi a oração escrita de Ezequias, rei de Judá, quando ficou doente e se recuperou: ^v9
 
-**10** Eu disse: No cessar de meus dias ir-me-ei às portas da sepultura; já estou privado do restante de meus anos. ^v10
+**10** """Eu disse que, na metade da minha vida, passaria pelos portões do Sheol; e sou enviado até lá pelo resto dos meus anos." ^v10
 
-**11** Disse: Não verei ao Senhor, o Senhor na terra dos viventes; jamais verei o homem com os moradores do mundo. ^v11
+**11** Eu disse que não veria mais Yahweh na terra dos vivos; não mais contemplaria a humanidade ou os habitantes do mundo. [Nota: “os habitantes do mundo”: a maioria das versões modernas têm este significado. Cópias hebraicas antigas têm: “os habitantes do lugar da não-existência”, isto é, da existência breve.] ^v11
 
-**12** Já o tempo da minha vida se foi, e foi arrebatada de mim, como tenda de pastor; cortei a minha vida como tecelão; ele me cortará do tear; desde a manhã até à noite me acabarás. ^v12
+**12** Minha vida foi removida e tomada de mim, como uma tenda de pastor; minha vida foi enrolada como um tecedor. Tu me cortastes do Teu tear; entre o dia e a noite, Tu estás terminando com minha vida. ^v12
 
-**13** Esperei com paciência até à madrugada; como um leão quebrou todos os meus ossos; desde a manhã até à noite me acabarás. ^v13
+**13** Clamei [Nota: O hebraico pode ser traduzido por: “Clamei” ou “Acalmei-me”] até o amanhecer; como um leão, Ele quebra todos os meus ossos. Entre o dia e a noite, Tu estás acabando com minha vida. ^v13
 
-**14** Como o grou, ou a andorinha, assim eu chilreava, e gemia como a pomba; alçava os meus olhos ao alto; ó Senhor, ando oprimido, fica por meu fiador. ^v14
+**14** Como uma andorinha, eu gorjeio; arrulho como uma pomba; meus olhos se tornam cansados de olhar para cima. Senhor, estou oprimido; ajuda-me. ^v14
 
-**15** Que direi? Como me prometeu, assim o fez; assim passarei mansamente por todos os meus anos, por causa da amargura da minha alma. ^v15
+**15** O que devo dizer? Ele também falou comigo e Ele mesmo fez isso; andarei lentamente todos os meus anos, pois estou sobrecarregado de aflição. ^v15
 
-**16** Senhor, por estas coisas se vive, e em todas elas está a vida do meu espírito, portanto cura-me e faze-me viver. ^v16
+**16** Senhor, os sofrimentos que me enviaste são bons para mim; que minha vida me seja restituída. Tu restauraste minha vida e minha saúde. ^v16
 
-**17** Eis que foi para a minha paz que tive grande amargura, mas a ti agradou livrar a minha alma da cova da corrupção; porque lançaste para trás das tuas costas todos os meus pecados. ^v17
+**17** Foi para meu benefício que experimentei tamanha aflição. Tu me resgataste da cova da destruição, pois Tu lançaste todos os meus pecados para trás de Ti. ^v17
 
-**18** Porque não te louvará a sepultura, nem a morte te glorificará; nem esperarão em tua verdade os que descem à cova. ^v18
+**18** Pois o Sheol não Te agradece; a morte não Te louva; aqueles que descem até a sepultura não esperam na Tua fidelidade. ^v18
 
-**19** O vivente, o vivente, esse te louvará, como eu hoje o faço; o pai aos filhos fará notória a tua verdade. ^v19
+**19** A pessoa viva, a pessoa viva, ela é que Te agradece, como faço neste dia; o pai faz conhecer aos filhos a Tua fidelidade. ^v19
 
-**20** O Senhor veio salvar-me; por isso, tangendo em meus instrumentos, nós o louvaremos todos os dias de nossa vida na casa do Senhor. ^v20
+**20** "Yahweh está prestes a me salvar, e celebraremos com música, todos os dias de nossas vidas, na casa de Yahweh""." ^v20
 
-**21** E dissera Isaías: Tomem uma pasta de figos, e a ponham como emplastro sobre a chaga; e sarará. ^v21
+**21** "Ora, Isaías havia dito: ""Tragam uma pasta de figos amassados, coloquem-na na úlcera e ele será curado""." ^v21
 
-**22** Também dissera Ezequias: Qual será o sinal de que hei de subir à casa do Senhor? ^v22
+**22** "Ezequias também havia perguntado: ""Qual será o sinal indicando que deverei subir ao templo de Yahweh?""." ^v22

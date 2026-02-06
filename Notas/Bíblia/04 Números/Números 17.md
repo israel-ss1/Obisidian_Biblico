@@ -1,33 +1,32 @@
 ---
-Livro: "[[Números|Números]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Números|Números]]"
+tags: [biblia]
 ---
 
 # Números 17
 
-**1** Então falou o SENHOR a Moisés, dizendo: ^v1
+**1** Yahweh falou a Moisés, dizendo: ^v1
 
-**2** Fala aos filhos de Israel, e toma deles uma vara para cada casa paterna de todos os seus príncipes, segundo as casas de seus pais, doze varas; e escreverás o nome de cada um sobre a sua vara. ^v2
+**2** """Dize ao povo de Israel que apresentem varas, uma de cada tribo de seus antepassados. Toma doze varas, uma de cada líder escolhido de cada tribo. Escreve o nome de cada homem em sua vara." ^v2
 
-**3** Porém o nome de Arão escreverás sobre a vara de Levi; porque cada cabeça da casa de seus pais terá uma vara. ^v3
+**3** Tu escreverás o nome de Arão na vara de Levi. Deverá ser uma vara de cada líder da sua tribo de antepassados. ^v3
 
-**4** E as porás na tenda da congregação, perante o testemunho, onde eu virei a vós. ^v4
+**4** Tu colocarás as varas na Tenda do Encontro em frente aos decretos da aliança, onde Me encontro contigo. ^v4
 
-**5** E será que a vara do homem que eu tiver escolhido florescerá; assim farei cessar as murmurações dos filhos de Israel contra mim, com que murmuram contra vós. ^v5
+**5** "E acontecerá que a vara do homem que escolhi, florescerá. Eu farei parar as murmurações do povo de Israel, as quais eram contra ti""." ^v5
 
-**6** Falou, pois, Moisés aos filhos de Israel; e todos os seus príncipes deram-lhe cada um uma vara, para cada príncipe uma vara, segundo as casas de seus pais, doze varas; e a vara de Arão estava entre as deles. ^v6
+**6** Então, Moisés falou ao povo de Israel. Todos os líderes das tribos deram-lhe as varas, uma vara de cada líder, escolhida de cada tribo antepassada, doze varas ao todo. A vara de Arão estava entre elas. ^v6
 
-**7** E Moisés pôs estas varas perante o Senhor na tenda do testemunho. ^v7
+**7** E Moisés colocou as varas diante de Yahweh, na Tenda dos Decretos da Aliança. ^v7
 
-**8** Sucedeu, pois, que no dia seguinte Moisés entrou na tenda do testemunho, e eis que a vara de Arão, pela casa de Levi, florescia; porque produzira flores e brotara renovos e dera amêndoas. ^v8
+**8** No dia seguinte, Moisés entrou na Tenda dos Decretos da Aliança, e viu que a vara de Arão da tribo de Levi havia florescido. Brotou, produziu flores e amêndoas maduras! ^v8
 
-**9** Então Moisés tirou todas as varas de diante do Senhor a todos os filhos de Israel; e eles o viram, e tomaram cada um a sua vara. ^v9
+**9** Moisés trouxe todas as varas de diante de Yahweh para todo o povo de Israel e cada homem tomou a sua vara. ^v9
 
-**10** Então o Senhor disse a Moisés: Torna a pôr a vara de Arão perante o testemunho, para que se guarde por sinal para os filhos rebeldes; assim farás acabar as suas murmurações contra mim, e não morrerão. ^v10
+**10** "Yahweh disse a Moisés: ""Coloca a vara de Arão em frente aos decretos da Aliança. E mantém-na como um sinal de culpa contra as pessoas que se rebelaram, para que acabes com as murmurações contra Mim, ou então morrerão""." ^v10
 
-**11** E Moisés fez assim; como lhe ordenara o Senhor, assim fez. ^v11
+**11** Moisés fez assim como Yahweh havia lhe ordenado. ^v11
 
-**12** Então falaram os filhos de Israel a Moisés, dizendo: Eis aqui, nós expiramos, perecemos, nós todos perecemos. ^v12
+**12** "O povo de Israel falou a Moisés, e disse-lhe: ""Nós morreremos aqui. Iremos todos perecer!" ^v12
 
-**13** Todo aquele que se aproximar do tabernáculo do Senhor, morrerá; seremos pois todos consumidos? ^v13
+**13** "Todo aquele que vem, que se aproxima do Tabernáculo de Yahweh morrerá. Teremos todos que perecer?""." ^v13

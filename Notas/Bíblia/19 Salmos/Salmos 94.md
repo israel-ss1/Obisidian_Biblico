@@ -1,53 +1,52 @@
 ---
-Livro: "[[Salmos|Salmos]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Salmos|Salmos]]"
+tags: [biblia]
 ---
 
 # Salmos 94
 
-**1** Ó Senhor Deus, a quem a vingança pertence, ó Deus, a quem a vingança pertence, mostra-te resplandecente. ^v1
+**1** Yahweh, Deus que vinga, brilha sobre nós, Deus que vinga. ^v1
 
-**2** Exalta-te, tu, que és juiz da terra; dá a paga aos soberbos. ^v2
+**2** Levanta-te, juiz da terra! Dá aos orgulhosos o que eles merecem. ^v2
 
-**3** Até quando os ímpios, Senhor, até quando os ímpios saltarão de prazer? ^v3
+**3** Até quando os ímpios, Yahweh, até quando os ímpios se alegrarão? ^v3
 
-**4** Até quando proferirão, e falarão coisas duras, e se gloriarão todos os que praticam a iniqüidade? ^v4
+**4** Eles proferem palavras arrogantes; Todos aqueles que praticam o mal se orgulham. ^v4
 
-**5** Reduzem a pedaços o teu povo, ó Senhor, e afligem a tua herança. ^v5
+**5** Eles esmagam o Teu povo, Yahweh; eles afligem as nações que pertencem a Ti. ^v5
 
-**6** Matam a viúva e o estrangeiro, e ao órfão tiram a vida. ^v6
+**6** Eles matam a viúva e o estrangeiro, e assassinam o órfão. ^v6
 
-**7** Contudo dizem: O Senhor não o verá; nem para isso atenderá o Deus de Jacó. ^v7
+**7** "Eles dizem: ""Yahweh não verá, o Deus de Jacó não terá conhecimento disso.""" ^v7
 
-**8** Atendei, ó brutais dentre o povo; e vós, loucos, quando sereis sábios? ^v8
+**8** Entendei, ó estúpidos! E vós, tolos, quando tereis sabedoria? ^v8
 
-**9** Aquele que fez o ouvido não ouvirá? E o que formou o olho, não verá? ^v9
+**9** Aquele que fez os ouvidos não ouvirá? Aquele que formou os olhos não verá? ^v9
 
-**10** Aquele que argüi os gentios não castigará? E o que ensina ao homem o conhecimento, não saberá? ^v10
+**10** Aquele que disciplina as nações não corrige? É Ele que dá conhecimento ao homem. ^v10
 
-**11** O Senhor conhece os pensamentos do homem, que são vaidade. ^v11
+**11** Yahweh conhece os pensamentos dos homens, que são como um sopro. ^v11
 
-**12** Bem-aventurado é o homem a quem tu castigas, ó Senhor, e a quem ensinas a tua lei; ^v12
+**12** Abençoado é aquele a quem Tu repreendes, Yahweh, aquele a quem ensinas a Tua lei. ^v12
 
-**13** Para lhe dares descanso dos dias maus, até que se abra a cova para o ímpio. ^v13
+**13** Tu dás a ele descanso em tempos de dificuldade, até que se abra a cova para o ímpio. ^v13
 
-**14** Pois o Senhor não rejeitará o seu povo, nem desamparará a sua herança. ^v14
+**14** Porque Yahweh não renunciará ao Seu povo ou abandonará a Sua herança. ^v14
 
-**15** Mas o juízo voltará à retidão, e segui-lo-ão todos os retos de coração. ^v15
+**15** Pois o julgamento será novamente justo; e todos os retos de coração o seguirão. ^v15
 
-**16** Quem será por mim contra os malfeitores? Quem se porá por mim contra os que praticam a iniqüidade? ^v16
+**16** Quem se levantará para me defender contra os malfeitores? Quem se levantará por mim contra os perversos? ^v16
 
-**17** Se o Senhor não tivera ido em meu auxílio, a minha alma quase que teria ficado no silêncio. ^v17
+**17** Se Yahweh não tivesse sido minha ajuda, em breve eu estaria deitado no lugar do silêncio. ^v17
 
-**18** Quando eu disse: O meu pé vacila; a tua benignidade, Senhor, me susteve. ^v18
+**18** "Quando eu disse: ""Meu pé escorrega"", Teu amor leal, Yahweh, me sustentou." ^v18
 
-**19** Na multidão dos meus pensamentos dentro de mim, as tuas consolações recrearam a minha alma. ^v19
+**19** Quando as preocupações dentro de mim são muitas, Teu conforto me faz feliz. ^v19
 
-**20** Porventura o trono de iniqüidade te acompanha, o qual forja o mal por uma lei? ^v20
+**20** Pode um trono de iniquidade, o qual cria injustiça em nome da lei, associar-se Contigo? ^v20
 
-**21** Eles se ajuntam contra a alma do justo, e condenam o sangue inocente. ^v21
+**21** Eles conspiram juntos para tirar a vida do justo, e condenam o inocente à morte. ^v21
 
-**22** Mas o Senhor é a minha defesa; e o meu Deus é a rocha do meu refúgio. ^v22
+**22** Mas Yahweh tem sido minha torre alta; o meu Deus é a rocha do meu refúgio. ^v22
 
-**23** E trará sobre eles a sua própria iniqüidade; e os destruirá na sua própria malícia; o Senhor nosso Deus os destruirá. ^v23
+**23** Ele lhes trará a sua própria iniquidade e os destruirá em sua própria maldade. Yahweh, nosso Deus, os exterminará. ^v23

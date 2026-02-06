@@ -1,57 +1,56 @@
 ---
-Livro: "[[1 Timóteo|1 Timóteo]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/1 Timóteo|1 Timóteo]]"
+tags: [biblia]
 ---
 
 # 1 Timóteo 5
 
-**1** NÃO repreendas asperamente o ancião, mas admoesta-o como a pai; aos moços como a irmãos; ^v1
+**1** Não repreendas um homem idoso, mas exorta-o como se ele fosse um pai. Exorta os homens mais novos como se fossem irmãos. ^v1
 
-**2** As mulheres idosas, como a mães, às moças, como a irmãs, em toda a pureza. ^v2
+**2** Exorta as mulheres idosas como a mães, e as mais jovens como a irmãs, com toda pureza. ^v2
 
-**3** Honra as viúvas que verdadeiramente são viúvas. ^v3
+**3** Honra as viúvas, verdadeiramente viúvas; ^v3
 
-**4** Mas, se alguma viúva tiver filhos, ou netos, aprendam primeiro a exercer piedade para com a sua própria família, e a recompensar seus pais; porque isto é bom e agradável diante de Deus. ^v4
+**4** mas, se uma viúva tiver filhos ou netos, deixa que eles primeiramente aprendam a mostrar honra nos seus próprios lares. Deixa que retribuam aos seus pais, pois isto é agradável a Deus. ^v4
 
-**5** Ora, a que é verdadeiramente viúva e desamparada espera em Deus, e persevera de noite e de dia em rogos e orações; ^v5
+**5** No entanto, uma verdadeira viúva é a que está totalmente sozinha. Ela põe sua confiança em Deus e persevera nos pedidos e nas orações noite e dia. ^v5
 
-**6** Mas a que vive em deleites, vivendo está morta. ^v6
+**6** No entanto, a mulher que vive para os prazeres está morta, mesmo que ainda esteja viva. ^v6
 
-**7** Manda, pois, estas coisas, para que elas sejam irrepreensíveis. ^v7
+**7** Prega essas coisas para que possam ser irrepreensíveis. ^v7
 
-**8** Mas, se alguém não tem cuidado dos seus, e principalmente dos da sua família, negou a fé, e é pior do que o infiel. ^v8
+**8** Mas, se alguém não cuida dos seus próprios parentes, especialmente os do seu próprio lar, tem negado a fé e é pior do que um descrente. ^v8
 
-**9** Nunca seja inscrita viúva com menos de sessenta anos, e só a que tenha sido mulher de um só marido; ^v9
+**9** Que uma viúva seja relacionada como viúva quando tiver pelo menos sessenta anos de idade, e tenha sido esposa de um só marido. ^v9
 
-**10** Tendo testemunho de boas obras: Se criou os filhos, se exercitou hospitalidade, se lavou os pés aos santos, se socorreu os aflitos, se praticou toda a boa obra. ^v10
+**10** Ela deve ser conhecida por boas obras, seja pelo fato de ter cuidado dos filhos, ter sido hospitaleira para com estranhos, ter lavado os pés dos santos, ter aliviado os aflitos, ou ter-se dedicado a toda boa obra. ^v10
 
-**11** Mas não admitas as viúvas mais novas, porque, quando se tornam levianas contra Cristo, querem casar-se; ^v11
+**11** Mas, quanto às viúvas mais jovens, recuse relacioná-las na lista; pois, quando se entregam aos desejos sensuais contra Cristo, querem casar-se. ^v11
 
-**12** Tendo já a sua condenação por haverem aniquilado a primeira fé. ^v12
+**12** Dessa maneira, tornam-se culpáveis por anularem o seu compromisso anterior. ^v12
 
-**13** E, além disto, aprendem também a andar ociosas de casa em casa; e não só ociosas, mas também paroleiras e curiosas, falando o que não convém. ^v13
+**13** Elas também se acostumaram a ficar ociosas, andando de casa em casa. Não apenas ficam ociosas, mas também tornam-se fofoqueiras e intrometidas, falando coisas que não devem ser faladas. ^v13
 
-**14** Quero, pois, que as que são moças se casem, gerem filhos, governem a casa, e não dêem ocasião ao adversário de maldizer; ^v14
+**14** Portanto, quero que as mais jovens se casem para gerar filhos e administrar a casa; assim não darão ao adversário oportunidade para acusá-las de fazerem o mal. ^v14
 
-**15** Porque já algumas se desviaram, indo após Satanás. ^v15
+**15** Pois algumas já se desviaram, seguindo a Satanás. ^v15
 
-**16** Se algum crente ou alguma crente tem viúvas, socorra-as, e não se sobrecarregue a igreja, para que se possam sustentar as que deveras são viúvas. ^v16
+**16** Se alguma mulher crente tiver viúvas em sua família, que ela as ajude, para que a igreja não seja sobrecarregada e possa auxiliar as verdadeiras viúvas. ^v16
 
-**17** Os presbíteros que governam bem sejam estimados por dignos de duplicada honra, principalmente os que trabalham na palavra e na doutrina; ^v17
+**17** Os presbíteros que lideram bem devem ser considerados dignos de dupla honra, especialmente aqueles que trabalham com a palavra e com o ensino. ^v17
 
-**18** Porque diz a Escritura: Não ligarás a boca ao boi que debulha. E: Digno é o obreiro do seu salário. ^v18
+**18** "Pois a Escritura diz: ""Tu não deves amordaçar o boi enquanto ele esmaga os grãos"", e ""O trabalhador é digno do seu salário""." ^v18
 
-**19** Não aceites acusação contra o presbítero, senão com duas ou três testemunhas. ^v19
+**19** Não recebas acusação contra um presbítero, a menos que haja duas ou três testemunhas. ^v19
 
-**20** Aos que pecarem, repreende-os na presença de todos, para que também os outros tenham temor. ^v20
+**20** Corrige os pecadores à vista de todos para que os demais sejam tementes. ^v20
 
-**21** Conjuro-te diante de Deus, e do Senhor Jesus Cristo, e dos anjos eleitos, que sem prevenção guardes estas coisas, nada fazendo por parcialidade. ^v21
+**21** Rogo-te solenemente diante de Deus, em Cristo Jesus, e de Seus anjos escolhidos, que tu guardes essas instruções sem discriminação, e que não faças nada com favoritismo. ^v21
 
-**22** A ninguém imponhas precipitadamente as mãos, nem participes dos pecados alheios; conserva-te a ti mesmo puro. ^v22
+**22** Não imponhas as mãos precipitadamente sobre alguém, nem compartilhe dos pecados de outra pessoa, conserva-te puro. ^v22
 
-**23** Não bebas mais água só, mas usa de um pouco de vinho, por causa do teu estômago e das tuas freqüentes enfermidades. ^v23
+**23** Tu não deves tomar apenas água, em vez disso, acrescenta um pouco de vinho para o teu estômago e as tuas frequentes doenças. ^v23
 
-**24** Os pecados de alguns homens são manifestos, precedendo o juízo; e em alguns manifestam-se depois. ^v24
+**24** Os pecados de algumas pessoas são abertamente conhecidos e conduzem-nas ao julgamento, mas alguns pecados manifestam-se depois. ^v24
 
-**25** Assim mesmo também as boas obras são manifestas, e as que são de outra maneira não podem ocultar-se. ^v25
+**25** Da mesma forma, as boas obras são abertamente conhecidas, enquanto que as outras não podem ser escondidas. ^v25

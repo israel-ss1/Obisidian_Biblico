@@ -1,35 +1,34 @@
 ---
-Livro: "[[2 Crônicas|2 Crônicas]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/2 Crônicas|2 Crônicas]]"
+tags: [biblia]
 ---
 
 # 2 Crônicas 5
 
-**1** Assim se acabou toda a obra que Salomão fez para a casa do SENHOR; então trouxe Salomão as coisas que seu pai Davi havia consagrado, a prata, o ouro e todos os objetos, e pô-los entre os tesouros da casa de Deus. ^v1
+**1** Quando todo o trabalho que Salomão havia feito para a casa de Yahweh estava terminado, ele trouxe as coisas que Davi, seu pai, havia dedicado para esse propósito, incluindo a prata, o ouro e toda a mobília. Ele os colocou dentro dos armazéns da casa de Deus. ^v1
 
-**2** Então Salomão congregou em Jerusalém os anciãos de Israel, e todos os chefes das tribos, os chefes dos pais entre os filhos de Israel, para fazerem subir a arca da aliança do Senhor, da cidade de Davi, que é Sião. ^v2
+**2** Então, Salomão reuniu em assembleia os anciãos de Israel, todos os chefes das tribos e os líderes das famílias do povo de Israel, em Jerusalém, para trazer a arca da aliança de Yahweh da cidade de Davi, isto é, Sião. ^v2
 
-**3** E todos os homens de Israel se congregaram ao rei na ocasião da festa, que foi no sétimo mês. ^v3
+**3** Todos os homens de Israel reuniram-se diante do rei na festa, que aconteceu no sétimo mês. ^v3
 
-**4** E vieram todos os anciãos de Israel; e os levitas levantaram a arca. ^v4
+**4** Todos os anciãos de Israel vieram e os levitas carregaram a arca. ^v4
 
-**5** E fizeram subir a arca, e a tenda da congregação, com todos os objetos sagrados, que estavam na tenda; os sacerdotes e os levitas os fizeram subir. ^v5
+**5** Eles trouxeram a Arca, a Tenda do Encontro e todos os utensílios sagrados que estavam na Tenda. Os sacerdotes da tribo de Levi trouxeram essas coisas. ^v5
 
-**6** Então o rei Salomão e toda a congregação de Israel, que se tinha reunido com ele diante da arca, sacrificaram carneiros e bois, que não se podiam contar, nem numerar, por causa da sua abundância. ^v6
+**6** O rei Salomão e toda a assembleia de Israel se reuniram perante a Arca, sacrificando ovelhas e bois que não podiam ser contados. ^v6
 
-**7** Assim trouxeram os sacerdotes a arca da aliança do Senhor ao seu lugar, ao oráculo da casa, ao lugar santíssimo, até debaixo das asas dos querubins. ^v7
+**7** Os sacerdotes trouxeram a Arca da Aliança de Yahweh para o seu lugar, dentro da sala interna da casa, o Lugar Santíssimo, debaixo das asas dos querubins; ^v7
 
-**8** Porque os querubins estendiam ambas as asas sobre o lugar da arca, e os querubins cobriam, por cima, a arca e os seus varais. ^v8
+**8** pois os querubins estendiam suas asas sobre o lugar da Arca e cobriram a Arca e suas hastes, pelas quais era carregada. ^v8
 
-**9** Então os varais sobressaíam para que as pontas dos varais da arca se vissem perante o oráculo, mas não se vissem de fora; e ali tem estado até ao dia de hoje. ^v9
+**9** As hastes eram tão longas que suas extremidades eram vistas do Lugar Santo, em frente da sala interna, mas elas não podiam ser vistas de fora. Elas estão ali até hoje. ^v9
 
-**10** Na arca não havia coisa alguma senão as duas tábuas, que Moisés tinha posto em Horebe, quando o Senhor fez aliança com os filhos de Israel, saíndo eles do Egito. ^v10
+**10** Não havia nada na Arca, exceto as duas tábuas que Moisés havia colocado em Horebe, quando Yahweh fez uma aliança com o povo de Israel, ao saírem do Egito. ^v10
 
-**11** E sucedeu que, saindo os sacerdotes do santuário (porque todos os sacerdotes, que ali se acharam, se santificaram, sem respeitarem as suas turmas, ^v11
+**11** Depois disso, todos os sacerdotes saíram do Lugar Santo. Então, todos os sacerdotes que estavam presentes se dedicaram a Yahweh, sem observar a ordem de suas divisões. ^v11
 
-**12** E os levitas, que eram cantores, todos eles, de Asafe, de Hemã, de Jedutum, de seus filhos e de seus irmãos, vestidos de linho fino, com címbalos, com saltérios e com harpas, estavam em pé para o oriente do altar; e com eles até cento e vinte sacerdotes, que tocavam as trombetas). ^v12
+**12** Também os levitas que eram cantores, todos eles, incluindo Asafe, Hemã, Jedutum, bem como seus filhos e irmãos, vestidos de linho fino e tocando címbalos, harpas e liras, estavam ao lado leste do altar. Com eles estavam cento e vinte sacerdotes soprando trombetas. ^v12
 
-**13** E aconteceu que, quando eles uniformemente tocavam as trombetas, e cantavam, para fazerem ouvir uma só voz, bendizendo e louvando ao Senhor; e levantando eles a voz com trombetas, címbalos, e outros instrumentos musicais, e louvando ao Senhor, dizendo: Porque ele é bom, porque a sua benignidade dura para sempre, então a casa se encheu de uma nuvem, a saber, a casa do Senhor; ^v13
+**13** "Aconteceu que os que tocavam trombetas e os cantores ministraram juntos, louvando e agradecendo a Yahweh. Eles levantaram suas vozes, com trombetas, címbalos e outros instrumentos, e louvaram a Yahweh. Eles cantaram ""Pois Ele é bom, pois Sua lealdade à Aliança dura para sempre."" Então, a casa de Yahweh se encheu com uma nuvem." ^v13
 
-**14** E os sacerdotes não podiam permanecer em pé, para ministrar, por causa da nuvem; porque a glória do Senhor encheu a casa de Deus. ^v14
+**14** Os sacerdotes não puderam permanecer em pé para servir, por causa da nuvem, pois a glória de Yahweh encheu a Casa. ^v14

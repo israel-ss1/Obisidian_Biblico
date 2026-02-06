@@ -1,23 +1,22 @@
 ---
-Livro: "[[1 Crônicas|1 Crônicas]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/1 Crônicas|1 Crônicas]]"
+tags: [biblia]
 ---
 
 # 1 Crônicas 20
 
-**1** Aconteceu que, no decurso de um ano, no tempo em que os reis costumam sair para a guerra, Joabe levou o exército, e destruiu a terra dos filhos de Amom, e veio, e cercou a Rabá; porém Davi ficou em Jerusalém; e Joabe feriu a Rabá, e a destruiu. ^v1
+**1** Chegada a primavera, no tempo em que normalmente os reis vão à guerra, Joabe liderou o exército na batalha, devastou o território dos amonitas e sitiou Rabá. Davi, porém, permaneceu em Jerusalém. Joabe atacou Rabá e a derrotou. ^v1
 
-**2** E Davi tirou a coroa da cabeça do rei deles, e achou nela o peso de um talento de ouro, e havia nela pedras preciosas; e foi posta sobre a cabeça de Davi; e levou da cidade mui grande despojo. ^v2
+**2** Davi tirou a coroa da cabeça do rei deles, e ele descobriu nela o peso de um talento de ouro, e nela havia pedras preciosas. A coroa foi colocada na cabeça de Davi, e ele trouxe o despojo da cidade em grande quantidade. ^v2
 
-**3** Também levou o povo que estava nela, e os fez trabalhar com a serra, e com talhadeiras de ferro e com machados; e assim fez Davi com todas as cidades dos filhos de Amom; então voltou Davi, com todo o povo, para Jerusalém. ^v3
+**3** Ele trouxe o povo que estava na cidade, e o forçou a trabalhar com serras, picaretas de ferro e machados. Davi exigiu que todas as cidades dos amonitas fizessem esse trabalho. Então, Davi e todo o exército retornaram para Jerusalém. ^v3
 
-**4** E, depois disto, aconteceu que, levantando-se guerra em Gezer, com os filisteus, então Sibecai, o husatita, feriu a Sipai, dos filhos do gigante; e ficaram subjugados. ^v4
+**4** E aconteceu que, mais tarde, estavam guerreando em Gezer contra os filisteus. Sibecai, o husatita, matou Sipai, um dos descendentes dos refains, e os filisteus foram subjugados. ^v4
 
-**5** E tornou a haver guerra com os filisteus; e El-Hanã, filho de Jair, feriu a Lami, irmão de Golias, o giteu, cuja haste da lança era como órgão de tecelão. ^v5
+**5** Aconteceu, novamente, outra guerra contra os filisteus em Gobe, e, Elanã, filho de Jair, matou Lami, irmão de Golias, o geteu, cuja lança era como a haste de tecelão. ^v5
 
-**6** E houve ainda outra guerra em Gate; onde havia um homem de grande estatura, e tinha vinte e quatro dedos, seis em cada mão, e seis em cada pé, e que também era filho do gigante. ^v6
+**6** Aconteceu, novamente, outra guerra em Gate. Lá havia um homem de grande estatura, que tinha seis dedos em cada mão, e seis dedos em cada pé. Ele também era descendente dos refains. ^v6
 
-**7** E injuriou a Israel; porém Jônatas, filho de Simei, irmão de Davi, o feriu; ^v7
+**7** Quando ele zombou do exército de Israel, Jônatas, filho de Simeia, irmão de Davi, o matou. ^v7
 
-**8** Estes nasceram ao gigante em Gate; e caíram pela mão de Davi e pela mão dos seus servos. ^v8
+**8** Esses foram descendentes dos refains de Gate, e foram mortos pela mão de Davi e pela mão de seus soldados. ^v8

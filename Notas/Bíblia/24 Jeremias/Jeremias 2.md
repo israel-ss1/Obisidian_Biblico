@@ -1,81 +1,80 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Jeremias|Jeremias]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Jeremias|Jeremias]]"
+tags: [biblia]
 ---
 
 # Jeremias 2
 
-**1** E veio a mim a palavra do SENHOR, dizendo: ^v1
+**1** A palavra de Yahweh veio a mim, dizendo: ^v1
 
-**2** Vai, e clama aos ouvidos de Jerusalém, dizendo: Assim diz o Senhor: Lembro-me de ti, da piedade da tua mocidade, e do amor do teu noivado, quando me seguias no deserto, numa terra que não se semeava. ^v2
+**2** """Vai e proclama aos ouvidos de Jerusalém. E diz: 'Assim diz Yahweh: Eu Me lembro, em teu favor, da fidelidade à aliança na tua juventude, do teu amor no tempo em que éramos noivos, quando tu seguias atrás de Mim no deserto, por uma terra não semeada." ^v2
 
-**3** Então Israel era santidade para o Senhor, e as primícias da sua novidade; todos os que o devoravam eram tidos por culpados; o mal vinha sobre eles, diz o Senhor. ^v3
+**3** "Israel era consagrado a Yahweh, os primeiros frutos da Sua colheita! Todos aqueles que os comiam eram tidos por culpados e a calamidade vinha sobre eles — esta é a declaração de Yahweh""." ^v3
 
-**4** Ouvi a palavra do Senhor, ó casa de Jacó, e todas as famílias da casa de Israel; ^v4
+**4** Ouvi a palavra de Yahweh, casa de Jacó e todas as famílias na casa de Israel. ^v4
 
-**5** Assim diz o Senhor: Que injustiça acharam vossos pais em mim, para se afastarem de mim, indo após a vaidade, e tornando-se levianos? ^v5
+**5** "Assim diz Yahweh: ""O que vossos pais acharam de errado Comigo, para que se afastassem de Me seguir? Por que eles seguiram ídolos inúteis e eles mesmos tornaram-se inúteis?" ^v5
 
-**6** E não disseram: Onde está o Senhor, que nos fez subir da terra do Egito, que nos guiou através do deserto, por uma terra árida, e de covas, por uma terra de sequidão e sombra de morte, por uma terra pela qual ninguém transitava, e na qual não morava homem algum? ^v6
+**6** Eles não perguntaram: 'Onde está Yahweh, que nos trouxe da terra do Egito? Onde está Yahweh, que nos guiou no deserto, pela terra de Arabá e de covas, uma terra árida e de profunda escuridão, uma terra por onde ninguém passa e ninguém habita?' ^v6
 
-**7** E eu vos introduzi numa terra fértil, para comerdes o seu fruto e o seu bem; mas quando nela entrastes contaminastes a minha terra, e da minha herança fizestes uma abominação. ^v7
+**7** Mas Eu vos trouxe para a terra do Carmelo, para comer de seu fruto e outras coisas boas! No entanto, quando chegastes, contaminastes minha terra e fizestes da minha herança uma abominação! ^v7
 
-**8** Os sacerdotes não disseram: Onde está o Senhor? E os que tratavam da lei não me conheciam, e os pastores prevaricavam contra mim, e os profetas profetizavam por Baal, e andaram após o que é de nenhum proveito. ^v8
+**8** O sacerdote não perguntou: 'Onde está Yahweh?' Mas os intérpretes da lei não se importaram Comigo! Os pastores se rebelaram contra Mim. Os profetas profetizaram por Baal e andaram atrás de coisas sem proveito. ^v8
 
-**9** Portanto ainda contenderei convosco, diz o Senhor; e até com os filhos de vossos filhos contenderei. ^v9
+**9** Então, Eu ainda vos acusarei — esta é a declaração de Yahweh — e acusarei os filhos dos vossos filhos. ^v9
 
-**10** Pois, passai às ilhas de Quitim, e vede; e enviai a Quedar, e atentai bem, e vede se jamais sucedeu coisa semelhante. ^v10
+**10** Atravessai para a costa de Quitim e olhai; enviai mensageiros a Quedar, descobri e vede se ali já houve algo assim. ^v10
 
-**11** Houve alguma nação que trocasse os seus deuses, ainda que não fossem deuses? Todavia o meu povo trocou a sua glória por aquilo que é de nenhum proveito. ^v11
+**11** Por acaso, houve alguma nação que trocou seus deuses, mesmo estes não sendo deuses? Mas Meu povo trocou sua Glória por aquilo que não lhes pode ajudar. ^v11
 
-**12** Espantai-vos disto, ó céus, e horrorizai-vos! Ficai verdadeiramente desolados, diz o Senhor. ^v12
+**12** Tremei, céus, por causa disto! Ficai chocados e aterrorizados — esta é a declaração de Yahweh. ^v12
 
-**13** Porque o meu povo fez duas maldades: a mim me deixaram, o manancial de águas vivas, e cavaram cisternas, cisternas rotas, que não retêm águas. ^v13
+**13** Pois Meu povo cometeu dois males contra Mim: eles abandonaram a Mim, a fonte de águas vivas, e cavaram cisternas para si mesmos, cisternas quebradas que não podem reter água. ^v13
 
-**14** Acaso é Israel um servo? É ele um escravo nascido em casa? Por que, pois, veio a ser presa? ^v14
+**14** Por acaso, Israel é um escravo? Por acaso, nasceu ele na casa de seu senhor? Então, por que ele se tornou pilhagem? ^v14
 
-**15** Os filhos de leão rugiram sobre ele, levantaram a sua voz; e fizeram da sua terra uma desolação; as suas cidades se queimaram, e ninguém habita nelas. ^v15
+**15** Os leões jovens rugiram contra ele. Eles fizeram muito barulho e fizeram da sua terra um lugar horrível! Suas cidades estão destruídas, sem nenhum habitante. ^v15
 
-**16** Até os filhos de Nofe e de Tafnes te quebraram o alto da cabeça. ^v16
+**16** Além disso, o povo de Mênfis e de Tafnes raspou-vos a cabeça. ^v16
 
-**17** Porventura não fizeste isto a ti mesmo, deixando o Senhor teu Deus, no tempo em que ele te guiava pelo caminho? ^v17
+**17** Por acaso, não fostes vós mesmos que fizestes isso quando abandonastes Yahweh, vosso Deus, enquanto Ele vos guiava pelo caminho? ^v17
 
-**18** Agora, pois, que te importa a ti o caminho do Egito, para beberes as águas de Sior? E que te importa a ti o caminho da Assíria, para beberes as águas do rio? ^v18
+**18** Então, agora, por que pegar a estrada para o Egito e beber as águas de Sior? Por que pegar a estrada para a Assíria e beber as águas do rio Eufrates? ^v18
 
-**19** A tua malícia te castigará, e as tuas apostasias te repreenderão; sabe, pois, e vê, que mal e quão amargo é deixares ao SENHOR teu Deus, e não teres em ti o meu temor, diz o Senhor DEUS dos Exércitos. ^v19
+**19** É a tua perversidade que te repreende, e a tua incredulidade que te pune. Então, pensa nisso e entende o quanto é mau e amargo abandonar Yahweh, teu Deus, e não Me temer mais — esta é a declaração do Senhor, Yahweh dos Exércitos. ^v19
 
-**20** Quando eu já há muito quebrava o teu jugo, e rompia as tuas ataduras, dizias tu: Nunca mais transgredirei; contudo em todo o outeiro alto e debaixo de toda a árvore verde te andas encurvando e prostituindo-te. ^v20
+**20** Pois Eu quebrei o teu jugo, o que tinhas nos tempos antigos; Eu rompi os teus grilhões. Ainda assim, disseste: 'Eu não servirei!', visto que tu te curvaste em todas as altas colinas e debaixo de toda árvore frondosa, como uma adúltera. ^v20
 
-**21** Eu mesmo te plantei como vide excelente, uma semente inteiramente fiel; como, pois, te tornaste para mim uma planta degenerada como vide estranha? ^v21
+**21** Eu mesmo plantei a ti como uma videira escolhida, uma semente completamente verdadeira. No entanto, como te tornaste uma vinha corrupta e imprestável? ^v21
 
-**22** Por isso, ainda que te laves com salitre, e amontoes sabão, a tua iniqüidade está gravada diante de mim, diz o Senhor DEUS. ^v22
+**22** Mesmo que te limpes no rio ou te laves com sabão forte, tua iniquidade é uma mancha perante Mim — esta é a declaração do Senhor Yahweh. ^v22
 
-**23** Como dizes logo: Não estou contaminada nem andei após os baalins? Vê o teu caminho no vale, conhece o que fizeste; dromedária ligeira és, que anda torcendo os seus caminhos. ^v23
+**23** Como podes dizer: 'Eu não estou contaminada! Eu não sigo os baalins'? Olha o que fizeste nos vales! Considera o que tens feito — tu és como a veloz fêmea do camelo, correndo para lá e para cá; ^v23
 
-**24** Jumenta montês, acostumada ao deserto, que, conforme o desejo da sua alma, sorve o vento, quem a deteria no seu cio? Todos os que a buscarem não se cansarão; no mês dela a acharão. ^v24
+**24** és como uma jumenta selvagem no cio, acostumada com o deserto, farejando o vento! Quem poderá conter o seu desejo? Nenhum dos machos precisa se cansar procurando-a, pois no tempo do acasalmento a acharão. ^v24
 
-**25** Evita que o teu pé ande descalço, e a tua garganta tenha sede. Mas tu dizes: Não há esperança; porque amo os estranhos, após eles andarei. ^v25
+**25** Não deixes que os teus pés fiquem descalços, nem tua garganta tenha sede! Mas tu disseste: 'Não há esperança! Não! Eu amo os estranhos e vou atrás deles!' ^v25
 
-**26** Como fica confundido o ladrão quando o apanham, assim se confundem os da casa de Israel; eles, os seus reis, os seus príncipes, e os seus sacerdotes, e os seus profetas, ^v26
+**26** Como a vergonha de um ladrão quando é encontrado, assim a casa de Israel será envergonhada — ela, seus reis, seus príncipes, seus sacerdotes e profetas! ^v26
 
-**27** Que dizem ao pau: Tu és meu pai; e à pedra: Tu me geraste; porque me viraram as costas, e não o rosto; mas no tempo da sua angústia dirão: Levanta-te, e livra-nos. ^v27
+**27** Esses são os que dizem para a árvore: 'Tu és meu pai'; e para a pedra: 'Tu me deste à luz'. Suas costas estão viradas para Mim, e não os seus rostos. Todavia, eles dizem nos tempos de transtorno: 'Levanta-Te e salva-nos'! ^v27
 
-**28** Onde, pois, estão os teus deuses, que fizeste para ti? Que se levantem, se te podem livrar no tempo da tua angústia; porque os teus deuses, ó Judá, são tão numerosos como as tuas cidades. ^v28
+**28** Mas onde estão os deuses que fizestes para vós mesmos? Eles que se levantem se quiserem salvar-vos nos tempos de transtorno, pois vossos ídolos são tão numerosos quanto as vossas cidades, Judá! ^v28
 
-**29** Por que contendeis comigo? Todos vós transgredistes contra mim, diz o Senhor. ^v29
+**29** Então, por que Me acusais de agir errado? Todos vós pecastes contra Mim — esta é a declaração de Yahweh. ^v29
 
-**30** Em vão castiguei os vossos filhos; eles não aceitaram a correção; a vossa espada devorou os vossos profetas como um leão destruidor. ^v30
+**30** Eu puni vosso povo em vão. Eles não quiseram aceitar a disciplina. Vossa espada devorou vossos profetas como um leão destruidor. ^v30
 
-**31** Oh geração! Considerai vós a palavra do Senhor: Porventura tenho eu sido para Israel um deserto? Ou uma terra da mais espessa escuridão? Por que, pois, diz o meu povo: Temos determinado; não viremos mais a ti? ^v31
+**31** Vós que pertenceis a esta geração, prestai atenção em Minha palavra, a palavra de Yahweh! Por acaso, Eu tenho sido um deserto para Israel, ou uma terra de profunda escuridão? Por que Meu povo diz: 'Vamos vagar por aí, não voltaremos mais a Ti'? ^v31
 
-**32** Porventura esquece-se a virgem dos seus enfeites, ou a noiva dos seus adornos? Todavia o meu povo se esqueceu de mim por inumeráveis dias. ^v32
+**32** Por acaso, uma virgem se esqueceria de suas joias ou uma noiva de seus véus? Contudo, Meu povo se esqueceu de Mim por incontáveis dias! ^v32
 
-**33** Por que ornamentas o teu caminho, para buscares o amor? Pois até às malignas ensinaste os teus caminhos. ^v33
+**33** Quão bem te preparaste para procurar o amor! Até mesmo ensinaste os teus caminhos para mulheres perversas. ^v33
 
-**34** Até nas orlas dos teus vestidos se achou o sangue das almas dos inocentes e necessitados; não cavei para achar, pois se vê em todas estas coisas. ^v34
+**34** O sangue da vida dos inocentes e pobres foi encontrado nas tuas roupas, mesmo não sendo eles flagrados em arrombamentos de casas. ^v34
 
-**35** E ainda dizes: Eu estou inocente; certamente a sua ira se desviou de mim. Eis que entrarei em juízo contigo, porquanto dizes: Não pequei. ^v35
+**35** No entanto, dizes: 'Eu sou inocente; com certeza a ira de Yahweh se desviará de mim'. Mas vê! Serás julgado pelo que dizes: 'Não pequei'. ^v35
 
-**36** Por que te desvias tanto, mudando o teu caminho? Também do Egito serás envergonhada, como foste envergonhada da Assíria. ^v36
+**36** Por que tratas tão levianamente esta mudança nos teus caminhos? Tu te frustrarás com o Egito, assim como te frustraste com a Assíria. ^v36
 
-**37** Também daquele sairás com as mãos sobre a tua cabeça; porque o Senhor rejeitou a tua confiança, e não prosperarás com eles. ^v37
+**37** "Tu também sairás de lá abatida, com as tuas mãos na cabeça, pois Yahweh rejeitou aqueles em quem confiaste, então não serás ajudada por eles""." ^v37

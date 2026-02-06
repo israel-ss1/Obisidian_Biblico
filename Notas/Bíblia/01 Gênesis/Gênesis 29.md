@@ -1,77 +1,76 @@
 ---
-Livro: "[[Gênesis|Gênesis]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Gênesis|Gênesis]]"
+tags: [biblia]
 ---
 
 # Gênesis 29
 
-**1** Então pôs-se Jacó a caminho e foi à terra do povo do oriente; ^v1
+**1** Então Jacó seguiu viagem e chegou à terra dos povos do leste. ^v1
 
-**2** E olhou, e eis um poço no campo, e eis três rebanhos de ovelhas que estavam deitados junto a ele; porque daquele poço davam de beber aos rebanhos; e havia uma grande pedra sobre a boca do poço. ^v2
+**2** Enquanto ele olhava, viu um poço no campo e três rebanhos de ovelhas deitadas junto a ele, pois desse poço é que davam de beber aos rebanhos. Entretanto, havia uma grande pedra por cima da boca do poço. ^v2
 
-**3** E ajuntavam ali todos os rebanhos, e removiam a pedra de sobre a boca do poço, e davam de beber às ovelhas; e tornavam a pôr a pedra sobre a boca do poço, no seu lugar. ^v3
+**3** Quando todos os rebanhos estavam lá reunidos, os pastores rolavam a pedra da boca do poço e davam de beber às ovelhas, então recolocavam a pedra por cima da boca do poço de volta em seu lugar. ^v3
 
-**4** E disse-lhes Jacó: Meus irmãos, donde sois? E disseram: Somos de Harã. ^v4
+**4** "Jacó disse-lhes: ""Meus irmãos, de onde sois vós?"" Eles responderam: ""Somos de Harã""." ^v4
 
-**5** E ele lhes disse: Conheceis a Labão, filho de Naor? E disseram: Conhecemos. ^v5
+**5** "Ele lhes disse: ""Vós conheceis Labão, filho de Naor?"" Eles disseram: ""Nós o conhecemos""." ^v5
 
-**6** Disse-lhes mais: Está ele bem? E disseram: Está bem, e eis aqui Raquel sua filha, que vem com as ovelhas. ^v6
+**6** "Ele lhes perguntou: ""Ele está bem?"" Eles disseram: ""Ele está bem, e olhe ali, Raquel, sua filha, está chegando com as ovelhas""." ^v6
 
-**7** E ele disse: Eis que ainda é pleno dia, não é tempo de ajuntar o gado; dai de beber às ovelhas, e ide apascentá-las. ^v7
+**7** "Jacó disse: ""Veja, estamos na metade do dia e não é a hora de recolher o rebanho. Vós devíeis dar de beber às ovelhas, e então levá-las para pastar""." ^v7
 
-**8** E disseram: Não podemos, até que todos os rebanhos se ajuntem, e removam a pedra de sobre a boca do poço, para que demos de beber às ovelhas. ^v8
+**8** "Eles disseram: ""Nós não podemos dar de beber às ovelhas até que os rebanhos estejam reunidos. Então os homens irão tirar a pedra da boca do poço e daremos de beber às ovelhas""." ^v8
 
-**9** Estando ele ainda falando com eles, veio Raquel com as ovelhas de seu pai; porque ela era pastora. ^v9
+**9** Enquanto Jacó ainda falava com eles, Raquel veio com as ovelhas de seu pai, porque estava cuidando delas. ^v9
 
-**10** E aconteceu que, vendo Jacó a Raquel, filha de Labão, irmão de sua mãe, e as ovelhas de Labão, irmão de sua mãe, chegou Jacó, e revolveu a pedra de sobre a boca do poço e deu de beber às ovelhas de Labão, irmão de sua mãe. ^v10
+**10** Quando viu Raquel, a filha de Labão, irmão da sua mãe, e as ovelhas de Labão, Jacó aproximou-se, rolou a pedra da boca do poço e deu de beber ao rebanho de Labão, irmão de sua mãe. ^v10
 
-**11** E Jacó beijou a Raquel, e levantou a sua voz e chorou. ^v11
+**11** Jacó beijou Raquel e chorou em alto som. ^v11
 
-**12** E Jacó anunciou a Raquel que era irmão de seu pai, e que era filho de Rebeca; então ela correu, e o anunciou a seu pai. ^v12
+**12** Jacó contou a Raquel que era parente de seu pai, e que era filho de Rebeca. Então ela correu e contou ao seu pai. ^v12
 
-**13** E aconteceu que, ouvindo Labão as novas de Jacó, filho de sua irmã, correu-lhe ao encontro, e abraçou-o, e beijou-o, e levou-o à sua casa; e ele contou a Labão todas estas coisas. ^v13
+**13** Quando Labão ouviu as novidades sobre Jacó, filho de sua irmã, correu para conhecê-lo, abraçá-lo, beijá-lo e o trouxe para sua casa. Jacó contou a Labão todas essas coisas. ^v13
 
-**14** Então Labão disse-lhe: Verdadeiramente és tu o meu osso e a minha carne. E ficou com ele um mês inteiro. ^v14
+**14** "Labão disse-lhe: ""Tu és de fato meu osso e minha carne"". Então Jacó ficou com ele por um mês." ^v14
 
-**15** Depois disse Labão a Jacó: Porque tu és meu irmão, hás de servir-me de graça? Declara-me qual será o teu salário. ^v15
+**15** "Então Labão disse a Jacó: ""Porque tu és meu parente, deverias servir-me de graça? Dize-me, qual será o teu salário?""" ^v15
 
-**16** E Labão tinha duas filhas; o nome da mais velha era Lia, e o nome da menor Raquel. ^v16
+**16** Ora, Labão tinha duas filhas. O nome da mais velha era Lia, e o nome da mais nova era Raquel. ^v16
 
-**17** Lia tinha olhos tenros, mas Raquel era de formoso semblante e formosa à vista. ^v17
+**17** Os olhos de Lia eram meigos, mas Raquel era bonita em forma e aparência. ^v17
 
-**18** E Jacó amava a Raquel, e disse: Sete anos te servirei por Raquel, tua filha menor. ^v18
+**18** "Jacó amava Raquel. Então ele disse: ""Eu te servirei sete anos por Raquel, sua filha mais nova""." ^v18
 
-**19** Então disse Labão: Melhor é que eu a dê a ti, do que eu a dê a outro homem; fica comigo. ^v19
+**19** "Labão disse: ""É melhor dá-la a ti do que a outro homem. Fica comigo""." ^v19
 
-**20** Assim serviu Jacó sete anos por Raquel; e estes lhe pareceram como poucos dias, pelo muito que a amava. ^v20
+**20** Então Jacó serviu sete anos por Raquel; e estes lhe pareceram poucos dias pelo amor que ele tinha por ela. ^v20
 
-**21** E disse Jacó a Labão: Dá-me minha mulher, porque meus dias são cumpridos, para que eu me case com ela. ^v21
+**21** "Então Jacó disse a Labão: ""Dá-me minha esposa, porque os meus dias já se completaram; para que eu possa casar-me com ela""." ^v21
 
-**22** Então reuniu Labão a todos os homens daquele lugar, e fez um banquete. ^v22
+**22** Então Labão juntou todos os homens da região e fez uma festa. ^v22
 
-**23** E aconteceu, à tarde, que tomou Lia, sua filha, e trouxe-a a Jacó que a possuiu. ^v23
+**23** À noite, Labão tomou Lia, sua filha, e levou-a até Jacó, que dormiu com ela. ^v23
 
-**24** E Labão deu sua serva Zilpa a Lia, sua filha, por serva. ^v24
+**24** Labão deu sua serva Zilpa à sua filha para ser serva dela. ^v24
 
-**25** E aconteceu que pela manhã, viu que era Lia; pelo que disse a Labão: Por que me fizeste isso? Não te tenho servido por Raquel? Por que então me enganaste? ^v25
+**25** "Pela manhã, viu Jacó que era Lia! Jacó disse a Labão: ""O que é isso que fizeste a mim? Eu não te servi por Raquel? Por que então me enganaste?""" ^v25
 
-**26** E disse Labão: Não se faz assim no nosso lugar, que a menor se dê antes da primogênita. ^v26
+**26** "Labão disse: ""Não é nosso costume entregar a filha mais nova antes da primogênita." ^v26
 
-**27** Cumpre a semana desta; então te daremos também a outra, pelo serviço que ainda outros sete anos comigo servires. ^v27
+**27** "Completa a semana nupcial desta filha, e nós te daremos a outra em retorno, por me servir mais sete anos""." ^v27
 
-**28** E Jacó fez assim, e cumpriu a semana de Lia; então lhe deu por mulher Raquel sua filha. ^v28
+**28** Jacó fez isso e completou a semana de Lia. Então Labão deu também a ele Raquel, sua filha, como sua esposa. ^v28
 
-**29** E Labão deu sua serva Bila por serva a Raquel, sua filha. ^v29
+**29** Labão deu também Bila à sua filha Raquel para ser serva dela. ^v29
 
-**30** E possuiu também a Raquel, e amou também a Raquel mais do que a Lia e serviu com ele ainda outros sete anos. ^v30
+**30** Então Jacó dormiu com Raquel também, mas ele a amava mais do que a Lia. Então Jacó serviu Labão por mais sete anos. ^v30
 
-**31** Vendo, pois, o Senhor que Lia era desprezada, abriu a sua madre; porém Raquel era estéril. ^v31
+**31** Yahweh viu que Lia não era amada, então ele abriu o ventre dela, mas Raquel era estéril. ^v31
 
-**32** E concebeu Lia, e deu à luz um filho, e chamou-o Rúben; pois disse: Porque o Senhor atendeu à minha aflição, por isso agora me amará o meu marido. ^v32
+**32** "Lia concebeu e deu à luz um filho, e ela o chamou Rúben. Pois disse: ""Porque Yahweh tem visto a minha aflição; certamente agora meu marido me amará""." ^v32
 
-**33** E concebeu outra vez, e deu à luz um filho, dizendo: Porquanto o Senhor ouviu que eu era desprezada, e deu-me também este. E chamou-o Simeão. ^v33
+**33** "Então ela concebeu outra vez e deu à luz um filho. Ela disse: ""Porque Yahweh ouviu que eu não sou amada, Ele me deu mais este filho"", e ela o chamou Simeão." ^v33
 
-**34** E concebeu outra vez, e deu à luz um filho, dizendo: Agora esta vez se unirá meu marido a mim, porque três filhos lhe tenho dado. Por isso chamou-o Levi. ^v34
+**34** "Então ela concebeu novamente e deu à luz um filho. Ela disse: ""Agora, desta vez, meu marido estará apegado a mim, pois eu lhe dei três filhos"". Por isso o chamou Levi." ^v34
 
-**35** E concebeu outra vez e deu à luz um filho, dizendo: Esta vez louvarei ao Senhor. Por isso chamou-o Judá; e cessou de dar à luz. ^v35
+**35** "Ela concebeu novamente e deu à luz um filho. Ela disse: ""Desta vez louvarei Yahweh"". Assim chamou-o Judá; então ela parou de ter filhos." ^v35

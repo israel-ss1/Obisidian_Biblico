@@ -1,77 +1,76 @@
 ---
-Livro: "[[Provérbios|Provérbios]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Provérbios|Provérbios]]"
+tags: [biblia]
 ---
 
 # Provérbios 6
 
-**1** Filho meu, se ficaste por fiador do teu companheiro, se deste a tua mão ao estranho, ^v1
+**1** Meu filho, se puseste o teu dinheiro como garantia do empréstimo que o teu próximo pediu, se deste a tua palavra para o empréstimo de alguém que não conheces, ^v1
 
-**2** E te deixaste enredar pelas próprias palavras; e te prendeste nas palavras da tua boca; ^v2
+**2** então, terás feito uma armadilha para ti mesmo por tua promessa, e tu foste pego pelas palavras de tua boca. ^v2
 
-**3** Faze pois isto agora, filho meu, e livra-te, já que caíste nas mãos do teu companheiro: vai, humilha-te, e importuna o teu companheiro. ^v3
+**3** Neste caso, meu filho, faz isto e livra-te, pois caíste nas mãos do teu próximo. Vai, humilha-te e defende o teu caso perante o teu próximo. ^v3
 
-**4** Não dês sono aos teus olhos, nem deixes adormecer as tuas pálpebras. ^v4
+**4** Não dês aos teus olhos sono algum, e às tuas pálpebras, nenhum descanso. ^v4
 
-**5** Livra-te, como a gazela da mão do caçador, e como a ave da mão do passarinheiro. ^v5
+**5** Livra-te como uma gazela das mãos do caçador, como um pássaro da mão do passarinheiro. ^v5
 
-**6** Vai ter com a formiga, ó preguiçoso; olha para os seus caminhos, e sê sábio. ^v6
+**6** Olha para a formiga, preguiçoso, considera os caminhos dela, e sê sábio. ^v6
 
-**7** Pois ela, não tendo chefe, nem guarda, nem dominador, ^v7
+**7** Ela não tem comandante, oficial ou governante, ^v7
 
-**8** Prepara no verão o seu pão; na sega ajunta o seu mantimento. ^v8
+**8** contudo, prepara seu alimento no verão, e, durante a colheita, armazena o que irá comer. ^v8
 
-**9** Ó preguiçoso, até quando ficarás deitado? Quando te levantarás do teu sono? ^v9
+**9** Quanto tempo dormirás, preguiçoso? Quando levantarás do teu sono? ^v9
 
-**10** Um pouco a dormir, um pouco a tosquenejar; um pouco a repousar de braços cruzados; ^v10
+**10** """Um pouco mais de sono, um pouco mais de descanso, um pouco mais de braços cruzados para descansar"";" ^v10
 
-**11** Assim sobrevirá a tua pobreza como o meliante, e a tua necessidade como um homem armado. ^v11
+**11** e a tua pobreza te alcançará como um ladrão e as tuas necessidades, como um soldado armado. ^v11
 
-**12** O homem mau, o homem iníquo tem a boca pervertida. ^v12
+**12** A pessoa inútil, o homem perverso, vive com um discurso tortuoso, ^v12
 
-**13** Acena com os olhos, fala com os pés e faz sinais com os dedos. ^v13
+**13** piscando seus olhos, fazendo sinais com seus pés e apontando com seus dedos. ^v13
 
-**14** Há no seu coração perversidade, todo o tempo maquina mal; anda semeando contendas. ^v14
+**14** Ele planeja o mal com o seu coração enganoso; ele sempre atiça a discórdia. ^v14
 
-**15** Por isso a sua destruição virá repentinamente; subitamente será quebrantado, sem que haja cura. ^v15
+**15** Por isso, sua desgraça o alcançará em um instante; em um momento, ele será quebrado sem possibilidade de cura. ^v15
 
-**16** Estas seis coisas o Senhor odeia, e a sétima a sua alma abomina: ^v16
+**16** Há seis coisas que Yahweh odeia, sete que são abomináveis a Ele: ^v16
 
-**17** Olhos altivos, língua mentirosa, mãos que derramam sangue inocente, ^v17
+**17** os olhos do orgulhoso, a língua que mente, as mãos que derramam sangue dos inocentes, ^v17
 
-**18** O coração que maquina pensamentos perversos, pés que se apressam a correr para o mal, ^v18
+**18** o coração que inventa planos perversos, os pés que correm apressadamente para fazer o mal, ^v18
 
-**19** A testemunha falsa que profere mentiras, e o que semeia contendas entre irmãos. ^v19
+**19** a testemunha que expira mentiras e aquele que semeia discórdia entre irmãos. ^v19
 
-**20** Filho meu, guarda o mandamento de teu pai, e não deixes a lei da tua mãe; ^v20
+**20** Meu filho, obedece ao mandamento de teu pai e não abandones o ensinamento de tua mãe. ^v20
 
-**21** Ata-os perpetuamente ao teu coração, e pendura-os ao teu pescoço. ^v21
+**21** Liga-os sempre ao teu coração; amarra-os ao redor do teu pescoço. ^v21
 
-**22** Quando caminhares, te guiará; quando te deitares, te guardará; quando acordares, falará contigo. ^v22
+**22** Quando andares, eles te guiarão; quando dormires, eles zelarão por ti, e, quando acordares, eles te ensinarão. ^v22
 
-**23** Porque o mandamento é lâmpada, e a lei é luz; e as repreensões da correção são o caminho da vida, ^v23
+**23** Pois o mandamento é lâmpada, e o ensinamento é luz; as repreensões que vêm da disciplina são o caminho de vida. ^v23
 
-**24** Para te guardarem da mulher vil, e das lisonjas da estranha. ^v24
+**24** Ela te preserva da mulher imoral, das suaves palavras da adúltera. ^v24
 
-**25** Não cobices no teu coração a sua formosura, nem te prendas aos seus olhos. ^v25
+**25** Em teu coração, não cobice a sua beleza, e não sejas capturado por seus cílios. ^v25
 
-**26** Porque por causa duma prostituta se chega a pedir um bocado de pão; e a adúltera anda à caça da alma preciosa. ^v26
+**26** Dormir com uma prostituta pode custar-te um pedaço de pão, mas a esposa de outro pode custar a tua própria vida. ^v26
 
-**27** Porventura tomará alguém fogo no seu seio, sem que suas vestes se queimem? ^v27
+**27** Por acaso pode um homem transportar fogo junto ao seu peito sem queimar as suas roupas? ^v27
 
-**28** Ou andará alguém sobre brasas, sem que se queimem os seus pés? ^v28
+**28** Pode um homem andar sobre brasas sem queimar seus pés? ^v28
 
-**29** Assim ficará o que entrar à mulher do seu próximo; não será inocente todo aquele que a tocar. ^v29
+**29** Assim é o homem que dorme com a mulher do seu próximo; aquele que dormir com ela não ficará impune. ^v29
 
-**30** Não se injuria o ladrão, quando furta para saciar-se, tendo fome; ^v30
+**30** As pessoas não desprezam um ladrão se ele furta para saciar sua necessidade, quando está faminto. ^v30
 
-**31** E se for achado pagará o tanto sete vezes; terá de dar todos os bens da sua casa. ^v31
+**31** Contudo, se for pego, pagará sete vezes o que furtou. Ele deverá entregar tudo de valor em sua casa. ^v31
 
-**32** Assim, o que adultera com uma mulher é falto de entendimento; aquele que faz isso destrói a sua alma. ^v32
+**32** Aquele que comete adultério não tem juízo; quem age assim destrói a si próprio. ^v32
 
-**33** Achará castigo e vilipêndio, e o seu opróbrio nunca se apagará. ^v33
+**33** Feridas e vergonha são o que ele merece, e sua desgraça não se apagará. ^v33
 
-**34** Porque os ciúmes enfurecerão o marido; de maneira nenhuma perdoará no dia da vingança. ^v34
+**34** Pois o ciúme faz um homem ficar furioso; ele não mostrará nenhuma misericórdia quando se vingar. ^v34
 
-**35** Não aceitará nenhum resgate, nem se conformará por mais que aumentes os presentes. ^v35
+**35** Ele não aceitará nenhuma compensação, e não poderá ser comprado, ainda que tu lhe ofereças muitos presentes. ^v35

@@ -1,101 +1,100 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Jeremias|Jeremias]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Jeremias|Jeremias]]"
+tags: [biblia]
 ---
 
 # Jeremias 48
 
-**1** Contra Moabe, assim diz o SENHOR dos Exércitos, Deus de Israel: Ai de Nebo, porque foi destruída; envergonhada está Quiriataim, já está tomada; Misgabe está envergonhada e desanimada. ^v1
+**1** "Sobre Moabe, Yahweh dos Exércitos, Deus de Israel, diz: ""Ai de Nebo, porque foi devastada. Quiriataim foi capturada e envergonhada. Sua fortaleza foi esmagada e desgraçada." ^v1
 
-**2** A glória de Moabe já não existe mais; em Hesbom tramaram mal contra ela, dizendo: Vinde, e exterminemo-la, para que não seja mais nação; também tu, ó Madmém, serás silenciada; a espada te perseguirá. ^v2
+**2** "A honra de Moabe não mais existe. Seus inimigos em Hesbom planejaram um desastre contra ela. Eles disseram: 'Vinde e vamos destruí-la como nação. Homens loucos também perecerão. Uma espada irá atrás de ti.""" ^v2
 
-**3** Voz de clamor de Horonaim; ruína e grande destruição! ^v3
+**3** Ouvi! Um som de grito vem de Horonaim, onde há ruína e grande destruição. ^v3
 
-**4** Está destruída Moabe; seus filhinhos fizeram ouvir um clamor. ^v4
+**4** Moabe foi destruída e o choro de seus filhos foi ouvido. ^v4
 
-**5** Porque pela subida de Luíte eles irão com choro contínuo; porque na descida de Horonaim os adversários de Moabe ouviram as angústias do grito da destruição. ^v5
+**5** Eles sobem a colina de Luíte chorando, pois no caminho de Horonaim gritos são ouvidos por causa da destruição. ^v5
 
-**6** Fugi, salvai a vossa vida; sede como a tamargueira no deserto; ^v6
+**6** Fugi! Salvai vossas vidas e vos torneis como árvores de zimbro no deserto. ^v6
 
-**7** Porque, por causa da tua confiança nas tuas obras, e nos teus tesouros, também tu serás tomada; e Quemós sairá para o cativeiro, os seus sacerdotes e os seus príncipes juntamente. ^v7
+**7** Por causa da confiança em vossas obras e riquezas, vós também sereis capturados. Então, Quemós sairá para o cativeiro junto com os seus sacerdotes e líderes. ^v7
 
-**8** Porque virá o destruidor sobre cada uma das cidades, e nenhuma cidade escapará, e perecerá o vale, e destruir-se-á a campina; porque o Senhor o disse. ^v8
+**8** Porque o destruidor virá a cada cidade e nenhuma delas escapará. O vale perecerá e a planície será devastada, como Yahweh disse. ^v8
 
-**9** Dai asas a Moabe; porque voando sairá, e as suas cidades se tornarão em desolação, e ninguém morará nelas. ^v9
+**9** Dai asas a Moabe, pois ela, certamente, sairá voando. Suas cidades se tornaram em terrenos baldios, onde não há ninguém para viver. ^v9
 
-**10** Maldito aquele que fizer a obra do Senhor fraudulosamente; e maldito aquele que retém a sua espada do sangue. ^v10
+**10** Qualquer preguiçoso em fazer a obra de Yahweh será amaldiçoado! Qualquer que retiver sua espada para derramar sangue será amaldiçoado! ^v10
 
-**11** Moabe esteve descansado desde a sua mocidade, e repousou nas suas borras, e não foi mudado de vasilha para vasilha, nem foi para o cativeiro; por isso conservou o seu sabor, e o seu cheiro não se alterou. ^v11
+**11** Moabe se sente seguro desde que era jovem. Ele é como seu vinho que nunca foi derramado de vasilha em vasilha. Ele nunca foi para o cativeiro. Portanto, tem gosto bom, como sempre, e seu sabor permanece inalterado. ^v11
 
-**12** Portanto, eis que dias vêm, diz o Senhor, em que lhe enviarei derramadores que o derramarão; e despejarão as suas vasilhas, e romperão os seus odres. ^v12
+**12** Vede, os dias vêm – esta é a declaração de Yahweh – quando Eu enviarei a ele aqueles que o derrubarão, derramarão todas as suas panelas e quebrarão os seus potes. ^v12
 
-**13** E Moabe terá vergonha de Quemós como a casa de Israel se envergonhou de Betel, sua confiança. ^v13
+**13** Então, Moabe terá vergonha de Quemós da mesma forma que Israel teve vergonha de Betel, sua confiança. ^v13
 
-**14** Como direis: Somos valentes e homens fortes para a guerra? ^v14
+**14** Como podes tu dizer: 'Nós somos soldados, poderosos homens de luta'? ^v14
 
-**15** Moabe está destruído, e subiu das suas cidades, e os seus jovens escolhidos desceram à matança, diz o Rei, cujo nome é o Senhor dos Exércitos. ^v15
+**15** Moabe será devastada e suas cidades atacadas. Pois os melhores jovens foram para o local de abate –Essa é a declaração do Rei! Yahweh dos Exércitos é o Seu Nome. ^v15
 
-**16** Está prestes a vir a calamidade de Moabe; e apressa-se muito a sua aflição. ^v16
+**16** O desastre de Moabe está prestes a acontecer; a calamidade corre rapidamente. ^v16
 
-**17** Condoei-vos dele todos os que estais ao seu redor, e todos os que sabeis o seu nome; dizei: Como se quebrou a vara forte, o cajado formoso? ^v17
+**17** Todos vós, que estais ao redor de Moabe, gemei. E vós, todos os que conhecem sua fama, gritai : 'Ai, o bastão forte e a vara honrada se quebraram.' ^v17
 
-**18** Desce da tua glória, e assenta-te em terra seca, ó moradora, filha de Dibom; porque o destruidor de Moabe subiu contra ti, e desfez as tuas fortalezas. ^v18
+**18** Desce do teu lugar honrado e senta-te em terra seca, tu, filha moradora de Dibom. Porque o destruidor de Moabe te ataca; aquele que destruirá tuas fortalezas. ^v18
 
-**19** Põe-te no caminho, e espia, ó moradora de Aroer; pergunta ao que vai fugindo; e à que escapou dize: Que sucedeu? ^v19
+**19** Ficai em pé na estrada e observai, vós, povo que vive em Aroer. Perguntai àqueles que estão fugindo e escapando: 'O que está havendo?' ^v19
 
-**20** Moabe está envergonhado, porque foi quebrantado; lamentai e gritai; anunciai em Arnom que Moabe está destruído. ^v20
+**20** Moabe foi envergonhado, pois foi destruído. Ruído e lamento; gritos por ajuda. Dizei ao povo às margens do rio Arnom que Moabe está devastada. ^v20
 
-**21** Também o julgamento veio sobre a terra da campina; sobre Holom, sobre Jaza, sobre Mefaate, ^v21
+**21** Agora, a punição veio sobre a terra do planalto, sobre Holom, Jaza, Mefaate, ^v21
 
-**22** Sobre Dibom, sobre Nebo, sobre Bete-Diblataim, ^v22
+**22** Dibom, Nebo, Bete-Diblataim, ^v22
 
-**23** Sobre Quiriataim, sobre Bete-Gamul, sobre Bete-Meom, ^v23
+**23** Quiriataim, Bete-Gamul, Bete-Meom, ^v23
 
-**24** Sobre Queriote, e sobre Bozra; e até sobre todas as cidades da terra de Moabe, as de longe e as de perto. ^v24
+**24** Queriote, Bozra e todas as cidades na terra de Moabe, as cidades distantes e as próximas. ^v24
 
-**25** Já é cortado o poder de Moabe, e é quebrantado o seu braço, diz o Senhor. ^v25
+**25** O chifre de Moabe foi cortado; seu braço foi quebrado — esta é a declaração de Yahweh. ^v25
 
-**26** Embriagai-o, porque contra o Senhor se engrandeceu; e Moabe se revolverá no seu vômito, e ele também se tornará objeto de escárnio. ^v26
+**26** Embriagai-o, porque agiu orgulhosamente contra Yahweh. Que Moabe se revolva no seu vômito; deixai que ele se torne objeto de riso. ^v26
 
-**27** Pois não foi também Israel objeto de escárnio? Porventura foi achado entre ladrões, para que sempre que fales dele, saltes de alegria? ^v27
+**27** Pois Israel não se tornou um objeto de riso para vós? Israel foi encontrado entre ladrões, para que, frequentemente, balanceis vossa cabeça ao falar dele? ^v27
 
-**28** Deixai as cidades, e habitai no rochedo, ó moradores de Moabe; e sede como a pomba que se aninha nos lados da boca da caverna. ^v28
+**28** Abandonai as cidades e acampai nos penhascos, habitantes de Moabe. Sede como uma pomba, que faz o ninho nas beiras seguras dos penhascos. ^v28
 
-**29** Ouvimos da soberba de Moabe, que é soberbíssimo, como também da sua arrogância, e da sua vaidade, e da sua altivez e do seu orgulhoso coração. ^v29
+**29** Nós temos ouvido sobre a soberba de Moabe, sua arrogância, sua altivez, seu orgulho, sua vanglória e o conceito em seu coração. ^v29
 
-**30** Eu conheço, diz o Senhor, a sua indignação, mas isso nada é; as suas mentiras nada farão. ^v30
+**30** Esta é a declaração de Yahweh — Eu mesmo conheço seu discurso desafiador, o qual equivale a nada, como seus atos. ^v30
 
-**31** Por isso gemerei por Moabe, sim, gritarei por todo o Moabe; pelos homens de Quir-Heres lamentarei; ^v31
+**31** Então, Eu vou uivar e lamentar por Moabe, e gritar em socorro por todos de Moabe. Eu lamentarei pelas pessoas de Quir-Heres. ^v31
 
-**32** Com o choro de Jazer chorar-te-ei, ó vide de Sibma; os teus ramos passaram o mar, chegaram até ao mar de Jazer; porém o destruidor caiu sobre os teus frutos do verão, e sobre a tua vindima. ^v32
+**32** Chorarei por ti mais do que chorei por Jazer, vinha de Sibma! Teus ramos passaram pelo mar de sal e chegaram tão longe quanto Jazer. Os destruidores atacaram teu fruto de verão e tua vinha. ^v32
 
-**33** Tirou-se, pois, o folguedo e a alegria do campo fértil e da terra de Moabe; porque fiz cessar o vinho nos lagares; já não pisarão uvas com júbilo; o júbilo não será júbilo. ^v33
+**33** Então, celebração e regozijo foram tirados das árvores frutíferas e da terra de Moabe. Eu coloquei um fim para o vinho de seus lagares. Eles não pisarão com gritos de alegria. Quaisquer gritos não serão gritos de alegria. ^v33
 
-**34** Por causa do grito de Hesbom até Eleale e até Jaaz, se ouviu a sua voz desde Zoar até Horonaim, como bezerra de três anos; porque até as águas do Ninrim se tornarão em assolação. ^v34
+**34** Desde os gritos em Hesbom, tanto quanto em Elealé, seu som é ouvido até Jaza, de Zoar até Horonaim e Eglate-Silíssia, uma vez que mesmo as águas do Ninrim secaram. ^v34
 
-**35** E farei cessar em Moabe, diz o Senhor, quem sacrifique nos altos, e queime incenso aos seus deuses. ^v35
+**35** Porque eu colocarei um fim a qualquer um, em Moabe, que faça sacrifícios em santuários e a qualquer um que queime incenso aos seus deuses — esta é a declaração de Yahweh. ^v35
 
-**36** Por isso ressoará como flauta o meu coração por Moabe, também ressoará como flauta o meu coração pelos homens de Quir-Heres; porquanto a abundância que ajuntou se perdeu. ^v36
+**36** Meu coração está lamentando por Moabe como uma flauta. Meu coração está lamentando como flautas pelas pessoas de Quir-Heres. As riquezas que eles ganharam se foram. ^v36
 
-**37** Porque toda a cabeça será tosquiada, e toda a barba será diminuída; sobre todas as mãos haverá sarjaduras, e sobre os lombos, sacos. ^v37
+**37** Pois toda cabeça é calva e toda barba, raspada. Incisões estão em cada mão, e panos de saco estão em volta de suas cinturas. ^v37
 
-**38** Sobre todos os telhados de Moabe e nas suas ruas haverá um pranto geral; porque quebrei a Moabe, como a um vaso que não agrada, diz o Senhor. ^v38
+**38** Há luto em todos os lugares, nos telhados e nas praças de Moabe, pois Eu destruí Moabe como vasos que ninguém quer — esta é a declaração de Yahweh. ^v38
 
-**39** Como está quebrantado! Como gritam! Como virou Moabe a cerviz envergonhado! Assim será Moabe objeto de escárnio e de desmaio, para todos que estão em redor dele. ^v39
+**39** "Como tem sido destruído! Como eles uivam em suas lamentações! Moabe deu as costas em vergonha! Então, Moabe se tornará um objeto de escárnio e terror para todos aqueles que estão ao redor dele.""" ^v39
 
-**40** Porque assim diz o Senhor: Eis que voará como a águia, e estenderá as suas asas sobre Moabe. ^v40
+**40** "Yahweh diz : ""Vê, o inimigo virá voando como uma águia, estendendo suas asas sobre Moabe." ^v40
 
-**41** São tomadas as cidades, e ocupadas as fortalezas; e naquele dia será o coração dos valentes de Moabe como o coração da mulher que está com dores de parto. ^v41
+**41** Queriote foi capturado, e suas fortalezas foram conquistadas. Porque naquele dia, o coração dos soldados de Moabe serão como o coração de mulheres em dores de parto. ^v41
 
-**42** E Moabe será destruído, para que não seja povo; porque se engrandeceu contra o Senhor. ^v42
+**42** Então, Moabe será destruído para que não seja mais povo, uma vez que ele se engrandeceu contra Mim, Yahweh. ^v42
 
-**43** Temor, e cova, e laço, vêm sobre ti, ó morador de Moabe, diz o Senhor. ^v43
+**43** Terror, cova e armadilha estão vindo sobre vós, habitantes de Moabe — esta é a declaração de Yahweh. ^v43
 
-**44** O que fugir do temor cairá na cova, e o que subir da cova ficará preso no laço; porque trarei sobre ele, sobre Moabe, o ano do seu castigo, diz o Senhor. ^v44
+**44** Qualquer um que fugir por causa do terror cairá na cova, e qualquer um que escalar a cova será capturado na armadilha, pois Eu os trarei isso no ano da Minha vingança contra eles — esta é a declaração de Yahweh. ^v44
 
-**45** Os que fugiam sem força pararam à sombra de Hesbom; pois saiu fogo de Hesbom, e a labareda do meio de Siom, e devorou o canto de Moabe e o alto da cabeça dos turbulentos. ^v45
+**45** Aqueles que fogem ficarão na sombra de Hesbom, sem qualquer força, pois o fogo sairá de Hesbom, e a chama do meio de Siom para devorar a fronte de Moabe e o topo das cabeças do povo prepotente. ^v45
 
-**46** Ai de ti, Moabe! Pereceu o povo de Quemós; porque teus filhos ficaram cativos, e tuas filhas em cativeiro. ^v46
+**46** Ai de ti, Moabe! O povo de Quemós está destruído, pois seus filhos são levados como cativos e suas filhas para o cativeiro. ^v46
 
-**47** Mas nos últimos dias farei voltar os cativos de Moabe, diz o Senhor. Até aqui o juízo de Moabe. ^v47
+**47** "Mas Eu restaurarei as fortunas de Moabe nos últimos dias – Esta é a declaração de Yahweh."" O julgamento sobre Moabe termina aqui." ^v47

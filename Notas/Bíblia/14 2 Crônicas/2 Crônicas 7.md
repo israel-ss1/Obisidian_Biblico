@@ -1,51 +1,50 @@
 ---
-Livro: "[[2 Crônicas|2 Crônicas]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/2 Crônicas|2 Crônicas]]"
+tags: [biblia]
 ---
 
 # 2 Crônicas 7
 
-**1** E acabando Salomão de orar, desceu o fogo do céu, e consumiu o holocausto e os sacrifícios; e a glória do SENHOR encheu a casa. ^v1
+**1** Quando Salomão terminou sua oração, fogo desceu dos céus e consumiu os holocaustos e sacrifícios, e a glória de Yahweh encheu a Casa. ^v1
 
-**2** E os sacerdotes não podiam entrar na casa do Senhor, porque a glória do Senhor tinha enchido a casa do Senhor. ^v2
+**2** Os sacerdotes não podiam entrar na casa de Yahweh, porque a Sua glória encheu Sua casa. ^v2
 
-**3** E todos os filhos de Israel vendo descer o fogo, e a glória do Senhor sobre a casa, encurvaram-se com o rosto em terra sobre o pavimento, e adoraram e louvaram ao Senhor, dizendo: Porque ele é bom, porque a sua benignidade dura para sempre. ^v3
+**3** "Todas as pessoas de Israel olhavam enquanto o fogo descia, e a glória de Yahweh estava sobre a Casa. Eles prostaram-se com o rosto no chão, sobre o pavimento de pedra, adoraram e deram graças a Yahweh; eles disseram: ""Porque Ele é bom, porque Sua aliança de lealdade dura para sempre""." ^v3
 
-**4** E o rei e todo o povo ofereciam sacrifícios perante o Senhor. ^v4
+**4** Então, o rei e todo o povo ofereceram sacrifícios para Yahweh. ^v4
 
-**5** E o rei Salomão ofereceu sacrifícios de bois, vinte e dois mil, e de ovelhas, cento e vinte mil; e o rei e todo o povo consagraram a casa de Deus. ^v5
+**5** O rei Salomão ofereceu um sacrifício de vinte e dois mil bois e cento e vinte mil ovelhas e bodes. Assim, o rei e todo o povo consagraram a casa de Deus. ^v5
 
-**6** E os sacerdotes, serviam em seus ofícios; como também os levitas com os instrumentos musicais do Senhor, que o rei Davi tinha feito, para louvarem ao Senhor, porque a sua benignidade dura para sempre, quando Davi o louvava pelo ministério deles; e os sacerdotes tocavam as trombetas diante deles, e todo o Israel estava em pé. ^v6
+**6** "Os sacerdotes ficaram de pé, cada um no lugar onde servia; os levitas também, com instrumentos de música a Yahweh, os quais Davi, o rei, havia feito para dar graças a Yahweh na canção ""Pois Sua aliança de lealdade dura para sempre"". Todos os sacerdotes soaram as trombetas diante deles, e todo o Israel ficou de pé." ^v6
 
-**7** E Salomão santificou o meio do átrio, que estava diante da casa do Senhor; porquanto ali tinha ele oferecido os holocaustos e a gordura dos sacrifícios pacíficos; porque no altar de metal, que Salomão tinha feito, não podia caber o holocausto, e a oferta de alimentos, e a gordura. ^v7
+**7** Salomão consagrou o meio do pátio em frente à casa de Yahweh. Lá, ele ofereceu as ofertas queimadas e a gordura das ofertas pacíficas, porque o altar de bronze que ele havia feito não foi capaz de suportar as ofertas queimadas, as ofertas de cereais, e a gordura. ^v7
 
-**8** E, assim, naquele mesmo tempo celebrou Salomão a festa por sete dias e todo o Israel com ele, uma grande congregação, desde a entrada de Hamate, até ao rio do Egito. ^v8
+**8** Assim, Salomão manteve, naquele tempo, as festas por sete dias, e todo o Israel estava com ele, uma grande assembleia, desde Lebo-Hamate até o ribeiro do Egito. ^v8
 
-**9** E no dia oitavo realizaram uma assembléia solene; porque sete dias celebraram a consagração do altar, e sete dias a festa. ^v9
+**9** No oitavo dia, eles realizaram a congregação solene porque mantiveram a consagração do altar por sete dias, e a festa por sete dias. ^v9
 
-**10** E no dia vigésimo terceiro do sétimo mês, despediu o povo para as suas tendas, alegres e de bom ânimo, pelo bem que o Senhor tinha feito a Davi, e a Salomão, e a seu povo Israel. ^v10
+**10** No vigésimo terceiro dia do sétimo mês, Salomão enviou as pessoas para suas casas com os corações contentes e cheios de alegria por causa da bondade que Yahweh havia mostrado a Davi, Salomão e a Israel, Seu povo. ^v10
 
-**11** Assim Salomão acabou a casa do Senhor, e a casa do rei, e tudo quanto Salomão intentou fazer na casa do Senhor e na sua casa prosperamente o efetuou. ^v11
+**11** Assim, Salomão terminou a casa de Yahweh e sua própria casa. Todas as coisas que vieram ao coração de Salomão para fazer na casa de Yahweh e na sua própria, ele completou com sucesso. ^v11
 
-**12** E o Senhor apareceu de noite a Salomão, e disse-lhe: Ouvi a tua oração, e escolhi para mim este lugar para casa de sacrifício. ^v12
+**12** "Yahweh apareceu a Salomão à noite, dizendo: ""Eu ouvi tua oração, e Eu escolhi este lugar para Mim mesmo como uma casa de sacrifício." ^v12
 
-**13** Se eu fechar os céus, e não houver chuva; ou se ordenar aos gafanhotos que consumam a terra; ou se enviar a peste entre o meu povo; ^v13
+**13** Se Eu fechar os céus e não houver chuva, ou se Eu ordenar aos gafanhotos que devorem a terra, ou se Eu mandar doenças no meio do Meu povo; ^v13
 
-**14** E se o meu povo, que se chama pelo meu nome, se humilhar, e orar, e buscar a minha face e se converter dos seus maus caminhos, então eu ouvirei dos céus, e perdoarei os seus pecados, e sararei a sua terra. ^v14
+**14** então, se Meu povo, que é chamado pelo Meu Nome, se humilhar, orar, buscar a Minha face, e se voltar de seu mau caminho, Eu ouvirei do céu, perdoarei seu pecado e sararei sua terra. ^v14
 
-**15** Agora estarão abertos os meus olhos e atentos os meus ouvidos à oração deste lugar. ^v15
+**15** Agora, Meus olhos estarão abertos e Meus ouvidos atentos para as orações feitas neste lugar. ^v15
 
-**16** Porque agora escolhi e santifiquei esta casa, para que o meu nome esteja nela perpetuamente; e nela estarão fixos os meus olhos e o meu coração todos os dias. ^v16
+**16** Pois Eu tenho escolhido e dedicado esta casa para que Meu Nome esteja lá para sempre, e Meus olhos e Meu coração estarão lá todo o tempo. ^v16
 
-**17** E, quanto a ti, se andares diante de mim, como andou Davi teu pai, e fizeres conforme a tudo o que te ordenei, e guardares os meus estatutos e os meus juízos, ^v17
+**17** No que se refere a ti, se andares diante de Mim, como Davi, teu pai, andou, obedecendo a tudo que Eu te ordenei e guardando Meus estatutos e Meus decretos, ^v17
 
-**18** Também confirmarei o trono do teu reino, conforme a aliança que fiz com Davi, teu pai, dizendo: Não te faltará sucessor que domine em Israel. ^v18
+**18** então, estabelecerei o trono do teu reino, como Eu disse na aliança com Davi, teu pai, quando Eu disse: 'Um descendente teu nunca deixará de reinar em Israel'. ^v18
 
-**19** Porém se vós vos desviardes, e deixardes os meus estatutos, e os meus mandamentos, que vos tenho proposto, e fordes, e servirdes a outros deuses, e vos prostrardes a eles, ^v19
+**19** Mas, se vos afastardes e abandonardes Meus estatutos e Meus mandamentos que coloquei diante de vós, e se fordes e adorardes outros deuses e vos curvardes diante deles, ^v19
 
-**20** Então os arrancarei da minha terra que lhes dei, e lançarei da minha presença esta casa que consagrei ao meu nome, e farei com que seja por provérbio e motejo entre todos os povos. ^v20
+**20** então, Eu vos arrancarei da Minha terra que Eu vos dei. Esta Casa que Eu tenho dedicado para Meu Nome, vou lançar para longe de Mim, e farei com que isto seja um provérbio e uma piada no meio de todos os povos. ^v20
 
-**21** E desta casa, que é tão exaltada, qualquer que passar por ela se espantará e dirá: Por que fez o Senhor assim com esta terra e com esta casa? ^v21
+**21** E, mesmo que este templo seja tão exaltado agora, todos os que passarem por ele ficarão chocados, e perguntarão: 'Por que Yahweh fez isto com esta terra e com esta Casa?'. ^v21
 
-**22** E dirão: Porque deixaram ao Senhor Deus de seus pais, que os tirou da terra do Egito, e se deram a outros deuses, e se prostraram a eles, e os serviram; por isso ele trouxe sobre eles todo este mal. ^v22
+**22** "Outros responderão: 'Porque eles abandonaram Yahweh, seu Deus, que tirou seus ancestrais da terra do Egito, e se apegaram a outros deuses, e se curvaram a eles e os adoraram. Essa é a razão pela qual Yahweh trouxe todo esse desastre sobre eles'""." ^v22

@@ -1,75 +1,74 @@
 ---
-Livro: "[[1 Reis|1 Reis]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/1 Reis|1 Reis]]"
+tags: [biblia]
 ---
 
 # 1 Reis 15
 
-**1** E no décimo oitavo ano do rei Jeroboão, filho de Nebate, Abias começou a reinar sobre Judá. ^v1
+**1** No décimo oitavo ano do rei Jeroboão, filho de Nebate, Abias começou a reinar sobre Judá. ^v1
 
-**2** E reinou três anos em Jerusalém; e era o nome de sua mãe Maaca, filha de Absalão. ^v2
+**2** Ele reinou por três anos em Jerusalém. O nome de sua mãe era Maaca. Ela era filha de Absalão. ^v2
 
-**3** E andou em todos os pecados que seu pai tinha cometido antes dele; e seu coração não foi perfeito para com o Senhor seu Deus como o coração de Davi, seu pai. ^v3
+**3** Ele andou em todos os pecados que seu pai havia cometido antes de seu tempo; seu coração não era devotado a Yahweh, seu Deus, como o coração de Davi, seu antepassado, havia sido. ^v3
 
-**4** Mas por amor de Davi o Senhor seu Deus lhe deu uma lâmpada em Jerusalém, levantando a seu filho depois dele, e confirmando a Jerusalém. ^v4
+**4** Mesmo assim, por causa de Davi, Yahweh, seu Deus, deu-lhe uma lâmpada em Jerusalém, levantando seu filho após ele, para fortalecer Jerusalém. ^v4
 
-**5** Porquanto Davi tinha feito o que era reto aos olhos do Senhor, e não se tinha desviado de tudo quanto lhe ordenara em todos os dias da sua vida, senão só no negócio de Urias, o heteu. ^v5
+**5** Deus falou isso porque Davi fez o que era certo aos Seus olhos; por todos os dias de sua vida, ele não virou as costas para nada que lhe havia sido ordenado, exceto no caso de Urias, o hitita. ^v5
 
-**6** E houve guerra entre Roboão e Jeroboão todos os dias da sua vida. ^v6
+**6** Houve guerra entre Roboão e Jeroboão durante todos os dias da vida de Abias. ^v6
 
-**7** Quanto ao mais dos atos de Abias, e a tudo quanto fez, porventura não está escrito no livro das crônicas dos reis de Judá? Também houve guerra entre Abias e Jeroboão. ^v7
+**7** Os demais atos de Abias, tudo o que ele fez, não estão escritos no livro de eventos dos reis de Judá? Houve guerra entre Abias e Jeroboão. ^v7
 
-**8** E Abias dormiu com seus pais, e o sepultaram na cidade de Davi; e Asa, seu filho, reinou em seu lugar. ^v8
+**8** Abias dormiu com seus antepassados, e eles o sepultaram na cidade de Davi. Asa, seu filho, se tornou rei em seu lugar. ^v8
 
-**9** E no vigésimo ano de Jeroboão, rei de Israel, começou Asa a reinar em Judá. ^v9
+**9** No vigésimo ano de Jeroboão, rei de Israel, Asa começou a reinar sobre Judá. ^v9
 
-**10** E quarenta e um anos reinou em Jerusalém; e era o nome de sua mãe Maaca, filha de Absalão. ^v10
+**10** Ele reinou por quarenta e um anos em Jerusalém. O nome de sua avó era Maaca, a filha de Absalão. ^v10
 
-**11** E Asa fez o que era reto aos olhos do Senhor, como Davi seu pai. ^v11
+**11** Asa fez o que era certo aos olhos de Yahweh, assim como Davi, seu antepassado, havia feito. ^v11
 
-**12** Porque tirou da terra os sodomitas, e removeu todos os ídolos que seus pais fizeram. ^v12
+**12** Ele expulsou as prostitutas cultuais da terra e removeu todos os ídolos que seus antepassados haviam feito. ^v12
 
-**13** E até a Maaca, sua mãe, removeu para que não fosse rainha, porquanto tinha feito um horrível ídolo a Aserá; também Asa desfez o seu ídolo horrível, e o queimou junto ao ribeiro de Cedrom. ^v13
+**13** Ele também removeu Maaca, sua avó, da posição de rainha, pois ela havia feito uma abominável imagem de um poste a Astarote. Asa destruiu esta imagem e a queimou no vale de Cedrom. ^v13
 
-**14** Os altos, porém, não foram tirados; todavia foi o coração de Asa reto para com o Senhor todos os seus dias. ^v14
+**14** Mas os altares das colinas não foram removidos. Mesmo assim, o coração de Asa era completamente devotado a Yahweh, durante todos os seus dias. ^v14
 
-**15** E à casa do Senhor trouxe as coisas consagradas por seu pai, e as coisas que ele mesmo consagrara; prata, ouro e vasos. ^v15
+**15** Ele trouxe para o templo de Yahweh as coisas que foram dedicadas a Yahweh, por seu pai, e as coisas que ele mesmo havia dedicado, objetos feitos de prata e ouro, e vasos. ^v15
 
-**16** E houve guerra entre Asa e Baasa, rei de Israel, todos os seus dias. ^v16
+**16** Houve guerra entre Asa e Baasa, rei de Israel, durante todos os seus dias. ^v16
 
-**17** Porque Baasa, rei de Israel, subiu contra Judá, e edificou a Ramá, para que a ninguém fosse permitido sair, nem entrar a ter com Asa, rei de Judá. ^v17
+**17** Baasa, rei de Israel, agiu agressivamente contra Judá e construiu Ramá, para que ninguém pudesse entrar ou sair da terra de Asa, o rei de Judá. ^v17
 
-**18** Então Asa tomou toda a prata e ouro que ficaram nos tesouros da casa do Senhor, e os tesouros da casa do rei, e os entregou nas mãos de seus servos; e o rei Asa os enviou a Ben-Hadade, filho de Tabrimom, filho de Heziom, rei da Síria, que habitava em Damasco, dizendo: ^v18
+**18** Então Asa pegou toda a prata e o ouro que foram deixados nos tesouros do templo de Yahweh, e os tesouros do palácio do rei. Ele os colocou nas mãos de seus servos e enviou a Ben-Hadade, filho de Tabrimom, filho de Heziom, o rei da Síria que habitava em Damasco. Ele disse: ^v18
 
-**19** Haja acordo entre mim e ti, como houve entre meu pai e teu pai; eis que te mando um presente, prata e ouro; vai, e anula o teu acordo com Baasa, rei de Israel, para que se retire de sobre mim. ^v19
+**19** """Façamos uma aliança entre mim e ti, assim como houve entre meu pai e teu pai. Vê, eu te enviei um presente de prata e ouro. Quebra a tua aliança com Baasa, o rei de Israel, para que ele se afaste de mim""." ^v19
 
-**20** E Ben-Hadade deu ouvidos ao rei Asa, e enviou os capitães dos seus exércitos contra as cidades de Israel; e feriu a Ijom, e a Dã, e a Abel-Bete-Maaca, e a toda a Quinerete, com toda a terra de Naftali. ^v20
+**20** Ben-Hadade ouviu ao rei Asa e enviou comandantes de seus exércitos, e eles atacaram as cidades de Israel. Eles atacaram Ijom, Dã, Abel-Bete-Maaca e toda Quinerete, junto com todo o território de Naftali. ^v20
 
-**21** E sucedeu que, ouvindo-o Baasa, deixou de edificar a Ramá; e ficou em Tirza. ^v21
+**21** Quando Baasa ouviu isso, ele parou a construção de Ramá e voltou para Tirza. ^v21
 
-**22** Então o rei Asa fez apregoar por toda a Judá que todos, sem exceção, trouxessem as pedras de Ramá, e a sua madeira com que Baasa edificara; e com elas edificou o rei Asa a Geba de Benjamim e a Mizpá. ^v22
+**22** Então o rei Asa fez uma proclamação a todo o Judá. Ninguém foi excluído. Eles levaram as pedras e madeiras de Ramá, com as quais Baasa havia edificado a cidade. Então o rei Asa usou aquele material de construção para edificar Geba de Benjamim, e Mispá. ^v22
 
-**23** Quanto ao mais de todos os atos de Asa, e a todo o seu poder, e a tudo quanto fez, e as cidades que edificou, porventura não está escrito no livro das crônicas dos reis de Judá? Porém, no tempo da sua velhice, padeceu dos pés. ^v23
+**23** Os demais atos de Asa, toda a sua força, e tudo o que fez, as cidades que construiu, não estão escritos no livro dos eventos dos reis de Judá? Porém, durante sua velhice, ele teve uma doença nos pés. ^v23
 
-**24** E Asa dormiu com seus pais, e foi sepultado com seus pais na cidade de Davi, seu pai; e Jeosafá, seu filho, reinou em seu lugar. ^v24
+**24** Então Asa dormiu com seus antepassados e foi sepultado com eles na cidade de Davi, seu pai. Josafá, seu filho, se tornou rei em seu lugar. ^v24
 
-**25** E Nadabe, filho de Jeroboão, começou a reinar sobre Israel no ano segundo de Asa, rei de Judá; e reinou sobre Israel dois anos. ^v25
+**25** Nadabe, filho de Jeroboão, começou a reinar sobre Israel no segundo ano do reinado de Asa, rei de Judá; ele reinou sobre Israel durante dois anos. ^v25
 
-**26** E fez o que era mau aos olhos do Senhor; e andou nos caminhos de seu pai, e no seu pecado com que seu pai fizera pecar a Israel. ^v26
+**26** Ele fez o que era mau aos olhos de Yahweh e andou no caminho de seu pai, e no seu próprio pecado, pelo qual ele levou Israel a pecar. ^v26
 
-**27** E conspirou contra ele Baasa, filho de Aías, da casa de Issacar, e feriu-o Baasa em Gibetom, que era dos filisteus, quando Nadabe e todo o Israel cercavam a Gibetom. ^v27
+**27** Baasa, filho de Aías, da família de Issacar, conspirou contra Nadabe; Baasa o matou em Gibetom, que pertencia aos filisteus, pois Nadabe e todo Israel cercavam Gibetom. ^v27
 
-**28** E matou-o, pois, Baasa no ano terceiro de Asa, rei de Judá, e reinou em seu lugar. ^v28
+**28** No terceiro ano de Asa, o rei de Judá, Baasa matou Nadabe, e se tornou rei em seu lugar. ^v28
 
-**29** Sucedeu que, reinando ele, feriu a toda a casa de Jeroboão; nada de Jeroboão deixou que tivesse fôlego, até o destruir, conforme à palavra do Senhor que dissera pelo ministério de seu servo Aías, o silonita. ^v29
+**29** Logo que se tornou rei, Baasa matou toda a família de Jeroboão. Ele não deixou que nenhum dos descendentes de Jeroboão respirasse; desta maneira ele destruiu sua linhagem real, como Yahweh havia falado através de seu servo Aías, o silonita, ^v29
 
-**30** Por causa dos pecados que Jeroboão cometera, e fez pecar a Israel, e por causa da provocação com que irritara ao Senhor Deus de Israel. ^v30
+**30** por causa dos pecados que Jeroboão havia cometido e pelos quais ele fez Israel pecar, pois provocou a ira de Yahweh, o Deus de Israel. ^v30
 
-**31** Quanto ao mais dos atos de Nadabe, e a tudo quanto fez, porventura não está escrito no livro das crônicas dos reis de Israel? ^v31
+**31** Os demais atos de Nadabe, e tudo o que ele fez, não estão escritos no livro de eventos dos reis de Israel? ^v31
 
-**32** E houve guerra entre Asa e Baasa, rei de Israel, todos os seus dias. ^v32
+**32** Houve guerra entre Asa e Baasa, rei de Israel, durante todos os seus dias. ^v32
 
-**33** No ano terceiro de Asa, rei de Judá, Baasa, filho de Aías, começou a reinar sobre todo o Israel em Tirza, e reinou vinte e quatro anos. ^v33
+**33** No terceiro ano de Asa, o rei de Judá, Baasa, filho de Aías, começou a reinar sobre todo Israel em Tirza e ele reinou durante vinte e quatro anos. ^v33
 
-**34** E fez o que era mau aos olhos do Senhor; e andou no caminho de Jeroboão, e no pecado com que ele tinha feito Israel pecar. ^v34
+**34** Ele fez o que era mau aos olhos de Yahweh e andou no caminho de Jeroboão e em seus pecados, pelos quais levou Israel a pecar. ^v34

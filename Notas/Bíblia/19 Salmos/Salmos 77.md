@@ -1,47 +1,44 @@
 ---
-Livro: "[[Salmos|Salmos]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Salmos|Salmos]]"
+tags: [biblia]
 ---
 
 # Salmos 77
 
-**1** Clamei a Deus com a minha voz, a Deus levantei a minha voz, e ele inclinou para mim os ouvidos. ^v1
+**2** No dia da minha aflição, eu busco a Yahweh; à noite, eu estendo minhas mãos para fora e elas não se cansam. Minha alma se recusa a ser consolada. ^v2
 
-**2** No dia da minha angústia busquei ao Senhor; a minha mão se estendeu de noite, e não cessava; a minha alma recusava ser consolada. ^v2
+**3** Eu me lembro de Deus enquanto eu gemo; penso Nele enquanto eu desfaleço. [Interlúdio] ^v3
 
-**3** Lembrava-me de Deus, e me perturbei; queixava-me, e o meu espírito desfalecia. (Selá.) ^v3
+**4** Tu manténs meus olhos abertos; eu estou muito perturbado para falar. ^v4
 
-**4** Sustentaste os meus olhos acordados; estou tão perturbado que não posso falar. ^v4
+**5** Penso sobre os dias antigos, sobre tempos que já passaram. ^v5
 
-**5** Considerava os dias da antiguidade, os anos dos tempos antigos. ^v5
+**6** Durante a noite, eu me relembro da canção que um dia cantei. Penso cuidadosamente e tento compreender o que aconteceu. ^v6
 
-**6** De noite chamei à lembrança o meu cântico; meditei em meu coração, e o meu espírito esquadrinhou. ^v6
+**7** Yahweh me rejeitará para sempre? Ele nunca mais me mostrará Seu favor novamente? ^v7
 
-**7** Rejeitará o Senhor para sempre e não tornará a ser favorável? ^v7
+**8** Seu amor leal se foi para sempre? Sua promessa falhou para sempre? ^v8
 
-**8** Cessou para sempre a sua benignidade? Acabou-se já a promessa de geração em geração? ^v8
+**9** Yahweh Se esqueceu de ser gracioso? Sua fúria excluiu Sua compaixão? [Interlúdio] ^v9
 
-**9** Esqueceu-se Deus de ter misericórdia? Ou encerrou ele as suas misericórdias na sua ira? (Selá.) ^v9
+**10** "Eu digo: “Este é o meu pesar: a mão direita do Altíssimo mudou para conosco.""" ^v10
 
-**10** E eu disse: Isto é enfermidade minha; mas eu me lembrarei dos anos da destra do Altíssimo. ^v10
+**11** Mas eu trarei à mente os Teus feitos, Yahweh, eu pensarei sobre Tuas maravilhosas obras da antiguidade. ^v11
 
-**11** Eu me lembrarei das obras do Senhor; certamente que eu me lembrarei das tuas maravilhas da antiguidade. ^v11
+**12** Meditarei sobre todos os Teus feitos e refletirei neles. ^v12
 
-**12** Meditarei também em todas as tuas obras, e falarei dos teus feitos. ^v12
+**13** Teu caminho, ó Deus, é santo; que deus se compara ao nosso grandioso Deus? ^v13
 
-**13** O teu caminho, ó Deus, está no santuário. Quem é Deus tão grande como o nosso Deus? ^v13
+**14** Tu és o Deus que realiza maravilhas; Tu tens revelado Tua força entre os povos. ^v14
 
-**14** Tu és o Deus que fazes maravilhas; tu fizeste notória a tua força entre os povos. ^v14
+**15** Pelo Teu grande poder, Tu deste vitória ao Teu povo, os descendentes de Jacó e José. [Interlúdio] ^v15
 
-**15** Com o teu braço remiste o teu povo, os filhos de Jacó e de José. (Selá.) ^v15
+**16** As águas Te viram, ó Deus, as águas Te viram e tiveram medo; os abismos tremeram. ^v16
 
-**16** As águas te viram, ó Deus, as águas te viram, e tremeram; os abismos também se abalaram. ^v16
+**17** As nuvens derramaram água, os céus nublados trovejaram, Tuas flechas reluziram. ^v17
 
-**17** As nuvens lançaram água, os céus deram um som; as tuas flechas correram duma para outra parte. ^v17
+**18** Tua voz de trovão foi ouvida nos ventos; os relâmpagos iluminaram o mundo; a terra tremeu e se abalou. ^v18
 
-**18** A voz do teu trovão estava no céu; os relâmpagos iluminaram o mundo; a terra se abalou e tremeu. ^v18
+**19** Tua vereda passou pelo mar e Teu caminho pelas águas em ascensão, mas Tuas pegadas não foram vistas. ^v19
 
-**19** O teu caminho é no mar, e as tuas veredas nas águas grandes, e os teus passos não são conhecidos. ^v19
-
-**20** Guiaste o teu povo, como a um rebanho, pela mão de Moisés e de Arão. ^v20
+**20** Tu guiaste o Teu povo como um rebanho, pelas mãos de Moisés e Arão. ^v20

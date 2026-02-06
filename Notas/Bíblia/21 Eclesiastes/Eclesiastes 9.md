@@ -1,43 +1,42 @@
 ---
-Livro: "[[Eclesiastes|Eclesiastes]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Eclesiastes|Eclesiastes]]"
+tags: [biblia]
 ---
 
 # Eclesiastes 9
 
-**1** Deveras todas estas coisas considerei no meu coração, para declarar tudo isto: que os justos, e os sábios, e as suas obras, estão nas mãos de Deus, e também o homem não conhece nem o amor nem o ódio; tudo passa perante ele. ^v1
+**1** Eu pensei profundamente sobre tudo isso, tentando entender as pessoas justas e sábias, e seus feitos. Eles estão todos nas mãos de Deus. Ninguém sabe se o amor ou o ódio virá para alguém. ^v1
 
-**2** Tudo sucede igualmente a todos; o mesmo sucede ao justo e ao ímpio, ao bom e ao puro, como ao impuro; assim ao que sacrifica como ao que não sacrifica; assim ao bom como ao pecador; ao que jura como ao que teme o juramento. ^v2
+**2** Todos têm o mesmo destino. O mesmo destino espera tanto os justos quanto os perversos, os bons e os maus [Algumas versões modernas copiam versões antigas, de maneira que a frase se torne completa. Os tradutores podem decidir copiá-los], os puros e os impuros, os que sacrificam e os que não sacrificam. Assim como as pessoas boas morrerão, assim também os pecadores; assim como os que juram morrerão, também morrerá o homem que teme fazer um juramento. ^v2
 
-**3** Este é o mal que há entre tudo quanto se faz debaixo do sol; a todos sucede o mesmo; e que também o coração dos filhos dos homens está cheio de maldade, e que há desvarios no seu coração enquanto vivem, e depois se vão aos mortos. ^v3
+**3** Existe um destino cruel para tudo o que é feito debaixo do sol, um mesmo destino para todos. Os corações dos seres humanos são cheios de maldade, e a tolice está em seus corações enquanto eles vivem. E depois de tudo, eles morrem. ^v3
 
-**4** Ora, para aquele que está entre os vivos há esperança (porque melhor é o cão vivo do que o leão morto). ^v4
+**4** "Pois, para qualquer um que permanece entre os vivos, há esperança, assim como um cachorro vivo é melhor que um leão morto. [Algumas versões modernas trazem: ""O que é preferível? Para todos os viventes, isso é certo: um cachorro vivo é melhor que um leão morto""]" ^v4
 
-**5** Porque os vivos sabem que hão de morrer, mas os mortos não sabem coisa nenhuma, nem tampouco terão eles recompensa, mas a sua memória fica entregue ao esquecimento. ^v5
+**5** Porque todos os vivos sabem que morrerão, mas os mortos não sabem coisa alguma. Eles já não têm nenhuma recompensa, pois a memória deles foi esquecida. ^v5
 
-**6** Também o seu amor, o seu ódio, e a sua inveja já pereceram, e já não têm parte alguma para sempre, em coisa alguma do que se faz debaixo do sol. ^v6
+**6** O seu amor, ódio e inveja desapareceram há muito tempo. Eles nunca mais terão parte em nada que é feito debaixo do sol. ^v6
 
-**7** Vai, pois, come com alegria o teu pão e bebe com coração contente o teu vinho, pois já Deus se agrada das tuas obras. ^v7
+**7** Segue teu caminho, come teu pão com alegria e bebe teu vinho com um coração feliz, porque Deus aprova a celebração das boas obras. ^v7
 
-**8** Em todo o tempo sejam alvas as tuas roupas, e nunca falte o óleo sobre a tua cabeça. ^v8
+**8** Sejam tuas roupas sempre brancas, e seja tua cabeça ungida com óleo. ^v8
 
-**9** Goza a vida com a mulher que amas, todos os dias da tua vida vã, os quais Deus te deu debaixo do sol, todos os dias da tua vaidade; porque esta é a tua porção nesta vida, e no teu trabalho, que tu fizeste debaixo do sol. ^v9
+**9** Vive alegremente com a esposa que amas, todos os dias da tua vida inútil, os dias que Deus tem te dado debaixo do sol, esses inúteis dias. Essa é tua recompensa nesta vida, pelo trabalho que fizeste debaixo do sol. ^v9
 
-**10** Tudo quanto te vier à mão para fazer, faze-o conforme as tuas forças, porque na sepultura, para onde tu vais, não há obra nem projeto, nem conhecimento, nem sabedoria alguma. ^v10
+**10** Tudo o que tuas mãos encontram para fazer, trabalha com tuas forças, porque não há trabalho, explicação, conhecimento ou sabedoria na sepultura para onde vais. ^v10
 
-**11** Voltei-me, e vi debaixo do sol que não é dos ligeiros a carreira, nem dos fortes a batalha, nem tampouco dos sábios o pão, nem tampouco dos prudentes as riquezas, nem tampouco dos entendidos o favor, mas que o tempo e a oportunidade ocorrem a todos. ^v11
+**11** Eu tenho visto algumas coisas interessantes debaixo do sol: a corrida não pertence aos ligeiros; a batalha não pertence aos fortes; o pão não pertence aos sábios; as riquezas não pertencem aos prudentes; o favor não pertence aos entendidos. Entretanto, tempo e acaso afetam a todos. ^v11
 
-**12** que também o homem não sabe o seu tempo; assim como os peixes que se pescam com a rede maligna, e como os passarinhos que se prendem com o laço, assim se enlaçam também os filhos dos homens no mau tempo, quando cai de repente sobre eles. ^v12
+**12** Porque ninguém sabe quando morrerá, assim como o peixe preso em uma rede de morte, ou como pássaros pegos com uma armadilha. Assim como os animais, seres humanos são aprisionados em tempos maus, que repentinamente caem sobre eles. ^v12
 
-**13** Também vi esta sabedoria debaixo do sol, que para mim foi grande: ^v13
+**13** Eu também tenho visto sabedoria debaixo do sol, de maneira que me pareceu grandiosa. ^v13
 
-**14** Houve uma pequena cidade em que havia poucos homens, e veio contra ela um grande rei, e a cercou e levantou contra ela grandes baluartes; ^v14
+**14** Havia uma pequena cidade com apenas alguns homens nela, e um grande rei veio contra ela; sitiou-a e construiu grandes rampas contra ela. ^v14
 
-**15** E encontrou-se nela um sábio pobre, que livrou aquela cidade pela sua sabedoria, e ninguém se lembrava daquele pobre homem. ^v15
+**15** Mas, na cidade, foi encontrado um homem pobre e sábio, cuja sabedoria salvou a cidade; no entanto, depois, ninguém se lembrou daquele pobre homem. ^v15
 
-**16** Então disse eu: Melhor é a sabedoria do que a força, ainda que a sabedoria do pobre foi desprezada, e as suas palavras não foram ouvidas. ^v16
+**16** Então concluí: sabedoria é melhor que força, mas a sabedoria de um pobre homem é desprezada, e suas palavras não são ouvidas. ^v16
 
-**17** As palavras dos sábios devem em silêncio ser ouvidas, mais do que o clamor do que domina entre os tolos. ^v17
+**17** As palavras dos sábios faladas calmamente são melhor ouvidas que os gritos de qualquer governante entre os tolos. ^v17
 
-**18** Melhor é a sabedoria do que as armas de guerra, porém um só pecador destrói muitos bens. ^v18
+**18** Sabedoria é melhor que armas de guerra, mas um pecador pode arruinar muitas coisas boas. ^v18

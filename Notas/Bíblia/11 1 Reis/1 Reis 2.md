@@ -1,99 +1,98 @@
 ---
-Livro: "[[1 Reis|1 Reis]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/1 Reis|1 Reis]]"
+tags: [biblia]
 ---
 
 # 1 Reis 2
 
-**1** E aproximaram-se os dias da morte de Davi; e deu ele ordem a Salomão, seu filho, dizendo: ^v1
+**1** Quando o dia da morte de Davi se aproximou, ele deu ordens a Salomão seu filho, dizendo: ^v1
 
-**2** Eu vou pelo caminho de toda a terra; esforça-te, pois, e sê homem. ^v2
+**2** """Eu estou indo no caminho de toda a terra. Portanto sê forte, e age como homem." ^v2
 
-**3** E guarda a ordenança do Senhor teu Deus, para andares nos seus caminhos, e para guardares os seus estatutos, e os seus mandamentos, e os seus juízos, e os seus testemunhos, como está escrito na lei de Moisés; para que prosperes em tudo quanto fizeres, e para onde quer que fores. ^v3
+**3** Guarda os mandamentos de Yahweh, teu Deus, para andar em Seus caminhos, para obedecer Seus estatutos, Seus mandamentos, Suas decisões e Seus decretos da aliança, tendo o cuidado de fazer o que está escrito na lei de Moisés, para que prosperes em tudo que fizeres, aonde quer que fores, ^v3
 
-**4** Para que o Senhor confirme a palavra, que falou de mim, dizendo: Se teus filhos guardarem o seu caminho, para andarem perante a minha face fielmente, com todo o seu coração e com toda a sua alma, nunca, disse, te faltará sucessor ao trono de Israel. ^v4
+**4** para que Yahweh cumpra a palavra que Ele falou acerca de mim, dizendo: 'Se teus filhos, cuidadosamente, observarem seus comportamentos, para andarem diante de Mim, fielmente, com todo o seu coração e com toda a sua alma, nunca cessarás de ter um homem no trono de Israel'. ^v4
 
-**5** E também tu sabes o que me fez Joabe, filho de Zeruia, e o que fez aos dois capitães do exército de Israel, a Abner filho de Ner, e a Amasa, filho de Jeter, os quais matou, e em paz derramou o sangue de guerra, e pôs o sangue de guerra no cinto que tinha nos lombos, e nos sapatos que trazia nos pés. ^v5
+**5** Sabes também o que Joabe, filho de Zeruia, me fez. Ele matou os dois comandantes dos exércitos de Israel: Abner, filho de Ner, e Amasa, filho de Jéter. Ele derramou o sangue de guerra em tempo de paz e colocou o sangue de guerra no cinto em volta de sua cintura e nos sapatos que ele calçava. ^v5
 
-**6** Faze, pois, segundo a tua sabedoria, e não permitas que suas cãs desçam à sepultura em paz. ^v6
+**6** Faze com Joabe conforme a tua sabedoria, mas não deixes que a sua cabeça grisalha desça à sepultura em paz. ^v6
 
-**7** Porém com os filhos de Barzilai, o gileadita, usarás de beneficência, e estarão entre os que comem à tua mesa, porque assim se chegaram eles a mim, quando eu fugia por causa de teu irmão Absalão. ^v7
+**7** Contudo, mostra bondade com os filhos de Barzilai, o gileadita, e coloca-os entre aqueles que comem à tua mesa, pois eles vieram a mim, quando eu fugi de Absalão, teu irmão. ^v7
 
-**8** E eis que também contigo está Simei, filho de Gera, filho de Benjamim, de Baurim, que me maldisse com maldição atroz, no dia em que ia a Maanaim; porém ele saiu a encontrar-se comigo junto ao Jordão, e eu pelo Senhor lhe jurei, dizendo que o não mataria à espada. ^v8
+**8** Vê, está contigo Simei, filho de Gera, o benjamita de Baurim, o qual me amaldiçoou com uma terrível maldição, no dia em que eu ia para Maanaim. Simei desceu para me encontrar no rio Jordão, e eu jurei pelo nome de Yahweh, dizendo: 'Não te matarei pela espada'. ^v8
 
-**9** Mas agora não o tenhas por inculpável, pois és homem sábio, e bem saberás o que lhe hás de fazer para que faças com que as suas cãs desçam à sepultura com sangue. ^v9
+**9** "Agora, portanto, não o deixes escapar sem punição. Tu és um homem sensato, e saberás o que deves fazer com ele. Tu farás que sua cabeça grisalha desça à sepultura com sangue""." ^v9
 
-**10** E Davi dormiu com seus pais, e foi sepultado na cidade de Davi. ^v10
+**10** Então Davi morreu e foi sepultado com seus antepassados, na cidade de Davi. ^v10
 
-**11** E foram os dias que Davi reinou sobre Israel quarenta anos: sete anos reinou em Hebrom, e em Jerusalém reinou trinta e três anos. ^v11
+**11** O reinado de Davi foi de quarenta anos. Ele reinou por sete anos em Hebrom e por trinta e três anos em Jerusalém. ^v11
 
-**12** E Salomão se assentou no trono de Davi, seu pai, e o seu reino se fortificou sobremaneira. ^v12
+**12** Então Salomão assentou-se no trono de Davi, seu pai, e seu governo foi firmemente estabelecido. ^v12
 
-**13** Então veio Adonias, filho de Hagite, a Bate-Seba, mãe de Salomão; e disse ela: De paz é a tua vinda? E ele disse: É de paz. ^v13
+**13** "Então Adonias, filho de Hagite, veio a Bate-Seba, mãe de Salomão. Ela perguntou: ""Vieste pacificamente?"" Ele respondeu: ""Pacificamente""." ^v13
 
-**14** Então disse ele: Uma palavra tenho que dizer-te. E ela disse: Fala. ^v14
+**14** "Ele disse: ""Tenho algo para dizer-te"". Ela respondeu: ""Fala""." ^v14
 
-**15** Disse, pois, ele: Bem sabes que o reino era meu, e todo o Israel tinha posto a vista em mim para que eu viesse a reinar, contudo o reino foi transferido e veio a ser de meu irmão, porque foi feito seu pelo Senhor. ^v15
+**15** "Adonias disse: ""Tu sabes que o reino era meu e que todo o Israel esperava que me tornasse rei. Contudo o reino foi transferido para meu irmão, porque ele o recebeu de Yahweh." ^v15
 
-**16** Assim que agora uma só petição te faço; não ma rejeites. E ela lhe disse: Fala. ^v16
+**16** "Agora um só pedido te faço, não me rejeites"". Bate-Seba disse-lhe: ""Fala""." ^v16
 
-**17** E ele disse: Peço-te que fales ao rei Salomão (porque ele não te rejeitará) que me dê por mulher a Abisague, a sunamita. ^v17
+**17** "Ele disse: ""Por favor, fala com o rei Salomão, pois ele não te recusará, para que ele me dê Abisague, a sunamita, como minha esposa""." ^v17
 
-**18** E disse Bate-Seba: Bem, eu falarei por ti ao rei. ^v18
+**18** "Bate-Seba disse: ""Muito bem, falarei com o rei""." ^v18
 
-**19** Assim foi Bate-Seba ao rei Salomão, a falar-lhe por Adonias; e o rei se levantou a encontrar-se com ela, e se inclinou diante dela; então se assentou no seu trono, e fez pôr uma cadeira para a sua mãe, e ela se assentou à sua direita. ^v19
+**19** Então Bate-Seba foi até o rei Salomão para falar com ele em favor de Adonias. O rei levantou-se para saudá-la e inclinou-se diante dela. Então ele se assentou em seu trono e mandou que trouxessem um trono para sua mãe. Ela se assentou à sua direita. ^v19
 
-**20** Então disse ela: Só uma pequena petição te faço; não ma rejeites. E o rei lhe disse: Pede, minha mãe, porque não ta negarei. ^v20
+**20** "Ela lhe disse: ""Desejo fazer um pequeno pedido para ti. Não me recuses"". O rei respondeu: ""Pede, minha mãe, porque não te recusarei""." ^v20
 
-**21** E ela disse: Dê-se Abisague, a sunamita, a Adonias, teu irmão, por mulher. ^v21
+**21** "Ela disse: ""Permite que Abisague, a sunamita, seja dada como mulher para Adonias, teu irmão""." ^v21
 
-**22** Então respondeu o rei Salomão, e disse a sua mãe: E por que pedes a Abisague, a sunamita, para Adonias? Pede também para ele o reino (porque é meu irmão maior), para ele, digo, e também para Abiatar, sacerdote, e para Joabe, filho de Zeruia. ^v22
+**22** "O rei Salomão respondeu para sua mãe: ""Por que tu me pedes Abisague, a sunamita, para Adonias? Por que não me pedes o reino também para ele, porque ele é meu irmão mais velho; para ele, para o sacedorte Abiatar e para Joabe, filho de Zeruia?""." ^v22
 
-**23** E jurou o rei Salomão pelo Senhor, dizendo: Assim Deus me faça, e outro tanto, se não falou Adonias esta palavra contra a sua vida. ^v23
+**23** "Então o rei Salomão jurou por Yahweh, dizendo: ""Que Deus faça comigo, e também mais, se Adonias não falou essa palavra contra a sua própria vida." ^v23
 
-**24** Agora, pois, vive o Senhor, que me confirmou, e me fez assentar no trono de Davi, meu pai, e que me tem feito casa, como tinha falado, que hoje morrerá Adonias. ^v24
+**24** "Agora, portanto, como Yahweh vive, que me estabeleceu e me colocou no trono de Davi, meu pai, e que me fez uma casa, como Ele prometeu, certamente, hoje Adonias será morto""." ^v24
 
-**25** E enviou o rei Salomão pela mão de Benaia, filho de Joiada, o qual arremeteu contra ele de modo que morreu. ^v25
+**25** Assim, o rei Salomão enviou Benaia, filho de Joiada, e ele achou Adonias e o matou. ^v25
 
-**26** E a Abiatar, o sacerdote, disse o rei: Vai para Anatote, para os teus campos, porque és homem digno de morte; porém hoje não te matarei, porquanto levaste a arca do Senhor DEUS diante de Davi, meu pai, e porquanto foste aflito em tudo quanto meu pai foi aflito. ^v26
+**26** "Depois, o rei disse ao sacerdote Abiatar: ""Vai para Anatote, para os teus campos. Tu és digno de morte, mas não te matarei agora, porque tu carregaste a arca do Senhor Yahweh diante de Davi, meu pai, e participaste de todas as aflições de meu pai""." ^v26
 
-**27** Lançou, pois, Salomão fora a Abiatar, para que não fosse sacerdote do Senhor, para cumprir a palavra do Senhor, que tinha falado sobre a casa de Eli em Siló. ^v27
+**27** Assim, Salomão expulsou Abiatar para que não fosse sacerdote de Yahweh, para que se cumprisse a palavra de Yahweh, a qual Ele dissera acerca da família de Eli, em Siló. ^v27
 
-**28** E chegou a notícia até Joabe (porque Joabe tinha se desviado seguindo a Adonias, ainda que não tinha se desviado seguindo a Absalão), e Joabe fugiu para o tabernáculo do Senhor, e apegou-se às pontas do altar. ^v28
+**28** As notícias chegaram para Joabe, pois Joabe tinha apoiado Adonias, embora não tivesse apoiado Absalão. Assim, Joabe fugiu para a Tenda de Yahweh e segurou-se nas pontas do altar. ^v28
 
-**29** E disseram ao rei Salomão que Joabe tinha fugido para o tabernáculo do Senhor; e eis que está junto ao altar; então Salomão enviou Benaia, filho de Joiada, dizendo: Vai, arremete sobre ele. ^v29
+**29** "Disseram ao rei Salomão que Joabe fugira para o Tabernáculo de Yahweh e agora estava ao lado do altar. Então Salomão enviou Benaida, filho de Joiada, dizendo: ""Vai e mata-o!""" ^v29
 
-**30** E foi Benaia ao tabernáculo do Senhor, e lhe disse: Assim diz o rei: Sai daí. E disse ele: Não, porém aqui morrerei. E Benaia tornou com a resposta ao rei, dizendo: Assim falou Joabe, e assim me respondeu. ^v30
+**30** "Então Benaia chegou até o Tabernáculo de Yahweh e disse-lhe: ""O rei disse: 'Sai'"". Joabe respondeu: ""Não. Morrerei aqui"". Então, Benaia retornou para o rei, dizendo: ""Joabe disse que ficará e morrerá no altar""." ^v30
 
-**31** E disse-lhe o rei: Faze como ele disse, e arremete contra ele, e sepulta-o, para que tires de mim e da casa de meu pai o sangue que Joabe sem causa derramou. ^v31
+**31** "O rei disse para Benaia: ""Faze como ele disse. Mata-o e enterra-o, para que tires de mim, e da casa de meu pai, o sangue que Joabe derramou sem causa." ^v31
 
-**32** Assim o Senhor fará recair o sangue dele sobre a sua cabeça, porque deu sobre dois homens mais justos e melhores do que ele, e os matou à espada, sem que meu pai Davi o soubesse, a saber: a Abner, filho de Ner, capitão do exército de Israel, e a Amasa, filho de Jeter, capitão do exército de Judá. ^v32
+**32** Que Yahweh faça recair seu sangue sobre a sua própria cabeça, porque ele atacou dois homens mais justos e melhores que ele e matou-os com a espada: Abner, filho de Ner, o capitão do exército de Israel, e Amasa, filho de Jéter, o capitão do exército de Judá, sem que meu pai soubesse disso. ^v32
 
-**33** Assim recairá o sangue destes sobre a cabeça de Joabe e sobre a cabeça da sua descendência para sempre; mas a Davi, e à sua descendência, e à sua casa, e ao seu trono, dará o Senhor paz para todo o sempre. ^v33
+**33** "Assim o sangue deles recaia sobre a cabeça de Joabe e sobre a cabeça de seus descendentes para sempre. Mas, para Davi e sua descendência, e para sua casa, e para seu trono, haja paz de Yahweh para sempre""." ^v33
 
-**34** E subiu Benaia, filho de Joiada, e arremeteu contra ele, e o matou; e foi sepultado em sua casa, no deserto. ^v34
+**34** Então, Benaia filho de Joiada, subiu e atacou Joabe e o matou. Ele foi enterrado em sua própria casa, no deserto. ^v34
 
-**35** E o rei pôs a Benaia, filho de Joiada, em seu lugar sobre o exército, e a Zadoque, o sacerdote, pôs o rei em lugar de Abiatar. ^v35
+**35** O rei colocou Benaia, filho de Joiada, sobre o exército, no lugar de Joabe, e colocou Zadoque, o sacerdote, no lugar de Abiatar. ^v35
 
-**36** Depois mandou o rei, e chamou a Simei, e disse-lhe: Edifica-te uma casa em Jerusalém, e habita aí, e daí não saias, nem para uma nem para outra parte. ^v36
+**36** "Então o rei mandou chamar Simei e lhe disse: ""Constrói para ti uma casa em Jerusalém e habita lá, e não saias dela para nenhum outro lugar." ^v36
 
-**37** Porque há de ser que no dia em que saíres e passares o ribeiro de Cedrom, de certo que sem dúvida morrerás; o teu sangue será sobre a tua cabeça. ^v37
+**37** "Porque, no dia em que saíres e atravessares o vale de Cedrom, sabe tu que certamente morrerás. Teu sangue será sobre tua própria cabeça""." ^v37
 
-**38** E Simei disse ao rei: Boa é essa palavra; como tem falado o rei meu senhor, assim fará o teu servo. E Simei habitou em Jerusalém muitos dias. ^v38
+**38** "Então, Simei respondeu ao rei: ""O que disseste é bom. Como meu senhor, o rei, disse, assim teu servo fará"". Assim, Simei habitou em Jerusalém por muitos dias." ^v38
 
-**39** Sucedeu, porém, que, ao cabo de três anos, dois servos de Simei fugiram para Aquis, filho de Maaca, rei de Gate; e deram parte a Simei, dizendo: Eis que teus servos estão em Gate. ^v39
+**39** "Ao fim de três anos, porém, dois dos servos de Simei fugiram para Aquis, filho de Maaca, o rei de Gate. E disseram a Simei: ""Vê, teus servos estão em Gate""." ^v39
 
-**40** Então Simei se levantou, e albardou o seu jumento, e foi a Gate, ter com Aquis, em busca de seus servos; assim foi Simei, e trouxe os seus servos de Gate. ^v40
+**40** Então Simei se levantou, selou seu jumento e foi ao encontro de Aquis, em Gate, para buscar seus servos. Ele foi e os trouxe de volta de Gate. ^v40
 
-**41** E disseram a Salomão como Simei fora de Jerusalém a Gate, e já tinha voltado. ^v41
+**41** Quando Salomão soube que Simei havia saído de Jerusalém para Gate e havia retornado, ^v41
 
-**42** Então o rei mandou chamar a Simei, e disse-lhe: Não te conjurei eu pelo Senhor, e protestei contra ti, dizendo: No dia em que saíres para uma ou outra parte, sabe de certo que, sem dúvida, morrerás? E tu me disseste: Boa é essa palavra que ouvi. ^v42
+**42** "o rei mandou chamá-lo e lhe disse: ""Eu não te fiz jurar por Yahweh e testifiquei contra ti, dizendo: 'Sabe que, certamente, no dia em que saíres e fores para algum outro lugar, tu certamente morrerás'? Então tu me falaste: 'O que tu disseste é bom'." ^v42
 
-**43** Por que, pois, não guardaste o juramento do Senhor, nem a ordem que te dei? ^v43
+**43** "Por que, então, não guardaste teu juramento a Yahweh e a ordem que eu dei para ti?""" ^v43
 
-**44** Disse mais o rei a Simei: Bem sabes tu toda a maldade que o teu coração reconhece, que fizeste a Davi, meu pai; pelo que o Senhor fez recair a tua maldade sobre a tua cabeça. ^v44
+**44** "O rei também disse para Simei: ""Tu sabes, no teu coração, toda a maldade que fizeste a Davi, meu pai. Portanto Yahweh retornará tua maldade sobre tua própria cabeça." ^v44
 
-**45** Mas o rei Salomão será abençoado, e o trono de Davi será confirmado perante o Senhor para sempre. ^v45
+**45** "Todavia o rei Salomão será abençoado, e o trono de Davi será estabelecido perante Yahweh para sempre""." ^v45
 
-**46** E o rei mandou a Benaia, filho de Joiada, o qual saiu, e arremeteu contra ele, de modo que morreu; assim foi confirmado o reino na mão de Salomão. ^v46
+**46** Então o rei deu ordem a Benaia, filho de Joiada, ele saiu e matou Simei. Assim foi confirmado o reino na mão de Salomão. ^v46

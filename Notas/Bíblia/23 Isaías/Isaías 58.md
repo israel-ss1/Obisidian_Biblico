@@ -1,35 +1,34 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Isaías|Isaías]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Isaías|Isaías]]"
+tags: [biblia]
 ---
 
 # Isaías 58
 
-**1** Clama em alta voz, não te detenhas, levanta a tua voz como a trombeta e anuncia ao meu povo a sua transgressão, e à casa de Jacó os seus pecados. ^v1
+**1** """Clama bem alto, não te detenhas! Levanta a tua voz como uma trombeta! Declara ao Meu povo a sua transgressão e à casa de Jacó, os seus pecados." ^v1
 
-**2** Todavia me procuram cada dia, tomam prazer em saber os meus caminhos, como um povo que pratica justiça, e não deixa o direito do seu Deus; perguntam-me pelos direitos da justiça, e têm prazer em se chegarem a Deus, ^v2
+**2** No entanto, eles ainda Me buscam diariamente e se deleitam em conhecer os Meus caminhos, como uma nação que pratica a justiça e não abandona a Lei do seu Deus. Eles Me pedem por julgamentos retos e têm prazer em se aproximar de Deus. ^v2
 
-**3** Dizendo: Por que jejuamos nós, e tu não atentas para isso? Por que afligimos as nossas almas, e tu não o sabes? Eis que no dia em que jejuais achais o vosso próprio contentamento, e requereis todo o vosso trabalho. ^v3
+**3** E dizem: 'Por que temos jejuado, mas Tu não vês? Por que temos nos humilhado, mas não percebes?'. Vede, no dia do vosso jejum, buscais o vosso próprio prazer e oprimis todos os vossos trabalhadores. ^v3
 
-**4** Eis que para contendas e debates jejuais, e para ferirdes com punho iníquo; não jejueis como hoje, para fazer ouvir a vossa voz no alto. ^v4
+**4** Vede, vós jejuais para contender, brigar e ferir com punho de iniquidade; jejuando como fazes hoje, não tereis a vossa voz ouvida lá no alto. ^v4
 
-**5** Seria este o jejum que eu escolheria, que o homem um dia aflija a sua alma, que incline a sua cabeça como o junco, e estenda debaixo de si saco e cinza? Chamarias tu a isto jejum e dia aprazível ao Senhor? ^v5
+**5** É este o jejum que, de fato, Eu escolhi? Um dia para o homem humilhar a si mesmo, para curvar sua cabeça como um junco e deitar em panos de saco e cinzas? Vós, realmente, chamais isso de jejum, de um dia que agrada a Yahweh? ^v5
 
-**6** Porventura não é este o jejum que escolhi, que soltes as ligaduras da impiedade, que desfaças as ataduras do jugo e que deixes livres os oprimidos, e despedaces todo o jugo? ^v6
+**6** Não é este o jejum que Eu escolhi, que quebres as cadeias da impiedade, desfaças as cordas da opressão, libertes os oprimidos e despedaces todo o jugo? ^v6
 
-**7** Porventura não é também que repartas o teu pão com o faminto, e recolhas em casa os pobres abandonados; e, quando vires o nu, o cubras, e não te escondas da tua carne? ^v7
+**7** "Não é para que dividas o teu pão com o faminto e tragas o pobre e o desabrigado para a tua casa?"" Não é que quando vires alguém nu, vista-o e não te recuses socorrer o próximo?" ^v7
 
-**8** Então romperá a tua luz como a alva, e a tua cura apressadamente brotará, e a tua justiça irá adiante de ti, e a glória do Senhor será a tua retaguarda. ^v8
+**8** Então, a tua luz surgirá como o nascer do sol e a tua cura virá depressa; a tua retidão virá adiante de ti, e a glória de Yahweh será a tua retaguarda. ^v8
 
-**9** Então clamarás, e o Senhor te responderá; gritarás, e ele dirá: Eis-me aqui. Se tirares do meio de ti o jugo, o estender do dedo, e o falar iniquamente; ^v9
+**9** "Então, tu invocarás e Yahweh te responderá; clamarás e Ele dirá: ""Estou aqui"". Se arrancares do teu meio o jugo, o dedo acusador e a fala maliciosa," ^v9
 
-**10** E se abrires a tua alma ao faminto, e fartares a alma aflita; então a tua luz nascerá nas trevas, e a tua escuridão será como o meio-dia. ^v10
+**10** se proveres para o faminto e satisfizeres a alma aflita, então, a tua luz brilhará nas trevas e serás como o meio dia. ^v10
 
-**11** E o Senhor te guiará continuamente, e fartará a tua alma em lugares áridos, e fortificará os teus ossos; e serás como um jardim regado, e como um manancial, cujas águas nunca faltam. ^v11
+**11** Então, Yahweh te guiará continuamente e te satisfará numa terra seca, fortalecerá os teus ossos. Tu serás como um jardim regado e como um manancial, cujas águas jamais faltam. ^v11
 
-**12** E os que de ti procederem edificarão as antigas ruínas; e levantarás os fundamentos de geração em geração; e chamar-te-ão reparador das roturas, e restaurador de veredas para morar. ^v12
+**12** "Alguns reconstruirão as antigas ruínas, tu restaurarás os fundamentos de muitas gerações; serás chamado ""o reparador de muro"", ""o restaurador de ruas para habitação""." ^v12
 
-**13** Se desviares o teu pé do sábado, de fazeres a tua vontade no meu santo dia, e chamares ao sábado deleitoso, e o santo dia do Senhor, digno de honra, e o honrares não seguindo os teus caminhos, nem pretendendo fazer a tua própria vontade, nem falares as tuas próprias palavras, ^v13
+**13** """Se impedires os teus pés de profanarem o sábado, se não fizeres o que te agrada no Meu santo dia, se tu chamares o sábado de deleite e as coisas de Yahweh de santas e honradas, se honrares o sábado, deixando os teus próprios negócios, não buscando o teu próprio prazer e não falando palavras vãs," ^v13
 
-**14** Então te deleitarás no Senhor, e te farei cavalgar sobre as alturas da terra, e te sustentarei com a herança de teu pai Jacó; porque a boca do Senhor o disse. ^v14
+**14** "então, terás satisfação em Yahweh; Eu te farei cavalgar sobre os mais altos lugares da terra, e te sustentarei com a herança do teu pai Jacó — pois a boca de Yahweh falou""." ^v14

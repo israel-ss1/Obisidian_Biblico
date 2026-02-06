@@ -1,71 +1,70 @@
 ---
-Livro: "[[Números|Números]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Números|Números]]"
+tags: [biblia]
 ---
 
 # Números 18
 
-**1** Então disse o SENHOR a Arão: Tu, e teus filhos, e a casa de teu pai contigo, levareis sobre vós a iniqüidade do santuário; e tu e teus filhos contigo levareis sobre vós a iniqüidade do vosso sacerdócio. ^v1
+**1** "Yahweh disse a Arão: ""Tu, teus filhos, e o clã dos teus antepassados sereis responsáveis por todos os pecados cometidos contra o santuário. Mas somente tu e teus filhos sereis responsabilizados por todos os pecados praticados por qualquer um no sacerdócio." ^v1
 
-**2** E também farás chegar contigo a teus irmãos, a tribo de Levi, a tribo de teu pai, para que se ajuntem a ti, e te sirvam; mas tu e teus filhos contigo estareis perante a tenda do testemunho. ^v2
+**2** E os membros da tribo de Levi, tribo de vossos antepassados, tu os trarás contigo, para que se juntem a ti quando tu e teus filhos servirdes em frente à Tenda dos Decretos da Aliança. ^v2
 
-**3** E eles cumprirão as tuas ordens e terão o encargo de toda a tenda; mas não se chegarão aos utensílios do santuário, nem ao altar, para que não morram, tanto eles como vós. ^v3
+**3** ervirão a ti e a toda a tenda. No entanto, eles não se aproximarão de qualquer coisa no lugar santo ou que seja relacionada ao altar, senão morrereis tanto eles quanto vós. ^v3
 
-**4** Mas se ajuntarão a ti, e farão o serviço da tenda da congregação em todo o ministério da tenda; e o estranho não se chegará a vós. ^v4
+**4** Juntar-se-ão a ti para cuidar da Tenda do Encontro, para todo trabalho relacionado à tenda. O estrangeiro não se aproximará de ti. ^v4
 
-**5** Vós, pois, fareis o serviço do santuário e o serviço do altar; para que não haja outra vez furor sobre os filhos de Israel. ^v5
+**5** Terás que te responsabilizar pelo lugar santo e pelo altar, para que Minha ira não venha sobre o povo de Israel de novo. ^v5
 
-**6** E eu, eis que tenho tomado vossos irmãos, os levitas, do meio dos filhos de Israel; são dados a vós em dádiva pelo Senhor, para que sirvam ao ministério da tenda da congregação. ^v6
+**6** Vede, Eu mesmo escolhi dentre os descendentes de Israel os vossos irmãos, os levitas. Eles são uma oferta dada a vós para Yahweh, a fim de fazerem o trabalho relacionado à Tenda do Encontro. ^v6
 
-**7** Mas tu e teus filhos contigo cumprireis o vosso sacerdócio no tocante a tudo o que é do altar, e a tudo o que está dentro do véu, nisso servireis; eu vos tenho dado o vosso sacerdócio em dádiva ministerial e o estranho que se chegar morrerá. ^v7
+**7** "Mas somente tu e teus filhos exercereis o sacerdócio de acordo com tudo relacionado ao altar e tudo que há por dentro da cortina. Vós, vós mesmos, cumprirão aquelas responsabilidades. Dou a vós o sacerdócio como um presente, e qualquer estrangeiro que se aproximar deverá morrer""." ^v7
 
-**8** Disse mais o Senhor a Arão: Eis que eu te tenho dado a guarda das minhas ofertas alçadas, com todas as coisas santas dos filhos de Israel; por causa da unção as tenho dado a ti e a teus filhos por estatuto perpétuo. ^v8
+**8** "Então, Yahweh disse a Arão: ""Eis que te encarreguei de levantar ofertas para Mim, e toda a oferta santa que o povo de Israel Me der, Eu tenho dado a ti e a teus filhos como direito perpétuo." ^v8
 
-**9** Isto terás das coisas santíssimas do fogo; todas as suas ofertas com todas as suas ofertas de alimentos, e com todas as suas expiações pelo pecado, e com todas as suas expiações pela culpa, que me apresentarão; serão coisas santíssimas para ti e para teus filhos. ^v9
+**9** Das coisas santíssimas, que não passaram pelo fogo, isto será teu: toda oferta deles, com toda oferta de cereal, com toda oferta pelo pecado e toda oferta pela culpa, são coisas santíssimas para vós e para vossos filhos. ^v9
 
-**10** No lugar santíssimo as comerás; todo o homem a comerá; santas serão para ti. ^v10
+**10** Estas ofertas são santíssimas; todo homem deve comê-las, pois elas são santificadas para ti. ^v10
 
-**11** Também isto será teu: a oferta alçada dos seus dons com todas as ofertas movidas dos filhos de Israel; a ti, a teus filhos, e a tuas filhas contigo, as tenho dado por estatuto perpétuo; todo o que estiver limpo na tua casa, delas comerá. ^v11
+**11** Estas serão as ofertas que pertencerão a ti: seus presentes, todas as ofertas movidas dos filhos de Israel. Eu as dei para ti, para teus filhos e tuas filhas, como porção perpétua. Todos em tua família que estão ritualmente limpos podem comer qualquer uma dessas ofertas. ^v11
 
-**12** Todo o melhor do azeite, e todo o melhor do mosto e do grão, as suas primícias que derem ao Senhor, as tenho dado a ti. ^v12
+**12** O melhor do azeite, o melhor do vinho novo e dos cereais, as primícias que o povo Me der, todas estas coisas tenho dado a ti. ^v12
 
-**13** Os primeiros frutos de tudo que houver na terra, que trouxerem ao Senhor, serão teus; todo o que estiver limpo na tua casa os comerá. ^v13
+**13** Os primeiros frutos maduros de toda a sua terra, que forem trazidos a Mim, serão teus. Todos na tua familia que estiverem limpos poderão comer estas coisas. ^v13
 
-**14** Toda a coisa consagrada em Israel será tua. ^v14
+**14** Todas as coisas consagradas em Israel serão tuas. ^v14
 
-**15** Tudo que abrir a madre, e toda a carne que trouxerem ao Senhor, tanto de homens como de animais, será teu; porém os primogênitos dos homens resgatarás; também os primogênitos dos animais imundos resgatarás. ^v15
+**15** Todos aqueles que abrem o ventre, todo primogênito, seja de homem, seja de animal, que o povo oferecer a Yahweh, ambos serão teus. Porém, o povo deverá resgatar de volta todo filho primogênito e também todo primogênito de animal impuro. ^v15
 
-**16** Os que deles se houverem de resgatar resgatarás, da idade de um mês, segundo a tua avaliação, por cinco siclos de dinheiro, segundo o siclo do santuário, que é de vinte geras. ^v16
+**16** Aqueles que serão resgatados pelo povo, serão resgatados depois de completar um mês de idade. Assim, o povo poderá resgatá-los por cinco siclos de prata, segundo o modelo de peso do siclo do santuário, que equivale a vinte geras. ^v16
 
-**17** Mas o primogênito de vaca, ou primogênito de ovelha, ou primogênito de cabra, não resgatarás, santos são; o seu sangue espargirás sobre o altar, e a sua gordura queimarás em oferta queimada de cheiro suave ao Senhor. ^v17
+**17** O primogênito da vaca, da ovelha, ou da cabra, não poderão ser comprados de volta, estes são separados para Mim. Deverás aspergir seu sangue no altar e queimar sua gordura como oferta queimada de aroma agradável para Yahweh. ^v17
 
-**18** E a carne deles será tua; assim como o peito da oferta de movimento, e o ombro direito, teus serão. ^v18
+**18** A carne será tua, bem como o peito de oferta movida e a coxa direita, a carne deles será tua. ^v18
 
-**19** Todas as ofertas alçadas das coisas santas, que os filhos de Israel oferecerem ao Senhor, tenho dado a ti, e a teus filhos e a tuas filhas contigo, por estatuto perpétuo; aliança perpétua de sal perante o Senhor é, para ti e para a tua descendência contigo. ^v19
+**19** "Toda a oferta santificada que o povo de Israel apresentar a Yahweh, darei a ti, a teus filhos e filhas como herança perpétua. Isto é uma aliança perpétua de sal, uma aliança estabelecida para sempre perante Yahweh para contigo e para com os teus descendentes""." ^v19
 
-**20** Disse também o Senhor a Arão: Na sua terra herança nenhuma terás, e no meio deles, nenhuma parte terás; eu sou a tua parte e a tua herança no meio dos filhos de Israel. ^v20
+**20** "Yahweh disse a Arão: ""Tu não terás herança na terra do povo, nem terás qualquer porção de propriedade entre o povo. Eu sou tua porção e herança entre o povo de Israel." ^v20
 
-**21** E eis que aos filhos de Levi tenho dado todos os dízimos em Israel por herança, pelo ministério que executam, o ministério da tenda da congregação. ^v21
+**21** Para os descendentes de Levi, vê, Eu dei todo dízimo em Israel como herança pelo serviço que fizeram na Tenda do Encontro. ^v21
 
-**22** E nunca mais os filhos de Israel se chegarão à tenda da congregação, para que não levem sobre si o pecado e morram. ^v22
+**22** De agora em diante, o povo de Israel não poderá chegar perto da Tenda do Encontro, ou serão responsabilizados por este pecado e morrerão. ^v22
 
-**23** Mas os levitas executarão o ministério da tenda da congregação, e eles levarão sobre si a sua iniqüidade; pelas vossas gerações estatuto perpétuo será; e no meio dos filhos de Israel nenhuma herança terão, ^v23
+**23** Os levitas farão o trabalho ligado à Tenda do Encontro. Serão responsabilizados por qualquer pecado relacionado a isto. Essa será uma lei permanente ao longo das gerações de vosso povo. Eles não possuirão herança entre o povo de Israel. ^v23
 
-**24** Porque os dízimos dos filhos de Israel, que oferecerem ao Senhor em oferta alçada, tenho dado por herança aos levitas; porquanto eu lhes disse: No meio dos filhos de Israel nenhuma herança terão. ^v24
+**24** "Pois os dízimos do povo de Israel, que foram apresentados a Mim como oferta, dei aos levitas como herança. Por isso, disse-lhes: 'Não possuirão herança entre o povo de Israel'""." ^v24
 
-**25** E falou o Senhor a Moisés, dizendo: ^v25
+**25** Yahweh falou com Moisés, dizendo: ^v25
 
-**26** Também falarás aos levitas, e dir-lhes-ás: Quando receberdes os dízimos dos filhos de Israel, que eu deles vos tenho dado por vossa herança, deles oferecereis uma oferta alçada ao Senhor, os dízimos dos dízimos. ^v26
+**26** """Fala com os levitas, dizendo-lhes: 'Quando receberdes do povo de Israel o dízimo que o Senhor vos deu como herança, oferecereis a Yahweh o dízimo disto, um dízimo dos dízimos." ^v26
 
-**27** E contar-se-vos-á a vossa oferta alçada, como grão da eira, e como plenitude do lagar. ^v27
+**27** Essa vossa contribuição será considerada como se fosse a décima parte do grão da eira ou da produção do lagar. ^v27
 
-**28** Assim também oferecereis ao Senhor uma oferta alçada de todos os vossos dízimos, que receberdes dos filhos de Israel, e deles dareis a oferta alçada do Senhor a Arão, o sacerdote. ^v28
+**28** Assim, vós tamb;em apresentareis uma oferta a Yahweh de todos os dízimos que receberdes do povo de Israel. Destes, apresentareis a Arão, o sacerdote. ^v28
 
-**29** De todas as vossas dádivas oferecereis toda a oferta alçada do Senhor; de tudo o melhor deles, a sua santa parte. ^v29
+**29** De todos os presentes que receberdes, fareis ofertas a Yahweh. Farei esta oferta das coisas que Eu vos dei, escolhendo a melhor delas, e a sua parte santa'. ^v29
 
-**30** Dir-lhes-ás pois: Quando oferecerdes o melhor deles, como novidade da eira, e como novidade do lagar, se contará aos levitas. ^v30
+**30** Então, lhes dirás: 'Quando apresentardes o melhor do que receberdes, o restante das vossas ofertas deverá ser considerado pelos levitas como o produto da eira e produto do lagar. ^v30
 
-**31** E o comereis em todo o lugar, vós e as vossas famílias, porque vosso galardão é pelo vosso ministério na tenda da congregação. ^v31
+**31** Podereis comê-lo em qualquer lugar, vós e vossa família, porque isso é vossa recompensa por todo trabalho feito na Tenda do Encontro. ^v31
 
-**32** Assim, não levareis sobre vós o pecado, quando deles oferecerdes o melhor; e não profanareis as coisas santas dos filhos de Israel, para que não morrais. ^v32
+**32** "Não sereis culpados por comer ou beber isso, se apresentardes a Yahweh o melhor do que receberdes. Mas não profaneis a santa oferta oferecida pelo povo de Israel, ou morrereis'""." ^v32

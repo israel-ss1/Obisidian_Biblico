@@ -1,35 +1,34 @@
 ---
-Livro: "[[Romanos|Romanos]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Romanos|Romanos]]"
+tags: [biblia]
 ---
 
 # Romanos 13
 
-**1** Toda a alma esteja sujeita às potestades superiores; porque não há potestade que não venha de Deus; e as potestades que há foram ordenadas por Deus. ^v1
+**1** Que toda pessoa seja obediente às autoridades superiores, porque não há autoridade, a menos que esta venha de Deus; e as que existem foram designadas por Deus. ^v1
 
-**2** Por isso quem resiste à potestade resiste à ordenação de Deus; e os que resistem trarão sobre si mesmos a condenação. ^v2
+**2** Portanto, aquele que resiste à autoridade se opõe à ordem de Deus; e aqueles que se opõem a ela receberão julgamento sobre si mesmos. ^v2
 
-**3** Porque os magistrados não são terror para as boas obras, mas para as más. Queres tu, pois, não temer a potestade? Faze o bem, e terás louvor dela. ^v3
+**3** Pois os governantes não são um terror para as boas obras, mas para as más obras. Não queres ter medo da autoridade? Faze o que é bom, e terás sua aprovação. ^v3
 
-**4** Porque ela é ministro de Deus para teu bem. Mas, se fizeres o mal, teme, pois não traz debalde a espada; porque é ministro de Deus, e vingador para castigar o que faz o mal. ^v4
+**4** Porque ela é uma serva de Deus para o teu bem. Mas, se fizeres o que é mal, teme, porque ela não carrega espada sem razão; pois é uma serva de Deus, uma vingadora para ira contra aquele que pratica o mal. ^v4
 
-**5** Portanto é necessário que lhe estejais sujeitos, não somente pelo castigo, mas também pela consciência. ^v5
+**5** Portanto, deves obedecer, não apenas por causa da ira, mas também por causa da consciência. ^v5
 
-**6** Por esta razão também pagais tributos, porque são ministros de Deus, atendendo sempre a isto mesmo. ^v6
+**6** Por isso, pagas tributos também. Porque as autoridades são servas de Deus, que se dedicam a todas essas coisas. ^v6
 
-**7** Portanto, dai a cada um o que deveis: a quem tributo, tributo; a quem imposto, imposto; a quem temor, temor; a quem honra, honra. ^v7
+**7** Paga a todos o que lhes é devido: a quem tributo, tributo; a quem imposto, imposto; a quem temor, temor; a quem honra, honra. ^v7
 
-**8** A ninguém devais coisa alguma, a não ser o amor com que vos ameis uns aos outros; porque quem ama aos outros cumpriu a lei. ^v8
+**8** Não devas a ninguém coisa alguma, exceto o amor uns pelos outros. Porque aquele que ama seu próximo tem cumprido a lei. ^v8
 
-**9** Com efeito: Não adulterarás, não matarás, não furtarás, não darás falso testemunho, não cobiçarás; e se há algum outro mandamento, tudo nesta palavra se resume: Amarás ao teu próximo como a ti mesmo. ^v9
+**9** "Os mandamentos: ""Não cometerás adultério"", ""Não matarás"", ""Não roubarás"", ""Não cobiçarás"", e se há qualquer outro mandamento também, tudo é resumido na seguinte ordem: ""Amarás o teu próximo como a ti mesmo""." ^v9
 
-**10** O amor não faz mal ao próximo. De sorte que o cumprimento da lei é o amor. ^v10
+**10** O amor não causa dano ao seu próximo. Portanto, o amor é o cumprimento da lei. ^v10
 
-**11** E isto digo, conhecendo o tempo, que já é hora de despertarmos do sono; porque a nossa salvação está agora mais perto de nós do que quando aceitamos a fé. ^v11
+**11** Por causa disso, tu conheces o tempo, que já é hora de despertardes do sono. Pois agora nossa salvação está mais próxima do que quando cremos no princípio. ^v11
 
-**12** A noite é passada, e o dia é chegado. Rejeitemos, pois, as obras das trevas, e vistamo-nos das armas da luz. ^v12
+**12** A noite está avançada, e o dia vem se aproximando. Vamos, portanto, deixar as obras das trevas, e nos vestir das armas da luz. ^v12
 
-**13** Andemos honestamente, como de dia; não em glutonarias, nem em bebedeiras, nem em desonestidades, nem em dissoluções, nem em contendas e inveja. ^v13
+**13** Vamos andar de maneira digna, como em pleno dia; não em orgias ou bebedeiras; não em imoralidade sexual ou depravação; não em contendas ou invejas. ^v13
 
-**14** Mas revesti-vos do Senhor Jesus Cristo, e não tenhais cuidado da carne em suas concupiscências. ^v14
+**14** Mas revesti-vos do Senhor Jesus Cristo, e não alimenteis a carne, nos seus desejos. ^v14

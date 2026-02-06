@@ -1,55 +1,54 @@
 ---
-Livro: "[[2 Coríntios|2 Coríntios]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/2 Coríntios|2 Coríntios]]"
+tags: [biblia]
 ---
 
 # 2 Coríntios 8
 
-**1** Também, irmãos, vos fazemos conhecer a graça de Deus dada às igrejas da macedônia; ^v1
+**1** Queremos que saibais, irmãos, sobre a graça de Deus dada às igrejas da Macedônia. ^v1
 
-**2** Como em muita prova de tribulação houve abundância do seu gozo, e como a sua profunda pobreza abundou em riquezas da sua generosidade. ^v2
+**2** Durante muitas aflições, a abundância da alegria e a profunda pobreza deles produziram neles grande riqueza de generosidade. ^v2
 
-**3** Porque, segundo o seu poder (o que eu mesmo testifico) e ainda acima do seu poder, deram voluntariamente. ^v3
+**3** Porque dou testemunho de que deram muito mais do que podiam, e até além de suas posses. E, de livre vontade, ^v3
 
-**4** Pedindo-nos com muitos rogos que aceitássemos a graça e a comunicação deste serviço, que se fazia para com os santos. ^v4
+**4** pediram-nos com muita insistência o privilégio de participar desse serviço aos santos. ^v4
 
-**5** E não somente fizeram como nós esperávamos, mas a si mesmos se deram primeiramente ao Senhor, e depois a nós, pela vontade de Deus. ^v5
+**5** Isto não aconteceu como esperávamos; em vez disso, primeiramente eles se entregaram ao Senhor, e depois a nós, pela vontade de Deus. ^v5
 
-**6** De maneira que exortamos a Tito que, assim como antes tinha começado, assim também acabasse esta graça entre vós. ^v6
+**6** Então, rogamos a Tito, que já havia começado essa tarefa, que completasse esse ato de generosidade entre vós. ^v6
 
-**7** Portanto, assim como em tudo abundais em fé, e em palavra, e em ciência, e em toda a diligência, e em vosso amor para conosco, assim também abundeis nesta graça. ^v7
+**7** Ora, vós sois abundantes em tudo: na fé, na palavra, no conhecimento, em todo o zelo e no vosso amor por nós. Assim, certificai-vos de que também sejais abundantes nesse trabalho generoso. ^v7
 
-**8** Não digo isto como quem manda, mas para provar, pela diligência dos outros, a sinceridade de vosso amor. ^v8
+**8** Digo isso não como uma ordem, mas para provar a sinceridade do vosso amor, ao compará-lo com o zelo de outras pessoas. ^v8
 
-**9** Porque já sabeis a graça de nosso Senhor Jesus Cristo que, sendo rico, por amor de vós se fez pobre; para que pela sua pobreza enriquecêsseis. ^v9
+**9** Pois vós conheceis a graça do nosso Senhor Jesus Cristo, que, embora fosse rico, para o vosso bem Ele Se tornou pobre, para que, por meio de Sua pobreza vós vos tornásseis ricos. ^v9
 
-**10** E nisto dou o meu parecer; pois isto convém a vós que, desde o ano passado, começastes; e não foi só praticar, mas também querer. ^v10
+**10** Quanto a isso, darei um conselho que vos ajudará. Um ano atrás, vós não somente começastes a fazer algo, mas desejastes fazê-lo. ^v10
 
-**11** Agora, porém, completai também o já começado, para que, assim como houve a prontidão de vontade, haja também o cumprimento, segundo o que tendes. ^v11
+**11** Agora, completai-o. Assim como havia empenho e desejo de fazê-lo antes, que vós também completeis, tanto quanto possais. ^v11
 
-**12** Porque, se há prontidão de vontade, será aceita segundo o que qualquer tem, e não segundo o que não tem. ^v12
+**12** Porque estais empenhados em fazer essa obra, isso é bom e aceitável. Mas deve ser baseada no que cada pessoa tem, não no que ele não tem. ^v12
 
-**13** Mas, não digo isto para que os outros tenham alívio, e vós opressão, ^v13
+**13** Porque essa tarefa não é para que outros sejam aliviados e vós sobrecarregados; mas deve haver igualdade. ^v13
 
-**14** Mas para igualdade; neste tempo presente, a vossa abundância supra a falta dos outros, para que também a sua abundância supra a vossa falta, e haja igualdade; ^v14
+**14** A vossa abundância no tempo presente suprirá o que eles precisam. Para que a abundância deles também possa suprir a vossa necessidade, de forma que haja igualdade. ^v14
 
-**15** Como está escrito: O que muito colheu não teve demais; e o que pouco, não teve de menos. ^v15
+**15** "Como está escrito: ""Aquele que tinha muito não teve nada sobrando; e, aquele que tinha pouco, nada faltando""." ^v15
 
-**16** Mas, graças a Deus, que pôs a mesma solicitude por vós no coração de Tito; ^v16
+**16** Mas graças a Deus, que colocou no coração de Tito o mesmo sincero cuidado e zelo que tenho por vós. ^v16
 
-**17** Pois aceitou a exortação, e muito diligente partiu voluntariamente para vós. ^v17
+**17** Pois ele não apenas aceitou nosso apelo, mas, sendo muito zeloso sobre isso, foi até vós de espontânea vontade. ^v17
 
-**18** E com ele enviamos aquele irmão cujo louvor no evangelho está espalhado em todas as igrejas. ^v18
+**18** Com ele, enviamos o irmão que é elogiado entre todas as igrejas por seu trabalho na proclamação do Evangelho. ^v18
 
-**19** E não só isto, mas foi também escolhido pelas igrejas para companheiro da nossa viagem, nesta graça que por nós é ministrada para glória do mesmo Senhor, e prontidão do vosso ânimo; ^v19
+**19** Não somente isso, mas ele também foi indicado pelas igrejas para viajar conosco e cumprir esse nosso ato de generosidade, para honrar ao Senhor e demonstrar nosso empenho em ajudar. ^v19
 
-**20** Evitando isto, que alguém nos vitupere por esta abundância, que por nós é ministrada; ^v20
+**20** Queremos evitar a possibilidade de alguém reclamar acerca da nossa generosidade, a qual estamos ministrando. ^v20
 
-**21** Pois zelamos do que é honesto, não só diante do Senhor, mas também diante dos homens. ^v21
+**21** Nós tomamos o cuidado de fazer o que é honroso, não apenas diante do Senhor, mas também diante das pessoas. ^v21
 
-**22** Com eles enviamos também outro nosso irmão, o qual muitas vezes, e em muitas coisas, já experimentamos ser diligente, e agora muito mais diligente ainda pela muita confiança que em vós tem. ^v22
+**22** E com eles também enviamos outro irmão. Nós o temos testado frequentemente, e encontramos nele entusiasmo para muitas tarefas. Agora, ele é ainda mais cuidadoso e zeloso por causa da grande confiança que tem em vós. ^v22
 
-**23** Quanto a Tito, é meu companheiro, e cooperador para convosco; quanto a nossos irmãos, são embaixadores das igrejas e glória de Cristo. ^v23
+**23** Quanto a Tito, ele é meu parceiro e companheiro de trabalho em vosso benefício. A respeito de nossos irmãos, eles são enviados pelas igrejas, e são uma honra para Cristo. ^v23
 
-**24** Portanto, mostrai para com eles, e perante a face das igrejas, a prova do vosso amor, e da nossa glória acerca de vós. ^v24
+**24** Então, mostrai-lhes o vosso amor, e mostrai às igrejas a razão pela qual nos orgulhamos de vós. ^v24

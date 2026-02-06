@@ -1,63 +1,60 @@
 ---
-Livro: "[[Salmos|Salmos]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Salmos|Salmos]]"
+tags: [biblia]
 ---
 
 # Salmos 35
 
-**1** Pleiteia, SENHOR, com aqueles que pleiteiam comigo; peleja contra os que pelejam contra mim. ^v1
+**2** Pega o Teu escudo pequeno e o escudo grande; levanta-Te e me ajuda. ^v2
 
-**2** Pega do escudo e da rodela, e levanta-te em minha ajuda. ^v2
+**3** "Usa Tua lança e Teu machado de batalha contra aqueles que me perseguem; dize para minha alma: ""Eu Sou tua salvação.""" ^v3
 
-**3** Tira da lança e obstrui o caminho aos que me perseguem; dize à minha alma: Eu sou a tua salvação. ^v3
+**4** Que aqueles que procuram tirar-me a vida sejam envergonhados e desonrados; os que planejam machucar-me que retornem e se confundam. ^v4
 
-**4** Sejam confundidos e envergonhados os que buscam a minha vida; voltem atrás e envergonhem-se os que contra mim tentam mal. ^v4
+**5** Que eles sejam como a palha diante do vento, enquanto o anjo de Yahweh os leva para longe. ^v5
 
-**5** Sejam como a moinha perante o vento; o anjo do Senhor os faça fugir. ^v5
+**6** Que o caminho deles seja escuro e escorregadio, enquanto o anjo de Yahweh os persegue. ^v6
 
-**6** Seja o seu caminho tenebroso e escorregadio, e o anjo do Senhor os persiga. ^v6
+**7** Sem motivo, eles estenderam sua rede para mim; eles cavaram uma cova para minha vida. ^v7
 
-**7** Porque sem causa encobriram de mim a rede na cova, a qual sem razão cavaram para a minha alma. ^v7
+**8** Que a destruição os pegue de surpresa; e a rede que eles estenderam os pegue inesperadamente; que caiam nela, para sua própria destruição. ^v8
 
-**8** Sobrevenha-lhe destruição sem o saber, e prenda-o a rede que ocultou; caia ele nessa mesma destruição. ^v8
+**9** Mas eu me alegrarei e rejubilarei na Tua salvação. ^v9
 
-**9** E a minha alma se alegrará no Senhor; alegrar-se-á na sua salvação. ^v9
+**10** "Todos os meus ossos dirão: ""Yahweh, quem é igual a Ti, que resgata os oprimidos dos que são mais fortes do que eles, e livra os pobres e necessitados daqueles que tentam roubá-los?""" ^v10
 
-**10** Todos os meus ossos dirão: Senhor, quem é como tu, que livras o pobre daquele que é mais forte do que ele? Sim, o pobre e o necessitado daquele que o rouba. ^v10
+**11** Falsas testemunhas se levantam; elas me acusam falsamente. ^v11
 
-**11** Falsas testemunhas se levantaram; depuseram contra mim coisas que eu não sabia. ^v11
+**12** Elas me pagam o mal pelo bem, o que me deixa triste. ^v12
 
-**12** Tornaram-me o mal pelo bem, roubando a minha alma. ^v12
+**13** Todavia, quando estavam doentes, eu usei roupa de saco; jejuei por eles com minha cabeça curvada sobre meu peito. ^v13
 
-**13** Mas, quanto a mim, quando estavam enfermos, as minhas vestes eram o saco; humilhava a minha alma com o jejum, e a minha oração voltava para o meu seio. ^v13
+**14** Eu estive de luto como se fossem meus irmãos; eu lamentei como pela minha mãe. ^v14
 
-**14** Portava-me como se ele fora meu irmão ou amigo; andava lamentando e muito encurvado, como quem chora por sua mãe. ^v14
+**15** Mas, quando eu tropecei, eles se alegraram e se ajuntaram; eles se uniram contra mim, e eu fui surpreendido por eles, que me rasgaram sem parar. ^v15
 
-**15** Mas eles com a minha adversidade se alegravam e se congregavam; os abjetos se congregavam contra mim, e eu não o sabia; rasgavam-me, e não cessavam. ^v15
+**16** Sem respeito algum, zombaram de mim, rangeram raivosamente seus dentes para mim. ^v16
 
-**16** Com hipócritas zombadores nas festas, rangiam os dentes contra mim. ^v16
+**17** Senhor, por quanto tempo contemplarás? Resgata minha alma desses ataques destrutivos; resgata minha vida dos leões. ^v17
 
-**17** Senhor, até quando verás isto? Resgata a minha alma das suas assolações, e a minha predileta dos leões. ^v17
+**18** Então, eu agradecerei a Ti na grande assembleia; eu O louvarei entre muitas pessoas. ^v18
 
-**18** Louvar-te-ei na grande congregação; entre muitíssimo povo te celebrarei. ^v18
+**19** Não deixes meus inimigos enganadores se alegrarem sobre mim; não deixes que sigam em frente com seus esquemas cruéis. ^v19
 
-**19** Não se alegrem os meus inimigos de mim sem razão, nem acenem com os olhos aqueles que me odeiam sem causa. ^v19
+**20** Pois eles não falam de paz, mas inventam palavras enganosas contra os que vivem em paz na nossa terra. ^v20
 
-**20** Pois não falam de paz; antes projetam enganar os quietos da terra. ^v20
+**21** "Eles abrem suas bocas contra mim, dizendo: ""Ah! Nossos olhos viram isso""." ^v21
 
-**21** Abrem a boca de par em par contra mim, e dizem: Ah! Ah! os nossos olhos o viram. ^v21
+**22** Tu tens visto isso, Yahweh, não fiques em silêncio; Senhor, não estejas longe de mim. ^v22
 
-**22** Tu, Senhor, o tens visto, não te cales; Senhor, não te alongues de mim: ^v22
+**23** Levanta-Te e desperta para minha defesa; meu Deus e meu Senhor, defende minha causa. ^v23
 
-**23** Desperta e acorda para o meu julgamento, para a minha causa, Deus meu e Senhor meu. ^v23
+**24** Defende-me, Yahweh meu Deus, por Tua retidão, não deixes que se alegrem sobre mim. ^v24
 
-**24** Julga-me segundo a tua justiça, Senhor Deus meu, e não deixes que se alegrem de mim. ^v24
+**25** "Não permitas que digam em seus corações: ""Ah, nós temos o que desejávamos"". Não deixes que digam: ""Nós o devoramos""." ^v25
 
-**25** Não digam em seus corações: Ah! alma nossa! Não digam: Nós o havemos devorado. ^v25
+**26** Que sejam postos em vergonha e sejam confundidos os que se alegram com a minha angústia. Sejam cobertos de vergonha e desonra os que me insultam. ^v26
 
-**26** Envergonhem-se e confundam-se à uma os que se alegram com o meu mal; vistam-se de vergonha e de confusão os que se engrandecem contra mim. ^v26
+**27** "Os que desejam minha defesa gritem de alegria e sejam contentes; que eles falem continuamente: ""Yahweh seja louvado! Ele que se regozija no bem-estar de Seu servo""." ^v27
 
-**27** Cantem e alegrem-se os que amam a minha justiça, e digam continuamente: O Senhor seja engrandecido, o qual ama a prosperidade do seu servo. ^v27
-
-**28** E assim a minha língua falará da tua justiça e do teu louvor todo o dia. ^v28
+**28** Então, eu falarei da Tua justiça e Te louvarei durante todo o dia. ^v28

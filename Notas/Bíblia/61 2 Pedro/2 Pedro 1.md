@@ -1,49 +1,48 @@
 ---
-Livro: "[[2 Pedro|2 Pedro]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/2 Pedro|2 Pedro]]"
+tags: [biblia]
 ---
 
 # 2 Pedro 1
 
-**1** Simão Pedro, servo e apóstolo de Jesus Cristo, aos que conosco alcançaram fé igualmente preciosa pela justiça do nosso Deus e Salvador Jesus Cristo: ^v1
+**1** Simão Pedro, servo e apóstolo de Jesus Cristo, àqueles que receberam a mesma preciosa fé como nós recebemos, fé na justiça do nosso Deus e Salvador Jesus Cristo. ^v1
 
-**2** Graça e paz vos sejam multiplicadas, pelo conhecimento de Deus, e de Jesus nosso Senhor; ^v2
+**2** Que a graça e a paz vos sejam multiplicadas no conhecimento de Deus e de Jesus nosso Senhor. ^v2
 
-**3** Visto como o seu divino poder nos deu tudo o que diz respeito à vida e piedade, pelo conhecimento daquele que nos chamou pela sua glória e virtude; ^v3
+**3** De fato, todas as coisas concernentes à vida e à piedade nos foram dadas pelo poder divino, mediante o conhecimento de Deus, que nos chamou por Sua própria glória e virtude. ^v3
 
-**4** Pelas quais ele nos tem dado grandíssimas e preciosas promessas, para que por elas fiqueis participantes da natureza divina, havendo escapado da corrupção, que pela concupiscência há no mundo. ^v4
+**4** Por meio das quais, Ele nos deu grandes e preciosas promessas, para que vos torneis participantes da natureza divina, bem como escapeis da corrupção que está no mundo por causa dos desejos perversos. ^v4
 
-**5** E vós também, pondo nisto mesmo toda a diligência, acrescentai à vossa fé a virtude, e à virtude a ciência, ^v5
+**5** Por essa razão, esforçai-vos por acrescentar à vossa fé a virtude; à virtude, o conhecimento; ^v5
 
-**6** E à ciência a temperança, e à temperança a paciência, e à paciência a piedade, ^v6
+**6** ao conhecimento, o domínio próprio; ao domínio próprio, a perseverança; e à perseverança, a piedade; ^v6
 
-**7** E à piedade o amor fraternal, e ao amor fraternal a caridade. ^v7
+**7** e à piedade, a fraternidade; e à fraternidade, o amor. ^v7
 
-**8** Porque, se em vós houver e abundarem estas coisas, não vos deixarão ociosos nem estéreis no conhecimento de nosso Senhor Jesus Cristo. ^v8
+**8** Se essas coisas existirem e aumentarem em vós, farão com que não sejais improdutivos e infrutíferos no conhecimento de nosso Senhor Jesus Cristo. ^v8
 
-**9** Pois aquele em quem não há estas coisas é cego, nada vendo ao longe, havendo-se esquecido da purificação dos seus antigos pecados. ^v9
+**9** Mas, em quem essas coisas não estão presentes, é cego, vendo apenas o que está perto. Ele esqueceu da purificação dos seus pecados de outrora. ^v9
 
-**10** Portanto, irmãos, procurai fazer cada vez mais firme a vossa vocação e eleição; porque, fazendo isto, nunca jamais tropeçareis. ^v10
+**10** Portanto, irmãos, esforçai-vos para fazer firme o vosso chamado e eleição. Se fizerdes essas coisas, não tropeçareis. ^v10
 
-**11** Porque assim vos será amplamente concedida a entrada no reino eterno de nosso Senhor e Salvador Jesus Cristo. ^v11
+**11** Deste modo, o acesso ao Reino eterno de nosso Senhor e Salvador Jesus Cristo vos será ricamente concedido. ^v11
 
-**12** Por isso não deixarei de exortar-vos sempre acerca destas coisas, ainda que bem as saibais, e estejais confirmados na presente verdade. ^v12
+**12** Por isso, estarei sempre pronto para relembrar-vos dessas coisas, embora vós as conheçais, e estais firmes na presente verdade. ^v12
 
-**13** E tenho por justo, enquanto estiver neste tabernáculo, despertar-vos com admoestações, ^v13
+**13** Considero correto para mim despertá-los e lembrá-los sobre estas coisas, enquanto estou neste tabernáculo. ^v13
 
-**14** Sabendo que brevemente hei de deixar este meu tabernáculo, como também nosso Senhor Jesus Cristo já mo tem revelado. ^v14
+**14** Porque eu sei que em breve deixarei meu tabernáculo, como nosso Senhor Jesus Cristo me revelou. ^v14
 
-**15** Mas também eu procurarei em toda a ocasião que depois da minha morte tenhais lembrança destas coisas. ^v15
+**15** Me esforçarei para que sempre vos lembreis destas coisas depois da minha partida. ^v15
 
-**16** Porque não vos fizemos saber a virtude e a vinda de nosso Senhor Jesus Cristo, seguindo fábulas artificialmente compostas; mas nós mesmos vimos a sua majestade. ^v16
+**16** Porque nós não seguimos fábulas engenhosamente inventadas quando vos falamos sobre o poder e a vinda do nosso Senhor Jesus Cristo, mas fomos testemunhas oculares da Sua majestade. ^v16
 
-**17** Porquanto ele recebeu de Deus Pai honra e glória, quando da magnífica glória lhe foi dirigida a seguinte voz: Este é o meu Filho amado, em quem me tenho comprazido. ^v17
+**17** "Pois, Ele recebeu de Deus Pai, honra e glória, quando uma voz vinda da Sua suprema glória disse: ""Este é meu Filho amado, em quem me comprazo""." ^v17
 
-**18** E ouvimos esta voz dirigida do céu, estando nós com ele no monte santo; ^v18
+**18** Nós ouvimos essa voz que veio do céu, enquanto estávamos com Ele no monte santo. ^v18
 
-**19** E temos, mui firme, a palavra dos profetas, à qual bem fazeis em estar atentos, como a uma luz que alumia em lugar escuro, até que o dia amanheça, e a estrela da alva apareça em vossos corações. ^v19
+**19** Nós temos firme esta palavra profética, para qual vós fazeis bem em atender. Isto é, como uma lâmpada brilhando colocada na escuridão até o amanhecer e a estrela da manhã se levante em vossos corações. ^v19
 
-**20** Sabendo primeiramente isto: que nenhuma profecia da Escritura é de particular interpretação. ^v20
+**20** Sabendo primeiramente isto, que nenhuma profecia da Escritura vem de interpretação própria. ^v20
 
-**21** Porque a profecia nunca foi produzida por vontade de homem algum, mas os homens santos de Deus falaram inspirados pelo Espírito Santo. ^v21
+**21** Porque nenhuma profecia jamais veio da vontade do homem, mas por homens impelidos pelo Espírito Santo que falaram da parte de Deus. ^v21

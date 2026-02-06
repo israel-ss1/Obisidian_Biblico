@@ -1,37 +1,36 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Oséias|Oséias]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Oséias|Oséias]]"
+tags: [biblia]
 ---
 
 # Oséias 5
 
-**1** Ouvi isto, ó sacerdotes, e escutai, ó casa de Israel, e dai ouvidos, ó casa do rei, porque contra vós se dirige este juízo, visto que fostes um laço para Mizpá, e rede estendida sobre o Tabor. ^v1
+**1** """Ouvi isto, sacerdotes! Prestai atenção, casa de Israel! Ouvi, casa do rei! O julgamento vem contra todos vós. Vós fostes uma armadilha em Mispá e uma rede estendida sobre o Tabor." ^v1
 
-**2** Os revoltos se aprofundaram na matança; mas eu castigarei a todos eles. ^v2
+**2** "Os rebeldes mergulharam na matança, mas Eu castigarei todos eles. [Algumas versões modernas dizem: ""Os rebeldes cavaram um poço profundo"" , ""Os rebeldes cavaram fundo em Shittim"", ou, continuando no verso anterior, ""um poço escavado profundamente em Shittim""]." ^v2
 
-**3** Eu conheço a Efraim, e Israel não se esconde de mim; porque agora te tens prostituído, ó Efraim, e Israel se contaminou. ^v3
+**3** Conheço Efraim, e Israel não está escondido de Mim. Efraim, agora tu te tornaste como uma prostituta; Israel está corrompido. ^v3
 
-**4** Não querem ordenar as suas ações a fim de voltarem para o seu Deus, porque o espírito das prostituições está no meio deles, e não conhecem ao Senhor. ^v4
+**4** Suas práticas não lhes permitem voltar para Deus, porque o espírito de prostituição está no meio deles, e não conhecem Yahweh. ^v4
 
-**5** A soberba de Israel testificará no seu rosto; e Israel e Efraim cairão pela sua injustiça, e Judá cairá juntamente com eles. ^v5
+**5** A soberba de Israel testifica contra ele. Assim, Israel e Efraim tropeçarão em sua culpa; e Judá também cairá com eles. ^v5
 
-**6** Então irão com os seus rebanhos, e com o seu gado, para buscarem ao Senhor, mas não o acharão; ele se retirou deles. ^v6
+**6** Eles irão com os seus rebanhos e manadas para buscarem a Yahweh, mas não O acharão, porque Ele se retirou deles. ^v6
 
-**7** Aleivosamente se houveram contra o Senhor, porque geraram filhos estranhos; agora em um só mês os consumirá com as suas porções. ^v7
+**7** Eles foram infiéis a Yahweh, porque geraram filhos ilegítimos. Agora, as festas da Lua Nova os consumirão com seus campos. ^v7
 
-**8** Tocai a buzina em Gibeá, a trombeta em Ramá; gritai altamente em Bete-Áven; depois de ti, ó Benjamim. ^v8
+**8** Tocai a trombeta em Gibeá, e a trombeta em Ramá. Levantai um grito de batalha em Bete Áven: 'Nós iremos te seguir, Benjamim!'. ^v8
 
-**9** Efraim será para assolação no dia do castigo; entre as tribos de Israel manifestei o que está certo. ^v9
+**9** Efraim se tornará uma desolação no dia do castigo. Entre as tribos de Israel, Eu declarei o que, certamente, se cumprirá. ^v9
 
-**10** Os príncipes de Judá são como os que mudam os limites; derramarei, pois, o meu furor sobre eles como água. ^v10
+**10** Os líderes de Judá são como aqueles que retiram as pedras de limites. Sobre eles Eu derramarei Minha ira como água. ^v10
 
-**11** Efraim está oprimido e quebrantado no juízo, porque quis andar após o mandamento dos homens. ^v11
+**11** Efraim está esmagado, ele está esmagado em julgamento porque, voluntariamente, seguiu após ídolos. ^v11
 
-**12** Portanto a Efraim serei como a traça, e para a casa de Judá como a podridão. ^v12
+**12** Portanto, Eu serei como uma traça para Efraim, e como podridão para a casa de Judá. ^v12
 
-**13** Quando Efraim viu a sua enfermidade, e Judá a sua chaga, subiu Efraim à Assíria e enviou ao rei Jarebe; mas ele não poderá sarar-vos, nem curar a vossa chaga. ^v13
+**13** Quando Efraim viu a sua doença e Judá viu a sua ferida, então Efraim foi à Assíria, e Judá enviou mensageiros ao grande rei. Mas ele não foi capaz de curar ou sarar a sua ferida. ^v13
 
-**14** Porque para Efraim serei como um leão, e como um leãozinho à casa de Judá: eu, eu o despedaçarei, e irme-ei embora; arrebatarei, e não haverá quem livre. ^v14
+**14** Assim, serei como leão para Efraim, e como leãozinho para a casa de Judá. Eu, Eu mesmo, os rasgarei e irei embora; Eu os levarei para fora, e não haverá ninguém para os resgatar. ^v14
 
-**15** Irei e voltarei ao meu lugar, até que se reconheçam culpados e busquem a minha face; estando eles angustiados, de madrugada me buscarão. ^v15
+**15** "Irei e voltarei ao Meu lugar, até que reconheçam a sua culpa e busquem a Minha face, até que, sinceramente, busquem-Me na sua angústia""." ^v15

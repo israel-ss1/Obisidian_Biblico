@@ -1,41 +1,40 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Isaías|Isaías]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Isaías|Isaías]]"
+tags: [biblia]
 ---
 
 # Isaías 54
 
-**1** Canta alegremente, ó estéril, que não deste à luz; rompe em cântico, e exclama com alegria, tu que não tiveste dores de parto; porque mais são os filhos da mulher solitária, do que os filhos da casada, diz o SENHOR. ^v1
+**1** """Canta, mulher estéril, tu que não deste à luz! Canta alegremente e clama, tu que nunca tiveste dores de parto. Porque os filhos da desamparada são mais do que os da mulher casada"", diz Yahweh." ^v1
 
-**2** Amplia o lugar da tua tenda, e estendam-se as cortinas das tuas habitações; não o impeças; alonga as tuas cordas, e fixa bem as tuas estacas. ^v2
+**2** """Alarga a tua tenda e abre livremente as suas cortinas; estica suas cordas e firma bem as suas estacas." ^v2
 
-**3** Porque transbordarás para a direita e para a esquerda; e a tua descendência possuirá os gentios e fará que sejam habitadas as cidades assoladas. ^v3
+**3** Porque te espalharás para a direita e para a esquerda; teus descendentes conquistarão nações e reassentarão cidades desoladas. ^v3
 
-**4** Não temas, porque não serás envergonhada; e não te envergonhes, porque não serás humilhada; antes te esquecerás da vergonha da tua mocidade, e não te lembrarás mais do opróbrio da tua viuvez. ^v4
+**4** Não temas, pois não serás envergonhada, nem desanimes, pois não serás desonrada; tu esquecerás a vergonha da tua juventude e a desgraça do teu abandono. ^v4
 
-**5** Porque o teu Criador é o teu marido; o Senhor dos Exércitos é o seu nome; e o Santo de Israel é o teu Redentor; que é chamado o Deus de toda a terra. ^v5
+**5** Pois o teu Criador é o teu marido; o Seu nome é Yahweh dos Exércitos. O Santo de Israel é o teu Redentor; Ele é chamado o Deus de toda a terra. ^v5
 
-**6** Porque o Senhor te chamou como a mulher desamparada e triste de espírito; como a mulher da mocidade, que fora desprezada, diz o teu Deus. ^v6
+**6** "Porque Yahweh te chamou de volta como se fosses uma esposa abandonada e aflita de espírito, como uma mulher jovem que se casou e foi rejeitada"", diz o teu Deus." ^v6
 
-**7** Por um breve momento te deixei, mas com grandes misericórdias te recolherei; ^v7
+**7** """Por um breve momento, Eu te abandonei, mas, com grande compaixão, Eu te trarei de volta." ^v7
 
-**8** Com um pouco de ira escondi a minha face de ti por um momento; mas com benignidade eterna me compadecerei de ti, diz o Senhor, o teu Redentor. ^v8
+**8** "Num transbordar de ira, escondi Meu rosto de ti por um momento, mas, com eterno amor leal, terei misericórdia de ti"" — diz Yahweh, Aquele que te salva." ^v8
 
-**9** Porque isto será para mim como as águas de Noé; pois jurei que as águas de Noé não passariam mais sobre a terra; assim jurei que não me irarei mais contra ti, nem te repreenderei. ^v9
+**9** """Pois isto é para Mim como as águas de Noé; como jurei que as águas de Noé não mais inundariam a terra, assim também jurei que não mais me irarei contra ti ou te castigarei." ^v9
 
-**10** Porque os montes se retirarão, e os outeiros serão abalados; porém a minha benignidade não se apartará de ti, e a aliança da minha paz não mudará, diz o Senhor que se compadece de ti. ^v10
+**10** "Ainda que as montanhas caiam e os montes sejam sacudidos, ainda assim, Meu amor inabalável não se afastará de ti, nem Minha aliança de paz será abalada"" — diz Yahweh, que tem misericórdia de ti." ^v10
 
-**11** Tu, oprimida, arrojada com a tormenta e desconsolada, eis que eu assentarei as tuas pedras com todo o ornamento, e te fundarei sobre as safiras. ^v11
+**11** """Ó, aflita, açoitada pela tempestade e desconsolada, vê! Eu assentarei tuas pedras com turquesas e edificarei teus alicerces com safiras." ^v11
 
-**12** E farei os teus vitrais de rubis, e as tuas portas de carbúnculos, e todos os teus termos de pedras aprazíveis. ^v12
+**12** Farei as tuas colunas de rubis, as tuas portas de pedras brilhantes e as tuas muralhas de pedras preciosas. ^v12
 
-**13** E todos os teus filhos serão ensinados do Senhor; e a paz de teus filhos será abundante. ^v13
+**13** Todos os teus filhos serão ensinados por Yahweh; e a paz de teus filhos será grande. ^v13
 
-**14** Com justiça serás estabelecida; estarás longe da opressão, porque já não temerás; e também do terror, porque não chegará a ti. ^v14
+**14** Serás restabelecida em retidão; não mais experimentarás a perseguição; não temerás, pois nada amedrontador chegará a ti. ^v14
 
-**15** Eis que seguramente poderão vir a juntar-se contra ti, mas não será por mim; quem se ajuntar contra ti cairá por causa de ti. ^v15
+**15** Vê! Se alguém levantar contenda, não virá de Mim; qualquer que levantar contenda contra ti cairá em derrota. ^v15
 
-**16** Eis que eu criei o ferreiro, que assopra as brasas no fogo, e que produz a ferramenta para a sua obra; também criei o assolador, para destruir. ^v16
+**16** Olha! Fui Eu Quem criou o ferreiro, que sopra as brasas e produz ferramentas para o seu trabalho, e fui Eu Quem criou o devastador, para destruir. ^v16
 
-**17** Toda a ferramenta preparada contra ti não prosperará, e toda a língua que se levantar contra ti em juízo tu a condenarás; esta é a herança dos servos do Senhor, e a sua justiça que de mim procede, diz o Senhor. ^v17
+**17** "Nenhuma arma forjada contra ti prosperará; e tu condenarás todos os que te acusarem. Esta é a herança dos servos de Yahweh e a sua defesa diante de Mim"" — declara Yahweh." ^v17

@@ -1,88 +1,87 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Esdras|Esdras]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Esdras|Esdras]]"
+tags: [biblia]
 ---
 
 # Esdras 10
 
-**1** E enquanto Esdras orava, e fazia confissão, chorando e prostrando-se diante da casa de Deus, ajuntou-se a ele, de Israel, uma grande congregação de homens, mulheres e crianças; pois o povo chorava com grande choro. ^v1
+**1** Enquanto Esdras orava e confessava, ele chorava e prostrava-se diante do templo de Deus. Uma grande multidão de homens israelitas, mulheres e crianças se juntaram a ele, e o povo chorava amargamente. ^v1
 
-**2** Então Secanias, filho de Jeiel, um dos filhos de Elão, tomou a palavra e disse a Esdras: Nós temos transgredido contra o nosso Deus, e casamos com mulheres estrangeiras dentre os povos da terra, mas, no tocante a isto, ainda há esperança para Israel. ^v2
+**2** "Secanias, filho de Jeiel, dos descendentes de Elão, disse a Esdras: ""Fomos infiéis ao nosso Deus e temos casado com mulheres estrangeiras do povo de outras terras. Mas agora, apesar disso, ainda há esperança para Israel." ^v2
 
-**3** Agora, pois, façamos aliança com o nosso Deus de que despediremos todas as mulheres, e os que delas são nascidos, conforme ao conselho do meu senhor, e dos que tremem ao mandado do nosso Deus; e faça-se conforme a lei. ^v3
+**3** Então, agora deixa-nos fazer uma aliança com nosso Deus para mandar sair todas as mulheres e seus filhos de acordo com os conselhos do Senhor e os conselhos daqueles que temem aos mandamentos do nosso Deus, e que se faça de acordo com a Lei. ^v3
 
-**4** Levanta-te, pois, porque te pertence este negócio, e nós seremos contigo; esforça-te, e age. ^v4
+**4** "Levanta-te, porque isso é uma tarefa tua, e nós estamos contigo. Sê forte e faze isso!""" ^v4
 
-**5** Então Esdras se levantou, e ajuramentou os chefes dos sacerdotes e dos levitas, e a todo o Israel, de que fariam conforme a esta palavra; e eles juraram. ^v5
+**5** Então, Esdras levantou-se e fez os principais sacerdotes, os levitas e todos de Israel prometerem agir dessa maneira. Assim todos eles fizeram um juramento solene. ^v5
 
-**6** E Esdras se levantou de diante da casa de Deus, e entrou na câmara de Joanã, filho de Eliasibe; e, chegando lá, não comeu pão, e nem bebeu água; porque lamentava pela transgressão dos do cativeiro. ^v6
+**6** Esdras levantou-se de diante do templo de Deus e foi aos quartos de Joanã, filho de Eliasibe. Ele não comeu pão e nem bebeu água porque estava lamentando sobre a infidelidade daqueles que voltaram do cativeiro. ^v6
 
-**7** E fizeram passar pregão por Judá e Jerusalém, a todos os que vieram do cativeiro, para que se ajuntassem em Jerusalém. ^v7
+**7** Desse modo, eles anunciaram em Judá e Jerusalém, para todo o povo que voltou do exílio, que todos se reunissem em Jerusalém. ^v7
 
-**8** E que todo aquele que em três dias não viesse, segundo o conselho dos príncipes e dos anciãos, toda a sua fazenda se poria em interdito, e ele seria separado da congregação dos do cativeiro. ^v8
+**8** Qualquer um que não viesse em três dias, de acordo com os conselhos dos oficiais e anciãos, perderia todos os seus bens e seria excluído da grande congregação do povo que voltou do exílio. ^v8
 
-**9** Então todos os homens de Judá e Benjamim em três dias se ajuntaram em Jerusalém; era o nono mês, aos vinte dias do mês; e todo o povo se assentou na praça da casa de Deus, tremendo por este negócio e por causa das grandes chuvas. ^v9
+**9** Então, todos os homens de Judá e de Benjamin, em três dias, reuniram-se em Jerusalém. Era o nono mês e o vigésimo dia do mês. Todo o povo estava de pé na praça, diante do templo de Deus, e eles tremeram por causa desta palavra e da chuva. ^v9
 
-**10** Então se levantou Esdras, o sacerdote, e disse-lhes: Vós tendes transgredido, e casastes com mulheres estrangeiras, aumentando a culpa de Israel. ^v10
+**10** "Esdras, o sacerdote, levantou-se e disse: ""Vós mesmos cometestes traição. Vós vivestes com mulheres estrangeiras, e assim a culpa de Israel foi aumentada." ^v10
 
-**11** Agora, pois, fazei confissão ao Senhor Deus de vossos pais, e fazei a sua vontade; e apartai-vos dos povos das terras, e das mulheres estrangeiras. ^v11
+**11** "Mas agora, confessai o vosso pecado a Yahweh, o Deus de vossos antepassados, e fazei a vontade Dele. Separai-vos dos povos da terra e das mulheres estrangeiras""." ^v11
 
-**12** E respondeu toda a congregação, e disse em altas vozes: Assim seja, conforme às tuas palavras nos convém fazer. ^v12
+**12** "Toda a congregação respondeu em alta voz: ""Nós faremos conforme tu disseste." ^v12
 
-**13** Porém o povo é muito, e também é tempo de grandes chuvas, e não se pode estar aqui fora; nem é obra de um dia nem de dois, porque somos muitos os que transgredimos neste negócio. ^v13
+**13** Todavia, há um povo numeroso e é época da chuva. Nós não temos como ficar do lado de fora, e não é apenas um ou dois dias de trabalho, porque muitos de nós temos transgredido grandemente nesse assunto. ^v13
 
-**14** Ora, ponham-se os nossos líderes, por toda a congregação sobre este negócio; e todos os que em nossas cidades casaram com mulheres estrangeiras venham em tempos apontados, e com eles os anciãos de cada cidade, e os seus juízes, até que desviemos de nós o ardor da ira do nosso Deus, por esta causa. ^v14
+**14** "Então deixa nossos líderes representarem toda a congregação. Todos os que permitiram que mulheres estrangeiras vivessem em nossas cidades virão, no tempo combinado com os anciãos e os juízes da cidade, até que a furiosa ira de nosso Deus se afaste de nós""." ^v14
 
-**15** Porém, somente Jônatas, filho de Asael, e Jaseías, filho de Ticva, se opuseram a isto; e Mesulão, e Sabetai, levita, os ajudaram. ^v15
+**15** Jônatas, filho de Asael, e Jazeías, filho de Ticvá, apoiados por Mesulão e Sabetai, o levita, se opuseram a isso. ^v15
 
-**16** E assim o fizeram os que voltaram do cativeiro; e o sacerdote Esdras e os homens, chefes dos pais, segundo a casa de seus pais, e todos pelos seus nomes, foram apontados; e assentaram-se no primeiro dia do décimo mês, para inquirirem neste negócio. ^v16
+**16** E assim fez o povo que retornou do exílio. Esdras, o sacerdote, escolheu homens, os chefes de famílias, segundo a casa de seus antepassados, todos eles identificados pelo nome, e eles examinaram o assunto no primeiro dia do décimo mês. ^v16
 
-**17** E no primeiro dia do primeiro mês acabaram de tratar com todos os homens que casaram com mulheres estrangeiras. ^v17
+**17** No primeiro dia do primeiro mês, eles terminaram de investigar todos os casos de homens que viviam com mulheres estrangeiras. ^v17
 
-**18** E acharam-se dos filhos dos sacerdotes que casaram com mulheres estrangeiras: Dos filhos de Jesuá, filho de Jozadaque, e seus irmãos, Maaséias, e Eliezer, e Jaribe, e Gedalias. ^v18
+**18** Entre os descendentes dos sacerdotes havia aqueles que viveram com mulheres estrangeiras: dentre os descendentes de Jesua, filho de Jozadaque, e seus irmãos estavam Maaseias, Eliézer, Jaribe e Gedalias. ^v18
 
-**19** E deram as suas mãos prometendo que despediriam suas mulheres; e, achando-se culpados, ofereceram um carneiro do rebanho pelo seu delito. ^v19
+**19** E então eles decidiram mandar embora suas mulheres. Uma vez que eram culpados, eles ofereceram um carneiro do rebanho por sua culpa. ^v19
 
-**20** E dos filhos de Imer: Hanani e Zebadias. ^v20
+**20** Dentre os descendentes de Imer: Hanani e Zebadias. ^v20
 
-**21** E dos filhos de Harim: Maaséias, Elias, Semaías, Jeiel e Uzias. ^v21
+**21** Dentre os descendentes de Harim: Maaseias, Elias, Semaías, Jeiel e Uzias. ^v21
 
-**22** E dos filhos de Pasur: Elioenai, Maaséias, Ismael, Netanel, Jozabade e Eleasa. ^v22
+**22** Dentre os descendentes de Pasur: Elioenai, Maaseias, Ismael, Netanel, Jozabade e Eleasa. ^v22
 
-**23** E dos levitas: Jozabade, Simei, Quelaías (este é Quelita), Petaías, Judá e Eliezer. ^v23
+**23** Dentre os levitas: Jozabade, Simei, Quelaías, também chamado Quelita, Petaías, Judá e Eliézer. ^v23
 
-**24** E dos cantores: Eliasibe; e dos porteiros: Salum, Telém e Uri. ^v24
+**24** Dentre os cantores: Eliasibe. Dos porteiros: Salum, Telem e Uri. ^v24
 
-**25** E de Israel, dos filhos de Parós: Ramias, Jezias, Malquias, Miamim, Eleazar, Malquias e Benaia. ^v25
+**25** Dentre o resto dos israelitas, dentre os descendentes de Parós: Ramias, Jezias, Malquias, Miamim, Eleazar, Hasabias e Benaia. ^v25
 
-**26** E dos filhos de Elão: Matanias, Zacarias, Jeiel, Abdi, Jeremote e Elias. ^v26
+**26** Dentre os descendentes de Elão: Matanias, Zacarias, Jeiel, Abdi, Jerimote e Elias. ^v26
 
-**27** E dos filhos de Zatu: Elioenai, Eliasibe, Matanias, Jeremote, Zabade e Aziza. ^v27
+**27** Dentre os descendentes de Zatu: Elioenai, Eliasibe, Matanias, Jerimote, Zabade e Aziza. ^v27
 
-**28** E dos filhos de Bebai: Joanã, Hananias, Zabai e Atlai. ^v28
+**28** Dentre os descendentes de Bebai: Jeoanã, Hananias, Zabai e Atlai. ^v28
 
-**29** E dos filhos de Bani: Mesulão, Maluque, Adaías, Jasube, Seal, Jeremote. ^v29
+**29** Dentre os descendentes de Bani: Mesulão, Maluque, Adaías, Jasube, Seal e Jerimote. ^v29
 
-**30** E dos filhos de Paate-Moabe: Adna, Quelal, Benaia, Maséias, Matanias, Bezalel, Binui e Manassés. ^v30
+**30** Dentre os descendentes de Paate-Moabe: Adná, Quelal, Benaia, Maaseias, Matanias, Bezaleel, Binui e Manassés. ^v30
 
-**31** E dos filhos de Harim: Eliezer, Josias, Malquias, Semaías, Simeão, ^v31
+**31** Dentre os descendentes de Harim: Eliézer, Issias, Malquias, Semaías, Simeão, ^v31
 
-**32** Benjamim, Maluque, Semarias. ^v32
+**32** Benjamim, Maluque e Semarias. ^v32
 
-**33** Dos filhos de Hasum: Matenai, Matatá, Zabade, Elifelete, Jeremai, Manassés e Simei. ^v33
+**33** Dentre os descendentes de Hasum: Matenai, Matatá, Zabade, Elifelete, Jeremai, Manassés e Simei. ^v33
 
-**34** Dos filhos de Bani: Maadai, Anrão, e Uel, ^v34
+**34** Dentre os descendentes de Bani: Maadai, Anrão, Uel, ^v34
 
 **35** Benaia, Bedias, Queluí, ^v35
 
 **36** Vanias, Meremote, Eliasibe, ^v36
 
-**37** Matanias, Matnai e Jaasai, ^v37
+**37** Matanias, Matenai e Jaasai. ^v37
 
-**38** E Bani, Binui, Simei, ^v38
+**38** Dentre os descendentes de Binui:  Simei, ^v38
 
-**39** E Selemias, Natã e Adaías, ^v39
+**39** Selemias, Natã, Adaías, ^v39
 
 **40** Macnadbai, Sasai, Sarai, ^v40
 
@@ -90,6 +89,6 @@ tags:
 
 **42** Salum, Amarias e José. ^v42
 
-**43** Dos filhos de Nebo: Jeiel, Matitias, Zabade, Zebina, Jadai, Joel e Benaia. ^v43
+**43** Dentre os descendentes de Nebo: Jeiel, Matitias, Zabade, Zebina, Jadai, Joel e Benaías. ^v43
 
-**44** Todos estes tomaram mulheres estrangeiras; e alguns deles tinham mulheres de quem tiveram filhos. ^v44
+**44** Todos esses tomaram mulheres estrangeiras e tiveram filhos com algumas delas. ^v44

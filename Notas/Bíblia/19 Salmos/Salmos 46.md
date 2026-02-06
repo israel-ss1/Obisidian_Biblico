@@ -1,29 +1,26 @@
 ---
-Livro: "[[Salmos|Salmos]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Salmos|Salmos]]"
+tags: [biblia]
 ---
 
 # Salmos 46
 
-**1** Deus é o nosso refúgio e fortaleza, socorro bem presente na angústia. ^v1
+**2** Por isso, não teremos medo, mesmo que a terra trema e as montanhas sejam lançadas até o coração dos mares, ^v2
 
-**2** Portanto não temeremos, ainda que a terra se mude, e ainda que os montes se transportem para o meio dos mares. ^v2
+**3** mesmo que as águas rujam e se enfureçam, e as montanhas tremam em sua fúria. [Interlúdio] ^v3
 
-**3** Ainda que as águas rujam e se perturbem, ainda que os montes se abalem pela sua braveza. (Selá.) ^v3
+**4** Há um rio, cujas correntes alegram a cidade de Deus, o Santo Lugar do Tabernáculo do Altíssimo. ^v4
 
-**4** Há um rio cujas correntes alegram a cidade de Deus, o santuário das moradas do Altíssimo. ^v4
+**5** Deus está no meio dela; não será abalada. Deus a ajudará desde o amanhecer. ^v5
 
-**5** Deus está no meio dela; não se abalará. Deus a ajudará, já ao romper da manhã. ^v5
+**6** As nações se enfurecem e os reinos foram abalados. Ele ergueu a Sua voz e a terra se dissolveu. ^v6
 
-**6** Os gentios se embraveceram; os reinos se moveram; ele levantou a sua voz e a terra se derreteu. ^v6
+**7** Yahweh dos Exércitos está conosco; o Deus de Jacó é o nosso refúgio. [Interlúdio] ^v7
 
-**7** O Senhor dos Exércitos está conosco; o Deus de Jacó é o nosso refúgio. (Selá.) ^v7
+**8** Vinde e vede os atos de Yahweh, a desolação que Ele trouxe sobre a terra. ^v8
 
-**8** Vinde, contemplai as obras do Senhor; que desolações tem feito na terra! ^v8
+**9** Ele põe fim às guerras até os confins da terra; Ele quebra o arco e corta a lança em pedaços; Ele queima as carruagens no fogo. ^v9
 
-**9** Ele faz cessar as guerras até ao fim da terra; quebra o arco e corta a lança; queima os carros no fogo. ^v9
+**10** Aquietai-vos e sabei que Eu sou Deus! Eu serei exaltado entre as nações; Eu serei exaltado na terra. ^v10
 
-**10** Aquietai-vos, e sabei que eu sou Deus; serei exaltado entre os gentios; serei exaltado sobre a terra. ^v10
-
-**11** O Senhor dos Exércitos está conosco; o Deus de Jacó é o nosso refúgio. (Selá.) ^v11
+**11** Yahweh dos Exércitos está conosco; o Deus de Jacó é o nosso refúgio. [Interlúdio] ^v11

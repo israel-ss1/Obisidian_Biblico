@@ -1,359 +1,314 @@
 ---
-Livro: "[[Salmos|Salmos]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Salmos|Salmos]]"
+tags: [biblia]
 ---
 
 # Salmos 119
 
-**1** Bem-aventurados os retos em seus caminhos, que andam na lei do Senhor. ^v1
+**2** Como são felizes aqueles que guardam os decretos da Sua aliança, que O buscam de todo o coração, ^v2
 
-**2** Bem-aventurados os que guardam os seus testemunhos, e que o buscam com todo o coração. ^v2
+**3** que não praticam o mal, mas andam em Seus caminhos. ^v3
 
-**3** E não praticam iniqüidade, mas andam nos seus caminhos. ^v3
+**4** Tu nos ordenaste a guardar Teus preceitos, para cumpri-los fielmente. ^v4
 
-**4** Tu ordenaste os teus mandamentos, para que diligentemente os observássemos. ^v4
+**5** Que eu seja estabelecido firmemente para cumprir Teus estatutos! ^v5
 
-**5** Quem dera que os meus caminhos fossem dirigidos a observar os teus mandamentos. ^v5
+**6** Então, não me envergonharei quando meditar em todos os Teus mandamentos. ^v6
 
-**6** Então não ficaria confundido, atentando eu para todos os teus mandamentos. ^v6
+**7** Eu Te louvarei com um coração sincero, quando aprender Teus justos juízos. ^v7
 
-**7** Louvar-te-ei com retidão de coração quando tiver aprendido os teus justos juízos. ^v7
+**8** Cumprirei Teus estatutos; não me desampares jamais! ^v8
 
-**8** Observarei os teus estatutos; não me desampares totalmente. ^v8
+**10** Com todo o meu coração Te busco; não me deixes desviar dos Teus mandamentos. ^v10
 
-**9** Com que purificará o jovem o seu caminho? Observando-o conforme a tua palavra. ^v9
+**11** Escondi Tuas palavras no meu coração para não pecar contra Ti. ^v11
 
-**10** Com todo o meu coração te busquei; não me deixes desviar dos teus mandamentos. ^v10
+**12** Bendito és Tu, Yahweh! Ensina-me Teus estatutos! ^v12
 
-**11** Escondi a tua palavra no meu coração, para eu não pecar contra ti. ^v11
+**13** Com meus lábios tenho declarado todos os juízos da Tua boca. ^v13
 
-**12** Bendito és tu, ó Senhor; ensina-me os teus estatutos. ^v12
+**14** No caminho dos decretos da Tua aliança, tenho mais alegria que em todas as riquezas. ^v14
 
-**13** Com os meus lábios declarei todos os juízos da tua boca. ^v13
+**15** Meditarei nos Teus preceitos e contemplarei os Teus caminhos. ^v15
 
-**14** Folguei tanto no caminho dos teus testemunhos, como em todas as riquezas. ^v14
+**16** Tenho prazer nos Teus estatutos; não me esquecerei da Tua palavra. ^v16
 
-**15** Meditarei nos teus preceitos, e terei respeito aos teus caminhos. ^v15
+**18** Desvenda os meus olhos para que eu contemple as maravilhas da Tua lei. ^v18
 
-**16** Recrear-me-ei nos teus estatutos; não me esquecerei da tua palavra. ^v16
+**19** Sou um peregrino na terra; não escondas de mim os Teus mandamentos. ^v19
 
-**17** Faze bem ao teu servo, para que viva e observe a tua palavra. ^v17
+**20** Minha alma sempre anseia por todos os Teus juízos. ^v20
 
-**18** Abre tu os meus olhos, para que veja as maravilhas da tua lei. ^v18
+**21** Tu repreendes os soberbos, que são malditos, e que se desviam dos Teus mandamentos. ^v21
 
-**19** Sou peregrino na terra; não escondas de mim os teus mandamentos. ^v19
+**22** Aparta de mim a desgraça e a humilhação, pois guardo os decretos da Tua aliança. ^v22
 
-**20** A minha alma está quebrantada de desejar os teus juízos em todo o tempo. ^v20
+**23** Ainda que governantes tramem e falem contra mim, Teu servo medita nos Teus estatutos. ^v23
 
-**21** Tu repreendeste asperamente os soberbos que são amaldiçoa-dos, que se desviam dos teus mandamentos. ^v21
+**24** Os decretos da Tua aliança são o meu prazer, são meus conselheiros. ^v24
 
-**22** Tira de sobre mim o opróbrio e o desprezo, pois guardei os teus testemunhos. ^v22
+**26** Eu Te relatei minha conduta, e Tu me respondeste. Ensina-me os Teus estatutos! ^v26
 
-**23** Príncipes também se assentaram, e falaram contra mim, mas o teu servo meditou nos teus estatutos. ^v23
+**27** Faz-me entender o caminho dos Teus preceitos, para que eu medite em Teus maravilhosos ensinamentos. ^v27
 
-**24** Também os teus testemunhos são o meu prazer e os meus conselheiros. ^v24
+**28** Minha alma se derrete de tristeza. Consola-me, segundo a Tua palavra. ^v28
 
-**25** A minha alma está pegada ao pó; vivifica-me segundo a tua palavra. ^v25
+**29** Afasta-me do caminho da falsidade e ensina-me graciosamente a Tua lei! ^v29
 
-**26** Eu te contei os meus caminhos, e tu me ouviste; ensina-me os teus estatutos. ^v26
+**30** Escolhi o caminho da fidelidade e decidi seguir os Teus juízos. ^v30
 
-**27** Faze-me entender o caminho dos teus preceitos; assim falarei das tuas maravilhas. ^v27
+**31** Eu me apego aos decretos da Tua aliança; que eu não seja envergonhado, Yahweh. ^v31
 
-**28** A minha alma consome-se de tristeza; fortalece-me segundo a tua palavra. ^v28
+**32** Percorrerei o caminho dos Teus mandamentos, pois Tu amplias meu entendimento. ^v32
 
-**29** Desvia de mim o caminho da falsidade, e concede-me piedosamente a tua lei. ^v29
+**34** Dá-me entendimento para seguir a Tua lei e a guardarei com todo o meu coração. ^v34
 
-**30** Escolhi o caminho da verdade; propus-me seguir os teus juízos. ^v30
+**35** Guia-me no caminho dos Teus mandamentos, pois neles me deleito. ^v35
 
-**31** Apego-me aos teus testemunhos; ó Senhor, não me confundas. ^v31
+**36** Inclina o meu coração para os decretos da Tua aliança, e não para a cobiça. ^v36
 
-**32** Correrei pelo caminho dos teus mandamentos, quando dilatares o meu coração. ^v32
+**37** Desvia os meus olhos de contemplarem coisas inúteis! Vivifica-me no Teu caminho. ^v37
 
-**33** Ensina-me, ó Senhor, o caminho dos teus estatutos, e guardá-lo-ei até o fim. ^v33
+**38** Confirma ao Teu servo a promessa que fizeste aos que Te temem. ^v38
 
-**34** Dá-me entendimento, e guardarei a tua lei, e observá-la-ei de todo o meu coração. ^v34
+**39** Afasta de mim as reprovações que me deixam temeroso, pois sei que Teus juízos são bons. ^v39
 
-**35** Faze-me andar na vereda dos teus mandamentos, porque nela tenho prazer. ^v35
+**40** Almejo por Teus preceitos; vivifica-me com Tua justiça! ^v40
 
-**36** Inclina o meu coração aos teus testemunhos, e não à cobiça. ^v36
+**42** assim, saberei responder aos que me desafiam, pois confio em Tua palavra. ^v42
 
-**37** Desvia os meus olhos de contemplarem a vaidade, e vivifica-me no teu caminho. ^v37
+**43** Jamais tires da minha boca a palavra da verdade, pois espero por Teus juízos. ^v43
 
-**38** Confirma a tua palavra ao teu servo, que é dedicado ao teu temor. ^v38
+**44** Assim, observarei a Tua lei, sem cessar, para todo o sempre; ^v44
 
-**39** Desvia de mim o opróbrio que temo, pois os teus juízos são bons. ^v39
+**45** andarei em segurança, pois busco os Teus preceitos; ^v45
 
-**40** Eis que tenho desejado os teus preceitos; vivifica-me na tua justiça. ^v40
+**46** e falarei dos decretos da Tua aliança diante dos reis, e não serei envergonhado. ^v46
 
-**41** Venham sobre mim também as tuas misericórdias, ó Senhor, e a tua salvação segundo a tua palavra. ^v41
+**47** Teus mandamentos, que eu amo, são o meu prazer. ^v47
 
-**42** Assim terei que responder ao que me afronta, pois confio na tua palavra. ^v42
+**48** Levantarei as mãos para os Teus mandamentos, que eu amo, e meditarei em Teus estatutos. ^v48
 
-**43** E não tires totalmente a palavra de verdade da minha boca, pois tenho esperado nos teus juízos. ^v43
+**50** Este é o meu consolo na aflição: que a Tua palavra me dá vida! ^v50
 
-**44** Assim observarei de contínuo a tua lei para sempre e eternamente. ^v44
+**51** Os soberbos zombam de mim, mas não me afasto da Tua lei. ^v51
 
-**45** E andarei em liberdade; pois busco os teus preceitos. ^v45
+**52** Yahweh, lembro-me dos Teus juízos do passado, e sou consolado. ^v52
 
-**46** Também falarei dos teus testemunhos perante os reis, e não me envergonharei. ^v46
+**53** Indignação apoderou-se de mim, por causa dos ímpios, pois rejeitam Tua lei. ^v53
 
-**47** E recrear-me-ei em teus mandamentos, que tenho amado. ^v47
+**54** Teus estatutos têm sido as minhas canções na casa da minha peregrinação. ^v54
 
-**48** Também levantarei as minhas mãos para os teus mandamentos, que amei, e meditarei nos teus estatutos. ^v48
+**55** Durante a noite, lembro-me do Teu nome, Yahweh, e guardo Tua lei; ^v55
 
-**49** Lembra-te da palavra dada ao teu servo, na qual me fizeste esperar. ^v49
+**56** esse tem sido o meu propósito, porque guardo Teus preceitos. ^v56
 
-**50** Isto é a minha consolação na minha aflição, porque a tua palavra me vivificou. ^v50
+**58** De todo o coração, imploro a Tua graça; tem misericórdia de mim, segundo a Tua palavra. ^v58
 
-**51** Os soberbos zombaram grandemente de mim; contudo não me desviei da tua lei. ^v51
+**59** Examinei meus caminhos e dirigi meus passos para os decretos da Tua aliança. ^v59
 
-**52** Lembrei-me dos teus juízos antiqüíssimos, ó Senhor, e assim me consolei. ^v52
+**60** Apresso-me e não demoro em cumprir Teus mandamentos. ^v60
 
-**53** Grande indignação se apoderou de mim por causa dos ímpios que abandonam a tua lei. ^v53
+**61** Os laços do ímpio me prendem, contudo não me esqueço da Tua lei. ^v61
 
-**54** Os teus estatutos têm sido os meus cânticos na casa da minha peregrinação. ^v54
+**62** À meia-noite, levanto-me para dar-Te graças por Teus justos juízos. ^v62
 
-**55** Lembrei-me do teu nome, ó Senhor, de noite, e observei a tua lei. ^v55
+**63** Sou amigo de todos os que Te temem e cumprem Teus preceitos. ^v63
 
-**56** Isto fiz eu, porque guardei os teus mandamentos. ^v56
+**64** A terra está cheia do Teu amor leal, Yahweh. Ensina-me Teus estatutos! ^v64
 
-**57** O Senhor é a minha porção; eu disse que observaria as tuas palavras. ^v57
+**66** Ensina-me o discernimento e a entendedimento, pois creio nos Teus estatutos. ^v66
 
-**58** Roguei deveras o teu favor com todo o meu coração; tem piedade de mim, segundo a tua palavra. ^v58
+**67** Antes de ser afligido, eu andava errado mas, agora, obedeço à Tua palavra. ^v67
 
-**59** Considerei os meus caminhos, e voltei os meus pés para os teus testemunhos. ^v59
+**68** Tu és bondoso e fazes o bem. Ensina-me os Teus mandamentos. ^v68
 
-**60** Apressei-me, e não me detive, a observar os teus mandamentos. ^v60
+**69** Os soberbos inventam mentiras contra mim, porém, de todo o meu coração, obedeço aos Teus preceitos. ^v69
 
-**61** Bandos de ímpios me despojaram, mas eu não me esqueci da tua lei. ^v61
+**70** O coração deles tornou-se endurecido; eu, porém, me deleito na Tua lei. ^v70
 
-**62** À meia-noite me levantarei para te louvar, pelos teus justos juízos. ^v62
+**71** Foi bom para mim ter sofrido para que aprendesse os Teus estatutos. ^v71
 
-**63** Companheiro sou de todos os que te temem e dos que guardam os teus preceitos. ^v63
+**72** Mais preciosa para mim é a palavra da Tua boca do que milhões em ouro e prata. ^v72
 
-**64** A terra, ó Senhor, está cheia da tua benignidade; ensina-me os teus estatutos. ^v64
+**74** Os que Te temem se alegrarão quando me virem, porque espero em Tua palavra. ^v74
 
-**65** Fizeste bem ao teu servo, Senhor, segundo a tua palavra. ^v65
+**75** Reconheço, Yahweh, que Teus juízos são justos, e que me afligiste por causa da Tua fidelidade. ^v75
 
-**66** Ensina-me bom juízo e ciência, pois cri nos teus mandamentos. ^v66
+**76** Oro para que eu seja confortado por Teu amor leal, segundo a palavra que deste ao Teu servo. ^v76
 
-**67** Antes de ser afligido andava errado; mas agora tenho guardado a tua palavra. ^v67
+**77** Venha sobre mim a Tua compaixão e viverei, pois tenho prazer na Tua lei. ^v77
 
-**68** Tu és bom e fazes bem; ensina-me os teus estatutos. ^v68
+**78** Envergonhados sejam os soberbos, que me difamam com calúnias; eu, porém, meditarei nos Teus preceitos. ^v78
 
-**69** Os soberbos forjaram mentiras contra mim; mas eu com todo o meu coração guardarei os teus preceitos. ^v69
+**79** Voltem-se para mim, os que Te temem; aqueles que conhecem os decretos da Tua aliança. ^v79
 
-**70** Engrossa-se-lhes o coração como gordura, mas eu me recreio na tua lei. ^v70
+**80** Que meu coração seja irrepreensível com respeito aos Teus estatutos, para que eu não seja envergonhado. ^v80
 
-**71** Foi-me bom ter sido afligido, para que aprendesse os teus estatutos. ^v71
+**82** Meus olhos esperam por Tua promessa: quando me consolarás? ^v82
 
-**72** Melhor é para mim a lei da tua boca do que milhares de ouro ou prata. ^v72
+**83** Embora eu tenha me tornado como um odre de vinho na fumaça, ainda assim, não me esqueço dos Teus estatutos. ^v83
 
-**73** As tuas mãos me fizeram e me formaram; dá-me inteligência para entender os teus mandamentos. ^v73
+**84** Quantos serão os dias do Teu servo? Quando executarás os Teus juízos contra aqueles que me perseguem? ^v84
 
-**74** Os que te temem alegraram-se quando me viram, porque tenho esperado na tua palavra. ^v74
+**85** Os soberbos, que não andam segundo a Tua lei, abriram covas para mim. ^v85
 
-**75** Bem sei eu, ó Senhor, que os teus juízos são justos, e que segundo a tua fidelidade me afligiste. ^v75
+**86** Todos os Teus mandamentos são fiéis. Socorre-me dos que me perseguem injustamente. ^v86
 
-**76** Sirva pois a tua benignidade para me consolar, segundo a palavra que deste ao teu servo. ^v76
+**87** Eles quase me eliminaram da terra; eu, porém, não abandono os Teus preceitos. ^v87
 
-**77** Venham sobre mim as tuas misericórdias, para que viva, pois a tua lei é a minha delícia. ^v77
+**88** Por Teu amor leal, vivifica-me, para que eu guarde os decretos de Tua boca. ^v88
 
-**78** Confundam-se os soberbos, pois me trataram duma maneira perversa, sem causa; mas eu meditarei nos teus preceitos. ^v78
+**90** A Tua fidelidade se estende de geração em geração. Tu estabeleceste a terra, e ela permanece; ^v90
 
-**79** Voltem-se para mim os que te temem, e aqueles que têm conhecido os teus testemunhos. ^v79
+**91** por Teus juízos, ela continua até hoje, pois todas as coisas estão a Teu serviço. ^v91
 
-**80** Seja reto o meu coração nos teus estatutos, para que não seja confundido. ^v80
+**92** Se a Tua lei não fosse o meu prazer, eu teria perecido em minha aflição. ^v92
 
-**81** Desfalece a minha alma pela tua salvação, mas espero na tua palavra. ^v81
+**93** Jamais me esquecerei dos Teus preceitos, pois por eles Tu tens me dado vida. ^v93
 
-**82** Os meus olhos desfalecem pela tua palavra; entrementes dizia: Quando me consolarás tu? ^v82
+**94** Sou Teu; salva-me porque busco os Teus preceitos. ^v94
 
-**83** Pois estou como odre na fumaça; contudo não me esqueço dos teus estatutos. ^v83
+**95** Os ímpios espreitam para me destruir, mas me concentro nos decretos da Tua aliança. ^v95
 
-**84** Quantos serão os dias do teu servo? Quando me farás justiça contra os que me perseguem? ^v84
+**96** Tenho visto há limites em toda perfeição; porém, Teus mandamentos são ilimitados. ^v96
 
-**85** Os soberbos me cavaram covas, o que não é conforme a tua lei. ^v85
+**98** Teus mandamentos, que estão sempre comigo, me fazem mais sábio do que meus inimigos. ^v98
 
-**86** Todos os teus mandamentos são verdade. Com mentiras me perseguem; ajuda-me. ^v86
+**99** Tenho mais entendimento que todos os meus mestres, porque medito nos decretos da Tua aliança. ^v99
 
-**87** Quase que me têm consumido sobre a terra, mas eu não deixei os teus preceitos. ^v87
+**100** Compreendo mais que os anciãos, porque guardo os Teus preceitos. ^v100
 
-**88** Vivifica-me segundo a tua benignidade; assim guardarei o testemunho da tua boca. ^v88
+**101** Guardo os meus pés de todo o mau caminho para obedecer à Tua palavra. ^v101
 
-**89** Para sempre, ó Senhor, a tua palavra permanece no céu. ^v89
+**102** Não me aparto dos Teus juízos, pois Tu me tens instruído. ^v102
 
-**90** A tua fidelidade dura de geração em geração; tu firmaste a terra, e ela permanece firme. ^v90
+**103** Quão doces são as Tuas palavras ao meu paladar! Sim, mais doces que o mel para a minha boca. ^v103
 
-**91** Eles continuam até ao dia de hoje, segundo as tuas ordenações; porque todos são teus servos. ^v91
+**104** Por meio dos Teus preceitos, adquiro entendimento, por isso detesto todo caminho falso. ^v104
 
-**92** Se a tua lei não fora toda a minha recreação, há muito que pereceria na minha aflição. ^v92
+**106** Fiz um voto e o cumprirei: obedecerei aos Teus justos juízos. ^v106
 
-**93** Nunca me esquecerei dos teus preceitos; pois por eles me tens vivificado. ^v93
+**107** Estou muito aflito! Yahweh, vivifica-me segundo Tua palavra. ^v107
 
-**94** Sou teu, salva-me; pois tenho buscado os teus preceitos. ^v94
+**108** Aceita, Yahweh, as ofertas voluntárias da minha boca, e ensina-me Teus justos juízos. ^v108
 
-**95** Os ímpios me esperam para me destruírem, mas eu considerarei os teus testemunhos. ^v95
+**109** Minha vida está sempre em perigo; todavia, não me esqueço da Tua lei. ^v109
 
-**96** Tenho visto fim a toda a perfeição, mas o teu mandamento é amplíssimo. ^v96
+**110** O ímpio montou uma armadilha contra mim, porém, não me desviei dos Teus preceitos. ^v110
 
-**97** Oh! quanto amo a tua lei! É a minha meditação em todo o dia. ^v97
+**111** Tomei como herança eterna os decretos da Tua aliança, pois eles são alegria para o meu coração. ^v111
 
-**98** Tu, pelos teus mandamentos, me fazes mais sábio do que os meus inimigos; pois estão sempre comigo. ^v98
+**112** Meu coração está decidido a obedecer aos Teus estatutos para sempre e sempre. ^v112
 
-**99** Tenho mais entendimento do que todos os meus mestres, porque os teus testemunhos são a minha meditação. ^v99
+**114** Tu és o meu abrigo e o meu escudo; espero na Tua palavra. ^v114
 
-**100** Entendo mais do que os antigos; porque guardo os teus preceitos. ^v100
+**115** Apartai-vos de mim, malfeitores! Quero cumprir os mandamentos do meu Deus. ^v115
 
-**101** Desviei os meus pés de todo caminho mau, para guardar a tua palavra. ^v101
+**116** Sustenta-me segundo as Tuas promessas para que eu viva; não permitas que eu seja envergonhado na minha esperança. ^v116
 
-**102** Não me apartei dos teus juízos, pois tu me ensinaste. ^v102
+**117** Ampara-me e serei salvo; meditarei continuamente nos Teus estatutos. ^v117
 
-**103** Oh! quão doces são as tuas palavras ao meu paladar, mais doces do que o mel à minha boca. ^v103
+**118** Tu rejeitas a todos que se desviam dos Teus estatutos, porque são pessoas falsas e astutas. ^v118
 
-**104** Pelos teus mandamentos alcancei entendimento; por isso odeio todo falso caminho. ^v104
+**119** Tu rejeitas, como escória, todos os ímpios da terra; por isso, amo os decretos da Tua aliança. ^v119
 
-**105** Lâmpada para os meus pés é tua palavra, e luz para o meu caminho. ^v105
+**120** Meu corpo estremece de temor diante de Ti, e tenho medo dos Teus justos juizos. ^v120
 
-**106** Jurei, e o cumprirei, que guardarei os teus justos juízos. ^v106
+**122** Garante o bem-estar do Teu servo; não permitas que o arrogante me oprima. ^v122
 
-**107** Estou aflitíssimo; vivifica-me, ó Senhor, segundo a tua palavra. ^v107
+**123** Os meus olhos desfalecem à espera da Tua salvação e da Tua justa promessa. ^v123
 
-**108** Aceita, eu te rogo, as oferendas voluntárias da minha boca, ó Senhor; ensina-me os teus juízos. ^v108
+**124** Trata o Teu servo conforme a Tua aliança fiel, e ensina-me os Teus estatutos. ^v124
 
-**109** A minha alma está de contínuo nas minhas mãos; todavia não me esqueço da tua lei. ^v109
+**125** Sou Teu servo; dá-me entendimento para que eu conheça os decretos da Tua aliança. ^v125
 
-**110** Os ímpios me armaram laço; contudo não me desviei dos teus preceitos. ^v110
+**126** É hora de agires, Yahweh, pois eles violaram a Tua lei. ^v126
 
-**111** Os teus testemunhos tenho eu tomado por herança para sempre, pois são o gozo do meu coração. ^v111
+**127** Amo os Teus mandamentos mais que o ouro, mais que o puro ouro. ^v127
 
-**112** Inclinei o meu coração a guardar os teus estatutos, para sempre, até ao fim. ^v112
+**128** Por isso, em tudo sigo os Teus preceitos, e aborreço todo o caminho de falsidade. ^v128
 
-**113** Odeio os pensamentos vãos, mas amo a tua lei. ^v113
+**130** A explicação das Tuas palavras ilumina e dá entendimento aos simples. ^v130
 
-**114** Tu és o meu refúgio e o meu escudo; espero na tua palavra. ^v114
+**131** Abro a minha boca e suspiro, pois desejo Teus mandamentos. ^v131
 
-**115** Apartai-vos de mim, malfeitores, pois guardarei os mandamentos do meu Deus. ^v115
+**132** Volta-Te para mim e tem misericórdia de mim, como costumas fazer aos que amam o Teu nome! ^v132
 
-**116** Sustenta-me conforme a tua palavra, para que viva, e não me deixes envergonhado da minha esperança. ^v116
+**133** Conduze os meus passos na Tua palavra; não deixes nenhum pecado me governar. ^v133
 
-**117** Sustenta-me, e serei salvo, e de contínuo terei respeito aos teus estatutos. ^v117
+**134** Livra-me da opressão dos homens; assim, obedecerei aos Teus preceitos. ^v134
 
-**118** Tu tens pisado aos pés todos os que se desviam dos teus estatutos, pois o engano deles é falsidade. ^v118
+**135** Faz resplandecer o Teu rosto sobre o Teu servo e ensina-me Teus estatutos. ^v135
 
-**119** Tu tiraste da terra todos os ímpios, como a escória, por isso amo os teus testemunhos. ^v119
+**136** Rios de lágrimas correm dos meus olhos, porque as pessoas não cumprem a Tua lei. ^v136
 
-**120** O meu corpo se arrepiou com temor de ti, e temi os teus juízos. ^v120
+**138** Tu ordenaste os decretos da Tua aliança com justiça e com grande fidelidade. ^v138
 
-**121** Fiz juízo e justiça; não me entregues aos meus opressores. ^v121
+**139** Meu zelo me consome porque meus adversários esqueceram as Tuas palavras. ^v139
 
-**122** Fica por fiador do teu servo para o bem; não deixes que os soberbos me oprimam. ^v122
+**140** Tua palavra é totalmente pura e o Teu servo a ama. ^v140
 
-**123** Os meus olhos desfaleceram pela tua salvação e pela promessa da tua justiça. ^v123
+**141** Embora pequeno e desprezado, não me esqueço dos Teus preceitos. ^v141
 
-**124** Usa com o teu servo segundo a tua benignidade, e ensina-me os teus estatutos. ^v124
+**142** Tua Justiça é justiça eterna, e a Tua lei é a verdade. ^v142
 
-**125** Sou teu servo; dá-me inteligência, para entender os teus testemunhos. ^v125
+**143** Embora a aflição e a angústia tenham me atingido, Teus mandamentos são o meu prazer. ^v143
 
-**126** Já é tempo de operares, ó Senhor, pois eles têm quebrantado a tua lei. ^v126
+**144** Os decretos da Tua aliança são justos para sempre; dá-me entendimento para que eu viva. ^v144
 
-**127** Por isso am ^v127
+**146** Eu suplico: salva-me, e cumprirei os decretos da Tua aliança. ^v146
 
-**128** Por isso estimo todos os teus preceitos acerca de tudo, como retos, e odeio toda falsa vereda. ^v128
+**147** Levanto antes do amanhecer e clamo por ajuda. Em Tua palavra coloco minha esperança. ^v147
 
-**129** Maravilhosos são os teus testemunhos; portanto, a minha alma os guarda. ^v129
+**148** Mantenho os meus olhos abertos nas vigílias da noite, para meditar em Tua palavra. ^v148
 
-**130** A entrada das tuas palavras dá luz, dá entendimento aos símplices. ^v130
+**149** Ouve a minha voz segundo o Teu amor leal, Yahweh; vivifica-me conforme Teus juízos! ^v149
 
-**131** Abri a minha boca, e respirei, pois que desejei os teus mandamentos. ^v131
+**150** Meus perseguidores se aproximam; eles estão afastados da Tua lei. ^v150
 
-**132** Olha para mim, e tem piedade de mim, conforme usas com os que amam o teu nome. ^v132
+**151** Tu estás perto, Yahweh, e todos os Teus mandamentos são verdade. ^v151
 
-**133** Ordena os meus passos na tua palavra, e não se apodere de mim iniqüidade alguma. ^v133
+**152** Há muito tempo, aprendi os decretos da Tua aliança, os quais Tu estabeleceste para sempre. ^v152
 
-**134** Livra-me da opressão do homem; assim guardarei os teus preceitos. ^v134
+**154** Advoga minha causa e defende-me; vivifica-me de acordo com as Tuas promessas. ^v154
 
-**135** Faze resplandecer o teu rosto sobre o teu servo, e ensina-me os teus estatutos. ^v135
+**155** A salvação está longe dos ímpios porque não procuram os Teus estatutos. ^v155
 
-**136** Rios de águas correm dos meus olhos, porque não guardam a tua lei. ^v136
+**156** Grandes são os Teus atos de misericórdia, Yahweh! Vivifica-me segundo os Teus mandamentos. ^v156
 
-**137** Justo és, ó Senhor, e retos são os teus juízos. ^v137
+**157** Numerosos são os meus inimigos e aqueles que me perseguem; porém, não me desvio dos decretos da Tua aliança. ^v157
 
-**138** Os teus testemunhos que ordenaste são retos e muito fiéis. ^v138
+**158** Vejo os traidores e sinto desgosto porque não guardam a Tua palavra. ^v158
 
-**139** O meu zelo me consumiu, porque os meus inimigos se esqueceram da tua palavra. ^v139
+**159** Vê como amo os Teus preceitos, Yahweh! Vivifica-me segundo o Teu amor leal! ^v159
 
-**140** A tua palavra é muito pura; portanto, o teu servo a ama. ^v140
+**160** A essência da Tua palavra é a verdade; e todos os Teus justos juízos são eternos. ^v160
 
-**141** Pequeno sou e desprezado, porém não me esqueço dos teus mandamentos. ^v141
+**162** Regozijo-me em Tuas promessas, como alguém que encontra um grande tesouro. ^v162
 
-**142** A tua justiça é uma justiça eterna, e a tua lei é a verdade. ^v142
+**163** Eu detesto e aborreço a falsidade, mas amo a Tua lei. ^v163
 
-**143** Aflição e angústia se apoderam de mim; contudo os teus mandamentos são o meu prazer. ^v143
+**164** Sete vezes ao dia, Te louvo porque Teus juízos são justos. ^v164
 
-**144** A justiça dos teus testemunhos é eterna; dá-me inteligência, e viverei. ^v144
+**165** Grande paz têm os que amam a Tua lei: para eles não há tropeço. ^v165
 
-**145** Clamei de todo o meu coração; escuta-me, Senhor, e guardarei os teus estatutos. ^v145
+**166** Eu espero por Tua salvação, Yahweh, e cumpro os Teus mandamentos. ^v166
 
-**146** A ti te invoquei; salva-me, e guardarei os teus testemunhos. ^v146
+**167** Obedeço aos decretos da Tua aliança e os amo intensamente. ^v167
 
-**147** Antecipei o cair da noite, e clamei; esperei na tua palavra. ^v147
+**168** Guardo os Teus preceitos e os decretos da Tua aliança, pois todos os meus caminhos estão diante de Ti. ^v168
 
-**148** Os meus olhos anteciparam as vigílias da noite, para meditar na tua palavra. ^v148
+**170** Chegue a minha súplica à Tua presença. Ajuda-me, conforme a Tua palavra. ^v170
 
-**149** Ouve a minha voz, segundo a tua benignidade; vivifica-me, ó Senhor, segundo o teu juízo. ^v149
+**171** Que transborde louvor dos meus lábios, pois Tu me ensinas os Teus estatutos! ^v171
 
-**150** Aproximam-se os que se dão a maus tratos; afastam-se da tua lei. ^v150
+**172** Que a minha língua cante a Tua palavra, porque todos os Teus mandamentos são justos. ^v172
 
-**151** Tu estás perto, ó Senhor, e todos os teus mandamentos são a verdade. ^v151
+**173** Que a Tua mão me socorra, pois escolhi os Teus preceitos. ^v173
 
-**152** Acerca dos teus testemunhos soube, desde a antiguidade, que tu os fundaste para sempre. ^v152
+**174** Desejo o Teu livramento, Yahweh; Tua lei é o meu prazer. ^v174
 
-**153** Olha para a minha aflição, e livra-me, pois não me esqueci da tua lei. ^v153
+**175** Que eu viva para Te louvar, e que os Teus justos juízos me socorram. ^v175
 
-**154** Pleiteia a minha causa, e livra-me; vivifica-me segundo a tua palavra. ^v154
-
-**155** A salvação está longe dos ímpios, pois não buscam os teus estatutos. ^v155
-
-**156** Muitas são, ó Senhor, as tuas misericórdias; vivifica-me segundo os teus juízos. ^v156
-
-**157** Muitos são os meus perseguidores e os meus inimigos; mas não me desvio dos teus testemunhos. ^v157
-
-**158** Vi os transgressores, e me afligi, porque não observam a tua palavra. ^v158
-
-**159** Considera como amo os teus preceitos; vivifica-me, ó Senhor, segundo a tua benignidade. ^v159
-
-**160** A tua palavra é a verdade desde o princípio, e cada um dos teus juízos dura para sempre. ^v160
-
-**161** Príncipes me perseguiram sem causa, mas o meu coração temeu a tua palavra. ^v161
-
-**162** Folgo com a tua palavra, como aquele que acha um grande despojo. ^v162
-
-**163** Abomino e odeio a mentira; mas amo a tua lei. ^v163
-
-**164** Sete vezes no dia te louvo pelos juízos da tua justiça. ^v164
-
-**165** Muita paz têm os que amam a tua lei, e para eles não há tropeço. ^v165
-
-**166** Senhor, tenho esperado na tua salvação, e tenho cumprido os teus mandamentos. ^v166
-
-**167** A minha alma tem observado os teus testemunhos; amo-os excessivamente. ^v167
-
-**168** Tenho observado os teus preceitos, e os teus testemunhos, porque todos os meus caminhos estão diante de ti. ^v168
-
-**169** Chegue a ti o meu clamor, ó Senhor; dá-me entendimento conforme a tua palavra. ^v169
-
-**170** Chegue a minha súplica perante a tua face; livra-me segundo a tua palavra. ^v170
-
-**171** Os meus lábios proferiram o louvor, quando me ensinaste os teus estatutos. ^v171
-
-**172** A minha língua falará da tua palavra, pois todos os teus mandamentos são justiça. ^v172
-
-**173** Venha a tua mão socorrer-me, pois escolhi os teus preceitos. ^v173
-
-**174** Tenho desejado a tua salvação, ó Senhor; a tua lei é todo o meu prazer. ^v174
-
-**175** Viva a minha alma, e louvar-te-á; ajudem-me os teus juízos. ^v175
-
-**176** Desgarrei-me como a ovelha perdida; busca o teu servo, pois não me esqueci dos teus mandamentos. ^v176
+**176** Ando sem destino, como ovelha desgarrada; procura o Teu servo, pois não me esqueço dos Teus mandamentos. ^v176

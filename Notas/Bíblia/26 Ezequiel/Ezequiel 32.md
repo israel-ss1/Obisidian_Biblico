@@ -1,71 +1,70 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Ezequiel|Ezequiel]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Ezequiel|Ezequiel]]"
+tags: [biblia]
 ---
 
 # Ezequiel 32
 
-**1** E sucedeu que, no ano duodécimo, no duodécimo mês, ao primeiro do mês, veio a mim a palavra do SENHOR, dizendo: ^v1
+**1** E sucedeu que, no décimo segundo ano, no décimo segundo mês, no primeiro dia do mês, a palavra de Yahweh veio a mim dizendo: ^v1
 
-**2** Filho do homem, levanta uma lamentação sobre Faraó, rei do Egito, e dize-lhe: Eras semelhante a um filho do leão entre as nações, mas tu és como uma baleia nos mares, e rompias os teus rios, e turbavas as águas com os teus pés, e pisavas os teus rios. ^v2
+**2** """Filho do homem, levanta uma lamentação por Faraó, o rei do Egito; dize-lhe: 'Foste comparado a um filho de leão entre as nações, mas és como um monstro nos mares; feres e agitas as águas, sujando-as com teus pés." ^v2
 
-**3** Assim diz o Senhor DEUS: Portanto, estenderei sobre ti a minha rede com reunião de muitos povos, e te farão subir na minha rede. ^v3
+**3** Assim diz Yahweh Deus: 'Estenderei Minha rede sobre ti no ajuntamento de muitos povos e vão te recolher na Minha rede. ^v3
 
-**4** Então te deixarei em terra; sobre a face do campo te lançarei, e farei posar sobre ti todas as aves do céu, e fartarei de ti os animais de toda a terra. ^v4
+**4** Vou te abandonar na terra e te lançar no campo, farei com que as aves do céus morem em ti; e os animais famintos da terra sejam saciados por ti. ^v4
 
-**5** E porei as tuas carnes sobre os montes, e encherei os vales da tua altura. ^v5
+**5** E, porei tua carne sobre as montanhas e encherei os vales com a podridão do teu corpo. ^v5
 
-**6** E regarei com o teu sangue a terra onde nadas, até aos montes; e os rios se encherão de ti. ^v6
+**6** Depois, derramarei teu sangue sobre os montes e as nascentes dos vales se encherão com teu próprio sangue. ^v6
 
-**7** E, apagando-te eu, cobrirei os céus, e enegrecerei as suas estrelas; ao sol encobrirei com uma nuvem, e a lua não fará resplandecer a sua luz. ^v7
+**7** Quando te destruir, cobrirei os céus e escurecerei tuas estrelas; cobrirei o sol com uma nuvem e a lua não resplandecerá sua luz. ^v7
 
-**8** Todas as brilhantes luzes do céu enegrecerei sobre ti, e trarei trevas sobre a tua terra, diz o Senhor DEUS. ^v8
+**8** Todas as estrelas brilhantes do céu escurecerei sobre ti e trarei trevas sobre tua terra — assim diz Yahweh Deus. ^v8
 
-**9** E afligirei os corações de muitos povos, quando eu levar a tua destruição entre as nações, às terras que não conheceste. ^v9
+**9** "Afligirei o coração de muitos povos, de terras que não conheces, quando Eu causar tua destruição entre as nações. [Em vez de ""quando Eu causar tua destruição entre as nações"", algumas versões antigas e modernas trazem ""quando Eu te levar ao cativeiro entre as nações""]" ^v9
 
-**10** E farei com que muitos povos fiquem pasmados de ti, e os seus reis tremam sobremaneira, quando eu brandir a minha espada ante os seus rostos; e estremecerão a cada momento, cada um pela sua vida, no dia da tua queda. ^v10
+**10** E muitos povos ficarão perplexos por tua causa; seus reis tremerão de terror, quando Eu agitar Minha espada diante deles. A todo instante, um tremerá por causa de ti, no dia da tua queda. ^v10
 
-**11** Porque assim diz o Senhor DEUS: A espada do rei de babilônia virá sobre ti. ^v11
+**11** Assim diz Yahweh Deus: 'A espada do rei da Babilônia virá contra ti. ^v11
 
-**12** Farei cair a tua multidão pelas espadas dos poderosos, que são todos os mais terríveis das nações; e destruirão a soberba do Egito, e toda a sua multidão será destruída. ^v12
+**12** Farei cair, pela espada dos valentes, a tua multidão, e cada valente aterrorizará as nações. Eles tirarão o orgulho do Egito e destruirão toda a sua multidão. ^v12
 
-**13** E exterminarei todos os seus animais sobre as muitas águas; nem as turbará mais pé de homem, nem as turbarão unhas de animais. ^v13
+**13** Destruirei todos os animais que estão junto às muitas águas; nem pés de homem, nem cascos de animais agitarão mais as águas. ^v13
 
-**14** Então farei assentar as suas águas, e farei correr os seus rios como o azeite, diz o Senhor DEUS. ^v14
+**14** Então, acalmarei suas águas e farei com que seus rios corram como azeite — assim diz Yahweh Deus. ^v14
 
-**15** Quando eu tornar a terra do Egito em desolação, e ela for despojada da sua plenitude, e quando ferir a todos os que habitam nela, então saberão que eu sou o Senhor. ^v15
+**15** Quando Eu fizer da terra do Egito um lugar de abandono, quando a terra for despojada de tudo, quando Eu ferir todos os que habitam nela, saberão que Eu sou Yahweh. ^v15
 
-**16** Esta é a lamentação que se fará; que as filhas das nações farão; sobre o Egito e sobre toda a sua multidão, diz o Senhor DEUS. ^v16
+**16** "Haverá um lamento. As filhas das nações lamentarão por causa do Egito e por causa de toda a sua multidão — assim diz Yahweh Deus'""." ^v16
 
-**17** E sucedeu que, no ano duodécimo, aos quinze do mês, veio a mim a palavra do Senhor, dizendo: ^v17
+**17** E aconteceu que, no décimo segundo ano, no décimo quinto dia do mês, veio a palavra de Yahweh a mim, dizendo: ^v17
 
-**18** Filho do homem, pranteia sobre a multidão do Egito, e faze-a descer, a ela e às filhas das nações magníficas, às partes mais baixas da terra, juntamente com os que descem à cova. ^v18
+**18** """Filho do homem, pranteia pela multidão do Egito e faz com que desçam — ela e as filhas das nações poderosas — às profundezas da terra, juntamente com aqueles que descem à cova." ^v18
 
-**19** A quem sobrepujas tu em formosura? Desce, e deita-te com os incircuncisos. ^v19
+**19** 'Acaso és mais formosa que qualquer outra? Desce e deita-te com o incircunciso'. ^v19
 
-**20** No meio daqueles que foram mortos à espada cairão; à espada ela está entregue; arrastai-a e a toda a sua multidão. ^v20
+**20** Eles cairão entre aqueles que foram mortos pela espada; o Egito foi entregue à espada! Eles o medirão juntamente com sua multidão. ^v20
 
-**21** Os mais poderosos dos fortes lhe falarão desde o meio do inferno, com os que a socorrem; desceram, jazeram com os incircuncisos mortos à espada. ^v21
+**21** Os valentes poderosos de dentro do Sheol declararão a respeito do Egito e de sua aliada: 'Eles desceram juntamente com os incircuncisos e com aqueles que foram mortos pela espada'. ^v21
 
-**22** Ali está Assur com toda a sua multidão; em redor dele estão os seus sepulcros; todos eles mortos, abatidos à espada. ^v22
+**22** A Assíria está lá com toda sua assembleia. Os sepulcros a cercaram. Todos foram mortos pela espada. ^v22
 
-**23** Os seus sepulcros foram postos nas extremidades da cova, e a sua multidão está em redor do seu sepulcro; todos eles mortos, abatidos à espada; os que tinham causado espanto na terra dos viventes. ^v23
+**23** Aqueles cujos sepulcros foram colocados no interior das covas, com toda a sua assembleia. Sua sepultura cerca todos os que tinham sido mortos pela espada, causando espanto na terra dos viventes. ^v23
 
-**24** Ali está Elão com toda a sua multidão em redor do seu sepulcro; todos eles mortos, abatidos à espada; desceram incircuncisos às partes mais baixas da terra, causaram terror na terra dos viventes e levaram a sua vergonha com os que desceram à cova. ^v24
+**24** Ali está Elão com toda a sua multidão, a sepultura o cercou; todos foram mortos. Todos aqueles que foram mortos pela espada, que desceram incircuncisos até as partes mais baixas da terra, que trouxeram terrores à terra dos viventes e carregam sua própria vergonha, juntamente com aqueles que descem à cova. ^v24
 
-**25** No meio dos mortos lhe puseram uma cama, entre toda a sua multidão; ao redor dele estão os seus sepulcros; todos eles são incircuncisos, mortos à espada; porque causaram terror na terra dos viventes, e levaram a sua vergonha com os que desceram à cova; foi posto no meio dos mortos. ^v25
+**25** Eles puseram uma cama para Elão e sua multidão no meio dos mortos; sua sepultura o cercou. Todos esses incircuncisos foram mortos pela espada, porque trouxeram terrores à terra dos viventes. Portanto, levarão sua própria vergonha, com aqueles que descem à cova. Elão está entre todos os que foram mortos. ^v25
 
-**26** Ali estão Meseque, Tubal e toda a sua multidão; ao redor deles estão os seus sepulcros; todos eles são incircuncisos, e mortos à espada, porquanto causaram terror na terra dos viventes. ^v26
+**26** Ali estão Meseque, Tubal e toda sua multidão! Suas sepulturas os cercam. Todos eles são incircuncisos, mortos pela espada, porque trouxeram terrores à terra dos viventes. ^v26
 
-**27** Porém não jazerão com os poderosos que caíram dos incircuncisos, os quais desceram ao inferno com as suas armas de guerra e puseram as suas espadas debaixo das suas cabeças; e a sua iniqüidade está sobre os seus ossos, porquanto eram o terror dos fortes na terra dos viventes. ^v27
+**27** Eles não estarão com os valentes que caíram incircuncisos, que desceram ao Sheol com seus instrumentos de guerra, colocaram suas espadas debaixo de suas cabeças e suas iniquidades sobre seus ossos. Porque eram o terror dos valentes na terra dos viventes. ^v27
 
-**28** Também tu serás quebrado no meio dos incircuncisos, e jazerás com os que foram mortos à espada. ^v28
+**28** Mas tu, Egito, serás abatido no meio dos incircuncisos! Estarás com os que foram atravessados pela espada. ^v28
 
-**29** Ali está Edom, os seus reis e todos os seus príncipes, que com o seu poder foram postos com os que foram mortos à espada; estes jazem com os incircuncisos e com os que desceram à cova. ^v29
+**29** Edom está ali com seus reis e com todos os seus líderes. Eles foram colocados com todos aqueles que foram mortos pela espada. Estarão com os incircuncisos e com aqueles que descem à cova. ^v29
 
-**30** Ali estão os príncipes do norte, todos eles, e todos os sidônios, que desceram com os mortos, envergonhados com o terror causado pelo seu poder; e jazem incircuncisos com os que foram mortos à espada, e levam a sua vergonha com os que desceram à cova. ^v30
+**30** Ali estão os príncipes do norte, todos eles e todos os sidônios, que desceram com aqueles que foram atravessados pela espada. Eram poderosos e causavam medo nos outros, mas agora estão lá, envergonhados, incircuncisos com aqueles que foram atravessados pela espada. Eles levaram sua própria vergonha com os que descem à cova. ^v30
 
-**31** Faraó os verá, e se consolará com toda a sua multidão; sim, o próprio Faraó, e todo o seu exército, mortos à espada, diz o Senhor DEUS. ^v31
+**31** Faraó olhará e será consolado por toda sua multidão que havia perecido pela espada — Faraó e todo seu exército — assim diz Yahweh Deus. ^v31
 
-**32** Porque também eu pus o meu espanto na terra dos viventes; por isso jazerá no meio dos incircuncisos, com os mortos à espada, Faraó e toda a sua multidão, diz o Senhor DEUS. ^v32
+**32** "Eu o coloquei como terror na terra dos viventes, mas ele vai ser jogado no meio do incircunciso, entre aqueles atravessados pela espada, Faraó e toda sua multidão — assim diz Yahweh Deus""." ^v32

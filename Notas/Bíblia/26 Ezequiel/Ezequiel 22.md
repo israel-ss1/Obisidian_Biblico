@@ -1,69 +1,68 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Ezequiel|Ezequiel]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Ezequiel|Ezequiel]]"
+tags: [biblia]
 ---
 
 # Ezequiel 22
 
-**1** E veio a mim a palavra do SENHOR, dizendo: ^v1
+**1** Então, a palavra de Yahweh veio a mim, dizendo: ^v1
 
-**2** Tu, pois, ó filho do homem, porventura julgarás, julgarás a cidade sanguinária? Faze-lhe conhecer, pois, todas as suas abominações. ^v2
+**2** """Agora, filho do homem, irás tu julgar? Julgarás tu a cidade de sangue? Faze-lhe conhecer todas as suas abominações." ^v2
 
-**3** E dize: Assim diz o Senhor DEUS: Ai da cidade que derrama o sangue no meio de si para que venha o seu tempo! Que faz ídolos contra si mesma, para se contaminar! ^v3
+**3** Tu deves dizer: 'Assim diz Yahweh Deus: Esta é uma cidade que derrama sangue no meio de si mesma, para que venha o seu tempo; é uma cidade que faz ídolos, para tornar-se impura. ^v3
 
-**4** Pelo teu sangue que derramaste te fizeste culpada, e pelos teus ídolos que fabricaste te contaminaste, e fizeste aproximarem-se os teus dias, e tem chegado o fim dos teus anos; por isso eu te fiz o opróbrio das nações e o escárnio de todas as terras. ^v4
+**4** És culpada pelo sangue que derramaste e te tornaste impura pelos ídolos que fizeste. Pois fizeste chegar o teu dia e aproximaste o fim dos teus anos. Por isso, Eu te tornarei vergonha para as nações e zombaria à vista de toda a terra. ^v4
 
-**5** As que estão perto de ti e as que estão longe escarnecerão de ti, infamada, cheia de inquietação. ^v5
+**5** Ambos os que estão perto como aqueles que estão longe, zombarão de ti, tu, cidade imunda, com a reputação conhecida em todos os lugares como sendo cheia de confusão. ^v5
 
-**6** Eis que os príncipes de Israel, cada um conforme o seu poder, estavam em ti para derramarem sangue. ^v6
+**6** Vê! Os príncipes de Israel, cada um, pelo seu próprio poder, vieram a ti para derramar sangue. ^v6
 
-**7** Ao pai e à mãe desprezaram em ti; para com o estrangeiro usaram de opressão no meio de ti; ao órfão e à viúva oprimiram em ti. ^v7
+**7** Eles desonraram pais e mães dentro de ti e oprimiram os estrangeiros em seu meio. Eles maltrataram os órfãos e as viúvas dentro de ti. ^v7
 
-**8** As minhas coisas santas desprezaste, e os meus sábados profanaste. ^v8
+**8** Desprezaste as Minhas coisas santas e profanaste os Meus sábados. ^v8
 
-**9** Homens caluniadores se acharam em ti, para derramarem sangue; e em ti sobre os montes comeram; perversidade cometeram no meio de ti. ^v9
+**9** Homens caluniosos vieram ao meio de ti para derramar sangue e eles comem nos montes. Eles praticam maldade no meio de ti. ^v9
 
-**10** A vergonha do pai descobriram em ti; a que estava imunda, na sua separação, humilharam no meio de ti. ^v10
+**10** A nudez de um pai é revelada em ti. Eles abusaram da mulher impura no meio de ti durante a impureza dela. ^v10
 
-**11** Um cometeu abominação com a mulher do seu próximo, outro contaminou abominavelmente a sua nora, e outro humilhou no meio de ti a sua irmã, filha de seu pai. ^v11
+**11** Homens que cometem abominações com as esposas dos seus próximos e homens que tornam vergonhosamente impuras suas próprias noras; homens que abusam das suas próprias irmãs — filhas dos seus próprios pais — todos estes estão entre vós. ^v11
 
-**12** Presentes receberam no meio de ti para derramarem sangue; usura e juros ilícitos tomaste, e usaste de avareza com o teu próximo, oprimindo-o; mas de mim te esqueceste, diz o Senhor DEUS. ^v12
+**12** Estes homens aceitam subornos entre vós para derramar sangue. Ganhastes e obtivestes lucro exagerado, danificastes vosso próximo por meio da opressão e vos esquecestes de Mim — declara Yahweh Deus. ^v12
 
-**13** E eis que bati as mãos contra a avareza que cometeste, e por causa do sangue que houve no meio de ti. ^v13
+**13** Vê! Com a Minha mão, Eu ataquei o ganho desonesto que tu fizeste e o derramamento de sangue que está em teu meio. ^v13
 
-**14** Porventura estará firme o teu coração? Porventura estarão fortes as tuas mãos, nos dias em que eu tratarei contigo? Eu, o Senhor, o disse, e o farei. ^v14
+**14** Teu coração ficará de pé? Tuas mãos serão fortes nos dias em que Eu mesmo lidarei contigo? Eu, Yahweh, estou declarando isto e Eu vou fazer isto. ^v14
 
-**15** E espalhar-te-ei entre as nações, e dispersar-te-ei pelas terras, e porei termo à tua imundícia. ^v15
+**15** Assim, te espalharei entre as nações e te dispersarei pelas terras. Desta maneira, Eu purificarei a tua imundície. ^v15
 
-**16** E tu serás profanada em ti mesma aos olhos dos gentios, e saberás que eu sou o Senhor. ^v16
+**16** "Assim, tu te tornarás imunda aos olhos da nação. Então, tu saberás que Eu sou Yahweh'""." ^v16
 
-**17** E veio a mim a palavra do Senhor, dizendo: ^v17
+**17** Depois, veio a mim a palavra de Yahweh, dizendo: ^v17
 
-**18** Filho do homem, a casa de Israel se tornou para mim em escórias; todos eles são bronze, e estanho, e ferro, e chumbo no meio do forno; em escórias de prata se tornaram. ^v18
+**18** """Filho do homem, a casa de Israel tornou-se escória para Mim. Todos eles são os restos de bronze e estanho; ferro e chumbo no meio de ti. Serão como a escória de prata na tua fornalha." ^v18
 
-**19** Portanto assim diz o Senhor DEUS: Pois que todos vós vos tornastes em escórias, por isso eis que eu vos ajuntarei no meio de Jerusalém. ^v19
+**19** Por isso, assim declara Yahweh Deus: 'Pois todos vós vos tornastes como escória. Eis que estou prestes a vos reunir no centro de Jerusalém. ^v19
 
-**20** Como se ajuntam a prata, e o bronze, e o ferro, e o chumbo, e o estanho, no meio do forno, para assoprar o fogo sobre eles, a fim de se fundirem, assim vos ajuntarei na minha ira e no meu furor, e ali vos deixarei e fundirei. ^v20
+**20** Assim como uma coleção de prata, bronze, ferro, chumbo e estanho no meio do forno deve ter fogo soprado contra ela, Eu vou vos derreter. Assim, Eu vos reunirei em Minha ira e fúria. Irei vos colocar lá e soprar o fogo para derretê-la, por isso, irei vos reunir na Minha raiva e na minha ira; lá, Eu vos lançarei fora. ^v20
 
-**21** E congregar-vos-ei, e assoprarei sobre vós o fogo do meu furor; e sereis fundidos no meio dela. ^v21
+**21** Assim, Eu vos reunirei e soprarei com o fogo da Minha ira, de modo que sereis derramados no meio dela. ^v21
 
-**22** Como se funde a prata no meio do forno, assim sereis fundidos no meio dela; e sabereis que eu, o Senhor, derramei o meu furor sobre vós. ^v22
+**22** "Como prata fundida no meio de uma fornalha, eis que vos derretereis no meio dela e sabereis que Eu, Yahweh, derramei a Minha fúria contra vós!'""." ^v22
 
-**23** E veio a mim a palavra do Senhor, dizendo: ^v23
+**23** Veio a mim a palavra de Yahweh, dizendo: ^v23
 
-**24** Filho do homem, dize-lhe: Tu és uma terra que não está purificada; e que não tem chuva no dia da indignação. ^v24
+**24** """Filho do homem, dize-lhe: 'És uma terra que não foi purificada. Não há chuva no dia da ira!" ^v24
 
-**25** Conspiração dos seus profetas há no meio dela, como um leão que ruge, que arrebata a presa; eles devoram as almas; tomam tesouros e coisas preciosas, multiplicam as suas viúvas no meio dela. ^v25
+**25** Há uma conspiração de seus profetas no meio dela, como um leão rugindo rasgando uma vítima. Eles consomem vidas e tomam riquezas preciosas; fazem muitas viúvas dentro dela! ^v25
 
-**26** Os seus sacerdotes violentam a minha lei, e profanam as minhas coisas santas; não fazem diferença entre o santo e o profano, nem discernem o impuro do puro; e de meus sábados escondem os seus olhos, e assim sou profanado no meio deles. ^v26
+**26** Os seus sacerdotes violam a Minha lei e profanam as Minhas coisas santas. Eles não distinguem entre coisas santas e coisas profanas e não ensinam a diferença entre o imundo e o puro. Eles escondem os seus olhos dos Meus sábados para que Eu seja profanado em seu meio. ^v26
 
-**27** Os seus príncipes no meio dela são como lobos que arrebatam a presa, para derramarem sangue, para destruírem as almas, para seguirem a avareza. ^v27
+**27** Seus príncipes dentro dela são como lobos que rasgam suas vítimas. Eles derramam sangue e destroem a vida, para fazer lucro desonestamente. ^v27
 
-**28** E os seus profetas têm feito para eles cobertura com argamassa não temperada, profetizando vaidade, adivinhando-lhes mentira, dizendo: Assim diz o Senhor DEUS; sem que o SENHOR tivesse falado. ^v28
+**28** Os seus profetas nos pintaram com cal; eles veem falsas visões e predizem mentiras para eles. Dizem: 'Declara Yahweh Deus' sendo que Yahweh não falou. ^v28
 
-**29** Ao povo da terra oprimem gravemente, e andam roubando, e fazendo violência ao pobre e necessitado, e ao estrangeiro oprimem sem razão. ^v29
+**29** Então, as pessoas da terra oprimiram pela extorsão e arracam por meio de roubo e maltratam o pobre e o necessitado; oprimem o estrangeiro sem justiça. ^v29
 
-**30** E busquei dentre eles um homem que estivesse tapando o muro, e estivesse na brecha perante mim por esta terra, para que eu não a destruísse; porém a ninguém achei. ^v30
+**30** Assim, procurei por um homem entre eles que construísse uma parede e que estaria diante de Mim em sua brecha para a terra, para que Eu não a destruísse, mas a ninguém encontrei. ^v30
 
-**31** Por isso eu derramei sobre eles a minha indignação; com o fogo do meu furor os consumi; fiz que o seu caminho recaísse sobre a sua cabeça, diz o Senhor DEUS. ^v31
+**31** "Então, derramarei sobre eles a Minha indignação. Eu os exterminarei com o fogo do Meu furor e fiz que o seu caminho recaísse à sua própria cabeça — declara Yahweh Deus'""." ^v31

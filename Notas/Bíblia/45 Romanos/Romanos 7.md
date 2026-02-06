@@ -1,57 +1,56 @@
 ---
-Livro: "[[Romanos|Romanos]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Romanos|Romanos]]"
+tags: [biblia]
 ---
 
 # Romanos 7
 
-**1** Não sabeis vós, irmãos (pois que falo aos que sabem a lei), que a lei tem domínio sobre o homem por todo o tempo que vive? ^v1
+**1** Ou não sabeis, irmãos, que a lei controla o homem enquanto ele vive? Pois falo a pessoas que conhecem a lei. ^v1
 
-**2** Porque a mulher que está sujeita ao marido, enquanto ele viver, está-lhe ligada pela lei; mas, morto o marido, está livre da lei do marido. ^v2
+**2** Pois, pela lei, a mulher casada está ligada ao seu marido enquanto ele viver; mas se seu marido morrer, ela estará livre da lei do casamento. ^v2
 
-**3** De sorte que, vivendo o marido, será chamada adúltera se for de outro marido; mas, morto o marido, livre está da lei, e assim não será adúltera, se for de outro marido. ^v3
+**3** Então, se ela unir-se com outro homem enquanto seu marido estiver vivo, ela será chamada de adúltera. Porém, se seu marido morrer, ela estará livre da lei, de modo que não será adúltera se se casar com outro homem. ^v3
 
-**4** Assim, meus irmãos, também vós estais mortos para a lei pelo corpo de Cristo, para que sejais de outro, daquele que ressuscitou dentre os mortos, a fim de que demos fruto para Deus. ^v4
+**4** Portanto, meus irmãos, vós também fostes mortos para a lei, mediante o corpo de Cristo, de modo que pudésseis pertencer a outro, isto é, Àquele que foi ressuscitado dentre os mortos, a fim de produzirmos frutos para Deus. ^v4
 
-**5** Porque, quando estávamos na carne, as paixões dos pecados, que são pela lei, operavam em nossos membros para darem fruto para a morte. ^v5
+**5** Pois quando estávamos na carne, as paixões pecaminosas, despertadas pela lei, operavam em nossos membros para produzir fruto para a morte. ^v5
 
-**6** Mas agora temos sido libertados da lei, tendo morrido para aquilo em que estávamos retidos; para que sirvamos em novidade de espírito, e não na velhice da letra. ^v6
+**6** Todavia, agora estamos livres da lei. Morremos para aquilo a que estávamos presos, para então servir na novidade do Espírito, e não na velhice da letra. ^v6
 
-**7** Que diremos pois? É a lei pecado? De modo nenhum. Mas eu não conheci o pecado senão pela lei; porque eu não conheceria a concupiscência, se a lei não dissesse: Não cobiçarás. ^v7
+**7** "O que diremos então? É a lei em si pecado? De modo algum. No entanto, eu jamais conheceria o pecado se não fosse através da lei. Por que eu não conheceria a cobiça se a lei não dissesse: ""Não cobiçarás""." ^v7
 
-**8** Mas o pecado, tomando ocasião pelo mandamento, operou em mim toda a concupiscência; porquanto sem a lei estava morto o pecado. ^v8
+**8** Mas o pecado, aproveitando-se da oportunidade dada pelo mandamento, trouxe todo tipo de cobiça em mim. Pois sem a lei, o pecado está morto. ^v8
 
-**9** E eu, nalgum tempo, vivia sem lei, mas, vindo o mandamento, reviveu o pecado, e eu morri. ^v9
+**9** Antes eu vivia sem a lei, mas quando o mandamento veio o pecado reviveu e eu morri. ^v9
 
-**10** E o mandamento que era para vida, achei eu que me era para morte. ^v10
+**10** O mandamento, que era para trazer vida, tornou-se em morte para mim. ^v10
 
-**11** Porque o pecado, tomando ocasião pelo mandamento, me enganou, e por ele me matou. ^v11
+**11** Pois o pecado, aproveitando-se da oportunidade através do mandamento, enganou-me. E através do mandamento, matou-me. ^v11
 
-**12** E assim a lei é santa, e o mandamento santo, justo e bom. ^v12
+**12** Portanto, a lei é santa, e o mandamento é santo, justo e bom. ^v12
 
-**13** Logo tornou-se-me o bom em morte? De modo nenhum; mas o pecado, para que se mostrasse pecado, operou em mim a morte pelo bem; a fim de que pelo mandamento o pecado se fizesse excessivamente maligno. ^v13
+**13** Portanto, o que era bom tornou-se morte para mim? De modo algum. Mas o pecado, para que se mostrasse como pecado por meio do que é bom, produziu em mim a morte. Isso, para que através do mandamento o pecado se revelasse pecaminoso, além da medida. ^v13
 
-**14** Porque bem sabemos que a lei é espiritual; mas eu sou carnal, vendido sob o pecado. ^v14
+**14** Porque sabemos que a lei é espiritual, mas eu sou carnal, vendido como escravo ao pecado. ^v14
 
-**15** Porque o que faço não o aprovo; pois o que quero isso não faço, mas o que aborreço isso faço. ^v15
+**15** Por que o que eu faço, realmente não entendo. Pois o que quero fazer, eu não faço; e o que odeio, eu faço. ^v15
 
-**16** E, se faço o que não quero, consinto com a lei, que é boa. ^v16
+**16** Mas se faço o que não quero, concordo com a lei, que a lei é boa. ^v16
 
-**17** De maneira que agora já não sou eu que faço isto, mas o pecado que habita em mim. ^v17
+**17** Mas agora não sou mais eu quem faz isto, mas o pecado que habita em mim. ^v17
 
-**18** Porque eu sei que em mim, isto é, na minha carne, não habita bem algum; e com efeito o querer está em mim, mas não consigo realizar o bem. ^v18
+**18** Pois sei que em mim, isto é, na minha carne, não habita coisa boa, pois o desejo para o bem está em mim, mas eu não consigo fazê-lo. ^v18
 
-**19** Porque não faço o bem que quero, mas o mal que não quero esse faço. ^v19
+**19** Pois o bem que quero fazer, não faço, mas o mal que não quero, este faço. ^v19
 
-**20** Ora, se eu faço o que não quero, já o não faço eu, mas o pecado que habita em mim. ^v20
+**20** Portanto, se faço o que não quero fazer, então não sou mais eu que estou agindo, mas o pecado que vive em mim. ^v20
 
-**21** Acho então esta lei em mim, que, quando quero fazer o bem, o mal está comigo. ^v21
+**21** Percebo, então, em mim, a lei de querer fazer o que é bom, mas realmente o mal está presente em mim. ^v21
 
-**22** Porque, segundo o homem interior, tenho prazer na lei de Deus; ^v22
+**22** Pois, com o homem interior, me regozijo na lei de Deus. ^v22
 
-**23** Mas vejo nos meus membros outra lei, que batalha contra a lei do meu entendimento, e me prende debaixo da lei do pecado que está nos meus membros. ^v23
+**23** Todavia, vejo uma lei diferente nos membros do meu corpo, que lutam contra uma nova lei em minha mente. Isso me faz prisioneiro da lei do pecado que está nos membros do meu corpo. ^v23
 
-**24** Miserável homem que eu sou! quem me livrará do corpo desta morte? ^v24
+**24** Sou um homem miserável! Quem me livrará deste corpo de morte? ^v24
 
-**25** Dou graças a Deus por Jesus Cristo nosso Senhor. Assim que eu mesmo com o entendimento sirvo à lei de Deus, mas com a carne à lei do pecado. ^v25
+**25** Graças a Deus por Jesus Cristo nosso Senhor! Assim, pois, eu sirvo a lei de Deus com minha mente, contudo, com a carne eu sirvo o princípio do pecado. ^v25

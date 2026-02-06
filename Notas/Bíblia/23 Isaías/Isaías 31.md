@@ -1,25 +1,24 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Isaías|Isaías]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Isaías|Isaías]]"
+tags: [biblia]
 ---
 
 # Isaías 31
 
-**1** Ai dos que descem ao Egito a buscar socorro, e se estribam em cavalos; e têm confiança em carros, porque são muitos; e nos cavaleiros, porque são poderosíssimos; e não atentam para o Santo de Israel, e não buscam ao SENHOR. ^v1
+**1** Ai daqueles que descem para o Egito em busca de ajuda, que dependem de cavalos. Colocam sua confiança em carros, por serem muitos, e em cavaleiros, por serem incontáveis, mas não se preocupam com o Santo de Israel e não buscam Yahweh! ^v1
 
-**2** Todavia também ele é sábio, e fará vir o mal, e não retirará as suas palavras; e levantar-se-á contra a casa dos malfeitores, e contra a ajuda dos que praticam a iniqüidade. ^v2
+**2** Porém, Ele é sábio e trará desastre, e não retirará as Suas palavras. Ele se levantará contra a casa dos perversos e contra aqueles que ajudam os que cometem pecado. ^v2
 
-**3** Porque os egípcios são homens, e não Deus; e os seus cavalos, carne, e não espírito; e quando o Senhor estender a sua mão, tanto tropeçará o auxiliador, como cairá o ajudado, e todos juntamente serão consumidos. ^v3
+**3** Os egípcios são homens, e não Deus. Seus cavalos são carne, e não espírito. Quando Yahweh estender Sua mão, tanto quem ajuda tropeçará, quanto quem busca ajuda cairá; ambos perecerão juntos. ^v3
 
-**4** Porque assim me disse o Senhor: Como o leão e o leãozinho rugem sobre a sua presa, ainda que se convoque contra ele uma multidão de pastores, não se espantam das suas vozes, nem se abatem pela sua multidão, assim o Senhor dos Exércitos descerá, para pelejar sobre o monte Sião, e sobre o seu outeiro. ^v4
+**4** "Isto é o que Yahweh me diz: ""Como um leão, mesmo um jovem leão, que rosna sobre sua presa, não se assusta e nem foge quando um grupo de pastores se reúne contra ele, com suas vozes e barulho, assim Yahweh dos Exércitos descerá para lutar no monte Sião, sobre sua colina." ^v4
 
-**5** Como as aves voam, assim o Senhor dos Exércitos amparará a Jerusalém; ele a amparará, a livrará e, passando, a salvará. ^v5
+**5** Como pássaros em voo, assim Yahweh dos Exércitos protegerá Jerusalém. Yahweh a protegerá e a resgatará; enquanto voa por cima dela, a preservará. ^v5
 
-**6** Convertei-vos, pois, àquele contra quem os filhos de Israel se rebelaram tão profundamente. ^v6
+**6** Voltai-vos para Ele, contra quem vos rebelastes profundamente, povo de Israel. ^v6
 
-**7** Porque naquele dia cada um lançará fora os seus ídolos de prata, e os seus ídolos de ouro, que vos fabricaram as vossas mãos para pecardes, ^v7
+**7** Porque, naquele dia, cada um jogará fora seus ídolos de prata e deuses de ouro, feitos pelas vossas mãos pecaminosas. ^v7
 
-**8** E a Assíria cairá pela espada, não de poderoso homem; e a espada, não de homem desprezível, a consumirá; e fugirá perante a espada e os seus jovens serão tributários. ^v8
+**8** A Assíria cairá pela espada; uma espada, feita não por homens, a consumirá. Ela fugirá da espada e seus jovens serão submetidos a trabalhos forçados. ^v8
 
-**9** E de medo passará a sua rocha, e os seus príncipes terão pavor da bandeira, diz o Senhor, cujo fogo está em Sião e a sua fornalha em Jerusalém. ^v9
+**9** "Eles perderão toda a confiança por causa do terror, e seus príncipes temerão quando virem a bandeira de guerra de Yahweh — essa é a declaração de Yahweh, cujo fogo está em Sião, e cuja fornalha está em Jerusalém""." ^v9

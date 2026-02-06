@@ -1,33 +1,32 @@
 ---
-Livro: "[[1 Coríntios|1 Coríntios]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/1 Coríntios|1 Coríntios]]"
+tags: [biblia]
 ---
 
 # 1 Coríntios 13
 
-**1** Ainda que eu falasse as línguas dos homens e dos anjos, e não tivesse amor, seria como o metal que soa ou como o sino que tine. ^v1
+**1** Mesmo que eu falasse as línguas dos homens e dos anjos, se eu não tivesse amor, seria como um sino que soa ou um címbalo que retine. ^v1
 
-**2** E ainda que tivesse o dom de profecia, e conhecesse todos os mistérios e toda a ciência, e ainda que tivesse toda a fé, de maneira tal que transportasse os montes, e não tivesse amor, nada seria. ^v2
+**2** Mesmo que eu tivesse o dom de profecia e entendesse todas as verdades escondidas e todo o conhecimento e tivesse toda a fé para remover montanhas, se não tivesse amor, eu não seria nada. ^v2
 
-**3** E ainda que distribuísse toda a minha fortuna para sustento dos pobres, e ainda que entregasse o meu corpo para ser queimado, e não tivesse amor, nada disso me aproveitaria. ^v3
+**3** E se eu desse tudo o que possuo para alimentar os pobres e se eu desse o meu corpo para ser queimado, mas não tivesse amor, de nada adiantaria. ^v3
 
-**4** O amor é sofredor, é benigno; o amor não é invejoso; o amor não trata com leviandade, não se ensoberbece. ^v4
+**4** O amor é paciente e bondoso. O amor não inveja, nem se orgulha; não é arrogante, ^v4
 
-**5** Não se porta com indecência, não busca os seus interesses, não se irrita, não suspeita mal; ^v5
+**5** nem rude; não busca os próprios interesses; não se ira facilmente; não leva em conta o mal. ^v5
 
-**6** Não folga com a injustiça, mas folga com a verdade; ^v6
+**6** Não se alegra com a injustiça, mas se alegra com a verdade. ^v6
 
-**7** Tudo sofre, tudo crê, tudo espera, tudo suporta. ^v7
+**7** O amor tudo sofre, tudo crê, tudo espera e tudo suporta. ^v7
 
-**8** O amor nunca falha; mas havendo profecias, serão aniquiladas; havendo línguas, cessarão; havendo ciência, desaparecerá; ^v8
+**8** O amor jamais acaba. Havendo profecias, elas passarão; havendo línguas, elas cessarão; havendo conhecimento, este passará. ^v8
 
-**9** Porque, em parte, conhecemos, e em parte profetizamos; ^v9
+**9** Pois nós conhecemos em parte e em parte profetizamos , ^v9
 
-**10** Mas, quando vier o que é perfeito, então o que o é em parte será aniquilado. ^v10
+**10** mas, quando o que é perfeito vier, aquilo que é em parte passará. ^v10
 
-**11** Quando eu era menino, falava como menino, sentia como menino, discorria como menino, mas, logo que cheguei a ser homem, acabei com as coisas de menino. ^v11
+**11** Quando eu era uma criança, eu falava como criança, pensava como criança, julgava como criança. Quando me tornei um adulto, deixei as coisas de criança. ^v11
 
-**12** Porque agora vemos por espelho em enigma, mas então veremos face a face; agora conheço em parte, mas então conhecerei como também sou conhecido. ^v12
+**12** Por agora, vemos como em espelho, sem clareza, mas depois veremos face a face. Agora eu conheço em parte, mas então conhecerei completamente assim como fui completamente conhecido. ^v12
 
-**13** Agora, pois, permanecem a fé, a esperança e o amor, estes três, mas o maior destes é o amor. ^v13
+**13** Agora permanecem estes três: a fé, a esperança e o amor, mas o maior deles é o amor. ^v13

@@ -1,49 +1,48 @@
 ---
-Livro: "[[Apocalipse|Apocalipse]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Apocalipse|Apocalipse]]"
+tags: [biblia]
 ---
 
 # Apocalipse 16
 
-**1** E ouvi, vinda do templo, uma grande voz, que dizia aos sete anjos: Ide, e derramaisobre a terra as sete taças da ira de Deus. ^v1
+**1** "E ouvi uma alta voz vinda do templo, dizendo aos sete anjos: ""Ide e derramai na terra as sete taças da ira de Deus""." ^v1
 
-**2** E foi o primeiro, e derramou a sua taça sobre a terra, e fez-se uma chaga má e maligna nos homens que tinham o sinal da besta e que adoravam a sua imagem. ^v2
+**2** O primeiro anjo foi e derramou a sua taça sobre a terra, e úlceras malignas e perniciosas vieram sobre as pessoas que tinham a marca da besta, aquelas que adoravam a sua imagem. ^v2
 
-**3** E o segundo anjo derramou a sua taça no mar, que se tornou em sangue como de um morto, e morreu no mar toda a alma vivente. ^v3
+**3** O segundo anjo derramou a sua taça no mar, que se tornou em sangue, como de um morto, e todo ser vivente que havia no mar morreu. ^v3
 
-**4** E o terceiro anjo derramou a sua taça nos rios e nas fontes das águas, e se tornaram em sangue. ^v4
+**4** O terceiro anjo derramou a sua taça nos rios e nas fontes de águas, e se tornaram em sangue. ^v4
 
-**5** E ouvi o anjo das águas, que dizia: Justo és tu, ó Senhor, que és, e que eras, e hás de ser, porque julgaste estas coisas. ^v5
+**5** "Ouvi o anjo das águas dizer: ""Tu és Justo, Aquele que é e que era, o Santo, pois julgaste estas coisas." ^v5
 
-**6** Visto como derramaram o sangue dos santos e dos profetas, também tu lhes deste o sangue a beber; porque disto são merecedores. ^v6
+**6** "Pois eles derramaram o sangue dos santos e dos profetas, e Tu lhes deste sangue para beber, como eles merecem""." ^v6
 
-**7** E ouvi outro do altar, que dizia: Na verdade, ó Senhor Deus Todo-Poderoso, verdadeiros e justos são os teus juízos. ^v7
+**7** "Eu escutei o altar responder: ""Sim, Senhor Deus Todo-Poderoso, os Teus julgamentos são verdadeiros e justos""." ^v7
 
-**8** E o quarto anjo derramou a sua taça sobre o sol, e foi-lhe permitido que abrasasse os homens com fogo. ^v8
+**8** O quarto anjo derramou a sua taça sobre o sol, e foi-lhe dada permissão para queimar os homens com fogo. ^v8
 
-**9** E os homens foram abrasados com grandes calores, e blasfemaram o nome de Deus, que tem poder sobre estas pragas; e não se arrependeram para lhe darem glória. ^v9
+**9** Eles foram queimados pelo terrível calor, e blasfemaram o nome de Deus, que tem poder sobre essas pragas, e não se arrependeram para Lhe darem glória. ^v9
 
-**10** E o quinto anjo derramou a sua taça sobre o trono da besta, e o seu reino se fez tenebroso; e eles mordiam as suas línguas de dor. ^v10
+**10** O quinto anjo derramou a sua taça sobre o trono da besta, e escuridão cobriu o seu reino, e os homens mordiam a própria língua por causa da dor. ^v10
 
-**11** E por causa das suas dores, e por causa das suas chagas, blasfemaram do Deus do céu; e não se arrependeram das suas obras. ^v11
+**11** Eles blasfemaram contra o Deus do céu por causa das suas úlceras, e não se arrependeram pelo que haviam feito. ^v11
 
-**12** E o sexto anjo derramou a sua taça sobre o grande rio Eufrates; e a sua água secou-se, para que se preparasse o caminho dos reis do oriente. ^v12
+**12** O sexto anjo derramou a sua taça no grande rio, o Eufrates, e sua água secou para preparar o caminho para os reis que vêm do lado do nascimento do sol. ^v12
 
-**13** E da boca do dragão, e da boca da besta, e da boca do falso profeta vi sair três espíritos imundos, semelhantes a rãs. ^v13
+**13** Vi três espíritos imundos que pareciam rãs, saindo da boca do dragão, da boca da besta e da boca do falso profeta. ^v13
 
-**14** Porque são espíritos de demônios, que fazem prodígios; os quais vão ao encontro dos reis da terra e de todo o mundo, para os congregar para a batalha, naquele grande dia do Deus Todo-Poderoso. ^v14
+**14** Pois eles são espíritos de demônios que fazem sinais miraculosos. Eles vão ao encontro dos reis de todo o mundo, a fim de ajuntá-los para a batalha do grande dia do Deus Todo-Poderoso. ^v14
 
-**15** Eis que venho como ladrão. Bem-aventurado aquele que vigia, e guarda as suas roupas, para que não ande nu, e não se vejam as suas vergonhas. ^v15
+**15** "(""Eis que venho como um ladrão! Abençoado é aquele que permanece vigiando, mantendo suas vestes consigo, para que não saia nu e vejam sua vergonha"".)" ^v15
 
-**16** E os congregaram no lugar que em hebreu se chama Armagedom. ^v16
+**16** Eles se reuniram no lugar que é chamado em hebraico de Armagedom. ^v16
 
-**17** E o sétimo anjo derramou a sua taça no ar, e saiu grande voz do templo do céu, do trono, dizendo: Está feito. ^v17
+**17** "O sétimo anjo derramou a sua taça no ar. E então uma voz alta saiu do templo e do trono dizendo: ""Está feito!""." ^v17
 
-**18** E houve vozes, e trovões, e relâmpagos, e houve um grande terremoto, como nunca houve desde que há homens sobre a terra; tal foi este tão grande terremoto. ^v18
+**18** Houve relâmpagos, estrondos, trovões, e um terrível terremoto; um terremoto maior do que qualquer um que já tenha ocorrido desde que os homens estão na terra, quão grande foi esse terremoto. ^v18
 
-**19** E a grande cidade fendeu-se em três partes, e as cidades das nações caíram; e da grande babilônia se lembrou Deus, para lhe dar o cálice do vinho da indignação da sua ira. ^v19
+**19** A grande cidade partiu-se em três, e as cidades das nações caíram. Então Deus lembrou-Se da grande Babilônia e deu-lhe o cálice cheio do vinho feito da sua ira furiosa. ^v19
 
-**20** E toda a ilha fugiu; e os montes não se acharam. ^v20
+**20** Todas as ilhas desapareceram e as montanhas não eram mais encontradas. ^v20
 
-**21** E sobre os homens caiu do céu uma grande saraiva, pedras do peso de um talento; e os homens blasfemaram de Deus por causa da praga da saraiva; porque a sua praga era mui grande. ^v21
+**21** Grandes pedras de granizo, pesando cerca de um talento, caíram do céu sobre os homens, e eles amaldiçoaram a Deus pela praga de granizo, pois ela foi terrível. ^v21

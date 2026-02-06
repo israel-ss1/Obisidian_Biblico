@@ -1,67 +1,66 @@
 ---
-Livro: "[[1 Crônicas|1 Crônicas]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/1 Crônicas|1 Crônicas]]"
+tags: [biblia]
 ---
 
 # 1 Crônicas 29
 
-**1** Disse mais o rei Davi a toda a congregação: Salomão, meu filho, a quem só Deus escolheu, é ainda moço e tenro, e esta obra é grande; porque não é o palácio para homem, mas para o SENHOR Deus. ^v1
+**1** "O rei Davi disse a toda assembleia: ""Salomão, meu filho, a quem Deus tem escolhido, ainda é jovem e inexperiente, e a tarefa é grande. Pois o templo não é para o povo, mas para Deus Yahweh." ^v1
 
-**2** Eu, pois, com todas as minhas forças já tenho preparado para a casa de meu Deus ouro para as obras de ouro, e prata para as de prata, e cobre para as de cobre, ferro para as de ferro e madeira para as de madeira, pedras de ônix, e as de engaste, e pedras ornamentais, e pedras de diversas cores, e toda a sorte de pedras preciosas, e pedras de mármore em abundância. ^v2
+**2** Portanto, eu fiz o meu melhor para prover para o templo do meu Deus. Estou dando ouro para as coisas a serem feitas de ouro, prata para as coisas a serem feitas de prata, bronze para as coisas a serem feitas de bronze, ferro para as coisas a serem feitas de ferro, e madeira para as coisas a serem feitas de madeira. Eu também estou dando pedras de ônix, pedras para serem incrustadas, pedras para o trabalho de sobreposição de várias cores, todo tipo de pedras preciosas e pedra mármore em abundância. ^v2
 
-**3** E ainda, porque tenho afeto à casa de meu Deus, o ouro e prata particular que tenho eu dou para a casa do meu Deus, afora tudo quanto tenho preparado para a casa do santuário: ^v3
+**3** Agora, por causa da minha alegria pelo templo do meu Deus, eu estou dando o meu tesouro pessoal de ouro e prata. Estou fazendo isso complementando a tudo o que eu já tenho preparado para este Santo Templo: ^v3
 
-**4** Três mil talentos de ouro de Ofir; e sete mil talentos de prata purificada, para cobrir as paredes das casas. ^v4
+**4** três mil talentos de ouro de Ofir, e sete mil talentos de prata refinada, para revestir as paredes dos cômodos. ^v4
 
-**5** Ouro para os objetos de ouro, e prata para os de prata; e para toda a obra de mão dos artífices. Quem, pois, está disposto a encher a sua mão, para oferecer hoje voluntariamente ao Senhor? ^v5
+**5** Estou doando ouro para as coisas que serão feitas de ouro, e prata para as coisas que serão feitas de prata, e coisas para todos os tipos de trabalho feitos pelos artesãos. Quem mais quer contribuir, voluntariamente, para Yahweh e se consagrar a Ele, hoje? ^v5
 
-**6** Então os chefes dos pais, e os príncipes das tribos de Israel, e os capitães de mil e de cem, até os chefes da obra do rei, voluntariamente contribuíram. ^v6
+**6** Então, foram feitas ofertas voluntárias pelos líderes das famílias dos antepassados, os líderes das tribos de Israel, os comandantes de milhares e de centenas, e pelos oficiais sobre os trabalhos do rei. ^v6
 
-**7** E deram para o serviço da casa de Deus cinco mil talentos de ouro, e dez mil dracmas, e dez mil talentos de prata, e dezoito mil talentos de cobre, e cem mil talentos de ferro. ^v7
+**7** Eles deram, para a obra do templo de Deus, cinco mil talentos e dez mil dáricos de ouro, dez mil talentos de prata, dezoito mil talentos de bronze e cem mil talentos de ferro. ^v7
 
-**8** E os que possuíam pedras preciosas, deram-nas para o tesouro da casa do Senhor, a cargo de Jeiel o gersonita. ^v8
+**8** Aqueles que possuíam pedras preciosas deram-nas para o tesouro do templo de Yahweh, debaixo da supervisão de Jeiel, descendente de Gerson. ^v8
 
-**9** E o povo se alegrou porque contribuíram voluntariamente; porque, com coração perfeito, voluntariamente deram ao Senhor; e também o rei Davi se alegrou com grande alegria. ^v9
+**9** O povo se alegrou por causa das ofertas voluntárias, porque eles tinham contribuído com sinceridade para Yahweh. O rei Davi também se alegrou grandemente. ^v9
 
-**10** Por isso Davi louvou ao Senhor na presença de toda a congregação; e disse Davi: Bendito és tu, Senhor Deus de Israel, nosso pai, de eternidade em eternidade. ^v10
+**10** "Davi bendisse a Yahweh diante de toda a assembleia. Ele disse: ""Seja louvado Yahweh, Deus de nosso antepassado Israel, para sempre e sempre." ^v10
 
-**11** Tua é, Senhor, a magnificência, e o poder, e a honra, e a vitória, e a majestade; porque teu é tudo quanto há nos céus e na terra; teu é, Senhor, o reino, e tu te exaltaste por cabeça sobre todos. ^v11
+**11** Tua, Yahweh, é a grandeza, o poder, a glória, a vitória e a majestade. Porque tudo o que está nos céus e na terra é Teu. Teu é o reino, Yahweh, e Tu és exaltado como soberano sobre tudo. ^v11
 
-**12** E riquezas e glória vêm de diante de ti, e tu dominas sobre tudo, e na tua mão há força e poder; e na tua mão está o engrandecer e o dar força a tudo. ^v12
+**12** Tanto riquezas como honra vêm de Ti, e Tu dominas sobre todos os povos. Nas Tuas mãos, estão o poder e a força. Tu possuis a força e o poder de engrandecer as pessoas e dar força a quem quiser. ^v12
 
-**13** Agora, pois, ó Deus nosso, graças te damos, e louvamos o nome da tua glória. ^v13
+**13** Agora, então, nosso Deus, nós Te agradecemos e louvamos o Teu glorioso Nome. ^v13
 
-**14** Porque quem sou eu, e quem é o meu povo, para que pudéssemos oferecer voluntariamente coisas semelhantes? Porque tudo vem de ti, e do que é teu to damos. ^v14
+**14** Mas quem sou eu, e quem é o meu povo, para que pudéssemos ser capazes de oferecer tão voluntariamente estas coisas? Na verdade, todas as coisas vêm de Ti, e nós simplesmente Te devolvemos o que é Teu. ^v14
 
-**15** Porque somos estrangeiros diante de ti, e peregrinos como todos os nossos pais; como a sombra são os nossos dias sobre a terra, e sem ti não há esperança. ^v15
+**15** Porque nós somos estranhos e peregrinos diante de Ti, assim como foram todos os nossos antepassados. Nossos dias na terra são como uma sombra, e não há esperança em permanecer na terra. ^v15
 
-**16** Senhor, nosso Deus, toda esta abundância, que preparamos, para te edificar uma casa ao teu santo nome, vem da tua mão, e é toda tua. ^v16
+**16** Yahweh, nosso Deus, toda essa riqueza que nós coletamos para construir o templo, em honra ao Teu Santo Nome — ela vem de Ti e pertence a Ti. ^v16
 
-**17** E bem sei eu, Deus meu, que tu provas os corações, e que da sinceridade te agradas; eu também na sinceridade de meu coração voluntariamente dei todas estas coisas; e agora vi com alegria que o teu povo, que se acha aqui, voluntariamente te deu. ^v17
+**17** Eu também sei, meu Deus, que Tu examinas o coração e tem prazer na retidão. Quanto a mim, na retidão do meu coração eu ofereci, voluntariamente, todas essas coisas, e agora vejo com alegria que o Teu povo que está presente aqui, voluntariamente, oferece presentes a Ti. ^v17
 
-**18** Senhor Deus de Abraão, Isaque, e Israel, nossos pais, conserva isto para sempre no intento dos pensamentos do coração de teu povo; e encaminha o seu coração para ti. ^v18
+**18** Yahweh, Deus de Abraão, Isaque e Israel — nossos antepassados — preserva isto para sempre na mente do Teu povo. Orienta os corações deles na Tua direção. ^v18
 
-**19** E a Salomão, meu filho, dá um coração perfeito, para guardar os teus mandamentos, os teus testemunhos, e os teus estatutos; e para fazer tudo, e para edificar este palácio que tenho preparado. ^v19
+**19** "Dá a Salomão, meu filho, o desejo de todo o coração para guardar os Teus mandamentos, os decretos da Tua Aliança e Teus estatutos, e cumprir todos esses planos de construir o palácio para o qual eu tenho feito provisão""." ^v19
 
-**20** Então disse Davi a toda a congregação: Agora louvai ao Senhor vosso Deus. Então toda a congregação louvou ao Senhor Deus de seus pais, e inclinaram-se, e prostraram-se perante o Senhor, e o rei. ^v20
+**20** "Davi disse a toda assembleia: ""Agora, bendiga Yahweh, seu Deus"". Toda a assembleia bendisse a Yahweh, o Deus de seus antepassados; curvaram suas cabeças e adoraram Yahweh e prostraram-se diante do rei." ^v20
 
-**21** E ao outro dia imolaram sacrifícios ao Senhor, e ofereceram holocaustos ao Senhor, mil bezerros, mil carneiros, mil cordeiros, com as suas libações; e sacrifícios em abundância por todo o Israel. ^v21
+**21** No dia seguinte, eles fizeram sacrifícios a Yahweh e ofereceram ofertas queimadas a Ele. Eles ofereceram mil touros, mil carneiros, e mil cordeiros, com suas ofertas de vinho e seus sacrifícios em abundância por todo Israel. ^v21
 
-**22** E comeram e beberam naquele dia perante o Senhor, com grande gozo; e a segunda vez fizeram rei a Salomão filho de Davi, e o ungiram ao Senhor por líder, e a Zadoque por sacerdote. ^v22
+**22** Naquele dia, eles comeram e beberam diante de Yahweh, com grande celebração. Eles fizeram a Salomão, filho de Davi, rei pela segunda vez, e o ungiram com a autoridade de Yahweh para governar. Eles também ungiram Zadoque para ser sacerdote. ^v22
 
-**23** Assim Salomão se assentou no trono do Senhor, como rei, em lugar de Davi seu pai, e prosperou; e todo o Israel lhe obedecia. ^v23
+**23** Então, Salomão se assentou no trono de Yahweh, como rei no lugar de seu pai, Davi. Ele prosperou, e todo Israel obedeceu a ele. ^v23
 
-**24** E todos os príncipes, e os grandes, e até todos os filhos do rei Davi, se submeteram ao rei Salomão. ^v24
+**24** Todos os líderes, soldados, e os filhos do rei Davi foram leais ao rei Salomão. ^v24
 
-**25** E o Senhor magnificou a Salomão grandissimamente, perante os olhos de todo o Israel; e deu-lhe majestade real, qual antes dele não teve nenhum rei em Israel. ^v25
+**25** Yahweh honrou grandemente a Salomão diante de todo Israel e conferiu a ele maior poder do que jamais havia dado a qualquer rei diante Dele em Israel. ^v25
 
-**26** Assim Davi, filho de Jessé, reinou sobre todo o Israel. ^v26
+**26** Davi, filho de Jessé reinou sobre todo Israel. ^v26
 
-**27** E foram os dias que reinou sobre Israel, quarenta anos; em Hebrom reinou sete anos, e em Jerusalém reinou trinta e três. ^v27
+**27** Davi foi rei de Israel por quarenta anos. Ele reinou por sete anos em Hebrom e por trinta e três anos em Jerusalém. ^v27
 
-**28** E morreu numa boa velhice, cheio de dias, riquezas e glória; e Salomão, seu filho, reinou em seu lugar. ^v28
+**28** Ele morreu em boa velhice, depois de uma vida longa, com riquezas e honra. Salomão, seu filho, o sucedeu. ^v28
 
-**29** Os atos, pois, do rei Davi, assim os primeiros como os últimos, eis que estão escritos nas crônicas de Samuel, o vidente, e nas crônicas do profeta Natã, e nas crônicas de Gade, o vidente, ^v29
+**29** Os feitos do rei Davi estão escritos na história de Samuel, o profeta, na história de Natã, o profeta, e na história de Gade, o profeta. ^v29
 
-**30** Juntamente com todo o seu reinado e o seu poder; e os tempos que passaram sobre ele, e sobre Israel, e sobre todos os reinos daquelas terras. ^v30
+**30** Lá estão registradas as obras do seu governo, seus feitos e os eventos que afetaram a ele, Israel e todos os reinos das outras terras. ^v30

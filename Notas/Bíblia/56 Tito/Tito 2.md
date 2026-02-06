@@ -1,37 +1,36 @@
 ---
-Livro: "[[Tito|Tito]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Tito|Tito]]"
+tags: [biblia]
 ---
 
 # Tito 2
 
-**1** Tu, porém, fala o que convém à sã doutrina. ^v1
+**1** Tu, porém, fala o que está de acordo com a sã doutrina. ^v1
 
-**2** Os velhos, que sejam sóbrios, graves, prudentes, sãos na fé, no amor, e na paciência; ^v2
+**2** Os homens mais velhos devem ser moderados, respeitáveis, sensatos, sadios na fé, no amor e na perseverança. ^v2
 
-**3** As mulheres idosas, semelhantemente, que sejam sérias no seu viver, como convém a santas, não caluniadoras, não dadas a muito vinho, mestras no bem; ^v3
+**3** As mulheres mais velhas, da mesma forma, devem viver de maneira reverente, não serem caluniadoras, nem escravas do vinho. Que elas ensinem o que é bom, ^v3
 
-**4** Para que ensinem as mulheres novas a serem prudentes, a amarem seus maridos, a amarem seus filhos, ^v4
+**4** a fim de encorajar as mulheres mais jovens a serem equilibradas em seu pensar, a amarem os seus próprios maridos e seus filhos, ^v4
 
-**5** A serem moderadas, castas, boas donas de casa, sujeitas a seus maridos, a fim de que a palavra de Deus não seja blasfemada. ^v5
+**5** a serem sensatas, puras, boas donas de casa e sujeitas ao marido, a fim de que a palavra de Deus não seja blasfemada. ^v5
 
-**6** Exorta semelhantemente os jovens a que sejam moderados. ^v6
+**6** Do mesmo modo, exorta os mais jovens a serem sensatos. ^v6
 
-**7** Em tudo te dá por exemplo de boas obras; na doutrina mostra incorrupção, gravidade, sinceridade, ^v7
+**7** Em todas as coisas, apresenta-te como modelo de boas obras; ao ensinar, mostra pureza e dignidade, ^v7
 
-**8** Linguagem sã e irrepreensível, para que o adversário se envergonhe, não tendo nenhum mal que dizer de nós. ^v8
+**8** use palavras sadias e irrepreensíveis, para que seja envergonhado todo aquele que tentar se opor a ti, não tendo nada de mal a dizer sobre nós. ^v8
 
-**9** Exorta os servos a que se sujeitem a seus senhores, e em tudo agradem, não contradizendo, ^v9
+**9** Os escravos sejam em tudo obedientes aos seus senhores, satisfazendo-lhes em tudo, e não sejam respondões; ^v9
 
-**10** Não defraudando, antes mostrando toda a boa lealdade, para que em tudo sejam ornamento da doutrina de Deus, nosso Salvador. ^v10
+**10** não roubem, mas mostrem que são bons e fiéis, a fim de honrarem, em tudo, a doutrina de Deus, nosso Salvador. ^v10
 
-**11** Porque a graça salvadora de Deus se há manifestado a todos os homens, ^v11
+**11** Pois a graça de Deus manifestou-se para a salvação de todos os homens, ^v11
 
-**12** Ensinando-nos que, renunciando à impiedade e às concupiscências mundanas, vivamos neste presente século sóbria, e justa, e piamente, ^v12
+**12** e nos ensina a abandonarmos a impiedade e as paixões mundanas, a vivermos de maneira justa e piedosa no presente século, ^v12
 
-**13** Aguardando a bem-aventurada esperança e o aparecimento da glória do grande Deus e nosso Senhor Jesus Cristo; ^v13
+**13** aguardando a bendita esperança e o aparecimento da glória do nosso grande Deus e Salvador, Cristo Jesus. ^v13
 
-**14** O qual se deu a si mesmo por nós para nos remir de toda a iniqüidade, e purificar para si um povo seu especial, zeloso de boas obras. ^v14
+**14** O qual Se deu a Si mesmo por nós, a fim de pagar o preço para nos libertar da iniquidade e nos tornar puros para Si mesmo, um povo exclusivamente Seu, zeloso de boas obras. ^v14
 
-**15** Fala disto, e exorta e repreende com toda a autoridade. Ninguém te despreze. ^v15
+**15** Ensina essas coisas, exorta e repreende com toda a autoridade. E que ninguém te despreze. ^v15

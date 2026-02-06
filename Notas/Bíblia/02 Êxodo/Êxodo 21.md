@@ -1,79 +1,78 @@
 ---
-Livro: "[[Êxodo|Êxodo]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Êxodo|Êxodo]]"
+tags: [biblia]
 ---
 
 # Êxodo 21
 
-**1** Estes são os estatutos que lhes proporás. ^v1
+**1** """Agora estes são os Decretos que deverás dizer ao povo:" ^v1
 
-**2** Se comprares um servo hebreu, seis anos servirá; mas ao sétimo sairá livre, de graça. ^v2
+**2** 'Se comprares um escravo hebreu, ele trabalhará por seis anos e, no sétimo ano, será liberto sem nenhum pagamento por isso. ^v2
 
-**3** Se entrou só com o seu corpo, só com o seu corpo sairá; se ele era homem casado, sua mulher sairá com ele. ^v3
+**3** Se ele veio por si mesmo, assim deverá ser liberto; se for casado, então sua esposa será liberta com ele. ^v3
 
-**4** Se seu senhor lhe houver dado uma mulher e ela lhe houver dado filhos ou filhas, a mulher e seus filhos serão de seu senhor, e ele sairá sozinho. ^v4
+**4** Se seu senhor der a ele uma esposa e ela gerar filhos ou filhas, então a esposa e as crianças pertencerão ao senhor, e ele deverá ir livre sozinho. ^v4
 
-**5** Mas se aquele servo expressamente disser: Eu amo a meu senhor, e a minha mulher, e a meus filhos; não quero sair livre, ^v5
+**5** "Mas, se o escravo disser claramente: ""Eu amo minha família e meu senhor; eu não irei livre""," ^v5
 
-**6** Então seu senhor o levará aos juízes, e o fará chegar à porta, ou ao umbral da porta, e seu senhor lhe furará a orelha com uma sovela; e ele o servirá para sempre. ^v6
+**6** então, seu senhor deverá levá-lo perante Deus, e o colocará na porta ou portal, furará sua orelha com uma agulha espessa. Assim, o servo será seu escravo pelo resto de sua vida. ^v6
 
-**7** E se um homem vender sua filha para ser serva, ela não sairá como saem os servos. ^v7
+**7** Se um homem vender sua filha como escrava, ela não será liberta como os servos. ^v7
 
-**8** Se ela não agradar ao seu senhor, e ele não se desposar com ela, fará que se resgate; não poderá vendê-la a um povo estranho, agindo deslealmente com ela. ^v8
+**8** Se ela não agradar a seu senhor, o qual a designou para si, o senhor deve permiti-la ser comprada de volta. Ele não tem o direito de vendê-la a um estrangeiro. Ele não tem esse direito, já que a tratou de forma desonrosa. ^v8
 
-**9** Mas se a desposar com seu filho, fará com ela conforme ao direito das filhas. ^v9
+**9** Se o senhor designá-la como esposa para seu filho, ele deverá tratá-la como se ela fosse sua filha. ^v9
 
-**10** Se lhe tomar outra, não diminuirá o mantimento desta, nem o seu vestido, nem a sua obrigação marital. ^v10
+**10** Se o filho a rejeitar como esposa e tomar outra esposa para si, ele não deve diminuir sua comida, vestimenta ou seus direitos conjugais. ^v10
 
-**11** E se lhe não fizer estas três coisas, sairá de graça, sem dar dinheiro. ^v11
+**11** Mas, se o esposo não cumprir quanto a essas três coisas para ela, então ela poderá ser livre sem pagar nenhuma quantia. ^v11
 
-**12** Quem ferir alguém, de modo que este morra, certamente será morto. ^v12
+**12** Qualquer um que ferir um homem de tal forma que ele morra, deverá ser condenado à morte. ^v12
 
-**13** Porém se lhe não armou cilada, mas Deus lho entregou nas mãos, ordenar-te-ei um lugar para onde fugirá. ^v13
+**13** Se o homem não o fizer com intenção, mas acidentalmente, então irei designar um lugar para onde ele poderá fugir. ^v13
 
-**14** Mas se alguém agir premeditadamente contra o seu próximo, matando-o à traição, tirá-lo-ás do meu altar, para que morra. ^v14
+**14** Se um homem atacar intencionalmente seu vizinho e o matar, então tu terás que tirá-lo, ainda que esteja no altar de Deus, para que ele morra. ^v14
 
-**15** O que ferir a seu pai, ou a sua mãe, certamente será morto. ^v15
+**15** Qualquer um que ferir seu pai ou sua mãe, certamente será condenado à morte. ^v15
 
-**16** E quem raptar um homem, e o vender, ou for achado na sua mão, certamente será morto. ^v16
+**16** Qualquer um que sequestrar uma pessoa e vendê-la, ou for encontrada em seu poder, deverá ser condenado à morte. ^v16
 
-**17** E quem amaldiçoar a seu pai ou a sua mãe, certamente será morto. ^v17
+**17** Qualquer um que amaldiçoar seu pai ou mãe deverá ser condenado à morte. ^v17
 
-**18** E se dois homens pelejarem, ferindo-se um ao outro com pedra ou com o punho, e este não morrer, mas cair na cama, ^v18
+**18** Se homens brigarem, e um ferir o outro com uma pedra ou com socos, sem matá-lo, mas deixá-lo de cama; ^v18
 
-**19** Se ele tornar a levantar-se e andar fora, sobre o seu bordão, então aquele que o feriu será absolvido; somente lhe pagará o tempo que perdera e o fará curar totalmente. ^v19
+**19** e este voltar a andar apoiado em seu bordão, o homem que feriu deverá pagar pelo tempo perdido, assim como pela sua completa recuperação, mas o homem não será culpado de assassinato. ^v19
 
-**20** Se alguém ferir a seu servo, ou a sua serva, com pau, e morrer debaixo da sua mão, certamente será castigado; ^v20
+**20** Se um homem ferir seu servo ou sua serva com seu cajado e o servo chegar a morrer pelo golpe, aquele homem deverá ser punido. ^v20
 
-**21** Porém se sobreviver por um ou dois dias, não será castigado, porque é dinheiro seu. ^v21
+**21** Entretanto, se o servo sobreviver por um ou dois dias, o senhor não será punido, porque já sofreu a perda de seu escravo. ^v21
 
-**22** Se alguns homens pelejarem, e um ferir uma mulher grávida, e for causa de que aborte, porém não havendo outro dano, certamente será multado, conforme o que lhe impuser o marido da mulher, e julgarem os juízes. ^v22
+**22** Se homens lutarem e acabarem por machucar uma mulher grávida e esta chegar a perder seu bebê, não havendo outro dano a ela, certamente o culpado deverá indenizá-la se seu marido exigir, e pagará conforme o juiz determinar. ^v22
 
-**23** Mas se houver morte, então darás vida por vida, ^v23
+**23** Mas, se houver dano sério, deverás pagar a vida com outra vida, ^v23
 
-**24** Olho por olho, dente por dente, mão por mão, pé por pé, ^v24
+**24** olho por olho, dente por dente, mão por mão, pé por pé, ^v24
 
-**25** Queimadura por queimadura, ferida por ferida, golpe por golpe. ^v25
+**25** queimadura por queimadura, ferimento por ferimento, hematoma por hematoma. ^v25
 
-**26** E quando alguém ferir o olho do seu servo, ou o olho da sua serva, e o danificar, o deixará ir livre pelo seu olho. ^v26
+**26** Se um homem ferir o olho de seu escravo ou escrava e destruí-lo, o senhor o deixará ir livre por seu olho destruído. ^v26
 
-**27** E se tirar o dente do seu servo, ou o dente da sua serva, o deixará ir livre pelo seu dente. ^v27
+**27** Se arrancar um dente, também o libertará em compensação por seu dente. ^v27
 
-**28** E se algum boi escornear homem ou mulher, que morra, o boi será apedrejado certamente, e a sua carne não se comerá; mas o dono do boi será absolvido. ^v28
+**28** Se um boi fere com seu chifre um homem ou uma mulher causando-lhes a morte, o boi deverá ser apedrejado até a morte, e sua carne não deverá ser comida; mas seu dono será absolvido de culpa. ^v28
 
-**29** Mas se o boi dantes era escorneador, e o seu dono foi conhecedor disso, e não o guardou, matando homem ou mulher, o boi será apedrejado, e também o seu dono morrerá. ^v29
+**29** Mas, se o boi já tinha o hábito de ferir no passado, e seu dono tinha conhecimento e não tomou nenhuma providência, e o boi matar um homem ou uma mulher, o boi deverá ser apedrejado e seu dono morto. ^v29
 
-**30** Se lhe for imposto resgate, então dará por resgate da sua vida tudo quanto lhe for imposto, ^v30
+**30** Se for pedido resgate por sua vida, ele deverá pagar com o que lhe for pedido. ^v30
 
-**31** Quer tenha escorneado um filho, quer tenha escorneado uma filha; conforme a este estatuto lhe será feito. ^v31
+**31** Se um boi ferir com chifre o filho ou a filha de um homem, o dono do boi deverá fazer o que este decreto exige que ele faça. ^v31
 
-**32** Se o boi escornear um servo, ou uma serva, dar-se-á trinta siclos de prata ao seu senhor, e o boi será apedrejado. ^v32
+**32** Se um boi ferir um escravo ou uma escrava, o dono do boi certamente pagará trinta siclos de prata ao seu senhor, e seu boi deverá ser apedrejado. ^v32
 
-**33** Se alguém abrir uma cova, ou se alguém cavar uma cova, e não a cobrir, e nela cair um boi ou um jumento, ^v33
+**33** Se alguém cavar uma cisterna, ou abrir e não tampá-la, e um boi ou jumento cair nela, ^v33
 
-**34** O dono da cova o pagará; pagará em dinheiro ao seu dono, mas o animal morto será seu. ^v34
+**34** o dono da cisterna certamente indenizará ao dono do animal pelo dano, e o animal morto passará a ser seu. ^v34
 
-**35** Se o boi de alguém ferir o boi do seu próximo, e morrer, então se venderá o boi vivo, e o dinheiro dele se repartirá igualmente, e também repartirão entre si o boi morto. ^v35
+**35** Se um boi de um homem ferir o boi de outro homem de modo que ele morra, então venderá o boi vivo e dividirá o valor entre os donos, e eles também deverão dividir a carne do boi morto. ^v35
 
-**36** Mas se foi notório que aquele boi antes era escorneador, e seu dono não o guardou, certamente pagará boi por boi; porém o morto será seu. ^v36
+**36** Mas, se era sabido que o boi já tinha o hábito de ferir no passado, e seu dono não tomou providências, ele deverá pagar animal por animal, e o boi morto se tornará dele. ^v36

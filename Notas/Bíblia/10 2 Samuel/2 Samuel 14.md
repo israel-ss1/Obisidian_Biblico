@@ -1,73 +1,72 @@
 ---
-Livro: "[[2 Samuel|2 Samuel]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/2 Samuel|2 Samuel]]"
+tags: [biblia]
 ---
 
 # 2 Samuel 14
 
-**1** Conhecendo, pois, Joabe, filho de Zeruia, que o coração do rei estava inclinado para Absalão, ^v1
+**1** Joabe, filho de Zeruia, percebeu que o coração do rei desejava ver Absalão. ^v1
 
-**2** Enviou Joabe a Tecoa, e tomou de lá uma mulher e disse-lhe: Ora, finge que estás de luto; veste roupas de luto, e não te unjas com óleo, e sê como uma mulher que há já muitos dias está de luto por algum morto. ^v2
+**2** "Então, Joabe mandou trazer, de Tecoa, uma mulher sábia. Ele disse a ela: ""Por favor, finge que estás de luto e põe vestes de luto. Não te unjas com óleo; antes, finge ser uma mulher que há muito pranteia pelo falecido." ^v2
 
-**3** E vai ao rei, e fala-lhe conforme a esta palavra. E Joabe lhe pôs as palavras na boca. ^v3
+**3** "Depois, vai até o rei e fala sobre o que descreverei"". Então, Joabe disse a ela as palavras que ela deveria dizer ao rei." ^v3
 
-**4** E a mulher tecoíta falou ao rei, e, deitando-se com o rosto em terra, se prostrou e disse: Salva-me, ó rei. ^v4
+**4** "Quando a mulher de Tecoa falou com o rei, ela se prostrou com o rosto no chão e disse: ""Ajuda-me, rei!""." ^v4
 
-**5** E disse-lhe o rei: Que tens? E disse ela: Na verdade sou mulher viúva; morreu meu marido. ^v5
+**5** "O rei disse a ela: ""O que está errado?"". Ela respondeu: ""A verdade é que sou uma viúva, meu marido está morto." ^v5
 
-**6** Tinha, pois, a tua serva dois filhos, e estes brigaram entre si no campo, e não houve quem os apartasse; assim um feriu ao outro, e o matou. ^v6
+**6** Eu, tua serva, tive dois filhos. Eles brigaram entre si no campo, e não havia ninguém que os separasse. Um feriu o outro e o matou. ^v6
 
-**7** E eis que toda a linhagem se levantou contra a tua serva, e disseram: Dá-nos aquele que feriu a seu irmão, para que o matemos, por causa da vida de seu irmão, a quem matou, e para que destruamos também ao herdeiro. Assim apagarão a brasa que me ficou, de sorte que não deixam a meu marido nome, nem remanescente sobre a terra. ^v7
+**7** "Agora, todo o clã se levantou contra a tua serva, dizendo: 'Entrega-nos o homem que matou seu irmão, para que o matemos, para pagar pela vida de seu irmão, a quem ele matou'. Assim, eles matariam também o herdeiro. Desse modo, eles apagarão também a brasa que me restou, não deixando ao meu marido nem nome, nem descendência na face da terra""." ^v7
 
-**8** E disse o rei à mulher: Vai para tua casa; e eu mandarei ordem acerca de ti. ^v8
+**8** "Então, o rei disse à mulher: ""Vai para a tua casa, e eu ordenarei que algo seja feito por ti.""" ^v8
 
-**9** E disse a mulher tecoíta ao rei: A injustiça, rei meu senhor, venha sobre mim e sobre a casa de meu pai; e o rei e o seu trono fique inculpável. ^v9
+**9** "A mulher de Tecoa replicou: ""Ó rei, meu senhor, que toda a culpa recaia sobre mim e sobre a família de meu pai. O rei e seu trono sejam inocentes""." ^v9
 
-**10** E disse o rei: Quem falar contra ti, traze-mo a mim; e nunca mais te tocará. ^v10
+**10** "O rei respondeu: ""Qualquer um que disser alguma coisa a ti, traz a mim, e não mais te importunará""." ^v10
 
-**11** E disse ela: Ora, lembre-se o rei do Senhor seu Deus, para que os vingadores do sangue não prossigam na destruição, e não exterminem a meu filho. Então disse ele: Vive o Senhor, que não há de cair no chão nem um dos cabelos de teu filho. ^v11
+**11** "Então, ela disse: ""Por favor, ó rei, lembra-te de Yahweh, teu Deus, para que o vingador do sangue não destrua mais ninguém, a fim de que não destrua o meu filho"". O rei replicou: ""Tão certo quanto Yahweh vive, nem um fio de cabelo de teu filho cairá no chão""." ^v11
 
-**12** Então disse a mulher: Peço-te que a tua serva fale uma palavra ao rei meu senhor. E disse ele: Fala. ^v12
+**12** "Então, a mulher disse: ""Por favor, deixa que a tua serva diga mais uma coisa ao rei, meu senhor"". Disse ele: ""Pois fala""." ^v12
 
-**13** E disse a mulher: Por que, pois, pensaste tu uma tal coisa contra o povo de Deus? Porque, falando o rei tal palavra, fica como culpado; visto que o rei não torna a trazer o seu desterrado. ^v13
+**13** "A mulher disse: ""Por que pensas tal coisa contra o povo de Deus? Ao dizer isso, o rei se culpou por não ter trazido para casa seu filho banido." ^v13
 
-**14** Porque certamente morreremos, e seremos como águas derramadas na terra que não se ajuntam mais; Deus, pois, lhe não tirará a vida, mas cogita meios, para que não fique banido dele o seu desterrado. ^v14
+**14** Pois é certo que todos morreremos, e somos como água derramada no chão, que não se pode ajuntar novamente. Porém, Deus não tira a vida; ao invés disso, Ele acha uma forma de fazer retornarem aqueles que foram expulsos. ^v14
 
-**15** E se eu agora vim falar esta palavra ao rei, meu senhor, é porque o povo me atemorizou; dizia, pois, a tua serva: Falarei, pois, ao rei; porventura fará o rei segundo a palavra da sua serva. ^v15
+**15** Se agora vim falar essa palavra ao rei, meu senhor, é porque as pessoas me amedrontaram. Então, tua serva disse a si mesma: 'Falarei agora com o rei. Pode ser que o rei atenda ao pedido de sua serva. ^v15
 
-**16** Porque o rei ouvirá, para livrar a sua serva da mão do homem que intenta destruir juntamente a mim e a meu filho da herança de Deus. ^v16
+**16** Pois o rei me ouvirá, a fim de tirar sua serva das mãos do homem que queria destruir a mim e ao meu filho, e nos tirar da herança de Deus'. ^v16
 
-**17** Dizia mais a tua serva: Seja agora a palavra do rei meu senhor para descanso; porque como um anjo de Deus, assim é o rei, meu senhor, para ouvir o bem e o mal; e o SENHOR teu Deus será contigo. ^v17
+**17** "Então, a tua serva orou: 'Yahweh, por favor, permite que a palavra do rei, o meu senhor, me alivie; como um anjo de Deus, assim o meu senhor, o rei, está discernindo o bem do mal'. Que Yahweh, teu Deus, esteja contigo""." ^v17
 
-**18** Então respondeu o rei, e disse à mulher: Peço-te que não me encubras o que eu te perguntar. E disse a mulher: Ora fale o rei, meu senhor. ^v18
+**18** "O rei respondeu à mulher: ""Por favor, não escondas de mim nada do que te perguntarei"". A mulher replicou: ""Que o rei, meu senhor, fale agora""." ^v18
 
-**19** E disse o rei: Não é verdade que a mão de Joabe anda contigo em tudo isto? E respondeu a mulher, e disse: Vive a tua alma, ó rei meu senhor, que ninguém se poderá desviar, nem para a direita nem para a esquerda, de tudo quanto o rei, meu senhor, tem falado: Porque Joabe, teu servo, é quem me deu ordem, e foi ele que pôs na boca da tua serva todas estas palavras: ^v19
+**19** "O rei disse: ""Acaso não está a mão de Joabe contigo em tudo isso?"". A mulher respondeu, dizendo: ""Assim como tu vives, ó rei, meu senhor, ninguém pode escapar, para a direita nem para a esquerda, de nada que o rei, meu senhor, tenha dito. Foi o teu servo Joabe que me mandou e me disse para falar estas coisas que tua serva disse." ^v19
 
-**20** Para mudar o aspecto deste caso foi que o teu servo Joabe fez isto; porém sábio é meu senhor, conforme à sabedoria de um anjo de Deus, para entender tudo o que há na terra. ^v20
+**20** "O teu servo Joabe fez isso para mudar o curso do que está acontecendo. Meu senhor é sábio, como a sabedoria de um anjo de Deus, para entender tudo o que está acontecendo na terra""." ^v20
 
-**21** Então o rei disse a Joabe: Eis que fiz isto; vai, pois, e torna a trazer o jovem Absalão. ^v21
+**21** "Então, o rei disse a Joabe: ""Vê agora, eu farei assim. Vai, portanto, e traz de volta o jovem Absalão""." ^v21
 
-**22** Então Joabe se prostrou sobre o seu rosto em terra, e se inclinou, e agradeceu ao rei; e disse Joabe: Hoje conhece o teu servo que achei graça aos teus olhos, ó rei meu senhor, porque o rei fez segundo a palavra do teu servo. ^v22
+**22** "Então, Joabe se prostrou com o rosto no chão, em honra e gratidão ao rei. Joabe disse: ""Hoje o teu servo sabe que achou graça aos teus olhos, rei, senhor meu, porque o rei atendeu ao pedido do teu servo""." ^v22
 
-**23** Levantou-se, pois, Joabe, e foi a Gesur, e trouxe Absalão a Jerusalém. ^v23
+**23** Então, Joabe se levantou, foi à Gesur e trouxe Absalão de volta a Jerusalém. ^v23
 
-**24** E disse o rei: Torne para a sua casa, e não veja a minha face. Tornou, pois, Absalão para sua casa, e não viu a face do rei. ^v24
+**24** "O rei disse: ""Ele poderá retornar à sua casa; porém, não poderá ver a minha face"". Então, Absalão retornou à sua casa, mas não viu a face do rei." ^v24
 
-**25** Não havia, porém, em todo o Israel homem tão belo e tão aprazível como Absalão; desde a planta do pé até à cabeça não havia nele defeito algum. ^v25
+**25** Em todo o Israel, não havia ninguém mais aprazível e belo do que Absalão. Da sola de seu pé ao topo de sua cabeça, não havia nele defeito algum. ^v25
 
-**26** E, quando tosquiava a sua cabeça (e sucedia que no fim de cada ano a tosquiava, porquanto muito lhe pesava, e por isso a tosquiava), pesava o cabelo da sua cabeça duzentos siclos, segundo o peso real. ^v26
+**26** Quando ele cortava o cabelo, ao final de cada ano, por lhe ser pesado, e o pesava, dava cerca de duzentos siclos, segundo a medida real. ^v26
 
-**27** Também nasceram a Absalão três filhos e uma filha, cujo nome era Tamar; e esta era mulher formosa à vista. ^v27
+**27** De Absalão nasceram três filhos e uma filha, cujo nome era Tamar. Ela era uma bela mulher. ^v27
 
-**28** Assim ficou Absalão dois anos inteiros em Jerusalém, e não viu a face do rei. ^v28
+**28** Absalão viveu dois anos inteiros em Jerusalém sem ver a face do rei. ^v28
 
-**29** Mandou, pois, Absalão chamar a Joabe, para o enviar ao rei; porém não quis vir a ele; e enviou ainda segunda vez e, contudo, não quis vir. ^v29
+**29** Então, Absalão mandou chamar Joabe para enviá-lo ao rei, mas Joabe não foi até ele. Absalão mandou chamá-lo uma segunda vez, mas Joabe não foi. ^v29
 
-**30** Então disse aos seus servos: Vedes ali o pedaço de campo de Joabe pegado ao meu, e tem cevada nele; ide, e ponde-lhe fogo. E os servos de Absalão puseram fogo ao pedaço de campo. ^v30
+**30** "Então, Absalão disse aos seus servos: ""Vede! O campo de Joabe é próximo ao meu e tem cevada. Ide e ateai fogo ao campo"". Então, os servos de Absalão atearam fogo no campo." ^v30
 
-**31** Então Joabe se levantou, e veio a Absalão, em casa, e disse-lhe: Por que puseram os teus servos fogo ao pedaço de campo que é meu? ^v31
+**31** "Depois, Joabe se levantou e veio até a casa de Absalão e lhe disse: ""Por que teus servos atearam fogo ao meu campo?""." ^v31
 
-**32** E disse Absalão a Joabe: Eis que enviei a ti, dizendo: Vem cá, para que te envie ao rei, a dizer-lhe: Para que vim de Gesur? Melhor me fora estar ainda lá. Agora, pois, veja eu a face do rei; e, se há ainda em mim alguma culpa, que me mate. ^v32
+**32** "Absalão respondeu a Joabe: ""Vê, eu mandei te chamar dizendo: 'Vem aqui, para que eu te mandasse ao rei para dizer-lhe: 'Por que vim de Gesur? Teria sido melhor que eu tivesse ficado lá. Agora, então, deixa-me ver a face do rei e, se sou culpado, que ele me mate'""." ^v32
 
-**33** Então foi Joabe ao rei, e assim lho disse. Então chamou a Absalão, e ele se apresentou ao rei, e se inclinou sobre o seu rosto em terra diante do rei; e o rei beijou a Absalão. ^v33
+**33** Então, Joabe foi até o rei e lhe falou. Quando o rei chamou Absalão, ele foi até o rei e se prostrou diante dele, e o rei beijou Absalão. ^v33

@@ -1,23 +1,20 @@
 ---
-Livro: "[[Salmos|Salmos]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Salmos|Salmos]]"
+tags: [biblia]
 ---
 
 # Salmos 129
 
-**1** Muitas vezes me angustiaram desde a minha mocidade, diga agora Israel; ^v1
+**2** Desde a minha juventude, eles têm-me afligido frequentemente; todavia, não me derrotaram. ^v2
 
-**2** Muitas vezes me angustiaram desde a minha mocidade; todavia não prevaleceram contra mim. ^v2
+**3** Os lavradores araram sobre minhas costas; eles abriram longos sulcos. ^v3
 
-**3** Os lavradores araram sobre as minhas costas; compridos fizeram os seus sulcos. ^v3
+**4** Todavia, Yahweh é justo; Ele cortou as cordas dos perversos. ^v4
 
-**4** O Senhor é justo; cortou as cordas dos ímpios. ^v4
+**5** Que eles retornem envergonhados — todos os que odeiam Sião. ^v5
 
-**5** Sejam confundidos, e voltem para trás todos os que odeiam a Sião. ^v5
+**6** Que sejam como o capim nos telhados, que murcha antes de crescer, ^v6
 
-**6** Sejam como a erva dos telhados que se seca antes que a arranquem. ^v6
+**7** e não enche a mão do ceifador, nem os braços daquele que ata os feixes. ^v7
 
-**7** Com a qual o segador não enche a sua mão, nem o que ata os feixes enche o seu braço. ^v7
-
-**8** Nem tampouco os que passam dizem: A bênção do Senhor seja sobre vós; nós vos abençoamos em nome do Senhor. ^v8
+**8** "Que todos aqueles que passam não digam: ""A benção de Yahweh esteja sobre vós. Nós vos abençoamos em Nome de Yahweh.""" ^v8

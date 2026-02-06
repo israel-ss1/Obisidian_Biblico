@@ -1,43 +1,42 @@
 ---
-Livro: "[[1 Tessalonicenses|1 Tessalonicenses]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/1 Tessalonicenses|1 Tessalonicenses]]"
+tags: [biblia]
 ---
 
 # 1 Tessalonicenses 4
 
-**1** Finalmente, irmãos, vos rogamos e exortamos no Senhor Jesus, que assim como recebestes de nós, de que maneira convém andar e agradar a Deus, assim andai, para que possais progredir cada vez mais. ^v1
+**1** Finalmente, irmãos, nós vos pedimos e exortamos no Senhor Jesus que, assim como recebestes nossas instruções sobre como deveis andar e satisfazer a Deus, também neste caminho andai, para que façais ainda mais. ^v1
 
-**2** Porque vós bem sabeis que mandamentos vos temos dado pelo Senhor Jesus. ^v2
+**2** Pois sabeis quais instruções vos demos através do Senhor Jesus. ^v2
 
-**3** Porque esta é a vontade de Deus, a vossa santificação; que vos abstenhais da fornicação; ^v3
+**3** Esta é a vontade de Deus: a vossa santificação, que vos afasteis da imoralidade sexual, ^v3
 
-**4** Que cada um de vós saiba possuir o seu vaso em santificação e honra; ^v4
+**4** que cada um de vós saiba controlar seu próprio corpo de forma santa e honrosa, ^v4
 
-**5** Não na paixão da concupiscência, como os gentios, que não conhecem a Deus. ^v5
+**5** não conduzidos por paixão lasciva, como os gentios que não conhecem a Deus. ^v5
 
-**6** Ninguém oprima ou engane a seu irmão em negócio algum, porque o Senhor é vingador de todas estas coisas, como também antes vo-lo dissemos e testificamos. ^v6
+**6** E que ninguém desrespeite ou lese a seu irmão nessa questão. Porque o Senhor é o vingador em todas essas coisas, como vos avisamos e testificamos. ^v6
 
-**7** Porque não nos chamou Deus para a imundícia, mas para a santificação. ^v7
+**7** Porque Deus não nos chamou para a impureza, mas para a santidade. ^v7
 
-**8** Portanto, quem despreza isto não despreza ao homem, mas sim a Deus, que nos deu também o seu Espírito Santo. ^v8
+**8** Portanto, quem rejeita isso não rejeita a pessoas, mas a Deus, que vos deu o Seu Espírito Santo. ^v8
 
-**9** Quanto, porém, ao amor fraternal, não necessitais de que vos escreva, visto que vós mesmos estais instruídos por Deus que vos ameis uns aos outros; ^v9
+**9** A respeito do amor fraternal, não necessitais que ninguém vos escreva, pois vós mesmos sois ensinados por Deus a amar uns aos outros. ^v9
 
-**10** Porque também já assim o fazeis para com todos os irmãos que estão por toda a macedônia. Exortamo-vos, porém, a que ainda nisto aumenteis cada vez mais. ^v10
+**10** De fato, fazeis isto com todos os irmãos que estão em toda Macedônia. Entretanto, nós vos exortamos, irmãos, a fazer isso ainda mais. ^v10
 
-**11** E procureis viver quietos, e tratar dos vossos próprios negócios, e trabalhar com vossas próprias mãos, como já vo-lo temos mandado; ^v11
+**11** Também vos exortamos a buscar viver pacificamente, cuidar das vossas coisas, e trabalhar com vossas mãos, como vos ordenamos; ^v11
 
-**12** Para que andeis honestamente para com os que estão de fora, e não necessiteis de coisa alguma. ^v12
+**12** assim, andareis corretamente diante daqueles que são de fora, e não necessitareis de coisa nenhuma. ^v12
 
-**13** Não quero, porém, irmãos, que sejais ignorantes acerca dos que já dormem, para que não vos entristeçais, como os demais, que não têm esperança. ^v13
+**13** Irmãos, não queremos que ignoreis acerca daqueles que dormem, para que não vos entristeçais como os demais que não têm esperança. ^v13
 
-**14** Porque, se cremos que Jesus morreu e ressuscitou, assim também aos que em Jesus dormem, Deus os tornará a trazer com ele. ^v14
+**14** Porque, se acreditamos que Jesus morreu e ressuscitou, também Deus trará com Jesus aqueles que dormiram Nele. ^v14
 
-**15** Dizemo-vos, pois, isto, pela palavra do Senhor: que nós, os que ficarmos vivos para a vinda do Senhor, não precederemos os que dormem. ^v15
+**15** Pois isto vos falamos pela Palavra do Senhor, que nós que estamos vivos, esperando a vinda do Senhor, com certeza não precederemos aqueles que dormem. ^v15
 
-**16** Porque o mesmo Senhor descerá do céu com alarido, e com voz de arcanjo, e com a trombeta de Deus; e os que morreram em Cristo ressuscitarão primeiro. ^v16
+**16** Porque o próprio Senhor descerá do céu com grande brado, com a voz do arcanjo, e com a trombeta de Deus, e os mortos em Cristo ressuscitarão primeiro. ^v16
 
-**17** Depois nós, os que ficarmos vivos, seremos arrebatados juntamente com eles nas nuvens, a encontrar o Senhor nos ares, e assim estaremos sempre com o Senhor. ^v17
+**17** Depois, nós, os que estivermos vivos, os que permanecermos, seremos arrebatados juntamente com eles nas nuvens, para nos reunir com o Senhor nos ares. Desse modo, estaremos sempre com o Senhor. ^v17
 
-**18** Portanto, consolai-vos uns aos outros com estas palavras. ^v18
+**18** Portanto, consolai uns aos outros com estas palavras. ^v18

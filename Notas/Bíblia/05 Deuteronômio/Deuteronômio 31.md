@@ -1,67 +1,66 @@
 ---
-Livro: "[[Deuteronômio|Deuteronômio]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Deuteronômio|Deuteronômio]]"
+tags: [biblia]
 ---
 
 # Deuteronômio 31
 
-**1** Depois foi Moisés, e falou estas palavras a todo o Israel, ^v1
+**1** Moisés foi falar a todo o Israel estas palavra. ^v1
 
-**2** E disse-lhes: Da idade de cento e vinte anos sou eu hoje; já não poderei mais sair e entrar; além disto o Senhor me disse: Não passarás o Jordão. ^v2
+**2** "Ele disse: ""Tenho, agora, cento e vinte anos de idade; já não posso mais ir e vir. Yahweh me disse: 'Não atravessarás o Jordão'." ^v2
 
-**3** O Senhor teu Deus passará adiante de ti; ele destruirá estas nações de diante de ti, para que as possuas; Josué passará adiante de ti, como o Senhor tem falado. ^v3
+**3** Yahweh, teu Deus, irá à tua frente; Ele destruirá as nações diante de ti, e tu as possuirás. Josué irá à tua frente, como Yahweh falou. ^v3
 
-**4** E o Senhor lhes fará como fez a Siom e a Ogue, reis dos amorreus, e à sua terra, os quais destruiu. ^v4
+**4** Yahweh lhes fará como fez com Siom e Ogue, os reis do amorreus, e com as terras deles, que destruiu. ^v4
 
-**5** Quando, pois, o Senhor vo-los der diante de vós, então com eles fareis conforme a todo o mandamento que vos tenho ordenado. ^v5
+**5** Yahweh vos dará vitória sobre eles quando os encontrardes em batalha, e fareis com eles o que vos ordenei. ^v5
 
-**6** Esforçai-vos, e animai-vos; não temais, nem vos espanteis diante deles; porque o Senhor teu Deus é o que vai contigo; não te deixará nem te desamparará. ^v6
+**6** "Sede fortes e corajosos, não temais, nem vos apavoreis, pois Yahweh, vosso Deus, é quem irá convosco. Ele não falhará nem vos abandonará""." ^v6
 
-**7** E chamou Moisés a Josué, e lhe disse aos olhos de todo o Israel: Esforça-te e anima-te; porque com este povo entrarás na terra que o Senhor jurou a teus pais lhes dar; e tu os farás herdá-la. ^v7
+**7** "Moisés chamou Josué e, na presença de todo o Israel, disse-lhe: ""Sê forte e corajoso, pois irás com este povo para a terra que Yahweh jurou dar aos teus antepassados; e tu o farás herdá-la." ^v7
 
-**8** O Senhor, pois, é aquele que vai adiante de ti; ele será contigo, não te deixará, nem te desamparará; não temas, nem te espantes. ^v8
+**8** "Yahweh irá à tua frente. Ele será contigo, não falhará, nem te abandonará. Não tenhas medo, nem te espantes""." ^v8
 
-**9** E Moisés escreveu esta lei, e a deu aos sacerdotes, filhos de Levi, que levavam a arca da aliança do Senhor, e a todos os anciãos de Israel. ^v9
+**9** Moisés escreveu esta lei e a entregou aos sacerdotes, filhos de Levi, que carregavam a Arca da Aliança de Yahweh; ele também deu cópias a todos os anciãos de Israel. ^v9
 
-**10** E ordenou-lhes Moisés, dizendo: Ao fim de cada sete anos, no tempo determinado do ano da remissão, na festa dos tabernáculos, ^v10
+**10** "Moisés ordenou-lhes, dizendo: ""No final de cada sete anos, no tempo do cancelamento das dívidas, durante a Festa dos Tabernáculos," ^v10
 
-**11** Quando todo o Israel vier a comparecer perante o Senhor teu Deus, no lugar que ele escolher, lerás esta lei diante de todo o Israel aos seus ouvidos. ^v11
+**11** quando todo o Israel aparecer diante de Yahweh, teu Deus, no lugar que Ele escolherá como Santuário, lerás esta lei diante de todo o Israel, para que ouçam. ^v11
 
-**12** Ajunta o povo, os homens e as mulheres, os meninos e os estrangeiros que estão dentro das tuas portas, para que ouçam e aprendam e temam ao Senhor vosso Deus, e tenham cuidado de fazer todas as palavras desta lei; ^v12
+**12** Reuni o povo, os homens, as mulheres, as crianças, e o estrangeiro que habita dentro dos portões das vossas cidades, para que ouçam e aprendam e, assim, honrem a Yahweh, vosso Deus, e guardem todas as palavras desta lei. ^v12
 
-**13** E que seus filhos, que não a souberem, ouçam e aprendam a temer ao Senhor vosso Deus, todos os dias que viverdes sobre a terra a qual ides, passando o Jordão, para a possuir. ^v13
+**13** Fazei isto para que vossos filhos, que ainda não a conhecem, ouçam e aprendam a honrar Yahweh, vosso Deus, enquanto habitardes sobre a terra que ireis possuir quando atravessardes o Jordão. ^v13
 
-**14** E disse o Senhor a Moisés: Eis que os teus dias são chegados, para que morras; chama a Josué, e apresentai-vos na tenda da congregação, para que eu lhe dê ordens. Assim foram Moisés e Josué, e se apresentaram na tenda da congregação. ^v14
+**14** "Yahweh disse a Moisés: ""Vê, aproxima-se o dia em que morrerás. Chama Josué e apresentai-vos na Tenda do Encontro, para que Eu lhe ordene"". Moisés e Josué apresentaram-se na Tenda do Encontro." ^v14
 
-**15** Então o Senhor apareceu na tenda, na coluna de nuvem; e a coluna de nuvem estava sobre a porta da tenda. ^v15
+**15** Yahweh apareceu na Tenda, numa coluna de nuvem. A coluna de nuvem pairou sobre a entrada da tenda. ^v15
 
-**16** E disse o Senhor a Moisés: Eis que dormirás com teus pais; e este povo se levantará, e prostituir-se-á indo após os deuses estranhos na terra, para cujo meio vai, e me deixará, e anulará a minha aliança que tenho feito com ele. ^v16
+**16** "Yahweh disse a Moisés: ""Eis que descansarás com teus pais; os membros do povo se levantarão e agirão como uma prostituta, seguindo os deuses estranhos da terra para onde vão. Eles Me abandonarão e quebrarão a Aliança que fiz com eles." ^v16
 
-**17** Assim se acenderá a minha ira naquele dia contra ele, e desampará-lo-ei, e esconderei o meu rosto dele, para que seja devorado; e tantos males e angústias o alcançarão, que dirá naquele dia: Não me alcançaram estes males, porque o meu Deus não está no meio de mim? ^v17
+**17** Então, naquele dia, Minha ira se acenderá contra eles, e os abandonarei. Esconderei deles a Minha face e serão devorados. Muitos desastres e problemas os acharão, e dirão naquele dia: 'Será que esses desastres vieram sobre nós por que o nosso Deus não está no nosso meio?'. ^v17
 
-**18** Esconderei, pois, totalmente o meu rosto naquele dia, por todo o mal que tiver feito, por se haverem tornado a outros deuses. ^v18
+**18** Com certeza, esconderei Minha face deles naquele dia, por causa da maldade que farão, voltando-se para outros deuses. ^v18
 
-**19** Agora, pois, escrevei-vos este cântico, e ensinai-o aos filhos de Israel; ponde-o na sua boca, para que este cântico me seja por testemunha contra os filhos de Israel. ^v19
+**19** Por isso, agora escrevei esta canção para vós mesmos e ensinai-a ao povo de Israel. Colocai-a em suas bocas, para que esta canção seja minha testemunha contra o povo de Israel. ^v19
 
-**20** Porque introduzirei o meu povo na terra que jurei a seus pais, que mana leite e mel; e comerá, e se fartará, e se engordará; então se tornará a outros deuses, e os servirá, e me irritarão, e anularão a minha aliança. ^v20
+**20** Pois, quando Eu os trouxer para a terra que jurei dar aos seus antepassados, a terra de que mana leite e mel, e, quando tiverem comido e ficarem satisfeitos e gordos, então, se voltarão a outros deuses para os servir. Eles Me desprezarão e quebrarão a Minha aliança. ^v20
 
-**21** E será que, quando o alcançarem muitos males e angústias, então este cântico responderá contra ele por testemunha, pois não será esquecido da boca de sua descendência; porquanto conheço a sua imaginação, o que ele faz hoje, antes que o introduza na terra que tenho jurado. ^v21
+**21** "Quando muitos males e problemas atingirem este povo, esta canção será como testemunha diante deles, pois não será esquecida da boca de seus descendentes, porque Eu sei, Eu conheço hoje, os planos que estão formando, mesmo antes de tê-los trazido para a terra que lhes prometi""." ^v21
 
-**22** Assim Moisés escreveu este cântico naquele dia, e o ensinou aos filhos de Israel. ^v22
+**22** Então, Moisés escreveu esta canção no mesmo dia e a ensinou ao povo de Israel. ^v22
 
-**23** E ordenou a Josué, filho de Num, e disse: Esforça-te e anima-te; porque tu introduzirás os filhos de Israel na terra que lhes jurei; e eu serei contigo. ^v23
+**23** "Yahweh ordenou a Josué, filho de Num, dizendo: ""Sê forte e corajoso, pois farei o povo de Israel entrar na terra que lhes jurei, e serei contigo""." ^v23
 
-**24** E aconteceu que, acabando Moisés de escrever num livro, todas as palavras desta lei, ^v24
+**24** E aconteceu que, quando Moisés terminou de escrever as palavras desta lei num livro, ^v24
 
-**25** Deu ordem aos levitas, que levavam a arca da aliança do Senhor, dizendo: ^v25
+**25** ordenou aos levitas que carregassem a Arca da Aliança de Yahweh, dizendo: ^v25
 
-**26** Tomai este livro da lei, e ponde-o ao lado da arca da aliança do Senhor vosso Deus, para que ali esteja por testemunha contra ti. ^v26
+**26** """Tomai este livro da lei e colocai ao lado da Arca da Aliança de Yahweh, vosso Deus, para que esteja lá como testemunha contra vós." ^v26
 
-**27** Porque conheço a tua rebelião e a tua dura cerviz; eis que, vivendo eu ainda hoje convosco, rebeldes fostes contra o Senhor; e quanto mais depois da minha morte? ^v27
+**27** Porque conheço vossa rebelião e teimosia. Se tendes sido rebeldes contra Yahweh enquanto estou convosco, quanto mais serão depois que eu morrer? ^v27
 
-**28** Ajuntai perante mim todos os anciãos das vossas tribos, e vossos oficiais, e aos seus ouvidos falarei estas palavras, e contra eles por testemunhas tomarei o céu e a terra. ^v28
+**28** Reuni a mim todos os anciãos das vossas tribos e vossos oficiais, para que fale estas palavras aos seus ouvidos, e chame os céus e a terra como testemunhas contra eles. ^v28
 
-**29** Porque eu sei que depois da minha morte certamente vos corrompereis, e vos desviareis do caminho que vos ordenei; então este mal vos alcançará nos últimos dias, quando fizerdes mal aos olhos do Senhor, para o provocar à ira com a obra das vossas mãos. ^v29
+**29** "Porque sei que, após a minha morte, certamente, vos corrompereis e desviareis do caminho que vos ordenei. Problemas virão sobre vós nos dias futuros. Isto acontecerá porque fareis o que é mau aos olhos de Yahweh, para provocar-Lhe à ira, através do trabalho de vossas mãos""." ^v29
 
-**30** Então Moisés falou as palavras deste cântico aos ouvidos de toda a congregação de Israel, até se acabarem. ^v30
+**30** Moisés recitou aos ouvidos de toda a assembleia de Israel as palavras desta canção, até o seu fim. ^v30

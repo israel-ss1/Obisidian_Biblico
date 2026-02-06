@@ -1,77 +1,76 @@
 ---
-Livro: "[[Números|Números]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Números|Números]]"
+tags: [biblia]
 ---
 
 # Números 11
 
-**1** E aconteceu que, queixou-se o povo falando o que era mal aos ouvidos do SENHOR; e ouvindo o SENHOR a sua ira se acendeu; e o fogo do SENHOR ardeu entre eles e consumiu os que estavam na última parte do arraial. ^v1
+**1** E aconteceu que o povo murmurava sobre seus problemas aos ouvidos de Yahweh. Yahweh ouviu o povo e ficou irado. Então fogo vindo de Yahweh incendiou no meio deles e consumiu alguns nas extremidades do acampamento. ^v1
 
-**2** Então o povo clamou a Moisés, e Moisés orou ao Senhor, e o fogo se apagou. ^v2
+**2** O povo clamou a Moisés, e Moisés orou a Yahweh, e o fogo cessou. ^v2
 
-**3** Pelo que chamou aquele lugar Taberá, porquanto o fogo do Senhor se acendera entre eles. ^v3
+**3** Aquele lugar foi chamado Teberá, porque o fogo de Yahweh se acendeu no meio eles. ^v3
 
-**4** E o vulgo, que estava no meio deles, veio a ter grande desejo; pelo que os filhos de Israel tornaram a chorar, e disseram: Quem nos dará carne a comer? ^v4
+**4** "Alguns estrangeiros vieram com os descendentes de Israel. Eles queriam uma comida melhor. Então as pessoas de Israel começaram a prantear e dizer: ""Quem nos dará carne para comer?" ^v4
 
-**5** Lembramo-nos dos peixes que no Egito comíamos de graça; e dos pepinos, e dos melões, e dos porros, e das cebolas, e dos alhos. ^v5
+**5** Lembramos do peixe que comíamos de graça no Egito, os pepinos , os melões, os alhos-porós, as cebolas e o alho. Agora estamos fracos. ^v5
 
-**6** Mas agora a nossa alma se seca; coisa nenhuma há senão este maná diante dos nossos olhos. ^v6
+**6** "Nós não vemos nada além desse maná para comer""." ^v6
 
-**7** E era o maná como semente de coentro, e a sua cor como a cor de bdélio. ^v7
+**7** O maná era como a semente de coentro, tinha a cor da semente de coentro e a cor da resina. ^v7
 
-**8** Espalhava-se o povo e o colhia, e em moinhos o moía, ou num gral o pisava, e em panelas o cozia, e dele fazia bolos; e o seu sabor era como o sabor de azeite fresco. ^v8
+**8** As pessoas caminhavam em volta e o colhia. Ele era triturado em moinhos, amassado em um pilão, cozido em panelas, e dele faziam bolos. Tinha o gosto do azeite de oliva fresco. ^v8
 
-**9** E, quando o orvalho descia de noite sobre o arraial, o maná descia sobre ele. ^v9
+**9** Quando o orvalho caía, à noite, no acampamento, o maná também caía. ^v9
 
-**10** Então Moisés ouviu chorar o povo pelas suas famílias, cada qual à porta da sua tenda; e a ira do Senhor grandemente se acendeu, e pareceu mal aos olhos de Moisés. ^v10
+**10** Moisés ouviu as pessoas chorando com seus familiares, e todos os homens estavam na entrada de suas barracas. Yahweh ficou muito indignado. Aos olhos de Moisés, eles estavam errados em reclamar. ^v10
 
-**11** E disse Moisés ao Senhor: Por que fizeste mal a teu servo, e por que não achei graça aos teus olhos, visto que puseste sobre mim o cargo de todo este povo? ^v11
+**11** "Moisés disse a Yahweh: ""Por que Tu trataste tão mal o teu servo? Porque Tu não estais satisfeito comigo? Tu me fizeste carregar a carga dessas pessoas." ^v11
 
-**12** Concebi eu porventura todo este povo? Dei-o eu à luz? para que me dissesses: leva-o ao teu colo, como a ama leva a criança que mama, à terra que juraste a seus pais? ^v12
+**12** Por acaso eu dei à luz a todas estas pessoas? Eu as concebi para dizeres a mim: 'Carrega-as no peito como a ama carrega seu bebê?' Devo eu carregá-las para a terra que Tu juraste dar a teus antepassados? ^v12
 
-**13** De onde teria eu carne para dar a todo este povo? Porquanto contra mim choram, dizendo: Dá-nos carne a comer; ^v13
+**13** Onde posso encontrar carne para todas estas pessoas? Elas estão pranteando na minha frente e dizendo-me: 'Dá-nos carne para comer'. ^v13
 
-**14** Eu só não posso levar a todo este povo, porque muito pesado é para mim. ^v14
+**14** Eu não posso suportar todas estas pessoas sozinho. Isto é demais para mim! ^v14
 
-**15** E se assim fazes comigo, mata-me, peço-te, se tenho achado graça aos teus olhos, e não me deixes ver o meu mal. ^v15
+**15** "Se Tu vais me tratar assim, mata-me agora, se Tu és bondoso para comigo, afasta o meu sofrimento""." ^v15
 
-**16** E disse o Senhor a Moisés: Ajunta-me setenta homens dos anciãos de Israel, que sabes serem anciãos do povo e seus oficiais; e os trarás perante a tenda da congregação, e ali estejam contigo. ^v16
+**16** "Disse Yahweh a Moisés: "" Traga-me setenta anciãos de Israel. Tenha certeza de que são anciãos e oficiais dessas pessoas. Traga-os para a Tenda do Encontro para ficarem lá com você." ^v16
 
-**17** Então eu descerei e ali falarei contigo, e tirarei do espírito que está sobre ti, e o porei sobre eles; e contigo levarão a carga do povo, para que tu não a leves sozinho. ^v17
+**17** Eu virei e falarei contigo lá. Eu tomarei um pouco do Espírito que está em ti e colocarei sobre eles. Eles carregarão a carga das pessoas contigo. E tu não terás que suportar mais sozinho. ^v17
 
-**18** E dirás ao povo: Santificai-vos para amanhã, e comereis carne; porquanto chorastes aos ouvidos do Senhor, dizendo: Quem nos dará carne a comer? Pois íamos bem no Egito; por isso o Senhor vos dará carne, e comereis; ^v18
+**18** "Diga às pessoas: ""Consagrem-se a Yahweh amanhã. Certamente vós comereis carne, vós lamentastes e Yahweh vos ouvistes. Tu disseste: 'Quem nos dará carne para comer? No Egito íamos bem.' Todavia, Yahweh vos dará carne, e vós ireis comê-la." ^v18
 
-**19** Não comereis um dia, nem dois dias, nem cinco dias, nem dez dias, nem vinte dias; ^v19
+**19** Vós não comereis carne por apenas um dia, nem dois dias, nem cinco dias, nem dez dias, ou vinte dias, ^v19
 
-**20** Mas um mês inteiro, até vos sair pelas narinas, até que vos enfastieis dela; porquanto rejeitastes ao Senhor, que está no meio de vós, e chorastes diante dele, dizendo: Por que saímos do Egito? ^v20
+**20** "mas comereis carne por um mês inteiro, até sair pelas vossas narinas. Isto será um desgosto para vós, porque rejeitastes Yahweh, que está no meio de vós, lamentando diante Dele dizendo: 'Por que saimos do Egito?'""." ^v20
 
-**21** E disse Moisés: Seiscentos mil homens de pé é este povo, no meio do qual estou; e tu tens dito: Dar-lhes-ei carne, e comerão um mês inteiro. ^v21
+**21** "Então Moisés disse: ""Eu estou com seiscentas mil pessoas, e tu disseste: 'Eu os alimentarei com carne o mês inteiro'." ^v21
 
-**22** Degolar-se-ão para eles ovelhas e vacas que lhes bastem? Ou ajuntar-se-ão para eles todos os peixes do mar, que lhes bastem? ^v22
+**22** "Matarei eu os rebanhos para os satisfazer? Pescarei eu todos os peixes do oceano para os satisfazer?""." ^v22
 
-**23** Porém, o Senhor disse a Moisés: Teria sido encurtada a mão do Senhor? Agora verás se a minha palavra se há de cumprir ou não. ^v23
+**23** "Yahweh disse a Moisés: ""Por acaso a minha mão é curta? Agora tu verás se a minha palavra é verdade ou não""." ^v23
 
-**24** E saiu Moisés, e falou as palavras do Senhor ao povo, e ajuntou setenta homens dos anciãos do povo e os pôs ao redor da tenda. ^v24
+**24** Moisés saiu e contou as palavras de Yahweh às pessoas. Ele reuniu setenta dos anciãos do povo e os posicionou em volta da Tenda. ^v24
 
-**25** Então o Senhor desceu na nuvem, e lhe falou; e, tirando do espírito, que estava sobre ele, o pôs sobre aqueles setenta anciãos; e aconteceu que, quando o espírito repousou sobre eles, profetizaram; mas depois nunca mais. ^v25
+**25** Yahweh desceu em uma nuvem e falou a Moisés. Yahweh tomou parte do Espírito que estava em Moisés e o colocou sobre os setenta anciãos. Quando o Espírito repousou sobre eles, profetizaram, mas somente naquela ocasião e nunca mais. ^v25
 
-**26** Porém no arraial ficaram dois homens; o nome de um era Eldade, e do outro Medade; e repousou sobre eles o espírito (porquanto estavam entre os inscritos, ainda que não saíram à tenda), e profetizavam no arraial. ^v26
+**26** Dois homens permanceram no acampamento. Eram Eldade e Medade. O Espírito também repousou sobre eles. Seus nomes estavam escritos na lista, mas eles não foram para fora da Tenda. Mesmo assim, profetizaram dentro do acampamento. ^v26
 
-**27** Então correu um moço e anunciou a Moisés e disse: Eldade e Medade profetizam no arraial. ^v27
+**27** "Um jovem no acampamento correu e contou a Moisés: ""Eldade e Medade estão profetizando no acampamento.""" ^v27
 
-**28** E Josué, filho de Num, servidor de Moisés, um dos seus jovens escolhidos, respondeu e disse: Moisés, meu senhor, proíbe-lho. ^v28
+**28** "Josué, filho de Num, assistente de Moisés, um de seus escolhidos, falou a Moisés: ""Meu mestre Moisés, impeça-os""." ^v28
 
-**29** Porém, Moisés lhe disse: Tens tu ciúmes por mim? Quem dera que todo o povo do Senhor fosse profeta, e que o Senhor pusesse o seu espírito sobre ele! ^v29
+**29** "Moisés disse-lhe: ""Tu estais com ciúmes por minha causa? Eu gostaria que todo o povo de Yahweh fosse profeta e que Ele colocasse Seu Espírito em todos eles""." ^v29
 
-**30** Depois Moisés se recolheu ao arraial, ele e os anciãos de Israel. ^v30
+**30** Então, Moisés e os anciãos de Israel voltaram para o acampamento. ^v30
 
-**31** Então soprou um vento do Senhor e trouxe codornizes do mar, e as espalhou pelo arraial quase caminho de um dia, de um lado e de outro lado, ao redor do arraial; quase dois côvados sobre a terra. ^v31
+**31** Então, veio um vento de Yahweh e trouxe codornas do mar. Elas caíram perto do acampamento, a um dia de jornada de um lado, e a um dia de jornada do outro lado. As cordornas cercaram o acampamento sobre dois côvados acima do chão. ^v31
 
-**32** Então o povo se levantou todo aquele dia e toda aquela noite, e todo o dia seguinte, e colheram as codornizes; o que menos tinha, colhera dez ômeres; e as estenderam para si ao redor do arraial. ^v32
+**32** As pessoas estavam ocupadas reunindo as cordornas durante o dia todo, à noite, e no dia seguinte. Ninguém recolheu menos que dez ômeres de codornas. Eles as estenderam pelo acampamento. ^v32
 
-**33** Quando a carne estava entre os seus dentes, antes que fosse mastigada, se acendeu a ira do Senhor contra o povo, e feriu o Senhor o povo com uma praga mui grande. ^v33
+**33** Enquanto a carne estava entre seus dentes e estavam ainda mastigando, Yahweh enfureceu-se contra eles. Ele os atacou com uma grave doença. ^v33
 
-**34** Por isso o nome daquele lugar se chamou Quibrote-Ataavá, porquanto ali enterraram o povo que teve o desejo. ^v34
+**34** Esse lugar foi chamado de Quibrote-Taavá, porque eles enterraram o povo que ansiava por carne. ^v34
 
-**35** De Quibrote-Ataavá caminhou o povo para Hazerote, e pararam em Hazerote. ^v35
+**35** As pessoas viajaram de Quibrote-Taavá para Hazerote, onde ficaram. ^v35

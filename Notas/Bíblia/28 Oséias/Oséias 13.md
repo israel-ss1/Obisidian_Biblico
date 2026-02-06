@@ -1,39 +1,38 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Oséias|Oséias]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Oséias|Oséias]]"
+tags: [biblia]
 ---
 
 # Oséias 13
 
-**1** Quando Efraim falava, tremia-se; foi exaltado em Israel; mas ele se fez culpado em Baal, e morreu. ^v1
+**1** """Quando Efraim falou, houve tremor. Ele exaltou a si mesmo em Israel, mas se tornou culpado por causa da adoração a Baal, e morreu." ^v1
 
-**2** E agora multiplicaram pecados, e da sua prata fizeram uma imagem de fundição, ídolos segundo o seu entendimento, todos obra de artífices, dos quais dizem: Os homens que sacrificam beijem os bezerros. ^v2
+**2** Agora, pecam mais e mais. Fazem imagens de metal fundido com sua prata, ídolos tão cuidadosamente trabalhados, todos eles são obras de artesão. As pessoas falam deles: 'Estes homens que sacrificam beijem os bezerros'. ^v2
 
-**3** Por isso serão como a nuvem da manhã, e como o orvalho da madrugada, que cedo passa; como folhelho que a tempestade lança da eira, e como a fumaça da chaminé. ^v3
+**3** Pois eles serão como a nuvem da manhã, como o orvalho que desaparece cedo, como a palha que se espalha na eira, e como a fumaça que sai da chaminé. ^v3
 
-**4** Todavia, eu sou o Senhor teu Deus desde a terra do Egito; portanto não reconhecerás outro deus além de mim, porque não há Salvador senão eu. ^v4
+**4** Mas Eu Sou Yahweh vosso Deus desde a terra do Egito. Tu deves reconhecer que não há Deus além de Mim, não há nenhum outro salvador. Tu deves reconhecer que, além de Mim, não há outro Salvador. ^v4
 
-**5** Eu te conheci no deserto, na terra muito seca. ^v5
+**5** Eu te conheci no deserto, numa terra de grande secura. ^v5
 
-**6** Depois eles se fartaram em proporção do seu pasto; estando fartos, ensoberbeceu-se o seu coração, por isso se esqueceram de mim. ^v6
+**6** Quando tu tinhas pasto, ficaste cheio; e quando estavas na tua abundância, teu coração se exaltou. Por esta razão me esqueceste. ^v6
 
-**7** Serei, pois, para eles como leão; como leopardo espiarei no caminho. ^v7
+**7** Eu virei como um leão sobre eles; como leopardo vigiarei ao longo do caminho. ^v7
 
-**8** Como ursa roubada dos seus filhos, os encontrarei, e lhes romperei as teias do seu coração, e como leão ali os devorarei; as feras do campo os despedaçarão. ^v8
+**8** Eu os atacarei como a ursa que é roubada de seus filhotes. Rasgarei o peito deles, e os devorarei como um leão, e como um animal selvagem devorarei em pedaços. ^v8
 
-**9** Para a tua perda, ó Israel, te rebelaste contra mim, a saber, contra o teu ajudador. ^v9
+**9** Tu estás destruído, ó Israel, mas de Mim vem o teu socorro. ^v9
 
-**10** Onde está agora o teu rei, para que te guarde em todas as tuas cidades, e os teus juízes, dos quais disseste: Dá-me rei e príncipes? ^v10
+**10** Onde está agora o teu rei, para que ele te salve em todas as tuas cidades? Onde estão os teus juízes, a quem tu disseste, 'Dá-me um rei e príncipes?' ^v10
 
-**11** Dei-te um rei na minha ira, e tirei-o no meu furor. ^v11
+**11** Eu lhes dei um rei na Minha raiva, e eu o tirei na Minha ira. ^v11
 
-**12** A iniqüidade de Efraim está atada, o seu pecado está armazenado. ^v12
+**12** A iniquidade de Efraim está registrada; o seu pecado também está guardado. ^v12
 
-**13** Dores de mulher de parto lhe sobrevirão; ele é um filho insensato; porque é tempo e não está no lugar em que deve vir à luz. ^v13
+**13** Dores de parto virão sobre ele, mas ele é um filho insensato; pois, quando é o tempo de nascer, ele não sai do ventre. ^v13
 
-**14** Eu os remirei da mão do inferno, e os resgatarei da morte. Onde estão, ó morte, as tuas pragas? Onde está, ó inferno, a tua perdição? O arrependimento está escondido de meus olhos. ^v14
+**14** "Eu os resgatarei da mão do Sheol? Irei resgatá-los da morte? Onde estão ó morte as tuas pragas? Onde está, ó Sheol, a tua destruição? O arrependimento está escondido dos meus olhos""." ^v14
 
-**15** Ainda que ele dê fruto entre os irmãos, virá o vento leste, vento do Senhor, subindo do deserto, e secar-se-á a sua nascente, e secar-se-á a sua fonte; ele saqueará o tesouro de todos os vasos desejáveis. ^v15
+**15** Embora Efraim seja próspero no meio dos irmãos, um vento virá do leste; o vento de Yahweh soprará no deserto, e a fonte de Efraim secará, e o seu poço não terá água. Os inimigos roubarão todos os vossos objetos preciosos nos vossos armazéns. ^v15
 
-**16** Samaria virá a ser deserta, porque se rebelou contra o seu Deus; cairão à espada, seus filhos serão despedaçados, e as suas grávidas serão fendidas pelo meio. ^v16
+**16** Samaria será culpada, porque se rebelou contra o seu Deus. Eles cairão pela espada; suas crianças serão despedaçadas, e as grávidas terão seus ventres abertos pelo meio. ^v16

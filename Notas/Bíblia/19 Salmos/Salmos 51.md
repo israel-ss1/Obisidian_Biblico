@@ -1,45 +1,42 @@
 ---
-Livro: "[[Salmos|Salmos]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Salmos|Salmos]]"
+tags: [biblia]
 ---
 
 # Salmos 51
 
-**1** Tem misericórdia de mim, ó Deus, segundo a tua benignidade; apaga as minhas transgressões, segundo a multidão das tuas misericórdias. ^v1
+**2** Lava-me completamente da minha iniquidade e purifica-me do meu pecado. ^v2
 
-**2** Lava-me completamente da minha iniqüidade, e purifica-me do meu pecado. ^v2
+**3** Pois eu conheço as minhas transgressões, e o meu pecado está sempre diante de mim. ^v3
 
-**3** Porque eu conheço as minhas transgressões, e o meu pecado está sempre diante de mim. ^v3
+**4** Contra Ti, contra Ti somente, eu pequei e fiz o que é mau à Tua vista, de maneira que és justo quando falas, e correto quando julgas. ^v4
 
-**4** Contra ti, contra ti somente pequei, e fiz o que é mal à tua vista, para que sejas justificado quando falares, e puro quando julgares. ^v4
+**5** Eis que eu nasci em iniquidade; em pecado minha mãe me concebeu. ^v5
 
-**5** Eis que em iniqüidade fui formado, e em pecado me concebeu minha mãe. ^v5
+**6** Eis que Tu desejas a verdade no meu íntimo, e no coração me ensinas a sabedoria. ^v6
 
-**6** Eis que amas a verdade no íntimo, e no oculto me fazes conhecer a sabedoria. ^v6
+**7** Purifica-me com hissopo e ficarei limpo; lava-me, e eu ficarei mais branco do que a neve. ^v7
 
-**7** Purifica-me com hissopo, e ficarei puro; lava-me, e ficarei mais branco do que a neve. ^v7
+**8** Faze-me ouvir júbilo de alegria para que os ossos que Tu quebraste se regozijem. ^v8
 
-**8** Faze-me ouvir júbilo e alegria, para que gozem os ossos que tu quebraste. ^v8
-
-**9** Esconde a tua face dos meus pecados, e apaga todas as minhas iniqüidades. ^v9
+**9** Esconde a Tua face dos meus pecados e apaga todas as minhas iniquidades. ^v9
 
 **10** Cria em mim, ó Deus, um coração puro, e renova em mim um espírito reto. ^v10
 
-**11** Não me lances fora da tua presença, e não retires de mim o teu Espírito Santo. ^v11
+**11** Não me lances fora da Tua presença, e não retires o Teu Santo Espírito de mim. ^v11
 
-**12** Torna a dar-me a alegria da tua salvação, e sustém-me com um espírito voluntário. ^v12
+**12** Restaura-me a alegria da Tua salvação, e sustém-me com um espírito disposto a obedecer. ^v12
 
-**13** Então ensinarei aos transgressores os teus caminhos, e os pecadores a ti se converterão. ^v13
+**13** Então eu ensinarei aos transgressores os Teus caminhos, e os pecadores se converterão a Ti. ^v13
 
-**14** Livra-me dos crimes de sangue, ó Deus, Deus da minha salvação, e a minha língua louvará altamente a tua justiça. ^v14
+**14** Perdoa-me por derramar sangue, Deus da minha salvação, e eu aclamarei de alegria pela Tua justiça. ^v14
 
-**15** Abre, Senhor, os meus lábios, e a minha boca entoará o teu louvor. ^v15
+**15** Senhor, abre os meus lábios, e a minha boca proclamará o Teu louvor. ^v15
 
-**16** Pois não desejas sacrifícios, senão eu os daria; tu não te deleitas em holocaustos. ^v16
+**16** Pois Tu não Te agradas de sacrifício, senão eu o daria; Tu não tens prazer em holocaustos. ^v16
 
-**17** Os sacrifícios para Deus são o espírito quebrantado; a um coração quebrantado e contrito não desprezarás, ó Deus. ^v17
+**17** Os sacrifícios que agradam a Deus são um espírito quebrantado; um coração contrito e arrependido Tu não desprezarás, ó Deus. ^v17
 
-**18** Faze o bem a Sião, segundo a tua boa vontade; edifica os muros de Jerusalém. ^v18
+**18** Faze o bem a Sião, segundo a Tua boa vontade; reconstrói os muros de Jerusalém. ^v18
 
-**19** Então te agradarás dos sacrifícios de justiça, dos holocaustos e das ofertas queimadas; então se oferecerão novilhos sobre o teu altar. ^v19
+**19** Então Tu Te alegrarás nos sacrifícios de justiça, nas ofertas queimadas e nos holocaustos; e nosso povo oferecerá novilhos em Teu altar. ^v19

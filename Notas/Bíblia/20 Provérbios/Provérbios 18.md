@@ -1,55 +1,54 @@
 ---
-Livro: "[[Provérbios|Provérbios]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Provérbios|Provérbios]]"
+tags: [biblia]
 ---
 
 # Provérbios 18
 
-**1** Busca satisfazer seu próprio desejo aquele que se isola; ele se insurge contra toda sabedoria. ^v1
+**1** Aquele que se isola busca seu próprio desejo, e luta contra todo o bom senso. ^v1
 
-**2** O tolo não tem prazer na sabedoria, mas só em que se manifeste aquilo que agrada o seu coração. ^v2
+**2** O tolo não encontra satisfação no entendimento, mas apenas em revelar o que está em seu próprio coração. ^v2
 
-**3** Vindo o ímpio, vem também o desprezo, e com a ignomínia a vergonha. ^v3
+**3** Quanto ao ímpio, o desprezo vem com ele — juntamente com a vergonha e a repreensão. ^v3
 
-**4** Águas profundas são as palavras da boca do homem, e ribeiro transbordante é a fonte da sabedoria. ^v4
+**4** As palavras da boca de um homem são águas profundas; a fonte da sabedoria é um ribeiro corrente. ^v4
 
-**5** Não é bom favorecer o ímpio, e com isso, fazer o justo perder a questão. ^v5
+**5** Não é bom ser parcial com o perverso, nem negar justiça ao justo. ^v5
 
-**6** Os lábios do tolo entram na contenda, e a sua boca brada por açoites. ^v6
+**6** Os lábios do tolo trazem-lhe conflito, e a sua boca convida o golpe. ^v6
 
-**7** A boca do tolo é a sua própria destruição, e os seus lábios um laço para a sua alma. ^v7
+**7** A boca do tolo é a sua ruína, e ele é pego na armadilha dos seus lábios. ^v7
 
-**8** As palavras do mexeriqueiro são como doces bocados; elas descem ao íntimo do ventre. ^v8
+**8** As palavras do difamador são como deliciosos pedaços de comida que descem para as partes internas do corpo. ^v8
 
-**9** O que é negligente na sua obra é também irmão do desperdiçador. ^v9
+**9** Quem é desleixado em seu trabalho é um irmão para aquele que o destrói. ^v9
 
-**10** Torre forte é o nome do Senhor; a ela correrá o justo, e estará em alto refúgio. ^v10
+**10** O nome de Yahweh é uma torre forte; o justo corre para ela e fica seguro. ^v10
 
-**11** Os bens do rico são a sua cidade forte, e como uma muralha na sua imaginação. ^v11
+**11** A riqueza do rico é a sua cidade fortificada e, em sua imaginação, é como um muro alto. ^v11
 
-**12** O coração do homem se exalta antes de ser abatido e diante da honra vai a humildade. ^v12
+**12** O orgulho precede a ruína, a humildade vem antes da honra. ^v12
 
-**13** O que responde antes de ouvir comete estultícia que é para vergonha sua. ^v13
+**13** Aquele que responde antes de ouvir mostra insensatez e passa vergonha. ^v13
 
-**14** O espírito do homem susterá a sua enfermidade, mas ao espírito abatido, quem o suportará? ^v14
+**14** O espírito de uma pessoa sobreviverá à doença, mas um espírito abatido, quem o pode suportar? ^v14
 
-**15** O coração do entendido adquire o conhecimento, e o ouvido dos sábios busca a sabedoria. ^v15
+**15** O coração do inteligente adquire conhecimento, e o ouvido do sábio o buscará. ^v15
 
-**16** Com presentes o homem alarga o seu caminho e o eleva diante dos grandes. ^v16
+**16** O presente que homem der pode abrir-lhe o caminho, e trazê-lo até uma pessoa importante. ^v16
 
-**17** O que pleiteia por algo, a princípio parece justo, porém vem o seu próximo e o examina. ^v17
+**17** O primeiro a defender seu caso parece correto até que seu oponente venha e o questione. ^v17
 
-**18** A sorte faz cessar os pleitos, e faz separação entre os poderosos. ^v18
+**18** Lançar a sorte faz cessar disputas e separa fortes oponentes. ^v18
 
-**19** O irmão ofendido é mais difícil de conquistar do que uma cidade forte; e as contendas são como os ferrolhos de um palácio. ^v19
+**19** Um irmão ofendido é mais difícil de conquistar que uma cidade forte, e a desavença é como as barras de um castelo. ^v19
 
-**20** Do fruto da boca de cada um se fartará o seu ventre; dos renovos dos seus lábios ficará satisfeito. ^v20
+**20** O estômago de cada um é cheio do fruto de sua boca; da colheita dos seus lábios, ele fica satisfeito. ^v20
 
-**21** A morte e a vida estão no poder da língua; e aquele que a ama comerá do seu fruto. ^v21
+**21** A morte e a vida são controladas pela língua, e aqueles que a amam comerão do seu fruto. ^v21
 
-**22** Aquele que encontra uma esposa, acha o bem, e alcança a benevolência do Senhor. ^v22
+**22** Aquele que encontra uma esposa encontra um bem, e alcança a benevolência de Yahweh. ^v22
 
-**23** O pobre fala com rogos, mas o rico responde com dureza. ^v23
+**23** O pobre implora por misericórdia, mas o rico responde duramente. ^v23
 
-**24** O homem de muitos amigos deve mostrar-se amigável, mas há um amigo mais chegado do que um irmão. ^v24
+**24** Aquele que acredita ter muitos amigos é levado à ruína por eles, mas há amigo que está mais próximo que um irmão. ^v24

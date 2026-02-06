@@ -1,93 +1,92 @@
 ---
-Livro: "[[Êxodo|Êxodo]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Êxodo|Êxodo]]"
+tags: [biblia]
 ---
 
 # Êxodo 28
 
-**1** Depois tu farás chegar a ti teu irmão Arão, e seus filhos com ele, do meio dos filhos de Israel, para me administrarem o ofício sacerdotal; a saber: Arão, Nadabe, e Abiú, Eleazar e Itamar, os filhos de Arão. ^v1
+**1** Chama para si seu irmão Arão e seus filhos Nadabe, Abiú, Eleazar e Itamar dentre os israelitas para servir-Me como sacerdotes. ^v1
 
-**2** E farás vestes sagradas a Arão teu irmão, para glória e ornamento. ^v2
+**2** Tu deves fazer para Arão, teu irmão, vestimentas que são dedicadas a Mim. Essas vestimentas serão para a sua honra e esplendor. ^v2
 
-**3** Falarás também a todos os que são sábios de coração, a quem eu tenho enchido do espírito da sabedoria, que façam vestes a Arão para santificá-lo; para que me administre o ofício sacerdotal. ^v3
+**3** Tu deves falar a todo o povo que tem habilidades especiais, aqueles a quem Eu enchi com o Espírito de sabedoria, para que façam as vestimentas de Arão para separá-lo para Me servir como Meu sacerdote. ^v3
 
-**4** Estas pois são as vestes que farão: um peitoral, e um éfode, e um manto, e uma túnica bordada, uma mitra, e um cinto; farão, pois, santas vestes para Arão, teu irmão, e para seus filhos, para me administrarem o ofício sacerdotal. ^v4
+**4** As vestimentas que eles devem fazer são um peitoral, uma estola , um manto bordado, um turbante e um cinto. Eles devem fazer essas vestimentas dedicadas a Mim. Elas serão para seu irmão Arão e seus filhos para Me servirem como sacerdotes. ^v4
 
-**5** E tomarão o ouro, e o azul, e a púrpura, e o carmesim, e o linho fino, ^v5
+**5** Os artesãos devem usar linho fino, ouro, azul, roxo e vermelho. ^v5
 
-**6** E farão o éfode de ouro, e de azul, e de púrpura, e de carmesim, e de linho fino torcido, de obra esmerada. ^v6
+**6** Eles devem fazer o colete sacerdotal de ouro, de linho fino torcido, e de lã azul, roxa e vermelha. Deve ser um trabalho de um artesão especialista. ^v6
 
-**7** Terá duas ombreiras, que se unam às suas duas pontas, e assim se unirá. ^v7
+**7** Deve ter duas ombreiras unidas nas extremidades superiores. ^v7
 
-**8** E o cinto de obra esmerada do seu éfode, que estará sobre ele, será da sua mesma obra, igualmente, de ouro, de azul, e de púrpura, e de carmesim, e de linho fino torcido. ^v8
+**8** Seu cinto de costura fina deve ser como o colete sacerdotal; deve ser feito formando uma só peça com o colete sacerdotal, feito de ouro, linho fino torcido e de azul, roxo e vermelho. ^v8
 
-**9** E tomarás duas pedras de ônix, e gravarás nelas os nomes dos filhos de Israel, ^v9
+**9** Tu deves levar duas pedras de ônix e gravar nelas os nomes dos doze filhos de Israel. ^v9
 
-**10** Seis dos seus nomes numa pedra, e os outros seis nomes na outra pedra, segundo as suas gerações; ^v10
+**10** Seis de seus nomes devem estar em uma pedra, e seis nomes devem estar na outra pedra, em ordem de idade. ^v10
 
-**11** Conforme à obra do lapidário, como o lavor de selos lavrarás estas duas pedras, com os nomes dos filhos de Israel; engastadas ao redor em ouro as farás. ^v11
+**11** Com o trabalho de um lapidário em pedra, como gravação por sinete, gravarás as duas pedras com os nomes dos doze filhos de Israel. Tu deves montar as pedras com engastes de ouro. ^v11
 
-**12** E porás as duas pedras nas ombreiras do éfode, por pedras de memória para os filhos de Israel; e Arão levará os seus nomes sobre ambos os seus ombros, para memória diante do Senhor. ^v12
+**12** Colocarás as duas pedras nas ombreiras do colete sacerdotal para lembrar Yahweh dos filhos de Israel. Arão carregará seus nomes perante Yahweh, sobre os dois ombros como uma lembrança a ele. ^v12
 
-**13** Farás também engastes de ouro, ^v13
+**13** Deves fazer engastes de ouro ^v13
 
-**14** E duas cadeiazinhas de ouro puro; de igual medida, de obra de fieira as farás; e as cadeiazinhas de fieira porás nos engastes. ^v14
+**14** e duas correntes entrelaçadas de puro ouro como cordões, e deves fixar as correntes nos engastes. ^v14
 
-**15** Farás também o peitoral do juízo de obra esmerada, conforme à obra do éfode o farás; de ouro, de azul, e de púrpura, e de carmesim, e de linho fino torcido o farás. ^v15
+**15** Deves fazer um peitoral do juízo, trabalho de um especialista, desenhado como o sacerdotal. Faça-o de ouro, de azul, roxo, de lã vermelha e de linho fino. ^v15
 
-**16** Quadrado e duplo, será de um palmo o seu comprimento, e de um palmo a sua largura. ^v16
+**16** Deve ser quadrado. Tu deves dobrar o peitoral duas vezes. Ele deve ser de um palmo de comprimento e de um palmo de largura. ^v16
 
-**17** E o encherás de pedras de engaste, com quatro ordens de pedras; a ordem de um sárdio, de um topázio, e de um carbúnculo; esta será a primeira ordem; ^v17
+**17** Deves fixar nele quatro fileiras de pedras preciosas. A primeira fileira deve ter um rubi, um topázio e uma granada. ^v17
 
-**18** E a segunda ordem será de uma esmeralda, de uma safira, e de um diamante; ^v18
+**18** A segunda fileira deve ter uma esmeralda, uma safira e um diamante. ^v18
 
-**19** E a terceira ordem será de um jacinto, de uma ágata, e de uma ametista; ^v19
+**19** A terceira deve ter um jacinto, uma ágata e uma ametista. ^v19
 
-**20** E a quarta ordem será de um berilo, e de um ônix, e de um jaspe; engastadas em ouro serão nos seus engastes. ^v20
+**20** A quarta deve ter um berilo, um ônix e um jaspe. Elas devem ser montadas em engastes de ouro. ^v20
 
-**21** E serão aquelas pedras segundo os nomes dos filhos de Israel, doze segundo os seus nomes; serão esculpidas como selos, cada uma com o seu nome, para as doze tribos. ^v21
+**21** As pedras devem ser arrumadas com os nomes dos doze filhos de Israel, cada uma na ordem dos nomes. Elas devem ser como a gravação de um sinete de anel, cada nome estando como uma das doze tribos. ^v21
 
-**22** Também farás para o peitoral cadeiazinhas de igual medida, obra trançada de ouro puro. ^v22
+**22** Tu deves fazer no peitoral correntes como cordas, trabalho entrelaçado de ouro puro. ^v22
 
-**23** Também farás para o peitoral dois anéis de ouro, e porás os dois anéis nas extremidades do peitoral. ^v23
+**23** Deves fazer duas argolas de ouro para o peitoral e deves fixá-las nas duas extremidades dele. ^v23
 
-**24** Então porás as duas cadeiazinhas de fieira de ouro nos dois anéis, nas extremidades do peitoral; ^v24
+**24** Deves fixar as duas correntes de ouro nas duas extremidades do peitoral. ^v24
 
-**25** E as duas pontas das duas cadeiazinhas de fieira colocarás nos dois engastes, e as porás nas ombreiras do éfode, na frente dele. ^v25
+**25** Deves fixar as outras extremidades das duas correntes entrelaçadas aos dois engastes. Então tu deves prendê-los nas ombreiras do peitoral do colete, na parte da frente. ^v25
 
-**26** Farás também dois anéis de ouro, e os porás nas duas extremidades do peitoral, na sua borda que estiver junto ao éfode por dentro. ^v26
+**26** Deves fazer duas argolas de ouro, e colocá-las nas outras duas extremidades do peitoral, no limite próximo à borda interior. ^v26
 
-**27** Farás também dois anéis de ouro, que porás nas duas ombreiras do éfode, abaixo, na frente dele, perto da sua juntura, sobre o cinto de obra esmerada do éfode. ^v27
+**27** Tu deves fazer mais duas argolas de ouro, e deves fixá-las no fundo das duas ombreiras da frente do colete sacerdotal, próximas às suas costuras, sobre a fina costura do cinto do colete sacerdotal. ^v27
 
-**28** E ligarão o peitoral, com os seus anéis, aos anéis do éfode por cima, com um cordão de azul, para que esteja sobre o cinto de obra esmerada do éfode; e nunca se separará o peitoral do éfode. ^v28
+**28** Eles devem prender o peitoral com essas argolas nas argolas do colete sacerdotal com o cordão azul, para que ele seja fixado exatamente acima do cinto costurado do colete sacerdotal. Isso é para que o peitoral não se separe do colete sacerdotal. ^v28
 
-**29** Assim Arão levará os nomes dos filhos de Israel no peitoral do juízo sobre o seu coração, quando entrar no santuário, para memória diante do Senhor continuamente. ^v29
+**29** Quando Arão for para o lugar santo, ele deve levar os doze nomes dos filhos de Israel no peitoral do juízo sobre o seu coração para tomada de decisão, como um memorial contínuo diante de Yahweh. ^v29
 
-**30** Também porás no peitoral do juízo Urim e Tumim, para que estejam sobre o coração de Arão, quando entrar diante do Senhor: assim Arão levará o juízo dos filhos de Israel sobre o seu coração diante do Senhor continuamente. ^v30
+**30** Tu deves colocar no peitoral do juízo o Urim e o Tumim. Eles devem estar no peito de Arão quando se adentrar perante Yahweh, e Arão deve constantemente levar o juízo dos israelitas em seu peito perante Yahweh. ^v30
 
-**31** Também farás o manto do éfode, todo de azul. ^v31
+**31** Tu deves fazer o manto do colete sacerdotal completamente de tecido na cor púrpura. ^v31
 
-**32** E a abertura da cabeça estará no meio dele; esta abertura terá uma borda de obra tecida ao redor; como abertura de cota de malha será, para que não se rompa. ^v32
+**32** Ele deve ter uma abertura para a cabeça no meio. A abertura deve ter uma borda costurada arredondada para que não se rompa. Deve ser feito por um tecelão. ^v32
 
-**33** E nas suas bordas farás romãs de azul, e de púrpura, e de carmesim, ao redor das suas bordas; e campainhas de ouro no meio delas ao redor. ^v33
+**33** Em sua bainha, deves fazer romãs de fio azul, roxo e vermelho ao redor. Sinos de ouro devem ser colocados entre eles ao redor. ^v33
 
-**34** Uma campainha de ouro, e uma romã, outra campainha de ouro, e outra romã, haverá nas bordas do manto ao redor, ^v34
+**34** Deve haver um sino de ouro e uma romã, um sino de ouro e uma romã - continuamente - ao redor da bainha do manto. ^v34
 
-**35** E estará sobre Arão quando ministrar, para que se ouça o seu sonido, quando entrar no santuário diante do Senhor, e quando sair, para que não morra. ^v35
+**35** Este manto deve estar em Arão quando ele servir, para que seu som possa ser ouvido quando ele entrar no lugar santo, perante Yahweh, e ao sair. Isso é para que ele não morra. ^v35
 
-**36** Também farás uma lâmina de ouro puro, e nela gravarás como as gravuras de selos: SANTIDADE AO SENHOR. ^v36
+**36** Tu deves fazer uma placa de ouro puro e gravar nele, como a gravação de um sinete, DEDICADO A YAHWEH. ^v36
 
-**37** E atá-la-ás com um cordão de azul, de modo que esteja na mitra, na frente da mitra estará; ^v37
+**37** Deves prender essa placa com um cordão azul na frente do turbante. ^v37
 
-**38** E estará sobre a testa de Arão, para que Arão leve a iniqüidade das coisas santas, que os filhos de Israel santificarem em todas as ofertas de suas coisas santas; e estará continuamente na sua testa, para que tenham aceitação perante o Senhor. ^v38
+**38** Isso deve estar na testa de Arão; ele deve sempre levar toda a culpa que possa ser atribuída às ofertas dos presentes sagrados que os israelitas dedicaram a Yahweh. O turbante deve estar sempre em sua testa para que Yahweh possa aceitar seus presentes. ^v38
 
-**39** Também farás túnica de linho fino; também farás uma mitra de linho fino; mas o cinto farás de obra de bordador. ^v39
+**39** Deves fazer uma túnica de fino linho, e tu deves fazer um turbante de fino linho. Deves fazer também um cinto, com o trabalho de um bordador. ^v39
 
-**40** Também farás túnicas aos filhos de Arão, e far-lhes-ás cintos; também lhes farás tiaras, para glória e ornamento. ^v40
+**40** Para os filhos, de Arão deves fazer capas, cintos e tiaras para glória e ornamento deles. ^v40
 
-**41** E vestirás com eles a Arão, teu irmão, e também seus filhos; e os ungirás e consagrarás, e os santificarás, para que me administrem o sacerdócio. ^v41
+**41** Tu deves vestir teu irmão Arão e seus filhos com ele.Tu deves ungi-los, ordená-los, e dedicá-los a Mim, para que eles possam Me servir como sacerdotes. ^v41
 
-**42** Faze-lhes também calções de linho, para cobrirem a carne nua; irão dos lombos até as coxas. ^v42
+**42** Tu deves fazer-lhes calções de linho para cobrir suas partes íntimas, calções que os cobrirão da cintura até as coxas. ^v42
 
-**43** E estarão sobre Arão e sobre seus filhos, quando entrarem na tenda da congregação, ou quando chegarem ao altar para ministrar no santuário, para que não levem iniqüidade e morram; isto será estatuto perpétuo para ele e para a sua descendência depois dele. ^v43
+**43** Arão e seus filhos devem usá-los quando eles entrarem na Tenda do encontro, ou quando eles se aproximarem do altar, para servir no lugar santo. Eles devem fazer isso para que não venham a carregar iniquidade e morram. Isso será uma lei permanente para Arão e seus descendentes após ele. ^v43

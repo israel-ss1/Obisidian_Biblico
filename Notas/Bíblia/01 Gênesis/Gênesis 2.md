@@ -1,57 +1,56 @@
 ---
-Livro: "[[Gênesis|Gênesis]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Gênesis|Gênesis]]"
+tags: [biblia]
 ---
 
 # Gênesis 2
 
-**1** Assim os céus, a terra e todo o seu exército foram acabados. ^v1
+**1** Assim foram concluídos os céus e a terra e tudo que neles há. ^v1
 
-**2** E havendo Deus acabado no dia sétimo a obra que fizera, descansou no sétimo dia de toda a sua obra, que tinha feito. ^v2
+**2** No sétimo dia, Deus terminou o trabalho que tinha feito e, naquele dia, Ele descansou. ^v2
 
-**3** E abençoou Deus o dia sétimo, e o santificou; porque nele descansou de toda a sua obra que Deus criara e fizera. ^v3
+**3** E Deus abençoou o sétimo dia e o santificou, porque nele descansou de toda a obra que havia criado. ^v3
 
-**4** Estas são as origens dos céus e da terra, quando foram criados; no dia em que o Senhor Deus fez a terra e os céus, ^v4
+**4** São essas as origens dos céus e da terra, quando foram criados. Quando Deus Yahweh fez os céus e a terra, ^v4
 
-**5** E toda a planta do campo que ainda não estava na terra, e toda a erva do campo que ainda não brotava; porque ainda o Senhor Deus não tinha feito chover sobre a terra, e não havia homem para lavrar a terra. ^v5
+**5** ainda não havia nenhum arbusto no campo, e nenhuma planta havia brotado, porque Deus Yahweh não tinha feito chover sobre a terra, e não havia nenhum homem para trabalhar no solo. ^v5
 
-**6** Um vapor, porém, subia da terra, e regava toda a face da terra. ^v6
+**6** Mas uma neblina subia da terra e regava toda a superfície do solo. ^v6
 
-**7** E formou o Senhor Deus o homem do pó da terra, e soprou em suas narinas o fôlego da vida; e o homem foi feito alma vivente. ^v7
+**7** Então Deus Yahweh formou o homem do pó da terra e soprou-lhe nas narinas o fôlego de vida, e o homem tornou-se um ser vivente. ^v7
 
-**8** E plantou o Senhor Deus um jardim no Éden, do lado oriental; e pôs ali o homem que tinha formado. ^v8
+**8** Deus Yahweh plantou um jardim na direção do oriente, no Éden, e lá colocou o homem que Ele havia formado. ^v8
 
-**9** E o Senhor Deus fez brotar da terra toda a árvore agradável à vista, e boa para comida; e a árvore da vida no meio do jardim, e a árvore do conhecimento do bem e do mal. ^v9
+**9** Do solo Deus Yahweh fez brotar todo tipo de árvores agradáveis à vista e boa para o alimento. Isso incluía a árvore da vida, que estava no meio do jardim, e a árvore do conhecimento do bem e do mal. ^v9
 
-**10** E saía um rio do Éden para regar o jardim; e dali se dividia e se tornava em quatro braços. ^v10
+**10** Um rio saía do Éden, regava o jardim e dali se dividia e se transformava em quatro rios. ^v10
 
-**11** O nome do primeiro é Pisom; este é o que rodeia toda a terra de Havilá, onde há ouro. ^v11
+**11** O nome do primeiro é Pisom. Esse é o que rodeia a terra de Havilá, onde há ouro. ^v11
 
-**12** E o ouro dessa terra é bom; ali há o bdélio, e a pedra sardônica. ^v12
+**12** O ouro dessa terra é bom. Ali existe também bdélio e a pedra de ônix. ^v12
 
-**13** E o nome do segundo rio é Giom; este é o que rodeia toda a terra de Cuxe. ^v13
+**13** O nome do segundo rio é Giom. Esse percorre toda a terra de Cuxe. ^v13
 
-**14** E o nome do terceiro rio é Tigre; este é o que vai para o lado oriental da Assíria; e o quarto rio é o Eufrates. ^v14
+**14** O nome do terceiro rio é Tigre. Esse é o que corre pelo oriente da Assíria. O quarto rio é o Eufrates. ^v14
 
-**15** E tomou o Senhor Deus o homem, e o pôs no jardim do Éden para o lavrar e o guardar. ^v15
+**15** Deus Yahweh tomou o homem e o colocou dentro do jardim do Éden para que ele o guardasse e o cultivasse. ^v15
 
-**16** E ordenou o Senhor Deus ao homem, dizendo: De toda a árvore do jardim comerás livremente, ^v16
+**16** "Deus Yahweh ordenou ao homem, dizendo: ""De toda árvore deste jardim tu poderás comer livremente." ^v16
 
-**17** Mas da árvore do conhecimento do bem e do mal, dela não comerás; porque no dia em que dela comeres, certamente morrerás. ^v17
+**17** Mas da árvore do conhecimento do bem e do mal tu não poderás comer, porque, no dia em que dela comeres, certamente morrerás. ^v17
 
-**18** E disse o Senhor Deus: Não é bom que o homem esteja só; far-lhe-ei uma ajudadora idônea para ele. ^v18
+**18** "Então Deus Yahweh disse: ""Não é bom que o homem esteja só. Far-lhe-ei uma auxiliadora que lhe seja idônea""." ^v18
 
-**19** Havendo, pois, o Senhor Deus formado da terra todo o animal do campo, e toda a ave dos céus, os trouxe a Adão, para este ver como lhes chamaria; e tudo o que Adão chamou a toda a alma vivente, isso foi o seu nome. ^v19
+**19** Havendo, pois, Deus Yahweh formado da terra todos os animais do campo e todas as aves dos céus, então ele os trouxe ao homem para ver como lhes chamaria. E o nome que o homem desse a cada ser vivo, esse seria seu nome. ^v19
 
-**20** E Adão pôs os nomes a todo o gado, e às aves dos céus, e a todo o animal do campo; mas para o homem não se achava ajudadora idônea. ^v20
+**20** O homem deu nome para todos os animais domésticos, para todos os pássaros dos céus, para todas as feras do campo. Mas, para o homem, não se achava uma auxiliadora que lhe fosse idônea. ^v20
 
-**21** Então o Senhor Deus fez cair um sono pesado sobre Adão, e este adormeceu; e tomou uma das suas costelas, e cerrou a carne em seu lugar; ^v21
+**21** Deus Yahweh fez cair um sono profundo sobre o homem, e ele adormeceu. Deus Yahweh pegou uma de suas costelas e fechou o lugar com carne. ^v21
 
-**22** E da costela que o Senhor Deus tomou do homem, formou uma mulher, e trouxe-a a Adão. ^v22
+**22** Com a costela que Deus Yahweh havia tirado do homem, Ele fez a mulher e a levou a Adão. ^v22
 
-**23** E disse Adão: Esta é agora osso dos meus ossos, e carne da minha carne; esta será chamada mulher, porquanto do homem foi tomada. ^v23
+**23** "E o homem disse: ""Esta agora é osso dos meus ossos, e carne da minha carne. Ela será chamada 'mulher', porque do homem foi tirada""." ^v23
 
-**24** Portanto deixará o homem o seu pai e a sua mãe, e apegar-se-á à sua mulher, e serão ambos uma carne. ^v24
+**24** Por isso deixará o homem seu pai e sua mãe, e se unirá à sua mulher, e eles serão uma só carne. ^v24
 
-**25** E ambos estavam nus, o homem e a sua mulher; e não se envergonhavam. ^v25
+**25** Os dois estavam nus, o homem e sua mulher, mas não se envergonhavam. ^v25

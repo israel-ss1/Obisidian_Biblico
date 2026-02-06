@@ -1,117 +1,116 @@
 ---
-Livro: "[[1 Crônicas|1 Crônicas]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/1 Crônicas|1 Crônicas]]"
+tags: [biblia]
 ---
 
 # 1 Crônicas 2
 
-**1** Estes são os filhos de Israel: Rúben, Simeão, Levi, Judá, Issacar e Zebulom; ^v1
+**1** Estes foram os filhos de Israel: Rúben, Simeão, Levi, Judá, Issacar, Zebulom, ^v1
 
-**2** Dã, José e Benjamim, Naftali, Gade e Aser. ^v2
+**2** Dã, José, Benjamim, Naftali, Gade e Aser. ^v2
 
-**3** Os filhos de Judá foram Er, e Onã, e Selá, estes três lhe nasceram da filha de Suá, a cananéia; e Er, o primogênito de Judá, foi mau aos olhos do Senhor, pelo que o matou. ^v3
+**3** Os filhos de Judá foram Er, Onã e Selá, gerados com a filha de Suá, o cananeu. Er, o primogênito de Judá, era mau aos olhos de Yahweh, e Yahweh o matou. ^v3
 
-**4** Porém Tamar, sua nora, lhe deu à luz Perez e Zerá; todos os filhos de Judá foram cinco. ^v4
+**4** Tamar, nora de Judá, gerou Perez e Zerá. Judá teve cinco filhos. ^v4
 
 **5** Os filhos de Perez foram Hezrom e Hamul. ^v5
 
-**6** E os filhos de Zerá: Zinri, e Etã, e Hemã, e Calcol, e Dara: cinco ao todo. ^v6
+**6** Os filhos de Zerá foram Zinri, Etã, Hemã, Calcol e Dara, cinco ao todo. ^v6
 
-**7** E os filhos de Carmi foram Acar, o perturbador de Israel, que pecou no anátema. ^v7
+**7** O filho de Carmi foi Acar, que trouxe desgraça sobre Israel quando roubou o que era dedicado a Deus. ^v7
 
-**8** E o filho de Etã foi Azarias. ^v8
+**8** O filho de Etã foi Azarias. ^v8
 
-**9** E os filhos de Hezrom, que lhe nasceram, foram Jerameel, e Rão, e Quelubai. ^v9
+**9** Os filhos de Hezrom foram Jerameel, ^v9
 
-**10** E Rão gerou a Aminadabe, e Aminadabe gerou a Naassom, príncipe dos filhos de Judá. ^v10
+**10** Rão e Quelubai. Rão foi pai de Aminadabe, e Aminadabe, de Nasom, um líder dentre os descendentes de Judá. ^v10
 
-**11** E Naassom gerou a Salma, e Salma gerou a Boaz. ^v11
+**11** Nasom foi pai de Salma, e Salma, de Boaz. ^v11
 
-**12** E Boaz gerou a Obede, e Obede gerou a Jessé. ^v12
+**12** Boaz foi pai de Obede, e Obede, de Jessé. ^v12
 
-**13** E Jessé gerou a Eliabe, seu primogênito, e Abinadabe, o segundo, e Siméia, o terceiro. ^v13
+**13** Jessé foi pai de Eliabe, seu primogênito; Abinadabe foi seu segundo filho; Simeia, o terceiro; ^v13
 
-**14** Natanael, o quarto, Radai, o quinto. ^v14
+**14** Netanel, o quarto; Radai, o quinto; ^v14
 
-**15** Ozém, o sexto, Davi, o sétimo. ^v15
+**15** Ozen, o sexto; e Davi, o sétimo. ^v15
 
-**16** E foram suas irmãs Zeruia e Abigail; e foram os filhos de Zeruia: Abisai e Joabe, e Asael, três. ^v16
+**16** As irmãs deles eram Zeruia e Abigail. Os três filhos de Zeruia foram Abisai, Joabe e Asael. ^v16
 
-**17** E Abigail deu à luz a Amasa; e o pai de Amasa foi Jeter, o ismaelita. ^v17
+**17** Abigail gerou Amasa, cujo pai era Jéter, o ismaelita. ^v17
 
-**18** E Calebe, filho de Hezrom, gerou filhos de Azuba, sua mulher, e de Jeriote; e os filhos desta foram estes: Jeser, Sobabe, e Ardom. ^v18
+**18** Calebe, filho de Hezrom, teve filhos com Azuba, sua mulher, e com Jeriote; seus filhos foram Jeser, Sobabe e Ardom. ^v18
 
-**19** E morreu Azuba; e Calebe tomou para si a Efrate, da qual lhe nasceu Hur. ^v19
+**19** Azuba morreu e, então, Calebe casou-se com Efrata, que gerou Hur. ^v19
 
-**20** E Hur gerou a Uri, e Uri gerou a Bezaleel. ^v20
+**20** Hur foi pai de Uri, e Uri foi pai de Bezalel. ^v20
 
-**21** Então Hezrom coabitou com a filha de Maquir, pai de Gileade, e, sendo ele de sessenta anos, a tomou; e ela deu à luz a Segube. ^v21
+**21** Mais tarde, Hezrom, quando tinha sessenta anos de idade, casou-se com a filha de Maquir, pai de Gileade. ^v21
 
-**22** E Segube gerou a Jair; e este tinha vinte e três cidades na terra de Gileade. ^v22
+**22** Ela gerou Segube, que foi pai de Jair, que liderou vinte e três cidades na terra de Gileade. ^v22
 
-**23** E Gesur e Arã tomaram deles as aldeias de Jair, e Quenate, e seus lugares, sessenta cidades; todos estes foram filhos de Maquir, pai de Gileade. ^v23
+**23** Gesur e Arã tomaram as cidades de Jair e Quenate, assim como também os sessenta povoados ao redor. Todos esses habitantes eram descendentes de Maquir, pai de Gileade. ^v23
 
-**24** E, depois da morte de Hezrom, em Calebe de Efrata, Abia, mulher de Hezrom, deu à luz a Asur, pai de Tecoa. ^v24
+**24** "Após a morte de Hezrom, em Calebe Efrata, Abia, esposa de Hezrom, gerou Asur, que foi pai de Tecoa. [Algumas versões trazem: ""Após a morte de Hezrom, Calebe deitou-se com Efrata, a esposa de seu pai, Hezrom. Ela gerou Asur, que foi pai de Tecoa""]." ^v24
 
-**25** E os filhos de Jerameel, primogênito de Hezrom, foram Rão, o primogênito, Buna, Orem, Ozém e Aías. ^v25
+**25** Os filhos de Jerameel, o primogênito de Hezrom, foram: Rão, seu primogênito, Buna, Orém, Ozém e Aías. ^v25
 
-**26** Teve também Jerameel ainda outra mulher cujo nome era Atara; esta foi a mãe de Onã. ^v26
+**26** Jerameel teve outra esposa, cujo nome era Atara. Ela foi mãe de Onã. ^v26
 
-**27** E foram os filhos de Rão, primogênito de Jerameel: Maaz, Jamim, e Equer. ^v27
+**27** Os filhos de Rão, o primogênito de Jerameel, foram Maaz, Jamim e Equer. ^v27
 
-**28** E foram os filhos de Onã: Samai e Jada; e os filhos de Samai: Nadabe e Abisur. ^v28
+**28** Os filhos de Onã foram Samai e Jada. Os filhos de Samai foram Nadabe e Abisur. ^v28
 
-**29** E o nome da mulher de Abisur era Abiail, que lhe deu a Abã e a Molide. ^v29
+**29** A mulher de Abisur se chamava Abiail; ela gerou Abã e Molide. ^v29
 
-**30** E foram os filhos de Nadabe, Selede e Apaim; e Selede morreu sem filhos. ^v30
+**30** Os filhos de Nadabe foram Selede e Apaim; Selede morreu sem filhos. ^v30
 
-**31** E o filho de Apaim foi Isi; e o filho de Isi, Sesã. E o filho de Sesã, Alai. ^v31
+**31** O filho de Apaim foi Isi. O filho de Isi foi Sesã. O filho de Sesã foi Alai. ^v31
 
-**32** E os filhos de Jada, irmão de Samai, foram Jeter e Jônatas; e Jeter morreu sem filhos. ^v32
+**32** Os filhos de Jada, irmão de Samai, foram Jéter e Jônatas. Jéter morreu sem filhos. ^v32
 
-**33** E os filhos de Jônatas foram: Pelete e Zaza; estes foram os filhos de Jerameel. ^v33
+**33** Os filhos de Jônatas foram Pelete e Zaza. Estes foram os descendentes de Jerameel. ^v33
 
-**34** E Sesã não teve filhos, mas filhas; e tinha Sesã um servo egípcio, cujo nome era Jará. ^v34
+**34** Sesã não teve filhos, apenas filhas. Sesã teve um servo egípcio, cujo nome era Jará. ^v34
 
-**35** Deu, pois, Sesã sua filha por mulher a Jará, seu servo; e lhe deu à luz a Atai. ^v35
+**35** Sesã deu sua filha por mulher a Jará, seu servo; ela lhe gerou Atai. ^v35
 
-**36** E Atai gerou a Natã, e Natã gerou a Zabade. ^v36
+**36** Atai foi pai de Natã, e Natã de Zabade. ^v36
 
-**37** E Zabade gerou a Eflal, e Eflal gerou a Obede. ^v37
+**37** Zadabe foi pai de Eflal, e Eflal de Obede. ^v37
 
-**38** E Obede gerou a Jeú, e Jeú gerou a Azarias. ^v38
+**38** Obede foi pai de Jeú, e Jeú de Azarias. ^v38
 
-**39** E Azarias gerou a Helez, e Helez gerou a Eleasá. ^v39
+**39** Azarias foi pai de Helez, e Helez, de Eleasá. ^v39
 
-**40** E Eleasá gerou a Sismai, e Sismai gerou a Salum. ^v40
+**40** Eleasá foi pai de Sismai, e Sismai, de Salum. ^v40
 
-**41** E Salum gerou a Jecamias, e Jecamias gerou a Elisama. ^v41
+**41** Salum foi pai de Jecamias, e Jecamias, de Elisama. ^v41
 
-**42** E foram os filhos de Calebe, irmão de Jerameel, Messa, seu primogênito (este foi o pai de Zife), e os filhos de Maressa, pai de Hebrom. ^v42
+**42** Os filhos de Calebe, irmão de Jerameel, foram Messa, seu primogênito, que foi pai de Zife, e Maressa, seu segundo filho, que foi o pai de Hebrom. ^v42
 
-**43** E foram os filhos de Hebrom: Coré, Tápua, Requém e Sema. ^v43
+**43** Os filhos de Hebrom foram Corá, Tapua, Requém e Sema. ^v43
 
-**44** E Sema gerou a Raão, pai de Jorqueão; e Requém gerou a Samai. ^v44
+**44** Sema gerou Raão, pai de Jorqueão. Requém gerou Samai. ^v44
 
-**45** E foi o filho de Samai, Maom; e Maom foi pai de Bete-Zur. ^v45
+**45** O filho de Samai foi Maom, e Maom foi pai de Bete-Zur. ^v45
 
-**46** E Efá, a concubina de Calebe, deu à luz a Harã, a Mosa, e a Gazez; e Harã gerou a Gazez. ^v46
+**46** Efá, concubina de Calebe, gerou Harã, Moza e Gazez. Harã foi pai de Gazez. ^v46
 
-**47** E foram filhos de Jadai: Regém, Jotão, Gesã, Pelete, Efá e Saafe. ^v47
+**47** Os filhos de Jadai foram Regém, Jotão, Gesã, Pelete, Efá e Saafe. ^v47
 
-**48** De Maaca, concubina, Calebe gerou a Seber e a Tiraná. ^v48
+**48** Maacá, concubina de Calebe, gerou Seber e Tiraná. ^v48
 
-**49** E a mulher de Saafe, pai de Madmana, deu à luz a Seva, pai de Macbena e pai de Gibeá; e foi a filha de Calebe, Acsa. ^v49
+**49** Ela também gerou Saafe, pai de Madmana, Seva, pai de Macbena e de Gibeá. A filha de Calebe foi Acsa. Esses foram os descendentes de Calebe. ^v49
 
-**50** Estes foram os filhos de Calebe, filho de Hur, o primogênito de Efrata: Sobal, pai de Quiriate-Jearim, ^v50
+**50** Os filhos de Hur foram estes: seu primogênito Efrata, Sobal, pai de Quiriate-Jearim, ^v50
 
-**51** E Salma, pai dos belemitas, Harefe, pai de Bete-Gader. ^v51
+**51** Salma, pai de Belém, e Harefe, pai de Bete-Gader. ^v51
 
-**52** E foram os filhos de Sobal, pai de Quiriate-Jearim: Haroé e metade dos menuítas. ^v52
+**52** Sobal, pai de Quiriate-Jearim, teve descendentes: Haroé, metade dos manaatitas ^v52
 
-**53** E as famílias de Quiriate-Jearim foram os jitreus, e os puteus, e os sumateus, e os misraeus; destes saíram os zorateus, e os estaoleus. ^v53
+**53** e os clãs de Quiriate-Jearim: os itritas, os fateus, os sumateus e os misraeus. Os zoratitas e os estaoleus descenderam destes. ^v53
 
-**54** Os filhos de Salma foram Belém e os netofatitas, Atarote, Bete-Joabe, e metade dos manaatitas, e os zoritas. ^v54
+**54** Os clãs de Salma foram os habitantes de Belém, os netofatitas, Atarote-Bete-Joabe, metade dos manaatitas, os zoritas, ^v54
 
-**55** E as famílias dos escribas que habitavam em Jabez foram os tiratitas, os simeatitas e os sucatitas; estes são os queneus, que vieram de Hamate, pai da casa de Recabe. ^v55
+**55** os clãs dos escribas que viviam em Jabes: os tiratitas, os simeatitas e os sucatitas. Esses foram os queneus, que descenderam de Hamate, o antecessor de Recabe. ^v55

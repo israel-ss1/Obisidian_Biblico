@@ -1,61 +1,60 @@
 ---
-Livro: "[[Provérbios|Provérbios]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Provérbios|Provérbios]]"
+tags: [biblia]
 ---
 
 # Provérbios 4
 
-**1** Ouvi, filhos, a instrução do pai, e estai atentos para conhecerdes a prudência. ^v1
+**1** Escutai, filhos, a instrução do pai, e prestai atenção; assim conhecereis o que é o entendimento. ^v1
 
-**2** Pois dou-vos boa doutrina; não deixeis a minha lei. ^v2
+**2** Estou vos dando boas instruções; não abandoneis o meu ensino. ^v2
 
-**3** Porque eu era filho tenro na companhia de meu pai, e único diante de minha mãe. ^v3
+**3** Quando eu era o menino do meu pai, o tenro e único filho da minha mãe, ^v3
 
-**4** E ele me ensinava e me dizia: Retenha o teu coração as minhas palavras; guarda os meus mandamentos, e vive. ^v4
+**4** "ele me ensinava e me dizia: ""Que teu coração se agarre em minhas palavras; guarda meus mandamentos e vive." ^v4
 
-**5** Adquire sabedoria, adquire inteligência, e não te esqueças nem te apartes das palavras da minha boca. ^v5
+**5** Adquire sabedoria e entendimento; não te esqueças nem rejeites as palavras de minha boca; ^v5
 
-**6** Não a abandones e ela te guardará; ama-a, e ela te protegerá. ^v6
+**6** não abandones a sabedoria, e ela te protegerá; ama-a, e ela te manterá em segurança. ^v6
 
-**7** A sabedoria é a coisa principal; adquire pois a sabedoria, emprega tudo o que possuis na aquisição de entendimento. ^v7
+**7** A sabedoria é a coisa mais importante. Portanto, adquire sabedoria e usa tudo o que possuis para adquirir o entendimento. ^v7
 
-**8** Exalta-a, e ela te exaltará; e, abraçando-a tu, ela te honrará. ^v8
+**8** Valoriza a sabedoria e ela te exaltará; ela te honrará quando tu a abraçares. ^v8
 
-**9** Dará à tua cabeça um diadema de graça e uma coroa de glória te entregará. ^v9
+**9** "Ela colocará uma coroa de honra em tua cabeça; ela te dará um diadema de glória""." ^v9
 
-**10** Ouve, filho meu, e aceita as minhas palavras, e se multiplicarão os anos da tua vida. ^v10
+**10** Ouve, meu filho, e presta atenção às minhas palavras, e tu terás muitos anos de vida. ^v10
 
-**11** No caminho da sabedoria te ensinei, e por veredas de retidão te fiz andar. ^v11
+**11** Eu te conduzi no caminho da sabedoria; eu te guiei pelos caminhos justos. ^v11
 
-**12** Por elas andando, não se embaraçarão os teus passos; e se correres não tropeçarás. ^v12
+**12** Quando andares, ninguém impedirá os teus caminhos, e, se correres, tu não tropeçarás. ^v12
 
-**13** Apega-te à instrução e não a largues; guarda-a, porque ela é a tua vida. ^v13
+**13** Apega-te à instrução, não a soltes; guarda-a, pois ela é a tua vida. ^v13
 
-**14** Não entres pela vereda dos ímpios, nem andes no caminho dos maus. ^v14
+**14** Não sigas a vereda dos perversos e não andes pelo caminho dos que fazem o mal. ^v14
 
-**15** Evita-o; não passes por ele; desvia-te dele e passa de largo. ^v15
+**15** Evita-o, não passes por ele; afasta-te dele e vai por outro caminho. ^v15
 
-**16** Pois não dormem, se não fizerem mal, e foge deles o sono se não fizerem alguém tropeçar. ^v16
+**16** Pois eles não conseguem dormir até que façam o mal, e seu sono é roubado até que façam alguém tropeçar. ^v16
 
-**17** Porque comem o pão da impiedade, e bebem o vinho da violência. ^v17
+**17** Pois eles comem o pão da maldade e bebem o vinho da violência. ^v17
 
-**18** Mas a vereda dos justos é como a luz da aurora, que vai brilhando mais e mais até ser dia perfeito. ^v18
+**18** Mas a vereda dos justos é como a primeira luz do dia, que tem brilho crescente; ela brilha mais e mais até que a plenitude do dia chegue. ^v18
 
-**19** O caminho dos ímpios é como a escuridão; nem sabem em que tropeçam. ^v19
+**19** O caminho dos perversos é como a escuridão; eles não sabem em que tropeçam. ^v19
 
-**20** Filho meu, atenta para as minhas palavras; às minhas razões inclina o teu ouvido. ^v20
+**20** Meu filho, presta atenção às minhas palavras; inclina o teu ouvido aos meus dizeres. ^v20
 
-**21** Não as deixes apartar-se dos teus olhos; guarda-as no íntimo do teu coração. ^v21
+**21** Que eles não se afastem de teus olhos; guarda-os em teu coração. ^v21
 
-**22** Porque são vida para os que as acham, e saúde para todo o seu corpo. ^v22
+**22** Pois as minhas palavras são vida para aqueles que as encontram e saúde para o seu corpo inteiro. ^v22
 
-**23** Sobre tudo o que se deve guardar, guarda o teu coração, porque dele procedem as fontes da vida. ^v23
+**23** Mantém o teu coração seguro e guarda-o com toda a diligência, porque dele fluem as fontes da vida. ^v23
 
-**24** Desvia de ti a falsidade da boca, e afasta de ti a perversidade dos lábios. ^v24
+**24** Remove de ti as palavras falsas e afasta de ti a fala perversa. ^v24
 
-**25** Os teus olhos olhem para a frente, e as tuas pálpebras olhem direto diante de ti. ^v25
+**25** Que os teus olhos olhem para frente e fixa o teu olhar no que está diante de ti. ^v25
 
-**26** Pondera a vereda de teus pés, e todos os teus caminhos sejam bem ordenados! ^v26
+**26** Faz um trajeto reto para os teus pés; então, todos os teus caminhos estarão seguros. ^v26
 
-**27** Não declines nem para a direita nem para a esquerda; retira o teu pé do mal. ^v27
+**27** Não te desvies nem para a direita nem para a esquerda; afasta os teus pés do mal. ^v27

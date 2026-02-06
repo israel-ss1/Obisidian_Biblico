@@ -1,59 +1,58 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Jeremias|Jeremias]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Jeremias|Jeremias]]"
+tags: [biblia]
 ---
 
 # Jeremias 33
 
-**1** E veio a palavra do SENHOR a Jeremias, segunda vez, estando ele ainda encarcerado no pátio da guarda, dizendo: ^v1
+**1** Então, a palavra de Yahweh veio a Jeremias, pela segunda vez, enquanto ele ainda estava preso no pátio da guarda, dizendo: ^v1
 
-**2** Assim diz o Senhor que faz isto, o Senhor que forma isto, para o estabelecer; o Senhor é o seu nome. ^v2
+**2** """Yahweh, o Criador que faz estas coisas, que as forma a fim de estabelecê-las, Yahweh é o Seu nome, diz isto:" ^v2
 
-**3** Clama a mim, e responder-te-ei, e anunciar-te-ei coisas grandes e firmes que não sabes. ^v3
+**3** 'Clama a Mim e te responderei; revelarei coisas grandes para ti, mistérios que não conheces.' ^v3
 
-**4** Porque assim diz o Senhor, o Deus de Israel, acerca das casas desta cidade, e das casas dos reis de Judá, que foram derrubadas com os aríetes e à espada. ^v4
+**4** Pois Yahweh, o Deus de Israel, diz isto acerca das casas desta cidade, e das casas dos reis de Judá, que foram derrubadas para a defesa contra as rampas de cercos e a espada. ^v4
 
-**5** Eles entraram a pelejar contra os caldeus, mas isso é para os encher de cadáveres de homens, que feri na minha ira e no meu furor; porquanto escondi o meu rosto desta cidade, por causa de toda a sua maldade. ^v5
+**5** Os babilônios estão chegando para lutar e para encher as casas com cadáveres, a quem Eu matarei com Minha ira e fúria, porque escondi Minha face desta cidade, por causa de todas as suas maldades. ^v5
 
-**6** Eis que eu trarei a ela saúde e cura, e os sararei, e lhes manifestarei abundância de paz e de verdade. ^v6
+**6** Mas, vede, Eu estou prestes a trazer saúde e cura, pois Eu irei curá-los e lhes trarei abundância, paz e fidelidade. ^v6
 
-**7** E removerei o cativeiro de Judá e o cativeiro de Israel, e os edificarei como ao princípio. ^v7
+**7** Eu trarei de volta a sorte de Judá e Israel, e os reedificarei como no princípio. ^v7
 
-**8** E os purificarei de toda a sua maldade com que pecaram contra mim; e perdoarei todas as suas maldades, com que pecaram e transgrediram contra mim; ^v8
+**8** Então, os purificarei de toda maldade que eles cometeram contra Mim; perdoarei todas as iniquidades que praticaram, e todas as maneiras pelas quais se rebelaram contra Mim. ^v8
 
-**9** E este lugar me servirá de nome, de gozo, de louvor, e de glória, entre todas as nações da terra, que ouvirem todo o bem que eu lhe faço; e espantar-se-ão e perturbar-se-ão por causa de todo o bem, e por causa de toda a paz que eu lhe dou. ^v9
+**9** Então, esta cidade se tornará para Mim um objeto de alegria, uma canção de louvor e honra diante das nações da terra, que ouvirão todas as coisas boas que Eu farei para ela. Então, elas tremerão espantadas por causa de todo o bem e da paz que lhes darei.' ^v9
 
-**10** Assim diz o Senhor: Neste lugar de que vós dizeis que está desolado, e sem homem, sem animal nas cidades de Judá, e nas ruas de Jerusalém, que estão assoladas, sem homem, sem morador, sem animal, ainda se ouvirá: ^v10
+**10** "Yahweh diz isto: ""Neste lugar sobre o qual agora vós estás dizendo: 'É uma desolação. Não existe nenhum homem, nem animal nas cidades de Judá; e as ruas de Jerusalém são inabitáveis, sem nenhum homem ou animal.'" ^v10
 
-**11** A voz de gozo, e a voz de alegria, a voz do esposo e a voz da esposa, e a voz dos que dizem: Louvai ao Senhor dos Exércitos, porque bom é o Senhor, porque a sua benignidade dura para sempre; dos que trazem ofertas de ação de graças à casa do Senhor; pois farei voltar os cativos da terra como ao princípio, diz o Senhor. ^v11
+**11** "Novamente, serão ouvidos os sons de alegria e celebração, sons de noivos e noivas, sons das vozes de pessoas que fazem ofertas de agradecimento à Casa de Yahweh: ""Dai graças a Yahweh dos Exércitos, porque Ele é bom, o Seu amor leal não tem fim"". Pois mudarei o destino desta terra, tornando-a como era no princípio', diz Yahweh." ^v11
 
-**12** Assim diz o Senhor dos Exércitos: Ainda neste lugar, que está deserto, sem homem nem animal, e em todas as suas cidades, haverá uma morada de pastores, que façam repousar aos seus rebanhos. ^v12
+**12** "Assim diz Yahweh dos Exércitos: ""Neste lugar desolado, onde agora não existe homem nem animal, haverá novamente, em todas as cidades, pastos onde os pastores poderão repousar seus rebanhos." ^v12
 
-**13** Nas cidades das montanhas, nas cidades das planícies, e nas cidades do sul, e na terra de Benjamim, e nos contornos de Jerusalém, e nas cidades de Judá, ainda passarão os rebanhos pelas mãos dos contadores, diz o Senhor. ^v13
+**13** "Nas cidades da região montanhosa, nas cidades das planícies, nas cidades do Sul, na terra de Benjamim, nas vilas ao redor de Jerusalém e nas cidades de Judá ainda passarão os rebanhos pelas mãos de quem os conte"", diz Yahweh." ^v13
 
-**14** Eis que vêm dias, diz o Senhor, em que cumprirei a boa palavra que falei à casa de Israel e à casa de Judá; ^v14
+**14** Olhai! Eis que vêm dias – esta é a declaração de Yahweh – quando Eu farei o que prometi à casa de Israel e à casa de Judá. ^v14
 
-**15** Naqueles dias e naquele tempo farei brotar a Davi um Renovo de justiça, e ele fará juízo e justiça na terra. ^v15
+**15** Naqueles dias e naquele tempo, farei brotar de Davi um Renovo Justo, e ele fará justiça e retidão na terra. ^v15
 
-**16** Naqueles dias Judá será salvo e Jerusalém habitará seguramente; e este é o nome com o qual Deus a chamará: O Senhor é a nossa justiça. ^v16
+**16** "Naqueles dias, Judá será salva e Jerusalém viverá em segurança, pois este é o nome pela qual será chamada: ""Yahweh é a nossa justiça.""" ^v16
 
-**17** Porque assim diz o Senhor: Nunca faltará a Davi homem que se assente sobre o trono da casa de Israel; ^v17
+**17** "Pois assim diz Yahweh: ""Nunca faltará um homem da linhagem de Davi para assentar-se no trono da casa de Israel," ^v17
 
-**18** Nem aos sacerdotes levíticos faltará homem diante de mim, que ofereça holocausto, queime oferta de alimentos e faça sacrifício todos os dias. ^v18
+**18** "nem faltará um homem dos sacerdotes levitas, diante de Mim, para levantar holocaustos, para queimar ofertas de alimentos, e realizar ofertas de cereais em todo o tempo.""" ^v18
 
-**19** E veio a palavra do Senhor a Jeremias, dizendo: ^v19
+**19** A palavra de Yahweh veio a Jeremias, dizendo: ^v19
 
-**20** Assim diz o Senhor: Se puderdes invalidar a minha aliança com o dia, e a minha aliança com a noite, de tal modo que não haja dia e noite a seu tempo, ^v20
+**20** """Assim diz Yahweh: Se puderdes quebrar Minha aliança com o dia e com a noite, de modo que não haja nem dia nem noite a seu tempo," ^v20
 
-**21** Também se poderá invalidar a minha aliança com Davi, meu servo, para que não tenha filho que reine no seu trono; como também com os levitas, sacerdotes, meus ministros. ^v21
+**21** então, vós também quebrareis Meu pacto com Davi, Meu servo, para que ele não tenha um filho para reinar em seu trono; como também o Meu pacto com os pastores levitas, Meus servos. ^v21
 
-**22** Como não se pode contar o exército dos céus, nem medir-se a areia do mar, assim multiplicarei a descendência de Davi, meu servo, e os levitas que ministram diante de mim. ^v22
+**22** "Como as estrelas do céu não podem ser contadas, e como a areia do mar não pode ser medida, assim aumentarei os descendentes de Davi, Meu servo, e dos levitas que Me servem.""" ^v22
 
-**23** E veio ainda a palavra do Senhor a Jeremias, dizendo: ^v23
+**23** A palavra de Yahweh veio a Jeremias, dizendo: ^v23
 
-**24** Porventura não tens visto o que este povo está dizendo: As duas gerações, que o Senhor escolheu, agora as rejeitou? Assim desprezam o meu povo, como se não fora mais uma nação diante deles. ^v24
+**24** """Não tens considerado o que este povo tem declarado quando dizem: 'As duas famílias que Yahweh escolheu, agora Ele tem rejeitado?' Assim, desprezam Meu povo, dizendo que eles não são mais uma nação." ^v24
 
-**25** Assim diz o Senhor: Se a minha aliança com o dia e com a noite não permanecer, e eu não puser as ordenanças dos céus e da terra, ^v25
+**25** Eu, Yahweh, digo isto: 'Se a minha aliança com o dia e a noite não vale mais, e se Eu não manter a harmonia do céu e terra, ^v25
 
-**26** Também rejeitarei a descendência de Jacó, e de Davi, meu servo, para que não tome da sua descendência os que dominem sobre a descendência de Abraão, Isaque, e Jacó; porque removerei o seu cativeiro, e apiedar-me-ei deles. ^v26
+**26** "então, Eu rejeitarei os descendentes de Jacó e Davi, Meu servo, e não trarei uma pessoa para governar sobre os descendentes de Abraão, Isaque e Jacó. Porque lhes restaurarei a sorte e lhes mostrarei misericórdia.""" ^v26

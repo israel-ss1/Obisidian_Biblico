@@ -1,57 +1,56 @@
 ---
-Livro: "[[2 Samuel|2 Samuel]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/2 Samuel|2 Samuel]]"
+tags: [biblia]
 ---
 
 # 2 Samuel 5
 
-**1** Então todas as tribos de Israel vieram a Davi, em Hebrom, e falaram, dizendo: Eis-nos aqui, somos teus ossos e tua carne. ^v1
+**1** "Então, todas as tribos de Israel vieram até Davi, em Hebrom, e disseram: ""Vê, somos tua carne e teu osso." ^v1
 
-**2** E também outrora, sendo Saul ainda rei sobre nós, eras tu o que saías e entravas com Israel; e também o Senhor te disse: Tu apascentarás o meu povo de Israel, e tu serás príncipe sobre Israel. ^v2
+**2** "Num passado recente, quando Saul reinava sobre nós, eras tu quem lideravas o exército de Israel. Yahweh te disse: 'Tu pastorearás Meu povo Israel e tu governarás sobre Israel'""." ^v2
 
-**3** Assim, pois, todos os anciãos de Israel vieram ao rei, em Hebrom; e o rei Davi fez com eles acordo em Hebrom, perante o Senhor; e ungiram a Davi rei sobre Israel. ^v3
+**3** Então, todos os anciãos de Israel vieram ao rei, em Hebrom, e o rei Davi celebrou uma aliança diante de Yahweh. Ungiram Davi rei sobre Israel. ^v3
 
-**4** Da idade de trinta anos era Davi quando começou a reinar; quarenta anos reinou. ^v4
+**4** Davi tinha trinta anos quando começou a reinar e reinou quarenta anos. ^v4
 
-**5** Em Hebrom reinou sobre Judá sete anos e seis meses, e em Jerusalém reinou trinta e três anos sobre todo o Israel e Judá. ^v5
+**5** Em Hebrom, ele reinou sobre Judá sete anos e seis meses; em Jerusalém, ele reinou trinta e três anos sobre todo o Israel e Judá. ^v5
 
-**6** E partiu o rei com os seus homens a Jerusalém, contra os jebuseus que habitavam naquela terra; e falaram a Davi, dizendo: Não entrarás aqui, pois os cegos e os coxos te repelirão, querendo dizer: Não entrará Davi aqui. ^v6
+**6** "O rei e seus homens foram até Jerusalém contra os Jebuseus, os habitantes da terra. Eles disseram a Davi: ""Tu não virás aqui, exceto para seres expulso pelos cegos e aleijados. Davi não poderá vir aqui""." ^v6
 
-**7** Porém Davi tomou a fortaleza de Sião; esta é a cidade de Davi. ^v7
+**7** No entanto, Davi capturou a fortaleza de Sião, a qual é, agora, a cidade de Davi. ^v7
 
-**8** Porque Davi disse naquele dia: Qualquer que ferir aos jebuseus, suba ao canal e fira aos coxos e aos cegos, a quem a alma de Davi odeia. Por isso se diz: Nem cego nem coxo entrará nesta casa. ^v8
+**8** "Naquele tempo, Davi disse: ""Qualquer que atacar os Jebuseus deverá passar pelo duto de água para alcançar aqueles 'cegos e aleijados', que são inimigos de Davi"". É por isso que o povo diz: ""Os cegos e aleijados não poderão vir para o palácio""." ^v8
 
-**9** Assim habitou Davi na fortaleza, e a chamou a cidade de Davi; e Davi foi edificando em redor, desde Milo para dentro. ^v9
+**9** Então, Davi passou a viver na fortaleza e a chamou de cidade de Davi. Ele fortificou seus arredores, desde o terraço até o interior. ^v9
 
-**10** E Davi ia, cada vez mais, aumentando e crescendo, porque o Senhor Deus dos Exércitos era com ele. ^v10
+**10** Davi se tornou muito poderoso porque Yahweh, o Deus dos Exércitos, estava com ele. ^v10
 
-**11** E Hirão, rei de Tiro, enviou mensageiros a Davi, e madeira de cedro, e carpinteiros, e pedreiros que edificaram a Davi uma casa. ^v11
+**11** Então, Hirão, rei de Tiro, enviou mensageiros a Davi e cedros, carpinteiros e pedreiros. Eles construíram uma casa para Davi. ^v11
 
-**12** E entendeu Davi que o Senhor o confirmara rei sobre Israel, e que exaltara o seu reino por amor do seu povo. ^v12
+**12** Davi sabia que Yahweh o tinha estabelecido como rei de Israel e que Ele havia exaltado seu reino por amor do Seu povo de Israel. ^v12
 
-**13** E tomou Davi mais concubinas e mulheres de Jerusalém, depois que viera de Hebrom; e nasceram a Davi mais filhos e filhas. ^v13
+**13** Após Davi ter deixado Hebrom e ido para Jerusalém, ele tomou mais cocumbinas e esposas em Jerusalém, e mais filhos e filhas nasceram. ^v13
 
-**14** E estes são os nomes dos que lhe nasceram em Jerusalém: Samua, e Sobabe, e Natã, e Salomão, ^v14
+**14** Estes foram os nomes dos filhos que lhe nasceram em Jerusalém: Samua, Sabote, Natã, Salomão, ^v14
 
-**15** E Ibar, e Elisua, e Nefegue, e Jafia, ^v15
+**15** Ibar, Eliusa, Nefegue, Jafia, ^v15
 
-**16** E Elisama, e Eliada, e Elifelete. ^v16
+**16** Elisma, Eliadá e Elifelete. ^v16
 
-**17** Ouvindo, pois, os filisteus que haviam ungido a Davi rei sobre Israel, todos os filisteus subiram em busca de Davi; o que ouvindo Davi, desceu à fortaleza. ^v17
+**17** Quando os filisteus ouviram que Davi havia sido ungido como rei sobre Israel, todos eles saíram à sua procura. Mas Davi ouviu sobre isso e desceu para a sua fortaleza. ^v17
 
-**18** E os filisteus vieram, e se estenderam pelo vale de Refaim. ^v18
+**18** Os filisteus foram e se espalharam pelo vale de Refaim. ^v18
 
-**19** E Davi consultou ao Senhor, dizendo: Subirei contra os filisteus? Entregar-mos-ás nas minhas mãos? E disse o Senhor a Davi: Sobe, porque certamente entregarei os filisteus nas tuas mãos. ^v19
+**19** "Então, Davi pediu ajuda de Yahweh. Davi disse: ""Deverei atacar os filisteus? Tu me darás vitória sobre eles?"". Yahweh disse a Davi: ""Ataca, pois Eu certamente te darei vitória sobre os filisteus""." ^v19
 
-**20** Então foi Davi a Baal-Perazim; e feriu-os ali Davi, e disse: Rompeu o Senhor a meus inimigos diante de mim, como quem rompe águas. Por isso chamou o nome daquele lugar Baal-Perazim. ^v20
+**20** "Então, Davi atacou em Baal-Perazim, e ali os derrotou. Davi comentou: ""Yahweh derrotou meus inimigos diante de mim, como águas de um dilúvio destruidor"". Então, aquele lugar foi chamado Baal-Perazim." ^v20
 
-**21** E deixaram ali os seus ídolos; e Davi e os seus homens os tomaram. ^v21
+**21** Os filisteus deixaram seus ídolos lá, e Davi e seus homens os levaram dali. ^v21
 
-**22** E os filisteus tornaram a subir, e se estenderam pelo vale de Refaim. ^v22
+**22** Então, os filisteus subiram outra vez e se espalharam pelo vale de Refaim. ^v22
 
-**23** E Davi consultou ao Senhor, o qual disse: Não subirás; mas rodeia por detrás deles, e virás a eles por defronte das amoreiras. ^v23
+**23** "Davi buscou ajuda de Yahweh novamente, e Yahweh disse a ele: ""Tu não os atacarás pela frente; em vez disso, dá a volta e encontra-os perto das amoreiras." ^v23
 
-**24** E há de ser que, ouvindo tu um estrondo de marcha pelas copas das amoreiras, então te apressarás; porque o Senhor saiu então diante de ti, a ferir o arraial dos filisteus. ^v24
+**24** "Quando tu ouvires o som de marcha no soprar do vento, através do topo das amoreiras, então ataca com força. Faze isto porque Yahweh terá saído antes de ti, para atacar o exército dos filisteus""." ^v24
 
-**25** E fez Davi assim como o Senhor lhe tinha ordenado; e feriu os filisteus desde Geba, até chegar a Gezer. ^v25
+**25** E Davi fez como Yahweh ordenou. Ele matou os filisteus desde Geba em todo o caminho até Gezer. ^v25

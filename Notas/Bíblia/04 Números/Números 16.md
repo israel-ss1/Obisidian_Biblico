@@ -1,107 +1,106 @@
 ---
-Livro: "[[Números|Números]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Números|Números]]"
+tags: [biblia]
 ---
 
 # Números 16
 
-**1** E Coré, filho de Izar, filho de Coate, filho de Levi, tomou consigo a Datã e a Abirão, filhos de Eliabe, e a Om, filho de Pelete, filhos de Rúben. ^v1
+**1** Então, Coré, filho de Izar, filho de Coate, filho de Levi, junto de Datã e Abirão, filhos de Eliabe, e Om, filho de Pelete, descendentes de Rúben, reuniram alguns homens. ^v1
 
-**2** E levantaram-se perante Moisés com duzentos e cinqüenta homens dos filhos de Israel, príncipes da congregação, chamados à assembléia, homens de posição, ^v2
+**2** Levantaram-se contra Moisés, junto de outros homens do povo de Israel, duzentos e cinquenta líderes da assembleia, membros renomados da comunidade. ^v2
 
-**3** E se congregaram contra Moisés e contra Arão, e lhes disseram: Basta-vos, pois que toda a congregação é santa, todos são santos, e o Senhor está no meio deles; por que, pois, vos elevais sobre a congregação do Senhor? ^v3
+**3** "Ajuntaram-se para confrontar Moisés e Arão. Disseram-lhes: ""Basta! Isto é demais. Toda a assembleia é santa, todos eles são santos e Yahweh está no meio deles. Por que vos elevais sobre o resto da assembleia de Yahweh?""." ^v3
 
-**4** Quando Moisés ouviu isso, caiu sobre o seu rosto. ^v4
+**4** Quando Moisés ouviu isto, caiu sobre o seu rosto. ^v4
 
-**5** E falou a Coré e a toda a sua congregação, dizendo: Amanhã pela manhã o Senhor fará saber quem é seu, e quem é o santo que ele fará chegar a si; e aquele a quem escolher fará chegar a si. ^v5
+**5** "Falou com Coré e com todo o seu grupo dizendo: ""Pela manhã, Yahweh mostrará quem é Dele e quem é santo, este Ele trará para Si. Aquele a quem Ele escolher, Ele o trará para perto de Si." ^v5
 
-**6** Fazei isto: Tomai vós incensários, Coré e todo seu grupo; ^v6
+**6** Fazei isso, Coré e todo o vosso grupo. Pegai incensários ^v6
 
-**7** E, pondo fogo neles amanhã, sobre eles deitai incenso perante o Senhor; e será que o homem a quem o Senhor escolher, este será o santo; basta-vos, filhos de Levi. ^v7
+**7** "amanhã e colocai fogo e incenso diante de Yahweh. O homem que for escolhido, será dedicado a Yahweh. Vós fostes longe demais, descendência de Levi""." ^v7
 
-**8** Disse mais Moisés a Coré: Ouvi agora, filhos de Levi: ^v8
+**8** "Novamente, Moisés disse a Coré: ""Agora escutai, vós descendência de Levi," ^v8
 
-**9** Porventura pouco para vós é que o Deus de Israel vos tenha separado da congregação de Israel, para vos fazer chegar a si, e administrar o ministério do tabernáculo do Senhor e estar perante a congregação para ministrar-lhe; ^v9
+**9** por acaso é pouca coisa que o Deus de Israel tem vos separado da comunidade de Israel, para aproximar-vos Dele, para fazerdes os serviços no Tabernáculo, e estardes diante da comunidade para servi-los? ^v9
 
-**10** E te fez chegar, e todos os teus irmãos, os filhos de Levi, contigo? ainda também procurais o sacerdócio? ^v10
+**10** Ele vos trouxe para perto, trouxe toda a vossa parentela, os descendentes de Levi convosco, e ainda quereis o sacerdócio! ^v10
 
-**11** Assim tu e todo o teu grupo estais contra o Senhor; e Arão, quem é ele, que murmureis contra ele? ^v11
+**11** "É por este motivo que vós e todo vosso grupo têm reunido contra Yahweh. Então, por que estão murmurando contra Arão, que obedece a Yahweh?""." ^v11
 
-**12** E Moisés mandou chamar a Datã e a Abirão, filhos de Eliabe; porém eles disseram: Não subiremos; ^v12
+**12** "Então, Moisés, chamou por Datã e Abirão, os filhos de Eliabe, mas disseram-lhe: ""Não iremos!" ^v12
 
-**13** Porventura pouco é que nos fizeste subir de uma terra que mana leite e mel, para nos matares neste deserto, senão que também queres fazer-te príncipe sobre nós? ^v13
+**13** Por acaso, é pouca coisa ter-nos tirado de uma terra de que flui leite e mel, para nos matar no deserto? Agora, quer te fazer líder sobre nós! ^v13
 
-**14** Nem tampouco nos trouxeste a uma terra que mana leite e mel, nem nos deste campo e vinhas em herança; porventura arrancarás os olhos a estes homens? Não subiremos. ^v14
+**14** "Portanto, Tu não nos trouxeste para uma terra de que flui leite e mel, nem nos deste campos nem vinhas como herança. Agora quer nos cegar com promessas vazias? Nós não iremos a ti""." ^v14
 
-**15** Então Moisés irou-se muito, e disse ao Senhor: Não atentes para a sua oferta; nem um só jumento tomei deles, nem a nenhum deles fiz mal. ^v15
+**15** "Moisés se indignou e disse a Yahweh: ""Não consideres sua oferta. Eu não lhes tomei nenhum jumento, nem sequer lhes causei dano""." ^v15
 
-**16** Disse mais Moisés a Coré: Tu e todo o teu grupo ponde-vos perante o Senhor, tu e eles, e Arão, amanhã. ^v16
+**16** "Então, Moisés disse a Coré: ""Amanhã, vós todos comparecei diante de Yahweh — tu, eles e Arão." ^v16
 
-**17** E tomai cada um o seu incensário, e neles ponde incenso; e trazei cada um o seu incensário perante o Senhor, duzentos e cinqüenta incensários; também tu e Arão, cada um o seu incensário. ^v17
+**17** "Cada um de vós, levará seus incensários e colocará incenso nele. Então, cada homem levará, diante de Yahweh, seu incensário, duzentos e cinquenta incensários. Tu e Arão também levareis vossos incensários""." ^v17
 
-**18** Tomaram, pois, cada um o seu incensário, e neles puseram fogo, e neles deitaram incenso, e se puseram perante a porta da tenda da congregação com Moisés e Arão. ^v18
+**18** Então, cada homem levou seu incensário, acendeu-o, colocou o incenso, e ficou na entrada da Tenda do Encontro com Moisés e Arão. ^v18
 
-**19** E Coré fez ajuntar contra eles todo o povo à porta da tenda da congregação; então a glória do Senhor apareceu a toda a congregação. ^v19
+**19** Coré reuniu toda a assembleia contra Moisés e Arão na entrada da Tenda do Encontro, e a glória de Yahweh apareceu para toda a assembleia. ^v19
 
-**20** E falou o Senhor a Moisés e a Arão, dizendo: ^v20
+**20** Então, Yahweh falou a Moisés e a Arão: ^v20
 
-**21** Apartai-vos do meio desta congregação, e os consumirei num momento. ^v21
+**21** """Separai-vos do meio desta assembleia, para que Eu possa consumi-los imediatamente""." ^v21
 
-**22** Mas eles se prostraram sobre os seus rostos, e disseram: Ó Deus, Deus dos espíritos de toda a carne, pecará um só homem, e indignar-te-ás tu contra toda esta congregação? ^v22
+**22** "Prostraram-se ao chão, Moisés e Arão, e disseram: ""Deus, o Deus dos espíritos e de toda humanidade, se um homem peca, deves Tu irar-te com toda a assembleia?""." ^v22
 
-**23** E falou o Senhor a Moisés, dizendo: ^v23
+**23** Yahweh respondeu a Moisés, dizendo: ^v23
 
-**24** Fala a toda esta congregação, dizendo: Subi do derredor da habitação de Coré, Datã e Abirão. ^v24
+**24** """Fala com a assembleia, diz: 'Afastai-vos das tendas de Coré, Datã e Abirão'""." ^v24
 
-**25** Então Moisés levantou-se, e foi a Datã e a Abirão; e após ele seguiram os anciãos de Israel. ^v25
+**25** Então, Moisés se levantou e foi até Datã e Abirão; os anciãos de Israel o seguiram. ^v25
 
-**26** E falou à congregação, dizendo: Desviai-vos, peço-vos, das tendas destes homens ímpios, e não toqueis nada do que é seu para que porventura não pereçais em todos os seus pecados. ^v26
+**26** "E falou à assembleia: ""Afastai-vos das tendas destes homens ímpios, não toqueis em nada que lhes pertença, ou vós sereis consumidos por causa de todos os pecados deles""." ^v26
 
-**27** Subiram, pois, do derredor da habitação de Coré, Datã e Abirão. E Datã e Abirão saíram, e se puseram à porta das suas tendas, juntamente com as suas mulheres, e seus filhos, e suas crianças. ^v27
+**27** Então, a comunidade de todos os lados das tendas de Coré, Datã e Abirão, os deixou. Datã e Abirão saíram e ficaram na entrada de suas tendas, com suas mulheres e filhos. ^v27
 
-**28** Então disse Moisés: Nisto conhecereis que o Senhor me enviou a fazer todos estes feitos, que de meu coração não procedem. ^v28
+**28** "Então, Moisés disse: ""Por isso, sabereis que Yahweh me enviou para fazer todas essas obras, porque eu não as fiz de minha própria vontade." ^v28
 
-**29** Se estes morrerem como morrem todos os homens, e se forem visitados como são visitados todos os homens, então o Senhor não me enviou. ^v29
+**29** Se esses homens morrerem de morte natural, como acontece normalmente, Yahweh não me enviou. ^v29
 
-**30** Mas, se o Senhor criar alguma coisa nova, e a terra abrir a sua boca e os tragar com tudo o que é seu, e vivos descerem ao abismo, então conhecereis que estes homens irritaram ao Senhor. ^v30
+**30** "Mas, se Yahweh criar uma abertura na terra, que os engolirá como uma grande boca, junto de tudo o que é deles, e se eles descerem vivos ao Sheol, então, entendereis que estes homens desprezaram Yahweh""." ^v30
 
-**31** E aconteceu que, acabando ele de falar todas estas palavras, a terra que estava debaixo deles se fendeu. ^v31
+**31** Logo que Moisés terminou de falar essas palavras, a terra se abriu debaixo desses homens. ^v31
 
-**32** E a terra abriu a sua boca, e os tragou com as suas casas, como também a todos os homens que pertenciam a Coré, e a todos os seus bens. ^v32
+**32** A terra abriu sua boca e os engoliu, suas famílias, e todas as pessoas que pertenciam a Coré, e também, todas as suas possessões. ^v32
 
-**33** E eles e tudo o que era seu desceram vivos ao abismo, e a terra os cobriu, e pereceram do meio da congregação. ^v33
+**33** Eles e todos em suas famílias, desceram vivos ao Sheol. A terra se fechou sobre eles, e pereceram no meio da assembleia. ^v33
 
-**34** E todo o Israel, que estava ao redor deles, fugiu ao clamor deles; porque diziam: Para que não nos trague a terra também a nós. ^v34
+**34** "E toda Israel em torno deles, fugiu de seus gritos. Exclamando: ""A terra pode nos engolir também!""." ^v34
 
-**35** Então saiu fogo do Senhor, e consumiu os duzentos e cinqüenta homens que ofereciam o incenso. ^v35
+**35** Então, acendeu o fogo da parte de Yahweh, e devorou os duzentos e cinquenta homens que ofereceram incenso. ^v35
 
-**36** E falou o Senhor a Moisés, dizendo: ^v36
+**36** Outra vez, Yahweh falou a Moisés, e disse: ^v36
 
-**37** Dize a Eleazar, filho de Arão, o sacerdote, que tome os incensários do meio do incêndio, e espalhe o fogo longe, porque santos são; ^v37
+**37** """Fala com Eleazar, filho do sacerdote Arão, para que tire os incensários das chamas, e espalhe as brasas para longe, pois foram dedicados a Mim." ^v37
 
-**38** Quanto aos incensários daqueles que pecaram contra as suas almas, deles se façam folhas estendidas para cobertura do altar; porquanto os trouxeram perante o Senhor; pelo que santos são; e serão por sinal aos filhos de Israel. ^v38
+**38** Pega os incensários dos que perderam a vida por causa dos seus pecados, para que sejam como chapas marteladas e serem uma cobertura do altar. Aqueles homens os ofertaram diante de Mim, então eles são dedicados a Mim. Eles serão um sinal da minha presença ao povo de Israel. ^v38
 
-**39** E Eleazar, o sacerdote, tomou os incensários de metal, que trouxeram aqueles que foram queimados, e os estenderam em folhas para cobertura do altar, ^v39
+**39** Eleazar, o sacerdote, pegou os incensários de bronze que foram usados pelos homens que foram queimados. Ele os martelou como uma cobertura para o altar, ^v39
 
-**40** Por memorial para os filhos de Israel, que nenhum estranho, que não for da descendência de Arão, se chegue para acender incenso perante o Senhor; para que não seja como Coré e a sua congregação, como o Senhor lhe tinha dito por intermédio de Moisés, ^v40
+**40** como Yahweh havia dito por meio de Moisés, para ser um lembrete ao povo de Israel, para que nenhuma pessoa que não descendesse de Arão se aproximasse para queimar incenso diante de Yahweh. Dessa maneira, nenhuma pessoa seria como Coré e seu grupo — exatamente como Yahweh havia ordenado por meio de Moisés. ^v40
 
-**41** Mas no dia seguinte toda a congregação dos filhos de Israel murmurou contra Moisés e contra Arão, dizendo: Vós matastes o povo do Senhor. ^v41
+**41** "Mas, na manhã seguinte, toda a comunidade do povo de Israel, murmurou contra Moisés e Arão dizendo: ""Vós matastes o povo de Yahweh""." ^v41
 
-**42** E aconteceu que, ajuntando-se a congregação contra Moisés e Arão, e virando-se para a tenda da congregação, eis que a nuvem a cobriu, e a glória do Senhor apareceu. ^v42
+**42** Então, aconteceu que a comunidade se reuniu contra Moisés e Arão, olharam em direção à Tenda do Encontro, e contemplaram que a nuvem estava cobrindo-a. A glória de Yahweh apareceu. ^v42
 
-**43** Vieram, pois, Moisés e Arão perante a tenda da congregação. ^v43
+**43** Moisés e Arão foram até a frente da Tenda do Encontro. ^v43
 
-**44** Então falou o Senhor a Moisés, dizendo: ^v44
+**44** Então, Yahweh disse a Moisés: ^v44
 
-**45** Levantai-vos do meio desta congregação, e a consumirei num momento; então se prostraram sobre os seus rostos, ^v45
+**45** """Sai do meio desta comunidade para que eu possa consumi-los imediatamente"". Então, Moisés e Arão se prostraram com seus rostos sobre a terra." ^v45
 
-**46** E disse Moisés a Arão: Toma o teu incensário, e põe nele fogo do altar, e deita incenso sobre ele, e vai depressa à congregação, e faze expiação por eles; porque grande indignação saiu de diante do Senhor; já começou a praga. ^v46
+**46** "Moisés disse a Arão: ""Pega o incensário, acende-o em frente ao altar, coloca incenso, carrega-o rapidamente para a comunidade, e faze expiação por ela, pois a ira está vindo da parte de Yahweh. Iniciou-se a praga""." ^v46
 
-**47** E tomou-o Arão, como Moisés tinha falado, e correu ao meio da congregação; e eis que já a praga havia começado entre o povo; e deitou incenso nele, e fez expiação pelo povo. ^v47
+**47** Então, Arão fez como Moisés o direcionou. Correu em direção ao meio da comunidade. A praga começou rapidamente a espalhar-se entre o povo, então, colocou o incenso e expiou pelo povo. ^v47
 
-**48** E estava em pé entre os mortos e os vivos; e cessou a praga. ^v48
+**48** Arão se pôs entre a morte e a vida; dessa maneira, a praga cessou. ^v48
 
-**49** E os que morreram daquela praga foram catorze mil e setecentos, fora os que morreram pela causa de Coré. ^v49
+**49** Os que morreram pela praga, foram quatorze mil e setecentos, em números, tirando os que morreram pelas razões de Coré. ^v49
 
-**50** E voltou Arão a Moisés à porta da tenda da congregação; e cessou a praga. ^v50
+**50** Arão retornou a Moisés na entrada da Tenda do Encontro, e a praga teve seu fim. ^v50

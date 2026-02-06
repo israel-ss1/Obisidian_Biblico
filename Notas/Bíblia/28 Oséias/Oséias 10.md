@@ -1,37 +1,36 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Oséias|Oséias]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Oséias|Oséias]]"
+tags: [biblia]
 ---
 
 # Oséias 10
 
-**1** Israel é uma vide estéril que dá fruto para si mesmo; conforme a abundância do seu fruto, multiplicou também os altares; conforme a bondade da sua terra, assim, fizeram boas as estátuas. ^v1
+**1** Israel é uma videira fértil que dá os seus frutos. Quantos mais seus frutos aumentaram, mais altares multiplicaram. Quanto mais produzia sua terra, mais aumentavam seus altares. ^v1
 
-**2** O seu coração está dividido, por isso serão culpados; o Senhor demolirá os seus altares, e destruirá as suas estátuas. ^v2
+**2** O coração deles é enganador; agora devem carregar as suas culpas. Yahweh irá destruir seus altares; Ele irá destruir seus pilares. ^v2
 
-**3** Certamente agora dirão: Não temos rei, porque não tememos ao Senhor; e o rei, que faria por nós? ^v3
+**3** "Pois eles dirão: ""Nós não temos rei, porque não tememos a Yahweh. E o rei — o que ele poderia fazer por nós?""" ^v3
 
-**4** Falaram palavras, jurando falsamente, fazendo uma aliança; por isso florescerá o juízo como erva peçonhenta nos sulcos dos campos. ^v4
+**4** Eles falam palavras vazias e fazem alianças, jurando falsamente. Então, a justiça brotará como uma erva daninha nos sulcos de um campo. ^v4
 
-**5** Os moradores de Samaria serão atemorizados pelo bezerro de Bete-«ven; porque o seu povo se lamentará por causa dele, como também os seus sacerdotes idólatras que nele se regozijavam, por causa da sua glória, que se apartou dela. ^v5
+**5** Os habitantes de Samaria serão atemorizados por causa do bezerro de Bete-Áven. Seu povo lamentará por causa dele, como aqueles sacerdotes idólatras que se regozijavam nele e pelo seu esplendor; porém ele já não existe mais. ^v5
 
-**6** Também será levada para a Assíria como um presente ao rei Jarebe; Efraim ficará confuso, e Israel se envergonhará por causa do seu próprio conselho. ^v6
+**6** Será levado para Assíria como um presente para o grande rei. Efraim será humilhado, e Israel sentirá vergonha do seu ídolo. ^v6
 
-**7** O rei de Samaria será desfeito como a espuma sobre a face da água. ^v7
+**7** O rei de Samaria será destruído como um pedaço de madeira lançado sobre a água. ^v7
 
-**8** E os altos de Áven, pecado de Israel, serão destruídos; espinhos e cardos crescerão sobre os seus altares; e dirão aos montes: Cobri-nos! E aos outeiros: Caí sobre nós! ^v8
+**8** "Os lugares altos de iniquidade serão destruídos. Este é o pecado de Israel! Espinhos e abrolhos crescerão sobre seus altares. As pessoas dirão às montanhas: ""Cobri-nos!"", e às colinas: ""Caí sobre nós!""." ^v8
 
-**9** Desde os dias de Gibeá pecaste, ó Israel; ali permaneceram; a peleja em Gibeá, contra os filhos da perversidade, não os alcançará. ^v9
+**9** """Israel, tu tens pecado desde os dias de Gibeá; ali permaneceste. A guerra não alcançará os filhos da iniquidade em Gibeá?" ^v9
 
-**10** Eu os castigarei na medida do meu desejo; e congregar-se-ão contra eles os povos, quando eu os atar pela sua dupla transgressão. ^v10
+**10** Quando Eu desejar, eu os disciplinarei. As nações irão se reunir contra eles e irão prendê-los por sua dupla iniquidade. ^v10
 
-**11** Porque Efraim é uma bezerra domada, que gosta de trilhar; e eu poupava a formosura do seu pescoço; mas farei cavalgar Efraim. Judá lavrará, Jacó lhe desfará os torrões. ^v11
+**11** Efraim é uma bezerra domada que gosta de debulhar o grão, por isso colocarei o jugo em seu pescoço. Porei o jugo sobre Efraim; Judá lavrará; Jacó desfará os torrões. ^v11
 
-**12** Semeai para vós em justiça, ceifai segundo a misericórdia; lavrai o campo de lavoura; porque é tempo de buscar ao Senhor, até que venha e chova a justiça sobre vós. ^v12
+**12** Semeai para vós justiça, e colhei o fruto da misericórdia. Lavrai o solo da lavoura, porque já é tempo de buscar a Yahweh, até que Ele venha e faça chover justiça sobre vós. ^v12
 
-**13** Lavrastes a impiedade, segastes a iniqüidade, e comestes o fruto da mentira; porque confiaste no teu caminho, na multidão dos teus poderosos. ^v13
+**13** Lavrastes a maldade, colhereis a iniquidade. Comestes o fruto da mentira, porque confiastes nos vossos planos e nos vossos muitos soldados. ^v13
 
-**14** Portanto, entre o teu povo se levantará um grande tumulto, e todas as tuas fortalezas serão destruídas, como Salmã destruiu a Bete-Arbel no dia da guerra; a mãe ali foi despedaçada com os filhos. ^v14
+**14** Portanto, um tumulto de guerra se levantará no meio do teu povo, e todas as suas fortalezas serão destruídas. Será como Salmã, que destruiu Bete-Arbel no dia da batalha, quando as mães foram despedaçadas com seus filhos. ^v14
 
-**15** Assim vos fará Betel por causa da vossa grande malícia; de madrugada o rei de Israel será totalmente destruído. ^v15
+**15** "Assim acontecerá contigo, Betel, por causa da tua iniquidade. Ao romper do dia, o rei de Israel será completamente destruído""." ^v15

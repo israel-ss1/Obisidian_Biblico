@@ -1,115 +1,112 @@
 ---
-Livro: "[[1 Reis|1 Reis]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/1 Reis|1 Reis]]"
+tags: [biblia]
 ---
 
 # 1 Reis 22
 
-**1** E estiveram quietos três anos, não havendo guerra entre a Síria e Israel. ^v1
+**1** Três anos se passaram sem guerra entre a Síria e Israel. ^v1
 
-**2** Porém no terceiro ano sucedeu que Jeosafá, rei de Judá, desceu para avistar-se com o rei de Israel. ^v2
+**2** E aconteceu que, no terceiro ano, Josafá, o rei de Judá, foi até o rei de Israel. ^v2
 
-**3** E o rei de Israel disse aos seus servos: Não sabeis vós que Ramote de Gileade é nossa, e nós estamos quietos, sem a tomar da mão do rei da Síria? ^v3
+**3** "O rei de Israel disse para seus servos: ""Vós sabeis que Ramote-Gileade é nossa, mas não fazemos nada para tomar das mãos do rei da Síria?""." ^v3
 
-**4** Então perguntou a Jeosafá: Irás tu comigo à peleja a Ramote de Gileade? E disse Jeosafá ao rei de Israel: Serei como tu, e o meu povo como o teu povo, e os meus cavalos como os teus cavalos. ^v4
+**4** "Assim, ele disse para Josafá: ""Irás tu comigo para a guerra em Ramote-Gileade?"". Josafá respondeu para o rei de Israel: ""Eu sou como tu és, meu povo é como o teu povo e meus cavalos são como os teus cavalos""." ^v4
 
-**5** Disse mais Jeosafá ao rei de Israel: Peço-te, consulta hoje a palavra do Senhor. ^v5
+**5** "Josafá disse para o rei de Israel: ""Por favor, busca a direção da palavra de Yahweh para o que farás primeiro""." ^v5
 
-**6** Então o rei de Israel reuniu os profetas até quase quatrocentos homens, e disse-lhes: Irei à peleja contra Ramote de Gileade, ou deixarei de ir? E eles disseram: Sobe, porque o Senhor a entregará na mão do rei. ^v6
+**6** "E o rei de Israel reuniu os profetas, quatrocentos homens, e lhes disse: ""Eu deveria ou não ir a Ramote-Gileade para batalhar?"". Eles disseram: ""Ataca, porque o Senhor a entregará na mão do rei""." ^v6
 
-**7** Disse, porém, Jeosafá: Não há aqui ainda algum profeta do Senhor, ao qual possamos consultar? ^v7
+**7** "Mas Josafá disse: ""Ainda não há aqui outro profeta de Yahweh de quem nós devemos buscar conselho?""." ^v7
 
-**8** Então disse o rei de Israel a Jeosafá: Ainda há um homem por quem podemos consultar ao Senhor; porém eu o odeio, porque nunca profetiza de mim o que é bom, mas só o mal; este é Micaías, filho de Inlá. E disse Jeosafá: Não fale o rei assim. ^v8
+**8** "O rei de Israel disse para Josafá: ""Ainda há um homem de quem nós podemos buscar conselho de Yahweh para ajudar, Micaías, filho de Inlá, mas eu o odeio porque ele não profetiza nada de bom sobre mim, mas somente dificuldades"". Mas Josafá disse: ""O rei não pode dizer isto""." ^v8
 
-**9** Então o rei de Israel chamou um oficial, e disse: Traze-me depressa a Micaías, filho de Inlá. ^v9
+**9** "Então, o rei de Israel chamou um oficial e ordenou: ""Traz Micaías, filho de Inlá, imediatamente""." ^v9
 
-**10** E o rei de Israel e Jeosafá, rei de Judá, estavam assentados cada um no seu trono, vestidos de trajes reais, na praça, à entrada da porta de Samaria; e todos os profetas profetizavam na sua presença. ^v10
+**10** Então, Acabe, o rei de Israel, e Josafá, o rei de Judá, estavam sentados cada um em um trono, vestidos em seus trajes reais, em um lugar aberto, na entrada do portão de Samaria e todos os profetas estavam profetizando diante deles. ^v10
 
-**11** E Zedequias, filho de Quenaaná, fez para si uns chifres de ferro, e disse: Assim diz o Senhor: Com estes ferirás aos sírios, até de todo os consumir. ^v11
+**11** "Zedequias, filho de Quenaaná, fez ele mesmo chifres de ferro e disse: ""Diz Yahweh: 'Com estes, empurrarás os sírios até que eles sejam consumidos""'." ^v11
 
-**12** E todos os profetas profetizaram assim, dizendo: Sobe a Ramote de Gileade, e triunfarás, porque o Senhor a entregará na mão do rei. ^v12
+**12** "E todos os profetas profetizaram o mesmo, dizendo: ""Ataca Ramote-Gileade e ganha, porque Yahweh a entregou nas mãos do rei""." ^v12
 
-**13** E o mensageiro que foi chamar a Micaías falou-lhe, dizendo: Vês aqui que as palavras dos profetas a uma voz predizem coisas boas para o rei; seja, pois, a tua palavra como a palavra de um deles, e fala bem. ^v13
+**13** "O mensageiro que foi chamar Micaías falou para ele, dizendo: ""Agora veja, as palavras dos profetas declaram coisas boas para o rei com uma só voz. Por favor deixe sua palavra ser como a de um deles e diga coisas boas""." ^v13
 
-**14** Porém Micaías disse: Vive o Senhor que o que o Senhor me disser isso falarei. ^v14
+**14** "Micaías respondeu: ""Como Yahweh vive, o que Yahweh me disser, direi""." ^v14
 
-**15** E, vindo ele ao rei, o rei lhe disse: Micaías, iremos a Ramote de Gileade à peleja, ou deixaremos de ir? E ele lhe disse: Sobe, e serás bem sucedido; porque o Senhor a entregará na mão do rei. ^v15
+**15** "Quando ele veio ao rei, o rei lhe disse: ""Micaías, deveríamos nós ir para Ramote-Gileade para batalhar, ou não?"" Micaías lhe respondeu: ""Ataca e ganha. Yahweh a entregará na mão do rei""." ^v15
 
-**16** E o rei lhe disse: Até quantas vezes te conjurarei, que não me fales senão a verdade em nome do Senhor? ^v16
+**16** "Então, o rei disse para ele: ""Quanto tempo devo te exigir para jurar e dizer para mim nada além da verdade em nome de Yahweh?""." ^v16
 
-**17** Então disse ele: Vi a todo o Israel disperso pelos montes, como ovelhas que não tem pastor; e disse o Senhor: Estes não têm senhor; torne cada um em paz para sua casa. ^v17
+**17** "Assim, Micaías disse: ""Eu vi todo o Israel disperso para as montanhas, como ovelhas que não têm pastor e Yahweh disse: 'Estas não têm pastor. Permite que todos os homens retornem para suas casas em paz'""." ^v17
 
-**18** Então o rei de Israel disse a Jeosafá: Não te disse eu, que nunca profetizará de mim o que é bom, senão só o que é mal? ^v18
+**18** "Então, o rei de Israel disse para Josafá: ""Eu não te disse que ele não profetizaria coisas boas concernentes a mim, mas somente desastre?""." ^v18
 
-**19** Então ele disse: Ouve, pois, a palavra do Senhor: Vi ao Senhor assentado sobre o seu trono, e todo o exército do céu estava junto a ele, à sua mão direita e à sua esquerda. ^v19
+**19** "Então, Micaías disse: ""Assim sendo, escutai as palavras de Yahweh: Eu vi Yahweh, sentando, em Seu trono, e todo o exército do céu estava em pé junto a Ele em sua mão direita e esquerda." ^v19
 
-**20** E disse o Senhor: Quem induzirá Acabe, para que suba, e caia em Ramote de Gileade? E um dizia desta maneira e outro de outra. ^v20
+**20** Yahweh disse: 'Quem enganará Acabe, para que, então, ele suba e caia em Ramote-Gileade?'. Um deles respondeu desse jeito e outro respondeu daquele jeito. ^v20
 
-**21** Então saiu um espírito, e se apresentou diante do Senhor, e disse: Eu o induzirei. E o Senhor lhe disse: Com quê? ^v21
+**21** Então, um espírito veio adiante, ficou diante de Yahweh, e disse: 'Eu o enganarei'. Yahweh disse-lhe: 'Como?'. ^v21
 
-**22** E disse ele: Eu sairei, e serei um espírito de mentira na boca de todos os seus profetas. E ele disse: Tu o induzirás, e ainda prevalecerás; sai e faze assim. ^v22
+**22** O espírito respondeu: 'Eu sairei e serei um espírito de mentira na boca de todos os seus profetas'. Yahweh respondeu: 'Tu o enganarás e tu também terás sucesso. Vai agora e faz assim'. ^v22
 
-**23** Agora, pois, eis que o Senhor pôs o espírito de mentira na boca de todos estes teus profetas, e o Senhor falou o mal contra ti. ^v23
+**23** "Agora, vê, Yahweh colocou um espírito mentiroso na boca de todos estes teus profetas e Yahweh decretou desgraça para ti""." ^v23
 
-**24** Então Zedequias, filho de Quenaaná, chegou, e feriu a Micaías no queixo, e disse: Por onde saiu de mim o Espírito do Senhor para falar a ti? ^v24
+**24** "Então, Zedequias, filho de Quenaana, apareceu, bateu na bochecha de Micaías e disse: ""De que jeito o Espírito de Yahweh saiu de mim para falar contigo?""." ^v24
 
-**25** E disse Micaías: Eis que o verás naquele mesmo dia, quando entrares de câmara em câmara para te esconderes. ^v25
+**25** "Micaías disse: ""Veja, tu saberás naquele dia, quando correres para alguma sala interior para esconder""." ^v25
 
-**26** Então disse o rei de Israel: Tomai a Micaías, e tornai a levá-lo a Amom, o governador da cidade e a Joás filho do rei. ^v26
+**26** "O rei de Israel disse para seu servo: ""Apreende Micaías e leva-o para Amom, o governador da cidade, e Joás, meu filho." ^v26
 
-**27** E direis: Assim diz o rei: Colocai este homem na casa do cárcere, e sustentai-o com o pão de angústia, e com água de amargura, até que eu venha em paz. ^v27
+**27** "Dize-lhe: 'O rei diz: Coloca este homem na prisão e o alimenta somente com um pedaço de pão e um pouco de água, até que eu volte em paz""'." ^v27
 
-**28** E disse Micaías: Se tu voltares em paz, o Senhor não tem falado por mim. Disse mais: Ouvi, povos todos! ^v28
+**28** "Então, Micaías disse: ""Se retornares seguro, então, Yahweh não tem falado por mim"". E adicionou: ""Escutai isso, todos vós""." ^v28
 
-**29** Assim o rei de Israel e Jeosafá, rei de Judá, subiram a Ramote de Gileade. ^v29
+**29** Assim, Acabe, rei de Israel, e Josafá, rei de Judá, subiram para Ramote-Gileade. ^v29
 
-**30** E disse o rei de Israel a Jeosafá: Eu me disfarçarei, e entrarei na peleja; tu porém veste as tuas roupas. Disfarçou-se, pois o rei de Israel, e entrou na peleja. ^v30
+**30** "O rei de Israel disse para Josafá: ""Eu me disfarçarei e entrarei na batalha, mas tu veste teus trajes reais"". Assim, o rei de Israel se disfarçou e foi para a batalha." ^v30
 
-**31** E o rei da Síria dera ordem aos capitães dos carros, que eram trinta e dois, dizendo: Não pelejareis nem contra pequeno nem contra grande, mas só contra o rei de Israel. ^v31
+**31** "Então, o rei da Síria havia ordenado aos trinta e dois capitães de suas carruagens, dizendo: ""Não ataqueis os soldados sem importância ou com importância. Em vez disso, atacai somente o rei de Israel""." ^v31
 
-**32** Sucedeu que, vendo os capítães dos carros a Jeosafá, disseram eles: Certamente este é o rei de Israel. E chegaram-se a ele, para pelejar com ele; porém Jeosafá gritou. ^v32
+**32** "E aconteceu que, quando os capitães das carruagens viram Josafá, eles disseram: ""Certamente, ele é rei de Israel"". Eles voltaram a atacá-lo, então, Josafá gritou." ^v32
 
-**33** E sucedeu que, vendo os capitães dos carros que não era o rei de Israel, deixaram de segui-lo. ^v33
+**33** Quando os comandantes das carruagens viram que não era o rei de Israel, eles pararam de persegui-lo. ^v33
 
-**34** Então um homem armou o arco, e atirou a esmo, e feriu o rei de Israel por entre as fivelas e as couraças; então ele disse ao seu carreteiro: Dá volta, e tira-me do exército, porque estou gravemente ferido. ^v34
+**34** "Mas um certo homem preparou o seu arco e, atirando ao acaso, acertou o rei de Israel, entre as juntas de sua armadura. Então, Acabe disse para o condutor de sua carruagem: ""Dê a volta e leva-me para fora da batalha, pois estou gravemente ferido""." ^v34
 
-**35** E a peleja foi crescendo nequele dia, e o rei foi sustentado no carro defronte dos sírios; porém ele morreu à tarde; e o sangue da ferida corria para o fundo do carro. ^v35
+**35** A batalha ficou pior naquele dia e o rei foi mantido em sua carruagem voltada para os sírios. Ele morreu naquela tarde. O sangue de sua ferida escorreu para o fundo da carruagem. ^v35
 
-**36** E depois do sol posto passou um pregão pelo exército, dizendo: Cada um para a sua cidade, e cada um para a sua terra! ^v36
+**36** "Então, quando o sol estava se pondo, um clamor subiu do exército, dizendo: ""Todo homem deve voltar para sua cidade; e todo homem deve voltar para sua região!""." ^v36
 
-**37** E morreu o rei, e o levaram a Samaria; e sepultaram o rei em Samaria. ^v37
+**37** O rei Acabe morreu e foi levado para Samaria; eles o sepultaram lá. ^v37
 
-**38** E, lavando-se o carro no tanque de Samaria, os cães lamberam o seu sangue (ora as prostitutas se lavavam ali), conforme à palavra que o Senhor tinha falado. ^v38
+**38** Eles lavaram a carruagem ao lado do tanque de Samaria e os cachorros lamberam seu sangue (e isto foi no local onde as prostitutas se banhavam), assim como a palavra de Yahweh havia declarado. ^v38
 
-**39** Quanto ao mais dos atos de Acabe, e a tudo quanto fez, e à casa de marfim que edificou, porventura não está escrito no livro das crônicas dos reis de Israel? ^v39
+**39** Quanto aos outros assuntos concernentes a Acabe, tudo que ele fez, a casa de marfim que ele construiu e todas as cidades que ele construiu não foram escritos no livro de Crônicas dos reis de Israel? ^v39
 
-**40** Assim dormiu Acabe com seus pais; e Acazias, seu filho, reinou em seu lugar. ^v40
+**40** Assim, Acabe dormiu com seus antepassados e Acazias, seu filho, se tornou rei em seu lugar. ^v40
 
-**41** E Jeosafá, filho de Asa, começou a reinar sobre Judá no quarto ano de Acabe, rei de Israel. ^v41
+**41** Então, Josafá, filho de Asa, começou a reinar sobre Judá no quarto ano de Acabe rei de Israel. ^v41
 
-**42** E era Jeosafá da idade de trinta e cinco anos quando começou a reinar; e vinte e cinco anos reinou em Jerusalém; e era o nome de sua mãe Azuba, filha de Sili. ^v42
+**42** Josafá tinha trinta e cinco anos quando começou a reinar e ele reinou em Jerusalém por vinte e cinco anos. O nome de sua mãe era Azuba, a filha de Sili. ^v42
 
-**43** E andou em todos os caminhos de seu pai Asa, não se desviou deles, fazendo o que era reto aos olhos do Senhor. ^v43
+**43** Ele andou nos caminhos de Asa, seu pai; e não se desviou deles; ele fez o que era certo aos olhos de Yahweh. Contudo, os lugares altos ainda não haviam sido tirados. O povo ainda estava sacrificando e queimando incenso nos lugares altos. ^v43
 
-**44** Todavia os altos não se tiraram; ainda o povo sacrificava e queimava incenso nos altos. ^v44
+**44** Josafá fez paz com o rei de Israel. ^v44
 
-**45** E Jeosafá esteve em paz com o rei de Israel. ^v45
+**45** Quanto aos outros assuntos concernentes a Josafá, e o poder que ele mostrou, e como ele promoveu uma guerra, não estão escritos no livro de Crônicas dos reis de Judá? ^v45
 
-**46** Quanto ao mais dos atos de Jeosafá, e ao poder que mostrou, e como guerreou, porventura não está escrito no livro das crônicas dos reis de Judá? ^v46
+**46** Ele tirou da terra o resto das prostitutas cultuais que haviam permanecido nos dias de seu pai, Asa. ^v46
 
-**47** Também expulsou da terra o restante dos sodomitas, que ficaram nos dias de seu pai Asa. ^v47
+**47** Não havia rei em Edom, mas apenas um governador lá. ^v47
 
-**48** Então não havia rei em Edom, porém um vice-rei. ^v48
+**48** Josafá construiu navios; eles eram para ir a Ofir em busca de ouro, mas eles não foram porque os navios naufragaram em Eziom-Geber. ^v48
 
-**49** E fez Jeosafá navios de Társis, para irem a Ofir por causa do ouro; porém não foram, porque os navios se quebraram em Eziom-Geber. ^v49
+**49** "Então, Acazias, filho de Acabe, disse para Josafá: ""Deixa que meus servos velejem com teus servos nos navios"". Mas Josafá não permitiu isso." ^v49
 
-**50** Então Acazias, filho de Acabe, disse a Jeosafá: Vão os meus servos com os teus servos nos navios. Porém Jeosafá não quis. ^v50
+**50** Josafá dormiu com seus antepassados e foi sepultado com eles na cidade de Davi, seu antepassado, Jeorão, seu filho, tornou-se rei em seu lugar. ^v50
 
-**51** E Jeosafá dormiu com seus pais, e foi sepultado junto a eles, na cidade de Davi, seu pai; e Jeorão, seu filho, reinou em seu lugar. ^v51
+**51** Acazias, filho de Acabe, começou a reinar sobre Israel, em Samaria, no décimo sétimo ano de Josafá, rei de Judá, e ele reinou dois anos sobre Israel. ^v51
 
-**52** E Acazias, filho de Acabe, começou a reinar sobre Israel, em Samaria, no ano dezessete de Jeosafá, rei de Judá; e reinou dois anos sobre Israel. ^v52
+**52** Ele fez o que era mau à vista de Yahweh e andou no caminho de seu pai, no caminho de sua mãe, e no caminho de Jeroboão, filho de Nebate, pelo qual ele conduziu Israel ao pecado. ^v52
 
-**53** E fez o que era mau aos olhos do Senhor; porque andou no caminho de seu pai, como também no caminho de sua mãe, e no caminho de Jeroboão, filho de Nebate, que fez pecar a Israel. ^v53
-
-**54** E serviu a Baal, e adorou-o, e provocou a ira do Senhor Deus de Israel, conforme a tudo quanto fizera seu pai. ^v54
+**53** Ele serviu a Baal e o adorou e, assim, provocou Yahweh, o Deus de Israel, à ira, exatamente como seu pai havia feito. ^v53

@@ -1,19 +1,18 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Isaías|Isaías]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Isaías|Isaías]]"
+tags: [biblia]
 ---
 
 # Isaías 12
 
-**1** E dirás naquele dia: Graças te dou, ó SENHOR, porque, ainda que te iraste contra mim, a tua ira se retirou, e tu me consolas. ^v1
+**1** "Naquele dia, dirás: ""Darei graças a Ti, Yahweh. Pois, embora estejas irado comigo, a Tua ira se afastou de mim, e tens me confortado." ^v1
 
-**2** Eis que Deus é a minha salvação; nele confiarei, e não temerei, porque o SENHOR DEUS é a minha força e o meu cântico, e se tornou a minha salvação. ^v2
+**2** "Deus é a minha salvação; confiarei Nele e não temerei, pois Yahweh, sim, Yahweh é a minha força e o meu cântico. Ele é a minha salvação""." ^v2
 
-**3** E vós com alegria tirareis águas das fontes da salvação. ^v3
+**3** Com alegria, tirareis água do poço da salvação. ^v3
 
-**4** E direis naquele dia: Dai graças ao Senhor, invocai o seu nome, fazei notório os seus feitos entre os povos, contai quão excelso é o seu nome. ^v4
+**4** "Naquele dia, direis: ""Dai graças a Yahweh e invocai o Seu nome; declarai os Seus atos entre os povos; proclamai quão exaltado é o Seu nome." ^v4
 
-**5** Cantai ao Senhor, porque fez coisas grandiosas; saiba-se isto em toda a terra. ^v5
+**5** Cantai a Yahweh, porque Ele tem feito coisas gloriosas; seja isso conhecido em toda a terra. ^v5
 
-**6** Exulta e jubila, ó habitante de Sião, porque grande é o Santo de Israel no meio de ti. ^v6
+**6** "Exultai e cantai com alegria, habitantes de Sião, pois grande é o Santo de Israel no meio de vós""." ^v6

@@ -1,25 +1,24 @@
 ---
-Livro: "[[Salmos|Salmos]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Salmos|Salmos]]"
+tags: [biblia]
 ---
 
 # Salmos 137
 
-**1** Junto aos rios da Babilônia, ali nos assentamos e choramos, quando nos lembramos de Sião. ^v1
+**1** Sentamos às margens dos rios da Babilônia e choramos quando pensamos em Sião. ^v1
 
-**2** Sobre os salgueiros que há no meio dela, penduramos as nossas harpas. ^v2
+**2** Nos salgueiros daquele lugar penduramos nossas harpas. ^v2
 
-**3** Pois lá aqueles que nos levaram cativos nos pediam uma canção; e os que nos destruíram, que os alegrássemos, dizendo: Cantai-nos uma das canções de Sião. ^v3
+**3** "Lá, aqueles que nos capturaram nos pediam canções, e aqueles que zombavam de nós pediam que ficássemos alegres, dizendo: ""Cantai a nós uma das canções de Sião.""" ^v3
 
-**4** Como cantaremos a canção do Senhor em terra estranha? ^v4
+**4** Como podíamos cantar uma canção sobre Yahweh em terra estrangeira? ^v4
 
-**5** Se eu me esquecer de ti, ó Jerusalém, esqueça-se a minha direita da sua destreza. ^v5
+**5** Se eu ignorar tua memória, Jerusalém, que a minha mão direita perca a destreza. ^v5
 
-**6** Se me não lembrar de ti, apegue-se-me a língua ao meu paladar; se não preferir Jerusalém à minha maior alegria. ^v6
+**6** Que a minha língua se prenda ao céu da minha boca se eu não pensar mais sobre ti, se eu não preferir Jerusalém aos meus maiores deleites. ^v6
 
-**7** Lembra-te, Senhor, dos filhos de Edom no dia de Jerusalém, que diziam: Descobri-a, descobri-a até aos seus alicerces. ^v7
+**7** "Relembra, Yahweh, o que os edomitas fizeram no dia em que Jerusalém caiu. Eles disseram: ""Destruí-a, destruí-a até seus alicerces.""" ^v7
 
-**8** Ah! filha de babilônia, que vais ser assolada; feliz aquele que te retribuir o pago que tu nos pagaste a nós. ^v8
+**8** Filha da Babilônia, prestes a ser destruída — que seja abençoado quem quer que retribua o que fizeste a nós. ^v8
 
-**9** Feliz aquele que pegar em teus filhos e der com eles nas pedras. ^v9
+**9** Que seja abençoado quem quer que pegue os teus filhos pequenos e os arremesse contra a rocha. ^v9

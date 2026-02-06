@@ -1,65 +1,56 @@
 ---
-Livro: "[[2 Samuel|2 Samuel]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/2 Samuel|2 Samuel]]"
+tags: [biblia]
 ---
 
 # 2 Samuel 17
 
-**1** Disse mais Aitofel a Absalão: Deixa-me escolher doze mil homens, e me levantarei, e perseguirei a Davi esta noite. ^v1
+**1** "Então, Aitofel disse a Absalão: ""Agora, deixa-me escolher doze mil homens. Eu me levantarei e perseguirei Davi hoje à noite." ^v1
 
-**2** E irei sobre ele, pois está cansado e frouxo de mãos; e o espantarei, e fugirá todo o povo que está com ele; e então ferirei somente o rei. ^v2
+**2** Irei a ele enquanto estiver cansado e o aterrorizarei; o povo que está com ele fugirá e eu atacarei somente o rei. ^v2
 
-**3** E farei tornar a ti todo o povo; pois o homem a quem tu buscas é como se tornassem todos; assim todo o povo estará em paz. ^v3
+**3** "Eu trarei todo o povo de volta a ti, como uma noiva que vem ao seu marido, e todo o povo estará em paz contigo""." ^v3
 
-**4** E esta palavra pareceu boa aos olhos de Absalão, e aos olhos de todos os anciãos de Israel. ^v4
+**4** O que Aitofel disse agradou a Absalão e a todos os anciãos de Israel. ^v4
 
-**5** Disse, porém, Absalão: Chamai agora também a Husai o arquita; e ouçamos também o que ele dirá. ^v5
+**9** Agora, ele provavelmente está escondido em alguma cisterna ou em um outro lugar. Acontecerá que, quando alguns dos seus homens forem mortos no começo de um ataque, qualquer um que ouvir dirá: 'Aconteceu um massacre entre os soldados que seguem Absalão'. ^v9
 
-**6** E, chegando Husai a Absalão, lhe falou Absalão, dizendo: Desta maneira falou Aitofel; faremos conforme à sua palavra? Se não, fala tu. ^v6
+**10** Então, até os soldados mais corajosos, os de coração como de um leão, ficarão com medo; porque todo o Israel sabe que teu pai é um homem poderoso, e que os homens que estão com ele são muito fortes. ^v10
 
-**7** Então disse Husai a Absalão: O conselho que Aitofel deu desta vez não é bom. ^v7
+**11** Assim, eu recomendo que todo o Israel se reúna a ti, de Dã a Berseba, tão numeroso quanto a areia que está no mar, e que tu vás à batalha pessoalmente. ^v11
 
-**8** Disse mais Husai: Bem conheces tu a teu pai, e a seus homens, que são valorosos, e que estão com o espírito amargurado, como a ursa no campo, roubada dos cachorros; e também teu pai é homem de guerra, e não passará a noite com o povo. ^v8
+**12** Então, nós iremos até ele, onde quer que se encontre, e cairemos sobre ele como o orvalho cai sobre o chão. Nós não deixaremos nem ele, nem qualquer um de seus homens vivo. ^v12
 
-**9** Eis que agora estará escondido nalguma cova, ou em qualquer outro lugar; e será que, caindo no princípio alguns dentre eles, cada um que o ouvir então dirá: Houve derrota no povo que segue a Absalão. ^v9
+**13** "Se ele se refugiar em alguma cidade, então, todo o Israel trará cordas para essa cidade, e nós a arrastaremos até o rio, até que não se encontre nem uma pequena pedra lá""." ^v13
 
-**10** Então até o homem valente, cujo coração é como coração de leão, sem dúvida desmaiará; porque todo o Israel sabe que teu pai é valoroso, e homens valentes os que estão com ele. ^v10
+**14** "Absalão e os homens de Israel disseram: ""O conselho de Husai, o arquita, é melhor do que o conselho de Aitofel"". Yahweh determinara a rejeição do bom conselho de Aitofel para trazer destruição sobre Absalão." ^v14
 
-**11** Eu, porém, aconselho que com toda a pressa se ajunte a ti todo o Israel desde Dã até Berseba, em multidão como a areia do mar; e tu em pessoa vás com eles à peleja. ^v11
+**15** "Depois, Husai disse a Zadoque e a Abiatar, os sacerdotes: ""Aitofel aconselhou Absalão e os anciãos de Israel de tal e tal maneira, mas eu o aconselhei de outra forma." ^v15
 
-**12** Então iremos a ele, em qualquer lugar que se achar, facilmente cairemos sobre ele, como o orvalho cai sobre a terra; e não ficará dele e de todos os homens que estão com ele nem ainda um só. ^v12
+**16** "Agora, vai rapidamente e avisa a Davi, dizendo: 'Não acampes hoje à noite nos desfiladeiros de Araba, mas atravessa, sem demora, ou o rei será consumido, bem como todos os que estiverem com ele""." ^v16
 
-**13** E, se ele se retirar para alguma cidade, todo o Israel levará cordas àquela cidade; e arrastá-la-emos até ao ribeiro, até que não se ache ali nem uma só pedrinha. ^v13
+**17** Jônatas e Aimaaz estavam perto de uma fonte em En-Rogel. Uma serva costumava ir e informar-lhes o que necessitavam saber, para que não fossem vistos entrando na cidade. Quando recebiam a mensagem, iam e contavam ao rei Davi. ^v17
 
-**14** Então disse Absalão e todos os homens de Israel: Melhor é o conselho de Husai, o arquita, do que o conselho de Aitofel (porém assim o Senhor o ordenara, para aniquilar o bom conselho de Aitofel, para que o Senhor trouxesse o mal sobre Absalão). ^v14
+**18** Mas, desta vez, um jovem os viu e contou a Absalão. Então, Jônatas e Aimaaz saíram rapidamente e foram à casa de um homem, em Baurim, que tinha um poço no seu pátio, pelo qual eles desceram. ^v18
 
-**15** E disse Husai a Zadoque e a Abiatar, sacerdotes: assim e assim aconselhou Aitofel a Absalão e aos anciãos de Israel; porém assim e assim aconselhei eu. ^v15
+**19** A esposa do homem tomou uma coberta, a estendeu sobre a boca do poço e jogou grãos sobre ela, para que ninguém soubesse que Jônatas e Aimaaz estavam no poço. ^v19
 
-**16** Agora, pois, enviai apressadamente, e avisai a Davi, dizendo: Não passes esta noite nas campinas do deserto; logo também passa ao outro lado, para que o rei e todo o povo que com ele está não seja devorado. ^v16
+**20** "Os homens de Absalão foram à mulher da casa e disseram: ""Onde estão Aimaaz e Jônatas?"". A mulher lhes disse: ""Eles cruzaram o rio"". Então, depois de olharem em volta e não encontrá-los, retornaram a Jerusalém." ^v20
 
-**17** Estavam, pois, Jônatas e Aimaás junto à fonte de Rogel; e foi uma criada, e lho disse, e eles foram e o disseram ao rei Davi, porque não podiam ser vistos entrar na cidade. ^v17
+**21** "Depois que eles partiram, Jônatas e Aimaaz saíram do poço e foram contar ao rei Davi, e disseram: ""Levanta-te e atravessa rapidamente as águas, porque Aitofel deu tal e tal conselho a teu respeito""." ^v21
 
-**18** Mas viu-os todavia um moço, e avisou a Absalão; porém ambos logo partiram apressadamente, e entraram em casa de um homem, em Baurim, o qual tinha um poço no seu pátio, e ali dentro desceram. ^v18
+**22** Então, Davi se levantou, com todas as pessoas que estavam com ele, e cruzaram o Jordão. Até o amanhecer, nenhum deles havia falhado em cruzar o Jordão. ^v22
 
-**19** E tomou a mulher a tampa, e a estendeu sobre a boca do poço, e espalhou grão descascado sobre ela; assim nada se soube. ^v19
+**23** Quando Aitofel viu que seu conselho não fora seguido, selou seu jumento e saiu. Ele foi para sua própria cidade e, em casa, colocou seus afazeres em ordem e se enforcou. Deste modo, ele morreu e foi enterrado na tumba de seu pai. ^v23
 
-**20** Chegando, pois, os servos de Absalão à mulher, àquela casa, disseram: Onde estão Aimaás e Jônatas? E a mulher lhes disse: Já passaram o vau das águas. E havendo-os buscado, e não os achando, voltaram para Jerusalém. ^v20
+**24** Então, Davi veio a Maanaim. Quanto a Absalão, ele atravessou o Jordão e com ele todos os homens de Israel. ^v24
 
-**21** E sucedeu que, depois que se retiraram, Aimaás e Jônatas saíram do poço, e foram, e anunciaram a Davi; e disseram a Davi: Levantai-vos, e passai depressa as águas, porque assim aconselhou contra vós Aitofel. ^v21
+**25** Então, Absalão colocou Amasa no comando do exército, no lugar de Joabe. Amasa era o filho de Jéter, o ismaelita que dormira com Abigail, filha de Naás e irmã de Zeruia, a mãe de Joabe. ^v25
 
-**22** Então Davi e todo o povo que com ele estava se levantou, e passaram o Jordão; e já pela luz da manhã nem ainda faltava um só que não tivesse passado o Jordão. ^v22
+**26** Então, Israel e Absalão acamparam na terra de Gileade. ^v26
 
-**23** Vendo, pois, Aitofel que se não tinha seguido o seu conselho, albardou o jumento, e levantou-se, e foi para sua casa e para a sua cidade, e deu ordem à sua casa, e se enforcou e morreu, e foi sepultado na sepultura de seu pai. ^v23
+**27** Aconteceu que, quando Davi veio a Maanaim, Sobi, filho de Naás, de Rabá dos Amonitas, Marquir, o filho de Amiel de Lo-Debar, e Barzilai, o gileadita de Rogelim, ^v27
 
-**24** E Davi foi a Maanaim; e Absalão passou o Jordão, ele e todo o homem de Israel com ele. ^v24
+**28** trouxeram esteiras para dormir, cobertores, tigelas e potes, trigo, farinha de cevada, grãos torrados, vagem, lentilhas, ^v28
 
-**25** E Absalão constituiu a Amasa em lugar de Joabe sobre o arraial; e era Amasa filho de um homem cujo nome era Itra, o israelita, o qual possuíra a Abigail, filha de Naás, irmã de Zeruia, mãe de Joabe. ^v25
-
-**26** Israel, pois, e Absalão acamparam na terra de Gileade. ^v26
-
-**27** E sucedeu que, chegando Davi a Maanaim, Sobi, filho de Naás, de Rabá, dos filhos de Amom, e Maquir, filho de Amiel, de Lo-Debar, e Barzilai, o gileadita, de Rogelim, ^v27
-
-**28** Tomaram camas e bacias, e vasilhas de barro, e trigo, e cevada, e farinha, e grão torrado, e favas, e lentilhas, também torradas, ^v28
-
-**29** E mel, e manteiga, e ovelhas, e queijos de vacas, e os trouxeram a Davi e ao povo que com ele estava, para comerem, porque disseram: Este povo no deserto está faminto, cansado e sedento. ^v29
+**29** "mel, manteiga, ovelhas e derivados de leite, para que Davi e o povo que estava com ele pudessem comer. Esses homem haviam dito: ""O povo está faminto, cansado e sedento no deserto""." ^v29

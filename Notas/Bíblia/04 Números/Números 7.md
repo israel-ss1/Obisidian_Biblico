@@ -1,185 +1,184 @@
 ---
-Livro: "[[Números|Números]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Números|Números]]"
+tags: [biblia]
 ---
 
 # Números 7
 
-**1** E aconteceu, no dia em que Moisés acabou de levantar o tabernáculo, e o ungiu, e o santificou, e todos os seus utensílios; também o altar, e todos os seus pertences, e os ungiu, e os santificou, ^v1
+**1** No dia em que Moisés finalizou o Tabernáculo, ele o ungiu e dedicou-o a Yahweh, junto com toda sua mobília. Ele fez o mesmo com o altar e todos os seus utensílios. Ele os ungiu e dedicou-os a Yahweh. ^v1
 
-**2** Que os príncipes de Israel, os cabeças da casa de seus pais, os que foram príncipes das tribos, que estavam sobre os que foram contados, ofereceram, ^v2
+**2** Naquele dia, os líderes de Israel, os cabeças das famílias dos antepassados, ofereceram sacrifícios. Esses homens estavam liderando as tribos. Foram eles que supervisionaram a contagem dos homens no censo. ^v2
 
-**3** E trouxeram a sua oferta perante o Senhor, seis carros cobertos, e doze bois; por dois príncipes um carro, e cada um deles um boi; e os apresentaram diante do tabernáculo. ^v3
+**3** Eles trouxeram suas ofertas diante de Yahweh. Eles trouxeram seis carros cobertos e doze bois. Eles trouxeram um carro para cada dois líderes, e cada líder trouxe um boi. Eles apresentaram essas coisas em frente do Tabernáculo. ^v3
 
-**4** E falou o Senhor a Moisés, dizendo: ^v4
+**4** Então Yahweh falou a Moisés. Ele disse: ^v4
 
-**5** Recebe-os deles, e serão para servir no ministério da tenda da congregação; e os darás aos levitas, a cada qual segundo o seu ministério. ^v5
+**5** """Aceite as ofertas deles e use as ofertas para o trabalho na Tenda do Encontro. Dê as ofertas para os levitas, para cada um segundo seu serviço""." ^v5
 
-**6** Assim Moisés recebeu os carros e os bois, e os deu aos levitas. ^v6
+**6** Moisés pegou os carros e os bois, e os deu para os levitas. ^v6
 
-**7** Dois carros e quatro bois deu aos filhos de Gérson, segundo o seu ministério; ^v7
+**7** Ele deu dois carros e quatro bois para os descendentes de Gérson, por conta daquilo que o trabalho deles necessitava. ^v7
 
-**8** E quatro carros e oito bois deu aos filhos de Merari, segundo o seu ministério, debaixo da mão de Itamar, filho de Arão, o sacerdote. ^v8
+**8** Ele deu quatro carros e oito bois para os descendentes de Merari, aos cuidados de Itamar, filho de Arão, o sacerdote. Ele fez isso por conta daquilo que o trabalho deles requeria. ^v8
 
-**9** Mas aos filhos de Coate nada deu, porquanto a seu cargo estava o santuário e o levavam aos ombros. ^v9
+**9** Mas, ele não deu nenhuma dessas coisas aos descendentes de Coate, porque deles seria o trabalho relacionado as coisas pertencentes a Yahweh, as quais carregariam em seus próprios ombros. ^v9
 
-**10** E ofereceram os príncipes para a consagração do altar, no dia em que foi ungido; apresentaram, pois, os príncipes a sua oferta perante o altar. ^v10
+**10** Os líderes ofereceram seus bens para a dedicação do altar, no dia que Moisés ungiu o altar. Os líderes ofereceram seus sacrifícios em frente ao altar. ^v10
 
-**11** E disse o Senhor a Moisés: Cada príncipe oferecerá a sua oferta, cada qual no seu dia, para a consagração do altar. ^v11
+**11** "Yahweh disse a Moisés: ""Cada líder, em seu próprio dia, deve oferecer seu sacrifício para a dedicação do altar""." ^v11
 
-**12** O que, pois, no primeiro dia apresentou a sua oferta foi Naassom, filho de Aminadabe, pela tribo de Judá. ^v12
+**12** No primeiro dia, Nasom, filho de Aminadabe, da tribo de Judá, ofereceu seu sacrifício. ^v12
 
-**13** E a sua oferta foi um prato de prata, do peso de cento e trinta siclos, uma bacia de prata de setenta siclos, segundo o siclo do santuário; ambos cheios de flor de farinha, amassada com azeite, para oferta de alimentos; ^v13
+**13** O sacrifício dele foi uma bandeja de prata, pesando cento e trinta siclos e uma bacia de prata pesando setenta siclos, segundo o peso padrão do siclo do Santuário. Ambos objetos estavam cheios de flor de farinha amassada, misturada com azeite para a oferta de cereais. ^v13
 
-**14** Uma colher de dez siclos de ouro, cheia de incenso; ^v14
+**14** Ele também deu um prato de ouro pesando dez siclos, cheio de incenso. ^v14
 
-**15** Um novilho, um carneiro, um cordeiro de um ano, para holocausto; ^v15
+**15** Ele deu como oferta queimada um novilho, um carneiro, e um cordeiro macho de um ano. ^v15
 
-**16** Um bode para expiação do pecado; ^v16
+**16** Ele deu um bode como oferta pelo pecado. ^v16
 
-**17** E para sacrifício pacífico dois bois, cinco carneiros, cinco bodes, cinco cordeiros de um ano; esta foi a oferta de Naassom, filho de Aminadabe. ^v17
+**17** Ele deu dois bois, cinco carneiros, cinco bodes, e cinco cordeiros machos de um ano, como oferta pacífica. Esse foi o sacrifício de Nasom, filho de Aminadabe. ^v17
 
-**18** No segundo dia fez a sua oferta Natanael, filho de Zuar, príncipe de Issacar. ^v18
+**18** No segundo dia, Natanael filho de Zuar, líder de Issacar, ofereceu seu sacrifício ^v18
 
-**19** E como sua oferta ofereceu um prato de prata, do peso de cento e trinta siclos, uma bacia de prata de setenta siclos, segundo o siclo do santuário; ambos cheios de flor de farinha amassada com azeite, para a oferta de alimentos; ^v19
+**19** Ele ofereceu como seu sacrifício uma bandeja de prata pesando cento e trinta ciclos e uma bacia de prata de setenta siclos, pelo peso padrão do siclo do lugar santo. Ambos objetos estavam cheios de flor de farinha amassada, misturada com azeite para a oferta de cereais. ^v19
 
-**20** Uma colher de dez siclos de ouro, cheia de incenso; ^v20
+**20** Ele também ofereceu um prato de ouro, pesando dez siclos, cheio de incenso. ^v20
 
-**21** Um novilho, um carneiro, um cordeiro de um ano, para holocausto; ^v21
+**21** Ele ofereceu como oferta queimada um novilho, um carneiro, e um cordeiro macho de um ano de idade. ^v21
 
-**22** Um bode para expiação do pecado; ^v22
+**22** Ele ofereceu um bode como oferta pelo pecado. ^v22
 
-**23** E para sacrifício pacífico dois bois, cinco carneiros, cinco bodes, cinco cordeiros de um ano; esta foi a oferta de Natanael, filho de Zuar. ^v23
+**23** Ele ofereceu dois bois, cinco carneiros, cinco bodes e cinco cordeiros machos de um ano, como sacrifício para a oferta pacífica. Esse foi o sacrifício de Natanael, filho de Zoar. ^v23
 
-**24** No terceiro dia ofereceu o príncipe dos filhos de Zebulom, Eliabe, filho de Helom. ^v24
+**24** No terceiro dia, Eliabe, filho de Helom, líder dos descendentes de Zebulom, ofereceu seu sacrifício. ^v24
 
-**25** A sua oferta foi um prato de prata, do peso de cento e trinta siclos, uma bacia de prata de setenta siclos, segundo o siclo do santuário; ambos cheios de flor de farinha amassada com azeite, para oferta de alimentos; ^v25
+**25** Seu sacrifício foi uma bandeja de prata, pesando cento e trinta siclos e uma bacia de prata, pesando setenta siclos, conforme o peso padrão do siclo do santuário. Ambos objetos estavam cheios de flor de farinha amassada, misturada com azeite para a oferta de cereais. ^v25
 
-**26** Uma colher de dez siclos de ouro, cheia de incenso; ^v26
+**26** Ele também ofereceu um prato de ouro, pesando dez siclos, cheio de incenso. ^v26
 
-**27** Um novilho, um carneiro, um cordeiro de um ano, para holocausto; ^v27
+**27** Ele ofereceu como oferta queimada um novilho, um carneiro e um cordeiro macho de um ano. ^v27
 
-**28** Um bode para expiação do pecado; ^v28
+**28** Ele ofereceu um bode como oferta pelo pecado. ^v28
 
-**29** E para sacrifício pacífico dois bois, cinco carneiros, cinco bodes, cinco cordeiros de um ano; esta foi a oferta de Eliabe, filho de Helom. ^v29
+**29** Ele ofereceu dois bois, cinco carneiros, cinco bodes e cinco cordeiros machos de um ano, como sacrifício para a oferta pacífica. Esse foi o sacrifício de Eliabe, filho de Helom. ^v29
 
-**30** No quarto dia ofereceu o príncipe dos filhos de Rúben, Elizur, filho de Sedeur; ^v30
+**30** No quarto dia, Elizur, filho de Sedeur, líder dos descendentes de Rúben, ofereceu seu sacrifício. ^v30
 
-**31** A sua oferta foi um prato de prata, do peso de cento e trinta siclos, uma bacia de prata de setenta siclos, segundo o siclo do santuário; ambos cheios de flor de farinha, amassada com azeite, para oferta de alimentos; ^v31
+**31** Seu sacrifício foi uma bandeja de prata, pesando cento e trinta siclos e uma bacia de prata, pesando setenta siclos, conforme o peso padrão do siclo do santuário. Ambos objetos estavam cheios de flor de farinha amassada com óleo para a oferta de cereais. ^v31
 
-**32** Uma colher de dez siclos de ouro, cheia de incenso; ^v32
+**32** Ele também deu uma prato de ouro pesando dez siclos, cheia de incenso. ^v32
 
-**33** Um novilho, um carneiro, um cordeiro de um ano, para holocausto; ^v33
+**33** Ele ofereceu como oferta queimada um novilho, um carneiro e um cordeiro macho de um ano. ^v33
 
-**34** Um bode para expiação do pecado; ^v34
+**34** Ele deu um bode como oferta pelo pecado. ^v34
 
-**35** E para sacrifício pacífico dois bois, cinco carneiros, cinco bodes, cinco cordeiros de um ano; esta foi a oferta de Elizur, filho de Sedeur. ^v35
+**35** Ele deu dois bois, cinco carneiros, cinco bodes, e cinco cordeiros machos de um ano, como sacrifício para a oferta pacífica. Esse foi o sacrifício de Elizur, filho de Sedeur. ^v35
 
-**36** No quinto dia ofereceu o príncipe dos filhos de Simeão, Selumiel, filho de Zurisadai. ^v36
+**36** No quinto dia, Selumiel, filho de Zurisadai, líder dos descendentes de Simeão, ofereceu seu sacrifício. ^v36
 
-**37** A sua oferta foi um prato de prata, do peso de cento e trinta siclos, uma bacia de prata de setenta siclos, segundo o siclo do santuário; ambos cheios de flor de farinha amassada com azeite, para oferta de alimentos; ^v37
+**37** O sacrifício dele foi uma bandeja de prata, pesando cento e trinta siclos e uma bacia de prata, pesando setenta siclos, segundo o peso padrão do siclo do santuário. Ambos os objetos estavam cheios de flor de farinha misturada com óleo para a oferta de cereais. ^v37
 
-**38** Uma colher de dez siclos de ouro, cheia de incenso; ^v38
+**38** Ele também deu um prato de ouro pesando, dez siclos, cheio de incenso. ^v38
 
-**39** Um novilho, um carneiro, um cordeiro de um ano para holocausto; ^v39
+**39** Ele deu como oferta queimada um novilho, um carneiro e um cordeiro macho de um ano. ^v39
 
-**40** Um bode para expiação do pecado; ^v40
+**40** Ele deu um bode como oferta pelo pecado. ^v40
 
-**41** E para sacrifício pacífico dois bois, cinco carneiros, cinco bodes, cinco cordeiros de um ano; esta foi a oferta de Selumiel, filho de Zurisadai. ^v41
+**41** Ele deu dois bois, cinco carneiros, cinco bodes, e cinco cordeiros machos de um ano, como o sacrifício para a oferta pacífica. Esse foi o sacrifício de Selumiel, filho de Zurisadai. ^v41
 
-**42** No sexto dia ofereceu o príncipe dos filhos de Gade; Eliasafe, filho de Deuel. ^v42
+**42** No sexto dia, Eliasafe, filho de Deuel, líder dos descendentes de Gade, ofereceu seu sacrifício. ^v42
 
-**43** A sua oferta foi um prato de prata, do peso de cento e trinta siclos, uma bacia de prata de setenta siclos, segundo o siclo do santuário; ambos cheios de flor de farinha, amassada com azeite, para oferta de alimentos; ^v43
+**43** O sacrifício dele foi uma bandeja de prata, pesando cento e trinta siclos e uma bacia de prata, pesando setenta siclos, segundo o peso padrão do siclo do santuário. Ambos os objetos estavam cheios de flor de farinha misturada com óleo para a oferta de cereais. ^v43
 
-**44** Uma colher de dez siclos de ouro, cheia de incenso; ^v44
+**44** Ele também deu um prato de ouro, pesando dez siclos, cheio de incenso. ^v44
 
-**45** Um novilho, um carneiro, um cordeiro de um ano, para holocausto; ^v45
+**45** Ele ofereceu como oferta queimada um novilho, um carneiro e um cordeiro de um ano. ^v45
 
-**46** Um bode para expiação do pecado. ^v46
+**46** Ele deu um bode como oferta pelo pecado. ^v46
 
-**47** E para sacrifício pacífico dois bois, cinco carneiros, cinco bodes, cinco cordeiros de um ano; esta foi a oferta de Eliasafe, filho de Deuel. ^v47
+**47** Ele deu dois bois, cinco carneiros, cinco bodes, e cinco cordeiros machos de um ano, como sacrifício para a oferta pacífica. Esse foi o sacrifício de Eliasafe, filho de Deuel. ^v47
 
-**48** No sétimo dia ofereceu o príncipe dos filhos de Efraim, Elisama, filho de Amiúde. ^v48
+**48** No sétimo dia, Elisama, filho de Amiúde, líder dos descendentes de Efraim, ofereceu seu sacrifício. ^v48
 
-**49** A sua oferta foi um prato de prata, do peso de cento e trinta siclos, uma bacia de prata de setenta siclos, segundo o siclo do santuário; ambos cheios de flor de farinha, amassada com azeite, para oferta de alimentos; ^v49
+**49** Seu sacrifício foi uma bandeja de prata, pesando cento e trinta siclos e uma bacia de prata, pesando setenta siclos, segundo o peso padrão do siclo do santuário. Ambos os objetos estavam cheio de flor de farinha misturada com óleo para a oferta de cereais. ^v49
 
-**50** Uma colher de dez siclos de ouro, cheia de incenso; ^v50
+**50** Ele também deu um prato de ouro, pesando dez siclos, cheio de incenso. ^v50
 
-**51** Um novilho, um carneiro, um cordeiro de um ano, para holocausto; ^v51
+**51** Ele deu como oferta queimada um novilho, um carneiro e um cordeiro macho de um ano. ^v51
 
-**52** Um bode para expiação do pecado; ^v52
+**52** Ele deu um bode como oferta pelo pecado. ^v52
 
-**53** E para sacrifício pacífico dois bois, cinco carneiros, cinco bodes, cinco cordeiros de um ano; esta foi a oferta de Elisama, filho de Amiúde. ^v53
+**53** Ele deu dois bois, cinco carneiros, cinco bodes, e cinco cordeiros machos de um ano, como sacrifício para a oferta pacífica. Esse foi o sacrifício de Elisama, filho de Amiúde. ^v53
 
-**54** No oitavo dia ofereceu o príncipe dos filhos de Manassés, Gamaliel, filho de Pedazur. ^v54
+**54** No oitavo dia, Gamaliel, filho de Pedazur, líder dos descendentes de Manassés, ofereceu seu sacrifício. ^v54
 
-**55** A sua oferta foi um prato de prata, do peso de cento e trinta siclos, uma bacia de prata de setenta siclos, segundo o siclo do santuário; ambos cheios de flor de farinha, amassada com azeite, para oferta de alimentos; ^v55
+**55** Seu sacrifício foi uma bandeja de prata, pesando cento e trinta siclos e uma bacia de prata pesando setenta siclos, segundo o peso padrão do siclo do santuário. Ambos os objetos estavam cheios de flor de farinha misturada com óleo para a oferta de cereais. ^v55
 
-**56** Uma colher de dez siclos de ouro, cheia de incenso; ^v56
+**56** Ele também deu um prato de ouro, pesando dez siclos, cheio de incenso. ^v56
 
-**57** Um novilho, um carneiro, um cordeiro de um ano, para holocausto; ^v57
+**57** Ele deu como oferta queimada um novilho, um carneiro e um cordeiro macho de um ano. ^v57
 
-**58** Um bode para expiação do pecado; ^v58
+**58** Ele deu um bode como oferta pelo pecado. ^v58
 
-**59** E para sacrifício pacífico dois bois, cinco carneiros, cinco bodes, cinco cordeiros de um ano; esta foi a oferta de Gamaliel, filho de Pedazur. ^v59
+**59** Ele deu dois bois, cinco carneiros, cinco bodes, e cinco cordeiros machos de um ano, como sacrifício para a oferta pacífica. Esse foi o sacrifício de Gamaliel, filho de Pedazur. ^v59
 
-**60** No dia nono ofereceu o príncipe dos filhos de Benjamim, Abidã, filho de Gideoni; ^v60
+**60** No nono dia, Abidã, filho de Gideoni, líder dos descendentes de Benajmim, ofereceu seu sacrifício. ^v60
 
-**61** A sua oferta foi um prato de prata, do peso de cento e trinta siclos, uma bacia de prata de setenta siclos, segundo o siclo do santuário; ambos cheios de flor de farinha, amassada com azeite, para oferta de alimentos; ^v61
+**61** Seu sacrifício foi uma bandeja de prata, pesando cento e trinta siclos e uma bacia de prata, pesando setenta siclos, segundo o peso padrão do siclo do santuário. Ambos os objetos estavam cheio de flor de farinha misturada com óleo para a oferta de cereais. ^v61
 
-**62** Uma colher de dez siclos de ouro, cheia de incenso; ^v62
+**62** Ele também deu um prato de ouro, pesando dez siclos, cheio de incenso. ^v62
 
-**63** Um novilho, um carneiro, um cordeiro de um ano, para holocausto; ^v63
+**63** Ele deu como oferta queimada um novilho, um carneiro e um cordeiro macho de um ano. ^v63
 
-**64** Um bode para expiação do pecado; ^v64
+**64** Ele deu um bode como oferta pelo pecado. ^v64
 
-**65** E para sacrifício pacífico dois bois, cinco carneiros, cinco bodes, cinco cordeiros de um ano; esta foi a oferta de Abidã filho de Gideoni. ^v65
+**65** Ele deu dois bois, cinco carneiros, cinco bodes, e cinco cordeiros machos de um ano, como sacrifício para a oferta pacífica. Esse foi o sacrifício de Abidã, filho de Gideoni. ^v65
 
-**66** No décimo dia ofereceu o príncipe dos filhos de Dã, Aieser, filho de Amisadai. ^v66
+**66** No décimo dia, Aiezer, filho de Amisadai, líder dos descendentes de Dã, ofereceu seu sacrifício. ^v66
 
-**67** A sua oferta foi um prato de prata, do peso de cento e trinta siclos, uma bacia de prata de setenta siclos, segundo o siclo do santuário; ambos cheios de flor de farinha, amassada com azeite, para oferta de alimentos; ^v67
+**67** Seu sacrifício foi uma bandeja de prata, pesando cento e trinta siclos e uma bacia de prata, pesando setenta siclos, segundo o peso padrão do siclo do santuário. Ambos os objetos estavam cheios de flor de farinha misturada com óleo para a oferta de cereais. ^v67
 
-**68** Uma colher de dez siclos de ouro, cheia de incenso; ^v68
+**68** Ele também deu um prato de ouro, pesando dez siclos, cheio de incenso. ^v68
 
-**69** Um novilho, um carneiro, um cordeiro de um ano, para holocausto; ^v69
+**69** Ele ofereceu como oferta queimada um novilho, um carneiro e um cordeiro macho de um ano. ^v69
 
-**70** Um bode para expiação do pecado; ^v70
+**70** Ele deu um bode como oferta pelo pecado. ^v70
 
-**71** E para sacrifício pacífico dois bois, cinco carneiros, cinco bodes, cinco cordeiros de um ano; esta foi a oferta de Aieser, filho de Amisadai. ^v71
+**71** Ele deu dois bois, cinco carneiros, cinco bodes, e cinco cordeiros machos de um ano, como sacrifício para a oferta pacífica. Esse foi o sacrifício de Aiezer, filho de Amisadai. ^v71
 
-**72** No dia undécimo ofereceu o príncipe dos filhos de Aser, Pagiel, filho de Ocrã; ^v72
+**72** No décimo primeiro dia, Pagiel, filho de Ocrã, líder dos descendentes de Aser, ofereceu seu sacrifício. ^v72
 
-**73** A sua oferta foi um prato de prata, do peso de cento e trinta siclos, uma bacia de prata de setenta siclos, segundo o siclo do santuário; ambos cheios de flor de farinha, amassada com azeite, para oferta de alimentos; ^v73
+**73** Seu sacrifício foi uma bandeja de prata, pesando cento e trinta siclos e uma bacia de prata, pesando setenta siclos, segundo o peso padrão do siclo do Santuário. Ambos os objetos estavam cheios de flor de farinha misturada com óleo para a oferta de cereais. ^v73
 
-**74** Uma colher de dez siclos de ouro, cheia de incenso; ^v74
+**74** Ele também deu um prato de ouro pesando dez siclos, cheio de incenso. ^v74
 
-**75** Um novilho, um carneiro, um cordeiro de um ano, para holocausto; ^v75
+**75** Ele deu como oferta queimada um novilho, um carneiro e um cordeiro de um ano. ^v75
 
-**76** Um bode para expiação do pecado; ^v76
+**76** Ele deu um bode como oferta pelo pecado. ^v76
 
-**77** E para sacrifício pacífico dois bois, cinco carneiros, cinco bodes, cinco cordeiros de um ano; esta foi a oferta de Pagiel, filho de Ocrã. ^v77
+**77** Ele deu dois bois, cinco carneiros, cinco bodes e cinco cordeiros machos de um ano, como sacrifício para a oferta de paz. Esse foi o sacrifício de Pagiel, filho de Ocrã. ^v77
 
-**78** No duodécimo dia ofereceu o príncipe dos filhos de Naftali, Aira, filho de Enã. ^v78
+**78** No décimo segundo dia, Airá, filho de Enã, líder dos descendentes de Naftali, ofereceu seu sacrifício. ^v78
 
-**79** A sua oferta foi um prato de prata, do peso de cento e trinta siclos, uma bacia de prata de setenta siclos, segundo o siclo do santuário; ambos cheios de flor de farinha amassada, com azeite para oferta de alimentos; ^v79
+**79** Seu sacrifício foi uma bandeja de prata, pesando cento e trinta siclos e uma bacia de prata, pesando setenta siclos, segundo o peso padrão do siclo do santuário. Ambos os objetos estavam cheios de flor de farinha misturada com óleo para a oferta de cereais. ^v79
 
-**80** Uma colher de dez siclos de ouro, cheia de incenso; ^v80
+**80** Ele também deu um prato de ouro, pesando dez siclos, cheio de incenso. ^v80
 
-**81** Um novilho, um carneiro, um cordeiro de um ano, para holocausto; ^v81
+**81** Ele ofereceu como oferta queimada um novilho, um carneiro e um cordeiro macho de um ano. ^v81
 
-**82** Um bode para expiação do pecado; ^v82
+**82** Ele deu um bode como oferta pelo pecado. ^v82
 
-**83** E para sacrifício pacífico dois bois, cinco carneiros, cinco bodes, cinco cordeiros de um ano; esta foi a oferta de Aira, filho de Enã. ^v83
+**83** Ele deu dois bois, cinco carneiros, cinco bodes, e cinco cordeiros machos de um ano, como sacrifício para a oferta pacífica. Esse foi o sacrifício de Airá, filho de Enã. ^v83
 
-**84** Esta foi a consagração do altar, feita pelos príncipes de Israel, no dia em que foi ungido, doze pratos de prata, doze bacias de prata, doze colheres de ouro. ^v84
+**84** Os líderes de Israel dedicaram todas estas coisas no dia que Moisés ungiu o altar. Eles dedicaram doze bandejas de prata, doze bacias de pratas e doze pratos de ouro. ^v84
 
-**85** Cada prato de prata de cento e trinta siclos, e cada bacia de setenta; toda a prata dos vasos foi dois mil e quatrocentos siclos, segundo o siclo do santuário; ^v85
+**85** Cada bandeja de prata pesando cento e trinta siclos e cada bacia pesando setenta siclos. Todas as vasilhas de prata pesavam dois mil e quatrocentos siclos, segundo o peso padrão do siclo do santuário. ^v85
 
-**86** Doze colheres de ouro cheias de incenso, cada colher de dez siclos, segundo o siclo do santuário; todo o ouro das colheres foi de cento e vinte siclos; ^v86
+**86** Cada um dos doze pratos de ouro, cheios de incenso, pesavam dez siclos segundo o peso padrão do siclo do santuário. Todas os pratos de ouro pesavam cento e vinte siclos. ^v86
 
-**87** Todos os animais para holocausto foram doze novilhos, doze carneiros, doze cordeiros de um ano, com a sua oferta de alimentos e doze bodes para expiação do pecado. ^v87
+**87** Eles dedicaram como oferta queimada doze touros, doze carneiros, e doze cordeiros machos de um ano. Eles deram suas ofertas de grãos. Eles deram doze bodes como oferta pelo pecado. ^v87
 
-**88** E todos os animais para sacrifício pacífico foram vinte e quatro novilhos, os carneiros sessenta, os bodes sessenta, os cordeiros de um ano sessenta; esta foi a consagração do altar, depois que foi ungido. ^v88
+**88** De todo seu rebanho, eles deram vinte e quatro touros, sessenta carneiros, sessenta bodes e sessenta cordeiros machos de um ano, como sacrifício para a oferta pacífica. Isso foi para a dedicação do altar, depois que este foi ungido. ^v88
 
-**89** E, quando Moisés entrava na tenda da congregação para falar com ele, então ouvia a voz que lhe falava de cima do propiciatório, que estava sobre a arca do testemunho entre os dois querubins; assim com ele falava. ^v89
+**89** Quando Moisés entrou na Tenda do Encontro para falar com Yahweh, ele ouviu Sua voz falando com ele. Yahweh falou com ele de cima da tampa do propiciatório, da arca do testemunho, entre dois querubins. Ele falou com ele. ^v89

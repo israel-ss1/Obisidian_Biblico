@@ -1,99 +1,98 @@
 ---
-Livro: "[[Levítico|Levítico]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Levítico|Levítico]]"
+tags: [biblia]
 ---
 
 # Levítico 26
 
-**1** Não fareis para vós ídolos, nem vos levantareis imagem de escultura, nem estátua, nem poreis pedra figurada na vossa terra, para inclinar-vos a ela; porque eu sou o SENHOR vosso Deus. ^v1
+**1** """Não farás ídolos, muito menos erguerás imagens esculpidas ou pilares sagrados de pedra, e não porás nenhuma imagem esculpida em sua terra para te curvares, pois Eu sou Yahweh, seu Deus." ^v1
 
-**2** Guardareis os meus sábados, e reverenciareis o meu santuário. Eu sou o Senhor. ^v2
+**2** Deveis guardar os Meus Sábados e honrar o Meu santuário. Eu sou Yahweh. ^v2
 
-**3** Se andardes nos meus estatutos, e guardardes os meus mandamentos, e os cumprirdes, ^v3
+**3** Se andardes nas Minhas leis e guardardes os Meus mandamentos e os obedecerdes, ^v3
 
-**4** Então eu vos darei as chuvas a seu tempo; e a terra dará a sua colheita, e a árvore do campo dará o seu fruto; ^v4
+**4** então, Eu darei chuva em sua estação; a terra entregará sua produção, e as árvores do campo entregarão seus frutos. ^v4
 
-**5** E a debulha se vos chegará à vindima, e a vindima se chegará à sementeira; e comereis o vosso pão a fartar, e habitareis seguros na vossa terra. ^v5
+**5** Debulharás continuamente até a época de colher uvas, e essa colheita se estenderá até a estação do plantio. Comereis todo vosso pão e vivereis seguramente no local onde construístes vosso lar na terra. ^v5
 
-**6** Também darei paz na terra, e dormireis seguros, e não haverá quem vos espante; e farei cessar os animais nocivos da terra, e pela vossa terra não passará espada. ^v6
+**6** Eu darei paz na terra; deitar-vos-ei e nada temereis, afastarei os animais perigosos da vossa terra, e a espada não passará pela terra. ^v6
 
-**7** E perseguireis os vossos inimigos, e cairão à espada diante de vós. ^v7
+**7** Perseguireis vossos inimigos, e eles cairão diante de vós pela espada. ^v7
 
-**8** Cinco de vós perseguirão a um cento deles, e cem de vós perseguirão a dez mil; e os vossos inimigos cairão à espada diante de vós. ^v8
+**8** Cinco de vós perseguirão a cem, e cem de vós perseguirão a dez mil; vossos inimigos cairão diante de vós pela espada. ^v8
 
-**9** E para vós olharei, e vos farei frutificar, e vos multiplicarei, e confirmarei a minha aliança convosco. ^v9
+**9** Eu olharei para vós com favor e vos farei frutíferos e vos multiplicarei. Eu firmarei minha aliança convosco. Comerão por muito tempo da colheita estocada. ^v9
 
-**10** E comereis da colheita velha, há muito tempo guardada, e tirareis fora a velha por causa da nova. ^v10
+**10** Tereis de retirar a colheita do depósito, porque precisareis de mais espaço para a nova colheita. ^v10
 
-**11** E porei o meu tabernáculo no meio de vós, e a minha alma de vós não se enfadará. ^v11
+**11** Eu colocarei meu tabernáculo em vosso meio, e Eu não vos detestarei. ^v11
 
-**12** E andarei no meio de vós, e eu vos serei por Deus, e vós me sereis por povo. ^v12
+**12** Eu andarei em vosso meio e serei vosso Deus, e vós sereis meu povo. ^v12
 
-**13** Eu sou o Senhor vosso Deus, que vos tirei da terra dos egípcios, para que não fôsseis seus escravos; e quebrei os timões do vosso jugo, e vos fiz andar eretos. ^v13
+**13** Eu Sou Yahweh, seu Deus, que te trouxe da terra do Egito, para que não fostes seus escravos. Eu quebrei as barras dos vossos ombros, para fazer-vos andar de forma reta. ^v13
 
-**14** Mas, se não me ouvirdes, e não cumprirdes todos estes mandamentos, ^v14
+**14** Porém se vós não Me ouvirdes a Mim, e não obedecerdes a todos esses mandamentos, ^v14
 
-**15** E se rejeitardes os meus estatutos, e a vossa alma se enfadar dos meus juízos, não cumprindo todos os meus mandamentos, para invalidar a minha aliança, ^v15
+**15** e rejeitar Meus decretos e detestardes Minhas Leis, de maneira que não obedeçais todos os Meus mandamentos, e quebrar Minha Aliança, ^v15
 
-**16** Então eu também vos farei isto: porei sobre vós terror, a tísica e a febre ardente, que consumam os olhos e atormentem a alma; e semeareis em vão a vossa semente, pois os vossos inimigos a comerão. ^v16
+**16** se fizerdes essas coisas, então Eu farei isto convosco: Eu infligirei terror em vós, doenças e febre que destruirão vossos olhos e drenarão vossas vidas. Vós plantareis vossas sementes por nada, porque vossos inimigos comerão de vossa produção. ^v16
 
-**17** E porei a minha face contra vós, e sereis feridos diante de vossos inimigos; e os que vos odeiam, de vós se assenhorearão, e fugireis, sem ninguém vos perseguir. ^v17
+**17** Eu porei o Meu rosto contra vós, e vós sereis sobrepujados por vossos inimigos. Homens que vos odeiam governar-vos-ão, e vós correreis mesmo quando ninguém vos perseguir. ^v17
 
-**18** E, se ainda com estas coisas não me ouvirdes, então eu prosseguirei a castigar-vos sete vezes mais, por causa dos vossos pecados. ^v18
+**18** Se vós não ouvirdes aos meus mandamentos, então Eu os punirei sete vezes mais por vossos pecados. ^v18
 
-**19** Porque quebrarei a soberba da vossa força; e farei que os vossos céus sejam como ferro e a vossa terra como cobre. ^v19
+**19** Quebrarei vosso orgulho no vosso poder. Eu farei o céu sobre vós como aço e vossa terra, como bronze. ^v19
 
-**20** E em vão se gastará a vossa força; a vossa terra não dará a sua colheita, e as árvores da terra não darão o seu fruto. ^v20
+**20** Vossa força não servirá de nada, porque vossa terra não produzirá a sua colheita, e vossas árvores não produzirão seus frutos. ^v20
 
-**21** E se andardes contrariamente para comigo, e não me quiserdes ouvir, trar-vos-ei pragas sete vezes mais, conforme os vossos pecados. ^v21
+**21** Se vós andardes contra Mim e não ouvirdes a Mim, Eu trarei sete vezes mais golpes sobre vós, proporcionalmente aos vossos pecados. ^v21
 
-**22** Porque enviarei entre vós as feras do campo, as quais vos desfilharão, e desfarão o vosso gado, e vos diminuirão; e os vossos caminhos serão desertos. ^v22
+**22** Eu enviarei animais perigosos contra vós, que tomarão vossos filhos, destruirão vosso rebanho, e farão vossa população diminuir. ^v22
 
-**23** Se ainda com estas coisas não vos corrigirdes voltando para mim, mas ainda andardes contrariamente para comigo, ^v23
+**23** Se, mesmo assim, vós não aceitardes Meus ensinamentos, mas continuardes andando contra Mim, então Eu também andarei contra vós. ^v23
 
-**24** Eu também andarei contrariamente para convosco, e eu, eu mesmo, vos ferirei sete vezes mais por causa dos vossos pecados. ^v24
+**24** Eu pessoalmente vos punirei sete vezes mais por vossos pecados. ^v24
 
-**25** Porque trarei sobre vós a espada, que executará a vingança da aliança; e ajuntados sereis nas vossas cidades; então enviarei a peste entre vós, e sereis entregues na mão do inimigo. ^v25
+**25** Eu trarei sobre vós a espada que executará vingança por teres quebrado Minha aliança. Vós sereis reunidos dentro de vossas cidades, e Eu enviarei doenças sobre vós, e então sereis derrotados pelo poder de vosso inimigo. ^v25
 
-**26** Quando eu vos quebrar o sustento do pão, então dez mulheres cozerão o vosso pão num só forno, e devolver-vos-ão o vosso pão por peso; e comereis, mas não vos fartareis. ^v26
+**26** Quando Eu cortar o vosso suprimento de comida, dez mulheres serão capazes de assar seu pão em um forno, e elas distribuirão o seu pão por peso. Vós comereis, mas não vos satisfareis. ^v26
 
-**27** E se com isto não me ouvirdes, mas ainda andardes contrariamente para comigo, ^v27
+**27** Se mesmo assim, vós não Me ouvirdes, mas continuardes contra Mim, ^v27
 
-**28** Também eu para convosco andarei contrariamente em furor; e vos castigarei sete vezes mais por causa dos vossos pecados. ^v28
+**28** então Minha ira se acenderá contra vós, e Eu vos punirei até sete vezes mais tanto quanto vossos pecados. ^v28
 
-**29** Porque comereis a carne de vossos filhos, e a carne de vossas filhas. ^v29
+**29** Vós comereis a carne de vossos filhos; vós comereis a carne de vossas filhas. ^v29
 
-**30** E destruirei os vossos altos, e desfarei as vossas imagens, e lançarei os vossos cadáveres sobre os cadáveres dos vossos deuses; a minha alma se enfadará de vós. ^v30
+**30** Eu destruirei vossos altares, derrubarei vossos altares de incenso, e lançarei vossos cadáveres sobre os cadáveres de vossos ídolos, e Eu pessoalmente vos abominarei. ^v30
 
-**31** E reduzirei as vossas cidades a deserto, e assolarei os vossos santuários, e não cheirarei o vosso cheiro suave. ^v31
+**31** Eu tornarei vossas cidades em ruínas e destruirei vossos santuários. Eu não me agradarei com o aroma de vossos ofertas. ^v31
 
-**32** E assolarei a terra e se espantarão disso os vossos inimigos que nela morarem. ^v32
+**32** Eu devastarei a terra. Vossos inimigos que viverão ali ficarão chocados com a devastação. ^v32
 
-**33** E espalhar-vos-ei entre as nações, e desembainharei a espada atrás de vós; e a vossa terra será assolada, e as vossas cidades serão desertas. ^v33
+**33** Eu vos dispersarei de diante das nações, e Eu desembainharei Minha espada para vos perseguir. Vossa terra será abandonada e vossas cidades serão arruinadas. ^v33
 
-**34** Então a terra folgará nos seus sábados, todos os dias da sua assolação, e vós estareis na terra dos vossos inimigos; então a terra descansará, e folgará nos seus sábados. ^v34
+**34** Então a terra desfrutará de seus sábados por todo o tempo que ficar abandonada, e vós estareis na terra de vossos inimigos. Durante este tempo, a terra descansará e aproveitará seus sábados. ^v34
 
-**35** Todos os dias da assolação descansará, porque não descansou nos vossos sábados, quando habitáveis nela. ^v35
+**35** Pelo tempo que permanecer abandonada, terá seu descanso, será o descanso que não teve em vossos sábados enquanto vós vivestes ali. ^v35
 
-**36** E, quanto aos que de vós ficarem, eu porei tal pavor nos seus corações, nas terras dos seus inimigos, que o ruído de uma folha movida os perseguirá; e fugirão como quem foge da espada; e cairão sem ninguém os perseguir. ^v36
+**36** Aos remanescentes dentre vós, deixados nas terras de vossos inimigos, Eu enviarei medo em seus corações de modo que mesmo o som de uma folha lançada ao vento os amedrontará, e vós correreis como quem corre da espada. Vós caireis, mesmo quando ninguém estiver vos perseguindo. ^v36
 
-**37** E cairão uns sobre os outros como diante da espada, sem ninguém os perseguir; e não podereis resistir diante dos vossos inimigos. ^v37
+**37** Vós tropeçareis em vós mesmos como se estivésseis correndo da espada, ainda que ninguém vos esteja perseguindo. Não tereis poder para resistir ao vosso inimigo. ^v37
 
-**38** E perecereis entre as nações, e a terra dos vossos inimigos vos consumirá. ^v38
+**38** Vós perecereis entre as nações e a própria terra dos vossos inimigos vos devorará. ^v38
 
-**39** E aqueles que entre vós ficarem se consumirão pela sua iniqüidade nas terras dos vossos inimigos, e pela iniqüidade de seus pais com eles se consumirão. ^v39
+**39** O restante de vós se perderá em vossos pecados, na terra de vossos inimigos e, por conta dos pecados de vossos pais, perecerão também. ^v39
 
-**40** Então confessarão a sua iniqüidade, e a iniqüidade de seus pais, com as suas transgressões, com que transgrediram contra mim; como também eles andaram contrariamente para comigo. ^v40
+**40** Porém se eles confessarem os seus pecados e os pecados de seus pais, e sua traição pela qual eles foram infiéis a Mim, e também seus caminhos contra Mim — ^v40
 
-**41** Eu também andei para com eles contrariamente, e os fiz entrar na terra dos seus inimigos; se então o seu coração incircunciso se humilhar, e então tomarem por bem o castigo da sua iniqüidade, ^v41
+**41** os quais Me fizeram voltar contra eles e os entregar na terra de seus inimigos — se seus corações incircuncisos se tornarem humildes, e se eles aceitarem a punição por seus pecados, ^v41
 
-**42** Também eu me lembrarei da minha aliança com Jacó, e também da minha aliança com Isaque, e também da minha aliança com Abraão me lembrarei, e da terra me lembrarei. ^v42
+**42** então Eu Me lembrarei da Minha aliança com Jacó, Minha aliança com Isaque, e Minha aliança com Abraão; Eu também me lembrarei da terra. ^v42
 
-**43** E a terra será abandonada por eles, e folgará nos seus sábados, sendo assolada por causa deles; e tomarão por bem o castigo da sua iniqüidade, em razão mesmo de que rejeitaram os meus juízos e a sua alma se enfastiou dos meus estatutos. ^v43
+**43** A terra será abandonada por eles, então ela desfrutará com seus sábados enquanto estiver abandonada sem eles. Eles deverão pagar a penalidade por seus pecados, porque eles próprios rejeitaram Meus decretos e detestaram Minhas leis. ^v43
 
-**44** E, demais disto também, estando eles na terra dos seus inimigos, não os rejeitarei nem me enfadarei deles, para consumi-los e invalidar a minha aliança com eles, porque eu sou o Senhor seu Deus. ^v44
+**44** Mas, apesar de tudo isso, quando eles estiverem na terra de seus inimigos, Eu não os rejeitarei, nem os detestarei para destruí-los completamente e desfazer a minha aliança com eles, pois Eu sou Yahweh, seu Deus. ^v44
 
-**45** Antes por amor deles me lembrarei da aliança com os seus antepassados, que tirei da terra do Egito perante os olhos dos gentios, para lhes ser por Deus. Eu sou o Senhor. ^v45
+**45** "Mas, por misericórdia, Eu me lembrarei da aliança que Eu fiz com seus antepassados, os quais Eu tirei da terra do Egito, à vista das nações, para que Eu seja seu Deus. Eu sou Yahweh""." ^v45
 
-**46** Estes são os estatutos, e os juízos, e as leis que deu o Senhor entre si e os filhos de Israel, no monte Sinai, pela mão de Moisés. ^v46
+**46** Estes são os mandamentos, decretos, e leis que Yahweh fez entre Ele mesmo e o povo de Israel no Monte Sinai, através de Moisés. ^v46

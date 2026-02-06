@@ -1,61 +1,60 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Josué|Josué]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Josué|Josué]]"
+tags: [biblia]
 ---
 
 # Josué 6
 
-**1** Ora Jericó estava rigorosamente fechada por causa dos filhos de Israel; ninguém saía nem entrava. ^v1
+**1** Ora, todas as entradas de Jericó estavam fechadas por causa do exército de Israel. Ninguém saía, nem entrava. ^v1
 
-**2** Então disse o Senhor a Josué: Olha, tenho dado na tua mão a Jericó, ao seu rei e aos seus homens valorosos. ^v2
+**2** "Yahweh disse a Josué: ""Vê! Eis que Eu entreguei nas tuas mãos Jericó, o seu rei e os seus soldados." ^v2
 
-**3** Vós, pois, todos os homens de guerra, rodeareis a cidade, cercando-a uma vez; assim fareis por seis dias. ^v3
+**3** Vós marchareis ao redor da cidade, todo homem de guerra, rodeando-a uma vez ao dia. Fazei isto durante seis dias. ^v3
 
-**4** E sete sacerdotes levarão sete buzinas de chifres de carneiros adiante da arca, e no sétimo dia rodeareis a cidade sete vezes, e os sacerdotes tocarão as buzinas. ^v4
+**4** Sete sacerdotes levarão sete trombetas de chifre de carneiro adiante da Arca. No sétimo dia, marchareis ao redor da cidade sete vezes, e os sacerdotes tocarão fortemente as trombetas. ^v4
 
-**5** E será que, tocando-se prolongadamente a buzina de carneiro, ouvindo vós o seu sonido, todo o povo gritará com grande brado; e o muro da cidade cairá abaixo, e o povo subirá por ele, cada um em frente. ^v5
+**5** Então, eles tocarão longamente a trombeta de chifre de carneiro, e, quando ouvirdes o som da trombeta, todo o povo gritará bem alto, e as muralhas da cidade cairão. Os soldados deverão atacar, cada um, o lugar que estiver à sua frente”. ^v5
 
-**6** Então Josué, filho de Num, chamou aos sacerdotes e disse-lhes: Levai a arca da aliança; e sete sacerdotes levem sete buzinas de chifres de carneiros, adiante da arca do Senhor. ^v6
+**6** "Então, Josué, filho de Num, chamou os sacerdotes e disse-lhes: ""Levai a Arca da Aliança, e sete sacerdotes carregarão sete trombetas de chifre de carneiro adiante da Arca de Yahweh""." ^v6
 
-**7** E disse ao povo: Passai e rodeai a cidade; e quem estiver armado, passe adiante da arca do Senhor. ^v7
+**7** "E ele disse ao povo: ""Ide em frente e marchai ao redor da cidade, e os homens armados irão à frente da Arca de Yahweh""." ^v7
 
-**8** E assim foi que, como Josué dissera ao povo, os sete sacerdotes, levando as sete buzinas de carneiros diante do Senhor, passaram e tocaram as buzinas; e a arca da aliança do Senhor os seguia. ^v8
+**8** Assim como Josué havia dito ao povo, os sete sacerdotes carregavam as sete trombetas de chifre de carneiro diante de Yahweh. Enquanto eles avançavam, tocavam suas trombetas. A Arca da Aliança de Yahweh seguia atrás deles. ^v8
 
-**9** E os homens armados iam adiante dos sacerdotes, que tocavam as buzinas; e a retaguarda seguia após a arca; andando e tocando as buzinas iam os sacerdotes. ^v9
+**9** Os homens armados caminhavam adiante dos sacerdotes, e eles tocavam suas trombetas. A retaguarda seguia após a Arca, e os sacerdotes tocavam continuamente. ^v9
 
-**10** Porém ao povo Josué tinha dado ordem, dizendo: Não gritareis, nem fareis ouvir a vossa voz, nem sairá palavra alguma da vossa boca até ao dia que eu vos diga: Gritai. Então gritareis. ^v10
+**10** "Mas Josué ordenou ao povo: ""Não griteis vós. Nenhum som sairá da vossa boca até o dia em que eu disser para gritardes; só então gritareis""." ^v10
 
-**11** E fez a arca do Senhor rodear a cidade, contornando-a uma vez; e entraram no arraial, e ali passaram a noite. ^v11
+**11** Então, ele fez a Arca de Yahweh rodear a cidade uma vez naquele dia. E entraram em seu acampamento e passaram a noite ali. ^v11
 
-**12** Depois Josué se levantou de madrugada, e os sacerdotes levaram a arca do Senhor. ^v12
+**12** No dia seguinte, Josué levantou-se de madrugada, e os sacerdotes levaram a Arca de Yahweh. ^v12
 
-**13** E os sete sacerdotes, que levavam as sete buzinas de chifres de carneiros, adiante da arca do Senhor, iam andando, e tocavam as buzinas, e os homens armados iam adiante deles e a retaguarda seguia atrás da arca do Senhor; os sacerdotes iam andando e tocando as buzinas. ^v13
+**13** Os sete sacerdotes, que carregavam as sete trombetas de chifre de carneiro adiante da Arca de Yahweh, caminhavam continuamente e tocavam as trombetas. Soldados armados caminhavam adiante deles. Enquanto a retaguarda caminhava após a Arca de Yahweh, as trombetas soavam continuamente. ^v13
 
-**14** Assim rodearam outra vez a cidade no segundo dia e voltaram para o arraial; e assim fizeram seis dias. ^v14
+**14** Eles marcharam ao redor da cidade uma vez no segundo dia, e retornaram ao acampamento. Eles fizeram isso por seis dias. ^v14
 
-**15** E sucedeu que, ao sétimo dia, madrugaram ao subir da alva, e da mesma maneira rodearam a cidade sete vezes; naquele dia somente rodearam a cidade sete vezes. ^v15
+**15** No sétimo dia, eles se levantaram ao raiar do dia, e marcharam ao redor da cidade da mesma maneira que fizeram antes. Desta vez, porém, por sete vezes. ^v15
 
-**16** E sucedeu que, tocando os sacerdotes pela sétima vez as buzinas, disse Josué ao povo: Gritai, porque o Senhor vos tem dado a cidade. ^v16
+**16** "Na sétima vez que os sacerdotes soaram as trombetas, Josué ordenou ao povo: ""Gritai! Porque Yahweh vos entregou a cidade!" ^v16
 
-**17** Porém a cidade será anátema ao Senhor, ela e tudo quanto houver nela; somente a prostituta Raabe viverá; ela e todos os que com ela estiverem em casa; porquanto escondeu os mensageiros que enviamos. ^v17
+**17** A cidade e tudo o que nela há serão condenados, por Yahweh, à destruição. Somente Raabe, a prostituta, viverá — ela e aqueles que estão com ela em sua casa — porque escondeu os homens que enviamos. ^v17
 
-**18** Tão-somente guardai-vos do anátema, para que não toqueis nem tomeis alguma coisa dele, e assim façais maldito o arraial de Israel, e o perturbeis. ^v18
+**18** Quanto a vós, guardai-vos das coisas separadas à destruição, e, depois que as condenardes, não pegueis nenhuma delas. Se vós o fizerdes, tornareis maldito o acampamento de Israel, trazendo-lhe destruição. ^v18
 
-**19** Porém toda a prata, e o ouro, e os vasos de metal, e de ferro são consagrados ao Senhor; irão ao tesouro do Senhor. ^v19
+**19** "Toda a prata, ouro e as coisas feitas de bronze e ferro são consagrados a Yahweh, e serão levados para o Seu tesouro""." ^v19
 
-**20** Gritou, pois, o povo, tocando os sacerdotes as buzinas; e sucedeu que, ouvindo o povo o sonido da buzina, gritou o povo com grande brado; e o muro caiu abaixo, e o povo subiu à cidade, cada um em frente de si, e tomaram a cidade. ^v20
+**20** Quando os sacerdotes tocaram as trombetas, o povo gritou bem alto e as muralhas ruíram. Então, o povo entrou na cidade, cada um correndo para o lugar em frente de si, e tomaram a cidade. ^v20
 
-**21** E tudo quanto havia na cidade destruíram totalmente ao fio da espada, desde o homem até à mulher, desde o menino até ao velho, e até ao boi e gado miúdo, e ao jumento. ^v21
+**21** Eles destruíram completamente, ao fio da espada, tudo o que havia: homem e mulher, jovem e velho, vaca, ovelha e jumento. ^v21
 
-**22** Josué, porém, disse aos dois homens que tinham espiado a terra: Entrai na casa da mulher prostituta, e tirai-a de lá com tudo quanto tiver, como lhe tendes jurado. ^v22
+**22** "Então, Josué disse aos dois homens que espiaram a terra: ""Ide até a casa da prostituta. Trazei a mulher e todos os que estão com ela, como jurastes""." ^v22
 
-**23** Então entraram os jovens espias, e tiraram a Raabe e a seu pai, e a sua mãe, e a seus irmãos, e a tudo quanto tinha; tiraram também a toda a sua parentela, e os puseram fora do arraial de Israel. ^v23
+**23** Os espias foram e trouxeram Raabe para fora, com seu pai, sua mãe, seus irmãos e todos os parentes que estavam com ela. Eles os levaram para um lugar fora do acampamento de Israel. ^v23
 
-**24** Porém a cidade e tudo quanto havia nela queimaram a fogo; tão-somente a prata, e o ouro, e os vasos de metal e de ferro, deram para o tesouro da casa do Senhor. ^v24
+**24** E queimaram a cidade e tudo o que havia nela. Somente a prata, o ouro e os utensílios de bronze e ferro foram colocados no tesouro da casa de Yahweh. ^v24
 
-**25** Assim deu Josué vida à prostituta Raabe e à família de seu pai, e a tudo quanto tinha; e habitou no meio de Israel até ao dia de hoje; porquanto escondera os mensageiros que Josué tinha enviado a espiar a Jericó. ^v25
+**25** Mas Josué conservou com vida Raabe, a prostituta, a casa de seu pai, e todos os que com ela viviam. E ela vive em Israel até o dia de hoje, pois ela escondeu os homens a quem Josué enviara para espiar Jericó. ^v25
 
-**26** E naquele tempo Josué os esconjurou, dizendo: Maldito diante do Senhor seja o homem que se levantar e reedificar esta cidade de Jericó; sobre seu primogênito a fundará, e sobre o seu filho mais novo lhe porá as portas. ^v26
+**26** "Então, Josué ordenou que, naquele momento, fizessem um juramento, dizendo: ""Maldito seja diante de Yahweh o homem que reconstruir esta cidade, Jericó. Com a perda de seu primogênito a fundará, e com a perda de seu filho mais novo ele levantará seus portões""." ^v26
 
-**27** Assim era o Senhor com Josué; e corria a sua fama por toda a terra. ^v27
+**27** Assim Yahweh estava com Josué, e sua fama se espalhou pela terra. ^v27

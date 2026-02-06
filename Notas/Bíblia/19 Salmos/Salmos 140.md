@@ -1,33 +1,30 @@
 ---
-Livro: "[[Salmos|Salmos]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Salmos|Salmos]]"
+tags: [biblia]
 ---
 
 # Salmos 140
 
-**1** Livra-me, ó SENHOR, do homem mau; guarda-me do homem violento, ^v1
+**2** Em seu coração, eles planejam o mal; eles provocam brigas todos os dias. ^v2
 
-**2** Que pensa o mal no coração; continuamente se ajuntam para a guerra. ^v2
+**3** Sua língua fere como serpente; veneno de víboras está em seus lábios. [Interlúdio] ^v3
 
-**3** Aguçaram as línguas como a serpente; o veneno das víboras está debaixo dos seus lábios. (Selá.) ^v3
+**4** Livra-me das mãos dos ímpios, Yahweh; preserva-me dos homens violentos que planejam me derrubar. ^v4
 
-**4** Guarda-me, ó Senhor, das mãos do ímpio; guarda-me do homem violento; os quais se propuseram transtornar os meus passos. ^v4
+**5** Os arrogantes prepararam uma armadilha para mim; estenderam-me uma rede; eles armaram uma cilada para mim. [Interlúdio] ^v5
 
-**5** Os soberbos armaram-me laços e cordas; estenderam a rede ao lado do caminho; armaram-me laços corrediços. (Selá.) ^v5
+**6** Eu disse para Yahweh: Tu és o meu Deus! Escuta meu clamor por misericórdia. ^v6
 
-**6** Eu disse ao Senhor: Tu és o meu Deus; ouve a voz das minhas súplicas, ó Senhor. ^v6
+**7** Yahweh, meu Senhor, Tu és poderoso para salvar-me; Tu proteges minha cabeça no dia da batalha. ^v7
 
-**7** Ó Deus o Senhor, fortaleza da minha salvação, tu cobriste a minha cabeça no dia da batalha. ^v7
+**8** Yahweh, não concedas ao ímpio os seus desejos; não permitas que seus planos tenham êxito. [Interlúdio] ^v8
 
-**8** Não concedas, ó Senhor, ao ímpio os seus desejos; não promovas o seu mau propósito, para que não se exalte. (Selá.) ^v8
+**9** Todos os que me cercam erguem a cabeça; deixa que a maldade dos seus lábios os cubra. ^v9
 
-**9** Quanto à cabeça dos que me cercam, cubra-os a maldade dos seus lábios. ^v9
+**10** Permite que as brasas quentes caiam sobre eles; lança-os dentro do fogo, dentro de poços sem fundo, para nunca mais se erguerem. ^v10
 
-**10** Caiam sobre eles brasas vivas; sejam lançados no fogo, em covas profundas, para que se não tornem a levantar. ^v10
+**11** Que os caluniadores não estejam seguros na terra; ao homem violento, que o mal o persiga e o derrube. ^v11
 
-**11** Não terá firmeza na terra o homem de má língua; o mal perseguirá o homem violento até que seja desterrado. ^v11
+**12** Eu sei que Yahweh julgará em favor do aflito, e que Ele exercerá justiça aos necessitados. ^v12
 
-**12** Sei que o Senhor sustentará a causa do oprimido, e o direito do necessitado. ^v12
-
-**13** Assim os justos louvarão o teu nome; os retos habitarão na tua presença. ^v13
+**13** Certamente, os justos darão graças ao Teu nome; os retos viverão na Tua presença. ^v13

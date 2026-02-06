@@ -1,41 +1,40 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Isaías|Isaías]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Isaías|Isaías]]"
+tags: [biblia]
 ---
 
 # Isaías 34
 
-**1** Chegai-vos, nações, para ouvir, e vós povos, escutai; ouça a terra, e a sua plenitude, o mundo, e tudo quanto produz. ^v1
+**1** Chegai-vos, ó nações, e ouvi; prestai atenção, ó povos! A terra e tudo o que nela há, ouvi! O mundo e todas as coisas que provêm dele. ^v1
 
-**2** Porque a indignação do Senhor está sobre todas as nações, e o seu furor sobre todo o exército delas; ele as destruiu totalmente, entregou-as à matança. ^v2
+**2** Yahweh está irado com todas as nações e furioso com todos os exércitos delas; Ele as destruiu completamente. Ele as entregou para a matança. ^v2
 
-**3** E os seus mortos serão arremessados e dos seus cadáveres subirá o seu mau cheiro; e os montes se derreterão com o seu sangue. ^v3
+**3** Seus mortos não serão enterrados; o cheiro dos seus cadáveres estará em todo o lugar e as montanhas serão encharcadas com o sangue deles. ^v3
 
-**4** E todo o exército dos céus se dissolverá, e os céus se enrolarão como um livro; e todo o seu exército cairá, como cai a folha da vide e como cai o figo da figueira. ^v4
+**4** Todas as estrelas do céu desaparecerão, o céu será enrolado como um pergaminho; e todas as suas estrelas vão se apagar, como a folha que desvanece da videira e os figos podres, da figueira. ^v4
 
-**5** Porque a minha espada se embriagou nos céus; eis que sobre Edom descerá, e sobre o povo do meu anátema para exercer juízo. ^v5
+**5** Porquanto a Minha espada embriagou-se no céu. Olhai! Ela descerá sobre Edom e o povo que separei para a destruição. ^v5
 
-**6** A espada do Senhor está cheia de sangue, está engordurada da gordura do sangue de cordeiros e de bodes, da gordura dos rins de carneiros; porque o Senhor tem sacrifício em Bozra, e grande matança na terra de Edom. ^v6
+**6** A espada de Yahweh está pingando sangue; coberta de gordura, está pingando o sangue dos cordeiros e bodes, coberta com a gordura dos rins dos carneiros. Porque Yahweh tem um sacrifício em Bozra e uma grande matança na terra de Edom. ^v6
 
-**7** E os bois selvagens cairão com eles, e os bezerros com os touros; e a sua terra embriagar-se-á de sangue até se fartar, e o seu pó se engrossará com a gordura. ^v7
+**7** Os bois selvagens serão abatidos junto a eles, e os touros, com os novilhos. A sua terra será embriagada com sangue e nela ficará a grossa poeira com a gordura. ^v7
 
-**8** Porque será o dia da vingança do Senhor, ano de retribuições pela contenda de Sião. ^v8
+**8** Este será o dia da vingança para Yahweh, o ano em que vai retribuí-los por causa de Sião. ^v8
 
-**9** E os seus ribeiros se tornarão em pez, e o seu pó em enxofre, e a sua terra em pez ardente. ^v9
+**9** Os riachos de Edom se tornarão em piche, a sua poeira, em enxofre, sua terra se tornará um piche ardente. ^v9
 
-**10** Nem de noite nem de dia se apagará; para sempre a sua fumaça subirá; de geração em geração será assolada; pelos séculos dos séculos ninguém passará por ela. ^v10
+**10** E queimará dia e noite; a sua fumaça subirá para sempre; de geração em geração, será uma terra devastada; ninguém passará por ela, para todo o sempre. ^v10
 
-**11** Mas o pelicano e a coruja a possuirão, e o bufo e o corvo habitarão nela; e ele estenderá sobre ela o cordel de confusão e nível de vaidade. ^v11
+**11** Mas os pássaros selvagens e os animais viverão ali; a coruja e o corvo farão lá os seus ninhos. Ele estenderá sobre ela a linha de medição da ruína e o prumo de destruição. ^v11
 
-**12** Eles chamarão ao reino os seus nobres, mas nenhum haverá; e todos os seus príncipes não serão coisa alguma. ^v12
+**12** Seus nobres não terão algo para chamar de reino e todos os seus príncipes nada serão. ^v12
 
-**13** E nos seus palácios crescerão espinhos, urtigas e cardos nas suas fortalezas; e será uma habitação de chacais, e sítio para avestruzes. ^v13
+**13** Espinhos crescerão em seus palácios, urtigas e ervas daninhas em suas fortalezas. Será uma habitação de chacais, um lugar para avestruzes. ^v13
 
-**14** As feras do deserto se encontrarão com as feras da ilha, e o sátiro clamará ao seu companheiro; e os animais noturnos ali pousarão, e acharão lugar de repouso para si. ^v14
+**14** Os animais selvagens e as hienas se encontrarão ali, os bodes selvagens clamarão uns aos outros. Animais noturnos se assentarão e encontrarão esse lugar de descanso para si mesmos. ^v14
 
-**15** Ali se aninhará a coruja e porá os seus ovos, e tirará os seus filhotes, e os recolherá debaixo da sua sombra; também ali os abutres se ajuntarão uns com os outros. ^v15
+**15** Corujas farão seus ninhos, colocarão seus ovos e os chocarão, e protegerão os seus filhotes. Sim, falcões se reunirão ali, cada um com o seu par. ^v15
 
-**16** Buscai no livro do Senhor, e lede; nenhuma destas coisas faltará, ninguém faltará com a sua companheira; porque a minha boca tem ordenado, e o seu espírito mesmo as tem ajuntado. ^v16
+**16** Consultai o livro de Yahweh; nenhum destes será esquecido. Nenhum ficará sem um parceiro; porque a Sua boca ordenou isso e foi o Seu Espírito que os ajuntou. ^v16
 
-**17** Porque ele mesmo lançou as sortes por elas, e sua mão lhas tens repartido com o cordel; para sempre a possuirão, de geração em geração habitarão nela. ^v17
+**17** Ele lançou sorte para seus lugares e a Sua mão mediu a terra com uma corda. Eles a possuirão para sempre, de geração em geração, viverão ali. ^v17

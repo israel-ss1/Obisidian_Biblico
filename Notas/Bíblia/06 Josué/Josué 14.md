@@ -1,37 +1,36 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Josué|Josué]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Josué|Josué]]"
+tags: [biblia]
 ---
 
 # Josué 14
 
-**1** Isto, pois, é o que os filhos de Israel tiveram em herança, na terra de Canaã, o que Eleazar, o sacerdote, e Josué, filho de Num, e os cabeças dos pais das tribos dos filhos de Israel lhes fizeram repartir, ^v1
+**1** Estas são as áreas que o povo de Israel recebeu como herança na terra de Canaã, distribuídas a eles por Eleazar, o sacerdote, por Josué, filho de Num, e pelos líderes dos clãs das tribos dentre o povo de Israel. ^v1
 
-**2** Por sorte da sua herança, como o Senhor ordenara, pelo ministério de Moisés, acerca das nove tribos e da meia tribo. ^v2
+**2** A sua herança foi repartida por sorteio entre as nove tribos e meia, assim como Yahweh havia ordenado por intermédio de Moisés. ^v2
 
-**3** Porquanto às duas tribos e à meia tribo já dera Moisés herança além do Jordão; mas aos levitas não tinha dado herança entre eles. ^v3
+**3** Porque Moisés já havia dado a herança das duas tribos e meia além do Jordão, mas não deu aos levitas herança alguma. ^v3
 
-**4** Porque os filhos de José eram duas tribos, Manassés e Efraim, e aos levitas não se deu herança na terra, senão cidades em que habitassem, e os seus arrabaldes para seu gado e para seus bens. ^v4
+**4** A tribo de José era, na verdade, duas tribos: Manassés e Efraim. Mas nenhuma parte da herança na terra foi dada aos levitas, exceto algumas cidades para que habitassem, e os seus arredores para o seu gado e para os seus bens materiais. ^v4
 
-**5** Como o Senhor ordenara a Moisés, assim fizeram os filhos de Israel, e repartiram a terra. ^v5
+**5** O povo de Israel fez como Yahweh havia ordenado a Moisés e, assim, repartiram a terra. ^v5
 
-**6** Então os filhos de Judá chegaram a Josué em Gilgal; e Calebe, filho de Jefoné o quenezeu, lhe disse: Tu sabes o que o Senhor falou a Moisés, homem de Deus, em Cades-Barnéia por causa de mim e de ti. ^v6
+**6** "Então, a tribo de Judá veio até Josué em Gilgal. Calebe, filho de Jefoné, o quenezeu, disse-lhe: ""Tu sabes o que Yahweh disse a Moisés, homem de Deus, a respeito de nós em Cades-Barneia." ^v6
 
-**7** Quarenta anos tinha eu, quando Moisés, servo do Senhor, me enviou de Cades-Barnéia a espiar a terra; e eu lhe trouxe resposta, como sentia no meu coração; ^v7
+**7** Eu tinha quarenta anos quando Moisés, servo de Yahweh, me enviou de Cades-Barneia para espionar a terra. Eu lhe trouxe um relatório conforme estava no meu coração para fazer. ^v7
 
-**8** Mas meus irmãos, que subiram comigo, fizeram derreter o coração do povo; eu porém perseverei em seguir ao Senhor meu Deus. ^v8
+**8** Porém, meus irmãos que subiram comigo fizeram o coração do povo derreter de medo. Mas eu perseverei em seguir Yahweh, meu Deus. ^v8
 
-**9** Então Moisés naquele dia jurou, dizendo: Certamente a terra que pisou o teu pé será tua, e de teus filhos, em herança perpetuamente; pois perseveraste em seguir ao Senhor meu Deus. ^v9
+**9** Moisés jurou naquele dia, dizendo: 'Certamente, a terra que pisou o teu pé será herança para ti e para teus filhos para sempre, porque seguiste completamente a Yahweh, meu Deus'. ^v9
 
-**10** E agora eis que o Senhor me conservou em vida, como disse; quarenta e cinco anos são passados, desde que o Senhor falou esta palavra a Moisés, andando Israel ainda no deserto; e agora eis que hoje tenho já oitenta e cinco anos; ^v10
+**10** Agora, eis que Yahweh me conservou vivo durante estes quarenta e cinco anos como Ele prometeu. Yahweh falou esta palavra a Moisés quando Israel ainda peregrinava no deserto. Hoje estou com oitenta e cinco anos de idade. ^v10
 
-**11** E ainda hoje estou tão forte como no dia em que Moisés me enviou; qual era a minha força então, tal é agora a minha força, tanto para a guerra como para sair e entrar. ^v11
+**11** E ainda sou tão forte hoje como era no dia em que Moisés me enviou. Tenho tanta força agora para guerrear, para ir e para vir, como eu tinha antes. ^v11
 
-**12** Agora, pois, dá-me este monte de que o Senhor falou aquele dia; pois naquele dia tu ouviste que estavam ali os anaquins, e grandes e fortes cidades. Porventura o Senhor será comigo, para os expulsar, como o Senhor disse. ^v12
+**12** "Agora, dá-me essa região montanhosa que Yahweh me prometeu naquele dia. Porque tu ouviste naquele dia que os anaqueus ali habitavam em grandes cidades fortificadas. Se Yahweh estiver comigo, eu os expulsarei, assim como Yahweh disse""." ^v12
 
-**13** E Josué o abençoou, e deu a Calebe, filho de Jefoné, a Hebrom em herança. ^v13
+**13** Então, Josué abençoou Calebe, filho de Jofoné, e deu-lhe Hebrom como herança. ^v13
 
-**14** Portanto Hebrom ficou sendo herança de Calebe, filho de Jefoné o quenezeu, até ao dia de hoje, porquanto perseverara em seguir ao Senhor Deus de Israel. ^v14
+**14** Assim, Hebrom tornou-se herança de Calebe, filho de Jefoné, o quenezeu, até o dia de hoje, porque ele seguiu fielmente a Yahweh, o Deus de Israel. ^v14
 
-**15** E antes o nome de Hebrom era Quiriate-Arba, porque Arba foi o maior homem entre os anaquins. E a terra repousou da guerra. ^v15
+**15** O nome de Hebrom, anteriormente, era Quiriate-Arba (Arba havia sido o maior homem entre os anaqueus). E a terra descansou da guerra. ^v15

@@ -1,23 +1,22 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Isaías|Isaías]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Isaías|Isaías]]"
+tags: [biblia]
 ---
 
 # Isaías 39
 
-**1** Naquele tempo enviou Merodaque-Baladã, filho de Baladã, rei de babilônia, cartas e um presente a Ezequias, porque tinha ouvido dizer que havia estado doente e que já tinha convalescido. ^v1
+**1** Naquele tempo, Merodaque Baladão, filho de Baladão, rei da Babilônia, enviou cartas e um presente para Ezequias, pois ouviu que ele esteve enfermo e havia se recuperado. ^v1
 
-**2** E Ezequias se alegrou com eles, e lhes mostrou a casa do seu tesouro, a prata, e o ouro, e as especiarias, e os melhores ungüentos, e toda a sua casa de armas, e tudo quanto se achava nos seus tesouros; coisa nenhuma houve, nem em sua casa, nem em todo o seu domínio, que Ezequias não lhes mostrasse. ^v2
+**2** Ezequias ficou feliz com aquilo. Ele mostrou aos mensageiros onde armazenava suas coisas de valor — prata, ouro, especiarias e azeite fino — e mostrou também seu arsenal e tudo que existia em seus depósitos. Não ficou nada em sua casa, nem em toda extensão de seu reinado, que Ezequias não tenha mostrado aos mensageiros. ^v2
 
-**3** Então o profeta Isaías veio ao rei Ezequias, e lhe disse: Que foi que aqueles homens disseram, e de onde vieram a ti? E disse Ezequias: De uma terra remota vieram a mim, de babilônia. ^v3
+**3** "Depois disso, o profeta Isaías veio até onde estava Ezequias e indagou: ""O que esses homens te disseram? De onde vieram?"". Respondeu Ezequias: ""Eles vieram de uma terra distante, da Babilônia""." ^v3
 
-**4** E disse ele: Que foi que viram em tua casa? E disse Ezequias: Viram tudo quanto há em minha casa; coisa nenhuma há nos meus tesouros que eu deixasse de lhes mostrar. ^v4
+**4** "Isaías perguntou: ""O que viram em tua casa?"". Ezequias respondeu: ""Eles viram tudo que existe em minha casa. Não ficou nada de valor entre minhas coisas que não tenham visto""." ^v4
 
-**5** Então disse Isaías a Ezequias: Ouve a palavra do Senhor dos Exércitos: ^v5
+**5** "Isaías, então, disse a Ezequias: ""Ouve a palavra de Yahweh dos Exércitos:" ^v5
 
-**6** Eis que virão dias em que tudo quanto houver em tua casa, e o que entesouraram teus pais até ao dia de hoje, será levado para babilônia; não ficará coisa alguma, disse o SENHOR. ^v6
+**6** ‘Logo chegarão os dias quando tudo que estiver no teu palácio, as coisas que teus pais guardaram até o presente, serão levadas para Babilônia. Nada será deixado para trás’, diz Yahweh. ^v6
 
-**7** E até de teus filhos, que procederem de ti, e tu gerares, tomarão, para que sejam eunucos no palácio do rei de babilônia. ^v7
+**7** “E os teus descendentes, que tu mesmo geraste, eles os levarão embora, e se tornarão eunucos no palácio do rei da Babilônia”. ^v7
 
-**8** Então disse Ezequias a Isaías: Boa é a palavra do Senhor que disseste. Disse mais: Pois haverá paz e verdade em meus dias. ^v8
+**8** Ezequias disse para Isaías: “É boa a palavra de Yahweh a qual tu disseste”; pois pensava consigo: “Haverá paz e estabilidade durante os meus dias”. ^v8

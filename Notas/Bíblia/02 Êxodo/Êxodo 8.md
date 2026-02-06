@@ -1,71 +1,70 @@
 ---
-Livro: "[[Êxodo|Êxodo]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Êxodo|Êxodo]]"
+tags: [biblia]
 ---
 
 # Êxodo 8
 
-**1** Depois disse o SENHOR a Moisés: Vai a Faraó e dize-lhe: Assim diz o SENHOR: Deixa ir o meu povo, para que me sirva. ^v1
+**1** "Falou Yahweh a Moisés: ""Vai a Faraó e dize-lhe: 'Assim diz Yahweh: ""Deixa Meu povo ir para que possa Me adorar." ^v1
 
-**2** E se recusares deixá-lo ir, eis que ferirei com rãs todos os teus termos. ^v2
+**2** Se tu recusares a deixá-lo ir, afligirei seu país inteiro com rãs. ^v2
 
-**3** E o rio criará rãs, que subirão e virão à tua casa, e ao teu dormitório, e sobre a tua cama, e às casas dos teus servos, e sobre o teu povo, e aos teus fornos, e às tuas amassadeiras. ^v3
+**3** O rio se encherá com abundância de rãs que subirão na sua casa, no seu quarto e na sua cama. Elas entrarão nas casas dos teus servos; elas sobrevirão sobre teu povo, entrarão nos fornos e nas tuas amassadeiras. ^v3
 
-**4** E as rãs subirão sobre ti, e sobre o teu povo, e sobre todos os teus servos. ^v4
+**4** "As rãs atacarão a ti, o teu povo e todos os teus servos""." ^v4
 
-**5** Disse mais o Senhor a Moisés: Dize a Arão: Estende a tua mão com tua vara sobre as correntes, e sobre os rios, e sobre os tanques, e faze subir rãs sobre a terra do Egito. ^v5
+**5** "Yahweh disse a Moisés: ""Diz a Arão: 'Estende tua mão e teu cajado sobre os rios, os ribeiros e lagos e faz subir rãs sobre a terra do Egito""." ^v5
 
-**6** E Arão estendeu a sua mão sobre as águas do Egito, e subiram rãs, e cobriram a terra do Egito. ^v6
+**6** Arão estendeu sua mão sobre as águas do Egito e rãs vieram e cobriram toda terra do Egito. ^v6
 
-**7** Então os magos fizeram o mesmo com os seus encantamentos, e fizeram subir rãs sobre a terra do Egito. ^v7
+**7** Porém os mágicos fizeram o mesmo com suas mágicas: eles trouxeram rãs sobre a terra do Egito. ^v7
 
-**8** E Faraó chamou a Moisés e a Arão, e disse: Rogai ao Senhor que tire as rãs de mim e do meu povo; depois deixarei ir o povo, para que sacrifiquem ao Senhor. ^v8
+**8** "Faraó, então, chamou Moisés e Arão e lhes disse: ""Rogai a Yahweh para que Ele retire de mim e do meu povo as rãs. Depois disso, deixarei o povo ir para que possa oferecer sacrifício a Ele""." ^v8
 
-**9** E disse Moisés a Faraó: Digna-te dizer-me quando é que hei de rogar por ti, e pelos teus servos, e por teu povo, para tirar as rãs de ti, e das tuas casas, e fiquem somente no rio? ^v9
+**9** "Moisés disse a Faraó: ""Eu te darei o privilégio de me dizeres quando devo rogar por ti, por teus servos e por teu povo, para que as rãs sejam retiradas de sobre vós e de vossas casas e continuem apenas sobre o rio""." ^v9
 
-**10** E ele disse: Amanhã. E Moisés disse: Seja conforme à tua palavra, para que saibas que ninguém há como o Senhor nosso Deus. ^v10
+**10** "Faraó respondeu: ""Amanhã"". Moisés disse-lhe: ""Seja feito de acordo com tuas palavras para que saibas que não existe nenhum outro como Yahweh, nosso Deus." ^v10
 
-**11** E as rãs apartar-se-ão de ti, das tuas casas, dos teus servos, e do teu povo; somente ficarão no rio. ^v11
+**11** "As rãs fugirão de vós, de vossas casas, de vossos servos e do teu povo. Elas permanecerão apenas no rio""." ^v11
 
-**12** Então saíram Moisés e Arão da presença de Faraó; e Moisés clamou ao Senhor por causa das rãs que tinha posto sobre Faraó. ^v12
+**12** Moisés e Arão saíram da presença de Faraó. Depois disso, Moisés clamou a Yahweh com relação às rãs que Ele havia trazido sobre Faraó. ^v12
 
-**13** E o Senhor fez conforme a palavra de Moisés; e as rãs morreram nas casas, nos pátios, e nos campos. ^v13
+**13** Yahweh fez conforme Moisés pediu: as rãs morreram nas casas, nos quintais e nos campos. ^v13
 
-**14** E ajuntaram-se em montões, e a terra cheirou mal. ^v14
+**14** O povo as recolheu em montes e pilhas. ^v14
 
-**15** Vendo, pois, Faraó que havia descanso, endureceu o seu coração, e não os ouviu, como o Senhor tinha dito. ^v15
+**15** Mas Faraó, ao ver o alívio, endureceu seu coração e não deu ouvidos ao que disseram Moisés e Arão, exatamente como Yahweh havia dito. ^v15
 
-**16** Disse mais o Senhor a Moisés: Dize a Arão: Estende a tua vara, e fere o pó da terra, para que se torne em piolhos por toda a terra do Egito. ^v16
+**16** "Yahweh disse a Moisés: ""Diz a Arão: 'Estende teu cajado e toca a poeira da terra para que ela faça surgir piolhos por toda a terra do Egito""." ^v16
 
-**17** E fizeram assim; e Arão estendeu a sua mão com a sua vara, e feriu o pó da terra, e havia muitos piolhos nos homens e no gado; todo o pó da terra se tornou em piolhos em toda a terra do Egito. ^v17
+**17** Assim eles fizeram e Arão estendeu sua mão e seu cajado. Tocou ele no pó da terra e piolhos apareceram sobre homens e animais. Toda poeira do chão se transformou em piolhos, por toda a terra do Egito. ^v17
 
-**18** E os magos fizeram também assim com os seus encantamentos para produzir piolhos, mas não puderam; e havia piolhos nos homens e no gado. ^v18
+**18** Os mágicos tentaram, por meio de suas magias, produzir gafanhotos, mas não foram capazes. Havia gafanhotos nas pessoas e nos animais. ^v18
 
-**19** Então disseram os magos a Faraó: Isto é o dedo de Deus. Porém o coração de Faraó se endureceu, e não os ouvia, como o Senhor tinha dito. ^v19
+**19** "Por causa disso, os mágicos disseram a Faraó: ""Isso é o dedo de Deus"". Porém o coração de Faraó se endureceu de maneira que ele se recusou a ouvi-los. Aconteceu exatamente de acordo com o que Yahweh dissera." ^v19
 
-**20** Disse mais o Senhor a Moisés: Levanta-te pela manhã cedo e põe-te diante de Faraó; eis que ele sairá às águas; e dize-lhe: Assim diz o Senhor: Deixa ir o meu povo, para que me sirva. ^v20
+**20** "Yahweh disse a Moisés: ""Levanta-te bem cedo, pela manhã, coloca-te diante de Faraó, quando ele sair até o rio, e diz-lhe: 'Yahweh diz o seguinte: ""Deixa meu povo sair para que Me adore." ^v20
 
-**21** Porque se não deixares ir o meu povo, eis que enviarei enxames de moscas sobre ti, e sobre os teus servos, e sobre o teu povo, e às tuas casas; e as casas dos egípcios se encherão destes enxames, e também a terra em que eles estiverem. ^v21
+**21** Mas, se tu não o deixares ir, enviarei enxames de moscas sobre ti, sobre teus servos, tuas casas e teu povo. As habitações dos egípcios ficarão tomadas de enxames, até mesmo o chão onde eles pisam ficará tomado de moscas. ^v21
 
-**22** E naquele dia eu separarei a terra de Gósen, em que meu povo habita, que nela não haja enxames de moscas para que saibas que eu sou o Senhor no meio desta terra. ^v22
+**22** Porém, naquele dia tratarei Gósen, a terra onde meu povo habita, de forma diferente, pois ali não haverá nenhum enxame de moscas. Acontecerá dessa forma para que tu saibas que Eu sou Yahweh no meio desta terra. ^v22
 
-**23** E porei separação entre o meu povo e o teu povo; amanhã se fará este sinal. ^v23
+**23** "Farei distinção entre Meu povo e o teu povo. Este sinal do Meu poder acontecerá amanhã""." ^v23
 
-**24** E o Senhor fez assim; e vieram grandes enxames de moscas à casa de Faraó e às casas dos seus servos, e sobre toda a terra do Egito; a terra foi corrompida destes enxames. ^v24
+**24** Assim fez Deus, e enormes enxames de moscas entraram na casa de Faraó e nas habitações de seus servos. Toda a terra do Egito ficou arruinada por causa dos enxames de moscas. ^v24
 
-**25** Então chamou Faraó a Moisés e a Arão, e disse: Ide, e sacrificai ao vosso Deus nesta terra. ^v25
+**25** "Faraó chamou Moisés e Arão e disse-lhes: ""Ide, oferecei sacrifício ao vosso Deus aqui na nossa própria terra""." ^v25
 
-**26** E Moisés disse: Não convém que façamos assim, porque sacrificaríamos ao Senhor nosso Deus a abominação dos egípcios; eis que se sacrificássemos a abominação dos egípcios perante os seus olhos, não nos apedrejariam eles? ^v26
+**26** "Moisés disse: ""Não é correto para nós agirmos dessa maneira, pois os sacrifícios que nós oferecemos a Yahweh, nosso Deus, é algo repugnante aos egípcios. Se oferecermos sacrifícios diante deles, os quais são repugnantes aos egípcios, eles não nos apedrejarão?" ^v26
 
-**27** Deixa-nos ir caminho de três dias ao deserto, para que sacrifiquemos ao Senhor nosso Deus, como ele nos disser. ^v27
+**27** Não, nós devemos fazer uma jornada de três dias pelo deserto, a fim de oferecermos sacrifício a Yahweh, nosso Deus, assim como Ele nos ordenou. ^v27
 
-**28** Então disse Faraó: Deixar-vos-ei ir, para que sacrifiqueis ao Senhor vosso Deus no deserto; somente que, indo, não vades longe; orai também por mim. ^v28
+**28** "Faraó disse: ""Eu vos deixarei ir e oferecer sacrifício a Yahweh, vosso Deus, no deserto. Mas vós não podereis ir muito longe, e orai por mim""." ^v28
 
-**29** E Moisés disse: Eis que saio de ti, e orarei ao Senhor, que estes enxames de moscas se retirem amanhã de Faraó, dos seus servos, e do seu povo; somente que Faraó não mais me engane, não deixando ir a este povo para sacrificar ao Senhor. ^v29
+**29** "Moisés disse: ""Assim que eu sair da tua presença, orarei a Yahweh para que Ele remova os enxames de moscas da tua casa, dos teus servos e do teu povo. Entretanto, tu não poderás mais usar de artimanhas para não deixar nosso povo ir para sacrificar a Yahweh""." ^v29
 
-**30** Então saiu Moisés da presença de Faraó, e orou ao Senhor. ^v30
+**30** Moisés saiu da presença de Faraó e orou a Yahweh. ^v30
 
-**31** E fez o Senhor conforme a palavra de Moisés, e os enxames de moscas se retiraram de Faraó, dos seus servos, e do seu povo; não ficou uma só. ^v31
+**31** Fez Yahweh conforme Moisés pediu: removeu os enxames de moscas da casa de Faraó, dos seus servos e do seu povo. Não restou nenhuma. ^v31
 
-**32** Mas endureceu Faraó ainda esta vez seu coração, e não deixou ir o povo. ^v32
+**32** No entanto, Faraó endureceu seu coração outra vez e não deixou o povo ir. ^v32

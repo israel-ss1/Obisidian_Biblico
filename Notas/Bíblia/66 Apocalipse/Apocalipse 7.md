@@ -1,41 +1,40 @@
 ---
-Livro: "[[Apocalipse|Apocalipse]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Apocalipse|Apocalipse]]"
+tags: [biblia]
 ---
 
 # Apocalipse 7
 
-**1** E depois destas coisas vi quatro anjos que estavam sobre os quatro cantos da terra, retendo os quatro ventos da terra, para que nenhum vento soprasse sobre a terra, nem sobre o mar, nem contra árvore alguma. ^v1
+**1** Depois disso, vi quatro anjos em pé nos quatro cantos da terra, retendo os quatro ventos da terra para que o vento não soprasse sobre a terra, nem sobre o mar, nem contra árvore alguma. ^v1
 
-**2** E vi outro anjo subir do lado do sol nascente, e que tinha o selo do Deus vivo; e clamou com grande voz aos quatro anjos, a quem fora dado o poder de danificar a terra e o mar, ^v2
+**2** E vi outro anjo subindo do lado do nascente do sol, tendo o selo do Deus vivo. E clamou com alta voz aos quatro anjos que tinham recebido autoridade para danificar a terra e o mar, dizendo: ^v2
 
-**3** Dizendo: Não danifiqueis a terra, nem o mar, nem as árvores, até que hajamos selado nas suas testas os servos do nosso Deus. ^v3
+**3** """Não danifiqueis a terra, nem o mar, nem as árvores até selarmos as testas dos servos do nosso Deus""." ^v3
 
-**4** E ouvi o número dos selados, e eram cento e quarenta e quatro mil selados, de todas as tribos dos filhos de Israel. ^v4
+**4** Eu escutei o número daqueles que foram selados, que era cento e quarenta e quatro mil, de todas as tribos dos filhos de Israel: ^v4
 
-**5** Da tribo de Judá, havia doze mil selados; da tribo de Rúbem, doze mil selados; da tribo de Gade, doze mil selados; ^v5
+**5** da tribo de Judá doze mil foram selados; da tribo de Rúben, doze mil; da tribo de Gade, doze mil; ^v5
 
-**6** Da tribo de Aser, doze mil selados; da tribo de Naftali, doze mil selados; da tribo de Manassés, doze mil selados; ^v6
+**6** da tribo de Aser, doze mil; da tribo de Naftali, doze mil; da tribo de Manassés, doze mil; ^v6
 
-**7** Da tribo de Simeão, doze mil selados; da tribo de Levi, doze mil selados; da tribo de Issacar, doze mil selados; ^v7
+**7** da tribo de Simeão, doze mil; da tribo de Levi, doze mil; da tribo de Issacar, doze mil; ^v7
 
-**8** Da tribo de Zebulom, doze mil selados; da tribo de José, doze mil selados; da tribo de Benjamim, doze mil selados. ^v8
+**8** da tribo de Zebulom, doze mil; da tribo de José, doze mil; da tribo de Benjamim doze mil foram selados. ^v8
 
-**9** Depois destas coisas olhei, e eis aqui uma multidão, a qual ninguém podia contar, de todas as nações, e tribos, e povos, e línguas, que estavam diante do trono, e perante o Cordeiro, trajando vestes brancas e com palmas nas suas mãos; ^v9
+**9** Depois dessas coisas, eis que vi uma grande multidão que ninguém podia contar de todas as nações, tribos, povos e línguas, de pé, diante do trono e diante do Cordeiro, usando vestes brancas, com folhas de palmeiras nas suas mãos, ^v9
 
-**10** E clamavam com grande voz, dizendo: Salvação ao nosso Deus, que está assentado no trono, e ao Cordeiro. ^v10
+**10** "e clamavam em alta voz, dizendo: ""A salvação pertence ao nosso Deus, que está sentado no trono, e ao Cordeiro!""" ^v10
 
-**11** E todos os anjos estavam ao redor do trono, e dos anciãos, e dos quatro animais; e prostraram-se diante do trono sobre seus rostos, e adoraram a Deus, ^v11
+**11** Todos os anjos estavam de pé, em volta do trono, dos anciãos e dos quatro seres viventes, e se prostraram sobre seus rostos diante do trono, e adoraram a Deus ^v11
 
-**12** Dizendo: Amém. Louvor, e glória, e sabedoria, e ação de graças, e honra, e poder, e força ao nosso Deus, para todo o sempre. Amém. ^v12
+**12** "dizendo: ""Amém! O louvor, a glória, a sabedoria, a ação de graças, a honra, o poder e a força pertencem ao nosso Deus, pelos séculos dos séculos! Amém""!" ^v12
 
-**13** E um dos anciãos me falou, dizendo: Estes que estão vestidos de vestes brancas, quem são, e de onde vieram? ^v13
+**13** "E um dos anciãos tomou a palavra, dizendo-me: ""Estes, usando vestes brancas, quem são e de onde vieram?""" ^v13
 
-**14** E eu disse-lhe: Senhor, tu sabes. E ele disse-me: Estes são os que vieram da grande tribulação, e lavaram as suas vestes e as branquearam no sangue do Cordeiro. ^v14
+**14** "E eu lhe disse: ""Meu senhor, tu sabes"". E ele me disse: ""Estes são os que vieram da grande tribulação e lavaram suas vestes e as tornaram brancas no sangue do Cordeiro""." ^v14
 
-**15** Por isso estão diante do trono de Deus, e o servem de dia e de noite no seu templo; e aquele que está assentado sobre o trono os cobrirá com a sua sombra. ^v15
+**15** Por isso estão diante do trono de Deus e O servem dia e noite no Seu templo. O que está sentado no trono estenderá Sua tenda sobre eles. ^v15
 
-**16** Nunca mais terão fome, nunca mais terão sede; nem sol nem calma alguma cairá sobre eles. ^v16
+**16** Não terão mais fome, nem terão mais sede, nem jamais cairá sobre eles o sol, nem calor algum. ^v16
 
-**17** Porque o Cordeiro que está no meio do trono os apascentará, e lhes servirá de guia para as fontes vivas das águas; e Deus limpará de seus olhos toda a lágrima. ^v17
+**17** "Pois o Cordeiro no meio do trono será o pastor deles, e Ele irá guiá-los às fontes de águas da vida, e Deus enxugará toda lágrima de seus olhos.""" ^v17

@@ -1,49 +1,48 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Zacarias|Zacarias]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Zacarias|Zacarias]]"
+tags: [biblia]
 ---
 
 # Zacarias 14
 
-**1** Eis que vem o dia do SENHOR, em que teus despojos se repartirão no meio de ti. ^v1
+**1** Eis que vem o dia de Yahweh, quando teu despojo será dividido no meio de ti. ^v1
 
-**2** Porque eu ajuntarei todas as nações para a peleja contra Jerusalém; e a cidade será tomada, e as casas serão saqueadas, e as mulheres forçadas; e metade da cidade sairá para o cativeiro, mas o restante do povo não será extirpado da cidade. ^v2
+**2** Pois ajuntarei todas as nações contra Jerusalém e a cidade será capturada. As casas serão saqueadas e as mulheres violentadas; metade da cidade será levada ao cativeiro, e o remanescente do povo não será exterminado da cidade. ^v2
 
-**3** E o Senhor sairá, e pelejará contra estas nações, como pele- jou, sim, no dia da batalha. ^v3
+**3** Mas Yahweh irá sair e declarar guerra contra aquelas nações quando Ele pelejar no dia da batalha. ^v3
 
-**4** E naquele dia estarão os seus pés sobre o monte das Oliveiras, que está defronte de Jerusalém para o oriente; e o monte das Oliveiras será fendido pelo meio, para o oriente e para o ocidente, e haverá um vale muito grande; e metade do monte se apartará para o norte, e a outra metade dele para o sul. ^v4
+**4** Naquele dia, Seus pés pararão no monte das Oliveiras, o qual está além de Jerusalém, ao oriente. O monte das Oliveiras será dividido ao meio, entre o oriente e o ocidente, por um vale muito grande, e a metade do monte retrocederá em direção ao norte e a outra metade em direção ao sul. ^v4
 
-**5** E fugireis pelo vale dos meus montes, pois o vale dos montes chegará até Azel; e fugireis assim como fugistes de diante do terremoto nos dias de Uzias, rei de Judá. Então virá o Senhor meu Deus, e todos os santos contigo. ^v5
+**5** Então, fugireis vale abaixo, entre os montes de Yahweh, pois o vale entre aqueles montes se estenderá até Azal. Fugireis como fugistes do terremoto, nos dias de Uzias, rei de Judá. Então, Yahweh, meu Deus, virá e todos os santos estarão com Ele. ^v5
 
-**6** E acontecerá naquele dia, que não haverá preciosa luz, nem espessa escuridão. ^v6
+**6** Naquele dia, não haverá luz; também não haverá frio nem geada. ^v6
 
-**7** Mas será um dia conhecido do Senhor; nem dia nem noite será; mas acontecerá que ao cair da tarde haverá luz. ^v7
+**7** Naquele dia, um dia que só Yahweh conhece, não mais haverá dia ou noite; a noite ainda será dia claro. ^v7
 
-**8** Naquele dia também acontecerá que sairão de Jerusalém águas vivas, metade delas para o mar oriental, e metade delas para o mar ocidental; no verão e no inverno sucederá isto. ^v8
+**8** Naquele dia, águas vivas fluirão para fora de Jerusalém. Metade delas fluirá para o mar oriental e metade para o mar ocidental, no verão e no inverno. ^v8
 
-**9** E o Senhor será rei sobre toda a terra; naquele dia um será o Senhor, e um será o seu nome. ^v9
+**9** Yahweh será Rei sobre toda a terra. Naquele dia, haverá Yahweh, o único Deus, e tão somente o Seu nome. ^v9
 
-**10** Toda a terra em redor se tornará em planície, desde Geba até Rimom, ao sul de Jerusalém, e ela será exaltada, e habitada no seu lugar, desde a porta de Benjamim até ao lugar da primeira porta, até à porta da esquina, e desde a torre de Hananeel até aos lagares do rei. ^v10
+**10** Toda a terra se tornará como o Arabá, de Geba a Rimom, sul de Jerusalém. Jerusalém resplandecerá continuamente e permanecerá no seu devido lugar, da porta de Benjamim ao lugar onde estava a primeira porta, até o portão da Esquina e da torre de Hananel aos lagares do rei. ^v10
 
-**11** E habitarão nela, e não haverá mais destruição, porque Jerusalém habitará segura. ^v11
+**11** O povo habitará em Jerusalém e não mais haverá maldição vinda de Deus contra eles. Jerusalém habitará em segurança. ^v11
 
-**12** E esta será a praga com que o Senhor ferirá a todos os povos que guerrearam contra Jerusalém: a sua carne apodrecerá, estando eles em pé, e lhes apodrecerão os olhos nas suas órbitas, e a língua lhes apodrecerá na sua boca. ^v12
+**12** Esta será a praga com a qual Yahweh atacará todos os povos que pelejaram contra Israel: a carne deles apodrecerá mesmo estando eles de pé; seus olhos apodrecerão nas suas órbitas e suas línguas apodrecerão nas suas bocas. ^v12
 
-**13** Naquele dia também acontecerá que haverá da parte do Senhor uma grande perturbação entre eles; porque cada um pegará na mão do seu próximo, e cada um levantará a mão contra o seu próximo. ^v13
+**13** Naquele dia, grande confusão vinda de Yahweh lhes sobrevirá! Cada um agarrará a mão do seu próximo, cada um levantará a mão contra o seu próximo. ^v13
 
-**14** E também Judá pelejará em Jerusalém, e as riquezas de todos os gentios serão ajuntadas ao redor, ouro e prata e roupas em grande abundância. ^v14
+**14** Judá também pelejará contra Jerusalém. Ajuntarão as riquezas de todas as nações circunvizinhas — ouro, prata, vestes pomposas, em grande abundância. ^v14
 
-**15** Assim será também a praga dos cavalos, dos mulos, dos camelos e dos jumentos e de todos os animais que estiverem naqueles arraiais, como foi esta praga. ^v15
+**15** Uma praga também assolará os cavalos e as mulas, os camelos e os jumentos, e todo o animal naqueles campos também sofrerá da mesma praga. ^v15
 
-**16** E acontecerá que, todos os que restarem de todas as nações que vieram contra Jerusalém, subirão de ano em ano para adorar o Rei, o Senhor dos Exércitos, e para celebrarem a festa dos tabernáculos. ^v16
+**16** Então, acontecerá que todo aquele que permanecer naquelas nações que se levantaram contra Jerusalém subirão anualmente para adorar o Rei, Yahweh dos Exércitos, para observar a Festa dos Tabernáculos. ^v16
 
-**17** E acontecerá que, se alguma das famílias da terra não subir a Jerusalém, para adorar o Rei, o Senhor dos Exércitos, não virá sobre ela a chuva. ^v17
+**17** Acontecerá que, se alguém dentre todas as nações da terra não subir a Jerusalém para adorar ao Rei, Yahweh dos Exércitos, então, Yahweh dos Exércitos não lhes dará chuva. ^v17
 
-**18** E, se a família dos egípcios não subir, nem vier, não virá sobre ela a chuva; virá sobre eles a praga com que o Senhor ferirá os gentios que não subirem a celebrar a festa dos tabernáculos. ^v18
+**18** Se a nação do Egito não subir, então, não terá chuva. Uma praga de Yahweh assolará as nações que não subirem para guardar a Festa dos Tabernáculos. ^v18
 
-**19** Este será o castigo do pecado dos egípcios e o castigo do pecado de todas as nações que não subirem a celebrar a festa dos tabernáculos. ^v19
+**19** Esse será o castigo para o Egito e o castigo para toda a nação que não subir para guardar a Festa dos Tabernáculos. ^v19
 
-**20** Naquele dia será gravado sobre as campainhas dos cavalos: SANTIDADE AO SENHOR; e as panelas na casa do SENHOR serão como as bacias diante do altar. ^v20
+**20** "Mas, naquele dia, estará gravado nas campainhas dos cavalos: ""Separai-vos para Yahweh"", e os recipientes na casa de Yahweh serão como as bacias diante do altar." ^v20
 
-**21** E todas as panelas em Jerusalém e Judá serão consagradas ao Senhor dos Exércitos, e todos os que sacrificarem virão, e delas tomarão, e nelas cozerão. E naquele dia não haverá mais cananeu na casa do Senhor dos Exércitos. ^v21
+**21** Pois todas as panelas em Jerusalém e Judá serão separadas para Yahweh dos Exércitos e todo aquele que trouxer um sacrifício comerá nelas e nelas cozerá. Naqueles dias, mercadores não mais existirão na casa de Yahweh dos Exércitos. ^v21

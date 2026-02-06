@@ -1,73 +1,72 @@
 ---
-Livro: "[[2 Coríntios|2 Coríntios]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/2 Coríntios|2 Coríntios]]"
+tags: [biblia]
 ---
 
 # 2 Coríntios 11
 
-**1** Quisera eu me suportásseis um pouco na minha loucura! Suportai-me, porém, ainda. ^v1
+**1** Quisera eu que pudésseis me suportar em algumas tolices, e, de fato, vós me suportais! ^v1
 
-**2** Porque estou zeloso de vós com zelo de Deus; porque vos tenho preparado para vos apresentar como uma virgem pura a um marido, a saber, a Cristo. ^v2
+**2** Porque tenho zelo de vós, um zelo que vem de Deus, pois vos prometi em casamento para apresentar-vos como uma virgem pura a um esposo, que é Cristo. ^v2
 
-**3** Mas temo que, assim como a serpente enganou Eva com a sua astúcia, assim também sejam de alguma sorte corrompidos os vossos sentidos, e se apartem da simplicidade que há em Cristo. ^v3
+**3** Mas temo que, como a serpente enganou Eva com sua astúcia, vossos pensamentos sejam de alguma forma desviados de uma sincera e pura devoção a Cristo. ^v3
 
-**4** Porque, se alguém for pregar-vos outro Jesus que nós não temos pregado, ou se recebeis outro espírito que não recebestes, ou outro evangelho que não abraçastes, com razão o sofreríeis. ^v4
+**4** Porque, se alguém vem e proclama outro Jesus diferente daquele que pregamos, ou se recebeis um espírito diferente do que recebestes, ou um evangelho diferente do que aceitastes, a essas coisas tolerais muito bem! ^v4
 
-**5** Porque penso que em nada fui inferior aos mais excelentes apóstolos. ^v5
+**5** "Porque penso que não sou nem um pouco inferior àqueles ditos ""superapóstolos""." ^v5
 
-**6** E, se sou rude na palavra, não o sou contudo na ciência; mas já em todas as coisas nos temos feito conhecer totalmente entre vós. ^v6
+**6** Mas, mesmo que eu não seja treinado em fazer discursos, sou treinado em conhecimento. Em tudo e de todas as maneiras, fizemos isso conhecido a vós. ^v6
 
-**7** Pequei, porventura, humilhando-me a mim mesmo, para que vós fôsseis exaltados, porque de graça vos anunciei o evangelho de Deus? ^v7
+**7** Acaso pequei, humilhando a mim mesmo para que fôsseis exaltados? Porque gratuitamente vos preguei o evangelho de Deus. ^v7
 
-**8** Outras igrejas despojei eu para vos servir, recebendo delas salário; e quando estava presente convosco, e tinha necessidade, a ninguém fui pesado. ^v8
+**8** Eu despojei outras igrejas, aceitando salário delas, para que pudesse vos servir. ^v8
 
-**9** Porque os irmãos que vieram da macedônia supriram a minha necessidade; e em tudo me guardei de vos ser pesado, e ainda me guardarei. ^v9
+**9** Quando estava convosco e passava necessidade, não fui um peso a ninguém. Porque os irmãos que vieram da Macedônia providenciaram o que eu precisava. Em tudo evitei ser um peso para vós, e continuarei a evitar. ^v9
 
-**10** Como a verdade de Cristo está em mim, esta glória não me será impedida nas regiões da Acaia. ^v10
+**10** Pela verdade de Cristo que está em mim, essa glória não me será tirada nas regiões da Acaia. ^v10
 
-**11** Por quê? Porque não vos amo? Deus o sabe. ^v11
+**11** E por quê? Porque eu não amo vocês? Deus sabe que eu amo. ^v11
 
-**12** Mas o que eu faço o farei, para cortar ocasião aos que buscam ocasião, a fim de que, naquilo em que se gloriam, sejam achados assim como nós. ^v12
+**12** Mas o que faço continuarei fazendo, para remover o pretexto daqueles que querem se gloriar: de que fazem o mesmo trabalho que nós. ^v12
 
-**13** Porque tais falsos apóstolos são obreiros fraudulentos, transfigurando-se em apóstolos de Cristo. ^v13
+**13** Pois tais pessoas são falsos apóstolos e obreiros enganadores, disfarçando-se de apóstolos de Cristo. ^v13
 
-**14** E não é maravilha, porque o próprio Satanás se transfigura em anjo de luz. ^v14
+**14** E isso não é surpresa, pois até mesmo Satanás se disfarça de anjo de luz. ^v14
 
-**15** Não é muito, pois, que os seus ministros se transfigurem em ministros da justiça; o fim dos quais será conforme as suas obras. ^v15
+**15** Não é grande surpresa que os seus servos também se disfarcem de servos da justiça. O destino deles será o merecido por seus atos. ^v15
 
-**16** Outra vez digo: Ninguém me julgue insensato, ou então recebei-me como insensato, para que também me glorie um pouco. ^v16
+**16** Digo novamente: Ninguém pense que sou tolo. Mas se vós pensais que sou, recebei-me como um tolo e assim poderei me gloriar um pouco. ^v16
 
-**17** O que digo, não o digo segundo o Senhor, mas como por loucura, nesta confiança de gloriar-me. ^v17
+**17** O que estou dizendo não é da parte do Senhor, mas falo como um tolo, na confiança de me gloriar. ^v17
 
-**18** Pois que muitos se gloriam segundo a carne, eu também me gloriarei. ^v18
+**18** Já que muitos se gloriam segundo a carne, também eu me gloriarei. ^v18
 
-**19** Porque, sendo vós sensatos, de boa mente tolerais os insensatos. ^v19
+**19** Porque vós de boa vontade tolerais os tolos, já que vós mesmos sois sábios! ^v19
 
-**20** Pois sois sofredores, se alguém vos põe em servidão, se alguém vos devora, se alguém vos apanha, se alguém se exalta, se alguém vos fere no rosto. ^v20
+**20** Pois vós tolerais que alguém vos escravize, vos consuma, tire vantagem de vós, exalte-se sobre vós, ou vos esbofeteie na face. ^v20
 
-**21** Envergonhado o digo, como se nós fôssemos fracos, mas no que qualquer tem ousadia (com insensatez falo) também eu tenho ousadia. ^v21
+**21** Para a nossa vergonha, digo que fomos fracos. Mesmo que alguém se glorie, falo como um tolo, também eu me gloriarei. ^v21
 
-**22** São hebreus? também eu. São israelitas? também eu. São descendência de Abraão? também eu. ^v22
+**22** Eles são hebreus? Eu também sou. Eles são israelitas? Eu também sou. Eles são descendentes de Abraão? Eu também sou. ^v22
 
-**23** São ministros de Cristo? (falo como fora de mim) eu ainda mais: em trabalhos, muito mais; em açoites, mais do que eles; em prisões, muito mais; em perigo de morte, muitas vezes. ^v23
+**23** Eles são servos de Cristo? (Falo como louco) eu sou mais. Já trabalhei muito mais, já estive em mais prisões, sofri açoites além da medida e passei por muitos perigos de morte. ^v23
 
-**24** Recebi dos judeus cinco quarentenas de açoites menos um. ^v24
+**24** "Dos judeus recebi cinco vezes os ""quarenta açoites menos um""." ^v24
 
-**25** Três vezes fui açoitado com varas, uma vez fui apedrejado, três vezes sofri naufrágio, uma noite e um dia passei no abismo; ^v25
+**25** Três vezes fui espancado com varas. Uma vez fui apedrejado. Três vezes naufraguei. Passei uma noite e um dia em mar aberto. ^v25
 
-**26** Em viagens muitas vezes, em perigos de rios, em perigos de salteadores, em perigos dos da minha nação, em perigos dos gentios, em perigos na cidade, em perigos no deserto, em perigos no mar, em perigos entre os falsos irmãos; ^v26
+**26** Estive em frequentes jornadas, em perigos de rios, de ladrões; em perigos vindos do meu próprio povo e dos gentios; em perigos na cidade, no deserto, no mar; e em perigo de falsos irmãos. ^v26
 
-**27** Em trabalhos e fadiga, em vigílias muitas vezes, em fome e sede, em jejum muitas vezes, em frio e nudez. ^v27
+**27** Eu tenho estado em trabalhos difíceis e em fadigas, passando muitas noites sem dormir, com fome e com sede, frequentemente em jejum, com frio e em nudez. ^v27
 
-**28** Além das coisas exteriores, me oprime cada dia o cuidado de todas as igrejas. ^v28
+**28** E, além de tudo isso, há sobre mim a pressão diária da minha preocupação por todas as igrejas. ^v28
 
-**29** Quem enfraquece, que eu também não enfraqueça? Quem se escandaliza, que eu me não abrase? ^v29
+**29** Se alguém enfraquece, eu não me enfraqueço? Se alguém é levado a tropeçar, eu não fico indignado? ^v29
 
-**30** Se convém gloriar-me, gloriar-me-ei no que diz respeito à minha fraqueza. ^v30
+**30** Se devo me gloriar, eu me gloriarei na minha fraqueza. ^v30
 
-**31** O Deus e Pai de nosso Senhor Jesus Cristo, que é eternamente bendito, sabe que não minto. ^v31
+**31** O Deus e Pai do Senhor Jesus, Aquele que é louvado para sempre, sabe que não estou mentindo! ^v31
 
-**32** Em Damasco, o que governava sob o rei Aretas pôs guardas às portas da cidade dos damascenos, para me prenderem. ^v32
+**32** Em Damasco, o governador sob a autoridade do rei Aretas vigiava a cidade para me prender. ^v32
 
-**33** E fui descido num cesto por uma janela da muralha; e assim escapei das suas mãos. ^v33
+**33** Mas me desceram em um cesto através de uma janela no muro, e escapei de suas mãos. ^v33

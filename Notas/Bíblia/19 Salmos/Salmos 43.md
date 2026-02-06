@@ -1,17 +1,16 @@
 ---
-Livro: "[[Salmos|Salmos]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Salmos|Salmos]]"
+tags: [biblia]
 ---
 
 # Salmos 43
 
-**1** Faze-me justiça, ó Deus, e pleiteia a minha causa contra a nação ímpia. Livra-me do homem fraudulento e injusto. ^v1
+**1** Faze-me justiça, ó Deus, e defende minha causa contra uma nação perversa; livra-me dos falsos e injustos. ^v1
 
-**2** Pois tu és o Deus da minha fortaleza; por que me rejeitas? Por que ando lamentando por causa da opressão do inimigo? ^v2
+**2** Pois Tu és o Deus da minha fortaleza. Por que Tu me rejeitaste? Por que ando lamentando por causa da opressão do inimigo? ^v2
 
-**3** Envia a tua luz e a tua verdade, para que me guiem e me levem ao teu santo monte, e aos teus tabernáculos. ^v3
+**3** Ó, envia Tua luz e Tua verdade; que elas me guiem; que elas me levem para o Teu santo monte e para a Tua habitação. ^v3
 
-**4** Então irei ao altar de Deus, a Deus, que é a minha grande alegria, e com harpa te louvarei, ó Deus, Deus meu. ^v4
+**4** Então, eu irei ao altar de Deus, ao Deus da minha intensa alegria; Eu Te louvarei com a harpa, ó Deus, meu Deus! ^v4
 
-**5** Por que estás abatida, ó minha alma? E por que te perturbas dentro de mim? Espera em Deus, pois ainda o louvarei, o qual é a salvação da minha face e Deus meu. ^v5
+**5** Por que estás abatida, ó minha alma? Por que estás angustiada dentro de mim? Espera em Deus, pois ainda O louvarei. Ele é a minha salvação e o meu Deus. ^v5

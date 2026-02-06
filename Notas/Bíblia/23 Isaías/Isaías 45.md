@@ -1,57 +1,56 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Isaías|Isaías]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Isaías|Isaías]]"
+tags: [biblia]
 ---
 
 # Isaías 45
 
-**1** Assim diz o SENHOR ao seu ungido, a Ciro, a quem tomo pela mão direita, para abater as nações diante de sua face, e descingir os lombos dos reis, para abrir diante dele as portas, e as portas não se fecharão. ^v1
+**1** Isto é o que Yahweh disse a Ciro, Seu ungido, cuja mão direita Eu seguro, a fim de subjugar as nações diante dele, uma após outra, desarmar os reis e abrir portas diante dele, de modo que portões permanecerão abertos: ^v1
 
-**2** Eu irei adiante de ti, e endireitarei os caminhos tortuosos; quebrarei as portas de bronze, e despedaçarei os ferrolhos de ferro. ^v2
+**2** """Eu irei adiante de vós e nivelarei as montanhas; Eu quebrarei em pedaços as portas de bronze e despedaçarei as trancas de ferro," ^v2
 
-**3** Dar-te-ei os tesouros escondidos, e as riquezas encobertas, para que saibas que eu sou o Senhor, o Deus de Israel, que te chama pelo teu nome. ^v3
+**3** e darei a ti o tesouro das trevas e as riquezas escondidas no caminho; e saberás que sou Eu, Yahweh, quem te chamou pelo nome. Eu, o Deus de Israel. ^v3
 
-**4** Por amor de meu servo Jacó, e de Israel, meu eleito, eu te chamei pelo teu nome, pus o teu sobrenome, ainda que não me conhecesses. ^v4
+**4** Por amor de Jacó, Meu servo, de Israel, Meu escolhido, te chamei pelo nome: dei a ti um título de honra, embora não Me conheças. ^v4
 
-**5** Eu sou o Senhor, e não há outro; fora de mim não há Deus; eu te cingirei, ainda que tu não me conheças; ^v5
+**5** Eu sou Yahweh, e não há outro; não há outro Deus além de Mim. Eu te prepararei para a batalha, mesmo que tu não Me conheças; ^v5
 
-**6** Para que se saiba desde o nascente do sol, e desde o poente, que fora de mim não há outro; eu sou o Senhor, e não há outro. ^v6
+**6** para que o povo saiba que, do nascer do sol até o poente, não há outro Deus além de Mim. Eu sou Yahweh, e não há outro. ^v6
 
-**7** Eu formo a luz, e crio as trevas; eu faço a paz, e crio o mal; eu, o Senhor, faço todas estas coisas. ^v7
+**7** Eu formo a luz e crio as trevas; Eu faço a paz e crio a calamidade; Eu sou Yahweh, que faço todas essas coisas. ^v7
 
-**8** Destilai, ó céus, dessas alturas, e as nuvens chovam justiça; abra-se a terra, e produza a salvação, e ao mesmo tempo frutifique a justiça; eu, o Senhor, as criei. ^v8
+**8** Derramai, ó céus, chuvas do alto; derrama do céu a justiça. Deixa que a terra a absorva e produza a salvação, e, junto com ela, brote a retidão. Eu, Yahweh, as criei. ^v8
 
-**9** Ai daquele que contende com o seu Criador! o caco entre outros cacos de barro! Porventura dirá o barro ao que o formou: Que fazes? ou a tua obra: Não tens mãos? ^v9
+**9** Ai de quem discutir com Aquele que o formou! Para Ele, não passa de vaso de barro entre outros vasos de barro no chão! Poderia o barro dizer ao oleiro: 'O que tu fazes?' ou: 'O que estás fazendo?', 'Teu trabalho não teve mãos quando foi feito?'. ^v9
 
-**10** Ai daquele que diz ao pai: Que é o que geras? E à mulher: Que dás tu à luz? ^v10
+**10** Ai daquele que diz para um pai: 'O que geras?' ou para uma mulher: 'O que dás à luz?'. ^v10
 
-**11** Assim diz o Senhor, o Santo de Israel, aquele que o formou: Perguntai-me as coisas futuras; demandai-me acerca de meus filhos, e acerca da obra das minhas mãos. ^v11
+**11** Isto é o que Yahweh diz, o Único Santo de Israel, seu Criador: 'Por que tu perguntas o que farei sobre Meus filhos? Falarás para Mim sobre o que farei com o trabalho das Minhas mãos? ^v11
 
-**12** Eu fiz a terra, e criei nela o homem; eu o fiz; as minhas mãos estenderam os céus, e a todos os seus exércitos dei as minhas ordens. ^v12
+**12** Eu fiz a terra e nela criei o homem. Foram as Minhas mãos que estenderam para fora os céus e Eu dei ordem para as estrelas brilharem. ^v12
 
-**13** Eu o despertei em justiça, e todos os seus caminhos endireitarei; ele edificará a minha cidade, e soltará os meus cativos, não por preço nem por presente, diz o Senhor dos Exércitos. ^v13
+**13** "Eu levantei Ciro na Minha justiça e Eu endireitarei todos os seus caminhos. Ele edificará a Minha cidade; ele deixará os exilados do Meu povo irem para casa, não por preço nem por suborno'"", diz Yahweh dos Exércitos." ^v13
 
-**14** Assim diz o SENHOR: O trabalho do Egito, e o comércio dos etíopes e dos sabeus, homens de alta estatura, passarão para ti, e serão teus; irão atrás de ti, virão em grilhões, e diante de ti se prostrarão; far-te-ão as suas súplicas, dizendo: Deveras Deus está em ti, e não há nenhum outro deus. ^v14
+**14** "Isto é o que Yahweh diz: ""Os ganhos do Egito e as mercadorias da Etiópia, com os sabeus, homens de grande estatura, serão trazidos a ti. Eles serão teus. Eles te seguirão, chegando acorrentados. Eles se curvarão a ti e suplicarão, dizendo: 'Certamente, Deus é contigo e não há outro além Dele'""." ^v14
 
-**15** Verdadeiramente tu és o Deus que te ocultas, o Deus de Israel, o Salvador. ^v15
+**15** Verdadeiramente, Tu és o Deus que Te escondes, o Deus de Israel, o Salvador. ^v15
 
-**16** Envergonhar-se-ão, e também se confundirão todos; cairão juntamente na afronta os que fabricam imagens. ^v16
+**16** Eles serão envergonhados e desonrados juntos; estes que esculpem ídolos caminharão em humilhação. ^v16
 
-**17** Porém Israel é salvo pelo Senhor, com uma eterna salvação; por isso não sereis envergonhados nem confundidos em toda a eternidade. ^v17
+**17** Mas Israel será salvo por Yahweh, com salvação eterna; tu nunca mais serás envergonhado ou humilhado. ^v17
 
-**18** Porque assim diz o Senhor que tem criado os céus, o Deus que formou a terra, e a fez; ele a confirmou, não a criou vazia, mas a formou para que fosse habitada: Eu sou o Senhor e não há outro. ^v18
+**18** "Porquanto, assim diz Yahweh, que criou os céus, o verdadeiro Deus que criou a terra, que a criou e a estabeleceu; Ele a criou, não como um desperdício, mas a projetou para ser habitada: ""Eu sou Yahweh, e não há outro." ^v18
 
-**19** Não falei em segredo, nem em lugar algum escuro da terra; não disse à descendência de Jacó: Buscai-me em vão; eu sou o Senhor, que falo a justiça, e anuncio coisas retas. ^v19
+**19** Eu não falei em algum lugar particular ou oculto; Eu não falei para os descendentes de Jacó: 'Busquem-Me em vão'. Eu sou Yahweh, que falo com sinceridade; Eu declaro as coisas que estão certas. ^v19
 
-**20** Congregai-vos, e vinde; chegai-vos juntos, os que escapastes das nações; nada sabem os que conduzem em procissão as suas imagens de escultura, feitas de madeira, e rogam a um deus que não pode salvar. ^v20
+**20** Congregai-vos e vinde! Reuni-vos todos vós, refugiados entre as nações! Não têm conhecimento os que carregam imagens de escultura e oram para deuses que não podem salvar. ^v20
 
-**21** Anunciai, e chegai-vos, e tomai conselho todos juntos; quem fez ouvir isto desde a antiguidade? Quem desde então o anunciou? Porventura não sou eu, o Senhor? Pois não há outro Deus senão eu; Deus justo e Salvador não há além de mim. ^v21
+**21** Aproximai-vos e declarai isso para Mim; apresentai a evidência! Deixai que conspirem juntos. Quem mostrou essas coisas há muito tempo atrás? Quem as anunciou? Não fui Eu, Yahweh? Não existe Deus além de Mim, um Deus justo e Salvador; não há outro além de Mim. ^v21
 
-**22** Olhai para mim, e sereis salvos, vós, todos os termos da terra; porque eu sou Deus, e não há outro. ^v22
+**22** Voltai-vos para Mim e sereis salvos, vós, de todos os confins da terra; pois Eu sou Deus, e não há outro. ^v22
 
-**23** Por mim mesmo tenho jurado, já saiu da minha boca a palavra de justiça, e não tornará atrás; que diante de mim se dobrará todo o joelho, e por mim jurará toda a língua. ^v23
+**23** Juro por Mim mesmo, declaro Meus justos decretos e não voltarei atrás: 'todo joelho se dobrará, toda língua jurará. ^v23
 
-**24** De mim se dirá: Deveras no Senhor há justiça e força; até ele virão, mas serão envergonhados todos os que se indignarem contra ele. ^v24
+**24** "Dirão a Mim: 'Só em Yahweh há salvação e força'"". Todos os que com Ele estão zangados O servirão, envergonhados." ^v24
 
-**25** Mas no Senhor será justificada, e se gloriará toda a descendência de Israel. ^v25
+**25** Em Yahweh, toda a descendência de Israel será justificada; Nele, eles se gloriarão. ^v25

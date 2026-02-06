@@ -1,39 +1,38 @@
 ---
-Livro: "[[1 Timóteo|1 Timóteo]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/1 Timóteo|1 Timóteo]]"
+tags: [biblia]
 ---
 
 # 1 Timóteo 4
 
-**1** Mas o Espírito expressamente diz que nos últimos tempos apostatarão alguns da fé, dando ouvidos a espíritos enganadores, e a doutrinas de demônios; ^v1
+**1** O Espírito fala claramente que nos últimos tempos algumas pessoas abandonarão a fé e darão atenção aos espíritos enganadores e aos ensinamentos de demônios, ^v1
 
-**2** Pela hipocrisia de homens que falam mentiras, tendo cauterizada a sua própria consciência; ^v2
+**2** por causa da mentira e da hipocrisia dos que tem a própria consciência cauterizada. ^v2
 
-**3** Proibindo o casamento, e ordenando a abstinência dos alimentos que Deus criou para os fiéis, e para os que conhecem a verdade, a fim de usarem deles com ações de graças; ^v3
+**3** Eles proíbem o casamento e ordenam a abstinência de alimentos que Deus criou para partilhar com ação de graças entre os fiéis e os que conhecem a verdade. ^v3
 
-**4** Porque toda a criatura de Deus é boa, e não há nada que rejeitar, sendo recebido com ações de graças. ^v4
+**4** Pois todas as coisas criadas por Deus são boas. Nada que recebemos com ações de graças deve ser rejeitado, ^v4
 
-**5** Porque pela palavra de Deus e pela oração é santificada. ^v5
+**5** porque é consagrado pela palavra de Deus e pela oração. ^v5
 
-**6** Propondo estas coisas aos irmãos, serás bom ministro de Jesus Cristo, criado com as palavras da fé e da boa doutrina que tens seguido. ^v6
+**6** Se colocares essas coisas perante os irmãos, serás um bom servo de Jesus Cristo, porque és alimentado pelas palavras da fé e pelo bom ensino que tens seguido. ^v6
 
-**7** Mas rejeita as fábulas profanas e de velhas, e exercita-te a ti mesmo em piedade; ^v7
+**7** Mas rejeita os mitos tolos e profanos, típicos de velhas caducas. Em vez disso, exercita-te na piedade, ^v7
 
-**8** Porque o exercício corporal para pouco aproveita, mas a piedade para tudo é proveitosa, tendo a promessa da vida presente e da que há de vir. ^v8
+**8** pois o exercício físico tem pouca utilidade, mas a piedade é útil para todas as coisas e contém a promessa para a vida presente e futura. ^v8
 
-**9** Esta palavra é fiel e digna de toda a aceitação; ^v9
+**9** Essa mensagem é confiável e digna de toda aceitação. ^v9
 
-**10** Porque para isto trabalhamos e somos injuriados, pois esperamos no Deus vivo, que é o Salvador de todos os homens, principalmente dos fiéis. ^v10
+**10** Pois é por isso que nos esforçamos e trabalhamos muito, porque temos confiança no Deus vivo, que é o Salvador de todas as pessoas, mas especialmente dos que creem. ^v10
 
-**11** Manda estas coisas e ensina-as. ^v11
+**11** Proclama e ensina essas coisas. ^v11
 
-**12** Ninguém despreze a tua mocidade; mas sê o exemplo dos fiéis, na palavra, no trato, no amor, no espírito, na fé, na pureza. ^v12
+**12** Não deixes ninguém desprezar a tua juventude, em vez disso, sê um exemplo aos que creem, na fala, no amor, na fidelidade e na pureza. ^v12
 
-**13** Persiste em ler, exortar e ensinar, até que eu vá. ^v13
+**13** Até eu voltar, atenta para a leitura, para a exortação e para o ensino. ^v13
 
-**14** Não desprezes o dom que há em ti, o qual te foi dado por profecia, com a imposição das mãos do presbitério. ^v14
+**14** Não negligencies o dom que há em ti, que te foi dado através de profecia, com a imposição de mãos dos anciãos. ^v14
 
-**15** Medita estas coisas; ocupa-te nelas, para que o teu aproveitamento seja manifesto a todos. ^v15
+**15** Cuida dessas coisas, permanece nelas, para que o teu progresso seja evidente a todas as pessoas. ^v15
 
-**16** Tem cuidado de ti mesmo e da doutrina. Persevera nestas coisas; porque, fazendo isto, te salvarás, tanto a ti mesmo como aos que te ouvem. ^v16
+**16** Cuida de ti mesmo e do ensino. Continua nessas coisas porque fazendo isso salvarás a ti mesmo e a quem te ouve. ^v16

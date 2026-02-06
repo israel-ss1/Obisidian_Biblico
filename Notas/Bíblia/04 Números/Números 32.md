@@ -1,91 +1,90 @@
 ---
-Livro: "[[Números|Números]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Números|Números]]"
+tags: [biblia]
 ---
 
 # Números 32
 
-**1** E os filhos de Rúben e os filhos de Gade tinham gado em grande quantidade; e viram a terra de Jazer, e a terra de Gileade, e eis que o lugar era lugar de gado. ^v1
+**1** Os descendentes de Rúben e de Gade possuíam um grande número de gado. Quando eles viram que as terras de Jazer e de Gileade eram propícias para o gado, ^v1
 
-**2** Vieram, pois, os filhos de Gade, e os filhos de Rúben e falaram a Moisés e a Eleazar, o sacerdote, e aos chefes da congregação, dizendo: ^v2
+**2** foram a Moisés, ao sacerdote Eleazar e aos líderes da comunidade e lhes disseram: ^v2
 
-**3** Atarote, e Dibom, e Jazer, e Ninra, e Hesbom, e Eleale, e Sebã, e Nebo, e Beom, ^v3
+**3** """Atarote, Dibom, Jazer, Ninra, Hesbom, Eleale, Sebã, Nebo e Beom," ^v3
 
-**4** A terra que o Senhor feriu diante da congregação de Israel, é terra para gado, e os teus servos têm gado. ^v4
+**4** "estas terras que Yahweh conquistou perante a comunidade de Israel, são propícias para o gado. Nós, teus servos, temos uma grande quantidade de gado""." ^v4
 
-**5** Disseram mais: Se achamos graça aos teus olhos, dê-se esta terra aos teus servos em possessão; e não nos faças passar o Jordão. ^v5
+**5** "Disseram: ""Se nós encontramos favor aos teus olhos, permitas que estas terras sejam entregues a vossos servos, como posse. Não nos façais atravessar o Jordão""." ^v5
 
-**6** Porém Moisés disse aos filhos de Gade e aos filhos de Rúben: Irão vossos irmãos à peleja, e ficareis vós aqui? ^v6
+**6** "Moisés respondeu aos descendentes de Gade e Rúben: ""Deveriam teus irmãos irem à guerra enquanto vos estabeleceis aqui?" ^v6
 
-**7** Por que, pois, desencorajais o coração dos filhos de Israel, para que não passem à terra que o Senhor lhes tem dado? ^v7
+**7** Por que desencorajais o coração do povo de Israel para que não entrem na terra que Yahweh lhes entregou? ^v7
 
-**8** Assim fizeram vossos pais, quando os mandei de Cades-Barnéia, a ver esta terra. ^v8
+**8** Vossos pais fizeram a mesma coisa quando os enviei de Cades-Barneia para examinar a terra. ^v8
 
-**9** Chegando eles até ao vale de Escol, e vendo esta terra, desencorajaram o coração dos filhos de Israel, para que não entrassem na terra que o Senhor lhes tinha dado. ^v9
+**9** Quando eles foram até o vale de Escol e viram a terra, desencorajaram o coração do povo de Israel para que não entrasse na terra que Yahweh lhes havia dado. ^v9
 
-**10** Então a ira do Senhor se acendeu naquele mesmo dia, e jurou dizendo: ^v10
+**10** Então, a ira de Yahweh se acendeu naquele dia e Ele jurou dizendo: ^v10
 
-**11** Que os homens, que subiram do Egito, de vinte anos para cima, não verão a terra que jurei a Abraão, a Isaque, e a Jacó! porquanto não perseveraram em seguir-me; ^v11
+**11** 'Certamente, nenhum dos homens que saíram do Egito, com vinte anos para cima verá a terra que Eu jurei a Abraão, a Isaque e a Jacó, porque eles não Me seguiram fielmente. ^v11
 
-**12** Exceto Calebe, filho de Jefoné o quenezeu, e Josué, filho de Num, porquanto perseveraram em seguir ao Senhor. ^v12
+**12** Exceto Calebe, filho de Jefoné, o quenezeu, e Josué, filho de Num. Somente Calebe e Josué, porque perseveraram em Me seguir'. ^v12
 
-**13** Assim se acendeu a ira do Senhor contra Israel, e fê-los andar errantes pelo deserto quarenta anos até que se consumiu toda aquela geração, que fizera mal aos olhos do Senhor. ^v13
+**13** Então, a ira de Yahweh se acendeu contra Israel. Ele os fez peregrinar errantes pelo deserto por quarenta anos, até que toda aquela geração que havia cometido o mal aos Seus olhos fosse destruída. ^v13
 
-**14** E eis que vós, uma geração de homens pecadores, vos levantastes em lugar de vossos pais, para ainda mais acrescentar o furor da ira do Senhor contra Israel. ^v14
+**14** Agora, levantastes no lugar de vossos pais, como uma geração de homens pecadores para aumentar ainda mais a ardente ira de Yahweh contra Israel. ^v14
 
-**15** Se vós vos virardes de segui-lo, também ele os deixará de novo no deserto, e destruireis a todo este povo. ^v15
+**15** "Se vós deixardes de segui-Lo, Ele novamente abandonará Israel no deserto e vós sereis o motivo da destruição de todo este povo""." ^v15
 
-**16** Então chegaram-se a ele, e disseram: Edificaremos currais aqui para o nosso gado, e cidades para as nossas crianças; ^v16
+**16** "Então, eles se aproximaram de Moisés e disseram: ""Permita-nos construir currais para nosso gado e cidades para nossas famílias." ^v16
 
-**17** Porém nós nos armaremos, apressando-nos adiante dos de Israel, até que os levemos ao seu lugar; e ficarão as nossas crianças nas cidades fortes por causa dos moradores da terra. ^v17
+**17** Porém, nós nos armaremos e iremos com o exército de Israel até o deixarmos em seu lugar. Mas nossas famílias viverão nas cidades fortificadas, devido aos habitantes que ainda residem nesta terra. ^v17
 
-**18** Não voltaremos para nossas casas, até que os filhos de Israel estejam de posse, cada um, da sua herança. ^v18
+**18** Nós não retornaremos às nossas casas até que cada homem do povo de Israel tenha obtido a sua herança. ^v18
 
-**19** Porque não herdaremos com eles além do Jordão, nem mais adiante; porquanto nós já temos a nossa herança aquém do Jordão, ao oriente. ^v19
+**19** "Nós não herdaremos a terra com eles do outro lado do Jordão, pois a nossa herança é aqui no oriente do Jordão""." ^v19
 
-**20** Então Moisés lhes disse: Se isto fizerdes assim, se vos armardes à guerra perante o Senhor; ^v20
+**20** "Então, Moisés respondeu-lhes: ""Se vós fizerdes o que dizeis, se vos armardes para a guerra perante Yahweh" ^v20
 
-**21** E cada um de vós, armado, passar o Jordão perante o Senhor, até que haja lançado fora os seus inimigos de diante dele, ^v21
+**21** e cada um de vós atravessardes o Jordão, armados perante Yahweh, até que Ele tenha removido todos os Seus inimigos diante de Si, ^v21
 
-**22** E a terra esteja subjugada perante o Senhor; então voltareis e sereis inculpáveis perante o Senhor e perante Israel; e esta terra vos será por possessão perante o Senhor; ^v22
+**22** e a terra esteja submetida a Yahweh, só então podereis voltar. E vós estareis sem culpa perante Yahweh e Israel. Esta terra será vossa perante Yahweh. ^v22
 
-**23** E se não fizerdes assim, eis que pecastes contra o Senhor; e sabei que o vosso pecado vos há de achar. ^v23
+**23** Entretanto, se não fizerdes isso, pecareis contra Yahweh. Estai certos de que vosso pecado vos achará. ^v23
 
-**24** Edificai cidades para as vossas crianças, e currais para as vossas ovelhas; e fazei o que saiu da vossa boca. ^v24
+**24** "Edificai cidades para vossas famílias e currais para as vossas ovelhas e fazei aquilo que prometestes""." ^v24
 
-**25** Então falaram os filhos de Gade, e os filhos de Rúben a Moisés, dizendo: Como ordena meu senhor, assim farão teus servos. ^v25
+**25** "Os descendentes de Gade e de Rúben disseram a Moisés: ""Teus servos farão o que tu, nosso senhor, ordena." ^v25
 
-**26** As nossas crianças, as nossas mulheres, o nosso gado, e todos os nossos animais estarão aí nas cidades de Gileade. ^v26
+**26** Nossas crianças, nossas mulheres, nossos rebanhos e todo nosso gado permanecerão nas cidades de Gileade. ^v26
 
-**27** Mas os teus servos passarão, cada um armado para a guerra, a pelejar perante o SENHOR, como tem falado o meu senhor. ^v27
+**27** "Porém, nós, teus servos, atravessaremos perante Yahweh para a batalha; todo homem que estiver preparado para a guerra, como tu, nosso senhor, dizes""." ^v27
 
-**28** Então Moisés deu ordem acerca deles a Eleazar, o sacerdote, e a Josué filho de Num, e aos cabeças das casas dos pais das tribos dos filhos de Israel. ^v28
+**28** Então, Moisés deu instruções a respeito deles ao sacerdote Eleazar, e Josué, filho de Num, e também aos líderes dos clãs de seus antepassados das tribos do povo de Israel. ^v28
 
-**29** E disse-lhes Moisés: Se os filhos de Gade e os filhos de Rúben passarem convosco o Jordão, armado cada um para a guerra, perante o Senhor, e a terra estiver subjugada diante de vós, em possessão lhes dareis a terra de Gileade. ^v29
+**29** "Moisés lhes disse: ""Se os descendentes de Gade e Rúben atravessarem o Jordão convosco, todo homem armado para a guerra perante Yahweh, e, se a terra estiver subjugada, então, lhes darei a terra de Gileade como posse." ^v29
 
-**30** Porém, se não passarem armados convosco, terão possessões entre vós, na terra de Canaã. ^v30
+**30** "Porém, se não atravessarem o Jordão armados convosco, então, adquirirão suas posse entre vós na terra de Canaã""." ^v30
 
-**31** E responderam os filhos de Gade e os filhos de Rúben, dizendo: O que o Senhor falou a teus servos, isso faremos. ^v31
+**31** "Os descendentes de Gade e Rúben responderam: ""Conforme o que Yahweh nos disse, nós o faremos." ^v31
 
-**32** Nós passaremos, armados, perante o Senhor, à terra de Canaã, e teremos a possessão de nossa herança aquém do Jordão. ^v32
+**32** "Nós atravessaremos o Jordão perante Yahweh para a terra de Canaã, mas a nossa herança será deste lado do Jordão""." ^v32
 
-**33** Assim deu-lhes Moisés, aos filhos de Gade, e aos filhos de Rúben, e à meia tribo de Manassés, filho de José, o reino de Siom, rei dos amorreus, e o reino de Ogue, rei de Basã; a terra com as suas cidades nos seus termos, e as cidades ao seu redor. ^v33
+**33** Assim, aos descendentes de Gade e de Rúben e à metade da tribo de Manassés, filho de José, Moisés entregou o reino de Siom, o reino dos amorreus e o reino de Ogue, rei de Basã. Ele lhes entregou a terra, e distribuiu todas as suas cidades, suas fronteiras e as cidades ao redor deles. ^v33
 
-**34** E os filhos de Gade edificaram a Dibom, e Atarote, e Aroer; ^v34
+**34** Os descendentes de Gade reconstruíram Dibom, Atarote, Aroer, ^v34
 
-**35** E Atarote-Sofã, e Jazer, e Jogbeá; ^v35
+**35** Atarote-Sofã, Jazer, Jogbeá, ^v35
 
-**36** E Bete-Nimra, e Bete-Harã, cidades fortes; e currais de ovelhas. ^v36
+**36** Bete-Ninra e Bete-Harã, como cidades fortificadas. Além disso, também construíram currais para suas ovelhas. ^v36
 
-**37** E os filhos de Rúben edificaram a Hesbom, e Eleale, e Quiriataim; ^v37
+**37** Os descendentes de Rúben reconstruíram Hesbom, Eleale, e Quiriataim, ^v37
 
-**38** E Nebo, e Baal-Meom, mudando-lhes o nome, e Sibma; e os nomes das cidades que edificaram chamaram por outros nomes. ^v38
+**38** Nebo, Baal-Meom (seus nomes foram posteriormente alterados) e Sibma. Eles deram outros nomes para as cidades que construíram. ^v38
 
-**39** E os filhos de Maquir, filho de Manassés, foram-se para Gileade, e a tomaram; e daquela possessão expulsaram os amorreus que estavam nela. ^v39
+**39** Os descendentes de Maquir, filho de Manassés, foram a Gileade e a conquistaram dos amorreus que habitavam ali. ^v39
 
-**40** Assim Moisés deu Gileade a Maquir, filho de Manassés, o qual habitou nela. ^v40
+**40** Então, Moisés entregou Gileade a Maquir, filho de Manassés, e os seus descendentes habitaram ali. ^v40
 
-**41** E foi Jair, filho de Manassés, e tomou as suas aldeias; e chamou-as Havote-Jair. ^v41
+**41** Jair, filho de Manassés, conquistou as cidades da região e as chamou de Havote-Jair. ^v41
 
-**42** E foi Nobá, e tomou a Quenate com as suas aldeias; e chamou-a Nobá, segundo o seu próprio nome. ^v42
+**42** Nobá conquistou Quenate e seus vilarejos e os chamou de Nobá, segundo seu nome. ^v42

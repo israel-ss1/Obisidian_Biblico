@@ -1,51 +1,50 @@
 ---
-Livro: "[[1 Samuel|1 Samuel]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/1 Samuel|1 Samuel]]"
+tags: [biblia]
 ---
 
 # 1 Samuel 8
 
-**1** E sucedeu que, tendo Samuel envelhecido, constituiu a seus filhos por juízes sobre Israel. ^v1
+**1** Quando Samuel já era velho, ele fez seus filhos juízes sobre Israel. ^v1
 
-**2** E o nome do seu filho primogênito era Joel, e o nome do seu segundo, Abia; e foram juízes em Berseba. ^v2
+**2** O nome do seu primogênito era Joel, e o nome do seu segundo filho era Abias. Eles eram juízes em Berseba. ^v2
 
-**3** Porém seus filhos não andaram pelos caminhos dele, antes se inclinaram à avareza, e aceitaram suborno, e perverteram o direito. ^v3
+**3** Seus filhos não andaram em seus caminhos, mas foram atrás de ganhos desonestos. Eles recebiam subornos e pervertiam a justiça. ^v3
 
-**4** Então todos os anciãos de Israel se congregaram, e vieram a Samuel, a Ramá, ^v4
+**4** Então, todos os anciãos de Israel se reuniram e vieram a Samuel, em Ramá. ^v4
 
-**5** E disseram-lhe: Eis que já estás velho, e teus filhos não andam pelos teus caminhos; constitui-nos, pois, agora um rei sobre nós, para que ele nos julgue, como o têm todas as nações. ^v5
+**5** "Eles lhe disseram: ""Vede, tu estás velho, e teus filhos não andam em teus caminhos. Nomeia para nós um rei para nos julgar, como em todas as nações""." ^v5
 
-**6** Porém esta palavra pareceu mal aos olhos de Samuel, quando disseram: Dá-nos um rei, para que nos julgue. E Samuel orou ao Senhor. ^v6
+**6** "Porém, isso desagradou a Samuel, quando eles disseram: ""Dá-nos um rei para nos julgar"". Então, Samuel orou a Yahweh." ^v6
 
-**7** E disse o Senhor a Samuel: Ouve a voz do povo em tudo quanto te dizem, pois não te têm rejeitado a ti, antes a mim me têm rejeitado, para eu não reinar sobre eles. ^v7
+**7** "Yahweh disse a Samuel: ""Obedece à voz do povo em todas as coisas que eles te disserem; porque eles não têm rejeitado a ti, mas eles têm rejeitado a Mim como rei sobre eles." ^v7
 
-**8** Conforme a todas as obras que fizeram desde o dia em que os tirei do Egito até ao dia de hoje, a mim me deixaram, e a outros deuses serviram, assim também fazem a ti. ^v8
+**8** Eles estão agindo, agora, da mesma forma que vêm agindo desde o dia em que Eu os tirei do Egito: abandonando-Me, e servindo a outros deuses. Do mesmo modo, eles estão fazendo contigo. ^v8
 
-**9** Agora, pois, ouve à sua voz, porém protesta-lhes solenemente, e declara-lhes qual será o costume do rei que houver de reinar sobre eles. ^v9
+**9** "Agora, ouve-os; porém, adverte-os solenemente e deixa-os saber a forma com a qual o rei governará sobre eles""." ^v9
 
-**10** E falou Samuel todas as palavras do Senhor ao povo, que lhe pedia um rei. ^v10
+**10** Então, Samuel disse todas as palavras de Yahweh ao povo que estava pedindo um rei. ^v10
 
-**11** E disse: Este será o costume do rei que houver de reinar sobre vós; ele tomará os vossos filhos, e os empregará nos seus carros, e como seus cavaleiros, para que corram adiante dos seus carros. ^v11
+**11** "Ele disse: ""Assim será como o rei reinará sobre vós. Ele tomará vossos filhos e os nomeará sobre os seus carros e para ser seus cavaleiros, e para correrem adiante dos seus carros." ^v11
 
-**12** E os porá por chefes de mil, e de cinqüenta; e para que lavrem a sua lavoura, e façam a sua sega, e fabriquem as suas armas de guerra e os petrechos de seus carros. ^v12
+**12** nomerá para si mesmo capitães de mil soldados, e capitães de cinquenta soldados. Ele fará alguns deles arar seus campos, colher suas colheitas e outros para fazer suas armas de guerra e os equipamentos para seus carros. ^v12
 
-**13** E tomará as vossas filhas para perfumistas, cozinheiras e padeiras. ^v13
+**13** Ele também tomará vossas filhas para serem perfumistas, cozinheiras e padeiras. ^v13
 
-**14** E tomará o melhor das vossas terras, e das vossas vinhas, e dos vossos olivais, e os dará aos seus servos. ^v14
+**14** Tomará o melhor dos vossos campos, das vossas vinhas e dos vossos olivais para dar aos seus servos. ^v14
 
-**15** E as vossas sementes, e as vossas vinhas dizimará, para dar aos seus oficiais, e aos seus servos. ^v15
+**15** Ele tomará o dízimo dos vossos grãos e das vossas vinhas para dar a seus oficiais e a seus servos. ^v15
 
-**16** Também os vossos servos, e as vossas servas, e os vossos melhores moços, e os vossos jumentos tomará, e os empregará no seu trabalho. ^v16
+**16** Ele tomará vossos servos e vossas servas e o melhor dos vossos homens jovens e vossos jumentos; Ele colocará todos para trabalhar para si. ^v16
 
-**17** Dizimará o vosso rebanho, e vós lhe servireis de servos. ^v17
+**17** Ele tomará o dízimo do vosso rebanho, e vós sereis seus escravos. ^v17
 
-**18** Então naquele dia clamareis por causa do vosso rei, que vós houverdes escolhido; mas o Senhor não vos ouvirá naquele dia. ^v18
+**18** "Então, naquele dia, vós clamareis por causa do vosso rei, a quem escolhestes para vós mesmos; porém, Yahweh não vos responderá naquele dia""." ^v18
 
-**19** Porém o povo não quis ouvir a voz de Samuel; e disseram: Não, mas haverá sobre nós um rei. ^v19
+**19** "Mas o povo recusou a ouvir Samuel; eles disseram: ""Não! Deve haver um rei sobre nós," ^v19
 
-**20** E nós também seremos como todas as outras nações; e o nosso rei nos julgará, e sairá adiante de nós, e fará as nossas guerras. ^v20
+**20** "para que possamos ser como as outras nações, e para que o nosso rei possa julgar-nos e sair adiante de nós e lutar as nossas batalhas""." ^v20
 
-**21** Ouvindo, pois, Samuel todas as palavras do povo, as repetiu aos ouvidos do Senhor. ^v21
+**21** Quando Samuel ouviu todas as palavras do povo, ele as repetiu aos ouvidos de Yahweh. ^v21
 
-**22** Então o Senhor disse a Samuel: Dá ouvidos à sua voz, e constitui-lhes rei. Então Samuel disse aos homens de Israel: Volte cada um à sua cidade. ^v22
+**22** "Yahweh disse a Samuel: ""Obedeça à voz deles e faça-lhes um rei"". Então, Samuel disse aos homens de Israel: ""Cada homem deve voltar para a sua própria cidade""." ^v22

@@ -1,53 +1,52 @@
 ---
-Livro: "[[Romanos|Romanos]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Romanos|Romanos]]"
+tags: [biblia]
 ---
 
 # Romanos 6
 
-**1** Que diremos pois? Permaneceremos no pecado, para que a graça abunde? ^v1
+**1** Então, o que diremos? Devemos continuar no pecado para que a graça possa abundar? ^v1
 
-**2** De modo nenhum. Nós, que estamos mortos para o pecado, como viveremos ainda nele? ^v2
+**2** Nunca! Nós que morremos para o pecado, como podemos ainda viver nele? ^v2
 
-**3** Ou não sabeis que todos quantos fomos batizados em Jesus Cristo fomos batizados na sua morte? ^v3
+**3** Não sabeis que, assim como fomos batizados em Cristo Jesus, também fomos batizados em Sua morte? ^v3
 
-**4** De sorte que fomos sepultados com ele pelo batismo na morte; para que, como Cristo foi ressuscitado dentre os mortos, pela glória do Pai, assim andemos nós também em novidade de vida. ^v4
+**4** Portanto, fomos sepultados com Ele através do batismo na morte. Isso aconteceu para que, como Cristo foi ressuscitado dentre os mortos pela glória do Pai, assim nós também possamos andar em novidade de vida. ^v4
 
-**5** Porque, se fomos plantados juntamente com ele na semelhança da sua morte, também o seremos na da sua ressurreição; ^v5
+**5** Porque, se temos nos tornado unidos com Ele na semelhança da Sua morte, também estaremos unidos, com Sua ressurreição. ^v5
 
-**6** Sabendo isto, que o nosso homem velho foi com ele crucificado, para que o corpo do pecado seja desfeito, para que não sirvamos mais ao pecado. ^v6
+**6** Nós sabemos isto: que nosso velho homem foi crucificado com Ele, para que o corpo do pecado seja destruído. Isso aconteceu a fim de não sermos mais escravizados pelo pecado. ^v6
 
-**7** Porque aquele que está morto está justificado do pecado. ^v7
+**7** Aquele que morreu é declarado justo em relação ao pecado. ^v7
 
-**8** Ora, se já morremos com Cristo, cremos que também com ele viveremos; ^v8
+**8** Mas, se tivermos morrido com Cristo, acreditamos que também viveremos com Ele. ^v8
 
-**9** Sabendo que, tendo sido Cristo ressuscitado dentre os mortos, já não morre; a morte não mais tem domínio sobre ele. ^v9
+**9** Sabemos que Cristo foi ressuscitado dentre os mortos e que não está mais morto. A morte não tem mais domínio sobre Ele. ^v9
 
-**10** Pois, quanto a ter morrido, de uma vez morreu para o pecado; mas, quanto a viver, vive para Deus. ^v10
+**10** Pois, quanto a ter morrido pelo pecado, Ele morreu de uma vez por todas. Contudo a vida que Ele vive, vive para Deus. ^v10
 
-**11** Assim também vós considerai-vos certamente mortos para o pecado, mas vivos para Deus em Cristo Jesus nosso Senhor. ^v11
+**11** Da mesma maneira, considerai-vos também mortos em vós mesmos para o pecado, mas vivos para Deus em Cristo Jesus. ^v11
 
-**12** Não reine, portanto, o pecado em vosso corpo mortal, para lhe obedecerdes em suas concupiscências; ^v12
+**12** Portanto, não deixeis o pecado reinar em vosso corpo mortal, de forma que obedeçais a suas paixões. ^v12
 
-**13** Nem tampouco apresenteis os vossos membros ao pecado por instrumentos de iniqüidade; mas apresentai-vos a Deus, como vivos dentre mortos, e os vossos membros a Deus, como instrumentos de justiça. ^v13
+**13** Não apresenteis as partes do vosso corpo ao pecado, para serem instrumentos usados para injustiça. Mas apresentai-vos a Deus como mortos que agora estão vivendo. E apresentai as partes do vosso corpo a Deus como instrumentos a serem usados para justiça. ^v13
 
-**14** Porque o pecado não terá domínio sobre vós, pois não estais debaixo da lei, mas debaixo da graça. ^v14
+**14** Não permitais que o pecado vos domine, porque não estais debaixo da Lei, mas debaixo da graça. ^v14
 
-**15** Pois que? Pecaremos porque não estamos debaixo da lei, mas debaixo da graça? De modo nenhum. ^v15
+**15** E então? Devemos pecar porque não estamos debaixo da Lei, mas debaixo da graça? Nunca! ^v15
 
-**16** Não sabeis vós que a quem vos apresentardes por servos para lhe obedecer, sois servos daquele a quem obedeceis, ou do pecado para a morte, ou da obediência para a justiça? ^v16
+**16** Não sabeis que a quem vós mesmos vos apresentais como servos é a quem sois obedientes e a quem deveis obedecer? A verdade é esta: ou sois servos do pecado que leva à morte, ou servos da obediência que leva à justificação. ^v16
 
-**17** Mas graças a Deus que, tendo sido servos do pecado, obedecestes de coração à forma de doutrina a que fostes entregues. ^v17
+**17** Mas graças a Deus! Pois fostes servos do pecado, no entanto tendes obedecido de coração ao padrão de doutrina que vos foi dado. ^v17
 
-**18** E, libertados do pecado, fostes feitos servos da justiça. ^v18
+**18** Tendes sido libertos do pecado e feitos escravos da justiça. ^v18
 
-**19** Falo como homem, pela fraqueza da vossa carne; pois que, assim como apresentastes os vossos membros para servirem à imundícia, e à maldade para maldade, assim apresentai agora os vossos membros para servirem à justiça para santificação. ^v19
+**19** Falo como homem, por causa da fraqueza da vossa carne. Pois, como apresentastes as partes do vosso corpo como escravos para a impureza e para o mal, da mesma forma, agora, apresentai-as como escravos da justiça para santificação. ^v19
 
-**20** Porque, quando éreis servos do pecado, estáveis livres da justiça. ^v20
+**20** Visto que, quando éreis escravos do pecado, estáveis livres da justiça. ^v20
 
-**21** E que fruto tínheis então das coisas de que agora vos envergonhais? Porque o fim delas é a morte. ^v21
+**21** Naquele tempo, que fruto, então, tivestes das coisas das quais agora estais envergonhados? Porque o fim dessas coisas é a morte. ^v21
 
-**22** Mas agora, libertados do pecado, e feitos servos de Deus, tendes o vosso fruto para santificação, e por fim a vida eterna. ^v22
+**22** Mas agora, que fostes libertos do pecado e feitos escravos de Deus, tendes o vosso fruto para santificação, e o resultado é a vida eterna. ^v22
 
-**23** Porque o salário do pecado é a morte, mas o dom gratuito de Deus é a vida eterna, por Cristo Jesus nosso Senhor. ^v23
+**23** Pois o salário do pecado é a morte, mas o dom gratuito de Deus é a vida eterna em Cristo Jesus, nosso Senhor. ^v23

@@ -1,51 +1,50 @@
 ---
-Livro: "[[Eclesiastes|Eclesiastes]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Eclesiastes|Eclesiastes]]"
+tags: [biblia]
 ---
 
 # Eclesiastes 3
 
-**1** Tudo tem o seu tempo determinado, e há tempo para todo o propósito debaixo do céu. ^v1
+**1** Para tudo há um tempo determinado, um tempo para cada propósito debaixo do céu. ^v1
 
-**2** Há tempo de nascer, e tempo de morrer; tempo de plantar, e tempo de arrancar o que se plantou; ^v2
+**2** Há um tempo para nascer e um tempo para morrer; um tempo para plantar e um tempo para arrancar o que foi plantado; ^v2
 
-**3** Tempo de matar, e tempo de curar; tempo de derrubar, e tempo de edificar; ^v3
+**3** um tempo para matar e um tempo para curar; um tempo para derrubar e um tempo para construir. ^v3
 
-**4** Tempo de chorar, e tempo de rir; tempo de prantear, e tempo de dançar; ^v4
+**4** Há um tempo para chorar e um tempo para rir; um tempo para lamentar e um tempo para dançar; ^v4
 
-**5** Tempo de espalhar pedras, e tempo de ajuntar pedras; tempo de abraçar, e tempo de afastar-se de abraçar; ^v5
+**5** um tempo para atirar pedras e um tempo para juntar pedras; um tempo para abraçar pessoas e um tempo para deixar de abraçar; ^v5
 
-**6** Tempo de buscar, e tempo de perder; tempo de guardar, e tempo de lançar fora; ^v6
+**6** um tempo para buscar coisas e um tempo de parar de buscar; um tempo para guardar coisas e um tempo para jogar coisas fora; ^v6
 
-**7** Tempo de rasgar, e tempo de coser; tempo de estar calado, e tempo de falar; ^v7
+**7** um tempo para rasgar roupas e um tempo para costurar roupas; um tempo para calar e um tempo para falar. ^v7
 
-**8** Tempo de amar, e tempo de odiar; tempo de guerra, e tempo de paz. ^v8
+**8** Há um tempo para amar e um tempo para odiar; um tempo para guerra e um tempo para paz. ^v8
 
-**9** Que proveito tem o trabalhador naquilo em que trabalha? ^v9
+**9** Que vantagem o trabalhador tem de seu trabalho? ^v9
 
-**10** Tenho visto o trabalho que Deus deu aos filhos dos homens, para com ele os exercitar. ^v10
+**10** Eu vi a obra que Deus deu ao homem para realizar. ^v10
 
-**11** Tudo fez formoso em seu tempo; também pôs o mundo no coração do homem, sem que este possa descobrir a obra que Deus fez desde o princípio até ao fim. ^v11
+**11** Deus fez tudo adequado para seu devido tempo. Ele também colocou a eternidade no coração do homem; mas os homens não conseguem entender as obras que Deus fez desde o princípio até o fim. ^v11
 
-**12** Já tenho entendido que não há coisa melhor para eles do que alegrar-se e fazer bem na sua vida; ^v12
+**12** Entendi que não há nada melhor para alguém do que se alegrar em fazer o bem enquanto viver, ^v12
 
-**13** E também que todo o homem coma e beba, e goze do bem de todo o seu trabalho; isto é um dom de Deus. ^v13
+**13** e que todo aquele que come e bebe deve entender como desfrutar do bem que vem de seu trabalho. Isso é um presente de Deus. ^v13
 
-**14** Eu sei que tudo quanto Deus faz durará eternamente; nada se lhe deve acrescentar, e nada se lhe deve tirar; e isto faz Deus para que haja temor diante dele. ^v14
+**14** Eu sei que tudo quanto Deus faz dura para sempre. Nada pode ser acrescentado ou tirado disso, porque Deus é Quem fez isso para as pessoas se aproximarem Dele com honra. ^v14
 
-**15** O que é, já foi; e o que há de ser, também já foi; e Deus pede conta do que passou. ^v15
+**15** "O que existe já foi, e o que será já existiu. Deus faz o homem buscar coisas escondidas. [Em vez de ""Deus faz o homem buscar coisas escondidas"", outras versões modernas traduzem esse verso de diferentes formas]" ^v15
 
-**16** Vi mais debaixo do sol que no lugar do juízo havia impiedade, e no lugar da justiça havia iniqüidade. ^v16
+**16** Vi a maldade que há debaixo do sol: no lugar onde deveria estar a justiça e no lugar da retidão estava a maldade. ^v16
 
-**17** Eu disse no meu coração: Deus julgará o justo e o ímpio; porque há um tempo para todo o propósito e para toda a obra. ^v17
+**17** Eu disse em meu coração: Deus julgará o justo e o ímpio, no tempo certo, por cada coisa e cada obra. ^v17
 
-**18** Disse eu no meu coração, quanto a condição dos filhos dos homens, que Deus os provaria, para que assim pudessem ver que são em si mesmos como os animais. ^v18
+**18** Eu disse em meu coração: Deus prova os homens para mostrar-lhes que são como animais. ^v18
 
-**19** Porque o que sucede aos filhos dos homens, isso mesmo também sucede aos animais, e lhes sucede a mesma coisa; como morre um, assim morre o outro; e todos têm o mesmo fôlego, e a vantagem dos homens sobre os animais não é nenhuma, porque todos são vaidade. ^v19
+**19** Pois o destino dos filhos dos homens e o destino dos animais são o mesmo. A morte de um é como a morte do outro. O respirar é o mesmo para todos eles. Não há vantagem dos homens sobre os animais; pois não têm o mesmo fôlego? ^v19
 
-**20** Todos vão para um lugar; todos foram feitos do pó, e todos voltarão ao pó. ^v20
+**20** Todos estão indo para o mesmo lugar. Tudo vem do pó, e para o pó tudo retornará. ^v20
 
-**21** Quem sabe que o fôlego do homem vai para cima, e que o fôlego dos animais vai para baixo da terra? ^v21
+**21** "Quem sabe se o espírito do homem vai para cima e o espírito dos animais vai para debaixo da terra? [Algumas versões modernas trazem ""Quem conhece o espírito do homem, que vai para cima, e o espírito dos animais, que vai para debaixo da terra?""]" ^v21
 
-**22** Assim que tenho visto que não há coisa melhor do que alegrar-se o homem nas suas obras, porque essa é a sua porção; pois quem o fará voltar para ver o que será depois dele? ^v22
+**22** Então, novamente, concluí que não há nada melhor para alguém do que ter prazer em seu trabalho, pois essa é sua recompensa. Quem o fará voltar para ver o que acontecerá depois dele? ^v22

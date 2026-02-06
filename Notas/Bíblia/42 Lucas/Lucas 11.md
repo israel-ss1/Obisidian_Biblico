@@ -1,115 +1,114 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Lucas|Lucas]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Lucas|Lucas]]"
+tags: [biblia]
 ---
 
 # Lucas 11
 
-**1** E aconteceu que, estando ele a orar num certo lugar, quando acabou, lhe disse um dos seus discípulos: Senhor, ensina-nos a orar, como também João ensinou aos seus discípulos. ^v1
+**1** "E aconteceu que, estando Jesus em certo lugar orando, e ao terminar um dos Seus discípulos Lhe disse: “Senhor, ensina-nos a orar, assim como João ensinou a seus discípulos""." ^v1
 
-**2** E ele lhes disse: Quando orardes, dizei: Pai nosso, que estás nos céus, santificado seja o teu nome; venha o teu reino; seja feita a tua vontade, assim na terra, como no céu. ^v2
+**2** Disse-lhes Jesus: “Quando orardes, dizei: 'Pai, santificado seja o Teu Nome. Venha o Teu reino. ^v2
 
-**3** Dá-nos cada dia o nosso pão cotidiano; ^v3
+**3** Dá-nos o pão que diariamente precisamos; ^v3
 
-**4** E perdoa-nos os nossos pecados, pois também nós perdoamos a qualquer que nos deve, e não nos conduzas à tentação, mas livra-nos do mal. ^v4
+**4** "perdoa os nossos pecados, assim como nós perdoamos aos nossos devedores. Livra-nos da tentação'""." ^v4
 
-**5** Disse-lhes também: Qual de vós terá um amigo, e, se for procurá-lo à meia-noite, e lhe disser: Amigo, empresta-me três pães, ^v5
+**5** Disse-lhes Jesus: “Quem dentre vós, se tiver um amigo e indo a meia noite até ele, dizendo: 'Amigo, empresta-me três pães, ^v5
 
-**6** Pois que um amigo meu chegou a minha casa, vindo de caminho, e não tenho que apresentar-lhe; ^v6
+**6** pois um amigo meu acabou de chegar de viagem e eu não tenho nada para lhe oferecer'; ^v6
 
-**7** Se ele, respondendo de dentro, disser: Não me importunes; já está a porta fechada, e os meus filhos estão comigo na cama; não posso levantar-me para tos dar; ^v7
+**7** e, o que está dentro lhe responda: 'Não me importunes, pois a porta já está fechada e meus filhos e eu estamos na cama. Eu não posso me levantar e dá-los a ti'. ^v7
 
-**8** Digo-vos que, ainda que não se levante a dar-lhos, por ser seu amigo, levantar-se-á, todavia, por causa da sua importunação, e lhe dará tudo o que houver mister. ^v8
+**8** Eu lhes digo, mesmo que ele não se levante para dar-lhe os pães por serem amigos, ainda assim ele se levantará por causa da sua importuna persistência, e lhe dará todos os pães que forem necessários. ^v8
 
-**9** E eu vos digo a vós: Pedi, e dar-se-vos-á; buscai, e achareis; batei, e abrir-se-vos-á; ^v9
+**9** Eu também vos digo: pedi e vos será dado, buscai e encontrareis, batei e vos será aberto. ^v9
 
-**10** Porque qualquer que pede recebe; e quem busca acha; e a quem bate abrir-se-lhe-á. ^v10
+**10** Pois todo o que pede, recebe; o que busca, encontra; e quem bate, lhe será aberto. ^v10
 
-**11** E qual o pai de entre vós que, se o filho lhe pedir pão, lhe dará uma pedra? Ou, também, se lhe pedir peixe, lhe dará por peixe uma serpente? ^v11
+**11** Qual pai dentre vós, se o filho pedir um peixe, no lugar do peixe lhe dará uma serpente? ^v11
 
-**12** Ou, também, se lhe pedir um ovo, lhe dará um escorpião? ^v12
+**12** Ou, se ele pedir um ovo, lhe dará um escorpião? ^v12
 
-**13** Pois se vós, sendo maus, sabeis dar boas dádivas aos vossos filhos, quanto mais dará o Pai celestial o Espírito Santo àqueles que lho pedirem? ^v13
+**13** "Portanto, se vós, que sois maus, sabeis dar coisas boas aos vossos filhos, quanto mais o vosso Pai do céu dará o Espírito Santo aos que O pedirem?""." ^v13
 
-**14** E estava ele expulsando um demônio, o qual era mudo. E aconteceu que, saindo o demônio, o mudo falou; e maravilhou-se a multidão. ^v14
+**14** Em outro momento, Jesus estava expulsando um demônio que era mudo. Quando o demônio saiu, o mudo falou. A multidão ficou perplexa! ^v14
 
-**15** Mas alguns deles diziam: Ele expulsa os demônios por Belzebu, príncipe dos demônios. ^v15
+**15** Mas algumas pessoas disseram: “É por Belzebu, o príncipe dos demônios, que Ele expulsa demônios”. ^v15
 
-**16** E outros, tentando-o, pediam-lhe um sinal do céu. ^v16
+**16** Outros O testavam e buscavam Dele um sinal do céu. ^v16
 
-**17** Mas, conhecendo ele os seus pensamentos, disse-lhes: Todo o reino, dividido contra si mesmo, será assolado; e a casa, dividida contra si mesma, cairá. ^v17
+**17** Mas Jesus, conhecendo os pensamentos deles, disse-lhes: “Todo reino dividido contra si mesmo é arruinado; e cai toda casa dividida contra si mesma. ^v17
 
-**18** E, se também Satanás está dividido contra si mesmo, como subsistirá o seu reino? Pois dizeis que eu expulso os demônios por Belzebu. ^v18
+**18** Se Satanás contra si mesmo estiver dividido , como o seu reino subsistirá? Pois vós dizeis que Eu expulso demônios por Belzebu. ^v18
 
-**19** E, se eu expulso os demônios por Belzebu, por quem os expulsam vossos filhos? Eles, pois, serão os vossos juízes. ^v19
+**19** Se Eu expulso demônios por Belzebu, por quem então os expulsam vossos seguidores? Por causa disso, eles serão os vossos juízes. ^v19
 
-**20** Mas, se eu expulso os demônios pelo dedo de Deus, certamente a vós é chegado o reino de Deus. ^v20
+**20** Mas, se é pelo dedo de Deus que Eu expulso os demônios, então o Reino de Deus chegou até vós. ^v20
 
-**21** Quando o valente guarda, armado, a sua casa, em segurança está tudo quanto tem; ^v21
+**21** Quando um homem forte, que está totalmente armado, guarda sua própria casa, seus bens estão seguros. ^v21
 
-**22** Mas, sobrevindo outro mais valente do que ele, e vencendo-o, tira-lhe toda a sua armadura em que confiava, e reparte os seus despojos. ^v22
+**22** Mas quando um homem mais forte o derrota, tira-lhe a armadura e distribui os seus bens. ^v22
 
-**23** Quem não é comigo é contra mim; e quem comigo não ajunta, espalha. ^v23
+**23** Aquele que não está comigo está contra mim, e aquele que comigo não ajunta, espalha. ^v23
 
-**24** Quando o espírito imundo tem saído do homem, anda por lugares secos, buscando repouso; e, não o achando, diz: Tornarei para minha casa, de onde saí. ^v24
+**24** Quando um espírito maligno sai de uma pessoa, vaga por lugares áridos e procura repouso. Não o encontrando, diz: 'Eu voltarei para a minha casa, de onde vim'. ^v24
 
-**25** E, chegando, acha-a varrida e adornada. ^v25
+**25** Tendo voltado, encontra a casa limpa e organizada. ^v25
 
-**26** Então vai, e leva consigo outros sete espíritos piores do que ele e, entrando, habitam ali; e o último estado desse homem é pior do que o primeiro. ^v26
+**26** Logo, ele vai e leva consigo outros sete espíritos ainda piores, e todos eles habitam ali. Então, a última condição daquela pessoa, torna-se pior do que a primeira”. ^v26
 
-**27** E aconteceu que, dizendo ele estas coisas, uma mulher dentre a multidão, levantando a voz, lhe disse: Bem-aventurado o ventre que te trouxe e os peitos em que mamaste. ^v27
+**27** E aconteceu que, dizendo Ele essas coisas, uma certa mulher no meio da multidão levantou a voz e Lhe disse: “Bendito é o ventre que Te gerou e os seios que Te amamentaram.” ^v27
 
-**28** Mas ele disse: Antes bemaventurados os que ouvem a palavra de Deus e a guardam. ^v28
+**28** Mas Ele disse: “Antes, benditos são aqueles que ouvem a Palavra de Deus e a guarda”. ^v28
 
-**29** E, ajuntando-se a multidão, começou a dizer: Maligna é esta geração; ela pede um sinal; e não lhe será dado outro sinal, senão o sinal do profeta Jonas; ^v29
+**29** Enquanto a multidão se aglomerava, Ele começou a dizer: “Esta geração é uma geração perversa. Ela busca um sinal, mas nenhum sinal lhe será dado, exceto o sinal de Jonas. ^v29
 
-**30** Porquanto, assim como Jonas foi sinal para os ninivitas, assim o Filho do homem o será também para esta geração. ^v30
+**30** Pois assim como Jonas se tornou um sinal para os Ninivitas, assim também o Filho do Homem será um sinal para esta geração. ^v30
 
-**31** A rainha do sul se levantará no juízo com os homens desta geração, e os condenará; pois até dos confins da terra veio ouvir a sabedoria de Salomão; e eis aqui está quem é maior do que Salomão. ^v31
+**31** A Rainha do Sul se levantará, no julgamento, junto com os homens desta geração e os condenará, pois ela veio dos confins da terra para ouvir a sabedoria de Salomão. Eis que alguém maior do que Salomão está aqui. ^v31
 
-**32** Os homens de Nínive se levantarão no juízo com esta geração, e a condenarão; pois se converteram com a pregação de Jonas; e eis aqui está quem é maior do que Jonas. ^v32
+**32** Os homens de Nínive se levantarão, no julgamento, com as pessoas desta geração e os condenarão, pois eles se arrependeram diante da pregação de Jonas. E eis aqui alguém maior do que Jonas. ^v32
 
-**33** E ninguém, acendendo uma candeia, a põe em oculto, nem debaixo do alqueire, mas no velador, para que os que entram vejam a luz. ^v33
+**33** Ninguém, ao acender uma lâmpada, coloca-a dentro de um lugar escondido, ou debaixo de um cesto, mas sobre o candelabro, para que aqueles que entram possam ver a luz. ^v33
 
-**34** A candeia do corpo é o olho. Sendo, pois, o teu olho simples, também todo o teu corpo será luminoso; mas, se for mau, também o teu corpo será tenebroso. ^v34
+**34** Teu olho é a lâmpada do corpo. Quando o teu olho é bom, todo o teu corpo fica iluminado. Mas quando o teu olho é mau, todo o teu corpo fica cheio de trevas. ^v34
 
-**35** Vê, pois, que a luz que em ti há não sejam trevas. ^v35
+**35** Portanto, cuide para que a luz que há em ti não seja trevas. ^v35
 
-**36** Se, pois, todo o teu corpo é luminoso, não tendo em trevas parte alguma, todo será luminoso, como quando a candeia te ilumina com o seu resplendor. ^v36
+**36** Se, pois, todo o teu corpo for cheio de luz, sem parte alguma nas trevas, então todo o teu corpo será como uma lâmpada, quando o seu brilho te ilumina. ^v36
 
-**37** E, estando ele ainda falando, rogou-lhe um fariseu que fosse jantar com ele; e, entrando, assentou-se à mesa. ^v37
+**37** Quando Ele terminou de falar, um fariseu O convidou para comer com Ele em sua casa, então Jesus foi e tomou lugar à mesa. ^v37
 
-**38** Mas o fariseu admirou-se, vendo que não se lavara antes de jantar. ^v38
+**38** O fariseu ficou admirado por Ele não ter Se lavado antes da refeição. ^v38
 
-**39** E o Senhor lhe disse: Agora vós, os fariseus, limpais o exterior do copo e do prato; mas o vosso interior está cheio de rapina e maldade. ^v39
+**39** Mas o Senhor lhe disse: “Vós, fariseus, limpais o exterior dos copos e vasilhas, mas o vosso interior está cheio de ganância e maldade. ^v39
 
-**40** Loucos! Quem fez o exterior não fez também o interior? ^v40
+**40** Homens insensatos! Por acaso aquele que fez o exterior não fez também o interior? ^v40
 
-**41** Antes dai esmola do que tiverdes, e eis que tudo vos será limpo. ^v41
+**41** Dai aos pobres o que está dentro de vós, e tudo vos ficará limpo. ^v41
 
-**42** Mas ai de vós, fariseus, que dizimais a hortelã, e a arruda, e toda a hortaliça, e desprezais o juízo e o amor de Deus. Importava fazer estas coisas, e não deixar as outras. ^v42
+**42** Mas ai de vós, fariseus, que entregueis o dízimo da hortelã e da arruda e das demais verduras, mas negligenciais a justiça e o amor de Deus. É necessário agir com justiça e amar a Deus, sem negligenciar as outras coisas. ^v42
 
-**43** Ai de vós, fariseus, que amais os primeiros assentos nas sinagogas, e as saudações nas praças. ^v43
+**43** Ai de vós fariseus pois amais os primeiros lugares nas sinagogas e os respeitosos cumprimentos nas praças. ^v43
 
-**44** Ai de vós, escribas e fariseus, hipócritas! que sois como as sepulturas que não aparecem, e os homens que sobre elas andam não o sabem. ^v44
+**44** Ai de vós, pois sois como sepulturas disfarçadas, e pessoas caminham sobre elas, sem perceber. ^v44
 
-**45** E, respondendo um dos doutores da lei, disse-lhe: Mestre, quando dizes isso, também nos afrontas a nós. ^v45
+**45** E um certo mestre da lei Lhe disse: “Mestre, o que dizes também nos insulta”. ^v45
 
-**46** E ele lhe disse: Ai de vós também, doutores da lei, que carregais os homens com cargas difíceis de transportar, e vós mesmos nem ainda com um dos vossos dedos tocais essas cargas. ^v46
+**46** Jesus disse: “Ai de vós também, mestres da lei! Pois sobrecarregais os homens com cargas difíceis de suportar, mas não quereis tocá-las, nem mesmo com um de vossos dedos. ^v46
 
-**47** Ai de vós que edificais os sepulcros dos profetas, e vossos pais os mataram. ^v47
+**47** Ai de vós, pois edificais túmulos para os profetas que vossos ancestrais mataram. ^v47
 
-**48** Bem testificais, pois, que consentis nas obras de vossos pais; porque eles os mataram, e vós edificais os seus sepulcros. ^v48
+**48** Assim, concordais com os feitos de vossos ancestrais, e deles sois testemunhas; porque eles, por um lado, mataram os profetas, e vós edificais os túmulos. ^v48
 
-**49** Por isso diz também a sabedoria de Deus: Profetas e apóstolos lhes mandarei; e eles matarão uns, e perseguirão outros; ^v49
+**49** Também por essa razão, a sabedoria de Deus disse: 'Eu lhes enviarei profetas e apóstolos, a alguns eles perseguirão e matarão'. ^v49
 
-**50** Para que desta geração seja requerido o sangue de todos os profetas que, desde a fundação do mundo, foi derramado; ^v50
+**50** Então esta geração será responsabilizada por todo o sangue dos profetas, derramado desde a fundação do mundo, ^v50
 
-**51** Desde o sangue de Abel, até ao sangue de Zacarias, que foi morto entre o altar e o templo; assim, vos digo, será requerido desta geração. ^v51
+**51** desde Abel até o sangue de Zacarias, que foi morto entre o altar e o santuário. Sim, eu vos digo, que tudo isso será requerido desta geração. ^v51
 
-**52** Ai de vós, doutores da lei, que tirastes a chave da ciência; vós mesmos não entrastes, e impedistes os que entravam. ^v52
+**52** "Ai de vós, mestres da lei, pois tomastes para vós a chave do conhecimento; vós mesmos não entrastes e ainda impedis os que estão entrando""." ^v52
 
-**53** E, dizendo-lhes ele isto, começaram os escribas e os fariseus a apertá-lo fortemente, e a fazê-lo falar acerca de muitas coisas, ^v53
+**53** Depois que Jesus saiu dali, os escribas e fariseus começaram a hostilizá-Lo terrivelmente e interrogá-Lo a respeito de muitas coisas, ^v53
 
-**54** Armando-lhe ciladas, e procurando apanhar da sua boca alguma coisa para o acusarem. ^v54
+**54** tramando a fim de apanhá-Lo em Suas próprias palavras. ^v54

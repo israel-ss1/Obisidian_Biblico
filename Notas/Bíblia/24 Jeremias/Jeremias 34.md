@@ -1,51 +1,50 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Jeremias|Jeremias]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Jeremias|Jeremias]]"
+tags: [biblia]
 ---
 
 # Jeremias 34
 
-**1** A palavra que do SENHOR veio a Jeremias, quando Nabucodonosor, rei de babilônia, e todo o seu exército, e todos os reinos da terra, que estavam sob o domínio da sua mão, e todos os povos, pelejavam contra Jerusalém, e contra todas as suas cidades, dizendo: ^v1
+**1** Esta é a palavra que veio de Yahweh a Jeremias, quando Nabucodonosor, rei da Babilônia e todo o seu exército, juntamente com todos os reinos da terra, os domínios sob o seu poder, e todo o seu povo que atacavam Jerusalém e todas as suas cidades, dizendo: ^v1
 
-**2** Assim diz o SENHOR, o Deus de Israel: Vai, e fala a Zedequias, rei de Judá, e dize-lhe: Assim diz o SENHOR: Eis que eu entrego esta cidade na mão do rei de babilônia, o qual queimá-la-á a fogo. ^v2
+**2** """Yahweh, o Deus de Israel, diz assim: 'Vai, fala com Zedequias, rei de Judá, e dize-lhe: Assim diz Yahweh: 'Olhai, Eu estou prestes a entregar esta cidade nas mãos do rei da Babilônia, e Ele a queimará." ^v2
 
-**3** E tu não escaparás da sua mão, antes certamente serás preso e entregue na sua mão; e teus olhos verão os olhos do rei de babilônia, e ele te falará boca a boca, e entrarás em babilônia. ^v3
+**3** "Tu não escaparás da mão dele, pois, certamente, serás capturado e entregue em suas mãos. Teus olhos verão o rei da Babilônia; ele falará diretamente contigo. E irás para a Babilônia.""" ^v3
 
-**4** Todavia ouve a palavra do Senhor, ó Zedequias, rei de Judá; assim diz o Senhor acerca de ti: Não morrerás à espada. ^v4
+**4** "Ouve a palavra de Yahweh, Zedequias, rei de Judá! Yahweh diz isto a respeito de ti: ""Tu não morrerás pela espada." ^v4
 
-**5** Em paz morrerás, e conforme as queimas para teus pais, os reis precedentes, que foram antes de ti, assim queimarão para ti, e prantear-te-ão, dizendo: Ah, Senhor! Pois eu disse a palavra, diz o Senhor. ^v5
+**5** "Tu morrerás em paz. Assim como queimavam seus antepassados, os reis antes de ti, em funerais, eles queimarão seu corpo. E dirão: ""Ah, mestre!"" Eles lamentarão por ti. Pois eu falei isto – essa é a declaração de Yahweh.""" ^v5
 
-**6** E falou Jeremias, o profeta, a Zedequias, rei de Judá, todas estas palavras, em Jerusalém, ^v6
+**6** Então, Jeremias, o profeta, proclamou para Zedequias, rei de Judá, todas estas palavras em Jerusalém. ^v6
 
-**7** Quando o exército do rei de babilônia pelejava contra Jerusalém, e contra todas as cidades que restavam de Judá, contra Laquis e contra Azeca; porque estas fortes cidades foram as que ficaram dentre as cidades de Judá. ^v7
+**7** Quando o exército do rei da Babilônia guerreava contra Jerusalém e contra as cidades remanescentes de Judá: Laquis e Azeca, cidades fortificadas, haviam permanecido. ^v7
 
-**8** A palavra que do Senhor veio a Jeremias, depois que o rei Zedequias fez aliança com todo o povo que havia em Jerusalém, para lhes apregoar a liberdade; ^v8
+**8** Esta é a palavra que veio de Yahweh a Jeremias, depois que o rei Zedequias havia estabelecido um acordo com todo o povo de Jerusalém para proclamar liberdade: ^v8
 
-**9** Que cada um despedisse livre o seu servo, e cada um a sua serva, hebreu ou hebréia; de maneira que ninguém se fizesse servir deles, sendo judeus, seus irmãos. ^v9
+**9** Que cada homem libertasse seus escravos hebreus, tanto homens quanto mulheres. Ninguém mais deve escravizar um judeu, que era seu irmão. ^v9
 
-**10** E obedeceram todos os príncipes, e todo o povo que havia entrado na aliança, que cada um despedisse livre o seu servo, e cada um a sua serva, de maneira que não se fizessem mais servir deles; obedeceram, pois, e os soltaram, ^v10
+**10** Então, todos os líderes e pessoas que assinaram o acordo obedeceram. Cada pessoa libertaria seu escravo, homem e mulher e não mais os escravizaria. Eles ouviram e os mandaram embora. ^v10
 
-**11** Mas depois se arrependeram, e fizeram voltar os servos e as servas que haviam libertado, e os sujeitaram por servos e por servas. ^v11
+**11** Mas depois disso, mudaram de idéia. Eles trouxeram de volta os escravos que haviam libertado e os forçaram a se tornarem escravos novamente. ^v11
 
-**12** Veio, pois, a palavra do Senhor a Jeremias, da parte do Senhor, dizendo: ^v12
+**12** Então, a palavra de Yahweh veio a Jeremias, dizendo: ^v12
 
-**13** Assim diz o Senhor, Deus de Israel: Eu fiz aliança com vossos pais, no dia em que os tirei da terra do Egito, da casa da servidão, dizendo: ^v13
+**13** """Yahweh, o Deus de Israel, diz isto: Eu mesmo estabeleci uma aliança com vossos antepassados no dia em que os tirei da terra do Egito, da casa da escravidão, dizendo:" ^v13
 
-**14** Ao fim de sete anos libertareis cada um a seu irmão hebreu, que te for vendido, e te houver servido seis anos, e despedi-lo-ás livre de ti; mas vossos pais não me ouviram, nem inclinaram os seus ouvidos. ^v14
+**14** 'Ao final de sete anos, cada homem deve mandar embora seu irmão, seu companheiro hebreu que se vendeu a ti, e te serviu por seis anos. Manda-o embora em liberdade'. Mas vossos antepassados não Me ouviram, nem prestaram atenção. ^v14
 
-**15** E vos havíeis hoje arrependido, e fizestes o que é reto aos meus olhos, apregoando liberdade cada um ao seu próximo; e fizestes diante de mim uma aliança, na casa que se chama pelo meu nome; ^v15
+**15** Agora, vós mesmos estais arrependidos e começais a fazer o que é certo perante Meus olhos. Proclamastes liberdade, cada homem ao seu vizinho. E vós estabelecestes um acordo perante Mim, na casa que é chamada pelo Meu nome. ^v15
 
-**16** Mudastes, porém, e profanastes o meu nome, e fizestes voltar cada um ao seu servo, e cada um à sua serva, os quais já tínheis despedido libertos conforme a vontade deles; e os sujeitastes, para que se vos fizessem servos e servas. ^v16
+**16** "Mas profanastes Meu nome e voltastes atrás; fizestes cada homem trazer de volta seu escravo, homem e mulher, os que mandaram embora, para irem onde desejassem. Vós os forçastes a vos servirem novamente.""" ^v16
 
-**17** Portanto assim diz o Senhor: Vós não me ouvistes a mim, para apregoardes a liberdade, cada um ao seu irmão, e cada um ao seu próximo; pois eis que eu vos apregôo a liberdade, diz o Senhor, para a espada, para a pestilência, e para a fome; e farei que sejais espanto a todos os reinos da terra. ^v17
+**17** Portanto, Yahweh diz isto: 'Vós mesmos não têm Me escutado. Deverias ter proclamado liberdade, cada um de vós, a teus irmãos e companheiros israelitas. Olhai! Estou prestes a proclamar liberdade, esta é a declaração de Yahweh; liberdade pela espada, pela peste e pela fome; pois Eu farei de vós uma coisa horrível aos olhos de todos os reinos da terra. ^v17
 
-**18** E entregarei os homens que transgrediram a minha aliança, que não cumpriram as palavras da aliança que fizeram diante de mim, com o bezerro, que dividiram em duas partes, e passaram pelo meio das suas porções; ^v18
+**18** Então, eu lidarei com as pessoas que transgrediram Minha aliança, que não mantiveram as palavras do acordo que estabeleceram diante de Mim, quando cortaram um bezerro em dois, e andaram entre suas partes, ^v18
 
-**19** A saber, os príncipes de Judá, e os príncipes de Jerusalém, os eunucos, e os sacerdotes, e todo o povo da terra que passou por meio das porções do bezerro; ^v19
+**19** isto é, os líderes de Judá e Jerusalém, os oficiais e os sacerdotes, e todo o povo da terra que andaram entre as partes do bezerro. ^v19
 
-**20** Entregá-los-ei, digo, na mão de seus inimigos, e na mão dos que procuram a sua morte, e os cadáveres deles servirão de alimento para as aves dos céus e para os animais da terra. ^v20
+**20** Eu os entregarei nas mãos dos seus inimigos e dos que querem suas vidas. Seus corpos serão alimento para os pássaros dos céus e para as feras da terra. ^v20
 
-**21** E até o rei Zedequias, rei de Judá, e seus príncipes entregarei na mão de seus inimigos e na mão dos que procuram a sua morte, a saber, na mão do exército do rei de babilônia, que já se retirou de vós. ^v21
+**21** Então, entregarei Zedequias, rei de Judá, e os seus líderes nas mãos dos seus inimigos, e daqueles que procuram matá-los, e na mão do exército do rei da Babilônia, que tem-se levantado contra vós. ^v21
 
-**22** Eis que eu darei ordem, diz o Senhor, e os farei voltar a esta cidade, e pelejarão contra ela, e a tomarão, e a queimarão a fogo; e as cidades de Judá porei em assolação, de sorte que ninguém habite nelas. ^v22
+**22** "Olhai, estou prestes a dar-lhes uma ordem – esta é a declaração de Yahweh – e os trarei de volta a esta cidade para guerrear contra vós, tomá-los, e queimá-los. Porque tornarei as cidades de Judá em ruínas, onde não haverá habitantes.""" ^v22

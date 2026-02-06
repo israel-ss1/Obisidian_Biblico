@@ -1,69 +1,68 @@
 ---
-Livro: "[[Juízes|Juízes]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Juízes|Juízes]]"
+tags: [biblia]
 ---
 
 # Juízes 16
 
-**1** E foi Sansão a Gaza, e viu ali uma mulher prostituta, e entrou a ela. ^v1
+**1** Sansão foi a Gaza e viu lá uma prostituta; então, deitou-se com ela. ^v1
 
-**2** E foi dito aos gazitas: Sansão entrou aqui. Cercaram-no, e toda a noite lhe puseram espias à porta da cidade; porém toda a noite estiveram quietos, dizendo: Até à luz da manhã esperaremos; então o mataremos. ^v2
+**2** "E falaram aos gazitas: ""Sansão está aqui"". Os gazitas cercaram o lugar em segredo, e o esperaram durante toda a noite junto ao portão da cidade. Eles se mantiveram quietos durante toda a noite. Disseram: ""Esperemos até o dia amanhecer, então o mataremos""." ^v2
 
-**3** Porém Sansão deitou-se até à meia-noite, e à meia-noite se levantou, e arrancou as portas da entrada da cidade com ambas as umbreiras, e juntamente com a tranca as tomou, pondo-as sobre os ombros; e levou-as para cima até ao cume do monte que está defronte de Hebrom. ^v3
+**3** Mas Sansão ficou na cama só até a meia-noite. Então, ele se levantou e pegou os portões da cidade e suas duas colunas. Ele os arrancou do chão, com tranca e tudo, colocou-os sobre os ombros, e carregou-os até o topo da colina defronte de Hebrom. ^v3
 
-**4** E depois disto aconteceu que se afeiçoou a uma mulher do vale de Soreque, cujo nome era Dalila. ^v4
+**4** Algum tempo depois, Sansão apaixonou-se por uma mulher que habitava no vale de Soreque. Seu nome era Dalila. ^v4
 
-**5** Então os príncipes dos filisteus subiram a ela, e lhe disseram: Persuade-o, e vê em que consiste a sua grande força, e como poderíamos assenhorear-nos dele e amarrá-lo, para assim o afligirmos; e te daremos, cada um de nós, mil e cem moedas de prata. ^v5
+**5** "Os chefes dos filisteus vieram até ela e lhe disseram: ""Engana Sansão para ver de onde vem a sua grande força, e como poderemos prevalecer sobre ele, como amarrá-lo sem que se solte, a fim de humilhá-lo. Faze isso, e cada um de nós te daremos mil e cem peças de prata""." ^v5
 
-**6** Disse, pois, Dalila a Sansão: Declara-me, peço-te, em que consiste a tua grande força, e com que poderias ser amarrado para te poderem afligir. ^v6
+**6** "Então, Dalila disse a Sansão: ""Por favor, conta-me por que tu és tão forte, e como alguém poderia amarrar-te para que fosses dominado?""." ^v6
 
-**7** Disse-lhe Sansão: Se me amarrassem com sete vergas de vimes frescos, que ainda não estivessem secos, então me enfraqueceria, e seria como qualquer outro homem. ^v7
+**7** "Sansão disse a ela: ""Se me amarrarem com sete cordas frescas de arco, que não forem secas, então me tornarei fraco, como qualquer outro homem""." ^v7
 
-**8** Então os príncipes dos filisteus lhe trouxeram sete vergas de vimes frescos, que ainda não estavam secos; e amarraram-no com elas. ^v8
+**8** Então, os governantes dos filisteus trouxeram a Dalila sete cordas frescas de arco, que ainda não se haviam secado, com as quais ela amarrou Sansão. ^v8
 
-**9** E o espia estava com ela na câmara interior. Então ela lhe disse: Os filisteus vêm sobre ti, Sansão. Então quebrou as vergas de vimes, como se quebra o fio da estopa ao cheiro do fogo; assim não se soube em que consistia a sua força. ^v9
+**9** "Dalila mantinha homens escondidos no interior do seu quarto. Ela disse a Sansão: ""Os filisteus estão vindo sobre ti, Sansão!"". Mas ele arrebentou as cordas frescas de arco como um fio de estopa quando toca o fogo. Assim, o segredo de sua força não foi descoberto." ^v9
 
-**10** Então disse Dalila a Sansão: Eis que zombaste de mim, e me disseste mentiras; ora declara-me agora com que poderias ser amarrado. ^v10
+**10** "Dalila disse a Sansão: ""Tu me enganaste e me contaste mentiras. Por favor, conta-me como tu podes ser dominado""." ^v10
 
-**11** E ele disse: Se me amarrassem fortemente com cordas novas, que ainda não houvessem sido usadas, então me enfraqueceria, e seria como qualquer outro homem. ^v11
+**11** "Ele lhe disse: ""Se me amarrarem com cordas novas, que nunca foram usadas para o trabalho, eu me tornarei fraco como qualquer outro homem""." ^v11
 
-**12** Então Dalila tomou cordas novas, e o amarrou com elas, e disse-lhe: Os filisteus vêm sobre ti, Sansão. E o espia estava na recâmara interior. Então as quebrou de seus braços como a um fio. ^v12
+**12** "Então, Dalila pegou cordas novas e o amarrou com elas. Depois disse: ""Os filisteus estão vindo sobre ti, Sansão!"". Homens estavam à espera no interior do quarto. Mas Sansão rompeu as cordas dos seus braços como se fossem um pedaço de linha." ^v12
 
-**13** E disse Dalila a Sansão: Até agora zombaste de mim, e me disseste mentiras; declara-me pois, agora, com que poderias ser amarrado? E ele lhe disse: Se teceres sete tranças dos cabelos da minha cabeça com os liços da teia. ^v13
+**13** "Dalila disse a Sansão: ""Até agora tu me enganaste e me contaste mentiras. Conta-me como podes ser dominado"". Sansão lhe disse: ""Se teceres as sete tranças do meu cabelo com um tecido em um tear, e pregar-lhe ao tear, serei como qualquer outro homem""." ^v13
 
-**14** E ela as fixou com uma estaca, e disse-lhe: Os filisteus vêm sobre ti, Sansão: Então ele despertou do seu sono, e arrancou a estaca das tranças tecidas, juntamente com o liço da teia. ^v14
+**14** "Enquanto ele dormia, Dalila amarrou as setes tranças do seu cabelo com um tecido em um tear, e pregou-as ao tear. Depois, ela lhe disse: ""Os filisteus estão vindo sobre ti, Sansão!"". Ele acordou do seu sono e arrancou o tecido e o prego do tear." ^v14
 
-**15** Então ela lhe disse: Como dirás: Tenho-te amor, não estando comigo o teu coração? Já três vezes zombaste de mim, e ainda não me declaraste em que consiste a tua força. ^v15
+**15** "Disse-lhe ela: ""Como podes dizer-me, 'Eu te amo', quando não compartilhas os teus segredos comigo? Tu zombaste de mim estas três vezes, e não me disseste como tens tão grande força""." ^v15
 
-**16** E sucedeu que, importunando-o ela todos os dias com as suas palavras, e molestando-o, a sua alma se angustiou até a morte. ^v16
+**16** Todos os dias, ela o pressionava com suas palavras; e o pressionou tanto, que ele desejava estar morto. ^v16
 
-**17** E descobriu-lhe todo o seu coração, e disse-lhe: Nunca passou navalha pela minha cabeça, porque sou nazireu de Deus desde o ventre de minha mãe; se viesse a ser rapado, ir-se-ia de mim a minha força, e me enfraqueceria, e seria como qualquer outro homem. ^v17
+**17** "Então, Sansão contou tudo a ela, dizendo: ""Nunca foi passada navalha em minha cabeça, pois sou nazireu de Deus desde o útero de minha mãe. Se a minha cabeça for raspada, então, minha força me deixará e eu me tornarei fraco como qualquer outro homem""." ^v17
 
-**18** Vendo, pois, Dalila que já lhe descobrira todo o seu coração, mandou chamar os príncipes dos filisteus, dizendo: Subi esta vez, porque agora me descobriu ele todo o seu coração. E os príncipes dos filisteus subiram a ter com ela, trazendo com eles o dinheiro. ^v18
+**18** "Quando Dalila viu que ele tinha contado toda a verdade, ela chamou os governantes dos filisteus, dizendo: ""Vinde outra vez, pois ele me disse tudo"". E eles foram até ela, trazendo a prata em suas mãos." ^v18
 
-**19** Então ela o fez dormir sobre os seus joelhos, e chamou a um homem, e rapou-lhe as sete tranças do cabelo de sua cabeça; e começou a afligi-lo, e retirou-se dele a sua força. ^v19
+**19** Ela havia feito Sansão adormecer em seu colo. Assim, chamou um homem para raspar suas sete tranças da cabeça. Ela começou a subjugá-lo, pois a força dele o havia deixado. ^v19
 
-**20** E disse ela: Os filisteus vêm sobre ti, Sansão. E despertou ele do seu sono, e disse: Sairei ainda esta vez como dantes, e me sacudirei. Porque ele não sabia que já o Senhor se tinha retirado dele. ^v20
+**20** "Dalila disse: ""Os filisteus estão vindo sobre ti, Sansão!"". Ele acordou do seu sono, dizendo: ""Sairei como as outras vezes, e ficarei livre"". Mas ele não sabia que Yahweh o havia deixado." ^v20
 
-**21** Então os filisteus pegaram nele, e arrancaram-lhe os olhos, e fizeram-no descer a Gaza, e amarraram-no com duas cadeias de bronze, e girava ele um moinho no cárcere. ^v21
+**21** Os filisteus capturaram-no e arrancaram-lhe os olhos. Levaram-no para Gaza, o amarraram com grilhões de bronze e o fizeram girar a pedra de moinho da prisão. ^v21
 
-**22** E o cabelo da sua cabeça começou a crescer, como quando foi rapado. ^v22
+**22** Mas o cabelo em sua cabeça começou a crescer novamente, depois que havia sido raspado. ^v22
 
-**23** Então os príncipes dos filisteus se ajuntaram para oferecer um grande sacrifício ao seu deus Dagom, e para se alegrarem, e diziam: Nosso deus nos entregou nas mãos a Sansão, nosso inimigo. ^v23
+**23** "Então, os governantes filisteus reuniram-se para oferecer um grande sacrifício a Dagom, seu deus, para comemorar. Eles diziam: ""Nosso deus derrotou Sansão, nosso inimigo, e o deu em nossas mãos""." ^v23
 
-**24** Semelhantemente, vendo-o o povo, louvava ao seu deus; porque dizia: Nosso deus nos entregou nas mãos o nosso inimigo, e ao que destruía a nossa terra, e ao que multiplicava os nossos mortos. ^v24
+**24** "Quando o povo o viu, louvaram o seu deus, e disseram: ""Nosso deus derrotou o nosso inimigo e o entregou a nós; o destruidor do nosso país, que matou muitos dos nossos""." ^v24
 
-**25** E sucedeu que, alegrando-se-lhes o coração, disseram: Chamai a Sansão, para que brinque diante de nós. E chamaram a Sansão do cárcere, que brincava diante deles, e fizeram-no estar em pé entre as colunas. ^v25
+**25** "Quando eles estavam celebrando, disseram: ""Chamai Sansão, para que ele nos faça rir"". Chamaram Sansão para fora da prisão, para fazê-los rir. Fizeram-no ficar de pé entre os pilares." ^v25
 
-**26** Então disse Sansão ao moço que o tinha pela mão: Guia-me para que apalpe as colunas em que se sustém a casa, para que me encoste a elas. ^v26
+**26** "Sansão disse ao jovem que segurava sua mão: ""Deixa-me tocar os pilares nos quais o prédio se sustenta, para que eu me apoie neles""." ^v26
 
-**27** Ora estava a casa cheia de homens e mulheres; e também ali estavam todos os príncipes dos filisteus; e sobre o telhado havia uns três mil homens e mulheres, que estavam vendo Sansão brincar. ^v27
+**27** Ora, a casa estava cheia de homens e mulheres, e todos os governantes dos filisteus estavam lá. No terraço, havia cerca de três mil homens e mulheres olhando, enquanto Sansão os estava entretendo. ^v27
 
-**28** Então Sansão clamou ao SENHOR, e disse: Senhor DEUS, peço-te que te lembres de mim, e fortalece-me agora só esta vez, ó Deus, para que de uma vez me vingue dos filisteus, pelos meus dois olhos. ^v28
+**28** "Sansão clamou a Yahweh, dizendo: ""Senhor Yahweh, lembra-Te de mim! Por favor, fortalece-me somente esta única vez, Deus, para que eu me vingue, em um só golpe, dos filisteus, por arrancarem os meus dois olhos""." ^v28
 
-**29** Abraçou-se, pois, Sansão com as duas colunas do meio, em que se sustinha a casa, e arrimou-se sobre elas, com a sua mão direita numa, e com a sua esquerda na outra. ^v29
+**29** Sansão agarrou-se aos dois pilares do meio, nos quais o prédio se sustentava, e ele os empurrou, um pilar com sua mão direita, e o outro com a esquerda. ^v29
 
-**30** E disse Sansão: Morra eu com os filisteus. E inclinou-se com força, e a casa caiu sobre os príncipes e sobre todo o povo que nela havia; e foram mais os mortos que matou na sua morte do que os que matara em sua vida. ^v30
+**30** "Sansão disse: ""Que eu morra com os filisteus!"". Ele empurrou com sua força, e o prédio caiu sobre os governantes e sobre todas as pessoas que lá estavam. Assim, as pessoas que ele matou quando morreu foram em maior número do que as que ele matou durante a sua vida." ^v30
 
-**31** Então seus irmãos desceram, e toda a casa de seu pai, e tomaram-no, e subiram com ele, e sepultaram-no entre Zorá e Estaol, no sepulcro de Manoá, seu pai. Ele julgou a Israel vinte anos. ^v31
+**31** Então, seus irmãos e toda a casa de seu pai desceram, tomaram-no e o levaram de volta. Eles o enterraram entre Zorá e Estaol, no túmulo de Manoá, seu pai. Sansão julgou Israel por vinte anos. ^v31

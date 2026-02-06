@@ -1,73 +1,72 @@
 ---
-Livro: "[[Gênesis|Gênesis]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Gênesis|Gênesis]]"
+tags: [biblia]
 ---
 
 # Gênesis 18
 
-**1** Depois apareceu-lhe o Senhor nos carvalhais de Manre, estando ele assentado à porta da tenda, no calor do dia ^v1
+**1** Yahweh apareceu a Abraão nos carvalhais de Manre, quando ele estava sentado à entrada da tenda, no maior calor do dia. ^v1
 
-**2** E levantou os seus olhos, e olhou, e eis três homens em pé junto a ele. E vendo-os, correu da porta da tenda ao seu encontro e inclinou-se à terra, ^v2
+**2** Eis que Abraão olhou para cima e viu três homens de pé, à sua frente. Quando os avistou, correu de onde estava para encontrá-los e prostou-se em terra. ^v2
 
-**3** E disse: Meu Senhor, se agora tenho achado graça aos teus olhos, rogo-te que não passes de teu servo. ^v3
+**3** "Ele disse: ""Senhor, se encontrei favor aos Teus olhos, não passes de Teu servo." ^v3
 
-**4** Que se traga já um pouco de água, e lavai os vossos pés, e recostai-vos debaixo desta árvore; ^v4
+**4** Mandarei trazer um pouco de água; lavai os pés e descansai debaixo da árvore. ^v4
 
-**5** E trarei um bocado de pão, para que esforceis o vosso coração; depois passareis adiante, porquanto por isso chegastes até vosso servo. E disseram: Assim faze como disseste. ^v5
+**5** "Trarei um pouco de pão; refazei as vossas forças, porque chegaste até o vosso servo e depois seguireis adiante"". E responderam: ""Faz como disseste""." ^v5
 
-**6** E Abraão apressou-se em ir ter com Sara à tenda, e disse-lhe: Amassa depressa três medidas de flor de farinha, e faze bolos. ^v6
+**6** "Então, Abraão rapidamente entrou na tenda e falou com Sara: ""Apressa-te, pega três medidas de farinha fina, amassa-as e faz bolos""." ^v6
 
-**7** E correu Abraão às vacas, e tomou uma vitela tenra e boa, e deu-a ao moço, que se apressou em prepará-la. ^v7
+**7** Então Abraão correu ao seu rebanho, pegou um bezerro novo e bom e entregou-o a seu servo, que se apressou em prepará-lo. ^v7
 
-**8** E tomou manteiga e leite, e a vitela que tinha preparado, e pôs tudo diante deles, e ele estava em pé junto a eles debaixo da árvore; e comeram. ^v8
+**8** Pegou coalhada, leite e o bezerro que havia sido preparado, serviu-lhes e permaneceu em pé diante deles, enquanto comiam debaixo da árvore. ^v8
 
-**9** E disseram-lhe: Onde está Sara, tua mulher? E ele disse: Ei-la aí na tenda. ^v9
+**9** "Eles perguntaram a Abraão: ""Onde está tua mulher, Sara?"" Ele respondeu: ""Está ali na tenda""." ^v9
 
-**10** E disse: Certamente tornarei a ti por este tempo da vida; e eis que Sara tua mulher terá um filho. E Sara escutava à porta da tenda, que estava atrás dele. ^v10
+**10** "E disse: ""Certamente voltarei a ti em um ano, e tua mulher, Sara, terá um filho"". Sara estava escutando à entrada da tenda, atrás dele." ^v10
 
-**11** E eram Abraão e Sara já velhos, e adiantados em idade; já a Sara havia cessado o costume das mulheres. ^v11
+**11** Abraão e Sara estavam velhos, com a idade bem avançada; além disso, Sara já havia passado da idade de gerar filhos. ^v11
 
-**12** Assim, pois, riu-se Sara consigo, dizendo: Terei ainda deleite depois de haver envelhecido, sendo também o meu senhor já velho? ^v12
+**12** "Então Sara riu e falou para si mesma: ""Terei eu prazer depois de idosa, sendo meu senhor também já velho?""." ^v12
 
-**13** E disse o Senhor a Abraão: Por que se riu Sara, dizendo: Na verdade darei eu à luz ainda, havendo já envelhecido? ^v13
+**13** "Yahweh disse a Abraão: ""Por qual motivo Sara ri e diz: 'Poderei eu ter um filho, sendo idosa?'" ^v13
 
-**14** Haveria coisa alguma difícil ao Senhor? Ao tempo determinado tornarei a ti por este tempo da vida, e Sara terá um filho. ^v14
+**14** "Haveria alguma coisa difícil demais para Yahweh? Daqui a um ano, no tempo determinado, retornarei a ti, e Sara terá um filho""." ^v14
 
-**15** E Sara negou, dizendo: Não me ri; porquanto temeu. E ele disse: Não digas isso, porque te riste. ^v15
+**15** "Então Sara negou e disse: ""Eu não ri"", pois ela teve medo. Ele retrucou: ""Não! Tu riste""." ^v15
 
-**16** E levantaram-se aqueles homens dali, e olharam para o lado de Sodoma; e Abraão ia com eles, acompanhando-os. ^v16
+**16** Então os homens levantaram-se dali e olharam na direção de Sodoma. Abraão foi junto com eles para encaminhá-los. ^v16
 
-**17** E disse o Senhor: Ocultarei eu a Abraão o que faço, ^v17
+**17** "E Yahweh disse: ""Esconderei Eu de Abraão o que estou prestes a fazer," ^v17
 
-**18** Visto que Abraão certamente virá a ser uma grande e poderosa nação, e nele serão benditas todas as nações da terra? ^v18
+**18** visto que ele será uma grande e poderosa nação, e todas as nações da terra serão abençoadas nele? ^v18
 
-**19** Porque eu o tenho conhecido, e sei que ele há de ordenar a seus filhos e à sua casa depois dele, para que guardem o caminho do Senhor, para agir com justiça e juízo; para que o Senhor faça vir sobre Abraão o que acerca dele tem falado. ^v19
+**19** "Porque Eu o escolhi para que ordene seus filhos e sua descedência a permanecerem nos caminhos de Yahweh, para praticarem a justiça e juízo, e para que Yahweh cumpra o que disse a Abraão""." ^v19
 
-**20** Disse mais o Senhor: Porquanto o clamor de Sodoma e Gomorra se tem multiplicado, e porquanto o seu pecado se tem agravado muito, ^v20
+**20** "Então Yahweh disse: ""O clamor de Sodoma e Gomorra tornou-se grande , e a transgressão deles se agravou muito;" ^v20
 
-**21** Descerei agora, e verei se com efeito têm praticado segundo o seu clamor, que é vindo até mim; e se não, sabê-lo-ei. ^v21
+**21** "descerei agora e verei se, de fato, tudo o que têm feito corresponde ao clamor que tem chegado a Mim. Caso contrário, saberei""." ^v21
 
-**22** Então viraram aqueles homens os rostos dali, e foram-se para Sodoma; mas Abraão ficou ainda em pé diante da face do Senhor. ^v22
+**22** Então os homens viraram e foram em direção a Sodoma, mas Abraão permaneceu perante Yahweh. ^v22
 
-**23** E chegou-se Abraão, dizendo: Destruirás também o justo com o ímpio? ^v23
+**23** "E Abraão aproximou-se e disse: ""Acaso destruirás o justo com o ímpio?" ^v23
 
-**24** Se porventura houver cinqüenta justos na cidade, destruirás também, e não pouparás o lugar por causa dos cinqüenta justos que estão dentro dela? ^v24
+**24** Se houver cinquenta justos na cidade, destruirás e não pouparás o lugar por causa dos cinquenta justos que estão ali? ^v24
 
-**25** Longe de ti que faças tal coisa, que mates o justo com o ímpio; que o justo seja como o ímpio, longe de ti. Não faria justiça o Juiz de toda a terra? ^v25
+**25** "Longe de Ti fazer tal coisa, matar o justo com o ímpio, como se o justo fosse igual ao ímpio. Longe de Ti! Acaso o Juiz de toda terra não fará o que é justo?""." ^v25
 
-**26** Então disse o Senhor: Se eu em Sodoma achar cinqüenta justos dentro da cidade, pouparei a todo o lugar por amor deles. ^v26
+**26** "Yahweh disse: ""Se Eu encontrar em Sodoma cinquenta justos, pouparei a cidade toda por causa deles""." ^v26
 
-**27** E respondeu Abraão dizendo: Eis que agora me atrevi a falar ao Senhor, ainda que sou pó e cinza. ^v27
+**27** "E respondeu Abraão: ""Eis que me atrevo a falar ao Senhor, embora seja somente pó e cinza." ^v27
 
-**28** Se porventura de cinqüenta justos faltarem cinco, destruirás por aqueles cinco toda a cidade? E disse: Não a destruirei, se eu achar ali quarenta e cinco. ^v28
+**28** "E, se de cinquenta justos faltarem cinco, destruirás a cidade inteira por causa dos cinco?"" E disse: ""Não destruirei, se ali encontrar quarenta e cinco""." ^v28
 
-**29** E continuou ainda a falar-lhe, e disse: Se porventura se acharem ali quarenta? E disse: Não o farei por amor dos quarenta. ^v29
+**29** "E Abraão disse novamente: ""O que acontecerá se encontrares quarenta ali?"" Ele respondeu: ""Não o farei por causa dos quarenta""." ^v29
 
-**30** Disse mais: Ora, não se ire o Senhor, se eu ainda falar: Se porventura se acharem ali trinta? E disse: Não o farei se achar ali trinta. ^v30
+**30** "Ele disse: ""Por favor, não fique bravo o Senhor por eu falar novamente. E se forem encontrados trinta, ali?"" Ele disse: ""Não o farei, se encontrar trinta ali""." ^v30
 
-**31** E disse: Eis que agora me atrevi a falar ao Senhor: Se porventura se acharem ali vinte? E disse: Não a destruirei por amor dos vinte. ^v31
+**31** "E disse: ""Não fique bravo o Senhor, falarei ainda esta vez. E se forem encontrados vinte, ali?"". Ele respondeu: ""Não destruirei por causa dos vinte""." ^v31
 
-**32** Disse mais: Ora, não se ire o Senhor, que ainda só mais esta vez falo: Se porventura se acharem ali dez? E disse: Não a destruirei por amor dos dez. ^v32
+**32** "E disse: ""Por favor, não fique bravo o Senhor, falarei ainda esta vez. E se forem encontrados dez ali?"" Ele respondeu: ""Não os destruirei por causa dos dez""." ^v32
 
-**33** E retirou-se o Senhor, quando acabou de falar a Abraão; e Abraão tornou-se ao seu lugar. ^v33
+**33** Yahweh continuou Seu caminho assim que terminou de falar com Abraão, e este retornou para sua casa. ^v33

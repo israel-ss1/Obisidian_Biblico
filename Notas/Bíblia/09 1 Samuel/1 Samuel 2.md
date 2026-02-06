@@ -1,79 +1,78 @@
 ---
-Livro: "[[1 Samuel|1 Samuel]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/1 Samuel|1 Samuel]]"
+tags: [biblia]
 ---
 
 # 1 Samuel 2
 
-**1** Então orou Ana, e disse: O meu coração exulta ao SENHOR, o meu poder está exaltado no SENHOR; a minha boca se dilatou sobre os meus inimigos, porquanto me alegro na tua salvação. ^v1
+**1** "1 Ana orou e disse: ""O meu coração exulta em Yahweh. Minha força é exaltada em Yahweh. A minha boca sorri de meus inimigos, porquanto me alegro na Tua salvação." ^v1
 
-**2** Não há santo como o Senhor; porque não há outro fora de ti; e rocha nenhuma há como o nosso Deus. ^v2
+**2** Não há santo como Yahweh, pois não há ninguém além de Ti; não há rocha como o nosso Deus. ^v2
 
-**3** Não multipliqueis palavras de altivez, nem saiam coisas arrogantes da vossa boca; porque o Senhor é o Deus de conhecimento, e por ele são as obras pesadas na balança. ^v3
+**3** Não mais te vanglories tão orgulhosamente; não permitas que qualquer arrogância saia de tua boca. Pois Yahweh é um Deus de sabedoria; por meio Dele as ações são julgadas. ^v3
 
-**4** O arco dos fortes foi quebrado, e os que tropeçavam foram cingidos de força. ^v4
+**4** Os arcos dos homens poderosos são quebrados, mas aqueles que tropeçam são revestidos de força, como um cinto. ^v4
 
-**5** Os fartos se alugaram por pão, e cessaram os famintos; até a estéril deu à luz sete filhos, e a que tinha muitos filhos enfraqueceu. ^v5
+**5** Os que eram fartos alugam-se por pão; aqueles que eram famintos não mais têm fome. Mesmo a estéril dá à luz sete, mas a mulher que tem muitos filhos se enfraquece. ^v5
 
-**6** O Senhor é o que tira a vida e a dá; faz descer à sepultura e faz tornar a subir dela. ^v6
+**6** Yahweh mata e traz à vida. Ele leva à sepultura e ressuscita. ^v6
 
-**7** O Senhor empobrece e enriquece; abaixa e também exalta. ^v7
+**7** Yahweh faz o pobre, e faz o rico. Ele humilha, mas Ele também levanta. ^v7
 
-**8** Levanta o pobre do pó, e desde o monturo exalta o necessitado, para o fazer assentar entre os príncipes, para o fazer herdar o trono de glória; porque do Senhor são os alicerces da terra, e assentou sobre eles o mundo. ^v8
+**8** Ele levanta o pobre do pó. Ele levanta o necessitado do monte de cinzas para fazê-lo sentar-se com príncipes e herdar o assento de honra. Porque os pilares da terra são de Yahweh e Ele estabeleceu o mundo sobre eles. ^v8
 
-**9** Os pés dos seus santos guardará, porém os ímpios ficarão mudos nas trevas; porque o homem não prevalecerá pela força. ^v9
+**9** Ele guardará os pés daqueles que Lhe são fiéis, mas o ímpio será colocado para silenciar em trevas, porque ninguém prevalecerá por força. ^v9
 
-**10** Os que contendem com o Senhor serão quebrantados, desde os céus trovejará sobre eles; o Senhor julgará as extremidades da terra; e dará força ao seu rei, e exaltará o poder do seu ungido. ^v10
+**10** "Aqueles que se opõem a Yahweh serão quebrados em pedaços; Ele vai trovejar contra eles do céu. Yahweh julgará as extremidades da terra; dará força ao Seu rei e exaltará o poder do Seu ungido""." ^v10
 
-**11** Então Elcana foi a Ramá, à sua casa; porém o menino ficou servindo ao Senhor, perante o sacerdote Eli. ^v11
+**11** Então, Elcana foi para sua casa em Ramá. A criança servia Yahweh na presença de Eli, o sacerdote. ^v11
 
-**12** Eram, porém, os filhos de Eli filhos de Belial; não conheciam ao Senhor. ^v12
+**12** Os filhos de Eli eram homens ímpios. Eles não conheciam Yahweh. ^v12
 
-**13** Porquanto o costume daqueles sacerdotes com o povo era que, oferecendo alguém algum sacrifício, estando-se cozendo a carne, vinha o moço do sacerdote, com um garfo de três dentes em sua mão; ^v13
+**13** O costume dos sacerdotes com o povo era que, quando qualquer homem oferecia um sacrifício, o servo do sacerdote vinha com um garfo de três dentes em sua mão, enquanto a carne estava cozinhando. ^v13
 
-**14** E enfiava-o na caldeira, ou na panela, ou no caldeirão, ou na marmita; e tudo quanto o garfo tirava, o sacerdote tomava para si; assim faziam a todo o Israel que ia ali a Siló. ^v14
+**14** Ele a espetava dentro da panela, ou tacho, ou caldeirão, ou pote. Tudo o que o garfo trouxesse, o sacerdote levaria para si mesmo. Eles faziam isto em Siló com todos os israelitas que ali vinham. ^v14
 
-**15** Também antes de queimarem a gordura vinha o moço do sacerdote, e dizia ao homem que sacrificava: Dá essa carne para assar ao sacerdote; porque não receberá de ti carne cozida, mas crua. ^v15
+**15** "Porém, em vez disso, antes que eles queimassem a gordura, o servo do sacerdote vinha e dizia ao homem que estava sacrificando: ""Dá carne de assar para o sacerdote, pois ele não aceitará carne cozida de ti, mas somente crua""." ^v15
 
-**16** E, dizendo-lhe o homem: Queime-se primeiro a gordura de hoje, e depois toma para ti quanto desejar a tua alma, então ele lhe dizia: Não, agora a hás de dar, e, se não, por força a tomarei. ^v16
+**16** "Se o homem dissesse para ele: ""Eles devem queimar a gordura primeiro, e depois levarás tanto quanto tu quiseres"", então ele dizia: ""Não. Tu me darás agora, senão vou tomá-la por força""." ^v16
 
-**17** Era, pois, muito grande o pecado destes moços perante o Senhor, porquanto os homens desprezavam a oferta do Senhor. ^v17
+**17** O pecado desses jovens era muito grande diante de Yahweh, pois eles desprezavam a oferta de Yahweh. ^v17
 
-**18** Porém Samuel ministrava perante o Senhor, sendo ainda jovem, vestido com um éfode de linho. ^v18
+**18** Mas Samuel servia Yahweh como uma criança, vestido de um colete sacerdotal de linho. ^v18
 
-**19** E sua mãe lhe fazia uma túnica pequena, e de ano em ano lha trazia, quando com seu marido subia para oferecer o sacrifício anual. ^v19
+**19** Sua mãe lhe fazia uma pequena túnica e a trazia, ano após ano, quando ela e seu marido subiam para oferecer o sacrifício anual. ^v19
 
-**20** E Eli abençoava a Elcana e a sua mulher, e dizia: O Senhor te dê descendência desta mulher, pela petição que fez ao Senhor. E voltavam para o seu lugar. ^v20
+**20** "Eli abençoava Elcana e sua mulher e dizia: ""Que Yahweh te dê mais filhos desta mulher, por causa do pedido que ela fez a Yahweh"". Então, eles retornavam à sua própria casa." ^v20
 
-**21** Visitou, pois, o Senhor a Ana, que concebeu, e deu à luz três filhos e duas filhas; e o jovem Samuel crescia diante do Senhor. ^v21
+**21** Yahweh novamente ajudou Ana, e ela novamente engravidou. Ela teve três filhos e duas filhas. Enquanto isso, o menino Samuel crescia diante de Yahweh. ^v21
 
-**22** Era, porém, Eli já muito velho, e ouvia tudo quanto seus filhos faziam a todo o Israel, e de como se deitavam com as mulheres que em bandos se ajuntavam à porta da tenda da congregação. ^v22
+**22** Eli estava muito velho; ele ouvia a respeito de tudo o que seus filhos faziam a todo o Israel e como se deitavam com as mulheres que serviam à entrada da Tenda de encontro. ^v22
 
-**23** E disse-lhes: Por que fazeis tais coisas? Pois ouço de todo este povo os vossos malefícios. ^v23
+**23** "Ele lhes disse: ""Por que fazeis tais coisas? Pois de todas as pessoas ouço sobre seus maus procedimentos." ^v23
 
-**24** Não, filhos meus, porque não é boa esta fama que ouço; fazeis transgredir o povo do Senhor. ^v24
+**24** Não, meus filhos, não é bom esse comentário que ouço. Vós fazeis o povo de Yahweh desobedecer a Ele. ^v24
 
-**25** Pecando homem contra homem, os juízes o julgarão; pecando, porém, o homem contra o Senhor, quem rogará por ele? Mas não ouviram a voz de seu pai, porque o Senhor os queria matar. ^v25
+**25** "Se um homem peca contra outro, Deus o julgará; mas se um homem peca contra Yahweh, quem vai falar por ele?"". Mas eles não queriam ouvir a voz de seu pai, porque Yahweh tinha intenção de matá-los." ^v25
 
-**26** E o jovem Samuel ia crescendo, e fazia-se agradável, assim para com o Senhor, como também para com os homens. ^v26
+**26** O menino Samuel crescia em estatura e graça diante de Yahweh e também dos homens. ^v26
 
-**27** E veio um homem de Deus a Eli, e disse-lhe: Assim diz o Senhor: Não me manifestei, na verdade, à casa de teu pai, estando eles ainda no Egito, na casa de Faraó? ^v27
+**27** "Um homem de Deus veio a Eli e disse-lhe: ""Yahweh diz: 'Eu não me revelei à casa de teu antepassado quando, no Egito, eles estavam em cativeiro, sob domínio de Faraó?" ^v27
 
-**28** E eu o escolhi dentre todas as tribos de Israel por sacerdote, para oferecer sobre o meu altar, para acender o incenso, e para trazer o éfode perante mim; e dei à casa de teu pai todas as ofertas queimadas dos filhos de Israel. ^v28
+**28** Eu o escolhi dentre todas as tribos de Israel para ser Meu sacerdote, subir ao Meu altar, queimar incenso e vestir um colete sacerdotal perante Mim. Eu dei à família de teu ancestral todas as ofertas queimadas do povo de Israel. ^v28
 
-**29** Por que pisastes o meu sacrifício e a minha oferta de alimentos, que ordenei na minha morada, e honras a teus filhos mais do que a mim, para vos engordardes do principal de todas as ofertas do meu povo de Israel? ^v29
+**29** Por que, então, tu desprezas os sacrifícios e ofertas que exigi no lugar onde Eu moro? Por que tu honras teus filhos acima de mim, engordando-os com o melhor de toda a oferta do Meu povo Israel?' ^v29
 
-**30** Portanto, diz o Senhor Deus de Israel: Na verdade tinha falado eu que a tua casa e a casa de teu pai andariam diante de mim perpetuamente; porém agora diz o Senhor: Longe de mim tal coisa, porque aos que me honram honrarei, porém os que me desprezam serão desprezados. ^v30
+**30** Porque Yahweh, o Deus de Israel, diz: 'Eu prometi que a tua família e a casa de teu ancestral andariam diante de mim perpetuamente'. Mas agora Yahweh diz: 'Longe de Mim fazer isso, porque Eu honrarei aqueles que Me honram, mas os que Me desprezam serão desprezados. ^v30
 
-**31** Eis que vêm dias em que cortarei o teu braço e o braço da casa de teu pai, para que não haja mais ancião algum em tua casa. ^v31
+**31** Vê, estão chegando os dias em que cortarei teu poder e o poder da família de teu pai, de modo que não haverá qualquer homem de idade em tua família . ^v31
 
-**32** E verás o aperto da morada de Deus, em lugar de todo o bem que houvera de fazer a Israel; nem haverá por todos os dias ancião algum em tua casa. ^v32
+**32** Tu verás sofrimento no local onde Eu moro. Embora prosperidade será dada a Israel, não haverá idoso algum em tua família. ^v32
 
-**33** O homem, porém, a quem eu não desarraigar do meu altar será para te consumir os olhos e para te entristecer a alma; e toda a multidão da tua casa morrerá quando chegar à idade varonil. ^v33
+**33** Qualquer de vós que eu não eliminar do Meu altar, Eu farei com que ele consuma os teus olhos, e trarei desgosto para a tua vida. Todos os homens nascidos em tua família morrerão. ^v33
 
-**34** E isto te será por sinal, a saber: o que acontecerá a teus dois filhos, a Hofni e a Finéias; ambos morrerão no mesmo dia. ^v34
+**34** Este será para ti o sinal que virá sobre teus dois filhos, Hofni e Fineias: ambos irão morrer no mesmo dia. ^v34
 
-**35** E eu suscitarei para mim um sacerdote fiel, que procederá segundo o meu coração e a minha alma, e eu lhe edificarei uma casa firme, e andará sempre diante do meu ungido. ^v35
+**35** Eu levantarei para Mim um sacerdote fiel, que vai fazer o que está no Meu coração e na Minha alma. Eu lhe edificarei uma casa firme; e ele andará para sempre diante do Meu rei ungido. ^v35
 
-**36** E será que todo aquele que restar da tua casa virá a inclinar-se diante dele por uma moeda de prata e por um bocado de pão, e dirá: Rogo-te que me admitas a algum ministério sacerdotal, para que possa comer um pedaço de pão. ^v36
+**36** "Todo aquele que restar de tua família se inclinará a ele, pedindo-lhe uma moeda de prata e um pedaço de pão, e dirá: 'Suplico-te que me dês algum cargo sacerdotal, para que eu possa comer um pedaço de pão""'." ^v36

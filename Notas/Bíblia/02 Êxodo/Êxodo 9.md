@@ -1,77 +1,76 @@
 ---
-Livro: "[[Êxodo|Êxodo]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Êxodo|Êxodo]]"
+tags: [biblia]
 ---
 
 # Êxodo 9
 
-**1** Depois o SENHOR disse a Moisés: Vai a Faraó, e dize-lhe: Assim diz o SENHOR Deus dos hebreus: Deixa ir o meu povo, para que me sirva. ^v1
+**1** "Então, Yahweh disse a Moisés: ""Vai a Faraó e dize-lhe: 'Yahweh, o Deus dos hebreus, diz: Deixa Meu povo ir para que eles possam Me adorar." ^v1
 
-**2** Porque se recusares deixá-los ir, e ainda por força os detiveres, ^v2
+**2** Mas, se tu recusares a deixá-los ir, se tu ainda os retiverdes, ^v2
 
-**3** Eis que a mão do Senhor será sobre teu gado, que está no campo, sobre os cavalos, sobre os jumentos, sobre os camelos, sobre os bois, e sobre as ovelhas, com pestilência gravíssima. ^v3
+**3** então, a mão de Yahweh será sobre seu gado nos campos e sobre seus cavalos, jumentos, camelos, bois, ovelhas, e isso causará um terrível desastre. ^v3
 
-**4** E o Senhor fará separação entre o gado dos israelitas e o gado dos egípcios, para que nada morra de tudo o que for dos filhos de Israel. ^v4
+**4** Yahweh tratará o gado de Israel e o gado do Egito diferentemente. Nenhum animal que pertença aos israelitas será morto. ^v4
 
-**5** E o Senhor assinalou certo tempo, dizendo: Amanhã fará o Senhor esta coisa na terra. ^v5
+**5** "Yahweh tem fixado um tempo. Ele disse: Será amanhã que Eu farei estas coisas na terra'""." ^v5
 
-**6** E o Senhor fez isso no dia seguinte, e todo o gado dos egípcios morreu; porém do gado dos filhos de Israel não morreu nenhum. ^v6
+**6** Yahweh fez isso no dia seguinte: todo o gado do Egito morreu. Mas nenhum dos animais dos israelitas morreu. ^v6
 
-**7** E Faraó enviou a ver, e eis que do gado de Israel não morrera nenhum; porém o coração de Faraó se agravou, e não deixou ir o povo. ^v7
+**7** Faraó investigou, e eis que nem mesmo um animal dos israelitas havia morrido. Mas seu coração estava obstinado e ele não deixou o povo ir. ^v7
 
-**8** Então disse o Senhor a Moisés e a Arão: Tomai vossas mãos cheias de cinza do forno, e Moisés a espalhe para o céu diante dos olhos de Faraó; ^v8
+**8** "Então, Yahweh disse a Moisés e a Arão: ""Tomai alguns punhados de cinzas do forno. Tu, Moisés, deves jogar as cinzas para o ar enquanto Faraó estiver vendo." ^v8
 
-**9** E tornar-se-á em pó miúdo sobre toda a terra do Egito, e se tornará em sarna, que arrebente em úlceras, nos homens e no gado, por toda a terra do Egito. ^v9
+**9** "Elas se tornarão poeira fina sobre toda a terra do Egito. Elas causarão bolhas e feridas nas pessoas e animais de toda a terra do Egito""." ^v9
 
-**10** E eles tomaram a cinza do forno, e puseram-se diante de Faraó, e Moisés a espalhou para o céu; e tornou-se em sarna, que arrebentava em úlceras nos homens e no gado; ^v10
+**10** Então Moisés e Arão pegaram as cinzas do forno e se colocaram diante de Faraó. Moisés as jogou para o ar, e elas causaram bolhas e chagas que se estouravam nas pessoas e nos animais. ^v10
 
-**11** De maneira que os magos não podiam parar diante de Moisés, por causa da sarna; porque havia sarna nos magos, e em todos os egípcios. ^v11
+**11** Os mágicos não puderam resistir a Moisés por causa das bolhas, que vieram sobre eles e sobre todos os outros egípcios. ^v11
 
-**12** Porém o Senhor endureceu o coração de Faraó, e não os ouviu, como o Senhor tinha dito a Moisés. ^v12
+**12** Yahweh endureceu o coração de Faraó, que não deu atenção a Moisés e a Arão. Conforme Yahweh havia dito a Moisés que Faraó faria. ^v12
 
-**13** Então disse o Senhor a Moisés: Levanta-te pela manhã cedo, e põe-te diante de Faraó, e dize-lhe: Assim diz o Senhor Deus dos hebreus: Deixa ir o meu povo, para que me sirva; ^v13
+**13** "Então, Yahweh disse a Moisés: ""Acorda cedo pela manhã, aguarda em frente de Faraó e dize-lhe: 'Yahweh, o Deus dos hebreus, disse: Deixa Meu povo ir para que ele possa Me adorar," ^v13
 
-**14** Porque esta vez enviarei todas as minhas pragas sobre o teu coração, e sobre os teus servos, e sobre o teu povo, para que saibas que não há outro como eu em toda a terra. ^v14
+**14** pois Eu enviarei, neste tempo, todas as Minhas pragas sobre vós, sobre vossos servos e sobre vosso povo. Eu farei isto para que tu possas saber que não há quem Me seja semelhante em toda a terra. ^v14
 
-**15** Porque agora tenho estendido minha mão, para te ferir a ti e ao teu povo com pestilência, e para que sejas destruído da terra; ^v15
+**15** Por agora, Eu teria te alcançado com Minha mão e atacado a ti e a teu povo com doença e tu terias sido exterminado da terra. ^v15
 
-**16** Mas, deveras, para isto te mantive, para mostrar meu poder em ti, e para que o meu nome seja anunciado em toda a terra. ^v16
+**16** Mas foi por esta razão que Eu te permiti sobreviver, a fim de te mostrar o Meu poder, de modo que Meu nome seja proclamado em toda a terra. ^v16
 
-**17** Tu ainda te exaltas contra o meu povo, para não o deixar ir? ^v17
+**17** Ainda assim, tu estás te levantando contra Meu povo para não deixá-lo ir. ^v17
 
-**18** Eis que amanhã por este tempo farei chover saraiva mui grave, qual nunca houve no Egito, desde o dia em que foi fundado até agora. ^v18
+**18** Ouve! Amanhã, por esta hora, Eu trarei uma tempestade de granizo muito forte, tal qual não se tenha visto no Egito desde o dia em que foi fundado. ^v18
 
-**19** Agora, pois, envia, recolhe o teu gado, e tudo o que tens no campo; todo o homem e animal, que for achado no campo, e não for recolhido à casa, a saraiva cairá sobre eles, e morrerão. ^v19
+**19** "Agora, pois, envia homens e recolhe teu gado e tudo o que tens nos campos envia para um lugar seguro. A chuva de granizo cairá sobre cada homem e animal que estiver no campo, e aqueles que não forem levados para casa morrerão""." ^v19
 
-**20** Quem dos servos de Faraó temia a palavra do Senhor, fez fugir os seus servos e o seu gado para as casas; ^v20
+**20** Então, os servos de Faraó que acreditaram na mensagem de Yahweh apressaram-se em trazer seus escravos e gado para dentro das casas. ^v20
 
-**21** Mas aquele que não tinha considerado a palavra do Senhor deixou os seus servos e o seu gado no campo. ^v21
+**21** Mas aqueles que não acreditaram na mensagem de Yahweh deixaram seus escravos e gados nos campos. ^v21
 
-**22** Então disse o Senhor a Moisés: Estende a tua mão para o céu, e haverá saraiva em toda a terra do Egito, sobre os homens e sobre o gado, e sobre toda a erva do campo, na terra do Egito. ^v22
+**22** "Então Yahweh disse a Moisés: ""Estende tua mão em direção ao céu, e cairá granizo em toda a terra do Egito: sobre as pessoas, sobre os animais e sobre todas as plantas nos campos, por todo o Egito""." ^v22
 
-**23** E Moisés estendeu a sua vara para o céu, e o Senhor deu trovões e saraiva, e fogo corria pela terra; e o Senhor fez chover saraiva sobre a terra do Egito. ^v23
+**23** Moisés levantou sua vara em direção ao céu, e Yahweh enviou trovões, granizo e relâmpagos sobre a terra. Ele fez cair chuva de granizo sobre a terra do Egito. ^v23
 
-**24** E havia saraiva, e fogo misturado entre a saraiva, tão grave, qual nunca houve em toda a terra do Egito desde que veio a ser uma nação. ^v24
+**24** Houve relâmpagos e pesado granizo como nunca havia sido visto em toda a terra do Egito, desde que tornou-se uma nação. ^v24
 
-**25** E a saraiva feriu, em toda a terra do Egito, tudo quanto havia no campo, desde os homens até aos animais; também a saraiva feriu toda a erva do campo, e quebrou todas as árvores do campo. ^v25
+**25** Por toda a terra do Egito, a chuva de granizo feriu tudo nos campos, tanto pessoas como animais. Feriu todas as plantas dos campos e quebrou todas as árvores. ^v25
 
-**26** Somente na terra de Gósen, onde estavam os filhos de Israel, não havia saraiva. ^v26
+**26** Somente na terra de Gósen, onde viviam os israelitas, não houve chuva de granizo. ^v26
 
-**27** Então Faraó mandou chamar a Moisés e a Arão, e disse-lhes: Esta vez pequei; o Senhor é justo, mas eu e o meu povo ímpios. ^v27
+**27** "Faraó enviou homens para chamar Moisés e Arão. Ele lhes disse: ""Eu pequei desta vez. Yahweh é justo e eu e meu povo somos perversos." ^v27
 
-**28** Orai ao Senhor (pois que basta) para que não haja mais trovões de Deus nem saraiva; e eu vos deixarei ir, e não ficareis mais aqui. ^v28
+**28** "Orai a Yahweh, porque os fortes raios e a chuva de granizo são demais. Eu vos deixarei ir e vós não ficareis mais aqui""." ^v28
 
-**29** Então lhe disse Moisés: Em saindo da cidade estenderei minhas mãos ao Senhor; os trovões cessarão, e não haverá mais saraiva; para que saibas que a terra é do Senhor. ^v29
+**29** "Moisés disse-lhe: ""Assim que eu deixar a cidade, estenderei minhas mãos a Yahweh. Os trovões cessarão e não haverá mais granizo. Desse modo, vós sabereis que a terra pertence a Yahweh." ^v29
 
-**30** Todavia, quanto a ti e aos teus servos, eu sei que ainda não temereis diante do Senhor Deus. ^v30
+**30** "Porém, quanto a ti e a teus servos, eu sei que realmente ainda não honrais a Deus Yahweh""." ^v30
 
-**31** E o linho e a cevada foram feridos, porque a cevada já estava na espiga, e o linho na haste. ^v31
+**31** O linho e a cevada foram destruídos, pois a cevada estava amadurecendo na espiga e o linho, florescendo. ^v31
 
-**32** Mas o trigo e o centeio não foram feridos, porque estavam cobertos. ^v32
+**32** Mas o trigo e o centeio não foram prejudicados, porque eram colheitas posteriores. ^v32
 
-**33** Saiu, pois, Moisés da presença de Faraó, da cidade, e estendeu as suas mãos ao Senhor; e cessaram os trovões e a saraiva, e a chuva não caiu mais sobre a terra. ^v33
+**33** Quando Moisés saiu da presença de Faraó e da cidade, ele estendeu suas mãos para Yahweh e os trovões e as chuvas de granizo pararam, e a chuva não mais caiu. ^v33
 
-**34** Vendo Faraó que cessou a chuva, e a saraiva, e os trovões, pecou ainda mais; e endureceu o seu coração, ele e os seus servos. ^v34
+**34** Quando Faraó viu que a chuva de granizo e os trovões haviam cessado, ele pecou outra vez e endureceu seu coração junto com os seus servos. ^v34
 
-**35** Assim o coração de Faraó se endureceu, e não deixou ir os filhos de Israel, como o Senhor tinha dito por Moisés. ^v35
+**35** O coração de Faraó foi endurecido. Então, ele não deixou o povo de Israel ir. E isso foi como Yahweh dissera a Moisés que Faraó agiria. ^v35

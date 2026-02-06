@@ -1,29 +1,28 @@
 ---
-Livro: "[[2 Crônicas|2 Crônicas]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/2 Crônicas|2 Crônicas]]"
+tags: [biblia]
 ---
 
 # 2 Crônicas 19
 
-**1** E Jeosafá, rei de Judá, voltou em paz à sua casa em Jerusalém. ^v1
+**1** Josáfa, rei de Judá, retornou em paz para sua casa em Jerusalém. ^v1
 
-**2** E Jeú, filho de Hanani, o vidente, saiu ao encontro do rei Jeosafá e lhe disse: Devias tu ajudar ao ímpio, e amar aqueles que odeiam ao Senhor? Por isso virá sobre ti grande ira da parte do Senhor. ^v2
+**2** "Então, Jeú, filho de Hanani, o vidente, foi ao encontro do rei Josafá e lhe disse: ""Deverias tu ajudar o perverso? Deverias tu amar aqueles que odeiam Yahweh? Por isso, a ira de Yahweh está sobre ti." ^v2
 
-**3** Boas coisas contudo se acharam em ti; porque tiraste os bosques da terra, e preparaste o teu coração para buscar a Deus. ^v3
+**3** "No entanto, alguma bondade pode ser encontrada em ti, porque tiraste os postes de Aserá da terra e dispuseste teu coração a buscar a Deus""." ^v3
 
-**4** Habitou, pois, Jeosafá em Jerusalém; e tornou a passar pelo povo desde Berseba até as montanhas de Efraim, e fez com que tornassem ao Senhor Deus de seus pais. ^v4
+**4** Josafá viveu em Jerusalém e foi novamente passar pelo meio do povo, de Berseba até as regiões montanhosas de Efraim, e os trouxe de volta a Yahweh, o Deus de seus pais. ^v4
 
-**5** E estabeleceu juízes na terra, em todas as cidades fortificadas, de cidade em cidade. ^v5
+**5** Ele estabeleceu juízes na terra de uma a outra extremidade, em todas as cidades fortificadas de Judá, cidade por cidade. ^v5
 
-**6** E disse aos juízes: Vede o que fazeis; porque não julgais da parte do homem, senão da parte do Senhor, e ele está convosco quando julgardes. ^v6
+**6** "Ele disse aos juízes: ""Considerai o que fareis, porque não julgareis para homens, mas para Yahweh! Ele está convosco nos julgamentos." ^v6
 
-**7** Agora, pois, seja o temor do Senhor convosco; guardai-o, e fazei-o; porque não há no Senhor nosso Deus iniqüidade nem acepção de pessoas, nem aceitação de suborno. ^v7
+**7** "Que o temor de Yahweh esteja sobre vós. Sede cuidadosos quando julgardes, pois não há iniquidade com Yahweh, vosso Deus, nem qualquer favoritismo ou barganha""." ^v7
 
-**8** E também estabeleceu Jeosafá a alguns dos levitas e dos sacerdotes e dos chefes dos pais de Israel sobre o juízo do Senhor, e sobre as causas judiciais; e voltaram a Jerusalém. ^v8
+**8** Além disso, em Jerusalém, Josafá nomeou alguns dos levitas, sacerdotes e alguns dos ancestrais das famílias de Israel para cuidar dos julgamentos para Yahweh e por causa das disputas. Então, retornaram a Jerusalém. ^v8
 
-**9** E deu-lhes ordem, dizendo: Assim fazei no temor do Senhor, com fidelidade, e com coração íntegro. ^v9
+**9** "Ele os instruiu, dizendo-lhes: ""Deveis servir em reverência a Yahweh, com fidelidade e com um coração perfeito. Isso é o que deveis fazer:" ^v9
 
-**10** E em toda a diferença que vier a vós de vossos irmãos que habitam nas suas cidades, entre sangue e sangue, entre lei e mandamento, entre estatutos e juízos, admoestai-os, que não se façam culpados para com o Senhor, e não venha grande ira sobre vós, e sobre vossos irmãos; fazei assim, e não vos fareis culpados. ^v10
+**10** Sempre que chegar até vós alguma controvérsia de vossos irmãos que vivem em vossas cidades, seja sobre derramamento de sangue, sobre leis e mandamentos, sobre estatutos ou decretos, devereis avisá-los para que não cometam pecado contra Yahweh, e então Sua ira não virá sobre vós e sobre vossos irmãos. Se agirdes dessa forma, não sereis culpados. ^v10
 
-**11** E eis que Amarias, o sumo sacerdote, presidirá sobre vós em todo o negócio do Senhor; e Zebadias, filho de Ismael, líder da casa de Judá, em todo o negócio do rei; também os oficiais, os levitas, estão perante vós; esforçai-vos, pois, e fazei-o; e o Senhor será com os bons. ^v11
+**11** "Vede! Amarias, o chefe dos sacerdotes, presidirá sobre vós nos negócios que pertencem a Yahweh; Zebadias, filho de Ismael, chefe da tribo de Judá, está encarregado de todos os assuntos do rei; e também os levitas serão oficiais a vosso serviço. Procedei corajosamente, e que Yahweh esteja com aqueles que são bons""." ^v11

@@ -1,57 +1,56 @@
 ---
-Livro: "[[1 Pedro|1 Pedro]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/1 Pedro|1 Pedro]]"
+tags: [biblia]
 ---
 
 # 1 Pedro 2
 
-**1** Deixando, pois, toda a malícia, e todo o engano, e fingimentos, e invejas, e todas as murmurações, ^v1
+**1** Portanto, rejeitai todo mal, todo engano, hipocrisia, inveja e calúnia. ^v1
 
-**2** Desejai afetuosamente, como meninos novamente nascidos, o leite racional, não falsificado, para que por ele vades crescendo; ^v2
+**2** Como recém nascidos, desejai o puro leite espiritual, de modo que vós possais crescer na salvação por meio Dele, ^v2
 
-**3** Se é que já provastes que o Senhor é benigno; ^v3
+**3** se é que tendes provado que o Senhor é bom. ^v3
 
-**4** E, chegando-vos para ele, pedra viva, reprovada, na verdade, pelos homens, mas para com Deus eleita e preciosa, ^v4
+**4** Achegai-vos a Ele que é a pedra viva, que por um lado foi rejeitada pelas pessoas, porém escolhida como preciosa por Deus. ^v4
 
-**5** Vòs também, como pedras vivas, sois edificados casa espiritual e sacerdòcio santo, para oferecer sacrifícios espirituais agradáveis a Deus por Jesus Cristo. ^v5
+**5** Vós, também sois como pedras vivas, usadas para construção da casa espiritual, a fim de serdes um sacerdócio santo que oferece sacrifícios espirituais aceitáveis a Deus por meio de Jesus Cristo. ^v5
 
-**6** Por isso também na Escritura se contém:Eis que ponho em Sião a pedra principal da esquina, eleita e preciosa;e quem nela crer não será confundido. ^v6
+**6** "Está escrito: ""Eis que coloco em Sião uma Pedra de Esquina, principal, escolhida e preciosa. Quem quer que creia Nela não será envergonhado""." ^v6
 
-**7** E assim para vòs, os que credes, é preciosa, mas, para os rebeldes,a pedra que os edificadores reprovaram,essa foi a principal da esquina, ^v7
+**7** "A honra então é para vós, os que credes. Mas: ""a Pedra que foi rejeitada pelos construtores, Esta se tornou a pedra angular""," ^v7
 
-**8** E uma pedra de tropeço e rocha de escândalo,para aqueles que tropeçam na palavra, sendo desobedientes; para o que também foram destinados. ^v8
+**8** "e: ""Pedra de tropeço e rocha de ofensa"". Eles tropeçam, desobedecendo à Palavra, porque para isso foram também destinados." ^v8
 
-**9** Mas vòs sois a geração eleita, o sacerdòcio real, a nação santa, o povo adquirido, para que anuncieis as virtudes daquele que vos chamou das trevas para a sua maravilhosa luz; ^v9
+**9** Mas vós sois raça escolhida, sacerdócio real, nação santa, povo que pertence a Deus, para que anuncieis as virtudes Daquele que vos chamou das trevas para Sua maravilhosa luz. ^v9
 
-**10** Vós, que em outro tempo não éreis povo, mas agora sois povo de Deus; que não tínheis alcançado misericórdia, mas agora alcançastes misericórdia. ^v10
+**10** Vós, que outrora não éreis povo, mas, agora vós sois o povo de Deus. Vós, que não recebestes misericórdia, mas agora vós tendes recebido misericórdia. ^v10
 
-**11** Amados, peço-vos, como a peregrinos e forasteiros, que vos abstenhais das concupiscências carnais, que combatem contra a alma; ^v11
+**11** Amados, eu vos exorto como a estrangeiros e peregrinos a vos absterdes dos desejos carnais, que fazem guerra contra a alma. ^v11
 
-**12** Tendo o vosso viver honesto entre os gentios; para que, naquilo em que falam mal de vós, como de malfeitores, glorifiquem a Deus no dia da visitação, pelas boas obras que em vós observem. ^v12
+**12** Tende um bom comportamento entre os gentios; assim, se eles vos difamam como se fôsseis malfeitores, ao verem as vossas boas obras, glorifiquem a Deus no dia da Sua visitação. ^v12
 
-**13** Sujeitai-vos, pois, a toda a ordenação humana por amor do Senhor; quer ao rei, como superior; ^v13
+**13** Sujeitai-vos a toda autoridade humana por amor do Senhor, seja ao rei, como soberano, ^v13
 
-**14** Quer aos governadores, como por ele enviados para castigo dos malfeitores, e para louvor dos que fazem o bem. ^v14
+**14** ou aos governadores que são enviados para punir os malfeitores e para louvar aqueles que fazem o bem. ^v14
 
-**15** Porque assim é a vontade de Deus, que, fazendo bem, tapeis a boca à ignorância dos homens insensatos; ^v15
+**15** Pois tal é a vontade de Deus, que fazendo o bem silencieis a fala ignorante das pessoas tolas. ^v15
 
-**16** Como livres, e não tendo a liberdade por cobertura da malícia, mas como servos de Deus. ^v16
+**16** Como povo livre, não useis vossa liberdade como um pretexto para a maldade, mas, sede como servos de Deus. ^v16
 
-**17** Honrai a todos. Amai a fraternidade. Temei a Deus. Honrai ao rei. ^v17
+**17** Honrai todas as pessoas. Amai os irmãos. Temei a Deus. Honrai ao rei. ^v17
 
-**18** Vós, servos, sujeitai-vos com todo o temor aos senhores, não somente aos bons e humanos, mas também aos maus. ^v18
+**18** Servos, sede submissos aos vossos senhores, com todo respeito, não apenas aos senhores bons e gentis, mas também àqueles que são perversos. ^v18
 
-**19** Porque é coisa agradável, que alguém, por causa da consciência para com Deus, sofra agravos, padecendo injustamente. ^v19
+**19** Pois é louvável se alguém suporta a dor de um sofrimento injusto por causa da sua consciência para com Deus. ^v19
 
-**20** Porque, que glória será essa, se, pecando, sois esbofeteados e sofreis? Mas se, fazendo o bem, sois afligidos e o sofreis, isso é agradável a Deus. ^v20
+**20** Portanto, que glória há se suportais a devida punição por um pecado cometido? Mas, se, fazendo o bem, sofreis, isto é louvável diante de Deus. ^v20
 
-**21** Porque para isto sois chamados; pois também Cristo padeceu por nós, deixando-nos o exemplo, para que sigais as suas pisadas. ^v21
+**21** Para isto é que fostes chamados, porque Cristo também sofreu por vós, deixando um exemplo para seguirdes Seus passos. ^v21
 
-**22** O qual não cometeu pecado, nem na sua boca se achou engano. ^v22
+**22** Ele não cometeu pecado, nem foi encontrado qualquer engano em Sua boca. ^v22
 
-**23** O qual, quando o injuriavam, não injuriava, e quando padecia não ameaçava, mas entregava-se àquele que julga justamente; ^v23
+**23** Quando foi injuriado, não revidou; quando sofreu, não ameaçou, mas Se entregou a Si mesmo Àquele que julga justamente. ^v23
 
-**24** Levando ele mesmo em seu corpo os nossos pecados sobre o madeiro, para que, mortos para os pecados, pudéssemos viver para a justiça; e pelas suas feridas fostes sarados. ^v24
+**24** Sobre o madeiro Ele carregou os nossos pecados em Seu próprio corpo, a fim de que morrêssemos para o pecado, e assim vivêssemos para a justiça. Por Suas feridas fomos sarados. ^v24
 
-**25** Porque éreis como ovelhas desgarradas; mas agora tendes voltado ao Pastor e Bispo das vossas almas. ^v25
+**25** Pois todos vós éreis como ovelhas desgarradas, mas agora retornastes ao Pastor e Guardião de vossas almas. ^v25

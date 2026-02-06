@@ -1,41 +1,40 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Jeremias|Jeremias]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Jeremias|Jeremias]]"
+tags: [biblia]
 ---
 
 # Jeremias 28
 
-**1** E sucedeu no mesmo ano, no princípio do reinado de Zedequias, rei de Judá, no ano quarto, no mês quinto, que Hananias, filho de Azur, o profeta que era de Gibeom, me falou na casa do SENHOR, na presença dos sacerdotes e de todo o povo, dizendo: ^v1
+**1** Aconteceu que, no início do reinado de Zedequias, rei de Judá, no quinto mês do quarto ano, o profeta Hananias, filho de Azur, que era de Gibeão, falou-me na Casa de Yahweh, na presença dos sacerdotes e de todo povo, dizendo: ^v1
 
-**2** Assim fala o SENHOR dos Exércitos, o Deus de Israel, dizendo: Eu quebrei o jugo do rei de babilônia. ^v2
+**2** """Yahweh dos Exércitos, o Deus de Israel, diz isto: Eu tenho quebrado o jugo imposto pelo rei da Babilônia." ^v2
 
-**3** Depois de passados dois anos completos, eu tornarei a trazer a este lugar todos os utensílios da casa do SENHOR, que deste lugar tomou Nabucodonosor, rei de babilônia, levando-os a babilônia. ^v3
+**3** Dentro de dois anos, Eu trarei de volta a este lugar todos os utensílios pertencentes à Casa de Yahweh, que Nabucodonosor, rei da Babilônia, levou para Babilônia. ^v3
 
-**4** Também a Jeconias, filho de Jeoiaquim, rei de Judá, e a todos os do cativeiro de Judá, que entraram em babilônia, eu tornarei a trazer a este lugar, diz o SENHOR; porque quebrarei o jugo do rei de babilônia. ^v4
+**4** "Então, trarei de volta a este lugar Jeconias, filho de Jeoaquim, rei de Judá, e todos os exilados de Judá que foram levados para Babilônia — esta é a declaração de Yahweh — pois quebrarei o jugo do rei da Babilônia.""" ^v4
 
-**5** Então falou o profeta Jeremias ao profeta Hananias, na presença dos sacerdotes, e na presença de todo o povo que estava na casa do Senhor. ^v5
+**5** Então, Jeremias, o profeta, respondeu ao profeta Hananias, na presença dos sacerdotes e de todo o povo que estava na Casa de Yahweh. ^v5
 
-**6** Disse, pois, Jeremias, o profeta: Amém! Assim faça o SENHOR; confirme o SENHOR as tuas palavras, que profetizaste, e torne ele a trazer os utensílios da casa do SENHOR, e todos os do cativeiro de babilônia a este lugar. ^v6
+**6** "Jeremias, o profeta, disse: ""Que Yahweh faça isto: que Yahweh confirme as palavras que tens profetizado e traga de volta a este lugar os utensílios pertencentes à Casa de Yahweh, e todos os exilados da Babilônia." ^v6
 
-**7** Mas ouve agora esta palavra, que eu falo aos teus ouvidos e aos ouvidos de todo o povo: ^v7
+**7** Contudo, ouve as palavras que proclamo a ti e a todo o povo. ^v7
 
-**8** Os profetas que houve antes de mim e antes de ti, desde a antiguidade, profetizaram contra muitas terras, e contra grandes reinos, acerca de guerra, e de mal, e de peste. ^v8
+**8** Os profetas que existiram antes de mim e de ti, desde a antiguidade, também profetizaram sobre muitas nações e contra poderosos reinos, sobre guerras, fome e praga. ^v8
 
-**9** O profeta que profetizar de paz, quando se cumprir a palavra desse profeta, será conhecido como aquele a quem o Senhor na verdade enviou. ^v9
+**9** "Então, o profeta que profetizar que haverá paz, se sua palavra se cumprir, saberá que, de fato, ele é um profeta enviado por Yahweh.""" ^v9
 
-**10** Então Hananias, o profeta, tomou o jugo do pescoço do profeta Jeremias, e o quebrou. ^v10
+**10** Mas o profeta Hananias pegou o jugo do pescoço de Jeremias, o profeta, e o quebrou. ^v10
 
-**11** E falou Hananias na presença de todo o povo, dizendo: Assim diz o SENHOR: Assim, passados dois anos completos, quebrarei o jugo de Nabucodonosor, rei de babilônia, de sobre o pescoço de todas as nações. E Jeremias, o profeta, seguiu o seu caminho. ^v11
+**11** "Então, Hananias disse na presença do povo: ""Yahweh diz isto: Deste modo, em dois anos, Eu quebrarei o jugo do pescoço de toda a nação, imposto por Nabucodonosor, rei da Babilônia."" Então, Jeremias, o profeta, seguiu o seu caminho." ^v11
 
-**12** Mas veio a palavra do Senhor a Jeremias, depois que Hananias, o profeta, quebrou o jugo de sobre o pescoço de Jeremias, o profeta, dizendo: ^v12
+**12** Depois que o profeta Hananias quebrou o jugo do pescoço de Jeremias, o profeta, a palavra de Yahweh veio até Jeremias, dizendo: ^v12
 
-**13** Vai, e fala a Hananias, dizendo: Assim diz o Senhor: Jugos de madeira quebraste, mas em vez deles farás jugos de ferro. ^v13
+**13** """Vai e fala a Hananias: Yahweh diz isto: Tu quebraste um jugo de madeira; porém, Eu farei um jugo de ferro." ^v13
 
-**14** Porque assim diz o SENHOR dos Exércitos, o Deus de Israel: Jugo de ferro pus sobre o pescoço de todas estas nações, para servirem a Nabucodonosor, rei de babilônia, e servi-lo-ão, e até os animais do campo lhe dei. ^v14
+**14** "Pois Yahweh dos Exércitos, Deus de Israel, diz: Eu tenho colocado um jugo de ferro no pescoço de todas as nações para servirem a Nabucodonosor, rei da Babilônia, e elas o servirão. Eu também lhe dei os animais do campo, para que governe sobre eles.""" ^v14
 
-**15** E disse o profeta Jeremias ao profeta Hananias: Ouve agora, Hananias: Não te enviou o Senhor, mas tu fizeste que este povo confiasse em mentiras. ^v15
+**15** "Depois, Jeremias, o profeta, disse ao profeta Hananias: ""Ouve, Hananias! Yahweh não te enviou, mas fizeste este povo acreditar em mentiras." ^v15
 
-**16** Portanto, assim diz o Senhor: Eis que te lançarei de sobre a face da terra; este ano morrerás, porque falaste em rebeldia contra o Senhor. ^v16
+**16** "Então, Yahweh diz isto: 'Vê que estou te mandando para fora da Terra. Tu morrerás neste ano, porque proclamastes rebelião contra Yahweh.""" ^v16
 
-**17** E morreu Hananias, o profeta, no mesmo ano, no sétimo mês. ^v17
+**17** E o profeta Hananias morreu naquele ano, no sétimo mês. ^v17

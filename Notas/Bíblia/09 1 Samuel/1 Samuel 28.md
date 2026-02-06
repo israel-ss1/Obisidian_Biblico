@@ -1,57 +1,56 @@
 ---
-Livro: "[[1 Samuel|1 Samuel]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/1 Samuel|1 Samuel]]"
+tags: [biblia]
 ---
 
 # 1 Samuel 28
 
-**1** E sucedeu naqueles dias que, juntando os filisteus os seus exércitos à peleja, para fazer guerra contra Israel, disse Aquis a Davi: Sabe de certo que comigo sairás ao arraial, tu e os teus homens. ^v1
+**1** "Aconteceu naqueles dias que os filisteus juntaram os seus exércitos para lutar contra Israel. Áquis disse a Davi: ""Certamente tu sabes que sairás a lutar comigo." ^v1
 
-**2** Então disse Davi a Aquis: Assim saberás o que fará o teu servo. E disse Aquis a Davi: Por isso te terei por guarda da minha pessoa para sempre. ^v2
+**2** "Davi disse a Áquis: ""Saberás tu o que teu servo pode fazer"". Áquis disse a Davi: ""Então, eu irei, permanentemente, fazer de ti meu guarda pessoal""." ^v2
 
-**3** E Samuel já estava morto, e todo o Israel o tinha chorado, e o tinha sepultado em Ramá, que era a sua cidade; e Saul tinha desterrado os adivinhos e os encantadores. ^v3
+**3** Samuel estava morto; todo o Israel estava se lamentando por ele; sepultaram-no em Ramá, cidade de seu nascimento. Ora, Saul havia expulsado da terra aqueles que haviam falado com os mortos, ou com os espíritos. ^v3
 
-**4** E ajuntaram-se os filisteus, e vieram, e acamparam-se em Suném; e ajuntou Saul a todo o Israel, e se acamparam em Gilboa. ^v4
+**4** Os filisteus ajuntaram-se e vieram acampar em Suném; e Saul reuniu todo o Israel, e acamparam-se em Gilboa. ^v4
 
-**5** E, vendo Saul o arraial dos filisteus, temeu, e estremeceu muito o seu coração. ^v5
+**5** Quando Saul viu o exército dos filisteus, ele ficou com medo, e seu coração se afligiu muito. ^v5
 
-**6** E perguntou Saul ao Senhor, porém o Senhor não lhe respondeu, nem por sonhos, nem por Urim, nem por profetas. ^v6
+**6** Saul orou a Yahweh por socorro; no entanto, Yahweh não lhe respondeu— nem por sonhos, nem por Urim, nem por profetas. ^v6
 
-**7** Então disse Saul aos seus criados: Buscai-me uma mulher que tenha o espírito de feiticeira, para que vá a ela, e consulte por ela. E os seus criados lhe disseram: Eis que em En-Dor há uma mulher que tem o espírito de adivinhar. ^v7
+**7** "Portanto, Saul disse aos seus servos: ""Encontrai-me uma mulher que fale com os mortos, para que eu vá até ela e busque seus conselhos"". Seus servos disseram-lhe: ""Vê, em En-Dor há uma mulher que fala com os mortos""." ^v7
 
-**8** E Saul se disfarçou, e vestiu outras roupas, e foi ele com dois homens, e de noite chegaram à mulher; e disse: Peço-te que me adivinhes pelo espírito de feiticeira, e me faças subir a quem eu te disser. ^v8
+**8** "Saul disfarçou-se, vestindo outra roupa, e foi — ele estava com dois dos seus homens. Eles foram ao anoitecer ao encontro da mulher. Disse-lhe: ""Adivinha para mim, peço-te, fala tu com os mortos e faze subir o nome que eu der a ti." ^v8
 
-**9** Então a mulher lhe disse: Eis aqui tu sabes o que Saul fez, como tem destruído da terra os adivinhos e os encantadores; por que, pois, me armas um laço à minha vida, para me fazeres morrer? ^v9
+**9** "A mulher disse-lhe: ""Vê, sabes tu o que Saul fez: ele baniu da terra todos os que falam com os mortos ou com os espíritos. Então, por que preparas uma armadilha para minha vida, para me fazer morrer?""." ^v9
 
-**10** Então Saul lhe jurou pelo Senhor, dizendo: Vive o Senhor, que nenhum mal te sobrevirá por isso. ^v10
+**10** "Saul jurou-lhe por Yahweh e disse-lhe: ""Assim como Yahweh vive, nenhuma punição te acontecerá por estas coisas""." ^v10
 
-**11** A mulher então lhe disse: A quem te farei subir? E disse ele: Faze-me subir a Samuel. ^v11
+**11** "Então, a mulher perguntou-lhe: ""Quem devo fazer subir até ti? Disse-lhe Saul: ""Faze subir Samuel até mim""." ^v11
 
-**12** Vendo, pois, a mulher a Samuel, gritou com alta voz, e falou a Saul, dizendo: Por que me tens enganado? Pois tu mesmo és Saul. ^v12
+**12** "Quando a mulher viu Samuel, ela gritou em alta voz e perguntou a Saul: ""Por que tu me enganaste? Pois tu és Saul""." ^v12
 
-**13** E o rei lhe disse: Não temas; que é que vês? Então a mulher disse a Saul: Vejo deuses que sobem da terra. ^v13
+**13** "O rei disse-lhe: ""Não tenhas medo. O que tu vês?"". A mulher disse a Saul: ""Eu vejo um deus que vem subindo de dentro da terra""." ^v13
 
-**14** E lhe disse: Como é a sua figura? E disse ela: Vem subindo um homem ancião, e está envolto numa capa. Entendendo Saul que era Samuel, inclinou-se com o rosto em terra, e se prostrou. ^v14
+**14** "Perguntou-lhe Saul: ""Como ele é?"" Ela disse: ""Um homem velho está vindo; ele está vestido com um manto"". Saul entendeu que era Samuel, e curvou-se com a face no chão, mostrando respeito." ^v14
 
-**15** Samuel disse a Saul: Por que me inquietaste, fazendo-me subir? Então disse Saul: Mui angustiado estou, porque os filisteus guerreiam contra mim, e Deus se tem desviado de mim, e não me responde mais, nem pelo ministério dos profetas, nem por sonhos; por isso te chamei a ti, para que me faças saber o que hei de fazer. ^v15
+**15** "O homem velho disse: ""Por que me perturbas e faze-me subir?"". Saul respondeu: ""Estou muito angustiado, pois os filisteus guerreiam contra mim. E Deus afastou-se de mim e não mais me responde, nem por profetas, nem por sonhos. Por este motivo, te chamei, para que me faças saber o que devo fazer""." ^v15
 
-**16** Então disse Samuel: Por que, pois, me perguntas a mim, visto que o Senhor te tem desamparado, e se tem feito teu inimigo? ^v16
+**16** "Disse-lhe o homem velho: ""Por que me perguntas, uma vez que Yahweh afastou-se de ti, e tornou-se teu inimigo?" ^v16
 
-**17** Porque o Senhor tem feito para contigo como pela minha boca te disse, e o Senhor tem rasgado o reino da tua mão, e o tem dado ao teu próximo, a Davi. ^v17
+**17** Fez Yahweh o que disse que faria. Yahweh tem rasgado o reino de tuas mãos e tem entregue a alguém —a Davi. ^v17
 
-**18** Como tu não deste ouvidos à voz do Senhor, e não executaste o fervor da sua ira contra Amaleque, por isso o Senhor te fez hoje isto. ^v18
+**18** Porque não obecedeste à voz de Yahweh e não fizeste o que Ele, no ardor da Sua ira, ordenou contra Amaleque. Assim, Ele te fez isso. ^v18
 
-**19** E o Senhor entregará também a Israel contigo na mão dos filisteus, e amanhã tu e teus filhos estareis comigo; e o arraial de Israel o Senhor entregará na mão dos filisteus. ^v19
+**19** "Yahweh tirará a Sua mão sobre Israel e a colocará sobre os filisteus. Amanhã, tu e teus filhos estarão comigo. Yahweh entregará o exército de Israel nas mãos dos filisteus""." ^v19
 
-**20** E imediatamente Saul caiu estendido por terra, e grandemente temeu por causa daquelas palavras de Samuel; e não houve força nele; porque não tinha comido pão todo aquele dia e toda aquela noite. ^v20
+**20** Então, Saul imediatamente prostrou-se no chão e foi tomado de medo ao ouvir essas palavras. Não houve força nele, pois ele não havia comido nenhum alimento o dia inteiro, nem a noite inteira. ^v20
 
-**21** Então veio a mulher a Saul e, vendo que estava tão perturbado, disse-lhe: Eis que a tua criada deu ouvidos à tua voz, e pus a minha vida na minha mão, e ouvi as palavras que disseste. ^v21
+**21** "A mulher foi a Saul e viu que ele ficou muito perturbado; ela lhe disse: ""Vê, tua serva ouviu a tua voz e, colocando a minha vida em perigo, fiz o que tuas palavras me disseram." ^v21
 
-**22** Agora, pois, ouve também tu as palavras da tua serva, e porei um bocado de pão diante de ti, e come, para que tenhas forças para te pores a caminho. ^v22
+**22** "Agora, pois, eu te imploro, ouve a voz de uma mulher serva, e deixa-me preparar um pouco de comida para ti. Come para que possas ter força quando fores em teu caminho""." ^v22
 
-**23** Porém ele o recusou, e disse: Não comerei. Porém os seus criados e a mulher o constrangeram; e deu ouvidos à sua voz; e levantou-se do chão, e se assentou sobre uma cama. ^v23
+**23** "Porém, Saul recusou e lhe disse: ""Não comerei"". No entanto, seus servos, juntos com a mulher, convenceram-no, e ele os ouviu. Então, ele levantou-se do chão e sentou-se na cama." ^v23
 
-**24** E tinha a mulher em casa um bezerro cevado, e se apressou, e o matou, e tomou farinha, e a amassou, e a cozeu em bolos ázimos. ^v24
+**24** A mulher tinha um novilho gordo em casa; ela apressou-se e o matou; tomando a farinha e o fermento, os amassou e cozeu o pão com ele. ^v24
 
-**25** E os trouxe diante de Saul e de seus criados, e comeram; depois levantaram-se e partiram naquela mesma noite. ^v25
+**25** Ela os trouxe diante de Saul e de seus servos, e eles comeram. Então, eles se levantaram e saíram naquela noite. ^v25

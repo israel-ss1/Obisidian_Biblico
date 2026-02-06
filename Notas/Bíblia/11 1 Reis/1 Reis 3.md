@@ -1,63 +1,62 @@
 ---
-Livro: "[[1 Reis|1 Reis]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/1 Reis|1 Reis]]"
+tags: [biblia]
 ---
 
 # 1 Reis 3
 
-**1** E Salomão se aparentou com Faraó, rei do Egito; e tomou a filha de Faraó, e a trouxe à cidade de Davi, até que acabasse de edificar a sua casa, e a casa do SENHOR, e a muralha de Jerusalém em redor. ^v1
+**1** Salomão aliou-se por casamento a Faraó, rei do Egito. Tomou a filha do Faraó e trouxe-a para a cidade de Davi, até que ele terminasse de construir seu próprio palácio, a casa de Yahweh, e o muro ao redor de Jerusalém. ^v1
 
-**2** Entretanto, o povo sacrificava sobre os altos; porque até àqueles dias ainda não se havia edificado casa ao nome do Senhor. ^v2
+**2** As pessoas sacrificavam nos lugares altos, porque, até então, nenhuma casa havia sido construída para o nome de Yahweh. ^v2
 
-**3** E Salomão amava ao Senhor, andando nos estatutos de Davi seu pai; somente que nos altos sacrificava, e queimava incenso. ^v3
+**3** Salomão demonstrava seu amor por Yahweh, andando nos estatutos de Davi, seu pai. Porém ele sacrificava e queimava incenso nos lugares altos. ^v3
 
-**4** E foi o rei a Gibeom para lá sacrificar, porque aquele era o alto maior; mil holocaustos sacrificou Salomão naquele altar. ^v4
+**4** O rei foi a Gibeão para ali sacrificar, pois lá estava o altar mais importante do monte. Salomão ofereceu mil ofertas queimadas sobre aquele altar. ^v4
 
-**5** E em Gibeom apareceu o Senhor a Salomão de noite em sonhos; e disse-lhe Deus: Pede o que queres que eu te dê. ^v5
+**5** "Em Gibeão, Yahweh apareceu à noite a Salomão, em um sonho, e lhe disse: ""Pede! O que deveria eu dar a ti?""" ^v5
 
-**6** E disse Salomão: De grande beneficência usaste tu com teu servo Davi, meu pai, como também ele andou contigo em verdade, e em justiça, e em retidão de coração, perante a tua face; e guardaste-lhe esta grande beneficência, e lhe deste um filho que se assentasse no seu trono, como se vê neste dia. ^v6
+**6** "Então Salomão disse: ""Tu demonstraste grande fidelidade à aliança com Teu servo Davi, meu pai, porque ele andou diante de Ti em fidelidade, em justiça e em retidão de coração. Tu o preservaste em Teu grande amor leal e lhe deste um filho para hoje sentar no trono dele." ^v6
 
-**7** Agora, pois, ó Senhor meu Deus, tu fizeste reinar a teu servo em lugar de Davi meu pai; e sou apenas um menino pequeno; não sei como sair, nem como entrar. ^v7
+**7** Agora, Yahweh, meu Deus, Tu fizeste Teu servo como rei no lugar de Davi, meu pai, ainda que eu seja apenas uma criança. Eu não sei direito como sair nem como entrar. ^v7
 
-**8** E teu servo está no meio do teu povo que elegeste; povo grande, que nem se pode contar, nem numerar, pela sua multidão. ^v8
+**8** Teu servo está no meio do povo que Tu escolheste, um povo grande, numeroso demais para ser numerado ou contado. ^v8
 
-**9** A teu servo, pois, dá um coração entendido para julgar a teu povo, para que prudentemente discirna entre o bem e o mal; porque quem poderia julgar a este teu tão grande povo? ^v9
+**9** "Portanto, dá a Teu servo um coração sábio para julgar o Teu povo, para que eu possa discernir entre o bem e o mal. Pois quem seria capaz de julgar este Teu grande povo?""" ^v9
 
-**10** E esta palavra pareceu boa aos olhos do Senhor, de que Salomão pedisse isso. ^v10
+**10** Esse pedido de Salomão agradou ao Senhor. ^v10
 
-**11** E disse-lhe Deus: Porquanto pediste isso, e não pediste para ti muitos dias, nem pediste para ti riquezas, nem pediste a vida de teus inimigos; mas pediste para ti entendimento, para discernires o que é justo; ^v11
+**11** "Então Deus disse a ele: ""Porque tu pediste esta coisa e não pediste para ti uma vida longa ou riquezas ou a vida dos teus inimigos, mas pediste para ti entendimento para discernir a justiça," ^v11
 
-**12** Eis que fiz segundo as tuas palavras; eis que te dei um coração tão sábio e entendido, que antes de ti igual não houve, e depois de ti igual não se levantará. ^v12
+**12** vê, agora, farei tudo o que tu me pediste segundo as tuas palavras. Eu te darei um coração de sabedoria e entendimento, como ninguém teve antes de ti, e ninguém igual a ti se levantará depois de ti. ^v12
 
-**13** E também até o que não pediste te dei, assim riquezas como glória; de modo que não haverá um igual entre os reis, por todos os teus dias. ^v13
+**13** Eu também te dou o que não pediste, tanto riquezas quanto honra, de modo que não haverá entre os reis ninguém igual a ti durante todos os teus dias. ^v13
 
-**14** E, se andares nos meus caminhos, guardando os meus estatutos, e os meus mandamentos, como andou Davi teu pai, também prolongarei os teus dias. ^v14
+**14** "Se tu andares nos Meus caminhos, para guardares os Meus estatutos e os Meus mandamentos, como teu pai Davi andou, então, prolongarei os teus dias""." ^v14
 
-**15** E acordou Salomão, e eis que era sonho. E indo a Jerusalém, pôs-se perante a arca da aliança do Senhor, e sacrificou holocausto, e preparou sacrifícios pacíficos, e fez um banquete a todos os seus servos. ^v15
+**15** Então Salomão acordou, e eis que era um sonho. Ele foi a Jerusalém e se pôs diante da Arca da Aliança do Senhor. Fez ofertas queimadas e ofertas de paz e fez um banquete para todos os seus servos. ^v15
 
-**16** Então vieram duas mulheres prostitutas ao rei, e se puseram perante ele. ^v16
+**16** Depois disso, duas mulheres prostitutas vieram ao rei e se puseram diante dele. ^v16
 
-**17** E disse-lhe uma das mulheres: Ah! senhor meu, eu e esta mulher moramos numa casa; e tive um filho, estando com ela naquela casa. ^v17
+**17** "Uma mulher lhe disse: ""Ah, meu senhor, esta mulher e eu moramos na mesma casa, e eu dei à luz uma criança, com ela na casa." ^v17
 
-**18** E sucedeu que, ao terceiro dia, depois do meu parto, teve um filho também esta mulher; estávamos juntas; nenhum estranho estava conosco na casa; somente nós duas naquela casa. ^v18
+**18** Aconteceu que, no terceiro dia depois do parto, essa mulher também deu à luz. Nós estávamos juntas. Não havia mais ninguém conosco na casa, mas somente nós duas na casa. ^v18
 
-**19** E de noite morreu o filho desta mulher, porquanto se deitara sobre ele. ^v19
+**19** Então o filho dessa mulher morreu numa noite, porque ela se deitou sobre ele. ^v19
 
-**20** E levantou-se à meia-noite, e tirou o meu filho do meu lado, enquanto dormia a tua serva, e o deitou no seu seio; e a seu filho morto deitou no meu seio. ^v20
+**20** Então ela se levantou à meia-noite e tomou o meu filho do meu lado, enquanto a tua serva dormia, deitou-o no seio dela e deitou o filho morto dela em meu seio. ^v20
 
-**21** E, levantando-me eu pela manhã, para dar de mamar a meu filho, eis que estava morto; mas, atentando pela manhã para ele, eis que não era meu filho, que eu havia tido. ^v21
+**21** "Quando eu levantei pela manhã, para amamentar meu filho, ele estava morto. Mas, quando eu olhei cuidadosamente para ele, ao amanhecer, ele não era o filho que eu dei à luz""." ^v21
 
-**22** Então disse a outra mulher: Não, mas o vivo é meu filho, e teu filho o morto. Porém esta disse: Não, por certo, o morto é teu filho, e meu filho o vivo. Assim falaram perante o rei. ^v22
+**22** "Em seguida, a outra mulher disse: ""Não, o vivo é meu filho, e o morto é teu filho"". A primeira mulher disse: ""Não, o que está morto é teu filho, e o vivo é meu filho"". E, assim, elas falaram perante o rei." ^v22
 
-**23** Então disse o rei: Esta diz: Este que vive é meu filho, e teu filho o morto; e esta outra diz: Não, por certo, o morto é teu filho e meu filho o vivo. ^v23
+**23** "Então o rei disse: ""Uma de vós diz: 'Este é o meu filho, o que está vivo, e, teu filho está morto', e a outra diz: ''Não, teu filho está morto, e o meu filho é o que está vivo'""." ^v23
 
-**24** Disse mais o rei: Trazei-me uma espada. E trouxeram uma espada diante do rei. ^v24
+**24** "O rei disse: ""Trazei-me uma espada"". Assim, eles trouxeram uma espada diante do rei." ^v24
 
-**25** E disse o rei: Dividi em duas partes o menino vivo; e dai metade a uma, e metade a outra. ^v25
+**25** "Em seguida, o rei disse: ""Dividi em duas a criança que vive. Dai metade a uma mulher e metade à outra""." ^v25
 
-**26** Mas a mulher, cujo filho era o vivo, falou ao rei (porque as suas entranhas se lhe enterneceram por seu filho), e disse: Ah! senhor meu, dai-lhe o menino vivo, e de modo nenhum o mateis. Porém a outra dizia: Nem teu nem meu seja; dividi-o. ^v26
+**26** "Então a mulher cujo filho estava vivo falou ao rei, pois seu coração estava cheio de compaixão por seu filho, e ela disse: ""Ah, meu mestre, dá a criança viva a ela, e de modo algum a mates"". Mas a outra mulher disse: ""Ela não será minha nem tua. Divide-a""." ^v26
 
-**27** Então respondeu o rei, e disse: Dai a esta o menino vivo, e de maneira nenhuma o mateis, porque esta é sua mãe. ^v27
+**27** "Então o rei respondeu e disse: ""Dai à primeira mulher a criança viva; de modo algum, a mates. Ela é a mãe""." ^v27
 
-**28** E todo o Israel ouviu o juízo que havia dado o rei, e temeu ao rei; porque viram que havia nele a sabedoria de Deus, para fazer justiça. ^v28
+**28** Quando todo o Israel ouviu o julgamento que o rei havia tomado, eles temeram o rei, porque viram que a sabedoria de Deus estava nele para dar julgamentos. ^v28

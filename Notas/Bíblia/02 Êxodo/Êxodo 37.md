@@ -1,65 +1,64 @@
 ---
-Livro: "[[Êxodo|Êxodo]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Êxodo|Êxodo]]"
+tags: [biblia]
 ---
 
 # Êxodo 37
 
-**1** Fez também Bezalel a arca de madeira de acácia; o seu comprimento era de dois côvados e meio; e a sua largura de um côvado e meio; e a sua altura de um côvado e meio. ^v1
+**1** Bezalel fez a arca de madeira de acácia. O seu comprimento era de dois côvados e meio, a sua largura era de um côvado e meio e a sua altura era de um côvado e meio. ^v1
 
-**2** E cobriu-a de ouro puro por dentro e por fora; e fez-lhe uma coroa de ouro ao redor; ^v2
+**2** Ele a cobriu por dentro e por fora com ouro puro e fez para ela uma bordadura de ouro ao redor. ^v2
 
-**3** E fundiu-lhe quatro argolas de ouro nos seus quatro cantos; num lado duas, e no outro lado duas argolas; ^v3
+**3** Ele fundiu quatro argolas de ouro para os seus quatro pés, com duas argolas de um lado e duas argolas do outro lado. ^v3
 
-**4** E fez varais de madeira de acácia, e os cobriu de ouro; ^v4
+**4** Ele fez varas de madeira de acácia e as cobriu com ouro; ^v4
 
-**5** E pôs os varais pelas argolas aos lados da arca, para se levar a arca. ^v5
+**5** pôs as varas dentro das argolas, nos lados da arca para carregá-la. ^v5
 
-**6** Fez também o propiciatório de ouro puro; o seu comprimento era de dois côvados e meio, e a sua largura de um côvado e meio. ^v6
+**6** Fez também o propiciatório de ouro puro. O seu comprimento era de dois côvados e meio e a sua largura era de um côvado e meio. ^v6
 
-**7** Fez também dois querubins de ouro; de obra batida os fez, nas duas extremidades do propiciatório. ^v7
+**7** Bezalel fez dois querubins de ouro batido para as duas extremidades do propiciatório. ^v7
 
-**8** Um querubim na extremidade de um lado, e o outro na outra extremidade do outro lado; de uma só peça com o propiciatório fez os querubins nas duas extremidades dele. ^v8
+**8** Um querubim estava em uma extremidade do propiciatório e o outro querubim estava na outra extremidade. Eles formavam uma só peça com o propiciatório. ^v8
 
-**9** E os querubins estendiam as asas por cima, cobrindo com elas o propiciatório; e os seus rostos estavam defronte um do outro; os rostos dos querubins estavam virados para o propiciatório. ^v9
+**9** Os querubins estendiam as suas asas por cima e cobriam o propiciatório com elas. Eles estavam de frente um para o outro, com as faces voltadas para o propiciatório. ^v9
 
-**10** Fez também a mesa de madeira de acácia; o seu comprimento era de dois côvados, e a sua largura de um côvado, e a sua altura de um côvado e meio. ^v10
+**10** Bezalel fez a mesa de madeira de acácia. O seu comprimento era de dois côvados; a sua largura era de um côvado e a sua altura era de um côvado e meio. ^v10
 
-**11** E cobriu-a de ouro puro, e fez-lhe uma coroa de ouro ao redor. ^v11
+**11** Ele a cobriu com ouro puro e pôs uma bordadura de ouro puro ao redor. ^v11
 
-**12** Fez-lhe também, ao redor, uma moldura da largura da mão; e fez uma coroa de ouro ao redor da moldura. ^v12
+**12** Fez uma moldura para ela na largura de quatro dedos, com uma bordadura de ouro para a moldura. ^v12
 
-**13** Fundiu-lhe também quatro argolas de ouro; e pôs as argolas nos quatro cantos que estavam em seus quatro pés. ^v13
+**13** Ele fundiu para ela quatro argolas de ouro e as atou nos quatro cantos onde os seus pés estavam. ^v13
 
-**14** Defronte da moldura estavam as argolas para os lugares dos varais, para se levar a mesa. ^v14
+**14** As argolas foram atadas na moldura para receber as varas para carregar a mesa. ^v14
 
-**15** Fez também os varais de madeira de acácia, e os cobriu de ouro, para se levar a mesa. ^v15
+**15** Ele fez as varas de madeira de acácia, por fora, e as cobriu com ouro, para carregar a mesa. ^v15
 
-**16** E fez de ouro puro os utensílios que haviam de estar sobre a mesa, os seus pratos e as suas colheres, e as suas tigelas e as suas taças em que se haviam de oferecer libações. ^v16
+**16** Ele fez os objetos que estariam sobre a mesa: pratos, colheres, tigelas e jarros a serem usados para derramar as ofertas. Ele os fez de ouro puro. ^v16
 
-**17** Fez também o candelabro de ouro puro; de obra batida fez este candelabro; o seu pedestal, e as suas hastes, os seus copos, as suas maçãs, e as suas flores, formavam com ele uma só peça. ^v17
+**17** Ele fez o candelabro de ouro puro batido; fez o candelabro com sua base e haste. Seus copos, suas bases com folhas e suas flores formavam com ele uma só peça. ^v17
 
-**18** Seis hastes saíam dos seus lados; três hastes do candelabro, de um lado dele, e três do outro lado. ^v18
+**18** Seis braços saíam dos seus lados: três braços saíam de um lado do candelabro, e três saíam do outro. ^v18
 
-**19** Numa haste estavam três copos do feitio de amêndoas, um botão e uma flor; e na outra haste três copos do feitio de amêndoas, um botão e uma flor; assim eram as seis hastes que saíam do candelabro. ^v19
+**19** O primeiro braço tinha três copos em forma de flor de amêndoa, com folhas na base e uma flor; e no outro braço, três copos feitos em forma de flor de amêndoa, com folhas na base e uma flor. Era a mesma coisa para todos os seis braços que saíam do candelabro. ^v19
 
-**20** Mas no mesmo candelabro havia quatro copos do feitio de amêndoas com os seus botões e com as suas flores. ^v20
+**20** No próprio candelabro, na haste central, havia quatro copos feitos na forma de flores de amêndoa, com suas bases com folhas e flores. ^v20
 
-**21** E havia um botão debaixo de duas hastes da mesma peça; e outro botão debaixo de duas hastes da mesma peça; e mais um botão debaixo de duas hastes da mesma peça; assim se fez para as seis hastes, que saíam dele. ^v21
+**21** Havia uma base com folhas sob o primeiro par de braços, formando uma só peça com ele; e uma base com folhas sob o segundo par de braços, também formando uma só peça com ele. Da mesma forma, havia uma base com folhas sob o terceiro par de braços, feito em uma só peça com ele. Assim era para todos os seis braços que saíam do candelabro. ^v21
 
-**22** Os seus botões e as suas hastes eram da mesma peça; tudo era uma obra batida de ouro puro. ^v22
+**22** Suas bases com folhas e braços formavam todos uma só peça com ele, peça trabalhada em ouro puro batido. ^v22
 
-**23** E fez-lhe, de ouro puro, sete lâmpadas com os seus espevitadores e os seus apagadores; ^v23
+**23** Bezalel fez o candelabro e suas sete lâmpadas, seus aparadores e seus apagadores de ouro puro. ^v23
 
-**24** De um talento de ouro puro fez o candelabro e todos os seus utensílios. ^v24
+**24** Ele fez o candelabro e seus acessórios com um talento de ouro puro. ^v24
 
-**25** E fez o altar do incenso de madeira de acácia; de um côvado era o seu comprimento, e de um côvado a sua largura, era quadrado; e de dois côvados a sua altura; dele mesmo eram feitas as suas pontas. ^v25
+**25** Bezalel fez o altar do incenso. Ele o fez de madeira de acácia. O seu comprimento era de um côvado e sua largura de um côvado. Ele era quadrado e sua altura tinha dois côvados. Seus chifres formavam uma só peça com ele. ^v25
 
-**26** E cobriu-o de ouro puro, a parte superior e as suas paredes ao redor, e as suas pontas; e fez-lhe uma coroa de ouro ao redor. ^v26
+**26** Ele cobriu o altar do incenso com ouro puro, sua parte superior, seus lados e seus chifres. Fez também uma bordadura de ouro para ele. ^v26
 
-**27** Fez-lhe também duas argolas de ouro debaixo da sua coroa, e os seus dois cantos, de ambos os seus lados, para neles se colocar os varais, e com eles levá-lo. ^v27
+**27** Ele fez duas argolas de ouro e as fixou debaixo da bordadura, em lados opostos do altar do incenso. As argolas eram suportes onde passavam as varas para carregar o altar. ^v27
 
-**28** E os varais fez de madeira de acácia, e os cobriu de ouro. ^v28
+**28** Fez as varas de madeira de acácia e as cobriu com ouro. ^v28
 
-**29** Também fez o azeite santo da unção, e o incenso aromático, puro, qual obra do perfumista. ^v29
+**29** Ele fez o óleo santo da unção e incenso aromático, puro, obra de perfumista. ^v29

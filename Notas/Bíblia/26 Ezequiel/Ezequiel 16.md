@@ -1,133 +1,132 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Ezequiel|Ezequiel]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Ezequiel|Ezequiel]]"
+tags: [biblia]
 ---
 
 # Ezequiel 16
 
-**1** E veio a mim outra vez a palavra do SENHOR, dizendo: ^v1
+**1** Então, veio a mim a palavra de Yahweh, dizendo: ^v1
 
-**2** Filho do homem, faze conhecer a Jerusalém as suas abominações. ^v2
+**2** """Filho do homem, informa a Jerusalém sobre as suas abominações" ^v2
 
-**3** E dize: Assim diz o Senhor DEUS a Jerusalém: A tua origem e o teu nascimento procedem da terra dos cananeus. Teu pai era amorreu, e tua mãe hetéia. ^v3
+**3** e declara: 'Assim diz Yahweh Deus a respeito de Jerusalém: A tua origem e o teu nascimento vêm da terra dos cananeus; teu pai era amorreu e tua mãe, heteia. ^v3
 
-**4** E, quanto ao teu nascimento, no dia em que nasceste não te foi cortado o umbigo, nem foste lavada com água para te limpar; nem tampouco foste esfregada com sal, nem envolta em faixas. ^v4
+**4** No dia em que nasceste, a tua mãe não cortou teu umbigo, nem foste lavada com água, para tua purificação, nem esfregada com sal; nem foi embrulhada com vestes. ^v4
 
-**5** Não se apiedou de ti olho algum, para te fazer alguma coisa disto, compadecendo-se de ti; antes foste lançada em pleno campo, pelo nojo da tua pessoa, no dia em que nasceste. ^v5
+**5** Nenhum olho se compadeceu de ti para fazer qualquer uma dessas coisas a teu favor, mas, com nojo de ti, te lançaram em campo aberto. ^v5
 
-**6** E, passando eu junto de ti, vi-te a revolver-te no teu sangue, e disse-te: Ainda que estejas no teu sangue, vive; sim, disse-te: Ainda que estejas no teu sangue, vive. ^v6
+**6** Mas Eu passei por ti, vi-te manchada no teu sangue; então, disse a ti: 'Vive!', Eu te disse quando estava ainda ensanguentada, 'vive!'. ^v6
 
-**7** Eu te fiz multiplicar como o renovo do campo, e cresceste, e te engrandeceste, e chegaste à grande formosura; avultaram os seios, e cresceu o teu cabelo; mas estavas nua e descoberta. ^v7
+**7** Eu te fiz crescer como a planta na terra. Tu te multiplicaste e te engradeceste tornando jóia das jóias. Os teus seios tornaram-se firmes e seu cabelo cresceu, mas tu estavas nua e estéril. ^v7
 
-**8** E, passando eu junto de ti, vi-te, e eis que o teu tempo era tempo de amores; e estendi sobre ti a aba do meu manto, e cobri a tua nudez; e dei-te juramento, e entrei em aliança contigo, diz o Senhor DEUS, e tu ficaste sendo minha. ^v8
+**8** Passei novamente por ti. Vê! O tempo de amor veio a ti, então, Eu estendi sobre ti o Meu manto e cobri a tua nudez. Então, jurei e fiz aliança contigo — esta é a declaração de Yahweh — e passaste a ser Minha. ^v8
 
-**9** Então te lavei com água, e te enxuguei do teu sangue, e te ungi com óleo. ^v9
+**9** Então, Eu te lavei com água, enxuguei teu sangue de ti e ungi com óleo. ^v9
 
-**10** E te vesti com roupas bordadas, e te calcei com pele de texugo, e te cingi com linho fino, e te cobri de seda. ^v10
+**10** Eu te vesti com roupas bordadas, calcei teus pés com sandálias de couro nobre. Eu te envolvi com linho fino e te cobri com seda. ^v10
 
-**11** E te enfeitei com adornos, e te pus braceletes nas mãos e um colar ao redor do teu pescoço. ^v11
+**11** De joias, Eu te adornei, coloquei braceletes em teus braços e um colar em teu pescoço. ^v11
 
-**12** E te pus um pendente na testa, e brincos nas orelhas, e uma coroa de glória na cabeça. ^v12
+**12** Eu coloquei um pendente em teu nariz, brincos nas tuas orelhas e uma linda coroa em tua cabeça. ^v12
 
-**13** E assim foste ornada de ouro e prata, e o teu vestido foi de linho fino, e de seda e de bordados; nutriste-te de flor de farinha, e mel e azeite; e foste formosa em extremo, e foste próspera, até chegares a realeza. ^v13
+**13** Assim foste adornada com ouro e prata; e foste vestida com linho fino, seda e roupas bordadas; comeste de farinha excelente, mel e óleo; eras muito formosa e te tornaste rainha. ^v13
 
-**14** E correu de ti a tua fama entre os gentios, por causa da tua formosura, pois era perfeita, por causa da minha glória que eu pusera em ti, diz o Senhor DEUS. ^v14
+**14** E a tua fama correu entre as nações por causa da tua beleza, pois eras perfeita pela majestade que te dei — assim diz Yahweh Deus. ^v14
 
-**15** Mas confiaste na tua formosura, e te corrompeste por causa da tua fama, e prostituías-te a todo o que passava, para seres dele. ^v15
+**15** Mas confiaste em tua formosura e te corrompestes como uma prostituta por causa da tua fama, prostituindo-te a todos que passavam por ti e tua beleza se tornou deles. ^v15
 
-**16** E tomaste dos teus vestidos, e fizeste lugares altos pintados de diversas cores, e te prostituíste sobre eles, como nunca sucedera, nem sucederá. ^v16
+**16** Depois, tomaste as tuas vestes e, com elas, adornaste, de várias cores, os lugares altos e te comportaste como uma prostituta. Isso não deveria ter acontecido. Nem deveria tal coisa ter existido. ^v16
 
-**17** E tomaste as tuas jóias de enfeite, que eu te dei do meu ouro e da minha prata, e fizeste imagens de homens, e te prostituíste com elas. ^v17
+**17** Tu tomaste das excelentes jóias de ouro e de prata que te dei; fizeste imagens de homens e te prostituiste como querias com elas. ^v17
 
-**18** E tomaste os teus vestidos bordados, e as cobriste; e o meu azeite e o meu perfume puseste diante delas. ^v18
+**18** Tu tomaste as tuas vestes bordadas e as cobriste; puseste, diante delas, Meus óleos e perfumes. ^v18
 
-**19** E o meu pão que te dei, a flor de farinha, e o azeite e o mel com que eu te sustentava, também puseste diante delas em cheiro suave; e assim foi, diz o Senhor DEUS. ^v19
+**19** O Meu pão que te dei — feito de farinha fina, óleo e mel — puseste diante dos ídolos como cheiro suave, isso foi o que aconteceu — esta é a declaração de Yahweh Deus. ^v19
 
-**20** Além disto, tomaste a teus filhos e tuas filhas, que me tinhas gerado, e os sacrificaste a elas, para serem consumidos; acaso é pequena a tua prostituição? ^v20
+**20** Além disso, tomaste teus filhos e tuas filhas que gerastes para Mim e os sacrificaste às imagens para serem devorados como comida. Será que era tão pequena a tua fama de prostituição, ^v20
 
-**21** E mataste a meus filhos, e os entregaste a elas para os fazerem passar pelo fogo. ^v21
+**21** que ainda tinhas que matar Meus filhos e entregá-los como oferta queimada? ^v21
 
-**22** E em todas as tuas abominações, e nas tuas prostituições, não te lembraste dos dias da tua mocidade, quando tu estavas nua e descoberta, e revolvida no teu sangue. ^v22
+**22** Em todas as tuas abominações e nos atos da tua prostituição, não lembraste dos dias da tua mocidade, quando estavas nua e estéril, debatendo-te em teu sangue. ^v22
 
-**23** E sucedeu, depois de toda a tua maldade (ai, ai de ti! diz o Senhor DEUS), ^v23
+**23** Ai! Ai de ti! — esta é a palavra de Yahweh Deus — além de todo esse pecado, ^v23
 
-**24** Que edificaste uma abóbada, e fizeste lugares altos em cada rua. ^v24
+**24** tu edificaste lugar de adoração e altares em todos os locais públicos. ^v24
 
-**25** A cada canto do caminho edificaste o teu lugar alto, e fizeste abominável a tua formosura, e alargaste os teus pés a todo o que passava, e multiplicaste as tuas prostituições. ^v25
+**25** Edificaste o teu lugar alto em todo começo de caminho e profanaste tua formosura, ofereceste o teu corpo a todos que passavam e multiplicaste tua prostituição. ^v25
 
-**26** Também te prostituíste com os filhos do Egito, teus vizinhos grandes de carne, e multiplicaste a tua prostituição para me provocares à ira. ^v26
+**26** Agiste como uma prostituta com os egípcios, com teus vizinhos com corpos avantajados, e praticaste muitos outros atos de prostituição, provocando-Me a ira. ^v26
 
-**27** Por isso estendi a minha mão sobre ti, e diminuí a tua porção; e te entreguei à vontade das que te odeiam, das filhas dos filisteus, as quais se envergonhavam do teu caminho depravado. ^v27
+**27** Olha! Eu te destruirei com a Minha mão e tirarei a tua porção. Entregarei a tua vida aos teus inimigos, as filhas dos filisteus, as quais se envergonharam do teu comportamento obceno. ^v27
 
-**28** Também te prostituíste com os filhos da Assíria, porquanto eras insaciável; e prostituindo-te com eles, nem ainda assim ficaste farta. ^v28
+**28** Agiste como uma prostituta com os assírios, porque eras insaciável. Agiste como uma prostituta e, mesmo assim, não te saciaste. ^v28
 
-**29** Antes multiplicaste as tuas prostituições na terra de Canaã até Caldéia, e nem ainda com isso te fartaste. ^v29
+**29** Tu te prostituíste muito mais na terra dos mercadores da Caldeia, e, mesmo assim, não te saciaste. ^v29
 
-**30** Quão fraco é o teu coração, diz o Senhor DEUS, fazendo tu todas estas coisas, obras de uma meretriz imperiosa! ^v30
+**30** Quão fraco é o teu coração — assim diz Yahweh Deus — fazendo tu estas coisas e agindo como uma prostituta sem vergonha? ^v30
 
-**31** Edificando tu a tua abóbada ao canto de cada caminho, e fazendo o teu lugar alto em cada rua! Nem foste como a meretriz, pois desprezaste a paga; ^v31
+**31** Edificaste o teu prostíbulo em cada caminho e fizeste o teu altar em cada rua; não foste nem mesmo como uma prostituta, pois recusaste até teu pagamento. ^v31
 
-**32** Foste como a mulher adúltera que, em lugar de seu marido, recebe os estranhos. ^v32
+**32** Tu, mulher adúltera, aceitaste os estranhos em lugar de teu marido. ^v32
 
-**33** A todas as meretrizes dão paga, mas tu dás os teus presentes a todos os teus amantes; e lhes dás presentes, para que venham a ti de todas as partes, pelas tuas prostituições. ^v33
+**33** Homens pagam para toda prostituta, mas tu dá salários a todos os teus amantes e os subornas para que venham prostituirem-se contigo. ^v33
 
-**34** Assim que contigo sucede o contrário das outras mulheres nas tuas prostituições, pois ninguém te procura para prostituição; porque, dando tu a paga, e a ti não sendo dada a paga, fazes o contrário. ^v34
+**34** Então, esta é a diferença entre tu e todas outras mulheres, pois nenhum homem vai pedir que durmas com eles. Ao invés disso, tu fazes o contrário, pagas a eles. Ninguém te paga. ^v34
 
-**35** Portanto, ó meretriz, ouve a palavra do Senhor. ^v35
+**35** Portanto, tu prostituta, escuta a palavra de Yahweh. ^v35
 
-**36** Assim diz o Senhor DEUS: Porquanto se derramou o teu dinheiro, e se descobriu a tua nudez nas tuas prostituições com os teus amantes, como também com todos os ídolos das tuas abominações, e do sangue de teus filhos que lhes deste; ^v36
+**36** Yahweh Deus diz: Porque tens derramado tua volúpia e descoberto tua nudez para a prostituição com teus amantes e com teus ídolos abomináveis, por causa do sangue dos teus filhos que lhe destes; ^v36
 
-**37** Portanto, eis que ajuntarei a todos os teus amantes, com os quais te deleitaste, como também a todos os que amaste, com todos os que odiaste, e ajuntá-los-ei contra ti em redor, e descobrirei a tua nudez diante deles, para que vejam toda a tua nudez. ^v37
+**37** por este motivo, Eu ajuntarei todos teus amantes com os quais te encontraste, todos os que amaste, junto com aqueles os quais tu odiaste, Eu os ajuntarei contra ti de todos os lados. Exporei tuas partes íntimas diante deles, para que vejam toda tua nudez. ^v37
 
-**38** E julgar-te-ei como são julgadas as adúlteras e as que derramam sangue; e entregar-te-ei ao sangue de furor e de ciúme. ^v38
+**38** Eu te punirei por adultério e derramamento de sangue e trarei sobre ti o derramar de sangue da Minha ira e paixão. ^v38
 
-**39** E entregar-te-ei nas mãos deles; e eles derrubarão a tua abóbada, e transtornarão os teus altos lugares, e te despirão os teus vestidos, e tomarão as tuas jóias de enfeite, e te deixarão nua e descoberta. ^v39
+**39** E te entregarei nas mãos de teus inimigos e eles derrubarão os teus lugares de adoração a ídolos e demolirão os teus altares, desnudarão as tuas vestes, tomarão todas as tuas jóias, deixando-te nua e despida. ^v39
 
-**40** Então farão subir contra ti uma multidão, e te apedrejarão, e te traspassarão com as suas espadas. ^v40
+**40** Então, subirá uma multidão contra ti, apedrejarão e cortarão a ti com suas espadas. ^v40
 
-**41** E queimarão as tuas casas a fogo, e executarão juízos contra ti aos olhos de muitas mulheres; e te farei cessar de ser meretriz, e paga não darás mais. ^v41
+**41** Queimarão tuas casas, executarão juízos e julgamentos a ti aos olhos de muitas mulheres; farei cessar a tua prostituição e já não mais pagarás aos seus amantes. ^v41
 
-**42** Assim satisfarei em ti o meu furor, e os meus ciúmes se desviarão de ti, e me aquietarei, e nunca mais me indignarei. ^v42
+**42** Então, acalmarei a Minha fúria contra ti; Minha ira se desviará de ti, sossegarei e não mais Me indignarei. ^v42
 
-**43** Porquanto não te lembraste dos dias da tua mocidade, e me provocaste à ira com tudo isto, eis que também eu farei recair o teu caminho sobre a tua cabeça, diz o Senhor DEUS, e não mais farás tal perversidade sobre todas as tuas abominações. ^v43
+**43** Porque não te lembraste dos dias da tua mocidade e Me provocaste a ira por causa de todas estas coisas, por isso, cuidado! Eu farei a punição por tudo aquilo que fizeste — esta é a declaração de Yahweh Deus. Não acrescentaste infidelidade para todas as tuas outras práticas detestáveis? ^v43
 
-**44** Eis que todo o que usa de provérbios usará contra ti este provérbio, dizendo: Tal mãe, tal filha. ^v44
+**44** "Eis que todos aqueles que falam em provérbios a teu respeito dirão: ""Tal como é a mãe, também é a filha""." ^v44
 
-**45** Tu és filha de tua mãe, que tinha nojo de seu marido e de seus filhos; e tu és irmã de tuas irmãs, que tinham nojo de seus maridos e de seus filhos; vossa mãe foi hetéia, e vosso pai amorreu. ^v45
+**45** Tu és a filha de tua mãe, que detestou seu marido e seus filhos, tu és a irmã de tuas irmãs, que detestaram seus maridos e seus filhos. Tua mãe era heteia e teu pai amorreu. ^v45
 
-**46** E tua irmã, a maior, é Samaria, ela e suas filhas, a qual habita à tua esquerda; e a tua irmã menor, que habita à tua mão direita, é Sodoma e suas filhas. ^v46
+**46** Tua irmã mais velha era Samaria e suas filhas era as que habitavam ao norte; enquanto a tua irmã mais nova era a única que vivia ao teu lado sul, isto é, Sodoma e suas filhas. ^v46
 
-**47** Todavia não andaste nos seus caminhos, nem fizeste conforme as suas abominações; mas como se isto fora mui pouco, ainda te corrompeste mais do que elas, em todos os teus caminhos. ^v47
+**47** Tu não só andavas nos caminhos deles, como imitavas as práticas de suas abominações, mas, em todos teus caminhos, foste pior que eles. ^v47
 
-**48** Vivo eu, diz o Senhor DEUS, que não fez Sodoma, tua irmã, nem ela, nem suas filhas, como fizeste tu e tuas filhas. ^v48
+**48** Assim como Eu vivo — diz Yahweh Deus — tua irmã Sodoma e suas filhas não fizeram tanto quanto tu e tuas filhas fizestes. ^v48
 
-**49** Eis que esta foi a iniqüidade de Sodoma, tua irmã: Soberba, fartura de pão, e abundância de ociosidade teve ela e suas filhas; mas nunca fortaleceu a mão do pobre e do necessitado. ^v49
+**49** Eis que este era o pecado da tua irmã Sodoma: ela era arrogante em seu ócio, distraída, despreocupada de qualquer coisa. Ela nunca estendeu a mão para o pobre e o necessitado. ^v49
 
-**50** E se ensoberbeceram, e fizeram abominações diante de mim; portanto, vendo eu isto as tirei dali. ^v50
+**50** Ela era arrogante e praticava abominações diante de Mim, então, Eu as removi do seu lugar, como tu viste. ^v50
 
-**51** Também Samaria não cometeu a metade de teus pecados; e multiplicaste as tuas abominações mais do que elas, e justificaste a tuas irmãs, com todas as tuas abominações que fizeste. ^v51
+**51** E nem mesmo Samaria praticou metade de teus pecados; tu fizeste coisas mais abomináveis que ela e mostraste que tuas irmãs eram melhores que tu, por causa das abominações que fizeste! ^v51
 
-**52** Tu, também, que julgaste a tuas irmãs, leva a tua vergonha pelos pecados, que cometeste, mais abomináveis do que elas; mais justas são do que tu; envergonha-te logo também, e leva a tua vergonha, pois justificaste a tuas irmãs. ^v52
+**52** E tu, mostra a tua vergonha; dessa maneira, tu tens mostrado que tuas irmãs foram melhores que tu, por causa dos pecados que cometeste em todos caminhos abomináveis. Tuas irmãs agiram de melhor forma; especialmente tu, mostra a tua vergonha, pois, dessa maneira, mostra que tuas irmãs têm agido melhor que tu. ^v52
 
-**53** Eu, pois, farei voltar os cativos delas; os cativos de Sodoma e suas filhas, e os cativos de Samaria e suas filhas, e os cativos do teu cativeiro dentre elas; ^v53
+**53** Pois Eu restaurarei a sorte de Sodoma — a sorte de Sodoma e suas filhas; a sorte de Samaria e suas filhas; e a tua sorte ficará entre elas. ^v53
 
-**54** Para que leves a tua vergonha, e sejas envergonhada por tudo o que fizeste, dando-lhes tu consolação. ^v54
+**54** E, por causa destas coisas, serás envergonhada de todas as coisas que cometeste e isso será um conforto para elas. ^v54
 
-**55** Quando tuas irmãs, Sodoma e suas filhas, tornarem ao seu primeiro estado, e também Samaria e suas filhas tornarem ao seu primeiro estado, também tu e tuas filhas tornareis ao vosso primeiro estado. ^v55
+**55** Tua irmã Sodoma e suas filhas serão restauradas, como Samaria e suas filhas serão restauradas em suas posses. Assim como tu e tuas filhas também serão restauradas à tua condição anterior. ^v55
 
-**56** Nem mesmo Sodoma, tua irmã, foi mencionada pela tua boca, no dia da tua soberba, ^v56
+**56** Sodoma, tua irmã, nem foi mencionada por ti, nos dias em que eras orgulhosa, ^v56
 
-**57** Antes que se descobrisse a tua maldade, como no tempo do desprezo das filhas da Síria, e de todos os que estavam ao redor dela, as filhas dos filisteus, que te desprezavam em redor. ^v57
+**57** antes que tua corrupção fosse revelada. Mas, agora, tu és objeto do desprezo pelas filhas de Edom e de todos os filisteus ao seu redor, todos te desprezam. ^v57
 
-**58** A tua perversidade e as tuas abominações tu levarás, diz o Senhor. ^v58
+**58** "Tu serás envergonhada por causa das tuas obras repugnantes! — assim diz Yahweh!""." ^v58
 
-**59** Porque assim diz o Senhor DEUS: Eu te farei como fizeste, que desprezaste o juramento, quebrando a aliança. ^v59
+**59** "Assim diz Yahweh Deus: ""Tratarei contigo da forma que mereces, pois tu desprezaste o teu juramento quebrando a aliança." ^v59
 
-**60** Contudo eu me lembrarei da minha aliança, que fiz contigo nos dias da tua mocidade; e estabelecerei contigo uma aliança eterna. ^v60
+**60** Eu, contudo, Me lembrarei da Minha aliança que fiz contigo, nos dias da tua mocidade, e estabelecerei contigo a Minha aliança eterna. ^v60
 
-**61** Então te lembrarás dos teus caminhos, e te confundirás, quando receberes tuas irmãs maiores do que tu, com as menores do que tu, porque tas darei por filhas, mas não pela tua aliança. ^v61
+**61** Então, tu te lembrarás dos teus caminhos e te evergonharás, quando receberes tuas irmãs mais velhas e as mais novas, porque Eu as darei a ti por filhas, mas não por causa da tua aliança. ^v61
 
-**62** Porque eu estabelecerei a minha aliança contigo, e saberás que eu sou o Senhor; ^v62
+**62** Eu estabelecerei Minha aliança contigo e tu saberás que Eu sou Yahweh. ^v62
 
-**63** Para que te lembres disso, e te envergonhes, e nunca mais abras a tua boca, por causa da tua vergonha, quando eu te expiar de tudo quanto fizeste, diz o Senhor DEUS. ^v63
+**63** "Por esta razão, tu te lembrarás e ficarás envergonhada; nunca mais abrirás a tua boca por causa da tua vergonha, quando Eu te perdoar por tudo que fizeste — assim diz Yahweh Deus'""." ^v63

@@ -1,37 +1,34 @@
 ---
-Livro: "[[Salmos|Salmos]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Salmos|Salmos]]"
+tags: [biblia]
 ---
 
 # Salmos 144
 
-**1** Bendito seja o SENHOR, minha rocha, que ensina as minhas mãos para a peleja e os meus dedos para a guerra; ^v1
+**2** Tu és o meu refúgio e a minha fortaleza; minha torre alta e meu libertador; meu escudo e Aquele em quem me refugio; Aquele que submete as nações a mim. ^v2
 
-**2** Benignidade minha e fortaleza minha; alto retiro meu e meu libertador és tu; escudo meu, em quem eu confio, e que me sujeita o meu povo. ^v2
+**3** Yahweh, o que é o homem para que Tu tomes conhecimento dele, ou o filho do homem, para que o consideres? ^v3
 
-**3** Senhor, que é o homem, para que o conheças, e o filho do homem, para que o estimes? ^v3
+**4** O homem é como um sopro; seus dias são como a sombra que passa. ^v4
 
-**4** O homem é semelhante à vaidade; os seus dias são como a sombra que passa. ^v4
+**5** Faz o céu baixar e descer, Yahweh; toca as montanhas e as faz fumegar. ^v5
 
-**5** Abaixa, ó Senhor, os teus céus, e desce; toca os montes, e fumegarão. ^v5
+**6** Envia relâmpagos e dispersa meus inimigos; atira Tuas flechas e faça com que eles fujam em confusão. ^v6
 
-**6** Vibra os teus raios e dissipa-os; envia as tuas flechas, e desbarata-os. ^v6
+**7** Estende Tua mão do alto, e me resgata das muitas águas e da mão dos estrangeiros. ^v7
 
-**7** Estende as tuas mãos desde o alto; livra-me, e arrebata-me das muitas águas e das mãos dos filhos estranhos, ^v7
+**8** Suas bocas falam mentiras, e sua mão direita é a destra da falsidade. ^v8
 
-**8** Cuja boca fala vaidade, e a sua mão direita é a destra de falsidade. ^v8
+**9** Cantarei um cântico novo a Ti, ó Deus; com a harpa de dez cordas, cantarei louvores a Ti. ^v9
 
-**9** A ti, ó Deus, cantarei um cântico novo; com o saltério e instrumento de dez cordas te cantarei louvores; ^v9
+**10** Tu deste salvação aos reis; salvaste Davi, Teu servo, da espada maligna. ^v10
 
-**10** A ti, que dás a salvação aos reis, e que livras a Davi, teu servo, da espada maligna. ^v10
+**11** Salva-me e livra-me das mãos dos estrangeiros; suas bocas falam mentiras, e sua destra é falsidade. ^v11
 
-**11** Livra-me, e tira-me das mãos dos filhos estranhos, cuja boca fala vaidade, e a sua mão direita é a destra de iniqüidade, ^v11
+**12** Que nossos filhos sejam como plantas crescidas na sua mocidade, e nossas filhas sejam como colunas angulares esculpidas, lavradas como as de um palácio. ^v12
 
-**12** Para que nossos filhos sejam como plantas crescidas na sua mocidade; para que as nossas filhas sejam como pedras de esquina lavradas à moda de palácio; ^v12
+**13** Que nossos celeiros estejam repletos de todos os tipos de mantimentos, e nossas ovelhas se reproduzam aos milhares e dezenas de milhares, em nossos campos. ^v13
 
-**13** Para que as nossas despensas se encham de todo provimento; para que os nossos rebanhos produzam a milhares e a dezenas de milhares nas nossas ruas. ^v13
+**14** Então, nossos bois serão fortes para o trabalho. Ninguém invadirá nossos muros, e não haverá fugas e nem lamentações em nossas ruas. ^v14
 
-**14** Para que os nossos bois sejam fortes para o trabalho; para que não haja nem assaltos, nem saídas, nem gritos nas nossas ruas. ^v14
-
-**15** Bem-aventurado o povo ao qual assim acontece; bem-aventurado é o povo cujo Deus é o Senhor. ^v15
+**15** Feliz é o povo com tais bênçãos. Feliz é o povo que tem Yahweh como seu Deus. ^v15

@@ -1,57 +1,56 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Isaías|Isaías]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Isaías|Isaías]]"
+tags: [biblia]
 ---
 
 # Isaías 19
 
-**1** Peso do Egito. Eis que o SENHOR vem cavalgando numa nuvem ligeira, e entrará no Egito; e os ídolos do Egito estremecerão diante dele, e o coração dos egípcios se derreterá no meio deles. ^v1
+**1** Uma declaração acerca do Egito. Eis que Yahweh avança para o Egito, montado em uma nuvem ligeira. Os ídolos do Egito tremem diante Dele e o coração dos egípcios se derrete em seu interior. ^v1
 
-**2** Porque farei com que os egípcios, se levantem contra os egípcios, e cada um pelejará contra o seu irmão, e cada um contra o seu próximo, cidade contra cidade, reino contra reino. ^v2
+**2** """Eu colocarei os egípcios uns contra os outros: um homem lutará contra o seu irmão, lutará contra o seu próximo; cidade contra cidade e reino contra reino." ^v2
 
-**3** E o espírito do Egito se esvaecerá no seu interior, e destruirei o seu conselho; e eles consultarão aos seus ídolos, e encantadores, e aqueles que têm espíritos familiares e feiticeiros. ^v3
+**3** O ânimo do Egito será enfraquecido dentro dele e Eu destruirei o seu conselho; eles pedirão conselhos aos ídolos, invocarão os espíritos dos mortos, consultarão videntes e espiritualistas. ^v3
 
-**4** E entregarei os egípcios nas mãos de um senhor cruel, e um rei rigoroso os dominará, diz o Senhor, o SENHOR dos Exércitos. ^v4
+**4** "Eu entregarei os egípcios nas mãos de um senhor implacável; um rei poderoso os governará"" — esta é a declaração de Yahweh, o Senhor dos Exércitos." ^v4
 
-**5** E secarão as águas do mar, e o rio se esgotará e ressequirá. ^v5
+**5** As águas do mar secarão e o rio ficará seco e árido. ^v5
 
-**6** Também os rios exalarão mau cheiro e se esgotarão e secarão os canais do Egito; as canas e os juncos murcharão. ^v6
+**6** Os rios exalarão mau cheiro; os riachos do Egito diminuirão e secarão; as canas e os juncos murcharão. ^v6
 
-**7** A relva junto ao rio, junto às ribanceiras dos rios, e tudo o que foi semeado junto ao rio, secará, será arrancado e não subsistirá. ^v7
+**7** As canas ao longo do Nilo, das margens do Nilo, e tudo o que foi semeado junto ao Nilo secará, será removido e não mais existirá. ^v7
 
-**8** E os pescadores gemerão, e suspirarão todos os que lançam anzol ao rio, e os que estendem rede sobre as águas desfalecerão. ^v8
+**8** Os pescadores gemerão e prantearão; todos os que lançarem anzóis ao Nilo lamentarão, e aqueles que lançam redes nas águas se entristecerão. ^v8
 
-**9** E envergonhar-se-ão os que trabalham em linho fino, e os que tecem pano branco. ^v9
+**9** Aqueles que trabalham com linho fino e os que tecem algodão se envergonharão. ^v9
 
-**10** E os seus fundamentos serão despedaçados, e todos os que trabalham por salário ficarão com tristeza de alma. ^v10
+**10** Os tecelões do Egito serão esmagados; todos os que trabalham por salário ficarão com o espírito conturbado. ^v10
 
-**11** Na verdade são loucos os príncipes de Zoã; o conselho dos sábios conselheiros de Faraó se embruteceu; como, pois, a Faraó direis: Sou filho de sábios, filho de antigos reis? ^v11
+**11** "Os príncipes de Zoã são completamente tolos. Tornou-se insensato o conselho dos mais sábios conselheiros do faraó. Como podeis dizer ao faraó: ""Eu sou filho de um homem sábio, filho dos antigos reis""?" ^v11
 
-**12** Onde estão agora os teus sábios? Notifiquem-te agora, ou informem-te sobre o que o Senhor dos Exércitos determinou contra o Egito. ^v12
+**12** Onde estão os vossos sábios? Que eles vos façam saber o que Yahweh dos Exércitos determinou a respeito do Egito. ^v12
 
-**13** Loucos tornaram-se os príncipes de Zoã, enganados estão os príncipes de Nofe; eles fizeram errar o Egito, aqueles que são a pedra de esquina das suas tribos. ^v13
+**13** "Tornaram-se tolos os príncipes de Zoã, os príncipes de Mênfis estão enganados; aqueles que são as pedras angulares de suas tribos fizeram o Egito errar. [Nota: Em vez de ""Mênfis"", algumas versões têm ""Nofe"", o nome hebraico para a mesma cidade no Egito.]" ^v13
 
-**14** O Senhor derramou no meio dele um perverso espírito; e eles fizeram errar o Egito em toda a sua obra, como o bêbado quando se revolve no seu vômito. ^v14
+**14** Yahweh lançou no meio deles um espírito perverso, e eles fizeram o Egito errar em tudo o que fizesse, como um bêbado cambaleando em seu vômito. ^v14
 
-**15** E não aproveitará ao Egito obra alguma que possa fazer a cabeça, a cauda, o ramo, ou o junco. ^v15
+**15** Não há nada que alguém possa fazer pelo Egito, seja cabeça ou seja cauda, seja ramo de palma ou seja junco. ^v15
 
-**16** Naquele tempo os egípcios serão como mulheres, e tremerão e temerão por causa do movimento da mão do Senhor dos Exércitos, que há de levantar-se contra eles. ^v16
+**16** Naquele dia, os egípcios serão como mulheres. Eles tremerão e temerão porque a mão de Yahweh dos Exércitos Se erguerá contra eles. ^v16
 
-**17** E a terra de Judá será um espanto para o Egito; todo aquele a quem isso se anunciar se assombrará, por causa do propósito do Senhor dos Exércitos, que determinou contra eles. ^v17
+**17** A terra de Judá se tornará motivo para o Egito cambalear. Quando se lembrarem dela, temerão, por causa do plano de Yahweh contra eles. ^v17
 
-**18** Naquele tempo haverá cinco cidades na terra do Egito que falarão a língua de Canaã e farão juramento ao Senhor dos Exércitos; e uma se chamará: Cidade de destruição. ^v18
+**18** "Naquele dia, haverá cinco cidades no território do Egito que falarão o idioma de Canaã e jurarão lealdade a Yahweh dos Exércitos. Uma delas será chamada Cidade do Sol. [Nota: Em vez de ""Cidade do Sol"" que, provavelmente, refere-se a Heliópolis, algumas versões antigas e modernas têm ""Cidade da Destruição"".]" ^v18
 
-**19** Naquele tempo o Senhor terá um altar no meio da terra do Egito, e uma coluna se erigirá ao Senhor, junto da sua fronteira. ^v19
+**19** Naquele dia, haverá um altar para Yahweh no meio da terra do Egito e, em sua fronteira, um pilar de pedra para Yahweh. ^v19
 
-**20** E servirá de sinal e de testemunho ao Senhor dos Exércitos na terra do Egito, porque ao Senhor clamarão por causa dos opressores, e ele lhes enviará um salvador e um protetor, que os livrará. ^v20
+**20** Será um sinal e um testemunho para Yahweh dos Exércitos na terra do Egito. Quando clamarem a Yahweh por causa dos opressores, Ele lhes enviará um salvador e um defensor que os livrará. ^v20
 
-**21** E o Senhor se dará a conhecer ao Egito, e os egípcios conhecerão ao Senhor naquele dia, e o adorarão com sacrifícios e ofertas, e farão votos ao Senhor, e os cumprirão. ^v21
+**21** Yahweh será conhecido pelo Egito e os egípcios conhecerão a Yahweh naquele dia. Eles adorarão com sacrifícios e ofertas, farão votos a Yahweh e os cumprirão. ^v21
 
-**22** E ferirá o Senhor ao Egito, ferirá e o curará; e converter-se-ão ao Senhor, e mover-se-á às suas orações, e os curará; ^v22
+**22** Yahweh afligirá o Egito, afligindo-os e curando-os. Eles se voltarão para Yahweh, Ele ouvirá suas orações e os curará. ^v22
 
-**23** Naquele dia haverá estrada do Egito até à Assíria, e os assírios virão ao Egito, e os egípcios irão à Assíria; e os egípcios servirão com os assírios. ^v23
+**23** Naquele dia, haverá uma estrada do Egito até a Assíria; os assírios virão ao Egito e os egípcios, à Assíria. Os egípcios adorarão com os assírios. ^v23
 
-**24** Naquele dia Israel será o terceiro com os egípcios e os assírios, uma bênção no meio da terra. ^v24
+**24** Naquele dia, Israel será o terceiro, juntamente com o Egito e a Assíria, uma bênção no meio da terra. ^v24
 
-**25** Porque o Senhor dos Exércitos os abençoará, dizendo: Bendito seja o Egito, meu povo, e a Assíria, obra de minhas mãos, e Israel, minha herança. ^v25
+**25** "Yahweh dos Exércitos os abençoará e dirá: ""Abençoado seja o Egito, povo Meu; Assíria, trabalho das Minhas mãos; e Israel, Minha herança""." ^v25

@@ -1,67 +1,66 @@
 ---
-Livro: "[[Deuteronômio|Deuteronômio]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Deuteronômio|Deuteronômio]]"
+tags: [biblia]
 ---
 
 # Deuteronômio 22
 
-**1** Vendo extraviado o boi ou ovelha de teu irmão, não te desviarás deles; restituí-los-ás sem falta a teu irmão. ^v1
+**1** Se vires o boi ou a ovelha de teu irmão israelita se afastar e se esconder dele, deve, certamente, trazê-los de volta para ele. ^v1
 
-**2** E se teu irmão não estiver perto de ti, ou não o conheceres, recolhê-los-ás na tua casa, para que fiquem contigo, até que teu irmão os busque, e tu lhos restituirás. ^v2
+**2** Se o teu irmão israelita não estiver perto de ti, ou se não o conheceres, então, trarás o animal para a tua casa e ficará contigo até que ele o procure, e, então, o devolverás. ^v2
 
-**3** Assim também farás com o seu jumento, e assim farás com as suas roupas; assim farás também com toda a coisa perdida, que se perder de teu irmão, e tu a achares; não te poderás omitir. ^v3
+**3** Faz o mesmo com o jumento, e com as vestimentas, e com cada coisa perdida de seu companheiro Israelita; nada do que o seu companheiro tiver perdido, que tu encontrares, deve guardar para ti. ^v3
 
-**4** Se vires o jumento que é de teu irmão, ou o seu boi, caídos no caminho, não te desviarás deles; sem falta o ajudarás a levantá-los. ^v4
+**4** Quando vires o jumento ou o boi de teu irmão israelita caído na estrada, certamente, deverás ajudá-lo a levantar-se. ^v4
 
-**5** Não haverá traje de homem na mulher, e nem vestirá o homem roupa de mulher; porque, qualquer que faz isto, abominação é ao Senhor teu Deus. ^v5
+**5** A mulher não usará roupas de homem, e nem o homem vestirá roupas de mulher; porque qualquer que fizer isso é uma abominação para Yahweh, teu Deus. ^v5
 
-**6** Quando encontrares pelo caminho um ninho de ave numa árvore, ou no chão, com passarinhos, ou ovos, e a mãe posta sobre os passarinhos, ou sobre os ovos, não tomarás a mãe com os filhotes; ^v6
+**6** Se encontrares um ninho de pássaros no caminho, numa árvore ou no chão, com filhotes ou com ovos dentro, e a mãe estiver sobre os filhotes ou os ovos, não pegar'as a mãe juntamente com os filhotes. ^v6
 
-**7** Deixarás ir livremente a mãe, e os filhotes tomarás para ti; para que te vá bem e para que prolongues os teus dias. ^v7
+**7** Certamente, deixarás a mãe ir, mas poderás pegar os filhotes. Obedece a esta ordem de modo que te vás bem, e se prolonguem os teus dias. ^v7
 
-**8** Quando edificares uma casa nova, farás um parapeito, no eirado, para que não ponhas culpa de sangue na tua casa, se alguém de algum modo cair dela. ^v8
+**8** Quando construíres uma casa nova, farás um parapeito para o telhado, para que não traga sangue para tua casa, se alguém cair de lá. ^v8
 
-**9** Não semearás a tua vinha com diferentes espécies de semente, para que não se degenere o fruto da semente que semeares, e a novidade da vinha. ^v9
+**9** Não plantes tua vinha com dois tipos de semente, para que não se degenere todo o produto, tanto da semente que semeaste como da produção da vinha. ^v9
 
-**10** Com boi e com jumento não lavrarás juntamente. ^v10
+**10** Não lavres a terra com um boi e um jumento juntos. ^v10
 
-**11** Não te vestirás de diversos estofos de lã e linho juntamente. ^v11
+**11** Não te vistas com tecido que seja mistura de lã e linho. ^v11
 
-**12** Franjas porás nas quatro bordas da tua manta, com que te cobrires. ^v12
+**12** Faze franjas nos quatro cantos do manto com que te cobrires. ^v12
 
-**13** Quando um homem tomar mulher e, depois de coabitar com ela, a desprezar, ^v13
+**13** Supõe que um homem se case com uma mulher, durma com ela, e depois a odeie, ^v13
 
-**14** E lhe imputar coisas escandalosas, e contra ela divulgar má fama, dizendo: Tomei esta mulher, e me cheguei a ela, porém não a achei virgem; ^v14
+**14** "acusando-a de coisas vergonhosas, colocando-lhe má reputação e dizendo: ""Tomei esta mulher, mas, quando cheguei perto dela, não encontrei nenhuma prova de virgindade""." ^v14
 
-**15** Então o pai da moça e sua mãe tomarão os sinais da virgindade da moça, e levá-los-ão aos anciãos da cidade, à porta; ^v15
+**15** Então, o pai e a mãe da moça provarão a sua virgindade para os anciãos na porta da cidade. ^v15
 
-**16** E o pai da moça dirá aos anciãos: Eu dei minha filha por mulher a este homem, porém ele a despreza; ^v16
+**16** "O pai da moça dirá aos anciãos: ""Entreguei minha filha a este homem como esposa, e ele a odeia." ^v16
 
-**17** E eis que lhe imputou coisas escandalosas, dizendo: Não achei virgem a tua filha; porém eis aqui os sinais da virgindade de minha filha. E estenderão a roupa diante dos anciãos da cidade. ^v17
+**17** "Olha, ele a tem acusado de coisas vergonhosas, dizendo: 'Não encontrei na tua filha prova de virgindade'. Mas aqui está a comprovação da virgindade de minha filha"". Então, estenderão a roupa íntima diante dos anciãos da cidade." ^v17
 
-**18** Então os anciãos da mesma cidade tomarão aquele homem, e o castigarão. ^v18
+**18** Os anciãos da cidade pegarão o homem e o castigarão; ^v18
 
-**19** E o multarão em cem siclos de prata, e os darão ao pai da moça; porquanto divulgou má fama sobre uma virgem de Israel. E lhe será por mulher, em todos os seus dias não a poderá despedir. ^v19
+**19** ele será multado em cem ciclos de prata, que serão entregues ao pai da menina, porque o homem colocou má reputação em uma virgem de Israel. Deverá tê-la como sua esposa; não poderá mandá-la embora durante todos os seus dias. ^v19
 
-**20** Porém se isto for verdadeiro, isto é, que a virgindade não se achou na moça, ^v20
+**20** Mas, se a acusação for verdadeira, não se achando a prova da virgindade na moça, ^v20
 
-**21** Então levarão a moça à porta da casa de seu pai, e os homens da sua cidade a apedrejarão, até que morra; pois fez loucura em Israel, prostituindo-se na casa de seu pai; assim tirarás o mal do meio de ti. ^v21
+**21** a levarão até a porta da casa de seus pais, e os homens de sua cidade a apedrejarão até a morte, pois a mesma cometeu uma ação vergonhosa em Israel, por agir como uma prostituta na casa de seu pai; e, assim, removereis o mal do meio de vós. ^v21
 
-**22** Quando um homem for achado deitado com mulher que tenha marido, então ambos morrerão, o homem que se deitou com a mulher, e a mulher; assim tirarás o mal de Israel. ^v22
+**22** Se um homem for encontrado dormindo com uma mulher que é casada com outro homem, então, ambos devem morrer, tanto o homem quanto a mulher, assim, removereis o mal diante de vós. ^v22
 
-**23** Quando houver moça virgem, desposada, e um homem a achar na cidade, e se deitar com ela, ^v23
+**23** Se houver uma moça virgem, noiva de um homem, e outro homem encontrá-la na cidade e ele dormir com ela, ^v23
 
-**24** Então trareis ambos à porta daquela cidade, e os apedrejareis, até que morram; a moça, porquanto não gritou na cidade, e o homem, porquanto humilhou a mulher do seu próximo; assim tirarás o mal do meio de ti. ^v24
+**24** serão levados ambos à porta da cidade e apedrejados até a morte. Apedrejai a moça por não ter gritado, mesmo estando na cidade. Apedrejai o homem, por ter violado a mulher do próximo; assim, removereis o mal de diante de vós. ^v24
 
-**25** E se algum homem no campo achar uma moça desposada, e o homem a forçar, e se deitar com ela, então morrerá só o homem que se deitou com ela; ^v25
+**25** Mas, se um homem encontrar no campo uma moça que é noiva, capturá-la e dormir com ela, apenas o homem que dormiu com a mesma deve morrer. ^v25
 
-**26** Porém à moça não farás nada. A moça não tem culpa de morte; porque, como o homem que se levanta contra o seu próximo, e lhe tira a vida, assim é este caso. ^v26
+**26** Mas, à garota, não façais nada; não há nela pecado digno de morte. Neste caso, é como um homem que ataca seu vizinho e o mata. ^v26
 
-**27** Pois a achou no campo; a moça desposada gritou, e não houve quem a livrasse. ^v27
+**27** Pois ele encontrou a moça noiva em um campo; ela gritou, mas não havia ninguém para salvá-la. ^v27
 
-**28** Quando um homem achar uma moça virgem, que não for desposada, e pegar nela, e se deitar com ela, e forem apanhados, ^v28
+**28** Se um homem encontrar uma moça virgem, e que não está noiva, e capturá-la, e dormir com ela e forem descobertos, ^v28
 
-**29** Então o homem que se deitou com ela dará ao pai da moça cinqüenta siclos de prata; e porquanto a humilhou, lhe será por mulher; não a poderá despedir em todos os seus dias. ^v29
+**29** o homem que se deitou com ela deve dar cinquenta ciclos para o pai da moça, deverá tomá-la como sua esposa porque a humilhou; não poderá mandá-la embora durante todos os dias dele. ^v29
 
-**30** Nenhum homem tomará a mulher de seu pai, nem descobrirá a nudez de seu pai. ^v30
+**30** Um homem não deve tomar para si a mulher de seu pai; não deve tirar de seu pai os direitos do casamento. ^v30

@@ -1,31 +1,30 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Isaías|Isaías]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Isaías|Isaías]]"
+tags: [biblia]
 ---
 
 # Isaías 62
 
-**1** Por amor de Sião não me calarei, e por amor de Jerusalém não me aquietarei, até que saia a sua justiça como um resplendor, e a sua salvação como uma tocha acesa. ^v1
+**1** Por amor a Sião, não me silenciarei; por amor a Jerusalém, não descansarei até que a sua justiça resplandeça como o nascer do sol, e a sua salvação queime como uma tocha acesa. ^v1
 
-**2** E os gentios verão a tua justiça, e todos os reis a tua glória; e chamar-te-ão por um nome novo, que a boca do Senhor designará. ^v2
+**2** As nações verão a tua justiça e todos os reis, a tua glória. Tu serás chamada por um novo nome, que Yahweh escolherá. ^v2
 
-**3** E serás uma coroa de glória na mão do Senhor, e um diadema real na mão do teu Deus. ^v3
+**3** Tu também serás como uma bela coroa real na mão de Yahweh, como um turbante de realeza na mão do teu Deus. ^v3
 
-**4** Nunca mais te chamarão: Desamparada, nem a tua terra se denominará jamais: Assolada; mas chamar-te-ão: O meu prazer está nela, e à tua terra: A casada; porque o Senhor se agrada de ti, e a tua terra se casará. ^v4
+**4** "De ti, nunca mais será dito ""Abandonada""; de tua terra, nunca mais será dito ""Desolada"". Certamente, tu serás chamada ""Meu prazer está nela"", e a tua terra se chamará ""Casada"", pois Yahweh Se alegra em ti e a tua terra se casará." ^v4
 
-**5** Porque, como o jovem se casa com a virgem, assim teus filhos se casarão contigo; e como o noivo se alegra da noiva, assim se alegrará de ti o teu Deus. ^v5
+**5** Verdadeiramente, como um homem jovem que se casa com uma mulher jovem, assim teus filhos se casarão contigo; como um noivo se alegra com sua noiva, teu Deus Se alegrará contigo. ^v5
 
-**6** Ó Jerusalém, sobre os teus muros pus guardas, que todo o dia e toda a noite jamais se calarão; ó vós, os que fazeis lembrar ao Senhor, não haja descanso em vós, ^v6
+**6** Tenho colocado vigias nas tuas muralhas, ó Jerusalém; eles não estão em silêncio nem de dia, nem de noite. Vós, que continuamente vos lembrais de Yahweh, não pareis. ^v6
 
-**7** Nem deis a ele descanso, até que confirme, e até que ponha a Jerusalém por louvor na terra. ^v7
+**7** Não permitais que Ele descanse até que restabeleça Jerusalém e faça dela um louvor na terra. ^v7
 
-**8** Jurou o Senhor pela sua mão direita, e pelo braço da sua força: Nunca mais darei o teu trigo por comida aos teus inimigos, nem os estrangeiros beberão o teu mosto, em que trabalhaste. ^v8
+**8** "Yahweh declarou pela Sua mão direita e pelo Seu braço forte: ""Certamente, não darei mais os teus grãos como comida aos teus inimigos. Estrangeiros não mais beberão teu vinho novo, para o qual tens trabalhado." ^v8
 
-**9** Mas os que o ajuntarem o comerão, e louvarão ao Senhor; e os que o colherem beberão nos átrios do meu santuário. ^v9
+**9** "Pois aqueles que colherem grãos, deles comerão e louvarão a Yahweh, e aqueles que colherem uvas, delas beberão vinho nos pátios do Meu santuário""." ^v9
 
-**10** Passai, passai pelas portas; preparai o caminho ao povo; aplanai, aplanai a estrada, limpai-a das pedras; arvorai a bandeira aos povos. ^v10
+**10** Passai, passai pelos portões! Preparai o caminho para o povo! Construí a estrada, construí-a! Ajuntai as pedras! Levantai uma bandeira como sinal para as nações! ^v10
 
-**11** Eis que o Senhor fez ouvir até às extremidades da terra: Dizei à filha de Sião: Eis que vem a tua salvação; eis que com ele vem o seu galardão, e a sua obra diante dele. ^v11
+**11** "Vede, Yahweh anuncia aos confins da terra: ""Dizei à filha de Sião: Vê, teu Salvador está vindo! Vê, tua recompensa vem com Ele e tua recompensa está indo à frente Dele""." ^v11
 
-**12** E chamar-lhes-ão: Povo santo, remidos do Senhor; e tu serás chamada: Procurada, a cidade não desamparada. ^v12
+**12** "Eles vos chamarão de ""Povo santo, os redimidos de Yahweh"". E tu, Sião, serás chamada de ""Procurada, uma cidade que não está abandonada""." ^v12

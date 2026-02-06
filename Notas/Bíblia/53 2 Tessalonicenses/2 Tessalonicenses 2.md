@@ -1,41 +1,40 @@
 ---
-Livro: "[[2 Tessalonicenses|2 Tessalonicenses]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/2 Tessalonicenses|2 Tessalonicenses]]"
+tags: [biblia]
 ---
 
 # 2 Tessalonicenses 2
 
-**1** Ora, irmãos, rogamo-vos, pela vinda de nosso Senhor Jesus Cristo, e pela nossa reunião com ele, ^v1
+**1** Irmãos, a respeito da vinda do Senhor Jesus Cristo e da nossa reunião com Ele, pedimos ^v1
 
-**2** Que não vos movais facilmente do vosso entendimento, nem vos perturbeis, quer por espírito, quer por palavra, quer por epístola, como de nós, como se o dia de Cristo estivesse já perto. ^v2
+**2** que não vos perturbeis ou inquieteis facilmente, quer seja por espírito, por palavra ou por alguma carta que pareça ter sido enviada por nós, como se o Dia do Senhor já tenha chegado. ^v2
 
-**3** Ninguém de maneira alguma vos engane; porque não será assim sem que antes venha a apostasia, e se manifeste o homem do pecado, o filho da perdição, ^v3
+**3** Ninguém vos engane de modo algum. Porque isso não acontecerá até que venha a apostasia e o homem da iniquidade seja revelado, o filho da destruição. ^v3
 
-**4** O qual se opõe, e se levanta contra tudo o que se chama Deus, ou se adora; de sorte que se assentará, como Deus, no templo de Deus, querendo parecer Deus. ^v4
+**4** Esse é o que exalta a si mesmo e se opõe contra tudo que é chamado Deus ou que é adorado. Como resultado, ele assenta-se no templo de Deus e apresenta a si mesmo como Deus. ^v4
 
-**5** Não vos lembrais de que estas coisas vos dizia quando ainda estava convosco? ^v5
+**5** Vós não lembrais de que, quando estive convosco, eu vos falei essas coisas? ^v5
 
-**6** E agora vós sabeis o que o detém, para que a seu próprio tempo seja manifestado. ^v6
+**6** Agora vós sabeis o que o detém, portanto ele será revelado apenas no tempo certo. ^v6
 
-**7** Porque já o mistério da injustiça opera; somente há um que agora o retém até que do meio seja tirado; ^v7
+**7** Como o mistério da injustiça já está atuando, é necessário apenas que seja retirado do caminho aquele que o detém. ^v7
 
-**8** E então será revelado o iníquo, a quem o Senhor desfará pelo assopro da sua boca, e aniquilará pelo esplendor da sua vinda; ^v8
+**8** Então o ímpio será revelado, a quem o Senhor Jesus destruirá com o sopro da Sua boca. O Senhor o eliminará pela manifestação da Sua vinda. ^v8
 
-**9** A esse cuja vinda é segundo a eficácia de Satanás, com todo o poder, e sinais e prodígios de mentira, ^v9
+**9** A vinda do ímpio será devido à ação de Satanás com todo poder, sinais, e falsas maravilhas, ^v9
 
-**10** E com todo o engano da injustiça para os que perecem, porque não receberam o amor da verdade para se salvarem. ^v10
+**10** e com todo o engano de injustiça para aqueles que estão perecendo, porque eles não receberam o amor da verdade a fim de serem salvos. ^v10
 
-**11** E por isso Deus lhes enviará a operação do erro, para que creiam a mentira; ^v11
+**11** Por esta razão Deus está enviando-lhes a atuação do engano para que creiam na mentira ^v11
 
-**12** Para que sejam julgados todos os que não creram a verdade, antes tiveram prazer na iniqüidade. ^v12
+**12** e sejam todos julgados, aqueles que não acreditaram na verdade, mas tiveram prazer na injustiça. ^v12
 
-**13** Mas devemos sempre dar graças a Deus por vós, irmãos amados do Senhor, por vos ter Deus elegido desde o princípio para a salvação, em santificação do Espírito, e fé da verdade; ^v13
+**13** Mas nós devemos sempre dar graças a Deus por vós, irmãos amados pelo Senhor, porque Deus vos escolheu como primeiros frutos para salvação na santificação do Espírito e fé na verdade. ^v13
 
-**14** Para o que pelo nosso evangelho vos chamou, para alcançardes a glória de nosso Senhor Jesus Cristo. ^v14
+**14** Porque Ele vos chamou através do nosso Evangelho para obter a glória do nosso Senhor Jesus Cristo. ^v14
 
-**15** Então, irmãos, estai firmes e retende as tradições que vos foram ensinadas, seja por palavra, seja por epístola nossa. ^v15
+**15** Portanto, irmãos, permanecei firmes e agarrai-vos às tradições que vos foram ensinadas, quer pela palavra quer por nossas cartas. ^v15
 
-**16** E o próprio nosso Senhor Jesus Cristo e nosso Deus e Pai, que nos amou, e em graça nos deu uma eterna consolação e boa esperança, ^v16
+**16** Agora, pois, o próprio Senhor Jesus Cristo, e Deus, nosso Pai, que nos amou e nos deu eterno consolo e boa esperança para o futuro através da graça, ^v16
 
-**17** Console os vossos corações, e vos confirme em toda a boa palavra e obra. ^v17
+**17** confortem e estabeleçam vossos corações em toda boa ação e palavra. ^v17

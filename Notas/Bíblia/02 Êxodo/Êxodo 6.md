@@ -1,67 +1,66 @@
 ---
-Livro: "[[Êxodo|Êxodo]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Êxodo|Êxodo]]"
+tags: [biblia]
 ---
 
 # Êxodo 6
 
-**1** Então disse o SENHOR a Moisés: Agora verás o que hei de fazer a Faraó; porque por uma mão poderosa os deixará ir, sim, por uma mão poderosa os lançará de sua terra. ^v1
+**1** "Então, Yahweh disse a Moisés: ""Agora, tu verás o que farei a Faraó. Verás que ele os deixará ir por causa da Minha forte mão. Devido à Minha poderosa mão, ele os expulsará da sua terra""." ^v1
 
-**2** Falou mais Deus a Moisés, e disse: Eu sou o Senhor. ^v2
+**2** "Deus falou a Moisés, dizendo: ""Eu sou Yahweh." ^v2
 
-**3** E eu apareci a Abraão, a Isaque, e a Jacó, como o Deus Todo-Poderoso; mas pelo meu nome, o Senhor, não lhes fui perfeitamente conhecido. ^v3
+**3** Eu apareci a Abraão, a Isaque e a Jacó, como Deus Poderoso; mas, por Meu nome, Yahweh, Eu não era conhecido por eles. ^v3
 
-**4** E também estabeleci a minha aliança com eles, para dar-lhes a terra de Canaã, a terra de suas peregrinações, na qual foram peregrinos. ^v4
+**4** Eu também estabeleci a Minha aliança com eles, para lhes dar a terra de Canaã, a terra onde eles moraram como peregrinos, a terra pela qual eles passaram. ^v4
 
-**5** E também tenho ouvido o gemido dos filhos de Israel, aos quais os egípcios fazem servir, e lembrei-me da minha aliança. ^v5
+**5** Além disso, Eu tenho escutado o gemido dos israelitas, os quais foram escravizados pelos egípcios, e Eu tenho Me lembrado da Minha aliança. ^v5
 
-**6** Portanto dize aos filhos de Israel: Eu sou o Senhor, e vos tirarei de debaixo das cargas dos egípcios, e vos livrarei da servidão, e vos resgatarei com braço estendido e com grandes juízos. ^v6
+**6** Portanto, diz aos israelitas: 'Eu sou Yahweh. Eu vos tirarei da escravidão dos egípcios e vos libertarei do poder deles. Resgatar-vos-ei com Minha poderosa mão e com grandes atos de julgamento. ^v6
 
-**7** E eu vos tomarei por meu povo, e serei vosso Deus; e sabereis que eu sou o Senhor vosso Deus, que vos tiro de debaixo das cargas dos egípcios; ^v7
+**7** Eu vos tomarei para Mim, como Meu povo, e Eu serei vosso Deus. E vós sabereis que Eu Sou Yahweh, vosso Deus, que vos tirou da escravidão dos egípcios. ^v7
 
-**8** E eu vos levarei à terra, acerca da qual levantei minha mão, jurando que a daria a Abraão, a Isaque e a Jacó, e vo-la darei por herança, eu o Senhor. ^v8
+**8** "Eu vos levarei para a terra que Eu prometi dar a Abraão, a Isaque e a Jacó. Eu a darei como posse. Eu Sou Yahweh""." ^v8
 
-**9** Deste modo falou Moisés aos filhos de Israel, mas eles não ouviram a Moisés, por causa da angústia de espírito e da dura servidão. ^v9
+**9** Quando Moisés disse isso aos israelitas, eles não o escutaram devido ao desânimo causado pela dura escravidão. ^v9
 
-**10** Falou mais o Senhor a Moisés, dizendo: ^v10
+**10** Então Yahweh falou a Moisés: ^v10
 
-**11** Entra, e fala a Faraó rei do Egito, que deixe sair os filhos de Israel da sua terra. ^v11
+**11** """Vai e fala ao Faraó, rei do Egito, para deixar o povo de Israel partir de sua terra""." ^v11
 
-**12** Moisés, porém, falou perante o Senhor, dizendo: Eis que os filhos de Israel não me têm ouvido; como, pois, Faraó me ouvirá? Também eu sou incircunciso de lábios. ^v12
+**12** "Moisés disse a Yahweh: ""Se os israelitas não têm me escutado, por que Faraó me escutará, já que eu não sou bom no falar?""." ^v12
 
-**13** Todavia o Senhor falou a Moisés e a Arão, e deu-lhes mandamento para os filhos de Israel, e para Faraó rei do Egito, para que tirassem os filhos de Israel da terra do Egito. ^v13
+**13** Mas Yahweh falou a Moisés e a Arão, dando-lhes ordens para os israelitas e para Faraó, rei do Egito, a fim de que os israelitas deixassem a terra do Egito. ^v13
 
-**14** Estas são as cabeças das casas de seus pais: Os filhos de Rúben, o primogênito de Israel: Enoque e Palu, Hezrom e Carmi; estas são as famílias de Rúben. ^v14
+**14** Estes foram os cabeças da casa dos seus pais: os filhos de Rúben, o primogênito de Israel, foram Hanoque, Palu, Hezrom e Carmi. Estas foram as famílias de Rúben. ^v14
 
-**15** E os filhos de Simeão: Jemuel, Jamin, Oade, Jaquim, Zoar e Saul, filho de uma cananéia; estas são as famílias de Simeão. ^v15
+**15** Os filhos de Simeão foram Jemuel, Jamim, Oade, Jaquim, Zoar e Saul — o filho da mulher cananéia. Essas foram as famílias de Simeão. ^v15
 
-**16** E estes são os nomes dos filhos de Levi, segundo as suas gerações: Gérson, Coate e Merari; e os anos da vida de Levi foram cento e trinta e sete anos. ^v16
+**16** Aqui estão listados os nomes dos filhos de Levi, conforme os seus descendentes. Eles foram Gérson, Coate e Merari. Levi viveu cento e trinta e sete anos. ^v16
 
-**17** Os filhos de Gérson: Libni e Simei, segundo as suas famílias; ^v17
+**17** Os filhos de Gérson foram Libni e Simei. ^v17
 
-**18** E os filhos de Coate: Anrão, Izar, Hebrom e Uziel; e os anos da vida de Coate foram cento e trinta e três anos. ^v18
+**18** Os filhos de Coate foram Anrão, Isar, Hebron e Uziel. Coate viveu cento e trinta e três anos. ^v18
 
-**19** E os filhos de Merari: Mali e Musi; estas são as famílias de Levi, segundo as suas gerações. ^v19
+**19** Os filhos de Merari foram Mali e Musi. Estes se tornaram famílias de Levi, junto de seus descendentes. ^v19
 
-**20** E Anrão tomou por mulher a Joquebede, sua tia, e ela deu-lhe Arão e Moisés: e os anos da vida de Anrão foram cento e trinta e sete anos. ^v20
+**20** Anrão casou-se com Joquebede, irmã do seu pai. E ela lhe deu Arão e Moisés. Anrão viveu cento e trinta e sete anos e morreu. ^v20
 
-**21** E os filhos de Izar: Corá, Nefegue e Zicri. ^v21
+**21** Os filhos de Izar foram Corá, Nofegue e Zicri. ^v21
 
-**22** E os filhos de Uziel: Misael, Elzafã e Sitri. ^v22
+**22** Os filhos de Uziel foram Misael, Elzafã e Sitri. ^v22
 
-**23** E Arão tomou por mulher a Eliseba, filha de Aminadabe, irmã de Naasson; e ela deu-lhe Nadabe, Abiú, Eleazar e Itamar. ^v23
+**23** Arão casou-se com Eliseba, filha de Aminadabe, irmã de Nasom. Ela lhe deu Nadabe e Abiú, Eleazar e Itamar. ^v23
 
-**24** E os filhos de Corá: Assir, Elcana e Abiasafe; estas são as famílias dos coraítas. ^v24
+**24** Os filhos de Corá foram Assir, Elcana e Abiasafe. Estas foram as famílias dos coraítas. ^v24
 
-**25** E Eleazar, filho de Arão, tomou por mulher uma das filhas de Putiel, e ela deu-lhe a Finéias; estes são os cabeças dos pais dos levitas, segundo as suas famílias. ^v25
+**25** Eleazar, filho de Arão, casou-se com uma das filhas de Putiel. Ela deu à luz Fineias. Esses foram os cabeças dos pais dos levitas, junto de seus descendentes. ^v25
 
-**26** Estes são Arão e Moisés, aos quais o Senhor disse: Tirai os filhos de Israel da terra do Egito, segundo os seus exércitos. ^v26
+**26** "Estes foram os dois homens, Arão e Moisés, a quem Yahweh disse: ""Tirai os israelitas da terra do Egito, por seus grupos de guerreiros""." ^v26
 
-**27** Estes são os que falaram a Faraó, rei do Egito, para que tirasse do Egito os filhos de Israel; estes são Moisés e Arão. ^v27
+**27** Foram Arão e Moisés que falaram a Faraó, rei do Egito, para deixar partir os israelitas da terra do Egito. ^v27
 
-**28** E aconteceu que naquele dia, quando o Senhor falou a Moisés na terra do Egito, ^v28
+**28** Quando Yahweh falou a Moisés na terra do Egito, ^v28
 
-**29** Falou o Senhor a Moisés, dizendo: Eu sou o Senhor; fala a Faraó, rei do Egito, tudo quanto eu te digo. ^v29
+**29** "Ele disse: ""Eu sou Yahweh. Diz a Faraó, rei do Egito, todas as coisas que te direi""." ^v29
 
-**30** Então disse Moisés perante o Senhor: Eis que eu sou incircunciso de lábios; como, pois, Faraó me ouvirá? ^v30
+**30** "Mas Moisés disse a Yahweh: ""Eu não sou bom em falar, então, por que Faraó me escutará?""." ^v30

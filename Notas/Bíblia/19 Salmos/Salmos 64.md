@@ -1,27 +1,24 @@
 ---
-Livro: "[[Salmos|Salmos]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Salmos|Salmos]]"
+tags: [biblia]
 ---
 
 # Salmos 64
 
-**1** Ouve, ó Deus, a minha voz na minha oração; guarda a minha vida do temor do inimigo. ^v1
+**2** Esconde-me da conspiração secreta dos malfeitores, do tumulto daqueles que praticam a iniquidade; ^v2
 
-**2** Esconde-me do secreto conselho dos maus, e do tumulto dos que praticam a iniqüidade. ^v2
+**3** os quais afiam suas línguas como espadas e apontam, como flechas, palavras amargas ^v3
 
-**3** Que afiaram as suas línguas como espadas; e armaram por suas flechas palavras amargas, ^v3
+**4** para, de lugares secretos, atirarem no inocente; eles atiram de repente, sem temor algum. ^v4
 
-**4** A fim de atirarem em lugar oculto ao que é íntegro; disparam sobre ele repentinamente, e não temem. ^v4
+**5** "Encorajam-se uns aos outros num plano maligno. Juntos e secretamente, eles combinam como colocar armadilhas, dizendo: ""Quem nos verá?""" ^v5
 
-**5** Firmam-se em mau intento; falam de armar laços secretamente, e dizem: Quem os verá? ^v5
+**6** "Eles inventam planos pecaminosos e dizem: ""Nós terminamos um plano cuidadoso."" Os pensamentos e o íntimo do coração dos homens são profundos." ^v6
 
-**6** Andam inquirindo malícias, inquirem tudo o que se pode inquirir; e ambos, o íntimo pensamento de cada um deles, e o coração, são profundos. ^v6
+**7** Mas Deus atirará neles uma flecha; de repente, serão feridos. ^v7
 
-**7** Mas Deus atirará sobre eles uma seta, e de repente ficarão feridos. ^v7
+**8** Ele os fará tropeçar, pois suas línguas estão contra eles; todos os que os virem, balançarão suas cabeças, zombando deles. ^v8
 
-**8** Assim eles farão com que as suas línguas tropecem contra si mesmos; todos aqueles que os virem, fugirão. ^v8
+**9** Todo o povo temerá e declarará os feitos de Deus. Os homens sabiamente considerarão as obras que Ele tem feito. ^v9
 
-**9** E todos os homens temerão, e anunciarão a obra de Deus; e considerarão prudentemente os feitos dele. ^v9
-
-**10** O justo se alegrará no Senhor, e confiará nele, e todos os retos de coração se gloriarão. ^v10
+**10** O justo se alegrará em Yahweh e Nele se refugiará; todos os retos de coração se gloriarão Nele. ^v10

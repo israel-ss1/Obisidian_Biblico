@@ -1,93 +1,92 @@
 ---
-Livro: "[[Êxodo|Êxodo]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Êxodo|Êxodo]]"
+tags: [biblia]
 ---
 
 # Êxodo 39
 
-**1** Fizeram também as vestes do ministério, para ministrar no santuário, de azul, e de púrpura e de carmesim; também fizeram as vestes santas, para Arão, como o SENHOR ordenara a Moisés. ^v1
+**1** Com a lã azul, roxa e vermelha fizeram vestes finamente tecidas para cultuar no lugar santo. Eles fizeram as vestes de Arão para o lugar santo, conforme Yahweh havia ordenado a Moisés. ^v1
 
-**2** Assim se fez o éfode de ouro, de azul, e de púrpura, e de carmesim e de linho fino torcido. ^v2
+**2** Bezalel fez o colete de ouro e de lã azul, roxa e vermelha. ^v2
 
-**3** E estenderam as lâminas de ouro, e as cortaram em fios, para tecê-los entre o azul, e entre a púrpura, e entre o carmesim, e entre o linho fino com trabalho esmerado. ^v3
+**3** Eles amassaram lâminas de ouro e as cortaram em fios, para entrelaçar com lã azul, roxa e de vermelha e com linho fino ― trabalho de um artesão habilidoso. ^v3
 
-**4** Fizeram-lhe ombreiras que se ajuntavam; e uniam-se em suas duas pontas. ^v4
+**4** Eles fizeram ombreiras para o colete, atadas a ele nas suas duas pontas superiores. ^v4
 
-**5** E o cinto de obra esmerada do éfode, que estava sobre ele, formava com ele uma só peça e era de obra semelhante, de ouro, de azul, e de púrpura, e de carmesim, e de linho fino torcido, como o Senhor ordenara a Moisés. ^v5
+**5** Seu cinto, finamente tecido, era como o colete, feito uma única peça com ele, feito de linho fino trançado que era dourado, azul, roxo e vermelho, conforme Yahweh havia ordenado a Moisés. ^v5
 
-**6** Também prepararam as pedras de ônix, engastadas em ouro, lavradas com gravuras de um selo, com os nomes dos filhos de Israel. ^v6
+**6** Eles encravaram as pedras de ônix embutida em conjuntos de ouro, esculpidas com gravuras com os nomes dos doze filhos de Israel. ^v6
 
-**7** E as pôs sobre as ombreiras do éfode por pedras de memória para os filhos de Israel, como o Senhor ordenara a Moisés. ^v7
+**7** Bezalel as pôs sobre as ombreiras do avental, como pedras para lembrar a Yahweh os doze filhos de Israel, como Yahweh tinha ordenado a Moisés. ^v7
 
-**8** Fez-se também o peitoral de obra de artífice, como a obra do éfode, de ouro, de azul, e de púrpura, e de carmesim, e de linho fino torcido. ^v8
+**8** Ele fez o peitoral, o trabalho de um habilidoso artesão, modelado como o colete. Ele o fez de ouro, de lã azul, roxa e vermelha, e de linho fino. ^v8
 
-**9** Quadrado era; duplo fizeram o peitoral; o seu comprimento era de um palmo, e a sua largura de um palmo dobrado. ^v9
+**9** Era quadrado. Dobraram o peitoral em dois. Era de um palmo de cumprimento e de um palmo de largura. ^v9
 
-**10** E engastaram nele quatro ordens de pedras; uma ordem de um sárdio, de um topázio, e de um carbúnculo; esta era a primeira ordem; ^v10
+**10** Eles fixaram nele quatro filas de pedras preciosas. A primeira fila tinha um rubi, um topázio, uma granada. ^v10
 
-**11** E a segunda ordem de uma esmeralda, de uma safira e de um diamante; ^v11
+**11** A segunda fila tinha uma esmeralda, uma safira e um diamante. ^v11
 
-**12** E a terceira ordem de um jacinto, de uma ágata, e de uma ametista; ^v12
+**12** A terceira fila tinha um jacinto, uma ágata e uma ametista. ^v12
 
-**13** E a quarta ordem de um berilo, e de um ônix, e de um jaspe, engastadas em engastes de ouro. ^v13
+**13** A quarta fila tinha um berilo, uma ônix, e um jaspe. As pedras foram montadas em ouro. ^v13
 
-**14** Estas pedras, pois, eram segundo os nomes dos filhos de Israel, doze segundo os seus nomes; como gravuras de selo, cada uma com o seu nome, segundo as doze tribos. ^v14
+**14** As pedras foram agrupadas de acordo com o nome dos doze filhos de Israel, cada uma delas ordenadas pelo nome. Eram esculpidas como um desenho em um anel de selar, cada nome correspondendo a uma das doze tribos. ^v14
 
-**15** Também fizeram para o peitoral cadeiazinhas de igual medida, obra de ouro puro trançado. ^v15
+**15** Sobre o peitoral eles fizeram correntes como cordas trançadas, trabalho de ouro puro. ^v15
 
-**16** E fizeram dois engastes de ouro e duas argolas de ouro; e puseram as duas argolas nas duas extremidades do peitoral. ^v16
+**16** Eles fizeram dois conjuntos de ouro e dois anéis de ouro, e uniram os dois aneis às duas pontas do peitoral. ^v16
 
-**17** E puseram as duas cadeiazinhas de trança de ouro nas duas argolas, nas duas extremidades do peitoral. ^v17
+**17** Eles puseram as duas correntes trançadas de ouro nos dois anéis nas pontas do peitoral. ^v17
 
-**18** E as outras duas pontas das duas cadeiazinhas de trança puseram nos dois engastes; e as puseram sobre as ombreiras do éfode na frente dele. ^v18
+**18** Eles uniram as duas outras pontas das correntes trançadas aos dois conjuntos. Uniram-nas às ombreiras na frente do colete. ^v18
 
-**19** Fizeram também duas argolas de ouro, que puseram nas duas extremidades do peitoral, na sua borda que estava junto ao éfode por dentro. ^v19
+**19** Eles fizeram dois anéis de ouro e os puseram sobre as duas outras pontas do peitoral, sobre a estola próxima à borda interna. ^v19
 
-**20** Fizeram mais duas argolas de ouro, que puseram nas duas ombreiras do éfode, abaixo, na frente dele, perto da sua juntura, sobre o cinto de obra esmerada do éfode. ^v20
+**20** Eles fizeram mais dois anéis de ouro e os uniram ao fundo do peitoral, na frente do colete, perto da sua costura, acima do cinto finamente tecido do colete. ^v20
 
-**21** E ligaram o peitoral com as suas argolas às argolas do éfode com um cordão de azul, para que estivesse sobre o cinto de obra esmerada do éfode, e o peitoral não se separasse do éfode, como o Senhor ordenara a Moisés. ^v21
+**21** Eles amarraram o peitoral por seus anéis aos anéis do colete com um cordão azul, de modo que podia ser amarrado bem acima do cinto finamente tecido do colete. Assim foi feito para que o peitoral não se soltasse do colete. Isso foi feito como Yahweh havia ordenado a Moisés. ^v21
 
-**22** E fez-se o manto do éfode de obra tecida, todo de azul. ^v22
+**22** Bezalel fez a túnica do colete completamente de tecido roxo ― trabalho de um tecelão. ^v22
 
-**23** E a abertura do manto estava no meio dele, como abertura de cota de malha; esta abertura tinha uma borda em volta, para que se não rompesse. ^v23
+**23** Ela possuía uma abertura bem no meio para a cabeça. A abertura tinha uma trança rodeada em suas extremidades de modo que não se descosturava. ^v23
 
-**24** E nas bordas do manto fizeram romãs de azul, e de púrpura, e de carmesim, de fio torcido. ^v24
+**24** Sobre a bainha do fundo, eles fizeram romãs de lã azul, roxa e vermelha e de linho fino. ^v24
 
-**25** Fizeram também as campainhas de ouro puro, pondo as campainhas no meio das romãs nas bordas do manto, ao redor, entre as romãs; ^v25
+**25** Eles fizeram sinos de ouro puro, e os puseram entre as romãs ao redor da extremidade inferior da túnica, entre as romãs ― ^v25
 
-**26** Uma campainha e uma romã, outra campainha e outra romã, nas bordas do manto ao redor; para ministrar, como o Senhor ordenara a Moisés. ^v26
+**26** um sino e uma romã, um sino e uma romã ― na extremidade da túnica para Arão cultuar. Isso foi como Yahweh havia ordenado a Moisés. ^v26
 
-**27** Fizeram também as túnicas de linho fino, de obra tecida, para Arão e para seus filhos. ^v27
+**27** Eles fizeram as capas de linho fino para Arão e para seus filhos. ^v27
 
-**28** E a mitra de linho fino, e o ornato das tiaras de linho fino, e os calções de linho fino torcido, ^v28
+**28** Eles fizeram o turbante de linho fino, a mitra ornada de linho fino, o forro de linho fino, ^v28
 
-**29** E o cinto de linho fino torcido, e de azul, e de púrpura, e de carmesim, obra de bordador, como o Senhor ordenara a Moisés. ^v29
+**29** e o cinto de linho fino e de lã azul, roxa e vermelha ― trabalho de um bordador. Isso foi como Yahweh havia ordenado a Moisés. ^v29
 
-**30** Fizeram também, de ouro puro, a lâmina da coroa de santidade, e nela escreveram o escrito como de gravura de selo: SANTIDADE AO SENHOR. ^v30
+**30** Eles fizeram a lâmina da coroa sagrada de puro ouro; eles esculpiram nela, como uma gravura: DEDICADA A YAHWEH. ^v30
 
-**31** E ataram-na com um cordão de azul, para prendê-la à parte superior da mitra, como o Senhor ordenara a Moisés. ^v31
+**31** Eles amarraram ao turbante uma corda azul ao topo do turbante. Isso foi como Yahweh tinha ordenado a Moisés. ^v31
 
-**32** Assim se acabou toda a obra do tabernáculo da tenda da congregação; e os filhos de Israel fizeram conforme a tudo o que o Senhor ordenara a Moisés; assim o fizeram. ^v32
+**32** Então a obra do tabernáculo, a tenda do encontro, foi concluída. O povo de Israel fez tudo. Eles seguiram todas as instruções que Yahweh havia dado a Moisés. ^v32
 
-**33** Depois trouxeram a Moisés o tabernáculo, a tenda e todos os seus pertences; os seus colchetes, as suas tábuas, os seus varais, e as suas colunas, e as suas bases; ^v33
+**33** Eles trouxeram o tabernáculo a Moisés ― a tenda e todos os seus utensílios, seus fechos, tábuas, vigas, colunas e bases. ^v33
 
-**34** E a cobertura de peles de carneiro tintas de vermelho, e a cobertura de peles de texugos, e o véu de cobertura; ^v34
+**34** A cobertura de peles de carneiro, tingidas de vermelho, a cobertura de couro de animais marinhos, o véu protetor, ^v34
 
-**35** A arca do testemunho, e os seus varais, e o propiciatório; ^v35
+**35** a arca da aliança com suas varas e tampa. ^v35
 
-**36** A mesa com todos os seus pertences, e os pães da proposição; ^v36
+**36** Eles trouxeram a mesa, todos os seus utensílios e os pães da presença; ^v36
 
-**37** O candelabro puro com suas lâmpadas, as lâmpadas em ordem, e todos os seus pertences, e o azeite para a luminária; ^v37
+**37** o candelabro de ouro puro e suas lâmpadas alinhadas, com seus assessórios e o óleo para as lâmpadas; ^v37
 
-**38** Também o altar de ouro, e o azeite da unção, e o incenso aromático, e a cortina da porta da tenda; ^v38
+**38** o altar de ouro, óleo de unção e o incenso aromático; a cortina para a entrada do tabernáculo; ^v38
 
-**39** O altar de cobre, e o seu crivo de cobre, os seus varais, e todos os seus pertences, a pia, e a sua base; ^v39
+**39** o altar de bronze com sua grelha de bronze e suas varas e utensílios e a bacia com sua base. ^v39
 
-**40** As cortinas do pátio, as suas colunas, e as suas bases, e a cortina da porta do pátio, as suas cordas, e os seus pregos, e todos os utensílios do serviço do tabernáculo, para a tenda da congregação; ^v40
+**40** Eles trouxeram as cortinas para o pátio com suas colunas e bases, e a cortina para a entrada do pátio, suas cordas e estacas da tenda; e todos os utensílios para o culto no tabernáculo, a tenda do encontro. ^v40
 
-**41** As vestes do ministério para ministrar no santuário; as santas vestes de Arão o sacerdote, e as vestes dos seus filhos, para administrarem o sacerdócio. ^v41
+**41** Eles trouxeram as vestes finas para ministrar no santo lugar, as vestes sagradas para o sacerdote Arão e seus filhos, para eles ministrarem como sacerdotes. ^v41
 
-**42** Conforme a tudo o que o Senhor ordenara a Moisés, assim fizeram os filhos de Israel toda a obra. ^v42
+**42** Assim, o povo de Israel fez todo o trabalho de acordo com o que Yahweh havia ordenado a Moisés. ^v42
 
-**43** Viu, pois, Moisés toda a obra, e eis que a tinham feito; como o Senhor ordenara, assim a fizeram; então Moisés os abençoou. ^v43
+**43** Moisés examinou todo o trabalho e observou o que haviam feito. Então Moisés os abençoou. ^v43

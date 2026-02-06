@@ -1,51 +1,50 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Isaías|Isaías]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Isaías|Isaías]]"
+tags: [biblia]
 ---
 
 # Isaías 2
 
-**1** Palavra que viu Isaías, filho de Amós, a respeito de Judá e de Jerusalém. ^v1
+**1** As coisas que Isaías, filho de Amoz, viu, relacionadas a Judá e a Jerusalém. ^v1
 
-**2** E acontecerá nos últimos dias que se firmará o monte da casa do Senhor no cume dos montes, e se elevará por cima dos outeiros; e concorrerão a ele todas as nações. ^v2
+**2** Acontecerá que, nos últimos dias, o monte da casa de Yahweh será estabelecido como o mais alto dos montes, será exaltado sobre as colinas, e todas as nações correrão para ele. ^v2
 
-**3** E irão muitos povos, e dirão: Vinde, subamos ao monte do Senhor, à casa do Deus de Jacó, para que nos ensine os seus caminhos, e andemos nas suas veredas; porque de Sião sairá a lei, e de Jerusalém a palavra do Senhor. ^v3
+**3** "Muitos povos virão e dirão: ""Vinde! Subamos ao monte de Yahweh, à casa do Deus de Jacó. Ali, Ele nos ensinará os Seus caminhos e andaremos em Suas veredas"". Pois de Sião sairá a lei, a palavra de Yahweh virá de Jerusalém." ^v3
 
-**4** E ele julgará entre as nações, e repreenderá a muitos povos; e estes converterão as suas espadas em enxadões e as suas lanças em foices; uma nação não levantará espada contra outra nação, nem aprenderão mais a guerrear. ^v4
+**4** Ele julgará entre as nações e dará vereditos para muitos povos; eles converterão suas espadas em arados e suas lanças, em foices; nação nenhuma levantará a espada contra outra nação, nem jamais treinará para a guerra. ^v4
 
-**5** Vinde, ó casa de Jacó, e andemos na luz do Senhor. ^v5
+**5** Vinde, ó casa de Jacó, e andemos na luz de Yahweh. ^v5
 
-**6** Mas tu desamparaste o teu povo, a casa de Jacó, porque se encheram dos costumes do oriente e são agoureiros como os filisteus; e associam-se com os filhos dos estrangeiros, ^v6
+**6** Pois Tu abandonaste o Teu povo, a casa de Jacó, porque eles estão cheios dos costumes do leste e de adivinhadores, como os filisteus, e fazem acordos com os filhos dos estrangeiros. ^v6
 
-**7** E a sua terra está cheia de prata e ouro, e não têm fim os seus tesouros; também a sua terra está cheia de cavalos, e os seus carros não têm fim. ^v7
+**7** A terra deles está cheia de prata e ouro, e não há limites para sua riqueza; também está repleta de cavalos, não há limites para as suas carruagens. ^v7
 
-**8** Também a sua terra está cheia de ídolos; inclinam-se perante a obra das suas mãos, diante daquilo que fabricaram os seus dedos. ^v8
+**8** Sua terra está cheia de ídolos; eles adoram o trabalho das próprias mãos, objetos que seus dedos fizeram. ^v8
 
-**9** E o povo se abate, e os nobres se humilham; portanto não lhes perdoarás. ^v9
+**9** O povo se curvará e indivíduos cairão; portanto, não os levantes. ^v9
 
-**10** Entra nas rochas, e esconde-te no pó, do terror do Senhor e da glória da sua majestade. ^v10
+**10** Vai até os locais rochosos e esconde-te no chão por causa do terror que vem de Yahweh, de Sua glória e majestade. ^v10
 
-**11** Os olhos altivos dos homens serão abatidos, e a sua altivez será humilhada; e só o Senhor será exaltado naquele dia. ^v11
+**11** O olhar altivo do homem será humilhado, a arrogância do homem será derrubada, e somente Yahweh será exaltado naquele dia. ^v11
 
-**12** Porque o dia do Senhor dos Exércitos será contra todo o soberbo e altivo, e contra todo o que se exalta, para que seja abatido; ^v12
+**12** Pois haverá um dia em que Yahweh dos Exércitos irá contra todo aquele que é orgulhoso e exaltado e contra todo aquele que é arrogante — e este será humilhado; ^v12
 
-**13** E contra todos os cedros do Líbano, altos e sublimes; e contra todos os carvalhos de Basã; ^v13
+**13** contra todos os cedros do Líbano, que são altos e elevados, e contra todos os carvalhos de Basã. ^v13
 
-**14** E contra todos os montes altos, e contra todos os outeiros elevados; ^v14
+**14** Naquele dia, Yahweh dos Exércitos será contra todos os altos montes, contra todas as colinas elevadas, ^v14
 
-**15** E contra toda a torre alta, e contra todo o muro fortificado; ^v15
+**15** contra toda torre alta, contra todo muro fortificado, ^v15
 
-**16** E contra todos os navios de Társis, e contra todas as pinturas desejáveis. ^v16
+**16** contra todos os navios de Társis e contra todas as belas embarcações. ^v16
 
-**17** E a arrogância do homem será humilhada, e a sua altivez se abaterá, e só o Senhor será exaltado naquele dia. ^v17
+**17** O orgulho do homem será humilhado e a sua arrogância cairá. Somente Yahweh será exaltado naquele dia. ^v17
 
-**18** E todos os ídolos desaparecerão totalmente. ^v18
+**18** Os ídolos passarão completamente. ^v18
 
-**19** Então os homens entrarão nas cavernas das rochas, e nas covas da terra, do terror do Senhor, e da glória da sua majestade, quando ele se levantar para assombrar a terra. ^v19
+**19** Os homens fugirão para as cavernas nas rochas e para os buracos no chão, por causa do terror que vem de Yahweh e do esplendor da Sua majestade, quando Ele Se levantar para aterrorizar a terra. ^v19
 
-**20** Naquele dia o homem lançará às toupeiras e aos morcegos os seus ídolos de prata, e os seus ídolos de ouro, que fizeram para diante deles se prostrarem. ^v20
+**20** Naquele dia, o povo jogará fora os seus ídolos de prata e de ouro — que fizeram para serem adorados. Eles vão lançá-los às toupeiras e aos morcegos. ^v20
 
-**21** E entrarão nas fendas das rochas, e nas cavernas das penhas, por causa do terror do Senhor, e da glória da sua majestade, quando ele se levantar para abalar terrivelmente a terra. ^v21
+**21** O povo correrá para as cavernas nas rochas e para dentro das fendas dos penhascos, devido ao terror que vem de Yahweh e da Sua glória e majestade, quando Ele Se levantar para aterrorizar a terra. ^v21
 
-**22** Deixai-vos do homem cujo fôlego está nas suas narinas; pois em que se deve ele estimar? ^v22
+**22** Parai de confiar no homem, cujo sopro de vida está em suas narinas, pois que valor ele tem? ^v22

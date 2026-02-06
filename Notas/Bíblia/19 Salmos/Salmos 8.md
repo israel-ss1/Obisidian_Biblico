@@ -1,25 +1,22 @@
 ---
-Livro: "[[Salmos|Salmos]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Salmos|Salmos]]"
+tags: [biblia]
 ---
 
 # Salmos 8
 
-**1** Ó Senhor, Senhor nosso, quão admirável é o teu nome em toda a terra, pois puseste a tua glória sobre os céus! ^v1
+**2** Da boca das crianças e dos pequeninos, Tu fazes brotar força contra os Teus adversários, a fim de silenciar os inimigos e os rebeldes. ^v2
 
-**2** Tu ordenaste força da boca das crianças e dos que mamam, por causa dos teus inimigos, para fazer calar ao inimigo e ao vingador. ^v2
+**3** Quando olho para o céu e contemplo o que os Teus dedos fizeram, a lua e as estrelas que fixaste no lugar, ^v3
 
-**3** Quando vejo os teus céus, obra dos teus dedos, a lua e as estrelas que preparaste; ^v3
+**4** que importância tem a raça humana para que dela Te lembres? E o ser humano para que o visites? ^v4
 
-**4** Que é o homem mortal para que te lembres dele? e o filho do homem, para que o visites? ^v4
+**5** No entanto, Tu o fizeste apenas um pouco menor que os seres celestiais, e, de glória e honra, o coroaste. ^v5
 
-**5** Pois pouco menor o fizeste do que os anjos, e de glória e de honra o coroaste. ^v5
+**6** Tu o fizeste dominar sobre o trabalho das Tuas mãos; Tu puseste todas as coisas debaixo dos seus pés: ^v6
 
-**6** Fazes com que ele tenha domínio sobre as obras das tuas mãos; tudo puseste debaixo de seus pés: ^v6
+**7** todas as ovelhas e bois e até os animais selvagens, ^v7
 
-**7** Todas as ovelhas e bois, assim como os animais do campo, ^v7
+**8** as aves dos céus e os peixes do mar, tudo o que percorre as correntes dos mares. ^v8
 
-**8** As aves dos céus, e os peixes do mar, e tudo o que passa pelas veredas dos mares. ^v8
-
-**9** Ó Senhor, Senhor nosso, quão admirável é o teu nome sobre toda a terra! ^v9
+**9** Yahweh, Senhor nosso, quão magnífico em toda a terra é o Teu nome! ^v9

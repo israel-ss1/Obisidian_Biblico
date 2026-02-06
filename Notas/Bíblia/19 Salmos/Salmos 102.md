@@ -1,63 +1,60 @@
 ---
-Livro: "[[Salmos|Salmos]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Salmos|Salmos]]"
+tags: [biblia]
 ---
 
 # Salmos 102
 
-**1** SENHOR, ouve a minha oração, e chegue a ti o meu clamor. ^v1
+**2** Não escondas Tua face de mim no dia da tribulação. Ouve-me, quando a Ti clamar, responde-me rapidamente! ^v2
 
-**2** Não escondas de mim o teu rosto no dia da minha angústia, inclina para mim os teus ouvidos; no dia em que eu clamar, ouve-me depressa. ^v2
+**3** Pois os meus dias passam como fumaça e os meus ossos queimam como fogo. ^v3
 
-**3** Porque os meus dias se consomem como a fumaça, e os meus ossos ardem como lenha. ^v3
+**4** Meu coração está ferido, sou como a grama seca; esqueço até de comer meu pão. ^v4
 
-**4** O meu coração está ferido e seco como a erva, por isso me esqueço de comer o meu pão. ^v4
+**5** Por causa dos meus gemidos contínuos, meus ossos se apegam à minha pele. ^v5
 
-**5** Por causa da voz do meu gemido os meus ossos se apegam à minha pele. ^v5
+**6** Sou como o pelicano do deserto; tornei-me como a coruja das ruínas. ^v6
 
-**6** Sou semelhante ao pelicano no deserto; sou como um mocho nas solidões. ^v6
+**7** Não durmo; sou como um pardal solitário sobre o telhado. ^v7
 
-**7** Vigio, sou como o pardal solitário no telhado. ^v7
+**8** Meus inimigos me afrontam o dia todo; aqueles que zombam de mim usam meu nome para lançar maldição. ^v8
 
-**8** Os meus inimigos me afrontam todo o dia; os que se enfurecem contra mim têm jurado contra mim. ^v8
+**9** Tenho comido cinzas como se fosse pão e misturado a minha bebida com lágrimas; ^v9
 
-**9** Pois tenho comido cinza como pão, e misturado com lágrimas a minha bebida, ^v9
+**10** por causa da Tua ira e da Tua indignação me levantaste e me derrubaste. ^v10
 
-**10** Por causa da tua ira e da tua indignação, pois tu me levantaste e me arremessaste. ^v10
+**11** Meus dias são como uma sombra que desaparece e, como a grama, vou secando. ^v11
 
-**11** Os meus dias são como a sombra que declina, e como a erva me vou secando. ^v11
+**12** Mas Tu, Yahweh, vives para sempre e Teu nome permanecerá por todas as gerações. ^v12
 
-**12** Mas tu, Senhor, permanecerás para sempre, a tua memória de geração em geração. ^v12
+**13** Tu Te levantarás e terás misericórdia de Sião. Agora é o momento de ter misericórdia dela; o tempo determinado chegou. ^v13
 
-**13** Tu te levantarás e terás piedade de Sião; pois o tempo de te compadeceres dela, o tempo determinado, já chegou. ^v13
+**14** Porque Teus servos amam suas pedras e sentem compaixão pelo pó das suas ruínas. ^v14
 
-**14** Porque os teus servos têm prazer nas suas pedras, e se compadecem do seu pó. ^v14
+**15** As nações respeitarão o Teu nome, Yahweh, e todos os reis da terra honrarão a Tua glória. ^v15
 
-**15** Então os gentios temerão o nome do Senhor, e todos os reis da terra a tua glória. ^v15
+**16** Yahweh reconstruirá Sião e aparecerá em Sua glória. ^v16
 
-**16** Quando o Senhor edificar a Sião, aparecerá na sua glória. ^v16
+**17** Nesse tempo, Ele responderá as orações dos desamparados; Ele não rejeitará suas orações. ^v17
 
-**17** Ele atenderá à oração do desamparado, e não desprezará a sua oração. ^v17
+**18** Isto será escrito para as gerações futuras e um povo ainda não nascido louvará a Yahweh. ^v18
 
-**18** Isto se escreverá para a geração futura; e o povo que se criar louvará ao Senhor. ^v18
+**19** Pois Ele olhou das alturas do Seu santuário; do céu Yahweh olhou a terra, ^v19
 
-**19** Pois olhou desde o alto do seu santuário, desde os céus o Senhor contemplou a terra, ^v19
+**20** para ouvir os gemidos dos prisioneiros, para libertar aqueles que foram condenados à morte. ^v20
 
-**20** Para ouvir o gemido dos presos, para soltar os sentenciados à morte; ^v20
+**21** Então, homens proclamarão o nome de Yahweh em Sião e Seus louvores em Jerusalém ^v21
 
-**21** Para anunciarem o nome do Senhor em Sião, e o seu louvor em Jerusalém, ^v21
+**22** quando os povos e reinos se reunirem para servir a Yahweh. ^v22
 
-**22** Quando os povos se ajuntarem, e os reinos, para servirem ao Senhor. ^v22
+**23** Ele enfraqueceu minha força no meio da minha vida. Ele encurtou os meus dias. ^v23
 
-**23** Abateu a minha força no caminho; abreviou os meus dias. ^v23
+**24** "Eu disse: ""Meu Deus, não me leves no meio da minha vida; Tu permaneces por todas as gerações." ^v24
 
-**24** Dizia eu: Meu Deus, não me leves no meio dos meus dias, os teus anos são por todas as gerações. ^v24
+**25** Desde os tempos antigos, Tu fundaste a terra; os céus são obras de Tuas mãos. ^v25
 
-**25** Desde a antiguidade fundaste a terra, e os céus são obra das tuas mãos. ^v25
+**26** Eles perecerão, mas Tu permanecerás; todos ficarão velhos como uma vestimenta; como roupas, Tu os removerás e eles desaparecerão. ^v26
 
-**26** Eles perecerão, mas tu permanecerás; todos eles se envelhecerão como um vestido; como roupa os mudarás, e ficarão mudados. ^v26
+**27** Mas Tu és o mesmo e Teus anos não terão fim. ^v27
 
-**27** Porém tu és o mesmo, e os teus anos nunca terão fim. ^v27
-
-**28** Os filhos dos teus servos continuarão, e a sua semente ficará firmada perante ti. ^v28
+**28** "Os filhos de Teus servos viverão seguros e seus descendentes viverão em Tua presença.""" ^v28

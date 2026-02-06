@@ -1,79 +1,78 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Mateus|Mateus]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Mateus|Mateus]]"
+tags: [biblia]
 ---
 
 # Mateus 14
 
-**1** Naquele tempo ouviu Herodes, o tetrarca, a fama de Jesus, ^v1
+**1** Naquele tempo, Herodes, o tetrarca, ouviu as notícias sobre Jesus. ^v1
 
-**2** E disse aos seus criados: Este é João o Batista; ressuscitou dos mortos, e por isso estas maravilhas operam nele. ^v2
+**2** "Ele disse aos seus servos: ""Esse é João, o Batista; ele ressuscitou dos mortos, por isso esses poderes estão operando Nele""." ^v2
 
-**3** Porque Herodes tinha prendido João, e tinha-o maniatado e encerrado no cárcere, por causa de Herodias, mulher de seu irmão Filipe; ^v3
+**3** Pois Herodes o havia prendido, amarrado e colocado na prisão, por causa de Herodias, a esposa de seu irmão Filipe, ^v3
 
-**4** Porque João lhe dissera: Não te é lícito possuí-la. ^v4
+**4** "porque João havia lhe dito: ""Não é legítimo tê-la como tua esposa""." ^v4
 
-**5** E, querendo matá-lo, temia o povo; porque o tinham como profeta. ^v5
+**5** Herodes teria mandado matá-lo, mas ele temeu o povo, porque eles o consideravam um profeta. ^v5
 
-**6** Festejando-se, porém, o dia natalício de Herodes, dançou a filha de Herodias diante dele, e agradou a Herodes. ^v6
+**6** Mas, quando o aniversário de Herodes chegou, a filha de Herodias dançou no meio dos convidados e agradou a Herodes. ^v6
 
-**7** Por isso prometeu, com juramento, dar-lhe tudo o que pedisse; ^v7
+**7** Em resposta, ele prometeu com um juramento que daria a ela qualquer coisa que ela pedisse. ^v7
 
-**8** E ela, instruída previamente por sua mãe, disse: Dá-me aqui, num prato, a cabeça de João o Batista. ^v8
+**8** "Após ser instruída por sua mãe, ela disse: ""Dá-me aqui, em um prato, a cabeça de João, o Batista""." ^v8
 
-**9** E o rei afligiu-se, mas, por causa do juramento, e dos que estavam à mesa com ele, ordenou que se lhe desse. ^v9
+**9** O rei ficou muito triste com o pedido dela, mas, por causa do seu juramento e por causa de todos os que estavam no jantar com ele, ordenou que isso deveria ser feito. ^v9
 
-**10** E mandou degolar João no cárcere. ^v10
+**10** Ele enviou soldados, os quais decapitaram João na prisão. ^v10
 
-**11** E a sua cabeça foi trazida num prato, e dada à jovem, e ela a levou a sua mãe. ^v11
+**11** Então sua cabeça foi trazida em um prato e dada à menina e ela a levou para a sua mãe. ^v11
 
-**12** E chegaram os seus discípulos, e levaram o corpo, e o sepultaram; e foram anunciá-lo a Jesus. ^v12
+**12** Então seus discípulos vieram, pegaram o corpo e o enterraram. Após isso, eles foram e contaram a Jesus. ^v12
 
-**13** E Jesus, ouvindo isto, retirou-se dali num barco, para um lugar deserto, apartado; e, sabendo-o o povo, seguiu-o a pé desde as cidades. ^v13
+**13** Quando Jesus ouviu o que havia acontecido, retirou-se de lá, em um barco, para um lugar isolado. Ao ouvir isso, as multidões O seguiram a pé, vindas das cidades. ^v13
 
-**14** E, Jesus, saindo, viu uma grande multidão, e possuído de íntima compaixão para com ela, curou os seus enfermos. ^v14
+**14** Então Jesus desembarcou, viu a grande multidão, teve compaixão dela e curou seus doentes. ^v14
 
-**15** E, sendo chegada a tarde, os seus discípulos aproximaram-se dele, dizendo: O lugar é deserto, e a hora é já avançada; despede a multidão, para que vão pelas aldeias, e comprem comida para si. ^v15
+**15** "Quando o fim da tarde chegou, os discípulos vieram a Ele e disseram: ""Este é um lugar deserto e o dia já terminou. Despede as multidões, para que elas possam ir às vilas e comprar comida para si""." ^v15
 
-**16** Jesus, porém, lhes disse: Não é mister que vão; dai-lhes vós de comer. ^v16
+**16** "Mas Jesus disse-lhes: ""Eles não precisam ir embora, dai-lhes algo para comer""." ^v16
 
-**17** Então eles lhe disseram: Não temos aqui senão cinco pães e dois peixes. ^v17
+**17** "Eles Lhe disseram: ""Nós temos aqui apenas cinco pães e dois peixes""." ^v17
 
-**18** E ele disse: Trazei-mos aqui. ^v18
+**18** "Jesus disse: ""Trazei-os para Mim""." ^v18
 
-**19** E, tendo mandado que a multidão se assentasse sobre a erva, tomou os cinco pães e os dois peixes, e, erguendo os olhos ao céu, os abençoou, e, partindo os pães, deu-os aos discípulos, e os discípulos à multidão. ^v19
+**19** Então Jesus ordenou que a multidão se sentasse na grama. Ele pegou os cinco pães e os dois peixes e, olhando para o céu, abençoou, partiu os pães, deu-os aos discípulos e os discípulos os deram à multidão. ^v19
 
-**20** E comeram todos, e saciaramse; e levantaram dos pedaços, que sobejaram, doze alcofas cheias. ^v20
+**20** Todos comeram e ficaram satisfeitos. Então eles recolheram o que sobrou dos pedaços de comida: doze cestos cheios. ^v20
 
-**21** E os que comeram foram quase cinco mil homens, além das mulheres e crianças. ^v21
+**21** Aqueles que comeram eram em torno de cinco mil homens, além de mulheres e crianças. ^v21
 
-**22** E logo ordenou Jesus que os seus discípulos entrassem no barco, e fossem adiante para o outro lado, enquanto despedia a multidão. ^v22
+**22** Imediatamente Ele fez os discípulos entrarem no barco e irem adiante Dele para o outro lado, enquanto despedia a multidão. ^v22
 
-**23** E, despedida a multidão, subiu ao monte para orar, à parte. E, chegada já a tarde, estava ali só. ^v23
+**23** Depois que mandou a multidão embora, Ele subiu a montanha sozinho para orar. Quando escureceu, Ele estava lá sozinho. ^v23
 
-**24** E o barco estava já no meio do mar, açoitado pelas ondas; porque o vento era contrário; ^v24
+**24** Mas o barco estava distante da terra e quase fora de controle por causa das ondas, pois o vento soprava contra eles. ^v24
 
-**25** Mas, à quarta vigília da noite, dirigiu-se Jesus para eles, andan-do por cima do mar. ^v25
+**25** Na quarta vigília da noite, Jesus aproximou-se deles, andando sobre o mar. ^v25
 
-**26** E os discípulos, vendo-o an-dando sobre o mar, assustaram-se, dizendo: É um fantasma. E gritaram com medo. ^v26
+**26** "Quando os discípulos O viram andando sobre o mar, ficaram aterrorizados e disseram: ""É um fantasma!"" E eles gritaram de medo." ^v26
 
-**27** Jesus, porém, lhes falou logo, dizendo: Tende bom ânimo, sou eu, não temais. ^v27
+**27** "Mas Jesus falou-lhes imediatamente: ""Sede corajosos! Sou Eu! Não tenhais medo""." ^v27
 
-**28** E respondeu-lhe Pedro, e disse: Senhor, se és tu, manda-me ir ter contigo por cima das águas. ^v28
+**28** "Pedro respondeu-Lhe: ""Senhor, se és Tu, ordena a mim para que vá a Ti sobre a água""." ^v28
 
-**29** E ele disse: Vem. E Pedro, descendo do barco, andou sobre as águas para ir ter com Jesus. ^v29
+**29** "Jesus disse: ""Vem!"" Assim Pedro saiu do barco e andou sobre as águas para ir até Jesus." ^v29
 
-**30** Mas, sentindo o vento forte, teve medo; e, começando a ir para o fundo, clamou, dizendo: Senhor, salva-me! ^v30
+**30** "Mas, quando Pedro viu o vento, teve medo; e, começando a afundar, gritou: ""Senhor, salva-me!""" ^v30
 
-**31** E logo Jesus, estendendo a mão, segurou-o, e disse-lhe: Homem de pouca fé, por que duvidaste? ^v31
+**31** "Jesus imediatamente esticou a mão, agarrou Pedro e disse-lhe: ""Tu, que tens pequena fé, por que duvidaste?""" ^v31
 
-**32** E, quando subiram para o barco, acalmou o vento. ^v32
+**32** Então, quando Jesus e Pedro entraram no barco, o vento parou de soprar. ^v32
 
-**33** Então aproximaram-se os que estavam no barco, e adoraram-no, dizendo: És verdadeiramente o Filho de Deus. ^v33
+**33** "Os discípulos no barco adoraram a Jesus e disseram: ""Verdadeiramente Tu és o Filho de Deus""." ^v33
 
-**34** E, tendo passado para o outro lado, chegaram à terra de Genesaré. ^v34
+**34** Após completarem a travessia, chegaram a terra, em Genesaré. ^v34
 
-**35** E, quando os homens daquele lugar o conheceram, mandaram por todas aquelas terras em redor e trouxeram-lhe todos os que estavam enfermos. ^v35
+**35** Quando os homens naquele lugar reconheceram Jesus, enviaram mensagens para todos os lugares nos arredores e trouxeram a Ele todos os que estavam doentes. ^v35
 
-**36** E rogavam-lhe que ao menos eles pudessem tocar a orla da sua roupa; e todos os que a tocavam ficavam sãos. ^v36
+**36** Eles Lhe imploraram que pudessem apenas tocar na borda do Seu manto, e todos os que tocaram foram curados. ^v36

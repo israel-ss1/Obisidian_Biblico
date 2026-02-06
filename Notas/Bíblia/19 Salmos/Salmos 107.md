@@ -1,93 +1,92 @@
 ---
-Livro: "[[Salmos|Salmos]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Salmos|Salmos]]"
+tags: [biblia]
 ---
 
 # Salmos 107
 
-**1** Louvai ao SENHOR, porque ele é bom, porque a sua benignidade dura para sempre. ^v1
+**1** Rendei graças a Yahweh porque Ele é bom e Seu amor leal dura para sempre. ^v1
 
-**2** Digam-no os remidos do Senhor, os que remiu da mão do inimigo, ^v2
+**2** Que repitam isso os redimidos de Yahweh, aqueles que Ele resgatou do poder do inimigo. ^v2
 
-**3** E os que congregou das terras do oriente e do ocidente, do norte e do sul. ^v3
+**3** Ele os reuniu das terras estrangeiras, do leste e do oeste, do norte e do sul. ^v3
 
-**4** Andaram desgarrados pelo deserto, por caminhos solitários; não acharam cidade para habitarem. ^v4
+**4** Eles vagaram no deserto, por terras áridas, e não encontraram cidade para habitar. ^v4
 
-**5** Famintos e sedentos, a sua alma neles desfalecia. ^v5
+**5** Eles estavam famintos, sedentos e desmaiavam de exaustão. ^v5
 
-**6** E clamaram ao Senhor na sua angústia, e os livrou das suas dificuldades. ^v6
+**6** Então, nas suas dificuldades, clamaram a Yahweh e Ele os resgatou das suas aflições. ^v6
 
-**7** E os levou por caminho direito, para irem a uma cidade de habitação. ^v7
+**7** Ele os guiou pelo caminho reto. Então, encontraram uma cidade para viver. ^v7
 
-**8** Louvem ao Senhor pela sua bondade, e pelas suas maravilhas para com os filhos dos homens. ^v8
+**8** Que todos louvem a Yahweh por Seu amor leal e pelas maravilhas que Ele tem feito pela humanidade! ^v8
 
-**9** Pois fartou a alma sedenta, e encheu de bens a alma faminta. ^v9
+**9** Porque Ele sacia os sedentos e o apetite dos famintos, e os enche com bondade. ^v9
 
-**10** Tal como a que se assenta nas trevas e sombra da morte, presa em aflição e em ferro; ^v10
+**10** Alguns se assentaram na escuridão e na sombra da morte, oprimidos em aflição e correntes. ^v10
 
-**11** Porquanto se rebelaram contra as palavras de Deus, e desprezaram o conselho do Altíssimo. ^v11
+**11** Isso porque eles se rebelaram contra a Palavra de Deus e rejeitaram os mandamentos do Altíssimo. ^v11
 
-**12** Portanto, lhes abateu o coração com trabalho; tropeçaram, e não houve quem os ajudasse. ^v12
+**12** Ele abateu os seus corações com trabalhos pesados; eles tropeçaram e não houve quem os erguesse. ^v12
 
-**13** Então clamaram ao Senhor na sua angústia, e os livrou das suas dificuldades. ^v13
+**13** Assim, em suas dificuldades, eles clamaram a Yahweh. E Ele os livrou das suas aflições. ^v13
 
-**14** Tirou-os das trevas e sombra da morte; e quebrou as suas prisões. ^v14
+**14** Ele os tirou da escuridão e das sombras da morte; e quebrou as suas algemas. ^v14
 
-**15** Louvem ao Senhor pela sua bondade, e pelas suas maravilhas para com os filhos dos homens. ^v15
+**15** Oh! Que o povo louve a Yahweh por Seu amor leal e pelas maravilhas que Ele tem feito pela humanidade! ^v15
 
-**16** Pois quebrou as portas de bronze, e despedaçou os ferrolhos de ferro. ^v16
+**16** Pois Ele quebrou os portões de bronze e cortou as barras de ferro. ^v16
 
-**17** Os loucos, por causa da sua transgressão, e por causa das suas iniqüidades, são aflitos. ^v17
+**17** Eles foram insensatos em seus caminhos de rebelião e afligidos por causa dos seus pecados; ^v17
 
-**18** A sua alma aborreceu toda a comida, e chegaram até às portas da morte. ^v18
+**18** perderam o apetite por qualquer comida e chegaram perto dos portões da morte. ^v18
 
-**19** Então clamaram ao Senhor na sua angústia, e ele os livrou das suas dificuldades. ^v19
+**19** Então, na sua dificuldade, eles clamaram a Yahweh; Ele os livrou das suas aflições. ^v19
 
-**20** Enviou a sua palavra, e os sarou; e os livrou da sua destruição. ^v20
+**20** Ele enviou a Sua Palavra e os curou; Ele os resgatou das suas tribulações . ^v20
 
-**21** Louvem ao Senhor pela sua bondade, e pelas suas maravilhas para com os filhos dos homens. ^v21
+**21** Oh! Que o povo louve a Yahweh pelo Seu amor leal e pelas maravilhas que Ele tem feito pela humanidade! ^v21
 
-**22** E ofereçam os sacrifícios de louvor, e relatem as suas obras com regozijo. ^v22
+**22** Que ofereçam sacrifícios de gratidão e proclamem, com alegria, os Seus feitos. ^v22
 
-**23** Os que descem ao mar em navios, mercando nas grandes águas. ^v23
+**23** Os que viajam, em navios pelos mares, para negociar além-mar ^v23
 
-**24** Esses vêem as obras do Senhor, e as suas maravilhas no profundo. ^v24
+**24** viram os feitos de Yahweh e as suas maravilhas nas profundezas. ^v24
 
-**25** Pois ele manda, e se levanta o vento tempestuoso que eleva as suas ondas. ^v25
+**25** Porque Ele ordenou e a tempestade se levantou nos mares. ^v25
 
-**26** Sobem aos céus; descem aos abismos, e a sua alma se derrete em angústias. ^v26
+**26** Os navios alcançaram o céu, desceram às profundezas. Suas vidas se derreteram em aflição. ^v26
 
-**27** Andam e cambaleiam como ébrios, e perderam todo o tino. ^v27
+**27** Eles foram balançados e cambaleavam como bêbados; por fim, perderam toda a esperança de salvação. ^v27
 
-**28** Então clamam ao Senhor na sua angústia; e ele os livra das suas dificuldades. ^v28
+**28** Assim, na dificuldade, eles clamaram a Yahweh que os tirou da aflição. ^v28
 
-**29** Faz cessar a tormenta, e acalmam-se as suas ondas. ^v29
+**29** Ele acalmou a tempestade e as ondas se aquietaram. ^v29
 
-**30** Então se alegram, porque se aquietaram; assim os leva ao seu porto desejado. ^v30
+**30** Então, eles se regozijaram porque o mar se acalmou; Ele os levou ao porto desejado. ^v30
 
-**31** Louvem ao Senhor pela sua bondade, e pelas suas maravilhas para com os filhos dos homens. ^v31
+**31** Oh! Quisera que todas as pessoas louvassem a Yahweh por Seu amor leal e pelas maravilhas que Ele tem feito para a humanidade! ^v31
 
-**32** Exaltem-no na congregação do povo, e glorifiquem-no na assembléia dos anciãos. ^v32
+**32** Que elas O exaltem na assembleia do povo e O louvem no conselho dos anciãos! ^v32
 
-**33** Ele converte os rios em um deserto, e as fontes em terra sedenta; ^v33
+**33** Ele transformou rios em um deserto, fontes de águas em terra seca, ^v33
 
-**34** A terra frutífera em estéril, pela maldade dos que nela habitam. ^v34
+**34** e uma terra frutífera em um lugar estéril, por causa da maldade desse povo. ^v34
 
-**35** Converte o deserto em lagoa, e a terra seca em fontes. ^v35
+**35** Ele transformou o deserto em poços de água e terra seca em mananciais. ^v35
 
-**36** E faz habitar ali os famintos, para que edifiquem cidade para habitação; ^v36
+**36** Ele estabeleceu famintos ali, e eles edificaram uma cidade para viver. ^v36
 
-**37** E semeiam os campos e plantam vinhas, que produzem fruto abundante. ^v37
+**37** Plantaram campos, vinhas e produziram colheitas abundantes. ^v37
 
-**38** Também os abençoa, de modo que se multiplicam muito; e o seu gado não diminui. ^v38
+**38** Ele os abençoou, de modo que eles se multiplicaram grandemente; não permitiu que seu rebanho diminuisse. ^v38
 
-**39** Depois se diminuem e se abatem, pela opressão, e aflição e tristeza. ^v39
+**39** Eles foram reduzidos e humilhados por dolorosa aflição e sofrimento. ^v39
 
-**40** Derrama o desprezo sobre os príncipes, e os faz andar desgarrados pelo deserto, onde não há caminho. ^v40
+**40** Ele derramou desprezo sobre os líderes e os fez vaguear por lugares desertos, onde não há caminho. ^v40
 
-**41** Porém livra ao necessitado da opressão, em um lugar alto, e multiplica as famílias como rebanhos. ^v41
+**41** Ele ergueu o necessitado da miséria e multiplicou suas famílias, como um rebanho. ^v41
 
-**42** Os retos o verão, e se alegrarão, e toda a iniqüidade tapará a boca. ^v42
+**42** O justo verá isso e se alegrará, e todo o ímpio fechará a sua boca. ^v42
 
-**43** Quem é sábio observará estas coisas, e eles compreenderão as benignidades do Senhor. ^v43
+**43** Quem é sábio considere tudo isso e medite nos bondosos atos de Yahweh. ^v43

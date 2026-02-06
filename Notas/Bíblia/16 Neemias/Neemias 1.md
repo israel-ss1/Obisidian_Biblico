@@ -1,29 +1,28 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Neemias|Neemias]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Neemias|Neemias]]"
+tags: [biblia]
 ---
 
 # Neemias 1
 
-**1** As palavras de Neemias, filho de Hacalias. E sucedeu no mês de Quislev, no ano vigésimo, estando eu em Susã, a fortaleza, ^v1
+**1** As palavras de Neemias, filho de Hacalias. Ora, aconteceu no mês de quisleu, no vigésimo ano, enquanto eu estava na fortaleza de Susã, ^v1
 
-**2** Que veio Hanani, um de meus irmãos, ele e alguns de Judá; e perguntei-lhes pelos judeus que escaparam, e que restaram do cativeiro, e acerca de Jerusalém. ^v2
+**2** quando um dos meus irmãos, Hanani, veio com algumas pessoas de Judá, e eu perguntei-lhes sobre os judeus que haviam escapado, o remanescente dos judeus que estava lá, e sobre Jerusalém. ^v2
 
-**3** E disseram-me: Os restantes, que ficaram do cativeiro, lá na província estão em grande miséria e desprezo; e o muro de Jerusalém fendido e as suas portas queimadas a fogo. ^v3
+**3** "Eles me disseram: ""Aqueles na província que sobreviveram ao cativeiro estão em grande dificuldade e desgraça, porque os muros de Jerusalém foram arrombados, e os portões foram incendiados""." ^v3
 
-**4** E sucedeu que, ouvindo eu estas palavras, assentei-me e chorei, e lamentei por alguns dias; e estive jejuando e orando perante o Deus dos céus. ^v4
+**4** E, assim que ouvi essas palavras, sentei-me e chorei por vários dias. Continuei de luto e de jejum, orando perante o Deus dos céus. ^v4
 
-**5** E disse: Ah! Senhor Deus dos céus, Deus grande e terrível! Que guarda a aliança e a benignidade para com aqueles que o amam e guardam os seus mandamentos; ^v5
+**5** "Eu disse: ""Yahweh, Deus dos céus, o Deus que é grande e maravilhoso, Tu que manténs a Tua aliança e a Tua benignidade com aqueles que Te amam e guardam os Teus mandamentos." ^v5
 
-**6** Estejam, pois, atentos os teus ouvidos e os teus olhos abertos, para ouvires a oração do teu servo, que eu hoje faço perante ti, dia e noite, pelos filhos de Israel, teus servos; e faço confissão pelos pecados dos filhos de Israel, que temos cometido contra ti; também eu e a casa de meu pai temos pecado. ^v6
+**6** Escuta a minha oração e abre os Teus olhos, para que Tu possas escutar a oração do Teu servo, que oro diante de Ti, dia e noite, pelo povo de Israel, Teus servos. Eu estou confessando os pecados do povo de Israel, pois nós temos pecado contra Ti. Eu e a casa do meu pai pecamos. ^v6
 
-**7** De todo nos corrompemos contra ti, e não guardamos os mandamentos, nem os estatutos, nem os juízos, que ordenaste a Moisés, teu servo. ^v7
+**7** Nós temos agido perversamente contra Ti, e não temos guardado os mandamentos, as leis e os decretos que Tu ordenaste ao Teu servo Moisés. ^v7
 
-**8** Lembra-te, pois, da palavra que ordenaste a Moisés, teu servo, dizendo: Vós transgredireis, e eu vos espalharei entre os povos. ^v8
+**8** Por favor, lembra-Te da palavra que ordenaste ao Teu servo Moisés: 'Se agirdes infielmente, Eu irei espalhar-vos entre as nações, ^v8
 
-**9** E vós vos convertereis a mim, e guardareis os meus mandamentos, e os cumprireis; então, ainda que os vossos rejeitados estejam na extremidade do céu, de lá os ajuntarei e os trarei ao lugar que tenho escolhido para ali fazer habitar o meu nome. ^v9
+**9** mas, se retornardes a Mim e seguirdes os Meus mandamentos e os praticardes, embora o vosso povo tenha sido espalhado pelos lugares mais distantes debaixo do céu, Eu irei juntá-los e os trarei para o lugar que Eu escolhi para estabelecer o Meu Nome'. ^v9
 
-**10** Eles são teus servos e o teu povo que resgataste com a tua grande força e com a tua forte mão. ^v10
+**10** Eles são os Teus servos e o Teu povo, a quem Tu resgataste pelo Teu grande poder e pela Tua mão forte. ^v10
 
-**11** Ah! Senhor, estejam, pois, atentos os teus ouvidos à oração do teu servo, e à oração dos teus servos que desejam temer o teu nome; e faze prosperar hoje o teu servo, e dá-lhe graça perante este homem. Então era eu copeiro do rei. ^v11
+**11** "Yahweh, eu Te imploro, ouve agora a oração do Teu servo e a oração dos Teus servos que se deleitam em honrar o Teu Nome. Faz com que Teu servo seja bem-sucedido hoje, e concede-lhe misericórdia às vistas deste homem"". Eu servia como copeiro do rei." ^v11

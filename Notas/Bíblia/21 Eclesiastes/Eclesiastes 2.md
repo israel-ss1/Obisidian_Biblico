@@ -1,59 +1,58 @@
 ---
-Livro: "[[Eclesiastes|Eclesiastes]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Eclesiastes|Eclesiastes]]"
+tags: [biblia]
 ---
 
 # Eclesiastes 2
 
-**1** Disse eu no meu coração: Ora vem, eu te provarei com alegria; portanto goza o prazer; mas eis que também isso era vaidade. ^v1
+**1** "Eu disse ao meu coração: ""Vem agora; vou te testar com minha felicidade. Então experimenta a alegria"". Mas olha, isso também é só uma ilusão." ^v1
 
-**2** Ao riso disse: Está doido; e da alegria: De que serve esta? ^v2
+**2** "Eu falei sobre o riso: ""Isso é loucura""; e sobre o prazer: ""Qual é a utilidade disso?""." ^v2
 
-**3** Busquei no meu coração como estimular com vinho a minha carne (regendo porém o meu coração com sabedoria), e entregar-me à loucura, até ver o que seria melhor que os filhos dos homens fizessem debaixo do céu durante o número dos dias de sua vida. ^v3
+**3** Eu considerei em meu coração como satisfazer meus desejos com vinho. Deixei minha mente me guiar com sabedoria, embora ainda estivesse apegado à insensatez. Eu procurei descobrir o que é bom para as pessoas fazerem debaixo do céu, durante os dias de suas vidas. ^v3
 
-**4** Fiz para mim obras magníficas; edifiquei para mim casas; plantei para mim vinhas. ^v4
+**4** Eu realizei grandes coisas. Construí casas e plantei vinhas para mim mesmo. ^v4
 
-**5** Fiz para mim hortas e jardins, e plantei neles árvores de toda a espécie de fruto. ^v5
+**5** Cultivei pomares de árvores frutíferas para mim; plantei todo tipo de árvores frutíferas nele. ^v5
 
-**6** Fiz para mim tanques de águas, para regar com eles o bosque em que reverdeciam as árvores. ^v6
+**6** Eu criei reservatórios de água para irrigar um bosque onde as árvores estavam crescendo. ^v6
 
-**7** Adquiri servos e servas, e tive servos nascidos em casa; também tive grandes possessões de gados e ovelhas, mais do que todos os que houve antes de mim em Jerusalém. ^v7
+**7** Eu adquiri escravos e escravas; tive escravos nascidos em meu palácio. Também tive grandes rebanhos e manadas de gado, muito mais do que qualquer outro rei que governou Jerusalém antes de mim. ^v7
 
-**8** Amontoei também para mim prata e ouro, e tesouros dos reis e das províncias; provi-me de cantores e cantoras, e das delícias dos filhos dos homens; e de instrumentos de música de toda a espécie. ^v8
+**8** "Igualmente, acumulei para mim mesmo prata e ouro, os tesouros dos reis e províncias. Escolhi cantores e cantoras e tive concubinas, os prazeres dos filhos dos homens. [Versões modernas interpretam a última parte desse verso de diferentes maneiras: ""tudo que agrada pessoas"", ""concubinas e tudo o que agrada homens"" etc.]" ^v8
 
-**9** E fui engrandecido, e aumentei mais do que todos os que houve antes de mim em Jerusalém; perseverou também comigo a minha sabedoria. ^v9
+**9** Então, eu me tornei mais poderoso e rico do que todos os que viveram antes de mim, em Jerusalém, conservando comigo a sabedoria. ^v9
 
-**10** E tudo quanto desejaram os meus olhos não lhes neguei, nem privei o meu coração de alegria alguma; mas o meu coração se alegrou por todo o meu trabalho, e esta foi a minha porção de todo o meu trabalho. ^v10
+**10** Tudo o que meus olhos desejaram não lhes neguei. Eu não neguei ao meu coração nenhum prazer, porque meu coração se encheu de alegria com todo meu trabalho, e o prazer foi a recompensa de todos os meus esforços. ^v10
 
-**11** E olhei eu para todas as obras que fizeram as minhas mãos, como também para o trabalho que eu, trabalhando, tinha feito, e eis que tudo era vaidade e aflição de espírito, e que proveito nenhum havia debaixo do sol. ^v11
+**11** Então, olhei para tudo o que minhas mãos haviam realizado e para o trabalho que fiz; mas, novamente, tudo era vaidade e como uma tentativa de agarrar o vento. Não havia proveito debaixo do sol. ^v11
 
-**12** Então passei a contemplar a sabedoria, e a loucura e a estultícia. Pois que fará o homem que seguir ao rei? O mesmo que outros já fizeram. ^v12
+**12** Então, voltei a considerar a sabedoria e também a insensatez do tolo: que poderá fazer o rei? Apenas o que não tenha sido feito. ^v12
 
-**13** Então vi eu que a sabedoria é mais excelente do que a estultícia, quanto a luz é mais excelente do que as trevas. ^v13
+**13** Então, comecei a entender que sabedoria é melhor do que insensatez, exatamente como a luz é melhor do que as trevas. ^v13
 
-**14** Os olhos do homem sábio estão na sua cabeça, mas o louco anda em trevas; então também entendi eu que o mesmo lhes sucede a ambos. ^v14
+**14** O homem sábio utiliza seus olhos para enxergar aonde está indo, mas o insensato é como alguém que anda no escuro. Entretanto percebi que todos têm o mesmo destino. ^v14
 
-**15** Assim eu disse no meu coração: Como acontece ao tolo, assim me sucederá a mim; por que então busquei eu mais a sabedoria? Então disse no meu coração que também isto era vaidade. ^v15
+**15** Então, eu disse em meu coração: o que acontece ao tolo também me acontecerá. Então, que diferença faz em ser muito sábio? Concluí em meu coração: isso também é apenas ilusão. ^v15
 
-**16** Porque nunca haverá mais lembrança do sábio do que do tolo; porquanto de tudo, nos dias futuros, total esquecimento haverá. E como morre o sábio, assim morre o tolo! ^v16
+**16** Tanto o homem sábio quanto o tolo não serão lembrados por muito tempo. Nos dias do porvir, tudo será esquecido. Assim como o tolo, o homem sábio também morre. ^v16
 
-**17** Por isso odiei esta vida, porque a obra que se faz debaixo do sol me era penosa; sim, tudo é vaidade e aflição de espírito. ^v17
+**17** Então, detestei a vida porque achei má toda obra feita debaixo do sol, porque tudo é inútil, e como uma tentativa de agarrar o vento. ^v17
 
-**18** Também eu odiei todo o meu trabalho, que realizei debaixo do sol, visto que eu havia de deixá-lo ao homem que viesse depois de mim. ^v18
+**18** Eu odiei todas as minhas realizações pelas quais trabalhei debaixo do sol, porque devo deixá-las para trás, para o homem que me suceder. ^v18
 
-**19** E quem sabe se será sábio ou tolo? Todavia, se assenhoreará de todo o meu trabalho que realizei e em que me houve sabiamente debaixo do sol; também isto é vaidade. ^v19
+**19** Quem sabe se ele será um sábio ou um tolo? No entanto, ele será senhor sobre tudo o que meu trabalho e sabedoria construíram. Isso também é ilusão. ^v19
 
-**20** Então eu me volvi e entreguei o meu coração ao desespero no tocante ao trabalho, o qual realizei debaixo do sol. ^v20
+**20** Portanto, meu coração começou a se desesperar por todo esforço que fiz debaixo do sol. ^v20
 
-**21** Porque há homem cujo trabalho é feito com sabedoria, conhecimento, e destreza; contudo deixará o seu trabalho como porção de quem nele não trabalhou; também isto é vaidade e grande mal. ^v21
+**21** Pois pode haver alguém que trabalhe com sabedoria, com conhecimento e habilidade, mas deixará tudo o que fez para quem não fez nada disso. Isso também é ilusão e uma grande tragédia. ^v21
 
-**22** Porque, que mais tem o homem de todo o seu trabalho, e da aflição do seu coração, em que ele anda trabalhando debaixo do sol? ^v22
+**22** Pois que proveito a pessoa tem em trabalhar arduamente e tentar em seu coração completar o duro trabalho que realiza debaixo do sol? ^v22
 
-**23** Porque todos os seus dias são dores, e a sua ocupação é aflição; até de noite não descansa o seu coração; também isto é vaidade. ^v23
+**23** Todo dia seu trabalho é penoso e estressante, e à noite sua alma não encontra descanso. Isso também é ilusão. ^v23
 
-**24** Não há nada melhor para o homem do que comer e beber, e fazer com que sua alma goze do bem do seu trabalho. Também vi que isto vem da mão de Deus. ^v24
+**24** Não há nada melhor para alguém do que simplesmente comer e beber, e estar satisfeito do seu trabalho. Vi que, na verdade, tudo vem das mãos de Deus. ^v24
 
-**25** Pois quem pode comer, ou quem pode gozar melhor do que eu? ^v25
+**25** Pois quem pode comer ou ter algum tipo de prazer distante de Deus? ^v25
 
-**26** Porque ao homem que é bom diante dele, dá Deus sabedoria e conhecimento e alegria; mas ao pecador dá trabalho, para que ele ajunte, e amontoe, para dá-lo ao que é bom perante Deus. Também isto é vaidade e aflição de espírito. ^v26
+**26** Porque a todo o que Lhe agrada Deus dá sabedoria, conhecimento e alegria. No entanto, para o pecador, Ele dá o trabalho de ajuntar e armazenar para entregá-lo a outro de quem Deus Se agrade. Isso também é vaidade e como uma tentativa de agarrar o vento. ^v26

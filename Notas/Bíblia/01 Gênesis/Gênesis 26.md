@@ -1,77 +1,76 @@
 ---
-Livro: "[[Gênesis|Gênesis]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Gênesis|Gênesis]]"
+tags: [biblia]
 ---
 
 # Gênesis 26
 
-**1** E havia fome na terra, além da primeira fome, que foi nos dias de Abraão; por isso foi Isaque a Abimeleque, rei dos filisteus, em Gerar. ^v1
+**1** Houve grande fome na terra, além da primeira, ocorrida nos dias de Abraão. Por isso Isaque foi até Abimeleque, rei dos filisteus, em Gerar. ^v1
 
-**2** E apareceu-lhe o Senhor, e disse: Não desças ao Egito; habita na terra que eu te disser; ^v2
+**2** "E Yahweh apareceu-lhe e disse: ""Não desças até o Egito, habite na terra que Eu te mostrarei." ^v2
 
-**3** Peregrina nesta terra, e serei contigo, e te abençoarei; porque a ti e à tua descendência darei todas estas terras, e confirmarei o juramento que tenho jurado a Abraão teu pai; ^v3
+**3** Permanece nesta mesma terra, e Eu serei contigo e te abençoarei; pois darei a ti e aos teus descendentes todas estas terras, e cumprirei o que jurei a teu pai Abraão. ^v3
 
-**4** E multiplicarei a tua descendência como as estrelas dos céus, e darei à tua descendência todas estas terras; e por meio dela serão benditas todas as nações da terra; ^v4
+**4** Multiplicarei a tua descendência como as estrelas do céu, e darei à tua semente todas estas terras. Em tua descendência serão abençoadas todas as nações da terra. ^v4
 
-**5** Porquanto Abraão obedeceu à minha voz, e guardou o meu mandado, os meus preceitos, os meus estatutos, e as minhas leis. ^v5
+**5** "Farei isso, porque Abraão obedeceu à Minha voz e guardou a Minha prescrição, as Minhas ordenanças, os Meus estatutos e as Minhas leis""." ^v5
 
-**6** Assim habitou Isaque em Gerar. ^v6
+**6** Isaque assim habitou em Gerar. ^v6
 
-**7** E perguntando-lhe os homens daquele lugar acerca de sua mulher, disse: É minha irmã; porque temia dizer: É minha mulher; para que porventura (dizia ele) não me matem os homens daquele lugar por amor de Rebeca; porque era formosa à vista. ^v7
+**7** "Quando os homens do lugar lhe perguntaram sobre sua mulher, ele respondeu: ""É minha irmã"". Pois temeu dizer: ""É minha mulher"". Ele pensou consigo: ""Os homens deste lugar tentarão me matar para possuir Rebeca, pois ela é de boa aparência""." ^v7
 
-**8** E aconteceu que, como ele esteve ali muito tempo, Abimeleque, rei dos filisteus, olhou por uma janela, e viu, e eis que Isaque estava brincando com Rebeca sua mulher. ^v8
+**8** Isaque permaneceu ali por longo tempo. E aconteceu que Abimeleque, rei dos filisteus, olhou pela janela e viu Isaque acariciando Rebeca, sua mulher. ^v8
 
-**9** Então chamou Abimeleque a Isaque, e disse: Eis que na verdade é tua mulher; como pois disseste: É minha irmã? E disse-lhe Isaque: Porque eu dizia: Para que eu porventura não morra por causa dela. ^v9
+**9** "Abimeleque chamou Isaque e disse: ""É evidente que ela é tua mulher. Então, por que disseste: 'É minha irmã'?"" Isaque respondeu-lhe: ""Porque temi que me matassem por causa dela""." ^v9
 
-**10** E disse Abimeleque: Que é isto que nos fizeste? Facilmente se teria deitado alguém deste povo com a tua mulher, e tu terias trazido sobre nós um delito. ^v10
+**10** "Abimeleque disse: Por que fizeste isso conosco? Se alguém de nós deitasse com tua mulher, tu terias trazido culpa sobre nós""." ^v10
 
-**11** E mandou Abimeleque a todo o povo, dizendo: Qualquer que tocar neste homem ou em sua mulher, certamente morrerá. ^v11
+**11** "Então Abimeleque ordenou a todo o povo, dizendo: ""Quem tocar neste homem ou na sua mulher, certamente será morto""." ^v11
 
-**12** E semeou Isaque naquela mesma terra, e colheu naquele mesmo ano cem medidas, porque o Senhor o abençoava. ^v12
+**12** Isaque semeou naquela terra e, no mesmo ano, colheu cem vezes mais, pois Yahweh o abençoou. ^v12
 
-**13** E engrandeceu-se o homem, e ia enriquecendo-se, até que se tornou mui poderoso. ^v13
+**13** O homem se enriqueceu e prosperou até tornar-se extremamente rico. ^v13
 
-**14** E tinha possessão de ovelhas, e possessão de vacas, e muita gente de serviço, de maneira que os filisteus o invejavam. ^v14
+**14** Possuía muitas ovelhas e gado, e grande número de servos, de modo que os filisteus o invejavam. ^v14
 
-**15** E todos os poços, que os servos de seu pai tinham cavado nos dias de seu pai Abraão, os filisteus entulharam e encheram de terra. ^v15
+**15** E, por isso, os filisteus entulharam e entupiram com terra todos os poços cavados pelos servos nos dias de Abraão, seu pai. ^v15
 
-**16** Disse também Abimeleque a Isaque: Aparta-te de nós; porque muito mais poderoso te tens feito do que nós. ^v16
+**16** "Então Abimeleque disse: ""Aparta-te de nós, pois tu és muito mais poderoso do que nós""." ^v16
 
-**17** Então Isaque partiu dali e fez o seu acampamento no vale de Gerar, e habitou lá. ^v17
+**17** E Isaque partiu dali, acampou-se no vale de Gerar, onde habitou. ^v17
 
-**18** E tornou Isaque e cavou os poços de água que cavaram nos dias de Abraão seu pai, e que os filisteus entulharam depois da morte de Abraão, e chamou-os pelos nomes que os chamara seu pai. ^v18
+**18** Isaque tornou a cavar os poços de água feitos nos dias de Abraão, seu pai, que os filisteus haviam entulhado, após a morte de Abraão. Isaque chamou os poços pelos mesmos nomes que seu pai já lhes havia dado. ^v18
 
-**19** Cavaram, pois, os servos de Isaque naquele vale, e acharam ali um poço de águas vivas. ^v19
+**19** Assim que os servos de Isaque cavaram no vale, acharam uma fonte de águas correntes. ^v19
 
-**20** E os pastores de Gerar porfiaram com os pastores de Isaque, dizendo: Esta água é nossa. Por isso chamou aquele poço Eseque, porque contenderam com ele. ^v20
+**20** "Os pastores de Gerar contenderam com os pastores de Isaque, dizendo: ""Essa água nos pertence"". Por isso, Isaque deu ao poço o nome Eseque, pois disputaram por causa dele." ^v20
 
-**21** Então cavaram outro poço, e também porfiaram sobre ele; por isso chamou-o Sitna. ^v21
+**21** E cavaram outro poço, e contenderam também por causa desse; por isso, foi-lhe dado o nome Sitna. ^v21
 
-**22** E partiu dali, e cavou outro poço, e não porfiaram sobre ele; por isso chamou-o Reobote, e disse: Porque agora nos alargou o Senhor, e crescemos nesta terra. ^v22
+**22** "Ele partiu dali e cavou ainda outro poço, contudo não contenderam por esse. Então chamou o nome dele Reobote, pois disse: ""Yahweh agora nos deu um lugar, e prosperaremos na terra""." ^v22
 
-**23** Depois subiu dali a Berseba. ^v23
+**23** E Isaque subiu dali a Berseba. ^v23
 
-**24** E apareceu-lhe o Senhor naquela mesma noite, e disse: Eu sou o Deus de Abraão teu pai; não temas, porque eu sou contigo, e abençoar-te-ei, e multiplicarei a tua descendência por amor de Abraão meu servo. ^v24
+**24** "Yahweh apareceu-lhe naquela noite e disse: ""Eu Sou o Deus de Abraão, teu pai. Não temas, pois Eu estou contigo e te abençoarei e multiplicarei a tua descendência, por causa de Meu servo Abraão""." ^v24
 
-**25** Então edificou ali um altar, e invocou o nome do Senhor, e armou ali a sua tenda; e os servos de Isaque cavaram ali um poço. ^v25
+**25** Isaque edificou ali um altar e invocou o nome de Yahweh. Ali ele armou a sua tenda, e seus servos cavaram um poço. ^v25
 
-**26** E Abimeleque veio a ele de Gerar, com Auzate seu amigo, e Ficol, príncipe do seu exército. ^v26
+**26** Então Abimeleque veio desde Gerar com Auzate, seu amigo, e Ficol, o chefe do seu exército, para encontrá-lo. ^v26
 
-**27** E disse-lhes Isaque: Por que viestes a mim, pois que vós me odiais e me repelistes de vós? ^v27
+**27** "Isaque disse-lhes: ""Por que viestes até mim, visto que me tratastes com hostilidade e me expulsastes do vosso meio?""." ^v27
 
-**28** E eles disseram: Havemos visto, na verdade, que o Senhor é contigo, por isso dissemos: Haja agora juramento entre nós, entre nós e ti; e façamos aliança contigo. ^v28
+**28** "E responderam-lhe: ""Temos visto claramente que Yahweh está contigo. Então decidimos que deveria haver um juramento entre nós, sim, entre nós e ti. Portanto, permite-nos fazer uma aliança contigo:" ^v28
 
-**29** Que não nos faças mal, como nós te não temos tocado, e como te fizemos somente bem, e te deixamos ir em paz. Agora tu és o bendito do Senhor. ^v29
+**29** "Tu não nos farás mal, assim como nós não te tocamos, e te tratamos bem e te deixamos ir em paz. De fato, tu és o bendito de Yahweh""." ^v29
 
-**30** Então lhes fez um banquete, e comeram e beberam; ^v30
+**30** Então Isaque ofereceu-lhes um banquete, e eles comeram e beberam. ^v30
 
-**31** E levantaram-se de madrugada e juraram um ao outro; depois os despediu Isaque, e despediram-se dele em paz. ^v31
+**31** E levantaram-se de manhã e juraram um ao outro. Depois Isaque os despediu e eles partiram em paz. ^v31
 
-**32** E aconteceu, naquele mesmo dia, que vieram os servos de Isaque, e anunciaram-lhe acerca do negócio do poço, que tinham cavado; e disseram-lhe: Temos achado água. ^v32
+**32** "Naquele mesmo dia, os servos de Isaque vieram e contaram-lhe sobre o poço que haviam cavado. E disseram-lhe: ""Encontramos água""." ^v32
 
-**33** E chamou-o Seba; por isso é o nome daquela cidade Berseba até o dia de hoje. ^v33
+**33** E deu ao poço o nome Seba, por isso a cidade se chama Berseba até os dias de hoje. ^v33
 
-**34** Ora, sendo Esaú da idade de quarenta anos, tomou por mulher a Judite, filha de Beeri, heteu, e a Basemate, filha de Elom, heteu. ^v34
+**34** Quando Esaú tinha quarenta anos, tomou por mulher Judite, a filha de Beeri, o heteu, e Basemate, a filha de Elom, o heteu. ^v34
 
-**35** E estas foram para Isaque e Rebeca uma amargura de espírito. ^v35
+**35** Elas trouxeram amargura de espírito para Isaque e Rebeca. ^v35

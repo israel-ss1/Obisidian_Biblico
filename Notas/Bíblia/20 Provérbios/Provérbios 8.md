@@ -1,79 +1,78 @@
 ---
-Livro: "[[Provérbios|Provérbios]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Provérbios|Provérbios]]"
+tags: [biblia]
 ---
 
 # Provérbios 8
 
-**1** Não clama porventura a sabedoria, e a inteligência não faz ouvir a sua voz? ^v1
+**1** Por acaso a sabedoria não está exclamando? O entendimento não está levantando a sua voz? ^v1
 
-**2** No cume das alturas, junto ao caminho, nas encruzilhadas das veredas se posta. ^v2
+**2** No topo das colinas, ao lado da estrada, nas encruzilhadas, a sabedoria se posiciona. ^v2
 
-**3** Do lado das portas da cidade, à entrada da cidade, e à entrada das portas está gritando: ^v3
+**3** Perto dos portões da entrada da cidade, à entrada dos portões, ela exclama: ^v3
 
-**4** A vós, ó homens, clamo; e a minha voz se dirige aos filhos dos homens. ^v4
+**4** """Povo, é a vós que eu clamo; a minha voz é para os filhos dos homens." ^v4
 
-**5** Entendei, ó simples, a prudência; e vós, insensatos, entendei de coração. ^v5
+**5** Vós que sois ingênuos, aprendei a sabedoria; e vós que sois insensatos, acrescentai entendimento à vossa mente. ^v5
 
-**6** Ouvi, porque falarei coisas excelentes; os meus lábios se abrirão para a eqüidade. ^v6
+**6** Escutai, porque falarei de coisas nobres e, quando meus lábios se abrirem, direi coisas que são corretas, ^v6
 
-**7** Porque a minha boca proferirá a verdade, e os meus lábios abominam a impiedade. ^v7
+**7** pois minha boca fala o que é confiável e meus lábios odeiam a maldade. ^v7
 
-**8** São justas todas as palavras da minha boca: não há nelas nenhuma coisa tortuosa nem pervertida. ^v8
+**8** Todas as palavras da minha boca são justas, não há nada torcido ou enganoso nelas. ^v8
 
-**9** Todas elas são retas para aquele que as entende bem, e justas para os que acham o conhecimento. ^v9
+**9** Todas as minhas palavras são retas para aquele que as entende; minhas palavras são corretas para aqueles que acham o conhecimento. ^v9
 
-**10** Aceitai a minha correção, e não a prata; e o conhecimento, mais do que o ouro fino escolhido. ^v10
+**10** Escolhei a minha instrução acima da prata e o conhecimento mais do que o ouro puro. ^v10
 
-**11** Porque melhor é a sabedoria do que os rubis; e tudo o que mais se deseja não se pode comparar com ela. ^v11
+**11** Pois a sabedoria é melhor que joias; nenhum tesouro se compara a ela. ^v11
 
-**12** Eu, a sabedoria, habito com a prudência, e acho o conhecimento dos conselhos. ^v12
+**12** Eu, a sabedoria, vivo com a prudência, e possuo conhecimento e discrição. ^v12
 
-**13** O temor do Senhor é odiar o mal; a soberba e a arrogância, o mau caminho e a boca perversa, eu odeio. ^v13
+**13** O temor de Yahweh é odiar o mal; eu odeio o orgulho e a arrogância, o caminho maligno e o discurso perverso. Eu os odeio. ^v13
 
-**14** Meu é o conselho e a verdadeira sabedoria; eu sou o entendimento; minha é a fortaleza. ^v14
+**14** Eu tenho o bom conselho e a verdadeira sabedoria; eu tenho discernimento e a força pertence a mim. ^v14
 
-**15** Por mim reinam os reis e os príncipes decretam justiça. ^v15
+**15** Por mim, os reis reinam, e os governantes fazem leis que são justas. ^v15
 
-**16** Por mim governam príncipes e nobres; sim, todos os juízes da terra. ^v16
+**16** Por mim, os príncipes lideram e os nobres governam com justiça. ^v16
 
-**17** Eu amo aos que me amam, e os que cedo me buscarem, me acharão. ^v17
+**17** Eu amo os que me amam, e encontram-me os que, diligentemente, me buscam. ^v17
 
-**18** Riquezas e honra estão comigo; assim como os bens duráveis e a justiça. ^v18
+**18** Comigo há riquezas, honra, fartura duradoura e justiça. ^v18
 
-**19** Melhor é o meu fruto do que o ouro, do que o ouro refinado, e os meus ganhos mais do que a prata escolhida. ^v19
+**19** Meu fruto é melhor que o ouro, melhor até mesmo que o ouro refinado; o que eu produzo é melhor do que a prata pura. ^v19
 
-**20** Faço andar pelo caminho da justiça, no meio das veredas do juízo. ^v20
+**20** Eu ando no caminho que é correto, nas veredas que conduzem à justiça, ^v20
 
-**21** Para que faça herdar bens permanentes aos que me amam, e eu encha os seus tesouros. ^v21
+**21** para que eu dê uma herança aos que me amam e encha os seus tesouros. ^v21
 
-**22** O Senhor me possuiu no princípio de seus caminhos, desde então, e antes de suas obras. ^v22
+**22** Yahweh me criou no princípio; antes de Seus feitos antigos. ^v22
 
-**23** Desde a eternidade fui ungida, desde o princípio, antes do começo da terra. ^v23
+**23** Em eras passadas, fui feita, desde o princípio, desde o começo da Terra. ^v23
 
-**24** Quando ainda não havia abismos, fui gerada, quando ainda não havia fontes carregadas de águas. ^v24
+**24** Antes que existissem os oceanos, eu fui gerada, antes que houvesse abundantes nascentes de água. ^v24
 
-**25** Antes que os montes se houvessem assentado, antes dos outeiros, eu fui gerada. ^v25
+**25** Antes que os montes fossem firmados, e antes das colinas, eu nasci. ^v25
 
-**26** Ainda ele não tinha feito a terra, nem os campos, nem o princípio do pó do mundo. ^v26
+**26** Nasci antes que Yahweh tivesse feito a Terra ou os campos, ou mesmo a primeira poeira no mundo. ^v26
 
-**27** Quando ele preparava os céus, aí estava eu, quando traçava o horizonte sobre a face do abismo; ^v27
+**27** Eu estava lá quando Ele estabeleceu os céus, quando Ele desenhou o horizonte sobre a superfície do abismo. ^v27
 
-**28** Quando firmava as nuvens acima, quando fortificava as fontes do abismo, ^v28
+**28** Eu estava lá quando Ele estabeleceu as nuvens acima e quando as fontes do abismo foram firmadas. ^v28
 
-**29** Quando fixava ao mar o seu termo, para que as águas não traspassassem o seu mando, quando compunha os fundamentos da terra. ^v29
+**29** Eu estava lá quando Ele fez o limite do mar, de modo que as águas não se espalhassem além de onde Ele as ordenou, e quando Ele pôs o limite dos fundamentos da terra seca. ^v29
 
-**30** Então eu estava com ele, e era seu arquiteto; era cada dia as suas delícias, alegrando-me perante ele em todo o tempo; ^v30
+**30** Eu estava ao Seu lado, como um mestre artesão; eu era Seu deleite dia após dia, sempre me alegrando diante Dele. ^v30
 
-**31** Regozijando-me no seu mundo habitável e enchendo-me de prazer com os filhos dos homens. ^v31
+**31** Eu estava me alegrando em todo o Seu mundo, e meu deleite era nos filhos dos homens. ^v31
 
-**32** Agora, pois, filhos, ouvi-me, porque bem-aventurados serão os que guardarem os meus caminhos. ^v32
+**32** Agora, meus filhos, escutai-me, pois aqueles que mantêm meus caminhos serão benditos. ^v32
 
-**33** Ouvi a instrução, e sede sábios, não a rejeiteis. ^v33
+**33** Escutai a minha instrução e sede sábios; não a negligencieis. ^v33
 
-**34** Bem-aventurado o homem que me dá ouvidos, velando às minhas portas cada dia, esperando às ombreiras da minha entrada. ^v34
+**34** Aquele que me escuta será abençoado, vigiando a cada dia aos meus portões, esperando junto aos batentes das minhas portas. ^v34
 
-**35** Porque o que me achar, achará a vida, e alcançará o favor do Senhor. ^v35
+**35** Pois quem quer que me encontre, encontra vida, e encontrará o favor de Yahweh. ^v35
 
-**36** Mas o que pecar contra mim violentará a sua própria alma; todos os que me odeiam amam a morte. ^v36
+**36** "Mas aquele que falhar, faz mal à sua própria vida; todos os que me odeiam amam a morte""." ^v36

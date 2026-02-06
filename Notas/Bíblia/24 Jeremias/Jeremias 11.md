@@ -1,53 +1,52 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Jeremias|Jeremias]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Jeremias|Jeremias]]"
+tags: [biblia]
 ---
 
 # Jeremias 11
 
-**1** A palavra que veio a Jeremias, da parte do SENHOR, dizendo: ^v1
+**1** A palavra de Yahweh veio a Jeremias, dizendo: ^v1
 
-**2** Ouvi as palavras desta aliança, e falai aos homens de Judá, e aos habitantes de Jerusalém. ^v2
+**2** """Escuta as palavras desta aliança, e as declara para cada homem de Judá e para os habitantes de Jerusalém." ^v2
 
-**3** Dize-lhes pois: Assim diz o Senhor Deus de Israel: Maldito o homem que não escutar as palavras desta aliança, ^v3
+**3** Diz a eles: 'Yahweh, Deus de Israel, diz isto: Maldito serão todos os que não escutarem as palavras desta aliança. ^v3
 
-**4** Que ordenei a vossos pais no dia em que os tirei da terra do Egito, da fornalha de ferro, dizendo: Dai ouvidos à minha voz, e fazei conforme a tudo quanto vos mando; e vós sereis o meu povo, e eu serei o vosso Deus. ^v4
+**4** "Esta é a aliança que ordenei a vossos ancestrais para guardarem o dia em que Eu os trouxe da terra do Egito, do forno de fundição de ferro. Eu disse: ""Escutai a Minha voz e fazei todas as coisas, como vos tenho ordenado, pois vós sereis Meu povo e Eu serei vosso Deus""." ^v4
 
-**5** Para que confirme o juramento que fiz a vossos pais de dar-lhes uma terra que manasse leite e mel, como se vê neste dia. Então eu respondi, e disse: Amém, ó Senhor. ^v5
+**5** "Obedecei-Me para que Eu confirme o juramento que fiz a vossos ancestrais, de que Eu daria a eles a terra que mana leite e mel, onde vós morais hoje"". Então, eu, Jeremias, respondi: ""Sim, Yahweh!""." ^v5
 
-**6** E disse-me o Senhor: Apregoa todas estas palavras nas cidades de Judá, e nas ruas de Jerusalém, dizendo: Ouvi as palavras desta aliança, e cumpri-as. ^v6
+**6** "Yahweh me disse: ""Proclama todas estas coisas nas cidades de Judá e nas ruas de Jerusalém. Diz: 'Escutai as palavras desta aliança e obedecei ." ^v6
 
-**7** Porque deveras adverti a vossos pais, no dia em que os tirei da terra do Egito, até ao dia de hoje, madrugando, e protestando, e dizendo: Dai ouvidos à minha voz. ^v7
+**7** "Eu dei uma ordem para vossos ancestrais desde o dia em que Eu os trouxe da terra do Egito até o presente tempo, falando e persistindo em avisá-los: ""Ouvi a Minha voz""." ^v7
 
-**8** Mas não ouviram, nem inclinaram os seus ouvidos, antes andaram cada um conforme o propósito do seu coração malvado; por isso trouxe sobre eles todas as palavras desta aliança que lhes mandei que cumprissem, porém não cumpriram. ^v8
+**8** "Mas eles não ouviram nem prestaram atenção. Cada um andou na teimosia do seu coração perverso. Então, Eu trouxe todas as maldições desta aliança que ordenei que viriam contra vós. Mesmo assim, não obedeceram""." ^v8
 
-**9** Disse-me mais o Senhor: Uma conspiração se achou entre os homens de Judá, entre os habitantes de Jerusalém. ^v9
+**9** "E Yahweh me disse: ""Uma conspiração foi descoberta entre os homens de Judá e os habitantes de Jerusalém." ^v9
 
-**10** Tornaram às maldades de seus primeiros pais, que não quiseram ouvir as minhas palavras; e eles andaram após outros deuses para os servir; a casa de Israel e a casa de Judá quebraram a minha aliança, que tinha feito com seus pais. ^v10
+**10** Eles voltaram para a iniquidade dos seus ancestrais, que se recusaram a ouvir as Minhas palavras e andaram após outros deuses para adorá-los. A casa de Israel e a casa de Judá quebraram a Minha aliança, que Eu havia estabelecido com seus ancestrais. ^v10
 
-**11** Portanto assim diz o Senhor: Eis que trarei mal sobre eles, de que não poderão escapar; e clamarão a mim, mas eu não os ouvirei. ^v11
+**11** Portanto, Yahweh diz isto: 'Eis que estou para trazer uma calamidade sobre eles, desastre do qual não serão capazes de escapar. Então, eles clamarão a Mim, mas Eu não os ouvirei. ^v11
 
-**12** Então irão as cidades de Judá e os habitantes de Jerusalém e clamarão aos deuses a quem eles queimaram incenso; estes, porém, de nenhum modo os livrarão no tempo do seu mal. ^v12
+**12** As cidades de Judá e os habitantes de Jerusalém irão e clamarão aos deuses a quem ofertaram, mas, certamente, não serão por eles salvos no momento do seu desastre. ^v12
 
-**13** Porque, segundo o número das tuas cidades, são os teus deuses, ó Judá! E, segundo o número das ruas de Jerusalém, levantastes altares à impudência, altares para queimardes incenso a Baal. ^v13
+**13** Pois, Judá, o número dos teus deuses são como o número de tuas cidades. E como o número de ruas em Jerusalém, são os altares vergonhosos que ali levantaste, para queimares incenso a Baal. ^v13
 
-**14** Tu, pois, não ores por este povo, nem levantes por ele clamor nem oração; porque não os ouvirei no tempo em que eles clamarem a mim, por causa do seu mal. ^v14
+**14** Então, tu, Jeremias, não deves orar por eles. Não deves lamentar ou orar em favor deles, pois Eu não ouvirei quando eles clamarem a Mim na sua calamidade. ^v14
 
-**15** Que direito tem a minha amada na minha casa, visto que com muitos tem cometido grande lascívia? Crês que os sacrifícios e as carnes santificadas poderão afastar de ti o mal? Então saltarias de prazer. ^v15
+**15** Por que Meu povo amado pratica tanta maldade na Minha casa? A carne dos teus sacrifícios não pode te ajudar. Tu te alegras por causa de tuas más ações. ^v15
 
-**16** Denominou-te o Senhor oliveira verde, formosa por seus deliciosos frutos, mas agora à voz de um grande tumulto acendeu fogo ao redor dela e se quebraram os seus ramos. ^v16
+**16** No passado, Yahweh te chamou de oliveira frondosa e bela, com frutos deliciosos, mas Ele acenderá um fogo contra essa árvore, que soará como brado de uma tempestade, e seus galhos serão quebrados. ^v16
 
-**17** Porque o Senhor dos Exércitos, que te plantou, pronunciou contra ti o mal, pela maldade da casa de Israel e da casa de Judá, que para si mesma fizeram, pois me provocaram à ira, queimando incenso a Baal. ^v17
+**17** "Pois Yahweh dos Exércitos, Aquele que te plantou, tem decretado a calamidade que virá sobre ti, por causa da maldade que a casa de Israel e a casa de Judá têm cometido — eles têm provocado a Minha ira, entregando ofertas a Baal""." ^v17
 
-**18** E o Senhor me fez saber, e assim o soube; então me fizeste ver as suas ações. ^v18
+**18** Yahweh me fez conhecer estas coisas, então, as conheci. Tu, Yahweh, me fizeste ver as ações deles. ^v18
 
-**19** E eu era como um cordeiro, como um boi que levam à matança; porque não sabia que maquinavam propósitos contra mim, dizendo: Destruamos a árvore com o seu fruto, e cortemo-lo da terra dos viventes, e não haja mais memória do seu nome. ^v19
+**19** "Eu estava como um cordeiro manso indo para um abatedouro. Eu não sabia que eles tinham feito planos contra mim: ""Vamos destruir a árvore com os seus frutos! Vamos cortá-la da terra dos viventes; assim, o nome dela não será mais lembrado""." ^v19
 
-**20** Mas, ó Senhor dos Exércitos, justo Juiz, que provas os rins e o coração, veja eu a tua vingança sobre eles; pois a ti descobri a minha causa. ^v20
+**20** Mas Yahweh dos Exércitos é o Justo Juiz , que examina o coração e a mente. Eu testemunharei Tua vingança contra eles, porque tenho apresentado minha causa a Ti. ^v20
 
-**21** Portanto, assim diz o Senhor acerca dos homens de Anatote, que buscam a tua vida, dizendo: Não profetizes no nome do Senhor, para que não morras às nossas mãos. ^v21
+**21** "Portanto, Yahweh diz isto sobre as pessoas de Anatote que estão procurando me matar: ""Eles disseram: 'Tu não deves profetizar em nome de Yahweh, ou morrerás por nossas mãos'." ^v21
 
-**22** Portanto, assim diz o Senhor dos Exércitos: Eis que eu os castigarei; os jovens morrerão à espada, os seus filhos e suas filhas morrerão de fome. ^v22
+**22** Então, Yahweh dos Exércitos diz isto: 'Vê, estou prestes a puni-los. Seus jovens morrerão pela espada; seus filhos e filhas morrerão de fome. ^v22
 
-**23** E não haverá deles um remanescente, porque farei vir o mal sobre os homens de Anatote, no ano da sua visitação. ^v23
+**23** "Nenhum deles sobrará, porque Eu estou trazendo uma calamidade contra as pessoas de Anatote, o ano da sua punição.""" ^v23

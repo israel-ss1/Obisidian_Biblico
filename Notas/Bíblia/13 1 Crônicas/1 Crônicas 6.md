@@ -1,169 +1,168 @@
 ---
-Livro: "[[1 Crônicas|1 Crônicas]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/1 Crônicas|1 Crônicas]]"
+tags: [biblia]
 ---
 
 # 1 Crônicas 6
 
-**1** Os filhos de Levi foram: Gérson, Coate e Merari, ^v1
+**1** Os filhos de Levi foram Gérson, Coate e Merari. ^v1
 
-**2** E os filhos de Coate: Anrão, e Izar, e Hebrom, e Uziel. ^v2
+**2** Os filhos de Coate foram Anrão, Izar, Hebrom e Uziel. ^v2
 
-**3** E os filhos de Anrão: Arão, Moisés, e Miriã; e os filhos de Arão: Nadabe, Abiú, Eleazar, e Itamar. ^v3
+**3** Os filhos de Anrão foram Arão, Moisés e Miriã; e os filhos de Arão foram Nadabe, Abiú, Eleazar e Itamar. ^v3
 
-**4** E Eleazar gerou a Finéias, e Finéias gerou a Abisua, ^v4
+**4** Eleazar gerou Fineias, e Fineias, Abisua. ^v4
 
-**5** E Abisua gerou a Buqui, e Buqui gerou a Uzi, ^v5
+**5** Abisua gerou Buqui, e Buqui, Uzi. ^v5
 
-**6** E Uzi gerou a Zeraías, e Zeraías gerou a Meraiote. ^v6
+**6** Uzi gerou Zeraías, e Zeraías, Meraiote. ^v6
 
-**7** E Meraiote gerou a Amarias, e Amarias gerou a Aitube. ^v7
+**7** Meraiote gerou Amarias, e Amarias, Aitube. ^v7
 
-**8** E Aitube gerou a Zadoque, e Zadoque gerou a Aimaás, ^v8
+**8** Aitube gerou Zadoque, e Zadoque, Aimaaz. ^v8
 
-**9** E Aimaás gerou a Azarias, e Azarias gerou a Joanã, ^v9
+**9** Aimaaz gerou Azarias, e Azarias, Joanã. ^v9
 
-**10** E Joanã gerou a Azarias; e este é o que exerceu o sacerdócio na casa que Salomão tinha edificado em Jerusalém. ^v10
+**10** Joanã gerou Azarias, que serviu no templo que Salomão construiu em Jerusalém. ^v10
 
-**11** E Azarias gerou a Amarias, e Amarias gerou a Aitube, ^v11
+**11** Azarias gerou Amarias, e Amarias, Aitube. ^v11
 
-**12** E Aitube gerou a Zadoque, e Zadoque gerou a Salum, ^v12
+**12** Aitube gerou Zadoque, e Zadoque, Salum. ^v12
 
-**13** E Salum gerou a Hilquias, e Hilquias gerou a Azarias, ^v13
+**13** Salum gerou Hilquias, e Hilquias, Azarias. ^v13
 
-**14** E Azarias gerou a Seraías, e Seraías gerou a Jeozadaque, ^v14
+**14** Azarias gerou Seraías, e Seraías, Jeozadaque. ^v14
 
-**15** E Jeozadaque foi levado cativo quando o Senhor levou presos a Judá e a Jerusalém pela mão de Nabucodonosor. ^v15
+**15** Jeozadaque foi levado cativo quando Yahweh exilou Judá e Jerusalém pela mão de Nabucodonosor. ^v15
 
-**16** Os filhos de Levi foram, pois, Gérson, Coate, e Merari. ^v16
+**16** Os filhos de Levi foram Gérson, Coate e Merari. ^v16
 
-**17** E estes são os nomes dos filhos de Gérson: Libni e Simei. ^v17
+**17** Os filhos de Gérson foram Libni e Simei. ^v17
 
-**18** E os filhos de Coate: Anrão, Izar, Hebrom, e Uziel. ^v18
+**18** Os filhos de Coate foram Anrão, Izar, Hebrom e Uziel. ^v18
 
-**19** Os filhos de Merari: Mali e Musi; estas são as famílias dos levitas, segundo seus pais. ^v19
+**19** Os filhos de Merari foram Mali e Musi, que se tornaram o clã dos levitas pelas famílias de seus pais. ^v19
 
-**20** De Gérson: Libni, seu filho; Jaate, seu filho; Zima, seu filho; ^v20
+**20** Os descendentes de Gérson começaram com seu filho Libni. O filho de Libni, Jaate; o filho de Jaate, Zima; ^v20
 
-**21** Joá, seu filho; Ido, seu filho; Zerá, seu filho; Jeatarai, seu filho. ^v21
+**21** o filho de Zima, Joá; o filho de Joá, Ido; o filho de Ido, Zerá; o filho de Zerá, Jeaterai. ^v21
 
-**22** Os filhos de Coate foram: Aminadabe, seu filho; Coré, seu filho; Assir, seu filho; ^v22
+**22** A descendência de Coate começou com seu filho Aminadabe. O filho de Aminadabe, Corá; o filho de Corá, Assir; ^v22
 
-**23** Elcana, seu filho; Ebiasafe, seu filho; Assir, seu filho; ^v23
+**23** o filho de Assir, Elcana; o filho de Elcana, Ebiasafe; o filho de Ebiasafe, Assir; ^v23
 
-**24** Taate, seu filho; Uriel, seu filho; Uzias, seu filho; e Saul, seu filho. ^v24
+**24** o filho de Assir, Taate; o filho de Taate, Uriel; o filho de Uriel, Uzias e o filho de Uzias, Saul. ^v24
 
-**25** E os filhos de Elcana: Amasai e Aimote. ^v25
+**25** Os filhos de Elcana foram Amasai, Aimote e Elcana. ^v25
 
-**26** Quanto a Elcana: os filhos de Elcana foram Zofai, seu filho; e seu filho Naate. ^v26
+**26** O filho do segundo Elcana foi Zofai; o filho de Zofai, Naate; ^v26
 
-**27** Seu filho Eliabe, seu filho Jeroão, seu filho Elcana. ^v27
+**27** o filho de Naate, Eliabe; o filho de Eliabe, Jeroão; o filho de Jeroão, Elcana. ^v27
 
-**28** E os filhos de Samuel: Joel, seu primogênito, e o segundo Abias. ^v28
+**28** Os filhos de Samuel foram o primogênito Joel, e Abias, o segundo filho. ^v28
 
-**29** Os filhos de Merari: Mali, seu filho Libni, seu filho Simei, seu filho Uzá. ^v29
+**29** O filho de Merari, Mali; o filho de Mali, Libni; o filho de Libni, Simei; o filho de Simei, Uzá; ^v29
 
-**30** Seu filho Siméia, seu filho Hagias, seu filho Asaías. ^v30
+**30** o filho de Uzá, Simeia; o filho de Simeia, Hagias; o filho de Hagias, Asaías. ^v30
 
-**31** Estes são, pois, os que Davi constituiu para o ofício do canto na casa do Senhor, depois que a arca teve repouso. ^v31
+**31** Esses são os nomes dos homens a quem Davi colocou no comando da música, na casa de Yahweh, depois que arca fora descansar ali. ^v31
 
-**32** E ministravam diante do tabernáculo da tenda da congregação com cantares, até que Salomão edificou a casa do Senhor em Jerusalém; e estiveram, segundo o seu costume, no seu ministério. ^v32
+**32** Eles serviam por meio do canto diante do tabernáculo da Tenda do Encontro, até que Salomão construiu a casa de Yahweh em Jerusalém. Eles cumpriam seus deveres seguindo as instruções dadas a eles. ^v32
 
-**33** Estes são, pois, os que ali estavam com seus filhos: dos filhos dos coatitas, Hemã, o cantor, filho de Joel, filho de Samuel, ^v33
+**33** Estes foram os que serviram com seus filhos, dos clãs dos Coatitas vieram Hemã, o musicista; aqui estavam seus ancestrais, voltando no tempo, Hemã filho de Joel; Joel, filho de Samuel; ^v33
 
-**34** Filho de Elcana, filho de Jeroão, filho de Eliel, filho de Toá, ^v34
+**34** Samuel, filho de Elcana; Elcana, filho de Jeroão; Jeroão filho de Eliel. Eliel, filho de Toá; ^v34
 
-**35** Filho de Zufe, filho de Elcana, filho de Maate, filho de Amasai, ^v35
+**35** Toá filho de Zufe; Zufe filho de Elcana; Elcana, filho de Maate; Maate, filho de Amasai; Amasai, filho de Elcana. ^v35
 
-**36** Filho de Elcana, filho de Joel, filho de Azarias, filho de Sofonias. ^v36
+**36** Elcana, o filho de Joel. Joel, filho de Azarias; Azarias, filho de Sofonias; ^v36
 
-**37** Filho de Taate, filho de Assir, filho de Ebiasafe, filho de Coré, ^v37
+**37** Sofonias, filho de Taate; Taate, filho de Assir; Assir, filho de Ebiasafe; Ebiasafe, filho de Corá; ^v37
 
-**38** Filho de Isar, filho de Coate, filho de Levi, filho de Israel. ^v38
+**38** Corá, filho de Izar; Izar, filho de Coate; Coate, filho de Levi; Levi, filho de Israel. ^v38
 
-**39** E seu irmão Asafe estava à sua direita; e era Asafe filho de Berequias, filho de Siméia, ^v39
+**39** O irmão de Hemã foi Asafe, que foi sua mão direita. Asafe, filho de Berequias; Berequias, filho de Simeia; ^v39
 
-**40** Filho de Micael, filho de Baaséias, filho de Malquias, ^v40
+**40** Simeia, filho de Micael; Micael, filho de Baaseias; Baaseias, filho de Malquias; ^v40
 
-**41** Filho de Etni, filho de Zerá, filho de Adaías, ^v41
+**41** Malquias, filho de Etni; Etini, filho de Zerá; Zerá, filho da Adaías; ^v41
 
-**42** Filho de Etã, filho de Zima, filho de Simei, ^v42
+**42** Adaías, filho de Etã; Etã, filho de Zima; Zima, filho de Simei; ^v42
 
-**43** Filho de Jaate, filho de Gérson, filho de Levi. ^v43
+**43** Simei, filho de Jaate; Jaate, filho de Gérson. Gérson, filho de Levi. ^v43
 
-**44** E seus irmãos, os filhos de Merari, estavam à esquerda; a saber: Etã, filho de Quisi, filho de Abdi, filho de Maluque, ^v44
+**44** À esquerda de Hemã, estavam seus irmãos, filhos de Merari. Entre eles se incluiam Etã, filho de Quisi; Quisi, filho de Abdi; Abdi, filho de Maluque; ^v44
 
-**45** Filho de Hasabias, filho de Amazias, filho de Hilquias, ^v45
+**45** Maluque, filho de Hasabias; Hasabias, filho de Amazias; Amazias, filho de Hilquias; ^v45
 
-**46** Filho de Anzi, filho de Bani, filho de Semer, ^v46
+**46** Hilquias, filho de Anzi; Anzi, filho de Bani; Bani, filho de Semer; ^v46
 
-**47** Filho de Mali, filho de Musi, filho de Merari, filho de Levi. ^v47
+**47** Semer, filho de Mali; Mali, filho de Musi; Musi, filho de Merari; Merari, filho de Levi. ^v47
 
-**48** E seus irmãos, os levitas, foram postos para todo o ministério do tabernáculo da casa de Deus. ^v48
+**48** Seus irmãos, os levitas, eram designados para fazer todo o trabalho do tabernáculo, a Casa de Deus. ^v48
 
-**49** E Arão e seus filhos ofereceram sobre o altar do holocausto e sobre o altar do incenso, por todo o serviço do lugar santíssimo, e para fazer expiação por Israel, conforme tudo quanto Moisés, servo de Deus, tinha ordenado. ^v49
+**49** Arão e seus filhos fizeram a oferta referente ao Santo Lugar; fizeram ofertas no altar, ofertas queimadas; fizeram as ofertas no altar de incenso; tudo isso era para fazer expiação para Israel. Eles seguiram tudo que Moisés, servo de Deus, havia ordenado. ^v49
 
-**50** E estes foram os filhos de Arão: seu filho Eleazar, seu filho Finéias, seu filho Abisua. ^v50
+**50** A descendência de Arão é contada como segue: o filho de Arão foi Eleazar; o filho de Eleazar foi Fineias; o filho de Fineias foi Abisua; ^v50
 
-**51** Seu filho Buqui, seu filho Uzi, seu filho Seraías, ^v51
+**51** o filho de Abisua foi Buqui; o filho de Buqui foi Uzi; o filho de Uzi foi Zeraías; ^v51
 
-**52** Seu filho Meraiote, seu filho Amarias, seu filho Aitube, ^v52
+**52** o filho de Zeraías foi Meraiote; o filho de Meraiote foi Amarias; o filho de Amarias foi Aitube; ^v52
 
-**53** Seu filho Zadoque, seu filho Aimaás. ^v53
+**53** o filho de Aitube foi Zadoque; o filho de Zadoque foi Aimaaz. ^v53
 
-**54** E estas foram as suas habitações, segundo os seus acampamentos, nos seus termos, a saber: dos filhos de Arão, da família dos coatitas, porque a eles caiu a sorte. ^v54
+**54** Estes foram os lugares designados aos descendentes de Arão; para os clãs dos coatitas (os primeiros lotes foram designados a eles); ^v54
 
-**55** Deram-lhes, pois, a Hebrom, na terra de Judá, e os arrabaldes que a rodeiam. ^v55
+**55** eles designaram Hebrom na terra de Judá e suas pastagens; ^v55
 
-**56** Porém o território da cidade e as suas aldeias deram a Calebe, filho de Jefoné. ^v56
+**56** mas os campos da cidade e as aldeias ao redor foram dadas a Calebe, filho de Jefoné. ^v56
 
-**57** E aos filhos de Arão deram as cidades de refúgio: Hebrom e Libna e os seus arrabaldes, e Jatir e Estemoa e os seus arrabaldes. ^v57
+**57** A esses descendentes de Arão, foram dados Hebrom, que era a cidade de refúgio, Libna, com suas pastagens, Jatir e Estemoa, com suas pastagens; ^v57
 
-**58** E Hilém, e os seus arrabaldes, Debir e os seus arrabaldes, ^v58
+**58** e Hilém, com suas pastagens; Debir com suas pastagens. ^v58
 
-**59** E Asã e os seus arrabaldes, e Bete-Semes e os seus arrabaldes. ^v59
+**59** A esses descendentes de Arão, foram dados Asã, com suas pastagens; Bete-Senues, com suas pastagens; ^v59
 
-**60** E da tribo de Benjamim, Geba e os seus arrabaldes, Alemete e os seus arrabaldes, e Anatote e os seus arrabaldes; todas as suas cidades, pelas suas famílias, foram treze. ^v60
+**60** da tribo de Benjamim lhes foi dado Geba, com suas pastagens; Alemete, com suas pastagens; Anatote, com suas pastagens; os clãs coatitas receberam treze cidades ao todo. ^v60
 
-**61** Mas os filhos de Coate, que restaram da sua família, tiveram, por sorte, dez cidades da meia tribo de Manassés. ^v61
+**61** Para o restante dos descendentes coatitas, foram dadas, por sorteio, dez cidades da meia-tribo de Manassés; ^v61
 
-**62** E os filhos de Gérson, segundo as suas famílias, tiveram treze cidades da tribo de Issacar, e da tribo de Aser, e da tribo de Naftali e da tribo de Manassés, em Basã. ^v62
+**62** aos descendentes de Gérson, em seus clãs variados, foram dadas treze cidades das tribos de Issacar, Aser, Naftali e da meia-tribo de Manassés em Basã. ^v62
 
-**63** Os filhos de Merari, segundo as suas famílias, tiveram, por sorte, doze cidades da tribo de Rúben, e da tribo de Gade, e da tribo de Zebulom. ^v63
+**63** Aos descendentes de Merari, foram dadas doze cidades por sorteio nos seus vários clãs das tribos de Rúben, Gade e Zebulom; ^v63
 
-**64** Assim os filhos de Israel deram aos levitas estas cidades e os seus arrabaldes. ^v64
+**64** então, o povo de Israel deu essas cidades com suas pastagens aos levitas; ^v64
 
-**65** E deram-lhes por sorte estas cidades, da tribo dos filhos de Judá, da tribo dos filhos de Simeão, e da tribo dos filhos de Benjamim, às quais deram os seus nomes. ^v65
+**65** eles nomearam por sorte as cidades mencionadas anteriormente das tribos de Judá, Simeão e Benjamim. ^v65
 
-**66** E quanto ao mais das famílias dos filhos de Coate, se lhes deram, da tribo de Efraim as cidades dos seus termos. ^v66
+**66** A alguns dos clãs dos coatitas, foram dadas cidades da tribo de Efraim; ^v66
 
-**67** Porque lhes deram as cidades de refúgio, Siquém e os seus arrabaldes, nas montanhas de Efraim, como também Gezer e os seus arrabaldes, ^v67
+**67** deram-lhes Siquém (a cidade de refúgio), com suas pastagens, na região montanhosa de Efraim, Gezer, com suas pastagens, ^v67
 
-**68** E Jocmeão e os seus arrabaldes, Bete-Horom e os seus arrabaldes, ^v68
+**68** Jocmeão, com suas pastagens, Bete-Horom, com suas pastagens, ^v68
 
-**69** E Aijalom e os seus arrabaldes, Gate-Rimom e os seus arrabaldes. ^v69
+**69** Aijalom, com suas pastagens, e Gate-Rimom e suas pastagens. ^v69
 
-**70** E da meia tribo de Manassés, Aner e os seus arrabaldes, e Bileã e os seus arrabaldes; estas cidades tiveram os que ficaram da família dos filhos de Coate. ^v70
+**70** A meia tribo de Manassés deu aos coatitas: Aner, com suas pastagens, Bileã, com suas pastagens; essas se tornaram posses do restante dos clãs coatitas. ^v70
 
-**71** Os filhos de Gérson tiveram, da família da meia tribo de Manassés, Golã, em Basã, e os seus arrabaldes, e Astarote e os seus arrabaldes. ^v71
+**71** Aos descendentes de Gérson foram dados, dos clãs da meia-tribo de Manassés; Golã, em Basã, com suas pastagens, Astarote, com suas pastagens; ^v71
 
-**72** E da tribo de Issacar, Quedes e os seus arrabaldes, e Daberate e os seus arrabaldes. ^v72
+**72** da tribo de Issacar, os descendentes de Gérson receberam Quedes, com suas pastagens, Daberate, com suas pastagens, ^v72
 
-**73** E Ramote e os seus arrabaldes, e Aném e os seus arrabaldes. ^v73
+**73** Ramote, com suas pastagens e Aném, com suas pastagens. ^v73
 
-**74** E da tribo de Aser, Masal e os seus arrabaldes, e Abdom e os seus arrabaldes, ^v74
+**74** Da tribo de Aser, eles receberam Masal, com suas pastagens, Abdom, com suas pastagens, ^v74
 
-**75** E Hucoque e os seus arrabaldes, e Reobe e os seus arrabaldes. ^v75
+**75** Hucoque, com suas pastagens, e Reobe, com suas pastagens; ^v75
 
-**76** E da tribo de Naftali, Quedes, em Galiléia, e os seus arrabaldes, Hamom e os seus arrabaldes e Quiriataim e os seus arrabaldes. ^v76
+**76** da tribo de Naftali, eles receberam Quedes, na Galileia, com suas pastagens, Hamom, com suas pastagens, e Quiriataim, com suas pastagens. ^v76
 
-**77** Os que ficaram dos filhos de Merari tiveram, da tribo de Zebulom, a Rimom e os seus arrabaldes, a Tabor e os seus arrabaldes. ^v77
+**77** Ao restante dos Levitas, aos descendentes de Merari, foi dado da tribo de Zebulom, Rimono, com suas pastagens e Tabor, com suas pastagens; ^v77
 
-**78** E dalém do Jordão, na altura de Jericó, ao oriente do Jordão, da tribo de Rúben, a Bezer, no deserto, e os seus arrabaldes, e a Jaza e os seus arrabaldes, ^v78
+**78** lhes foi dado também, no outro lado do Jordão em Jericó, no lado leste do rio, Bezer, no deserto, com suas pastagens; Jaza, com suas pastagens; ^v78
 
-**79** E a Quedemote e os seus arrabaldes, e a Mefaate e os seus arrabaldes. ^v79
+**79** Quedemote, com suas pastagens; Mefaate, com suas pastagens. A esses, foram dados da tribo de Rúben. ^v79
 
-**80** E da tribo de Gade, a Ramote, em Gileade, e os seus arrabaldes, e Maanaim e os seus arrabaldes, ^v80
+**80** Da tribo de Gade, foram dados, Ramote, em Gileade, com suas pastagens, Maanaim, com suas pastagens, ^v80
 
-**81** E a Hesbom e os seus arrabaldes, e a Jazer e os seus arrabaldes. ^v81
+**81** Hesbom, com suas pastagens e Jazer, com suas pastagens. ^v81

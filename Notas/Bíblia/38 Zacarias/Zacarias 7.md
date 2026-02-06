@@ -1,35 +1,34 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Zacarias|Zacarias]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Zacarias|Zacarias]]"
+tags: [biblia]
 ---
 
 # Zacarias 7
 
-**1** Aconteceu, no quarto ano do rei Dario, que a palavra do SENHOR veio a Zacarias, no quarto dia do nono mês, que é Quisleu. ^v1
+**1** Quando o rei Dario havia governado por quatro anos, no quarto dia do mês de Quisleu (que era o nono mês), a palavra de Yahweh veio a Zacarias. ^v1
 
-**2** Quando o povo enviou Sarezer e Régen-Meleque, e os seus homens, à casa de Deus, para suplicarem o favor do Senhor, ^v2
+**2** O povo de Betel enviou Sarezer, Regem-Meleque e os seus homens para suplicarem diante da face de Yahweh. ^v2
 
-**3** E para dizerem aos sacerdotes, que estavam na casa do Senhor dos Exércitos, e aos profetas: Chorarei eu no quinto mês, fazendo abstinência, como tenho feito por tantos anos? ^v3
+**3** "Eles perguntaram aos sacerdotes que estavam na casa de Yahweh dos Exércitos e para os profetas, dizendo: ""Porventura, devo lamentar por meio de um jejum neste quinto mês, como tenho feito durante muitos anos?""." ^v3
 
-**4** Então a palavra do Senhor dos Exércitos veio a mim, dizendo: ^v4
+**4** Então, a palavra de Yahweh dos Exércitos veio a mim, dizendo: ^v4
 
-**5** Fala a todo o povo desta terra, e aos sacerdotes, dizendo: Quando jejuastes, e pranteastes, no quinto e no sétimo mês, durante estes setenta anos, porventura, foi mesmo para mim que jejuastes? ^v5
+**5** """Fala para todo o povo da terra e para o sacerdote e dize-lhes: 'Quando jejuastes e pranteastes no quinto e no sétimo mês, durante esses setenta anos, verdadeiramente, jejuastes para Mim?" ^v5
 
-**6** Ou quando comestes, e quando bebestes, não foi para vós mesmos que comestes e bebestes? ^v6
+**6** Quando comiam e bebiam, não comiam e bebiam para vós mesmos? ^v6
 
-**7** Não foram estas as palavras que o Senhor pregou pelo ministério dos primeiros profetas, quando Jerusalém estava habitada e em paz, com as suas cidades ao redor dela, e o sul e a campina eram habitados? ^v7
+**7** "Porventura, não são as mesmas palavras que Yahweh proclamava por meio da boca dos antigos profetas, quando habitavam em Jerusalém e nas cidades ao redor, em prosperidade, e fostes assentados no Neguebe e nas colinas ao oeste?'""." ^v7
 
-**8** E a palavra do Senhor veio a Zacarias, dizendo: ^v8
+**8** A palavra de Yahweh veio a Zacarias, dizendo: ^v8
 
-**9** Assim falou o Senhor dos Exércitos, dizendo: Executai juízo verdadeiro, mostrai piedade e misericórdia cada um para com seu irmão. ^v9
+**9** """Yahweh dos Exércitos diz isto: 'Julgai com a verdadeira justiça, piedade e misericórdia. Que cada um faça isso ao seu irmão." ^v9
 
-**10** E não oprimais a viúva, nem o órfão, nem o estrangeiro, nem o pobre, nem intente cada um, em seu coração, o mal contra o seu irmão. ^v10
+**10** "Acerca da viúva e do órfão, do estrangeiro e do pobre, não os oprimais, e que nenhum de vós intenteis o mal contra o outro, no vosso coração'""." ^v10
 
-**11** Eles, porém, não quiseram escutar, e deram-me o ombro rebelde, e ensurdeceram os seus ouvidos, para que não ouvissem. ^v11
+**11** Mas eles se recusaram a prestar atenção, virando as costas com teimosia. Eles taparam seus ouvidos para não ouvirem. ^v11
 
-**12** Sim, fizeram os seus corações como pedra de diamante, para que não ouvissem a lei, nem as palavras que o Senhor dos Exércitos enviara pelo seu Espírito por intermédio dos primeiros profetas; daí veio a grande ira do Senhor dos Exércitos. ^v12
+**12** Eles endureceram seu coração, que se tornou duro como diamante, e não quiseram ouvir a lei nem as palavras de Yahweh dos Exércitos. Ele havia enviado essas mensagens para o povo, por meio do Seu Espírito, no tempo antigo, pela boca dos profetas. Mas o povo se recusou a ouvir e Yahweh dos Exércitos ficou muito irado com eles. ^v12
 
-**13** E aconteceu que, assim como ele clamou e eles não ouviram, também eles clamaram, e eu não ouvi, diz o Senhor dos Exércitos. ^v13
+**13** """Assim como clamei e eles não ouviram; da mesma forma clamarão a Mim, mas não lhes ouvirei"", disse Yahweh dos Exércitos." ^v13
 
-**14** Assim os espalhei com um turbilhão por entre todas as nações, que eles não conheceram, e a terra foi assolada atrás deles, de sorte que ninguém passava por ela, nem se voltava; porque fizeram da terra desejada uma desolação. ^v14
+**14** """E os espalharei como um vendaval por todas as nações que eles ainda não viram e a terra ficará desolada depois deles, de sorte que ninguém passará pela terra, nem retornará por lá, porque transformaram sua linda terra numa desolação""." ^v14

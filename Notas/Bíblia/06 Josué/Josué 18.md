@@ -1,63 +1,62 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Josué|Josué]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Josué|Josué]]"
+tags: [biblia]
 ---
 
 # Josué 18
 
-**1** E Toda a congregação dos filhos de Israel se reuniu em Siló, e ali armaram a tenda da congregação, depois que a terra lhes foi sujeita. ^v1
+**1** Então, toda a congregação de Israel se reuniu em Siló. Ali estabeleceram a Tenda do Encontro e conquistaram a terra diante deles. ^v1
 
-**2** E dentre os filhos de Israel ficaram sete tribos que ainda não tinham repartido a sua herança. ^v2
+**2** Havia sete tribos dentre os filhos de Israel que ainda não tinham recebido a sua herança. ^v2
 
-**3** E disse Josué aos filhos de Israel: Até quando sereis negligentes em chegardes para possuir a terra que o Senhor Deus de vossos pais vos deu? ^v3
+**3** "Josué disse aos filhos de Israel: ""Por quanto tempo adiareis a entrada e a posse da terra que Yahweh, Deus de vossos antepassados, vos deu?" ^v3
 
-**4** De cada tribo escolhei vós três homens, para que eu os envie, e eles se levantem e percorram a terra, e a demarquem segundo as suas heranças, e voltem a mim. ^v4
+**4** Nomeai entre vós três homens de cada tribo, e eu os enviarei. Eles explorarão a terra de cima a baixo e escreverão uma descrição com a demarcação de sua herança. Então, retornarão a mim. ^v4
 
-**5** E dividi-la-ão em sete partes: Judá ficará no seu termo para o sul, e a casa de José ficará no seu termo para o norte. ^v5
+**5** Eles dividirão a terra em sete partes. Judá permanecerá em seu território no sul, e a casa de José continuará em seu território no norte. ^v5
 
-**6** E vós demarcareis a terra em sete partes, e me trareis a mim aqui descrita, para que eu aqui lance as sortes perante o Senhor nosso Deus, ^v6
+**6** Demarcareis a terra em sete partes e me trareis a sua descrição para que eu vos faça um sorteio diante de Yahweh, nosso Deus. ^v6
 
-**7** Porquanto os levitas não têm parte no meio de vós, porque o sacerdócio do Senhor é a sua parte; e Gade, e Rúben, e a meia tribo de Manassés, receberam a sua herança além do Jordão para o oriente, a qual lhes deu Moisés, o servo do Senhor. ^v7
+**7** Os levitas não têm parte no meio de vós, pois o sacerdócio de Yahweh é sua herança. Gade, Rúben e a metade da tribo de Manassés já receberam sua herança além do Jordão. Esta é a herança que Moisés, o servo de Yahweh, lhes deu”. ^v7
 
-**8** Então aqueles homens se levantaram e se foram; e Josué deu ordem aos que iam demarcar a terra, dizendo: Ide, e percorrei a terra, e demarcai-a, e então voltai a mim, e aqui vos lançarei as sortes perante o Senhor, em Siló. ^v8
+**8** "Então, os homens se levantaram e se foram. Josué ordenou àqueles que demarcariam a terra, dizendo: ""Levantai-vos, descei à terra, fazei uma descrição dela e, então, voltai a mim. Eu vos farei um sorteio diante de Yahweh em Siló""." ^v8
 
-**9** Foram, pois, aqueles homens, e passaram pela terra, e a demarcaram, em sete partes segundo as cidades, descrevendo-a num livro; e voltaram a Josué, ao arraial em Siló. ^v9
+**9** Os homens saíram e caminharam de um lado para o outro na terra e fizeram, em um rolo, uma descrição de suas cidades, em sete seções, listando-as em cada seção. Então, voltaram a Josué no acampamento de Siló. ^v9
 
-**10** Então Josué lhes lançou as sortes em Siló, perante o Senhor; e ali repartiu Josué a terra aos filhos de Israel, conforme às suas divisões. ^v10
+**10** Ali, Josué fez-lhes um sorteio diante de Yahweh. Assim, Josué designou a terra para o povo de Israel. A cada um deles foi dada a sua porção da terra. ^v10
 
-**11** E tirou a sorte da tribo dos filhos de Benjamim, segundo as suas famílias; e coube-lhe o termo da sua sorte entre os filhos de Judá e os filhos de José. ^v11
+**11** Saiu, por sorteio, a designação da terra para a tribo de Benjamim, clã por clã. E o território sorteado estava localizado entre os descendentes de Judá e os descendentes de José. ^v11
 
-**12** E o seu termo foi para o lado do norte, desde o Jordão; e sobe aquele termo ao lado de Jericó para o norte, e sobe pela montanha para o ocidente, terminando no deserto de Bete-Áven. ^v12
+**12** No lado norte, suas fronteiras começavam no Jordão. A fronteira ia da encosta, ao norte de Jericó, e atravessava as regiões montanhosas do lado oeste. E alcançava o deserto de Bete-Áven. ^v12
 
-**13** E dali passa este termo a Luz, ao lado de Luz (que é Betel), para o sul; e desce a Atarote-Adar, ao pé do monte que está do lado do sul de Bete-Horom de baixo; ^v13
+**13** De lá, a fronteira passava ao longo do sul na direção de Luz (o mesmo lugar que Betel) e, então, descia para Atarote-Adar, pela encosta do monte que está ao sul de Bete-Horom. ^v13
 
-**14** E vai este termo e volta ao lado do ocidente para o sul do monte que está defronte de Bete-Horom, para o sul, terminando em Quiriate-Baal (que é Quiriate-Jearim), cidade dos filhos de Judá; esta é a sua extensão para o ocidente. ^v14
+**14** E a fronteira, então, ia em outra direção: no lado oeste, ela fazia uma curva para o sul, em direção do monte que está diante de Bete-Horom. E chegava a Quiriate-Baal (que é Quiriate-Jearim), uma cidade que pertencia à tribo de Judá. Assim era a fronteira do lado oeste. ^v14
 
-**15** E a sua extensão para o sul começa na extremidade de Quiriate-Jearim; e vai este termo ao ocidente e segue até à fonte das águas de Neftoa. ^v15
+**15** O lado sul começava do lado de fora de Quiriate-Jearim. A fronteira ia até Efrom, até a fonte das águas de Neftoa. ^v15
 
-**16** E desce este termo até à extremidade do monte que está defronte do vale do filho de Hinom, que está no vale dos refains para o norte, e desce pelo vale de Hinom do lado dos jebuseus para o sul; e então desce a En-Rogel; ^v16
+**16** A fronteira descia para a extremidade do monte que está na frente do vale de Ben-Hinom, o qual está no vale de refains, ao norte. E ia ao fim do vale de Hinom, para o sul do lado dos jebuseus, e descia até En-Rogel. ^v16
 
-**17** E vai desde o norte, e chega a En-Semes; e dali sai a Gelilote, que está defronte da subida de Adumim, e desce à pedra de Boã, filho de Rúben; ^v17
+**17** Passando para o norte, indo em direção de En-Semes e, de lá, para Gelilote, que está defronte da subida de Adumim. E descia até a pedra de Boã, filho de Rúben. ^v17
 
-**18** E passa até ao lado, defronte de Arabá, para o norte, e desce a Arabá. ^v18
+**18** Passava pela encosta norte, margeando Bete Arabá, descendo até Arabá. ^v18
 
-**19** Passa mais este termo até ao lado de Bete-Hogla, para o norte, saindo esse termo na baía do Mar Salgado, para o norte, na extremidade do Jordão, para o sul; este é o termo do sul. ^v19
+**19** A fronteira passava na margem norte de Bete-Hogla, e seus extremos chegavam à baía norte do mar Salgado, ao fim do lado sul do Jordão. Esta era a fronteira do sul. ^v19
 
-**20** E o Jordão será seu termo do lado do oriente; esta é a herança dos filhos de Benjamim, nos seus termos em redor, segundo as suas famílias. ^v20
+**20** O Jordão formava a fronteira do lado leste. Esta foi a herança da tribo de Benjamim, e foi-lhes dada, nos arredores, fronteiras por fronteiras, de acordo com os seus clãs. ^v20
 
-**21** E as cidades da tribo dos filhos de Benjamim, segundo as suas famílias, são: Jericó, e Bete-Hogla, e Emeque-Queziz, ^v21
+**21** As cidades da tribo de Benjamim conforme os seus clãs eram: Jericó, Bete-Hogla, Emeque-Queziz, ^v21
 
-**22** E Bete-Arabá, e Zemaraim, e Betel, ^v22
+**22** Bete-Arabá, Zemaraim, Betel, ^v22
 
-**23** E Avim, e Pará, e Ofra, ^v23
+**23** Avim, Pará, Ofra, ^v23
 
-**24** E Quefar-Amonai, e Ofni e Gaba: doze cidades e as suas aldeias; ^v24
+**24** Quefar-Ha-Amonai, Ofni e Gaba. Eram doze cidades, sem contar os vilarejos. ^v24
 
-**25** Gibeão, e Ramá e Beerote, ^v25
+**25** Também havia as cidades de Gibeão, Ramá, Beerote, ^v25
 
-**26** E Mizpá, e Cefira e Moza, ^v26
+**26** Mispá, Cefira, Moza, ^v26
 
-**27** E Requém e Irpeel, e Tarala, ^v27
+**27** Requém, Irpeel, Tarala, ^v27
 
-**28** E Zela, Elefe, e Jebus (esta é Jerusalém), Gibeá e Quiriate: catorze cidades com as suas aldeias; esta é a herança dos filhos de Benjamim, segundo as suas famílias. ^v28
+**28** Zela, Elefe, Jebus (isto é, Jerusalém), Gibeá e Quiriate. Havia catorze cidades, sem contar seus vilarejos. Essa é a herança de Benjamim para seus clãs. ^v28

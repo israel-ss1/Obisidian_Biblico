@@ -1,65 +1,64 @@
 ---
-Livro: "[[Salmos|Salmos]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Salmos|Salmos]]"
+tags: [biblia]
 ---
 
 # Salmos 118
 
-**1** Louvai ao SENHOR, porque ele é bom, porque a sua benignidade dura para sempre. ^v1
+**1** Dai graças a Yahweh, pois Ele é bom, pois Sua fidelidade dura para sempre. ^v1
 
-**2** Diga agora Israel que a sua benignidade dura para sempre. ^v2
+**2** "Que Israel diga: ""Sua fidelidade dura para sempre.""" ^v2
 
-**3** Diga agora a casa de Arão que a sua benignidade dura para sempre. ^v3
+**3** "Que a casa de Arão diga: ""Sua fidelidade dura para sempre.""" ^v3
 
-**4** Digam agora os que temem ao Senhor que a sua benignidade dura para sempre. ^v4
+**4** "Que os fiéis seguidores de Yahweh digam: ""Sua fidelidade dura para sempre.""" ^v4
 
-**5** Invoquei o Senhor na angústia; o Senhor me ouviu, e me tirou para um lugar largo. ^v5
+**5** Na minha angústia, clamei a Yahweh, Ele me respondeu e me libertou. ^v5
 
-**6** O Senhor está comigo; não temerei o que me pode fazer o homem. ^v6
+**6** Yahweh está comigo, eu não temerei; o que o homem pode me fazer? ^v6
 
-**7** O Senhor está comigo entre aqueles que me ajudam; por isso verei cumprido o meu desejo sobre os que me odeiam. ^v7
+**7** Yahweh está ao meu lado, é meu ajudador; triunfarei sobre os que me odeiam. ^v7
 
-**8** É melhor confiar no Senhor do que confiar no homem. ^v8
+**8** É melhor buscar refúgio em Yahweh do que confiar no homem. ^v8
 
-**9** É melhor confiar no Senhor do que confiar nos príncipes. ^v9
+**9** É melhor se refugiar em Yahweh do que colocar sua fé em príncipes. ^v9
 
-**10** Todas as nações me cercaram, mas no nome do Senhor as despedaçarei. ^v10
+**10** Todas as nações me cercaram, mas, em nome de Yahweh, eu as exterminei. ^v10
 
-**11** Cercaram-me, e tornaram a cercar-me; mas no nome do Senhor eu as despedaçarei. ^v11
+**11** Elas me cercaram, sim, elas me cercaram; em nome de Yahweh, eu as exterminei. ^v11
 
-**12** Cercaram-me como abelhas; porém apagaram-se como o fogo de espinhos; pois no nome do Senhor as despedaçarei. ^v12
+**12** Elas me cercaram como abelhas, e desapareceram tão rapidamente quanto os espinhos no fogo; em nome de Yahweh, eu as exterminei. ^v12
 
-**13** Com força me impeliste para me fazeres cair, porém o Senhor me ajudou. ^v13
+**13** Elas me atacaram para me derrubar, mas Yahweh me ajudou. ^v13
 
-**14** O Senhor é a minha força e o meu cântico; e se fez a minha salvação. ^v14
+**14** Yahweh é minha força e alegria; é Ele quem me resgata. ^v14
 
-**15** Nas tendas dos justos há voz de júbilo e de salvação; a destra do Senhor faz proezas. ^v15
+**15** O grito alegre de vitória é ouvido nas tendas dos justos; a mão direita de Yahweh domina. ^v15
 
-**16** A destra do Senhor se exalta; a destra do Senhor faz proezas. ^v16
+**16** A mão direita de Yahweh é exaltada; a mão direita de Yahweh conquista. ^v16
 
-**17** Não morrerei, mas viverei; e contarei as obras do Senhor. ^v17
+**17** Não morrerei, mas viverei e declararei os atos de Yahweh. ^v17
 
-**18** O Senhor me castigou muito, mas não me entregou à morte. ^v18
+**18** Yahweh me puniu severamente, mas Ele não me entregou à morte. ^v18
 
-**19** Abri-me as portas da justiça; entrarei por elas, e louvarei ao Senhor. ^v19
+**19** Abri as portas da justiça para mim, entrarei por elas e darei graças a Yahweh. ^v19
 
-**20** Esta é a porta do Senhor, pela qual os justos entrarão. ^v20
+**20** Esta é a porta de Yahweh; o justo entra por ela. ^v20
 
-**21** Louvar-te-ei, pois me escutaste, e te fizeste a minha salvação. ^v21
+**21** Eu te darei graças, pois Tu me respondeste e te tornaste a minha salvação. ^v21
 
-**22** A pedra que os edificadores rejeitaram tornou-se a cabeça da esquina. ^v22
+**22** A pedra que os construtores rejeitaram se tornou a pedra angular. ^v22
 
-**23** Da parte do Senhor se fez isto; maravilhoso é aos nossos olhos. ^v23
+**23** Isto é obra de Yahweh, e é maravilhoso aos nossos olhos. ^v23
 
-**24** Este é o dia que fez o Senhor; regozijemo-nos, e alegremo-nos nele. ^v24
+**24** Este é o dia em que Yahweh agiu; nele nos regozijaremos e nos alegraremos. ^v24
 
-**25** Salva-nos, agora, te pedimos, ó Senhor; ó Senhor, te pedimos, prospera-nos. ^v25
+**25** Ó, Yahweh, faz-nos vitoriosos! Faz-nos prosperar! ^v25
 
-**26** Bendito aquele que vem em nome do Senhor; nós vos bendizemos desde a casa do Senhor. ^v26
+**26** Bendito é o que vem em nome de Yahweh; da casa de Yahweh nós vos abençoamos. ^v26
 
-**27** Deus é o Senhor que nos mostrou a luz; atai a vítima da festa com cordas, até às pontas do altar. ^v27
+**27** Yahweh é Deus. Ele resplandece sobre nós; amarrai com cordas o sacrifício no altar. ^v27
 
-**28** Tu és o meu Deus, e eu te louvarei; tu és o meu Deus, e eu te exaltarei. ^v28
+**28** Tu és o meu Deus, e eu Te darei graças; Tu és o meu Deus; Eu Te exaltarei. ^v28
 
-**29** Louvai ao Senhor, porque ele é bom; porque a sua benignidade dura para sempre. ^v29
+**29** Oh, dai graças a Yahweh, pois Ele é bom. Seu amor leal dura para sempre. ^v29

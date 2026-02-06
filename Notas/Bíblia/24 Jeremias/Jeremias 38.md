@@ -1,63 +1,62 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Jeremias|Jeremias]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Jeremias|Jeremias]]"
+tags: [biblia]
 ---
 
 # Jeremias 38
 
-**1** Ouviram, pois, Sefatias, filho de Matã, e Gedalias, filho de Pasur, e Jucal, filho de Selemias, e Pasur, filho de Malquias, as palavras que anunciava Jeremias a todo o povo, dizendo: ^v1
+**1** Sefatias, filho de Matã, Gedalias, filho de Pasur, Jeucal, filho de Selemias, e Pasur, filho de Malquias, ouviram as palavras que Jeremias estava declarando para todo o povo. Ele dizia: ^v1
 
-**2** Assim diz o Senhor: O que ficar nesta cidade morrerá à espada, de fome e de pestilência; mas o que sair aos caldeus viverá; porque a sua alma lhe será por despojo, e viverá. ^v2
+**2** "Assim diz Yahweh: ""Quem permanecer nesta cidade será morto pela espada, fome e peste. Porém, quem for com os babilônios, sobreviverá. Ele escapará com sua própria vida e viverá.""" ^v2
 
-**3** Assim diz o SENHOR: Esta cidade infalivelmente será entregue na mão do exército do rei de babilônia, e ele a tomará. ^v3
+**3** "Assim diz Yahweh: ""Esta cidade será entregue nas mãos do exército do rei da Babilônia e ele a conquistará.""" ^v3
 
-**4** E disseram os príncipes ao rei: Morra este homem, visto que ele assim enfraquece as mãos dos homens de guerra que restam nesta cidade, e as mãos de todo o povo, dizendo-lhes tais palavras; porque este homem não busca a paz para este povo, porém o mal. ^v4
+**4** "Então, os oficiais disseram ao rei: ""Deixa este homem morrer, pois o que ele diz está enfraquecendo as mãos dos soldados que permanecem nesta cidade e de todo o povo. Ele está proclamando estas palavras, pois não está trabalhando pela segurança deste povo, mas, sim, para a destruição.""" ^v4
 
-**5** E disse o rei Zedequias: Eis que ele está na vossa mão; porque o rei nada pode fazer contra vós. ^v5
+**5** "Então, o rei Zedequias disse: ""Olhai, ele está em vossas mãos, pois não há rei capaz de resistir a vós.""" ^v5
 
-**6** Então tomaram a Jeremias, e o lançaram na cisterna de Malquias, filho do rei, que estava no átrio da guarda; e desceram a Jeremias com cordas; mas na cisterna não havia água, senão lama; e atolou-se Jeremias na lama. ^v6
+**6** Então, pegaram Jeremias e o jogaram dentro da cisterna de Malquias, filho do rei. A cisterna ficava no pátio da guarda. Eles desceram Jeremias com cordas. Não havia água na cisterna, mas lama, e ele afundou nela. ^v6
 
-**7** E, ouvindo Ebede-Meleque, o etíope, um eunuco que então estava na casa do rei, que tinham posto a Jeremias na cisterna (estava, porém, o rei assentado à porta de Benjamim), ^v7
+**7** Ora, Ebede-Meleque, o etíope, que era um dos eunucos do palácio do rei, ouviu que eles tinham colocado Jeremias na cisterna. Quando o rei estava assentado no Portão de Benjamim, ^v7
 
-**8** Logo Ebede-Meleque saiu da casa do rei, e falou ao rei, dizendo: ^v8
+**8** Ebede-Meleque saiu do palácio e foi falar com ele. Ele disse: ^v8
 
-**9** Ó rei, senhor meu, estes homens agiram mal em tudo quanto fizeram a Jeremias, o profeta, lançando-o na cisterna; de certo morrerá de fome no lugar onde se acha, pois não há mais pão na cidade. ^v9
+**9** """Ó rei, meu senhor, estes homens têm tratado mal o profeta Jeremias. Eles o lançaram numa cisterna para que morra de fome, pois não há mais comida na cidade.""" ^v9
 
-**10** Então deu ordem o rei a Ebede-Meleque, o etíope, dizendo: Toma contigo daqui trinta homens, e tira a Jeremias, o profeta, da cisterna, antes que morra. ^v10
+**10** "Então, o rei deu uma ordem para Ebede-Meleque, o etíope. Ele disse: ""Tome trinta homens daqui e tire o profeta Jeremias da cisterna antes que ele morra.""" ^v10
 
-**11** E tomou Ebede-Meleque os homens consigo, e foi à casa do rei, por debaixo da tesouraria, e tomou dali uns trapos velhos e rotos, e roupas velhas, e desceu-os a Jeremias na cisterna por meio de cordas. ^v11
+**11** Assim, Ebede-Meleque reuniu os homens e foi para a casa do rei, para um depósito de roupas debaixo da casa. De lá, pegaram trapos e roupas desgastadas, e os desceu a Jeremias na cisterna, por meio de cordas. ^v11
 
-**12** E disse Ebede-Meleque, o etíope, a Jeremias: Põe agora estes trapos velhos e rotos, já apodrecidos, nas axilas, calçando as cordas. E Jeremias assim o fez. ^v12
+**12** "Ebede-Meleque, o etíope, disse a Jeremias: ""Ponha as roupas desgastadas e os trapos debaixo de seus braços e sobre as cordas."" E Jeremias fez isso." ^v12
 
-**13** E puxaram a Jeremias com as cordas, e o alçaram da cisterna; e ficou Jeremias no átrio da guarda. ^v13
+**13** Então, eles puxaram Jeremias com as cordas, desta forma o tiraram da cisterna e o trouxeram para cima. E Jeremias permaneceu no pátio da guarda. ^v13
 
-**14** Então o rei Zedequias mandou trazer à sua presença Jeremias, o profeta, à terceira entrada da casa do Senhor; e disse o rei a Jeremias: Pergunto-te uma coisa, não me encubras nada. ^v14
+**14** "Em seguida, o rei Zedequias mandou trazer o profeta Jeremias à sua presença, à terceira entrada da Casa de Yahweh. O rei disse a Jeremias: ""Quero perguntar-te algo. Não escondas a resposta de mim.""" ^v14
 
-**15** E disse Jeremias a Zedequias: Se eu te declarar, porventura não me matarás? E se eu te aconselhar, não me ouvirás? ^v15
+**15** "Jeremias disse a Zedequias: ""Se eu te responder, certamente, não me matarás? Mas se eu te der conselhos, não me ouvirás.""" ^v15
 
-**16** Então jurou o rei Zedequias a Jeremias, em segredo, dizendo: Vive o Senhor, que nos fez esta alma, que não te matarei nem te entregarei na mão destes homens que procuram a tua morte. ^v16
+**16** "Mas o rei Zedequias jurou secretamente a Jeremias, dizendo: ""Assim como Yahweh vive, aquele que nos criou, não te matarei, nem te entregarei nas mãos dos homens que estão buscando tua vida.""" ^v16
 
-**17** Então Jeremias disse a Zedequias: Assim diz o SENHOR, Deus dos Exércitos, Deus de Israel: Se voluntariamente saíres aos príncipes do rei de babilônia, então viverá a tua alma, e esta cidade não se queimará a fogo, e viverás tu e a tua casa. ^v17
+**17** "Jeremias disse a Zedequias: Yahweh, o Deus dos Exércitos, o Deus de Israel, diz assim: ""Se te renderes aos oficiais do rei da Babilônia, então vivereis, e esta cidade não será queimada. Tu e tua família viverão." ^v17
 
-**18** Mas, se não saíres aos príncipes do rei de babilônia, então será entregue esta cidade na mão dos caldeus, e queimá-la-ão a fogo, e tu não escaparás da mão deles. ^v18
+**18** "Mas, se não te renderes aos oficiais do rei da Babilônia, então esta cidade será entregue nas mãos dos caldeus. Eles a queimarão e tu não escaparás das mãos deles.""" ^v18
 
-**19** E disse o rei Zedequias a Jeremias: Receio-me dos judeus, que se passaram para os caldeus; que estes me entreguem na mão deles, e escarneçam de mim. ^v19
+**19** "O rei Zedequias disse a Jeremias: ""Mas tenho medo do povo de Judá, que já se rendeu aos caldeus, porque se eu for entregue nas mãos deles, eles me maltratarão""." ^v19
 
-**20** E disse Jeremias: Não te entregarão; ouve, peço-te, a voz do Senhor, conforme a qual eu te falo; e bem te irá, e viverá a tua alma. ^v20
+**20** "Jeremias respondeu: ""Eles não o entregarão. Obedeça à ordem de Yahweh que estou lhe dizendo, e tudo te irá bem e tu viverás." ^v20
 
-**21** Mas, se tu não quiseres sair, esta é a palavra que me mostrou o Senhor: ^v21
+**21** Mas se não te renderes, isto é o que Yahweh tem me mostrado: ^v21
 
-**22** Eis que todas as mulheres que ficaram na casa do rei de Judá serão levadas aos príncipes do rei de babilônia, e elas mesmas dirão: Teus pacificadores te incitaram e prevaleceram contra ti, mas agora que se atolaram os teus pés na lama, voltaram atrás. ^v22
+**22** Olhai! Todas as mulheres que ficaram na casa do rei de Judá serão levadas aos oficiais do rei da Babilônia. E elas lhe dirão: 'Tens sido enganado por teus amigos; e eles têm te arruinado. Teus pés estão afundados na lama, e os teus amigos fugiram.' ^v22
 
-**23** Assim que a todas as tuas mulheres e a teus filhos levarão aos caldeus, e nem tu escaparás da sua mão, antes pela mão do rei de babilônia serás preso, e esta cidade será queimada a fogo. ^v23
+**23** "Pois todas as tuas esposas e filhos serão levados aos caldeus e não poderás escapar de suas mãos. Serás capturado pela mão do rei da Babilônia e esta cidade será queimada.""" ^v23
 
-**24** Então disse Zedequias a Jeremias: Ninguém saiba estas palavras, e não morrerás. ^v24
+**24** "Então, Zedequias disse a Jeremias: ""Não contes a ninguém sobre estas palavras, para que não morras." ^v24
 
-**25** E quando os príncipes, ouvindo que falei contigo, vierem a ti, e te disserem: Declara-nos agora o que disseste ao rei e o que ele te disse, não no-lo encubras, e não te mataremos; ^v25
+**25** Se os oficiais souberem que falei contigo, se eles vierem e te disserem: 'Conta-nos sobre o que conversaste com o rei. Não nos escondas nada ou te mataremos. E conta-nos o que o rei disse a ti', ^v25
 
-**26** Então lhes dirás: Eu lancei a minha súplica diante do rei, que não me fizesse tornar à casa de Jônatas, para morrer ali. ^v26
+**26** "então, deves dizer a eles: 'Eu supliquei ao rei que não me deixasse voltar à casa de Jônatas, para não morrer ali.""" ^v26
 
-**27** Vindo, pois, todos os príncipes a Jeremias, e interrogando-o, declarou-lhes todas as palavras que o rei lhe havia ordenado; e calados o deixaram, porque o assunto não foi revelado. ^v27
+**27** Então, todos os oficiais vieram a Jeremias e o interrogaram, e ele respondeu como o rei o instruíra. Assim, eles pararam de falar com ele, pois não haviam escutado a conversa entre Jeremias e o rei. ^v27
 
-**28** E ficou Jeremias no átrio da guarda, até o dia em que Jerusalém foi tomada, e ainda ali estava quando Jerusalém foi tomada. ^v28
+**28** E Jeremias permaneceu no pátio da guarda até o dia em que Jerusalém foi invadida. ^v28

@@ -1,139 +1,138 @@
 ---
-Livro: "[[1 Reis|1 Reis]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/1 Reis|1 Reis]]"
+tags: [biblia]
 ---
 
 # 1 Reis 8
 
-**1** Então congregou Salomão os anciãos de Israel, e todos os cabeças das tribos, os chefes dos pais dos filhos de Israel, diante de si em Jerusalém; para fazerem subir a arca da aliança do SENHOR da cidade de Davi, que é Sião. ^v1
+**1** Então Salomão reuniu diante de si, em Jerusalém, os anciãos de Israel, todos os líderes das tribos e os líderes das famílias do povo de Israel, para fazerem subir a Arca da Aliança de Yahweh da cidade de Davi, que é Sião. ^v1
 
-**2** E todos os homens de Israel se congregaram ao rei Salomão, na ocasião da festa, no mês de Etanim, que é o sétimo mês. ^v2
+**2** Todos os homens de Israel se reuniram diante do rei Salomão, na festa, no sétimo mês, no Mês de Etanim. ^v2
 
-**3** E vieram todos os anciãos de Israel; e os sacerdotes alçaram a arca. ^v3
+**3** Todos os anciãos de Israel vieram, e os sacerdotes fizeram subir a Arca. ^v3
 
-**4** E trouxeram a arca do Senhor para cima, e o tabernáculo da congregação, juntamente com todos os objetos sagrados que havia no tabernáculo; assim os trouxeram para cima os sacerdotes e os levitas. ^v4
+**4** Eles trouxeram a Arca de Yahweh, a Tenda do Encontro e todos os utensílios sagrados que ficavam na Tenda. Os sacerdotes e os levitas os trouxeram. ^v4
 
-**5** E o rei Salomão, e toda a congregação de Israel que se congregara a ele, estava com ele diante da arca, sacrificando ovelhas e vacas, que não se podiam contar nem numerar pela sua quantidade. ^v5
+**5** O rei Salomão e toda a congregação de Israel se reuniram diante da Arca e sacrificaram ovelhas e bois que não se podiam contar. ^v5
 
-**6** Assim trouxeram os sacerdotes a arca da aliança do Senhor ao seu lugar, ao oráculo da casa, ao lugar santíssimo, até debaixo das asas dos querubins. ^v6
+**6** Os sacerdotes levaram a Arca da Aliança de Yahweh para o lugar dela, ao santuário interior, no Lugar Santíssimo, debaixo das asas dos querubins. ^v6
 
-**7** Porque os querubins estendiam ambas as asas sobre o lugar da arca; e os querubins cobriam, por cima, a arca e os seus varais. ^v7
+**7** Pois os querubins estendiam as suas asas para o lugar da Arca. Eles cobriam a Arca e as varas pelas quais ela era transportada. ^v7
 
-**8** E os varais sobressaíram tanto, que as pontas dos varais se viam desde o santuário diante do oráculo, porém de fora não se viam; e ficaram ali até ao dia de hoje. ^v8
+**8** As varas eram tão longas que as suas pontas eram vistas de dentro do Lugar Santo, em frente ao Lugar Santíssimo, mas, de fora, não eram vistas; e ali estão até o dia de hoje. ^v8
 
-**9** Na arca nada havia, senão só as duas tábuas de pedra, que Moisés ali pusera junto a Horebe, quando o Senhor fez a aliança com os filhos de Israel, saindo eles da terra do Egito. ^v9
+**9** Nada havia na Arca, exceto as duas tábuas de pedra que Moisés ali depositara, quando Yahweh fez uma aliança com o povo de Israel, junto a Horebe, depois que eles saíram da terra do Egito. ^v9
 
-**10** E sucedeu que, saindo os sacerdotes do santuário, uma nuvem encheu a casa do Senhor. ^v10
+**10** Aconteceu que, ao saírem os sacerdotes do Lugar Santo, uma nuvem encheu o templo de Yahweh. ^v10
 
-**11** E os sacerdotes não podiam permanecer em pé para ministrar, por causa da nuvem, porque a glória do Senhor enchera a casa do Senhor. ^v11
+**11** Os sacerdotes não podiam permanecer de pé para ministrar, por causa da nuvem; pois a glória de Yahweh enchera o templo. ^v11
 
-**12** Então falou Salomão: O Senhor disse que ele habitaria nas trevas. ^v12
+**12** "Então, Salomão disse: ""Yahweh falou que habitaria numa nuvem escura." ^v12
 
-**13** Certamente te edifiquei uma casa para morada, assento para a tua eterna habitação. ^v13
+**13** "Mas eu edifiquei para Ti uma casa exaltada, um lugar para Tua morada eterna""." ^v13
 
-**14** Então virou o rei o seu rosto, e abençoou toda a congregação de Israel; e toda a congregação de Israel estava em pé. ^v14
+**14** Virando-se, então, o rei para o povo, que estava de pé, abençoou toda a congregação de Israel. ^v14
 
-**15** E disse: Bendito seja o Senhor Deus de Israel, que falou pela sua boca a Davi, meu pai, e pela sua mão o cumpriu, dizendo: ^v15
+**15** "Ele disse: ""Seja louvado Yahweh, o Deus de Israel! Pois falou com Davi, meu pai, e cumpriu isso com as Suas próprias mãos, dizendo:" ^v15
 
-**16** Desde o dia em que eu tirei o meu povo Israel do Egito, não escolhi cidade alguma de todas as tribos de Israel, para edificar alguma casa para ali estabelecer o meu nome; porém escolhi a Davi, para que presidisse sobre o meu povo Israel. ^v16
+**16** 'Desde o dia em que Eu tirei o Meu povo Israel do Egito, não escolhi qualquer cidade dentre todas as tribos de Israel onde edificar uma casa para ali estabelecer o Meu Nome; porém escolhi Davi para governar sobre o Meu povo, Israel. ^v16
 
-**17** Também Davi, meu pai, propusera em seu coração o edificar casa ao nome do Senhor Deus de Israel. ^v17
+**17** Estava no coração de Davi, meu pai, edificar uma casa em nome de Yahweh, o Deus de Israel. ^v17
 
-**18** Porém o Senhor disse a Davi, meu pai: Porquanto propuseste no teu coração o edificar casa ao meu nome, bem fizeste em o propor no teu coração. ^v18
+**18** Mas Yahweh disse para Davi, meu pai: 'fizeste bem, nisso que estava no teu coração, para construir uma casa em Meu Nome; ^v18
 
-**19** Todavia tu não edificarás esta casa; porém teu filho, que sair de teus lombos, edificará esta casa ao meu nome. ^v19
+**19** porém tu não edificarás o templo; teu filho, que procederá de ti, edificará um templo ao Meu Nome'. ^v19
 
-**20** Assim confirmou o Senhor a sua palavra que falou; porque me levantei em lugar de Davi, meu pai, e me assentei no trono de Israel, como tem falado o Senhor; e edifiquei uma casa ao nome do Senhor Deus de Israel. ^v20
+**20** Yahweh cumpriu a palavra que Ele havia falado, porque eu me levantei em lugar de Davi, meu pai, e me assentei no trono de Israel, como Yahweh prometera, e edifiquei um templo ao nome de Yahweh, Deus de Israel. ^v20
 
-**21** E constituí ali lugar para a arca em que está a aliança do Senhor, a qual fez com nossos pais, quando os tirou da terra do Egito. ^v21
+**21** "Eu edifiquei um lugar ali para a Arca, na qual está a aliança de Yahweh, a qual Ele fez com os nossos pais quando os tirou da terra do Egito""." ^v21
 
-**22** E pôs-se Salomão diante do altar do Senhor, na presença de toda a congregação de Israel; e estendeu as suas mãos para os céus, ^v22
+**22** Salomão pôs-se diante do altar de Yahweh, perante toda a comunidade de Israel, e estendeu as suas mãos para os céus. ^v22
 
-**23** E disse: Ó Senhor Deus de Israel, não há Deus como tu, em cima nos céus nem em baixo na terra; que guardas a aliança e a beneficência a teus servos que andam com todo o seu coração diante de ti. ^v23
+**23** "Ele disse: ""Yahweh, Deus de Israel, não existe Deus como Tu, acima dos céus nem abaixo da terra, que guarda fielmente a Sua aliança com os Teus servos que caminham diante de Ti com todo o coração;" ^v23
 
-**24** Que guardaste a teu servo Davi, meu pai, o que lhe disseras; porque com a tua boca o disseste, e com a tua mão o cumpriste, como neste dia se vê. ^v24
+**24** Tu, que tens mantido o que prometeste a Teu servo Davi, meu pai. Sim, Tu, que disseste com a Tua boca e tens executado isso com a Tua mão, como se vê hoje. ^v24
 
-**25** Agora, pois, ó Senhor Deus de Israel, guarda a teu servo Davi, meu pai, o que lhe falaste, dizendo: Não te faltará sucessor diante de mim, que se assente no trono de Israel; somente que teus filhos guardem o seu caminho, para andarem diante de mim como tu andaste diante de mim. ^v25
+**25** Agora, Yahweh, Deus de Israel, cumpre o que prometeste ao Teu servo Davi, meu pai, quando disseste: 'Não te faltará sucessor diante de Mim que se assente no trono de Israel, contanto que os teus descendentes tenham cuidado de andar diante de Mim, como tu andaste diante de Mim'. ^v25
 
-**26** Agora também, ó Deus de Israel, cumpra-se a tua palavra que disseste a teu servo Davi, meu pai. ^v26
+**26** Assim, Deus de Israel, eu oro para que se cumpra o que Tu prometeste ao Teu servo Davi, meu pai. ^v26
 
-**27** Mas, na verdade, habitaria Deus na terra? Eis que os céus, e até o céu dos céus, não te poderiam conter, quanto menos esta casa que eu tenho edificado. ^v27
+**27** Todavia habitará Deus na terra? Eis que o universo inteiro e o céu em si mesmo não podem contê-Lo; muito menos este templo que edifiquei! ^v27
 
-**28** Volve-te, pois, para a oração de teu servo, e para a sua súplica, ó Senhor meu Deus, para ouvires o clamor e a oração que o teu servo hoje faz diante de ti. ^v28
+**28** Porém atenta para esta oração do Teu servo e sua súplica. Ó, Yahweh, meu Deus, atenta para o clamor e a oração que o Teu servo faz hoje, diante de Ti! ^v28
 
-**29** Para que os teus olhos noite e dia estejam abertos sobre esta casa, sobre este lugar, do qual disseste: O meu nome estará ali; para ouvires a oração que o teu servo fizer neste lugar. ^v29
+**29** Que os Teus olhos permaneçam abertos noite e dia, em direção a este templo, o lugar sobre o qual Tu disseste: 'Meu Nome e Minha presença estarão lá'; para ouvires a oração que o Teu servo fizer, voltado para este lugar. ^v29
 
-**30** Ouve, pois, a súplica do teu servo, e do teu povo Israel, quando orarem neste lugar; também ouve tu no lugar da tua habitação nos céus; ouve também, e perdoa. ^v30
+**30** Assim, escuta o pedido do Teu servo e do Teu povo quando nós orarmos em direção a este lugar. Sim, ouve do lugar onde habitas, desde os céus; e quando ouvires, perdoa. ^v30
 
-**31** Quando alguém pecar contra o seu próximo, e puserem sobre ele juramento de maldição, fazendo-o jurar, e vier juramento de maldição diante do teu altar nesta casa, ^v31
+**31** Se um homem pecar contra o seu próximo, e lhe for exigido que jure, e ele jurar diante do Teu altar, neste templo, ^v31
 
-**32** Ouve tu, então, nos céus e age e julga a teus servos, condenando ao injusto, fazendo recair o seu proceder sobre a sua cabeça, e justificando ao justo, rendendo-lhe segundo a sua justiça. ^v32
+**32** ouve então, do céu, e age; julga os Teus servos, condena o culpado, fazendo o seu proceder recair sobre a sua própria cabeça, e inocenta o justo, retribuindo-lhe segundo a sua justiça. ^v32
 
-**33** Quando o teu povo Israel for ferido diante do inimigo, por ter pecado contra ti, e se converterem a ti, e confessarem o teu nome, e orarem e suplicarem a ti nesta casa, ^v33
+**33** Quando o Teu povo Israel for derrotado por um dos seus inimigos, por ter pecado contra Ti, se eles voltarem para Ti, confessarem o Teu nome, orarem e clamarem por Teu perdão neste templo, ^v33
 
-**34** Ouve tu então nos céus, e perdoa o pecado do teu povo Israel, e torna-o a levar à terra que tens dado a seus pais. ^v34
+**34** então, por favor, escuta nos céus e perdoa o pecado do Teu povo Israel; torna a trazê-lo à terra que deste aos seus antepassados. ^v34
 
-**35** Quando os céus se fechar, e não houver chuva, por terem pecado contra ti, e orarem neste lugar, e confessarem o teu nome, e se converterem dos seus pecados, havendo-os tu afligido, ^v35
+**35** Quando os céus se fecharem e não houver chuva, quando Tu os afligires, por causa do pecado contra Ti, e eles orarem, voltados para este lugar, confessarem o Teu Nome e se converterem dos seus pecados, ^v35
 
-**36** Ouve tu então nos céus, e perdoa o pecado de teus servos e do teu povo Israel, ensinando-lhes o bom caminho em que andem, e dá chuva na tua terra que deste ao teu povo em herança. ^v36
+**36** então escuta dos céus e perdoa a transgressão dos Teus servos e do Teu povo Israel; ensinando-lhes o bom caminho no qual eles devem andar. Envia chuva sobre a Tua terra, a qual deste em herança ao Teu povo. ^v36
 
-**37** Quando houver fome na terra, quando houver peste, quando houver queima de searas, ferrugem, gafanhotos ou pulgão, quando o seu inimigo o cercar na terra das suas portas, ou houver alguma praga ou doença, ^v37
+**37** Se houver fome na terra, enfermidade, praga, mofo, gafanhoto ou lagarta; ou se algum de seus inimigos os cercar nos portões das suas cidades; ou, se acontecer qualquer praga ou doença ^v37
 
-**38** Toda a oração, toda a súplica, que qualquer homem de todo o teu povo Israel fizer, conhecendo cada um a chaga do seu coração, e estendendo as suas mãos para esta casa, ^v38
+**38** e suceder, então, que orações e súplicas sejam feitas por qualquer indivíduo ou por todo o Teu povo Israel, conhecendo cada um a aflição do seu próprio coração enquanto estende as suas mãos para este templo, ^v38
 
-**39** Ouve tu então nos céus, assento da tua habitação, e perdoa, e age, e dá a cada um conforme a todos os seus caminhos, e segundo vires o seu coração, porque só tu conheces o coração de todos os filhos dos homens. ^v39
+**39** ouve dos céus, o lugar onde Tu habitas; perdoa e age, retribui a cada um de acordo com toda a sua conduta, porque só Tu conheces o coração de todos os humanos. És o único que sabes o que procede de cada coração; ^v39
 
-**40** Para que te temam todos os dias que viverem na terra que deste a nossos pais. ^v40
+**40** para que eles temam a Ti todos os dias em que viverem na terra que deste aos nossos pais. ^v40
 
-**41** E também ouve ao estrangeiro, que não for do teu povo Israel, quando vier de terras remotas, por amor do teu nome ^v41
+**41** Também, quanto ao estrangeiro que não pertence ao Teu povo Israel: quando vier de terras distantes, por causa do Teu Nome ^v41
 
-**42** (Porque ouvirão do teu grande nome, e da tua forte mão, e do teu braço estendido), e vier orar voltado para esta casa, ^v42
+**42** (porque eles ouvirão quão grande é o Teu Nome, da Tua poderosa mão e do Teu braço estendido), quando ele vier e orar em direção a este templo, ^v42
 
-**43** Ouve tu nos céus, assento da tua habitação, e faze conforme a tudo o que o estrangeiro a ti clamar, a fim de que todos os povos da terra conheçam o teu nome, para te temerem como o teu povo Israel, e para saberem que o teu nome é invocado sobre esta casa que tenho edificado. ^v43
+**43** então, por favor, ouve dos céus, o lugar onde habitas, e faze conforme tudo o que o estrangeiro a Ti clamar, a fim de que todos os povos da terra conheçam o Teu nome e temam a Ti, assim como ao Teu povo, Israel; e saibam que Teu Nome é invocado nesta casa que edifiquei. ^v43
 
-**44** Quando o teu povo sair à guerra contra o seu inimigo, pelo caminho por que os enviares, e orarem ao Senhor, para o lado desta cidade, que tu elegeste, e desta casa, que edifiquei ao teu nome, ^v44
+**44** Quando o Teu povo sair à guerra contra os seus inimigos, seja qual for a orientação que Tu deres, e orar a Yahweh, voltado para a cidade que escolheste e para o templo que edifiquei ao Teu Nome, ^v44
 
-**45** Ouve, então, nos céus a sua oração e a sua súplica, e faze-lhes justiça. ^v45
+**45** então escuta, dos céus, suas orações e seus pedidos, e defenda a causa deles. ^v45
 
-**46** Quando pecarem contra ti (pois não há homem que não peque), e tu te indignares contra eles, e os entregares às mãos do inimigo, de modo que os levem em cativeiro para a terra inimiga, quer longe ou perto esteja, ^v46
+**46** Se acontecer de pecarem contra Ti (pois não há homem que não peque), e Tu te indignares contra eles e os entregares ao inimigo, de modo que os levem cativos para a terra do inimigo, distante ou próxima; ^v46
 
-**47** E na terra aonde forem levados em cativeiro caírem em si, e se converterem, e na terra do seu cativeiro te suplicarem, dizendo: Pecamos, e perversamente procedemos, e cometemos iniqüidade, ^v47
+**47** e, na terra aonde forem levados em cativeiro, caírem em si e se converterem; se do cativeiro suplicarem a Ti, dizendo: 'transgredimos e pecamos; agimos perversamente'; ^v47
 
-**48** E se converterem a ti com todo o seu coração e com toda a sua alma, na terra de seus inimigos que os levarem em cativeiro, e orarem a ti para o lado da sua terra que deste a seus pais, para esta cidade que elegeste, e para esta casa que edifiquei ao teu nome; ^v48
+**48** e, se verdadeiramente retornarem a Ti de todo o coração e de toda a alma, na terra em que estiverem cativos, e orarem a Ti, voltados para a sua terra, que deste aos seus pais, para a cidade que escolheste e para o templo que edifiquei ao Teu Nome; ^v48
 
-**49** Ouve então nos céus, assento da tua habitação, a sua oração e a sua súplica, e faze-lhes justiça. ^v49
+**49** então lá dos céus, o lugar onde habitas, escuta suas orações, seus pedidos; e defende a causa deles. ^v49
 
-**50** E perdoa ao teu povo que houver pecado contra ti, todas as transgressões que houverem cometido contra ti; e dá-lhes misericórdia perante aqueles que os têm cativos, para que deles tenham compaixão. ^v50
+**50** Perdoa o Teu povo, que tem pecado contra ti, e todas as suas transgressões contra os Teus mandamentos. Tem compaixão do Teu povo no cativeiro, para que os seus inimigos os tratem com compaixão. ^v50
 
-**51** Porque são o teu povo e a tua herança que tiraste da terra do Egito, do meio do forno de ferro. ^v51
+**51** Eles são Teu povo, a quem Tu escolheste, a quem libertaste do Egito, do meio da fornalha de forjar ferro. ^v51
 
-**52** Para que teus olhos estejam abertos à súplica do teu servo e à súplica do teu povo Israel, a fim de os ouvires em tudo quanto clamarem a ti. ^v52
+**52** Eu oro para que os Teus olhos estejam atentos à súplica dos Teus servos e escutes os pedidos do Teu povo, Israel, quando eles clamarem a Ti. ^v52
 
-**53** Pois tu para tua herança os elegeste de todos os povos da terra, como tens falado pelo ministério de Moisés, teu servo, quando tiraste a nossos pais do Egito, Senhor DEUS. ^v53
+**53** "Porque Tu os separaste como Tua herança, Senhor Yahweh, dentre todos os povos da terra, para que pertençam a Ti e recebam Tuas promessas, como Tu nos instruíste por Moisés, Teu servo, quando do Egito tiraste os nossos pais""." ^v53
 
-**54** Sucedeu, pois, que, acabando Salomão de fazer ao Senhor esta oração e esta súplica, estando de joelhos e com as mãos estendidas para os céus, se levantou de diante do altar do Senhor. ^v54
+**54** Assim que terminou de orar e suplicar a Yahweh, Salomão levantou-se de diante do altar de Yahweh, tendo estado de joelhos e com as mãos estendidas para os céus. ^v54
 
-**55** E pôs-se em pé, e abençoou a toda a congregação de Israel em alta voz, dizendo: ^v55
+**55** Levantou-se e abençoou em alta voz toda a congregação, dizendo: ^v55
 
-**56** Bendito seja o Senhor, que deu repouso ao seu povo Israel, segundo tudo o que disse; nem uma só palavra caiu de todas as suas boas palavras que falou pelo ministério de Moisés, seu servo. ^v56
+**56** """Louvado seja Yahweh, que tem dado o descanso para o Seu povo Israel, cumprindo todas as Suas promessas. Nenhuma palavra tem falhado de todas as boas promessas que Ele fez por intermédio do Seu servo Moisés." ^v56
 
-**57** O Senhor nosso Deus seja conosco, como foi com nossos pais; não nos desampare, e não nos deixe. ^v57
+**57** Que Yahweh, nosso Deus, esteja conosco, assim como Ele esteve com os nossos antepassados. Que Ele nunca nos deixe ou nos abandone; ^v57
 
-**58** Inclinando a si o nosso coração, para andar em todos os seus caminhos, e para guardar os seus mandamentos, e os seus estatutos, e os seus juízos que ordenou a nossos pais. ^v58
+**58** que Ele faça inclinar para Si o nosso coração, para viver em todos os Seus caminhos e guardar os Seus mandamentos, e os Seus estatutos, e os Seus decretos, que Ele ordenou aos nossos pais. ^v58
 
-**59** E que estas minhas palavras, com que supliquei perante o Senhor, estejam perto, diante do Senhor nosso Deus, de dia e de noite, para que execute o juízo do seu servo e o juízo do seu povo Israel, a cada qual no seu dia. ^v59
+**59** Que estas palavras que tenho falado e orado perante Yahweh estejam sempre diante de Yahweh, nosso Deus, dia e noite, para que Ele defenda a causa de Seu servo e a causa do Seu povo, Israel, assim como cada dia exigir; ^v59
 
-**60** Para que todos os povos da terra saibam que o Senhor é Deus, e que não há outro. ^v60
+**60** que todos os povos da terra conheçam que Yahweh é Deus, e não há outro Deus! ^v60
 
-**61** E seja o vosso coração inteiro para com o Senhor nosso Deus, para andardes nos seus estatutos, e guardardes os seus mandamentos como hoje. ^v61
+**61** "Portanto, que o vosso coração seja verdadeiro para com Yahweh, nosso Deus, para andar nos Seus estatutos e guardar os Seus mandamentos, como neste dia""." ^v61
 
-**62** E o rei e todo o Israel com ele ofereceram sacrifícios perante a face do Senhor. ^v62
+**62** Então, o rei e todo o Israel com ele ofereceram sacrifícios a Yahweh. ^v62
 
-**63** E deu Salomão para o sacrifício pacífico que ofereceu ao Senhor, vinte e duas mil vacas e cento e vinte mil ovelhas; assim o rei e todos os filhos de Israel consagraram a casa do Senhor. ^v63
+**63** Salomão ofereceu um sacrifício de oferta de comunhão a Yahweh: vinte e dois mil bois e cento e vinte mil ovelhas. Assim, o rei e todo o povo de Israel dedicaram o templo de Yahweh. ^v63
 
-**64** No mesmo dia santificou o rei o meio do átrio que estava diante da casa do Senhor; porquanto ali preparara os holocaustos e as ofertas com a gordura dos sacrifícios pacíficos; porque o altar de cobre que estava diante da face do Senhor era muito pequeno para nele caberem os holocaustos e as ofertas, e a gordura dos sacrifícios pacíficos. ^v64
+**64** No mesmo dia, o rei consagrou a parte central do pátio em frente do templo de Yahweh; ele ofereceu o holocausto, a oferta de cereais e a gordura das ofertas de comunhão, já que o altar de bronze que está diante do templo de Yahweh era muito pequeno para caber nele o holocausto, a oferta de cereais e a gordura das ofertas de comunhão. ^v64
 
-**65** No mesmo tempo celebrou Salomão a festa, e todo o Israel com ele, uma grande congregação, desde a entrada de Hamate até ao rio do Egito, perante a face do Senhor nosso Deus; por sete dias, e mais sete dias; catorze dias. ^v65
+**65** Então, na mesma ocasião, ofereceu Salomão uma festa, e todo o Israel com ele, uma grande congregação, desde Lebo-Hamate até o rio do Egito, por sete dias e também por outros sete dias, um total de catorze dias, perante Yahweh, nosso Deus. ^v65
 
-**66** E no oitavo dia despediu o povo, e eles abençoaram o rei; então se foram às suas tendas, alegres e felizes de coração, por causa de todo o bem que o Senhor fizera a Davi seu servo, e a Israel seu povo. ^v66
+**66** No oitavo dia, o povo abençoou o rei; ele despediu o povo, e foram para suas casas, com regozijo e coração alegre por todas as boas coisas que Yahweh havia mostrado a Davi, Seu servo, e a Israel, Seu povo. ^v66

@@ -1,61 +1,60 @@
 ---
-Livro: "[[2 Crônicas|2 Crônicas]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/2 Crônicas|2 Crônicas]]"
+tags: [biblia]
 ---
 
 # 2 Crônicas 35
 
-**1** Então Josias celebrou a páscoa ao SENHOR em Jerusalém; e mataram o cordeiro da páscoa no décimo quarto dia do primeiro mês. ^v1
+**1** Josias celebrou a Páscoa a Yahweh em Jerusalém; mataram os cordeiros para a Páscoa, no décimo quarto dia do primeiro mês. ^v1
 
-**2** E estabeleceu os sacerdotes nos seus cargos, e os animou ao ministério da casa do Senhor. ^v2
+**2** Ele colocou os sacerdotes em suas posições e os encorajou no seu serviço na casa de Yahweh. ^v2
 
-**3** E disse aos levitas que ensinavam a todo o Israel e estavam consagrados ao Senhor: Ponde a arca sagrada na casa que edificou Salomão, filho de Davi, rei de Israel; não tereis mais esta carga aos ombros; agora servi ao Senhor vosso Deus, e ao seu povo Israel. ^v3
+**3** "Disse aos levitas que ensinavam todo Israel e que eram dedicados a Yahweh: ""Ponde a Arca sagrada na casa que Salomão, filho de Davi, rei de Israel, construiu. Não a leveis em vossos ombros para lugar algum. Agora, adorai a Yahweh, vosso Deus, e servi ao seu povo em Israel." ^v3
 
-**4** E preparai-vos segundo as vossas casas paternas e segundo as vossas turmas, conforme à prescrição de Davi, rei de Israel, e a de Salomão, seu filho. ^v4
+**4** Organizai-vos pelos nomes das casas de vossos ancestrais e suas divisões, seguindo as instruções de Davi, rei de Israel, e as de Salomão, seu filho. ^v4
 
-**5** E estai no santuário segundo as divisões das casas paternas de vossos irmãos, os filhos do povo; e haja para cada divisão uma parte de uma família de levitas. ^v5
+**5** Levantai-vos no lugar sagrado, tomando vossas posições com as divisões dentro das casas dos ancestrais dos vossos irmãos, os descendentes do povo, e assumindo vossos postos com suas divisões entre os acestrais da casa dos levitas. ^v5
 
-**6** E imolai a páscoa, e santificai-vos, e preparai-a para vossos irmãos, fazendo conforme a palavra do Senhor, dada pela mão de Moisés. ^v6
+**6** Matai os cordeiros da Páscoa e consagrai-vos, preparai os cordeiros para os irmãos, fazendo conforme a palavra de Yahweh, que foi dada pelas mãos de Moisés. ^v6
 
-**7** E ofereceu Josias, aos filhos do povo, cordeiros e cabritos do rebanho, todos para os sacrifícios da páscoa, em número de trinta mil, por todos os que ali se achavam, e de bois três mil; isto era da fazenda do rei. ^v7
+**7** Josias deu a todo o povo trinta mil cordeiros e cabritos do rebanho, para as ofertas de Páscoa, a todos os presentes. Também deu três mil bezerros que pertenciam ao rei. ^v7
 
-**8** Também apresentaram os seus príncipes ofertas voluntárias ao povo, aos sacerdotes e aos levitas: Hilquias, e Zacarias, e Jeiel, líderes da casa de Deus, deram aos sacerdotes para os sacrifícios da páscoa duas mil e seiscentas reses de gado miúdo, e trezentos bois. ^v8
+**8** Seus líderes deram uma oferta voluntária ao povo, sacerdotes e levitas. Hilquias, Zacarias e Jeiel, os oficiais da casa de Deus, deram aos sacerdotes, para a Páscoa, ofertas de dois mil e seiscentos novilhos e trezentos bois. ^v8
 
-**9** E Conanias, e Semaías, e Natanael, seus irmãos, como também Hasabias, e Jeiel, e Jozabade, chefe dos levitas, apresentaram aos levitas, para os sacrifícios da páscoa, cinco mil reses de gado miúdo, e quinhentos bois. ^v9
+**9** Também, Conanias, Semaías e Netanel, seus irmãos, e Hasabias, Jeiel e Jozabade, chefes dos levitas, deram aos levitas, cinco mil novilhos e quinhentos bois para as ofertas de Páscoa. ^v9
 
-**10** Assim se preparou o serviço, e puseram-se os sacerdotes nos seus postos, e os levitas nas suas turmas, conforme a ordem do rei, ^v10
+**10** Então, o serviço estava preparado e, os sacerdotes assumiram seus postos, com os levitas em suas divisões, em resposta às ordens reais. ^v10
 
-**11** Então imolaram a páscoa; e os sacerdotes espargiram o sangue recebido das mãos dos levitas que esfolavam as reses. ^v11
+**11** Mataram os cordeiros da Páscoa, e os sacerdotes aspergiram o sangue que receberam das mãos dos levitas. Estes retiraram a pele dos cordeiros. ^v11
 
-**12** E puseram de parte os holocaustos para os darem aos filhos do povo, segundo as divisões das casas paternas, para o oferecerem ao Senhor, como está escrito no livro de Moisés; e assim fizeram com os bois. ^v12
+**12** Removeram as ofertas queimadas, para dividi-las na ordem das divisões de casas dos ancestrais de seu povo, para oferecê-los a Yahweh, como está escrito no Livro de Moisés. Fizeram o mesmo com os bois. ^v12
 
-**13** E assaram a páscoa no fogo, segundo o rito; e as ofertas sagradas cozeram em panelas, e em caldeirões e em sertãs; e prontamente as repartiram entre todo o povo. ^v13
+**13** Assaram os cordeiros da Páscoa com fogo, seguindo as instruções. Assim como as ofertas consagradas, cozinharam em potes, caldeirões e panelas e rapidamente as levaram para todo o povo. ^v13
 
-**14** Depois prepararam para si e para os sacerdotes; porque os sacerdotes, filhos de Arão, se ocuparam até à noite com o sacrifício dos holocaustos e da gordura; por isso os levitas prepararam para si e para os sacerdotes, filhos de Arão. ^v14
+**14** Mais tarde, prepararam para si e para os sacerdotes; porque os sacerdotes, os descendentes de Arão, estavam ocupados em oferecer as ofertas queimadas e a gordura até o anoitecer. Então, os levitas prepararam para si e para os sacerdotes, os descendentes de Arão. ^v14
 
-**15** E os cantores, filhos de Asafe, estavam no seu posto, segundo o mandado de Davi, e de Asafe, e de Hemã, e de Jedutum, vidente do rei, como também os porteiros a cada porta; não necessitaram de se desviarem do seu ministério; porquanto seus irmãos, os levitas, preparavam o necessário para eles. ^v15
+**15** Os cantores, descendentes de Asafe, estavam em seus postos, direcionados por Davi, Asafe, Hemã, e Jedutum, o vidente do rei, e os guardas estavam em cada portão. Não precisavam sair de seus postos, porque seus irmãos, os levitas, lhes preparavam suas ofertas. ^v15
 
-**16** Assim se estabeleceu todo o serviço do Senhor naquele dia, para celebrar a páscoa, e oferecer holocaustos sobre o altar do Senhor, segundo a ordem do rei Josias. ^v16
+**16** Naquele tempo, todo o serviço para Yahweh estava sendo realizado para a celebração da Páscoa e para oferecer ofertas queimadas no altar de Yahweh, como o rei Josias havia ordenado. ^v16
 
-**17** E os filhos de Israel que ali se acharam celebraram a páscoa naquele tempo, e a festa dos pães ázimos, durante sete dias. ^v17
+**17** O povo de Israel, que estava presente, celebrou a Páscoa naquele momento e depois a festa dos pães sem fermento por sete dias. ^v17
 
-**18** Nunca, pois, se celebrou tal páscoa em Israel, desde os dias do profeta Samuel; nem nenhum rei de Israel celebrou tal páscoa como a que celebrou Josias com os sacerdotes, e levitas, e todo o Judá e Israel, que ali se acharam, e os habitantes de Jerusalém. ^v18
+**18** Nunca uma celebração de Páscoa em Israel havia sido tão grande desde os dias do profeta Samuel; ou tivera qualquer um dos reis de Israel celebrado a Páscoa como Josias o fez, juntamente com os sacerdotes, levitas e todo o povo de Judá e Israel, que estava presente, e os habitantes de Jerusalém. ^v18
 
-**19** No décimo oitavo ano do reinado de Josias se celebrou esta páscoa. ^v19
+**19** Essa Páscoa foi celebrada no décimo oitavo ano do reinado de Josias. ^v19
 
-**20** Depois de tudo isto, havendo Josias já preparado o templo, subiu Neco, rei do Egito, para guerrear contra Carquemis, junto ao Eufrates; e Josias lhe saiu ao encontro. ^v20
+**20** Após tudo isso, depois que Josias colocou o templo em ordem, Neco, rei do Egito, levantou-se para lutar contra Carquêmis, no rio Eufrates, e Josias foi lutar contra ele. ^v20
 
-**21** Então ele lhe mandou mensageiros, dizendo: Que tenho eu contigo, rei de Judá? Não é contra ti que venho hoje, mas contra a casa que me faz guerra; e disse Deus que me apressasse; guarda-te de te opores a Deus, que é comigo, para que ele não te destrua. ^v21
+**21** "Mas Neco enviou embaixadores a ele, dizendo: ""O que fiz eu contigo, rei de Judá? Não estou indo te atacar hoje, mas sim ao reino contra o qual estou em guerra. Deus me ordenou que eu me apressasse, não te oponhas a Deus, que está comigo, pois Ele pode te destruir""." ^v21
 
-**22** Porém Josias não virou dele o seu rosto, antes se disfarçou, para pelejar contra ele; e não deu ouvidos às palavras de Neco, que saíram da boca de Deus; antes veio pelejar no vale de Megido. ^v22
+**22** No entanto, Josias se negou a recuar. Disfarçou-se a fim de lutar contra ele. Não ouviu as palavras de Neco, que vieram da boca de Deus; então, foi lutar no vale do Megido. ^v22
 
-**23** E os flecheiros atiraram contra o rei Josias. Então o rei disse a seus servos: Tirai-me daqui, porque estou gravemente ferido. ^v23
+**23** "Arqueiros atiraram no rei Josias, e o rei disse aos seus servos: ""Levai-me daqui, estou gravemente ferido""." ^v23
 
-**24** E seus servos o tiraram do carro, e o levaram no segundo carro que tinha, e o trouxeram a Jerusalém; e morreu, e o sepultaram nos sepulcros de seus pais; e todo o Judá e Jerusalém prantearam a Josias. ^v24
+**24** Então, seus servos o tiraram de seu carro e o colocaram em seu carro extra. Levaram-no para Jerusalém, onde ele morreu. Foi ele sepultado na tumba de seus ancestrais. Toda a Judá e Jerusalém choraram por Josias. ^v24
 
-**25** E Jeremias fez uma lamentação sobre Josias; e todos os cantores e cantoras, nas suas lamentações, têm falado de Josias, até ao dia de hoje; porque as estabeleceram por estatuto em Israel; e eis que estão escritas nas lamentações. ^v25
+**25** Jeremias lamentou por Josias; todos os cantores e cantoras lamentam por ele até o dia de hoje. Essas canções se tornaram costume em Israel; elas foram escritas nas canções de lamentações. ^v25
 
-**26** Quanto ao mais dos atos de Josias, e as suas boas obras, conforme o que está escrito na lei do Senhor, ^v26
+**26** Quanto às outras coisas relacionadas a Josias, seus bons atos, sua obediência ao que está escrito nos livros da Lei de Yahweh ^v26
 
-**27** E os seus atos, tanto os primeiros como os últimos, eis que estão escritos no livro dos reis de Israel e de Judá. ^v27
+**27** e os seus feitos do início ao fim, estão escritos no livro dos reis de Judá e Israel. ^v27

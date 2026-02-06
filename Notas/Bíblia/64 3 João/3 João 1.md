@@ -1,37 +1,36 @@
 ---
-Livro: "[[3 João|3 João]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/3 João|3 João]]"
+tags: [biblia]
 ---
 
 # 3 João 1
 
-**1** O presbítero ao amado Gaio, a quem em verdade eu amo. ^v1
+**1** O presbítero ao amado Gaio, a quem eu amo em verdade. ^v1
 
-**2** Amado, desejo que te vá bem em todas as coisas, e que tenhas saúde, assim como bem vai a tua alma. ^v2
+**2** Amado, oro para que prosperes em todas as coisas, e tua saúde esteja tão próspera quanto a tua alma. ^v2
 
-**3** Porque muito me alegrei quando os irmãos vieram, e testificaram da tua verdade, como tu andas na verdade. ^v3
+**3** Pois alegrei-me muito quando vieram irmãos e testemunharam da tua verdade, de como andas na verdade. ^v3
 
-**4** Não tenho maior gozo do que este, o de ouvir que os meus filhos andam na verdade. ^v4
+**4** Eu não tenho alegria maior do que esta: ouvir que meus filhos andam na verdade. ^v4
 
-**5** Amado, procedes fielmente em tudo o que fazes para com os irmãos, e para com os estranhos, ^v5
+**5** Amado, tu praticas a fidelidade sempre que trabalhas a favor dos irmãos, mesmo quando são estrangeiros, ^v5
 
-**6** Que em presença da igreja testificaram do teu amor; aos quais, se conduzires como é digno para com Deus, bem farás; ^v6
+**6** os quais têm dado testemunho do teu amor perante a igreja. Farás bem, enviando-os para a sua viagem de modo digno de Deus, ^v6
 
-**7** Porque pelo seu Nome saíram, nada tomando dos gentios. ^v7
+**7** pois foi por causa do Nome que eles saíram, sem nada receber dos gentios. ^v7
 
-**8** Portanto, aos tais devemos receber, para que sejamos cooperadores da verdade. ^v8
+**8** Devemos, então, acolher os irmãos para que sejamos cooperadores da verdade. ^v8
 
-**9** Tenho escrito à igreja; mas Diótrefes, que procura ter entre eles o primado, não nos recebe. ^v9
+**9** Eu escrevi algo para a congregação, mas Diótrefes, que ama ser o primeiro entre eles, não nos recebe. ^v9
 
-**10** Por isso, se eu for, trarei à memória as obras que ele faz, proferindo contra nós palavras maliciosas; e, não contente com isto, não recebe os irmãos, e impede os que querem recebê-los, e os lança fora da igreja. ^v10
+**10** Por isso, se eu vier, recordarei das obras que ele pratica, pois ele propaga palavras más contra nós. E, não satisfeito com essas ações, o próprio Diótrefes não recebe os irmãos, e ainda proíbe aqueles que desejam fazê-lo, lançando-os fora da congregação. ^v10
 
-**11** Amado, não sigas o mal, mas o bem. Quem faz o bem é de Deus; mas quem faz o mal não tem visto a Deus. ^v11
+**11** Amado, não imites o mal, mas o bem. Aquele que pratica o bem é de Deus; aquele que pratica o mal não viu a Deus. ^v11
 
-**12** Todos dão testemunho de Demétrio, até a mesma verdade; e também nós testemunhamos; e vós bem sabeis que o nosso testemunho é verdadeiro. ^v12
+**12** Quanto a Demétrio, este recebe bom testemunho de todos, até da própria verdade. Nós também damos testemunho, e tu sabes que nosso testemunho é verdadeiro. ^v12
 
-**13** Tinha muito que escrever, mas não quero escrever-te com tinta e pena. ^v13
+**13** Eu tinha muitas coisas para te escrever, porém não desejo fazê-lo com pena e tinta. ^v13
 
-**14** Espero, porém, ver-te brevemente, e falaremos face a face. ^v14
+**14** Mas espero te ver em breve, e falaremos face a face. ^v14
 
-**15** Paz seja contigo. Os amigos te saúdam. Saúda os amigos por nome. ^v15
+**15** Paz seja contigo. Os amigos te saúdam. Saúdam os amigos, nome por nome. ^v15

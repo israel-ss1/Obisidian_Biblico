@@ -1,67 +1,66 @@
 ---
-Livro: "[[Fontes/Livros/Canon Bíblico/Jeremias|Jeremias]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Jeremias|Jeremias]]"
+tags: [biblia]
 ---
 
 # Jeremias 44
 
-**1** A palavra que veio a Jeremias, acerca de todos os judeus, habitantes da terra do Egito, que habitavam em Migdol, e em Tafnes, e em Nofe, e na terra de Patros, dizendo: ^v1
+**1** Esta é a palavra que veio a Jeremias, concernente aos judeus que viviam na terra do Egito, os que estavam em Migdol, Tafnes, Mênfis e na terra de Patros. ^v1
 
-**2** Assim diz o Senhor dos Exércitos, Deus de Israel: Vós vistes todo o mal que fiz vir sobre Jerusalém, e sobre todas as cidades de Judá; e eis que elas são hoje uma desolação, e ninguém habita nelas; ^v2
+**2** "Assim diz Yahweh dos Exércitos, Deus de Israel: ""Vós mesmos tendes visto todos os desastres que Eu trouxe sobre Jerusalém e sobre todas as cidades de Judá. Vede, elas hoje são ruínas. Não há ninguém que viva nelas." ^v2
 
-**3** Por causa da maldade que fizeram, para me irarem, indo queimar incenso, e servir a deuses estranhos, que nunca conheceram, nem eles, nem vós, nem vossos pais. ^v3
+**3** Isto é por causa das coisas iníquas que eles fizeram para Me ofenderem, queimando incenso e adorando outros deuses. Esses eram deuses que nem eles mesmos, nem vós, nem os vossos antepassados conhecestes. ^v3
 
-**4** E eu vos enviei todos os meus servos, os profetas, madrugando e enviando a dizer: Ora, não façais esta coisa abominável que odeio. ^v4
+**4** Então, repetidamente, enviei a eles todos os Meus servos, os profetas. Eu os enviei para dizer: 'Parem de fazer essas coisas abomináveis que Eu odeio.' ^v4
 
-**5** Mas eles não escutaram, nem inclinaram os seus ouvidos, para se converterem da sua maldade, para não queimarem incenso a outros deuses. ^v5
+**5** Mas eles não ouviram, recusaram-se a prestar atenção e não se converteram da sua iniquidade em queimar incenso a outros deuses. ^v5
 
-**6** Derramou-se, pois, a minha indignação e a minha ira, e acendeu-se nas cidades de Judá, e nas ruas de Jerusalém, e elas tornaram-se em deserto e em desolação, como hoje se vê. ^v6
+**6** "Então, a Minha fúria e a Minha ira se derramaram, acendendo uma fogueira nas cidades de Judá e nas ruas de Jerusalém, tornando-as em ruínas e devastações até o dia de hoje.""" ^v6
 
-**7** Agora, pois, assim diz o Senhor, Deus dos Exércitos, Deus de Israel: Por que fazeis vós tão grande mal contra as vossas almas, para vos desarraigardes, ao homem e à mulher, à criança e ao que mama, do meio de Judá, a fim de não deixardes remanescente algum; ^v7
+**7** "Agora, assim diz Yahweh, o Deus dos Exércitos, o Deus de Israel: ""Por que estais cometendo grandes iniquidades contra vós mesmos? Por que estais causando a exterminação de Judá, homens e mulheres, crianças e bebês? Nenhum remanescente restará." ^v7
 
-**8** Irando-me com as obras de vossas mãos, queimando incenso a deuses estranhos na terra do Egito, aonde vós entrastes para lá habitar; para que a vós mesmos vos desarraigueis, e para que sirvais de maldição, e de opróbrio entre todas as nações da terra? ^v8
+**8** Pela vossa iniquidade tens Me ofendido com as obras de vossas mãos, ao queimardes incenso a outros deuses na terra do Egito, onde vivestes. Fostes para lá para serdes destruídos, então, sereis uma maldição e um opróbrio entre todas as nações da terra. ^v8
 
-**9** Esquecestes já as maldades de vossos pais, e as maldades dos reis de Judá, e as maldades de suas mulheres, e as vossas maldades, e as maldades de vossas mulheres, que cometeram na terra de Judá, e nas ruas de Jerusalém? ^v9
+**9** Esquecestes das iniquidades cometidas por vossos antepassados e as iniquidades cometidas pelos reis de Judá e suas esposas? Esquecestes das maldades cometidas por vós mesmos e vossas esposas nas terras de Judá e nas ruas de Jerusalém? ^v9
 
-**10** Não se humilharam até ao dia de hoje, nem temeram, nem andaram na minha lei, nem nos meus estatutos, que pus diante de vós e diante de vossos pais. ^v10
+**10** "Até hoje, eles ainda não se humilharam. Eles não honraram a Minha lei e o decreto que Eu estabeleci diante deles e de seus antepassados, e também não andaram neles.""" ^v10
 
-**11** Portanto assim diz o Senhor dos Exércitos, Deus de Israel: Eis que eu ponho o meu rosto contra vós para mal, e para desarraigar a todo o Judá. ^v11
+**11** Portanto, assim diz Yahweh dos Exércitos, Deus de Israel: Vede, Eu estou a ponto de virar a Minha face contra vós e vos trazer desastre para destruir todos de Judá. ^v11
 
-**12** E tomarei os que restam de Judá, os quais puseram os seus rostos para entrarem na terra do Egito, para lá habitar e todos eles serão consumidos na terra do Egito; cairão à espada, e de fome morrerão; consumir-se-ão, desde o menor até ao maior; à espada e de fome morrerão; e servirão de execração, e de espanto, e de maldição, e de opróbrio. ^v12
+**12** Removerei o remanescente de Judá que decidiu ir à terra do Egito para viver lá. Eu farei isso, de modo que todos eles perecerão na terra do Egito. Eles cairão pela espada e pela fome. Do menor ao maior, eles perecerão pela espada e pela fome. Eles morrerão e se tornarão objeto de blasfêmia, maldição, opróbrio e uma coisa horrível. ^v12
 
-**13** Porque castigarei os que habitam na terra do Egito, como castiguei Jerusalém, com a espada, com a fome e com a peste. ^v13
+**13** Eu castigarei o povo que habita na terra do Egito, assim como Eu puni Jerusalém com a Minha espada, com a fome e com a praga. ^v13
 
-**14** De maneira que da parte remanescente de Judá, que entrou na terra do Egito, para lá habitar, não haverá quem escape e fique para tornar à terra de Judá, à qual eles suspiram voltar para nela morar; porém não tornarão senão uns fugitivos. ^v14
+**14** "Nenhum fugitivo ou sobrevivente dos remanescentes de Judá que foram viver na terra do Egito retornarão para a terra de Judá, mesmo que queiram voltar a viver lá. Nenhum deles retornará, com exceção dos poucos que escaparão.""" ^v14
 
-**15** Então responderam a Jeremias todos os homens que sabiam que suas mulheres queimavam incenso a deuses estranhos, e todas as mulheres que estavam presentes em grande multidão, como também todo o povo que habitava na terra do Egito, em Patros, dizendo: ^v15
+**15** Então, todos os homens que sabiam que suas esposas queimavam incenso a outros deuses, e todas as mulheres que estavam na grande assembleia, e todo o povo que estava vivendo na terra do Egito, em Patros, responderam a Jeremias, ^v15
 
-**16** Quanto à palavra que nos anunciaste em nome do Senhor, não obedeceremos a ti; ^v16
+**16** "dizendo: ""Sobre a palavra que falaste em nome de Yahweh, nós não te ouviremos." ^v16
 
-**17** Mas certamente cumpriremos toda a palavra que saiu da nossa boca, queimando incenso à rainha dos céus, e oferecendo-lhe libações, como nós e nossos pais, nossos reis e nossos príncipes, temos feito, nas cidades de Judá, e nas ruas de Jerusalém; e então tínhamos fartura de pão, e andávamos alegres, e não víamos mal algum. ^v17
+**17** Certamente, faremos todas as coisas que dissemos que faríamos: queimar incenso para a Rainha dos Céus e derramar libações para ela, assim como os nossos antepassados, nossos reis e nossos líderes fizeram nas cidades de Judá e nas ruas de Jerusalém. Então, seremos fartos com comida e prosperaremos, sem experimentar nenhum desastre. ^v17
 
-**18** Mas desde que cessamos de queimar incenso à rainha dos céus, e de lhe oferecer libações, tivemos falta de tudo, e fomos consumidos pela espada e pela fome. ^v18
+**18** "Quando nos abstivemos de fazer estas coisas, de oferecer incenso à Rainha dos Céus e derramar ofertas de libações para ela, todos sofremos com a pobreza e estávamos morrendo pela espada e pela fome.""" ^v18
 
-**19** E quando nós queimávamos incenso à rainha dos céus, e lhe oferecíamos libações, acaso lhe fizemos bolos, para a adorar, e oferecemos-lhe libações sem nossos maridos? ^v19
+**19** "As mulheres disseram: ""Quando estávamos ofertando incenso diante da Rainha dos Céus e derramando ofertas de libações para ela, acaso foi contra a vontade de nossos maridos que fizemos essas coisas, fazendo bolos à sua imagem e derramando oferendas de libações para ela?""" ^v19
 
-**20** Então disse Jeremias a todo o povo, aos homens e às mulheres, e a todo o povo que lhe havia dado esta resposta, dizendo: ^v20
+**20** Então, Jeremias disse a todo o povo, aos homens e às mulheres, e a todas as pessoas que lhe responderam, proclamando: ^v20
 
-**21** Porventura não se lembrou o Senhor, e não lhe veio ao coração o incenso que queimastes nas cidades de Judá e nas ruas de Jerusalém, vós e vossos pais, vossos reis e vossos príncipes, como também o povo da terra? ^v21
+**21** """Yahweh não se lembraria dos incensos que vós queimastes nas cidades de Judá e nas ruas de Jerusalém, vós e vossos antepassados, vossos reis, vossos líderes e o povo dessa terra? Pois o Senhor chama isso à memória e isso vem aos Seus pensamentos." ^v21
 
-**22** De maneira que o Senhor não podia por mais tempo sofrer a maldade das vossas ações, as abominações que cometestes; por isso se tornou a vossa terra em desolação, e em espanto, e em maldição, sem habitantes, como hoje se vê. ^v22
+**22** Ele não poderia mais suportar isso, por causa das vossas práticas iníquas e das abominações que cometestes. Por isso, a vossa terra tornou-se uma desolação, um horror, e uma maldição; por causa disso, não há nenhum habitante até os dias de hoje. ^v22
 
-**23** Porque queimastes incenso, e porque pecastes contra o Senhor, e não obedecestes à voz do Senhor, e na sua lei, e nos seus testemunhos não andastes, por isso vos sucedeu este mal, como se vê neste dia. ^v23
+**23** "Porque vós queimastes incenso, pecastes contra Yahweh e não quisestes ouvir à Sua voz, Sua lei, Seus estatutos e os decretos da Sua aliança. Este desastre tem acontecido contra vós, até os dias de hoje.""" ^v23
 
-**24** Disse mais Jeremias a todo o povo e a todas as mulheres: Ouvi a palavra do Senhor, vós, todo o Judá, que estais na terra do Egito. ^v24
+**24** "Jeremias, disse a todo o povo e a todas as mulheres: ""Ouvi a palavra de Yahweh, todos de Judá que estão na terra do Egito." ^v24
 
-**25** Assim fala o Senhor dos Exércitos, Deus de Israel, dizendo: Vós e vossas mulheres não somente falastes por vossa boca, senão também o cumpristes por vossas mãos, dizendo: Certamente cumpriremos os nossos votos que fizemos de queimar incenso à rainha dos céus e de lhe oferecer libações; confirmai, pois, os vossos votos, e perfeitamente cumpri-os. ^v25
+**25** Assim diz Yahweh dos Exércitos, Deus de Israel: 'Vós e as vossas esposas falastes com as bocas e cumpristes com as mãos, dizendo: Certamente cumpriremos os votos que fizemos de adorar à Rainha dos Céus e derramar ofertas de libações a ela. Agora, fazei o que prometestes, cumpri os vossos votos. ^v25
 
-**26** Portanto ouvi a palavra do SENHOR, todo o Judá, que habitais na terra do Egito: Eis que eu juro pelo meu grande nome, diz o SENHOR, que nunca mais será pronunciado o meu nome pela boca de nenhum homem de Judá em toda a terra do Egito dizendo: Vive o Senhor DEUS! ^v26
+**26** Agora, ouvi a palavra de Yahweh, todos de Judá que habitais na terra do Egito: Vede, Eu tenho jurado pelo Meu grande nome, diz Yahweh. Meu nome não será chamado pela boca de qualquer um dos homens de Judá em toda a terra do Egito, vós que agora dizeis: assim como o Senhor Yahweh vive. ^v26
 
-**27** Eis que velarei sobre eles para mal, e não para bem; e serão consumidos todos os homens de Judá, que estão na terra do Egito, pela espada e pela fome, até que de todo se acabem. ^v27
+**27** Vede, Eu estou vos vigiando para o desastre e não para o bem. Cada pessoa de Judá na terra do Egito perecerá pela espada e pela fome até que todos sejam consumidos. ^v27
 
-**28** E os que escaparem da espada voltarão da terra do Egito à terra de Judá, poucos em número; e todo o restante de Judá, que entrou na terra do Egito, para habitar ali, saberá se subsistirá a minha palavra ou a sua. ^v28
+**28** Então, os sobreviventes da espada retornarão da terra do Egito para a terra de Judá, apenas um pequeno número deles. Todos os remanescentes de Judá que foram à terra do Egito para viverem lá saberão qual a palavra que se tornará realidade: a Minha ou a deles. ^v28
 
-**29** E isto vos servirá de sinal, diz o Senhor, que eu vos castigarei neste lugar, para que saibais que certamente subsistirão as minhas palavras contra vós para mal. ^v29
+**29** Este será o sinal para vós – esta é a declaração de Yahweh – Eu vos castigarei neste lugar. Certamente, sabereis que as Minhas palavras virão contra vós com desastre. ^v29
 
-**30** Assim diz o SENHOR: Eis que eu darei Faraó-Hofra, rei do Egito, na mão de seus inimigos, e na mão dos que procuram a sua morte; como entreguei Zedequias, rei de Judá, na mão de Nabucodonosor, rei de babilônia, seu inimigo, e que procurava a sua morte. ^v30
+**30** "Assim diz Yahweh: Vede, Eu estou prestes a entregar Faraó Hofra, rei do Egito, nas mãos dos seus inimigos e daqueles que o perseguem. E será como Eu entreguei a Zedequias, rei de Judá, nas mãos de Nabucodonosor, rei da Babilônia, seu inimigo que procurava matá-lo.""" ^v30

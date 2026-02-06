@@ -1,23 +1,20 @@
 ---
-Livro: "[[Salmos|Salmos]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Salmos|Salmos]]"
+tags: [biblia]
 ---
 
 # Salmos 3
 
-**1** Senhor, como se têm multiplicado os meus adversários! São muitos os que se levantam contra mim. ^v1
+**2** "Muitos dizem a meu respeito: ""Deus não o ajudará."" [Interlúdio]" ^v2
 
-**2** Muitos dizem da minha alma: Não há salvação para ele em Deus. (Selá.) ^v2
+**3** Mas Tu, Yahweh, és um escudo em volta de mim, és a minha glória e Quem me ergue a cabeça. ^v3
 
-**3** Porém tu, Senhor, és um escudo para mim, a minha glória, e o que exalta a minha cabeça. ^v3
+**4** Levanto a voz para Yahweh, e Ele me responde do Seu santo monte. [Interlúdio] ^v4
 
-**4** Com a minha voz clamei ao Senhor, e ouviu-me desde o seu santo monte. (Selá.) ^v4
+**5** Eu deito e durmo; acordo, pois Yahweh me sustém. ^v5
 
-**5** Eu me deitei e dormi; acordei, porque o Senhor me sustentou. ^v5
+**6** Não temerei as multidões que se levantaram contra mim por todos os lados. ^v6
 
-**6** Não temerei dez milhares de pessoas que se puseram contra mim e me cercam. ^v6
+**7** Levanta, Yahweh! Salva-me, meu Deus! Pois Tu acertarás o maxilar de todos os meus inimigos; Tu quebrarás os dentes dos perversos. ^v7
 
-**7** Levanta-te, Senhor; salva-me, Deus meu; pois feriste a todos os meus inimigos nos queixos; quebraste os dentes aos ímpios. ^v7
-
-**8** A salvação vem do Senhor; sobre o teu povo seja a tua bênção. (Selá.) ^v8
+**8** A salvação vem de Yahweh. Que Tuas bênçãos estejam sobre o Teu povo. [Interlúdio] ^v8

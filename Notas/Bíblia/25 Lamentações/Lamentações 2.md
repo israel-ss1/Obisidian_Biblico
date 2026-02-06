@@ -1,51 +1,50 @@
 ---
-Livro: "[[Lamentações|Lamentações]]"
-tags:
-  - biblia
+Livro: "[[Fontes/Livros/Lamentações|Lamentações]]"
+tags: [biblia]
 ---
 
 # Lamentações 2
 
-**1** Como cobriu o Senhor de nuvens na sua ira a filha de Sião! Derrubou do céu à terra a glória de Israel, e não se lembrou do escabelo de seus pés, no dia da sua ira. ^v1
+**1** O Senhor cobriu a filha de Sião com a nuvem de Sua ira! Ele já lançou a beleza de Israel do céu para a terra e não se lembrou do estrado dos seus pés no dia da Sua ira. ^v1
 
-**2** Devorou o Senhor todas as moradas de Jacó, e não se apiedou; derrubou no seu furor as fortalezas da filha de Judá, e abateu-as até à terra; profanou o reino e os seus príncipes. ^v2
+**2** O Senhor engoliu e não teve compaixão de nenhuma de todas as cidades de Jacó. Nos dias de Sua ira, Ele lançou à terra as cidades fortificadas da filha de Judá; em desonra, Ele lançou ao chão o reino e os seus príncipes. ^v2
 
-**3** No furor da sua ira cortou toda a força de Israel; retirou para trás a sua destra de diante do inimigo; e ardeu contra Jacó, como labareda de fogo que consome em redor. ^v3
+**3** No furor da Sua, ira Ele eliminou a força de Israel. Ele já retirou a Sua mão direita da frente do inimigo. Ele queimou a Jacó como o fogo ardente queima tudo à sua volta. ^v3
 
-**4** Armou o seu arco como inimigo, firmou a sua destra como adversário, e matou tudo o que era formoso à vista; derramou a sua indignação como fogo na tenda da filha de Sião. ^v4
+**4** Ele tem amarrado Seu arco para nós como um inimigo. Ele firmou a Sua destra como um adversário com mãos prontas para disparar. Ele já abateu todas as pessoas muito preciosas aos Seus olhos. Na tenda da filha de Sião, lançou o Seu furor como fogo. ^v4
 
-**5** Tornou-se o Senhor como inimigo; devorou a Israel, devorou a todos os seus palácios, destruiu as suas fortalezas; e multiplicou na filha de Judá a lamentação e a tristeza. ^v5
+**5** O Senhor tornou-Se como um inimigo. Ele engoliu Israel. Já engoliu todos os seus palácios. Destruiu as suas fortalezas. Já aumentou o pranto e a lamentação para a filha de Judá. ^v5
 
-**6** E arrancou o seu tabernáculo com violência, como se fosse o de uma horta; destruiu o lugar da sua congregação; o Senhor, em Sião, pôs em esquecimento a festa solene e o sábado, e na indignação da sua ira rejeitou com desprezo o rei e o sacerdote. ^v6
+**6** Ele atacou o Seu tabernáculo como se fosse uma cabana de jardim. Destruiu o lugar da congregação solene. Yahweh fez com que as congregações solenes e sábados fossem esquecidos em Sião, porque Ele desprezou tanto reis como sacerdotes, na indignação da Sua ira. ^v6
 
-**7** Rejeitou o Senhor o seu altar, detestou o seu santuário; entregou na mão do inimigo os muros dos seus palácios; deram gritos na casa do Senhor, como em dia de festa solene. ^v7
+**7** O Senhor rejeitou o Seu altar; Ele detestou o Seu santuário. Deu os muros do palácio nas mãos do inimigo. Estes deram um grito de vitória na casa de Yahweh, como se fosse um dia de festa solene. ^v7
 
-**8** Intentou o Senhor destruir o muro da filha de Sião; estendeu o cordel sobre ele, não retirou a sua mão destruidora; fez gemer o antemuro e o muro; estão eles juntamente enfraquecidos. ^v8
+**8** Yahweh decidiu deliberadamente destruir os muros da cidade da filha de Sião. Ele esticou uma linha de medir e não deteve Sua mão destruidora. E já fez as muralhas de lamento e as paredes se tornarem frágeis. ^v8
 
-**9** As suas portas caíram por terra; ele destruiu e quebrou os seus ferrolhos; o seu rei e os seus príncipes estão entre os gentios, onde não há lei, nem os seus profetas acham visão alguma do Senhor. ^v9
+**9** Os portões dela afundaram na terra; Ele já destruiu e quebrou os seus ferrolhos. O rei e os príncipes dela estão no meio dos gentios, onde não há mais lei, e seus profetas não encontram as visões de Yahweh. ^v9
 
-**10** Estão sentados na terra, silenciosos os anciãos da filha de Sião; lançam pó sobre as suas cabeças, cingiram sacos; as virgens de Jerusalém abaixam as suas cabeças até à terra. ^v10
+**10** Os anciãos da filha de Sião se sentam no chão e choram silenciosamente. Eles atiraram terra em suas cabeças e se vestiram de sacos. As virgens de Jerusalém abaixam suas cabeças para o chão. ^v10
 
-**11** Já se consumiram os meus olhos com lágrimas, turbadas estão as minhas entranhas, o meu fígado se derramou pela terra por causa do quebrantamento da filha do meu povo; pois desfalecem o menino e a criança de peito pelas ruas da cidade. ^v11
+**11** Acabaram-se as lágrimas dos meus olhos; meu estômago está roncando; meu íntimo se derrama até o chão, por causa da destruição da filha do meu povo, porque os meninos e as crianças de peito desfalecem nas estradas das aldeias. ^v11
 
-**12** Ao desfalecerem, como feridos, pelas ruas da cidade, ao exalarem as suas almas no regaço de suas mães, perguntam a elas: Onde está o trigo e o vinho? ^v12
+**12** "Eles dizem para suas mães: ""Onde está o pão e o vinho?"", desmaiando como homens feridos nas estradas da cidade, suas vidas caindo no colo das suas mães." ^v12
 
-**13** Que testemunho te trarei? A quem te compararei, ó filha de Jerusalém? A quem te assemelharei, para te consolar, ó virgem filha de Sião? Porque grande como o mar é a tua quebradura; quem te sarará? ^v13
+**13** O que eu posso dizer sobre ti, filha de Jerusalém? A quem te assemelharei para confortar a ti, filha virgem de Sião? A tua ferida é grande como o mar. Quem pode te curar? ^v13
 
-**14** Os teus profetas viram para ti, vaidade e loucura, e não manifestaram a tua maldade, para impedirem o teu cativeiro; mas viram para ti cargas vãs e motivos de expulsão. ^v14
+**14** Teus profetas viram mentiras tolas e visões para ti. Eles não revelaram a tua iniquidade para restaurar a tua sorte, mas ouviram oráculos enganadores e tentações para ti. ^v14
 
-**15** Todos os que passam pelo caminho batem palmas, assobiam e meneiam as suas cabeças sobre a filha de Jerusalém, dizendo: É esta a cidade que denominavam: perfeita em formosura, gozo de toda a terra? ^v15
+**15** "Todos aqueles que passam pela estrada batem palmas para ti. Eles assobiam, agitam a cabeça contra a filha de Jerusalém e dizem: ""É esta a cidade que chamaram 'A Perfeição da Beleza', 'A Alegria de Toda a Terra'?""." ^v15
 
-**16** Todos os teus inimigos abrem as suas bocas contra ti, assobiam, e rangem os dentes; dizem: Devoramo-la; certamente este é o dia que esperávamos; achamo-lo, vimo-lo. ^v16
+**16** "Todos os teus inimigos abrem a boca contra ti e zombam de ti. Eles assobiam, rangem os dentes e dizem: ""Nós já a engolimos! Certamente este é o dia que esperávamos! Nós já o encontramos! Nós já o vimos!""." ^v16
 
-**17** Fez o Senhor o que intentou; cumpriu a sua palavra, que ordenou desde os dias da antiguidade; derrubou, e não se apiedou; fez que o inimigo se alegrasse por tua causa, exaltou o poder dos teus adversários. ^v17
+**17** Yahweh já fez o que havia decidido. Ele cumpriu a Sua palavra. Já te derrubou sem compaixão, porque Ele permitiu o inimigo se alegrar sobre ti e elevou o poder dos teus adversários. ^v17
 
-**18** O coração deles clamou ao Senhor: Ó muralha da filha de Sião, corram as tuas lágrimas como um ribeiro, de dia e de noite; não te dês descanso, nem parem as meninas de teus olhos. ^v18
+**18** Os corações deles clamam ao Senhor, muralhas da filha de Sião! Deixai as lágrimas caírem como um rio, dia e noite. Não te dês alívio. Não pares de secar as lágrimas dos teus olhos. ^v18
 
-**19** Levanta-te, clama de noite no princípio das vigias; derrama o teu coração como águas diante da presença do Senhor; levanta a ele as tuas mãos, pela vida de teus filhinhos, que desfalecem de fome à entrada de todas as ruas. ^v19
+**19** "Levanta e chora alto na noite; no princípio das horas, derrama como água o teu coração diante da face do Senhor. Levanta as tuas mãos a Ele pela vida dos teus filhos, que desfalecem de fome nas entradas de todas as ruas.""" ^v19
 
-**20** Vê, ó Senhor, e considera a quem fizeste assim! Hão de comer as mulheres o fruto de si mesmas, as crianças que trazem nos braços? Ou matar-se-á no santuário do Senhor o sacerdote e o profeta? ^v20
+**20** Vê, Yahweh, e lembra-Te daqueles a quem tens tratado severamente. Poderão as mulheres comer o fruto de seus ventres, as crianças que elas cuidaram? Poderão o sacerdote e o profeta ser abatidos no santuário do Senhor? ^v20
 
-**21** Jazem por terra pelas ruas o moço e o velho, as minhas virgens e os meus jovens vieram a cair à espada; tu os mataste no dia da tua ira; mataste e não te apiedaste. ^v21
+**21** Jazem juntamente o moço e o velho nas terras e nas ruas. Minhas virgens e meus homens vigorosos caíram pela espada. Tu os abateste no dia da Tua ira. Tu os mataste impiedosamente e não mostraste compaixão. ^v21
 
-**22** Convocaste os meus temores em redor como num dia de solenidade; não houve no dia da ira do Senhor quem escapasse, ou ficasse; aqueles que eu trouxe nas mãos e sustentei, o meu inimigo os consumiu. ^v22
+**22** Tu tens chamado os meus terrores ao redor como chamarias o povo para uma festa solene; não houve quem escapasse, ou sobrevivesse no dia da ira de Yahweh. Aqueles que eu alimentei e criei meu inimigo destruiu. ^v22
